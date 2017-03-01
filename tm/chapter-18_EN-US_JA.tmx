@@ -1,0 +1,1945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Menu Button | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Menu Button</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>メニューボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sometimes we hide menus away (like the navigation regions of the last chapter), putting the content center stage.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>コンテンツを引き立てるために、（前の章のナビゲーション領域のような）メニューをあえて隠すこともあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Revealing the menu should be at the user’s discretion, so we provide a button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>その場合は、ユーザーが好きなときにメニューを表示できるように、ボタンを用意します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Were menu buttons straightforward and uncontroversial, I could have folded this pattern into the last one, but, alas, there are a number of challenges and concerns to address: the method of rendering the menu icon; how to make it easily intelligible; how to label it accessibly; the communication of open and closed menu states; the ergonomics of touch operation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>メニューボタンが単純明快で議論の余地がないなら、前章のパターンに含めてしまうこともできました。しかし残念ながら、そうはいきません。メニューアイコンの表示方法、どうすれば分かりやすいボタンにできるか、アクセシブルなラベルの付け方、メニューの状態（開いている／閉じている）の伝え方、タッチ操作の人間工学的側面など、対処しなければならない課題や懸念事項がたくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All these things have to be taken into account.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>こうしたことすべてを考慮に入れなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First of all, though, it needs to be stated that — like drop-down menus — if you don’t need a menu button, don’t involve one.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>しかし最初に言っておきますが、ドロップダウンメニュー同様、メニューボタンも必要がなければ使わないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As a rule of thumb, if the menu has fewer than five items, just lay them out; make them available to the user at all times.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>経験から言うと、メニュー項目が5つに満たない場合は、単純に項目を並べて、ユーザーがいつでも使えるようにすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In desktop viewports, there’s rarely any reason to hide a navigation menu away, regardless of the number of items it contains.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>また、デスクトップのビューポートの場合は、項目の数にかかわらず、ナビゲーションメニューを隠さなければならない理由はほとんどありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hiding functionality away from users and requiring them to perform an additional action to reveal that functionality is always a last resort.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>機能を隠して、ユーザーがわざわざ操作しないと表示されないようにするのは、常に最後の手段です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If only a few menu items are needed, the menu button is a solution to a problem that does not exist.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>必要なメニュー項目がほんの数個であれば、？？問題はないのでメニューボタンを使う必要はありません。？？【コメント：意訳しています。原文「the menu button is a solution to a problem that does not exist.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Louie A points out in “Why and How to Avoid Hamburger Menus1” that foregoing the button is often a question of information architecture.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ルイ・A（Louie A）は「Why and How to Avoid Hamburger Menus」（脚注98）の中で、？？情報アーキテクチャを見直せばボタンの使用を控えることができる場合が多いと指摘しています。？？【コメント：意訳しています。原文「foregoing the button is often a question of information architecture.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nonetheless, not all applications are reducible to only a handful of views or actions and, since menu buttons are close to ubiquitous, we should formulate an inclusive implementation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>とはいえ、すべてのアプリケーションのビューやアクションの数を減らせるわけではありません。また、メニューボタンはあちこちに使われるものなので、インクルーシブな実装パターンを考える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>外観</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is well established that iconography can improve and accelerate comprehension for sighted users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>イコノグラフィーが晴眼ユーザーの理解を高め、早めることはよく知られています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To pick just one study, “Icons Improve Older and Younger Adults’ Comprehension of Medication Information2” (PDF) found that medication dosage and routine were more quickly understood when icons were used to represent the salient information.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>その一例として、「Icons Improve Older and Younger Adults Comprehension of Medication Information」（PDF）（脚注99）の研究では、重要な情報を表すのにアイコンを使用したところ、薬の用法・用量に対する理解が早まったという結果が報告されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A non-textual mode of communication also crosses language barriers, helping to internationalize an interface, and assists those with poor literacy.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>また、文字を使わないコミュニケーションは言葉の壁を乗り越えてインターフェイスの国際化を助長し、さらには読み書きが得意でない人の手助けもしてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A smiley face symbol with the word “happy” in lots of different languages.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>うれしい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A smiley face says “happy” to more people than any one language can manage.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>言葉よりも、にっこり笑った顔の方が「うれしい」気持ちがより伝わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some icons are more intelligible than others and that’s a question of their place within a sign system3.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>分かりやすいアイコンもあれば分かりづらいアイコンもあり、分かりやすさはそのアイコンの記号体系（脚注100）における位置づけによって決まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the “Navigation Regions” pattern we acknowledged the ubiquity of lists being used to enumerate navigation options.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>「ナビゲーション領域」のパターンでは、ナビゲーションのオプションを列挙する目的でリストが広く使われていることを確認しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since the three-line (☰) hamburger icon or navicon is a co-opted list icon, it is meaningful based on our knowledge of lists and their relationship to navigation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>3本線（☰）のいわゆるハンバーガーアイコン（ナビコン）はリストを模したアイコンですが、私たちがリストや、リストとナビゲーションの関連性について知っているからこそ意味をなします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With that in mind, the icon should be fairly widely understood.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>そう考えると、アイコンは広く誰にでも理解できるものでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This rather depends, though, on the menu that’s being revealed actually having the appearance of a list.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>とは言え、これは実際に表示されるメニューのリストの見た目にもよります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Making list items bear the same shape and background color as the horizontal strips in the icon itself makes the icon truly iconic (representative by physical approximation).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>リストの項目の形や背景色をアイコンの横縞と同じにすれば、物理的な外観が似ているという意味で真の「アイコン」になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As always, convention is a friend to inclusion, so extrapolating on the the classic three-line symbol by adding lines or changing line orientation is to be avoided.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ただし、慣習がインクルーシブデザインを助けてくれるのはどんな場合でも同じなので、線を足したり向きを変えるなどして基本の3本線の記号に手を加えることはやめましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Leave creativity to the bad designers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>「独創性はできの悪いデザイナーに任せましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is not the place to do something different.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>人と違うことをすれば良いというわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If a convention exists, use it.” – Mark Boulton, “Icons, Symbols and a semiotic Web4”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>慣習があるなら、それを使うべきです」
+— マーク・ボルトン（Mark Boulton）「Icons, Symbols and a semiotic Web」（脚注101）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not everyone will see navigation when looking at something as pictorially reductive as three horizontal lines, and James Foster’s research5 ratifies this assumption.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>しかし、シンプルな絵で表現された3本線のアイコンを見たすべての人が、必ずしもナビゲーションを想像するとは限りません。このことはジェームズ・フォスター（James Foster）の研究（脚注102）でも認められています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In A/B testing he found that the icon accompanied by the text “menu” was better understood.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>まず、アイコンに「メニュー」という文字をプラスすると、より理解が増すことがA/Bテストで分かりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He also found that menu buttons with a button-like shape (thanks to a bordered outline) were more apprehensible.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>また、メニューのボタンをそれらしい形にした方が（つまり、枠で囲んだ方が）理解されやすいことも判明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In general, all the buttons in your interface should look like buttons, otherwise they lose perceived affordance6: the appearance that they can be used.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>一般的に、インターフェイスのすべてのボタンはボタンらしく見えるべきです。そうでないと、「知覚されたアフォーダンス」（脚注103）に欠けるボタン、つまり実際に使えるように見えないボタンになってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Perceived affordance is a cornerstone of cognitive accessibility for interaction design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>この知覚されたアフォーダンスは、インタラクションデザインにおける認知障害に関するアクセシビリティの要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A menu icon with the text “MENU” next to the same control but with an outline around the icon and text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By drawing a perimeter line around the icon and text of the control it appears as a button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>コントロールのアイコンとテキストの周りを線で囲むことでボタンらしく見えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By having the icon and the “menu” text present, we accelerate the comprehension of well-versed mobile interface users, without alienating relative newcomers: a win for usability and a win for inclusivity.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>さらにアイコンに「メニュー」という文字をプラスすれば、モバイルインターフェイスに慣れていない初心者ユーザーを遠ざけることなく、ベテランユーザーの理解も加速させることができ、ユーザビリティとインクルーシビティの両方を実現できるというわけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rendering The Icon</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>アイコンの表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You’d be forgiven for thinking you were spoiled for choice when it comes to rendering the icon: image tag; background image; Unicode character; icon font character; SVG — take your pick!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>？？イメージタグ、背景画像、Unicode文字、アイコンフォント、SVG。アイコンの表示方法は選択肢が多すぎて選ぶのに目移りしてしまいそうですか？しかしそれは思い違いです。？？【コメント：意訳しています。原文「You'd be forgiven for thinking you were spoiled for choice when it comes to rendering the icon: image tag; background image; Unicode character; icon font character; SVG - take your pick!Except, don’t.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Except, don’t.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>これらの選択肢のすべてが、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not all of these options are as robust and inclusive as you might suppose.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>皆さんが思うほど堅牢でインクルーシブだとは限りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s look at some of the pros and cons for each.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>では、それぞれの良い点と悪い点を見ていきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Background Image</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>背景画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now that background images can be scaled using the background-size property, their viability in responsive design has improved.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>background-sizeプロパティを使って背景画像のサイズを変えられるようになったおかげで、レスポンシブデザインにおける背景画像の有用性は向上しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, as you may recall from the &lt;button&gt; example in the introduction, background images are eliminated when users switch into Windows’ high contrast mode7.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>しかし、「はじめに」の&lt;button&gt;の例でも学んだように、ユーザーがWindowsのハイコントラストモード（脚注104）に切り替えると背景画像は表示されなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If we provide the “menu” text (which will have its color inverted by high contrast mode to still be readable against an inverted background color) this isn’t a deal breaker.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>そこで「メニュー」というテキストをプラスすれば、問題を回避できます（ハイコントラストモードで背景色が反転しても、テキストの色も反転するため読めます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But without the additional text, the button has no visual presence at all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>テキストがないと、ボタンはまったく見えない、つまり視覚的には存在しないことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Image</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A .png image which defines three black lines separated by transparent spaces has a similar issue: when the background becomes black, you get three black lines on a black background.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>3本の黒い線と透明のスペースからなる.png画像の場合も同じような問題があります。つまり、背景を黒にすると、黒い背景に黒い3本線となってしまうのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can, of course, provide a white, rather than transparent, background for your icon, but on a black background this becomes three black stripes in a white box, which is a slightly different proposition.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>もちろん、アイコンの背景を透明ではなく白にするという方法も考えられますが、そうすると背景を黒にしたときに、今度は白いボックスの中に3本の黒い横縞が描かれることになり、意図したものと少し違ってきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The appearance of the menu icon with a white background when displayed on a white versus a black page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Encapsulated in white, on the high contrast mode’s black background, the icon appears differently and seems separate from the text label of “menu.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ハイコントラストモードの黒背景では白で囲まれたアイコンは別物に見えてしまう上に、「メニュー」というテキストとも分離して見えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Glyph from an Icon Font</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>アイコンフォントのグリフ（記号、絵文字）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fortunately, icon fonts are text, so they behave like text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>幸い、アイコンフォントはテキストなので、テキストと同じように動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When high contrast mode inverts the color of the “menu” text, it will also invert the color of the icon.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ハイコントラストモードで「メニュー」というテキストの色が反転すると、アイコンの色も反転します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Another advantage is that icon fonts scale without degradation, much like SVG.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>また、SVG同様、拡大／縮小しても画質が劣化しないというメリットもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Icon fonts become problematic when users choose their own fonts for web pages, as described by Seren D in “Death To Icon Fonts8.” It’s important for inclusion to allow users to choose fonts which they are comfortable reading, especially if they experience difficulty with dyslexia.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ただし、セレン・D（Seren D）の「Death To Icon Fonts」（脚注105）にも書かれているように、アイコンフォントは、Webページのフォントをユーザーが自分で選んだ場合に問題が生じます。インクルーシブデザインを目指すなら、それぞれのユーザー（特にディスレクシアのような識字障害を持つユーザー）が読みやすいフォントを選べるようにすることが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Your style sheets should be sensitive to this preference.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>したがって、スタイルシートもこの選択に配慮しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The problem comes when the user-defined font does not support the characters used for the icons, and leaves generic “Glyph not defined” boxes in their place.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ユーザーが指定したフォントが、アイコンに使われている文字をサポートしていない場合は、代わりに「グリフが定義されていない」ことを意味する例のボックスが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The menu button with the rectangular glyph-not-defined icon in place of the three bar menu icon.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>よく見かける長方形のボックスは、対象のグリフがサポートされていないことを示す、いわゆるフォールバックです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The familiar rectangular box indicates a glyph that is not supported and constitutes a fallback.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As with any web font, an icon font is a resource which may be blocked.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>Webフォント同様、アイコンフォントもリソースなので、ブロックされることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This will result in the generic-boxes-all-over-the-place effect.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>その場合は、あちこちに例のボックスが表示されることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Opera Mini doesn’t load web fonts as a matter of course.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>当然ながら、Opera MiniではWebフォントは読み込まれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is workable where there are fallback system fonts defined, but icon fonts tend to use esoteric Unicode points which have no equivalent in normal system fonts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>フォールバック用のシステムフォントが定義されていれば対処できるのですが、アイコンフォントにはたいてい？？特殊なUnicodeコードポイント（符号位置）？？が使用されており、一般的なシステムフォントには相当するものがありません。【コメント：この解釈で問題ないでしょうか。原文「esoteric Unicode points」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bruce Lawson of Opera has a great article on “Making websites that work well on Opera Mini9.” Successful Opera Mini support is a good litmus test of high performance.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>Operaのブルース・ローソン（Bruce Lawson）の記事「Making websites that work well on Opera Mini」（脚注106）が非常に参考になります。Opera Miniでうまく表示されれば、パフォーマンスに優れたページであることを示す指標となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Zach Leatherman of Filament Group writes that sometimes operating systems do use Unicode’s private use area10, but for their own purposes.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>また、Filament Groupのザック・レザーマン（Zach Leatherman）によると、？？中にはUnicodeのPUA（私用領域）（脚注107）を勝手に使ってしまうオペレーティングシステムもあるようです。？？【コメント：多少意訳しています。原文「sometimes operating systems do use Unicode’s private use area,107 but for their own purposes.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In practice, this means our menu icon font could fail to load and fall back to displaying a cat’s face.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>これはつまり、私たちが作ったメニューのアイコンフォントが正しく読み込まれず、代わりに猫の顔が表示されてしまう可能性もあるということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I imagine this might have a negative impact on cognition.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>この問題はきっと認知面のマイナス要因となるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unicode</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>UNICODE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What if, instead of downloading an icon font, we used a standard Unicode symbol to represent the icon?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>アイコンフォントをダウンロードする代わりに、標準のUnicode絵文字をアイコンに利用したらどうなるでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In terms of performance and font stacking behavior, this is an improvement — and there is indeed an approximate Unicode symbol: U+263011.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>パフォーマンスとフォントスタックの動作という点では、むしろその方が良いと言えます。しかも、Unicode絵文字にもハンバーガーアイコンそっくりのU+2630があります。（脚注108）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There are a couple of issues.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ただし、いくつか問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The first is that not all devices support a Unicode set extensive enough to include this character, the “trigram for heaven.” The second is that, unlike an icon font which is mapped to Unicode points in the private use area12, this character is more likely to be interpreted by assistive technology.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>まず、すべてのデバイスがUnicode文字セットを広くサポートしているとは限らないため、この文字「trigram for heaven」（U+2630、八卦の乾）に対応していない恐れがあります。また、PUA（脚注109）の？？Unicodeコードポイント？？にマッピングされているアイコンフォントと違い、この文字は支援技術によって解釈される可能性が高いという問題もあります。【コメント：原文「Unicode points」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Therefore, unless intervention is taken, “Trigram for heaven” could be announced in some screen readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>それをやめさせないと、スクリーンリーダーによっては「＃＃Trigram for heaven＃＃」と読み上げられてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To either English or Chinese screen reader users, this would be rather confusing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>？？これは、どの言語のスクリーンリーダーユーザーにとっても混乱のもとになります。？？【コメント：意訳しています。原文「To either English or Chinese screen reader users, this would be rather confusing.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To silence readout, you’d have to place the icon in an element with aria-hidden="true" specified, which precludes the use of CSS pseudo-content for rendering it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>読み上げられないようにするには、アイコンを要素の中に入れてaria-hidden="true"を指定します。？？これで、アイコンの表示にCSS疑似コンテンツが使用されなくなります。？？【コメント：この解釈で問題ないでしょうか。原文「which precludes the use of CSS pseudo-content for rendering it.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CSS pseudo-content is, typically, announced by screen readers and there’s no “Don’t say this” property that’s supported well (although work is underway13).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>CSS疑似コンテンツは通常、スクリーンリーダーで読み上げられます。「読み上げないで」という意味のプロパティはまだ十分にサポートされていません（サポートする方向で進んでいる最中です）。（脚注110）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;button&gt; &lt;span aria-hidden="true"&gt;☰&lt;/span&gt; Menu
+&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;button&gt;
+&lt;span aria-hidden="true"&gt;☰&lt;/span&gt;
+メニュー
+&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SVG Sprites</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>SVGスプライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SVG sprites are fast becoming the de facto solution for icon rendering — and with good reason.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>急速にアイコン表示の事実上の解決策になりつつあるのがSVGスプライトです。それにはもっともな理由があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As Google’s 305-byte logo implementation14 attests, they can make very small assets.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>Googleのロゴが305バイトになった（脚注111）ことで実証されたように、SVGスプライトを使えばアセットをかなり小さくできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They are scalable by nature and can even change color in accordance with changes to font color.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>しかも、その性質上、拡大／縮小が可能なだけでなく、フォントカラーの変更に合わせて色を変えられるというメリットもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SVG sprites work best cross-browser when they’re embedded in the page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>SVGスプライトは、ページに埋め込んでしまえば、ブラウザを選ばず最も効果を発揮します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This also eliminates a separate HTTP request.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>また、そのためのHTTPリクエストも必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The following should appear directly inside the &lt;body&gt;:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>その場合は&lt;body&gt;の中に直接、次のように記述します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;svg style="display: none;"&gt; &lt;symbol id="navicon" viewBox="0 0 20 20"&gt; &lt;path d="m0-0v4h20v-4h-20zm0 8v4h20v-4h-20zm0 8v4h20v-4h-20z"/&gt; &lt;/symbol&gt; &lt;/svg&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;svg style="display: none;"&gt;
+&lt;symbol id="navicon" viewBox="0 0 20 20"&gt;
+&lt;path d="m0-0v4h20v-4h-20zm0 8v4h20v-4h-20zm0 8v4h20v- 4h-20z"/&gt;
+&lt;/symbol&gt;
+&lt;/svg&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This hidden &lt;svg&gt; is for reference and defines the menu icon as a &lt;symbol&gt; containing the path that forms the icon’s shape.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>この非表示の&lt;svg&gt;は参照用で、メニューアイコンは、アイコンを形作るパスを含む&lt;symbol&gt;として定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that it is hidden with an inline display: none; style.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>非表示にするのにインラインのdisplay: none;スタイルが使われていることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If it was hidden using CSS, the SVG would be visible to users whose CSS was not loaded.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>CSSを使って非表示にすると、CSSが読み込めない場合はSVGが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In fact, since &lt;symbol&gt; elements are not themselves rendered, there would be a blank gap in your design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>しかし、実際には&lt;symbol&gt;要素自体は表示されないため、結果的にデザインに空白ができてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;symbol&gt; can be used within our menu button by referencing its id with a &lt;use&gt; element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>メニューボタンに&lt;symbol&gt;を使用するためには、&lt;use&gt;要素でidを参照します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;button&gt; &lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt; menu
+&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;button&gt;
+&lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt;
+メニュー
+&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the CSS, we change the icon’s default 20×20px size (set in the referenced SVG’s viewBox definition) to fit and scale along with the “menu” text:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>CSSで、アイコンのデフォルトのサイズである（参照先のSVGのviewBox定義で設定されている）20 × 20pxを、「メニュー」というテキストに合わせて変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>button svg { width: 1em; height: 1em;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>button svg {
+width: 1em;
+height: 1em;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To make the icon adopt the color of the button element’s font — both with high contrast mode on or off — we can use CSS’s currentColor value and set it on the &lt;path&gt;’s fill property.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>アイコンの色を（ハイコントラストモードのオン／オフに関係なく）ボタン要素のフォントの色と同じにするためには、CSSのcurrentColor値を&lt;path&gt;のfillプロパティに設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SVG is clearly the most robust solution and already has very good support15.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>SVGは間違いなく最も堅牢な方法であり、すでに広くサポートされています。（脚注112）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;svg style="display: none;"&gt; &lt;symbol id="navicon" viewBox="0 0 20 20"&gt; &lt;path d="m0-0v4h20v-4h-20zm0 8v4h20v-4h-20zm0 8v4h20v-4h-20z" fill="currentColor" /&gt; &lt;/symbol&gt; &lt;!-- more &lt;symbol&gt;s here --&gt;
+&lt;/svg&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;svg style="display: none;"&gt;
+&lt;symbol id="navicon" viewBox="0 0 20 20"&gt;
+&lt;path d="m0-0v4h20v-4h-20zm0 8v4h20v-4h-20zm0 8v4h20v- 4h-20z" fill="currentColor" /&gt;
+&lt;/symbol&gt;
+&lt;/svg&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Labeling</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ラベル付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All interactive elements should have an accessible name so they can be interpreted and communicated in assistive technologies.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>インタラクティブな要素には、支援技術で解釈したり伝えたりできるように、必ずアクセシブルな名前を付ける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This relates to WCAG’s 4.1.2 criterion, Name, Role, Value16.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>これはWCAGの達成基準4.1.2「名前（name）・役割（role）及び値（value）」（脚注113）に関連します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The simplest labels are both visible and parsable, based on textual content such as our “menu” text node.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>最もシンプルなラベルは、「メニュー」テキストノードのようなテキストコンテンツに基づいて表示、解析されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As discussed, there are cognitive benefits of including “menu,” not to mention the &lt;button&gt; would remain intelligible even if one of the less reliable icon rendering techniques fails.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>前述したとおり、「メニュー」というテキストをプラスすることには認知面のメリットがあります。言うまでもなく、確実さに欠けるアイコン表示法の1つにエラーが生じたとしても、&lt;button&gt;の分かりやすさが維持されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, there are circumstances in which you might provide the icon alone.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>それでもやはり、アイコンだけを使いたい場合もあり得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If so, making sure the button is identified as “menu button” to screen reader users is paramount.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>その場合は、スクリーンリーダーユーザーにも「メニューボタン」であることが確実に分かるようにすることが大切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The techniques expounded here are applicable to any kind of iconic control, such as a play or stop button in a media player.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ここで紹介する方法は、たとえばメディアプレイヤーの再生ボタンや停止ボタンなど、あらゆるタイプのアイコンコントロールに使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Many lessons in this book are transferable between patterns and to new patterns in this way.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>本書の多くのレッスンはさまざまなパターンに応用でき、このように新しいパターンにも生かすことも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Visually Hidden &lt;span&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>非表示の&lt;SPAN&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This method uses a CSS hack on a &lt;span&gt; to hide the “menu” text label without it becoming unavailable to screen readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>この方法では&lt;span&gt;にCSSハックを用いて、「メニュー」というテキストラベルを、スクリーンリーダーには拾われるようしつつ、非表示にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For that, we can harness our trusty .visibility-hidden class (set out in “A Blog Post”).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>使うのは、頼りになる.visually-hiddenクラス（「ブログ記事」を参照）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Used within our SVG implementation, the code would look like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>SVGの実装例で使用する場合は次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;button&gt; &lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt; &lt;span class="visually-hidden"&gt;menu&lt;/span&gt;
+&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;button&gt;
+&lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt;
+&lt;span class="visually-hidden"&gt;メニュー&lt;/span&gt;
+&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The aria-label Attribute</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ARIA-LABEL属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Another auxiliary method for labeling the icon is to use an aria-label17 attribute.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>もうひとつ補助的な方法として、aria-label（脚注114）属性を使用する方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This global property attaches alternative text to elements much like the alt attribute, but isn’t just applicable to &lt;img&gt; tags.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>このグローバルプロパティはalt属性同様、要素に代替テキストをアタッチしますが、&lt;img&gt;タグ以外にも使えるところがポイントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We can attach an aria-label directly to the &lt;button&gt; element:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ここでは&lt;button&gt;要素に直接、aria-labelをアタッチします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;button aria-label="menu"&gt; &lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt;
+&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;button aria-label="メニュー"&gt;
+&lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt;
+&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One of the advantages of aria-label is that is overrides the text node of the element, if present.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>aria-labelのメリットの1つは、要素にテキストノードがある場合はオーバーライドされるということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So, if I were to use the Unicode rendering method, I could replace the potential “Trigram for heaven” read out with “menu”:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>したがって、たとえばUnicodeの表示方法を使用する場合に、本来の「＃＃Trigram for heaven＃＃」の代わりに「＃＃メニュー＃＃」と読み上げられるようにすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;button aria-label="menu"&gt; ☰
+&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;button aria-label="メニュー"&gt;
+&amp;#x2630;
+&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since ► is read as “black right-pointing triangle” and × as “times” (multiplication), the same aria-label method could fix the labeling of your play and close buttons, among others.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>たとえば、▶は「＃＃black right-pointing triangle＃＃」、×は「＃＃times＃＃」（乗算）と読み上げられますが、この場合もaria-labelを使ってボタンのラベルを「再生」や「閉じる」に修正できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nonetheless, because of the described benefits, use SVG to render all your icons if you are able to.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>とは言え、SVGのメリットを考えると、アイコンにはできる限りSVGを使用することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I wrote an article on the UX of aria-label18 for Dev.Opera.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>Dev.Operaに私が書いたaria-label（脚注115）のUXに関する記事があるので参考にしてください。古いブラウザ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Older Browsers</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>SVGは広く一般的にサポートされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Support for SVG is pretty much universal19, with the stipulation that IE9–11 cannot reference external files using xlink:href — not a problem with this implementation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>（脚注116）Internet Explorerのバージョン9～11はxlink:hrefを使って外部ファイルを参照できないとされていますが、SVGの実装には問題ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Internet Explorer preceding version 9 and other older browsers need a fallback for inline SVG.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>しかし、バージョン9より前のInternet Explorerやその他の古いブラウザでは、インラインSVGのフォールバックが必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is where you can use the &lt;switch&gt; and &lt;foreignObject&gt; elements:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>これは&lt;switch&gt;要素と&lt;foreignObject&gt;要素を使って対処できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;button aria-label="menu"&gt; &lt;svg&gt; &lt;switch&gt; &lt;use xlink:href="#navicon"&gt;&lt;/use&gt; &lt;foreignObject&gt; &lt;img src="path/to/navicon.png" alt="" /&gt; &lt;/foreignObject&gt; &lt;/switch&gt; &lt;/svg&gt;
+&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;button aria-label="メニュー"&gt;
+&lt;svg&gt;
+&lt;switch&gt;
+&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;
+&lt;foreignObject&gt;
+&lt;img src="path/to/navicon.png" alt="" /&gt;
+&lt;/foreignObject&gt;
+&lt;/switch&gt;
+&lt;/svg&gt;
+&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the example above, the SVG renders via the &lt;use&gt; element if supported, but switches to rendering the fallback PNG if not.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>上の例では、SVGがサポートされていれば&lt;use&gt;要素を介してSVGで表示されますが、サポートされていない場合はフォールバックのPNGが使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note the empty or null value of the alt attribute on the fallback image: this tells screen readers not to acknowledge the image.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>フォールバック画像のalt属性の値が空（null値）であることに注目してください。これは、スクリーンリーダーで画像が認識されないようにするためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since the label of “menu” is provided via aria-label, the alt is not needed here.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>「メニュー」というラベルがaria-labelで定義されているため、altは不要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Omitting the alt attribute altogether will mean some screen readers will announce the image’s file name which is irrelevant and, frankly, irritating.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>しかし、alt属性を完全に削除してしまうと、スクリーンリーダーによっては画像の無意味なファイル名が読み上げられてしまい、ユーザーが不快な思いをすることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Only alt="" is reliable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>したがって、alt=""とするのが唯一確実な方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One issue with the &lt;img/&gt; fallback is that the resource will almost certainly download, whether or not the browser supports SVG, affecting a needless performance hit.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;img/&gt;フォールバックの1つの問題は、ブラウザがSVGをサポートしているかどうかに関係なく、リソースはほぼ間違いなくダウンロードされるため、不要にパフォーマンスが低下してしまうことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Artur Ampilogov has a workaround using background images20.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>これについてはアルトゥール・？？アンピロゴフ？？（Artur Ampilogov）が、背景画像を用いた対処方法を紹介しています。（脚注117）【コメント：人名のカナ表記に問題ないかご確認ください】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Operation</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now let’s talk about actually using the button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>次は、実際にボタンを使用するときの話です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First of all, to create an inclusive UX, we need to take care with the placement of the &lt;button&gt; and the menu it discloses.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>まず、インクルーシブなUXを作り出すためには、&lt;button&gt;と、それを押したときに表示されるメニューの配置に気をつける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;nav aria-label="site"&gt; &lt;button&gt; &lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt; menu &lt;/button&gt; &lt;ul hidden&gt; &lt;li&gt;&lt;a href="#main"&gt;home&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/about"&gt;about&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/products"&gt;products&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/contact"&gt;contact us&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/login"&gt;login&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;nav aria-label="サイト"&gt;
+&lt;button&gt;
+&lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt;
+メニュー
+&lt;/button&gt;
+&lt;ul hidden&gt;
+&lt;li&gt;&lt;a href="#main"&gt;ホーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/about"&gt;企業情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/products"&gt;製品情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/contact"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/login"&gt;ログイン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•In the example above, we imagine that JavaScript has run, meaning it’s safe to hide the menu and reveal the button (hence the hidden attribute that JavaScript has added to the menu &lt;ul&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>• ？？上の例ではJavaScriptが実行されたことを想定しています。つまり、JavaScriptによってメニューの&lt;ul&gt;にhidden属性が追加されたため、メニューは安全に非表示になり、ボタンだけが表示されます。？？【コメント：この解釈で問題ないでしょうか。原文「In the example above, we imagine that JavaScript has run, meaning it’s safe to hide the menu and reveal the button (hence the hidden attribute that JavaScript has added to the menu &lt;ul&gt;).」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The &lt;button&gt; is placed inside the navigation landmark, meaning it will be available to screen reader users who go to the landmark via a shortcut.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>• &lt;button&gt;はナビゲーションランドマークの中に配置されているため、ショートカットを使ってランドマークに移動するスクリーンリーダーユーザーでも利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the button were outside, users would arrive at an empty landmark with no way to populate it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ボタンがナビゲーションランドマークの外にあると、？？ユーザーはメニューを表示する手段がないため、空っぽのランドマークにジャンプすることになります。？？【コメント：意訳しています。原文「users would arrive at an empty landmark with no way to populate it.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The menu is placed directly after the &lt;button&gt; in the source order, meaning the first menu item will be the next focusable element after the menu is opened.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>• ソースの順序では、メニューは&lt;button&gt;の直後に配置されます。したがって、メニューが開いた後、次にフォーカスできる要素は最初のメニュー項目になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Because the menu is hidden with hidden, its contents are not focusable when it is closed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>メニューはhiddenで隠されているため、メニューが閉じているときはメニュー項目にはフォーカスできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Invisible elements are not for operation, so they should never be focusable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>表示されていない要素は操作できないため、フォーカスできてはいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In cases where it is impossible (due to design constraints, company politics or whatever’s standing in your way) to place the subject menu directly after the menu button as prescribed, you can associate the two elements with aria-controls.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>デザインの制約や社内の問題など、何らかの理由でメニューボタンの直後にメニューを配置できない場合は、2つの要素をaria-controlsで関連付けるという方法も考えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As I wrote in “Aria-controls Is Poop21,” this should be avoided.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>しかし、「Aria-controls Is Poop」（脚注118）にも書いたように、この方法はお勧めしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The attribute is only exposed in JAWS and JAW’s implementation is incomplete and unsatisfactory.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>この属性はJAWSでしかサポートされていない上に、JAWSでの実装も不完全で不十分です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It announces, “press JAWS key plus Alt plus M to go to controlled element” and offers no way to traverse back.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>「＃＃press JAWS key plus Alt plus M to go to con- trolled element＃＃」とアナウンスされますが、後戻りする方法はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you’re looking for a way to transport a user to a menu (or any other remote element in the page), a link is your best bet:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ユーザーをメニュー（あるいはページ内の離れた場所にある他の要素）に移動させる方法としては、リンクが一番確実です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;a href="#nav-menu"&gt;navigation menu&lt;/a&gt;
+&lt;!-- lots of other DOM stuff here --&gt;
+&lt;nav aria-label="site" id="nav-menu" tabindex="-1"&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="#main"&gt;home&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/about"&gt;about&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/products"&gt;products&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/contact"&gt;contact us&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/login"&gt;login&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;a href="#nav-menu"&gt;ナビゲーションメニュー&lt;/a&gt;
+&lt;!-- DOM関連はここに --&gt;
+&lt;nav aria-label="サイト" id="nav-menu" tabindex="-1"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#main"&gt;ホーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/about"&gt;企業情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/products"&gt;製品情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/contact"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/login"&gt;ログイン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note the tabindex="-1" attribute which fixes sequential focus navigation as discussed in “Navigation Regions”).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>（「ナビゲーション領域」で説明したように、tabindex="-1"属性でシーケンシャルフォーカスナビゲーションを調整していることに注目してください。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Should you want to hide the menu until the user arrives at the the landmark, you can use the :target pseudo-class.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ユーザーがランドマークにたどり着くまでメニューを隠しておきたい場合は、:target疑似クラスを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hence I’ve removed the hidden attribute and would supply this CSS:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ここではhidden属性をやめて、CSSを使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>#nav-menu ul { display: none;
+}
+
+#nav-menu:target ul { display: block;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>#nav-menu ul {
+display: none;
+}
+#nav-menu:target ul {
+display: block;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When you click the href="#nav-menu" link, the URL for the page is appended with the #nav-menu fragment identifier and the landmark becomes the target, making display: block; applicable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>href="#nav-menu"リンクをクリックすると、ページのURLにフラグメント識別子#nav-menuが付いてランドマークがターゲットになり、display: block;が適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s put that to one side and go back to discussing our button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>さて、この話はいったん置いておき、ボタンの話に戻りましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since proximity isn’t an issue in our case, the button is really a better fit.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>？？この例の場合はボタンとメニューの近さは問題ないため、なおさらボタンを使うのに適していると言えます。？？【コメント：多少意訳しています。原文「Since proximity isn’t an issue in our case, the button is really a better fit.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For one thing it lets the user close, as well as open, the menu at will.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ユーザーは、ボタンを使って自由にメニューを閉じたり開いたりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using JavaScript and WAI-ARIA we can communicate this change in state non-visually.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>JavaScriptとWAI-ARIAを使用すれば、この状態の変化を視覚的な方法以外のやり方で伝えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Communicating State</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>状態を伝える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Communicating the state of functional elements within web interfaces is an important part of making those interfaces inclusive of anyone using assistive technology and who is therefore dependent on the accessibility tree22.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>Webインターフェイスの機能要素の状態を伝えることは、支援技術を利用するユーザー、ひいてはアクセシビリティツリー（脚注119）に依存しているユーザーにとってインクルーシブなインターフェイスを作る上で重要なことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Remember, the accessibility tree is a version of the DOM that exposes the role, property, value and state information the author provides to assistive technology software.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>前述のとおり、アクセシビリティツリーはDOMの一種で、非視覚的なユーザーのために、マークアップ内のアクセシブルな役割（ロール）、プロパティ、値、状態情報が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is a popular misconception that screen readers are not reactive to JavaScript triggered DOM changes.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>スクリーンリーダーはJavaScriptでトリガーされたDOMの変更に気づかないと思っている人も多いですが、それは誤解です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All popular screen readers listen for changes and update their buffers (their interpreted versions of the DOM using the accessibility tree) each time a change takes place.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>一般的なスクリーンリーダーはバッファの変更や更新（アクセシビリティツリーを用いて解釈されたバージョンのDOM）をその都度リッスンします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Changes to text nodes and attributes update the buffer, as well as adding or removing elements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>テキストノードや属性が変更されるとバッファが更新され、さらに要素が追加されたり削除されたりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>WAI-ARIA offers a host of state attributes with true and false values to communicate the presence or absence of the state.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>WAI-ARIAにはステート属性が多数用意されており、true／false値を用いて状態の有無を伝えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I think aria-expanded23 is probably the solution here because it prompts screen readers to explicitly announce “collapsed” (false) and “expanded” (true).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ここで役立つのがaria-expanded（脚注120）です。aria-expandedを使えばスクリーンリーダーに明示的に「＃＃collapsed＃＃」（false）、「＃＃expanded＃＃」（true）とアナウンスさせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Initially, the menu is not open, so false is applicable:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>初期状態ではメニューは開いていません（つまりfalseです）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;nav aria-label="site"&gt; &lt;button aria-expanded="false"&gt; &lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt; menu &lt;/button&gt; &lt;ul hidden&gt; &lt;li&gt;&lt;a href="#main"&gt;home&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/about"&gt;about&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/products"&gt;products&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/contact"&gt;contact us&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/login"&gt;login&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>&lt;nav aria-label="サイト"&gt;
+&lt;button aria-expanded="false"&gt;
+&lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt;
+メニュー
+&lt;/button&gt;
+&lt;ul hidden&gt;
+&lt;li&gt;&lt;a href="#main"&gt;ホーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/about"&gt;企業情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/products"&gt;製品情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/contact"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/login"&gt;ログイン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When focusing the menu button, screen readers should announce something similar to “Site navigation, menu button, collapsed” — all the pertinent information about the region’s menu system.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>メニューボタンにフォーカスすると、「＃＃Site navigation, menu button, collapsed＃＃」といった具合に、その領域のメニューシステムに関係のあるすべての情報が読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Critical JavaScript</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>JAVASCRIPTは必須</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Switching the state of the menu accessibly requires JavaScript.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>メニューの状態をアクセシブルに切り替えるためにはJavaScriptが必須です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Because the operation of the menu is a fairly fundamental feature, I’ve written a vanilla JavaScript implementation to embed at the bottom of the page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>メニューの操作はきわめて基本的な機能なので、次のようなVanilla JavaScript（素のJavaScript）を書き、ページの下部に組み込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As described, the menu will be visible and usable where JavaScript fails or is switched off, but this way it’s less likely to fail: if the document itself loads, it’s already there in its entirety — no jQuery or other dependency to wait on.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>前述したように、JavaScriptエラーが生じたりユーザーがJavaScriptをオフにした場合は、最初からメニューが表示され、使用できる状態になります。しかし、この方法ならエラーはほとんど起こりません。ドキュメント自体が読み込まれれば、そこにすでにJavaScriptが書かれており、jQueryなどが読み込まれるのを待つ必要もありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(function() { // get the button and menu nodes
+    var button = document.querySelector('[aria-label="site"] button'); var menu = button.nextElementSibling; // set initial (closed menu) states
+    button.setAttribute('aria-expanded', 'false'); button.hidden = false; menu.hidden = true; button.addEventListener('click', function() { // toggle menu visibility
+        var expanded = this.getAttribute('aria-expanded') === 'true'; this.setAttribute('aria-expanded', String(!expanded)); menu.hidden = expanded; });
+})();</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>(function() {
+// ボタンとメニューのノードを取得
+var button = document.querySelector('[aria-label="サイト"] button');
+var menu = button.nextElementSibling;
+// 初期の（メニューが閉じているときの）状態を設定
+button.setAttribute('aria-expanded', 'false');
+button.hidden = false;
+menu.hidden = true;
+button.addEventListener('click', function() {
+// メニューの表示／非表示を切り替える
+var expanded = this.getAttribute('aria-expanded') === 'true';
+this.setAttribute('aria-expanded', String(!expanded));
+menu.hidden = !expanded;
+});
+})();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Robust Disclosure</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>？？確実な表示？？【コメント：多少意訳しています。原文「A ROBUST DISCLOSURE」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that I’ve not done anything fancy with CSS positioning or animation here.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>この例では、CSSで手の込んだ配置やアニメーションは一切定義していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The menu just appears and disappears by switching the display state via the hidden attribute.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>hidden属性を介して表示の状態を切り替えて、メニューを表示したり隠したりしているだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This has three benefits:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>これには3つのメリットがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•There’s no CSS dependency for the menu system, meaning it will function regardless of a CSS failure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>• メニューシステムがCSSに依存しません。したがって、CSSに問題があってもメニューは機能します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The menu emerges as part of the document flow, meaning a taller-than-viewport menu is still scrollable into view and does not obscure page content beneath it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>• メニューがドキュメントフローの一部として表示されます。つまり、ビューポートの縦の長さよりメニューの方が長い場合でもスクロールで表示できるため、ページのコンテンツがメニューで隠れるようなこともありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Absolute positioning cannot assure us of this.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>？？位置を固定してしまうとそうはいきません。？？【コメント：意訳しています。原文「Absolute positioning cannot assure us of this.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•As previously mentioned, the hidden attribute (like display: none;) on a parent element makes any interactive element children unfocusable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>• 前述したように、親要素にhidden属性を指定すると、display: none;同様、子のインタラクティブ要素はフォーカスできなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Setting height: 0; and animating to full height would not have this effect, meaning keyboard users would have to tab through invisible elements while the menu is closed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>？？height: 0;と設定して高さいっぱいまでアニメーションするとこの効果はなく、？？キーボードユーザーは、メニューが閉じているときも、見えない（非表示になっている）要素をTabキーで移動しなければならなくなります。【コメント：不安訳です。原文「Setting height:0; and animating to full height would not have this effect, 」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s possible that judicious animation effects can aid comprehension, if designed with care.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>たしかにアニメーション効果がユーザーの理解を助けることもありますが、それは慎重にデザインされていればの話です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Avoid the temptation, though, to add animations — especially ones which depend on CSS positioning — just to impress users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ユーザーの目を引くためだけに、むやみにアニメーションを追加するのはやめましょう。特にCSS配置に頼ったアニメーションはお勧めしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As I wrote in “The Precarious X In UX24,” only other designers tend to be enamored with the finer aesthetic points of the interface itself.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>「The Precarious X In UX」（脚注121）にも書きましたが、インターフェイス自体の細部の美しさにこだわるのはWebデザイナーだけと言ってもいいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Most real users just want to get things done.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>たいていのユーザーはただ「目的を達成したい」だけなのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Catering to them is top priority to an inclusive designer.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>その要求に応えることこそ、インクルーシブデザイナーの最優先課題です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Here is a little revelation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>「ちょっとした新事実をお伝えしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>People are not really into using products.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>人々は製品を「使う」こと自体にはあまり興味がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Any time spent by a user operating an interface, twisting knobs, pulling levers or tapping buttons is time wasted.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ユーザーがインターフェイスの操作や、つまみをひねったりレバーを引いたりボタンを押したりするのに費やす時間は、すべて無駄な時間というわけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rather, people are more interested in the end result and in obtaining that result in the quickest, least intrusive and most efficient manner possible.” – Goran Peuc “Nobody Wants To Use Your Product25”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>人々の関心は、最終的な結果と、その結果をいかに早く、いかに簡単に、いかに効率的に得られるかということに向けられているのですから」
+— 「Nobody Wants To Use Your Product」、ゴラン・？？ポイク？？（Goran Peuc）（脚注122）【コメント：人名のカナ表記に問題ないかご確認ください】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Touch Targets</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>タッチターゲット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As stated, hidden content which depends on a user action to be revealed is a last resort.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>前にも述べたとおり、コンテンツを隠してユーザーが操作しないと表示されないようにするのは、最後の手段です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Accordingly, the menu should be ever present at reasonably wide viewports.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>したがって、メニューを表示できるように、ビューポートの幅はそれなりに広くなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At narrower widths, touch operation is more likely — especially when we encroach on mobile and handheld dimensions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>とりわけビューポートの幅が狭いモバイル機器（携帯端末）ではタッチ操作が主流です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The ease of touch interaction for our hamburger menu needs consideration.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ハンバーガーメニューのタッチ操作のしやすさは一考の余地があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We especially want to be inclusive of users with limited dexterity due to rheumatic issues.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>？？特にインクルーシブデザインを目指す私たちは、リウマチ疾患のせいで手先の動きに制限があるユーザーも考慮に入れたいところです。？？【コメント：意訳しています。原文「We especially want to be inclusive of users with limited dexterity due to rheumatic issues.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Small touch targets for interactive elements make operation needlessly challenging, so what is the minimum size we should aim for?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>インタラクティブ要素に小さいタッチターゲットを用いると、むやみに操作が難しくなります。では、どれくらいのサイズまでなら大丈夫なのでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The vast proliferation of device resolutions makes it near impossible to establish a universal figure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>デバイスによって解像度が大きく異なるため、すべてのデバイスに当てはまる最小サイズというものはなかなか決められません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Apple and Android differ in their advice on touch targets with Apple recommending 44 points × 44 points (a density-independent unit of measure related to pixels and unique to Apple) and Android 48px × 48px.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>タッチターゲットの推奨最小サイズは、Appleが44 × 44ポイント（密度に依存しない、ピクセル対応のApple独自の測定単位）、Androidが48 × 48ピクセルと、AppleとAndroidで異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At around this size or larger, the visual focus feedback is not obscured by the user’s finger, which would otherwise force them to use the precarious gestures described in Anthony Thomas’s “Finger-Friendly Design: Ideal Mobile Touch Target Sizes26”:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>だいたいこのくらいのサイズか、これより大きければ、視覚的なフォーカスフィードバックがユーザーの指に邪魔されて見えないということはないでしょう。もし見えない場合は、アンソニー・トーマス（Anthony Thomas）の「Finger-Friendly Design: Ideal Mobile Touch Target Sizes」（脚注123）に書かれているような不安定な指の動かし方をせざるを得なくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Users use the fingertip to hit small touch targets because it gives them the visual feedback they need to know that they’re hitting their target accurately.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>「ユーザーは小さいタッチターゲットを指先でタップします。なぜなら、表示される視覚的なフィードバックを見て、ターゲットを正しくタップできたことを確認する必要があるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But when users have to reorient their finger, it slows their movement down, and forces them to work harder to hit their target.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>しかし、このように指の置き方を変えなければならない状況だと、動きが遅くなる上に、ターゲットをタップしづらくなってしまいます」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Patrick H Lauke has undertaken research for The W3C Mobile Accessibility Taskforce into touch/pointer target size27.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>パトリック・H・ラーク（Patrick H Lauke）は？？W3C Mobile Accessibility Taskforce？？の依頼で、タッチターゲットとポインターターゲットのサイズに関する調査を行いました。（脚注124）【コメント：原文「The W3C Mobile Accessibility Taskforce」冒頭のTheは大文字になっていますが冠詞と判断しました】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Touch target size issues are exacerbated in mobile-sized navigation regions because of the links’ proximity.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>タッチターゲットのサイズの問題がより顕著になるのがモバイルサイズのナビゲーション領域です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When the surface of your finger spans more than one element, it could be either element that is activated when pressure is applied.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>原因はリンク同士が近接していることです。ユーザーの指の腹が複数の要素にまたがってしまうと、圧力がかかったいずれかの要素がアクティブになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is not the sort of gamble anyone is interested in taking.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>このような一か八かの賭けを楽しむユーザーはいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Menu items which are not tall enough under a finger for accurate targeting.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>ホームサービスブログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Aaargh!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>「あー、もう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I keep hitting the wrong one.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>何度やってもうまく押せないよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ever heard of vertical padding?”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>垂直パディングってものを知らないの？」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The BBC Mobile Accessibility Guidelines28 recommend the inclusion of “inactive space” between elements to remedy this issue, but I suggest this would create a somewhat incomprehensible, broken-up appearance when it comes to navigation regions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>BBCの「Mobile Accessibility Guidelines」（脚注125）では、この問題の対処法として、要素間に「アクティブにならないスペース」を入れることを推奨しています。しかし、ナビゲーション領域の場合は、この方法だと不可解な間が空いた見た目になってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I would recommend mobile viewports configure navigation into a single column — one link per line — and provide a generous enough vertical padding to make each link higher than the diameter of an adult finger pad.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>私のお勧めは、モバイルのビューポートではナビゲーション項目を縦一列に（1行に1リンクずつ）並べることです。その際、縦方向に十分なパディングを設けて、それぞれのリンクに大人の指の腹の直径以上の高さを持たせるのがポイントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>まとめ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though this pattern looked at menu buttons explicitly, it was really an exploration of the use of button controls, with icons, in general.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>このパターンのテーマはメニューボタンですが、実際にはボタンコントロールとアイコンの使い方について総体的に考察しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By being mindful of the need for accessible labels, potential problems with Windows’ high contrast mode and ease of touch operation, we ensured our menu button — as well as the content it reveals — is inclusive of differing user settings, circumstances, devices, and assistive technology software.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>アクセシブルなラベルの必要性、Windowsのハイコントラストモードで起こり得る問題、タッチ操作のしやすさを考慮に入れることで、さまざまなユーザー設定、環境、デバイス、支援技術ソフトウェアに対応できるインクルーシブなメニューボタン（そして、そのボタンを押したときに表示されるメニュー）を作成できることを学びました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Things to Avoid</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>避けるべきこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Background images for icon rendering.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>• アイコンの表示に背景画像を使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Omitting accessible names and labels.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>• アクセシブルな名前やラベルを付けない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Small touch (or hit) areas.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>• タッチ（タップ）領域を小さくする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Foregoing accessible state communication.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>• 状態をアクセシブルに伝えない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/ 2.http://psychsocgerontology.oxfordjournals.org/content/53B/4/P240.full.pdf 3.https://en.wikipedia.org/wiki/Sign_system 4.http://www.markboulton.co.uk/journal/icons-symbols-and-a-semiotic-web 5.http://exisweb.net/mobile-menu-abtest 6.http://www.jnd.org/dn.mss/affordances_and.html 7.http://webaim.org/blog/high-contrast/ 8.https://speakerdeck.com/ninjanails/death-to-icon-fonts 9.https://dev.opera.com/articles/making-sites-work-opera-mini/ 10.https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html 11.http://www.fileformat.info/info/unicode/char/2630/index.htm 12.https://en.wikipedia.org/wiki/Private_Use_Areas#Private_Use_Areas 13.https://www.w3.org/TR/css3-speech/#speaking-props-speak 14.http://gizmodo.com/how-could-googles-new-logo-be-only-305-bytes-while-its-1728793790 15.http://caniuse.com/#feat=svg 16.https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html 17.https://www.w3.org/TR/wai-aria/states_and_properties#aria-label 18.https://dev.opera.com/articles/ux-accessibility-aria-label/ 19.http://caniuse.com/#feat=svg 20.http://developersdev.blogspot.co.uk/2014/10/svg-fallback-pure-css-can-i-use-part-5.html 21.http://www.heydonworks.com/article/aria-controls-is-poop 22.https://www.paciellogroup.com/blog/2015/01/the-browser-accessibility-tree/ 23.https://www.w3.org/TR/wai-aria-1.1/#aria-expanded 24.http://www.heydonworks.com/article/the-precarious-x-in-ux 25.https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/ 26.http://uxmovement.com/mobile/finger-friendly-design-ideal-mobile-touch-target-sizes/ 27.https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Summary_of_Research_on_Touch/Pointer_Target_Size 28.http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile/design/spacing</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T154549Z">
+        <seg>98 http://smashed.by/avoid-hamburger
+99 http://smashed.by/iconimprove
+100 https://en.wikipedia.org/wiki/Sign_system
+101 http://smashed.by/iconsymbols
+102 http://exisweb.net/mobile-menu-abtest
+103 http://www.jnd.org/dn.mss/affordances_and.html
+104 http://webaim.org/blog/high-contrast/
+105 https://speakerdeck.com/ninjanails/death-to-icon-fonts
+106 https://dev.opera.com/articles/making-sites-work-opera-mini/
+107 https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
+108 http://www.fileformat.info/info/unicode/char/2630/index.htm
+109 https://en.wikipedia.org/wiki/PrivateUseAreas#PrivateUseAreas
+110 https://www.w3.org/TR/css3-speech/#speaking-props-speak
+111 http://smashed.by/googlelogo
+112 http://caniuse.com/#feat=svg
+113 http://smashed.by/rsv
+114 ？？http://smashed.by/aria-label？？【コメント：リンクがきれているようです】
+115 https://dev.opera.com/articles/ux-accessibility-aria-label/
+116 http://caniuse.com/#feat=svg
+117 http://smashed.by/svgfallback
+118 http://www.heydonworks.com/article/aria-controls-is-poop
+119 http://smashed.by/a11ytree
+120 http://smashed.by/ariaexpanded
+121 http://www.heydonworks.com/article/the-precarious-x-in-ux
+122 http://smashed.by/nobodyproduct
+123 http://smashed.by/targetsize
+124 http://smashed.by/mobilea11y
+125 http://smashed.by/bbcspacing</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

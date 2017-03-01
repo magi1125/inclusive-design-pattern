@@ -1,0 +1,6 @@
+*.DS_Store
+*.bak
+target/
+omegat/project_stats.txt
+omegat/project_stats_match.txt
+dictionary/stardict.*

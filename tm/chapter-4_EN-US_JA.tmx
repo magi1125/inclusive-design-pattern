@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Biographies | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>About The Author</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>著者について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Heydon Pickering is a utilitarian designer, writer and public speaker, the accessibility editor for Smashing Magazine1, and a consultant working with the Paciello Group2.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>ヘイドン・ピカリング（Heydon Pickering）は？？功利主義？？のデザイナー兼ライターで、講演も行っています。【コメント：不安訳です。原文「utilitarian」】また「Smashing Magazine」（脚注1）のアクセシビリティ担当エディターで、The Paciello Group（脚注2）のコンサルタントも務めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He’s interested in new and innovative ways to make the web an inclusive place.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>彼はWebを「インクルーシブ」な場所にするための新しい方法や革新的な手段に関心を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>User research, systems thinking and plain old semantic HTML all play their part.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>ユーザーリサーチ、システム思考、昔ながらのプレーンでセマンティックなHTML。これらはそれぞれ役割が異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When Heydon isn’t writing, coding or illustrating, he does some mental health campaigning, experiments with sound design, and thrashes out doom metal riffs on his detuned SG copy.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>ヘイドンは文章やコードを書いたりイラストを描いているとき以外は、メンタルヘルスに関するキャンペーンを行ったり、サウンドデザインに挑戦したり、自分でデチューンしたSGのコピーギターでドゥームメタルのリフを繰り返し弾いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He’s almost entirely fueled by original recipe Guinness and Naga chillies.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>そんな彼の燃料の大半はギネスとナガチリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>About The Reviewers</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>レビューワーについて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rodney Rehm is a web developer based in southern Germany.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>ロドニー・レーム（Rodney Rehm）はドイツ南部に拠点を置くWeb開発者です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>After being a full-stack freelancer for a decade, he moved on to working on the front-ends of Qivicon3, Deutsche Telekom’s Smart Home platform.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>10年間、フリーランスのフルスタックエンジニアとして働いた後、Deutsche Telekom（ドイツテレコム）のスマートホームプラットフォームQIVICON（キビコン）のフロントエンドエンジニアになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He created URI.js4 and the ally.js5 accessibility library, made libsass run in the browser6 and wrote the world’s first buggyfill7.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>URI.js（脚注3）とアクセシビリティライブラリally.js（脚注4）を作り、ブラウザでlibsassを走らせ（脚注5）、世界初のbuggyfill（脚注6）を書きました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Steve Faulkner is the senior web accessibility consultant and technical director of TPG Europe.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>スティーブ・フォルクナー（Steve Faulkner）は、TPG EuropeのシニアWebアクセシビリティコンサルタント兼テクニカルディレクターです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He joined the Paciello Group8 in 2006 and was previously a senior web accessibility consultant at Vision Australia9.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>2006年にThe Paciello Groupに入り、Vision Australia（脚注7）ではシニアWebアクセシビリティコンサルタントも務めました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He is the creator and lead developer of the Web Accessibility Toolbar10 accessibility testing tool.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>アクセシビリティテストツールWeb Accessibility Toolbar（脚注8）の考案者、リードデベロッパーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Steve is a member of several groups, including the W3C Web Platforms Working Group and the W3C ARIA Working Group.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>スティーブは、W3C Web Platformsワーキンググループ、W3C ARIAワーキンググループなど、複数のグループに参加しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He is an editor of several specifications at the W3C11 including HTML 5.112, ARIA in HTML13, Notes on Using ARIA in HTML14 and HTML5: Techniques for providing useful text alternatives15.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>W3C（脚注9）では次のような仕様の策定に携わっています。• HTML 5.1（脚注10）
+• ARIA in HTML（脚注11）
+• Notes on Using ARIA in HTML（脚注12）
+• HTML5: Techniques for useful text alternatives（脚注13）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He also develops and maintains HTML5accessibility16.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>また、HTML5accessibility.comの開発および管理も手掛けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.https://www.smashingmagazine.com/tag/accessibility/ 2.https://www.paciellogroup.com/ 3.https://www.qivicon.com/en/ 4.http://medialize.github.io/URI.js/ 5.http://allyjs.io/ 6.https://github.com/medialize/sass.js/ 7.https://github.com/rodneyrehm/viewport-units-buggyfill 8.http://www.paciellogroup.com 9.https://www.visionaustralia.org/ 10.https://www.paciellogroup.com/resources/wat/ 11.http://w3.org 12.http://w3c.github.io/html/ 13.http://w3c.github.io/html-aria/ 14.http://w3c.github.io/aria-in-html/ 15.http://www.w3.org/TR/2014/WD-html-alt-techniques-20141023/ 16.http://www.HTML5accessibility.com</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T005230Z">
+        <seg>1 https://www.smashingmagazine.com/tag/accessibility/
+2 https://www.paciellogroup.com/
+3 http://medialize.github.io/URI.js/
+4 http://allyjs.io/
+5 https://github.com/medialize/sass.js/
+6 https://github.com/rodneyrehm/viewport-units-buggyfill
+7 https://www.visionaustralia.org/
+8 https://www.paciellogroup.com/resources/wat/
+9 http://w3.org
+10 http://w3c.github.io/html/
+11 http://w3c.github.io/html-aria/
+12 http://w3c.github.io/aria-in-html/
+13 http://www.w3.org/TR/2014/WD-html-alt-techniques-20141023/</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

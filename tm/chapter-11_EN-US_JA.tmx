@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Paragraph | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Paragraph</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s start small.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>パラグラフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>まずは小さなところから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In Brad Frost’s atomic design terminology1, a paragraph would be an atom: an indivisible building block with which complex patterns (molecules, organisms and pages) are created.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ブラッド・フロスト（Brad Frost）のアトミックデザイン？？（脚注15）？？では、パラグラフ（段落）は原子にあたります。【コメント：原文pdfでは前章の最後の脚注も15となっています。以降も原文通りの番号にしてあります。】複雑なパターン（分子、有機体、ページ）を作成するための、これ以上分割できない基本単位です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some say [a picture paints a thousand words], but I prefer the contrary expression: "“Never send a picture to do the job of words.” Text is the most direct and efficient way of communicating information and — though imagery and other media have supplemental value for those who learn better visually or have literacy issues — it should be treated as primary.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>一枚の絵は千の言葉に値すると言う人もいますが、私はその反対の「絵に言葉の仕事をさせてはならない」という表現の方が好きです。テキストは、情報を伝えるのに最も直接的で効果的な方法であり、第一の手段として扱うべきです（ただし、視覚からの方が情報を受け取りやすい人や読み書きに困難を抱えている人には、画像やその他の媒体には補足的な価値があります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This applies whether you’re in the business of publishing lengthy, florid prose or dotting isolated descriptions and messages around an application.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これは、長々とした美辞麗句の多い散文を公開する場合でも、使い方に関する個々の説明やメッセージを点々と記述する場合でも当てはまります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With so many exciting opportunities available to us to build interactive mechanisms, it’s tempting to neglect the design of our body text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>インタラクティブな仕組みを構築するという楽しい機会がたくさんあるため、つい本文のデザインをなおざりにしたくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Yet not only is a readable web page an inclusive one, there’s also some interactivity to address in the forms of zoom functionality and inline hyperlinks.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>しかし、読むことができるWebページだけがインクルーシブなわけではなく、ズーム機能やインラインハイパーリンクといった形で対処すべきインタラクティブ性も存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Typeface</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>書体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There is a lot of conflicting advice on what the characteristics of a readable body text typeface should be.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>読みやすい本文テキストの書体の特徴については、相反する意見が多数あります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One well-supported claim is that sans serif fonts are more readable than serif ones.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>十分に裏付けがある意見の1つに、セリフフォントよりサンセリフフォントの方が読みやすいというものがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nonetheless, it is entirely possible to design an excruciatingly unreadable font which is technically sans serif.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>しかし、技術的にはサンセリフであっても、耐えがたいほど読みにくいフォントをデザインすることも十分可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead of relying on conventional wisdom, here are a few things to ask about a typeface under consideration:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>従来からの知恵に頼るのではなく、検討中の書体については、以下について考える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Does it have any ornamentation that gets in the way of comprehension?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• 理解の邪魔になる装飾がないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Are the metrics (such as x-height2) consistent between letterforms?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• 各種の文字のメトリクス（x-heightなど）（脚注16）が一致しているか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Are individual letterforms distinct in shape or can they be confused with others?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• 個々の文字は形がはっきり識別できるか？他の文字と紛らわしくないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Does the typeface support all of the characters and font styles that are needed?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• その書体は、必要とされるすべての文字とフォントスタイルをサポートしているか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The British Dyslexia Association notes some specific characteristics3 that can aid legibility.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>英国ディスレクシア協会（British Dyslexia Association）は、読みやすさを向上できるいくつかの特徴に言及しています。（脚注17）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Generous ascenders (e.g. the vertical line in d) and descenders (e.g. the down-pointing line in y) proved popular among dyslexic readers in their research.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>彼らの研究では、アセンダ（dの縦線など）とディセンダ（yの下向きの線など）が大きい方が、ディスレクシア（難読症）の人たちに好評であることが分かりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A d and b which were not an exact mirror image of one another also helped, as well as a clear distinction between an uppercase I, lowercase l and 1.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>また、dとbが完璧な鏡文字ではないこと、大文字のI、小文字のl、1がはっきりと区別されていることにも効果がありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kerning (the spacing between characters) benefited from being reasonably generous, particularly between r and n.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>カーニング（文字間のスペース）は、特にrとnの間では適度な間隔を空けた方が読みやすくなり、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Otherwise “modern” could be read as “modem.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>間隔が狭すぎると「modern」は「modem」と読めてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The characters d and b in two sets. In the first set they are not a mirror image.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Although sans serif fonts are generally thought to be more readable, their simplicity makes them more vulnerable to having similar letterforms.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>サンセリフフォントは一般に読みやすいと考えられていますが、簡素であるため、似た字形になりやすいという特徴があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As with all things, successful comprehension is a question of offering enough but not too much information.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これらを考慮すると、理解できるテキストを作成できるかどうかは、過多ではない必要十分な情報を提供できるかどうかにかかっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Accordingly, serif typefaces are generally regarded as overcomplex, but a purposeful use of serifs to differentiate characters is actually beneficial.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>したがって、セリフフォントは一般に複雑すぎるとみなされていますが、実際のところ、文字を区別するために意図的にセリフを使用するのは有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s important to note that legible body text for folks with reading disorders such as dyslexia is also pleasant body text for those who have less trouble reading.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ディスレクシアなどの読字障害を持つ人にとって読みやすいテキストは、読むのに問題がない人にとっても好ましいテキストであるということに留意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By choosing a typeface that we feel the average user could read, we’d be consciously alienating a section of our users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>平均的なユーザーが読めるだろうと思う書体を選ぶということは、ユーザーの一部を意識的に疎外していることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead, by selecting a typeface which is workable for those who struggle to read, we arrive at a choice that works for everyone.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>そうではなく、読むことに困難を抱える人にも読みやすい書体を選択することで、すべての人に機能する選択肢に到達します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is efficient and effective inclusive design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これが効果的で効率的なインクルーシブデザインです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“The average user is created from the combination of all users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>「平均的なユーザーは、すべてのユーザーを組み合わせて作られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What we get is, in fact, a completely different user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>実際に得られるのは、まったく異なるユーザーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>None of our users is like the average user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ユーザーの誰もが平均的ユーザーとは異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Therefore, when designing for that artificial individual we create something that doesn’t fit anyone’s needs.” – “Designing for the extremes4,” Susana Gonzalez Ruiz</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>この作り出された個人に合わせてデザインするということは、誰のニーズにも合わないものを作っているということです」
+—「Designing for the extremes」、スサーナ・ゴンザレス・ルイス（Susana Gonzalez Ruiz）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As the excellent article “Designing for the extremes5” points out, designing first for users in extreme situations helps us better serve everyone.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>「Designing for the extremes」（脚注18）という素晴らしい記事で指摘されているように、極端な状況に置かれたユーザーを優先してデザインすることで、すべての人により良いサービスを提供できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The article uses bandwidth as another exemplar: a web app that’s performant on the most unreliable mobile network is, therefore, performant everywhere.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>この記事では、もう1つの例として帯域幅を取り上げ、最も信頼性が低いモバイルネットワーク上で高い性能を発揮できるWebアプリケーションは、どこでも高い性能を発揮できるとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Two Venn diagrams.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The first shows that people on poor networks are a subgroup of people who benefit from performant websites.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>高性能Webサイトのメリットを享受する人：非常に低質なネットワーク上の人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The second shows that people with visual dyslexia are a subgroup of people who benefit from readable fonts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>読みやすいフォントのメリットを享受する人：ディスレクシアの人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, it’s important not to think about extreme cases in isolation and to target specific groups.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>しかし、極端なケースを分離して考えないこと、そして特定のグループをターゲットにしないことが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In an experimental study carried out in Spain6 (PDF) which investigated the readability of different fonts to dyslexic people, a typeface designed specifically for dyslexic readers performed very poorly.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>スペインで実施された、ディスレクシアの人々に対する各種フォントの読みやすさを調査した実験的研究（脚注19）（PDF）では、ディスレクシアの読者専用にデザインされた書体の成績が非常に悪いという結果になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It would appear that the typeface designers, though well-meaning, made some generalizations about the target audience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>書体デザイナーが、良かれと思ってターゲットの読者についてある種の一般化を行ったと考えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As a result, they alienated the majority of dyslexic readers as well as creating a “clunky and difficult to read” font for everyone.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>この結果、彼らはディスレクシアの読者の大部分を疎外しただけではなく、誰にとっても「不格好で読みにくい」フォントを作ってしまったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the article “A Typeface For Dyslexics?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>Lucida書体の作成者であるチャック・ビゲロウ（Chuck Bigelow）は、ブログ記事「ATypefaceForDyslexics?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Don’t Buy Into The Hype7,” the creator of the Lucida typeface, Chuck Bigelow, corroborates these findings with his own research.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>Don’t Buy Into The Hype」（脚注20）で、自身の研究により、この発見を確証しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Typesetting</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>タイプセッティング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Having chosen an inclusive typeface, we ought to do it justice with good composition.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>インクルーシブな書体を選択したら、優れた文字組みでその良さを発揮させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inclusive typesetting aids readability and is the task of choosing a measure, justification and leading which suit the typeface at hand.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>インクルーシブなタイプセッティングは、読みやすさを向上します。これは、使用している書体に合った？？カラム幅、行端揃え、行送り？？を選択する作業です。【コメント：訳語に問題ないかご確認ください。多数あります。「measure＝カラム幅」「justification＝行端揃え」「leading＝行送り」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>These provisions, according to Bigelow and others, are likely more important than the choice of font (unless the font is eye-wateringly illegible, of course).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ビゲロウなどによると、これらの対策はフォントの選択よりもさらに大切であるようです（もちろん涙が出るほど読みにくいフォントでなければの話です）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Measure</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>カラム幅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A paragraph’s measure is the length, in characters, of one line.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>パラグラフのカラム幅は1行の長さ（文字数）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In text that isn’t justified (see “Justification” below) this will vary, so you should measure the longest line of a sample paragraph.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>行端揃えされていないテキスト（下の「行端揃え」を参照）では、これはバラバラになります。このため、サンプルパラグラフの最も長い行の幅を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lines that are too long are difficult to read because, on reaching the end of the line, scanning back to find the start of the following line becomes problematic.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>行が長すぎると、行末まで読んだ後、次行の行頭を探すのが大変になるため読みにくくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lines that are too short require darting your eyes back and forth too frequently — something that becomes tiresome quickly.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>また、行が短すぎると、視線を頻繁に素早く往復させなくてはならなくなり、読む人はすぐに疲れてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In Robert Bringhurst’s book The Elements of Typographic Style, he recommends a measure between 45 and 75 characters.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ロバート・ブリングハースト（Robert Bringhurst）は著書『The Elements of Typographic Style』の中で、カラム幅を45～75文字にすることを推奨しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In CSS, 1rem roughly corresponds to the width of the typeface’s lowercase m, so a paragraph which is 60rem wide could be said to have a measure of 60 — nicely within range for comfort.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>CSSでは、1remが書体の小文字mの幅にほぼ該当します。このため、幅が60remのパラグラフはカラム幅が60であると言うことができ、ちょうど読みやすい幅に収まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Setting paragraphs’ measure directly is unwise, since in responsive and modular layouts they should wrap according to their containing element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>パラグラフのカラム幅を直接設定するのは賢い方法ではありません。レスポンシブなモジュール式のレイアウトでは、含まれる要素に応じて改行されるためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bearing this in mind, no container of text in your layout should exceed your stated measure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これを念頭に置いて、レイアウト内のテキストのコンテナは、指定したカラム幅よりも小さくすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For instance, your &lt;main&gt; element should be set with an appropriate max-width.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>たとえば、&lt;main&gt;要素は、適切なmax-widthで設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>main { max-width: 60rem;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>main {
+max-width: 60rem;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This has a useful outcome regarding media queries which augment the root font size: the measure adjusts proportionately.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これは、ルートのフォントサイズを大きくするメディアクエリに関して役立つ結果となります。カラム幅が比例的に調整されるためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, where I increase the font size for wider desktop screens, the measure — which is defined using a unit relative to the font size (rem) — also increases.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>たとえば、より幅が広いデスクトップ画面でフォントサイズを大きくする場合、カラム幅（フォントサイズに相対的な単位（rem）を使用して定義される）も大きくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>html { font-size: 100%;
+}
+
+main { max-width: 60rem;
+}
+
+@media (min-width: 120rem) { html { font-size: 150%; }
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>html {
+font-size:100%;/* デフォルトなので、このブロックは削除可能です*/
+}
+main {
+max-width: 60rem;
+}
+@media (min-width: 120rem) {
+html {
+font-size: 150%;
+}
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By virtue of relativity, we don’t just set an inclusive measure but ensure it within responsive layouts too.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>相対的に調整されるおかげで、インクルーシブなカラム幅をセットするだけでなく、レスポンシブなレイアウト内に確実に収めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Justification</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>行端揃え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Justification, possible by setting text-align: justify; in your CSS, is generally considered bad practice for web content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>CSSでtext-align:justify;を設定することで行える行端揃えは、一般にWebコンテンツには推奨されない慣習です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Justification means making each line the same length, which makes paragraphs look neater but can severely impair readability.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>行端揃えとは、各行を同じ長さにすることを意味します。これによりパラグラフの見た目はすっきりしますが、読みやすさは大きく損なわれる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you’ll excuse the pun, I’ve struggled to justify using justified text on many occasions because I just like the way it looks.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>駄じゃれのようで申し訳ありませんが、私は行端揃え（justification）の見た目が好きで、これを何度も正当化（justify）しようと試みてきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’d be the first to admit I was putting vanity before inclusion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>私自身が、インクルーシブより見た目の美しさを優先しようとしていたのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bad dog!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>悪い見本ですね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In text justification, to make each line of equal length, words need to be redistributed within their lines, creating distractingly uneven word spacing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>テキストの行端揃えでは、各行を同じ長さにするために、その行内で単語が再割り付けされるので、単語間のスペースが不均一になって読みにくくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Three columns of justified text with two instances of large word spaces highlighted.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>この2箇所は単語間のスペースが特に大きい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Justified text produces the worst results when using a narrow measure, such as in the column-based layout illustrated.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>行端揃えされたテキストは、この図に示すカラムベースのレイアウトのように、カラム幅が狭いときに最悪な結果になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In desktop publishing, this issue is mitigated by hyphenation: breaking up larger words to redistribute them more evenly.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>デスクトップパブリッシングでは、ハイフンで長い単語を分割し、より均等に再割り付けすることにより、この問題を軽減することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unfortunately, CSS hyphenation, available via the hyphens8 property, is poorly implemented across browsers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>残念ながら、hyphens（脚注21）で提供されるCSSのハイフンは、あらゆるブラウザで正しく実装されているわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One of the most popular browsers, Chrome, does not support hyphenation at all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>最も普及しているブラウザの1つであるChromeは、ハイフンをまったくサポートしていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To make matters worse, JavaScript polyfills9 for hyphenation tend to be extremely weighty because they must refer to a large library of agreed hyphenation patterns.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>さらに悪いことに、ハイフンを使用するためのJavaScriptポリフィル（脚注22）は、決まったハイフネーションパターンの大きなライブラリを参照する必要があるため、極度に重くなりがちです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not all browsers even support hyphenation for languages other than English.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ブラウザの中には、英語以外の言語でのハイフンをサポートしていないものもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For good readability without JavaScript dependencies and their attendant performance issues, the default text-align value of left is preferable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>JavaScriptに依存したり、それに付随するパフォーマンスの問題に頭を悩ますことなく、読みやすくするためには、デフォルトのtext-align値のleftの使用が推奨されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This results in a ragged right-hand side to your paragraphs, but users won’t care.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>この結果、パラグラフの右側は不揃いになりますが、ユーザーには気にならないでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They’ll be too busy effortlessly digesting your content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>彼らはコンテンツから情報を得るのに忙しいはずですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Leading (line-height)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>行送り（LINE-HEIGHT）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Leading relates to the height of individual lines.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>行送りは、各行の高さに関連しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is the vertical measure between one line’s baseline and the next.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>1つの行のベースラインと次の行のベースラインの間の距離です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the W3C’s WCAG 2.0 accessibility guideline 1.4.8 Visual Presentation10, it is recommended that a generous “space-and-a-half” of leading is applied to paragraphs.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>W3CのWCAG 2.0アクセシビリティガイドライン1.4.8「視覚的提示」（脚注23）では、パラグラフに「1行の高さの1.5倍」の行送りを適用することを推奨しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In CSS this can be expressed using the line-height property.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>CSSでは、これはline-heightプロパティを使用して表すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For instance, if the font size was 16px, the leading should be at least 24px.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>たとえば、フォントサイズが16pxの場合、行送りを24px以上にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, as stated earlier in “The Document,” it’s rarely advisable to use fixed units like pixels because it makes managing comfortable proportions a headache.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>しかし、先ほど「＄＄The Document＄＄」で説明した通り、通常は、ピクセルなどの固定の単位の使用は推奨されません。読みやすい比率を維持するのが難しくなるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead, line-height should be set as a unitless proportion:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>代わりに、単位のない比率としてline-heightを設定しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>/* (life is too short)
+p { font-size: 16px; line-height: 24px;
+}
+*/
+
+p { font-size: 1rem; line-height: 1.5;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>/* (人生はとても短い)
+p {
+font-size: 16px;
+line-height: 24px;
+}
+*/
+p {
+font-size:1rem;/* デフォルトなので、この行は不要です*/
+line-height:1.5;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now, as the paragraph font size is increased or decreased (either in a media query or by the user changing their font size settings), a comfortable, proportionate line height is ensured.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これで、パラグラフのフォントサイズが大きくなったり小さくなったりしても（メディアクエリによる変更、またはユーザーがフォントサイズ設定を変更した場合など）、読みやすいバランスのとれた行の高さになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When a pixel-based line height is used, the following is the result: Two paragraphs.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ピクセルベースの行の高さが使用されている場合、結果は以下のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The left one has a comfortable line height.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>標準フォントサイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The right one has the same line height but with larger letterforms, forcing each line to overlap.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ユーザーが大きくしたフォントサイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The danger of a line height that is not relative to the font size.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>フォントサイズと比例しない行の高さは危険です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contrast</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>コントラスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Why so many type designers are enamored with pale gray text on a white background, I’ll never know.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>なぜこれほど多くの書体デザイナーが、白の背景上に薄いグレーのテキストを好んで使うのか、私には分かりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Quite apart from it causing readability issues, it just looks feeble.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>読みやすさに問題が生じることはさておき、弱々しく見えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In any case, low-contrast combinations of text and background colors should be avoided.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>どちらにしても、テキストと背景の色のコントラストを低くするのは避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since it’s easy to become wedded to brand colors early in a project, instead of testing color contrast after the fact, I recommend designing an accessible color scheme from the outset.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>プロジェクトの初期段階ではブランドカラーに縛られやすいため、作成後に色のコントラストをテストするのではなく、最初から使えるカラースキームをデザインすることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Free tools like Contrast-A11 (requires Flash) and Color Safe12 are available to help you there.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これには、フリーツールのContrast-A（脚注24）（Flashが必要）やColor Safe（脚注25）などが役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you end up in the unfortunate position that colors were chosen without recourse to contrast accessibility, tools like Color Contrast Analyser13 can help you identify problem areas.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>コントラストのアクセシビリティを考慮せずに色が選択されてしまった場合は、Color Contrast Analyser（脚注26）などのツールを使えば問題のある領域を特定するのに役立つでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’m glad it’s not me who’ll have to inform your brand guru!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>？？ブランディングのリーダーに伝えるのが私の役割でなくてよかった！？？【コメント：不安訳です。原文「I’m glad it’s not me who’ll have to inform your brand guru!」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What’s less known is that very high contrast can actually diminish readability for some users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>あまり知られていませんが、コントラストが非常に高い場合も、一部のユーザーにとって読みにくくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sufferers of scotopic sensitivity syndrome14 (or Irlen syndrome) are sensitive to glare, and stark contrast can result in blurred text or text that appears to move around.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>アーレン症候群（脚注27）の人はまぶしさに敏感で、コントラストが強いとテキストがぼやけたり、動き回っているように見えることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is advisable to slightly temper the contrast between your paragraph text and background color.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>パラグラフのテキストと背景の色のコントラストは、少し控えめにすることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>main { background: #eee;
+}
+
+p { color: #222;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>main {
+background: #eee;
+}
+p {
+color: #222;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As I’ll restate throughout the book, there’s rarely an inclusive design provision that benefits only one kind of user or reader.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これから本書の中で繰り返し述べますが、1つの種類のユーザーまたは読者だけにメリットがあるインクルーシブデザイン対策はまずありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At this juncture I’d like to thank you in advance for dampening contrast in this way.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>皆さんにはこの機会に、「コントラストを弱めてくれてありがとう」と前もって言っておきますね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s because bright light has a habit of triggering migraines for me.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>私は明るい光を見ると片頭痛になるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thank you.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ご協力に感謝します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inline Links</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>インラインリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CSS is a blessing and a curse.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>CSSはありがたくもあり、厄介でもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It gives us the freedom to exercise our creativity, and it gives us the freedom to exercise our creativity.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>創造力を働かせる自由をくれると同時に、創造力を働かせなくてはならない自由をくれるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’m not saying every website and app should look the same, but we have a habit of breaking with conventions just to appear radical.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>あらゆるWebサイトとアプリの見た目が同じでなくてはならないとは言いませんが、ただ急進的な見た目にするために、慣習を壊そうとする癖が私たちにはあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here’s the thing: in a world of artifice and ornamentation, utility is radical.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>技巧と装飾の世界では、急進性は実用的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And utility depends on cognition, which depends on convention.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>そして実用性は認知に依存しており、認知は慣習に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The trick is to embrace convention without dispensing with personality.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>秘訣は、個性を失わずに、慣習を取り入れることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Save for button-like call-to-action links which play by different rules of affordance, it is conventional for links to be underlined.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>異なるアフォーダンスのルールで動作する、ボタンのようなコールトゥアクションリンクを除き、リンクにはアンダーラインを付加するのが慣習です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only does capitalizing on this convention help folks to identify links within paragraph text, but it also alleviates a more extreme concern of inclusive design: color blindness.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>この慣習を取り入れることで、パラグラフテキスト内のリンクが見分けやすくなるだけでなく、インクルーシブデザインで重視すべき色覚異常の問題も軽減されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By differentiating inline links by color alone, some readers will not be able to pick them out from the surrounding text, so there should be another means.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>色だけでインラインリンクを区別したのでは、一部の読者は周囲のテキストからリンクを見分けることができないので、別の手段が必要になるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For this reason, all browsers render text with text-decoration: underline by default, making inline link design a classic case of doing nothing being a perfectly good resolution.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>すべてのブラウザは、デフォルトでtext-decoration: underlineを使用してテキストを表示し、インラインリンクのデザインは「何もしないのが完璧な決断である」ことを示す典型的な例になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But it’s possible to improve on text-decoration: underline.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>しかし、text-decoration: underlineはさらに良くすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With custom CSS, we can keep the symbolic role of an underline but implement it better.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>カスタムのCSSを使用すれば、アンダーラインの象徴的な役割はそのままに、より優れた方法で実装できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Improved Link Underlines</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>リンクのアンダーラインの向上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since an underline tends to sit directly below the typeface’s baseline, it cuts through the descenders of letterforms like g and j, diminishing the readability of linked text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>アンダーラインは書体のベースラインの直下に付加されことが多いため、gやjなどの文字のディセンダの上をアンダーラインが横切り、リンクテキストが読みにくくなることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ideally, the underline should not intersect the form of descenders but leave space for them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>できればアンダーラインはディセンダと交差せず、間隔が空いているのが理想です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A solution partly developed at Medium15 does just this, using a CSS background gradient and text shadow.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>Medium（脚注28）が部分的に開発した解決策は、CSSの背景グラデーションとテキストシャドウを使用して、まさにそれを実現しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here is my adapted version:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>以下は私が手を加えたバージョンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>p a { text-decoration: none; text-shadow: 0.05em 0 0 #fff, -0.05em 0 0 #fff, 0 0.05em 0 #fff, 0 -0.05em 0 #fff, 0.1em 0 0 #fff, -0.1em 0 0 #fff, 0 0.1em 0 #fff, 0 -0.1em 0 #fff; background-image: linear-gradient(to right, currentColor 0%, currentColor 100%); background-repeat: repeat-x; background-position: bottom 0.05em center; background-size: 100% 0.05em;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>p a {
+text-decoration: none;
+text-shadow: 0.05em 0 0 #fff, -0.05em 0 0 #fff,
+0 0.05em 0 #fff, 0 -0.05em 0 #fff,
+0.1em 0 0 #fff, -0.1em 0 0 #fff,
+0 0.1em 0 #fff, 0 -0.1em 0 #fff;
+background-image: linear-gradient(to right, currentColor 0%, currentColor 100%);
+background-repeat: repeat-x;
+background-position: bottom 0.05em center; background-size: 100% 0.05em;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The standard text decoration underline compared with the superior gradient technique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The gradient version pairs blue text with a gray underline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When using custom, gradient-based underlines you have the luxury of being able to control their color independently of the font color.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>カスタムのグラデーションベースのアンダーラインを使用すると、フォントの色とは別にアンダーラインの色を制御することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In this implementation, a linear-gradient background with a height of just 0.05em forms the underline.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>この実装では、高さがわずか0.05emのlinear-gradient背景がアンダーラインを形成しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Descenders are not crossed thanks to a text shadow which protects the letterforms like a moat protects a castle.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>テキストシャドウのおかげでアンダーラインはディセンダの上を通らず、まるで堀が城を護っているかのように文字が保護されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that unlike text-decoration: underline;, this underline is adjustable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>text-decoration: underline;とは異なり、このアンダーラインは調整可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can tweak the vertical positioning using background-position, and the thickness using background-size to find the most readable solution for the typeface.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>background-positionで垂直位置を調整したり、background-sizeで太さを調整したりして、書体が最も読みやすくなる方法を見つけることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Be wary, though, of older browsers that do not support gradient backgrounds.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ただし、グラデーション背景をサポートしていない古いブラウザには注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>These should have a text-decoration fallback:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これらにはtext-decorationフォールバックが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.ie-lte-9 a { text-decoration: underline;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>.ie-lte-9 a {
+text-decoration: underline;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Indicating Focus</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>フォーカスを示す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One approach to inclusive interaction design is to look at interfaces from the perspective of human interface devices (HIDs): different devices which allow input from and/or output to a human user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>インクルーシブなインタラクションデザインへのアプローチの1つに、ヒューマンインターフェイスデバイス（HID）の視点からインターフェイスを見るという方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A mouse is an HID.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>HIDは、人間（ユーザー）が入出力を行えるさまざまな機器で、マウスもその1つです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So are keyboards, touch displays, refreshable braille displays and keyboards, joysticks16 and switches17.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>その他には、キーボード、タッチディスプレイ、点字ディスプレイおよびキーボード、ジョイスティック（脚注29）、スイッチ（脚注30）などがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Designing inclusively is to support as many of these as possible and provide alternative content and interaction mechanisms where this isn’t possible.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>インクルーシブなデザインの目的は、これらをできるだけ広くサポートし、それが不可能な場合には、代替のコンテンツやインタラクションメカニズムを提供することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Making an element keyboard-accessible is quite straightforward:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>キーボードで要素にアクセスできるようにするのは、非常に簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Make sure the element is focusable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• 要素をフォーカス可能にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Make sure the focusable element is visible.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• フォーカス可能な要素を可視にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Make sure the focus state of the element is visible.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• 要素のフォーカス状態を可視にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Links, like the &lt;button&gt; element addressed in the introduction, are implicitly focusable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>「はじめに」で触れた&lt;button&gt;要素などのリンクは、暗黙的にフォーカス可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thanks to standard browser behavior, any &lt;a&gt; element with an href attribute which is the next focusable element within the document will gain focus when the user hits the Tab key.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>標準のブラウザ動作のおかげで、ユーザーがTabキーを押すと、ドキュメント内で次にフォーカス可能な要素である、href属性を持つ&lt;a&gt;要素にフォーカスが移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It then becomes operable: you can follow the link by pressing Enter.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これでそのリンクが操作可能になり、Enterを押せばリンクをたどることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Even so, if links are not styled so their focus state is indicated, it’s impossible for the user to see which element is indeed in current focus.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>とは言え、リンクにフォーカス状態を示すスタイルが適用されていなければ、ユーザーには現在どの要素がフォーカスされているのか分かりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is where focus styles come in.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>そこで登場するのがフォーカスのスタイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Browsers implement their own focus styles ranging from dotted outlines to fuzzy blue halos.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ブラウザには、ドットのアウトラインや？？ぼんやりとした青い光の輪？？など、それぞれ独自のフォーカススタイルがあります。【コメント：不安訳です。どのブラウザの表示か分かりません。原文「fuzzy blue halos」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can replace these default styles, but you should never just remove them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これらのデフォルトのスタイルは置き換えることができますが、単に削除するのは絶対に避けてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We can strengthen and simultaneously normalize the appearance of focus styles for our paragraph links across browsers by using a background-color solution.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>background-colorを使用することで、パラグラフのリンクのフォーカススタイルを強調すると同時に、複数のブラウザ間で標準化することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>p a:focus { outline: none; background-color: #cef;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>p a:focus {
+outline: none;
+background-color: #cef;
+text-shadow: 0.05em 0 0 #cef, -0.05em 0 0 #cef,
+0 0.05em 0 #cef, 0 -0.05em 0 #cef,
+0.1em 0 0 #cef, -0.1em 0 0 #cef,
+0 0.1em 0 #cef, 0 -0.1em 0 #cef;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The basic dotted outline focus style compared with a blue background focus style. A background color creates a filled box which is easier to identify as focus moves between elements than the dotted outline some browsers provide by default.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>背景色によって塗りつぶされたボックスが作られます。一部のブラウザがデフォルトで提供するドットのアウトラインに比べると、要素間でのフォーカスの移動が分かりやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is much clearer than the thin dotted outline that many browsers apply by default.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>この方が多くのブラウザでデフォルトで使用される薄いドットのアウトラインよりも明確です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s a style implemented on the official UK government website, GOV.UK18; an exemplar of inclusive service design, with a responsibility to be usable by every British citizen.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これは、イギリス政府の公式Webサイト、GOV.UK（脚注31）が実装しているスタイルです。イギリスの全国民に対して利用可能にするという責任を自覚した、インクルーシブサービスデザインの模範と言えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The subject of focus styles will come up in many patterns to follow, as more and different interactive elements are added to our vocabulary.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>？？フォーカススタイルというテーマは、私たちの語彙に存在するインタラクティブ要素の数や種類が増えるにつれ、多くのパターンで現れます。？？【コメント：不安訳です。原文「The subject of focus styles will come up in many patterns to follow, as more and different interactive elements are added to ourvocabulary.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Automated Icons</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>自動化されたアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Folks who update and maintain websites can be non-technical and frequently have no confidence (nor interest) in visual design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>Webサイトの更新や保守を行う人は、技術に詳しくない場合があり、しばしばビジュアルデザインに自信（や興味）がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An inclusive editorial system should be streamlined so that it doesn’t force editors to think about and deal in code or formatting.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>編集者にコードやフォーマットについて考えさせたり、作業させたりすることがないよう、インクルーシブな編集システムを整える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It should enable them to get on with what they’re good at without the fear of breaking anything.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>そうすれば、編集者は何かを壊すのではないかと恐れることなく、自分の得意とする作業を進めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By employing a modicum of fairly advanced CSS, it’s possible to provide iconography within paragraph text which is inclusive on two counts:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>高度なCSSを少し取り入れることで、次の2つの点についてインクルーシブな形で、イコノグラフィーをパラグラフテキスト内に提供することが可能になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•It does not complicate the editorial process.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• 編集プロセスを複雑にしない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•It provides accessible information to users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• アクセス可能な情報をユーザーに提供する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When linking to an external resource on a separate domain, it’s polite to inform the user that following the link will take them out of the current context.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>別のドメインにある外部リソースにリンクする場合、そのリンクを開くと現在のコンテキストから外に移動することをユーザーに伝えた方が親切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is especially helpful to screen reader users who will have become accustomed to the current site’s features and layout.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>特に、現在のサイトの機能やレイアウトに慣れているであろうスクリーンリーダーユーザーにとっては役に立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In other words, you avoid a “Where the hell am I?” moment.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>つまり、「いったい今どこにいるんだ？」という状態にならないようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Identifying External Links</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>外部リンクを特定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The first step is to identify which links qualify as external.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>最初のステップは、外部リンクとみなされるリンクを特定することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Any link href which begins with http (i.e. is not a relative link) and does not link to the current domain passes muster.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>httpで始まる（つまり相対リンクではない）、現在のドメインにリンクしていないhrefはすべて外部リンクです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>My blog’s local domain is heydonworks.com, so I’d build a selector like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>私のブログのローカルドメインはheydonworks.comなので、セレクタを次のように構築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>[href^="http"]:not([href*="heydonworks.com"])</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>[href^="http"]:not(href*="heydonworks.com"])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Translated, the selector reads, “Links with href values that start with http but do not contain the string heydonworks.com.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>説明すると、このセレクタは「httpで始まり、heydonworks.comという文字列を含まないhref値を持つリンク」と言っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Providing the Icon</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>アイコンの提供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As discussed, an inclusive editorial experience is one where the editor is not asked to think and work in an unfamiliar way.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>先ほど述べたように、インクルーシブな編集体験とは、編集者がよく分からないことを考えたり作業したりすることを要求されないものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In which case, we don’t want to ask editors to have to upload and link icon images or — worse still — edit the source to add a class attribute to each external link.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>それを実現するには、編集者にアイコンイメージをアップロードしてリンクするよう頼むのは避けたいですし、ましてやソースを編集して各外部リンクにclass属性を追加してもらうことなど頼めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead, we can use CSS pseudo-content to automatically add the icon based on the matched selector:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>代わりに、CSS疑似コンテンツを使用して、一致したセレクタに基づいてアイコンを自動的に追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>[href^="http"]:not([href*="heydonworks.com"])::after { display: inline-block; width: 1em; height: 1em; background-image: url('path/to/external-icon.svg'); background-repeat: no-repeat; background-position: center; background-size: 75% auto;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>[href^="http"]:not([href*="heydonworks.com"])::after {
+display: inline-block;
+width: 1em;
+height: 1em;
+background-image: url('path/to/external-icon.svg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: 75% auto;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note the use of relative units and a percentage-based background-size to make sure the icon scales with the text when it is resized by the user or in a media query.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ユーザーによって、またはメディアクエリでテキストのサイズが変更されたときに、これに合わせてアイコンのサイズが変更されるよう、相対的な単位およびパーセンテージに基づくbackground-sizeが使用されていることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Alternative Text</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>代替テキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That just leaves adding some hidden text to also inform screen reader users that the link is external.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>後は、スクリーンリーダーユーザーに、リンクが外部であることを知らせる、隠しテキストを追加するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is achievable using the content property and a few supplementary rules to move it out of sight without affecting layout.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>これには、contentプロパティと、レイアウトに影響させずに非表示にするための補足的なルールを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>[href^="http"]:not([href*="heydonworks.com"])::after { display: inline-block; width: 1em; height: 1em; background-image: url('path/to/external-icon.svg'); background-repeat: no-repeat; background-position: center; background-size: 75% auto; /* alternative text rules */ content: '(external link)'; overflow: hidden; white-space: nowrap; text-indent: 1em; /* the width of the icon */
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>[href^="http"]:not([href*="heydonworks.com"])::after { display: inline-block;
+width: 1em; height: 1em;
+background-image: url('path/to/external-icon.svg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: 75% auto;
+/* 代替テキストのルール */
+content: '(external link)';
+overflow: hidden;
+white-space: nowrap;
+text-indent: 1em; /* アイコンの幅 */
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s a common misconception that pseudo-content (in this case, “(external link)”) is not announced in screen readers19.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>疑似コンテンツ（ここでは「(external link)」）はスクリーンリーダーで読み上げられないというのは、よくある誤解です。（脚注32）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not all screen reader and browser combinations support pseudo-content, but most do.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>すべてのスクリーンリーダーとブラウザの組み合わせが疑似コンテンツをサポートしているわけではありませんが、ほとんどはサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Those that don’t support it provide a less informative experience, but not a broken one.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>？？サポートしていない組み合わせでは、得られる情報量は少なくなりますが、まったく役に立たないわけではありません。？？【コメント：この解釈で問題ないでしょうか。原文「Those that don’t support it provide a less informative experience, but not a broken one.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Writing Paragraphs</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>パラグラフの記述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It would be remiss of me to talk about inclusive paragraph design without mentioning how to actually write approachable, accessible content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>分かりやすくて利用しやすいコンテンツを実際に書く方法に触れずに、インクルーシブなパラグラフデザインについて語ることは許されないでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Copywriting requires design just as much as form and composition, but in a culture dominated by visual design it tends to be put to one side; deferred until frankly less important decisions about aesthetics and ornamentation have been settled.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>コピーライティングは、フォームや構図と同じくらいデザインを必要としますが、視覚的なデザインが優位にある文化の中で、後回しにされがちです。実のところ、これより重要性の低い、見た目の美しさや装飾が決定されるまで保留されてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’m a big believer in content-first design20.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>私は、コンテンツファーストのデザインを強く信じています。（脚注33）
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As stated in the principles outlined in the introduction, all other design activities should be treated as merely supportive of the content and its formation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>「はじめに」で概説した原則で述べたように、他のすべてのデザイン活動は、コンテンツやその編成を単に支えるものとして行うべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What makes things hard is that, unlike dealing in accessible interaction states or color contrast levels, accessible wording is not easy to measure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>難しいのは、アクセシブルなインタラクション状態や色のコントラストレベルでの対処とは異なり、アクセシブルな言葉遣いは簡単には評価できないということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nonetheless, there are some general guidelines that are applicable to paragraph text:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>とは言え、パラグラフテキストに適用できる汎用的なガイドラインがいくつかあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Write short paragraphs, sentences and words.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• パラグラフ、文章、単語は短くする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“I purchased a mammalian companion of the canine variety” is never better than “I bought a dog.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>「私は共に過ごすイヌ科の哺乳類を購入した」が「私は犬を買った」に勝ることはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Be wary of passive sentences21.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• 受動態の文に気を付ける。（脚注34）
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They can often be replaced by a more direct alternative.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>多くの場合、より直接的な表現に置き換えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There’s no need to say the convoluted, “a pork pie was eaten by Harry” when you can just as well say, “Harry ate a pork pie.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>回りくどく言う必要はありません。「ハリーがポークパイを食べた」と言えるのに、「ポークパイがハリーに食べられた」とする必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Eliminate redundancy.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• 重複は避ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s rarely worth saying the same thing twice in different ways.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>たいていの場合、別の方法で同じことを2回言っても価値はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Avoid repetition.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>繰り返しはやめましょう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(See what I did there?)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>（？？悪い例を実演してみました？？）。【コメント：意訳しています。原文「See what I did there?」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Vary the length of sentences and paragraphs.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• 文章やパラグラフの長さに、ばらつきを持たせる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This reduces monotony, encouraging focus.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>単調さが軽減し、読む人を飽きさせません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Acknowledging the importance of good copy design will form a part of many patterns in this book.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>本書で述べる多くのパターンに、優れたコピーデザインの重要性を理解することが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, “The Blog Post” will cover testing content readability against the Flesch-Kincaid scale22.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>たとえば、「ブログ記事」ではFlesch-Kincaidスケール（脚注35）を指標としたコンテンツの読みやすさのテストについて説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For now, note this down: everything but content is an enhancement.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>ここではまず、コンテンツ以外のすべては補強である、ということを覚えておいてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Therefore, your prototypes and minimum viable product should contain real and preferably well-considered copy, ready to be tested with your users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>したがって、プロトタイプと実用最小限のプロダクトは、実際の、できれば十分に練られたコピーを含み、ユーザーがテストできる状態になっているべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you’re going to get something right from the outset make it the content, not the typography, layout or color scheme.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>根本から正しいものを作ろうとするのであれば、タイポグラフィでもレイアウトでもカラースキームでもなく、しっかりとしたコンテンツを作ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>まとめ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Well, there’s more that goes into humble paragraph text design than perhaps you first imagined.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>地味なパラグラフテキストのデザインには、皆さんが最初にイメージしていたよりも、おそらくたくさんのことが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By looking at typefaces, leading, measure, justification, contrast, focus indication and more, we’ve set ourselves on the right path to formulate paragraphs suited for a hugely diverse audience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>書体、行送り、カラム幅、行端揃え、コントラスト、フォーカス状態の表示などを学ぶことで、非常に多様な閲覧者に合ったパラグラフを計画するための、正しい第一歩を踏み出しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By tackling specific issues we know would affect folks with limited vision, dyslexia, Irlen syndrome, low literacy and limited technical knowledge, a comfortable reading and interaction experience has been ensured for most everyone else.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>視力の制限、ディスレクシア、アーレン症候群を持っていたり、識字能力に問題があったり、広い技術知識を持たない人々に影響すると分かっている、特定の問題に対処することで、快適に読んだり、操作したりできる体験をほぼすべての人に提供できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Things to Avoid</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>避けるべきこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Wording and typefaces designed to impress rather than communicate.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• 伝達することではなく、印象付けることを目的にデザインした言葉遣いや書体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•A measure that’s too long or too short.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• 長すぎる、または短すぎるカラム幅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Reasonably high contrast, without defaulting to stark black on white.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• デフォルトの白地に黒ではない、かなり高いコントラスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Eliminating focus styles with outline: none;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>• outline:none;を使用してフォーカススタイルを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.http://bradfrost.com/blog/post/atomic-web-design/#atoms 2.https://en.wikipedia.org/wiki/X-height 3.http://bdatech.org/what-technology/typefaces-for-dyslexia/ 4.http://sugoru.com/2013/07/14/designing-for-the-extremes/ 5.http://sugoru.com/2013/07/14/designing-for-the-extremes/ 6.http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf 7.http://www.fastcodesign.com/3038596/fast-feed/a-typeface-for-dyslexics-dont-buy-into-the-hype 8.https://developer.mozilla.org/en/docs/Web/CSS/hyphens 9.https://github.com/mnater/Hyphenator 10.https://www.w3.org/TR/WCAG20/#visual-audio-contrast-visual-presentation 11.http://www.dasplankton.de/ContrastA/ 12.http://colorsafe.co/ 13.https://www.paciellogroup.com/resources/contrastanalyser/ 14.http://irlen.com/what-is-irlen-syndrome/ 15.https://medium.com/designing-medium/crafting-link-underlines-on-medium-7c03a9274f9#.hnbr08cjr 16.http://www.bltt.org/hardware/joysticks.htm 17.https://en.wikipedia.org/wiki/Switch_access 18.https://www.gov.uk/ 19.http://tink.uk/accessibility-support-for-css-generated-content/ 20.http://alistapart.com/blog/post/content-first-design 21.https://en.wikipedia.org/wiki/English_passive_voice 22.https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T032112Z">
+        <seg>15 http://bradfrost.com/blog/post/atomic-web-design/#atoms
+16 https://en.wikipedia.org/wiki/X-height
+17 http://bdatech.org/what-technology/typefaces-for-dyslexia/
+18 http://sugoru.com/2013/07/14/designing-for-the-extremes/
+19 http://smashed.by/dyslexiastudy
+20 http://smashed.by/dyslexiafont
+21 https://developer.mozilla.org/en/docs/Web/CSS/hyphens
+22 https://github.com/mnater/Hyphenator
+23 http://smashed.by/levelaaa
+24 http://www.dasplankton.de/ContrastA/
+25 http://colorsafe.co/
+26 https://www.paciellogroup.com/resources/contrastanalyser/
+27 http://irlen.com/what-is-irlen-syndrome/
+28 http://smashed.by/underlines
+29 http://www.bltt.org/hardware/joysticks.htm
+30 https://en.wikipedia.org/wiki/Switch_access
+31 https://www.gov.uk/
+32 http://tink.uk/accessibility-support-for-css-generated-content/
+33 http://alistapart.com/blog/post/content-first-design
+34 https://en.wikipedia.org/wiki/English_passive_voice
+35 http://smashed.by/flesch</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

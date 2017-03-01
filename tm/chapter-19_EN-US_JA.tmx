@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inclusive Prototyping | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inclusive Prototyping</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>インクルーシブなプロトタイプ制作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This book offers a number of preconceived solutions to certain problems, approached with inclusion in mind.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>本書では、特定の問題に対する、インクルージョンを念頭に置いた既存の解決策を数多く紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though you’re likely to use some as presented (like the navigation region pattern) across many of your projects, they’re really just examples.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>皆さんはそのうちのいくつか（ナビゲーション領域のパターンなど）を実際のプロジェクトの多くで使う可能性が高いでしょうが、それらはただの例にすぎません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They’re here to help you practice thinking inclusively as you formulate your own patterns to solve your own design problems.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ここで紹介する解決策は、皆さんがデザインの問題に直面し、それを解決する独自のパターンを考案する際に、インクルージョンを意識して考える訓練をするためのものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s investing this thought in the early stages of the design process that leads to a robust product.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>そうした考え方をデザインプロセスの早い段階から持つことが、堅牢な結果につながるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Drawing on what we learn about our potential audience in the discovery phase1 of our project, we begin to think about what tasks our app will allow users to perform.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>プロジェクトの発見の段階（脚注126）で潜在的な閲覧者について学んだことを利用して、ユーザーがどのようなことを実行できるアプリケーションにするかを考え始めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In essence, we begin to stockpile verbs: create, sort, edit, buy, read, respond, move, capture, draw, upload.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>要するに、作成する、ソートする、編集する、購入する、読む、答える、動かす、キャプチャーする、描く、アップロードするといった動詞を蓄積していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s imperative we think first about how these actions might be taken rather than how the experience might look and feel.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>まずは、ルックアンドフィールなどよりも、こうしたアクションがどのように行われるかについて考えることが必要不可欠です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thinking about aesthetics and delight is far too high-level at this stage.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>見た目の美しさや楽しみについて考えるのは、この段階ではまだレベルが高すぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We need to prototype for usability, and the more inclusive the prototyping experience, the more people will find the product usable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ユーザビリティに焦点を当てたプロトタイプ制作を行う必要があり、プロトタイプの体験がインクルーシブなほど、より多くの人がプロダクトを使いやすいと感じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Paper Prototyping</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ペーパープロトタイピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Almost all of the successful projects I’ve worked on as a designer and developer have included interactive paper prototyping in the early stages of the design process.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>私がこれまでデザイナーおよび開発者として取り組んで良い結果を収めたほぼすべてのプロジェクトでは、デザインプロセスの早い段階でインタラクティブなペーパープロトタイピングを行いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, the Great British Public Toilet Map2 started out with me drawing and cutting out pictures of toilets in the offices of Neontribe3.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>たとえば、Great British Public Toilet Map（脚注127）のプロジェクトでは、まずNeontribe社（脚注128）のオフィスにあるトイレの絵を描いて切り抜くことから始めました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not to be confused with sketching, paper prototyping is about creating an interactive prototype from paper, which — with the help of someone to manually operate it — allows user testers to play with a rough-and-ready demo version of the candidate app.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>スケッチと混同しないように説明しますが、ペーパープロトタイピングでは、紙を使ってインタラクティブなプロトタイプを作成します。これを手で操作することで、ユーザーテスターにテスト対象のアプリケーションの即席デモをあれこれと試してもらうのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There are a number of advantages to paper prototyping over high fidelity and code-based demos.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ペーパープロトタイピングには、忠実度の高いコードベースのデモよりも優れている点がいくつもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Most anyone can work with paper. Coded prototypes require some skill in front-end development.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• 何よりも、紙ならだれでも扱える。コード化されたプロトタイプには、フロントエンド開発のスキルがいくらか必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Committing to work with paper means other team members, including back-end developers and others not confident in their design skills, can have a try.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>紙を使えば、バックエンド開発者やデザインスキルに自身のない人といった他のチームメンバーも試すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Importantly, it also means stakeholders and test users can be included in iteration.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>重要なのは、関係者やテストユーザーもイテレーションに参加できる点です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•It’s easy to iterate. Paper prototypes are mostly just pen on paper, held together with sticky tack.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• イテレーションが容易。ペーパープロトタイプの多くは、ペンで紙に描いたものを？？粘着ラバー？？で1つにまとめてあるだけです。【コメント：訳語に問題ないかご確認ください。複数あります。初出のみ？？を付けました。原文「sticky tack」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By using sticky tack to piece components together, it’s easy to move parts around.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>粘着ラバーを使って各構成要素をつなぎ合わせているので、パーツは簡単に移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you want new parts, just get out some spare bits of paper and your marker pens.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>新しいパーツが必要になったら、小さな紙とペンを取り出すだけ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This can be done during test sessions and can involve everyone present — infinitely preferable to sitting around twiddling thumbs while a front-end dev fiddles anxiously with their laptop.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>これならテストセッション中に作業でき、その場にいる誰もが手伝えます。フロントエンド開発者がノートPCを気遣わしげに操作する様子を手持ち無沙汰で待っているよりずっとましです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•It’s not polished. The trouble with high-fidelity mockups and prototypes is that they tend to look finished.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• 完成度が低い。忠実度の高いモックアップやプロトタイプの問題点は、完成したように見えることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>People are polite and you won’t get honest feedback about something that looks like it’s had a lot of work put into it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>人は礼儀をわきまえているので、多大な労力をかけたように見えるものに対する率直な感想を聞き出すのは難しいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That it’s made of paper at all means it’s clearly only an allegory of the real app, so feedback about aesthetic particulars is kept to a minimum.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>また、紙で作られていれば、本物のアプリケーションの例示品にすぎないことが明らかなので、見た目の美しさに関するフィードバックを最小限に抑えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Focus remains on whether the idea solves the problem well.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>焦点が、そのアイデアで問題がうまく解決できるかどうかからずれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What You Will Need</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>必要なもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s imagine you’re embarking on a paper prototype.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ペーパープロトタイピングに着手することになったとしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First, we’ll take care of what you need in terms of equipment and why.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>まずは、必要な道具と、その理由について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Large pieces of paper (preferably A2)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• 大判の紙（A2を推奨）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Scissors</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• ハサミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Sticky tack</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• 粘着ラバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Permanent marker pens</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• 耐水性マーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Sheets of acetate</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• ？？アセテートフィルム？？【コメント：訳語に問題ないかご確認ください。複数あります。初出のみ？？を付けました。原文「Sheets of acetate」または「acetate」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•A dry-wipe (whiteboard-style) pen</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• ？？ホワイトボード用のペン？？【コメント：訳語に問題ないかご確認ください。複数あります。初出のみ？？を付けました。原文「A dry-wipe (whiteboard-style) pen」または「dry-wipe pen」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Large Pieces of Paper</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>大判の紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Whether your prototype is intended to demo an app for small handheld devices or large installation screens, it’s better to begin large.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>プロトタイプでデモを行おうとしているアプリケーションが、小さい携帯端末用でも、大型の設置型スクリーン用でも、最初は大きく作ることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A large viewport (paper sheet to which smaller parts of the paper app are adhered) means more people in your test environment can simultaneously see it as it is being used.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>大きいビューポート（紙製アプリケーションの小さいパーツを貼り付ける紙面）なら、テストの場にいる多くの人が、アプリケーションが使用されている様子を同時に見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That means everyone can feel involved, and more and better notes can be taken.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>全員が参加しているように感じることができ、より多くのことにじっくりと注意を払うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Obviously, you’ll need a table big enough to sit the prototype on!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>当然ながら、プロトタイプを置く広いテーブルも必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Scissors</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ハサミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Just like a real app, the viewport will be divided into smaller sections or components.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>本物のアプリケーションと同じように、ビューポートを小さいセクションやコンポーネントに分けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You’ll need to cut some of your larger sheets into smaller ones to be placed on top of the base sheet.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>何枚かの大判の紙を小さく切って、台紙の上に配置する必要が出てくるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you have a guillotine handy all the better, but don’t worry too much about all the lines being parallel.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>裁断機が手元にあればさらに良いですが、すべての線がきっちり平行でなくても大丈夫です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The wonkier the prototype looks (within reason!), the less intimidating and more approachable it is.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>少しいびつなプロトタイプほど（ただし妥当な範囲内で！）、敷居が低くてとっつきやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sticky Tack</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>粘着ラバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sticky tack is what makes the paper app modular and lets you quickly move components around, either as part of the app’s operation or as part of layout iteration.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>粘着ラバーを使えば、紙のアプリケーションがモジュール式になるので、コンポーネントをすばやく移動して、アプリケーションの操作を検討したり、レイアウトのイテレーションを行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Whenever a part of a component is liable to be moved or replaced, use a separate piece of paper and stick it in place with tack.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>コンポーネントの一部を動かしたり置き換えたりする可能性がある場合は、個別の紙片を使って、粘着ラバーで適所に貼り付けましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Permanent Marker Pens</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>耐水性マーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Of course, you’ll need to write labels, draw borders around buttons and make various other markings, so some pens are essential.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>当然ですが、ラベルを書いたり、ボタンの輪郭線を引いたり、さまざまな線や印などを描き込む必要があるので、ペンが何本か必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, try to limit yourself to just a few colors — this isn’t an art project.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ただし、使う色は絞り込みましょう。これはアートプロジェクトではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I usually make sure I have a couple of black pens, then choose a red for errors, green for success messages, and blue for links and buttons.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>私はたいてい、黒のペンを数本用意し、あとはエラー用に赤、成功のメッセージ用に緑、リンクやボタン用に青を使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sheets of Acetate</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>アセテートフィルム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you’re making an app, there are probably going to be some input fields.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>アプリケーションを作っている場合は、何らかの入力フィールドがあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Acetate is great when it comes to prototyping input fields because it allows the user tester to write on the paper prototype non-permanently.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>アセテートフィルムはユーザーテスターがペーパープロトタイプに一時的に描き込むことができるので、入力フィールドのプロトタイプを作るのに最適です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They can correct their mistakes and the writing can be quickly removed ready for the next test session.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>間違いを修正したり、書いたものをすばやく消して次のテストセッションの準備をすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Dry-Wipe Pen</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ホワイトボード用のペン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Naturally, you’ll need one of these for use with the acetate (see above).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>アセテートフィルムに書き込むときに使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is not used in the construction of the prototype, but is needed in the testing described below.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>プロトタイプの作成では使用しませんが、次に説明するテストで必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Make sure the one you take to the test session has some ink in it!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>テストセッションの前にインクが残っていることを確認しましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left diagram shows sticky tack being adhered to four corners of paper rectangle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right diagram shows this paper rectangle being stuck to a larger piece of paper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>After adhering sticky tack to each corner of your component (1), you can place it on a larger, parent component (2).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>コンポーネントの四隅に粘着ラバーを貼り付けたら（1）、それを大きい親コンポーネントの上に配置します（2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can always unstick it and move it later.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>後からいつでもはがして移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Testing the Paper Prototype</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ペーパープロトタイプのテスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Paper prototype testing is a slightly unusual ritual with a few things to remember and set up.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ペーパープロトタイプのテストはやり方が少し独特で、いくつか覚えておくべきことがあり、セットアップも必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bring plenty of spares. A good session leads to fevered iteration.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>予備を十分に用意する。良いテストセッションでは盛んなイテレーションが行われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lots of spare paper and plenty of pens and scissors to go around are vital.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>大量の予備の紙と、十分な量のペン、ハサミが欠かせません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Write a scenario. Putting a user tester in front of your prototype cold will amount to stunned inaction.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>シナリオを書く。ユーザーテスターをいきなりプロトタイプの前に連れてきても、途方に暮れて何もできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give them a scenario to work through, something the app should be able to solve for them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>彼らにこなすべきシナリオを与えましょう。アプリケーションを使って解決できるはずのことをやってもらうのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s important this scenario is fictional, and not drawn from the individual’s real experiences for the sake of privacy.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>このシナリオは架空のものであることが大切です。プライバシーに配慮して、個人の実体験を題材にしたものは避けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Appoint a computer. Someone who built the prototype will have to operate it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>コンピュータ役を任命する。プロトタイプを作った人が、それを稼働させなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That means reacting to (role-played) input by the user tester.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>つまり、ユーザーテスターによる（ロールプレイの）入力に反応するのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When the tester presses a button, for instance, the computer will have to reorganize the app in response.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>たとえば、テスターがボタンを押したら、コンピュータはそれに応じてアプリケーションを再編成する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the button deletes something this would mean unsticking the paper component and putting it to one side.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ボタンが何かを消去したのなら、その紙のコンポーネントをはがして脇にどけるといった具合です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>4.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give clear instructions. Tell the user tester they can touch any items in the interface they think are interactive.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>明確な指示を与える。ユーザーテスターに、インターフェイス内のインタラクティブだと思ったアイテムはどれでも触ってかまわないと伝えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Importantly, tell them to speak out loud what they are thinking as they use the prototype.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>重要なのは、プロトタイプの使用中に考えていることを声に出して言うように指示することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is important for understanding where there are usability failures and what needs to be overcome.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>これは、どこにユーザビリティの不具合があるかや、どんな問題を取り除く必要があるかを理解するうえで重要なことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>5.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instill calm. It’s easy for the user to feel tested, so make it clear that you are not testing them but the app itself.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ユーザーテスターを落ち着かせる。ユーザーは、自分が試されていると感じてしまいがちなので、これは彼らをテストしているのではなく、アプリケーションのテストだということをはっきりと伝えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If they don’t know how to operate it, make it clear in advance that it’s not their fault, but yours as the designer.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>操作方法が分からなくても、それは彼らの落ち度ではなく、デザイナーのミスだと事前に言っておきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On left, a smartphone with a heavy weight hung precariously over it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On right, a person with a heavy weight hung precariously over them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The text underneath reads ‘Test usability, not users.’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A T-shirt design I made for usability expert Lily Dart4 during her time consulting my former employer, Neontribe5.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ユーザビリティのエキスパート、リリー・ダート（Lily Dart、http://lilydart.com/）のために私が作ったTシャツのデザイン。彼女が私の以前の勤め先であるNeontribe社（脚注129）のコンサルタントをしていたときのことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It bears her mantra, “Test usability, not users.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>「Test usability, not users.（ユーザーではなく、ユーザビリティをテストする）」というのは彼女のモットーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Layout</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To give you a better picture of the testing setup, here’s an annotated sketch.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>テストのセットアップをイメージしやすくするために、注釈つきのイラストを用意しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An aerial view of the testing session.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Participants sit around a table with the person playing the computer on the left and two user testers to the right.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Only one is operating the prototype.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A note taker sits at the bottom center.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The person playing the computer.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>コンピュータ役をする人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A collection of prototype bits and pieces (other screens, yet-to-be-revealed functionality, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>プロトタイプのこまごまとしたパーツ（別の画面、まだ見えていない機能など）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The app.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>アプリケーション。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>4.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The user tester, operating the prototype.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>プロトタイプを操作するユーザーテスター。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>5.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s often beneficial to have a passive second tester, sat with the user tester for moral support and to encourage dialogue.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>操作には参加しないもう一人のテスターがいると効果的です。一緒に座っているだけでユーザーテスターは心強く感じ、会話が促されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>6.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A note taker.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>記録係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notice the neutral seating position between the computer and testers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>コンピュータとテスターの間という、中立的な位置に座っていることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By sitting here, between the two parties at either end, the testers should feel less scrutinized.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>両者の間に座ることで、テスターは観察されていることをあまり意識しなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>From Paper To Code</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>紙からコードへ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>After a few sessions of paper prototype testing, you should have a lot of torn-up paper and a better idea of the app you should be building.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ペーパープロトタイプでのテストを数セッション行った後は、はがされた紙片が山積みとなり、作るべきアプリケーションに対する理解が深まっているはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The way you translate the surviving bits of paper into coded modules is critical for an inclusive end product.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>生き残った紙片をコード化されたモジュールに変える方法は、インクルーシブな最終プロダクトにとって重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s in the creation of your living styleguide6 that you should be drawing on the inclusive coding practices you’ve been learning in this book.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>本書で学んできたインクルーシブなコーディング手法を活用して、生きたスタイルガイド（Living Style Guide）（脚注130）を作らなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In a large team, this can be a collaborative effort with some friendly competition to reach the best solutions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>大規模なチームでは、他のメンバーと協力し、切磋琢磨しながらより良い解決策を導き出す作業になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In her article, “From Pages To Patterns: An Exercise For Everyone7,” Charlotte Jackson recommends that after agreeing on which components are which and what they should be named, you should get straight into coding.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>シャーロット・ジャクソン（Charlotte Jackson）は記事「From Pages To Patterns: An Exercise For Everyone」（脚注131）の中で、どのコンポーネントにどんな名前を付ければよいかが決まったら、コード化を始めるべきだと勧めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Charlotte sets it out simply, like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>シャーロットの提唱する方法は次のようにシンプルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Everyone grab a component.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• 各自が1つのコンポーネントを手に取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Code it up in HTML and CSS.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• それをHTMLとCSSでコード化する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Set a time limit and resist the temptation to perfect things.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>制限時間を設け、完璧を目指さないようにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s fine to throw away the code if the designs change.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>デザインが変更されたらコードを破棄してもかまわない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Compare and discuss your code.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• 作成したコードを比較し、検討する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Repeat.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>• この作業を繰り返す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I would suggest a couple of stipulations to really make the most of this in terms of inclusive design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>インクルーシブという観点でこの作業を最も効果的に行うために、ここで2つの事を提案します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First, I’d recommend several individuals (or teams) work on the same component so there are different solutions to compare.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>まず、さまざまな解決策を比較できるよう、数人（またはチーム）で同じコンポーネントに取り組むことをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Second, accessibility should be a prerequisite for consideration.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>次に、アクセシビリティを検討や判断の前提条件にすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If a solution isn’t keyboard-accessible, uses a poor structure or is not explicable by screen reader, it’s out.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>キーボードでアクセスできない解決策や、不適切な構造している、スクリーンリーダーが理解できない、といった解決策ではいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The quickest way to prototype in code is to use standard HTML elements such as &lt;input&gt;, &lt;select&gt;, &lt;a&gt; and &lt;button&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>プロトタイプを最も手早くコード化するには、&lt;input&gt;、&lt;select&gt;、&lt;a&gt;、&lt;button&gt;といった標準的なHTML要素を使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They give you the behaviors you need to make your component functional.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>コンポーネントを機能させるために必要な動作が得られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s usually only when we begin overengineering custom components that we encounter issues.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>問題に直面するのはたいてい、カスタムのコンポーネントのオーバーエンジニアリングを行い始めたときです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By going straight from paper to HTML, we lay the foundations for efficient code and inclusive experiences.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>紙からHTMLへ一直線に進めれば、効率的なコードとインクルーシブな体験のための基礎を築くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is based on this foundation that we can enrich the experience with CSS and JavaScript.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>この基礎をベースにし、CSSやJavaScriptを使って体験を向上させていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>After all, you can’t even have CSS or JavaScript without some HTML on which to stick them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>結局のところ、ベースとなるHTMLがなければ、そこに付加させるCSSやJavaScriptを使用することはできないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So, you might as well get the HTML right first.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>ですから、まずはHTMLにしっかりと取り組みましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.http://www.uxapprentice.com/discovery/ 2.https://greatbritishpublictoiletmap.rca.ac.uk/ 3.https://www.neontribe.co.uk/ 4.http://lilydart.com/ 5.https://www.neontribe.co.uk/ 6.https://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/ 7.http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T155820Z">
+        <seg>126 http://www.uxapprentice.com/discovery/
+127 https://greatbritishpublictoiletmap.rca.ac.uk/
+128 https://www.neontribe.co.uk/
+129 https://www.neontribe.co.uk/
+130 http://smashed.by/style-guide-tools
+131 http://smashed.by/pages-to-patterns</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

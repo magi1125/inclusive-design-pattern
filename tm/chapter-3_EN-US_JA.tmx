@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Foreword | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Foreword</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T001823Z">
+        <seg>序文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’ve always had a good word for Heydon Pickering.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T001823Z">
+        <seg>私はこれまでもずっと、ヘイドン・ピカリングを「褒め称えて」きました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, laws of libel prevent me from writing it here, so instead let me tell you about this book: it’s very good.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T001823Z">
+        <seg>ですが、そうした彼への賛辞は名誉毀損法の関係で書けないため、代わりにこの本について言わせてください。とにかくすばらしい本です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Heydon clearly and comprehensively shows you how to use the web properly; that is, how to take advantage of its built-in powers of reach, inclusivity and accessibility, so you don’t lock out any potential customer or visitor, regardless of how they choose to (or need to) access your content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T001823Z">
+        <seg>ヘイドンがWebの正しい使い方を明確かつ包括的に解説してくれています。Webが内蔵する力、インクルーシビティとアクセシビリティを最大限に生かす方法を知れば、潜在的な顧客や訪問者を締め出すようなことはなくなります。彼らがあなたのコンテンツにどのような方法でアクセスしようとしていても（あるいはアクセスする必要があっても）関係ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’ve been writing about the same for many years, but I’ve still picked up a number of useful tips and tricks when reading through the drafts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T001823Z">
+        <seg>原稿を最後まで読ませてもらいましたが、同じテーマを長年書いている私にも役立つヒントやコツがたくさん見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s a little unfortunate that Heydon didn’t accept some of my amendments to make his musical taste less — what’s the word?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T001823Z">
+        <seg>？？少し残念なのは、音楽の趣味をもう少し、何と言うか、気まずくないものにした方がいいという私の修正案を、ヘイドンが受け入れてくれなかったことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>— embarrassing, but don’t let that put you off reading.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T001823Z">
+        <seg>でも、だからと言って、読むのをやめたりしないでくださいね。？？【コメント：不安訳です。本文に音楽の要素が出てくるのかもしれません】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There’s a load of useful advice contained in this book, and it would be really good if you were to follow it and make your corner of the web a better place for all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T001823Z">
+        <seg>この本には有益なアドバイスがたくさん詰まっています。ぜひ参考にして、皆さんのWebサイトをすべての人にとってより良い場所にしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Just tweet me if you want music suggestions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T001823Z">
+        <seg>音楽に関するアドバイスが欲しい方は私にツイートを送ってくださいね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bruce Lawson1, Deputy CTO, Opera</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T001823Z">
+        <seg>Opera 副CTO、ブルース・ローソン（Bruce Lawson）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.http://www.brucelawson.co.uk</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T001823Z">
+        <seg>http://www.brucelawson.co.uk</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Introduction | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>はじめに</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Imagine we meet at a party.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>想像してみてください。私たちはパーティーで出会いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not long into conversation you ask me what I do.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>会話を始めて間もなく、あなたが私の職業を尋ねます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I simply say, “I’m a designer.” Before you have the chance to ask me what type of designer I am, our mutual friend, the host, taps me on the elbow.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>私は一言、「デザイナーです」と答えます。何のデザイナーなのか、あなたが聞く前に、2人の共通の友人であるホストが私を肘で突きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Can I borrow you a moment?”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>「ちょっといいかな？」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They make their apologies and usher me away.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>彼はあなたにわびを言うと、私を連れていってしまいました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You’re rather relieved, actually, since the sort of person who proudly pronounces themselves “a designer” is probably a bit of a self-regarding bore.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>あなたは正直、少しほっとします。なぜなら、得意げに「デザイナー」を名乗るタイプの人はたいてい、ちょっと自尊心の高い退屈な人だからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nonetheless, you’re left briefly wondering what I actually do to pay the bills.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>それでもあなたはしばらくの間、私の仕事について思いを巡らせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Perhaps he makes designer egg cups?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>ブランドもののゆで卵立てをデザインしているのかな？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sews postmodernist swimwear?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>それとも最先端の水着を縫っているとか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Builds helicopter missile systems?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>ヘリコプターのミサイルシステムを作っていたりして？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He could have meant anything.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>一口にデザイナーと言っても実にさまざまです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By the end of the party we’re not reacquainted, but in a conversation with our mutual friend over the phone the following day, they apologize to you again for the previous night’s interruption.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>それからパーティーが終わるまで、私たちが再会することはありませんでしたが、翌日、あなたはさっきの友人と電話で話しているときに、前夜は会話を中断させて申し訳なかったと再び謝罪されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>After a moment, you recall.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>そして、しばらく考えてから思い出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Oh, your friend the designer.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>「ああ、デザイナーのお友達ね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Well, never mind.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>いいよ、気にしないで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What does he actually design anyway?”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>それはそうと、彼はいったい何をデザインしているの？」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Oh, he’s a web designer.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>「彼はWebデザイナーだよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Oh, right.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>「へえ、そうなんだ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Yeah.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>「うん」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now, the way you might react to this new information is really going to depend on your relationship to the sprawling, amorphous public information matrix we call The Web.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>この新情報に対するあなたの反応は、「Web」という無秩序に広がる、形の定まらない公共の情報基盤とあなたの関係によって大きく違ってきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you’re more a consumer of the web than a producer for the web, web designer is probably sufficient: “OK, so they design web stuff.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>もしあなたがWebを作る側ではなく利用する側の人間なら、おそらくWebデザイナーという答えで納得するでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Websites and the like.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>「なるほど、Webサイトなんかをデザインしているわけね」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But I’m willing to bet this isn’t you, otherwise you wouldn’t be reading this book.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>でも、皆さんは違いますよね？利用する側の人はこの本は読まないでしょうから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In which case, you’re no doubt aware just how controversial, contested, and frequently contrary the term design is in the context of the web.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>Webを作る側の人間ならきっと、Webという文脈において「デザイン」という言葉がいかに物議を醸し、たいていの場合は歩み寄りが見られないまま論争が決裂してしまうことはご存じでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The number of people contributing to the web at any given moment is unfathomable, and so is the variety of their talents and skills.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>Webにどこかの段階で寄与している人の数は計り知れません。その人たちの才能やスキルも実にさまざまです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So which ones are the designers, and what do they do?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>では、いったいその中の誰がデザイナーなのでしょうか？デザイナーとは何をする人なのでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For a long time, we’ve been getting the answers to these questions epically, tragicomically wrong.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>私たちは長い間、これらの疑問の答えを叙事詩的、悲喜劇的に間違い続けてきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We’ve misconceived and mistreated the medium, both making hard work for ourselves and shortchanging our audiences as a result.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>このメディアを誤解して不当に扱い、結果、自らの仕事を大変にして、ユーザーのことも不当に扱い続けてきたのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Reconceiving Web Design</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>Webデザインを考え直す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Our most persistent error as an industry has been to apply the largely incompatible principles of printed graphical communication design to the web.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>業界における最も根深い間違いは、Webに、まったく相容れない印刷物のグラフィックコミュニケーションデザインの原則を当てはめてしまっていることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A print designer’s domain is purely visual, confined to predictable and predetermined spaces, using agreed materials and consistently reproducible resolutions and colors.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>印刷物のデザイナーの領域は純粋に視覚的なものです。既定あるいは予測可能なスペースの中で、決められた素材と、確実に再現できる解像度や色を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Print design is the production of static, immutable artifacts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>印刷物デザインとは、静的で不変のものを作ることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s not like the web at all, but it doesn’t stop us pouring wasted energy into pointless frippery like pixel perfection and organizing ourselves into those two ill-defined, arbitrary groups, designers and developers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>このように印刷物とWebはまったく違うのに、我々はピクセルパーフェクトといった無意味でくだらないことに無駄なエネルギーを注ぎ、自身をデザイナーと開発者という、自分たちで勝手に定めた曖昧な2つのグループに分類することをやめられないでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s as if content editors and project managers don’t even exist!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>コンテンツエディターやプロジェクトマネージャはどこに行ってしまったんだという話です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The truth is, design work is deliberation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>デザインとは本来、熟考することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s the pursuit of the best solution to a given problem.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>与えられた課題のベストな解決策を追求することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By relegating design to the realm of visual aesthetics, so much of the web goes undesigned.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>それを「見た目の美しさ」という領域に格下げすることで、大半のWebは本当の意味でのデザイン性を失っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This can only lead to inaccessibility, poor performance and, of course, a general lack of utility.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>これではアクセシブルとは言えない、パフォーマンスも貧弱な、そしてもちろん全般的に有用性に欠けるWebしか生まれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The aim of this book is to help you nurture design thinking that’s suited to the web and, as such, acknowledges some (astonishingly recent!) developments in the evolution of the web design discipline:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>本書の目的は、皆さんがWebに適したデザイン思考を養うお手伝いをすることと、そしてWebデザイン分野の進化における（思いのほか最近の）発展を認識することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The web is made of code and must be designed, therefore designing with code is working with the right materials.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>Webはコードでできており、デザインが欠かせない。したがって、コードによるデザインは、適切な素材を使って作業する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is the best course of action.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>これこそが最善策だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Content — what we write or otherwise express via the web — must be subject to design thinking and, in fact, all other design decisions should facilitate that.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>• コンテンツ（書く、あるいは別の方法で、Webを介して表現しようとする内容）はデザイン思考に基づいている必要があり、デザインに関する他のあらゆる決断はそれを促進するものでなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Web pages are not immutable artifacts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>• Webページは不変のものではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They should be tolerant of changing, dynamic content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>変化する動的なコンテンツに対応できなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This content should be managed in terms of discrete components which can be reused as agreed patterns.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>また、このコンテンツは決まったパターンとして再利用できる個々のコンポーネントとして管理されなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The potential audience of a website or app is anyone human.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>• Webやアプリケーションの潜在ユーザーはあらゆる人間である。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inclusivity of ability, preference and circumstance is paramount.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>インクルーシブな機能、パフォーマンス、環境は最重要課題だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where people differ — and they always do — inclusive interfaces are robust interfaces.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>人は皆それぞれ違うので、インクルーシブなインターフェイスこそが確実なインターフェイスと言える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inclusive Design</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>インクルーシブデザイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For the subject and purpose of this particular book, that last principle is the most important.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>特に本書では、そのテーマと目的から考えると、最後の原則が一番重要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Before we can contemplate inclusive patterns, inclusive design must first be defined.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>インクルーシブパターンについて考察するためには、まずはじめにインクルーシブデザインとはどういうものかを定義しておく必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s really more of a mindset than anything reducible to discrete skills, so I’m going to illustrate it by way of an analogy.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>個々のスキルに分解できるものではなく考え方の問題であるため、身近な例にたとえて説明しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here’s a property representing a street address in JSON:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>このプロパティはJSONのもので、住所を表しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>"address": "84, Beacon St, Boston, MA 02108, United States"</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>"address": "84, Beacon St, Boston, MA 02108, United States"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now, if I wanted to print the address to screen using a templating library like Handlebars, I might write something like {{this.address}}.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>この住所をHandlebarsのようなテンプレートライブラリを使って画面に出力したい場合は、{{this.address}}などと記述します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fine, but what if I needed to refer to the country part of my address on its own?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>では、住所の国の部分だけを参照したいときはどうすればよいでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With the data in its current form — one string — I’d have to write a helper to extract the “United States” part.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>この形式のデータ、つまり単一の文字列の場合は、たとえばヘルパーを使って「United States」を抽出するという方法が考えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Handlebars.registerHelper('getCountry', function(address) { return address.split(',').pop();
+});</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>Handlebars.registerHelper('getCountry', function(address) {
+return address.split(',').pop();
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is what some might refer to as hacky: a fragile and unfortunately complex workaround.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>しかし、この方法は人によってはハック的なやり方に思われるかもしれません。脆弱な上に複雑で、最善の策とは言えないかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A hack is a symptom of bad design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>ハック的なコードは悪いデザインの兆候です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only is the employment of a helper function relatively computationally heavy, it’s also unreliable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>ヘルパー関数を使うと計算が重くなるだけでなく、信頼性も下がります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Why? Because not all addresses end in a country.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>なぜなら、住所は必ずしも国で終わるとは限らないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>British addresses, for instance, usually end in a postcode:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>たとえばイギリスの住所は普通、郵便番号が最後にきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>"address": "85-87, Gwydir St, Cambridge, England, CB1 2LG"</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>"address": "85-87, Gwydir St, Cambridge, England, CB1 2LG"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A more robust solution might be to make the address property an object and store each part of the address as a property on that object:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>そうすると、住所のプロパティをオブジェクトに変えて、そのオブジェクトに住所の各部分をプロパティとして格納する方がより確実かもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>"address": { "building": "85-87", "street": "Gwydir St", "city": "Cambridge", "country": "UK", "zipOrPostcode": "CB1 2LG"
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>"address": {
+"building": "85-87",
+"street": "Gwydir St",
+"city": "Cambridge",
+"country": "UK",
+"zipOrPostcode": "CB1 2LG"
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now I can access the country simply with address.country.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>これならaddress.countryで国にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This seems like a better approach.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>やり方としてはこちらの方が良いように思えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But is it?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>でも、本当にそうでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using a hugely international set of addresses, you’ll find they vary so much that prescribing an unbending set of properties is just not tenable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>住所は国によってまったく違います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Simply capturing a single string makes more sense. You’d have to forfeit being able to extract countries, but sometimes that’s the way it goes.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>世界各国の住所で試してみると、融通のきかないプロパティセットではとても対応できないことが分かります。単純に単一の文字列をキャプチャした方が賢明です。国の抽出はできなくなるかもしれませんが、場合によってはそれも仕方ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In any case, thinking about the structure of data and trying to arrive at an optimal solution is designing and there’s not an Adobe license or copy of Sketch in sight.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>いずれにしても、このようにデータの構造を考え、最適な解決策を導き出そうとすることこそがデザインであり、そこにはAdobeのライセンスやSketchのコピーは一切関係ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In fact, it’s really a kind of inclusive design: here, the right solution is one which is inclusive of different kinds of addresses.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>そして、この例の正しい解決策は、さまざまなタイプの住所を含めることができる方法であり、それがまさしくインクルーシブデザインというものなのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We’d like to be able to deal with consistent, uniform addresses, but that’s not reality.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>住所の方に一貫性を持たせることができればいいのですが、それは現実的ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead, we make allowances.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>代わりに「許容」するのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Replace “structure of data” with “interface” and swap “addresses” for “people” in the previous paragraph, and you’ve got inclusive interface design in a nutshell.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>そして、前の段落の「データの構造」を「インターフェイス」に、「住所」を「人々」に置き換えると、いわゆるインクルーシブインターフェイスデザインになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The best part is that designing inclusive interfaces, like designing robust data schemas, doesn’t have to be any harder or more complex than making exclusive or otherwise obsolete ones.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>幸い、インクルーシブなインターフェイスをデザインするのは堅牢なデータスキーマをデザインするのと似ており、排他的なインターフェイスや時代遅れのインターフェイスを作るより難しかったり複雑だとは限りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s just different.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>単に違うというだけのことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By looking at common web interface patterns through the lens of inclusivity, this book will help you quickly learn how to apply and reapply conventions that will earn you a broader and less frustrated audience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>一般的なWebインターフェイスのパターンをインクルーシビティという観点で見ながら本書を読めば、きっとすぐに慣習を適用・応用して閲覧者を増やしたり、閲覧者のフラストレーションを軽減できるようになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Inclusive Button</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>インクルーシブなボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s look at one more simple example, a prototypical interface pattern much like those to follow.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>次の例はさらにシンプルな、模範とすべき典型的なインターフェイスパターンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This time, we’ll look at an interactive element, a button, from the perspectives of three types of designer.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>インタラクティブ要素であるボタンを、3タイプのデザイナーの視点で見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The purpose of this example is to show you how a little bit of knowledge about the medium can lead to a simpler and more inclusive solution.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>この例の目的は、このメディアに関する少しの知識があれば、よりシンプルでよりインクルーシブな解決策を導き出すことができるということを、皆さんに知ってもらうことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Graphic Designer</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>グラフィックデザイナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The first designer comes from a graphic design background.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>トップバッターは、グラフィックデザインの分野のデザイナーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Their files never have a resolution lower than 300dpi and they have a working knowledge of color theory.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>彼らは常に解像度300dpi以上のファイルを扱い、色彩理論の実際的な知識を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Their typography and illustration skills are vivacious.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>また、タイポグラフィとイラストに関するスキルも豊富です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To them, a button is a visual artifact, producible in Adobe Illustrator or Sketch.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>彼らにとってボタンは視覚的な要素であり、AdobeのIllustratorやSketchで作るものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They are concerned with how that button resembles a real button and how it simultaneously fits into the larger design’s branding.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>彼らの関心は、いかに本物のボタンのように見えるか、そしてより大きなデザインのブランディングにいかにフィットしているかということに向けられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They have no idea how to put that button on a web page or to make it do anything.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>そのボタンをどうやってWebページに実装するか、どうやって動作させるかはまったく考えていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Designer Who Codes</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>コードを書くデザイナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The second designer has many of the same skills exhibited by the first, but differs in one important aspect: they have enough knowledge of HTML, CSS and JavaScript to make their button appear inside a web page, and attach a JavaScript event listener to it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>2番目のデザイナーも最初のデザイナーと同じスキルに長けていますが、1つ大きな違いがあります。それは、彼らはHTML、CSS、JavaScriptの知識が豊富で、ボタンをWebページ内に表示させたり、ボタンにJavaScriptのイベントリスナーをアタッチしたりできるという点です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The HTML looks like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>HTMLは次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div class="button"&gt;&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>&lt;div class="button"&gt;&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>and the CSS like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>CSSは次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.button { width: 200px; height: 70px; background: url('../images/button.png');
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>.button {
+width: 200px;
+height: 70px;
+background: url('../images/button.png');
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The JavaScript would probably be written using jQuery or perhaps AngularJS’s API.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>JavaScriptはおそらくjQueryやAngularJSのAPIを使って書くことが多いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using the Web API (“vanilla” JavaScript), it might look a bit like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>Web API（“Vanilla” JavaScript）を使用した場合はだいたい次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>button.addEventListener('click', function() { // the event fired on click
+});</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>button.addEventListener('click', function() {V
+// クリックでイベント発火
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Designer number two is a designer who has learned to code inasmuch as they’ve acquired the ability to bring their ideas to the web — to put them in web pages.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>この2番目のデザイナーはアイデアをWebに生かす、つまりWebページに実装できるくらいのコードの知識は持っており、状況によってはイレギュラーなユーザーにも対応できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Under some circumstances, they may even work for the odd user. Unfortunately, aside from the event listener, all they’re really doing is encoding graphic design, not designing with code.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>しかし残念ながら、イベントリスナーは別としても、彼らが実際にやっているのはコードを用いたデザインではなく、グラフィックデザインをコード化することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As the third designer is only too aware, there are few direct translations between graphic design and web interface design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>しかし3番目のデザイナーは、グラフィックデザインとWebインターフェイスデザインとの間には直接的な変換がほとんど成り立たないことをよく知っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Inclusive Designer</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>インクルーシブデザイナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The third designer sees the second designer’s button from a number of perspectives, each the imagined point of view of a potential user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>3番目のデザイナーは2番目のデザイナーのボタンを、潜在ユーザーを想定してさまざまな観点から検討します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Accordingly, the current implementation presents a number of problems.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>そうすると、現行の実装の問題点が次々と見えてきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One problem regards the not insignificant number of users who zoom their web pages to ease reading.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>1つの問題は、Webページを見やすいように拡大／縮小するユーザーに関することです。このようなユーザーは少なくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The image used is not a vector, so cannot be scaled without becoming degraded and blurry as a result.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>使用する画像はベクターではないため、画像のサイズを変えるとどうしても画質が下がり、ぼやけてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s if the user operates full page zoom.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>ただし、これはユーザーがページ全体を拡大／縮小した場合の話です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the user adjusts their browser’s default font size independently, the image (which has been defined using pixels rather than relative units) will not scale at all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>ブラウザのデフォルトのフォントサイズをユーザーが自分で調整しても、画像（相対的な単位ではなく、ピクセルを使って定義されている画像）のサイズは変わりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Another problem is encountered when a user switches off image loading in their mobile browser, to save bandwidth: the button, constituted entirely by a background image, will be invisible.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>もう1つの問題は、モバイルブラウザで帯域幅を節約するために、画像の読み込みをオフにした場合に起こります。画像の読み込みをオフにすると、背景画像だけで作られたボタンは表示されなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Users having trouble differentiating foreground and background imagery may turn on Windows’ high contrast mode1.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>また、前景と背景の画像がよく区別できないユーザーは、Windowsのハイコントラストモード（脚注1）をオンにするかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This, under some conditions, will also eliminate background images2.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>この場合も、条件によっては背景の画像が表示されなくなります。（脚注2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And it doesn’t stop there.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>問題は他にもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;div&gt; element, unlike the purpose-built &lt;button&gt; element, is not (in its current form) focusable or operable by keyboard.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>ボタン専用の&lt;button&gt;要素と違って、&lt;div&gt;要素は（現行の形式では）キーボードでフォーカスしたり操作したりできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some folks choose to navigate and operate web pages with a keyboard.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>しかし、Webページの移動や操作にキーボードを使う人もいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Others must use a keyboard, because a mouse requires a finer motor control than they can muster.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>また、マウス派の人でも、マウスでは対応できないより細かいコントロールが必要なときにはキーボードを使わなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Screen reader users include those with severe vision impairments, and others who find that having a web page read out to them using a synthetic voice aids their comprehension.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>スクリーンリーダーユーザーには、重度の視力障害のある人だけでなく、分かりやすいように敢えて合成音声を使ってWebページを読み上げるユーザーもいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The second designer’s button design leaves these users entirely bereft.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>2番目のデザイナーのボタンデザインでは、こうしたユーザーのことはまったく考えられていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Most desktop screen reader users are also keyboard users, so they encounter the same problems as the previous group.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>また、デスクトップスクリーンリーダーのユーザーのほとんどはキーボードも使用するため、前述した問題も生じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition, the &lt;div&gt; element is semantically inert, offering no information non-visually that it is, indeed, a button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>さらに、&lt;div&gt;要素には特別な意味はなく、ボタンのような情報を非視覚的に提供することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since the button’s label of “Start” is in a background image as part of CSS’s presentation layer, this too is unavailable to assistive technologies.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>背景画像のボタンの場合、たとえば「スタート」というラベルはCSSのプレゼンテーション層に含まれるため、これもやはり支援技術には使えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s also why the button is untranslatable into different languages, making it exclude international audiences.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>また同じ理由から、ボタンを別の言語に翻訳できないため、世界中のユーザーに対応することができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s a lot of people missing out!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>かなり多くの人が機会を逃しているということです！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The inclusive designer anticipates these problems, because experience tells them that people differ, well, in lots of different ways.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>しかし、インクルーシブなデザイナーならこうした問題を予測できます。経験上、人は同じでないこと、しかもその違いも実にさまざまであることを知っているからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Far from being daunted or frustrated, they know that by exploiting standard conventions they can achieve more by doing less.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>しかし、その事実に気後れしたり挫折したりはしません。一般的な慣習を利用すれば、より少ない労力でより多くの成果が得られることを彼らは知っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In other words, they know when to design and when to employ what is already designed — a simple HTML button element, provided as standard by the HTML specification.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>つまり、デザインをすべきときと、既存のデザイン（HTMLの仕様で標準として示されているシンプルなHTMLボタン要素など）を使用すべきときが分かっているのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Resizable, translatable, focusable, interoperable, stylable, restylable, maintainable, mutable, simple.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>サイズが変えられて、翻訳可能で、フォーカスできて、相互運用性が高く、スタイルの指定や変更ができて、管理が可能で、変更可能で、そしてシンプルなデザイン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;button&gt;Start&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>&lt;button&gt;スタート&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not all inclusive design solutions are as simple as choosing the right HTML element for the job.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>もちろん、目的に合ったHTML要素を選びさえすれば必ずインクルーシブデザインになるというわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Even so, combining simple, standard elements and conventional structures empathetically needn’t be difficult, nor impede artistic flair: our &lt;button&gt; can still be presented in a near-infinite number of ways.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>それでも、シンプルかつスタンダードな要素と慣習的な構造を組み合わせるのはそう難しいことではありませんし、見た目の美しさを邪魔するものでもありません。&lt;button&gt;の記述パターンはほぼ無限に考えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“There are 140,737,479,966,720 combinations of hexcodes.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>「16進コードの組み合わせは140,737,479,966,720通りあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Obviously not all of them are accessible.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>もちろん、そのすべてを使用できるわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If only 1% of all color combinations are accessible then there are still almost 141 million combinations to choose from.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>しかし、たとえばすべての色の組み合わせのわずか1％しか使用できないとしても、およそ1億4千百万通りの組み合わせから選べることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This seems more than adequate to paint any bikeshed you will come across for the rest of your career.” – “The Veil Of Ignorance3,” Adam Morse</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>？？これから先のキャリアで出くわす自転車置き場をすべて塗っても余るほどです」？？【コメント：不安訳です。原文「This seems more than adequate to paint any bikeshed you will come across for the rest of your career.」】— 「The Veil Of Ignorance」、アダム・モース（Adam Morse）（脚注3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With experience, identifying the countless inclusive solutions to interface design problems can become second nature.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>経験を積むうちに、おのずとインターフェイスデザインの課題に対する、無数に考えられるインクルーシブな解決策を特定できるようになっていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The patterns described in this book are reusable as exemplars, but mostly they’re for practice.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>本書で取り上げるパターンは手本にはなりますが、基本的には練習用です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When new problems arise, requiring different inclusive patterns to be formulated, you will have learned how to think about formulating them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>新たな問題が生じたときは、別のインクルーシブパターンを考えなければなりません。大丈夫、皆さんもきっとできるようになるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You will have become an inclusive designer.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>そうなれば、一人前のインクルーシブデザイナーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.http://windows.microsoft.com/en-US/windows7/Turn-on-High-Contrast 2.http://terrillthompson.com/blog/182 3.http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170202T045110Z">
+        <seg>1 http://smashed.by/hicontrast
+2 http://terrillthompson.com/blog/182
+3 http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

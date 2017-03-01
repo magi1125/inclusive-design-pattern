@@ -1,0 +1,2228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Navigation Regions | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Navigation Regions</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ナビゲーション領域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The last couple of patterns dealt a lot with content, how to manage it and write it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>これまでの章ではコンテンツに重点を置いたパターンを取り上げ、その管理や書き方などを学びました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But not all web page content is really content, as such.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>しかし、Webページのすべてのコンテンツが「コンテンツ（内容）」というわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Navigation landmarks, for example, help your audience to traverse your web pages and the content they offer.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>たとえばナビゲーションランドマークは、閲覧者がWebページ間を移動したりコンテンツ内を移動するのに使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In other words, they’re a bit meta: they’re content that helps with content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>つまり、ナビゲーションランドマークはメタに近い、コンテンツを補助するコンテンツと言えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Navigation regions are a tool with a long history, making them a convention you can rely on for inclusive page design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ナビゲーション領域は長い歴史があるツールで、インクルーシブなページデザインに役立つ1つの慣習として確立されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In fact, even the first web page ever created1 features a rudimentary navigation region consisting of a set of links within a definition list (&lt;dl&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>実際、世界で初めて作られたWebページ（脚注85）にも、定義リスト（&lt;dl&gt;）の中に一連のリンクで構成された基本的なナビゲーション領域が存在しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s take some time to examine the design of navigation patterns as applied to site-wide, and page-specific table of contents schemas.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>この章では、サイト共通のナビゲーションパターンのデザインと、それぞれのページの目次のスキーマについて学びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This will incorporate writing structured markup, clear labels and robust CSS.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>構造化されたマークアップ、分かりやすいラベル、堅牢なCSSの書き方についても触れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>How to inclusively indicate the current page — so that everyone knows where they are! — will also be covered.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>また、自分が今どこにいるかが誰でも分かるような、現在のページをインクルーシブに示す方法も紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Navigation Landmark</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ナビゲーションランドマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Discrete areas of web pages are variously referred to as regions, blocks or modules and denote the visual boxes that demarcate parts of that page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>Webページの各部は領域、ブロック、モジュールなどさまざまな呼び名で呼ばれますが、いずれもそのページを部分ごとに分ける視覚的なボックス（枠、囲い）を意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The WAI-ARIA specification offers a handful of landmark roles2 such as role="main", which define semantics and behaviors to make common regions accessible in assistive technologies.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>WAI-ARIAの仕様に定められているいくつかのランドマークロール（脚注86）（role="main"など）を使ってセマンティクスや動作を定義すれば、支援技術で利用できるアクセシブルな共通の領域を作ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;main&gt; element and role="main" WAI-ARIA role map to each other, offering the same semantics and behaviors.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;main&gt;要素とWAI-ARIAロールのrole="main"は相互にマッピングされ、同じセマンティクスと動作を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can use either but &lt;main&gt; is terser, as the following example attests.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>どちらを使ってもかまいませんが、次の例からも分かるように、&lt;main&gt;の方が簡潔です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div role="main" id="main"&gt; …
+&lt;/div&gt;
+
+&lt;!-- or... --&gt;
+
+&lt;main id="main"&gt; …
+&lt;/main&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;div role="main" id="main"&gt;
+&amp;hellip;
+&lt;/div&gt;
+&lt;!-- または... --&gt;
+&lt;main id="main"&gt;
+&amp;hellip;
+&lt;/main&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For the purposes of inclusion, our navigation regions should also be navigation landmarks.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>インクルーシブデザインを目指すのであれば、ナビゲーション領域もナビゲーションランドマークにすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Navigation landmarks, denoted either by the role="navigation" WAI-ARIA role or the &lt;nav&gt; element, differ in two key ways to main landmarks:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>role="navigation"（WAI-ARIAロール）または&lt;nav&gt;要素で示されるナビゲーションランドマークは、メインランドマークと主に2つの点が異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•You can have more than one navigation landmark per page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• ナビゲーションランドマークは1つのページに複数設定できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The content inside navigation landmarks that appear on multiple pages (such as a common site navigation block) should be consistent between those pages.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• 複数のページに表示されるナビゲーションランドマークのコンテンツ（共通のサイトナビゲーションブロックなど）は、それらのページすべてで一貫していなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Site-Wide Navigation</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>サイト内共通のナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s deal with the most common type of navigation landmark first, establishing some of the features common to all navigation landmarks while we’re at it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>まずは最も一般的なナビゲーションランドマークを見ていきながら、すべてのナビゲーションランドマークに共通する機能をいくつか確認しておきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For the purposes of accessible UX, progressive enhancement and backwards compatibility, landmark regions should contain an unordered list of links.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>アクセシブルなUX（ユーザー体験）、プログレッシブエンハンスメント、後方互換性を考慮に入れると、ランドマーク領域にはリンクの番号なしリストを含めるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For site navigation, these links would pertain to the different pages available in your site or application.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>サイトナビゲーションの場合、これらのリンクはサイトやアプリケーションからアクセスできるさまざまなページに関連付けられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;nav&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="/"&gt;home&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/about"&gt;about&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/products"&gt;products&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/contact"&gt;contact us&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/login"&gt;login&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;nav&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/"&gt;ホーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/about"&gt;企業情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/products"&gt;製品情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/contact"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/login"&gt;ログイン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By using an unordered list, we evoke the rudimentary navigation schemas possible in HTML4 and XHTML and build on a recognized convention.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>番号なしリストを用いることで、HTML4やHTMLにも対応した基本のナビゲーションスキーマを利用して、広く認められた慣習に基づいたナビゲーションを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The list groups the links, conveying accessibly that they have a common and shared purpose.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>リストでリンクをグループ化すれば、それらのリンクに共通の目的があることがアクセシブルに伝わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only that, but when CSS fails, the familiar form of a bulleted list containing blue, underlined text acts as a visual signifier that this content has a navigational purpose.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>さらにCSSでエラーが生じても、おなじみの箇条書きのリストと青い下線が引かれたテキストを見れば、このコンテンツがナビゲーション目的のものであることが分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Just by using a list, we’re being inclusive of older users and devices, assistive technology users and those who are experiencing a CSS failure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>リストを使うだけで、高齢のユーザー、古いデバイス、支援技術ユーザー、さらにはCSSエラーが生じてしまったユーザーでも利用できるインクルーシブなナビゲーションになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A bullet list of blue, underlined links. We see interfaces with broken or missing CSS frequently enough to recognize this as a navigation block.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>CSSが壊れていたり見つからないケースは珍しくなく、このように表示されてもナビゲーションブロックと認識できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Wrapping the list in a landmark offers additional semantics and behaviors.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>さらに、このリストをランドマークでラップすることでセマンティクスと動作を追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If I was to enter the landmark while running a screen reader and focus the first link, I would hear a lot of useful information.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>たとえばスクリーンリーダーの実行中にランドマークが見つかると、さまざまな有用な情報を耳で聞くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Firstly, I’d hear “Navigation landmark,” followed by “List, one of five” and finally “Link, home.” By then, I’d know that I’m in a navigation landmark, that it contains five links in total, and that I can follow the first link immediately if I wish.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>最初に「＃＃Navigation landmark＃＃」と読み上げられた後、「＃＃List, one of five＃＃」と続き、最後に「＃＃Link, home＃＃」と読み上げられたとします。これにより、自分が今ナビゲーションランドマークにいること、そしてそこには全部で5つのリンクがあり、必要であればすぐに1つ目のリンク先にジャンプできることが分かります。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s not all, though.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>それだけではありません。ホーム
+企業情報
+製品情報
+お問い合わせ
+ログイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;nav&gt; (or role="navigation") landmark joins &lt;main&gt; in being discoverable when traversing the page by region — for instance by using the D key in the NVDA screen reader.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>？？&lt;nav&gt;（あるいはrole="navigation"）ランドマークと&lt;main&gt;を組み合わせれば、たとえばNVDAスクリーンリーダーでDキーを使うなどして、ランドマークをたどりながら領域単位でページ内を移動できます。？？【コメント：この解釈で問題ないでしょうか。原文「The &lt;nav&gt; (or role="navigation") landmark joins &lt;main&gt; in being discoverable when travers- ing the page by region — for instance by using the D key in the NVDA screen reader.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also, NVDA, JAWS and VoiceOver all provide a dialog listing landmarks as a menu, allowing you to switch between them directly.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>また、NVDA、JAWS、VoiceOverではダイアログにメニューとしてランドマークが一覧表示されるため、ランドマークをダイレクトに切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Banner</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• バナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Navigation</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Main</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• メイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Footer</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• フッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OK, so a navigation menu that lists a navigation menu is really meta.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ナビゲーションメニューが一覧表示されるナビゲーションメニューはまさにメタです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nonetheless, it’s helpful to have your screen reader create an automated index of regions for the page in this way.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>しかし、このようにスクリーンリーダーがページの領域のインデックスを自動生成してくれると助かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Wading through content with only the hope of encountering an identifiable region requires faith that few users have to spare.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>？？認識可能な領域が見つかることを祈りながら運頼みでコンテンツを見て回ることを良しとするユーザーはきわめてまれです。？？【コメント：意訳しています。原文「Wading through content with only the hope of encountering an identifiable region requires faith that few users have to spare.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Appearance and Placement</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>見た目と配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The human brain uses patterns called schemata3 to understand sense data.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>人間の脳はスキーマ（シェーマ）（脚注87）と呼ばれるパターンを用いて？？センスデータ（感覚器官から受け取った情報）を理解します。？？【コメント：不安訳です。原文「～ understand sense data」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Schemata constitute prior experience against which current experience is evaluated.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>スキーマが経験を形成し、その過去の経験に照らし合わせて現在の経験が評価されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In programming terms, schemata are a kind of cache for understanding.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>一方、プログラミング用語のスキーマは、理解のためのキャッシュのようなものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So long as a familiar thing is being experienced, little more effort is required to understand it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>すでによく知っていることを経験するときは、さほど努力しなくても理解できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By the same token, if something genuinely new is experienced, there’s nothing in the cache to be relied on and the sense data must be evaluated in full.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>これに対して、まったく新しいことを経験する場合はキャッシュの中に頼りになるものがないため、？？センスデータ？？を一から評価しなければなりません。【コメント：同上】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In design, by making things that behave in a certain way appear as expected, we help our users make the most of their cognitive cache.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>したがって、デザインを動作に合った予想どおりの見た目にすれば、ユーザーは経験的知識のキャッシュを最大限に活用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In other words, we don’t make them think4.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>これは言い換えると、ユーザーに考えさせないということです。（脚注88）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is a well-known usability principle, but it’s worth restating — especially in the context of inclusive design, where we’re trying to cater for extremes of cognitive impairment.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>有名なユーザビリティの原則ですが、認識機能障害を持つユーザーのニーズにも応えようとするインクルーシブデザインにおいては特に重要なため、あえて書きました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the case of the site navigation landmark, you would do well to give it a familiar form consisting of adjacent, enlarged links.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>サイトナビゲーションランドマークの場合は、大きい文字で書かれたリンクが並ぶおなじみの形式が良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Position it in the header of each page, above the main content and preferably before anything else.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>これを各ページのヘッダーに置くのですが、メインコンテンツの上、できれば何よりも前に配置しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Page layout with navigation bar highlighted at the top.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ホーム
+企業情報
+製品情報
+お問い合わせ
+ログイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’m not suggesting your navigation bar has to use a white, cursive font on a black background!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ナビゲーションバーの文字は白、フォントは草書体、背景は黒でなければいけない、と言っているわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s the familiar positioning and shape that counts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>大事なのは一般的によく使われている配置と形を用いることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CSS Positioning</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>CSSによる配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The purpose of placing site navigation at the top of the page is not only for cognition, but interaction.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>サイトナビゲーションをページの一番上に置くのは、認識しやすいからだけでなく、インタラクションのためでもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As we’ve already established, keyboard users navigate pages one interactive element at a time, in order.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>前述したように、キーボードユーザーはインタラクティブ要素を1つずつ順番にたどってページを移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Putting page navigation at the top means they don’t have to traverse one page to get to another.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ページナビゲーションが最上部にあれば、現在のページを最後まで見ずに別のページに移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In practice, so long as source order matches reading order this is something which takes care of itself.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>実際には、ソースの順序と読み進める順序が同じであれば、そのままでも何とかなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unfortunately, we have a habit of overengineering and overcomplicating things.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>しかし困ったことに、私たちはつい作り込みすぎたり、物事を必要以上にややこしくしてしまいがちです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>While attending the Future of Web Design conference in 2015, I sat in on an accessibility clinic run by Léonie Watson5.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>2015年のFuture of Web Designカンファレンスで、私はレオニー・ワトソン（Léonie Watson）（脚注89）のアクセシビリティ講座に参加しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One of the attendees had come to Léonie with a problem: they couldn’t work out why the site navigation in their prototype wasn’t focusable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>そのときの参加者の1人がレオニーに、プロトタイプのサイトナビゲーションになぜかフォーカスできないと相談に来ました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It turns out it was; it was just at the bottom of the source so it took thirty or forty presses of the Tab key to reach it and finally invoke the focus style.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>そして判明した原因は単純なことでした。サイトナビゲーションがソースの最下部にあったせいで、そこに到達してフォーカス状態になるまでに30～40回Tabキーを押さなければならなかったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;nav&gt; &lt;!-- the last interactive elements on the page --&gt; &lt;/nav&gt;
+&lt;/body&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;nav&gt;
+&lt;!-- ページ内の最後のインタラクティブ要素 --&gt;
+&lt;/nav&gt;
+&lt;/body&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With CSS position values of absolute or fixed, one can visually position an element anywhere in the viewport, regardless of the source order.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>CSSのpositionの値をabsoluteまたはfixedにすれば、要素をソースの順序に関係なくビューポートの好きな場所に表示させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only does this create a contrary user experience for keyboard users, but positioned elements don’t reflow with the rest of the document.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>しかし、これはキーボードユーザーにとって不便なだけでなく、この方法で配置された要素はドキュメントの他の要素と共にリフローされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is liable to create layout issues when the viewport or its content is resized.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>そのため、ビューポートやコンテンツのサイズを変更したときに、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Elements will slip behind other elements or extend outside of the viewport and become obscured.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>要素が他の要素の後ろに隠れたり、ビューポートの外まで広がって見えなくなるなど、レイアウトの問題が生じる恐れがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In general, avoid positioning in all but the rarest of cases.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>きわめて例外的な場合を除き、通常はこの方法による配置は避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When relying on positioning to create modal dialogs, you should exercise extreme caution, testing against a range of viewport dimensions and magnification settings.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>この方法でモーダルダイアログを作成する場合は、細心の注意を払うとともに、ビューポートのサイズや拡大／縮小の設定をさまざまに変えてテストするようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“You Are Here”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>「現在位置」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Half of knowing where you want to go is knowing where you are already.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>自分が行きたい場所を知るためには、自分が今いる場所を知る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is why department stores and shopping centres put “You are here” signs on their floor maps.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>デパートやショッピングセンターのフロアマップに「現在位置」が表示されているのはそのためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A friendly navigation schema does something similar by highlighting the current page: the page the user has open.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ナビゲーションスキーマも同様に、現在のページ（ユーザーが開いているページ）をハイライト表示すると分かりやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Identifying the current page link in your &lt;nav&gt; region makes your site more usable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>たとえば&lt;nav&gt;領域で現在のページのリンクが分かるようにすると、より使いやすいサイトになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you go about it the right way, this increase in usability can be inclusive of different types of setup and user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>やり方を間違えなければ、このユーザビリティの向上が、多様なセットアップやユーザーに対応したインクルーシブデザインにつながります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Don’t Differentiate by Color Alone</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>色だけで区別しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.” – WCAG2.0 1.4.1 Use of Color6</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>色が、情報を伝える、動作を示す、反応を促す、又は視覚的な要素を判別するための唯一の視覚的手段になっていない。— WCAG2.0 1.4.1 色の使用（脚注90）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Typically, the current page link is distinguished by color, which means users with certain varieties of color blindness may not be able to differentiate this link from the others.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>一般的には現在のページのリンクは色で区別しますが、この方法では色覚障害を持つユーザーは他のリンクと区別できないことも考えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s best to provide an additional adornment, such as a text underline, as an alternative means of differentiation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>したがって、代替手段として、たとえばテキストに下線を引くなど、他の装飾と併用するのがベストです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>a.current-page { display: inline-block; padding: 0.5rem; text-decoration: underline; background: $highlight-color;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>a.current-page {
+display: inline-block;
+padding: 0.5rem;
+text-decoration:
+underline;
+background: $highlight-color;
+}ホーム
+企業情報
+製品情報
+お問い合わせ
+ログイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Navigation bar with the active “about” link underlined.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ナビゲーションバーのアクティブなリンク「企業情報」に下線が引かれた状態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As illustrated, a clear differentiation by hue can be a faint differentiation by shade to some color blind users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>図のように、色合いがまったく違っていても色覚障害を持つユーザーにはわずかな違いしか感じられらないこともあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mac users who want to see what their web pages look like without color can go to System Preferences… → Accessibility → Display and check Use grayscale.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>Macをお使いの方は、［システム環境設定］→［ユニバーサルアクセス］→［表示］で［グレイスケールを使用］をオンにしてみましょう。色がないとWebページがどのように見えるかが分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A more ambitious solution might be to use some scaling and a little pointer, provided in pseudo-content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>さらにもう一歩進め、疑似コンテンツを使用して拡大したり小さいポインターを表示するなどしても良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>a.current-page { display: inline-block; padding: 0.5rem; background: $highlight-color; transform: scale(1.2);
+}
+
+a.current-page::after { content: ''; position: absolute; left: 0; right: 0; bottom: -0.25em; height: 0.25rem; background: url('images/pointer.svg') center no-repeat; background-size: auto 100%;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>a.current-page {
+display: inline-block;
+padding: 0.5rem;
+background: $highlight-color;
+transform: scale(1.2);
+}
+a.current-page::after {
+content: '';
+position: absolute;
+left: 0;
+right: 0;
+bottom: -0.25em;
+height: 0.25rem;
+background: url('images/pointer.svg') center no-repeat;
+background-size: auto 100%;
+}ホーム
+企業情報
+製品情報
+お問い合わせ
+ログイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nav bar with active “about” inside a white bordered box.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ナビゲーションバーのアクティブなリンク「企業情報」が白縁のボックスで囲まれた状態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Any method is acceptable so long as the link text remains unobscured and readable, and the hue is not the only means of differentiation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>リンクテキストがはっきりと読めさえすれば、どんな方法でもかまいません。色以外にも方法はあるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Screen Reader and Keyboard Support</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>スクリーンリーダーとキーボードサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There’s no standard way to identify current page links non-visually as yet.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>現在のページのリンクを視覚的な方法以外で区別する標準的なやり方というものは今のところありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead, we’ll have to employ a workaround.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>次善策に頼るしかないのが現状です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In “The Accessible Current Page Link Conundrum7,” I explored a few possibilities and a productive discussion took place in the comments.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>私が「The Accessible Current Page Link Conundrum」（脚注91）でいくつかの可能性を検討した際、コメント欄で生産的な議論が行われました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The following is an exposition of the better ideas that emerged there.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ここではその中でも特に良かったアイデアを紹介しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The first thing you need to do is provide some text to be read out when the screen reader operator focuses the link.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>まず、スクリーンリーダーユーザーがリンクにフォーカスしたときに読み上げられるテキストを指定しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s important that this text does not replace the existing link text and is, instead, appended or prepended to it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>重要なのは、既存のリンクテキストをこのテキストで置き換えるのではなく、リンクテキストの前か後に付け足すことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One approach is to insert a visually hidden, screen reader announceable &lt;span&gt; containing a cipher, like “Current page”:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>1つの方法は、スクリーンリーダーで読み上げられるだけで表示はされない&lt;span&gt;を挿入して、たとえば「現在のページ」のような符号を入れることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;nav&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="/"&gt;home&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/about"&gt;&lt;span class="visually-hidden"&gt;Current page&lt;/span&gt; about&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/products"&gt;products&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/contact"&gt;contact us&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/login"&gt;login&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;nav&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/"&gt;ホーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/about"&gt;&lt;span class="visually- hidden"&gt;現在のページ&lt;/span&gt; 企業情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/products"&gt;製品情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/contact"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/login"&gt;ログイン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note: The CSS for the visually-hidden class is set out in “A Blog Post.”)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>（注：visually-hiddenクラスのCSSについては「ブログ記事」を参照してください。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Whether this text is to say “Current page,” “This page” or “You are here” is somewhat open to debate, but it should be fairly succinct.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>「現在のページ」にするか、あるいは「このページ」や「現在地」の方が良いかは議論の余地がありますが、いずれにしても簡潔な言葉にしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In any case, I’ve prepended the &lt;span&gt; so the screen reader says “Current page about” rather than “About current page.” The latter is ambiguous: does this link refer to a description of the current page?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>例では&lt;span&gt;を前に付け加えたので、スクリーンリーダーでは「＃＃企業情報 現在のページ＃＃」ではなく「＃＃現在のページ 企業情報＃＃」と読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Another approach, which goes some way to mitigate ambiguity, is to use a proxy element and aria-describedby8.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>？？前者は意味が曖昧で、現在のページについての説明へのリンクを表しているという誤解を与えます。？？【コメント：「about」を「企業情報」と訳しているため、日本語には当てはまらない説明です。また、前文の2例の出現順が入れ替わっているため「latter」を「前者」としています。原文「The latter is ambiguous: does this link refer to a description of the current page?」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The aria-describedby attribute imports and appends a description which is read after a pause.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>もうひとつはプロキシ要素とaria-describedby（脚注92）を使用する方法です。aria-describedby属性によって読み込まれた説明はリンクテキストの後に付け足されますが、一呼吸置いてから読み上げられるため、いくらか曖昧さが軽減されるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the following example, focusing on the current (about page) link would trigger the announcement, “About [pause] Current page.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>たとえば次の例の場合は、現在の（「企業情報」ページの）リンクにフォーカスしたときに、「＃＃企業情報（一呼吸置いて）現在のページ＃＃」と読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;nav&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="/"&gt;home&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/about" aria-describedby="current"&gt;about&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/products"&gt;products&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/contact"&gt;contact us&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/login"&gt;login&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;div hidden id="current"&gt;Current page&lt;/div&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;nav&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/"&gt;ホーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/about" aria-describedby="current"&gt;企業情報&lt;/ a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/products"&gt;製品情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/contact"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/login"&gt;ログイン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div hidden id="current"&gt;現在のページ&lt;/div&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A few notes:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>いくつか注意点があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•aria-describedby is a relationship attribute: it associates the described element with the descriptive element via id.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• aria-describedbyはリレーションシップ属性であり、説明される側の要素と説明する側の要素をidで関連付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The description is the descriptive element’s text node.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>なお、説明そのものは説明する側の要素のテキストノードで指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The HTML5 hidden attribute is used to hide the description both visually and from screen readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• HTML5のhidden属性を使用して、説明を表示上だけでなくスクリーンリーダーからも隠しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It works like display: none; but is syntactically neater.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>display: none;と似ていますが、構文的にはhiddenの方がすっきりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Despite being hidden, because it has a relationship to the link, the link still has access to “Current page” and it will be announced on focusing the link.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>隠れるとはいえ説明とリンクの関連付けは行われるため、リンクがフォーカスを受け取ると「現在のページ」と読み上げられます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note that Internet Explorer does not support hidden at the time of writing, but you can force it to by adding [hidden] { display: none; } to your style sheet.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>（本書の執筆時現在、Internet Explorerではhiddenはサポートされていませんが、スタイルシートに[hidden] { display: none; }を追加することで対応できます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Moving the aria-describedby="current" attribute from one element to another between pages is easy enough, and it can be used as a styling hook just as a class might be: [aria-describedby="current"].</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• ？？aria-describedby="current"属性は別のページの別の要素に簡単に移動でき、クラスと同じようにスタイルをつけるための仕掛けとして使用できます（[aria-describedby="current"]）。？？【コメント：不安訳です。原文「Moving the aria-describedby="current" attribute from one element to another between pages is easy enough, and it can be used as a styling hook just as a class might be: [aria-describedby="current"].」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>From Redundant Link to Skip Link</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>重複するリンクをスキップリンクに</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some unfinished business: on the about page, the current page link, now accessibly identified, points to the same about page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>これで現在のページのリンクをアクセシブルに区別できるようになりました。しかし、まだ問題が残っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In practice, this means that clicking the link will reload the page, dumping the keyboard user’s focus at the very top, on the document itself.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>それは、現在のページのリンクが「企業情報」ページ、つまり現在のページをポイントしているということです。そのため、リンクをクリックするとページの再読み込みが行われ、キーボードユーザーのフォーカスは再びドキュメントの一番上に戻ってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For screen reader users, this will prompt the repeated announcement of document-level information such as the &lt;title&gt; and a set of meta information about the page such as how many links it contains.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>またスクリーンリーダーユーザーの場合は、&lt;title&gt;などのドキュメントレベルの情報や、含まれているリンクの数などページに関するメタ情報一式がもう一度読み上げられることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The redundancy of the self-referential link has prompted some designers to remove it altogether.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>このように自己参照リンクは余計な繰り返し（重複）が生じるため、一切使わないというデザイナーもいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On the about page, that would leave us with:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>その場合、「企業情報」ページのナビゲーションは次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;nav&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="/"&gt;home&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/products"&gt;products&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/contact"&gt;contact us&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/login"&gt;login&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;nav&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/"&gt;ホーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/products"&gt;製品情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/contact"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/login"&gt;ログイン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This produces an unsatisfactory wayfinding experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>しかし、これではユーザーを満足させるナビゲーション体験は作れません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The current page link is for context, remember, the “You are here” marker.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>現在のページのリンクは状況によって変わります。「現在位置」の目印を思い出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Without it, you force the user into a rather absurd spot-the-difference game.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>この目印がないと、ユーザーは無意味な「間違い探しゲーム」をするはめになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As a remedy, I’ve heard it suggested to remove the current page link’s href, or to replace the &lt;a&gt; entirely with an uninteractive &lt;span&gt; element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>その対処法として寄せられたのが、現在のページのリンクのhrefを削除するか、&lt;a&gt;そのものを非インタラクティブ要素である&lt;span&gt;要素で置き換えるという案です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>These implementations are serviceable for sighted users, but screen reader users often traverse navigation landmarks from link to link, using their Tab key.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>どちらの方法も晴眼のユーザーには便利です。しかし、スクリーンリーダーユーザーの多くはTabキーを使ってリンクをたどりながらナビゲーションランドマークを移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the current page indicator is not focusable, it would be skipped over as if it didn’t exist.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>したがって、せっかく現在のページの目印を設置しても、フォーカスできなければ、そんなものは存在しないかのようにスキップされてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>My favorite solution is to make the current page link point to the main region of the page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>私が好きなのは、現在のページのリンクのポイント先をページのメイン領域にするという方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This way, instead of just reloading the page, it takes you past the navigation landmark to the content, like a skip link.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>こうすれば、ただページの再読み込みが行われるのではなく、ユーザーはナビゲーションランドマークをスキップリンクのように使用して目的のコンテンツにジャンプできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;nav&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="/"&gt;home&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#main"&gt;about&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/products"&gt;products&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/contact"&gt;contact us&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/login"&gt;login&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;nav&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/"&gt;ホーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#main"&gt;企業情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/products"&gt;製品情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/contact"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/login"&gt;ログイン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only is the link easy to style via the [href="#main"] attribute selector, but its behavior is communicated to assistive technologies: on focusing the home link, “Home, link” will be announced.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>この方法なら[href="#main"]属性セレクタを使って簡単にリンクのスタイルを指定できるだけでなく、その動作は支援技術にも伝えられます。したがって、たとえば「ホーム」のリンクにフォーカスすると、「＃＃ホーム、link＃＃」と読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Then, on focusing the about link, the user should hear “About, same page link.” Since “same page” is vocalized already, the hidden &lt;span&gt; with “Current page” is arguably obsolete.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>その後、「企業情報」のリンクにフォーカスを移すと、「＃＃企業情報、same page link＃＃」と読み上げられます。「＃＃same page＃＃」というアナウンスが入るため、非表示の&lt;span&gt;で「現在のページ」と指定する必要もないと言えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We’ve married behavior and semantics just by altering the href value.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>hrefの値を変えるだけで動作およびセマンティクスを結び付けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Credit should go to Daniel Göransson9 for suggesting this solution.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>この方法を提案してくれたダニエル・ゴランソン（Göransson）（脚注93）に拍手を送ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sometimes discussions in article comment sections can be surprisingly productive!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>このように記事のコメント欄でのやり取りが驚くべき成果をもたらすこともあるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Be wary of using this technique in single-page applications.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ただし、この方法をシングルページアプリケーションで用いる場合は注意が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When you are emulating the behavior of loading whole new pages, the announcement of “same page link” exposes a white lie and would make the experience confusing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>まったく新しいページを読み込む動作をエミュレートした場合、「＃＃same page link＃＃」というアナウンスは「うそ」になり、ユーザーの混乱を招きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For single-page applications, the aria-describedby approach would therefore be more suitable.)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>したがって、シングルページアプリケーションの場合はaria-describedbyの方が適しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Removing Redundancy</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>重複をなくす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s common practice to place your navigation landmark within the page’s banner landmark, which also features your company or project logo.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ページのバナーランドマーク（たとえば企業やプロジェクトのロゴ）の中にナビゲーションランドマークを設定するのはよくあることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here’s how that might be devised.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ここではその構築方法の例を紹介しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that the &lt;header&gt; element has the explicit ARIA banner role.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;header&gt;要素にARIAロールであるbannerロールを明示的に指定してあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is because multiple &lt;header&gt; elements can be used on one page, but only one should be the singular banner landmark.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;header&gt;要素は1つのページに複数使用できますが、その中の1つだけが唯一のバナーランドマークだからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though some browsers are clever enough to calculate which &lt;header&gt; is the right one, this helps others along.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>中にはどの&lt;header&gt;がバナーランドマークなのか判断できる高度なブラウザもありますが、そうでないブラウザの場合はbannerロールが役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;header role="banner"&gt; &lt;a href="/home"&gt; &lt;img src="images/logo.svg" alt="My Project home"&gt; &lt;/a&gt; &lt;nav&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="#main"&gt;home&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/about"&gt;about&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/products"&gt;products&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/contact"&gt;contact us&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/login"&gt;login&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/nav&gt;
+&lt;/header&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;header role="banner"&gt;
+&lt;a href="/home"&gt;
+&lt;img src="images/logo.svg" alt="プロジェクトのホーム"&gt;
+&lt;/a&gt;
+&lt;nav&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#main"&gt;ホーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/about"&gt;企業情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/products"&gt;製品情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/contact"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/login"&gt;ログイン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/header&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since usability convention dictates that the logo image should double as a link to the home page, the logo has a navigational role: the same navigational role as the first of the navigation landmark’s links.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ユーザビリティの慣習に従うなら、ロゴの画像はホームページのリンクも兼ねていなければなりません。つまり、ロゴはナビゲーションランドマークの最初のリンクと同じナビゲーションの役割も持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only does this create needless and potentially confounding redundancy, but we’ve committed the cardinal usability sin of giving two things that appear differently the same functionality.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>この不要な重複は混乱を招く上に、同じように機能するのに見た目は異なる2つの要素が存在するというのは、ユーザビリティの観点からするとあってはならないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One resolution might be to remove the home link from the navigation landmark.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>この問題の1つの解決策として、ナビゲーションランドマークからホームのリンクを削除することが考えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, navigation landmarks need to be complete and autonomous because they can be accessed directly, using shortcuts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>しかし、ナビゲーションランドマークはそれだけで完結していなければなりません。なぜなら、ショートカットを使ってダイレクトにアクセスするユーザーもいるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead, we can turn the navigation block’s home link into the logo, compacting the content by removing the now unnecessary role="banner" landmark.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>そこでもうひとつの方法として、ナビゲーションブロックのホームのリンクをロゴにしてしまえば、role="banner"ランドマークも不要になるため、コンテンツもコンパクトになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;nav&gt; &lt;ul&gt; &lt;li&gt; &lt;a href="#main"&gt; &lt;img src="images/logo.svg" alt="My Project home"&gt; &lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href="/about"&gt;about&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/products"&gt;products&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/contact"&gt;contact us&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="/login"&gt;login&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;nav&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="#main"&gt;
+&lt;img src="images/logo.svg" alt="プロジェクトのホーム"&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="/about"&gt;企業情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/products"&gt;製品情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/contact"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/login"&gt;ログイン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note: I am still using the same-page link technique here.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>（注：ここでもやはり「＃＃same page link＃＃」とアナウンスされる方法を使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Imagining that we are currently on the home page, the logo’s link goes to #main.)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>現在、ホームページにいると想定して、ロゴのリンクのポイント先を#mainに設定しています。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where an image is the content of a link, the alternative text (alt value) should describe the purpose of the link, not the nature of the image.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>リンクに画像を用いる場合は、代替テキスト（altの値）には画像自体の説明ではなくリンクの内容の説明を書くようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In other words, “My Project logo” would not suffice.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>この例の場合は、「プロジェクトのロゴ」ではなく、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“My Project home” or just “Home” are both appropriate here.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>「プロジェクトのホーム」か単純に「ホーム」とするのが適切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By creating a canonical link to the homepage, we’ve not only made navigation simpler to understand but foregone a Tab stop and diminished the verbosity of screen reader output.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>正統派のホームページリンクを作成することで、ナビゲーションがよりシンプルで分かりやすくなるだけでなく、タブストップを使わずにすむ上に、スクリーンリーダーで同じアナウンスが繰り返されるのも防げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s important that screen reader users get all the information they need, but redundant information is noise, something which is more difficult to ignore than visual artifacts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>スクリーンリーダーユーザーが必要なすべての情報を得られることは大切ですが、同じ情報が何度も読み上げられるのは不快で、視覚的なノイズよりも無視するのが容易ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In terms of responsive design, it’s possible to target the logo using :first-child and, for example, place it on its own row within smaller viewports:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>また、レスポンシブデザインという観点で考えると、:first-childを使ってロゴにターゲットを設定し、たとえば？？ビューポートが小さい場合は単独の行に配置する？？ということも可能です。【コメント：この解釈で問題ないでしょうか。原文「place it on its own row within smaller viewports」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>@media (max-width: 20em) { nav li:first-child { display: block; text-align: center; }
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>@media (max-width: 20em) {
+nav li:first-child {
+display: block;
+text-align: center;
+}
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tables Of Contents</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>目次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“I like pages with links at the top of the page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>「私はページの一番上にリンクがある方が好きです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s really helpful on long pages with a lot of sections.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>1つ1つのページが長く、多数のセクションで構成されている場合は、一番上にリンクがあると非常に助かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I can figure out what’s on the page without a lot of work.” – Lea, a persona from A Web For Everyone10</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>そのページに何が書かれているか一目で見当がつきます」
+— Lea（「A Web For Everyone」（脚注94）の登場人物）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Resources like Wikipedia which trade in typically very lengthy and detailed articles, have long been incorporating tables of content because they provide two related benefits:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>Wikipediaのような情報サイトは概して非常に長い詳細な記事を扱うため、昔から目次が使われます。目次には相関する2つのメリットがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Summarizing long-form content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• 長文のコンテンツを要約できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Providing navigation to specific sections of long-form content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• 長文コンテンツの各セクションにジャンプするナビゲーションを提供できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’m fond of tables of contents for one reason most of all: they’re not drop-down/pull-down/pop-up submenus.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>私が目次を好きな一番の理由は、ドロップダウンやプルダウン、ポップアップと呼ばれるサブメニューではないところです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I mean, these don’t even have a name anyone can agree on!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>この手のサブメニューには誰もが納得する名前すらありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Drop-down submenus (let’s call them that) attempt to solve the same problem of grouping links to related content, but are flawed in a number of ways.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ドロップダウン形式のサブメニュー（ここではそう呼ぶことにします）もコンテンツに関連付けられているリンクを分類する手段として使われますが、さまざまな意味で問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First, they hide navigational content from view within a precarious, interaction-activated menu.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>まず、インタラクションによってアクティブになる不安定なメニューである上に、表示されたメニューのせいで対象のコンテンツが隠れて見えなくなることが挙げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Second, they encourage information architects to spawn numerous, independent pages of content, without the clear hierarchy of grouping related sections under a main heading on a shared page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>？？また、インフォメーションアーキテクトが多数の独立したコンテンツページ（共有ページのメインの見出しの下の、分類された関連セクションの階層が不明確）を作るのを助長してしまうのも問題です。？？【コメント：不安訳です。原文「Second, they encourage information architects to spawn numerous, independent pages of content, without the clear hierarchy of grouping related sections under a main heading on a shared page.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though technically they can be made accessible, it’s not a trivial task to support mouse, keyboard and touch interaction simultaneously without diminishing the quality of any one mode.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>技術的にはアクセシブルにできないこともありませんが、マウス、キーボード、タッチインタラクションのすべてに、質を下げずに対応するのは簡単なことではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The submenus they disclose need to be positioned absolutely, which invites layout issues across different viewports, and they’re cumbersome when it comes to graceful degradation in the absence of JavaScript, CSS or both.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ドロップダウン形式のサブメニューは位置を固定する必要があるため、ビューポートの違いによるレイアウトの問題が生じます。また、JavaScriptやCSS（あるいはその両方）が使えない場合のグレイスフルデグラデーションも厄介です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sometimes it’s better not to make something just-about-inclusive, but to think about the root problem and devise a completely different solution — a simpler and more robust one.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>場合によっては、何とかインクルーシブに近づけるよりも、根本的な問題に目を向けて、まったく別のもっとシンプルかつ堅牢な解決策を考えた方が良いこともあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tables of content are the antidote to drop-down submenus.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>そして、このドロップダウン形式のサブメニューに対抗する手段が目次というわけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Drop-down submenus will not, therefore, have a pattern of their own in this book.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>したがって、本書ではドロップダウン形式のサブメニューのパターンは扱いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For further reading, instead consult the Nielsen Norman Group’s “Drop-Down Menus: Use Sparingly11.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>この件についてもっと詳しく知りたい方は、Nielsen Norman Groupの「Drop-Down Menus: Use Sparingly」（脚注95）を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basic Structure</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>基本構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Wikipedia provides the  “Contents” to locate the table of contents in assistive technology.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>Wikipediaは、「目次」にを使用しており、支援技術で見つけることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since tables of contents that link to page sections are de facto navigation landmarks, we can do one better than Wikipedia and include role="navigation" on the parent element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>しかし、ページの各セクションにリンクしている目次は事実上のナビゲーションランドマークであるため、親要素にrole="navigation"を指定すればWikipediaよりもうまいやり方で目次を作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each link points to a fragment identifier12 that corresponds with a section of the page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>その場合、それぞれのリンクのポイント先は、ページの各セクションのフラグメント識別子（脚注96）に設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>目次
+沿革
+業務内容
+ニュース
+エンドースメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div class="toc" role="navigation"&gt; <bpt i="2" x="2">&lt;h2&gt;</bpt>Contents<ept i="2">&lt;/h2&gt;</ept> &lt;ul&gt; &lt;li&gt;&lt;a href="#history"&gt;Our history&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#services"&gt;What we do&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#endorsements"&gt;News&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#endorsements"&gt;Endorsements&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;div class="toc" role="navigation"&gt;
+目次
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#history"&gt;沿革&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#services"&gt;業務内容&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#endorsements"&gt;ニュース&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#endorsements"&gt;エンドースメント&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A grey, bordered box with the heading “Contents” above a bulleted list of in-page links.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Web page tables of contents usually follow the Wikipedia model: a basic bulleted list of links inside a box.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>Webページの目次は、シンプルな箇条書きのリンクリストを枠で囲んだWikipediaタイプが一般的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sequential Focus Navigation</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>シーケンシャルフォーカスナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The links within a table of contents point to element ids representing targets within the page, such as #services, which update the document’s URL with the corresponding hash cipher.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>目次のリンクはページ内のターゲットの要素idをポイントし（例：#services）、対応するハッシュでドキュメントのURLが更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;h2 id="services"&gt;Services<it pos="end" x="2">&lt;/h2&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;h2 id="services"&gt;サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Despite these targets (usually &lt;section&gt;s or headings) not typically being focusable elements, browsers employ sequential focus navigation whereby the first focusable element within or after the target is made the next focusable element in sequence.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>これらのターゲット（通常は&lt;section&gt;や見出し）はたいていフォーカス可能な要素ではありませんが、ブラウザが、ターゲット内またはターゲットの後の最初のフォーカス可能要素を、シーケンシャルフォーカスナビゲーションの次のフォーカス可能要素として処理してくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The upshot is that users navigating by keyboard can follow a link in a table of contents and be transported to that section safe in the knowledge that keyboard functionality will be localized to the section.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>キーボードでナビゲートする場合も、？？移動先がセクションに限定されるため？？、目次のリンクをたどって確実に目的のセクションに移動できます。【コメント：意訳しています。原文「keyboard functionality will be localized to the section」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Maximizing Support</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>サポートの拡大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Until recently, a bug in Chrome13 meant that sequential focus navigation did not work, but that bug has (finally!) been fixed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>最近までChromeでシーケンシャルフォーカスナビゲーションが機能しないというバグ（脚注97）がありましたが、すでに（ようやく！）修正されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To make sequential focus navigation work in Internet Explorer, you have to overcome a longstanding hasLayout bug.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>Internet Explorerでシーケンシャルフォーカスナビゲーションを使用するためには、以前からあるhasLayoutのバグの対処が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fortunately, this is possible by simply adding tabindex="-1" to the element carrying the target id.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>幸い、ターゲットのidが設定されている要素にtabindex="-1"を付け加えるだけで解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;h2 id="services" tabindex="-1"&gt;Services<it pos="end" x="2">&lt;/h2&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;h2 id="services" tabindex="-1"&gt;サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Linkjacking</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>？？リンクジャック？？【定訳が確認できませんでした。原文「LINKJACKING」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some implementations of in-page linking are enhanced by JavaScript to provide a smooth scrolling effect as the targeted section comes into view.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>JavaScriptを使用して、ターゲットのセクションに移動する際にスムーズスクロール表示されるようにしたページ内リンクもよく見かけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For this to work correctly, the standard browser behavior of jumping instantaneously to the target needs to be suppressed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>このスムーズスクロールを正しく動作させるためには、ブラウザの標準の動作であるターゲットへの瞬間移動をやめさせる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The behavior of linking is effectively replaced with scrolling and sequential focus navigation no longer takes place.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>しかし、リンクの動作をスクロールで置き換えると、シーケンシャルフォーカスナビゲーションが機能しなくなり、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Keyboard users become stranded.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>キーボードユーザーが困ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now that standard behavior has been usurped, the usurper needs to emulate it for us.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>標準の動作を奪われたのですから、奪った本人にその動作を再現してもらう必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In other words, we need to use JavaScript to fix the JavaScript.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>つまり、JavaScriptを使ってJavaScriptを修正するというわけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As is often the case in making keyboard-inclusive JavaScript interfaces, explicit focus management must be employed to move the keyboard user to the intended location.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>キーボード対応のJavaScriptインターフェイスを作るときにはよくあることですが、明示的なフォーカス管理を用いてキーボードユーザーを目的の場所に移動させなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A typical implementation is achieved by animating scrollTop using jQuery.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>これは通常、jQueryを使用してscrollTopをアニメーションするという方法で実装します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fortunately, jQuery’s animate method provides a callback, meaning focus can be applied to the target element after the animation has finished.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>幸い、jQueryのanimateメソッドではコールバックが使えるため、アニメーションが終了してからターゲット要素にフォーカスを適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>function isSameResource(urlOne, urlTwo) { var fragmentPattern = /#.*$/; var resourceOne = urlOne.replace(fragmentPattern, ''); var resourceTwo = urlTwo.replace(fragmentPattern, ''); return resourceOne === resourceTwo;
+}
+
+function getFragmentTarget(id) { if (id.slice(0, 1) === '#') { id = id.slice(1); } // we're looking for &lt;div id="{id}"&gt; or &lt;a name="{id}"&gt;
+    return document.getElementById(id) || document.querySelector('a[name="' + id + '"]');
+}
+
+// handle activation of all fragment links on the current page
+$(document.body).on('click', 'a[href*="#"]:not([href="#"])', function(event) { if (event.isDefaultPrevented()) { // some other event handler might have already handled this event
+        return; } if (!isSameResource(location.href, this.href)) { return; } var target = getFragmentTarget(this.hash); if (!target) { return; } // prevent browser from jumping to the fragment
+    // because we want to scroll it into view first
+    event.preventDefault(); // smooth scroll document to target element over 1 second,
+    // not using Element.scrollIntoView() because not widely supported yet
+    $('html, body').animate( { scrollTop: $(target).offset().top }, 1000,       function() { // now that we’ve scrolled the target into view,
+            // let the browser do its regular thing and update the URL
+            window.location.hash = target.id || target.name; } );
+});</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>function isSameResource(urlOne, urlTwo) {
+var fragmentPattern = /#._$/;
+var resourceOne = urlOne.replace(fragmentPattern, '');
+var resourceTwo = urlTwo.replace(fragmentPattern, '');
+return resourceOne === resourceTwo;
+}
+function getFragmentTarget(id) {
+if (id.slice(0, 1) === '#') {
+I'd = id.slice(1);
+}
+// &lt;div id="{id}"&gt;または&lt;a name="{id}"&gt;を探す
+return document.getElementById(id)
+|| document.querySelector('aname="' + I'd + '"]');
+}
+// 現在のページのすべての？？フラグメントリンク？？のアクティブ化を処理【コメント：定訳が確認できませんでした。原文「fragment links」】
+$(document.body).on('click', 'a[href*="#"]:not([href="#"])', function(event) {
+if (event.isDefaultPrevented()) {
+// このイベントはすでに他のイベントハンドラーによって処理されているかもしれない
+return;
+}
+if (!isSameResource(location.href, this.href)) {
+return;
+}
+var target = getFragmentTarget(this.hash);
+if (!target) {
+return;
+}
+// はじめにスクロール表示させたいため、
+// フラグメントにジャンプしないようにする
+event.preventDefault();
+// ドキュメントからターゲット要素へ1秒かけてスムーズスクロールさせる
+// Element.scrollIntoView()はまだ広くサポートされていないため使わない
+$('html, body').animate(
+{ scrollTop: $(target).offset().top },
+1000, function() {
+// ターゲットがスクロール表示されるようになったので、
+// 後はブラウザの通常の動作とURLの更新が行われるように設定する
+window.location.hash = target.id || target.name;
+}
+);
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note the line starting window.location.hash which updates the URL after focus with the hash fragment.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ハッシュフラグメントにフォーカスが移ると、window.location.hashで始まる行により、URLが更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This reinstates standard behavior too, making sure the user can still bookmark and share the subsection.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>同時に通常の動作に戻るため、ユーザーは普段どおりサブセクションにブックマークを付けたり共有したりもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This ability to record and retrieve subsections of documents is an integral part of the web experience, and one some users would miss if absent.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>こうしたドキュメントのサブセクションを記録したり取得したりする機能はWeb体験に不可欠な機能であり、これがないと困るというユーザーも大勢います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Labeling Navigation Landmarks</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>ナビゲーションランドマークのラベル付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We began by formulating a site-wide navigation landmark.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>この章では最初に、サイト内共通のナビゲーションランドマークについて考察しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now we’ve spawned an in-page navigation landmark, introducing a second region to our pages.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>それから、ページ内ナビゲーションランドマークを使って現在のページの別の領域に移動する方法も学びました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>While some landmarks like banner and main can only occur once per page, it’s quite legitimate to use multiple navigation landmarks if the content merits them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>bannerやmainのように1つのページに1つしか設定できないランドマークもありますが、コンテンツにその価値がある場合は当然、複数のナビゲーションランドマークが必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There’s a world of difference, however, between technical compliance and ensuring a good user experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>しかし、「技術的準拠」と「優れたユーザー体験の確保」の間には大きな違いがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To make the most of these two complementary navigation tools, the user needs to know which is which.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>互いに補完し合う2つのナビゲーションツールを最大限に活用するためには、ユーザーは両者を区別できなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Visually speaking this is trivial, since their style and placement demarcate them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>目で見分けるのは簡単です。スタイルや配置で判断できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The site navigation should appear above the &lt;main&gt; content and the table of contents within it (preferably directly below the document’s principal  heading, as it would in a Microsoft Word document).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>サイトナビゲーションは&lt;main&gt;コンテンツの上に、目次は中に（できればMicrosoft Word文書のように、ドキュメントの主要な見出しのすぐ下に）表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Similarly, when browsing the page from top to bottom, the screen reader user would encounter the site navigation first, which is some indication of role and identity.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>また、スクリーンリーダーユーザーの場合も、ページを上から下へブラウズしていくと最初にサイトナビゲーションに出くわすため、それが何か、何のためのものかはある程度分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A heading, such as the “Contents”  in the previous example, helps if the user is navigating by heading shortcut.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>一方、前の例で取り上げた「目次」ののような見出しは、ユーザーが見出しのショートカットを使ってナビゲートする際に役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, as you may remember from “A Blog Post,” screen readers aggregate headings, links and landmarks into lists, providing tables of contents of their own.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>また一方で、「ブログ記事」で学んだように、スクリーンリーダーでは見出し、リンク、ランドマークをリストにまとめて独自の目次が作られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So that headings and links make sense decontextualized in such a fashion, you need to write autonomous, self-describing labels.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>その際、見出しとリンクがどんな状況でも意味をなすように、それだけで内容が分かるようなラベルを付ける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlike headings and links, landmarks do not constitute their own labels; they are simply identified by their role.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>見出しやリンクと違って、ランドマークにはラベルは付きません。ロールだけで識別されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Accordingly, two navigation landmarks would be listed as:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>したがって、2つのナビゲーションランドマークは次のようにリストされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Navigation</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Navigation</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Never fear: thanks to WAI-ARIA’s global aria-labelledby relationship attribute, we can provide an auxiliary label via the existing heading element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>大丈夫、心配はいりません。WAI-ARIAのグローバルなaria-labelledbyリレーションシップ属性を使えば、既存の見出し要素を用いて補助的なラベルを付けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the following example, the text node “Contents” (of the ) becomes the label of the region using its id as the aria-labelledby value.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>次の例では、idがaria-labelledbyの値として指定されているテキストノード「目次」（）がこの領域のラベルになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;nav class="toc" aria-labelledby="contents-heading"&gt; &lt;h2 id="contents-heading"&gt;Contents<it pos="end" x="2">&lt;/h2&gt;</it> &lt;ul&gt; &lt;li&gt;&lt;a href="#history"&gt;Our history&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#services"&gt;The services we offer&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#endorsements"&gt;Visit our office&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#endorsements"&gt;Endorsements&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;nav class="toc" aria-labelledby="contents-heading"&gt;
+&lt;h2 id="contents-heading"&gt;目次
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#history"&gt;沿革&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#services"&gt;業務内容&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#endorsements"&gt;営業所&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#endorsements"&gt;エンドースメント&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though a heading is recommended to support screen reader heading navigation, and to add lexical clarity for users of all kinds, it’s not obligatory.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>スクリーンリーダーの見出しナビゲーションに対応するためにも、またあらゆるタイプのユーザーに分かりやすく表記するという意味でも、見出しはお勧めですが、必須ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In which case, the aria-label attribute can be attached directly to the landmark instead.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>代わりにランドマークに直接aria-label属性をアタッチすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;nav class="toc" aria-label="contents"&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="#history"&gt;Our history&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#services"&gt;The services we offer&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#endorsements"&gt;Visit our office&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#endorsements"&gt;Endorsements&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>&lt;nav class="toc" aria-label="目次"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#history"&gt;沿革&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#services"&gt;業務内容&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#endorsements"&gt;営業所&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#endorsements"&gt;エンドースメント&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In either implementation, there are two upshots:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>どちらの方法でも結果は次の2通りになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•When a screen reader user focuses a link inside the navigation landmark, the label is added to the contextual information announced.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>1.スクリーンリーダーユーザーがナビゲーションランドマーク内のリンクにフォーカスすると、状況によって変わる情報にプラスしてラベルが読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By focusing the “Our history” link in the previous example, “contents navigation landmark, list, one of four items, our history, link” (or similar) would be announced.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>たとえば前の例の「沿革」のリンクにフォーカスすると、「＃＃contents navigation landmark, list, one of four items, our history, link＃＃」などと読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•In the screen readers VoiceOver, NVDA and JAWS, the navigation landmark will be distinctly labeled as “Contents navigation” in the landmark elements list.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>2.スクリーンリーダーのVoiceOver、NVDA、JAWSのランドマーク要素リストでは、ナビゲーションランドマークは「＃＃Contents navigation＃＃」というラベルで区別されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>まとめ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For this pattern, we progressively enhanced one of HTML’s primitives, lists, to create the inclusive means to navigate within and between web pages.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>今回のパターンでは、HTMLの基本の1つであるリストを段階的に強化して、Webページ内およびWebページ間をナビゲートするインクルーシブな手段を作成しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Along the way, I covered design provisions transferable to many other patterns, including logical source order and the virtue of eliminating redundancy.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>その中で、論理的なソースの順序や、重複をなくす方法など、さまざまなパターンに応用できるデザイン対策も学びました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When JavaScript was introduced to enhance scrolling behavior, we ensured it would both remain functional to keyboard users and degrade gracefully in the absence of the script.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>また、JavaScriptを使ってスクロール動作を強化する例では、キーボードユーザーも利用できるようにすることと、スクリプトが使えない場合のグレイスフルデグラデーションを念頭に置きました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Things to Avoid</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>避けるべきこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Unconventionally designed or difficult to discover menu systems.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• 慣習を無視した、または見つけにくい（分かりづらい）メニューシステム。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Relying on color alone to indicate the current page or section.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• 現在のページやセクションを色だけで区別する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Hijacking link behavior without considering focus management.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• フォーカス管理を考えずにリンクの動作を「ハイジャック」する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Foregoing unique labels where more than one &lt;nav&gt; is present.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>• 一意のラベルを付けずに&lt;nav&gt;を複数定義する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.http://info.cern.ch/hypertext/WWW/TheProject.html 2.https://www.w3.org/TR/wai-aria-1.1/#landmark_roles 3.https://en.wikipedia.org/wiki/Schema_%28psychology%29 4.https://books.google.co.uk/books?id=QlduAgAAQBAJ&amp;source=gbs_book_similarbooks 5.https://twitter.com/LeonieWatson 6.https://www.w3.org/TR/WCAG20/#visual-audio-contrast 7.http://www.heydonworks.com/article/the-accessible-current-page-link-conundrum 8.http://w3c.github.io/aria/aria/aria.html#aria-describedby 9.https://twitter.com/danielgoransson?lang=en-gb 10.http://rosenfeldmedia.com/books/a-web-for-everyone/ 11.https://www.nngroup.com/articles/drop-down-menus-use-sparingly/ 12.https://en.wikipedia.org/wiki/Fragment_identifier 13.https://bugs.chromium.org/p/chromium/issues/detail?id=454172#c20</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T133506Z">
+        <seg>85 http://info.cern.ch/hypertext/WWW/TheProject.html
+86 http://smashed.by/landmark-roles
+87 https://en.wikipedia.org/wiki/Schema_%28psychology%29
+88 http://smashed.by/dontmakemethink
+89 https://twitter.com/LeonieWatson
+90 https://www.w3.org/TR/WCAG20/#visual-audio-contrast
+91 http://smashed.by/conundrum
+92 http://w3c.github.io/aria/aria/aria.html#aria-describedby
+93 https://twitter.com/danielgoransson
+94 http://rosenfeldmedia.com/books/a-web-for-everyone/
+95 http://smashed.by/drop-down
+96 https://en.wikipedia.org/wiki/Fragment_identifier
+97 http://smashed.by/focus-target</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

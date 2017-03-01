@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Evaluation By Pattern | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Evaluation By Pattern</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>パターンごとの評価</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When I started working on this book, I prepared a rough outline first.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>本書の執筆に着手したとき、私はまずざっくりとした概要を作成しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This skeleton was organized around theme, or principle.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>この概略は、テーマ、または原則を中心に構成しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, I had a chapter stubbed out about keyboard interaction, one about color, another on writing, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>つまり、キーボードインタラクション、色、記述などについて、必要最低限のことのみが書かれた章を用意したのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s good to be prepared, but better to be prepared in the right way.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>こうしたものを用意するのは良いことですが、正しい方法で用意するようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As I embarked on fleshing out the various chapters, it quickly became apparent that I’d wrong-footed the structure entirely.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>私は、多種多様な章の肉付けに入ってすぐに、完全に構造を誤ったことに気付きました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It just wasn’t compatible with the way I instinctively think and work.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>私の直感的な考え方や作業方法に合っていなかったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The trouble was, when I set about describing how to make something keyboard-accessible, I had to bite my tongue not to talk about touch interaction, screen reader compatibility and copywriting as well.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>問題は、何かをキーボードでアクセスできるようにする方法について説明しようと思ったときに、タッチ操作やスクリーンリーダーの互換性、コピーライティングなどについて触れないようにしなくてならなかったことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It didn’t feel right to expound on making something inclusive in one regard without taking care of all the other problems that might undermine the same example.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>何かをインクルーシブにする方法について、ある1つの点についてのみ詳しく説明し、害になる可能性がある他の問題について何も説明しないのは適切でないと思いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’d be leaving the job unfinished.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>それでは中途半端になってしまうでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When we design interfaces, we don’t deal in abstract principles, we create working things.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>インターフェイスをデザインするとき、私たちは抽象的な原則を扱うのではなく、機能する具体的なものを作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Our terminology for these things fluctuates between modules, components, or the looser term patterns, but essentially we mean the parts that contribute to an interface.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>それはモジュール、コンポーネント、もっと定義が曖昧な言葉で言えばパターンなど、場合によって変化しますが、基本的にはインターフェイスに寄与する部分を意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When creating patterns, we don’t labor according to any one guiding principle; we don’t create keyboard-accessible patterns or internationalized patterns.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>パターンを作るとき、何か1つの指針に従うよう努力することはありません。キーボードでアクセスできるパターンや国際化されたパターンを作るのではないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We want these patterns to have all the good qualities and, of course, none of the bad ones.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>作りたいのは、すべての優れた質を備え、当然ながら質の悪いところがまったくないパターンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I ditched the contrived inclusion-by-principle structure early on in favor of talking through discrete patterns — motifs and components you might find in a working website or application.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>私は嘘臭い原則に従ったインクルージョンには早々に見切りをつけ、うまく機能しているWebサイトやアプリケーションに見られるモチーフやコンポーネントといった、個々のパターンについて説明することを選びました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>My writing began to flow much more easily because I was essentially documenting my design process: the work of conceiving and realizing inclusive content and functionality.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>するとすらすらと筆が進み始めました。基本的に私自身のデザインプロセス（インクルーシブなコンテンツや機能を考え出し、実現するという作業）を文書化していたからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since I’m speaking to you as designers, developers and makers yourselves, I figured this would make for clearer and more transferable information for you too.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>デザイナー、開発者、作成者の読者を想定した説明なので、この方が皆さんにもより明確で、情報が良く伝わると考えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Problem With Evaluating By Principle</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>原則ごとに評価する問題点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The reason I started out writing by principle is because I often have to wear my accessibility engineer hat and perform accessibility audits.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>最初に原則ごとに書き始めたのは、アクセシビリティエンジニアとしてアクセシビリティ検査を実行することがよくあるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I evaluate the accessibility of a website or application, identifying problems and offering guidance for remediation: making things unbroken.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>Webサイトやアプリケーションのアクセシビリティを評価し、問題を特定して、「改善」（壊れている箇所の修復）についてアドバイスをするのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When performing an audit, I defer to WCAG (Web Content Accessibility Guidelines).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>検査を実施する際、私はWCAG（Web Content Accessibility Guidelines）に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though different countries have their own accessibility legislation, WCAG offers the de facto international rule set and is ratified by the W3C standards body.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>国によってアクセシビリティに関する独自の法律がありますが、WCAGは事実上の国際的なルールセットを提供し、標準化団体W3Cによって承認されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On the whole, it’s better I don’t just tell folks how I think they should have designed their interface!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>概して、検査した対象のインターフェイスをどのようにデザインすべきだったかについて、ただ私がどう考えるかを伝えるよりも良いのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That WCAG is organized by principle — perceivable, operable, understandable, robust — is to be expected.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>WCAGは当然ながら原則（知覚可能、操作可能、理解可能、堅牢）別に整理されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>WCAG doesn’t know in advance precisely which elements, composites and conventions you are going to employ so it has to remain abstract.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>WCAGは、皆さんがどの要素、コンポジット、規則を使用するかといった詳細を事前に知らないので、抽象的にならざるを得ないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, this has led manual evaluation experts and automated test tools to report according to principle.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>しかしこれが原因で、手動で評価を行うエキスパートや自動化されたテストツールは、原則に照らして結果を報告してきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We’re fairly wedded to reporting accessibility failures by principle because it’s easier that way to reassure ourselves each and every independent issue has been covered.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>私たちが原則ごとにアクセシビリティの不備を報告するやり方を変えないのは、その方が1つ1つの独立した問題に対応していることを確認しやすいからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’m just not convinced development teams find information presented in this way easily actionable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>開発チームがこの方法で示された情報を簡単に実施できると感じるかどうか、私には確信が持てません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When developer focus moves between integrated components, what good are a hundred disparate and application-wide missing alternative text tickets?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>開発者が統合されたコンポーネント間の動きに注目している場合、それとはまったく関係ないアプリケーション全体にわたる代替テキストの欠落に関する違反報告に、一体何の意味があるというのでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A list of tickets tagged with the bug keyword with titles like ‘Bad alt text on page 76’ and ‘Missing alt text on page 94.’</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>問題のある代替テキスト、102ページ［バグ］
+代替テキストの不足、66ページ［バグ］
+不適切な代替テキスト、94ページ［バグ］
+代替テキストの欠如、29ページ［バグ］
+代替テキストの不具合、84ページ［バグ］</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SIGH!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>やれやれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Time to put the headphones on and fire up some Napalm Death.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ヘッドフォンをつけてナパーム・デスでも聞こうかな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But that’s not all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>それだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A lot of the time, one issue apparently belonging to one principle or theme is related — either by cause or correlation — to another.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>たいていの場合、一見1つの原則またはテーマに属しているように思える問題は、原因または相互関係の点で他の問題とつながっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contriving to turn one instance of poor design into two or more reported issues not only complicates the remediation process, but does nothing to educate the developer about how these problems really come about.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>何とか工夫して、1つの質の悪いデザインの事例を2つ以上の問題に分けて報告しても、修正プロセスが複雑になるだけです。また、それらの問題が実際にどのようにして発生したかについて、開発者に教える役にも立ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Button Example (Again)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ボタンの例（再登場）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s take another look at the button example from the book’s introduction.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>「はじめに」で紹介したボタンの例をもう一度見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Except this time let’s imagine the faux button is for upvoting some content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ただし今回は、何らかのコンテンツに賛成票を投じるためのボタンという想定です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The button markup looks like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ボタンのマークアップは次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div class="upvote" data-action="upvote"&gt;&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>&lt;div class="upvote" data-action="upvote"&gt;&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And the button appears like so:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ボタンの見た目はこのようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Button shape with a thumbs-up icon to the left and the word ‘upvote’ with an exclamation mark to the right.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>賛成！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The separation between style and behavior between the class and data-action attributes is nice and all, but it hardly makes up for the button’s grave shortcomings when it comes to inclusion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>class属性とdata-action属性の間のスタイルと動作の分離については悪くありませんが、インクルーシブという観点ではボタンの重大な欠陥をほとんど補えていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This time, let’s map those shortcomings to WCAG’s success criteria to establish where there are failings.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>今度は、WCAGの成功基準に照らして、どこに欠陥があるのかはっきりさせましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First, under perceivable, the button fails 1.1.1 Non-text Content1 because it has no alternative text to supplement the image of text in the background.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>まず、背景のテキスト画像を補完する代替テキストがないので、「知覚可能」の1.1.1「非テキストコンテンツ」（脚注71）を満たしていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Second, under operable, it fails 2.1.1 Keyboard2 because the button uses an unfocusable &lt;div&gt; element, which — even if you made it to be focusable with tabindex="0" — would still need some JavaScript to trigger click events on pressing the Enter and Space keys.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>次に、フォーカスできない&lt;div&gt;要素を使っているので、「操作可能」の2.1.1「キーボード」（脚注72）を満たしていません。tabindex="0"でフォーカス可能にしたとしても、EnterキーおよびSpaceキーを押してクリックイベントをトリガーするためにはJavaScriptが必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Finally, under robust, the button fails 4.1.2 Name, Role, Value3 because there’s nothing in the markup to communicate in assistive technologies that the button is, indeed, a button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>最後に、「堅牢性」の4.1.2「名前（name）・役割（role）及び値（value）」（脚注73）を満たしていません。それがボタンであることを支援技術で伝えるものがマークアップ内に何もないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fixing the Button</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ボタンの修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now imagine an accessibility consultant has reported all of these failures in a spreadsheet under columns organized by principle and success criterion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>次に、アクセシビリティコンサルタントが、これらの欠陥すべてを原則と成功基準別に整理してスプレッドシートにまとめ、報告したとしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This spreadsheet is then handed off to their client’s project manager who sets about writing bug tickets for the developers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>このスプレッドシートはクライアントのプロジェクトマネージャーに渡され、彼は開発者に渡すバグチケットの作成に取りかかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One developer is randomly assigned a ticket labeled “Upvote Button Missing Label.” They open that ticket and, like any self-respecting developer, endeavor to fix and close it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>1人の開発者に無作為に割り当てられたのは、「賛成ボタンのラベル欠如」というチケットです。開発者はチケットを開き、誇りある開発者ならだれでもそうするように、修正を行って問題を解決しようと努めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not especially familiar with accessible naming techniques, they do a bit of casual research and land on some possible solutions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>アクセシブルな命名テクニックに特に詳しいわけではないその開発者は、ざっと調べて、いくつかの実行可能な解決策に行き着きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Supplying a text node is out because this would be visible over the top of the background image’s text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>テキストノードを使ったのでは、背景画像のテキストの上に表示されてしまうので問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the end, they opt for aria-label.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>最終的に、aria-labelを使うことにしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div class="upvote" data-action="upvote" aria-label="upvote"&gt;&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>&lt;div class="upvote" data-action="upvote" aria-label="賛成"&gt;
+&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unknown to this developer, another developer is assigned “Upvote Button Not Keyboard-Accessible.” The ticket comes with some guidance from the accessibility consultant about how to make the &lt;div&gt; keyboard-accessible using tabindex and some JavaScript to trigger click events with the keyboard.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>この開発者は知りませんが、2人目の開発者には「賛成ボタンがキーボードでアクセスできない」というチケットが割り当てられています。このチケットには、tabindexを使って&lt;div&gt;をキーボードでアクセスできるようにする方法と、キーボードでクリックイベントをトリガーするJavaScriptについて、アクセシビリティコンサルタントからのアドバイスが添えられています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The project’s JavaScript swells slightly and the markup ends up like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>プロジェクトのJavaScriptがわずかに増え、マークアップは次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div class="upvote" data-action="upvote" aria-label="upvote" tabindex="0"&gt;&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>&lt;div class="upvote" data-action="upvote" aria-label="賛成" tabindex="0"&gt;&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Meanwhile, a third developer is dutifully studying “Upvote Button Has Improper Role” and — seeing how much work has gone into this &lt;div&gt; already — tops it off with an explicit ARIA role of "button".</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>そして、3人目の開発者は「賛成ボタンのロールが不適切」というチケットをしっかりと検討し、すでに&lt;div&gt;に加えられた修正を確認して、“button”という明確なARIAロールを加えて完成させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div class="upvote" data-action="upvote" aria-label="upvote" tabindex="0" role="button"&gt;&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>&lt;div class="upvote" data-action="upvote" aria-label="賛成" tabindex="0" role="button"&gt;&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Better Way</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>より良い方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The problem with this contrived and fragmented way of evaluating interfaces is that nobody has the chance to point out and avoid what are simply bad ideas, like using a &lt;div&gt; as a button control.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>このような不自然で断片化された方法でインターフェイスを評価する問題点は、&lt;div&gt;をボタンコントロールとして使うといった、とてもまずいアイデアを指摘したり避けたりする機会が誰にもないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The way failures are reported and developers are tasked means you always end up just patching what’s already there.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>このような方法で欠陥を報告し、開発者に作業を割り当てると、どうしてもすでに存在するものにパッチを当てるだけになってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What you end up with is frequently bloated and less robust.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>そしてたいていの場合、肥大化して堅牢性が低い結果になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In reporting by pattern instead, the consultant has the opportunity to recommend alternative approaches and techniques.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>代わりにパターンで報告すれば、コンサルタントは別のアプローチやテクニックを勧める機会が持てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In this case, the various failures organized under the upvote button pattern would surely lead them to recommend the use of a standard &lt;button&gt; button element in its place.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>このケースでは、賛成ボタンのパターンという項目にまとめられたさまざまな欠陥を見れば、コンサルタントは当然ながら標準の&lt;button&gt;要素を使うよう勧めるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;button data-action="upvote" aria-label="upvote"&gt;&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>&lt;button data-action="upvote" aria-label="賛成"&gt;&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To complete the redesigned pattern they might recommend the use of an SVG to represent the icon.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>デザインし直したパターンを完成させるために、コンサルタントはSVGを使ってアイコンを表すことを勧めるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As I cover in “A Menu Button,” SVG benefits from being scalable, small in file size and — unlike icon fonts — not breakable by user font preferences.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>「＄＄A Menu Button＄＄」で説明するように、SVGには、拡大縮小が可能でファイルサイズが小さいというメリットがあります。また、アイコンフォントとは異なり、ユーザーのフォント選択によって壊れることもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;button data-action="upvote"&gt; &lt;svg aria-label="upvote"&gt; &lt;use xlink:href="#upvote"&gt;&lt;/use&gt; &lt;/svg&gt;
+&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>&lt;button data-action="upvote" aria-label="賛成"&gt;
+&lt;svg&gt;
+&lt;use xlink:href="#upvote"&gt;&lt;/use&gt;
+&lt;/svg&gt;
+&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To a developer used to working in terms of modules and components, this represents a complete, integrated solution to a problem.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>モジュールやコンポーネントという観点での作業に慣れている開発者にとっては、これは問題に対する完全で総合的な解決策となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The accessibility consultant (reporter) has met them on their home turf and helped them to improve the interface in an apprehensible and tangible way.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>アクセシビリティコンサルタント（報告者）は、開発者の得意分野で対応し、理解しやすい具体的な方法でインターフェイスを改善させる手伝いができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But that’s not all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>それだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Because the inclusive upvote button replaces the previous implementation one-for-one, the consultant has also helped the organization improve its pattern library.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>インクルーシブな賛成ボタンが以前の1対1の実装にとって代わるため、コンサルタントは組織のパターンライブラリを向上させる支援もできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The next time an upvote button (or similar) is needed, the developer has an exemplar at the ready.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>次に賛成ボタン（または似たようなボタン）が必要になったときは、開発者にはすぐに使える見本があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This could apply to current or future projects.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>これは現在のプロジェクトにも、将来のプロジェクトにも当てはまります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tickets tagged ‘Enhancement’ and named after patterns, not just problems.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>パターン別に整理されたチケットは、パターンライブラリと簡単に調和させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tickets organized by pattern can be easily reconciled with a pattern library.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>賛成ボタン［エンハンスメント］
+ログイン画面［エンハンスメント］
+ユーザーアカウントのウィジット［エンハンスメント］
+タブのシステム［エンハンスメント］</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As Joe Dolson writes in “I’m an accessibility consultant.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ジョー・ドルソン（Joe Dolson）が「I’m an accessibility consultant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Stop hiring me4,” remediating broken websites and apps is unpleasant work for both the consultant and the client.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>Stop hiring me」（脚注74）で述べているように、壊れたWebサイトやアプリケーションを修正するのは、コンサルタントにとってもクライアントにとっても楽しい作業ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Much more effective and rewarding is training and education in how to design inclusive products from the outset.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>最初からインクルーシブな結果をデザインする方法のトレーニングや教育の方がずっと効果的でやりがいもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Remediating by pattern brings design thinking into the remediation process, helping the client to fix their current product while instilling the confidence to make inclusive design decisions in the future.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>パターンごとの修正は、修正プロセスにデザイン思考をもたらし、現在の結果を修正するクライアントの助けになると同時に、将来、インクルーシブデザインに関する判断を下す自信を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is an effective way to make my role as a remediator obsolete and, like Joe, I welcome it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>これは私の修正者としての役割を時代遅れにする効果的な方法です。そしてジョーと同じく、私もそれを歓迎します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Custom Elements And Shadow DOM</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>Custom ElementsとShadow DOM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is probably as good a place as any to approach the issue of inclusion and web components.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>おそらく今がインクルージョンとWeb Componentsの問題に取り組む一番良いタイミングでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since many organizations are beginning to embrace the web component specifications5 to compose their patterns, we should look at what needs to be done differently or additionally in terms of inclusive design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>多くの組織がパターンの構成にWeb Components仕様（脚注75）を取り入れ始めているので、インクルーシブデザインの観点で作業にどのような違いがあるか、あるいは追加で何をする必要があるかについて検討すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Of the Shadow DOM, Custom Elements, HTML elements, and HTML templates specifications, only Custom Elements6 and (to a lesser extent) Shadow DOM7 directly pose potential problems.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>Shadow DOM、Custom Elements、HTML要素、HTMLテンプレートの中で、直接的に問題を引き起こす可能性があるのはCustom Elements（脚注76）とShadow DOM（脚注77）（Custom Elementsよりは可能性が低い）のみです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Only they affect the behavior of the interface as it is manipulated by the user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>両者はインターフェイスをユーザーが操作したときに、その動作に影響を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The joy of custom elements is that you can tie custom style and behavior to an element of your own conception.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>うれしいことに、Custom Elements（カスタム要素）はカスタムのスタイルや動作を自分が考案した独自の要素に結び付けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You could, for example, write all the code for a toggle button and attach it to a &lt;toggle-button&gt; element: a neat package of functionality with a descriptive name.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>たとえば、トグルボタンのコードを一式書いて、それを&lt;toggle-button&gt;要素（分かりやすい名前のすっきりした機能パッケージ）にアタッチできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>// Custom Elements v0 syntax
+document.registerElement('toggle-button', { prototype: toggleButton
+});
+
+// Custom Elements v1 syntax
+customElements.define('toggle-button', toggleButton);</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>// Custom Elements v0構文
+document.registerElement('toggle-button', {
+prototype: toggleButton
+});
+// Custom Elements v1構文
+customElements.define('toggle-button', toggleButton);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note: For a comparison of Custom Elements versions 0 and 1, see Shawn Allen’s “All about HTML Custom Elements8.”)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>（注：Custom Elementsのバージョン0と1の比較は、ショーン・アレン（Shawn Allen）の「All about HTML Custom Elements」（脚注78）を参照してください。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That new element, although accepted as a legitimate element in browsers supporting registerElement or customElements.define, does not have the standard behaviors of a &lt;button&gt; element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>この新しい要素は、registerElementまたはcustomElements.defineをサポートしているブラウザでの適正な要素とされていますが、&lt;button&gt;要素の標準的な動作は備えていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To put it another way, it is not an instance of the HTMLButtonElement9 prototype.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>言い換えれば、HTMLButtonElement（脚注79）プロトタイプのインスタンスではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In fact, it is merely an instance of HTMLElement10, much like a &lt;div&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>実際のところ、HTMLElement（脚注80）のインスタンスにすぎず、&lt;div&gt;とよく似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you’ve been following along, you’ll know what that means: it’s not focusable or actionable, and doesn’t have the button role that announces it as a button in screen readers — just like the remediated &lt;div&gt; button I was talking about earlier in the chapter.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ここまで読み進めた皆さんには、それが何を意味するかお分かりでしょう。フォーカスができず、実用的でもなく、スクリーンリーダーでボタンであることを知らせるbuttonロールもないボタン、つまり先ほど説明した、修正を加えた&lt;div&gt;ボタンと同じようなものだということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the case of our custom element, these features can be added much more neatly and robustly.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ここで例として説明するカスタム要素の場合は、それらの機能をもっとすっきりと確実に追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using Custom Elements v0, we add them in the createdCallback lifecycle callback11:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>Custom Elements v0を使用して、createdCallbackライフサイクルコールバックに追加するのです。（脚注81）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>toggleButton.createdCallback = function() { // accept keyboard focus
+    this.setAttribute('tabindex', '0'); // make this element appear as a button in the accessibility tree
+    this.setAttribute('role', 'button'); // start in non pressed state
+    this.addEventListener('keydown', function(event) { if (event.keyCode === 13 || event.keyCode === 32) { var click = new MouseEvent('click', { 'view': this.ownerDocument.defaultView, 'bubbles': true, 'cancelable': true, }); this.dispatchEvent(click); } });
+};</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>toggleButton.createdCallback = function() {
+// キーボートフォーカスを受け入れる
+this.setAttribute('tabindex', '0');
+// アクセシビリティツリー内でこの要素がボタンとして表示されるようにする
+this.setAttribute('role', 'button');
+// キーボードによるクリックイベントのディスパッチ
+this.addEventListener('keydown', function(event) {
+if (event.keyCode === 13 || event.keyCode === 32)
+{ var click = new MouseEvent('click', {
+'view': this.ownerDocument.defaultView,
+'bubbles': true,
+'cancelable': true,
+});
+this.dispatchEvent(click);
+}
+});
+};</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since our toggle button will initialize in the off (unpressed) state, we should also add aria-pressed="false":</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>このトグルボタンはオフ（押していない）状態で初期化するので、aria-pressed="false"も追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>this.setAttribute('aria-pressed', 'false');</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>this.setAttribute('aria-pressed', 'false');</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The advantage of adding these attributes and behaviors as part of the element’s definition is that the interface remains clean to authors — they only have to instantiate &lt;toggle-button&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>これらの属性や動作を要素の定義の一部として追加するメリットは、&lt;toggle-button&gt;をインスタンス化するだけでいいので、制作者にとってインターフェイスがすっきりと見やすいものになることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All we need to do now is handle that click event to switch the state.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>あとは、clickイベントで状態を切り替えるように対処するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First we add the listener by placing this inside the createdCallback too:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>まず、リスナーを追加します。これもcreatedCallback内に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>this.addEventListener('click', function() { this.toggle();
+});</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>this.addEventListener('click', function() {
+this.toggle();
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Then we need to create the actual toggle() method.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>次に、実際のtoggle()メソッドを作成する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With the following in place, the state will change either on click or by scripting toggleInstance.toggle() (where toggleInstance is an instance of &lt;toggle-button&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>以下を所定の場所に追加すると、clickで、またはtoggleInstance.toggle()をスクリプトすることによって、状態が変化します（toggleInstanceは&lt;toggle-button&gt;のインスタンス）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>this.toggle = function() { var isPressed = this.getAttribute('aria-pressed') === 'true'; this.setAttribute('aria-pressed', String(!isPressed));
+};</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>this.toggle = function() {
+var isPressed = this.getAttribute('aria-pressed') ===
+'true';
+this.setAttribute('aria-pressed', String(!isPressed));
+};</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In terms of semantics and behavior, our &lt;toggle-button&gt; now has all the accessibility provisions of &lt;button&gt;, but also the toggle functionality which makes it deserving of its own element definition.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>セマンティクスと動作の観点では、この&lt;toggle-button&gt;は&lt;button&gt;のアクセシビリティ対策をすべて備えているだけでなく、独自の要素定義を必要とするトグル機能も持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the tradition of &lt;button&gt; we have created an element which has accessibility built in, meaning it can simply be deployed to an interface without having to consider keyboard and screen reader inclusion as separate concerns.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>&lt;button&gt;と同様、アクセシビリティが組み込まれた要素を作りました。つまり、キーボードやスクリーンリーダーのインクルージョンを個別の懸案事項として考慮せずに、インターフェイスに配置できるということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here’s a demo of this little toggle button implementation, using Custom Elements v012.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>このちょっとしたトグルボタンをCustom Elements v0を使用して実装するデモもあります。（脚注82）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An easier way to get the basic functionality of a &lt;button&gt; before extending it is to literally extend the HTMLButtonElement prototype.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>&lt;button&gt;の基本機能を得てからそれを簡単に拡張するには、文字通りHTMLButtonElementプロトタイプを拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using Custom Elements v1 with ES2015/ES6 syntax, we can write what follows.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ES2015/ES6構文でCustom Elements v1を使用し、以下を記述できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that in Custom Elements v1, createdCallback is not necessary:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>Custom Elements v1ではcreatedCallbackは必要ないことに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>class ToggleButton extends HTMLButtonElement { constructor() { super(); this.setAttribute('aria-pressed', 'false'); this.toggle = () =&gt; { var isPressed = this.getAttribute('aria-pressed') === 'true'; this.setAttribute('aria-pressed', String(!isPressed)); }; this.addEventListener("click", () =&gt; { this.toggle(); }); }
+}
+
+customElements.define("toggle-button", ToggleButton, { extends: "button" });</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>class ToggleButton extends HTMLButtonElement
+{ constructor() {
+super();
+this.setAttribute('aria-pressed', 'false');
+this.toggle = () =&gt; {
+var isPressed = this.getAttribute('aria-pressed') === 'true';
+this.setAttribute('aria-pressed', String(!isPressed));
+};
+this.addEventListener("click", () =&gt; {
+this.toggle();
+});
+}
+}
+customElements.define('toggle-button', ToggleButton, { extends: 'button' });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As you can see, now that I’m piggybacking the HTMLButtonElement, I have been able to exclude the tabindex and role attributes, as well as the ugly keydown event dispatching script.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ご覧のとおり、HTMLButtonElementを加えているため、tabindex属性とrole属性だけでなく、keydownイベントをディスパッチする見苦しいスクリプトも除外することができました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We are doing as we set out to do from the very beginning: using what’s already at our disposal.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>最初から目指しているように、すでに自由に使えるものを利用して行っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s more reliable, efficient, and just plain easier.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>信頼性が高く、効率的で、とにかく簡単な方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Shadow Boundary Issues</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>？？影の境界？？の問題【コメント：定訳が確認できませんでした。複数あります。原文「shadow boundary」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For the most part, creating inclusive web components is just creating accessible, semantic HTML as usual but inside a new API.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>ほとんどの場合、インクルーシブなWebコンポーネントの作成は、アクセシブルでセマンティックなHTMLを従来通りに作成しているにすぎませんが、それを新しいAPI内で行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Two notable differences I’m aware of are the effect the shadow boundary (the boundary between the DOM and Shadow DOM) has on ARIA relationship attributes13, and positive tabindex values.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>私が認識している2つの顕著な違いは、？？影の境界？？（DOMとShadow DOMの間の境界）がARIA関係属性に及ぼす影響（脚注83）と、正のtabindex値です。【コメント：同上】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As Steve Faulkner writes in “Some stuff that doesn’t work between the DOM and Shadow DOM14,” the shadow boundary effectively severs relationships built using attributes like aria-labelledby, aria-describedby and aria-controls, where one element in the relationship is the other side of a shadow boundary.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>スティーブ・フォルクナーが「Some stuff that doesn’t work between the DOM and Shadow DOM」（脚注84）で書いているように、？？影の境界？？はaria-labelledby、aria-describedby、aria-controlsなどの属性を使って築かれた関係を事実上分断します（関係における一方の要素が、？？影の境界？？の反対側にある場合）。【コメント：同上】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There are common misconceptions that all custom elements have shadow DOM included, and that you can only use Shadow DOM with Custom Elements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>よくある誤解は、すべてのCustom ElementsにはShadow DOMが含まれている、そしてShadow DOMはCustom Elementsでのみ使用できる、というものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No: they’re autonomous technologies.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>これは間違いで、両者は独立したテクノロジーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The toggle button example does not use Shadow DOM, so could still associate itself with an element of ID #toggleTarget using aria-controls="toggleTarget".</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>トグルボタンの例はShadow DOMを使っていないので、aria-controls="toggleTarget"を使ってIDが#toggleTargetの要素と関連付けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nonetheless, if it did employ Shadow DOM, this would become impossible.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>とは言え、Shadow DOMを使用した場合は、それは不可能になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As for tabindex, using a positive integer like tabindex="4" will refer to the fourth in focus order within the shadow DOM and not the fourth in focus order within the parent document.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>tabindexに関しては、tabindex="4"などの正の整数を使用すると、Shadow DOM内のフォーカス順序の4番目を参照し、親ドキュメント内のフォーカス順序の4番目は参照しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This may have some useful applications, but use of explicit tabindex ordering is not advised in any case.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>これは便利な点もあるかもしれませんが、明確なtabindex順序の使用はどのような場合にもお勧めできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Focus order should follow source order for logical keyboard operation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>理にかなったキーボード操作のためには、フォーカス順序はソースの順序に従うべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is most easily achieved simply by using implicitly focusable elements and — where necessary — elements with tabindex="0".</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>これを最も簡単に実行するには、暗黙的にフォーカス可能な要素、および必要に応じてtabindex="0"を指定した要素を使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Both of which are placed in default focus order according to source order, unaffected by Shadow DOM subtrees.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>どちらもソースの順序に従って、デフォルトのフォーカス順序で配置されていて、Shadow DOMのサブツリーの影響を受けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.https://www.w3.org/TR/WCAG20/#text-equiv 2.https://www.w3.org/TR/WCAG20/#keyboard-operation 3.https://www.w3.org/TR/WCAG20/#ensure-compat 4.https://www.joedolson.com/2016/01/im-an-accessibility-consultant-stop-hiring-me/ 5.https://github.com/w3c/webcomponents 6.https://w3c.github.io/webcomponents/spec/custom/ 7.https://w3c.github.io/webcomponents/spec/shadow/ 8.https://github.com/shawnbot/custom-elements 9.https://developer.mozilla.org/en/docs/Web/API/HTMLButtonElement 10.https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement 11.http://www.html5rocks.com/en/tutorials/webcomponents/customelements/#lifecycle 12.http://codepen.io/heydon/pen/ZOqwqQ 13.https://www.w3.org/TR/wai-aria/states_and_properties#attrs_relationships_header 14.https://www.paciellogroup.com/blog/2014/03/stuff-doesnt-work-dom-shadow-dom/</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T123517Z">
+        <seg>71 https://www.w3.org/TR/WCAG20/#text-equiv
+72 https://www.w3.org/TR/WCAG20/#keyboard-operation
+73 https://www.w3.org/TR/WCAG20/#ensure-compat
+74 http://smashed.by/stop-hiring-me
+75 https://github.com/w3c/webcomponents
+76 https://w3c.github.io/webcomponents/spec/custom/
+77 https://w3c.github.io/webcomponents/spec/shadow/
+78 https://github.com/shawnbot/custom-elements
+79 http://smashed.by/htmlbtn
+80 http://smashed.by/stop-hiring-me
+81 http://smashed.by/lifecycle
+82 http://codepen.io/heydon/pen/ZOqwqQ
+83 http://smashed.by/ariarel
+84 http://smashed.by/shadowdom</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

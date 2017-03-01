@@ -1,0 +1,1998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Document | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Document</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>While other chapters of this book will look into discrete interface patterns — conventions realized as modules or components — it would be foolhardy to not recognize that each of these will ultimately belong to a web document.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>後続の章で個々のインターフェイスパターン（モジュールあるいはコンポーネントとして確立された決まり事）を詳しく見ていく前に、まずは1つひとつのパターンが最終的にWebドキュメントを構成することを理解しておかなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>HTML pages vary dramatically in shape and size, and can include any combination of patterns; but there are a handful of document-level best practices we should stick to.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>HTMLページは形もサイズも実にさまざまで、パターンの組み合わせも自由です。しかし、従うべきドキュメントレベルのベストプラクティスがいくつか存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The aim here is not to go in search of the ultimate boilerplate but to configure a parent web page for an inclusive interface.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ここでの目的は究極のひな形を見つけることではなく、インクルーシブなインターフェイスの親Webページを作ることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Doctype</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Doctype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Whether your web page is an old-school static resource or a single-page app, it is unavoidably a document.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>昔ながらの動きのないリソースでも、シングルページアプリケーションでも、Webページはドキュメントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The clue is in the “DOC” part which should appear in the first line of code: &lt;!DOCTYPE html&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>？？そのことを示すのが、コードの一行目にくるべき「ドキュメントタイプ（文書型）宣言」部の&lt;!DOCTYPEhtml&gt;です。？？【コメント：意訳しています。原文「The clue is in the “DOC” part which should appear in the first line of code: &lt;!DOCTYPEhtml&gt;.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This serves as an important reminder that even when you’re designing a highly tactile and dynamic interface, you are still really just putting content into a browser window.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>この宣言は、立体的に見えて動きのあるインターフェイスのデザインも、結局はコンテンツをブラウザのウィンドウに表示させることに変わりないという事実を思い出させてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Never forget that the browser itself is an interface, which can be augmented and configured in a number of ways by the user — as well as helping interpret the content you provide for third-party assistive technologies like screen readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ブラウザ自体も1つのインターフェイスだということを忘れてはいけません。スクリーンリーダーのようなサードパーティの支援技術向けコンテンツの解釈を助けたり、ユーザーがさまざまな方法で設定や拡張を行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Your subsidiary interface should be tolerant of users’ differing setups and configurations.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>したがって、それを補助する私たちが作るインターフェイスは、ユーザー側の多様なセットアップや設定に対応できなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diagram labels your interface hidden among all the browser interface elements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>インターフェイスあなたがデザインするインターフェイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Your interface is not the only interface users are interacting with when their browsers are open.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ユーザーがブラウザを開いたときに使用するインターフェイスは、あなたがデザインするインターフェイスだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition, the omission of the aforementioned doctype declaration can result in unexpected and broken behavior for users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>その上、前述したドキュメントタイプ宣言を省略してしまうと、ユーザーにとって予期せぬ異常な動作が生じる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Without a doctype declared, the browser simply doesn’t know how to interpret the content and can regress into a non-compliant and incompatible mode, often called quirks mode1.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ドキュメントタイプの宣言がないと、ブラウザはコンテンツをどう解釈したらよいか分からず、非対応の不適合なモード、いわゆる互換モード（脚注4）に後方互換されてしまうこともあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Layout and interaction can become error-prone and unpredictable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>その場合、レイアウトやインタラクションのエラーが起こるなど、予測不可能な動作が生じる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If things get plain odd when testing a web page, I always check for a doctype before trying anything else.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Webページのテスト時におかしなことが起きたときは、私は必ず最初にdoctypeを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’ve been stung too many times.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>それで何度も痛い目にあってきましたから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The lang Attribute</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>lang属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the doctype tells the browser what kind of document it is serving (HTML5 in the above example), then the &lt;html&gt; element’s lang attribute tells it which language it is written in.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>doctypeでドキュメントの種類（上の例はHTML5）を宣言したら、次は&lt;html&gt;要素のlang属性でドキュメントを記述する言語を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’m not talking HTML or XHTML; I mean English or French.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>この場合の言語とは、HTMLやXHTMLではなく、英語やフランス語のことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;html lang="en" &lt;!-- language set to English --&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;html lang="en"&gt; &lt;!-- 言語を英語に設定--&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though frequently omitted, declaring a language for a web page could scarcely be more important.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Webページの言語の明示は、省略されることも少なくありませんが、とても重要な意味を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only does it make the page more indexable by search engines, but it also becomes easier to translate by users operating third-party tools such as Google’s Translate API2.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>検索エンジンによるインデックス付けがやりやすくなるほか、ユーザーがGoogleのTranslate API（脚注5）のようなサードパーティツールを使って翻訳するときもスムーズに行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It also helps the user to write in the page’s language.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>また、ユーザーがページの言語で入力する際にも役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Firefox, for instance, changes dictionaries on &lt;textarea&gt;s so that spelling errors are highlighted appropriately.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>たとえばFirefoxでは、スペルの間違いが適宜ハイライト表示されるように&lt;textarea&gt;の辞書が変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Perhaps most starkly, a page that does not have a language declared — or has the wrong language declared for the content — will not trigger the adoption of an appropriate synthetic voice profile when used with a screen reader.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>おそらく最も際立った点としては、言語が明示されていないページや、あるいはコンテンツと異なる間違った言語が指定されているページでは、スクリーンリーダーを使用したときに適切な合成音声プロファイルが選択されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, if &lt;html lang="en"&gt; is present but the text is actually in French, you’d hear a voice profile called Jack doing a bad impression of French, rather than a French profile called Jaques using authentic French pronunciation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>たとえば、&lt;htmllang="en"&gt;と記されているのに実際にはフランス語が書かれていると、フランス語の音声プロファイルなら正しいフランス語の発音で「Jaques」と読むところを、英語のプロファイルが「Jack」と読んでしまうため、まずい（発音の悪い）フランス語に聞こえてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;p&gt;Il ne faut pas mettre tout dans le même sac!&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;p&gt;Il ne faut pas mettre tout dans le même sac!&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition to screen readers and computer braille displays benefiting from proper language declaration, it also helps browsers choose and render system fonts with the appropriate character sets.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>スクリーンリーダーやコンピュータ点字ディスプレイの使用時のメリットに加えて、正しい言語が明示されていると、ブラウザもシステムフォントを選択したり適切な文字セットを使って表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For instance, lang="zh-Hans" will invoke the rendering of a simplified Chinese font.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>たとえばlang="zh-Hans”と指定すると、簡体字中国語フォントが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Garbled text, rendered in unbefitting characters is not optimally inclusive of your readership to say the least.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>文字セットが合っていないと文字化けが起こります。それでは、控えめに言っても閲覧者にとってインクルーシブとは言えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is possible to switch languages within a page using the lang attribute on child elements within the &lt;body&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;body&gt;内で子属性にlang属性を使用して、1つのページの中で言語を切り替えることも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For instance, I may want to quote some French within an English language page:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>たとえば英語のページの中で部分的にフランス語を引用したい場合は、次のように記述します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;blockquote lang="fr"&gt; &lt;p&gt;Ceci n’est pas une pipe&lt;/p&gt; &lt;p&gt;— &lt;cite&gt;René Magritte&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;blockquote lang="fr"&gt;
+&lt;p&gt;Ceci n’est pas une pipe&lt;/p&gt;
+&lt;p&gt;— &lt;cite&gt;René Magritte&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In my CSS I can select any sections declared as French using the :lang pseudo-class, applying a font well suited to the French character set, thereby improving legibility:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>さらにCSSで:lang擬似クラスを使ってフランス語に指定されているセクションを選択し、フランス語の文字セットに適したフォントを適用すれば、より読みやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>:lang(fr) { font-family: French Font, fallback, sans-serif;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>:lang(fr) {
+font-family: French Font, fallback, sans-serif;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The lang attribute can be used to improve the readability, translatability and compatibility of web documents’ written content, helping open it up to an international audience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>lang属性を使用してWebドキュメントに書かれたコンテンツの読みやすさ、翻訳のしやすさ、互換性を向上させれば、世界中の人に読んでもらうことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s easy to include the lang attribute, so just go ahead and include it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>lang属性の使い方は簡単なので、ぜひとも使ってみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Responsive Design</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>レスポンシブデザイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Responsive design is a big part of inclusive design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>レスポンシブデザインはインクルーシブデザインの重要な要素の1つです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By designing documents that can respond and adapt to their environment, they become compatible with the ever proliferating choice of devices on the market.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>状況に対応できるようにデザインされたドキュメントは、市場に次から次へと登場するさまざまなデバイスに対応できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This book is not the place to discuss the ins and outs of responsive design, but you should be aware of some responsive design principles that support inclusive design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>本書ではレスポンシブデザインについて詳述はしませんが、ぜひ知っておきたい、インクルーシブデザインを後押しするレスポンシブデザインの原則をいくつか紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Content Breakpoints</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>コンテンツのブレイクポイント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Targeting the specific viewports of specific devices (employing device breakpoints) is an exercise in futility if you want to create a truly inclusive experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>真にインクルーシブな体験を作りたいなら、特定のデバイスの特定のビューポートをターゲットにする（デバイスのブレイクポイントを使用する）のは無駄足というものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There are just too many viewport variations available to support each one.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>1つひとつに対応するには、あまりにビューポートのバリエーションが多すぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead, you should create an entirely flexible design from the outset and insert breakpoints only where the content breaks the layout — hence content breakpoint or tweakpoint.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>それよりも、最初から完全に柔軟なデザインを作り、コンテンツによってレイアウトが切り替わるブレイクポイント、すなわちコンテンツのブレイクポイント（微調整ポイント）を挿入すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By employing content breakpoints, you can ensure successful layouts for a range of devices far greater than you would ever be able to manually test with.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>コンテンツのブレイクポイントを使用すれば、1つひとつ手作業でテストするよりもはるかに幅広いデバイスに対応したレイアウトをデザインできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unless your superpower is prescience and you can anticipate the device setup of each and every one of your users, this is the only way to go.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>あなたに予知能力があって、ユーザー1人ひとりのデバイスのセットアップを予想できるというなら話は別ですが、そうでなければこれが唯一の策です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Locating content breakpoints is easy using Firefox’s responsive design mode3.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>コンテンツのブレイクポイントを配置する際は、Firefoxのレスポンシブデザインモード（脚注6）を使うと簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Just press Cmd + Option + M, then resize the simulated viewport incrementally until the content is forced to collide, overlap or wrap.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Cmd + Option + Mキーを押したら、シミュレートされたビューポートを、コンテンツがぶつかる、重なり合う、あるいはラップされるところまで少しずつ大きくしていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The responsive design mode interface displays the current dimensions, allowing you to record and attend to that breakpoint.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>レスポンシブデザインモードではインターフェイスに現在の寸法が表示されるため、記録しておいてそのブレイクポイントに注意を払うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A small, black box represents the smallest conceivable viewport and a larger gray box grows from it to represent infinite larger viewports.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>あるブラウザの最小ビューポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Your responsive design should cover every width.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>レスポンシブデザインはあらゆる幅に対応していなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That doesn’t mean you need a breakpoint for every width.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ただしそれは、1つのブレイクポイントですべての幅に対応しなければならないということではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Simple interfaces are usable interfaces, and much less work in terms of managing breakpoints.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>シンプルなインターフェイスは使いやすい上に、ブレイクポイントの管理の手間がはるかに少なくて済みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As a rule of thumb, you should never set a fixed width or height on any element: the intrinsic flexibility of boxes means they can tolerate the same content in different spaces.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>経験から言うと、どんな要素も幅や高さを固定すべきではありません。ボックスに柔軟性があれば、同じコンテンツでさまざまなスペースに対応できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Web pages behave like this without author CSS, and should continue to respect this fundamental behavior where CSS is included.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Webページは、オーサーCSSがないとこのように動作し、CSSをインクルードする場合もこの基本動作に従うべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Allow Pinch-to-Zoom</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>拡大／縮小を可能にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The viewport meta tag is where responsive design is, somewhat magically, enabled.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>viewportメタタグは、レスポンシブデザインが可能になる、ちょっとした魔法のようなものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Yet it’s also where we habitually disable users’ ability to zoom content, making experiences, well, less magical.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>しかし、このタグのせいでユーザーがコンテンツを拡大／縮小できず、魔法の効果が薄れてしまうケースも少なくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In an informal poll I took on Twitter asking my followers about the biggest mistakes designers make regarding inclusion, the suppression of pinch-zoom on handheld devices was by far the most cited.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>私がTwitterでフォロワーを対象に行った、デザイナーが犯すインクルージョン関連の最大のミスは何か？という調査では、「携帯端末で拡大／縮小ができない」が群を抜いて1位でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To be clear, then, the first of what follows is unacceptable; the second is correct.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>分かりやすい例をお見せしましょう。1つ目は不適正な例、2つ目は正しい例です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;!-- don’t use this --&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
+
+&lt;!-- use this --&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;!-- これは使わないでください --&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,
+user-scalable=no"&gt;
+&lt;!-- これを使ってください --&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Adrian Roselli provides a comprehensive list of reasons why disabling this feature undermines inclusion4:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>この機能を無効にするとインクルージョンが損なわれる理由を、エイドリアン・ロセッリ（Adrian Roselli）がリストアップしています。（脚注7）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The text may be too small for the user to read.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>• テキストが小さすぎて読めない恐れがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The user may want to see more detail in an image.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>• もっと詳細な画像が見たいと思うユーザーがいるかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Selecting words to copy/paste may be easier for users when the text is larger.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>• テキストが大きい方が、コピー／ペーストしたい単語を選択しやすい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The user wants to crop animated elements out of the view to reduce distraction.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>• ユーザーは、邪魔なアニメーション要素を表示したくない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The developer did a poor job of responsive design, and the user needs to zoom just to use the page (this happens!).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>• 開発者がきちんとレスポンシブデザインを作らないと、ユーザーはページを利用するために拡大／縮小が必要になる（よくあるパターン）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•There is a browser bug or quirk (still a bug) that causes the default zoom level to be odd.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>• ブラウザのバグや後方互換（つまりはバグ）のせいで、デフォルトの表示倍率では正しく表示されないことがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•It can be confounding for users when a pinch/spread gesture is interpreted as something else.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>• ピンチ／スプレッドの動作が拡大／縮小以外の意味に解釈されるとユーザーが混乱する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You may recall my remark earlier that the browser itself is an interface.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>前述したように、ブラウザ自体もインターフェイスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To achieve inclusive design you should act as a facilitator, allowing users to configure the way they view and interact with the content you provide them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>インクルーシブデザインを実現するためには、デザイナーはまとめ役となって、提供するコンテンツの表示方法やインタラクションの仕方をユーザー側が設定できるようにしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The fewer decisions you make for them, the more they can make for themselves.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>デザイナーが決めることが少ないほど、ユーザーが決められることが多くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If your layout breaks badly when a user zooms, the design is at fault, not the user, and removing their ability to zoom is not a solution.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ユーザーが拡大／縮小したときにレイアウトが崩れてしまうとしたら、悪いのはユーザーではなくデザインです。拡大／縮小できないようにしたところで解決にはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As a rule of thumb, avoid using positioned elements, especially with position: fixed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>経験から言って、要素の位置を固定するのはやめましょう。特にposition:fixedでの固定は避けてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When content is enlarged, any elements stuck to a certain part of the screen are liable to become blind spots.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>画面の特定の場所に固定された要素は、コンテンツを拡大したときに見えなくなる恐れがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Font Size</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>フォントサイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Desktop browsers tend to render fonts at 16px by default.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>デスクトップのブラウザでは、デフォルトのフォントサイズはたいてい16pxです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There is a rationale for reasonably large defaults: anything else risks alienating a huge swath of users, many from older populations whose eyesight has deteriorated.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>デフォルトが大きめなのには理由があります。他のサイズでは、特に視力が低下した高齢者など、さまざまなユーザーを遠ざけてしまう恐れがあるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“But my audience is young and hip!” I hear you say.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>「でも私のページの閲覧者は若くて流行に敏感な人たちだから」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sure, but generous font sizes don’t offend young, keen-eyed folks.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>なるほど、そうかもしれません。しかし、フォントサイズが大きいからと言って、若くて眼力の鋭いユーザーが気分を害するとは思えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The key to inclusive design isn’t to target specific groups, it’s to not exclude groups arbitrarily — there’s nothing to gain.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>インクルーシブデザインで重要なのは、特定のユーザー層をターゲットにすることではなく、特定のユーザー層を恣意的に除外しないことです。ターゲットを絞ることで得るものは何一つありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You may already be accustomed to the convention of setting font size using a percentage, on the root (&lt;html&gt;) element like so:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>もうすでにご存じかもしれませんが、フォントサイズはルート（&lt;html&gt;）要素でパーセンテージで設定するようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>html { font-size: 100%;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>html {
+font-size: 100%;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the example above, 100% is equal to 16px if the user has not adjusted the font size manually, either in their operating system or browser settings (e.g. under Preferences → Content in Firefox).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>この例では、ユーザーがオペレーティングシステムかブラウザの設定（たとえばFirefoxの場合は［＃＃Preferences＃＃］→［＃＃Content＃＃］）でフォントサイズを手動で調整していない限り、100％は16pxになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So, 100% is really “one hundred percent of the default size or the size the user has chosen.” If I were to set the font size explicitly as 16px at the root level, I would diminish the user’s ability to adjust font size to their liking.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>つまり、この100％は「デフォルトサイズまたはユーザーが選択したサイズの100％」を意味します。一方、ルートレベルでフォントサイズを明示的に16pxに設定した場合は、ユーザー側でフォントサイズを自由に調整できなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>html { /* do not do this */ font-size: 16px;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>html {
+/* この設定方法は使わないでください */
+font-size: 16px;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is true that a greater number of users will operate full-page zoom using Cmd (or Ctrl) and +, but modern browsers and operating systems still support text-only resizing, and so should you.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Cmd（またはCtrl）キーと＋キーを同時に押してフルページズームするユーザーがますます増えているのは確かです。しかし、最近のブラウザやオペレーティングシステムも従来どおりテキストのみのサイズ調整は可能なので、デザインもそうすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To make sure font-size, padding and margin all resize proportionately, each should be set using the relative units rem, em or ch.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>また、調整時にfont-size、padding、marginのバランスを保つために、それぞれを相対単位のremやemを使って設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This greatly reduces the complexity of your media queries.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>そうすれば、メディアクエリの複雑さも大幅に軽減されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the example below, the line-height and margin of the p will scale proportionately, because they are both set relative to the font-size.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>たとえば次の例では、pのline-heightとmarginはfont-sizeに相対的に設定されているため、両者のサイズのバランスは維持されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where everything is set proportionately, whole pages can be scaled simply by adjusting the root font size, as in the media query that follows.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>すべてを相対的に設定しておけば、その後のメディアクエリのようにルートのフォントサイズを調整するだけでページ全体をサイズ調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note: To ensure the media query triggers at the correct point relative to user-defined font size, we are using the em unit there, too.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>（注：ユーザーが指定したフォントサイズに相対的に、正しいポイントで確実にメディアクエリが実行されるようにするためには、単位はemを使用しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The rem unit causes problems in Safari, as “PX, EM or REM Media Queries?5” by Zell Liew attests.)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>？？ゼル・リュウ？？（Zell Liew）が「PX, EM or REM Media Queries?」（脚注8）で実証しているように、remだとSafariで問題が生じてしまいます。【コメント：名前の読み方が不安です】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>p { margin: 1.5rem 0; font-size: 1rem; line-height: 1.5;
+}
+
+@media (max-width: 60em) { html { font-size: 80%; }
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>p {
+margin: 1.5rem 0;
+font-size: 1rem;
+line-height: 1.5;
+}
+@media (max-width: 60em) {
+html {
+font-size: 80%;
+}
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An  given font-size: 2rem; is two times larger than the size set at the root.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>たとえばをfont-size:2remと設定すると、ルートで設定されているサイズの2倍の大きさになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the user has gone to Settings → Content in Firefox and set the default font size to 20px, 2rem will mean 2 × 20 — or 40px.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ユーザーがFirefoxの［＃＃Settings＃＃］→［＃＃Content＃＃］でデフォルトのフォントサイズを20pxに設定している場合は、2remは2 × 20、つまり40pxになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do not make the mistake of converting theoretical rem units into pixels via a CSS preprocessor.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>？？あくまで計算上の単位であるremを、CSSプリプロセッサで間違ってピクセルに変換しないように注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s what ends up in the compiled CSS, parsable by browsers, that counts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>重要なのは、最終的にブラウザが解析する、コンパイル後のCSSです。？？【コメント：不安訳です。原文「Do not make the mistake of converting theoretical rem units into pixels via a CSS preprocessor.It’s what ends up in the compiled CSS, parsable by browsers, that counts.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Viewport Units</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ビューポートの単位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Viewport units present the opportunity to set text that scales with the height (vh) or width (vw) of the viewport.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ビューポートの単位を使えば、ビューポートの高さ（vh）と幅（vw）に合わせてテキストのサイズを調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Essentially, this means you can employ implicitly responsive text without the need for media queries like that of the previous code example.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>つまり、前出のコード例のようなメディアクエリを用いずに、レスポンシブなテキストを明示的に使用できるというわけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You just need to address one issue: elements set using viewport units cannot be scaled using full-page zoom.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ただし、1つだけ問題があります。ビューポートの単位を使って設定されている要素は、フルページズームでは拡大／縮小されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Zoom can be reinstated by entering a viewport unit-based value into a sum with an em-based value.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ズームはビューポートの単位ベースの値とemベースの値を合計して行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This has the added advantage of ensuring a minimum font size for the page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>この方法なら、ページの最小フォントサイズを確保できるというメリットもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, 1em + (0 × 1vw) is still 1em.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>（1em+ (0× 1vw)でも1em）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>html { font-size: calc(1em + 1vw); }</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>html { font-size: calc(1em + 1vw); }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With this algorithm in place, everything scales incrementally and proportionately relative to the viewport.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>このアルゴリズムでは、すべての要素がビューポートに相対的に拡大／縮小していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It saves you a lot of manual coding without sacrificing accessibility.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>アクセシビリティを犠牲にすることなく、コードを書く手間を大幅に軽減できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The only modern browser that does not support viewport units at the time of writing is Opera Mini.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>最近のブラウザでは唯一、Opera Miniがビューポートの単位をサポートしていません（本書の執筆時現在）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not to worry: font-size: calc(1em + 1vw); is a progressive enhancement.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ただし、font-size: calc(1em+1vw);というプログレッシブエンハンスメントで対応できるため心配ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where it is not recognized, browsers fall back to the user agent’s default.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ブラウザがビューポートの単位を認識できないときは、ユーザーエージェントのデフォルトが使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In other words, Opera Mini would display the body text as it would have liked to begin with.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>？？つまり、Opera Miniでは本文テキストは本来のサイズで表示されるというわけです。？？【コメント：多少意訳しています。原文「In other words, Opera Mini would display the body text as it would have liked to begin with.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Progressive Enhancement</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>プログレッシブエンハンスメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Progressive enhancement, like responsive design, is a cornerstone of inclusive design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>レスポンシブデザイン同様、インクルーシブデザインに欠かせないのがプログレッシブエンハンスメントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Much maligned as the arduous task of making web applications still do things when a unicorn-rare user switches JavaScript off, it has much broader implications.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ユーザーがJavaScriptをオフにしていても（そんなユーザーは非常にまれですが）機能するWebアプリケーションを作るのは骨の折れる厄介な仕事ですが、プログレッシブエンハンスメントにはもっと広い意味があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Progressive enhancement is about building a strong foundation of content, logical and robust in form, which is resilient to a multitude of network and scripting failures.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>プログレッシブエンハンスメントの目的は、形式が合理的かつ堅牢で、さまざまなネットワーク障害やスクリプトエラーに対応できる、コンテンツの強固な基盤を作ることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s not just about JavaScript or CSS being unavailable, but when and how they are unavailable, for how long, and when they should be made available, and in what order.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>単にJavaScriptやCSSが使えないということだけでなく、どんなときに、どのように、どのくらいの時間使えないのか、そしていつ、どういう順序で利用できるようにしたいのかが重要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Patterns in this book are founded on well-formed and semantic HTML structures, enhanced by CSS and JavaScript.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>本書で紹介するパターンは、整形式のセマンティックHTMLの構造をベースに、CSSとJavaScriptで強化したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where possible, integrated JavaScript widgets degrade into well-structured static content or interactive form elements, meaning users without JavaScript or CSS — temporarily or otherwise — can traverse and use content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>組み込みのJavaScriptウィジェットをきちんと構造化された静的なコンテンツやインタラクティブなフォーム要素に分解できれば、JavaScriptやCSSを（一時的に、あるいは常時）利用しないユーザーでもコンテンツをたどったり利用できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Whether JavaScript is available or not, semantic HTML ensures an inclusive experience for assistive technology users and makes interaction behavior more predictable and efficient.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>セマンティックHTMLは、JavaScriptが使えるかどうかに関係なく、支援技術ユーザーにインクルーシブな体験を保証し、インタラクションの動作をより予測可能で効率的なものにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Shows stages in progressive enhancement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the loading process, first you get HTML and with it content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>コンテンツを利用できる！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Then you get CSS, but the content remains.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>これでも利用できる！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Finally JavaScript is put on top, but content is still there.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>これでもまだ利用できる！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Enhancement is a great thing, but only where it’s really needed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>エンハンスメント（機能強化）は確かにすばらしいですが、それはその機能が本当に必要な場合の話です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In a progressively enhanced setup, scripts should be inserted at the end of the document, just before the closing &lt;/body&gt; tag.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>プログレッシブエンハンスメントのセットアップでは、スクリプトはドキュメントの最後、終了タグ&lt;/body&gt;の直前に入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This allows the main DOM content to be rendered before the scripts are executed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>そうすれば、スクリプトが実行される前に、メインのDOMコンテンツを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;script&gt;// TODO: enhancement &lt;/script&gt;
+&lt;/body&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;script&gt;// TODO：エンハンスメント&lt;/script&gt;
+&lt;/body&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Managing Assets</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>アセットの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In terms of our document setup, it’s critical we make sure the resources we are using to enhance the page content do not stand in the way of that content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ドキュメントのセットアップという観点では、ページのコンテンツを強化するためのリソースが逆にコンテンツの妨げにならないようにすることが大切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On slow networks, the content should arrive as soon as possible.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>たとえばネットワークの速度が遅い場合は、コンテンツができるだけ早く表示されるようにしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s what the user went to the page for, after all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>コンテンツこそ、ユーザーがページにアクセスする目的なのですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Web fonts are typically large assets which should be treated as an enhancement.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Webフォントは一般的に大きいアセットなので、エンハンスメントとして処理すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In particular, FOIT (flash of invisible text) should be avoided: if the font resource is indefinitely stalled (it happens!), users of some devices and browsers will be stuck with a page that has no visible text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>特にFOIT（Flash of Invisible Text）は避けた方が賢明です。フォントリソースがいつまでも読み込まれないと（実際よくあることですが）、デバイスやブラウザによってはページのテキストが表示されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s pretty uninclusive of users on temperamental networks.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>それでは、不安定なネットワークのユーザーにとってはとてもインクルーシブとは言えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The trick is to load the page then the font, using the onload event as a watershed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ポイントは、先にページを読み込んでから、onloadイベントを分岐点にしてフォントを読み込むようにすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For this to work, the fonts will have to be base64-encoded and embedded into the style sheet in question.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>そのためには、フォントはBase64でエンコードし、当該のスタイルシートに埋め込む必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In Keith Clark’s example6, &lt;link&gt; has an onload handler which switches the media type from none to all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>キース・クラーク（Keith Clark）の例（脚注9）では、&lt;link&gt;のonloadハンドラでメディアタイプをnoneからallに切り替えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If JavaScript is entirely unavailable, the CSS is loaded regardless, thanks to &lt;noscript&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>JavaScriptがまったく使えない場合は、&lt;noscript&gt;のおかげで、とにかくCSSが読み込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;link rel="stylesheet" href="fonts.css" media="none" onload="if(media!='all')media='all'"&gt;
+&lt;noscript&gt;&lt;link rel="stylesheet" href="fonts.css"&gt;&lt;/noscript&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;link rel="stylesheet" href="fonts.css" media="none" onload="if(media!='all')media='all'"&gt;
+&lt;noscript&gt;&lt;link rel="stylesheet" href="fonts.css"&gt;
+&lt;/noscript&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The base64-encoded font would be included inside an @font-face declaration block, like so:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Base64エンコードのフォントは@font-face宣言ブロックで指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>@font-face { font-family: Merriweather; font-style: normal; font-weight: 400; src: local('Merriweather'), url('data:application/x-font-woff;charset=utf-8;base64...');
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>@font-face {
+font-family: Merriweather;
+font-style: normal;
+font-weight: 400;
+src: local('Merriweather'),
+url('data:application/x-font-woff;charset=utf-8;base64...');
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A more comprehensive way of overcoming FOIT is offered by Bram Stein7 and requires a small JavaScript dependency.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>より包括的なFOIT対策がブラム・スタイン（Bram Stein）の例です。（脚注10）こちらはJavaScriptを少しだけ使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Font Face Observer allows you to watch and wait on the completion of a font resource loading using a simple promise-based interface:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Font Face Observerを使えば、シンプルなPromiseベースのインターフェイスを用いてフォントリソースの読み込みの経過を監視できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>var observer = new FontFaceObserver('MyWebSerif');
+
+observer.check().then(function() { document.documentElement.className += "fonts-loaded";
+});</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>var observer = new FontFaceObserver('MyWebSerif');
+observer.check().then(function() {
+document.documentElement.className += "fonts-loaded";
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s simple to then supply the font in your CSS, using the .fonts-loaded class selector shown above:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>その後、上記のようにCSSで.fonts-loadedクラスセレクタを使ってフォントを指定するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>html { /* system font with fallback */ font-family: MySystemSerif, serif;
+}
+
+html.fonts-loaded { /* web font with fallbacks */ font-family: MyWebSerif, MySystemSerif, serif;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>html {
+/* システムフォントにフォールバック */
+font-family: MySystemSerif, serif;
+}
+html.fonts-loaded {
+/* Webフォントにフォールバック */
+font-family: MyWebSerif, MySystemSerif, serif;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In defeating FOIT, you have to accept a lesser evil called FOUT (flash of unstyled text).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>FOITを使うくらいなら、FOUT（Flash of Unstyled Text）の方がまだましです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is a rather unjust moniker since all fonts are styled (i.e. they have their own form).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>なお、「Flash of Unstyled Text」という名称は理にかなっていません。なぜならすべてのフォントはスタイルを持っている（すなわち独自の様式を持っている）からです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, there can be an unpleasant and disorienting jump when the web font supplants the system font after it has loaded.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ただし、Webフォントの読み込み後にシステムフォントがWebフォントで置き換えられると、ページの表示位置が突然飛んで、どこを読んでいたか分からなくなってしまう可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is due to one font being intrinsically larger or smaller than the other, causing lines to wrap in different places.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>これはそもそも片方のフォントがもう片方のフォントより大きかったり小さかったりして、改行位置が変わるためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To mitigate this undesired effect, your best strategy is to choose fallback system fonts with intrinsic dimensions (metrics) which are similar to the web font.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>この望ましくない現象を軽減する一番の方法は、Webフォントと似た？？実寸法？？（メトリクス）のフォールバックシステムフォントを使うことです。【コメント：定訳が確認できませんでした。原文「intrinsic dimensions」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Subsetting Fonts</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>フォントのサブセット化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A font that supports a large, international character set is an inclusive font.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>確かに大きい国際文字セットをサポートしているフォントはインクルーシブなフォントと言えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nevertheless, you should only include a subset containing the characters you need or your users may suffer performance issues.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>しかし、デザインに必要な文字だけをサブセット化しないと、ユーザー側にパフォーマンスの問題が生じかねません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The difference in file size between an entire font and one subsetted to just the ampersand glyph you want will be many orders of magnitude!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>フォント全体のファイルサイズと、必要な文字、たとえばアンパサンド記号（&amp;）のみをサブセット化した場合のファイルサイズは、それこそ桁がいくつも違ってきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When including fonts using Google Fonts8, you can append a text parameter to the URI listing just the characters you need.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Google Fonts（脚注11）を使用する場合は、URIにtextパラメータを付けて、必要な文字だけをリストして指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, if you know your  headings will use just the uppercase letters from a particular font, you can include the link like so:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>たとえば見出しで特定のフォントの大文字だけを使用したいときは、次のようなリンクを記述します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;link href="https://fonts.googleapis.com/css?family=Roboto:900&amp;text=ABCDEFGHIJKLMNOPQRSTUVWXYZ" rel="stylesheet" type="text/css"&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;link href="https://fonts.googleapis.com/ css?family=Roboto:900&amp;text=ABCDEFGHIJKLMNOPQRSTUVWXYZ" rel="stylesheet" type="text/css"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you are serving your own fonts, you can first subset them using Font Squirrel’s generator9.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>独自のフォントを使用する場合は、まずFont Squirrelのジェネレータ（脚注12）を使ってフォントをサブセット化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the CSS font stack, characters not supported by a priority font are filled by a fallback.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>CSSのフォントスタックでは、最優先フォントでサポートされていない文字はフォールバックで対応されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In practice, this means a well-matched system font can supply the more unusual characters, allowing you to heavily subset the web font.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>？？つまり、最適化されたシステムフォントの方がより多くの特殊文字を使用できるため、その分Webフォントを大幅にサブセット化できるというわけです。？？【コメント：不安訳です。原文「In practice, this means a well-matched system font can supply the more unusual characters, allowing you to heavily subset the web font.」】
+？？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By using Font Squirrel’s generator, you can roll back your web font’s character set to just the Basic Latin Unicode block10, for example.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Font Squirrelのジェネレータを使用すれば、独自のWebフォントの文字セットを、たとえば基本ラテン文字のUnicodeブロック（脚注13）のみにロールバックすることも可能です。？？【コメント：不安訳です。原文「Byusing Font Squirrel’s generator, you can roll back your web font’s character set to just the Basic Latin Unicode block,13 for example.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>body { font-family: SubsettedWebFont, ExtensiveSystemFont, sans-serif;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>body {
+font-family: SubsettedWebFont, ExtensiveSystemFont, sans-serif;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;title&gt; Element</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;title&gt;要素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;title&gt; element, found in the &lt;head&gt;, should be familiar to you already as the element browsers glean the text from for their tab labeling, and search engines the text for their results links.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>皆さんもよくご存じのとおり、ブラウザのタブのラベルのテキストは&lt;head&gt;の&lt;title&gt;要素から拾われます。また、検索エンジンの検索結果のリンクにも同じテキストが使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Certainly, unlabeled browser tabs are a frustrating shortcoming for most anyone, but there are additional implications for assistive technology users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>確かにタブにラベルがないと、たいていのユーザーはフラストレーションを感じるでしょう。しかし、それだけではありません。支援技術ユーザーにも影響が生じてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Throughout this book you’ll hear a lot about accessible names.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>本書にはアクセシブルな名前に関する記述がたびたび出てきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>These are the assistive technology compatible labels for the various elements of your web pages.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>これはWebページのさまざまな要素の、支援技術対応のラベルのことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The accessible name for a document, &lt;iframe&gt; or embedded SVG element is provided by their &lt;title&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ドキュメントや&lt;iframe&gt;や埋め込みのSVG要素の名前は、それぞれの&lt;title&gt;で指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It should describe the purpose of the contents of said element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>この名前は、その要素のコンテンツの意図が分かるようなものでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;title&gt; is announced as soon as a new web document is loaded, so it is your opportunity to provide a succinct summary of the page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;title&gt;は新たにWebドキュメントが読み込まれるとすぐに読み上げられるため、ページの概要を示すのに最適です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Conventional practice is to describe the page and append author and site information.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>一般的にはページの説明に、制作者とサイトの情報を付け加えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, “Inclusive Design Template | Heydon’s Site.” For a search results page, you should include the search term the user provided; something like, “[Website name] | Search results for [search phrase].”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>たとえば「インクルーシブデザインテンプレート | ヘイドンのサイト」といった具合です。検索結果のページの場合は、「Webサイト名 | 検索語句の検索結果」のように、ユーザーが入力した検索語句を含めるようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;main&gt; Element</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;main&gt;要素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some patterns in this book, like navigation regions, should appear consistently between pages of the site as landmarks.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>本書で扱うパターンのうち、ナビゲーション領域などはサイトの各ページにランドマークとして常に表示させるべきものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Others will contribute to the modular, often dynamic content that makes up unique pages.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>一方、ページごとのモジュール式のコンテンツ（多くの場合は動的なコンテンツ）に用いられるパターンもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In conventional web page anatomy, this content is designated to a main content area.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>このようなコンテンツは、慣習的なWebページ構造ではメインコンテンツの領域に割り当てられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;main id="main"&gt; &lt;!-- this page’s unique content --&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;main id="main"&gt;
+&lt;!-- このページ独自のコンテンツ --&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The concept of main content is not a new one, but it is only recently that we’ve been afforded a tool to inclusively separate it from surrounding page apparatus like headers, navigation regions and footers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>メインコンテンツという考え方自体は新しくはありませんが、メインコンテンツをページの他の要素（ヘッダー、ナビゲーション領域、フッターなど）からインクルーシブに切り離せるようになったのはつい最近のことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;main&gt; element defines a region recognized and communicated by screen readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>スクリーンリーダーは&lt;main&gt;要素で定義された領域を認識して読み上げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Screen readers like JAWS also offer a keyboard shortcut (the Q key) to access &lt;main&gt;, allowing the user to bypass a page’s preamble and go straight to the content they came for.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>また、JAWSなどのスクリーンリーダーには&lt;main&gt;にアクセスするキーボードショートカット（Qキー）も用意されているため、ユーザーはページの前置きは飛ばして目的のコンテンツに直行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In a single-page application, your singular &lt;main&gt; should be where each of your functionality-heavy views is rendered.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>シングルページアプリケーションの場合は、1つの&lt;main&gt;でさまざまな機能が盛り込まれた各ビューを描画しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In a static blog or brochure website, &lt;main&gt; would contain blog posts and other informational content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>静的なブログや？？ブローシャサイト？？の&lt;main&gt;には、ブログのポストやその他の情報コンテンツが含まれます。【コメント：定訳が確認できませんでした。原文「brochure website」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A products page would describe the products within &lt;main&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>また製品のページの場合は、この&lt;main&gt;で製品説明を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since &lt;main&gt; is designed to contain the salient content of a page, it can make the writing of a print style sheet easier.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;main&gt;はページの主要なコンテンツを入れるようにデザインされているため、印刷用のスタイルシートの作成が楽になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If your navigation, header, footer and sidebar (&lt;aside&gt;) regions are correctly made the siblings of &lt;main&gt;, you can target them quite easily with CSS:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ナビゲーション、ヘッダー、フッター、サイドバー（&lt;aside&gt;）の領域がきちんと&lt;main&gt;の兄弟になっていれば、CSSでそれらをターゲットに指定するのは非常に簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>@media print { body &gt; *:not(main) { display: none; }
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>@media print {
+body &gt; *:not(main) {
+display: none;
+}
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’m not one to print web pages.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>私はWebページの印刷はしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I gave up on home printers a long time ago because they always seemed to break after ten minutes of use.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>10分も使うと必ず壊れるような家庭用プリンターには、とうの昔に見切りをつけました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But not everyone is like me, and making sure printed pages do not contain page elements which are only relevant when browsing on-screen is an act of considerate, inclusive design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>しかし皆がそうとは限りません。したがって、印刷用のページには画面で見ないと意味をなさないページ要素は含めない方が親切かつインクルーシなブデザインと言えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s currently the easiest offline solution available, because it means the reader can print to PDF and save to their local drive.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>それならPDFにプリントしてローカルディスクに保存することもできるため、オフラインの解決策としては、これが現時点で一番簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Box labeled ‘The important stuff’ surrounded by grayed out subsidiary boxes</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>重要な部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Another advantage of being able to eliminate subsidiary content is the ability to improve the on-screen reading experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>補助的なコンテンツを省けるようにするもう一つのメリットは、画面で読むユーザーの体験が向上するということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Extensions are available11 to apply your own CSS on a per-domain basis.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>拡張機能（脚注14）を使えばオリジナルのCSSをドメインベースで適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Skip Links</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>スキップリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Skip links are a classic allowance made in the name of inclusive design: they feel like an awful cludge, but their impact on the experience of some types of users is tried and tested.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>スキップリンクは、インクルーシブデザインで考慮される典型的なものです。その場しのぎの解決策に思えるかもしれませんが、スキップリンクが一部のユーザーの体験に及ぼす効果は実証済みです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A skip link appears above all other content on the page and points to the main content area.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>スキップリンクはページの一番上に表示され、そこからメインコンテンツ領域にジャンプすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But who’s it for?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>では、スキップリンクはいったい誰のためのものでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Conventional wisdom says screen reader users but, as I’ve already covered, they have other means to reach the &lt;main&gt; element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>一般的な答えは「スクリーンリーダーユーザーのため」でしょう。しかし、前述したように、スクリーンリーダーユーザーが&lt;main&gt;要素に移動する手段は他にもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The principal beneficiaries of skip links are sighted keyboard users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>スキップリンクの恩恵を最も受けるのは、晴眼のキーボードユーザーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Such people are not afforded the same shortcuts as screen reader operators, so it’s them we’re mostly helping to skip over navigation and other header content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>スクリーンリーダーのようなショートカットが使えないキーボードユーザーこそ、ナビゲーションや他のヘッダーコンテンツを飛ばしてすぐにメインコンテンツを読むことができるスキップリンクを一番活用できるというわけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Skip links should not appear visually by default because they have very limited utility to mouse and touch users and would only serve to confound them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ただし、スキップリンクはデフォルトでは表示されないようにすべきです。マウスユーザーやタッチユーザーにとっては非常に使いにくく、混乱を招くだけだからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To make skip links available to keyboard users, we should bring them into view on focus:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>キーボードユーザーがスキップリンクを利用できるように、フォーカスされたときだけ表示されるようにすることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>[href="#main"] { position: absolute; top: 0; right: 100%; /* moves off screen */
+}
+
+[href="#main"]:focus { right: auto;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>[href=”#main”] {
+position: absolute;
+top: 0;
+right: 100%; /* 画面外に移動*/
+}
+[href=”#main”]:focus {
+right: auto;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When a keyboard user enters a new page, the document itself will be the first thing to receive focus.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>キーボードユーザーが新しいページに移動すると、まずそのドキュメントがフォーカスを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With the above provision in place, when the user hits their Tab key they’ll focus the first interactive element on the page: the skip link.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>その状態でユーザーがTabキーを押すと、ページ内の最初のインタラクティブ要素、つまりスキップリンクがフォーカスされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Focusing the skip link reveals it visually, giving the user the option of skipping to the main content if so desired.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>その時点でスキップリンクが画面に表示され、ユーザーは必要に応じてメインコンテンツにジャンプできるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tabbing again will hide the skip link and focus on the next interactive element on the page (probably the homepage link or the first link in the navigation list).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>そしてもう一度Tabキーを押すとスキップリンクは非表示になり、ページ内の次のインタラクティブ要素（たいていはホームページへのリンクやナビゲーションリストの最初のリンク）にフォーカスが移ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Putting The Page Together</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ページを作ってみよう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OK, let’s see how our inclusive document is shaping up.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>では実際にインクルーシブなドキュメントを作ってみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;!DOCTYPE html&gt;
+&lt;!-- the main language of the page declared --&gt;
+&lt;html lang="en"&gt; &lt;head&gt; &lt;meta charset="utf-8"&gt; &lt;!-- a viewport declaration which does not disable zooming --&gt; &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt; &lt;!-- a non-blocking base64 encoded font resource --&gt; &lt;link rel="stylesheet" href="fonts.css" media="none" onload="if(media!='all')media='all'"&gt; &lt;noscript&gt;&lt;link rel="stylesheet" href="fonts.css"&gt;&lt;/noscript&gt; &lt;!-- a non-blocking stylesheet --&gt; &lt;link rel="stylesheet" href="main.css" media="none" onload="if(media!='all')media='all'"&gt; &lt;noscript&gt;&lt;link rel="stylesheet" href="main.css"&gt;&lt;/noscript&gt; &lt;!-- a descriptive label for the page --&gt; &lt;title&gt;Inclusive Design Template | Heydon’s Site&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;!-- a handy skip link for keyboard users --&gt; &lt;a href="#main"&gt;skip to main content&lt;/a&gt; &lt;!-- logo / page navigation etc. goes here --&gt; &lt;main id="main"&gt; &lt;!-- unique content of page goes here --&gt; &lt;/main&gt; &lt;!-- a non-blocking javascript resource --&gt; &lt;script src="scripts.js"&gt;&lt;/script&gt; &lt;/body&gt;
+&lt;/html&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>&lt;!DOCTYPE html&gt;
+&lt;!-- ページのメインの言語を指定 --&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;!-- ズームを無効にしないビューポート宣言 --&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+&lt;!-- ？？ノンブロッキングの？？Base64エンコードのフォントリソース --&gt;【コメント：不安訳です。原文「a non-blocking」複数あります】
+&lt;link rel="stylesheet" href="fonts.css" media="none" onload="if(media!='all')media='all'"&gt;
+&lt;noscript&gt;&lt;link rel="stylesheet" href="fonts.css"&gt;&lt;/noscript&gt;
+&lt;!-- ？？ノンブロッキングの？？スタイルシート --&gt;【コメント：同上】
+&lt;link rel="stylesheet" href="main.css" media="none" onload="if(media!='all')media='all'"&gt;
+&lt;noscript&gt;&lt;link rel="stylesheet" href="main.css"&gt;&lt;/noscript&gt;
+&lt;!-- ページの内容が分かるようなラベル --&gt;
+&lt;title&gt;インクルーシブデザインテンプレート| ヘイドンのサイト&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- キーボードユーザーに便利なスキップリンク --&gt;
+&lt;a href="#main"&gt;メインコンテンツにジャンプ&lt;/a&gt;
+&lt;!-- ロゴやページナビゲーションはここに --&gt;
+&lt;main id="main"&gt;
+&lt;!-- このページ独自のコンテンツはここに --&gt;
+&lt;/main&gt;
+&lt;!-- ？？ノンブロッキングの？？JavaScriptリソース --&gt;【コメント：同上】
+&lt;script src="scripts.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Note On Frameworks, Preprocessors And Task Runners</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>フレームワーク、プリプロセッサ、タスクランナーについて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“It seems to me that developer ergonomics should be less important than our users’ needs.” – Paul Lewis12</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>？？開発者のための人間工学？？よりもユーザーのニーズの方が重要だと私は思う。【コメント：定訳が確認できませんでした。原文「developer ergonomics」】
+— ポール・ルイス（Paul Lewis）（脚注15）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A lot of web design articles and books are about improving your workflow and making your life easier as a developer.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>Webデザイン関連の記事や本には、ワークフローの改善や、開発者側が楽をするための方法が書かれたものがたくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Should you wish to adopt a framework or employ a preprocessor to speed up your development process, be my guest.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>皆さんの中にもフレームワークやプリプロセッサを利用して開発プロセスのスピードアップを図りたいと思う人はいるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, this book is not about you; it’s about your audience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>しかし、本書は開発者のための本ではなく、ユーザーのための本です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As such, any time spent on tools will only be in cases where they can have a direct impact on the quality of the user experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>そのため、ユーザーの体験をダイレクトに向上させることができるツールにのみ時間を割いていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Under all other circumstances we’ll be exploring the possibilities offered by standard web technologies like HTML, CSS, JavaScript and SVG.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>あらゆる状況を想定して、HTML、CSS、JavaScript、SVGといった一般的なWeb技術の可能性を探りましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>How these underlying technologies actually interact with your users will be the focus throughout (alongside organizational and writing techniques that benefit users too, of course).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>こうした基本的な技術をユーザーが実際にどのように利用することになるのか。それを常に考えなければなりません（もちろん、ユーザーにメリットのある構成や記述のテクニックも大切です）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can take the lessons learned here and apply them within any framework sufficiently flexible to allow you to write and organize good interfaces.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>ここで学んだことを生かしながら、十分に柔軟なフレームワークを利用すれば、優れたインターフェイスを記述、編成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Any opinionated frameworks not easily configurable for inclusive design techniques should be avoided.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>インクルーシブデザインの技術に合うように簡単に調整できないような頑固なフレームワークは避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They lead you to build poor products.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>それでは良いデザインは作れません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To help me stay focused on the true task at hand, I have a points system.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>目の前の重要な課題に集中するために、私はポイント制を採用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In all cases, whether I’m applying visual design, writing JavaScript behavior or structuring content, I ask who benefits from the way I’m approaching it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>視覚的なデザインに取り組むときも、JavaScriptの動作を記述するときも、コンテンツを構築するときも、私は必ず、そのやり方で恩恵を受けるのは誰かを考えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•1 point: it benefits me</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>• 1ポイント：自分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•10 points: it benefits a user/reader like me and with my setup</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>• 10ポイント：自分と似た（つまり自分と同じような状況の）ユーザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•100 points: it benefits me, people like me, and users/readers unlike me, with differing setups</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>• 100ポイント：自分、自分と似たユーザー、および自分とは違う（つまり自分とは状況が異なる）ユーザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One hundred points is what we’re aiming for here.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>目指すは100ポイントです！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode 2.https://cloud.google.com/translate/docs 3.https://developer.mozilla.org/en/docs/Tools/Responsive_Design_Mode 4.http://adrianroselli.com/2015/10/dont-disable-zoom.html 5.http://zellwk.com/blog/media-query-units/ 6.http://keithclark.co.uk/articles/loading-css-without-blocking-render/ 7.https://github.com/bramstein/fontfaceobserver 8.https://www.google.com/fonts 9.http://www.fontsquirrel.com/tools/webfont-generator 10.https://en.wikipedia.org/wiki/Basic_Latin_(Unicode_block) 11.https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en 12.https://aerotwist.com/blog/react-plus-performance-equals-what/</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T001512Z">
+        <seg>4 http://smashed.by/quirksmode
+5 https://cloud.google.com/translate/docs
+6 http://smashed.by/rdmode
+7 http://adrianroselli.com/2015/10/dont-disable-zoom.html
+8 http://zellwk.com/blog/media-query-units/
+9 http://smashed.by/render-block
+10 https://github.com/bramstein/fontfaceobserver
+11 https://www.google.com/fonts
+12 http://www.fontsquirrel.com/tools/webfont-generator
+13 https://en.wikipedia.org/wiki/Basic_Latin_(Unicode_block)
+14 http://smashed.by/stylish
+15 https://aerotwist.com/blog/react-plus-performance-equals-what/</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

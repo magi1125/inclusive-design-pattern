@@ -1,0 +1,3455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Blog Post | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Blog Post</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ブログ記事</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Keeping things prosaic for now, let’s look at paragraphs in context.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>まずは坦々と、パラグラフをコンテキストに照らして見ていきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’ve had a blog for several years and it’s been through four to five design iterations.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>私は数年間ブログを書いており、デザインの見直しを4、5回行いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Like many designer-bloggers, I seem to be afflicted with obsessive tinkering and I’m still not happy with the result.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>多くのデザイナーブロガーと同じように、あちこちいじらずにはいられず、今も結果には満足していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Time is a luxury we often can’t afford on client projects — which is why client work sometimes gets finished, I suppose.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>クライアントのプロジェクトでは時間に余裕のない場合が多く、これが作業を完了させる理由となることもあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In my opinion, the most effective blog designs are spartan, focusing on content and removing as many distractions as possible.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>個人的な意見ですが、最も効果的なブログのデザインは、コンテンツを中心とし、邪魔なものはできる限り取り除いた質素なデザインです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s difficult to overestimate the effect of simplicity on both performance and accessibility.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>パフォーマンスとアクセシビリティのどちらの点でも、簡素であることには計り知れないほどの効果があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not incorporating complex and ambitious layouts also puts you on the path to a more robust, flexible reading experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>また、複雑で凝ったレイアウトを作り込まないことで、より堅牢で柔軟な読みやすさを提供できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When the reader adjusts something, there’s simply less to break as a result.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>読む人が何らかの調整を行った場合に、？？表示などの崩れが少なくなります。？？【コメント：多少意訳しています。原文「there’s simply less to break as a result.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here, we’ll investigate the composition of an inclusive blog post as found at its permalink, forming the principal content of the parent page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ここでは、親ページの主要なコンテンツを形成するパーマリンクに見られる、インクルーシブなブログ記事の構成について探りましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Semantic structure and source order must be taken into account.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>セマンティックな構造とソースの順序を考慮する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’ll also cover effective link text, incorporating video content, and the creation of an automated flow system to ease the work of content editors.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>また、効果的なリンクテキスト、ビデオコンテンツの組み込み、コンテンツ編集者の作業を容易にする自動化されたフローシステムの作成についても説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;main&gt; Element</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;main&gt;要素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You may recall the &lt;main&gt; element from our setup in “The Document.” Every web page should have a &lt;main&gt; element to identify the unique content of that page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>「＄＄The Document＄＄」でセットアップした&lt;main&gt;要素を思い出してください。すべてのWebページには、そのページ独自のコンテンツを特定する&lt;main&gt;要素があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The element helps us to think about what the main content of our page actually is, and can later be used as a navigational aid by screen reader operators.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>この要素は、そのページの実際のメインコンテンツは何であるかについて考えるのに役立ちます。また、後でスクリーンリーダーユーザーがナビゲーション手段としてとして利用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At a blog permalink, the salient content is the blog article itself, so it should be placed inside &lt;main&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ブログのパーマリンクでは、主要なコンテンツがブログ記事そのものであるため、これを&lt;main&gt;の中に置く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note the id below, which allows keyboard users to navigate to the article via a skip link (also discussed in “The Document”):</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>下のidに注目してください。これは、キーボードユーザーがスキップリンクを介して記事に移動できるようにするためのものです（これも「＄＄TheDocument＄＄」で説明しました）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;main id="main"&gt; &lt;!-- blog article here --&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;main id="main"&gt;
+&lt;!—ここがブログ記事--&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When incorporating complex grid systems, we tend to rely heavily on &lt;div&gt;-based scaffolding.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>複雑なグリッドシステムを組み込むとき、私たちは&lt;div&gt;に基づく枠組みに大きく依存しがちです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This may help us to corral the visual structure of the page, but it has no impact on the semantic structure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これはページの視覚的な構造を枠に入れるのに役立つかもしれませんが、セマンティックな構造にはなんの効果もありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, the following code example is semantically identical to the preceding one.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>つまり、以下のコード例は、意味的には前のコードと同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The source code is just more complex.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ソースコードが複雑になっているにすぎません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div class="grid_50"&gt; &lt;div class="grid_50_inner"&gt; &lt;main id="main"&gt; &lt;div class="main_inner"&gt; &lt;!-- blog article here --&gt; &lt;/div&gt; &lt;/main&gt; &lt;/div&gt;
+&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;div class="grid_50"&gt;
+&lt;div class="grid_50_inner"&gt;
+&lt;main id="main"&gt;
+&lt;div class="main_inner"&gt;
+&lt;!—ここがブログ記事--&gt;
+&lt;/div&gt;
+&lt;/main&gt;
+&lt;/div&gt;
+&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In general, I recommend against dealing with third-party grid systems.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>一般に、サードパーティのグリッドシステムを使うことはお勧めしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They’re typically rather large assets themselves and encourage convoluted, redundant markup.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>通常、それ自体が大きなアセットとなり、複雑で冗長なマークアップが増加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only does this produce a larger document to download, but also it can have additional, unpleasant side effects.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ダウンロードするドキュメントが大きくなるだけでなく、不快な副作用が発生することもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, in testing I’ve experienced a screen reader producing erroneous output as it struggled to parse a massive DOM.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>たとえば、私がテストをしていたときに、スクリーンリーダーが大きなDOMをなかなか解析できず、誤った出力を生成したことがありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you’re building a highly complex layout, a grid system may help you.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>非常に複雑なレイアウトを構築するのであれば、グリッドシステムは役に立つかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, you should not be building a highly complex layout.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>しかし、非常に複雑なレイアウトは構築すべきでないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Simple user interfaces are usable interfaces, accessible interfaces, maintainable interfaces, and performant interfaces.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>シンプルなユーザーインターフェイスこそが、使い勝手の良いインターフェイスであり、アクセシブルなインターフェイスであり、パフォーマンスの高いインターフェイスなのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In print design, where the relative position of grid elements is reliable and consistent, you can rely on juxtaposition to convey meaning and use terminology like, “the photograph to the right.” On the responsive web, you don’t have this luxury.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>印刷物のデザインでは、グリッド要素の相対位置は一貫していて信頼できるため、意味を伝えるために横に並べて配置したり、「右の写真」といった言い方をすることができます。レスポンシブWebでは、こんな贅沢なことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Occasionally, you’ll still want to put somethings next to some other things, if only to be intensive with the available space.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>それでも時として、空きスペースを有効に利用するため、何かを横に並べたいと思うことがあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But there’s no use trying to be exacting.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>？？しかし、どんなに頑張っても表示の崩れは防げません。？？【コメント：意訳しています。原文「But there’s no use trying to be exacting.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’ll talk more about the terseness with which you can create responsive, self-managing grids1 using Flexbox in the “A Filter Widget” chapter.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>flexboxを使用して、レスポンシブな自己管理型のグリッド（脚注36）を作ることができる簡潔さについては、「＄＄A Filter Widget＄＄」の章で詳しく説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Heading Structure</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>見出しの構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’m concerned we only usually look at HTML semantics in terms of discrete elements providing meaning, and not by looking at their relationships to one another.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>私はいつも、HTMLのセマンティクスが、意味を提供している個別の要素という観点からのみ見られており、互いの関係が見られていないことを懸念しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>While it’s true the element &lt;main&gt; itself provides idiosyncratic behaviors, these benefits can be diminished with improper placement; for example, by using multiple &lt;main&gt; elements on a single page or by using &lt;main&gt; to wrap the entire DOM.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;main&gt;要素そのものが独特な動作を提供しているのは確かですが、これらのメリットは、不正な配置によって損なわれることもあります。たとえば、単一のページで複数の&lt;main&gt;要素を使ったり、&lt;main&gt;を使用してDOM全体をラップしたりといった不正です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Heading elements in particular derive much of their meaning from their relationships with one another.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>特に見出し要素は、意味の多くが互いの関係性からもたらされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The  Element</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>要素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The  element represents your document’s first-level heading.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>要素は、ドキュメントの第1レベルの見出しを表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is the top heading of the document.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>そのドキュメントのトップの見出しです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At our permalink, it should be the title of the blog article itself.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ここでのパーマリンクでは、ブログ記事のタイトルそのものにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The  text effectively labels the supersection that is the document body, so it’s not logical to have more than one per page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>テキストは実質的に、ドキュメントの本文である？？スーパーセクション？？のラベルとなります。【コメント：不安訳です。原文「supersection」】このため、1ページに複数あるのは論理的に正しくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;main id="main"&gt; <bpt i="1" x="1">&lt;h1&gt;</bpt>How To Mark Up Inclusive Blog Articles<ept i="1">&lt;/h1&gt;</ept>
+&lt;/main&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;main id="main"&gt;
+インクルーシブなブログ記事のマークアップ方法
+&lt;/main&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Like the &lt;main&gt; element, the  exposes a navigation shortcut for assistive technology users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;main&gt;要素と同じく、は、支援技術ユーザーにナビゲーションショートカットを公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Both NVDA and JAWS users can press the 1 key and their screen readers will transport them directly to the , where “How To Mark Up Inclusive Blog Articles, heading level one” will be announced.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>NVDAとJAWSのユーザーは、1キーを押すと、スクリーンリーダーによって直接に移動でき、ここでは「インクルーシブなブログ記事のマークアップ方法、＃＃heading level one＃＃」と読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Practically speaking, the &lt;main&gt; and  offer similar functionality, so why employ both?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>実質的に、&lt;main&gt;とは似たような機能を提供していますが、両方を使用するのはなぜでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Because not all screen reader users are alike.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これは、スクリーンリーダーユーザーが皆同じではないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In my informal research into screen reader users’ behaviors and preferences2, some respondents were familiar and comfortable with landmark (region) navigation, but the majority used headings to get around.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>私が行った、スクリーンリーダーユーザーの行動および好みに関する非公式の研究（脚注37）では、一部の回答者はランドマーク（リージョン）ナビゲーションを熟知して使いこなしていたものの、大半の回答者は見出しを使って移動していました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Providing unobtrusive options for users is sometimes called multimodality.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ユーザーに目立たない複数のオプションを提供することを、？？マルチモダリティ？？と呼ぶことがあります。【コメント：定訳が確認できませんでした】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s why we should also provide transcripts alongside video content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>それこそが、ビデオコンテンツにトランスクリプト？？（内容を文字に書き起こしたもの）？？を添えるべき理由です。【コメント：補足しました】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>More on that shortly.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これについては、この後、詳しく説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A number of survey respondents also professed to navigate documents from element to element, reading from the start to the end using their screen reader’s down arrow key (or equivalent).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>また、回答者の何人かは、スクリーンリーダーの下矢印キー（または同等のキー）を使用して、ドキュメントを先頭から末尾に向かって、要素から要素へと移動していると答えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Source order is an important dimension of structure and our blog article should make sense read from top to bottom.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ソースの順序は構造の重要な側面であり、ブログ記事は上から下に読んで意味が通らなくてはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though it can be made to look visually compelling either way, it is therefore important not to open an article with its publish date, but with its heading.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>どちらでも視覚的に分かりやすい外観にできますが、上記の理由から、記事を公開日付ではなく、見出しで開始することが大切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;!-- don’t use this --&gt;
+&lt;main id="main"&gt; &lt;div class="meta"&gt;Published on &lt;time datetime="2017-12-12"&gt;12/12/2017&lt;/time&gt;&lt;/div&gt; <bpt i="1" x="1">&lt;h1&gt;</bpt>How To Mark Up Inclusive Blog Articles<ept i="1">&lt;/h1&gt;</ept> &lt;!-- article content here --&gt;
+&lt;/main&gt;
+
+&lt;!-- use this --&gt;
+&lt;main id="main"&gt; <bpt i="1" x="1">&lt;h1&gt;</bpt>How To Mark Up Inclusive Blog Articles<ept i="1">&lt;/h1&gt;</ept> &lt;div class="meta"&gt;Published on &lt;time datetime="2017-12-12"&gt;12/12/2017&lt;/time&gt;&lt;/div&gt; &lt;!-- article content here --&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;!-- これは使わないでください --&gt;
+&lt;main id="main"&gt;
+&lt;div class="meta"&gt;公開日&lt;time datetime="2017-12-12"&gt;12/12/2017&lt;/time&gt;&lt;/div&gt;
+インクルーシブなブログ記事のマークアップ方法
+&lt;!—ここが記事のコンテンツ--&gt;
+&lt;/main&gt;
+&lt;!—これを使ってください--&gt;
+&lt;main id="main"&gt;
+インクルーシブなブログ記事のマークアップ方法
+&lt;div class="meta"&gt;公開日&lt;time datetime="2017-12-12"&gt;12/12/2017&lt;/time&gt;&lt;/div&gt;
+&lt;!—ここが記事のコンテンツ--&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the first, commented out example, someone navigating by heading using the generic h key would be unaware of the publish date because the screen reader would take them silently past it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>1つ目の例では、汎用的なhキーを使用して見出しでナビゲートしている人には公開日付は分かりません。スクリーンリーダーは読み上げずにこれを通過します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Shows how heading navigation bypasses section content that precedes sections’ headings. </seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>見出しナビゲーションでは、セクションの見出しの前にあるセクションコンテンツがスキップされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that the first structure is unlikely to produce an error in an automated accessibility testing tool.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>1つ目の構造は、自動化されたアクセシビリティテストツールでは、おそらくエラーを生成しないことに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That does not mean the second structure is not preferable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これは2番目の構造の方が好ましくないという意味ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inclusive design is about appreciating how people really use interfaces, not just fixing technical errors.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>インクルーシブデザインの目的は、単に技術的なエラーを修正することではなく、ユーザーが実際にインターフェイスを使用する方法を正しく理解することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>スクリーンリーダー見出しナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Subsections</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>サブセクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When it comes to structure, depth is just as important as source order.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>構造に関しては、ソースの順序と同じくらい大事なのが深さです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By dividing our blog article into subsections, we can describe which parts of it belong to which other parts, building a thematic map or outline.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ブログ記事をサブセクションに分割することで、どの部分がどの部分に属しているかを説明し、セマンティックなマップまたはアウトラインを構築できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Despite the inclusion of nestable sectioning elements in the HTML5 specification, like &lt;section&gt;, the only elements currently able to describe depth in an inclusive fashion are  to .</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>HTML5仕様には&lt;section&gt;などのネスト可能なセクショニング要素が含まれていますが、現在のところ、インクルーシブな方法で深さを記述できる要素は～だけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s not to say you shouldn’t use &lt;section&gt; or &lt;article&gt;, but the information they provide does not serve this particular purpose.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;section&gt;や&lt;article&gt;は使用すべきでないとは言いませんが、これらが提供する情報は、インクルーシブな方法での深さの記述という目的を果たしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The HTML5 outline algorithm was specified to automate section structure based on sectioning elements, removing the need for –.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>HTML5のアウトラインアルゴリズムは、セクショニング要素に基づいてセクションの構造を自動化し、～を不要にするよう指定されていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, it is not implemented in any user agent3, and there’s no sign it ever will be.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>しかし、これはどのユーザーエージェントにも実装されておらず（脚注38）、今後実装されそうな兆候もありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As stated, our blog article should begin with an .</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>前述のように、ブログ記事はで開始すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You could stop there, but the lack of further structural information would produce comprehension issues for a broad range of users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これだけでも良いですが、これ以上の構造情報がないと、多くのユーザーに理解の点で問題が生じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You should always aim to divide your content into digestible chunks.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>常にコンテンツは、理解しやすい塊に分けるよう努めるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s ultimately what HTML is for: forming structure through differentiation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>HTMLの最終的な目的は、分化を通じて構造を形成することですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To create a subsection within the article, use .</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>記事内にサブセクションを作成するには、を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The 2 in  says “two levels deep,” or “one down from the first level.” Visually, headings are conventionally differentiated by font size: the deeper the level, the smaller the font-size.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>の2が意味しているのは、「レベル2の深さ」つまり「第1レベルから1つ下がったレベル」ということです。視覚的には、見出しはフォントサイズで区別されるのが慣習となっており、レベルが深いほどfont-sizeは小さくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>h1 { font-size: 3em; }
+h2 { font-size: 2.25em; }
+h3 { font-size: 1.5em; }</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>h1 { font-size: 3em; }
+h2 { font-size: 2.25em;}
+h3 {font-size: 1.5em; }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is where a lot of developers make a mistake: they choose a heading element which they believe best fits the perceived importance of the section it represents.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ここで、多くの開発者がミスをします。見出しが表すセクションの認識上の重要性に最も合うと思う見出し要素を選んでしまうのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, a developer might choose an  in place of an  because they deem the section unimportant and would like to reduce the font-size accordingly.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>たとえば、そのセクションは重要ではないと思い、font-sizeを小さくしたいと考えて、ではなくを選択することがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This deceives both visual and non-visual readers because it breaks the perceived structure — a level has been skipped.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これは、認識されている構造を壊し、レベルが1つスキップされるため、視覚的な読者と非視覚的な読者の両方を欺くことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="1" x="1">&lt;h1&gt;</bpt>How To Mark Up Blog Articles<ept i="1">&lt;/h1&gt;</ept>
+&lt;!-- introductory content --&gt;
+<bpt i="3" x="3">&lt;h3&gt;</bpt>A quick note on the word ‘semantic’<ept i="3">&lt;/h3&gt;</ept> &lt;!-- wait!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ブログ記事のマークアップ方法
+&lt;!-- 序文コンテンツ--&gt;
+「セマンティック」という単語について
+&lt;!-- 待って！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where’s the second nesting level?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>2番目のネストレベルはどこに？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>--&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>--&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Three nested boxes representing a section/subsection structure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>セクション（レベル1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The middle subsection is labeled missing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>欠けているサブセクション（レベル2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>サブセクション（レベル3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Missing layers in document structure can be disorienting to users trying to build a mental map of the document.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ドキュメント構造内で階層が欠けていると、頭の中でドキュメントのマップを作ろうとしているユーザーを混乱させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some developers handle heading styles separately using CSS classes.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>CSSクラスを使って見出しのスタイルを別に処理する開発者もいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This gives them the freedom to change font sizes independent of semantic structure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>この方法では、セマンティックな構造に依存することなく、自由にフォントサイズを変更することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;h2 class="h3"&gt;What am I?<it pos="end" x="2">&lt;/h2&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;h2 class="h3"&gt;私は何でしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>While this method eschews having to make structural errors to achieve visual effects, exercise caution: in most cases, an  should look like an .</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>この方法では、視覚的な効果を得るための構造エラーを回避できますが、注意が必要です。たいていの場合、はらしい見た目にすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s what it is, after all!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>結局のところ、そういうことなのです！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Part of inclusion is achieving a parity of experience across different user needs.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>インクルージョンの役割は、多様なユーザーニーズ全体の体験を平均化することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By managing content visually one way and non-visually another way, you begin to segregate seeing and non-seeing users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ある方法で視覚的にコンテンツを処理し、非視覚的にはまた別の方法でコンテンツを処理するのは、見えているユーザーと見えていないユーザーの隔離を始めているということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A syndicated version of your content, subject to a different style sheet, would diverge in visual structure too.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>複数のスタイルシートの影響を受ける、寄せ集めて作られたコンテンツは、視覚的な構造も異なるものとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Subtitles</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>サブタイトル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Blog articles in which the author has not been able to say everything they want in a title alone sometimes employ subtitles or straplines.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ブログ記事を書く人が1つのタイトルで書きたいことすべてを書けなかった場合、サブタイトルや小見出しを使用することがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This also applies to books…</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これは本にも当てはまります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The previous example could be rewritten to take the title “How To Mark Up Blog Articles” and the subtitle “In Seven Simple Steps.” The question is how to mark this up.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>前の例は、タイトルを「ブログ記事のマークアップ方法」とし、サブタイトルを「7つのシンプルステップ」とすることもできます。問題はこれをどのようにマークアップするかです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’ve seen many an implementation which chooses to put the subtitle in a separate heading element, like so:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>以下のように、別の見出し要素にサブタイトルを入れている例を多数見たことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;main id="main"&gt; <bpt i="1" x="1">&lt;h1&gt;</bpt>How To Mark Up Blog Articles<ept i="1">&lt;/h1&gt;</ept> <bpt i="2" x="2">&lt;h2&gt;</bpt>In Seven Simple Steps<ept i="2">&lt;/h2&gt;</ept> &lt;!-- this should not be a heading --&gt; &lt;div class="meta"&gt;Published on &lt;time datetime="2017-12-12"&gt;12/12/2017&lt;/time&gt;&lt;/div&gt; &lt;!-- article content here --&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;main id="main"&gt;
+ブログ記事のマークアップ方法
+7つのシンプルステップ&lt;!—これは見出しにすべきではありません--&gt;
+&lt;div class="meta"&gt;公開日 &lt;time datetime="2017-12-12"&gt;12/12/2017&lt;/time&gt;&lt;/div&gt;
+&lt;!—ここが記事のコンテンツ--&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now that you’re familiar with the structural contribution of headings, you should be able to see the problem: the  creates an immediate subsection, “In Seven Easy Steps.” That’s a pretty weird, fragmentary heading for a section and would make little sense wherever a table of contents is generated:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ここまでに見出しの構造的な役割を十分に学習してきた皆さんには、何が問題かお分かりでしょう。それは、が直接的なサブセクション「？？7つのシンプルステップ？？」を作成するということです。【コメント：原文「“In Seven Easy Steps.”」。前の説明文と例では「In Seven Simple Steps」となっていますが同一のものを指していると判断して同じ訳をあてました。複数あり、？？で囲みました】？？これはセクションの見出しとしては奇妙で断片的であり、目次が生成されてもほとんど意味を成さないでしょう。？？【コメント：日本語訳の場合、不自然ではありません】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•How To Mark Up Blog Articles</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• ブログ記事のマークアップ方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•In Seven Simple Steps</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• 7つのシンプルステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Headings</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• 見出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Subsections</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• サブセクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Link text</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• リンクテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For a short time, the &lt;hgroup&gt; element was the prescribed solution.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>一時は、&lt;hgroup&gt;要素が所定の解決策でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By wrapping the  and  in an &lt;hgroup&gt;, you could theoretically remove the  from the outline, preventing it from creating a subheading:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>以下のように、とを&lt;hgroup&gt;内にラップすることで、理論上はアウトラインからを取り除き、サブ見出しが作成されないようにすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;!-- do not use --&gt;
+&lt;hgroup&gt; <bpt i="1" x="1">&lt;h1&gt;</bpt>How To Mark Up Blog Articles<ept i="1">&lt;/h1&gt;</ept> <bpt i="2" x="2">&lt;h2&gt;</bpt>In Seven Simple Steps<ept i="2">&lt;/h2&gt;</ept>
+&lt;/hgroup&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;!-- 使わないでください--&gt;
+&lt;hgroup&gt;
+ブログ記事のマークアップ方法
+7つのシンプルステップ
+&lt;/hgroup&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As this MDN article on &lt;hgroup&gt;4 attests, however, &lt;hgroup&gt; has been removed from the HTML5 specification.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>しかし、&lt;hgroup&gt;についてのMDN記事（脚注39）に示されているように、&lt;hgroup&gt;はHTML5仕様から削除されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You cannot therefore depend on it becoming implemented uniformly or reliably in browsers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>このため、&lt;hgroup&gt;が各種ブラウザに一様にまたは確実に実装されていることを前提としてはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Finding the right solution depends on what we want to achieve.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>正しい解決策は、何を行いたいかによります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If we want “In Seven Easy Steps” to be part of the title, we can separate it with a semantically inert &lt;span&gt; element and drop it onto a new line using h1 span { display: block; }.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>「？？7つのシンプルステップ？？」をタイトルの一部にしたい場合は、特別な意味を持たない&lt;span&gt;要素でこれを区切り、h1span{ display:block;}を使用して新しい行にすることができます。【コメント：原文「InSeven Easy Steps」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="1" x="1">&lt;h1&gt;</bpt> How To Mark Up Blog Articles &lt;span&gt;In Seven Easy Steps&lt;/span&gt;
+<ept i="1">&lt;/h1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>
+ブログ記事のマークアップ方法 &lt;span&gt;7つのシンプルステップ
+&lt;/span&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This would produce the following, corrected outline:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>こうすると以下のような修正されたアウトラインが生成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•How To Mark Up Blog Articles In Seven Simple Steps</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• ブログ記事のマークアップ方法 7つのシンプルステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Headings</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• 見出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Subsections</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• サブセクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Link text</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• リンクテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead, you might deem the subtitle unimportant and want to remove its text from the outline altogether.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>そうではなく、サブタイトルは重要でないため、そのテキストをアウトラインからすべて削除したいこともあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In which case, the following solution could work:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>このような場合には、以下の方法で対処できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="1" x="1">&lt;h1&gt;</bpt>How To Mark Up Blog Articles<ept i="1">&lt;/h1&gt;</ept>
+&lt;p&gt;&lt;span class="visually-hidden"&gt;Subtitle:&lt;/span&gt; In Seven Easy Steps&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ブログ記事のマークアップ方法
+&lt;p&gt;&lt;span class="visually-hidden"&gt;サブタイトル：&lt;/span&gt; 7つのシンプルステップ&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note the use of the &lt;span&gt; with the .visually-hidden class.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;span&gt;で.visually-hiddenクラスが使用されていることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Visually, the role of the subtitle would presumably be indicated by its styling.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>視覚的には、サブタイトルの役割はおそらくスタイルで示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In a non-visual context, this would not be apparent: Traversing from the  to the &lt;p&gt; would have a screen reader believe that they had begun reading the article body.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>非視覚的なコンテキストでは、これが分かりません。から&lt;p&gt;へのトラバースで、スクリーンリーダーは、記事の本文を読み始めたのだと考えるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By providing the prefix “Subtitle:” we clarify the role of the &lt;p&gt; element non-visually, in much the same way as the implicit role of a &lt;button&gt; element makes screen readers announce “Button.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ここでは、接頭辞として「サブタイトル：」と付けることで、非視覚的に&lt;p&gt;の役割を明確化しています。これは、&lt;button&gt;要素の暗黙的な役割によって、スクリーンリーダーが「ボタン」と読み上げるのとほぼ同じようなことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The .visually-hidden class invokes a special set of properties, carefully devised to hide the element visually without it becoming silenced in screen reader software.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>.visually-hiddenクラスは、特別なプロパティセットを呼び出し、スクリーンリーダーソフトウェアで読み上げを回避されることなく、要素を視覚的に巧みに隠します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using display: none;, visibility: hidden;, height: 0; or width: 0; wouldn’t work — it would make the span unavailable both visually and aurally.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>display: none;、visibility: hidden;、height: 0;、width: 0;を使用したのではうまく機能しません。視覚的にも聴覚的にもspanが利用できなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(1px, 1px, 1px, 1px);
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>.visually-hidden {
+position: absolute;
+width: 1px;
+height: 1px;
+overflow: hidden;
+clip: rect(1px, 1px, 1px, 1px);
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Having such a utility class in your style sheet and at your disposal is always recommended.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>このようなユーティリティクラスをスタイルシートに用意し、自由に使えるようにしておくことをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In later chapters, we’ll call on .visually-hidden a number of times.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>.visually-hiddenは後の章でも何度か出てきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Should a &lt;subtitle&gt; element ever be specified, the clarifying “Subtitle:” prefix would probably be provided for you as a feature of the element’s role, and therefore automatically available in the “accessibility tree5” — the version of the DOM used by assistive technologies where roles, properties, states, labels and values are exposed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;subtitle&gt;要素が指定されている場合、明確にするための接頭辞「サブタイトル：」は、おそらく要素の役割の機能として提供され、「アクセシビリティツリー」（脚注40）で自動的に利用可能になるでしょう。アクセシビリティツリーとは、支援技術で使用されるDOMの一種で、役割、プロパティ、状態、ラベル、および値が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Aside from providing interactive behaviors, this is one of the simple benefits of using semantic elements where they are specified and supported.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>インタラクティブな動作を提供することは別として、これはセマンティックな要素を、指定されサポートされているところで使用する単純なメリットの1つです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;article&gt; Element</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;article&gt;要素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There is a lot of confusion surrounding HTML5 sectioning elements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>HTML5のセクショニング要素については多くの混乱があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, you may be asking, “If this is an article, shouldn’t it be in an &lt;article&gt; element?”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>たとえば、「これが記事（article）であれば、&lt;article&gt;要素に入れるべきではないの？」と思われるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;main id="main"&gt; &lt;article&gt; <bpt i="1" x="1">&lt;h1&gt;</bpt>How To Mark Up Inclusive Blog Articles<ept i="1">&lt;/h1&gt;</ept> &lt;div class="meta"&gt;Published on &lt;time datetime="2017-12-12"&gt;12/12/2017&lt;/time&gt;&lt;/div&gt; &lt;!-- article content here --&gt; &lt;/article&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;main id="main"&gt;
+&lt;article&gt;
+インクルーシブなブログ記事のマークアップ方法
+&lt;div class="meta"&gt;公開日 &lt;time datetime="2017-12-12"&gt;12/12/2017&lt;/time&gt;&lt;/div&gt;
+&lt;!—ここが記事のコンテンツ--&gt;
+&lt;/article&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The answer is: probably not, but maybe.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>その答えは、「たぶん違うけどそうかもしれない」です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Theoretically, the &lt;article&gt; should start a new subsection by deferring to the HTML5 outline algorithm6.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>理論上は、&lt;article&gt;はHTML5アウトラインアルゴリズムに従って、新しいサブセクションを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It would be poorly placed here because we haven’t even begun the main content of the document (which is the outermost section).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>（脚注41）この例では、まだドキュメントのメインコンテンツも開始していないため（最も外側のセクション）、ここに置くのは正しくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But, since the outline algorithm is not actually implemented in any user agents7, this has no effect on assistive technology users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>しかし、実際にはいずれのユーザーエージェントにもアウトラインアルゴリズムが実装されていないため、（脚注42）支援技術ユーザーにとってこれは何の効果も、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No harm done.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>害もありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlike the &lt;main&gt; element, &lt;article&gt; is not a landmark, so few screen readers provide it as a navigational tool.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;main&gt;要素とは異なり、&lt;article&gt;はランドマークではありません。このため、&lt;article&gt;をナビゲーションツールとして提供しているスクリーンリーダーはほとんどありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since it’s the singular child of &lt;main&gt;, it would take the user to the same place anyway.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;main&gt;の単一の子であるため、どちらにしてもユーザーを同じ場所に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Altogether, deploying &lt;article&gt; doesn’t look very appealing, but there is a small advantage in certain contexts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>結局のところ、&lt;article&gt;の配置にはあまり魅力がなさそうですが、ある特定のコンテキストではちょっとした利点があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The JAWS screen reader (and only the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>JAWSスクリーンリーダーは（JAWSスクリーンリーダーだけは）、この要素に入るときに「＃＃Article＃＃」、出るときに「＃＃Article end＃＃」と読み上げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Arguably, this is useful information where there are several &lt;article&gt;s on the same page and the user is reading from top to bottom, element by element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>確かに、同じページに複数の&lt;article&gt;があり、ユーザーが要素ごとに上から下に向かって読んでいる場合には、これは有益な情報です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The following markup is serviceable for a blog’s homepage, where multiple recent posts are listed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>以下のマークアップは、複数の最近の記事がリストされるブログのホームページに役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;article&gt; &lt;!-- first article’s content here --&gt;
+&lt;/article&gt;
+&lt;article&gt; &lt;!-- second article’s content here --&gt;
+&lt;/article&gt;
+&lt;article&gt; &lt;!-- third article’s content here --&gt;
+&lt;/article&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;article&gt;
+&lt;!—ここが1つ目の記事のコンテンツ --&gt;
+&lt;/article&gt;
+&lt;article&gt;
+&lt;!—ここが2つ目の記事のコンテンツ --&gt;
+&lt;/article&gt;
+&lt;article&gt;
+&lt;!—ここが3つ目の記事のコンテンツ --&gt;
+&lt;/article&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Try to think in terms of user experience when choosing semantic elements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>セマンティックな要素を選ぶときは、ユーザー体験の点から考えるようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sometimes they may be the technically correct element to use, but they’re not supported in any way so have no impact on anyone.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>技術的には正しい要素を使用していても、サポートされていないため誰にも影響しないこともあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Other times they do have an impact but the part they play is confusing, inconsistent or obstructive.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>また、効果がある場合でも、その役割が分かりにくかったり、一貫性がなかったり、邪魔だったりする場合もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In her talk “Burn Your Select Tags8” (video), Alice Bartlett shares the research she undertook at the UK Government Digital Service9 into &lt;select&gt; element usability.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>アリス・バートレット（Alice Bartlett）は、「Burn Your Select Tags」（ビデオ）（脚注43）の中で、UK Government Digital Service（脚注44）で彼女が行った&lt;select&gt;要素のユーザービリティの調査について話しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Universally implemented and semantic though it is, there’s compelling evidence that you should avoid using the &lt;select&gt; element wherever possible.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>この要素は広く実装されておりセマンティックはありますが、可能な限り&lt;select&gt;要素の使用を避けるべき強力な根拠があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only are there discrete technical shortcomings (such as certain devices suppressing the zoom of &lt;option&gt; overlays), but they just don’t seem to be understood by all sorts of people.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>個々の技術的な欠点（特定のデバイスが&lt;option&gt;オーバーレイのズームを表示しないなど）があるだけではなく、あらゆる人たちに理解されてはいないようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Progressive Enhancement And Interoperability</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>プログレッシブエンハンスメントとインターオペラビリティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The sound semantic structure we’ve been fostering in our blog article doesn’t just benefit screen reader users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ここまでにブログ記事で作り上げてきた音声のセマンティック構造は、スクリーンリーダーユーザーにのみメリットをもたらすわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If a browser fails to load your style sheet, it will still differentiate key elements of the interface using its own default user agent style sheet.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ブラウザがスタイルシートの読み込みに失敗した場合でも、独自のデフォルトユーザーエージェントのスタイルシートを使用して、インターフェイスの主要な要素を区別します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Headings, for instance, will appear in bold text and have font sizes indicative of the section depth they represent.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>たとえば、見出しは太字テキストで表示され、それらが表すセクションの深さを示すフォントサイズになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition, services that syndicate your content, such as feed readers, will be able to apply their own structural styles, enabling a comfortable reading experience within their own applications.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>さらに、フィードリーダーなどのコンテンツをまとめるサービスは、独自の構造スタイルを適用し、それぞれのアプリケーション内で読みやすくすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Content that works well in different contexts and via different inputs can be said to be interoperable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>さまざまなコンテキストで、さまざまな入力を介して問題なく機能するコンテンツは、相互運用性があると言うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Good semantic structure works well with screen readers, feed readers, search engines and all sorts of other parsers looking for structural meaning in your content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>優れたセマンティック構造は、スクリーンリーダー、フィードリーダー、サーチエンジン、およびコンテンツ内の構造的な意味を検索する他のあらゆるパーサーで正しく機能します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A good way to test that your content has a sound structure is to turn CSS off and see if the page is still readable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>コンテンツに音声構造があることをテストする良い方法は、CSSをオフにしてもページが読めるかどうかを確認することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Are the order and hierarchy apparent?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>順序や階層は明確ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Is the page still navigable and usable?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ページのナビゲートや使用は可能なままですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Note on Single-Page Applications</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>シングルページアプリケーションについて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Single-page applications are typified by their use of client-side JavaScript to render and rerender content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>シングルページアプリケーションは、クライアント側のJavaScriptを使用してコンテンツを描画および再描画するのが特徴です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where content is subject to a lot of change as a result of user interaction, this approach enables an immediacy not possible when making round-trips to the server.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ユーザー操作の結果として、コンテンツに多くの変更が生じるケースでは、このアプローチをとれば、サーバーとの往復を行った場合には得られない迅速さが実現します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, when the content you are serving is static and intended for reading alone, relying on client-side JavaScript to render that content is an underperforming and relatively unreliable method.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>しかし、提供しようとしているコンテンツが静的で、読むことだけを目的としたものである場合、クライアント側のJavaScriptを使用してコンテンツを表示するのは、非効率で、比較的信頼性の低い方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Content should be available to users who do not have JavaScript running or for whom JavaScript has thrown an error, been blocked or failed to load.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>コンテンツはJavaScriptを実行していないユーザーや、JavaScriptがエラーを報告したり、ブロックされたり、読み込みに失敗したりしたユーザーにも利用できるようにすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Providing server-rendered content also means that content will be found by folks using search engines, and is parsable by third parties using command line tools like cURL10.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>また、サーバーが描画するコンテンツを提供することは、サーチエンジンの利用者がそのコンテンツを見つけられること、またcURLなどのコマンドラインツールを使用するサードパーティが解析可能であることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s for all these reasons that Tantek Çelik11, cofounder of the IndieWeb movement, believes JavaScript-dependent static content is not in keeping with web design fundamentals.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>（脚注45）こうした理由から、？？IndieWeb？？ムーブメントの創始者の1人であるタンテック・チェリック（Tantek Çelik）は、JavaScript依存の静的コンテンツはWebデザインの基礎に則っていないと考えています。【コメント：定訳が確認できませんでした】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In short:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>要約すると以下のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“If it’s not curlable, it’s not on the web.” – “js;dr = JavaScript required; Didn’t Read12,” Tantek Çelik</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>「curlできなければ、Web上にはない」
+—「js;dr = JavaScript required; Didn’t Read」、タンテック・チェリック（Tantek Çelik）（脚注46）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When a site like smashingmagazine.com13 sends prerendered content to the client, I can print that content to my console using the curl command.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>smashingmagazine.comなどのサイトが、事前に描画されたコンテンツをクライアントに送る場合、curlコマンドを使用することで、自分のコンソールにそのコンテンツを出力できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If JavaScript was used to construct the content in the client, all I would see is the code for the outer web page, with its link(s) to the JavaScript which curl is unable to run.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>クライアントでコンテンツを構築するのにJavaScriptが使用されている場合、表示されるのはcurlを実行することができないJavaScriptへのリンクを持つ、外側のWebページのコードだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>curl https://www.smashingmagazine.com</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>curl https://www.smashingmagazine.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flesch-Kincaid Readability Tests</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>Flesch-Kincaidリーダビリティテスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In “A Paragraph” I offered some basic guidance on writing easily digestible body text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>「パラグラフ」では、理解しやすい本文テキストの書き方について、基本的なガイダンスを説明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now that we’re putting a few paragraphs together within a blog article, it’s probably a good time to review the readability of your content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>1つのブログ記事内にいくつかのパラグラフをまとめているところなので、コンテンツの読みやすさを見直すのに良いタイミングでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There are two tests you can perform on your content which assess word, sentence and paragraph length to determine the readability of your text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>コンテンツに対して実行できる、単語、文章、パラグラフの長さを評価してテキストの読みやすさを判定するテストは2つあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Flesch reading ease test gives you a score between 0 and 100 where a higher score means more easily readable and, therefore, more inclusive of different readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>Flesch Reading Easeテストでは、0～100点で評価されます。得点が高いほどより簡単に読める、つまりより多様な読者についてインクルーシブであるという意味です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Flesch-Kincaid grade level test is similar but produces a US school grade level.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>Flesch- Kincaid Grade Levelテストもこれと似ていますが、米国の学校の学年で評価します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The idea is that the younger the audience who can successfully read it, the more readable it is.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>より若い読者が読めるほど、より読みやすいという考え方です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here’s a summary from the tests’ Wikipedia page14:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>以下はこのテストのWikipediaページからの要約です。（脚注47）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Score</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>得点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>School Level</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>学年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>注釈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>90–100</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>90-100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>5th grade</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>5年生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Very easy to read.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>非常に読みやすい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Easily understood by an average 11-year-old student.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>平均的な11才の生徒が容易に理解できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>80–90</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>80-90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>6th grade</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>6年生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Easy to read.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>読みやすい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Conversational English for consumers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>会話に使われる英語。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>70–80</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>70-80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>7th grade</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>7年生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fairly easy to read.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>わりと読みやすい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>60–70</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>60-70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>8th &amp; 9th grade</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>8および9年生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Plain English.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>平易な英語。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Easily understood by 13- to 15-year-old students.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>平均的な13～15才の生徒が容易に理解できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>50–60</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>50-60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>10th to 12th grade</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>10～12年生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fairly difficult to read.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>わりと読みにくい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>30–50</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>30-50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>college</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>大学生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Difficult to read.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>読みにくい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>0–30</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>0-30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>college graduate</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>大学卒業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Very difficult to read.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>非常に読みにくい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Best understood by university graduates.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>大学卒業者が最も理解できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There are a number of tools to test your content against Flesch-Kincaid, including the TRAY readability tool15 (a Chrome browser extension) or, if you want something to run from the command line, I’ve created Readability Checker CLI16 — a Node.js CLI (command line interface).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>TRAYリーダビリティツール（脚注48）（Chromeブラウザ拡張）など、Flesch-Kincaidを基準としてコンテンツをテストするツールはいくつかあります。また、コマンドラインからテストを実行したい場合には、私が作成したReadability Checker CLI（脚注49）があります。これはNode.js CLI（コマンドラインインターフェイス）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Just install readability-checker globally and point it at a web page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>readability-checkerをグローバルにインストールして、Webページを指定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>npm i readability-checker -g
+
+readability http://your-site.com/about.html</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>npm i readability-checker -g
+readability http://your-site.com/about.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here’s what it will return:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>以下が返されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Flesch reading ease score (out of 100; higher means more readable).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• Flesch Reading Easeの得点（100点満点、高いほど読みやすい）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Notes about the score.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• 得点に関する注記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•A list of the longer words (more than four syllables).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• 長い単語のリスト（5音節以上）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•A list of the longer sentences (more than 35 words).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• 長い文章のリスト（36単語以上）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Recently, products like Tenon17 have begun to emerge: quality assurance tools focused on accessibility and inclusion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>最近、Tenon（脚注50）など、アクセシビリティとインクルーシブを焦点とした品質保証ツールの製品が登場しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Amid a maintenance-centric quality assurance culture largely designed by developers for developers, this is most welcome.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>開発者が主に開発者のためにデザインしてきた、保守を中心とする品質保証文化の中で、これは非常に歓迎すべきことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If poor code style like inconsistent indentation breaks a build, that’s one thing; but if a build breaks because the product is in danger of alienating a user?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>まず1つには、一貫しないインデントなど、お粗末なコードスタイルがあればビルドが壊れます。では、成果物がユーザーを疎外する危険があるためにビルドが壊れるとしたらどうでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All the better.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ますます結構なことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I see no reason why poor readability should not also be considered a point of failure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>読みやすさが劣っていることも1つの障害点とみなすべきだと私は思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note, however, that readability is rather subjective.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ただし、この読みやすさはかなり主観的であることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Scientific though a formula for determining readability may sound, you cannot rely on Flesch-Kinkaid tests alone.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>読みやすさを判定する公式は科学的であるように見えるかもしれませんが、Flesch-Kinkaidテストだけに頼ることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Use them as an early warning system to highlight potential issues, and test with real users as well.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これらは、潜在する問題を浮き彫りにするための早い段階での警告システムとして使用し、実際のユーザーでもテストしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Heading And Link Text</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>見出しとリンクテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you work as a front-end engineer, you are no doubt familiar with the virtues of modular design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>フロントエンドエンジニアであれば、モジュール式デザインの長所についてよくご存じでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By creating reusable modules (or components), you can develop more rapidly, with tried-and-tested code, and eliminate redundancy.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>再利用可能なモジュール（コンポーネント）を作成することで、十分に試行されたコードを使用して、より迅速に開発を進め、重複を避けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A good module has an independent purpose that can be lent seamlessly to a number of different contexts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>適切なモジュールには、多様なコンテキストでシームレスに役立つ、独立した目的があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For the purposes of inclusive design, sometimes our text has to have a certain autonomy as well.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>インクルーシブデザインでは、テキストにある程度の自律性が求められる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Take the following  heading as an example:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>以下の見出しを例にとってみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><it pos="begin" x="2">&lt;h2&gt;</it>Free, you say?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>無料ですって？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Then yes, please!<it pos="end" x="2">&lt;/h2&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>それでは、ください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the context of surrounding paragraph text, it is no doubt possible to infer what the heading is referring to.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>周囲のパラグラフテキストのコンテキストがあれば、見出しが何を指しているか推測することは間違いなく可能でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, reading from the previous section into this one, you’d have a good idea of what is free.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>つまり、前のセクションからこのセクションへ読み進めることで、何が無料なのかが分かるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But this isn’t much help in a table of contents, listing headings outside of body text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>しかし、本文テキストの外側に見出しをリストした目次ではそういうわけにはいきません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What’s free?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>何が無料なのでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Direct, descriptive headings clarify the ensuing content, which aids comprehension across the board.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>直接的で分かりやすい見出しは、それに続くコンテキストを明確にし、全体的な理解も助けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In other words, being cryptic or whimsical doesn’t get you very far!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>つまり、もったいぶった見出しや風変わりな見出しに、あまりメリットはないのです！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There’s also a specific implication for screen reader users: screen readers tend to catalog headings dynamically and offer them as a list to choose from.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>さらに、スクリーンリーダーユーザーにとってはある意味合いがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For instance, in NVDA, I can open the Elements List dialog with Insert + F7 and browse a list of headings on the page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>スクリーンリーダーは、動的に見出しをカタログ化し、選択できるリストとして提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Running VoiceOver you can open the rotor (Ctrl + Option + U on Mac OS X) and see headings listed in a similar fashion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>たとえば、NVDAでは、Insert + F7キーで＃＃Elements List＃＃ダイアログを開き、ページの見出しのリストを見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Accordingly, the following heading content would be of greater utility (at least if this section of the blog article is indeed about flapjacks, otherwise it would be rather misleading!).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>VoiceOverでは、ローター（Mac OS X上でCtrl + Option + U）を開いて、同じようにリストされた見出しを見ることができます。したがって、以下の見出しコンテンツの方がずっと便利でしょう。（少なくともブログ記事のこのセクションが本当にフラップジャックに関するものであれば。そうでなければ誤解を招きます！）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><it pos="begin" x="2">&lt;h2&gt;</it>Free flapjacks, you say?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>フラップジャックが無料ですって？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Yes, please!<it pos="end" x="2">&lt;/h2&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Obnoxious Link Labels</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>不快なリンクラベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Links, like headings, are made available as a list in NVDA’s elements dialog, and other screen readers aggregate them in a similar fashion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>見出しと同じく、リンクもNVDAの要素ダイアログにリストとして提供されます。他のスクリーンリーダーもこれらを同じような形で集約します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Like headings, link text should be autonomously meaningful.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>見出しと同様に、リンクテキストもそれ自体で意味が分かるようにすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You may have encountered the habit of bloggers using runs of inline links like so:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>以下のように、インラインリンクを点々と使用する癖のあるブロガーを見たことがあるのではないでしょうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I have a lot of support to back up my amazing ideas!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>？？私の素晴らしいアイデアには、これを支える多 く の裏付けがある。？？【コメント：英語のままにするか迷いました。原文「I have a lot of support to back up my amazing ideas!」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cute, but each link has an entirely meaningless label when taken out of context, not to mention that even read sequentially “a link lot link of link” doesn’t tell us anything useful.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>かわいらしいですが、コンテキストから取り出してみると、各リンクには、まったく意味のないラベルが付いています。順番に「？？多リンクくリンクのリンク？？」と読んでも、何も分からないことは言うまでもありません。【コメント：上の例文に合わせて日本語にしましたがこれで問題ないでしょうか。原文「a link lot link of link」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition, it’s not always clear visually that there are separate links present.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>加えて、個別のリンクが存在することが、視覚的にも明確であるとは限りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That depends on you identifying breaks in the underline.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>アンダーラインの途切れが発見（認識）されるかどうかにかかっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s even worse if you haven’t actually provided a link underline.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>実際にリンクアンダーラインを提供していなければ、もっと悪いことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you’re going to cite the work of other authors, the polite thing to do is mention their works by name.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>他の著者の著作物を引用するのであれば、名前でこれに言及するのが礼儀です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The links in the following example all indicate where they actually take you, and the commas — plus the “and” — help to separate them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>以下の例のリンクはすべて、実際のリンク先の場所を示しており、？？読点と「そして」？？がそれぞれを区別するのに役立っています。【コメント：次の例文を日本語にしたのでそれに合わせた記述にしました。英語のままにするなら「コンマと「and」」となります。原文「commas — plus the “and” —」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I have a lot of support to back up my amazing ideas, including Why Heydon Is Right by John Thoughtleader, In Support Of Heydon by Jane Unicornfield, and When Heydon Talks It’s Like He Vomits Fragrant Rainbows by Harry Surname.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>私の素晴らしいアイデアには、これを支える多くの裏付けがある。たとえば、John Thoughtleader氏の「WhyHeydon Is Right」、JaneUnicornfield氏の「In Support Of Heydon」、そしてHarrySurname氏の「WhenHeydonTalks It’s Like HeVomitsFragrantRainbows」などだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Video</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ビデオ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As a writer, it is the differentiation and clarification of runs and blocks of words that still excites me most about HTML, old news though this basic feature is.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>？？ライターの私がHTMLについて今でも最もワクワクするのは、単語の並びや塊を差別化および明確化することです。この基本的な機能は目新しいものではありませんが。？？【コメント：不安訳です。原文「As a writer, it is the differentiation and clarification of runs and blocks of words that still excites memost about HTML, old news though this basic feature is.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But I appreciate that not everyone is a confident writer or an avid reader.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>しかし、すべての人が自信あふれるライターや熱心な読者であるわけではないということは理解しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The addition of images, sound and video to blog posts gives color and variety to content, as well as providing more options to those with different abilities and preferences, or in different circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>画像、サウンド、ビデオをブログ記事に加えることで、コンテンツに色や多様性が加わるだけでなく、さまざまな能力や好みを持つ人たち、または多様な環境にいる人たちに、より多くの選択肢を提供できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Take video.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ビデオを例にとりましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sometimes it’s just better to be shown rather than told about how something works.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>何かの仕組みを伝えるとき、言葉で説明するよりも、見せた方が良い場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s simply a better way of learning certain things.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これは何かを学ぶのに良い方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Other times I might want to be told but not shown, because I need to be looking at something different at the same time.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>また、同時に何か他の物を見る必要があるために、見せられるのではなく、言葉で説明して欲しいときもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, while I’m working on a visual design for something, I might want to simultaneously listen to the dialog from a conference talk video.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>たとえば、何かの視覚デザインに取り組みながら、同時にカンファレンスのトークビデオの会話を聞き取りたいと思うことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On a bus, and without a set of headphones handy, I might want to be shown and told, but without blaring audio at my fellow passengers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>バスに乗っていて、ヘッドフォンもないときに、見ながらトークを聞きたいけれど、他の乗客の前で大きな音を鳴らすことは避けたいという場合もあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Furthermore, watching speakers in the video with captions also available can assist me as a non-native speaker.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>さらに、キャプション付きのビデオで話し手を見られれば、ネイティブスピーカーでない人の助けになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A well-captioned video is just the ticket.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>良いキャプションの付けられたビデオなら、まさにおあつらえ向きです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Of course, having captions also caters for those who are deaf and hard of hearing, but not just them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>もちろん、キャプションがあれば、聴力に問題のある人たちの役に立ちます。でもそれだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s better to see captions as simply “another way to consume the same content.” Then you get a better idea of just how many people can make use of them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>「同じコンテンツを利用するもう1つの方法」として、キャプションが見られた方が良いのです。そう考えると、どれだけ多くの人が利用できるかよく分かるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But captions are only available if the video itself can be downloaded or streamed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>しかし、キャプションはビデオそのものをダウンロードまたはストリーミングできる場合にしか利用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is why video that contains dialog should always be accompanied by a transcript.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>このため、会話を含むビデオには常にトランスクリプトを付けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A video blog post should feature the video prominently, but provide a transcript of the video underneath it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ビデオブログ記事では、ビデオを目立つように表示すべきですが、その下にビデオのトランスクリプトを提供した方が良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here are a few pointers on posting videos.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>以下は、ビデオをポストするときのアドバイスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Player</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>プレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Make sure the video player is keyboard and screen reader accessible.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ビデオプレイヤーがキーボードおよびスクリーンリーダーでアクセスできることを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The fastest way to know if a player is worthy of your use is to try tabbing into it with your keyboard.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>プレイヤーが使用にふさわしいかどうか見極める最も迅速な方法は、キーボードでプレイヤーにタブを移動してみることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you find focus bypasses the player altogether, then game over.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>フォーカスがプレイヤーを飛ばしてしまう場合はゲームオーバーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Retreat.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>そのプレイヤーはやめて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Find another player.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>別のプレイヤーを探しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Second prize for Worst Keyboard Accessibility Implementation goes to players which you can tab into and use, but without any visual feedback.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>キーボードアクセシビリティ実装のワースト第2位は、タブでアクセスして使用できるけれども、視覚的なフィードバックが一切ないものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Remember the “Indicating Focus” section in the last chapter?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>前章の「フォーカスを示す」を思い出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In short: no focus styles, no good.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>簡単に言うと、フォーカススタイルがないのはダメです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That said, if the various player controls are implemented in HTML and CSS and you can provide your own focus styles, the player may be salvageable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ただし、さまざまなプレイヤーコントロールがHTMLとCSSに実装されていて、自分なりのフォーカススタイルを提供できれば、そのプレイヤーは救いようがあるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, if it’s screen reader accessible too.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>それは、そのスクリーンリーダーもアクセスできることが条件です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To get up and running with screen reader testing, I recommend you do the following:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>スクリーンリーダーのテストを開始するには、以下を行うことをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Install the free NVDA screen reader18 for Windows.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• Windowsの場合、無償のNVDAスクリーンリーダー（脚注51）をインストールする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Run it with Firefox exclusively (for maximum compatibility).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• これをFirefoxのみで実行する（互換性を最大にするため）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Watch this excellent video introduction from Deque Systems19.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• Deque Systems（脚注52）のこの素晴らしいビデオ紹介を見る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Refer to this list of NVDA keyboard commands20 from WebAIM.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• WebAIMで、NVDAキーボードコマンド（脚注53）のリストを参照する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Remember that your experience as a screen reader user will differ dramatically from blind users, who have dramatically different strategies even among themselves.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• 皆さんのスクリーンリーダーユーザーとしての体験は、視覚障害者の体験とは劇的に異なるものになることに注意する。視覚障害者の中でも方策はそれぞれ非常に異なります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Refer to the responses of my screen reader survey21 to gain an impression of the diversity.)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>（私のスクリーンリーダー調査（脚注54）の回答を見ると、その多様性が分かります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Alternatively, if you are a Mac user, simply press Cmd + F5 to activate the built in VoiceOver screen reader and follow along with the tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>Macユーザーの場合は、代わりにCmd + F5を押して、組み込みのVoiceOverスクリーンリーダーをアクティブにし、チュートリアルに従ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Make sure you use VoiceOver with Safari for the most reliable experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>体験の信頼性を最大にするため、VoiceOverは必ずSafariで使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fortunately, testing an interactive widget like a video player doesn’t require a working knowledge of the vast array of keyboard commands offered in NVDA and other readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>幸いなことに、ビデオプレイヤーなどのインタラクティブなウィジェットをテストするのに、NVDAやその他のリーダーで提供されている膨大なキーボードコマンドに関する実用的な知識は必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Just tab to the controls as you would when testing keyboard support and listen for aural feedback.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>キーボードサポートをテストするときは、ただコントロールにタブを移動し、音声フィードバックを聞きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For instance, the play button should say “Play button” (or similar) when focused, or “Pause button” if the video is already playing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>たとえば、再生ボタンにフォーカスを合わせると「再生ボタン」（または似たような音声）、ビデオがすでに再生中の場合は「一時停止ボタン」、といった具合に読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Of course, you should make sure the button can indeed be switched from a press-to-play to a press-to-pause state.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>もちろん、ボタンが実際に再生と一時停止の状態を切り替えられるかどうかも確認しなくてはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This should work by pressing either the Space or Enter keys whether or not a screen reader is running.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これは、スクリーンリーダーが実行されているかどうかに関わらず、SpaceキーまたはEnterキーを押すことで機能するはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Recommended Players</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>お勧めのプレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•YouTube’s embeddable player</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• YouTubeの埋め込みプレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Able Player22</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• Able Player（脚注55）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Accessible HTML5 Video Player23 (from PayPal)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• AccessibleHTML5Video Player（脚注56）（PayPal）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Accessible and Responsive HTML5 Video Player24 (by Laura Kalbag)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• Accessible and Responsive HTML5 Video Player（脚注57）（Laura Kalbag）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Closed Captions</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>クローズドキャプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Closed captions are captions which exist in a separate, associated file and can be switched on or off by the user, rather than being embedded into the video itself.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>クローズドキャプションは、ビデオ自体には埋め込まれていないキャプション（字幕）で、関連付けられた別のファイルに存在しており、ユーザーがオンとオフを切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can manually add caption files to HTML5 &lt;video&gt;25 using a WebVTT file26 as the src of a &lt;track&gt; element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>WebVTTファイル（脚注59）を&lt;track&gt;要素のsrcにすることで、HTML5 &lt;video&gt;（脚注58）に手動でキャプションファイルを追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But the easiest way (that I’m aware of) to compose closed captions is to use YouTube’s intuitive GUI, for which Google offers a help page27 to get you started.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>しかし、クローズドキャプションを作成する最も簡単である（と私が感じている）方法は、YouTubeの直感的なGUIを使用することです。Googleが、その使い方を説明したヘルプページ（脚注60）を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There are certain conventions you should follow when writing captions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>キャプションを書くときは、従うべき規則があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The most important of these are to identify:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>中でも最も重要なのが以下の特定です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Changes of speaker</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>1.話し手の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Background/incidental sound</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>2.背景音／偶発的な音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Speaker Identification and Sound Effects</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>話し手の特定とサウンドエフェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s say our video involves two men called Simon and Rupert.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ビデオにサイモン（Simon）とルパート（Rupert）という2人の男性が登場するとしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They’re sitting at a table in a pub.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>2人はパブで席に座っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Simon begins the conversation by claiming that the daddy long-legs spider28 has the world’s most poisonous venom and continues to describe how the spider is, nevertheless, harmless because its teeth are not strong enough to pierce human skin.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>サイモンが、ユウレイグモ（脚注61）は世界で最も強い毒を持っていると話し、会話を始めます。続けて彼は、とは言え、そのクモの歯は人間の肌を刺せるほど強くないため害はない、と説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He means fangs, of course.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>もちろん彼は毒牙のことを言っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Imagine a spider with teeth!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>歯があるクモを想像してみてください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the following illustration, I’ve chosen to identify the speaker with their name written in capital letters.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>以下の図では、大文字で名前を書くことによって、話し手を特定することにしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is not the only way to identify speakers, but whatever convention you use, make sure it is consistent.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これが話し手を区別する唯一の方法ではありませんが、どんな決まりを使う場合でも、必ず一貫したものにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that the name is not needed for the second caption as the speaker has not changed. Two frames.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>話し手が変わっていないため、2番目のキャプションには名前は不要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the first frame the left speaker is identified in the caption using an all-caps name followed by a colon. </seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rupert is aware that this factoid is just an internet rumor and interjects to correct Simon on his false claim29.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ルパートは、この擬似事実が単なるインターネット上の噂であると知っていて、彼の間違った主張を正すため、サイモンの話を遮ります。（脚注62）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since Rupert is a new speaker, he must be identified.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ルパートが新しい話し手であるため、彼を特定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We use the same convention. Two frames.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これには先ほどと同じ規則を使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the first one the left speaker is talking. In the second, the right speaker interjects and is identified by his all-caps name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Before Rupert can finish his sentence, the two speakers are interrupted by a loud crash as the barman drops a glass (out of frame).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ルパートが話し終わる前に、バーテンダー（barman）がグラスを落としたため（フレーム外）、2人の話は遮られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Often, the description of such a noise is both in caps and bookended by [ and ] (square brackets).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>多くの場合、このような雑音の説明はキャプションと[ ]（角括弧）で囲むことによって示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The barman immediately apologizes.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>バーテンダーは、すぐに謝ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I identify that he is out of frame by prefixing a greater-than symbol.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>私は彼がフレーム外にいることを、大なり記号を先頭に付けることで示しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Two frames.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the first, the two speakers are wincing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The caption is in square brackets and reads ‘GLASS BREAKING.’ In the second, an out-of-shot speaker identified as BARMAN says ‘Sorry about that!’</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The BBC provides extensive guidelines30 on different options to identify speakers, announcements, sounds, music, and much more.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>BBCは話し手、アナウンス、音、音楽などを示すためのさまざまな方法について広範なガイドラインを提供しています。（脚注63）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Transcript</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>トランスクリプト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The transcript would form the main textual content of your video posting.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>トランスクリプトは、ビデオポストのメインのテキストコンテンツを形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sometimes it’s easier to write the transcript first, then turn the transcript into captions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>先にトランスクリプトを書き、それをキャプションに変えた方が楽な場合もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In any case, it should take the form of a linearized version of the captions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>どちらにしても、キャプションを直線的にした形をとります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The only substitution I have made, for clarity where there is no visual context, is that the barman is identified as being out of shot:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ここで行った唯一の置き換えは、視覚的なコンテキストがない状態で明確に伝えるために、バーテンダーがショットの外側にいると示したことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SIMON: “Did you know the daddy long-legs spider is the most poisonous creature in the world?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>SIMON: 「ユウレイグモが世界で一番強い毒を持つ生き物だって知っていた？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The thing is, though, they can’t bite you because their teeth are too weak.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>だけど実際は、歯が弱すぎて人は噛めないんだ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>RUPERT: “Well, actually—”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>RUPERT: 「ええと、本当は…」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>[GLASS BREAKING]</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>[グラスの割れる音]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>BARMAN (out of shot): “Sorry about that!”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>BARMAN（ショット外）：「失礼しました！」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Establishing A Flow System</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>フローシステムの確立</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inclusive web design isn’t just about providing robust, accessible experiences for users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>インクルーシブなWebデザインの目的は、ユーザーに堅牢でアクセシブルな体験を提供することだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s also about facilitating and easing the contribution of content by site owners and editors.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>サイトのオーナーや編集者の役割を容易化することも目的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Like a grid system, a flow system uses CSS to manage layout.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>グリッドシステムと同じく、フローシステムはCSSを使用してレイアウトを処理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlike a grid system, a flow system deals with the relations between flow elements which appear one after another in a single column — headings, paragraphs, lists, images, videos, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>グリッドシステムとは異なり、フローシステムは、1つのカラムに順々に表示される、見出し、パラグラフ、リスト、画像、ビデオなどのフロー要素間の関係を処理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A good flow system produces a regular, well-spaced, readable procession of elements regardless of their order and combination.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>優れたフローシステムは、順序や組み合わせに関わらず、規則的で十分な間隔があり、読みやすい要素の連続を生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This gives editors the freedom to just go ahead and write.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これにより、編集者は自由に書くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Everything Divisible by line-height</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>すべてはLINE-HEIGHTで分割できる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though a strict vertical rhythm31 is notoriously tough to establish and maintain, it’s good practice to at least use your paragraph line height as a basis for vertical spacing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>厳密なバーティカルリズム（脚注64）は確立や維持が難しいことで知られていますが、少なくとも縦の間隔のベースとしてパラグラフの行高さを使用すると良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So, if paragraphs have a line-height of 1.5, one unit of vertical whitespace should be 1.5em.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>つまり、パラグラフのline-heightが1.5の場合、縦の空白の1単位を1.5remにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To enforce a regularity independent of the flow elements incorporated in the editor’s WYSIWYG or Markdown editor, this basic spacing should be applied generally, with just a few exceptions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>編集者のWYSIWYGエディタまたはMarkdownエディタに組み込まれたフロー要素に関係なく規則的にするために、少数の例外を除き、この基本の間隔を全体に適用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>main * + * { margin-top: 1.5rem;
+}
+
+li, dt, dd, br, th, td { margin-top: 0;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>main * + * {
+margin-top: 1.5rem;
+}
+li, dt, dd, br, th, td {
+margin-top: 0;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note the use of the owl selector32 in the first line.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>最初の行でowlセレクタ（脚注65）が使用されていることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This ensures that top margins only occur between successive elements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これにより、上余白は後続の要素との間にのみ発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If instead we applied margin directly to elements, there would be the danger of it doubling up with the padding of containers:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>代わりに余白を要素に直接適用した場合、コンテナのパディングと二重になる危険があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.container { padding: 1.5rem;
+}
+
+.container p { margin-top: 1.5rem;
+}
+
+/* visible space inside top of .container would now be 3em */</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>.container {
+padding: 1.5rem;
+}
+.container p {
+margin-top: 1.5rem;V
+}
+/* .containerの上部内に表示されるスペースが3remになります*/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Grouping and Separation</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>グループ化と分離</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Currently, every flow element is separated by the same 1.5em margin, with a few exceptions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>現在、いくつかの例外を除いて、すべてのフロー要素は同じ1.5remの余白で区切られています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>List items (&lt;li&gt;s) do not take margin at all and consequently look grouped together.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>リスト項目（&lt;li&gt;）は余白をまったく取らないため、グループ化されているように見えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So they should: for the sake of comprehension on the part of the reader, related elements should be visually proximate.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>リスト項目はこうあるべきです。読者側の理解を助けるために、関連する要素を視覚的に近似させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By changing the unit of measurement from rem to em, we can achieve a similar effect for subsections of content within our blog: a margin set in em on a heading will be relative to its own font size.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>サイズの単位をremからemに変更することで、ブログ内のコンテンツのサブセクションの場合と同じような効果を作成できます。つまり、emで設定した見出しの余白は、それ自体のフォントサイズと相対的になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since heading text is larger than body text, this means the heading will appear closer to the content introduced below it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>見出しテキストは本体テキストよりも大きいため、見出しは下に続くコンテンツの方に近づいた見た目になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>* + h2,
+* + h3 { /* em, not rem, now */ margin-top: 1.5em;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>* + h2,
+* + h3{
+/* 今度はremではなくem*/
+margin-top: 1.5em;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To separate supplementary content such as blockquotes and illustrations from the paragraph text, you can apply a greater margin for anything that isn’t a &lt;p&gt;:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>引用やイラストなどの補足的なコンテンツをパラグラフテキストから分離するには、以下のように&lt;p&gt;以外のすべてで余白を大きくします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>main * + *:not(p) { margin: 3rem 0;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>main * +*:not(p) {
+margin: 3rem 0;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To maintain vertical rhythm, a multiple of our paragraph line height is used (1.5 × 2 = 3).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>バーティカルリズムを維持するため、パラグラフの行高さの倍数を使用します（1.5 × 2 = 3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that the standard 1.5rem top margin of the element following will be superseded, resulting in a 3rem margin as prescribed both above and below the element in question.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>要素の標準の1.5remの上余白の代わりに、要素の上下両方で余白が所定の3remとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is thanks to collapsing margin behavior33.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これは、マージンの相殺のおかげです。（脚注66）
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The editor can insert a &lt;blockquote&gt;, &lt;figure&gt;, &lt;audio&gt; or any other element and the spacing will still communicate a break from the prose.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>編集者は、&lt;blockquote&gt;、&lt;figure&gt;、&lt;audio&gt;またはその他の要素を挿入でき、間隔が文章の小休止を伝えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Boxes of content.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Successive paragraphs have less margin between them than paragraphs and other elements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>連続するパラグラフでは、パラグラフとその他の要素の間に比べて、間の余白が小さくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In CSS, there’s little more inclusive than the universal (star) selector.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>？？CSSでは、ユニバーサルセレクタ（*）よりもう少しインクルーシブです。？？【コメント：この解釈で問題ないでしょうか。原文「InCSS,there’slittlemoreinclusivethantheuniversal(star) selector.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It can help us manage content and its interrelationships inclusively.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これは、コンテンツとその相互関係をインクルーシブに管理するのに役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Note on Defensive Coding</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>防御的なコーディングについて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’ve always found the term WYSIWYG (what you see is what you get) a bit misleading, since WYSIWYG editors almost invariably have a habit of leaving lots of undesired, invisible junk in the source.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>WYSIWYG（what you see is what you get：？？最終的なアウトプットのスタイルのまま編集できる？？）という言葉が少し誤解されているのをよく目にします。【コメント：補足しました】WYSIWYGエディタでは、ほぼ必ず、ソース内に不要な非表示のゴミがたくさん残ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- ad infinitum --&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- 際限なく続く--&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In some circumstances this can have an impact on the spacing and vertical rhythm of the rendered content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>特定の環境で、これは表示されるコンテンツの間隔やバーティカルリズムに影響することがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We can employ some defensive coding here to remove empty elements from the flow.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ここでは防御的なコーディングを採用して、フローから空の要素を取り除きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The display:none; declaration eliminates the element’s layout, including any margins attributed to it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>display:none;宣言は、要素のレイアウト（それにより発生する余白を含む）を非表示にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>main :empty { display: none;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>main :empty {
+display: none;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In general, it’s best to encourage the creation of semantic, well-structured content with a syntax like Markdown34 or Textile35.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>一般に、Markdown（脚注67）やTextile（脚注68）のような構文を使用して、セマンティックで十分に構造化されたコンテンツを作成することを推奨するのがベストです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They offer a simple syntax which corresponds to semantic HTML elements such as headings and list items.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これらは見出しやリスト項目などのセマンティックなHTML要素に対応するシンプルな構文を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where needed, most editors (like the Penflip36 editor used to write this book) also allow raw HTML input, meaning editors versed in HTML have the option to add more complex content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>必要に応じて、ほとんどのエディタ（本書の執筆に使用したPenflip（脚注69）エディタなど）で未加工のHTMLを入力できます。これは、HTMLに詳しい編集者には、より複雑なコンテンツを追加する選択肢があるということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In lieu of training editorial staff to make the switch to structured content and to patch legacy WYSIWYG-based systems, a defensive strategy can help reduce headaches.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>編集スタッフに、構造化されたコンテンツへの切り替えや、レガシーなWYSIWYGベースのシステムにパッチを適用する方法を教育する代わりに、防御的な戦略をとれば、頭痛も和らぐでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Time spent fixing layout bugs when entering content is wasted time and contributes to a frustrating and alienating editorial experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>コンテンツの入力時にレイアウトのバグを修正するのに費やす時間は無駄であり、編集体験をストレスのたまるとっつきにくいものにする原因となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>まとめ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the conception of our blog post pattern, I covered one of the most fundamental aspects of inclusive design: structure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>ブログ記事パターンの構想の中で、インクルーシブデザインの最も基本的な側面である、構造について説明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By incorporating accessible landmarks and a sound section structure, the content — blog post or otherwise — becomes more navigable and interoperable by a diversity of users and parsers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>アクセシブルなランドマークと音声セクション構造を組み込むことで、ブログ記事やその他のコンテンツは、多様なユーザーやパーサーがナビゲートしやすいものになり、相互運用性が向上します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is bolstered by giving well-written and context-independent structural and navigational cues.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これは、適切に書かれた、コンテキスト非依存の構造およびナビゲーションの手掛かりを提供することでさらに強化されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We then moved on to supplementing this robust structure with additional media such as video.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>さらに、この堅牢な構造を、ビデオなどの追加のメディアで補完する方法も説明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not just one structure but an infinite number of legitimate configurations of body text, headings and media elements were catered for in our robust and inclusive CSS flow system.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>私たちの堅牢でインクルーシブなCSSフローシステムでは、本文テキスト、見出し、およびメディア要素の適切な構成が、1つではなく無限に提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This ensured that editors would be able to write freely without having to worry about breaking the visual design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>これにより、編集者は視覚的なデザインを壊すことを心配せずに、自由に書くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Things to Avoid</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>避けるべきこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•A lack of navigable, structural cues or bypass blocks37 like landmarks and headings.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• ランドマークや見出しなど、ナビゲート可能な構造的な手掛かりやブロックのバイパスがない。（脚注70）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Whimsical, cryptic or partial labels for headings and links.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• 見出しやリンクに風変わりなラベルやもったいぶったラベル、または部分的なラベルを付ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•CSS margin declarations not tolerant of and reactive to changing contexts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• コンテキストの変更に対して敏感で、寛容ではないCSSの余白の宣言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Making your static content site dependent on client-side JavaScript.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>• 静的なコンテンツサイトをクライアント側のJavaScriptに依存させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.http://www.heydonworks.com/article/flexbox-grid-finesse 2.http://www.heydonworks.com/article/screen-reader-strategy-survey 3.https://www.paciellogroup.com/blog/2013/10/html5-document-outline/ 4.https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup#Browser_compatibility 5.https://www.paciellogroup.com/blog/2015/01/the-browser-accessibility-tree/ 6.https://www.smashingmagazine.com/2011/08/html5-and-the-document-outlining-algorithm/ 7.https://www.paciellogroup.com/blog/2013/10/html5-document-outline/ 8.https://www.youtube.com/watch?v=CUkMCQR4TpY 9.https://gds.blog.gov.uk/ 10.https://curl.haxx.se/docs/httpscripting.html 11.http://tantek.com/ 12.http://tantek.com/2015/069/t1/js-dr-javascript-required-dead 13.https://www.smashingmagazine.com/ 14.https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests 15.https://chrome.google.com/webstore/detail/tray-readability-tool/eccbjfaplogblgjpopbihpgfgmlgjamf?hl=en-GB 16.https://github.com/Heydon/readabilityCheckerCLI 17.http://tenon.io/ 18.http://www.nvaccess.org/ 19.http://www.deque.com/blog/accessibility-testing-nvda-screenreader/ 20.http://webaim.org/resources/shortcuts/nvda 21.http://www.heydonworks.com/article/responses-to-the-screen-reader-strategy-survey 22.https://ableplayer.github.io/ableplayer/ 23.https://github.com/paypal/accessible-html5-video-player 24.https://ind.ie/blog/accessible-video-player/ 25.https://www.sitepoint.com/comprehensive-look-html5-track-element/ 26.https://w3c.github.io/webvtt/#styling 27.https://support.google.com/youtube/answer/2734796?hl=en-GB 28.https://en.wikipedia.org/wiki/Pholcidae 29.http://www.livescience.com/33625-daddy-longlegs-spiders-poisonous.html 30.http://bbc.github.io/subtitle-guidelines 31.http://blog.8thlight.com/chris-peak/2012/12/30/vertical-rhythm.html 32.http://alistapart.com/article/axiomatic-css-and-lobotomized-owls 33.https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing 34.https://en.wikipedia.org/wiki/Markdown 35.http://txstyle.org/ 36.https://www.penflip.com/ 37.https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip.html</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170203T044352Z">
+        <seg>36 http://www.heydonworks.com/article/flexbox-grid-finesse
+37 http://smashed.by/srsurvey
+38 http://smashed.by/html5doc
+39 http://smashed.by/hgroup
+40 http://smashed.by/a11ytree
+41 http://smashed.by/html5outline
+42 http://smashed.by/html5doc
+43 https://www.youtube.com/watch?v=CUkMCQR4TpY
+44 https://gds.blog.gov.uk/
+45 https://curl.haxx.se/docs/httpscripting.html
+46 http://tantek.com/2015/069/t1/js-dr-javascript-required-dead
+47 http://smashed.by/flesch
+48 http://smashed.by/tray
+49 https://github.com/Heydon/readabilityCheckerCLI
+50 http://tenon.io/
+51 http://www.nvaccess.org/
+52 http://smashed.by/nvdatesting
+53 http://webaim.org/resources/shortcuts/nvda
+54 http://smashed.by/srsurvey
+55 https://ableplayer.github.io/ableplayer/
+56 https://github.com/paypal/accessible-html5-video-player
+57 https://ind.ie/blog/accessible-video-player/
+58 http://smashed.by/html5track
+59 https://w3c.github.io/webvtt/#styling
+60 https://support.google.com/youtube/answer/2734796?hl=en-GB
+61 https://en.wikipedia.org/wiki/Pholcidae
+62 http://smashed.by/livescience
+63 http://bbc.github.io/subtitle-guidelines
+64 http://smashed.by/verhythm
+65 http://alistapart.com/article/axiomatic-css-and-lobotomized-owls
+66 http://smashed.by/cssbox
+67 https://en.wikipedia.org/wiki/Markdown
+68 http://txstyle.org/
+69 https://www.penflip.com/
+70 http://smashed.by/navskip</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
