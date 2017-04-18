@@ -53,11 +53,12 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) レイアウトのエラーというのは日本語として変な感じがします。直訳すると、「レイアウトとインタラクションが誤りやすい予測できない状態になりうる」ということで、ひっくるめて「不安定になる」くらいかなと思います。</note>
       <tuv lang="EN-US">
         <seg>Layout and interaction can become error-prone and unpredictable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170418T103159Z" creationid="yoota" creationdate="20170418T103159Z">
-        <seg>その場合、レイアウトやインタラクションのエラーが起こるなど、予測不可能な動作が生じる可能性があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T103643Z" creationid="yoota" creationdate="20170418T103159Z">
+        <seg>その場合、レイアウトやインタラクションの動作が不安定になることがあります。</seg>
       </tuv>
     </tu>
     <tu>
