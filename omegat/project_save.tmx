@@ -89,12 +89,17 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 文書型とすべき?</note>
+      <note>(太田) DOCTYPEは大文字にしたいです。HTML仕様では大文字表記です。
+https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
+文書型とすべきかどうか悩みましたが、HTML5はSGMLではないため、もはやDOCTYPEに文書型宣言の意味はありません。それをふまえると、下手に文書型と訳したりしないほうが良いように思いました。
+
+以下マニアックな訳注案 (たぶん不要):
+HTML4のDOCTYPEはSGMLの文書型宣言(Document type declaration)だったのですが、HTML5はSGMLではないため、DOCTYPEはSGMLの文書型宣言ではありません。ブラウザの互換性の観点から &lt;!DOCTYPE html&gt; という文字列を書いているに過ぎず、仕様でも単に "DOCTYPE" と呼ばれています。</note>
       <tuv lang="EN-US">
         <seg>The Doctype</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170418T082703Z" creationid="yoota" creationdate="20170418T082703Z">
-        <seg>Doctype</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T105335Z" creationid="yoota" creationdate="20170418T082703Z">
+        <seg>DOCTYPE</seg>
       </tuv>
     </tu>
     <tu>
