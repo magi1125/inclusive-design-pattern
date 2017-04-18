@@ -37,6 +37,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「ドキュメント」と言われても分かりにくいかもしれません。この章は主にhead内のmetaやhtmlのlangなど、ドキュメント全体の作り方の話をしています。「ドキュメント全体」のようにしたほうが良いかもしれません。</note>
+      <tuv lang="EN-US">
+        <seg>The Document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T080813Z" creationid="yoota" creationdate="20170418T080813Z">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 何が言いたいのか良くわからない印象です。configureを「作る」としていますが、設定するという話なのではないでしょうか (この章では、meta情報などをいい感じに設定する話をしています)。
 いかにも翻訳っぽい文章なのでもう少し砕きたいかも。</note>
       <tuv lang="EN-US">
