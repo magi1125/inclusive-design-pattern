@@ -43,6 +43,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>(太田) doctype declarationは「文書型宣言」あるいは「DOCTYPE宣言」かと思います。いったん後者にしました。
+In addition を「その上」とすると前からのつながりがおかしいように思います。</note>
+      <tuv lang="EN-US">
+        <seg>In addition, the &lt;e0&gt;omission&lt;/e0&gt; of the aforementioned doctype declaration can result in unexpected and broken behavior for users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T101638Z" creationid="yoota" creationdate="20170418T101638Z">
+        <seg>その上、前述したDOCTYPE宣言を&lt;e0&gt;省略&lt;/e0&gt;してしまうと、ユーザーにとって予期せぬ異常な動作が生じる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 若干誤訳っぽいです。支援技術を使うのと同じように、さまざまな設定ができる、という話かと。</note>
       <tuv lang="EN-US">
         <seg>Never forget that the browser itself is an interface, which can be augmented and configured in a number of ways by the user — as well as helping interpret the content you provide for third-party assistive technologies like screen readers.</seg>
