@@ -36,6 +36,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>(太田) DOCTYPEを大文字にしました。前のところではドキュメントタイプと訳されていたのにここはそのままなんですね……。
+「必ず最初に」は硬い印象があったので「まっさきに」としました。</note>
+      <tuv lang="EN-US">
+        <seg>If things get plain odd when testing a web page, I always check for a doctype before trying anything else.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T103829Z" creationid="yoota" creationdate="20170418T103829Z">
+        <seg>Webページのテスト時におかしなことが起きたら、私はまっさきにDOCTYPEを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>テストメモ
 太田: OmegaTでチーム編集するテスト</note>
       <tuv lang="EN-US">
@@ -50,6 +60,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T101638Z" creationid="yoota" creationdate="20170418T101638Z">
         <seg>その上、前述したDOCTYPE宣言を&lt;e0&gt;省略&lt;/e0&gt;してしまうと、ユーザーにとって予期せぬ異常な動作が生じる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve been stung too many times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T104045Z" creationid="yoota" creationdate="20170418T104045Z">
+        <seg>それで何度も痛い目にあってきましたから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -107,6 +125,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T083829Z" creationid="yoota" creationdate="20170418T083733Z">
         <seg>その証拠に、コードの先頭の行には "DOC" という文字列が出現します。&lt;c0&gt;&lt;!DOCTYPE html&gt;&lt;/c0&gt; ですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lang Attribute</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T104051Z" creationid="yoota" creationdate="20170418T104051Z">
+        <seg>lang属性</seg>
       </tuv>
     </tu>
     <tu>
