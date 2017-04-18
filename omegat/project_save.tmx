@@ -123,9 +123,13 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) subsidiaryをどう訳すかは要検討。下の画像を見ると分かりますが、ヘイドンさんはブラウザウィンドウが持つインターフェイスに対して、コンテンツが持つインターフェイスを subsidiary interface と呼んでいます。</note>
+      <note>(太田) subsidiaryをどう訳すかは要検討。下の画像を見ると分かりますが、ヘイドンさんはブラウザウィンドウが持つインターフェイスに対して、コンテンツが持つインターフェイスを subsidiary interface と呼んでいます。落としても通じますし下の図で説明されているので落とすのもありかも。
+setupをどう訳すか、どうconfigurationと訳し分けるか。設定と構成?</note>
       <tuv lang="EN-US">
         <seg>Your subsidiary interface should be tolerant of users’ differing setups and configurations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T092124Z">
+        <seg>私たちが作るインターフェイスも、ユーザー側のさまざまな設定や構成に対応できなければなりません。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
