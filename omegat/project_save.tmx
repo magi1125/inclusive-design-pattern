@@ -53,6 +53,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Layout and interaction can become error-prone and unpredictable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T103159Z" creationid="yoota" creationdate="20170418T103159Z">
+        <seg>その場合、レイアウトやインタラクションのエラーが起こるなど、予測不可能な動作が生じる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 若干誤訳っぽいです。支援技術を使うのと同じように、さまざまな設定ができる、という話かと。</note>
       <tuv lang="EN-US">
         <seg>Never forget that the browser itself is an interface, which can be augmented and configured in a number of ways by the user — as well as helping interpret the content you provide for third-party assistive technologies like screen readers.</seg>
@@ -136,6 +144,17 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T081652Z" creationid="yoota" creationdate="20170418T062512Z">
         <seg>この後の章では個々のインターフェイスパターン――モジュールあるいはコンポーネントとして確立された慣習――を詳しく見ていくことになりますが、その前に、それらのパターンが最終的にWebドキュメントに所属することを理解しておかなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) quirks modeを「互換モード」とするとIEの同名の機能と混同しそうです。脚注もありますし、無理に訳さずそのまま「Quirksモード」で良いように思います (「奇癖モード」という訳を見たこともありますが……)。
+ちなみにヘイドンさんは often called と言っていますが、quirks modeはHTML5仕様の中で使われている正式な用語です。https://dom.spec.whatwg.org/#concept-document-quirks
+regressを「後方互換する」としていますが、日本語として違和感があります。ヘイドンカラーを生かすなら「後戻り」などとしたいですが、無理に残さずに意訳してみました。</note>
+      <tuv lang="EN-US">
+        <seg>Without a doctype declared, the browser simply doesn’t know how to interpret the content and can regress into &lt;a1&gt;&lt;s2&gt;a non-compliant and incompatible mode, often called &lt;s3&gt;quirks mode&lt;/s3&gt;&lt;/s2&gt;&lt;/a1&gt;&lt;s4&gt;&lt;a5&gt;&lt;s6&gt;1&lt;/s6&gt;&lt;/a5&gt;&lt;/s4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T103138Z" creationid="yoota" creationdate="20170418T103138Z">
+        <seg>DOCTYPE宣言がないと、ブラウザはコンテンツをどう解釈したらよいか分からず、&lt;a1&gt;&lt;s2&gt;非対応の不適合なモード、いわゆる&lt;s3&gt;Quirksモード&lt;/s3&gt;&lt;/s2&gt;&lt;/a1&gt;&lt;s4&gt;&lt;a5&gt;&lt;s6&gt;（脚注4）&lt;/s6&gt;&lt;/a5&gt;&lt;/s4&gt;で表示されてしまうことがあります。</seg>
       </tuv>
     </tu>
     <tu>
