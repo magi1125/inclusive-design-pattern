@@ -75,6 +75,15 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
     </tu>
     <tu>
+      <note>(太田) staticは静的で良いかと。元訳ではunavoidably が省かれていましたが、「間違いありません」的に訳してみました。</note>
+      <tuv lang="EN-US">
+        <seg>Whether your web page is an old-school static resource or a single-page app, it is unavoidably a document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T083052Z" creationid="yoota" creationdate="20170418T083052Z">
+        <seg>昔ながらの静的なリソースであれ、シングルページアプリケーションであれ、Webページがドキュメントであることは間違いありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)conventionの訳が揺れているようです。前の章では「慣習」としていたはずなのでそろえたいです。
 belong toが「構成する」となっていますが、この章はドキュメント全体の話であり、その中身にパターンが入るという話をしています。ここは「所属する」というニュアンスに使いように思います。
 ちなみに最後の foolhardy to not recognize は「理解しないのは無謀だろう」というような言い回しですが、今の訳ではヘイドンカラーが薄まった無難な訳になっています。それはそれで良いような気もしますが。</note>
