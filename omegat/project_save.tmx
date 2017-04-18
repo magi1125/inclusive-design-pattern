@@ -124,6 +124,12 @@ belong toが「構成する」となっていますが、この章はドキュ�
         <seg>この後の章では個々のインターフェイスパターン――モジュールあるいはコンポーネントとして確立された慣習――を詳しく見ていくことになりますが、その前に、それらのパターンが最終的にWebドキュメントに所属することを理解しておかなければなりません。</seg>
       </tuv>
     </tu>
+    <tu>
+      <note>(太田) subsidiaryをどう訳すかは要検討。下の画像を見ると分かりますが、ヘイドンさんはブラウザウィンドウが持つインターフェイスに対して、コンテンツが持つインターフェイスを subsidiary interface と呼んでいます。</note>
+      <tuv lang="EN-US">
+        <seg>Your subsidiary interface should be tolerant of users’ differing setups and configurations.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
