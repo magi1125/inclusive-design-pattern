@@ -13,6 +13,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 図版部分はどうしますかね。この箇所の原文は画像のalt、参考訳文は画像の中のテキストを訳したものです。</note>
+      <tuv lang="EN-US">
+        <seg>Diagram labels your interface hidden among all the browser interface elements.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) document-level とは何か。ぱっと見、従うべきドキュメントがある (WCAGのような文書を指す) という話のようにも読めますが、ここの章のタイトルが "the document" であることを考えると、ドキュメント全体が従うべきベストプラクティスがあるといっているように思えます。この文全体として、「HTMLページの中身は好きに作っても良いが、ドキュメント全体が従うべき慣習がある」と言っているのではないでしょうか。</note>
       <tuv lang="EN-US">
         <seg>HTML pages vary dramatically in shape and size, and can include any combination of patterns; but there are a handful of document-level best practices we should stick to.</seg>
@@ -123,13 +129,22 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) subsidiaryをどう訳すかは要検討。下の画像を見ると分かりますが、ヘイドンさんはブラウザウィンドウが持つインターフェイスに対して、コンテンツが持つインターフェイスを subsidiary interface と呼んでいます。落としても通じますし下の図で説明されているので落とすのもありかも。
+      <tuv lang="EN-US">
+        <seg>Your interface is not the only interface users are interacting with when their browsers are open.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T100655Z" creationid="yoota" creationdate="20170418T100655Z">
+        <seg>ユーザーがブラウザを開いたときに使用するインターフェイスは、あなたがデザインするインターフェイスだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) subsidiaryをどう訳すかは要検討。下の画像を見ると分かりますが、ヘイドンさんはブラウザウィンドウが持つインターフェイスに対して、コンテンツが持つインターフェイスを subsidiary interface と呼んでいます。ブラウザを補助するというわけではなく、従属的というか主役ではない脇役というようなイメージかと。補って訳してみましたが、落としても通じますし下の図で説明されているので落とすのもありかも。
+図の中の your interface を「あなたがデザインするインターフェイス」とするのなら、ここでもそろえる必要があります。
 setupをどう訳すか、どうconfigurationと訳し分けるか。設定と構成?</note>
       <tuv lang="EN-US">
         <seg>Your subsidiary interface should be tolerant of users’ differing setups and configurations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170418T092124Z">
-        <seg>私たちが作るインターフェイスも、ユーザー側のさまざまな設定や構成に対応できなければなりません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T100508Z">
+        <seg>あなたがデザインするインターフェイスはあくまでブラウザのインターフェイスに従属するものであり、ユーザー側のさまざまな設定や構成に対応できなければなりません。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
