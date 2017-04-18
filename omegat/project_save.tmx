@@ -13,12 +13,12 @@
       </tuv>
     </tu>
     <tu>
-      <note>(太田) document-level とは何か。従うべきドキュメントがある (WCAGのような文書を指す) という話のようにも読めるが、ここの章のタイトルが "the document" であることを考えると、ドキュメントの段階で従うべきベストプラクティスがあるといっているように思える。この文全体として、「HTMLページは好きに作っても良いが、ドキュメントが従うべき慣習がある」と言っているのではないか。とすると現行訳は見直したほうがよさそうに思える。</note>
+      <note>(太田) document-level とは何か。ぱっと見、従うべきドキュメントがある (WCAGのような文書を指す) という話のようにも読めますが、ここの章のタイトルが "the document" であることを考えると、ドキュメント全体が従うべきベストプラクティスがあるといっているように思えます。この文全体として、「HTMLページの中身は好きに作っても良いが、ドキュメント全体が従うべき慣習がある」と言っているのではないでしょうか。</note>
       <tuv lang="EN-US">
         <seg>HTML pages vary dramatically in shape and size, and can include any combination of patterns; but there are a handful of document-level best practices we should stick to.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170418T074513Z" creationid="yoota" creationdate="20170418T074513Z">
-        <seg>HTMLページは形もサイズも実にさまざまにでき、あらゆるパターンを組み合わせることができます。しかし、ドキュメントのレベルで従うべきベストプラクティスがいくつか存在します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T080621Z" creationid="yoota" creationdate="20170418T074513Z">
+        <seg>HTMLページは形もサイズも実にさまざまにでき、その中身にはあらゆるパターンの組み合わせを入れることができます。しかし、ドキュメント全体のレベルで従うべきベストプラクティスがいくつか存在します。</seg>
       </tuv>
     </tu>
     <tu>
