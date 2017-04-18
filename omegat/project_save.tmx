@@ -76,6 +76,16 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
     </tu>
     <tu>
+      <note>(太田) thisは文書型宣言ではなく、「HTMLが文書であるという事実」ではないかと思います。
+This serves as an important reminderは直訳すると「このことは重要なリマインダーとなる」ということですが、もう少し砕いて訳したい感もあります。</note>
+      <tuv lang="EN-US">
+        <seg>This serves as an important reminder that even when you’re designing a highly tactile and dynamic interface, you are still really just putting content into a browser window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T085400Z" creationid="yoota" creationdate="20170418T085400Z">
+        <seg>このことは、立体的で動きのあるインターフェイスをデザインするときでも、結局はコンテンツをブラウザウィンドウの中に入れているのだという事実を思い出させてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>To my wife, Fan, who has the power to make me smile, in spite of the world.</seg>
       </tuv>
