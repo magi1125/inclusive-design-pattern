@@ -47,12 +47,14 @@
     </tu>
     <tu>
       <note>(太田) 何が言いたいのか良くわからない印象です。configureを「作る」としていますが、設定するという話なのではないでしょうか (この章では、meta情報などをいい感じに設定する話をしています)。
-いかにも翻訳っぽい文章なのでもう少し砕きたいかも。</note>
+いかにも翻訳っぽい文章なのでもう少し砕きたいかも。
+to go in search of the ultimate boilerplate はまあ要するにジョークなので「探し求める」と大げさな感じにしてみました。
+</note>
       <tuv lang="EN-US">
         <seg>The aim here is not to go in search of the ultimate boilerplate but to configure a parent web page for an inclusive interface.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170418T082154Z" creationid="yoota" creationdate="20170418T080431Z">
-        <seg>ここでの目的は究極のひな形を見つけることではなく、インクルーシブなインターフェイスの親となるWebページを適切に設定することです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170418T082510Z" creationid="yoota" creationdate="20170418T080431Z">
+        <seg>この章の目的は、究極のひな形を探し求めることではなく、インクルーシブなインターフェイスの親となるWebページを適切に設定することです。</seg>
       </tuv>
     </tu>
     <tu>
