@@ -27,6 +27,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>(太田) ハイライト表示されるように変更する、のではなく、ハイライト表示するための辞書を切り替える、かなと。</note>
+      <tuv lang="EN-US">
+        <seg>Firefox, for instance, changes dictionaries on &lt;c6&gt;&lt;textarea&gt;&lt;/c6&gt;s so that spelling errors are highlighted appropriately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T101944Z" creationid="yoota" creationdate="20170419T101944Z">
+        <seg>たとえばFirefoxでは、&lt;c6&gt;&lt;textarea&gt;&lt;/c6&gt;でスペルの間違いを適宜ハイライト表示するための辞書が切り替えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) document-level とは何か。ぱっと見、従うべきドキュメントがある (WCAGのような文書を指す) という話のようにも読めますが、ここの章のタイトルが "the document" であることを考えると、ドキュメント全体が従うべきベストプラクティスがあるといっているように思えます。この文全体として、「HTMLページの中身は好きに作っても良いが、ドキュメント全体が従うべき慣習がある」と言っているのではないでしょうか。</note>
       <tuv lang="EN-US">
         <seg>HTML pages vary dramatically in shape and size, and can include any combination of patterns; but there are a handful of document-level best practices we should stick to.</seg>
@@ -136,6 +145,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170419T101632Z" creationid="yoota" creationdate="20170419T101632Z">
         <seg>検索エンジンによるインデックス付けがやりやすくなるほか、ユーザーがGoogleの&lt;a0&gt;&lt;s1&gt;Translate API&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;（脚注5）&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;のようなサードパーティツールを使って翻訳することも容易になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perhaps most starkly, a page that does not have a language declared — or has the wrong language declared for the content — will not trigger the adoption of an appropriate synthetic voice profile when used with a screen reader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T102025Z" creationid="yoota" creationdate="20170419T102025Z">
+        <seg>おそらく最も際立った点としては、言語が明示されていないページや、あるいはコンテンツと異なる間違った言語が指定されているページでは、スクリーンリーダーを使用したときに適切な合成音声プロファイルが選択されません。</seg>
       </tuv>
     </tu>
     <tu>
