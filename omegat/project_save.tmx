@@ -87,6 +87,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It also helps the user to &lt;e5&gt;write&lt;/e5&gt; in the page’s language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T101653Z" creationid="yoota" creationdate="20170419T101653Z">
+        <seg>また、ユーザーがページの言語で&lt;e5&gt;入力&lt;/e5&gt;する際にも役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 若干分かりにくいかも。直訳すると「HTMLかXHTMLかという話をしているわけではありません」という感じですが、そのままのほうが分かりやすいように思いました。</note>
       <tuv lang="EN-US">
         <seg>I’m not talking HTML or XHTML; I mean English or French.</seg>
@@ -119,6 +127,15 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T091748Z" creationid="yoota" creationdate="20170418T091117Z">
         <seg>ブラウザ自体も1つのインターフェイスだということを忘れてはいけません。ユーザーはさまざまな方法で設定や拡張を行うことができます――コンテンツの解釈を助けるために、スクリーンリーダーのようなサードパーティの支援技術を導入することもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) スムーズとは言っていないようなので、容易にとしました。</note>
+      <tuv lang="EN-US">
+        <seg>Not only does it make the page more indexable by search engines, but it also becomes easier to translate by users operating third-party tools such as Google’s &lt;a0&gt;&lt;s1&gt;Translate API&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;2&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T101632Z" creationid="yoota" creationdate="20170419T101632Z">
+        <seg>検索エンジンによるインデックス付けがやりやすくなるほか、ユーザーがGoogleの&lt;a0&gt;&lt;s1&gt;Translate API&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;（脚注5）&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;のようなサードパーティツールを使って翻訳することも容易になります。</seg>
       </tuv>
     </tu>
     <tu>
