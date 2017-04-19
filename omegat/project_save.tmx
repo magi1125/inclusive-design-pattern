@@ -36,6 +36,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>(太田) DOCTYPEは大文字に。</note>
+      <tuv lang="EN-US">
+        <seg>If the doctype tells the browser what &lt;e0&gt;kind&lt;/e0&gt; of document it is serving (HTML5 in the above example), then the &lt;c1&gt;&lt;html&gt;&lt;/c1&gt; element’s &lt;c2&gt;lang&lt;/c2&gt; attribute tells it which language it is written in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T085905Z" creationid="yoota" creationdate="20170419T085905Z">
+        <seg>DOCTYPEでドキュメントの種類（上の例はHTML5）を宣言したら、次は&lt;html&gt;要素のlang属性でドキュメントを記述する言語を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) DOCTYPEを大文字にしました。前のところではドキュメントタイプと訳されていたのにここはそのままなんですね……。
 「必ず最初に」は硬い印象があったので「まっさきに」としました。</note>
       <tuv lang="EN-US">
@@ -92,9 +101,7 @@ In addition を「その上」とすると前からのつながりがおかし�
       <note>(太田) DOCTYPEは大文字にしたいです。HTML仕様では大文字表記です。
 https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 文書型とすべきかどうか悩みましたが、HTML5はSGMLではないため、もはやDOCTYPEに文書型宣言の意味はありません。それをふまえると、下手に文書型と訳したりしないほうが良いように思いました。
-
-以下マニアックな訳注案 (たぶん不要):
-HTML4のDOCTYPEはSGMLの文書型宣言(Document type declaration)だったのですが、HTML5はSGMLではないため、DOCTYPEはSGMLの文書型宣言ではありません。ブラウザの互換性の観点から &lt;!DOCTYPE html&gt; という文字列を書いているに過ぎず、仕様でも単に "DOCTYPE" と呼ばれています。</note>
+</note>
       <tuv lang="EN-US">
         <seg>The Doctype</seg>
       </tuv>
