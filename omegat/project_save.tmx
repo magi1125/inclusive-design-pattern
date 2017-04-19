@@ -148,11 +148,12 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 原文でダッシュを使用している箇所はダッシュを使用するようにしました。「際立った点」という訳は何が際立っているのかイマイチ不明瞭に感じたので、「最も分かりやすい」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Perhaps most starkly, a page that does not have a language declared — or has the wrong language declared for the content — will not trigger the adoption of an appropriate synthetic voice profile when used with a screen reader.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170419T103000Z" creationid="yoota" creationdate="20170419T102025Z">
-        <seg>おそらく最も際立った点としては、言語が明示されていないページ――あるいは間違った言語が指定されているページ――では、スクリーンリーダーを使用したときに適切な合成音声プロファイルが選択されません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T103339Z" creationid="yoota" creationdate="20170419T102025Z">
+        <seg>おそらく最も分かりやすいのは、言語が明示されていないページ――あるいは間違った言語が指定されているページ――では、スクリーンリーダーを使用したときに適切な合成音声プロファイルが選択されないことです。</seg>
       </tuv>
     </tu>
     <tu>
