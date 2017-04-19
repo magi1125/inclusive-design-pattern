@@ -36,12 +36,15 @@
       </tuv>
     </tu>
     <tu>
-      <note>(太田) DOCTYPEは大文字に。</note>
+      <note>(太田) DOCTYPEは大文字に。
+serveを「宣言」としていますが、HTML5のDOCTYPEはSGMLの文書型宣言ではないので、宣言とするのは避けたほうが良いかもしれません。
+
+</note>
       <tuv lang="EN-US">
         <seg>If the doctype tells the browser what &lt;e0&gt;kind&lt;/e0&gt; of document it is serving (HTML5 in the above example), then the &lt;c1&gt;&lt;html&gt;&lt;/c1&gt; element’s &lt;c2&gt;lang&lt;/c2&gt; attribute tells it which language it is written in.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170419T085905Z" creationid="yoota" creationdate="20170419T085905Z">
-        <seg>DOCTYPEでドキュメントの種類（上の例はHTML5）を宣言したら、次は&lt;html&gt;要素のlang属性でドキュメントを記述する言語を指定します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T092733Z" creationid="yoota" creationdate="20170419T085905Z">
+        <seg>DOCTYPEでドキュメントの&lt;e0&gt;種類&lt;/e0&gt;を宣言したら（HTML5なら上の例のようになります）、次は&lt;html&gt;要素のlang属性でドキュメントを記述する言語を指定します。</seg>
       </tuv>
     </tu>
     <tu>
