@@ -45,8 +45,7 @@
     </tu>
     <tu>
       <note>(太田) DOCTYPEは大文字に。
-serveを「宣言」としていますが、HTML5のDOCTYPEはSGMLの文書型宣言ではないので、宣言とするのは避けたほうが良いかもしれません (上でヘイドンさんはdoctype declarationと書いたりはしていますが)。
-
+「宣言」としていますが、HTML5のDOCTYPEはSGMLの文書型宣言ではないので、宣言とするのは避けたほうが良いかもしれません (上でヘイドンさんはdoctype declarationと書いたりはしていますが)。原文 tells the browser なのでそのまま「ブラウザに伝えたら」くらいでしょうか。
 
 不要かもしれない訳注:
 正確には、HTML5のDOCTYPEは文書の種類を宣言するためのものではありません。
@@ -56,8 +55,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       <tuv lang="EN-US">
         <seg>If the doctype tells the browser what &lt;e0&gt;kind&lt;/e0&gt; of document it is serving (HTML5 in the above example), then the &lt;c1&gt;&lt;html&gt;&lt;/c1&gt; element’s &lt;c2&gt;lang&lt;/c2&gt; attribute tells it which language it is written in.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170419T095113Z" creationid="yoota" creationdate="20170419T085905Z">
-        <seg>DOCTYPEでドキュメントの&lt;e0&gt;種類&lt;/e0&gt;を宣言したら（HTML5なら上の例のようになります）、次は&lt;c1&gt;&lt;html&gt;&lt;/c1&gt;要素の&lt;c2&gt;lang&lt;/c2&gt;属性でドキュメントの言語を指定します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T095737Z" creationid="yoota" creationdate="20170419T085905Z">
+        <seg>DOCTYPEでドキュメントの&lt;e0&gt;種類&lt;/e0&gt;をブラウザに伝えたら（HTML5なら上の例のようになります）、次は&lt;c1&gt;&lt;html&gt;&lt;/c1&gt;要素の&lt;c2&gt;lang&lt;/c2&gt;属性でドキュメントの言語を指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -180,6 +179,14 @@ This serves as an important reminderは直訳すると「このことは重要�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T085400Z" creationid="yoota" creationdate="20170418T085400Z">
         <seg>このことは、立体的で動きのあるインターフェイスをデザインするときでも、結局はコンテンツをブラウザウィンドウの中に入れているのだという事実を思い出させてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though frequently omitted, declaring a language for a web page could scarcely be more important.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T095850Z" creationid="yoota" creationdate="20170419T095850Z">
+        <seg>Webページの言語の明示は、省略されることも少なくありませんが、とても重要な意味を持ちます。</seg>
       </tuv>
     </tu>
     <tu>
