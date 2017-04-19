@@ -37,9 +37,14 @@
     </tu>
     <tu>
       <note>(太田) DOCTYPEは大文字に。
-serveを「宣言」としていますが、HTML5のDOCTYPEはSGMLの文書型宣言ではないので、宣言とするのは避けたほうが良いかもしれません。
+serveを「宣言」としていますが、HTML5のDOCTYPEはSGMLの文書型宣言ではないので、宣言とするのは避けたほうが良いかもしれません (上でヘイドンさんは)。
 
-</note>
+
+訳注:
+正確には、HTML5のDOCTYPEは文書の種類を宣言するためのものではありません。
+HTML4までのHTMLはSGMLであり、SGMLのルールでは冒頭に文書型宣言 (Document type declaration) を書いてで文書の種類を宣言する必要がありました。
+HTML5でも文書の先頭にDOCTYPEを書きますが、これは文書型宣言を見て挙動を変えるブラウザとの互換性のために必要最低限のものを書いているに過ぎません。そのため、仕様でも "Document type declaration" ではなく、単に "DOCTYPE" と呼ばれています。
+https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       <tuv lang="EN-US">
         <seg>If the doctype tells the browser what &lt;e0&gt;kind&lt;/e0&gt; of document it is serving (HTML5 in the above example), then the &lt;c1&gt;&lt;html&gt;&lt;/c1&gt; element’s &lt;c2&gt;lang&lt;/c2&gt; attribute tells it which language it is written in.</seg>
       </tuv>
@@ -195,8 +200,8 @@ regressを「後方互換する」としていますが、日本語として違�
       <tuv lang="EN-US">
         <seg>Without a doctype declared, the browser simply doesn’t know how to interpret the content and can regress into &lt;a1&gt;&lt;s2&gt;a non-compliant and incompatible mode, often called &lt;s3&gt;quirks mode&lt;/s3&gt;&lt;/s2&gt;&lt;/a1&gt;&lt;s4&gt;&lt;a5&gt;&lt;s6&gt;1&lt;/s6&gt;&lt;/a5&gt;&lt;/s4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170418T103138Z" creationid="yoota" creationdate="20170418T103138Z">
-        <seg>DOCTYPE宣言がないと、ブラウザはコンテンツをどう解釈したらよいか分からず、&lt;a1&gt;&lt;s2&gt;非対応の不適合なモード、いわゆる&lt;s3&gt;Quirksモード&lt;/s3&gt;&lt;/s2&gt;&lt;/a1&gt;&lt;s4&gt;&lt;a5&gt;&lt;s6&gt;（脚注4）&lt;/s6&gt;&lt;/a5&gt;&lt;/s4&gt;で表示されてしまうことがあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T094940Z" creationid="yoota" creationdate="20170418T103138Z">
+        <seg>DOCTYPEが明確でないと、ブラウザはコンテンツをどう解釈したらよいか分からず、&lt;a1&gt;&lt;s2&gt;非対応の不適合なモード、いわゆる&lt;s3&gt;Quirksモード&lt;/s3&gt;&lt;/s2&gt;&lt;/a1&gt;&lt;s4&gt;&lt;a5&gt;&lt;s6&gt;（脚注4）&lt;/s6&gt;&lt;/a5&gt;&lt;/s4&gt;で表示してしまうことがあります。</seg>
       </tuv>
     </tu>
     <tu>
