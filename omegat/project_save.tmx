@@ -13,6 +13,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;&lt;s2&gt;&lt;&lt;/s2&gt;html&lt;/s1&gt; &lt;s3&gt;lang&lt;/s3&gt;&lt;s4&gt;&lt;s5&gt;=&lt;/s5&gt;"en"&lt;/s4&gt;&lt;/s0&gt; &lt;s6&gt;&lt;!-- language set to English --&gt;&lt;/s6&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T095505Z" creationid="yoota" creationdate="20170419T095505Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;&lt;s2&gt;&lt;&lt;/s2&gt;html&lt;/s1&gt; &lt;s3&gt;lang&lt;/s3&gt;&lt;s4&gt;&lt;s5&gt;=&lt;/s5&gt;"en"&lt;/s4&gt;&lt;/s0&gt; &lt;s6&gt;&lt;!-- 言語を英語に設定 --&gt;&lt;/s6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 図版部分はどうしますかね。この箇所の原文は画像のalt、参考訳文は画像の中のテキストを訳したものです。</note>
       <tuv lang="EN-US">
         <seg>Diagram labels your interface hidden among all the browser interface elements.</seg>
@@ -84,8 +92,8 @@ In addition を「その上」とすると前からのつながりがおかし�
       <tuv lang="EN-US">
         <seg>I’m not talking HTML or XHTML; I mean English or French.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170419T095259Z" creationid="yoota" creationdate="20170419T095259Z">
-        <seg>HTMLかXHTMLかという話をしているわけではありません&gt;この場合の言語とは、HTMLやXHTMLではなく、英語やフランス語のことです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T095441Z" creationid="yoota" creationdate="20170419T095259Z">
+        <seg>言語といっても、HTMLかXHTMLかという話ではありません。英語かフランス語かという話です。</seg>
       </tuv>
     </tu>
     <tu>
