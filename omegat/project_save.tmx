@@ -31,8 +31,8 @@
       <tuv lang="EN-US">
         <seg>Firefox, for instance, changes dictionaries on &lt;c6&gt;&lt;textarea&gt;&lt;/c6&gt;s so that spelling errors are highlighted appropriately.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170419T101944Z" creationid="yoota" creationdate="20170419T101944Z">
-        <seg>たとえばFirefoxでは、&lt;c6&gt;&lt;textarea&gt;&lt;/c6&gt;でスペルの間違いを適宜ハイライト表示するための辞書が切り替えられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T102725Z" creationid="yoota" creationdate="20170419T101944Z">
+        <seg>たとえばFirefoxでは、&lt;c6&gt;&lt;textarea&gt;&lt;/c6&gt;でスペルミスをハイライト表示する際の辞書が切り替えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,13 +216,14 @@ This serves as an important reminderは直訳すると「このことは重要�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 準否定の scarcely が訳から落ちているように思います。今の訳とは逆で、より重要な意味を持つようになることはほとんどなかろう、と言っているのではないでしょうか。実際 lang属性はあまり重要ではないという議論はあります。
-ただ Though frequently omitted, と逆説的につながっているのでヘイドンさんが何をいいたいのか良くわからないですね。文脈的には重要だといっているほうがしっくり来ます。</note>
+      <note>(太田) 準否定の scarcely が訳から落ちているように思います。scarcely be more important は「より重要になることはほとんどない」、と言っているのではないでしょうか。実際 lang属性はあまり重要ではないという議論はあります。
+ただ Though frequently omitted, と逆説的につながっていますし、文脈的には重要であるといっているほうがしっくり来ます。
+more important というほどでもないが、とはいえ多少は重要ということなのでしょうか。とすると、「そこそこ重要」「それなりに重要」という程度なのかもしれません。</note>
       <tuv lang="EN-US">
         <seg>Though frequently omitted, declaring a language for a web page could scarcely be more important.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170419T101443Z" creationid="yoota" creationdate="20170419T095850Z">
-        <seg>Webページの言語の明示は、省略されることも少なくありませんが、とても重要な意味を持ちます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170419T102650Z" creationid="yoota" creationdate="20170419T095850Z">
+        <seg>しばしば省略されますが、Webページの言語を明示することは、それなりに重要です。</seg>
       </tuv>
     </tu>
     <tu>
