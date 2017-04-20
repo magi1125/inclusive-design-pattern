@@ -142,12 +142,12 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) my, I で書かれているので、 ヘイドンさんが「私はこうしている」という話ですね。</note>
+      <note>(太田) </note>
       <tuv lang="EN-US">
         <seg>In my CSS I can select any sections declared as French using the &lt;c0&gt;:lang&lt;/c0&gt; pseudo-class, applying a font well suited to the French character set, thereby improving legibility:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T083544Z" creationid="yoota" creationdate="20170420T083544Z">
-        <seg>さらにCSSで&lt;c0&gt;:lang&lt;/c0&gt;擬似クラスを使ってフランス語に指定されているセクションを選択し、フランス語の文字セットに適したフォントを適用すれば、より読みやすくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T083910Z" creationid="yoota" creationdate="20170420T083544Z">
+        <seg>CSSの&lt;c0&gt;:lang&lt;/c0&gt;擬似クラスを使えば、フランス語が指定されている全てのセクションを選択し、フランス語に適したフォントを適用して、より読みやすくすることができます。</seg>
       </tuv>
     </tu>
     <tu>
