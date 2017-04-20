@@ -37,6 +37,17 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <note>(太田) ちょっと誤訳っぽいですね。テストできない端末にも対応できるという話だと思います。
+直訳すると、
+「コンテンツブレークポイントを採用することで、手動でテストできたよりもはるかに広い範囲のデバイスに対して、成功したレイアウトを確実なものにすることができます」</note>
+      <tuv lang="EN-US">
+        <seg>By employing content breakpoints, you can ensure successful layouts for a range of devices far greater than you would ever be able to manually test with.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T100403Z" creationid="yoota" creationdate="20170420T100403Z">
+        <seg>コンテンツブレイクポイントを採用すれば、手作業でテストできない端末も含め、非常に幅広いデバイスに対応したレイアウトをデザインできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Content Breakpoints</seg>
       </tuv>
