@@ -28,6 +28,15 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <note>(太田) respond が訳から落ちているかも。ここでは「レスポンシブする」ということでしょうが訳が難しいですね。</note>
+      <tuv lang="EN-US">
+        <seg>By designing documents that can respond and adapt to their environment, they become compatible with the ever proliferating choice of devices on the market.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T085939Z" creationid="yoota" creationdate="20170420T085939Z">
+        <seg>状況に対応できるようにデザインされたドキュメントは、市場に次から次へと登場するさまざまなデバイスに対応できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 図版部分はどうしますかね。この箇所の原文は画像のalt、参考訳文は画像の中のテキストを訳したものです。</note>
       <tuv lang="EN-US">
         <seg>Diagram labels your interface hidden among all the browser interface elements.</seg>
@@ -169,6 +178,15 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「使い方」が簡単とは言っていないかも。</note>
+      <tuv lang="EN-US">
+        <seg>It’s easy to include the &lt;c1&gt;lang&lt;/c1&gt; attribute, so just go ahead and include it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T085807Z" creationid="yoota" creationdate="20170420T085807Z">
+        <seg>&lt;c1&gt;lang&lt;/c1&gt;属性を指定するのは簡単なことですので、ぜひ使ってみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 若干分かりにくいかも。直訳すると「HTMLかXHTMLかという話をしているわけではありません」という感じですが、そのままのほうが分かりやすいように思いました。</note>
       <tuv lang="EN-US">
         <seg>I’m not talking HTML or XHTML; I mean English or French.</seg>
@@ -219,6 +237,22 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170419T103339Z" creationid="yoota" creationdate="20170419T102025Z">
         <seg>おそらく最も分かりやすいのは、言語が明示されていないページ――あるいは間違った言語が指定されているページ――では、スクリーンリーダーを使用したときに適切な合成音声プロファイルが選択されないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Responsive Design</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T085811Z" creationid="yoota" creationdate="20170420T085811Z">
+        <seg>レスポンシブデザイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Responsive design is a big part of inclusive design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T085821Z" creationid="yoota" creationdate="20170420T085821Z">
+        <seg>レスポンシブデザインはインクルーシブデザインの重要な要素の1つです。</seg>
       </tuv>
     </tu>
     <tu>
