@@ -234,12 +234,13 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) Cmd + Option + M はレスポンシブデザインモードへの切り替えのトグルかと思いますが、補わないと分からないかも。頭の Just は「ちょっと」くらいでしょうか。</note>
+      <note>(太田) Cmd + Option + M はレスポンシブデザインモードへの切り替えのトグルかと思いますが、補わないと分からないかも。頭の Just は命令形を和らげるjustで「ちょっと」くらいでしょうか。
+</note>
       <tuv lang="EN-US">
         <seg>Just press &lt;e5&gt;Cmd&lt;/e5&gt; + &lt;e6&gt;Option&lt;/e6&gt; + &lt;e7&gt;M&lt;/e7&gt;, then resize the simulated viewport incrementally until the content is forced to collide, overlap or wrap.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T102738Z" creationid="yoota" creationdate="20170420T101611Z">
-        <seg>Cmd + Option + Mキーを押して、シミュレートされたビューポートを、コンテンツがぶつかる、重なり合う、あるいはラップされるところまで少しずつ大きくしていきます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T103228Z" creationid="yoota" creationdate="20170420T101611Z">
+        <seg>ちょっと Cmd + Option + Mキーを押してみてください。すると、シミュレートされたビューポートを、コンテンツがぶつかる、重なり合う、あるいはラップされるところまで少しずつ大きくしていきます。</seg>
       </tuv>
     </tu>
     <tu>
