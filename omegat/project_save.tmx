@@ -169,12 +169,12 @@ In addition を「その上」とすると前からのつながりがおかし�
     </tu>
     <tu>
       <note>(太田) 元訳は  only where を訳せていないように思います。～のところだけに挿入する、と言っています。
-hence以降をどうするか。</note>
+hence以降をどうするか。tweakpointは元訳の「微調整ポイント」のままにしていますが日本語で何か言い方があるんですかね。</note>
       <tuv lang="EN-US">
         <seg>Instead, you should create an entirely flexible design from the outset and insert breakpoints only where the content breaks the layout — hence &lt;e0&gt;content breakpoint&lt;/e0&gt; or &lt;e1&gt;tweakpoint&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T093452Z" creationid="yoota" creationdate="20170420T093025Z">
-        <seg>それよりも、最初から完全に柔軟なデザインを作り、コンテンツのレイアウトが切り替わるところだけにブレイクポイントを挿入すべきです――したがって、&lt;e0&gt;content breakpoint&lt;/e0&gt; もしくは &lt;e1&gt;tweakpoint&lt;/e1&gt;となります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T095918Z" creationid="yoota" creationdate="20170420T093025Z">
+        <seg>それよりも、最初から完全に柔軟なデザインを作り、コンテンツのレイアウトが切り替わるところだけにブレイクポイントを挿入すべきです――すなわち、&lt;e0&gt;コンテンツブレイクポイント&lt;/e0&gt;、あるいは&lt;e1&gt;微調整ポイント&lt;/e1&gt;ということになります。</seg>
       </tuv>
     </tu>
     <tu>
