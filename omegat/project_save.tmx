@@ -326,6 +326,15 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
     </tu>
     <tu>
+      <note>(太田)「後押し」は要検討。</note>
+      <tuv lang="EN-US">
+        <seg>This book is not the place to discuss the ins and outs of responsive design, but you should be aware of some responsive design principles that support inclusive design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T091812Z" creationid="yoota" creationdate="20170420T091812Z">
+        <seg>本書ではレスポンシブデザインについて詳述はしませんが、ぜひ知っておきたい、インクルーシブデザインを後押しするレスポンシブデザインの原則をいくつか紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) thisは文書型宣言ではなく、「HTMLが文書であるという事実」ではないかと思います。
 This serves as an important reminderは直訳すると「このことは重要なリマインダーとなる」ということですが、もう少し砕いて訳したい感もあります。</note>
       <tuv lang="EN-US">
