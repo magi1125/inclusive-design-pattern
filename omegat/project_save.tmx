@@ -21,6 +21,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>(太田) このフランス語どうしましょう。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;&lt;s2&gt;&lt;&lt;/s2&gt;p&lt;/s1&gt;&lt;s3&gt;&gt;&lt;/s3&gt;&lt;/s0&gt;Il ne faut pas mettre tout dans le même sac!&lt;s4&gt;&lt;s5&gt;&lt;s6&gt;&lt;/&lt;/s6&gt;p&lt;/s5&gt;&lt;s7&gt;&gt;&lt;/s7&gt;&lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 図版部分はどうしますかね。この箇所の原文は画像のalt、参考訳文は画像の中のテキストを訳したものです。</note>
       <tuv lang="EN-US">
         <seg>Diagram labels your interface hidden among all the browser interface elements.</seg>
@@ -83,6 +89,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
 太田: OmegaTでチーム編集するテスト</note>
       <tuv lang="EN-US">
         <seg>Imprint | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to screen readers and computer braille displays benefiting from proper language declaration, it also helps browsers choose and render system fonts with the appropriate character sets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T081502Z" creationid="yoota" creationdate="20170420T081502Z">
+        <seg>スクリーンリーダーやコンピュータ点字ディスプレイの使用時のメリットに加えて、正しい言語が明示されていると、ブラウザもシステムフォントを選択したり適切な文字セットを使って表示できます。</seg>
       </tuv>
     </tu>
     <tu>
