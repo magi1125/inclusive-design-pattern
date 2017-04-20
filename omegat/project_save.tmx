@@ -157,11 +157,13 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) do an impression of XXで XX のものまねをする、という意味があるようです。voice profile called Jack は「Jackと呼ばれる音声プロファイル」かもしれません (音声プロファイルにはたいてい人の名前がついていて、たとえばWindows7 のナレーターのデフォルト音声は Anna という名前です)。
+</note>
       <tuv lang="EN-US">
         <seg>That is, if &lt;c0&gt;&lt;html lang="en"&gt;&lt;/c0&gt; is present but the text is actually in French, you’d hear a voice profile called Jack doing a bad impression of French, rather than a French profile called Jaques using authentic French pronunciation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T075836Z" creationid="yoota" creationdate="20170420T075836Z">
-        <seg>たとえば、&lt;htmllang="en"&gt;と記されているのに実際にはフランス語が書かれていると、フランス語の音声プロファイルなら正しいフランス語の発音で「Jaques」と読むところを、英語のプロファイルが「Jack」と読んでしまうため、まずい（発音の悪い）フランス語に聞こえてしまいます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T080547Z" creationid="yoota" creationdate="20170420T075836Z">
+        <seg>つまり、もし&lt;c0&gt;&lt;htmllang="en"&gt;&lt;/c0&gt;が存在するのにテキストが実際にはフランス語である場合、フランス語の音声プロファイルなら正しいフランス語の発音で「Jaques」と読むところを、英語のプロファイルが「Jack」と読んでしまうため、まずい（発音の悪い）フランス語に聞こえてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
