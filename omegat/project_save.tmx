@@ -56,8 +56,8 @@ Do not put everything in the same bag! のような意味のようです。</not
       <tuv lang="EN-US">
         <seg>Garbled text, rendered in unbefitting characters is not optimally inclusive of your readership &lt;e1&gt;to say the least&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T082931Z" creationid="yoota" creationdate="20170420T082419Z">
-        <seg>不適切な文字で表示された文字化けテキストは、&lt;e1&gt;いくら控えめに言っても&lt;/e1&gt;、閲覧者に最適なインクルーシブなものとは言えません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T083050Z" creationid="yoota" creationdate="20170420T082419Z">
+        <seg>不適切な文字で文字化けしたテキストは、&lt;e1&gt;いくら控えめに言っても&lt;/e1&gt;、閲覧者に最適なインクルーシブなものとは言えません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -137,6 +137,16 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170419T101653Z" creationid="yoota" creationdate="20170419T101653Z">
         <seg>また、ユーザーがページの言語で&lt;e5&gt;入力&lt;/e5&gt;する際にも役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) 子属性とは!?
+body内のの子要素にlang属性を、ですね。</note>
+      <tuv lang="EN-US">
+        <seg>It is possible to switch languages within a page using the &lt;c0&gt;lang&lt;/c0&gt; attribute on child elements within the &lt;c1&gt;&lt;body&gt;&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T083228Z" creationid="yoota" creationdate="20170420T083011Z">
+        <seg>&lt;c1&gt;&lt;body&gt;&lt;/c1&gt;内の子要素に&lt;c0&gt;lang&lt;/c0&gt;属性を使用して、1つのページの中で言語を切り替えることも可能です。</seg>
       </tuv>
     </tu>
     <tu>
