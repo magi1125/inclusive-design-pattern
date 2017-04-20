@@ -484,6 +484,16 @@ more important というほどでもないが、とはいえ多少は重要と�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) オーサーCSSは日本語で普通どう呼ぶんですかね。「コンテンツ側のCSS」みたいな言い方が多い?
+従うべきとまでは言っていなくて、リスペクトしろという話ですね。</note>
+      <tuv lang="EN-US">
+        <seg>Web pages behave like this without author CSS, and should continue to respect this fundamental behavior where CSS is included.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T112012Z" creationid="yoota" creationdate="20170420T112012Z">
+        <seg>コンテンツ側のCSSがなければ、Webページはこのように動作します。CSSを含める場合でもインクルードする場合もこの基本動作に従うべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) staticは静的で良いかと。元訳ではunavoidably が省かれていましたが、「間違いありません」的に訳してみました。</note>
       <tuv lang="EN-US">
         <seg>Whether your web page is an old-school static resource or a single-page app, it is unavoidably a document.</seg>
