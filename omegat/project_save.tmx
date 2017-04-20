@@ -34,6 +34,15 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <note>(太田) As a rule of thumb がこれでいいのかどうか。「親指で測る」というたとえは、「経験から得たやり方で測る」or「大雑把に測る」の2つの意味があるようです。ここでは「大雑把に言えば」のほうかもしれません (細かく言えば幅や高さが必要な要素はあるはずなので)。</note>
+      <tuv lang="EN-US">
+        <seg>As a rule of thumb, you should never set a fixed width or height on any element: the intrinsic flexibility of boxes means they can tolerate the same content in different spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T110743Z" creationid="yoota" creationdate="20170420T110743Z">
+        <seg>大雑把に言えば、どんな要素も幅や高さを固定すべきではありません。ボックスに柔軟性があれば、同じコンテンツでさまざまなスペースに対応できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) respond が訳から落ちているかも。responseの動詞なのですが訳が難しいですね。日本語では「レスポンシブする」という言い方になるところですが正直かっこ悪い。</note>
       <tuv lang="EN-US">
         <seg>By designing documents that can respond and adapt to their environment, they become compatible with the ever proliferating choice of devices on the market.</seg>
