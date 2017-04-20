@@ -234,6 +234,16 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) Justの訳漏れ?
+</note>
+      <tuv lang="EN-US">
+        <seg>Just press &lt;e5&gt;Cmd&lt;/e5&gt; + &lt;e6&gt;Option&lt;/e6&gt; + &lt;e7&gt;M&lt;/e7&gt;, then resize the simulated viewport incrementally until the content is forced to collide, overlap or wrap.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T101611Z" creationid="yoota" creationdate="20170420T101611Z">
+        <seg>Cmd + Option + Mキーを押したら、シミュレートされたビューポートを、コンテンツがぶつかる、重なり合う、あるいはラップされるところまで少しずつ大きくしていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) レイアウトのエラーというのは日本語として変な感じがします。直訳すると、「レイアウトとインタラクションが誤りやすい予測できない状態になりうる」ということで、ひっくるめて「不安定になる」くらいかなと思います。</note>
       <tuv lang="EN-US">
         <seg>Layout and interaction can become error-prone and unpredictable.</seg>
