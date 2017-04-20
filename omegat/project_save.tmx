@@ -169,7 +169,7 @@ In addition を「その上」とすると前からのつながりがおかし�
     </tu>
     <tu>
       <note>(太田) 元訳は  only where を訳せていないように思います。～のところだけに挿入する、と言っています。
-</note>
+hence以降をどうするか。</note>
       <tuv lang="EN-US">
         <seg>Instead, you should create an entirely flexible design from the outset and insert breakpoints only where the content breaks the layout — hence &lt;e0&gt;content breakpoint&lt;/e0&gt; or &lt;e1&gt;tweakpoint&lt;/e1&gt;.</seg>
       </tuv>
@@ -274,12 +274,13 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「無駄足」要検討。</note>
+      <note>(太田) 「無駄足」要検討。無駄が多すぎるくらい?
+target はそのままカタカナだと意味がとりにくいように思いましたので、「想定する」としてみました (特定端末のビューポートを想定してデザインする、という意味)。</note>
       <tuv lang="EN-US">
         <seg>Targeting the specific viewports of specific devices (employing device breakpoints) is an exercise in futility if you want to create a truly inclusive experience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T094058Z" creationid="yoota" creationdate="20170420T092259Z">
-        <seg>真にインクルーシブな体験を作りたいなら、特定のデバイスの特定のビューポートを想定する（デバイスのブレイクポイントを採用する）のは無駄足というものです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T094506Z" creationid="yoota" creationdate="20170420T092259Z">
+        <seg>真にインクルーシブな体験を作りたいなら、特定のデバイスの特定のビューポートを想定する（デバイスのブレイクポイントを採用する）のは無駄が多すぎます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,8 +359,8 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       <tuv lang="EN-US">
         <seg>There are just too many viewport variations available to support each one.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T094251Z" creationid="yoota" creationdate="20170420T092449Z">
-        <seg>それぞれのデバイスに対応するには、ビューポートのバリエーションがあまりにも多すぎます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T094513Z" creationid="yoota" creationdate="20170420T092449Z">
+        <seg>それぞれのデバイスに対応するには、あまりにもビューポートのバリエーションが多すぎるのです。</seg>
       </tuv>
     </tu>
     <tu>
