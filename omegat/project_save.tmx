@@ -168,6 +168,17 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 元訳は  only where を訳せていないように思います。
+
+</note>
+      <tuv lang="EN-US">
+        <seg>Instead, you should create an entirely flexible design from the outset and insert breakpoints only where the content breaks the layout — hence &lt;e0&gt;content breakpoint&lt;/e0&gt; or &lt;e1&gt;tweakpoint&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T093025Z" creationid="yoota" creationdate="20170420T093025Z">
+        <seg>それよりも、最初から完全に柔軟なデザインを作り、コンテンツによってレイアウトが切り替わるブレイクポイント、すなわちコンテンツのブレイクポイント（微調整ポイント）を挿入すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>It also helps the user to &lt;e5&gt;write&lt;/e5&gt; in the page’s language.</seg>
       </tuv>
