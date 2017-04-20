@@ -314,6 +314,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Simple interfaces are usable interfaces, and much less work in terms of managing breakpoints.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T110153Z" creationid="yoota" creationdate="20170420T110153Z">
+        <seg>シンプルなインターフェイスは使いやすい上に、ブレイクポイントの管理の手間がはるかに少なくて済みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「無駄足」要検討。無駄が多すぎるくらい?
 target はそのままカタカナだと意味がとりにくいように思いましたので、「想定する」としてみました (特定端末のビューポートを想定してデザインする、という意味)。</note>
       <tuv lang="EN-US">
