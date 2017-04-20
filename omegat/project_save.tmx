@@ -234,13 +234,16 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) Cmd + Option + M はレスポンシブデザインモードへの切り替えのトグルかと思いますが、補わないと分からないかも。頭の Just は命令形を和らげるjustで「ちょっと」くらいでしょうか。
+      <note>(太田) ちょっと何言ってるか分からない訳になっていますが、Cmd + Option + M はレスポンシブデザインモードへの切り替えのトグルで、これを押すとレスポンシブデザインモードになるもののはずです (と思いますがMacで確認していないので伊原さん確認お願いします。WinだとCtrl+Shift+Mです)。
+頭の Just は命令形を和らげるjustで「ちょっと」くらいでしょうか。
+resizeを「大きくしていく」と訳していますが、これは逆で小さくなりますね。ビューポートが小さくなるからコンテンツが重なるわけです。
+wrap は「折り返す」としました (white-space: no-wrapのwrap)。
 </note>
       <tuv lang="EN-US">
         <seg>Just press &lt;e5&gt;Cmd&lt;/e5&gt; + &lt;e6&gt;Option&lt;/e6&gt; + &lt;e7&gt;M&lt;/e7&gt;, then resize the simulated viewport incrementally until the content is forced to collide, overlap or wrap.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T103228Z" creationid="yoota" creationdate="20170420T101611Z">
-        <seg>ちょっと Cmd + Option + Mキーを押してみてください。すると、シミュレートされたビューポートを、コンテンツがぶつかる、重なり合う、あるいはラップされるところまで少しずつ大きくしていきます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T104547Z" creationid="yoota" creationdate="20170420T101611Z">
+        <seg>ちょっと Cmd + Option + Mキーを押してみてください。すると、シミュレートされたビューポートが、コンテンツがぶつかったり、重なったり、折り返したりするところまで徐々にリサイズされていきます。</seg>
       </tuv>
     </tu>
     <tu>
