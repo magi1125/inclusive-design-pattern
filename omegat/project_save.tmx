@@ -43,6 +43,22 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, &lt;c0&gt;lang="zh-Hans"&lt;/c0&gt; will invoke the rendering of a simplified Chinese font.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T082336Z" creationid="yoota" creationdate="20170420T082336Z">
+        <seg>たとえば、&lt;c0&gt;lang="zh-Hans”&lt;/c0&gt;と指定すると、簡体字中国語のフォントで表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Garbled text, rendered in unbefitting characters is not optimally inclusive of your readership &lt;e1&gt;to say the least&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T082419Z" creationid="yoota" creationdate="20170420T082419Z">
+        <seg>文字セットが合っていないと文字化けが起こります。それでは、&lt;e1&gt;控えめに言っても&lt;/e1&gt;閲覧者にとってインクルーシブとは言えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) document-level とは何か。ぱっと見、従うべきドキュメントがある (WCAGのような文書を指す) という話のようにも読めますが、ここの章のタイトルが "the document" であることを考えると、ドキュメント全体が従うべきベストプラクティスがあるといっているように思えます。この文全体として、「HTMLページの中身は好きに作っても良いが、ドキュメント全体が従うべき慣習がある」と言っているのではないでしょうか。</note>
       <tuv lang="EN-US">
         <seg>HTML pages vary dramatically in shape and size, and can include any combination of patterns; but there are a handful of document-level best practices we should stick to.</seg>
@@ -93,11 +109,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) この前でスクリーンリーダーや点字ディスプレイの話はしていないので、今の訳だと唐突感があります。語順を調整しました。
+
+</note>
       <tuv lang="EN-US">
         <seg>In addition to screen readers and computer braille displays benefiting from proper language declaration, it also helps browsers choose and render system fonts with the appropriate character sets.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T081502Z" creationid="yoota" creationdate="20170420T081502Z">
-        <seg>スクリーンリーダーやコンピュータ点字ディスプレイの使用時のメリットに加えて、正しい言語が明示されていると、ブラウザもシステムフォントを選択したり適切な文字セットを使って表示できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T082231Z" creationid="yoota" creationdate="20170420T081502Z">
+        <seg>適切な言語が明示されていれば、スクリーンリーダーや点字ディスプレイにとって有益ですし、さらに、ブラウザが適切な文字セットを含むシステムフォントを選択することもできるようになります。</seg>
       </tuv>
     </tu>
     <tu>
