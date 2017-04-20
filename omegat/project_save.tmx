@@ -233,6 +233,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;c0&gt;lang&lt;/c0&gt; attribute can be used to improve the readability, translatability and compatibility of web documents’ written content, helping open it up to an international audience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T084247Z" creationid="yoota" creationdate="20170420T084247Z">
+        <seg>&lt;c0&gt;lang&lt;/c0&gt;属性は、Webドキュメントに書かれたコンテンツの読みやすさ、翻訳のしやすさ、互換性を向上させて、世界中の人に開かれたものにすることができるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) DOCTYPEは大文字にしたいです。HTML仕様では大文字表記です。
 https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 文書型とすべきかどうか悩みましたが、HTML5はSGMLではないため、もはやDOCTYPEに文書型宣言の意味はありません。それをふまえると、下手に文書型と訳したりしないほうが良いように思いました。
