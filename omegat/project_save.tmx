@@ -28,6 +28,12 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <note>(画像alt)</note>
+      <tuv lang="EN-US">
+        <seg>A small, black box represents the smallest conceivable viewport and a larger gray box grows from it to represent infinite larger viewports.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) respond が訳から落ちているかも。responseの動詞なのですが訳が難しいですね。日本語では「レスポンシブする」という言い方になるところですが正直かっこ悪い。</note>
       <tuv lang="EN-US">
         <seg>By designing documents that can respond and adapt to their environment, they become compatible with the ever proliferating choice of devices on the market.</seg>
@@ -318,6 +324,14 @@ target はそのままカタカナだと意味がとりにくいように思い�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That doesn’t mean you need a breakpoint for every width.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T110055Z" creationid="yoota" creationdate="20170420T110055Z">
+        <seg>ただしそれは、1つのブレイクポイントですべての幅に対応しなければならないということではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) do an impression of XXで XX のものまねをする、という意味があるようです。たぶん全体としてはいつもの皮肉っぽいヘイドンジョークでしょう。
 voice profile called Jack は「Jackと呼ばれる音声プロファイル」かもしれません (音声プロファイルにはたいてい人の名前がついていて、たとえばWindows7 のナレーターのデフォルト音声は Anna という名前です)。
 </note>
@@ -489,6 +503,15 @@ regressを「後方互換する」としていますが、日本語として違�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T100655Z" creationid="yoota" creationdate="20170418T100655Z">
         <seg>ユーザーがブラウザを開いたときに使用するインターフェイスは、あなたがデザインするインターフェイスだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) MUSTではなくSHOULDなのでそれなりの訳に。</note>
+      <tuv lang="EN-US">
+        <seg>Your responsive design should cover every width.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T110020Z" creationid="yoota" creationdate="20170420T110020Z">
+        <seg>レスポンシブデザインはあらゆる幅に対応しているべきです。</seg>
       </tuv>
     </tu>
     <tu>
