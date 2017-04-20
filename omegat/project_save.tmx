@@ -145,8 +145,8 @@ body内のの子要素にlang属性を、ですね。</note>
       <tuv lang="EN-US">
         <seg>It is possible to switch languages within a page using the &lt;c0&gt;lang&lt;/c0&gt; attribute on child elements within the &lt;c1&gt;&lt;body&gt;&lt;/c1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T083228Z" creationid="yoota" creationdate="20170420T083011Z">
-        <seg>&lt;c1&gt;&lt;body&gt;&lt;/c1&gt;内の子要素に&lt;c0&gt;lang&lt;/c0&gt;属性を使用して、1つのページの中で言語を切り替えることも可能です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T083243Z" creationid="yoota" creationdate="20170420T083011Z">
+        <seg>&lt;c1&gt;&lt;body&gt;&lt;/c1&gt;内の子要素に&lt;c0&gt;lang&lt;/c0&gt;属性を指定して、1つのページの中で言語を切り替えることも可能です。</seg>
       </tuv>
     </tu>
     <tu>
