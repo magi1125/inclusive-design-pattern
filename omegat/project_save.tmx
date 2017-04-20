@@ -169,8 +169,6 @@ In addition を「その上」とすると前からのつながりがおかし�
     </tu>
     <tu>
       <note>(太田) 元訳は  only where を訳せていないように思います。～のところだけに挿入する、と言っています。
-
-
 </note>
       <tuv lang="EN-US">
         <seg>Instead, you should create an entirely flexible design from the outset and insert breakpoints only where the content breaks the layout — hence &lt;e0&gt;content breakpoint&lt;/e0&gt; or &lt;e1&gt;tweakpoint&lt;/e1&gt;.</seg>
@@ -280,8 +278,8 @@ body内のの子要素にlang属性を、ですね。</note>
       <tuv lang="EN-US">
         <seg>Targeting the specific viewports of specific devices (employing device breakpoints) is an exercise in futility if you want to create a truly inclusive experience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T092259Z" creationid="yoota" creationdate="20170420T092259Z">
-        <seg>真にインクルーシブな体験を作りたいなら、特定のデバイスの特定のビューポートをターゲットにする（デバイスのブレイクポイントを採用する）のは無駄足というものです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170420T094058Z" creationid="yoota" creationdate="20170420T092259Z">
+        <seg>真にインクルーシブな体験を作りたいなら、特定のデバイスの特定のビューポートを想定する（デバイスのブレイクポイントを採用する）のは無駄足というものです。</seg>
       </tuv>
     </tu>
     <tu>
