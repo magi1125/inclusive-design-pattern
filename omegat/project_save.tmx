@@ -34,6 +34,15 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 原文にある Pinch がなくなっているように思います。</note>
+      <tuv lang="EN-US">
+        <seg>Allow Pinch-to-Zoom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170421T032051Z" creationid="yoota" creationdate="20170421T032051Z">
+        <seg>ピンチによる拡大縮小を可能にする</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) As a rule of thumb がこれでいいのかどうか。「親指で測る」というたとえは、「経験から得たやり方で測る」or「大雑把に測る」の2つの意味があるようです。ここでは「大雑把に言えば」のほうかもしれません (細かく言えば幅や高さが必要な要素はあるはずなので)。</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, you should never set a fixed width or height on any element: the intrinsic flexibility of boxes means they can tolerate the same content in different spaces.</seg>
