@@ -390,8 +390,8 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       <tuv lang="EN-US">
         <seg>The &lt;c0&gt;viewport&lt;/c0&gt; meta tag is where responsive design is, somewhat magically, enabled.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170421T033840Z" creationid="yoota" creationdate="20170421T032527Z">
-        <seg>&lt;c0&gt;viewport&lt;/c0&gt;メタタグを置くことで、ちょっとした魔法のようにレスポンシブデザインが有効になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170421T034226Z" creationid="yoota" creationdate="20170421T032527Z">
+        <seg>&lt;c0&gt;viewport&lt;/c0&gt;メタタグを置くことで、魔法のようにレスポンシブデザインが有効になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,12 +560,13 @@ regressを「後方互換する」としていますが、日本語として違�
     </tu>
     <tu>
       <note>(太田) 「魔法の効果が薄れる」は何を言っているのか分かりにくいです。make experiences less magical は要するにユーザー体験を損なっているという話なので、それが伝わるようにする必要はあると思います。
+less magical はいわゆるヘイドンジョークなので厳密に訳す必要もないと思いますが、「ユーザー体験を魔法のように損なう」としてみました。
 </note>
       <tuv lang="EN-US">
         <seg>Yet it’s also where we habitually disable users’ ability to zoom content, making experiences, well, &lt;e1&gt;less&lt;/e1&gt; magical.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170421T032603Z" creationid="yoota" creationdate="20170421T032603Z">
-        <seg>しかし、このタグのせいでユーザーがコンテンツを拡大／縮小できず、魔法の効果が薄れてしまうケースも少なくありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170421T034242Z" creationid="yoota" creationdate="20170421T032603Z">
+        <seg>しかしこのタグは同時に、ユーザーによるコンテンツの拡大縮小を無効にして、魔法のようにユーザー体験を損なうことが少なくありません。</seg>
       </tuv>
     </tu>
     <tu>
