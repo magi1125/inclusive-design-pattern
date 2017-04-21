@@ -70,6 +70,15 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <note>(太田) distraction(気が散ること)を軽減すると言っていて、達成基準2.2.2「 一時停止、停止、非表示」に関連した話のように思います。単に邪魔という話ではない訳にしたいところ。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;•&lt;/s0&gt;The user wants to crop animated elements out of the view to reduce distraction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170421T040803Z" creationid="yoota" creationdate="20170421T040803Z">
+        <seg>• ユーザーは、邪魔なアニメーション要素を表示したくない。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(画像alt)</note>
       <tuv lang="EN-US">
         <seg>A small, black box represents the smallest conceivable viewport and a larger gray box grows from it to represent infinite larger viewports.</seg>
