@@ -44,17 +44,44 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <note>(太田) テキストが大きい→テキストを大きくする、としました。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;•&lt;/s0&gt;Selecting words to copy/paste may be easier for users when the text is larger.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170421T040406Z" creationid="yoota" creationdate="20170421T040314Z">
+        <seg>• テキストを大きくすると、コピー&amp;ペーストしたい単語を選択しやすくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;•&lt;/s0&gt;The text may be too small for the user to read.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170421T040133Z" creationid="yoota" creationdate="20170421T040133Z">
+        <seg>• テキストが小さすぎて読めない恐れがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) 詳細な画像→画像の細部としました (画像を拡大する話なので)</note>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;•&lt;/s0&gt;The user may want to see more detail in an image.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170421T040244Z" creationid="yoota" creationdate="20170421T040237Z">
+        <seg>• 画像の細部を見たいユーザーがいるかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(画像alt)</note>
       <tuv lang="EN-US">
         <seg>A small, black box represents the smallest conceivable viewport and a larger gray box grows from it to represent infinite larger viewports.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) この機能→拡大縮小と補いました</note>
       <tuv lang="EN-US">
         <seg>Adrian Roselli provides a comprehensive list of &lt;a0&gt;&lt;s1&gt;reasons why disabling this feature undermines inclusion&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;4&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170421T035147Z" creationid="yoota" creationdate="20170421T035147Z">
-        <seg>エイドリアン・ロセッリ（Adrian Roselli）がリストアップした、 &lt;a0&gt;&lt;s1&gt;この機能を無効にするとインクルージョンが損なわれる理由&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;（脚注7）&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;は以下のとおりです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170421T040126Z" creationid="yoota" creationdate="20170421T035147Z">
+        <seg>エイドリアン・ロセッリ（Adrian Roselli）がリストアップした、 &lt;a0&gt;&lt;s1&gt;拡大縮小を無効にするとインクルージョンが損なわれる理由&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;（脚注7）&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;は以下のとおりです。</seg>
       </tuv>
     </tu>
     <tu>
