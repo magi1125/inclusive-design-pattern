@@ -378,6 +378,15 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 疑問訳。いったん保留</note>
+      <tuv lang="EN-US">
+        <seg>The &lt;c0&gt;viewport&lt;/c0&gt; meta tag is where responsive design is, somewhat magically, enabled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170421T032527Z" creationid="yoota" creationdate="20170421T032527Z">
+        <seg>&lt;c0&gt;viewport&lt;/c0&gt;メタタグは、レスポンシブデザインが可能になる、ちょっとした魔法のようなものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) DOCTYPEは大文字にしたいです。HTML仕様では大文字表記です。
 https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 文書型とすべきかどうか悩みましたが、HTML5はSGMLではないため、もはやDOCTYPEに文書型宣言の意味はありません。それをふまえると、下手に文書型と訳したりしないほうが良いように思いました。
@@ -531,6 +540,14 @@ regressを「後方互換する」としていますが、日本語として違�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170419T094940Z" creationid="yoota" creationdate="20170418T103138Z">
         <seg>DOCTYPEが明確でないと、ブラウザはコンテンツをどう解釈したらよいか分からず、&lt;a1&gt;&lt;s2&gt;非対応の不適合なモード、いわゆる&lt;s3&gt;Quirksモード&lt;/s3&gt;&lt;/s2&gt;&lt;/a1&gt;&lt;s4&gt;&lt;a5&gt;&lt;s6&gt;（脚注4）&lt;/s6&gt;&lt;/a5&gt;&lt;/s4&gt;で表示してしまうことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yet it’s also where we habitually disable users’ ability to zoom content, making experiences, well, &lt;e1&gt;less&lt;/e1&gt; magical.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170421T032603Z" creationid="yoota" creationdate="20170421T032603Z">
+        <seg>しかし、このタグのせいでユーザーがコンテンツを拡大／縮小できず、魔法の効果が薄れてしまうケースも少なくありません。</seg>
       </tuv>
     </tu>
     <tu>
