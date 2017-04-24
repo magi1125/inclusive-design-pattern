@@ -611,6 +611,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>There is a rationale for reasonably large defaults: anything else risks alienating a huge swath of users, many from older populations whose eyesight has deteriorated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T065406Z" creationid="yoota" creationdate="20170424T065406Z">
+        <seg>デフォルトが大きめなのには理由があります。他のサイズでは、特に視力が低下した高齢者など、さまざまなユーザーを遠ざけてしまう恐れがあるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)「後押し」は要検討。</note>
       <tuv lang="EN-US">
         <seg>This book is not the place to discuss the ins and outs of responsive design, but you should be aware of some responsive design principles that support inclusive design.</seg>
@@ -771,6 +779,14 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T100727Z">
         <seg>あなたがデザインするインターフェイスはあくまでブラウザのインターフェイスに付随するものであり、ユーザー側のさまざまな設定や構成に対応できなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“But my audience is young and hip!” I hear you say.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T065416Z" creationid="yoota" creationdate="20170424T065416Z">
+        <seg>「でも私のページの閲覧者は若くて流行に敏感な人たちだから」。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
