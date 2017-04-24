@@ -53,11 +53,13 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 括弧書きは引用元にはなく、ヘイドンさんの感想と思われます。原著でもそのことは書かれていないのですが、「!」をつけることで引用文の地の文とは違うという雰囲気にしているのかもしれません。ちょっと口語っぽい訳にすると良いのかもしれないと思いました。
+「きちんとレスポンシブデザインを作らない」という表現では全くレスポンシブしないものも含まれそうですが、原文はそうではありません。「レスポンシブデザインの作りかたがまずい」としてみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;•&lt;/s0&gt;The developer did a poor job of responsive design, and the user needs to zoom just to use the page (this happens!).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T024339Z" creationid="yoota" creationdate="20170424T024339Z">
-        <seg>• 開発者がきちんとレスポンシブデザインを作らないと、ユーザーはページを利用するために拡大縮小が必要になる（よくあるパターン）。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T025806Z" creationid="yoota" creationdate="20170424T024339Z">
+        <seg>• 開発者のレスポンシブデザインの作りかたがまずいと、ページを利用するために拡大縮小が必要になる（これがよくあるんです!）。</seg>
       </tuv>
     </tu>
     <tu>
