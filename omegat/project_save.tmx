@@ -151,8 +151,8 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       <tuv lang="EN-US">
         <seg>As a rule of thumb, avoid using positioned elements, especially with &lt;c1&gt;position: fixed&lt;/c1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T064055Z" creationid="yoota" creationdate="20170424T062851Z">
-        <seg>大雑把に言ってしまえば、位置固定の要素、特に&lt;c1&gt;position:fixed&lt;/c1&gt;で固定したものは使わないでください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T064150Z" creationid="yoota" creationdate="20170424T062851Z">
+        <seg>大雑把に言ってしまえば、固定配置の要素、特に&lt;c1&gt;position:fixed&lt;/c1&gt;で固定したものは使わないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -673,8 +673,8 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       <tuv lang="EN-US">
         <seg>When content is enlarged, any elements stuck to a certain part of the screen are liable to become blind spots.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T063624Z" creationid="yoota" creationdate="20170424T063624Z">
-        <seg>画面の特定の場所に固定された要素は、コンテンツを拡大したときに見えなくなる恐れがあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T064212Z" creationid="yoota" creationdate="20170424T063624Z">
+        <seg>コンテンツを拡大したとき、画面の特定の場所に固定された要素は見えなくなる恐れがあります。</seg>
       </tuv>
     </tu>
     <tu>
