@@ -147,12 +147,12 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
-      <note>(太田) </note>
+      <note>(太田) 「要素の位置を固定する」は原文では「位置固定の要素を使うのを避ける」で微妙にニュアンスが違います。</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, avoid using positioned elements, especially with &lt;c1&gt;position: fixed&lt;/c1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T063226Z" creationid="yoota" creationdate="20170424T062851Z">
-        <seg>経験から言って、要素の位置を固定するのはやめましょう。特に&lt;c1&gt;position:fixed&lt;/c1&gt;は避けてください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T064029Z" creationid="yoota" creationdate="20170424T062851Z">
+        <seg>大雑把に言ってしまえば、位置固定の要素を使うのは避けるべきです。特に&lt;c1&gt;position:fixed&lt;/c1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -161,8 +161,8 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       <tuv lang="EN-US">
         <seg>As a rule of thumb, you should never set a fixed width or height on any element: the intrinsic flexibility of boxes means they can tolerate the same content in different spaces.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T063036Z" creationid="yoota" creationdate="20170420T110743Z">
-        <seg>経験上、どんな要素も幅や高さを固定すべきではありません。ボックスに柔軟性があれば、同じコンテンツでさまざまなスペースに対応できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T063956Z" creationid="yoota" creationdate="20170420T110743Z">
+        <seg>大雑把に言ってしまえば、どんな要素も幅や高さを固定すべきではありません。ボックスに柔軟性があれば、同じコンテンツでさまざまなスペースに対応できます。</seg>
       </tuv>
     </tu>
     <tu>
