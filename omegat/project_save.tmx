@@ -487,6 +487,15 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) generousは単に「大きい」というよりももう少しゆったりした感じのイメージかと思います。</note>
+      <tuv lang="EN-US">
+        <seg>Sure, but generous font sizes don’t &lt;e0&gt;offend&lt;/e0&gt; young, keen-eyed folks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T065804Z" creationid="yoota" creationdate="20170424T065804Z">
+        <seg>なるほど、そうかもしれません。しかし、フォントサイズが大きいからと言って、若くて眼力の鋭いユーザーが&lt;e0&gt;気分を害する&lt;/e0&gt;とは思えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「無駄足」要検討。無駄が多すぎるくらい?
 target はそのままカタカナだと意味がとりにくいように思いましたので、「想定する」としてみました (特定端末のビューポートを想定してデザインする、という意味)。</note>
       <tuv lang="EN-US">
