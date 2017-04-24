@@ -96,6 +96,17 @@ http://adrianroselli.com/2015/10/dont-disable-zoom.html
       </tuv>
     </tu>
     <tu>
+      <note>(太田) ここの括弧は引用元にも存在します。
+quirkはネガティブイメージの言葉ですが、後方互換としてしまうとネガティブな感じがしません。引用元を見ると iOS9 でズームがおかしくなる話のようで、ブラウザのQuirksモードを指しているわけでもないようです。ということで、ここは「奇妙なふるまい」くらいでどうでしょう。
+(つまりはバグ) の意味がわかりにくいですが Quirk もバグだと言っているので、「これも要するにバグ」くらいでしょうか。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;•&lt;/s0&gt;There is a browser bug or quirk (still a bug) that causes the default zoom level to be odd.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T030552Z" creationid="yoota" creationdate="20170424T030552Z">
+        <seg>• ブラウザのバグや奇妙なふるまい（これも要するにバグ）のせいで、デフォルトの表示倍率では正しく表示されないことがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 【要検討】French Fontとfallbackはフォント名ではないはずなので訳す必要があるような気もするが、訳したものをCSSに突っ込むとそれはそれでおかしいかもしれない。どうするか。</note>
       <tuv lang="EN-US">
         <seg>&lt;s2&gt;font-family&lt;/s2&gt;&lt;s3&gt;:&lt;/s3&gt; French Font, fallback, sans-serif&lt;s4&gt;;&lt;/s4&gt;
