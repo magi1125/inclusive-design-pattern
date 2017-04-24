@@ -274,8 +274,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       <tuv lang="EN-US">
         <seg>If your layout breaks badly when a user zooms, &lt;e0&gt;the design&lt;/e0&gt; is at fault, not the user, and removing their ability to zoom is not a solution.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T062113Z" creationid="yoota" creationdate="20170424T062113Z">
-        <seg>ユーザーが拡大／縮小したときにレイアウトが崩れてしまうとしたら、悪いのはユーザーではなく&lt;e0&gt;デザイン&lt;/e0&gt;です。拡大縮小できないようにしたところで解決にはなりません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T062140Z" creationid="yoota" creationdate="20170424T062113Z">
+        <seg>ユーザーが拡大縮小したときにレイアウトが崩れてしまうとしたら、悪いのはユーザーではなく&lt;e0&gt;デザイン&lt;/e0&gt;です。拡大縮小できないようにしたところで解決にはなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -615,7 +615,9 @@ more important というほどでもないが、とはいえ多少は重要と�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) you→デザイナーとされているがどうするか。</note>
+      <note>(太田) you→デザイナーとされているがどうするか。
+shouldなので「しなければならない」は強すぎるかもしれない。
+</note>
       <tuv lang="EN-US">
         <seg>To achieve inclusive design you should act as a facilitator, allowing users to configure the way they view and interact with the content you provide them.</seg>
       </tuv>
