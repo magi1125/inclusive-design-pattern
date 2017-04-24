@@ -271,6 +271,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If your layout breaks badly when a user zooms, &lt;e0&gt;the design&lt;/e0&gt; is at fault, not the user, and removing their ability to zoom is not a solution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T062113Z" creationid="yoota" creationdate="20170424T062113Z">
+        <seg>ユーザーが拡大／縮小したときにレイアウトが崩れてしまうとしたら、悪いのはユーザーではなく&lt;e0&gt;デザイン&lt;/e0&gt;です。拡大縮小できないようにしたところで解決にはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>テストメモ
 太田: OmegaTでチーム編集するテスト</note>
       <tuv lang="EN-US">
@@ -539,6 +547,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T083829Z" creationid="yoota" creationdate="20170418T083733Z">
         <seg>その証拠に、コードの先頭の行には "DOC" という文字列が出現します。&lt;c0&gt;&lt;!DOCTYPE html&gt;&lt;/c0&gt; ですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fewer decisions you make for them, the more they can make for themselves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T062047Z" creationid="yoota" creationdate="20170424T062047Z">
+        <seg>デザイナーが決めることが少ないほど、ユーザーが決められることが多くなります。</seg>
       </tuv>
     </tu>
     <tu>
