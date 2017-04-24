@@ -48,8 +48,8 @@ Do not put everything in the same bag! のような意味のようです。</not
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;•&lt;/s0&gt;It can be confounding for users when a pinch/spread gesture is interpreted as something else.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T030828Z" creationid="yoota" creationdate="20170424T030828Z">
-        <seg>• ピンチ／スプレッドの動作が拡大縮小以外の意味に解釈されるとユーザーが混乱する。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T030918Z" creationid="yoota" creationdate="20170424T030828Z">
+        <seg>• ピンチイン・ピンチアウトの動作が拡大縮小以外の意味に解釈されるとユーザーが混乱する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,6 +672,14 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170421T034242Z" creationid="yoota" creationdate="20170421T032603Z">
         <seg>しかしこのタグは同時に、ユーザーによるコンテンツの拡大縮小を無効にして、魔法のようにユーザー体験を損なうことが少なくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may recall my remark earlier that the browser itself is an interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T030945Z" creationid="yoota" creationdate="20170424T030945Z">
+        <seg>前述したように、ブラウザ自体もインターフェイスです。</seg>
       </tuv>
     </tu>
     <tu>
