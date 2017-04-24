@@ -195,6 +195,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Desktop browsers tend to render fonts at 16px by default.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T065316Z" creationid="yoota" creationdate="20170424T065316Z">
+        <seg>デスクトップのブラウザでは、デフォルトのフォントサイズはたいてい16pxです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 図版部分はどうしますかね。この箇所の原文は画像のalt、参考訳文は画像の中のテキストを訳したものです。</note>
       <tuv lang="EN-US">
         <seg>Diagram labels your interface hidden among all the browser interface elements.</seg>
@@ -207,6 +215,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170419T102725Z" creationid="yoota" creationdate="20170419T101944Z">
         <seg>たとえばFirefoxでは、&lt;c6&gt;&lt;textarea&gt;&lt;/c6&gt;でスペルミスをハイライト表示する際の辞書が切り替えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Size</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T065302Z" creationid="yoota" creationdate="20170424T065302Z">
+        <seg>フォントサイズ</seg>
       </tuv>
     </tu>
     <tu>
