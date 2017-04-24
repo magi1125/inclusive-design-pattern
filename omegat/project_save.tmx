@@ -491,8 +491,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <tuv lang="EN-US">
         <seg>Sure, but generous font sizes don’t &lt;e0&gt;offend&lt;/e0&gt; young, keen-eyed folks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T065804Z" creationid="yoota" creationdate="20170424T065804Z">
-        <seg>なるほど、そうかもしれません。しかし、フォントサイズが大きいからと言って、若くて眼力の鋭いユーザーが&lt;e0&gt;気分を害する&lt;/e0&gt;とは思えません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T065946Z" creationid="yoota" creationdate="20170424T065804Z">
+        <seg>なるほど、そうかもしれません。しかし、フォントサイズが大きめだからと言って、若くて眼力の鋭いユーザーが&lt;e0&gt;気分を害する&lt;/e0&gt;とは思えません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,6 +590,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170424T062047Z" creationid="yoota" creationdate="20170424T062047Z">
         <seg>デザイナーが決めることが少ないほど、ユーザーが決められることが多くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The key to inclusive design isn’t to target specific groups, it’s to &lt;e1&gt;not exclude&lt;/e1&gt; groups arbitrarily — there’s nothing to gain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T070010Z" creationid="yoota" creationdate="20170424T070010Z">
+        <seg>インクルーシブデザインで重要なのは、特定のユーザー層をターゲットにすることではなく、特定のユーザー層を恣意的に&lt;e1&gt;除外しない&lt;/e1&gt;ことです。ターゲットを絞ることで得るものは何一つありません。</seg>
       </tuv>
     </tu>
     <tu>
