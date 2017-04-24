@@ -147,11 +147,12 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <note>(太田) </note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, avoid using positioned elements, especially with &lt;c1&gt;position: fixed&lt;/c1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T062933Z" creationid="yoota" creationdate="20170424T062851Z">
-        <seg>経験から言って、要素の位置を固定するのはやめましょう。特に&lt;c1&gt;position:fixed&lt;/c1&gt;での固定は避けてください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T063226Z" creationid="yoota" creationdate="20170424T062851Z">
+        <seg>経験から言って、要素の位置を固定するのはやめましょう。特に&lt;c1&gt;position:fixed&lt;/c1&gt;は避けてください。</seg>
       </tuv>
     </tu>
     <tu>
