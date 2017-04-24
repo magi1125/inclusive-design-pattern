@@ -156,7 +156,8 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
-      <note>(太田) As a rule of thumb がこれでいいのかどうか。「親指で測る」というたとえは、「経験から得たやり方で測る」or「大雑把に測る」の2つの意味があるようです。ここでは「大雑把に言えば」のほうかもしれません (細かく言えば幅や高さが必要な要素はあるはずなので)。</note>
+      <note>(太田) As a rule of thumb がこれでいいのかどうか。「親指で測る」というたとえは、「経験から得たやり方で測る」or「大雑把に測る」の2つの意味があるようです。ここでは「大雑把に言えば」のほうかもしれません (細かく言えば幅や高さが必要な要素はあるはずなので)。
+後ろにも As a rule of thumb が出てくる (position: fixedの話)</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, you should never set a fixed width or height on any element: the intrinsic flexibility of boxes means they can tolerate the same content in different spaces.</seg>
       </tuv>
@@ -666,6 +667,14 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T112253Z" creationid="yoota" creationdate="20170420T112012Z">
         <seg>コンテンツ側のCSSがなければ、Webページはこのようにふるまいます。CSSを含める場合でも、この基本的なふるまいを尊重すべきでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When content is enlarged, any elements stuck to a certain part of the screen are liable to become blind spots.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T063624Z" creationid="yoota" creationdate="20170424T063624Z">
+        <seg>画面の特定の場所に固定された要素は、コンテンツを拡大したときに見えなくなる恐れがあります。</seg>
       </tuv>
     </tu>
     <tu>
