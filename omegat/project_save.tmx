@@ -593,7 +593,7 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「ターゲットを絞ることで得るものは何一つありません」は言いすぎです。</note>
+      <note>(太田) 「ターゲットを絞ることで得るものは何一つありません」は言いすぎです。「特定の層を排除しても、得るものは何一つありません」が正しいかと。</note>
       <tuv lang="EN-US">
         <seg>The key to inclusive design isn’t to target specific groups, it’s to &lt;e1&gt;not exclude&lt;/e1&gt; groups arbitrarily — there’s nothing to gain.</seg>
       </tuv>
@@ -761,6 +761,14 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170421T034242Z" creationid="yoota" creationdate="20170421T032603Z">
         <seg>しかしこのタグは同時に、ユーザーによるコンテンツの拡大縮小を無効にして、魔法のようにユーザー体験を損なうことが少なくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may already be accustomed to the convention of setting font size using a percentage, on the root (&lt;c0&gt;&lt;html&gt;&lt;/c0&gt;) element like so:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T070309Z" creationid="yoota" creationdate="20170424T070309Z">
+        <seg>もうすでにご存じかもしれませんが、フォントサイズはルート（&lt;c0&gt;&lt;html&gt;&lt;/c0&gt;）要素でパーセンテージで設定するようにしましょう。</seg>
       </tuv>
     </tu>
     <tu>
