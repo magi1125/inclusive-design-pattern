@@ -44,6 +44,15 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 日本ではあまりスプレッドという言い方は聞かないかも。ピンチイン/ピンチアウトと言うことが多い?</note>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;•&lt;/s0&gt;It can be confounding for users when a pinch/spread gesture is interpreted as something else.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170424T030828Z" creationid="yoota" creationdate="20170424T030828Z">
+        <seg>• ピンチ／スプレッドの動作が拡大縮小以外の意味に解釈されるとユーザーが混乱する。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) テキストが大きい→テキストを大きくする、としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;•&lt;/s0&gt;Selecting words to copy/paste may be easier for users when the text is larger.</seg>
