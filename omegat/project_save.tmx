@@ -466,11 +466,12 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) たぶん誤訳で、ちょっと補ってこういうことかなと思います。</note>
       <tuv lang="EN-US">
         <seg>It’s what ends up in the compiled CSS, parsable by browsers, that counts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T094027Z" creationid="yoota" creationdate="20170425T094027Z">
-        <seg>重要なのは、最終的にブラウザが解析する、コンパイル後のCSSです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T094455Z" creationid="yoota" creationdate="20170425T094027Z">
+        <seg>最終的にブラウザが解析するコンパイル後のCSSで、計算後の数値が使われる羽目になります。</seg>
       </tuv>
     </tu>
     <tu>
