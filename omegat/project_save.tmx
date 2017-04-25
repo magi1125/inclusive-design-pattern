@@ -561,8 +561,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <tuv lang="EN-US">
         <seg>Not to worry: &lt;c0&gt;font-size: calc(1em + 1vw);&lt;/c0&gt; is a progressive enhancement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T102942Z" creationid="yoota" creationdate="20170425T102942Z">
-        <seg>しかし心配はいりません。 &lt;c0&gt;font-size: calc(1em+1vw);&lt;/c0&gt; という記述はプログレッシブエンハンスメントになっているからです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T103043Z" creationid="yoota" creationdate="20170425T102942Z">
+        <seg>ご心配なく。&lt;c0&gt;font-size: calc(1em+1vw);&lt;/c0&gt; という記述はプログレッシブエンハンスメントになっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -920,6 +920,14 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T090354Z" creationid="yoota" creationdate="20170425T084924Z">
         <seg>すべてを相対的に設定しておけば、ルートのフォントサイズを調整するだけで、ページ全体のサイズを簡単に調整できます。以下のメディアクエリの例をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where it is not recognized, browsers fall back to the user agent’s default.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T103208Z" creationid="yoota" creationdate="20170425T102957Z">
+        <seg>この指定が認識できない場合、ブラウザはユーザーエージェントのデフォルトにフォールバックします。</seg>
       </tuv>
     </tu>
     <tu>
