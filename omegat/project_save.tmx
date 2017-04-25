@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -750,6 +750,15 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T083829Z" creationid="yoota" creationdate="20170418T083733Z">
         <seg>その証拠に、コードの先頭の行には "DOC" という文字列が出現します。&lt;c0&gt;&lt;!DOCTYPE html&gt;&lt;/c0&gt; ですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) ひとまず下訳を入れます。</note>
+      <tuv lang="EN-US">
+        <seg>The clue is in the “DOC” part which should appear in the first line of code: &lt;g1&gt;&lt;!DOCTYPE html&gt;&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170425T140350Z" creationid="rikiha" creationdate="20170425T140350Z">
+        <seg>その証拠に、コードの先頭の行には "DOC" という文字列が出現します。&lt;g1&gt;&lt;!DOCTYPE html&gt;&lt;/g1&gt;ですね。</seg>
       </tuv>
     </tu>
     <tu>
