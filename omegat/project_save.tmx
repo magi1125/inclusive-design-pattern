@@ -373,6 +373,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In the example below, the &lt;c0&gt;line-height&lt;/c0&gt; and &lt;c1&gt;margin&lt;/c1&gt; of the &lt;c2&gt;p&lt;/c2&gt; will scale proportionately, because they are both set relative to the &lt;c3&gt;font-size&lt;/c3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T083627Z" creationid="yoota" creationdate="20170425T083627Z">
+        <seg>たとえば次の例では、&lt;c2&gt;p&lt;/c2&gt;の&lt;c0&gt;line-height&lt;/c0&gt;と&lt;c1&gt;margin&lt;c1&gt;は&lt;c3&gt;font-size&lt;/c3&gt;に相対的に設定されているため、両者のサイズのバランスは維持されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 元訳は  only where を訳せていないように思います。～のところだけに挿入する、と言っています。
 hence以降をどうするか。tweakpointは元訳の「微調整ポイント」のままにしていますが日本語で何か言い方があるんですかね。</note>
       <tuv lang="EN-US">
@@ -687,6 +695,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T091812Z" creationid="yoota" creationdate="20170420T091812Z">
         <seg>本書ではレスポンシブデザインについて詳述はしませんが、ぜひ知っておきたい、インクルーシブデザインを後押しするレスポンシブデザインの原則をいくつか紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This greatly reduces the complexity of your media queries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T083521Z" creationid="yoota" creationdate="20170425T083521Z">
+        <seg>そうすれば、メディアクエリの複雑さも大幅に軽減されます。</seg>
       </tuv>
     </tu>
     <tu>
