@@ -9,8 +9,8 @@
       <tuv lang="EN-US">
         <seg>(&lt;s0&gt;Note:&lt;/s0&gt; To ensure the media query triggers at the correct point relative to user-defined font size, we are using the em unit there, too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T090141Z" creationid="yoota" creationdate="20170425T085320Z">
-        <seg>（注：ユーザーが指定したフォントサイズに対して、相対的に正しい位置で確実にメディアクエリが実行されるようにするために、単位にemを使っています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T090203Z" creationid="yoota" creationdate="20170425T085320Z">
+        <seg>（注：ユーザーが指定したフォントサイズに対して相対的に正しい位置で確実にメディアクエリが実行されるようにするために、単位にemを使っています。</seg>
       </tuv>
     </tu>
     <tu>
