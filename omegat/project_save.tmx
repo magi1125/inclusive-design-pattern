@@ -827,6 +827,14 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Viewport Units</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T094521Z" creationid="yoota" creationdate="20170425T094521Z">
+        <seg>ビューポートの単位</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) オーサーCSSは日本語で普通どう呼ぶんですかね。「コンテンツ側のCSS」みたいな言い方が多い?
 従うべきとまでは言っていなくて、リスペクトしろという話ですね。</note>
       <tuv lang="EN-US">
