@@ -242,8 +242,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>Do not make the mistake of converting theoretical rem units into pixels via a CSS preprocessor.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T093004Z" creationid="yoota" creationdate="20170425T093004Z">
-        <seg>あくまで計算上の単位であるremを、CSSプリプロセッサで間違ってピクセルに変換しないように注意してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T093428Z" creationid="yoota" creationdate="20170425T093004Z">
+        <seg>remを、CSSプリプロセッサで誤ってピクセルに変換しないように注意してください。</seg>
       </tuv>
     </tu>
     <tu>
