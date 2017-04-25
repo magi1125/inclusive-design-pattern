@@ -737,8 +737,8 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       <tuv lang="EN-US">
         <seg>To make sure &lt;c3&gt;font-size&lt;/c3&gt;, &lt;c4&gt;padding&lt;/c4&gt; and &lt;c5&gt;margin&lt;/c5&gt; all resize proportionately, each should be set using the relative units &lt;c6&gt;rem&lt;/c6&gt;, &lt;c7&gt;em&lt;/c7&gt; or &lt;c8&gt;ch&lt;/c8&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T080019Z" creationid="yoota" creationdate="20170425T080019Z">
-        <seg>また、調整時にfont-size、padding、marginのバランスを保つために、それぞれを相対単位のremやemを使って設定する必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T081447Z" creationid="yoota" creationdate="20170425T080019Z">
+        <seg>また、ユーザーが文字サイズを変更した際、&lt;c3&gt;font-size&lt;/c3&gt;、&lt;c4&gt;padding&lt;/c4&gt;、&lt;c5&gt;margin&lt;/c5&gt;が協調して変化するように、それぞれを相対単位の&lt;c6&gt;rem&lt;/c6&gt;や&lt;c7&gt;em&lt;/c7&gt;、&lt;c8&gt;ch&lt;/c8&gt;を使って設定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
