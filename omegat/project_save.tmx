@@ -167,9 +167,12 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 訳から&lt;h2&gt;が落ちています。</note>
+      <note>(太田) 訳から&lt;h2&gt;が落ちていますが元訳にはあったのかも?</note>
       <tuv lang="EN-US">
         <seg>An &lt;c0&gt;&lt;h2&gt;&lt;/c0&gt; given &lt;c1&gt;font-size: 2rem;&lt;/c1&gt; is two times larger than the size set at the root.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T092841Z">
+        <seg>たとえばをfont-size:2remと設定すると、ルートで設定されているサイズの2倍の大きさになります。</seg>
       </tuv>
     </tu>
     <tu>
