@@ -167,6 +167,12 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 訳から&lt;h2&gt;が落ちています。</note>
+      <tuv lang="EN-US">
+        <seg>An &lt;c0&gt;&lt;h2&gt;&lt;/c0&gt; given &lt;c1&gt;font-size: 2rem;&lt;/c1&gt; is two times larger than the size set at the root.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「要素の位置を固定する」は原文では「位置固定の要素を使うのを避ける」で微妙にニュアンスが違います。</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, avoid using positioned elements, especially with &lt;c1&gt;position: fixed&lt;/c1&gt;.</seg>
