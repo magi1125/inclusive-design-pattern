@@ -143,6 +143,15 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ひとまず下訳を入れます。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Your interface is not the only interface users are interacting with when their browsers are open.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170425T140706Z" creationid="rikiha" creationdate="20170425T140706Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;ユーザーがブラウザを開いたときに使用するインターフェイスは、あなたがデザインするインターフェイスだけではありません。&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(画像alt)</note>
       <tuv lang="EN-US">
         <seg>A small, black box represents the smallest conceivable viewport and a larger gray box grows from it to represent infinite larger viewports.</seg>
@@ -385,6 +394,15 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T101638Z" creationid="yoota" creationdate="20170418T101638Z">
         <seg>その上、前述したDOCTYPE宣言を&lt;e0&gt;省略&lt;/e0&gt;してしまうと、ユーザーにとって予期せぬ異常な動作が生じる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) ひとまず下訳を入れます。</note>
+      <tuv lang="EN-US">
+        <seg>In addition, the &lt;g1&gt;omission&lt;/g1&gt; of the aforementioned doctype declaration can result in unexpected and broken behavior for users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170425T140804Z" creationid="rikiha" creationdate="20170425T140804Z">
+        <seg>その上、前述したDOCTYPE宣言を&lt;g1&gt;省略&lt;/g1&gt;してしまうと、ユーザーにとって予期せぬ異常な動作が生じる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1015,6 +1033,15 @@ regressを「後方互換する」としていますが、日本語として違�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170419T094940Z" creationid="yoota" creationdate="20170418T103138Z">
         <seg>DOCTYPEが明確でないと、ブラウザはコンテンツをどう解釈したらよいか分からず、&lt;a1&gt;&lt;s2&gt;非対応の不適合なモード、いわゆる&lt;s3&gt;Quirksモード&lt;/s3&gt;&lt;/s2&gt;&lt;/a1&gt;&lt;s4&gt;&lt;a5&gt;&lt;s6&gt;（脚注4）&lt;/s6&gt;&lt;/a5&gt;&lt;/s4&gt;で表示してしまうことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) ひとまず下訳を入れます。</note>
+      <tuv lang="EN-US">
+        <seg>Without a doctype declared, the browser simply doesn’t know how to interpret the content and can regress into &lt;g2&gt;&lt;g3&gt;a non-compliant and incompatible mode, often called &lt;g4&gt;quirks mode&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;1&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170425T141001Z" creationid="rikiha" creationdate="20170425T141001Z">
+        <seg>DOCTYPEが明確でないと、ブラウザはコンテンツをどう解釈したらよいか分からず、&lt;g2&gt;&lt;g3&gt;非対応の不適合なモード、いわゆる&lt;g4&gt;Quirksモード&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注4）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;で表示してしまうことがあります。</seg>
       </tuv>
     </tu>
     <tu>
