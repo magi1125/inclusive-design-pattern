@@ -498,6 +498,15 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) ルートレベル どうする?</note>
+      <tuv lang="EN-US">
+        <seg>So, &lt;c4&gt;100%&lt;/c4&gt; is really “one hundred percent of the default size or the size the user has chosen.” If I were to set the font size explicitly as 16px at the root level, I would diminish the user’s ability to adjust font size to their liking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T075151Z" creationid="yoota" creationdate="20170425T075151Z">
+        <seg>つまり、この&lt;c4&gt;100%&lt;/c4&gt;は「デフォルトサイズまたはユーザーが選択したサイズの100%」を意味します。一方、ルートレベルでフォントサイズを明示的に16pxに設定した場合は、ユーザー側でフォントサイズを自由に調整できなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) generousは単に「大きい」というよりももう少しゆったりした感じのイメージかと思います。</note>
       <tuv lang="EN-US">
         <seg>Sure, but generous font sizes don’t &lt;e0&gt;offend&lt;/e0&gt; young, keen-eyed folks.</seg>
