@@ -238,12 +238,12 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>()</note>
+      <note>(太田) theoretical は論理的というような意味ですが、まあなくても分かるのでとってしまってもいいかも。</note>
       <tuv lang="EN-US">
         <seg>Do not make the mistake of converting theoretical rem units into pixels via a CSS preprocessor.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T093500Z" creationid="yoota" creationdate="20170425T093004Z">
-        <seg>CSSプリプロセッサで、remを計算してピクセルに変換するという過ちを犯さないように注意してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T093916Z" creationid="yoota" creationdate="20170425T093004Z">
+        <seg>CSSプリプロセッサでremをピクセルに変換するという過ちを犯さないように注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -463,6 +463,14 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T085807Z" creationid="yoota" creationdate="20170420T085807Z">
         <seg>&lt;c1&gt;lang&lt;/c1&gt;属性を指定するのは簡単なことですので、ぜひ使ってみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s what ends up in the compiled CSS, parsable by browsers, that counts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T094027Z" creationid="yoota" creationdate="20170425T094027Z">
+        <seg>重要なのは、最終的にブラウザが解析する、コンパイル後のCSSです。</seg>
       </tuv>
     </tu>
     <tu>
