@@ -171,8 +171,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>An &lt;c0&gt;&lt;h2&gt;&lt;/c0&gt; given &lt;c1&gt;font-size: 2rem;&lt;/c1&gt; is two times larger than the size set at the root.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T092907Z">
-        <seg>たとえば&lt;c0&gt;&lt;h2&gt;&lt;/c0&gt; にfont-size:2remが指定されていると、ルートで設定されているサイズの2倍の大きさになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T093017Z">
+        <seg>たとえば&lt;c0&gt;&lt;h2&gt;&lt;/c0&gt; に&lt;c1&gt;font-size:2rem&lt;/c1&gt;が指定されていると、ルートで設定されているサイズの2倍の大きさになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -235,6 +235,15 @@ font-size: 16px;
       <note>(太田) 図版部分はどうしますかね。この箇所の原文は画像のalt、参考訳文は画像の中のテキストを訳したものです。</note>
       <tuv lang="EN-US">
         <seg>Diagram labels your interface hidden among all the browser interface elements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>()</note>
+      <tuv lang="EN-US">
+        <seg>Do not make the mistake of converting theoretical rem units into pixels via a CSS preprocessor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T093004Z" creationid="yoota" creationdate="20170425T093004Z">
+        <seg>あくまで計算上の単位であるremを、CSSプリプロセッサで間違ってピクセルに変換しないように注意してください。</seg>
       </tuv>
     </tu>
     <tu>
