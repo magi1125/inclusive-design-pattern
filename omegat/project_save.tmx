@@ -401,6 +401,7 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) これは事実か要確認。Chromeはサポートを切っているのではないか。OS側のサポートはどこまでWebコンテンツに反映されるのか。</note>
       <tuv lang="EN-US">
         <seg>It is true that a greater number of users will operate full-page zoom using &lt;e0&gt;Cmd&lt;/e0&gt; (or &lt;e1&gt;Ctrl&lt;/e1&gt;) and &lt;e2&gt;+&lt;/e2&gt;, but modern browsers and operating systems still support text-only resizing, and so should you.</seg>
       </tuv>
