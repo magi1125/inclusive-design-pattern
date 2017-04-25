@@ -403,7 +403,7 @@ body内のの子要素にlang属性を、ですね。</note>
     <tu>
       <note>(太田) これは事実かどうか要確認。Chromeはサポートを切っているのではないか。OS側の文字サイズ変更はどこまでWebコンテンツに反映されるのか。
 記述が事実と異なるようであれば要訳注。
-「デザインもそうすべきです」のデザインは原文になく補われている。「そうすべき」とは具体的に何をすべきと言っているのか原文でも不明瞭だが、「それに対応しておくべき」くらいか。
+「デザインもそうすべきです」のデザインは原文になく補われています。「そうすべき」とは具体的に何をすべきと言っているのか原文でも不明瞭ですが、「それに対応しておくべき」くらいでしょうか。
 最近のブラウザ→モダンブラウザ? modernはOSにもかかっている? かかっていない?</note>
       <tuv lang="EN-US">
         <seg>It is true that a greater number of users will operate full-page zoom using &lt;e0&gt;Cmd&lt;/e0&gt; (or &lt;e1&gt;Ctrl&lt;/e1&gt;) and &lt;e2&gt;+&lt;/e2&gt;, but modern browsers and operating systems still support text-only resizing, and so should you.</seg>
