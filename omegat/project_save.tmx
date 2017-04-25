@@ -402,7 +402,8 @@ body内のの子要素にlang属性を、ですね。</note>
     </tu>
     <tu>
       <note>(太田) これは事実かどうか要確認。Chromeはサポートを切っているのではないか。OS側の文字サイズ変更はどこまでWebコンテンツに反映されるのか。
-記述が事実と異なるようであれば要訳注。</note>
+記述が事実と異なるようであれば要訳注。
+「デザインもそうすべきです」のデザインは原文になく補われている。「そうすべき」とは具体的に何をすべきと言っているのか、原文でも不明瞭。</note>
       <tuv lang="EN-US">
         <seg>It is true that a greater number of users will operate full-page zoom using &lt;e0&gt;Cmd&lt;/e0&gt; (or &lt;e1&gt;Ctrl&lt;/e1&gt;) and &lt;e2&gt;+&lt;/e2&gt;, but modern browsers and operating systems still support text-only resizing, and so should you.</seg>
       </tuv>
@@ -725,6 +726,14 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170421T033331Z" creationid="yoota" creationdate="20170421T033331Z">
         <seg>分かりやすい例をお見せしましょう。1つ目は不適正な例、2つ目は正しい例です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make sure &lt;c3&gt;font-size&lt;/c3&gt;, &lt;c4&gt;padding&lt;/c4&gt; and &lt;c5&gt;margin&lt;/c5&gt; all resize proportionately, each should be set using the relative units &lt;c6&gt;rem&lt;/c6&gt;, &lt;c7&gt;em&lt;/c7&gt; or &lt;c8&gt;ch&lt;/c8&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T080019Z" creationid="yoota" creationdate="20170425T080019Z">
+        <seg>また、調整時にfont-size、padding、marginのバランスを保つために、それぞれを相対単位のremやemを使って設定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
