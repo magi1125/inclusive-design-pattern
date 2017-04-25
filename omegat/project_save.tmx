@@ -499,7 +499,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
     </tu>
     <tu>
       <note>(太田) 「ルートレベル」どうする? いったんママ。妙案があれば。
-できなくなるのIEくらいですが。</note>
+px指定でフォントサイズ変えられなくなるのはIEくらいですが。</note>
       <tuv lang="EN-US">
         <seg>So, &lt;c4&gt;100%&lt;/c4&gt; is really “one hundred percent of the default size or the size the user has chosen.” If I were to set the font size explicitly as 16px at the root level, I would diminish the user’s ability to adjust font size to their liking.</seg>
       </tuv>
