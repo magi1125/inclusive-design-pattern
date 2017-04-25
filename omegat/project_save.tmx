@@ -731,6 +731,8 @@ shouldなので「しなければならない」は強すぎるかもしれな�
     </tu>
     <tu>
       <note>(太田) chが訳から落ちています。
+調整時とは何かが分かりにくいです。ここではユーザーがフォントサイズを変えたときの話なので、少し補う必要があるかもしれません。
+
 </note>
       <tuv lang="EN-US">
         <seg>To make sure &lt;c3&gt;font-size&lt;/c3&gt;, &lt;c4&gt;padding&lt;/c4&gt; and &lt;c5&gt;margin&lt;/c5&gt; all resize proportionately, each should be set using the relative units &lt;c6&gt;rem&lt;/c6&gt;, &lt;c7&gt;em&lt;/c7&gt; or &lt;c8&gt;ch&lt;/c8&gt;.</seg>
