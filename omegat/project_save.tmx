@@ -733,7 +733,7 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       <note>(太田) chが訳から落ちています。
 参考: http://www.w3.org/TR/css3-values/#ch
 調整時とは何かが分かりにくいです。ここではユーザーがフォントサイズを変えたときの話なので、少し補う必要があるかもしれません。
-A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応のように読めます。「それぞれの値」と補うことで緩和してみました。</note>
+A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応のように読めます。「それぞれの値」「など」を補うことで緩和してみました (理論上 ex でも良いはずなので、「など」を補うのは誤りではないはず)。</note>
       <tuv lang="EN-US">
         <seg>To make sure &lt;c3&gt;font-size&lt;/c3&gt;, &lt;c4&gt;padding&lt;/c4&gt; and &lt;c5&gt;margin&lt;/c5&gt; all resize proportionately, each should be set using the relative units &lt;c6&gt;rem&lt;/c6&gt;, &lt;c7&gt;em&lt;/c7&gt; or &lt;c8&gt;ch&lt;/c8&gt;.</seg>
       </tuv>
