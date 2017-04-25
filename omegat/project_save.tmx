@@ -465,6 +465,14 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It saves you a lot of manual coding without sacrificing accessibility.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T102403Z" creationid="yoota" creationdate="20170425T102403Z">
+        <seg>アクセシビリティを犠牲にすることなく、コードを書く手間を大幅に軽減できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「使い方」が簡単とは言っていないかも。</note>
       <tuv lang="EN-US">
         <seg>It’s easy to include the &lt;c1&gt;lang&lt;/c1&gt; attribute, so just go ahead and include it.</seg>
@@ -721,6 +729,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T104051Z" creationid="yoota" creationdate="20170418T104051Z">
         <seg>lang属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The only modern browser that does not support viewport units at the time of writing is Opera Mini.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T102426Z" creationid="yoota" creationdate="20170425T102426Z">
+        <seg>モダンブラウザでは唯一、Opera Miniがビューポートの単位をサポートしていません（本書の執筆時現在）。</seg>
       </tuv>
     </tu>
     <tu>
