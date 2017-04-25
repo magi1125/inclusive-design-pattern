@@ -767,6 +767,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This has the added advantage of ensuring a minimum font size for the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T100645Z" creationid="yoota" creationdate="20170425T100645Z">
+        <seg>この方法なら、ページの最小フォントサイズを確保できるというメリットもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) thisは文書型宣言ではなく、「HTMLが文書であるという事実」ではないかと思います。
 This serves as an important reminderは直訳すると「このことは重要なリマインダーとなる」ということですが、もう少し砕いて訳したい感もあります。</note>
       <tuv lang="EN-US">
