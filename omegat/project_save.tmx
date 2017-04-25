@@ -411,8 +411,8 @@ it would have liked to begin with は最初から好まれていたであろう�
       <tuv lang="EN-US">
         <seg>In other words, Opera Mini would display the body text as it would have liked to begin with.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T105433Z" creationid="yoota" creationdate="20170425T104658Z">
-        <seg>言い換えれば、Opera Miniでは、ユーザーがあらかじめ設定しているお好みのサイズで本文テキストを表示できるというわけです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T105844Z" creationid="yoota" creationdate="20170425T104658Z">
+        <seg>言い換えれば、Opera Miniでは、ユーザーがあらかじめ設定しているお好みのサイズで本文テキストが表示されるということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +582,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170419T103339Z" creationid="yoota" creationdate="20170419T102025Z">
         <seg>おそらく最も分かりやすいのは、言語が明示されていないページ――あるいは間違った言語が指定されているページ――では、スクリーンリーダーを使用したときに適切な合成音声プロファイルが選択されないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Progressive Enhancement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T105826Z" creationid="yoota" creationdate="20170425T105826Z">
+        <seg>プログレッシブエンハンスメント</seg>
       </tuv>
     </tu>
     <tu>
