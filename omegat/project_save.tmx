@@ -770,8 +770,8 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       <tuv lang="EN-US">
         <seg>This has the added advantage of ensuring a minimum font size for the page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T100645Z" creationid="yoota" creationdate="20170425T100645Z">
-        <seg>この方法なら、ページの最小フォントサイズを確保できるというメリットもあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T101305Z" creationid="yoota" creationdate="20170425T100645Z">
+        <seg>この方法には、ページの最小フォントサイズを確保できるというメリットもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,8 +934,8 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       <tuv lang="EN-US">
         <seg>You just need to address one issue: elements set using viewport units &lt;e0&gt;cannot&lt;/e0&gt; be scaled using full-page zoom.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T100959Z" creationid="yoota" creationdate="20170425T100254Z">
-        <seg>ただし、1つ注意点があります。ビューポートの単位が指定されている要素は、フルページズームでは拡大縮小&lt;e0&gt;されません&lt;/e0&gt;。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T101118Z" creationid="yoota" creationdate="20170425T100254Z">
+        <seg>ただし、1つ注意点があります。ビューポートの単位が指定されている要素は、フルページズームでは拡大縮小&lt;e0&gt;されない&lt;/e0&gt;ということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,12 +984,13 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 誤訳かなと。ズームを再び機能させるための方法が書かれています。</note>
+      <note>(太田) 誤訳かなと。ズームを再び機能させるための方法が書かれています。
+二つの値を足すのに「合計」はやや違和感があったので「加算」としました。</note>
       <tuv lang="EN-US">
         <seg>Zoom can be reinstated by entering a viewport unit-based value into a sum with an em-based value.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T101024Z" creationid="yoota" creationdate="20170425T100316Z">
-        <seg>ビューポートの単位の値とemベースの値を合計することで、ズームを再び機能させることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T101211Z" creationid="yoota" creationdate="20170425T100316Z">
+        <seg>ズームを再び機能させるには、ビューポートの単位の値にemベースの値を加算するという方法があります。</seg>
       </tuv>
     </tu>
     <tu>
