@@ -325,11 +325,12 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 英語では 2x20なのでしょうが日本語では20x2のほうが自然です。</note>
       <tuv lang="EN-US">
         <seg>If the user has gone to &lt;e2&gt;Settings → Content&lt;/e2&gt; in Firefox and set the default font size to 20px, &lt;c3&gt;2rem&lt;/c3&gt; will mean 2 × 20 — or 40px.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T093143Z" creationid="yoota" creationdate="20170425T093143Z">
-        <seg>ユーザーがFirefoxの［オプション］→［コンテンツ］でデフォルトのフォントサイズを20pxに設定している場合は、2remは2 × 20、つまり40pxになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T093238Z" creationid="yoota" creationdate="20170425T093143Z">
+        <seg>ユーザーがFirefoxの［オプション］→［コンテンツ］でデフォルトのフォントサイズを20pxに設定している場合は、2remは20×2、つまり40pxになります。</seg>
       </tuv>
     </tu>
     <tu>
