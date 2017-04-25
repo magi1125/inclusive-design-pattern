@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;s0&gt;Note:&lt;/s0&gt; To ensure the media query triggers at the correct point relative to user-defined font size, we are using the em unit there, too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T085320Z" creationid="yoota" creationdate="20170425T085320Z">
+        <seg>（注：ユーザーが指定したフォントサイズに対して、相対的に正しいポイントで確実にメディアクエリが実行されるようにするために、単位にはemを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;To my wife, Fan, who has the power to make me smile, in spite of the world.&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170202T002233Z" creationid="rikiha" creationdate="20170202T002233Z">
