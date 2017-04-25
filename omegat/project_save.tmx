@@ -247,6 +247,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Essentially, this means you can employ implicitly responsive text without the need for media queries like that of the previous code example.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T095452Z" creationid="yoota" creationdate="20170425T095452Z">
+        <seg>つまり、前出のコード例のようなメディアクエリを用いずに、レスポンシブなテキストを明示的に使用できるというわけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ハイライト表示されるように変更する、のではなく、ハイライト表示するための辞書を切り替える、かなと。</note>
       <tuv lang="EN-US">
         <seg>Firefox, for instance, changes dictionaries on &lt;c6&gt;&lt;textarea&gt;&lt;/c6&gt;s so that spelling errors are highlighted appropriately.</seg>
