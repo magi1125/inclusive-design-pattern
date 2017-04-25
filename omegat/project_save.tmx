@@ -557,6 +557,15 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 誤訳かなと。プログレッシブエンハンスメントで対応できるのではなく、上の例そのものがプログレッシブエンハンスメントになっているので問題ないと言っています(対応はされません)。</note>
+      <tuv lang="EN-US">
+        <seg>Not to worry: &lt;c0&gt;font-size: calc(1em + 1vw);&lt;/c0&gt; is a progressive enhancement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T102942Z" creationid="yoota" creationdate="20170425T102942Z">
+        <seg>しかし心配はいりません。 &lt;c0&gt;font-size: calc(1em+1vw);&lt;/c0&gt; という記述はプログレッシブエンハンスメントになっているからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文でダッシュを使用している箇所はダッシュを使用するようにしました。「際立った点」という訳は何が際立っているのかイマイチ不明瞭に感じたので、「最も分かりやすい」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Perhaps most starkly, a page that does not have a language declared — or has the wrong language declared for the content — will not trigger the adoption of an appropriate synthetic voice profile when used with a screen reader.</seg>
