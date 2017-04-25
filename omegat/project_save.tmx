@@ -351,6 +351,17 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 原文で強調されているifは訳出する必要があります。そのまま「もし」としました。
+「Preferences → Content」は「オプション→コンテンツ」となっていました (Firefox51.0.1 で確認)。
+</note>
+      <tuv lang="EN-US">
+        <seg>In the example above, &lt;c0&gt;100%&lt;/c0&gt; is equal to &lt;c1&gt;16px&lt;/c1&gt; &lt;e2&gt;if&lt;/e2&gt; the user has not adjusted the font size manually, either in their operating system or browser settings (e.g. under &lt;e3&gt;Preferences → Content&lt;/e3&gt; in Firefox).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T073430Z" creationid="yoota" creationdate="20170425T073430Z">
+        <seg>この例の場合、&lt;e2&gt;もし&lt;/e2&gt;ユーザーがオペレーティングシステムやブラウザの設定（たとえばFirefoxの場合は&lt;e3&gt;［オプション］→［コンテンツ］&lt;/e3&gt;）でフォントサイズを手動で調整していないなら、&lt;c0&gt;100%&lt;/c0&gt;は&lt;c1&gt;16px&lt;/c1&gt;になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 元訳は  only where を訳せていないように思います。～のところだけに挿入する、と言っています。
 hence以降をどうするか。tweakpointは元訳の「微調整ポイント」のままにしていますが日本語で何か言い方があるんですかね。</note>
       <tuv lang="EN-US">
