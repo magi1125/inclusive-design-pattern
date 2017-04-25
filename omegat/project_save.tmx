@@ -922,6 +922,14 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>You just need to address one issue: elements set using viewport units &lt;e0&gt;cannot&lt;/e0&gt; be scaled using full-page zoom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T100402Z" creationid="yoota" creationdate="20170425T100254Z">
+        <seg>ただし、1つ注意点があります。ビューポートの単位を使って設定されている要素は、フルページズームでは拡大縮小&lt;e0&gt;されません&lt;/e0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 微妙に誤訳っぽいです。原文を直訳すると、あなたは既にパーセンテージ指定に慣れているかもしれない、という感じです。</note>
       <tuv lang="EN-US">
         <seg>You may already be accustomed to the convention of setting font size using a percentage, on the root (&lt;c0&gt;&lt;html&gt;&lt;/c0&gt;) element like so:</seg>
@@ -964,6 +972,14 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T100727Z">
         <seg>あなたがデザインするインターフェイスはあくまでブラウザのインターフェイスに付随するものであり、ユーザー側のさまざまな設定や構成に対応できなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom can be reinstated by entering a viewport unit-based value into a sum with an em-based value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T100316Z" creationid="yoota" creationdate="20170425T100316Z">
+        <seg>ズームはビューポートの単位ベースの値とemベースの値を合計して行います。</seg>
       </tuv>
     </tu>
     <tu>
