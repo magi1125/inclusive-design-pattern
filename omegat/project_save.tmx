@@ -403,12 +403,13 @@ body内のの子要素にlang属性を、ですね。</note>
     <tu>
       <note>(太田) これは事実かどうか要確認。Chromeはサポートを切っているのではないか。OS側の文字サイズ変更はどこまでWebコンテンツに反映されるのか。
 記述が事実と異なるようであれば要訳注。
-「デザインもそうすべきです」のデザインは原文になく補われている。「そうすべき」とは具体的に何をすべきと言っているのか、原文でも不明瞭。</note>
+「デザインもそうすべきです」のデザインは原文になく補われている。「そうすべき」とは具体的に何をすべきと言っているのか、原文でも不明瞭だが、相対指定すべきということであろう。
+最近のブラウザ→モダンブラウザ? modernはOSにもかかっている? かかっていない?</note>
       <tuv lang="EN-US">
         <seg>It is true that a greater number of users will operate full-page zoom using &lt;e0&gt;Cmd&lt;/e0&gt; (or &lt;e1&gt;Ctrl&lt;/e1&gt;) and &lt;e2&gt;+&lt;/e2&gt;, but modern browsers and operating systems still support text-only resizing, and so should you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T075637Z" creationid="yoota" creationdate="20170425T075612Z">
-        <seg>&lt;e0&gt;Cmd&lt;/e0&gt;（または&lt;e1&gt;Ctrl&lt;/e1&gt;）キーと&lt;e2&gt;＋&lt;/e2&gt;キーを同時に押してフルページズームするユーザーが増えているのは確かです。しかし、最近のブラウザやオペレーティングシステムも従来どおりテキストのみのサイズ調整は可能なので、デザインもそうすべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T080549Z" creationid="yoota" creationdate="20170425T075612Z">
+        <seg>&lt;e0&gt;Cmd&lt;/e0&gt;（または&lt;e1&gt;Ctrl&lt;/e1&gt;）キーと&lt;e2&gt;＋&lt;/e2&gt;キーを同時に押してフルページズームするユーザーが増えているのは確かです。しかし、モダンブラウザやオペレーティングシステムは、今でもテキストのみのサイズ変更をサポートしているため、それに対応しておくべきでしょう。</seg>
       </tuv>
     </tu>
     <tu>
