@@ -930,11 +930,12 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 問題というより注意点でしょうか (すぐ後ろに解決策がありますし)。</note>
       <tuv lang="EN-US">
         <seg>You just need to address one issue: elements set using viewport units &lt;e0&gt;cannot&lt;/e0&gt; be scaled using full-page zoom.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T100402Z" creationid="yoota" creationdate="20170425T100254Z">
-        <seg>ただし、1つ注意点があります。ビューポートの単位を使って設定されている要素は、フルページズームでは拡大縮小&lt;e0&gt;されません&lt;/e0&gt;。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T100959Z" creationid="yoota" creationdate="20170425T100254Z">
+        <seg>ただし、1つ注意点があります。ビューポートの単位が指定されている要素は、フルページズームでは拡大縮小&lt;e0&gt;されません&lt;/e0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -983,11 +984,12 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 誤訳かなと。ズームを再び機能させるための方法が書かれています。</note>
       <tuv lang="EN-US">
         <seg>Zoom can be reinstated by entering a viewport unit-based value into a sum with an em-based value.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T100316Z" creationid="yoota" creationdate="20170425T100316Z">
-        <seg>ズームはビューポートの単位ベースの値とemベースの値を合計して行います。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T101024Z" creationid="yoota" creationdate="20170425T100316Z">
+        <seg>ビューポートの単位の値とemベースの値を合計することで、ズームを再び機能させることができます。</seg>
       </tuv>
     </tu>
     <tu>
