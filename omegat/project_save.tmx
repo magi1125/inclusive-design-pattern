@@ -549,6 +549,17 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 原文にない括弧を入れるのはできるだけ避けたいですが、unicorn-rare というヘイドンフレーズを生かすべきかどうか。
+
+</note>
+      <tuv lang="EN-US">
+        <seg>Much maligned as the arduous task of making web applications still do things when a unicorn-rare user switches JavaScript off, it has much broader implications.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T110254Z" creationid="yoota" creationdate="20170425T110254Z">
+        <seg>ユーザーがJavaScriptをオフにしていても（そんなユーザーは非常にまれですが）機能するWebアプリケーションを作るのは骨の折れる厄介な仕事ですが、プログレッシブエンハンスメントにはもっと広い意味があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 若干誤訳っぽいです。支援技術を使うのと同じように、さまざまな設定ができる、という話かと。</note>
       <tuv lang="EN-US">
         <seg>Never forget that the browser itself is an interface, which can be augmented and configured in a number of ways by the user — as well as helping interpret the content you provide for third-party assistive technologies like screen readers.</seg>
