@@ -5,11 +5,12 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>(太田) </note>
       <tuv lang="EN-US">
         <seg>(&lt;s0&gt;Note:&lt;/s0&gt; To ensure the media query triggers at the correct point relative to user-defined font size, we are using the em unit there, too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T085320Z" creationid="yoota" creationdate="20170425T085320Z">
-        <seg>（注：ユーザーが指定したフォントサイズに対して、相対的に正しいポイントで確実にメディアクエリが実行されるようにするために、単位にはemを使用しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T085735Z" creationid="yoota" creationdate="20170425T085320Z">
+        <seg>（注：ユーザーが指定したフォントサイズに対して、相対的に正しいポイントで確実にメディアクエリが実行されるようにするために、単位にemを使うやり方があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -667,6 +668,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T104051Z" creationid="yoota" creationdate="20170418T104051Z">
         <seg>lang属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rem unit causes problems in Safari, as “&lt;a1&gt;&lt;s2&gt;PX, EM or REM Media Queries?&lt;/s2&gt;&lt;/a1&gt;&lt;s3&gt;&lt;a4&gt;&lt;s5&gt;5&lt;/s5&gt;&lt;/a4&gt;&lt;/s3&gt;” by Zell Liew attests.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T085834Z" creationid="yoota" creationdate="20170425T085834Z">
+        <seg>ゼル・リュウ（Zell Liew）が「&lt;a1&gt;&lt;s2&gt;PX, EM or REM Media Queries?&lt;/s2&gt;&lt;/a1&gt;&lt;s3&gt;&lt;a4&gt;&lt;s5&gt;（脚注8）&lt;/s5&gt;&lt;/a4&gt;&lt;/s3&gt;」で実証しているように、remだとSafariで問題が生じてしまいます。【コメント：名前の読み方が不安です】</seg>
       </tuv>
     </tu>
     <tu>
