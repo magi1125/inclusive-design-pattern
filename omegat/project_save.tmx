@@ -619,6 +619,15 @@ target はそのままカタカナだと意味がとりにくいように思い�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 訳がおかしいような。最小フォントサイズの確保についての説明です。少し補わないと分かりにくいかもしれません。</note>
+      <tuv lang="EN-US">
+        <seg>That is, 1em + (0 × 1vw) is still 1em.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T101532Z" creationid="yoota" creationdate="20170425T101532Z">
+        <seg>つまり、1em + (0× 1vw) となっても1emを確保できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) do an impression of XXで XX のものまねをする、という意味があるようです。たぶん全体としてはいつもの皮肉っぽいヘイドンジョークでしょう。
 voice profile called Jack は「Jackと呼ばれる音声プロファイル」かもしれません (音声プロファイルにはたいてい人の名前がついていて、たとえばWindows7 のナレーターのデフォルト音声は Anna という名前です)。
 </note>
@@ -905,6 +914,14 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T081652Z" creationid="yoota" creationdate="20170418T062512Z">
         <seg>この後の章では個々のインターフェイスパターン――モジュールあるいはコンポーネントとして確立された慣習――を詳しく見ていくことになりますが、その前に、それらのパターンが最終的にWebドキュメントに所属することを理解しておかなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this algorithm in place, everything scales incrementally and proportionately relative to the viewport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170425T101620Z" creationid="yoota" creationdate="20170425T101620Z">
+        <seg>このアルゴリズムでは、すべての要素がビューポートに相対的に拡大縮小していきます。</seg>
       </tuv>
     </tu>
     <tu>
