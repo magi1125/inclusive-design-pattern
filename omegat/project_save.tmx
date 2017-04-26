@@ -568,14 +568,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
     </tu>
     <tu>
       <note>(太田) 原文にない括弧を入れるのはできるだけ避けたいですが、unicorn-rare というヘイドンフレーズを生かすべきかどうか。
-itはプログレッシブエンハンスメントなのか。
+itはプログレッシブエンハンスメントと解釈されているが、JavaScript無効でも機能するアプリケーションを作ること、ではないか。
 
 </note>
       <tuv lang="EN-US">
         <seg>Much maligned as the arduous task of making web applications still do things when a unicorn-rare user switches JavaScript off, it has much broader implications.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T110254Z" creationid="yoota" creationdate="20170425T110254Z">
-        <seg>ユーザーがJavaScriptをオフにしていても（そんなユーザーは非常にまれですが）機能するWebアプリケーションを作るのは骨の折れる厄介な仕事ですが、プログレッシブエンハンスメントにはもっと広い意味があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T014713Z" creationid="yoota" creationdate="20170425T110254Z">
+        <seg>ユーザーがJavaScriptをオフにしていても（そんなユーザーはユニコーンのように希少な存在ですが）機能するWebアプリケーションを作るのは骨の折れる厄介な仕事ですが、それにはもっと広い意味があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -620,6 +620,14 @@ itはプログレッシブエンハンスメントなのか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T105826Z" creationid="yoota" creationdate="20170425T105826Z">
         <seg>プログレッシブエンハンスメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Progressive enhancement is about building a strong foundation of content, logical and robust in form, which is resilient to a multitude of network and scripting failures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T014728Z" creationid="yoota" creationdate="20170426T014728Z">
+        <seg>プログレッシブエンハンスメントの目的は、形式が合理的かつ堅牢で、さまざまなネットワーク障害やスクリプトエラーに対応できる、コンテンツの強固な基盤を作ることです。</seg>
       </tuv>
     </tu>
     <tu>
