@@ -615,6 +615,15 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) enhance は enhancement の動詞形なので「エンハンスメントする」としたほうが良いのかもしれない。</note>
+      <tuv lang="EN-US">
+        <seg>Patterns in this book are founded on well-formed and semantic HTML structures, enhanced by CSS and JavaScript.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T024037Z" creationid="yoota" creationdate="20170426T024037Z">
+        <seg>本書で紹介するパターンは、整形式のセマンティックHTMLの構造をベースに、CSSとJavaScriptで強化したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文でダッシュを使用している箇所はダッシュを使用するようにしました。「際立った点」という訳は何が際立っているのかイマイチ不明瞭に感じたので、「最も分かりやすい」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Perhaps most starkly, a page that does not have a language declared — or has the wrong language declared for the content — will not trigger the adoption of an appropriate synthetic voice profile when used with a screen reader.</seg>
