@@ -608,6 +608,14 @@ hence以降をどうするか。tweakpointは元訳の「微調整ポイント�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, you should create an entirely flexible design from the outset and insert breakpoints only where the content breaks the layout — hence &lt;g1&gt;content breakpoint&lt;/g1&gt; or &lt;g2&gt;tweakpoint&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T060919Z" creationid="yoota" creationdate="20170426T060919Z">
+        <seg>それよりも、最初から完全に柔軟なデザインを作り、コンテンツのレイアウトが切り替わるところだけにブレイクポイントを挿入すべきです――すなわち、&lt;g1&gt;コンテンツブレイクポイント&lt;/g1&gt;、あるいは&lt;g2&gt;微調整ポイント&lt;/g2&gt;ということになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also helps the user to &lt;e5&gt;write&lt;/e5&gt; in the page’s language.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170419T101653Z" creationid="yoota" creationdate="20170419T101653Z">
