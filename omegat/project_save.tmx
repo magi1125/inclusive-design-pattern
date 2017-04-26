@@ -264,6 +264,12 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 画像のaltです。</note>
+      <tuv lang="EN-US">
+        <seg>Finally JavaScript is put on top, but content is still there.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ハイライト表示されるように変更する、のではなく、ハイライト表示するための辞書を切り替える、かなと。</note>
       <tuv lang="EN-US">
         <seg>Firefox, for instance, changes dictionaries on &lt;c6&gt;&lt;textarea&gt;&lt;/c6&gt;s so that spelling errors are highlighted appropriately.</seg>
@@ -868,6 +874,12 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T105245Z" creationid="yoota" creationdate="20170420T105127Z">
         <seg>このとき、レスポンシブデザインモードのインターフェイスに現在のサイズが表示されるため、これを記録すれば、そのブレイクポイントが分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) 画像のaltです。</note>
+      <tuv lang="EN-US">
+        <seg>Then you get CSS, but the content remains.</seg>
       </tuv>
     </tu>
     <tu>
