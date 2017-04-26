@@ -392,7 +392,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 入れます→入れるべきです。べつにhead要素内に入れても良いのですが&lt;/body&gt;の前に入れることを推奨するという話です。</note>
+      <note>(太田) 入れます→入れるべきです。head要素内に入れても動くのですが&lt;/body&gt;の前に入れることを推奨するという話です。</note>
       <tuv lang="EN-US">
         <seg>In a progressively enhanced setup, scripts should be inserted at the end of the document, just before the closing &lt;c0&gt;&lt;/body&gt;&lt;/c0&gt; tag.</seg>
       </tuv>
@@ -917,6 +917,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170424T065406Z" creationid="yoota" creationdate="20170424T065406Z">
         <seg>デフォルトが大きめなのには理由があります。他のサイズでは、特に視力が低下した高齢者など、さまざまなユーザーを遠ざけてしまう恐れがあるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This allows the main DOM content to be rendered before the scripts are executed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T035948Z" creationid="yoota" creationdate="20170426T035948Z">
+        <seg>そうすれば、スクリプトが実行される前に、メインのDOMコンテンツを表示できます。</seg>
       </tuv>
     </tu>
     <tu>
