@@ -145,6 +145,15 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g4&gt;/* do not do this */&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T071306Z" creationid="yoota" creationdate="20170426T071306Z">
+        <seg>/* この指定は使わないでください */
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 【要検討】French Fontとfallbackはフォント名ではないはずなので訳す必要があるような気もします。ただ、訳したものをそのままCSSの宣言の中に突っ込むとそれはそれでおかしいかもしれません。どうするべきか悩ましいですね。</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;font-family&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; French Font, fallback, sans-serif&lt;g6&gt;;&lt;/g6&gt;
