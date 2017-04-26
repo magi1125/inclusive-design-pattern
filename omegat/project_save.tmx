@@ -341,6 +341,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>An &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; given &lt;g2&gt;font-size: 2rem;&lt;/g2&gt; is two times larger than the size set at the root.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T082529Z" creationid="yoota" creationdate="20170426T082529Z">
+        <seg>たとえば&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; に&lt;g2&gt;font-size:2rem;&lt;/g2&gt;が指定されていると、ルートで設定されているサイズの2倍の大きさになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「要素の位置を固定する」は原文では「位置固定の要素を使うのを避ける」で微妙にニュアンスが違います。</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, avoid using positioned elements, especially with &lt;c1&gt;position: fixed&lt;/c1&gt;.</seg>
