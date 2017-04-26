@@ -801,6 +801,14 @@ body内のの子要素にlang属性を、ですね。</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is true that a greater number of users will operate full-page zoom using &lt;g1&gt;Cmd&lt;/g1&gt; (or &lt;g2&gt;Ctrl&lt;/g2&gt;) and &lt;g3&gt;+&lt;/g3&gt;, but modern browsers and operating systems still support text-only resizing, and so should you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T071340Z" creationid="yoota" creationdate="20170426T071340Z">
+        <seg>&lt;g1&gt;Cmd&lt;/g1&gt;（または&lt;g2&gt;Ctrl&lt;/g2&gt;）キーと&lt;e2&gt;＋&lt;/e2&gt;キーを同時に押してフルページズームするユーザーが増えているのは確かです。しかし、最近のブラウザやオペレーティングシステムもテキストのみのサイズ変更をサポートしているため、それに対応しておくべきでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It saves you a lot of manual coding without sacrificing accessibility.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T102403Z" creationid="yoota" creationdate="20170425T102403Z">
