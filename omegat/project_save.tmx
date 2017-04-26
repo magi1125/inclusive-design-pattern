@@ -342,6 +342,16 @@ font-size: 16px;
     </tu>
     <tu>
       <note>(太田) As a rule of thumb がこれでいいのかどうか。「親指で測る」というたとえは、「経験から得たやり方で測る」or「大雑把に測る」の2つの意味があるようです。ここでは「大雑把に言えば」のほうかもしれません (細かく言えば幅や高さが必要な要素はあるはずなので)。
+すぐ後ろにも As a rule of thumb が出てきます (position: fixedの話)</note>
+      <tuv lang="EN-US">
+        <seg>As a rule of thumb, avoid using positioned elements, especially with &lt;g2&gt;position: fixed&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T063242Z" creationid="yoota" creationdate="20170426T063242Z">
+        <seg>大雑把に言ってしまえば、固定配置の要素、特に&lt;c1&gt;position:fixed&lt;/c1&gt;で固定したものは避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) As a rule of thumb がこれでいいのかどうか。「親指で測る」というたとえは、「経験から得たやり方で測る」or「大雑把に測る」の2つの意味があるようです。ここでは「大雑把に言えば」のほうかもしれません (細かく言えば幅や高さが必要な要素はあるはずなので)。
 後ろにも As a rule of thumb が出てくる (position: fixedの話)</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, you should never set a fixed width or height on any element: the intrinsic flexibility of boxes means they can tolerate the same content in different spaces.</seg>
