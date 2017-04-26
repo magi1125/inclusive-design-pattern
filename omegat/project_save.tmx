@@ -346,8 +346,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>As a rule of thumb, avoid using positioned elements, especially with &lt;g2&gt;position: fixed&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T063539Z" creationid="yoota" creationdate="20170426T063242Z">
-        <seg>経験上、固定配置の要素、特に&lt;g2&gt;position:fixed&lt;/g2&gt;で固定したものは避けるべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T063616Z" creationid="yoota" creationdate="20170426T063242Z">
+        <seg>経験から言って、固定配置の要素、特に&lt;g2&gt;position:fixed&lt;/g2&gt;で固定したものは避けるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1066,14 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170424T065946Z" creationid="yoota" creationdate="20170424T065804Z">
         <seg>なるほど、そうかもしれません。しかし、フォントサイズが大きめだからと言って、若くて眼力の鋭いユーザーが&lt;e0&gt;気分を害する&lt;/e0&gt;とは思えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sure, but generous font sizes don’t &lt;g1&gt;offend&lt;/g1&gt; young, keen-eyed folks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T063630Z" creationid="yoota" creationdate="20170426T063630Z">
+        <seg>なるほど、そうかもしれません。しかし、フォントサイズが大きめだからと言って、若くて眼力の鋭いユーザーが&lt;g1&gt;気分を害する&lt;/g1&gt;とは思えません。</seg>
       </tuv>
     </tu>
     <tu>
