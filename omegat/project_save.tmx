@@ -57,7 +57,7 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 【要検討】French Fontとfallbackはフォント名ではないはずなので訳す必要があるような気もするが、訳したものをCSSに突っ込むとそれはそれでおかしいかもしれない。どうするか。</note>
+      <note>(太田) 【要検討】French Fontとfallbackはフォント名ではないはずなので訳す必要があるような気もします。ただ、訳したものをCSSに突っ込むとそれはそれでおかしいかもしれません。どうするべきか悩ましいですね。</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;font-family&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; French Font, fallback, sans-serif&lt;g6&gt;;&lt;/g6&gt;
 &lt;g7&gt;}&lt;/g7&gt;&lt;/g1&gt;</seg>
