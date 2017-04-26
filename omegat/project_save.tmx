@@ -608,6 +608,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Managing Assets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T040156Z" creationid="yoota" creationdate="20170426T040156Z">
+        <seg>アセットの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文にない括弧を入れるのはできるだけ避けたいですが、unicorn-rare というヘイドンフレーズを生かすべきかどうか。
 全体やや誤訳っぽいです。malignは「悪く言う」の意味で、この文全体は Much maligned as X,  it has much broader implications. という形ですので、Xのように悪く言われることが多いが、(実際には) もっと広い意味がある、と言っています。補って訳してみましたがわかりにくいですね……。
 </note>
@@ -920,11 +928,12 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 表示→レンダリングとしました。ほぼ同義ですが厳密には異なり、レンダリングされるが表示されない場合などもあります。</note>
       <tuv lang="EN-US">
         <seg>This allows the main DOM content to be rendered before the scripts are executed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T035948Z" creationid="yoota" creationdate="20170426T035948Z">
-        <seg>そうすれば、スクリプトが実行される前に、メインのDOMコンテンツを表示できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T040138Z" creationid="yoota" creationdate="20170426T035948Z">
+        <seg>そうすれば、スクリプトが実行される前に、メインのDOMコンテンツをレンダリングできます。</seg>
       </tuv>
     </tu>
     <tu>
