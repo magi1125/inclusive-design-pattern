@@ -1013,7 +1013,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。</note
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 誤訳かなと。プログレッシブエンハンスメントで対応できるのではなく、上の例そのものがプログレッシブエンハンスメントになっていると言っています(特に対応はされません)。</note>
+      <note>(太田) 誤訳かなと。プログレッシブエンハンスメントで対応できるのではなく、この例そのものがプログレッシブエンハンスメントになっていると言っています(特に対応はされません)。</note>
       <tuv lang="EN-US">
         <seg>Not to worry: &lt;g1&gt;font-size: calc(1em + 1vw);&lt;/g1&gt; is a progressive enhancement.</seg>
       </tuv>
