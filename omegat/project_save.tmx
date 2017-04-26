@@ -900,6 +900,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That is, if &lt;g1&gt;&lt;html lang="en"&gt;&lt;/g1&gt; is present but the text is actually in French, you’d hear a voice profile called Jack doing a bad impression of French, rather than a French profile called Jaques using authentic French pronunciation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T055325Z" creationid="yoota" creationdate="20170426T055325Z">
+        <seg>つまり、もし&lt;g1&gt;&lt;htmllang="en"&gt;&lt;/g1&gt;が存在するのにテキストが実際にはフランス語である場合、Jaquesと呼ばれるフランス語の音声プロファイルが流暢なフランス語の発音で読むべきところで、Jackという英語のプロファイルによる下手なフランス人のものまねを聞かされる羽目になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) lang属性で向上させれば読んでもらえる、は若干強すぎる印象です。ほとんどの場合、lang属性がなくてもわりと読めますので……。原文もそこまで強く言っていないように思いますので、すこしふんわりさせました。</note>
       <tuv lang="EN-US">
         <seg>The &lt;c0&gt;lang&lt;/c0&gt; attribute can be used to improve the readability, translatability and compatibility of web documents’ written content, helping open it up to an international audience.</seg>
