@@ -1493,12 +1493,13 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) どうするか。日本では何と呼ぶのだろう……。</note>
+      <note>(太田) どうするか。日本では何と呼ぶのだろう……。
+見出しとしては「ビューポートを基準とする単位」くらい補ってもいいかも。</note>
       <tuv lang="EN-US">
         <seg>Viewport Units</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T094521Z" creationid="yoota" creationdate="20170425T094521Z">
-        <seg>ビューポートの単位</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T092644Z" creationid="yoota" creationdate="20170425T094521Z">
+        <seg>ビューポートを基準とする単位</seg>
       </tuv>
     </tu>
     <tu>
@@ -1513,8 +1514,8 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       <tuv lang="EN-US">
         <seg>Viewport units present the opportunity to set text that scales with the height (&lt;g1&gt;vh&lt;/g1&gt;) or width (&lt;g2&gt;vw&lt;/g2&gt;) of the viewport.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T092511Z" creationid="yoota" creationdate="20170426T092511Z">
-        <seg>ビューポートの単位を使えば、ビューポートの高さ（&lt;c0&gt;vh&lt;/c0&gt;）と幅（&lt;c1&gt;vw&lt;/c1&gt;）に合わせてテキストのサイズを調整できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T092654Z" creationid="yoota" creationdate="20170426T092511Z">
+        <seg>ビューポートを基準とする単位を使えば、ビューポートの高さ（&lt;c0&gt;vh&lt;/c0&gt;）と幅（&lt;c1&gt;vw&lt;/c1&gt;）に合わせてテキストのサイズを調整できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1650,6 +1651,14 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T101118Z" creationid="yoota" creationdate="20170425T100254Z">
         <seg>ただし、1つ注意点があります。ビューポートの単位が指定されている要素は、フルページズームでは拡大縮小&lt;e0&gt;されない&lt;/e0&gt;ということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You just need to address one issue: elements set using viewport units &lt;g1&gt;cannot&lt;/g1&gt; be scaled using full-page zoom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T092718Z" creationid="yoota" creationdate="20170426T092718Z">
+        <seg>ただし、1つ注意点があります。ビューポートの単位が指定されている要素は、フルページズームでは拡大縮小&lt;g1&gt;されない&lt;/g1&gt;ということです。</seg>
       </tuv>
     </tu>
     <tu>
