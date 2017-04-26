@@ -341,8 +341,7 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 訳から&amp;lt;h2&amp;gt;が落ちているように見えましたが、元訳にはあったようなのでOmegaTに入れるときの都合かもしれません。
-「ルートで」は「ルート要素で」のように補ったほうが良いかもしれません。いったんママにしています。</note>
+      <note>(太田) 訳から&amp;lt;h2&amp;gt;が落ちているように見えましたが、元訳にはあったようなのでOmegaTに入れるときの都合かもしれません。</note>
       <tuv lang="EN-US">
         <seg>An &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; given &lt;g2&gt;font-size: 2rem;&lt;/g2&gt; is two times larger than the size set at the root.</seg>
       </tuv>
@@ -587,6 +586,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 英語では2 times 20で2x20と書くほうが自然なのでしょうが、日本語では20×2という表記のほうが自然のように思いますので変更しました。</note>
       <tuv lang="EN-US">
         <seg>If the user has gone to &lt;g3&gt;Settings → Content&lt;/g3&gt; in Firefox and set the default font size to 20px, &lt;g4&gt;2rem&lt;/g4&gt; will mean 2 × 20 — or 40px.</seg>
       </tuv>
