@@ -465,7 +465,8 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ひとまず下訳を入れます。</note>
+      <note>(太田) doctype declarationは「文書型宣言」あるいは「DOCTYPE宣言」かと思います。いったん後者にしました。
+In addition を「その上」とすると前からのつながりがおかしいように思います。</note>
       <tuv lang="EN-US">
         <seg>In addition, the &lt;g1&gt;omission&lt;/g1&gt; of the aforementioned doctype declaration can result in unexpected and broken behavior for users.</seg>
       </tuv>
