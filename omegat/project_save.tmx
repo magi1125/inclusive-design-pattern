@@ -1024,11 +1024,13 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 冒頭の where possible が落ちているように思います。
+integratedは統合された?</note>
       <tuv lang="EN-US">
         <seg>Where possible, integrated JavaScript widgets degrade into well-structured static content or interactive form elements, meaning users without JavaScript or CSS — temporarily or otherwise — can traverse and use content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T025617Z" creationid="yoota" creationdate="20170426T025617Z">
-        <seg>組み込みのJavaScriptウィジェットをきちんと構造化された静的なコンテンツやインタラクティブなフォーム要素に分解できれば、JavaScriptやCSSを――一時的に、あるいは常時―利用しないユーザーでもコンテンツをたどったり利用できるようになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T025844Z" creationid="yoota" creationdate="20170426T025617Z">
+        <seg>可能であれば、統合されたJavaScriptウィジェットを、きちんと構造化された静的なコンテンツとインタラクティブなフォーム要素に分解することで、JavaScriptやCSSを――一時的に、あるいは常時――利用しないユーザーでも、コンテンツをたどったり利用できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
