@@ -256,6 +256,15 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 括弧は原文にありませんし不要かと。</note>
+      <tuv lang="EN-US">
+        <seg>Enhancement is a great thing, but only where it’s really needed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T035650Z" creationid="yoota" creationdate="20170426T035650Z">
+        <seg>エンハンスメント（機能強化）は確かにすばらしいですが、それはその機能が本当に必要な場合の話です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Essentially, this means you can employ implicitly responsive text without the need for media queries like that of the previous code example.</seg>
       </tuv>
