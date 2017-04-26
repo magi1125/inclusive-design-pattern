@@ -871,6 +871,14 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s not just about JavaScript or CSS being unavailable, but when and how they are unavailable, for how long, and when they should be &lt;g1&gt;made&lt;/g1&gt; available, and in what order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T093751Z" creationid="yoota" creationdate="20170426T093751Z">
+        <seg>単にJavaScriptやCSSが使えないということだけでなく、どんなときに、どのように、どのくらいの時間使えないのか、そしていつ、どういう順序で利用できるように&lt;g1&gt;する&lt;/g1&gt;べきなのかが重要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) たぶん誤訳で、ちょっと補ってこういうことかなと思います。</note>
       <tuv lang="EN-US">
         <seg>It’s what ends up in the compiled CSS, parsable by browsers, that counts.</seg>
