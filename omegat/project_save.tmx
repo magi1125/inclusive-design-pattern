@@ -1407,6 +1407,16 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「魔法の効果が薄れる」は何を言っているのか分かりにくいです。make experiences less magical は要するにユーザー体験を損なっているという話なので、それが伝わるようにする必要はあると思います。
+less magical はいわゆるヘイドンジョークなので厳密に訳す必要もないと思いますが、「ユーザー体験を魔法のように損なう」としてみました。</note>
+      <tuv lang="EN-US">
+        <seg>Yet it’s also where we habitually disable users’ ability to zoom content, making experiences, well, &lt;g2&gt;less&lt;/g2&gt; magical.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T061759Z" creationid="yoota" creationdate="20170426T061759Z">
+        <seg>しかしこのタグは同時に、ユーザーによるコンテンツの拡大縮小を無効にして、魔法のようにユーザー体験を&lt;g2&gt;損なう&lt;/g2&gt;ことが少なくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 問題というより注意点でしょうか (すぐ後ろに解決策がありますし)。</note>
       <tuv lang="EN-US">
         <seg>You just need to address one issue: elements set using viewport units &lt;e0&gt;cannot&lt;/e0&gt; be scaled using full-page zoom.</seg>
