@@ -53,6 +53,14 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <note>(太田) この例、script要素内にスクリプトを直書きするつもりなのでしょうか。
+まあいいか……。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;&lt;s2&gt;&lt;s3&gt;&lt;&lt;/s3&gt;script&lt;/s2&gt;&lt;s4&gt;&gt;&lt;/s4&gt;&lt;/s1&gt;&lt;s5&gt;// TODO: enhancement &lt;/s5&gt;&lt;s6&gt;&lt;s7&gt;&lt;s8&gt;&lt;/&lt;/s8&gt;script&lt;/s7&gt;&lt;s9&gt;&gt;&lt;/s9&gt;&lt;/s6&gt;&lt;/s0&gt;
+&lt;s10&gt;&lt;s11&gt;&lt;s12&gt;&lt;/&lt;/s12&gt;body&lt;/s11&gt;&lt;s13&gt;&gt;&lt;/s13&gt;&lt;/s10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 日本ではあまりスプレッドという言い方は聞かないかも。ピンチイン/ピンチアウトと言うことが多い?</note>
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;•&lt;/s0&gt;It can be confounding for users when a pinch/spread gesture is interpreted as something else.</seg>
