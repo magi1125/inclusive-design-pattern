@@ -537,6 +537,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In my CSS I can select any sections declared as French using the &lt;g1&gt;:lang&lt;/g1&gt; pseudo-class, applying a font well suited to the French character set, thereby improving legibility:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T060321Z" creationid="yoota" creationdate="20170426T060321Z">
+        <seg>CSSの&lt;g1&gt;:lang&lt;/g1&gt;擬似クラスを使えば、フランス語が指定されている全てのセクションを選択し、フランス語に適したフォントを適用して読みやすくすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) これはヘイドンジョークでしょうね。
 it would have liked to begin with は最初から好まれていたであろうサイズ、つまりユーザーが元々設定していたお好みのサイズということでしょう。コンテンツ側の指定が無視されるので、完全にユーザーの好きなサイズになるということですね。</note>
       <tuv lang="EN-US">
