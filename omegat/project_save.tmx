@@ -621,12 +621,12 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「形式が合理的かつ堅牢」はよくわかりません。</note>
+      <note>(太田) 「形式が合理的かつ堅牢」はよくわかりません。「合理的かつ堅牢な形の」</note>
       <tuv lang="EN-US">
         <seg>Progressive enhancement is about building a strong foundation of content, logical and robust in form, which is resilient to a multitude of network and scripting failures.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T014728Z" creationid="yoota" creationdate="20170426T014728Z">
-        <seg>プログレッシブエンハンスメントの目的は、形式が合理的かつ堅牢で、さまざまなネットワーク障害やスクリプトエラーに対応できる、コンテンツの強固な基盤を作ることです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T020324Z" creationid="yoota" creationdate="20170426T014728Z">
+        <seg>プログレッシブエンハンスメントの目的は、合理的かつ堅牢な形で、さまざまなネットワーク障害やスクリプトエラーに対応できる、コンテンツの強固な基盤を作ることです。</seg>
       </tuv>
     </tu>
     <tu>
