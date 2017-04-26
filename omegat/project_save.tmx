@@ -751,7 +751,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
     <tu>
       <note>(太田) ちょっと何言ってるか分からない訳になっていますが、Cmd + Option + M はレスポンシブデザインモードへの切り替えのトグルです (と思いますがMacで確認していないので伊原さん確認お願いします。WinだとCtrl+Shift+Mです)。
 頭の Just は命令形を和らげるjustで「ちょっと」くらいでしょうか。
-resizeを「大きくしていく」と訳されていましたが、これは逆で小さくなりますね。ビューポートが小さくなるからコンテンツが重なるわけです。
+resizeを「大きくしていく」と訳されていましたが、これは逆で小さくなりますね。ビューポートが小さくなるからコンテンツが重なるわけです。原文はresizeなのでそのまま「リサイズ」としました。
 wrap は「折り返す」としました (white-space: no-wrapのwrap)。</note>
       <tuv lang="EN-US">
         <seg>Just press &lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;, then resize the simulated viewport incrementally until the content is forced to collide, overlap or wrap.</seg>
