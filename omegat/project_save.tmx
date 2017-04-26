@@ -23,6 +23,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>(太田) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;html&lt;/g3&gt; &lt;g5&gt;lang&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"en"&lt;/g6&gt;&lt;/g2&gt; &lt;g8&gt;&lt;!-- language set to English --&gt;&lt;/g8&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -711,6 +712,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
         <seg>Not only does it make the page more indexable by search engines, but it also becomes easier to translate by users operating third-party tools such as Google’s &lt;a0&gt;&lt;s1&gt;Translate API&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;2&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170419T101632Z" creationid="yoota" creationdate="20170419T101632Z">
+        <seg>検索エンジンによるインデックス付けがやりやすくなるほか、ユーザーがGoogleの&lt;a0&gt;&lt;s1&gt;Translate API&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;（脚注5）&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;のようなサードパーティツールを使って翻訳することも容易になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not only does it make the page more indexable by search engines, but it also becomes easier to translate by users operating third-party tools such as Google’s &lt;g1&gt;&lt;g2&gt;Translate API&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;2&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T054914Z" creationid="yoota" creationdate="20170426T054914Z">
         <seg>検索エンジンによるインデックス付けがやりやすくなるほか、ユーザーがGoogleの&lt;a0&gt;&lt;s1&gt;Translate API&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;（脚注5）&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;のようなサードパーティツールを使って翻訳することも容易になります。</seg>
       </tuv>
     </tu>
