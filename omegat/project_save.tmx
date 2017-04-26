@@ -672,6 +672,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) LGTM.</note>
       <tuv lang="EN-US">
         <seg>On slow networks, the content should arrive as soon as possible.</seg>
       </tuv>
