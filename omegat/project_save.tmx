@@ -674,6 +674,12 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 画像のaltです。</note>
+      <tuv lang="EN-US">
+        <seg>Shows stages in progressive enhancement.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Simple interfaces are usable interfaces, and much less work in terms of managing breakpoints.</seg>
       </tuv>
