@@ -1070,6 +1070,8 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「ルートレベル」どうする? いったんママ。妙案があれば。
+px指定でフォントサイズ変えられなくなるのはIEくらいですが。</note>
       <tuv lang="EN-US">
         <seg>So, &lt;g5&gt;100%&lt;/g5&gt; is really “one hundred percent of the default size or the size the user has chosen.” If I were to set the font size explicitly as 16px at the root level, I would diminish the user’s ability to adjust font size to their liking.</seg>
       </tuv>
