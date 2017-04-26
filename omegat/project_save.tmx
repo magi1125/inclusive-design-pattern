@@ -1654,6 +1654,7 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) issueは問題というより注意点でしょうか (すぐ後ろに解決策がありますし)。</note>
       <tuv lang="EN-US">
         <seg>You just need to address one issue: elements set using viewport units &lt;g1&gt;cannot&lt;/g1&gt; be scaled using full-page zoom.</seg>
       </tuv>
