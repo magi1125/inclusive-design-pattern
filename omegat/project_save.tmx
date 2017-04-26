@@ -1595,7 +1595,7 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) everythingを全ての要素としていますが、上のCSSではhtmlのfont-sizeしか指定しておらず、要素そのものが拡大縮小されるわけではありません。</note>
+      <note>(太田) everythingを全ての要素としていますが、上のCSSではhtmlのfont-sizeしか指定しておらず、要素そのものが拡大縮小されるわけではありません。補うなら「全てのテキスト」とか?</note>
       <tuv lang="EN-US">
         <seg>With this algorithm in place, everything scales incrementally and proportionately relative to the viewport.</seg>
       </tuv>
