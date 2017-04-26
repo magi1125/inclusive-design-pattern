@@ -1318,6 +1318,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The rem unit causes problems in Safari, as “&lt;g2&gt;&lt;g3&gt;PX, EM or REM Media Queries?&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;5&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;” by Zell Liew attests.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T072657Z" creationid="yoota" creationdate="20170426T072657Z">
+        <seg>ゼル・リュウ（Zell Liew）が「&lt;g2&gt;&lt;g3&gt;PX, EM or REM Media Queries?&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注8）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;」で実証しているように、remではSafariで問題が起きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 頭の The を少し補って「このとき」としました。全体的に少し補いつつ砕いた表現にしてみました。</note>
       <tuv lang="EN-US">
         <seg>The responsive design mode interface displays the current dimensions, allowing you to record and attend to that breakpoint.</seg>
