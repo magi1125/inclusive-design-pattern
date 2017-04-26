@@ -1034,6 +1034,15 @@ integratedは統合された?</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 語順を原文と変える必要性がないように思いましたので原文にあわせました。</note>
+      <tuv lang="EN-US">
+        <seg>Whether JavaScript is available or not, semantic HTML ensures an inclusive experience for assistive technology users and makes interaction behavior more predictable and efficient.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T030009Z" creationid="yoota" creationdate="20170426T030009Z">
+        <seg>JavaScriptが使えるかどうかに関係なく、セマンティックHTMLは、支援技術ユーザーにインクルーシブな体験を保証し、インタラクションの動作をより予測可能で効率的なものにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) staticは静的で良いかと。元訳ではunavoidably が省かれていましたが、「間違いありません」的に訳してみました。</note>
       <tuv lang="EN-US">
         <seg>Whether your web page is an old-school static resource or a single-page app, it is unavoidably a document.</seg>
