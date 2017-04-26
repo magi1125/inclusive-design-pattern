@@ -357,6 +357,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, &lt;g1&gt;lang="zh-Hans"&lt;/g1&gt; will invoke the rendering of a simplified Chinese font.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T055946Z" creationid="yoota" creationdate="20170426T055946Z">
+        <seg>たとえば、&lt;g1&gt;lang="zh-Hans”&lt;/g1&gt;と指定すると、簡体字中国語のフォントで表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 前の章で「以下のように」としていたのでそろえました。
 「部分的に」は原文にないように思います。補う必要もないように思いましたので省きました。</note>
       <tuv lang="EN-US">
