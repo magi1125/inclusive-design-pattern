@@ -871,14 +871,15 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 重要になる、でいいのか。
+      <note>(太田) 正直わけのわからない文章。
+重要になる、でいいのか。
 前の文の Progressive enhancement is about を受けてこの文で It’s not just about と言っているので、it はProgressive enhancementであろう。
 「利用できるようにしたいのか」→「利用できるようにするべきなのか」</note>
       <tuv lang="EN-US">
         <seg>It’s not just about JavaScript or CSS being unavailable, but when and how they are unavailable, for how long, and when they should be &lt;g1&gt;made&lt;/g1&gt; available, and in what order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T094209Z" creationid="yoota" creationdate="20170426T093751Z">
-        <seg>JavaScriptやCSSが使えなくなったときだけでなく、どんなときに、どのように、どのくらいの時間使えないのか、そしていつ、どういう順序で利用できるように&lt;g1&gt;する&lt;/g1&gt;べきなのかにも関わってきます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T094349Z" creationid="yoota" creationdate="20170426T093751Z">
+        <seg>単にJavaScriptやCSSが使えなくなったというだけでなく、いつどのように使えなくなったか、どのくらいの時間使えないのか、そしていつ、どういう順序で利用できるように&lt;g1&gt;する&lt;/g1&gt;べきなのかにも関わってきます。</seg>
       </tuv>
     </tu>
     <tu>
