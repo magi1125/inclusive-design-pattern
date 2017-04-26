@@ -57,6 +57,13 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 【要検討】French Fontとfallbackはフォント名ではないはずなので訳す必要があるような気もするが、訳したものをCSSに突っ込むとそれはそれでおかしいかもしれない。どうするか。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g4&gt;font-family&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; French Font, fallback, sans-serif&lt;g6&gt;;&lt;/g6&gt;
+&lt;g7&gt;}&lt;/g7&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;!-- don’t use this --&gt;&lt;/s0&gt;
 &lt;s1&gt;&lt;s2&gt;&lt;s3&gt;&lt;&lt;/s3&gt;meta&lt;/s2&gt; &lt;s4&gt;name&lt;/s4&gt;&lt;s5&gt;&lt;s6&gt;=&lt;/s6&gt;"viewport"&lt;/s5&gt; &lt;s7&gt;content&lt;/s7&gt;&lt;s8&gt;&lt;s9&gt;=&lt;/s9&gt;"width&lt;s10&gt;=&lt;/s10&gt;device-width, initial-scale&lt;s11&gt;=&lt;/s11&gt;1.0, minimum-scale&lt;s12&gt;=&lt;/s12&gt;1.0, maximum-scale&lt;s13&gt;=&lt;/s13&gt;1.0, user-scalable&lt;s14&gt;=&lt;/s14&gt;no"&lt;/s8&gt;&lt;s15&gt;&gt;&lt;/s15&gt;&lt;/s1&gt;
