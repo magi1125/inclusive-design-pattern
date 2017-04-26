@@ -1432,8 +1432,8 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       <tuv lang="EN-US">
         <seg>To make sure &lt;g4&gt;font-size&lt;/g4&gt;, &lt;g5&gt;padding&lt;/g5&gt; and &lt;g6&gt;margin&lt;/g6&gt; all resize proportionately, each should be set using the relative units &lt;g7&gt;rem&lt;/g7&gt;, &lt;g8&gt;em&lt;/g8&gt; or &lt;g9&gt;ch&lt;/g9&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T071937Z" creationid="yoota" creationdate="20170426T071735Z">
-        <seg>また、ユーザーが文字サイズを変更した際、&lt;g4&gt;font-size&lt;/g4&gt;、&lt;g5&gt;padding&lt;/g5&gt;、&lt;g6&gt;margin&lt;/g6&gt;が協調して変化するように、それぞれの値を相対単位の&lt;g7&gt;rem&lt;/g7&gt;や&lt;c7&gt;em&lt;/c7&gt;、&lt;c8&gt;ch&lt;/c8&gt;などで設定する必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T071955Z" creationid="yoota" creationdate="20170426T071735Z">
+        <seg>また、ユーザーが文字サイズを変更した際、&lt;g4&gt;font-size&lt;/g4&gt;、&lt;g5&gt;padding&lt;/g5&gt;、&lt;g6&gt;margin&lt;/g6&gt;が協調して変化するように、それぞれの値を相対単位の&lt;g7&gt;rem&lt;/g7&gt;や&lt;g8&gt;em&lt;/g8&gt;、&lt;g9&gt;ch&lt;/g9&gt;などで設定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
