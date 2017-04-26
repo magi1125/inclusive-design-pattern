@@ -673,6 +673,14 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s easy to include the &lt;g2&gt;lang&lt;/g2&gt; attribute, so just go ahead and include it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T060748Z" creationid="yoota" creationdate="20170426T060748Z">
+        <seg>&lt;g2&gt;lang&lt;/g2&gt;属性を指定するのは簡単なことですので、ぜひ使ってみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 重要になる、でいいのか。いったん保留。
 「利用できるようにしたいのか」→「利用できるようにするべきなのか」</note>
       <tuv lang="EN-US">
