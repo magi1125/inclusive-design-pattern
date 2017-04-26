@@ -392,6 +392,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In a progressively enhanced setup, scripts should be inserted at the end of the document, just before the closing &lt;c0&gt;&lt;/body&gt;&lt;/c0&gt; tag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T035827Z" creationid="yoota" creationdate="20170426T035827Z">
+        <seg>プログレッシブエンハンスメントのセットアップでは、スクリプトはドキュメントの最後、終了タグ&lt;c0&gt;&lt;/body&gt;&lt;/c0&gt;の直前に入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) この前でスクリーンリーダーや点字ディスプレイの話はしていないので、今の訳だと唐突感があります。語順を調整しました。
 
 </note>
