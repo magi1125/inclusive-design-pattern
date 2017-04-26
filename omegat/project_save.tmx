@@ -467,6 +467,15 @@ it would have liked to begin with は最初から好まれていたであろう�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) critical は大切というよりもう少し強いニュアンスかも。</note>
+      <tuv lang="EN-US">
+        <seg>In terms of our document setup, it’s critical we make sure the resources we are using to enhance the page content do not stand in the way of that content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T040449Z" creationid="yoota" creationdate="20170426T040449Z">
+        <seg>ドキュメントのセットアップという観点では、ページのコンテンツを強化するためのリソースが逆にコンテンツの妨げにならないようにすることが大切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文で強調されているifは訳出する必要があります。そのまま「もし」としました。
 「Preferences → Content」は「オプション→コンテンツ」となっていました (Firefox51.0.1 で確認)。
 </note>
