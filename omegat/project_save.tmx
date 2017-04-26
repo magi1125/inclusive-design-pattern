@@ -73,6 +73,22 @@ Do not put everything in the same bag! のような意味のようです。</not
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The text may be too small for the user to read.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T062146Z" creationid="yoota" creationdate="20170426T062146Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;テキストが小さすぎて読めない恐れがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The user may want to see more detail in an image.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T062230Z" creationid="yoota" creationdate="20170426T062230Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt; 画像の細部を見たいユーザーがいるかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 【要検討】French Fontとfallbackはフォント名ではないはずなので訳す必要があるような気もします。ただ、訳したものをそのままCSSの宣言の中に突っ込むとそれはそれでおかしいかもしれません。どうするべきか悩ましいですね。</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;font-family&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; French Font, fallback, sans-serif&lt;g6&gt;;&lt;/g6&gt;
