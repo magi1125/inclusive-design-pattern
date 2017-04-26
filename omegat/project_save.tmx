@@ -576,6 +576,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If your layout breaks badly when a user zooms, &lt;g1&gt;the design&lt;/g1&gt; is at fault, not the user, and removing their ability to zoom is not a solution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T063057Z" creationid="yoota" creationdate="20170426T063057Z">
+        <seg>ユーザーが拡大縮小したときにレイアウトが崩れてしまうとしたら、悪いのはユーザーではなく&lt;g1&gt;デザイン&lt;/g1&gt;です。拡大縮小できないようにしたところで解決にはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>テストメモ
 太田: OmegaTでチーム編集するテスト</note>
       <tuv lang="EN-US">
