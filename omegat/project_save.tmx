@@ -510,6 +510,14 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s not just about JavaScript or CSS being unavailable, but when and how they are unavailable, for how long, and when they should be &lt;e0&gt;made&lt;/e0&gt; available, and in what order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T022314Z" creationid="yoota" creationdate="20170426T022314Z">
+        <seg>単にJavaScriptやCSSが使えないということだけでなく、どんなときに、どのように、どのくらいの時間使えないのか、そしていつ、どういう順序で利用できるようにしたいのかが重要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) たぶん誤訳で、ちょっと補ってこういうことかなと思います。</note>
       <tuv lang="EN-US">
         <seg>It’s what ends up in the compiled CSS, parsable by browsers, that counts.</seg>
@@ -568,12 +576,13 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
     </tu>
     <tu>
       <note>(太田) 原文にない括弧を入れるのはできるだけ避けたいですが、unicorn-rare というヘイドンフレーズを生かすべきかどうか。
-全体やや誤訳っぽいです。malignは「悪く言う」の意味で、この文全体は Much maligned as X,  it has much broader implications. という形ですので、Xのように悪く言われることが多いが、(実際には) もっと広い意味がある、と言っています。補って訳してみましたがわかりにくいですね……。</note>
+全体やや誤訳っぽいです。malignは「悪く言う」の意味で、この文全体は Much maligned as X,  it has much broader implications. という形ですので、Xのように悪く言われることが多いが、(実際には) もっと広い意味がある、と言っています。補って訳してみましたがわかりにくいですね……。
+arduousはここでは難易度が高いというよりも悪い意味で、</note>
       <tuv lang="EN-US">
         <seg>Much maligned as the arduous task of making web applications still do things when a unicorn-rare user switches JavaScript off, it has much broader implications.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T015636Z" creationid="yoota" creationdate="20170425T110254Z">
-        <seg>JavaScriptをオフにしているユニコーンのように希少なユーザーでも使えるWebアプリケーションを作るかのような、骨の折れる厄介な仕事だ、などと言われることが多いのですが、実際にはもっと広い意味があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T022509Z" creationid="yoota" creationdate="20170425T110254Z">
+        <seg>JavaScriptをオフにしているユニコーンのように希少なユーザーでも使えるWebアプリケーションを作るかのような、骨の折れる仕事だ、などと言われることが多いのですが、実際にはもっと広い意味があります。</seg>
       </tuv>
     </tu>
     <tu>
