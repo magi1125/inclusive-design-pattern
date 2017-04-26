@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -678,6 +678,15 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T040649Z" creationid="yoota" creationdate="20170426T040649Z">
         <seg>たとえばネットワークの速度が遅い場合は、コンテンツができるだけ早く表示されるようにしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) 下訳を反映します!</note>
+      <tuv lang="EN-US">
+        <seg>One hundred points is what we’re aiming for here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170426T042002Z" creationid="rikiha" creationdate="20170426T042002Z">
+        <seg>目指すは100ポイントです！</seg>
       </tuv>
     </tu>
     <tu>
