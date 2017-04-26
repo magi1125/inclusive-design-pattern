@@ -972,6 +972,14 @@ target はそのままカタカナだと意味がとりにくいように思い�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That doesn’t mean you need a breakpoint for every width.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T061542Z" creationid="yoota" creationdate="20170426T061542Z">
+        <seg>ただしそれは、1つのブレイクポイントですべての幅に対応しなければならないということではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 訳がおかしいような。最小フォントサイズの確保についての説明です。少し補わないと分かりにくいかもしれません。</note>
       <tuv lang="EN-US">
         <seg>That is, 1em + (0 × 1vw) is still 1em.</seg>
