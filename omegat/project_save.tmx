@@ -1024,6 +1024,14 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Where possible, integrated JavaScript widgets degrade into well-structured static content or interactive form elements, meaning users without JavaScript or CSS — temporarily or otherwise — can traverse and use content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T025617Z" creationid="yoota" creationdate="20170426T025617Z">
+        <seg>組み込みのJavaScriptウィジェットをきちんと構造化された静的なコンテンツやインタラクティブなフォーム要素に分解できれば、JavaScriptやCSSを――一時的に、あるいは常時―利用しないユーザーでもコンテンツをたどったり利用できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) staticは静的で良いかと。元訳ではunavoidably が省かれていましたが、「間違いありません」的に訳してみました。</note>
       <tuv lang="EN-US">
         <seg>Whether your web page is an old-school static resource or a single-page app, it is unavoidably a document.</seg>
