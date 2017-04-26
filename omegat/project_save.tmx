@@ -749,6 +749,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Just press &lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;, then resize the simulated viewport incrementally until the content is forced to collide, overlap or wrap.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T061206Z" creationid="yoota" creationdate="20170426T061206Z">
+        <seg>&lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;キーを押してみてください。すると、シミュレートされたビューポートが、コンテンツがぶつかったり、重なったり、折り返したりするところまで徐々にリサイズされていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) レイアウトのエラーというのは日本語として変な感じがします。直訳すると、「レイアウトとインタラクションが誤りやすい予測できない状態になりうる」ということで、ひっくるめて「不安定になる」くらいかなと思います。</note>
       <tuv lang="EN-US">
         <seg>Layout and interaction can become error-prone and unpredictable.</seg>
