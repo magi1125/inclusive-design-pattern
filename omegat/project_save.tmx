@@ -126,13 +126,13 @@ http://adrianroselli.com/2015/10/dont-disable-zoom.html
     </tu>
     <tu>
       <note>(太田) こちらの括弧は引用元にも存在します。
-quirkはネガティブイメージの言葉ですが、後方互換としてしまうとネガティブな感じがしません。引用元を見ると iOS9 でズームがおかしくなる話のようで、ブラウザのQuirksモードを指しているわけでもないようです。ということで、ここは「奇妙なふるまい」くらいでどうでしょう。
-(つまりはバグ) の意味がわかりにくいですが Quirk もバグだと言っているので、「これも要するにバグ」くらいでしょうか。</note>
+quirkはネガティブイメージの言葉ですが、後方互換としてしまうとネガティブな感じがしません。引用元を見ると iOS9 でズームがおかしくなる話のようで、ブラウザのQuirksモードを指しているわけでもないようです。ということで、ここは「奇妙なふるまい」くらいで良いように思います。
+「(つまりはバグ) 」の意味がわかりにくいですが、Quirk もバグだと言っているので、「これも要するにバグ」くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;There is a browser bug or quirk (still a bug) that causes the default zoom level to be odd.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T062833Z" creationid="yoota" creationdate="20170426T062833Z">
-        <seg>• ブラウザのバグや奇妙なふるまい（これも要するにバグ）のせいで、デフォルトの表示倍率では正しく表示されないことがある。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T062937Z" creationid="yoota" creationdate="20170426T062833Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt; ブラウザのバグや奇妙なふるまい（これも要するにバグ）のせいで、デフォルトの表示倍率では正しく表示されないことがある。</seg>
       </tuv>
     </tu>
     <tu>
