@@ -698,6 +698,16 @@ it would have liked to begin with は最初から好まれていたであろう�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 原文で強調されているifは訳出する必要があります。そのまま「もし」としました。
+「Preferences → Content」は「オプション→コンテンツ」となっていました (Firefox51.0.1 で確認)。</note>
+      <tuv lang="EN-US">
+        <seg>In the example above, &lt;g1&gt;100%&lt;/g1&gt; is equal to &lt;g2&gt;16px&lt;/g2&gt; &lt;g3&gt;if&lt;/g3&gt; the user has not adjusted the font size manually, either in their operating system or browser settings (e.g. under &lt;g4&gt;Preferences → Content&lt;/g4&gt; in Firefox).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170426T070808Z" creationid="yoota" creationdate="20170426T070808Z">
+        <seg>この例の場合、&lt;g3&gt;もし&lt;/g3&gt;ユーザーがオペレーティングシステムやブラウザの設定（たとえばFirefoxの場合は&lt;g4&gt;［オプション］→［コンテンツ］&lt;/g4&gt;）でフォントサイズを手動で調整していないなら、&lt;g1&gt;100%&lt;/g1&gt;は&lt;g2&gt;16px&lt;/g2&gt;になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>In the example below, the &lt;c0&gt;line-height&lt;/c0&gt; and &lt;c1&gt;margin&lt;/c1&gt; of the &lt;c2&gt;p&lt;/c2&gt; will scale proportionately, because they are both set relative to the &lt;c3&gt;font-size&lt;/c3&gt;.</seg>
       </tuv>
