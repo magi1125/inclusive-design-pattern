@@ -621,6 +621,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「形式が合理的かつ堅牢」はよくわかりません。</note>
       <tuv lang="EN-US">
         <seg>Progressive enhancement is about building a strong foundation of content, logical and robust in form, which is resilient to a multitude of network and scripting failures.</seg>
       </tuv>
