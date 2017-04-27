@@ -1256,8 +1256,7 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
     </tu>
     <tu>
       <note>(太田) それでは→これではとしました。
-不安定なネットワーク→回線が不安定としました。
-</note>
+不安定なネットワーク→回線が不安定としました。</note>
       <tuv lang="EN-US">
         <seg>That’s pretty uninclusive of users on temperamental networks.</seg>
       </tuv>
@@ -1419,6 +1418,16 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T105245Z" creationid="yoota" creationdate="20170420T105127Z">
         <seg>このとき、レスポンシブデザインモードのインターフェイスに現在のサイズが表示されるため、これを記録すれば、そのブレイクポイントが分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) 強調されているthenを訳出する必要があります。
+</note>
+      <tuv lang="EN-US">
+        <seg>The trick is to load the page &lt;g1&gt;then&lt;/g1&gt; the font, using the &lt;g2&gt;onload&lt;/g2&gt; event as a watershed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T033024Z" creationid="yoota" creationdate="20170427T033024Z">
+        <seg>ポイントは、先にページを読み込んでから、onloadイベントを分岐点にしてフォントを読み込むようにすることです。</seg>
       </tuv>
     </tu>
     <tu>
