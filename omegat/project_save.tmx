@@ -290,7 +290,9 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 括弧は原文にありませんし不要かと。</note>
+      <note>(太田) 括弧は原文にありませんし不要かと。
+画像の内容はaltのとおりで、左から右にローディングが進むプロセスをあらわしています。HTMLがロードされた時点でコンテンツが読めるようになり、CSSが来ても、JSが来てもコンテンツはありつづけるという話です。
+ただ、その下のキャプションでヘイドンさんが何を言いたいのかは良く分かりません。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Enhancement is a great thing, but only where it’s really needed.&lt;/g3&gt;</seg>
       </tuv>
