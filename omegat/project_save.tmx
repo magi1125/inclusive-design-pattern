@@ -1560,6 +1560,15 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>Web fonts are typically large assets which should be treated as an enhancement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T025125Z" creationid="yoota" creationdate="20170427T025125Z">
+        <seg>Webフォントは一般的に大きいアセットなので、エンハンスメントとして処理すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) オーサーCSSは日本語で普通どう呼ぶんですかね。「コンテンツ側のCSS」みたいな言い方が多い?
 従うべきとまでは言っていなくて、リスペクトしろという話ですね。</note>
       <tuv lang="EN-US">
