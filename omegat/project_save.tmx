@@ -651,6 +651,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) LGTM</note>
       <tuv lang="EN-US">
         <seg>In &lt;g3&gt;&lt;g4&gt;Keith Clark’s example&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;6&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;, &lt;g8&gt;&lt;link&gt;&lt;/g8&gt; has an &lt;g9&gt;onload&lt;/g9&gt; handler which switches the media type from &lt;g10&gt;none&lt;/g10&gt; to &lt;g11&gt;all&lt;/g11&gt;.</seg>
       </tuv>
