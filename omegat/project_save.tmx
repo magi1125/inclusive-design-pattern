@@ -572,8 +572,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>If JavaScript is entirely unavailable, the CSS is loaded regardless, thanks to &lt;g12&gt;&lt;noscript&gt;&lt;/g12&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170427T034351Z" creationid="yoota" creationdate="20170427T034351Z">
-        <seg>JavaScriptがまったく使えない場合でも、&lt;noscript&gt;があるおかげで、とりあえずCSSは読み込まれます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T034408Z" creationid="yoota" creationdate="20170427T034351Z">
+        <seg>JavaScriptがまったく使えない場合でも、&lt;noscript&gt;があるおかげで、いちおうCSSは読み込まれます。</seg>
       </tuv>
     </tu>
     <tu>
