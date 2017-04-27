@@ -1255,12 +1255,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) それでは→これではとしました。</note>
+      <note>(太田) それでは→これではとしました。
+不安定なネットワーク→回線が不安定としました。
+</note>
       <tuv lang="EN-US">
         <seg>That’s pretty uninclusive of users on temperamental networks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170427T032903Z" creationid="yoota" creationdate="20170427T032903Z">
-        <seg>これでは、不安定なネットワークのユーザーにとってはとてもインクルーシブとは言えません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T032939Z" creationid="yoota" creationdate="20170427T032903Z">
+        <seg>これでは、回線が不安定なユーザーにとってはとてもインクルーシブとは言えません。</seg>
       </tuv>
     </tu>
     <tu>
