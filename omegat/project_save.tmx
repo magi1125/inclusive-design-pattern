@@ -292,12 +292,12 @@ font-size: 16px;
     <tu>
       <note>(太田) 括弧は原文にありませんし不要かと。
 画像の内容はaltのとおりで、左から右にローディングが進むプロセスをあらわしています。HTMLがロードされた時点でコンテンツが読めるようになり、CSSが来ても、JSが来てもコンテンツはありつづけるという話です。
-ただ、このキャプションでヘイドンさんが何を言いたいのかは良く分かりません。基本的にはCSSもJSもなしで読めるように作っておいて必要なところだけエンハンスメントすべし、という話なのかもしれません。</note>
+ただ、このキャプションでヘイドンさんが何を言いたいのかは良く分かりません。基本的にはCSSもJSもなしで読めるように作っておいて必要なところだけエンハンスメントすべし、という話なのかもしれません (when ではなく where ですし)。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Enhancement is a great thing, but only where it’s really needed.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170427T023556Z" creationid="yoota" creationdate="20170427T023556Z">
-        <seg>エンハンスメントは確かにすばらしいですが、それはその機能が本当に必要な場合の話です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T031128Z" creationid="yoota" creationdate="20170427T023556Z">
+        <seg>エンハンスメントはすばらしいですが、本当に必要な場所で使いましょう。</seg>
       </tuv>
     </tu>
     <tu>
