@@ -568,6 +568,15 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(太田) ここの regardless は、エンハンスメントでない方法で読み込まれることを言っています。</note>
+      <tuv lang="EN-US">
+        <seg>If JavaScript is entirely unavailable, the CSS is loaded regardless, thanks to &lt;g12&gt;&lt;noscript&gt;&lt;/g12&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T034351Z" creationid="yoota" creationdate="20170427T034351Z">
+        <seg>JavaScriptがまったく使えない場合でも、&lt;noscript&gt;があるおかげで、とりあえずCSSは読み込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) DOCTYPEは大文字に。
 「宣言」としていますが、HTML5のDOCTYPEはSGMLの文書型宣言ではないので、宣言とするのは避けたほうが良いかもしれません (上でヘイドンさんはdoctype declarationと書いたりはしていますが)。原文 tells the browser なのでそのまま「ブラウザに伝えたら」くらいでしょうか。
 
