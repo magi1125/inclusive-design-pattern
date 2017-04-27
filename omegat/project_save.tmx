@@ -656,8 +656,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       <tuv lang="EN-US">
         <seg>In a progressively enhanced setup, scripts should be inserted at the end of the document, just before the closing &lt;g1&gt;&lt;/body&gt;&lt;/g1&gt; tag.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170427T024216Z" creationid="yoota" creationdate="20170427T023631Z">
-        <seg>プログレッシブエンハンスメントの手法で設定を行う際は、スクリプトはドキュメントの最後、終了タグ&lt;g1&gt;&lt;/body&gt;&lt;/g1&gt;の直前に入れるべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T031343Z" creationid="yoota" creationdate="20170427T023631Z">
+        <seg>プログレッシブエンハンスメントの手法を使う際は、スクリプトはドキュメントの最後、終了タグ&lt;g1&gt;&lt;/body&gt;&lt;/g1&gt;の直前に入れるべきです。</seg>
       </tuv>
     </tu>
     <tu>
