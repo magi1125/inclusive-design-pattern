@@ -1099,7 +1099,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。</note
     </tu>
     <tu>
       <note>(太田) 「形式が合理的かつ堅牢」はよくわかりません。buildingにかかっているように見えるので「合理的かつ堅牢な形で構築」でしょうか。
-ネットワーク障害→回線状況としました。
+ネットワーク障害→回線状況としました。回線が遅い場合の話も出てきますので。
+scripting failures はスクリプトエラーで良いのかどうか謎。
 </note>
       <tuv lang="EN-US">
         <seg>Progressive enhancement is about building a strong foundation of content, logical and robust in form, which is resilient to a multitude of network and scripting failures.</seg>
