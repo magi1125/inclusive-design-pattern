@@ -651,6 +651,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;g3&gt;&lt;g4&gt;Keith Clark’s example&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;6&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;, &lt;g8&gt;&lt;link&gt;&lt;/g8&gt; has an &lt;g9&gt;onload&lt;/g9&gt; handler which switches the media type from &lt;g10&gt;none&lt;/g10&gt; to &lt;g11&gt;all&lt;/g11&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T033934Z" creationid="yoota" creationdate="20170427T033934Z">
+        <seg>&lt;g3&gt;&lt;g4&gt;キース・クラーク（Keith Clark）の例&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注9）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;では、&lt;g8&gt;&lt;link&gt;&lt;/g8&gt;のonloadハンドラでメディアタイプを&lt;g10&gt;none&lt;/g10&gt;から&lt;g11&gt;all&lt;/g11&gt;に切り替えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 入れます→入れるべきです。head要素内に入れても動くのですが&lt;/body&gt;の前に入れることを推奨するという話です。</note>
       <tuv lang="EN-US">
         <seg>In a progressively enhanced setup, scripts should be inserted at the end of the document, just before the closing &lt;c0&gt;&lt;/body&gt;&lt;/c0&gt; tag.</seg>
