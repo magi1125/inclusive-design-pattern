@@ -1067,12 +1067,12 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。</note
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM.</note>
+      <note>(太田) 「たとえば」は不要であるように思います。</note>
       <tuv lang="EN-US">
         <seg>On slow networks, the content should arrive as soon as possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T040649Z" creationid="yoota" creationdate="20170426T040649Z">
-        <seg>たとえばネットワークの速度が遅い場合は、コンテンツができるだけ早く表示されるようにしなければなりません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T033150Z" creationid="yoota" creationdate="20170426T040649Z">
+        <seg>ネットワークの速度が遅い場合は、コンテンツができるだけ早く表示されるようにしなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
