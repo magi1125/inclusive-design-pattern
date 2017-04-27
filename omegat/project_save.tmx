@@ -1427,8 +1427,7 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
     </tu>
     <tu>
       <note>(太田) 表示→レンダリングとしました。ほぼ同義ですが厳密には異なり、レンダリングされるが表示されない場合などもあります。
-「そうすれば」→「これによって……できるようになります」としました。
-</note>
+「そうすれば」→「これによって……できるようになります」としました。</note>
       <tuv lang="EN-US">
         <seg>This allows the main DOM content to be rendered before the scripts are executed.</seg>
       </tuv>
@@ -1568,12 +1567,13 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) フォントがエンハンスメントなのではなく、エンハンスメントの手法でフォントを扱うという話なので、「エンハンスメントとして処理」→「エンハンスメントで処理」としました。
+</note>
       <tuv lang="EN-US">
         <seg>Web fonts are typically large assets which should be treated as an enhancement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170427T025125Z" creationid="yoota" creationdate="20170427T025125Z">
-        <seg>Webフォントは一般的に大きいアセットなので、エンハンスメントとして処理すべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T032420Z" creationid="yoota" creationdate="20170427T025125Z">
+        <seg>Webフォントは一般的に大きいアセットなので、エンハンスメントで処理すべきです。</seg>
       </tuv>
     </tu>
     <tu>
