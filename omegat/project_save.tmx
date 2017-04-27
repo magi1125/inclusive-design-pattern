@@ -569,7 +569,7 @@ font-size: 16px;
     </tu>
     <tu>
       <note>(太田) ここの regardless は、エンハンスメントでない方法で読み込まれることを言っています。
-訳注: この場合、コンテンツのロードが終わる前にフォントをロードします。</note>
+訳注: この場合、エンハンスメントは機能せず、コンテンツのロードが終わる前にフォントを読み込みます。</note>
       <tuv lang="EN-US">
         <seg>If JavaScript is entirely unavailable, the CSS is loaded regardless, thanks to &lt;g12&gt;&lt;noscript&gt;&lt;/g12&gt;.</seg>
       </tuv>
