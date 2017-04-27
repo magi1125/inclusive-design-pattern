@@ -651,13 +651,12 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 入れます→入れるべきです、としました。head要素内に入れても動くのですが&amp;lt;/body&amp;gt;の前に入れることを推奨するという話です。
- progressively enhanced setup は「プログレッシブエンハンスメントのセットアップ」で良いのかどうか。「プログレッシブエンハンスメントな設定」みたいな感じのような気もします。「プログレッシブエンハンスメントの手法を使う際は」としてみました。</note>
+      <note>(太田)  progressively enhanced setup は「プログレッシブエンハンスメントのセットアップ」で良いのかどうか。「プログレッシブエンハンスメントな設定」みたいな感じのような気もします。「プログレッシブエンハンスメントの手法を使う際は」としてみました。</note>
       <tuv lang="EN-US">
         <seg>In a progressively enhanced setup, scripts should be inserted at the end of the document, just before the closing &lt;g1&gt;&lt;/body&gt;&lt;/g1&gt; tag.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170427T031343Z" creationid="yoota" creationdate="20170427T023631Z">
-        <seg>プログレッシブエンハンスメントの手法を使う際は、スクリプトはドキュメントの最後、終了タグ&lt;g1&gt;&lt;/body&gt;&lt;/g1&gt;の直前に入れるべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T031550Z" creationid="yoota" creationdate="20170427T023631Z">
+        <seg>プログレッシブエンハンスメントの手法を使う際、スクリプトはドキュメントの最後、終了タグ&lt;g1&gt;&lt;/body&gt;&lt;/g1&gt;の直前に入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1427,12 +1426,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 表示→レンダリングとしました。ほぼ同義ですが厳密には異なり、レンダリングされるが表示されない場合などもあります。</note>
+      <note>(太田) 表示→レンダリングとしました。ほぼ同義ですが厳密には異なり、レンダリングされるが表示されない場合などもあります。
+「そうすれば」→「これによって……できるようになります」としました。
+</note>
       <tuv lang="EN-US">
         <seg>This allows the main DOM content to be rendered before the scripts are executed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T040138Z" creationid="yoota" creationdate="20170426T035948Z">
-        <seg>そうすれば、スクリプトが実行される前に、メインのDOMコンテンツをレンダリングできます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T031503Z" creationid="yoota" creationdate="20170426T035948Z">
+        <seg>これによって、スクリプトが実行される前に、メインのDOMコンテンツをレンダリングできるようになります。</seg>
       </tuv>
     </tu>
     <tu>
