@@ -522,7 +522,7 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 日本の読者にはあまり参考にならない方法であるように思われます。訳注?</note>
+      <note>(太田) 日本語のフォントセットをBase64でCSSに突っ込むというのは現実的でなく、日本の読者にはあまり参考にならない方法であるように思われます。要訳注。</note>
       <tuv lang="EN-US">
         <seg>For this to work, the fonts will have to be base64-encoded and embedded into the style sheet in question.</seg>
       </tuv>
