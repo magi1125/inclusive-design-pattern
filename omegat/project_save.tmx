@@ -732,8 +732,8 @@ it would have liked to begin with は最初から好まれていたであろう�
       <tuv lang="EN-US">
         <seg>In particular, FOIT (flash of invisible text) should be avoided: if the font resource is indefinitely stalled (it happens!), users of some devices and browsers will be stuck with a page that has no visible text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170427T032738Z" creationid="yoota" creationdate="20170427T032457Z">
-        <seg>特にFOIT（Flash of Invisible Text、フォントがロードされるまでテキストを不可視にする手法）は避けた方が賢明です。フォントリソースがいつまでも読み込まれないと（実際よくあることです!）、デバイスやブラウザによってはページのテキストが表示されません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170427T032812Z" creationid="yoota" creationdate="20170427T032457Z">
+        <seg>特にFOIT（Flash of Invisible Text、フォントがロードされるまでテキストを不可視にする手法）は避けた方が賢明です。フォントのリソースがいつまでも読み込まれないと（実際よくあることです!）、デバイスやブラウザによってはページのテキストが全く表示されません。</seg>
       </tuv>
     </tu>
     <tu>
