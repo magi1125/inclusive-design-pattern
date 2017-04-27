@@ -648,7 +648,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
     </tu>
     <tu>
       <note>(太田) 入れます→入れるべきです、としました。head要素内に入れても動くのですが&amp;lt;/body&amp;gt;の前に入れることを推奨するという話です。
- progressively enhanced setup は「プログレッシブエンハンスメントのセットアップ」で良いのかどうか。</note>
+ progressively enhanced setup は「プログレッシブエンハンスメントのセットアップ」で良いのかどうか。「プログレッシブエンハンスメントな設定」みたいな感じのような気もします。</note>
       <tuv lang="EN-US">
         <seg>In a progressively enhanced setup, scripts should be inserted at the end of the document, just before the closing &lt;g1&gt;&lt;/body&gt;&lt;/g1&gt; tag.</seg>
       </tuv>
