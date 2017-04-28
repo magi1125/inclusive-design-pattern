@@ -1598,6 +1598,15 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
     </tu>
     <tu>
+      <note>(太田) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>This is due to one font being intrinsically larger or smaller than the other, causing lines to wrap in different places.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T111235Z" creationid="yoota" creationdate="20170428T111235Z">
+        <seg>これはそもそも片方のフォントがもう片方のフォントより大きかったり小さかったりして、改行位置が変わるためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) thisは文書型宣言ではなく、「HTMLが文書であるという事実」ではないかと思います。
 This serves as an important reminderは直訳すると「このことは重要なリマインダーとなる」ということですが、もう少し砕いて訳したい感もあります。</note>
       <tuv lang="EN-US">
