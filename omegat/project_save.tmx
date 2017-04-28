@@ -593,12 +593,16 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 読み込み後→読み込まれた時点でとしました</note>
+      <note>(太田) 「読み込み後」は原文もそうなので正しいのですが、問題の焦点は読み込まれた瞬間に一気に切り替わることなので、少し補って「読み込まれたタイミングで」としました。
+
+
+
+</note>
       <tuv lang="EN-US">
         <seg>However, there can be an unpleasant and disorienting jump when the web font supplants the system font after it has loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170428T111024Z" creationid="yoota" creationdate="20170428T110937Z">
-        <seg>ただし、Webフォントが読み込まれた時点でシステムフォントがWebフォントで置き換えられると、ページの表示位置が突然飛んで、どこを読んでいたか分からなくなってしまう可能性があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T111142Z" creationid="yoota" creationdate="20170428T110937Z">
+        <seg>ただし、Webフォントが読み込まれたタイミングでシステムフォントがWebフォントで置き換えられると、ページの表示位置が突然飛んで、どこを読んでいたか分からなくなってしまう可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
