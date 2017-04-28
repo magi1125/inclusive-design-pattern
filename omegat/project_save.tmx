@@ -789,12 +789,15 @@ it would have liked to begin with は最初から好まれていたであろう�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) Flash of Invisible Text は日本語を補う必要がありそう。</note>
+      <note>(太田) Flash of Invisible Text は日本語を補う必要がありそう。
+あるいは訳注?
+訳注: 
+FOIT (Flash of Invisible Text) は、フォントがロードされるまでテキストを不可視にする手法です。Webフォントのロードに時間がかかる場合、テキストはまずデフォルトのフォントで表示され、読み込みが終わったタイミングで該当のフォントに変化します。この際、テキストの見た目が変化し、文字幅の変化に伴ってテキストの長さやレイアウトが変化することもあるため、文章を読んでいる途中に切り替わるのは望ましくないという考え方があります。</note>
       <tuv lang="EN-US">
         <seg>In particular, FOIT (flash of invisible text) should be avoided: if the font resource is indefinitely stalled (it happens!), users of some devices and browsers will be stuck with a page that has no visible text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170427T032825Z" creationid="yoota" creationdate="20170427T032457Z">
-        <seg>特にFOIT（Flash of Invisible Text、フォントがロードされるまでテキストを不可視にする手法）は避けた方が賢明です。フォントのリソースがいつまでも読み込まれないと（実際よくあることです!）、デバイスやブラウザによってはページのテキストが全く表示されない状態で止まってしまいます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T105336Z" creationid="yoota" creationdate="20170427T032457Z">
+        <seg>特にFOIT（Flash of Invisible Text）は避けた方が賢明です。フォントのリソースがいつまでも読み込まれないと（実際よくあることです!）、デバイスやブラウザによってはページのテキストが全く表示されない状態で止まってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
