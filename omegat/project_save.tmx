@@ -1671,6 +1671,15 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)  基本寸法</note>
+      <tuv lang="EN-US">
+        <seg>To mitigate this undesired effect, your best strategy is to choose fallback system fonts with intrinsic dimensions (metrics) which are similar to the web font.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T111508Z" creationid="yoota" creationdate="20170428T111508Z">
+        <seg>この望ましくない現象を軽減する一番の方法は、Webフォントと似た？？実寸法？？（メトリクス）のフォールバックシステムフォントを使うことです。【コメント：定訳が確認できませんでした。原文「intrinsic dimensions」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>To my wife, Fan, who has the power to make me smile, in spite of the world.</seg>
       </tuv>
