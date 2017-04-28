@@ -312,12 +312,12 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(太田) dependencyは「依存」としたほうがいいかもしれません。単に使うのと依存するのは意味が異なります (この章では特に)。</note>
+      <note>(太田) requires dependencyは「依存」としたほうがいいかもしれません。単に使うのと依存するのとでは意味が異なります (この章では特に)。</note>
       <tuv lang="EN-US">
         <seg>A more comprehensive way of overcoming FOIT is &lt;g1&gt;&lt;g2&gt;offered by Bram Stein&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;7&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; and requires a small JavaScript dependency.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170428T100651Z" creationid="yoota" creationdate="20170428T100651Z">
-        <seg>より包括的なFOIT対策が&lt;g1&gt;&lt;g2&gt;ブラム・スタイン（Bram Stein）の例&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注10）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;です。こちらはJavaScriptを少しだけ使います。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T101240Z" creationid="yoota" creationdate="20170428T100651Z">
+        <seg>より包括的なFOIT対策が&lt;g1&gt;&lt;g2&gt;ブラム・スタイン（Bram Stein）の例&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注10）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;です。こちらはJavaScriptに少し依存します。</seg>
       </tuv>
     </tu>
     <tu>
