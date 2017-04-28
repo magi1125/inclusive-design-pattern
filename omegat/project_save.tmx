@@ -753,6 +753,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In defeating FOIT, you have to accept a lesser evil called FOUT (flash of unstyled text).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T104959Z" creationid="yoota" creationdate="20170428T104959Z">
+        <seg>FOITを使うくらいなら、FOUT（Flash of Unstyled Text）の方がまだましです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) </note>
       <tuv lang="EN-US">
         <seg>In my CSS I can select any sections declared as French using the &lt;c0&gt;:lang&lt;/c0&gt; pseudo-class, applying a font well suited to the French character set, thereby improving legibility:</seg>
