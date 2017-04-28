@@ -1364,7 +1364,7 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
     </tu>
     <tu>
       <note>(太田) Base64エンコードのフォント→Base64でエンコードしたフォント
-「以下のように」を追加しました。</note>
+末尾の like so を「以下のように」としました。</note>
       <tuv lang="EN-US">
         <seg>The base64-encoded font would be included inside an &lt;g1&gt;@font-face&lt;/g1&gt; declaration block, like so:</seg>
       </tuv>
