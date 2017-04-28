@@ -506,8 +506,8 @@ Promiseは訳注必要?
       <tuv lang="EN-US">
         <seg>Font Face Observer allows you to watch and wait on the completion of a font resource loading using a simple promise-based interface:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170428T102758Z" creationid="yoota" creationdate="20170428T101624Z">
-        <seg>このFont Face Observerを使えば、フォントリソースの読み込みを監視して読み込み完了を待つ処理を、シンプルなPromiseベースのインターフェイスで書くことができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T102929Z" creationid="yoota" creationdate="20170428T101624Z">
+        <seg>このFont Face Observerを使えば、フォントリソースの読み込みを監視して読み込み完了を待つ処理を、シンプルなPromiseベースのインターフェイスで以下のように書くことができます。</seg>
       </tuv>
     </tu>
     <tu>
