@@ -757,8 +757,8 @@ In addition を「その上」とすると前からのつながりがおかし�
       <tuv lang="EN-US">
         <seg>In defeating FOIT, you have to accept a lesser evil called FOUT (flash of unstyled text).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170428T110405Z" creationid="yoota" creationdate="20170428T104959Z">
-        <seg>FOITを避けるためには、FOUT (Flash of Unstyled Text) と呼ばれるより軽い問題を許容する必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T110429Z" creationid="yoota" creationdate="20170428T104959Z">
+        <seg>FOITを避けるためには、FOUT (Flash of Unstyled Text) と呼ばれる、比較的軽微な問題を許容する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1573,6 +1573,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T101305Z" creationid="yoota" creationdate="20170425T100645Z">
         <seg>この方法には、ページの最小フォントサイズを確保できるというメリットもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a rather unjust moniker since all fonts are styled (i.e. they have their own form).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T110452Z" creationid="yoota" creationdate="20170428T110452Z">
+        <seg>なお、「Flash of Unstyled Text」という名称は理にかなっていません。なぜならすべてのフォントはスタイルを持っている（すなわち独自の様式を持っている）からです。</seg>
       </tuv>
     </tu>
     <tu>
