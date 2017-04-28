@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1360,6 +1360,14 @@ to go in search of the ultimate boilerplate はまあ要するにジョークな
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T084336Z" creationid="yoota" creationdate="20170418T080431Z">
         <seg>この章の目的は、究極のひな形を探し求めることではなく、インクルーシブなインターフェイスの親となるWebページを適切な設定にすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The base64-encoded font would be included inside an &lt;g1&gt;@font-face&lt;/g1&gt; declaration block, like so:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T100400Z" creationid="yoota" creationdate="20170428T100400Z">
+        <seg>Base64エンコードのフォントは@font-face宣言ブロックで指定します。</seg>
       </tuv>
     </tu>
     <tu>
