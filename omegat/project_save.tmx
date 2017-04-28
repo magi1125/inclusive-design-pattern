@@ -593,6 +593,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>However, there can be an unpleasant and disorienting jump when the web font supplants the system font after it has loaded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T110937Z" creationid="yoota" creationdate="20170428T110937Z">
+        <seg>ただし、Webフォントの読み込み後にシステムフォントがWebフォントで置き換えられると、ページの表示位置が突然飛んで、どこを読んでいたか分からなくなってしまう可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここの regardless は、エンハンスメントでない方法で読み込まれることを言っています。
 訳注: この場合、エンハンスメントは機能せず、コンテンツのロードが終わる前にフォントを読み込みます。</note>
       <tuv lang="EN-US">
