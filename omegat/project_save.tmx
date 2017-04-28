@@ -312,6 +312,7 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(太田) dependencyは「依存」としたほうがいいかもしれません。単に使うのと依存するのは意味が異なります (この章では特に)。</note>
       <tuv lang="EN-US">
         <seg>A more comprehensive way of overcoming FOIT is &lt;g1&gt;&lt;g2&gt;offered by Bram Stein&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;7&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; and requires a small JavaScript dependency.</seg>
       </tuv>
