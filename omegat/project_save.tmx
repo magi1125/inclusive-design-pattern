@@ -968,6 +968,16 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 上記にあるのは .fonts-loaded クラスだけでCSSは下にあります。
+</note>
+      <tuv lang="EN-US">
+        <seg>It’s simple to then supply the font in your CSS, using the &lt;g1&gt;.fonts-loaded&lt;/g1&gt; class selector shown above:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170428T103452Z" creationid="yoota" creationdate="20170428T103452Z">
+        <seg>上記にある&lt;g1&gt;.fonts-loaded&lt;/g1&gt;クラスセレクタを使って、CSSの中でフォントを指定するのは簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) たぶん誤訳で、ちょっと補ってこういうことかなと思います。</note>
       <tuv lang="EN-US">
         <seg>It’s what ends up in the compiled CSS, parsable by browsers, that counts.</seg>
