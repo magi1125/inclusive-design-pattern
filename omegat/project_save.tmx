@@ -1671,7 +1671,8 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
-      <note>(太田)  基本寸法</note>
+      <note>(太田)  intrinsic dimensionsは、JIS X 4168では「基本寸法」か「固有寸法」のいずれからしいです (最終確認できておらず)。原案の段階と最終案とで変更があったようにも見受けられます。
+</note>
       <tuv lang="EN-US">
         <seg>To mitigate this undesired effect, your best strategy is to choose fallback system fonts with intrinsic dimensions (metrics) which are similar to the web font.</seg>
       </tuv>
