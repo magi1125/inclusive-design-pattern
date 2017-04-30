@@ -1426,9 +1426,10 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 いかにも翻訳っぽい文章なのでもう少し砕きたいかも。
 to go in search of the ultimate boilerplate はまあ要するにジョークなので「探し求める」と大げさな感じにしてみました。
 
-(伊原) to go in search of the ultimate boilerplate は、おそらくHTML5 BoilerplateとかSkeletonとかInitializrなどに代表されるような、それさえあればなんでも何とかなりそうなテンプレートを探し回るというような行為を指しているように思いました。
+(伊原) （特に訳には影響ないと思いますが）
+to go in search of the ultimate boilerplate は、おそらくHTML5 BoilerplateとかSkeletonとかInitializrなどに代表されるような、それさえあればなんでも何とかなりそうなテンプレートを探し回るというような行為を指しているように思いました。
 なので、そういうレイヤーの話じゃなくて、スクラッチ実装を前提としたうえでの、最低限のドキュメント全体の体裁を整えようという話なんだよ、というようなことなのかなと。
-（特に訳には影響ないと思いますが）</note>
+</note>
       <tuv lang="EN-US">
         <seg>The aim here is not to go in search of the ultimate boilerplate but to configure a parent web page for an inclusive interface.</seg>
       </tuv>
