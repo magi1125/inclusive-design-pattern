@@ -1110,7 +1110,9 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。</note
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 若干誤訳っぽいです。支援技術を使うのと同じように、さまざまな設定ができる、という話かと。</note>
+      <note>(太田) 若干誤訳っぽいです。支援技術を使うのと同じように、さまざまな設定ができる、という話かと。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Never forget that the browser itself is an interface, which can be augmented and configured in a number of ways by the user — as well as helping interpret the content you provide for third-party assistive technologies like screen readers.</seg>
       </tuv>
