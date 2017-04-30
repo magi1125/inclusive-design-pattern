@@ -1950,7 +1950,11 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
     <tu>
       <note>(太田) subsidiaryをどう訳すかは要検討。下の画像を見ると分かりますが、ヘイドンさんはブラウザウィンドウが持つインターフェイスに対して、コンテンツが持つインターフェイスを subsidiary interface と呼んでいます。ブラウザを補助するというわけではなく、従属的というか主役ではない脇役というようなイメージかと。補って訳してみましたが、落としても通じますし下の図で説明されているので落とすのもありかも。
 図の中の your interface を「あなたがデザインするインターフェイス」とするのなら、ここでもそろえる必要があります。
-setupをどう訳すか、どうconfigurationと訳し分けるか。設定と構成?</note>
+setupをどう訳すか、どうconfigurationと訳し分けるか。設定と構成?
+
+(伊原) 直訳調だと以下みたいな感じ?
+「あなたの子インターフェイスもユーザー側のさまざまな設定や構成に対応できなければなりません。」
+太田さん訳のほうが親切なので、そちらがいいかなと思いました。</note>
       <tuv lang="EN-US">
         <seg>Your subsidiary interface should be tolerant of users’ differing setups and configurations.</seg>
       </tuv>
