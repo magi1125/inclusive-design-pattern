@@ -1458,7 +1458,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ひとまず下訳を入れます。</note>
+      <note>(太田) 原文で括弧でくくられている "DOC" を意訳で取り除くのは抵抗があります。Webページはドキュメントですよ、と言ったあとに、DOCTYPEの先頭にDOCと書いてあるでしょ、といっている感じですね。これはジョークに近いかもしれません。clueは手がかり、糸口のような意味ですが「その証拠に」としてみました。もう少し砕いた訳でもいいかもしれません。
+
+(伊原) LGTM. </note>
       <tuv lang="EN-US">
         <seg>The clue is in the “DOC” part which should appear in the first line of code: &lt;g1&gt;&lt;!DOCTYPE html&gt;&lt;/g1&gt;.</seg>
       </tuv>
