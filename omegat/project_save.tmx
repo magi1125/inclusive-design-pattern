@@ -576,7 +576,9 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) document-level とは何か。ぱっと見、従うべきドキュメントがある (WCAGのような文書を指す) という話のようにも読めますが、ここの章のタイトルが "the document" であることを考えると、ドキュメント全体が従うべきベストプラクティスがあるといっているように思えます。この文全体として、「HTMLページの中身は好きに作っても良いが、ドキュメント全体が従うべき慣習がある」と言っているのではないでしょうか。</note>
+      <note>(太田) document-level とは何か。ぱっと見、従うべきドキュメントがある (WCAGのような文書を指す) という話のようにも読めますが、ここの章のタイトルが "the document" であることを考えると、ドキュメント全体が従うべきベストプラクティスがあるといっているように思えます。この文全体として、「HTMLページの中身は好きに作っても良いが、ドキュメント全体が従うべき慣習がある」と言っているのではないでしょうか。
+
+(伊原) はい、そのように思います。</note>
       <tuv lang="EN-US">
         <seg>HTML pages vary dramatically in shape and size, and can include any combination of patterns; but there are a handful of document-level best practices we should stick to.</seg>
       </tuv>
@@ -1811,7 +1813,9 @@ integratedは統合された?</note>
     <tu>
       <note>(太田)conventionの訳が揺れているようです。前の章では「慣習」としていたはずなのでそろえたいです。
 belong toが「構成する」となっていますが、この章はドキュメント全体の話であり、その中身にパターンが入るという話をしています。ここは「所属する」というニュアンスに使いように思います。
-ちなみに最後の foolhardy to not recognize は「理解しないのは無謀だろう」というような言い回しですが、今の訳ではヘイドンカラーが薄まった無難な訳になっています。それはそれで良いような気もしますが。</note>
+ちなみに最後の foolhardy to not recognize は「理解しないのは無謀だろう」というような言い回しですが、今の訳ではヘイドンカラーが薄まった無難な訳になっています。それはそれで良いような気もしますが。
+
+(伊原) LGTM. 個人の好みですが、「所属する➞属する」でもいいかなと思ったり。</note>
       <tuv lang="EN-US">
         <seg>While other chapters of this book will look into discrete interface patterns — conventions realized as modules or components — it would be foolhardy to not recognize that each of these will ultimately belong to a web document.</seg>
       </tuv>
