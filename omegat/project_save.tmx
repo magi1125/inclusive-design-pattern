@@ -1402,7 +1402,8 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       <note>(太田) DOCTYPEは大文字にしたいです。HTML仕様では大文字表記です。
 https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 文書型とすべきかどうか悩みましたが、HTML5はSGMLではないため、もはやDOCTYPEに文書型宣言の意味はありません。それをふまえると、下手に文書型と訳したりしないほうが良いように思いました。
-</note>
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The Doctype</seg>
       </tuv>
