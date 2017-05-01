@@ -925,8 +925,8 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
       <tuv lang="EN-US">
         <seg>Instead, you should create an entirely flexible design from the outset and insert breakpoints only where the content breaks the layout — hence &lt;g1&gt;content breakpoint&lt;/g1&gt; or &lt;g2&gt;tweakpoint&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T060919Z" creationid="yoota" creationdate="20170426T060919Z">
-        <seg>それよりも、最初から完全に柔軟なデザインを作り、コンテンツのレイアウトが切り替わるところだけにブレイクポイントを挿入すべきです――すなわち、&lt;g1&gt;コンテンツブレイクポイント&lt;/g1&gt;、あるいは&lt;g2&gt;微調整ポイント&lt;/g2&gt;ということになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170501T035957Z" creationid="yoota" creationdate="20170426T060919Z">
+        <seg>それよりも、最初から完全に柔軟なデザインを作り、コンテンツのレイアウトが切り替わるところだけにブレイクポイントを挿入すべきです――すなわち、&lt;g1&gt;コンテンツブレイクポイント&lt;/g1&gt;、あるいは&lt;g2&gt;トゥイークポイント&lt;/g2&gt;ということになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1785,6 +1785,7 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Unless your superpower is prescience and you can anticipate the device setup of each and every one of your users, this is the only way to go.</seg>
       </tuv>
