@@ -1091,7 +1091,8 @@ body内のの子要素にlang属性を、ですね。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 名前(name)で示されるのはコンテンツ制作者の意図というより、その要素が何なのか、ユーザーにとってどう使えるのかという話ですから、「意図」より「目的」とするほうが良いように思います。</note>
+      <note>(太田) 名前(name)で示されるのはコンテンツ制作者の意図というより、その要素が何なのか、ユーザーにとってどう使えるのかという話ですから、「意図」より「目的」とするほうが良いように思います。
+must ではなく should なので「べき」としました。</note>
       <tuv lang="EN-US">
         <seg>It should describe the purpose of the contents of said element.</seg>
       </tuv>
