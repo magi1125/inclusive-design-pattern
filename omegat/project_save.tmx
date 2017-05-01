@@ -446,6 +446,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By using Font Squirrel’s generator, you can roll back your web font’s character set to just the &lt;g6&gt;&lt;g7&gt;Basic Latin Unicode block&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;10&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;, for example.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T073100Z" creationid="yoota" creationdate="20170501T073100Z">
+        <seg>Font Squirrelのジェネレータを使用すれば、独自のWebフォントの文字セットを、たとえば基本ラテン文字のUnicodeブロック（脚注13）のみにロールバックすることも可能です。？？【コメント：不安訳です。原文「Byusing Font Squirrel’s generator, you can roll back your web font’s character set to just the Basic Latin Unicode block,13 for example.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Content Breakpoints</seg>
@@ -886,8 +894,8 @@ well-matched はよくマッチするということで、システムフォン�
       <tuv lang="EN-US">
         <seg>In practice, this means a well-matched system font can supply the more unusual characters, allowing you to heavily subset the web font.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T073019Z" creationid="yoota" creationdate="20170501T072017Z">
-        <seg>実際のところ、システムフォントは多くの文字にマッチし、あまり使われない文字も提供することができます。そのため、Webフォントを大幅にサブセット化しても問題ないというわけです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T073040Z" creationid="yoota" creationdate="20170501T072017Z">
+        <seg>実際のところ、システムフォントは多くの文字にマッチし、普段あまり使われない文字も提供できます。そのため、Webフォントを大幅にサブセット化しても問題ないというわけです。</seg>
       </tuv>
     </tu>
     <tu>
