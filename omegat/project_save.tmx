@@ -1557,6 +1557,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; element, found in the &lt;g2&gt;&lt;head&gt;&lt;/g2&gt;, should be familiar to you already as the element browsers glean the text from for their tab labeling, and search engines the text for their results links.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T082453Z" creationid="yoota" creationdate="20170501T082453Z">
+        <seg>皆さんもよくご存じのとおり、ブラウザのタブのラベルのテキストは&lt;g2&gt;&lt;head&gt;&lt;/g2&gt;の&lt;g1&gt;]&lt;title&gt;&lt;/g1&gt;要素から拾われます。また、検索エンジンの検索結果のリンクにも同じテキストが使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) lang属性で向上させれば読んでもらえる、は若干強すぎる印象です。ほとんどの場合、lang属性がなくてもわりと読めますので……。原文もそこまで強く言っていないように思いますので、すこしふんわりさせました。
 
 (伊原) LGTM. 「開かれたものにすることができる」を詰めて「開かれたものにできる」でもいいかなと思いました。</note>
