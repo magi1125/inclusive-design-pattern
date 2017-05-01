@@ -880,6 +880,14 @@ FOITは、フォントの読み込み完了までテキストを不可視にし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In practice, this means a well-matched system font can supply the more unusual characters, allowing you to heavily subset the web font.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T072017Z" creationid="yoota" creationdate="20170501T072017Z">
+        <seg>？？つまり、最適化されたシステムフォントの方がより多くの特殊文字を使用できるため、その分Webフォントを大幅にサブセット化できるというわけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) critical は大切というよりもう少し強いニュアンスかも。いったん「重要」としてみました。</note>
       <tuv lang="EN-US">
         <seg>In terms of our document setup, it’s critical we make sure the resources we are using to enhance the page content do not stand in the way of that content.</seg>
@@ -896,7 +904,9 @@ http://yuheiy.hatenablog.com/entry/2017/04/24/122749
 なお、http://www.w3.org/TR/css-fonts-3/ にはFont Stackという言葉は出てこない (説明されている箇所の見出しは 5 Font Matching Algorithm)。 
 ちなみにCCS Font Stackというサイトがあります。
 http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks.html
-ひとまずカタカナのママとし、「フォントスタックの仕組み」としてみました。
+ひとまずカタカナのママとし、「フォントスタックの仕組み」としてみました。filled は直訳すると「埋められる」で、それでも通じそうですが「補われる」くらい?
+
+
 </note>
       <tuv lang="EN-US">
         <seg>In the CSS font stack, characters not supported by a priority font are filled by a fallback.</seg>
