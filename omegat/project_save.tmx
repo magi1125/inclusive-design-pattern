@@ -385,6 +385,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A Note On Frameworks, Preprocessors And Task Runners</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T111822Z" creationid="yoota" creationdate="20170501T111822Z">
+        <seg>フレームワーク、プリプロセッサ、タスクランナーについて</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのlargeは文字の大きさではなくフォントの数の話と思われます。</note>
       <tuv lang="EN-US">
         <seg>A font that supports a large, international character set is an inclusive font.</seg>
@@ -1615,7 +1623,8 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
     </tu>
     <tu>
       <note>(太田) 作ってみようという話ではないような。
-ここに置いときますね、的な話のように思いますが、putが多義すぎてよくわからないですね。FTP/WebDAVのPUTを連想しなくもない。</note>
+ここに置いときますね、的な話のように思いますが、putが多義すぎてよくわからないですね。FTP/WebDAVのPUTを連想しなくもない。
+要検討。</note>
       <tuv lang="EN-US">
         <seg>Putting The Page Together</seg>
       </tuv>
