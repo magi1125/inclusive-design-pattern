@@ -1354,12 +1354,14 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
     </tu>
     <tu>
       <note>(太田) 「無駄足」要検討。無駄が多すぎるくらい?
-target はそのままカタカナだと意味がとりにくいように思いましたので、「想定する」としてみました (特定端末のビューポートを想定してデザインする、という意味)。</note>
+target はそのままカタカナだと意味がとりにくいように思いましたので、「想定する」としてみました (特定端末のビューポートを想定してデザインする、という意味)。
+
+(伊原) employing device breakpoints は、ちょっと補う必要がありそうです。「デバイスの画面幅をブレイクポイントとして採用する」かなと。</note>
       <tuv lang="EN-US">
         <seg>Targeting the specific viewports of specific devices (employing device breakpoints) is an exercise in futility if you want to create a truly inclusive experience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T094506Z" creationid="yoota" creationdate="20170420T092259Z">
-        <seg>真にインクルーシブな体験を作りたいなら、特定のデバイスの特定のビューポートを想定する（デバイスのブレイクポイントを採用する）のは無駄が多すぎます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170501T012309Z" creationid="yoota" creationdate="20170420T092259Z">
+        <seg>真にインクルーシブな体験を作りたいなら、特定のデバイスの特定のビューポートを想定する（デバイスの画面幅をブレイクポイントとして採用する）のは無駄が多すぎます。</seg>
       </tuv>
     </tu>
     <tu>
