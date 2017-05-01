@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -320,6 +320,15 @@ font-size: 16px;
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170425T140706Z" creationid="rikiha" creationdate="20170425T140706Z">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;ユーザーがブラウザを開いたときに使用するインターフェイスは、あなたがデザインするインターフェイスだけではありません。&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) ここのlargeは文字の大きさではなくフォントの数の話と思われます。</note>
+      <tuv lang="EN-US">
+        <seg>A font that supports a large, international character set is an inclusive font.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T052324Z" creationid="yoota" creationdate="20170501T052324Z">
+        <seg>確かに大きい国際文字セットをサポートしているフォントはインクルーシブなフォントと言えます。</seg>
       </tuv>
     </tu>
     <tu>
