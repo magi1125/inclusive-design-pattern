@@ -1387,12 +1387,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 何を言っているのか良くわからないのでちょっと保留。</note>
+      <note>(太田) 何を言っているのか良くわからないのでちょっと保留。
+modular, often dynamic content は直訳すると「組み立て式の、しばしばダイナミックなコンテンツ」で
+</note>
       <tuv lang="EN-US">
         <seg>Others will contribute to the modular, often dynamic content that makes up unique pages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T091429Z" creationid="yoota" creationdate="20170501T091429Z">
-        <seg>一方、ページごとのモジュール式のコンテンツ（多くの場合は動的なコンテンツ）に用いられるパターンもあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T092805Z" creationid="yoota" creationdate="20170501T091429Z">
+        <seg>一方、ページごとにモジュールとして式のコンテンツ（多くの場合は動的なコンテンツ）に用いられるパターンもあります。</seg>
       </tuv>
     </tu>
     <tu>
