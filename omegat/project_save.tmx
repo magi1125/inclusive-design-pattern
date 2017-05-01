@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -608,12 +608,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       <note>(太田) ちょっと誤訳っぽいですね。テストできない端末でもレイアウトを成立させられるという話だと思います。
 直訳すると、
 「コンテンツブレークポイントを採用することで、手動でテストできたよりもはるかに広い範囲のデバイスに対して、成功したレイアウトを確実なものにすることができます」
-という感じ。</note>
+という感じ。
+
+(伊原) 含む➞含んだ　のみ調整。</note>
       <tuv lang="EN-US">
         <seg>By employing content breakpoints, you can ensure successful layouts for a range of devices far greater than you would ever be able to manually test with.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T100741Z" creationid="yoota" creationdate="20170420T100403Z">
-        <seg>コンテンツブレイクポイントを採用すれば、手作業でテストできないものも含む非常に幅広いデバイスで、レイアウトをより確実に成立させることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170501T144353Z" creationid="yoota" creationdate="20170420T100403Z">
+        <seg>コンテンツブレイクポイントを採用すれば、手作業でテストできないものも含んだ非常に幅広いデバイスで、レイアウトをより確実に成立させることができます。</seg>
       </tuv>
     </tu>
     <tu>
