@@ -880,11 +880,12 @@ FOITは、フォントの読み込み完了までテキストを不可視にし�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)  ここでの unusual characters は、あまり使われない文字ということでしょう。</note>
       <tuv lang="EN-US">
         <seg>In practice, this means a well-matched system font can supply the more unusual characters, allowing you to heavily subset the web font.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T072017Z" creationid="yoota" creationdate="20170501T072017Z">
-        <seg>？？つまり、最適化されたシステムフォントの方がより多くの特殊文字を使用できるため、その分Webフォントを大幅にサブセット化できるというわけです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T072112Z" creationid="yoota" creationdate="20170501T072017Z">
+        <seg>つまり、最適化されたシステムフォントの方がより多くの特殊文字を使用できるため、その分Webフォントを大幅にサブセット化できるというわけです。</seg>
       </tuv>
     </tu>
     <tu>
