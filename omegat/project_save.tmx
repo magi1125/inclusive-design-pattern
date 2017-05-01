@@ -552,14 +552,13 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     <tu>
       <note>(太田) 原著にある&lt;h2&gt;がヌケ (OmegaTにもってくるところで抜けたかも)。
 とはいえ　&lt;h2&gt; はなくても意味が通じるというか、下の例には全く出てきませんしむしろないほうが意味が通じるようにも思います。
-particular fontは特定のフォントですが「そのフォント」としました。
 「リンク」はlink要素のことなので「link要素」としました。
 </note>
       <tuv lang="EN-US">
         <seg>For example, if you know your &lt;g7&gt;&lt;h2&gt;&lt;/g7&gt; headings will use just the uppercase letters from a particular font, you can include the link like so:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T065728Z" creationid="yoota" creationdate="20170501T064741Z">
-        <seg>たとえば、&lt;g7&gt;&lt;h2&gt;&lt;/g7&gt;見出しでそのフォントの大文字だけを使うと分かっている場合、link要素を以下のように書くことができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T065804Z" creationid="yoota" creationdate="20170501T064741Z">
+        <seg>たとえば、&lt;g7&gt;&lt;h2&gt;&lt;/g7&gt;見出しで特定フォントの大文字だけを使うと分かっている場合、link要素を以下のように書くことができます。</seg>
       </tuv>
     </tu>
     <tu>
