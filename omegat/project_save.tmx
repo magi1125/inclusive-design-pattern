@@ -1190,6 +1190,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「デザインに」が補われていますが不要かも。</note>
       <tuv lang="EN-US">
         <seg>Nevertheless, you should only include a subset containing the characters you need or your users may suffer performance issues.</seg>
       </tuv>
@@ -1357,7 +1358,7 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
     <tu>
       <note>(伊原) サブセッティングは用語としてそのまま伝わると思います。
 
-(太田) 「サブセット化」のほうが分かりやすいようには思います。後の文中との整合性を見て判断したいところ (訳語としての「サブセッティング」が文中に登場するのかどうか)。</note>
+(太田) 「サブセット化」のほうが分かりやすいようには思います。後の文との整合性を見て判断したいところ (訳語としての「サブセッティング」が文中に登場するのかどうか)。</note>
       <tuv lang="EN-US">
         <seg>Subsetting Fonts</seg>
       </tuv>
