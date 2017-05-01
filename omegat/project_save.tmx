@@ -521,7 +521,7 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「時間を割く」、は「紙面を割く」としました。
+      <note>(太田) 「時間を割く」は「紙面を割く」としました。
 </note>
       <tuv lang="EN-US">
         <seg>As such, any time spent on tools will only be in cases where they can have a direct impact on the quality of the user experience.</seg>
@@ -830,6 +830,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170228T015024Z" creationid="rikiha" creationdate="20170228T015024Z">
         <seg>Heydo¥n clearly and comprehensively shows you how to use the web &lt;g1&gt;properly&lt;/g1&gt;; that is, how to take advantage of its built-in powers of reach, inclusivity and accessibility, so you don’t lock out any potential customer or visitor, regardless of how they choose to (or need to) access your content.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How these underlying technologies actually interact with your users will be the focus throughout (alongside organizational and writing techniques that benefit users too, of course).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T112923Z" creationid="yoota" creationdate="20170501T112923Z">
+        <seg>こうした基本的な技術をユーザーが実際にどのように利用することになるのか。それを常に考えなければなりません（もちろん、ユーザーにメリットのある構成や記述のテクニックも大切です）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2363,6 +2371,15 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170131T135228Z" creationid="rikiha" creationdate="20170131T135228Z">
         <seg>こんな世界でも私を笑顔にしてくれる、我が妻ファンに捧ぐ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) standard web technologies はWeb標準技術?</note>
+      <tuv lang="EN-US">
+        <seg>Under all other circumstances we’ll be exploring the possibilities offered by standard web technologies like HTML, CSS, JavaScript and SVG.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T112911Z" creationid="yoota" creationdate="20170501T112911Z">
+        <seg>あらゆる状況を想定して、HTML、CSS、JavaScript、SVGといったWeb標準技術の可能性を探りましょう。</seg>
       </tuv>
     </tu>
     <tu>
