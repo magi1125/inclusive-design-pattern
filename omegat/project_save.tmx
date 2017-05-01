@@ -2426,6 +2426,14 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>With the above provision in place, when the user hits their &lt;g1&gt;Tab&lt;/g1&gt; key they’ll focus the first interactive element on the page: the skip link.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T110528Z" creationid="yoota" creationdate="20170501T110528Z">
+        <seg>その状態でユーザーが&lt;g1&gt;Tab&lt;/g1&gt;キーを押すと、ページ内の最初のインタラクティブ要素、つまりスキップリンクがフォーカスされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) everythingを全ての要素としていますが、上のCSSではhtmlのfont-sizeしか指定しておらず、要素そのものが拡大縮小されるわけではありません。補うなら「全てのテキスト」とか?</note>
       <tuv lang="EN-US">
         <seg>With this algorithm in place, everything scales incrementally and proportionately relative to the viewport.</seg>
