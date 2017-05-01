@@ -2209,6 +2209,14 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To make skip links available to keyboard users, we should bring them into view on focus:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T110246Z" creationid="yoota" creationdate="20170501T110246Z">
+        <seg>キーボードユーザーがスキップリンクを利用できるようにするため、以下のようにして、フォーカスされたときに表示されるようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) chが訳から落ちています。
 参考: http://www.w3.org/TR/css3-values/#ch
 調整時とは何かが分かりにくいです。ここではユーザーがフォントサイズを変えたときの話なので、少し補う必要があるかもしれません。
