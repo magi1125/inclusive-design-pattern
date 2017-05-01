@@ -495,7 +495,9 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) ハイライト表示されるように変更する、のではなく、ハイライト表示するための辞書を切り替える、かなと。</note>
+      <note>(太田) ハイライト表示されるように変更する、のではなく、ハイライト表示するための辞書を切り替える、かなと。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Firefox, for instance, changes dictionaries on &lt;g7&gt;&lt;textarea&gt;&lt;/g7&gt;s so that spelling errors are highlighted appropriately.</seg>
       </tuv>
@@ -1208,7 +1210,9 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。</note
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 原文でダッシュを使用している箇所はダッシュを使用するようにしました。「際立った点」という訳は何が際立っているのかイマイチ不明瞭に感じたので、「最も分かりやすい」としてみました。</note>
+      <note>(太田) 原文でダッシュを使用している箇所はダッシュを使用するようにしました。「際立った点」という訳は何が際立っているのかイマイチ不明瞭に感じたので、「最も分かりやすい」としてみました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Perhaps most starkly, a page that does not have a language declared — or has the wrong language declared for the content — will not trigger the adoption of an appropriate synthetic voice profile when used with a screen reader.</seg>
       </tuv>
