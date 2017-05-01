@@ -1684,11 +1684,12 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) ユーザーの能力の問題でショートカットが使えないわけではなく、ショートカットの機能が提供されていないという話です。</note>
       <tuv lang="EN-US">
         <seg>Such people are not afforded the same shortcuts as screen reader operators, so it’s them we’re mostly helping to skip over navigation and other header content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T105028Z" creationid="yoota" creationdate="20170501T105028Z">
-        <seg>スクリーンリーダーのようなショートカットが使えないキーボードユーザーこそ、ナビゲーションや他のヘッダーコンテンツを飛ばしてすぐにメインコンテンツを読むことができるスキップリンクを一番活用できるというわけです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T105648Z" creationid="yoota" creationdate="20170501T105028Z">
+        <seg>晴眼のキーボードユーザーには、スクリーンリーダーと同じようなショートカットが提供されていません。ナビゲーションや他のヘッダーコンテンツを飛ばしてすぐにメインコンテンツを読むことができるスキップリンクを一番活用できるというわけです。</seg>
       </tuv>
     </tu>
     <tu>
