@@ -893,17 +893,16 @@ FOITは、フォントの読み込み完了までテキストを不可視にし�
 言っていることは分かるが日本語でそのままカタカナでOK?
 カタカナ書きしているサイトはあるが少ないかも。
 http://yuheiy.hatenablog.com/entry/2017/04/24/122749
-
-http://www.w3.org/TR/css-fonts-3/ にはFont Stackという言葉は出てこない (説明されている箇所の見出しは 5.2 Matching font styles)。 
-
+なお、http://www.w3.org/TR/css-fonts-3/ にはFont Stackという言葉は出てこない (説明されている箇所の見出しは 5 Font Matching Algorithm)。 
 ちなみにCCS Font Stackというサイトがあります。
 http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks.html
+ひとまずカタカナのママとし、「フォントスタックの仕組み」としてみました。
 </note>
       <tuv lang="EN-US">
         <seg>In the CSS font stack, characters not supported by a priority font are filled by a fallback.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T070204Z" creationid="yoota" creationdate="20170501T070204Z">
-        <seg>CSSのフォントスタックでは、最優先フォントでサポートされていない文字はフォールバックで対応されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T071852Z" creationid="yoota" creationdate="20170501T070204Z">
+        <seg>CSSのフォントスタックの仕組みでは、最優先フォントでサポートされていない文字はフォールバックで対応されます。</seg>
       </tuv>
     </tu>
     <tu>
