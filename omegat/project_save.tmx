@@ -730,6 +730,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are serving your own fonts, you can first subset them using &lt;g1&gt;&lt;g2&gt;Font Squirrel’s generator&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;9&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T065919Z" creationid="yoota" creationdate="20170501T065919Z">
+        <seg>独自のフォントを使用する場合は、まず&lt;g1&gt;&lt;g2&gt;Font Squirrelのジェネレータ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注12）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使ってフォントをサブセット化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your layout breaks badly when a user zooms, &lt;e0&gt;the design&lt;/e0&gt; is at fault, not the user, and removing their ability to zoom is not a solution.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170424T062140Z" creationid="yoota" creationdate="20170424T062113Z">
