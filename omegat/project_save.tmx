@@ -1901,7 +1901,9 @@ integratedは統合された?</note>
 belong toが「構成する」となっていますが、この章はドキュメント全体の話であり、その中身にパターンが入るという話をしています。ここは「所属する」というニュアンスに使いように思います。
 ちなみに最後の foolhardy to not recognize は「理解しないのは無謀だろう」というような言い回しですが、今の訳ではヘイドンカラーが薄まった無難な訳になっています。それはそれで良いような気もしますが。
 
-(伊原) LGTM. 個人の好みですが、「所属する➞属する」でもいいかなと思ったり。</note>
+(伊原) LGTM. 個人の好みですが、「所属する➞属する」でもいいかなと思ったり。
+
+(太田) 「属する」のほうがいいですね。そのようにしました。</note>
       <tuv lang="EN-US">
         <seg>While other chapters of this book will look into discrete interface patterns — conventions realized as modules or components — it would be foolhardy to not recognize that each of these will ultimately belong to a web document.</seg>
       </tuv>
