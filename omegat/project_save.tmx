@@ -1517,11 +1517,13 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
+      <note>(太田) ここのSinceは時期的な移り変わりのニュアンスを持っていて、暗に「昔はmainがなかったので大変だった」ということを含んでいるように思います。
+</note>
       <tuv lang="EN-US">
         <seg>Since &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; is designed to contain the salient content of a page, it can make the writing of a print style sheet easier.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T100704Z" creationid="yoota" creationdate="20170501T100704Z">
-        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;はページの主要なコンテンツを入れるようにデザインされているため、印刷用のスタイルシートの作成が楽になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T101019Z" creationid="yoota" creationdate="20170501T100704Z">
+        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;がページの主要なコンテンツを入れるようにデザインされたため、印刷用スタイルシートを簡単に書けるようになりました。</seg>
       </tuv>
     </tu>
     <tu>
