@@ -414,6 +414,17 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(太田) MUSTではなくSHOULDなのでそれなりの訳に。
+
+(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Your responsive design should cover every width.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170501T144818Z" creationid="rikiha" creationdate="20170501T144818Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;レスポンシブデザインはあらゆる幅に対応しているべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Note は訳出したいです。</note>
       <tuv lang="EN-US">
         <seg>A Note On Frameworks, Preprocessors And Task Runners</seg>
