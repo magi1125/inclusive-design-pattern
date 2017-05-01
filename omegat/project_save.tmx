@@ -1096,8 +1096,8 @@ must ではなく should なので「べき」としました。</note>
       <tuv lang="EN-US">
         <seg>It should describe the purpose of the contents of said element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T084917Z" creationid="yoota" creationdate="20170501T084806Z">
-        <seg>アクセシブルな名前 (name)  は、それら要素の目的が分かるものであるべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T085033Z" creationid="yoota" creationdate="20170501T084806Z">
+        <seg>アクセシブルな名前 (name)  には、それら要素の目的が書かれているべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1582,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T082842Z" creationid="yoota" creationdate="20170501T082453Z">
         <seg>&lt;g1&gt;&lt;title&gt;&lt;/g1&gt;要素は&lt;g2&gt;&lt;head&gt;&lt;/g2&gt;要素の中にあり、皆さんもよくご存じのように、ブラウザはこのテキストをタブのラベルとして使います。また、検索エンジンは、検索結果のリンクにこのテキストを使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; is announced as soon as a new web document is loaded, so it is your opportunity to provide a succinct summary of the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T085012Z" creationid="yoota" creationdate="20170501T085012Z">
+        <seg>&lt;title&gt;は新たにWebドキュメントが読み込まれるとすぐに読み上げられるため、ページの概要を示すのに最適です。</seg>
       </tuv>
     </tu>
     <tu>
