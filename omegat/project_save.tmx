@@ -889,6 +889,14 @@ FOITは、フォントの読み込み完了までテキストを不可視にし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In the CSS font stack, characters not supported by a priority font are filled by a fallback.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T070204Z" creationid="yoota" creationdate="20170501T070204Z">
+        <seg>CSSのフォントスタックでは、最優先フォントでサポートされていない文字はフォールバックで対応されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文で強調されているifは訳出する必要があります。そのまま「もし」としました。
 「Preferences → Content」は「オプション→コンテンツ」となっていました (Firefox51.0.1 で確認)。
 </note>
