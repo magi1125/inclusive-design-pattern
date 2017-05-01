@@ -1634,12 +1634,12 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 読み上げるのか?</note>
+      <note>(太田) 読み上げるのか? mainに飛ぶ機能などは提供されますが、読み上げられるわけではないような。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; element defines a region recognized and communicated by screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T095135Z" creationid="yoota" creationdate="20170501T095052Z">
-        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素で定義された領域は、スクリーンリーダーに認識されして読み上げます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T095229Z" creationid="yoota" creationdate="20170501T095052Z">
+        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素で定義された領域は、スクリーンリーダーに認識されて読み上げます。</seg>
       </tuv>
     </tu>
     <tu>
