@@ -100,6 +100,7 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 原文には it benefits があるので「恩恵を受ける」を補いました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;1 point&lt;/g2&gt;: it benefits me</seg>
       </tuv>
@@ -108,6 +109,8 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 原文には it benefits があるので「恩恵を受ける」を補いました。
+原文にない括弧は取り除いて調整しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;10 points&lt;/g2&gt;: it benefits a user/reader like me and with my setup</seg>
       </tuv>
@@ -116,11 +119,13 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 原文には it benefits があるので「恩恵を受ける」を補いました。
+原文にない括弧は取り除いて調整しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;100 points&lt;/g2&gt;: it benefits me, people like me, &lt;g3&gt;and&lt;/g3&gt; users/readers unlike me, with differing setups</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T113855Z" creationid="yoota" creationdate="20170501T113855Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;100 点&lt;/g2&gt;: 自分、自分と似たユーザー、&lt;g3&gt;および&lt;/g3&gt;自分とは違う（つまり自分とは状況が異なる）ユーザーit benefits me, people like me, &lt;g3&gt;and&lt;/g3&gt; users/readers unlike me, with differing setups</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T113949Z" creationid="yoota" creationdate="20170501T113855Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;100 点&lt;/g2&gt;: 自分、自分と似たユーザー、&lt;g3&gt;および&lt;/g3&gt;自分とは似つかない、異なる設定のユーザーや読者が恩恵を受け</seg>
       </tuv>
     </tu>
     <tu>
