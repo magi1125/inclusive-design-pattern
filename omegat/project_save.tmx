@@ -151,7 +151,9 @@ Do not put everything in the same bag! のような意味のようです。
     </tu>
     <tu>
       <note>(太田) 括弧書きは原文にもありますが引用元にはなく、ヘイドンさんが付け加えた感想と思われます。原著でもそのことは書かれていないのですが、「!」をつけることで引用文の地の文とは違うという雰囲気にしているのかもしれません。ちょっと口語っぽい訳にすると良いのかもしれないと思いました。
-「きちんとレスポンシブデザインを作らない」という表現では全くレスポンシブしないものも含まれそうですが、原文はそうではありません。「レスポンシブデザインの作りかたがまずい」としてみました。</note>
+「きちんとレスポンシブデザインを作らない」という表現では全くレスポンシブしないものも含まれそうですが、原文はそうではありません。「レスポンシブデザインの作りかたがまずい」としてみました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The developer did a poor job of responsive design, and the user needs to zoom just to use the page (this happens!).</seg>
       </tuv>
@@ -199,7 +201,9 @@ http://adrianroselli.com/2015/10/dont-disable-zoom.html
     <tu>
       <note>(太田) こちらの括弧は引用元にも存在します。
 quirkはネガティブイメージの言葉ですが、後方互換としてしまうとネガティブな感じがしません。引用元を見ると iOS9 でズームがおかしくなる話のようで、ブラウザのQuirksモードを指しているわけでもないようです。ということで、ここは「奇妙なふるまい」くらいで良いように思います。
-「(つまりはバグ) 」の意味がわかりにくいですが、Quirk もバグだと言っているので、「これも要するにバグ」くらいでしょうか。</note>
+「(つまりはバグ) 」の意味がわかりにくいですが、Quirk もバグだと言っているので、「これも要するにバグ」くらいでしょうか。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;There is a browser bug or quirk (still a bug) that causes the default zoom level to be odd.</seg>
       </tuv>
