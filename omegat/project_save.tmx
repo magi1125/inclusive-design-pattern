@@ -753,12 +753,14 @@ In addition を「その上」とすると前からのつながりがおかし�
     </tu>
     <tu>
       <note>(太田) doctype declarationは「文書型宣言」あるいは「DOCTYPE宣言」かと思います。いったん後者にしました。
-In addition を「その上」とすると前からのつながりがおかしいように思います。</note>
+In addition を「その上」とすると前からのつながりがおかしいように思います。
+
+(伊原) In additionは「加えて」「付け加えると」ですかね。そのようにしてみました。</note>
       <tuv lang="EN-US">
         <seg>In addition, the &lt;g1&gt;omission&lt;/g1&gt; of the aforementioned doctype declaration can result in unexpected and broken behavior for users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170425T140804Z" creationid="rikiha" creationdate="20170425T140804Z">
-        <seg>その上、前述したDOCTYPE宣言を&lt;g1&gt;省略&lt;/g1&gt;してしまうと、ユーザーにとって予期せぬ異常な動作が生じる可能性があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170501T000733Z" creationid="rikiha" creationdate="20170425T140804Z">
+        <seg>加えて、前述したDOCTYPE宣言を&lt;g1&gt;省略&lt;/g1&gt;してしまうと、ユーザーにとって予期せぬ異常な動作が生じる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
