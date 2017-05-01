@@ -561,7 +561,10 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
     </tu>
     <tu>
       <note>(太田) As a rule of thumb がこれでいいのかどうか。「親指で測る」というたとえは、「経験から得たやり方で測る」or「大雑把に測る」の2つの意味があるようです。ここでは「大雑把に言えば」のほうかもしれません (細かく言えば幅や高さが必要な要素はあるはずなので)。
-後ろにも As a rule of thumb が出てくる (position: fixedの話)</note>
+後ろにも As a rule of thumb が出てくる (position: fixedの話)
+
+(伊原) 以下のような感じですね。大雑把でよいと思います。
+大ざっぱに言えば［言って］、大ざっぱなやり方で、経験で、ヤマ勘で、目の子勘定で、目の子算で、目分量で、大まかに</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, you should never set a fixed width or height on any element: the intrinsic flexibility of boxes means they can tolerate the same content in different spaces.</seg>
       </tuv>
@@ -1777,6 +1780,7 @@ be my guest は「どうぞご自由に」の意味の慣用句です。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Simple interfaces are usable interfaces, and much less work in terms of managing breakpoints.</seg>
       </tuv>
