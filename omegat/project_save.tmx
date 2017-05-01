@@ -1893,8 +1893,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
       <tuv lang="EN-US">
         <seg>When including fonts using &lt;g1&gt;&lt;g2&gt;Google Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;8&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, you can append a &lt;g6&gt;text&lt;/g6&gt; parameter to the URI listing just the characters you need.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T053636Z" creationid="yoota" creationdate="20170501T053623Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;Google Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注11）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用する場合は、URIにtextパラメータを付けて、必要な文字だけをリストして指定できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T064657Z" creationid="yoota" creationdate="20170501T053623Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Google Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注11）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用する場合は、URIにtextパラメータを付けて、必要な文字のリストを指定できます。</seg>
       </tuv>
     </tu>
     <tu>
