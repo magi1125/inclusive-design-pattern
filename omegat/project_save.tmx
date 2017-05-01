@@ -552,7 +552,9 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     </tu>
     <tu>
       <note>(太田) 前の章で「以下のように」としていたのでそろえました。
-「部分的に」は原文にないように思います。補う必要もないように思いましたので省きました。</note>
+「部分的に」は原文にないように思います。補う必要もないように思いましたので省きました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>For instance, I may want to quote some French within an English language page:</seg>
       </tuv>
