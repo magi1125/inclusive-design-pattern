@@ -1358,7 +1358,8 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
     <tu>
       <note>(伊原) サブセッティングは用語としてそのまま伝わると思います。
 
-(太田) 「サブセット化」のほうが分かりやすいようには思います。後の文との整合性を見て判断したいところ (文中に「サブセット」だけ登場して「サブセッティング」が登場しないようなら「サブセット化」としたい)。</note>
+(太田) 「サブセット化」のほうが分かりやすいようには思います。後の文との整合性を見て判断したいところ (文中に「サブセット」だけ登場して「サブセッティング」が登場しないようなら「サブセット化」としたい)。
+文中には include a subset  /  subsetted to などわりとフリーダムに出てきますが「サブセッティング」とできるところはなさそう。</note>
       <tuv lang="EN-US">
         <seg>Subsetting Fonts</seg>
       </tuv>
@@ -1561,6 +1562,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170425T140350Z" creationid="rikiha" creationdate="20170425T140350Z">
         <seg>その証拠に、コードの先頭の行には "DOC" という文字列が出現します。&lt;g1&gt;&lt;!DOCTYPE html&gt;&lt;/g1&gt;ですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The difference in file size between an entire font and one subsetted to just the ampersand glyph you want will be many orders of magnitude!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T053331Z" creationid="yoota" creationdate="20170501T053331Z">
+        <seg>フォント全体のファイルサイズと、必要な文字、たとえばアンパサンド記号（&amp;）のみをサブセット化した場合のファイルサイズは、それこそ桁がいくつも違ってきます。</seg>
       </tuv>
     </tu>
     <tu>
