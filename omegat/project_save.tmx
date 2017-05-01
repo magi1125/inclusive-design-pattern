@@ -392,6 +392,15 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>A skip link appears above all other content on the page and points to the main content area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T104125Z" creationid="yoota" creationdate="20170501T104125Z">
+        <seg>スキップリンクはページの一番上に表示され、そこからメインコンテンツ領域にジャンプすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(画像alt)</note>
       <tuv lang="EN-US">
         <seg>A small, black box represents the smallest conceivable viewport and a larger gray box grows from it to represent infinite larger viewports.</seg>
