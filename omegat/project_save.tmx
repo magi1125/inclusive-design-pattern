@@ -1866,7 +1866,9 @@ regressを「後方互換する」としていますが、日本語として違�
     <tu>
       <note>(太田) quirks modeを「互換モード」とするとIEの同名の機能と混同しそうです。脚注もありますし、無理に訳さずそのまま「Quirksモード」で良いように思います (「奇癖モード」という訳を見たこともありますが……)。
 ちなみにヘイドンさんは often called と言っていますが、quirks modeはHTML5仕様の中で使われている正式な用語です。https://dom.spec.whatwg.org/#concept-document-quirks
-regressを「後方互換する」としていますが、日本語として違和感があります。ヘイドンカラーを生かすなら「後戻り」などとしたいですが、無理に残さずに意訳してみました。</note>
+regressを「後方互換する」としていますが、日本語として違和感があります。ヘイドンカラーを生かすなら「後戻り」などとしたいですが、無理に残さずに意訳してみました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Without a doctype declared, the browser simply doesn’t know how to interpret the content and can regress into &lt;g2&gt;&lt;g3&gt;a non-compliant and incompatible mode, often called &lt;g4&gt;quirks mode&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;1&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
