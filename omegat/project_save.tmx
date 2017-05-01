@@ -1116,7 +1116,9 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。</note
     <tu>
       <note>(太田) レイアウトのエラーというのは日本語として変な感じがします。直訳すると、「レイアウトとインタラクションが誤りやすい予測できない状態になりうる」ということで、ひっくるめて「不安定になる」くらいかなと思います。
 
-(伊原) LGTM. 「の動作」はトリでもいいかも？とは思いました。</note>
+(伊原) LGTM. 「の動作」はトリでもいいかも？とは思いました。
+
+(太田) トリました。</note>
       <tuv lang="EN-US">
         <seg>Layout and interaction can become error-prone and unpredictable.</seg>
       </tuv>
