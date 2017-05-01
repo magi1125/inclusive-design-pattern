@@ -486,6 +486,15 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>Conventional practice is to describe the page and append author and site information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T085838Z" creationid="yoota" creationdate="20170501T085838Z">
+        <seg>一般的にはページの説明に、制作者とサイトの情報を付け加えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Desktop browsers tend to render fonts at 16px by default.</seg>
       </tuv>
