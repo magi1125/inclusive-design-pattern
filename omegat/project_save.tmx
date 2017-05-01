@@ -551,6 +551,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if you know your &lt;g7&gt;&lt;h2&gt;&lt;/g7&gt; headings will use just the uppercase letters from a particular font, you can include the link like so:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T064741Z" creationid="yoota" creationdate="20170501T064741Z">
+        <seg>たとえば見出しで特定のフォントの大文字だけを使用したいときは、次のようなリンクを記述します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, &lt;c0&gt;lang="zh-Hans"&lt;/c0&gt; will invoke the rendering of a simplified Chinese font.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T082336Z" creationid="yoota" creationdate="20170420T082336Z">
