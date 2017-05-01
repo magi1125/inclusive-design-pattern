@@ -581,12 +581,15 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     </tu>
     <tu>
       <note>(太田) 原文は1文で、分けるほどでもないので1文にしました。
-「いくら控えめに言っても」は「いくらなんでも」くらいでもいいかも。</note>
+「いくら控えめに言っても」は「いくらなんでも」くらいでもいいかも。
+
+(伊原) ここのcharactersは、前の段落を受けると、フォントのことなのかなと思いました。
+「不適切な文字で文字化けしたテキスト」が若干わかりにくいので、調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Garbled text, rendered in unbefitting characters is not optimally inclusive of your readership &lt;g2&gt;to say the least&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T060054Z" creationid="yoota" creationdate="20170426T060054Z">
-        <seg>不適切な文字で文字化けしたテキストは、&lt;g2&gt;いくら控えめに言っても&lt;/g2&gt;、閲覧者に最適なインクルーシブなものとは言えません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170501T004457Z" creationid="yoota" creationdate="20170426T060054Z">
+        <seg>不適切なフォントで文字化けしたテキストは、&lt;g2&gt;いくらなんでも&lt;/g2&gt;、閲覧者に最適なインクルーシブなものとは言えません。</seg>
       </tuv>
     </tu>
     <tu>
