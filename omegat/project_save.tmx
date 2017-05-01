@@ -1500,7 +1500,8 @@ resizeを「大きくしていく」と訳されていましたが、これは�
 wrap は「折り返す」としました (white-space: no-wrapのwrap)。
 
 (伊原) Cmd + Option + M で大丈夫でした。
-「徐々にリサイズされていきます」は、勝手に動くわけではないのでちょっと調整したいです。</note>
+「徐々にリサイズされていきます」は、勝手に動くわけではないのでちょっと調整したいです。
+ということで語順を入れ替えつつ調整しました。</note>
       <tuv lang="EN-US">
         <seg>Just press &lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;, then resize the simulated viewport incrementally until the content is forced to collide, overlap or wrap.</seg>
       </tuv>
