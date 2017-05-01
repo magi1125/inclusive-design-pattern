@@ -886,8 +886,8 @@ well-matched はよくマッチするということで、システムフォン�
       <tuv lang="EN-US">
         <seg>In practice, this means a well-matched system font can supply the more unusual characters, allowing you to heavily subset the web font.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T072849Z" creationid="yoota" creationdate="20170501T072017Z">
-        <seg>実際のところ、あまり使わない文字はシステムフォントでカバーできるため、Webフォントを大幅にサブセット化しても問題ないというわけです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T072908Z" creationid="yoota" creationdate="20170501T072017Z">
+        <seg>実際のところ、システムフォントは多くの文字にマッチし、あまり使わない文字もカバーできるため、Webフォントを大幅にサブセット化しても問題ないというわけです。</seg>
       </tuv>
     </tu>
     <tu>
