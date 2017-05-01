@@ -389,8 +389,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>A Note On Frameworks, Preprocessors And Task Runners</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T111822Z" creationid="yoota" creationdate="20170501T111822Z">
-        <seg>フレームワーク、プリプロセッサ、タスクランナーについて</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T111842Z" creationid="yoota" creationdate="20170501T111822Z">
+        <seg>フレームワーク、プリプロセッサ、タスクランナーについての注意</seg>
       </tuv>
     </tu>
     <tu>
@@ -2628,6 +2628,17 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170424T065554Z" creationid="yoota" creationdate="20170424T065416Z">
         <seg>「でも私のページの閲覧者は若くて流行に敏感な人たちだから!」と言う人もいるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) ergonomicsは人間工学、あるいは「エルゴノミクス」とカタカナでもいいとおもいますが、砕いた訳にするなら「使いやすさ」などでも良いと思います。いったん「使いやすさ」にしてみましたが、HCDのプロフェッショナルのご意見に期待します。
+</note>
+      <tuv lang="EN-US">
+        <seg>“It seems to me that developer ergonomics should be less important than our users’ needs.” – &lt;g1&gt;&lt;g2&gt;Paul Lewis&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T112108Z" creationid="yoota" creationdate="20170501T112108Z">
+        <seg>開発者にとっての使いやすさより、ユーザーのニーズの方が重要だと私は思う。
+— ポール・ルイス（Paul Lewis）（脚注15）</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
