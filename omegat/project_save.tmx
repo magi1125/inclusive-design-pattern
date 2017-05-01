@@ -492,6 +492,15 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) opinionated は頑固、我が強い、自説に固執するなどの意味ですが、ここで「頑固」とするのはちょっとおかしいですね。</note>
+      <tuv lang="EN-US">
+        <seg>Any opinionated frameworks not easily configurable for inclusive design techniques should be avoided.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T113301Z" creationid="yoota" creationdate="20170501T113301Z">
+        <seg>インクルーシブデザインの技術に合うように簡単に調整できないような頑固なフレームワークは避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「要素の位置を固定する」は原文では「位置固定の要素を使うのを避ける」で微妙にニュアンスが違います。</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, avoid using positioned elements, especially with &lt;c1&gt;position: fixed&lt;/c1&gt;.</seg>
@@ -2589,6 +2598,14 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T061812Z" creationid="yoota" creationdate="20170426T061759Z">
         <seg>しかしこのタグは同時に、ユーザーによるコンテンツの拡大縮小を無効にして、ユーザー体験を魔法のように&lt;g2&gt;損なう&lt;/g2&gt;ことが少なくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can take the lessons learned here and apply them within any framework sufficiently flexible to allow you to write and organize good interfaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T113118Z" creationid="yoota" creationdate="20170501T113118Z">
+        <seg>ここで学んだことを生かしながら、十分に柔軟なフレームワークを利用すれば、優れたインターフェイスを記述、編成できます。</seg>
       </tuv>
     </tu>
     <tu>
