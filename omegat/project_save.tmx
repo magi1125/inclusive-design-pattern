@@ -1147,12 +1147,16 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。</note
       </tuv>
     </tu>
     <tu>
-      <note>(太田) スムーズとは言っていないようなので、容易にとしました。</note>
+      <note>(太田) スムーズとは言っていないようなので、容易にとしました。
+
+(伊原) インデックス付け〜のあたりをちょっと調整しました
+「検索エンジンによるインデックス付けがやりやすくなる」
+➞「検索エンジンがインデクシングしやすくなる」</note>
       <tuv lang="EN-US">
         <seg>Not only does it make the page more indexable by search engines, but it also becomes easier to translate by users operating third-party tools such as Google’s &lt;g1&gt;&lt;g2&gt;Translate API&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;2&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T054943Z" creationid="yoota" creationdate="20170426T054914Z">
-        <seg>検索エンジンによるインデックス付けがやりやすくなるほか、ユーザーがGoogleの&lt;g1&gt;&lt;g2&gt;Translate API&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注5）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;のようなサードパーティツールを使って翻訳することも容易になります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170501T002343Z" creationid="yoota" creationdate="20170426T054914Z">
+        <seg>検索エンジンがインデクシングしやすくなるほか、ユーザーがGoogleの&lt;g1&gt;&lt;g2&gt;Translate API&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注5）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;のようなサードパーティツールを使って翻訳することも容易になります。</seg>
       </tuv>
     </tu>
     <tu>
