@@ -846,6 +846,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In a single-page application, your singular &lt;g4&gt;&lt;main&gt;&lt;/g4&gt; should be where each of your functionality-heavy views is rendered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T095558Z" creationid="yoota" creationdate="20170501T095558Z">
+        <seg>シングルページアプリケーションの場合は、1つの&lt;g4&gt;&lt;main&gt;&lt;/g4&gt;でさまざまな機能が盛り込まれた各ビューを描画しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) この前でスクリーンリーダーや点字ディスプレイの話はしていないので、今の訳だと唐突感があります。語順を調整しました。
 
 (伊原) LGTM</note>
