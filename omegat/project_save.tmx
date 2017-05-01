@@ -159,6 +159,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g4&gt;&lt;g5&gt;Extensions are available&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;11&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; to apply your own CSS on a per-domain basis.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T103218Z" creationid="yoota" creationdate="20170501T103218Z">
+        <seg>&lt;g4&gt;&lt;g5&gt;拡張機能&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注14）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;を使えばオリジナルのCSSをドメインベースで適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 【要検討】French Fontとfallbackはフォント名ではないはずなので訳す必要があるような気もします。ただ、訳したものをそのままCSSの宣言の中に突っ込むとそれはそれでおかしいかもしれません。どうするべきか悩ましいですね。
 
 (伊原) フランス語フォント, フォールバック とすればひとまず通じそうなので、そうしてみます。</note>
@@ -319,6 +327,16 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>&lt;s2&gt;font-family&lt;/s2&gt;&lt;s3&gt;:&lt;/s3&gt; French Font, fallback, sans-serif&lt;s4&gt;;&lt;/s4&gt;
 &lt;s5&gt;}&lt;/s5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) &lt;x1/&gt;&lt;x2/&gt;は&lt;img/&gt;&lt;br/&gt;ぽい。
+</note>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Another advantage of being able to eliminate subsidiary content is the ability to improve the on-screen reading experience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T103158Z" creationid="yoota" creationdate="20170501T103158Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;補助的なコンテンツを省けるようにするもう一つのメリットは、画面で読むユーザーの体験が向上するということです。</seg>
       </tuv>
     </tu>
     <tu>
