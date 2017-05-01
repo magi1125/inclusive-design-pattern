@@ -1863,6 +1863,15 @@ more important というほどでもないが、とはいえ多少は重要と�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 出た!  accessible name!</note>
+      <tuv lang="EN-US">
+        <seg>Throughout this book you’ll hear a lot about &lt;g3&gt;accessible names&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T083058Z" creationid="yoota" creationdate="20170501T083058Z">
+        <seg>本書にはアクセシブルな名前に関する記述がたびたび出てきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) you→デザイナーとされているがどうするか。
 shouldなので「しなければならない」は強すぎるかもしれない。
 「デザイナーはまとめ役となって」がやや分かりにくいように思いました。コンテンツのUIだけ見るのではなくブラウザのUIとコンテンツのUIを調整する役割を担えということですが、「まとめ役に徹する」くらいのほうが分かりやすいかもしれません。</note>
