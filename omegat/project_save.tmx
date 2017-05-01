@@ -603,6 +603,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, “Inclusive Design Template | Heydon’s Site.” For a search results page, you should include the search term the user provided; something like, “[Website name] | Search results for [search phrase].”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T090132Z" creationid="yoota" creationdate="20170501T090132Z">
+        <seg>たとえば「インクルーシブデザインテンプレート | ヘイドンのサイト」といった具合です。検索結果のページの場合は、「[Webサイト名] | [検索語句]の検索結果」のように、ユーザーが入力した検索語句を含めるようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, &lt;c0&gt;lang="zh-Hans"&lt;/c0&gt; will invoke the rendering of a simplified Chinese font.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T082336Z" creationid="yoota" creationdate="20170420T082336Z">
