@@ -172,13 +172,13 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
-      <note>(太田) </note>
+      <note>(太田) いちおう SubsettedWebFont, ExtensiveSystemFont は訳してみました。ExtensiveSystemFont はもっと短い訳語があればぜひ。</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;font-family&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; SubsettedWebFont, ExtensiveSystemFont, sans-serif&lt;g6&gt;;&lt;/g6&gt;
 &lt;g7&gt;}&lt;/g7&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T075318Z" creationid="yoota" creationdate="20170501T075318Z">
-        <seg>&lt;g4&gt;font-family&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; サブセット化したWebフォント, 広範なシステムフォント, sans-serif&lt;g6&gt;;&lt;/g6&gt;
+      <tuv lang="JA" changeid="yoota" changedate="20170501T075400Z" creationid="yoota" creationdate="20170501T075318Z">
+        <seg>&lt;g4&gt;font-family&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; サブセット化したWebフォント, 広範な文字をサポートするシステムフォント, sans-serif&lt;g6&gt;;&lt;/g6&gt;
 &lt;g7&gt;}&lt;/g7&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
