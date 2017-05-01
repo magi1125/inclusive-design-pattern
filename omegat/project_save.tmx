@@ -1112,8 +1112,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <tuv lang="EN-US">
         <seg>Just press &lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;, then resize the simulated viewport incrementally until the content is forced to collide, overlap or wrap.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170501T051821Z" creationid="yoota" creationdate="20170426T061206Z">
-        <seg>&lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;キーを押してみてください。すると、シミュレートされたビューポートを、コンテンツがぶつかったり、重なったり、折り返したりするところまで徐々にリサイズすることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170501T051934Z" creationid="yoota" creationdate="20170426T061206Z">
+        <seg>&lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;キーを押してみてください。すると、コンテンツがぶつかったり、重なったり、折り返したりするところまでシミュレートされたビューポートを徐々にリサイズすることができます。</seg>
       </tuv>
     </tu>
     <tu>
