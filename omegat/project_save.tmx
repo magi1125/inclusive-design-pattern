@@ -880,7 +880,7 @@ FOITは、フォントの読み込み完了までテキストを不可視にし�
       </tuv>
     </tu>
     <tu>
-      <note>(太田)  ここでの unusual characters は、あまり使われない文字ということでしょう。well-matched はよくマッチするということで、システムフォントには多くの文字が含まれるため、より多くの文字にマッチするという話ですね。
+      <note>(太田)  ここでの unusual characters は、原義どおり「あまり使わない文字」というような意味でしょう。well-matched はよくマッチするということで、システムフォントには多くの文字が含まれるため、より多くの文字にマッチするという話ですね。
 # ここに限らないのですが、前の文でmatchという言葉をぜんぜん使っていないのに、ここで急に出てくるので翻訳者は意味がとりにくいだろうと思います。ヘイドンさんの脳裏にはFont Matching Algorithmが思い浮かべられているのでしょうけれど。</note>
       <tuv lang="EN-US">
         <seg>In practice, this means a well-matched system font can supply the more unusual characters, allowing you to heavily subset the web font.</seg>
