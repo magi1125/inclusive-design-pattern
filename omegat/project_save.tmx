@@ -821,6 +821,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If your navigation, header, footer and sidebar (&lt;g2&gt;&lt;aside&gt;&lt;/g2&gt;) regions are correctly made the siblings of &lt;g3&gt;&lt;main&gt;&lt;/g3&gt;, you can target them quite easily with CSS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T101429Z" creationid="yoota" creationdate="20170501T101429Z">
+        <seg>ナビゲーション、ヘッダー、フッター、サイドバー（&lt;g2&gt;&lt;aside&gt;&lt;/g2&gt;）の領域がきちんと&lt;g3&gt;&lt;main&gt;&lt;/g3&gt;の兄弟になっていれば、CSSでそれらをターゲットに指定するのは非常に簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>テストメモ
 太田: OmegaTでチーム編集するテスト</note>
       <tuv lang="EN-US">
@@ -1521,8 +1529,8 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       <tuv lang="EN-US">
         <seg>Since &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; is designed to contain the salient content of a page, it can make the writing of a print style sheet easier.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T101341Z" creationid="yoota" creationdate="20170501T100704Z">
-        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;にページの主要コンテンツを入れる設計になったことにより、印刷用スタイルシートを簡単に書けるようになりました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T101405Z" creationid="yoota" creationdate="20170501T100704Z">
+        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;にページの主要コンテンツを入れる設計になったことで、印刷用スタイルシートを簡単に書けるようになりました。</seg>
       </tuv>
     </tu>
     <tu>
