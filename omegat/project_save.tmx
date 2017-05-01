@@ -1549,6 +1549,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; Element</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T075435Z" creationid="yoota" creationdate="20170501T075435Z">
+        <seg>&lt;g1&gt;&lt;title&gt;&lt;/g1&gt; 要素</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) lang属性で向上させれば読んでもらえる、は若干強すぎる印象です。ほとんどの場合、lang属性がなくてもわりと読めますので……。原文もそこまで強く言っていないように思いますので、すこしふんわりさせました。
 
 (伊原) LGTM. 「開かれたものにすることができる」を詰めて「開かれたものにできる」でもいいかなと思いました。</note>
