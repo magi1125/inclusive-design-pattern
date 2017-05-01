@@ -1779,6 +1779,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>These are the assistive technology compatible labels for the various elements of your web pages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T083512Z" creationid="yoota" creationdate="20170501T083512Z">
+        <seg>これはWebページのさまざまな要素の、支援技術対応のラベルのことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 表示→レンダリングとしました。ほぼ同義ですが厳密には異なり、レンダリングされるが表示されない場合などもあります。
 「そうすれば」→「これによって……できるようになります」としました。</note>
       <tuv lang="EN-US">
@@ -1864,7 +1872,7 @@ more important というほどでもないが、とはいえ多少は重要と�
     </tu>
     <tu>
       <note>(太田) 出た!  accessible name!
-JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳をあてています。いったん反映してみました。</note>
+JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳をあてています。いったん反映してみました。要検討です。</note>
       <tuv lang="EN-US">
         <seg>Throughout this book you’ll hear a lot about &lt;g3&gt;accessible names&lt;/g3&gt;.</seg>
       </tuv>
