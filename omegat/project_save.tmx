@@ -440,9 +440,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 図版部分はどうしますかね。この箇所の原文は画像のalt、参考訳文は画像の中のテキストを訳したものです。</note>
+      <note>(太田) 図版部分はどうしますかね。この箇所の原文は画像のalt、参考訳文は画像の中のテキストを訳したものです。
+
+(伊原) ひとまず訳を入れる感じですかね。入れてみました。</note>
       <tuv lang="EN-US">
         <seg>Diagram labels your interface hidden among all the browser interface elements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170501T000018Z">
+        <seg>あなたがデザインするインターフェイスはブラウザインターフェイスに囲まれて隠れていることをラベル付けした図</seg>
       </tuv>
     </tu>
     <tu>
