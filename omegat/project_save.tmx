@@ -1670,6 +1670,16 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
+      <note>(太田) Should you wish ... = If you should wish
+be my guest は「どうぞご自由に」の意味の慣用句です。</note>
+      <tuv lang="EN-US">
+        <seg>Should you wish to adopt a framework or employ a preprocessor to speed up your development process, be my guest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T112552Z" creationid="yoota" creationdate="20170501T112552Z">
+        <seg>フレームワークやプリプロセッサを利用して開発プロセスのスピードアップを図りたいと思う方がいらっしゃれば、それはご自由にどうぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 画像のaltです。</note>
       <tuv lang="EN-US">
         <seg>Shows stages in progressive enhancement.</seg>
