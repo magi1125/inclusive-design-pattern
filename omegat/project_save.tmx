@@ -2520,7 +2520,11 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
     </tu>
     <tu>
       <note>(太田) オーサーCSSは日本語で普通どう呼ぶんですかね。「コンテンツ側のCSS」みたいな言い方が多い?
-従うべきとまでは言っていなくて、リスペクトしろという話ですね。</note>
+従うべきとまでは言っていなくて、リスペクトしろという話ですね。
+
+(伊原) 今日び、CSSといえば99%はAuthor CSSを指すので、ユーザースタイルシートのことを知らない状態の人に「コンテンツ側のCSSが無ければ」で通じるかどうか、ちょっと不安に思いました。
+たとえば「CSSを指定しなければ、Webページはこのようにふるまいます。」と「CSSを指定する場合でも、この基本的なふるまいを〜」とするのはどうでしょうか。
+</note>
       <tuv lang="EN-US">
         <seg>Web pages behave like this without author CSS, and should continue to respect this fundamental behavior where CSS is included.</seg>
       </tuv>
