@@ -1194,8 +1194,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <tuv lang="EN-US">
         <seg>Nevertheless, you should only include a subset containing the characters you need or your users may suffer performance issues.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T052935Z" creationid="yoota" creationdate="20170501T052355Z">
-        <seg>しかし、必要な文字だけをサブセット化しないと、ユーザー側にパフォーマンスの問題が生じかねません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T052950Z" creationid="yoota" creationdate="20170501T052355Z">
+        <seg>しかし、必要な文字のサブセットだけしないと、ユーザー側にパフォーマンスの問題が生じかねません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1358,7 +1358,7 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
     <tu>
       <note>(伊原) サブセッティングは用語としてそのまま伝わると思います。
 
-(太田) 「サブセット化」のほうが分かりやすいようには思います。後の文との整合性を見て判断したいところ (訳語としての「サブセッティング」が文中に登場するのかどうか)。</note>
+(太田) 「サブセット化」のほうが分かりやすいようには思います。後の文との整合性を見て判断したいところ (文中に「サブセット」だけ登場して「サブセッティング」が登場しないようなら「サブセット化」としたい)。</note>
       <tuv lang="EN-US">
         <seg>Subsetting Fonts</seg>
       </tuv>
