@@ -327,8 +327,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>A font that supports a large, international character set is an inclusive font.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T052324Z" creationid="yoota" creationdate="20170501T052324Z">
-        <seg>確かに大きい国際文字セットをサポートしているフォントはインクルーシブなフォントと言えます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T052520Z" creationid="yoota" creationdate="20170501T052324Z">
+        <seg>広範な国際文字セットをサポートしているフォントはインクルーシブなフォントと言えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,6 +1190,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, you should only include a subset containing the characters you need or your users may suffer performance issues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T052355Z" creationid="yoota" creationdate="20170501T052355Z">
+        <seg>しかし、デザインに必要な文字だけをサブセット化しないと、ユーザー側にパフォーマンスの問題が生じかねません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) スムーズとは言っていないようなので、容易にとしました。</note>
       <tuv lang="EN-US">
         <seg>Not only does it make the page more indexable by search engines, but it also becomes easier to translate by users operating third-party tools such as Google’s &lt;a0&gt;&lt;s1&gt;Translate API&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;2&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;.</seg>
@@ -1347,7 +1355,9 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) サブセッティングは用語としてそのまま伝わると思います。</note>
+      <note>(伊原) サブセッティングは用語としてそのまま伝わると思います。
+
+(太田) 「サブセット化」のほうが分かりやすいようには思います。</note>
       <tuv lang="EN-US">
         <seg>Subsetting Fonts</seg>
       </tuv>
