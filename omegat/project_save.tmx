@@ -1625,8 +1625,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       <tuv lang="EN-US">
         <seg>The accessible name for a document, &lt;g4&gt;&lt;iframe&gt;&lt;/g4&gt; or embedded SVG element is provided by their &lt;g5&gt;&lt;title&gt;&lt;/g5&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T084448Z" creationid="yoota" creationdate="20170501T083937Z">
-        <seg>ドキュメントや&lt;g4&gt;&lt;iframe&gt;&lt;/g4&gt;、埋め込みのSVG要素では、アクセシブルな名前 (name)  はそれぞれの&lt;g5&gt;&lt;title&gt;&lt;/g5&gt;で提供されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T084512Z" creationid="yoota" creationdate="20170501T083937Z">
+        <seg>ドキュメントや&lt;g4&gt;&lt;iframe&gt;&lt;/g4&gt;、埋め込みのSVG要素では、それぞれに指定された&lt;g5&gt;&lt;title&gt;&lt;/g5&gt;がアクセシブルな名前 (name)  となります。</seg>
       </tuv>
     </tu>
     <tu>
