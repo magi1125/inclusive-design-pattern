@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1105,12 +1105,15 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <note>(太田) ちょっと何言ってるか分からない訳になっていますが、Cmd + Option + M はレスポンシブデザインモードへの切り替えのトグルです (と思いますがMacで確認していないので伊原さん確認お願いします。WinだとCtrl+Shift+Mです)。
 頭の Just は命令形を和らげるjustで「ちょっと」くらいでしょうか。
 resizeを「大きくしていく」と訳されていましたが、これは逆で小さくなりますね。ビューポートが小さくなるからコンテンツが重なるわけです。原文はresizeなのでそのまま「リサイズ」としました。
-wrap は「折り返す」としました (white-space: no-wrapのwrap)。</note>
+wrap は「折り返す」としました (white-space: no-wrapのwrap)。
+
+(伊原) Cmd + Option + M で大丈夫でした。
+「徐々にリサイズされていきます」は、勝手に動くわけではないのでちょっと調整したいです。</note>
       <tuv lang="EN-US">
         <seg>Just press &lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;, then resize the simulated viewport incrementally until the content is forced to collide, overlap or wrap.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T061206Z" creationid="yoota" creationdate="20170426T061206Z">
-        <seg>&lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;キーを押してみてください。すると、シミュレートされたビューポートが、コンテンツがぶつかったり、重なったり、折り返したりするところまで徐々にリサイズされていきます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170501T051821Z" creationid="yoota" creationdate="20170426T061206Z">
+        <seg>&lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;キーを押してみてください。すると、シミュレートされたビューポートを、コンテンツがぶつかったり、重なったり、折り返したりするところまで徐々にリサイズすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,7 +1139,9 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。</note
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「ブレイクポイントを配置する」は日本語としてちょっと違和感があります。ここの locate は場所を決めるくらいの意味と思われ、「設計する」「検討する」くらいでしょうか。</note>
+      <note>(太田) 「ブレイクポイントを配置する」は日本語としてちょっと違和感があります。ここの locate は場所を決めるくらいの意味と思われ、「設計する」「検討する」くらいでしょうか。
+
+(伊原) LGTM. ポイントを置く、ということなのでしょうね。</note>
       <tuv lang="EN-US">
         <seg>Locating content breakpoints is easy using Firefox’s &lt;g1&gt;&lt;g2&gt;responsive design mode&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
