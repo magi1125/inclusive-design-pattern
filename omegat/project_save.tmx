@@ -1752,6 +1752,15 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>Tabbing again will hide the skip link and focus on the next interactive element on the page (probably the homepage link or the first link in the navigation list).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T110907Z" creationid="yoota" creationdate="20170501T110907Z">
+        <seg>そしてもう一度Tabキーを押すとスキップリンクは非表示になり、ページ内の次のインタラクティブ要素（たいていはホームページへのリンクやナビゲーションリストの最初のリンク）にフォーカスが移ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「無駄足」要検討。無駄が多すぎるくらい?
 target はそのままカタカナだと意味がとりにくいように思いましたので、「想定する」としてみました (特定端末のビューポートを想定してデザインする、という意味)。
 
