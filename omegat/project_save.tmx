@@ -1195,6 +1195,15 @@ must ではなく should なので「べき」としました。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 何を言っているのか。</note>
+      <tuv lang="EN-US">
+        <seg>It’s currently the easiest offline solution available, because it means the reader can print to PDF and save to their local drive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T102416Z" creationid="yoota" creationdate="20170501T102416Z">
+        <seg>それならPDFにプリントしてローカルディスクに保存することもできるため、オフラインの解決策としては、これが現時点で一番簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「使い方」が簡単とは言っていないかも。</note>
       <tuv lang="EN-US">
         <seg>It’s easy to include the &lt;c1&gt;lang&lt;/c1&gt; attribute, so just go ahead and include it.</seg>
