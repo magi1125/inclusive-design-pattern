@@ -941,7 +941,9 @@ body内のの子要素にlang属性を、ですね。</note>
     </tu>
     <tu>
       <note>(太田) 子属性とは!?
-body内のの子要素にlang属性を、ですね。</note>
+body内のの子要素にlang属性を、ですね。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>It is possible to switch languages within a page using the &lt;g1&gt;lang&lt;/g1&gt; attribute on child elements within the &lt;g2&gt;&lt;body&gt;&lt;/g2&gt;.</seg>
       </tuv>
