@@ -403,6 +403,15 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(太田) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>A lot of web design articles and books are about improving your workflow and making your life easier as a developer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T112139Z" creationid="yoota" creationdate="20170501T112139Z">
+        <seg>Webデザイン関連の記事や本には、ワークフローの改善や、開発者側が楽をするための方法が書かれたものがたくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 少しだけと言いつつしっかりJavaScriptを使っているようです。少しだけ依存するという話ではないかと思います。
 offered by Bram Stein のリンク先はGithubですが、これは例ではなくがっつり実用的なライブラリを提供しているので、「例」とするのは適切でないと思います。
 </note>
@@ -2631,7 +2640,8 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) ergonomicsは人間工学、あるいは「エルゴノミクス」とカタカナでもいいとおもいますが、砕いた訳にするなら「使いやすさ」などでも良いと思います。いったん「使いやすさ」にしてみましたが、HCDのプロフェッショナルのご意見に期待します。
+      <note>(太田) ergonomicsは人間工学、あるいは「エルゴノミクス」とカタカナでもいいとおもいますが、砕いた訳にするなら「使いやすさ」などでも良いと思います。
+いったん「使いやすさ」にしてみましたが、HCDのプロフェッショナルのご意見に期待します。
 </note>
       <tuv lang="EN-US">
         <seg>“It seems to me that developer ergonomics should be less important than our users’ needs.” – &lt;g1&gt;&lt;g2&gt;Paul Lewis&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
