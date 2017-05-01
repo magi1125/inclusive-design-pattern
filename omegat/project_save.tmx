@@ -1635,6 +1635,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; element defines a region recognized and communicated by screen readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T095052Z" creationid="yoota" creationdate="20170501T095052Z">
+        <seg>スクリーンリーダーは&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素で定義された領域を認識して読み上げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; Element</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T075435Z" creationid="yoota" creationdate="20170501T075435Z">
