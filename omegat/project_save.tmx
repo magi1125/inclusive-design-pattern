@@ -672,7 +672,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
     </tu>
     <tu>
       <note>(太田) DOCTYPEを大文字にしました。前のところではドキュメントタイプと訳されていたのにここはそのままなんですね……。
-「必ず最初に」は硬い印象があったので「まっさきに」としました。</note>
+「必ず最初に」は硬い印象があったので「まっさきに」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>If things get plain odd when testing a web page, I always check for a doctype before trying anything else.</seg>
       </tuv>
@@ -1507,6 +1509,7 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 下訳でOK</note>
       <tuv lang="EN-US">
         <seg>The lang Attribute</seg>
       </tuv>
