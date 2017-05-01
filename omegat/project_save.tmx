@@ -2524,7 +2524,7 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
 
 (伊原) 今日び、CSSといえば99%はAuthor CSSを指すので、ユーザースタイルシートのことを知らない状態の人に「コンテンツ側のCSSが無ければ」で通じるかどうか、ちょっと不安に思いました。
 たとえば「CSSを指定しなければ、Webページはこのようにふるまいます。」と「CSSを指定する場合でも、この基本的なふるまいを〜」とするのはどうでしょうか。
-</note>
+あるいは訳注で「CSSにはAuthorとUserがあって〜」みたいなことを話すとか？</note>
       <tuv lang="EN-US">
         <seg>Web pages behave like this without author CSS, and should continue to respect this fundamental behavior where CSS is included.</seg>
       </tuv>
