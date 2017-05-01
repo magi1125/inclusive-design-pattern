@@ -1091,6 +1091,15 @@ body内のの子要素にlang属性を、ですね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 名前(name)で示されるのはコンテンツ制作者の意図というより、その要素が何なのかという話ですから、「意図」より「目的」のほうが良いように思います。</note>
+      <tuv lang="EN-US">
+        <seg>It should describe the purpose of the contents of said element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T084806Z" creationid="yoota" creationdate="20170501T084806Z">
+        <seg>これは、その要素の内容の目的が分かるものでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「使い方」が簡単とは言っていないかも。</note>
       <tuv lang="EN-US">
         <seg>It’s easy to include the &lt;c1&gt;lang&lt;/c1&gt; attribute, so just go ahead and include it.</seg>
