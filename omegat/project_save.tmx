@@ -1517,7 +1517,7 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
-      <note>(太田) ここのSinceは時期的な移り変わりのニュアンスを持っていて、暗に「昔はmainがなかったので大変だった」ということを含んでいるように思います。
+      <note>(太田) ここのSinceは時期的な起点のニュアンスを持っていて、mainがこのようにデザインされたから楽になった、と言っている (暗に「昔はmainがなかったので大変だった」ということを含んでいる) ように思います。
 </note>
       <tuv lang="EN-US">
         <seg>Since &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; is designed to contain the salient content of a page, it can make the writing of a print style sheet easier.</seg>
