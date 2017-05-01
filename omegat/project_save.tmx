@@ -100,6 +100,30 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;1 point&lt;/g2&gt;: it benefits me</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T113651Z" creationid="yoota" creationdate="20170501T113651Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;1 点&lt;/g2&gt;: 自分が恩恵を受ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;10 points&lt;/g2&gt;: it benefits a user/reader like me and with my setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T113901Z" creationid="yoota" creationdate="20170501T113813Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;10 点&lt;/g2&gt;: 自分と似た、同じ設定をしているユーザーや読者が恩恵を受ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;100 points&lt;/g2&gt;: it benefits me, people like me, &lt;g3&gt;and&lt;/g3&gt; users/readers unlike me, with differing setups</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T113855Z" creationid="yoota" creationdate="20170501T113855Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;100 点&lt;/g2&gt;: 自分、自分と似たユーザー、&lt;g3&gt;および&lt;/g3&gt;自分とは違う（つまり自分とは状況が異なる）ユーザーit benefits me, people like me, &lt;g3&gt;and&lt;/g3&gt; users/readers unlike me, with differing setups</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 日本ではあまりスプレッドという言い方は聞かないかも。ピンチイン/ピンチアウトと言うことが多い?</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;It can be confounding for users when a pinch/spread gesture is interpreted as something else.</seg>
