@@ -1467,11 +1467,12 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) LGTM</note>
       <tuv lang="EN-US">
         <seg>Some patterns in this book, like &lt;g1&gt;navigation regions&lt;/g1&gt;, should appear consistently between pages of the site as landmarks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T091212Z" creationid="yoota" creationdate="20170501T091155Z">
-        <seg>本書で扱うパターンのうち、&lt;g1&gt;ナビゲーション領域&lt;/g1&gt;などはサイトの各ページにランドマークとして常に表示させるべきものです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T091332Z" creationid="yoota" creationdate="20170501T091155Z">
+        <seg>本書で扱うパターンのうち、&lt;g1&gt;ナビゲーション領域&lt;/g1&gt;などは、サイトの各ページにランドマークとして常に表示させるべきものです。</seg>
       </tuv>
     </tu>
     <tu>
