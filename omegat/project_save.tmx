@@ -1619,6 +1619,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The accessible name for a document, &lt;g4&gt;&lt;iframe&gt;&lt;/g4&gt; or embedded SVG element is provided by their &lt;g5&gt;&lt;title&gt;&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T084051Z" creationid="yoota" creationdate="20170501T083937Z">
+        <seg>ドキュメントや&lt;g4&gt;&lt;iframe&gt;&lt;/g4&gt;、埋め込みのSVG要素のクセシブルな名前(name)は、それぞれの&lt;title&gt;で指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 何が言いたいのか良くわからない印象です。configureを「作る」としていますが、設定するという話なのではないでしょうか (この章では、meta情報などをいい感じに設定する話をしています)。
 いかにも翻訳っぽい文章なのでもう少し砕きたいかも。
 to go in search of the ultimate boilerplate はまあ要するにジョークなので「探し求める」と大げさな感じにしてみました。
