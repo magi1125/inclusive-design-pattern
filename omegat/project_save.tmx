@@ -364,6 +364,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A products page would describe the products within &lt;g6&gt;&lt;main&gt;&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T100303Z" creationid="yoota" creationdate="20170501T100303Z">
+        <seg>また製品のページの場合は、この&lt;main&gt;で製品説明を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(画像alt)</note>
       <tuv lang="EN-US">
         <seg>A small, black box represents the smallest conceivable viewport and a larger gray box grows from it to represent infinite larger viewports.</seg>
@@ -857,12 +865,13 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
-      <note>(太田) brochureはどうしますかね。紙ものをブローシャと呼ぶのはまあまあ聞きますが、Webでその呼び方はそれほど一般的ではないように思います。日本では「商品情報ページ」とか?</note>
+      <note>(太田) brochureはどうしますかね。紙ものをブローシャと呼ぶのはまあまあ聞きますが、Webでその呼び方はそれほど一般的ではないように思います。日本では「商品情報ページ」とか?
+と思ったら次の行に"A products page"が出てきてボツになりました。 </note>
       <tuv lang="EN-US">
         <seg>In a static blog or brochure website, &lt;g5&gt;&lt;main&gt;&lt;/g5&gt; would contain blog posts and other informational content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T100159Z" creationid="yoota" creationdate="20170501T095954Z">
-        <seg>静的なブログや商品情報ページの&lt;g5&gt;&lt;main&gt;&lt;/g5&gt;には、ブログのポストやその他の情報コンテンツが含まれます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T100335Z" creationid="yoota" creationdate="20170501T095954Z">
+        <seg>静的なブログや広告ページの&lt;g5&gt;&lt;main&gt;&lt;/g5&gt;には、ブログのポストやその他の情報コンテンツが含まれます。</seg>
       </tuv>
     </tu>
     <tu>
