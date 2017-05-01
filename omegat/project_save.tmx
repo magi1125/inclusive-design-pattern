@@ -1517,6 +1517,14 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Since &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; is designed to contain the salient content of a page, it can make the writing of a print style sheet easier.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T100704Z" creationid="yoota" creationdate="20170501T100704Z">
+        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;はページの主要なコンテンツを入れるようにデザインされているため、印刷用のスタイルシートの作成が楽になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「ルートレベル」どうする? いったんママ。妙案があれば。
 px指定でフォントサイズ変えられなくなるのはIEくらいですが。</note>
       <tuv lang="EN-US">
