@@ -890,6 +890,12 @@ FOITは、フォントの読み込み完了までテキストを不可視にし�
     </tu>
     <tu>
       <note>(太田) CCS Font Stack をどうするか。
+言っていることは分かるが日本語でそのままカタカナでOK?
+カタカナ書きしているサイトはあるが少ないかも。
+http://yuheiy.hatenablog.com/entry/2017/04/24/122749
+
+http://www.w3.org/TR/css-fonts-3/ にはFont Stackという言葉は出てこない (説明されている箇所の見出しは 5.2 Matching font styles)。 
+
 ちなみにCCS Font Stackというサイトがあります。
 http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks.html
 </note>
