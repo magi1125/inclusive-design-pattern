@@ -1557,11 +1557,12 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 語順を原文に近い形に調整しました。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; element, found in the &lt;g2&gt;&lt;head&gt;&lt;/g2&gt;, should be familiar to you already as the element browsers glean the text from for their tab labeling, and search engines the text for their results links.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T082742Z" creationid="yoota" creationdate="20170501T082453Z">
-        <seg>&lt;g1&gt;&lt;title&gt;&lt;/g1&gt;要素は&lt;g2&gt;&lt;head&gt;&lt;/g2&gt;要素の中にあり、皆さんもよくご存じのとおり、ブラウザはここからテキストを拾ってタブのラベルとして使います。また、検索エンジンでは、検索結果のリンクにこのテキストを使います。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T082816Z" creationid="yoota" creationdate="20170501T082453Z">
+        <seg>&lt;g1&gt;&lt;title&gt;&lt;/g1&gt;要素は&lt;g2&gt;&lt;head&gt;&lt;/g2&gt;要素の中にあり、皆さんもよくご存じのとおり、ブラウザはここからテキストを拾ってタブのラベルとして使います。また、検索エンジンは、検索結果のリンクにこのテキストを使います。</seg>
       </tuv>
     </tu>
     <tu>
