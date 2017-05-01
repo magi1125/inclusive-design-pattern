@@ -496,8 +496,8 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       <tuv lang="EN-US">
         <seg>Any opinionated frameworks not easily configurable for inclusive design techniques should be avoided.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T113337Z" creationid="yoota" creationdate="20170501T113301Z">
-        <seg>インクルーシブデザインの技術に合うように調整することが容易にできないような、柔軟性のないフレームワークは避けるべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T113347Z" creationid="yoota" creationdate="20170501T113301Z">
+        <seg>インクルーシブデザインの技術に合うように調整することが容易でないような、柔軟性のないフレームワークは避けるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2218,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T083912Z" creationid="yoota" creationdate="20170501T083512Z">
         <seg>これは支援技術とも互換性のあるラベルで、Webページのさまざまな要素に適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They lead you to build poor products.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T113352Z" creationid="yoota" creationdate="20170501T113352Z">
+        <seg>それでは良いデザインは作れません。</seg>
       </tuv>
     </tu>
     <tu>
