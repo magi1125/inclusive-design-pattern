@@ -1620,7 +1620,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     </tu>
     <tu>
       <note>(太田) 元訳では単に「名前」となっていましたが、accessible name です。
-いったん「アクセシブルな名前 (name)」と置きました。要検討。</note>
+いったん「アクセシブルな名前 (name)」と置きました。要検討。
+ここでは指定方法の話をしているのではなく、titleで指定されたものが名前(name)として扱われると言っています。</note>
       <tuv lang="EN-US">
         <seg>The accessible name for a document, &lt;g4&gt;&lt;iframe&gt;&lt;/g4&gt; or embedded SVG element is provided by their &lt;g5&gt;&lt;title&gt;&lt;/g5&gt;.</seg>
       </tuv>
