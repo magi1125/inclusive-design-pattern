@@ -671,6 +671,15 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)</note>
+      <tuv lang="EN-US">
+        <seg>Focusing the skip link reveals it visually, giving the user the option of skipping to the main content if so desired.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T110653Z" creationid="yoota" creationdate="20170501T110653Z">
+        <seg>フォーカスがあたるとスキップリンクが画面に表示され、ユーザーは必要に応じてメインコンテンツにジャンプできるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「Font Face Observerを使えば」が唐突ですが、Bram Steinさんの提供しているライブラリの名前ですね。
 watch and wait は監視して待つということで、ここでは読み込みの終了を知ることができるということです。経過の監視とは少しニュアンスが違うように思います。少し補って訳してみました。
 末尾のコロンは「以下のように」として入れ込みました。
