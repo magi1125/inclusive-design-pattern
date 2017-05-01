@@ -889,6 +889,10 @@ FOITは、フォントの読み込み完了までテキストを不可視にし�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) CCS Font Stack をどうするか。
+ちなみにCCS Font Stackというサイトがあります。
+http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks.html
+</note>
       <tuv lang="EN-US">
         <seg>In the CSS font stack, characters not supported by a priority font are filled by a fallback.</seg>
       </tuv>
