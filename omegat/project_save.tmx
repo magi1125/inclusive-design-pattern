@@ -644,7 +644,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
 正確には、HTML5のDOCTYPEは文書の種類を宣言するためのものではありません。
 HTML4までのHTMLはSGMLであり、SGMLのルールでは冒頭に文書型宣言 (Document type declaration) を書いてで文書の種類を宣言する必要がありました。
 HTML5でも文書の先頭にDOCTYPEを書きますが、これは文書型宣言を見て挙動を変えるブラウザとの互換性のために必要最低限のものを書いているに過ぎません。そのため、仕様でも "Document type declaration" ではなく、単に "DOCTYPE" と呼ばれています。
-https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
+https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
+
+(伊原) LGTM.</note>
       <tuv lang="EN-US">
         <seg>If the doctype tells the browser what &lt;g1&gt;kind&lt;/g1&gt; of document it is serving (HTML5 in the above example), then the &lt;g2&gt;&lt;html&gt;&lt;/g2&gt; element’s &lt;g3&gt;lang&lt;/g3&gt; attribute tells it which language it is written in.</seg>
       </tuv>
@@ -1030,7 +1032,9 @@ body内のの子要素にlang属性を、ですね。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 若干分かりにくいかも。直訳すると「HTMLかXHTMLかという話をしているわけではありません」という感じですが、そのままのほうが分かりやすいように思いました。</note>
+      <note>(太田) 若干分かりにくいかも。直訳すると「HTMLかXHTMLかという話をしているわけではありません」という感じですが、そのままのほうが分かりやすいように思いました。
+
+(伊原) LGTM.</note>
       <tuv lang="EN-US">
         <seg>I’m not talking HTML or XHTML; I mean English or French.</seg>
       </tuv>
