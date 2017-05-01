@@ -1527,6 +1527,15 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 作ってみようという話ではないような。</note>
+      <tuv lang="EN-US">
+        <seg>OK, let’s see how our inclusive document is shaping up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T111031Z" creationid="yoota" creationdate="20170501T111031Z">
+        <seg>では実際にインクルーシブなドキュメントを作ってみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「たとえば」は不要であるように思います。</note>
       <tuv lang="EN-US">
         <seg>On slow networks, the content should arrive as soon as possible.</seg>
@@ -1602,6 +1611,14 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T110128Z" creationid="yoota" creationdate="20170425T110128Z">
         <seg>レスポンシブデザイン同様、インクルーシブデザインに欠かせないのがプログレッシブエンハンスメントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Putting The Page Together</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T110944Z" creationid="yoota" creationdate="20170501T110944Z">
+        <seg>ページを作ってみよう</seg>
       </tuv>
     </tu>
     <tu>
