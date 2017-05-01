@@ -2336,11 +2336,12 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) itselfの訳が漏れている模様。</note>
       <tuv lang="EN-US">
         <seg>When a keyboard user enters a new page, the document itself will be the first thing to receive focus.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T110403Z" creationid="yoota" creationdate="20170501T110403Z">
-        <seg>キーボードユーザーが新しいページに移動すると、まずそのドキュメントがフォーカスを受け取ります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170501T110432Z" creationid="yoota" creationdate="20170501T110403Z">
+        <seg>キーボードユーザーが新しいページに移動すると、まずそのドキュメント自体がフォーカスを受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
