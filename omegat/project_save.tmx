@@ -1207,7 +1207,8 @@ it would have liked to begin with は最初から好まれていたであろう�
       <note>(太田) Flash of Invisible Text は日本語を補う必要がありそう。
 あるいは訳注?
 訳注案: 
-FOITは、フォントの読み込み完了までテキストを不可視にしておく手法です。フォントのロードに時間がかかる場合、テキストはまずデフォルトのフォントで表示され、読み込みが終わったタイミングで該当のフォントに変化します。このときデフォルトのフォントが一瞬見えてしまう現象を、FOUT (Flash of Unstyled Text) と呼びます。この現象への対策として、フォントの読み込み中はテキストを非表示にしておき、読み込みが完了してから表示させるという手法があります。この場合、テキストが何も表示されていない状態が一瞬見えることになるため、FOIT(Flash of Invisible Text) と呼ばれます。</note>
+フォントの読み込みに時間がかかる場合、特に何もしないと、テキストはまずデフォルトのフォントで表示されます。その後、フォントの読み込みが終わった時点で、該当のフォントに変化しますが、読み込み完了までの間はデフォルトのフォントが見えていることになります。このとき、デフォルトのフォントが一瞬見えてしまう現象を、一般に FOUT (Flash of Unstyled Text) と呼びます。この現象への対策として、フォントの読み込み中はテキストを非表示にしておき、読み込みが完了してから表示させるという手法があります。この場合、テキストが何も表示されていない状態が一瞬見えることになるため、これを FOIT(Flash of Invisible Text) と呼んでいます。
+</note>
       <tuv lang="EN-US">
         <seg>In particular, FOIT (flash of invisible text) should be avoided: if the font resource is indefinitely stalled (it happens!), users of some devices and browsers will be stuck with a page that has no visible text.</seg>
       </tuv>
