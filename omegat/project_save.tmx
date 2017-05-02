@@ -973,10 +973,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
 「宣言」としていますが、HTML5のDOCTYPEはSGMLの文書型宣言ではないので、宣言とするのは避けたほうが良いかもしれません (上でヘイドンさんはdoctype declarationと書いたりはしていますが)。原文 tells the browser なのでそのまま「ブラウザに伝えたら」くらいでしょうか。
 
 不要かもしれない訳注:
-正確には、HTML5のDOCTYPEは文書の種類を宣言するためのものではありません。
-HTML4までのHTMLはSGMLであり、SGMLのルールでは冒頭に文書型宣言 (Document type declaration) を書いてで文書の種類を宣言する必要がありました。
-HTML5でも文書の先頭にDOCTYPEを書きますが、これは文書型宣言を見て挙動を変えるブラウザとの互換性のために必要最低限のものを書いているに過ぎません。そのため、仕様でも "Document type declaration" ではなく、単に "DOCTYPE" と呼ばれています。
+厳密には、HTML5のDOCTYPEは文書の種類を伝えるためのものではありません。HTML4までのHTMLはSGMLベースのマークアップ言語だったため、SGMLのルールにより、冒頭に文書型宣言 (Document type declaration) を書いて文書の種類を宣言する必要がありました。しかしHTML5はもはやSGMLではありません。HTML5でも文書の先頭にDOCTYPEを書きますが、これはSGMLの文書型宣言ではなく、DOCTYPEを見て挙動を変えるブラウザとの互換性のために書いているに過ぎません。そのため、仕様でも "Document type declaration" ではなく、単に "DOCTYPE" と呼ばれています。
 https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
+
 
 (伊原) LGTM.</note>
       <tuv lang="EN-US">
