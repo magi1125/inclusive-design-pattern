@@ -764,7 +764,9 @@ Essentially, this means you can employ implicitly responsive text without the ne
     </tu>
     <tu>
       <note>(太田) 画像のaltです。
-「これでもまだ利用できる！」はたぶん誤訳です。</note>
+「これでもまだ利用できる！」はたぶん誤訳です。
+
+(伊原) 下訳の反映。</note>
       <tuv lang="EN-US">
         <seg>Finally JavaScript is put on top, but content is still there.</seg>
       </tuv>
@@ -1328,7 +1330,10 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 画像のaltです。</note>
+      <note>(太田) 画像のaltです。
+
+(伊原) 下訳の反映。
+</note>
       <tuv lang="EN-US">
         <seg>In the loading process, first you get HTML and with it content.</seg>
       </tuv>
@@ -2355,7 +2360,9 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 画像のaltです。</note>
+      <note>(太田) 画像のaltです。
+
+(伊原) 下訳の反映。</note>
       <tuv lang="EN-US">
         <seg>Then you get CSS, but the content remains.</seg>
       </tuv>
