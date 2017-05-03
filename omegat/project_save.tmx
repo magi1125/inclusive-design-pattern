@@ -2874,7 +2874,9 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
     </tu>
     <tu>
       <note>(太田) 誤訳かなと。ズームを再び機能させるための方法が書かれています。
-二つの値を足すのに「合計」はやや違和感があったので「加算」としました。</note>
+二つの値を足すのに「合計」はやや違和感があったので「加算」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Zoom can be reinstated by entering a viewport unit-based value into a sum with an em-based value.</seg>
       </tuv>
