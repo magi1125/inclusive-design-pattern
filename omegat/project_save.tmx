@@ -2625,7 +2625,7 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) 「ページ全体のサイズ」が若干微妙だが、いったんこのままで。</note>
       <tuv lang="EN-US">
         <seg>Where everything is set proportionately, whole pages can be scaled simply by adjusting the root font size, as in the media query that follows.</seg>
       </tuv>
