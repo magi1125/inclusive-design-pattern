@@ -449,7 +449,9 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(太田) ここのlargeは文字の大きさではなくフォントの数の話と思われます。</note>
+      <note>(太田) ここのlargeは文字の大きさではなくフォントの数の話と思われます。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>A font that supports a large, international character set is an inclusive font.</seg>
       </tuv>
