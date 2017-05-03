@@ -819,7 +819,9 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
-      <note>(太田) その時点で→フォーカスがあたると (原文 Focusing the skip link)</note>
+      <note>(太田) その時点で→フォーカスがあたると (原文 Focusing the skip link)
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Focusing the skip link reveals it visually, giving the user the option of skipping to the main content if so desired.</seg>
       </tuv>
@@ -2870,7 +2872,9 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) LGTM
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>With the above provision in place, when the user hits their &lt;g1&gt;Tab&lt;/g1&gt; key they’ll focus the first interactive element on the page: the skip link.</seg>
       </tuv>
