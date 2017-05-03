@@ -573,8 +573,9 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) As a rule of thumb がこれでいいのかどうか。「親指で測る」というたとえは、「経験から得たやり方で測る」or「大雑把に測る」の2つの意味があるようです。ここでは「大雑把に言えば」のほうかもしれません (細かく言えば幅や高さが必要な要素はあるはずなので)。
-すぐ後ろにも As a rule of thumb が出てきます (position: fixedの話)</note>
+      <note>(太田) 「要素の位置を固定する」は原文では「位置固定の要素を使うのを避ける」で微妙にニュアンスが違います。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, avoid using positioned elements, especially with &lt;g2&gt;position: fixed&lt;/g2&gt;.</seg>
       </tuv>
