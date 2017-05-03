@@ -1296,7 +1296,9 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) LGTM
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In the example below, the &lt;g1&gt;line-height&lt;/g1&gt; and &lt;g2&gt;margin&lt;/g2&gt; of the &lt;g3&gt;p&lt;/g3&gt; will scale proportionately, because they are both set relative to the &lt;g4&gt;font-size&lt;/g4&gt;.</seg>
       </tuv>
@@ -2365,6 +2367,7 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>This greatly reduces the complexity of your media queries.</seg>
       </tuv>
@@ -2622,6 +2625,7 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Where everything is set proportionately, whole pages can be scaled simply by adjusting the root font size, as in the media query that follows.</seg>
       </tuv>
