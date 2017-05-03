@@ -2767,7 +2767,9 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) itselfの訳が漏れている模様。</note>
+      <note>(太田) itselfの訳が漏れている模様。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>When a keyboard user enters a new page, the document itself will be the first thing to receive focus.</seg>
       </tuv>
