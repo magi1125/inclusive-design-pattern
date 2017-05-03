@@ -1733,7 +1733,9 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「たとえば」は不要であるように思います。</note>
+      <note>(太田) 「たとえば」は不要であるように思います。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>On slow networks, the content should arrive as soon as possible.</seg>
       </tuv>
