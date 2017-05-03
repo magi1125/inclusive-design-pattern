@@ -1632,12 +1632,12 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <note>(太田) 原文にない括弧を入れるのはできるだけ避けたいですが、unicorn-rare というヘイドンフレーズを生かすべきかどうか。
 全体やや誤訳っぽいです。malignは「悪く言う」の意味で、この文全体は Much maligned as X,  it has much broader implications. という形ですので、Xのように悪く言われることが多いが、(実際には) もっと広い意味がある、と言っています。補って訳してみましたがわかりにくいですね……。
 
-(伊原) LGTM.</note>
+(伊原) LGTM. 文の長さを緩和するため、骨の折れる仕事➞苦行としてみました。</note>
       <tuv lang="EN-US">
         <seg>Much maligned as the arduous task of making web applications still do things when a unicorn-rare user switches JavaScript off, it has much broader implications.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T022528Z" creationid="yoota" creationdate="20170425T110254Z">
-        <seg>JavaScriptをオフにしているユニコーンのように希少なユーザーでも使えるWebアプリケーションを作るかのような骨の折れる仕事だ、などと言われることが多いのですが、実際にはもっと広い意味があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T170714Z" creationid="yoota" creationdate="20170425T110254Z">
+        <seg>JavaScriptをオフにしているユニコーンのように希少なユーザーでも使えるWebアプリケーションを作るかのような苦行だ、などと言われることが多いのですが、実際にはもっと広い意味があります。</seg>
       </tuv>
     </tu>
     <tu>
