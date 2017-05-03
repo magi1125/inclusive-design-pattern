@@ -2696,12 +2696,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
     </tu>
     <tu>
       <note>(太田) 冒頭の where possible が落ちているように思います。
-integratedは統合された?</note>
+integratedは統合された?
+
+(伊原) 可能であれば〜が掛かっている範囲が分かりづらいので、2文に分けてみました。</note>
       <tuv lang="EN-US">
         <seg>Where possible, integrated JavaScript widgets degrade into well-structured static content or interactive form elements, meaning users without JavaScript or CSS — temporarily or otherwise — can traverse and use content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T025858Z" creationid="yoota" creationdate="20170426T025617Z">
-        <seg>可能であれば、統合されたJavaScriptウィジェットを、きちんと構造化された静的なコンテンツとインタラクティブなフォーム要素に分解することで、JavaScriptやCSSを――一時的に、あるいは常時――利用しないユーザーでも、コンテンツをたどったり利用したりできるようになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T172042Z" creationid="yoota" creationdate="20170426T025617Z">
+        <seg>可能であれば、統合されたJavaScriptウィジェットを、きちんと構造化された静的なコンテンツとインタラクティブなフォーム要素に分解します。そうすることで、JavaScriptやCSSを――一時的に、あるいは常時――利用しないユーザーでも、コンテンツをたどったり利用したりできるようになります。</seg>
       </tuv>
     </tu>
     <tu>
