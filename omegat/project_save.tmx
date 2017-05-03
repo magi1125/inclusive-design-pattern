@@ -1283,8 +1283,8 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       <tuv lang="EN-US">
         <seg>In the example above, &lt;g1&gt;100%&lt;/g1&gt; is equal to &lt;g2&gt;16px&lt;/g2&gt; &lt;g3&gt;if&lt;/g3&gt; the user has not adjusted the font size manually, either in their operating system or browser settings (e.g. under &lt;g4&gt;Preferences → Content&lt;/g4&gt; in Firefox).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T070808Z" creationid="yoota" creationdate="20170426T070808Z">
-        <seg>この例の場合、&lt;g3&gt;もし&lt;/g3&gt;ユーザーがオペレーティングシステムやブラウザの設定（たとえばFirefoxの場合は&lt;g4&gt;［オプション］→［コンテンツ］&lt;/g4&gt;）でフォントサイズを手動で調整していないなら、&lt;g1&gt;100%&lt;/g1&gt;は&lt;g2&gt;16px&lt;/g2&gt;になります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T134948Z" creationid="yoota" creationdate="20170426T070808Z">
+        <seg>この例の場合、&lt;g3&gt;もし&lt;/g3&gt;ユーザーがオペレーティングシステムやブラウザの設定（たとえばFirefoxの場合は&lt;g4&gt;［環境設定］→［コンテンツ］&lt;/g4&gt;）でフォントサイズを手動で調整していないなら、&lt;g1&gt;100%&lt;/g1&gt;は&lt;g2&gt;16px&lt;/g2&gt;になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1873,12 +1873,14 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
     </tu>
     <tu>
       <note>(太田) 「ルートレベル」どうする? いったんママ。妙案があれば。
-px指定でフォントサイズ変えられなくなるのはIEくらいですが。</note>
+px指定でフォントサイズ変えられなくなるのはIEくらいですが。
+
+(伊原) 2つ前の段落でルート要素と言っているので、そのまま持ってきてみました。</note>
       <tuv lang="EN-US">
         <seg>So, &lt;g5&gt;100%&lt;/g5&gt; is really “one hundred percent of the default size or the size the user has chosen.” If I were to set the font size explicitly as 16px at the root level, I would diminish the user’s ability to adjust font size to their liking.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T071108Z" creationid="yoota" creationdate="20170426T071108Z">
-        <seg>つまり、この&lt;g5&gt;100%&lt;/g5&gt;は「デフォルトサイズまたはユーザーが選択したサイズの100%」を意味します。一方、ルートレベルでフォントサイズを明示的に16pxに設定した場合は、ユーザー側でフォントサイズを自由に調整できなくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T135201Z" creationid="yoota" creationdate="20170426T071108Z">
+        <seg>つまり、この&lt;g5&gt;100%&lt;/g5&gt;は「デフォルトサイズまたはユーザーが選択したサイズの100%」を意味します。一方、ルート要素でフォントサイズを明示的に16pxに設定した場合は、ユーザー側でフォントサイズを自由に調整できなくなります。</seg>
       </tuv>
     </tu>
     <tu>
