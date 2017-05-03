@@ -2492,7 +2492,9 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       <note>(太田) chが訳から落ちています。
 参考: http://www.w3.org/TR/css3-values/#ch
 調整時とは何かが分かりにくいです。ここではユーザーがフォントサイズを変えたときの話なので、少し補う必要があるかもしれません。
-A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応のように読めます。「それぞれの値」「など」を補うことで緩和してみました (理論上 ex でも良いはずなので、「など」を補うのは誤りではないはず)。</note>
+A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応のように読めます。「それぞれの値」「など」を補うことで緩和してみました (理論上 ex でも良いはずなので、「など」を補うのは誤りではないはず)。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>To make sure &lt;g4&gt;font-size&lt;/g4&gt;, &lt;g5&gt;padding&lt;/g5&gt; and &lt;g6&gt;margin&lt;/g6&gt; all resize proportionately, each should be set using the relative units &lt;g7&gt;rem&lt;/g7&gt;, &lt;g8&gt;em&lt;/g8&gt; or &lt;g9&gt;ch&lt;/g9&gt;.</seg>
       </tuv>
