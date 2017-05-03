@@ -409,7 +409,9 @@ font-size: 16px;
 括弧は原文にありませんし不要かと。
 画像の内容はaltのとおりで、左から右にローディングが進むプロセスをあらわしています。HTMLがロードされた時点でコンテンツが読めるようになり、CSSが来ても、JSが来てもコンテンツはありつづけるという話です。
 ただ、このキャプションでヘイドンさんが何を言いたいのかは良く分かりません。基本的にはCSSもJSもなしで読めるように作っておいて必要なところだけエンハンスメントすべし、という話なのかもしれません (when ではなく where ですし)。
-「本当に必要な箇所だけで使いましょう」としてみました。</note>
+「本当に必要な箇所だけで使いましょう」としてみました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Enhancement is a great thing, but only where it’s really needed.&lt;/g3&gt;</seg>
       </tuv>
@@ -1337,8 +1339,8 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       <tuv lang="EN-US">
         <seg>In the loading process, first you get HTML and with it content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170503T172518Z">
-        <seg>読み込みのプロセスにおいて、まずHTMLとそのコンテンツを取得。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T172811Z">
+        <seg>読み込みのプロセスにおいて、まずHTMLとそのコンテンツを取得する。</seg>
       </tuv>
     </tu>
     <tu>
