@@ -948,7 +948,7 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     <tu>
       <note>(太田) 「読み込み後」は原文もそうなので正しいのですが、この問題のポイントは読み込まれた瞬間に一気に切り替わってしまうことなので、少し補って「読み込まれたタイミングで」としました。
 
-</note>
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>However, there can be an unpleasant and disorienting jump when the web font supplants the system font after it has loaded.</seg>
       </tuv>
@@ -2489,12 +2489,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) LGTM
+
+(伊原) 「改行位置」は一般的には折り返しが発生する右端を指しますが、原文では「行が異なる場所に折り返される」と、行の位置が変わることも含めて言っているようです（実際、行間だけが変わっているケースなどはけっこうあります）。なのでそのようにしてみました。</note>
       <tuv lang="EN-US">
         <seg>This is due to one font being intrinsically larger or smaller than the other, causing lines to wrap in different places.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170428T111235Z" creationid="yoota" creationdate="20170428T111235Z">
-        <seg>これはそもそも片方のフォントがもう片方のフォントより大きかったり小さかったりして、改行位置が変わるためです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T184043Z" creationid="yoota" creationdate="20170428T111235Z">
+        <seg>これはそもそも片方のフォントがもう片方のフォントより大きかったり小さかったりして、行が異なる場所に折り返されるためです。</seg>
       </tuv>
     </tu>
     <tu>
