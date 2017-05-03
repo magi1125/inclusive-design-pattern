@@ -1771,6 +1771,7 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Responsive design is a big part of inclusive design.</seg>
       </tuv>
@@ -2078,7 +2079,9 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 直訳すると「viewportメタタグはレスポンシブデザインをちょっと魔法っぽく有効にしている場所です」</note>
+      <note>(太田) 直訳すると「viewportメタタグはレスポンシブデザインをちょっと魔法っぽく有効にしている場所です」
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;viewport&lt;/g1&gt; meta tag is where responsive design is, somewhat magically, enabled.</seg>
       </tuv>
