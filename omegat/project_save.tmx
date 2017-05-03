@@ -468,7 +468,9 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) LGTM
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>A lot of web design articles and books are about improving your workflow and making your life easier as a developer.</seg>
       </tuv>
@@ -1921,7 +1923,9 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
     </tu>
     <tu>
       <note>(太田) Should you wish ... は If you should wish の If が省略された形です。
-be my guest は「どうぞご自由に」の意味の慣用句です。</note>
+be my guest は「どうぞご自由に」の意味の慣用句です。
+
+(伊原) LGTM. この文を見て、冒頭の to go in search of the ultimate boilerplate はやっぱりテンプレ探しに対する批判めいたジョークなのだなと思いました。</note>
       <tuv lang="EN-US">
         <seg>Should you wish to adopt a framework or employ a preprocessor to speed up your development process, be my guest.</seg>
       </tuv>
