@@ -1474,7 +1474,9 @@ Windowsのテーマなどがブラウザ側に反映されるのかどうかは�
     </tu>
     <tu>
       <note>(太田) 名前(name)で示されるのはコンテンツ制作者の意図というより、その要素が何なのか、ユーザーにとってどう使えるのかという話ですから、「意図」より「目的」とするほうが良いように思います。「使用目的」?
-must ではなく should なので「べき」としました。</note>
+must ではなく should なので「べき」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>It should describe the purpose of the contents of said element.</seg>
       </tuv>
@@ -2162,7 +2164,9 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) LGTM
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; is announced as soon as a new web document is loaded, so it is your opportunity to provide a succinct summary of the page.</seg>
       </tuv>
@@ -2219,7 +2223,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     <tu>
       <note>(太田) 元訳では単に「名前」となっていましたが、accessible name です。
 いったん「アクセシブルな名前 (name)」と置きました。要検討。
-ここでは指定方法の話をしているのではなく、titleで指定されたものが名前(name)として扱われると言っているものと思います。</note>
+ここでは指定方法の話をしているのではなく、titleで指定されたものが名前(name)として扱われると言っているものと思います。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The accessible name for a document, &lt;g4&gt;&lt;iframe&gt;&lt;/g4&gt; or embedded SVG element is provided by their &lt;g5&gt;&lt;title&gt;&lt;/g5&gt;.</seg>
       </tuv>
@@ -2431,7 +2437,9 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
-      <note>(太田) compatible をどうするか。元役は支援技術対応としていますが、支援技術だけに対応するわけではなく、支援技術に対しても互換性があるラベルです。「支援技術とも互換性のあるラベル」</note>
+      <note>(太田) compatible をどうするか。元役は支援技術対応としていますが、支援技術だけに対応するわけではなく、支援技術に対しても互換性があるラベルです。「支援技術とも互換性のあるラベル」
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>These are the assistive technology compatible labels for the various elements of your web pages.</seg>
       </tuv>
