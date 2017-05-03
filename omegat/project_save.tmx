@@ -1491,7 +1491,9 @@ must ではなく should なので「べき」としました。</note>
 重要になる、でいいのか。
 前の文の Progressive enhancement is about を受けてこの文で It’s not just about と言っているので、it はProgressive enhancementであろうか。
 「利用できるようにしたいのか」→「利用できるようにするべきなのか」?
-前後を読むに、ヘイドンさんが伝えたい意図は「単にリソースがNot Foundになっている場合だけでなく、ロードが遅くて後から読まれるために一時的に利用できない場合などもあり、そういったケースもこの話で扱う」ということのような気がします。</note>
+前後を読むに、ヘイドンさんが伝えたい意図は「単にリソースがNot Foundになっている場合だけでなく、ロードが遅くて後から読まれるために一時的に利用できない場合などもあり、そういったケースもこの話で扱う」ということのような気がします。
+
+(伊原) 時系列の話をしてるので、そういうことなのでしょうね。原文がわかりづらいのでしょうがないかなと。</note>
       <tuv lang="EN-US">
         <seg>It’s not just about JavaScript or CSS being unavailable, but when and how they are unavailable, for how long, and when they should be &lt;g1&gt;made&lt;/g1&gt; available, and in what order.</seg>
       </tuv>
