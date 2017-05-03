@@ -572,12 +572,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) opinionated は頑固、我が強い、自説に固執するなどの意味ですが、ここで「頑固」とするのはちょっとおかしいですね。「柔軟性のない」くらいでしょうか。</note>
+      <note>(太田) opinionated は頑固、我が強い、自説に固執するなどの意味ですが、ここで「頑固」とするのはちょっとおかしいですね。「柔軟性のない」くらいでしょうか。
+
+(伊原) echnologiesではなくtechniquesなので、技術➞手法としました。</note>
       <tuv lang="EN-US">
         <seg>Any opinionated frameworks not easily configurable for inclusive design techniques should be avoided.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T113347Z" creationid="yoota" creationdate="20170501T113301Z">
-        <seg>インクルーシブデザインの技術に合うように調整することが容易でないような、柔軟性のないフレームワークは避けるべきです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T201824Z" creationid="yoota" creationdate="20170501T113301Z">
+        <seg>インクルーシブデザインの手法に合うように調整することが容易でないような、柔軟性のないフレームワークは避けるべきです。</seg>
       </tuv>
     </tu>
     <tu>
