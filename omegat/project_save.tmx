@@ -1527,7 +1527,8 @@ must ではなく should なので「べき」としました。</note>
     </tu>
     <tu>
       <note>(太田) 上記にあるのは .fonts-loaded クラスだけでCSSは下にあります。
-</note>
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>It’s simple to then supply the font in your CSS, using the &lt;g1&gt;.fonts-loaded&lt;/g1&gt; class selector shown above:</seg>
       </tuv>
