@@ -2414,7 +2414,9 @@ Equal to the computed value of font-size on the root element. When specified on 
     </tu>
     <tu>
       <note>(太田) 表示→レンダリングとしました。ほぼ同義ですが厳密には異なり、レンダリングされるが表示されない場合などもあります。
-「そうすれば」→「これによって……できるようになります」としました。</note>
+「そうすれば」→「これによって……できるようになります」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>This allows the main DOM content to be rendered before the scripts are executed.</seg>
       </tuv>
