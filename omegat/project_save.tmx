@@ -2414,12 +2414,16 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
     <tu>
       <note>(太田) you→デザイナーとされているがどうするか。
 shouldなので「しなければならない」は強すぎるかもしれない。
-「デザイナーはまとめ役となって」がやや分かりにくいように思いました。コンテンツのUIだけ見るのではなくブラウザのUIとコンテンツのUIを調整する役割を担えということですが、「まとめ役に徹する」くらいのほうが分かりやすいかもしれません。</note>
+「デザイナーはまとめ役となって」がやや分かりにくいように思いました。コンテンツのUIだけ見るのではなくブラウザのUIとコンテンツのUIを調整する役割を担えということですが、「まとめ役に徹する」くらいのほうが分かりやすいかもしれません。
+
+(伊原)you➞デザイナーは、次の段落にもyouが出て来ることを考えると妥当かなと。
+ 「まとめ役」ですが、もう一歩後ろに下がった「世話役」ぐらいのほうがフィットしそうな気がしました。
+</note>
       <tuv lang="EN-US">
         <seg>To achieve inclusive design you should act as a facilitator, allowing users to configure the way they view and interact with the content you provide them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T062757Z" creationid="yoota" creationdate="20170424T061836Z">
-        <seg>インクルーシブデザインを実現するためには、デザイナーはまとめ役に徹し、提供するコンテンツの表示やインタラクションをユーザーが設定することを許すべきです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T125713Z" creationid="yoota" creationdate="20170424T061836Z">
+        <seg>インクルーシブデザインを実現するためには、デザイナーは世話役に徹し、提供するコンテンツの表示やインタラクションをユーザーが設定することを許すべきです。</seg>
       </tuv>
     </tu>
     <tu>
