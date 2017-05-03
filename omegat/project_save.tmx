@@ -986,7 +986,9 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) LGTM
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>However, this book is not about you; it’s about your audience.</seg>
       </tuv>
@@ -3056,12 +3058,12 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
     <tu>
       <note>(太田) I hear you say. を訳出しました。
 
-(伊原) 「私のページの閲覧者」というのが感覚的に引っかかりました。ページ単位というよりも「私のサイトの訪問者」みたいな感じかなと。</note>
+(伊原) 「私のページの閲覧者」というのが感覚的に引っかかりました。ページ単位というよりも「私のサイトのユーザー」みたいな感じかなと。</note>
       <tuv lang="EN-US">
         <seg>“But my audience is young and hip!” I hear you say.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170503T132052Z" creationid="yoota" creationdate="20170424T065416Z">
-        <seg>「でも私のサイトの訪問者は若くて流行に敏感な人たちだから!」と言う人もいるでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T201307Z" creationid="yoota" creationdate="20170424T065416Z">
+        <seg>「でも私のサイトのユーザーは若くて流行に敏感な人たちだから!」と言う人もいるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
