@@ -768,6 +768,9 @@ Essentially, this means you can employ implicitly responsive text without the ne
       <tuv lang="EN-US">
         <seg>Finally JavaScript is put on top, but content is still there.</seg>
       </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T172407Z">
+        <seg>最後にJavaScriptが加わるが、コンテンツは依然として維持される。</seg>
+      </tuv>
     </tu>
     <tu>
       <note>(太田) ハイライト表示されるように変更する、のではなく、ハイライト表示するための辞書を切り替える、かなと。</note>
@@ -1328,6 +1331,9 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       <note>(太田) 画像のaltです。</note>
       <tuv lang="EN-US">
         <seg>In the loading process, first you get HTML and with it content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T172345Z">
+        <seg>プログレッシブエンハンスメントの段階を示す図。読み込みのプロセスで、まずHTMLとそのコンテンツを取得。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2349,6 +2355,9 @@ Equal to the computed value of font-size on the root element. When specified on 
       <note>(太田) 画像のaltです。</note>
       <tuv lang="EN-US">
         <seg>Then you get CSS, but the content remains.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T172350Z">
+        <seg>次にCSSを取得するが、コンテンツは維持される。</seg>
       </tuv>
     </tu>
     <tu>
