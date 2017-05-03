@@ -1427,6 +1427,7 @@ Windowsのテーマなどがブラウザ側に反映されるのかどうかは�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>It saves you a lot of manual coding without sacrificing accessibility.</seg>
       </tuv>
@@ -2731,7 +2732,9 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) everythingを全ての要素としていますが、上のCSSではhtmlのfont-sizeしか指定しておらず、要素そのものが拡大縮小されるわけではありません。補うなら「全てのテキスト」とか?</note>
+      <note>(太田) everythingを全ての要素としていますが、上のCSSではhtmlのfont-sizeしか指定しておらず、要素そのものが拡大縮小されるわけではありません。補うなら「全てのテキスト」とか?
+
+(伊原) 補ったほうがよさそうなので補いました。</note>
       <tuv lang="EN-US">
         <seg>With this algorithm in place, everything scales incrementally and proportionately relative to the viewport.</seg>
       </tuv>
