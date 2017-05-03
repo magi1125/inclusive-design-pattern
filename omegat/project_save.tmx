@@ -1136,7 +1136,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     <tu>
       <note>(太田) rendered を「レンダリング」としました。
 「しなければなりません」とは言っていないので少し調整しました。
-</note>
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In a single-page application, your singular &lt;g4&gt;&lt;main&gt;&lt;/g4&gt; should be where each of your functionality-heavy views is rendered.</seg>
       </tuv>
