@@ -2580,6 +2580,7 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Viewport units present the opportunity to set text that scales with the height (&lt;g1&gt;vh&lt;/g1&gt;) or width (&lt;g2&gt;vw&lt;/g2&gt;) of the viewport.</seg>
       </tuv>
