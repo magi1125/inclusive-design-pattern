@@ -1686,7 +1686,9 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「デザインに」が補われていますが不要かも。</note>
+      <note>(太田) 「デザインに」が補われていますが不要かも。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Nevertheless, you should only include a subset containing the characters you need or your users may suffer performance issues.</seg>
       </tuv>
@@ -2274,7 +2276,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「それこそ桁がいくつも違ってきます。」はわかりますが、原文の "!" を生かすべく「それこそ桁違いです!」としてみました。</note>
+      <note>(太田) 「それこそ桁がいくつも違ってきます。」はわかりますが、原文の "!" を生かすべく「それこそ桁違いです!」としてみました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The difference in file size between an entire font and one subsetted to just the ampersand glyph you want will be many orders of magnitude!</seg>
       </tuv>
@@ -2720,7 +2724,9 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 必要な文字のリストを指定できる、としました。</note>
+      <note>(太田) 必要な文字のリストを指定できる、としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>When including fonts using &lt;g1&gt;&lt;g2&gt;Google Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;8&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, you can append a &lt;g6&gt;text&lt;/g6&gt; parameter to the URI listing just the characters you need.</seg>
       </tuv>
