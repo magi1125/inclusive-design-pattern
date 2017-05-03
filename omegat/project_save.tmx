@@ -1422,8 +1422,8 @@ Windowsのテーマなどがブラウザ側に反映されるのかどうかは�
       <tuv lang="EN-US">
         <seg>It is true that a greater number of users will operate full-page zoom using &lt;g1&gt;Cmd&lt;/g1&gt; (or &lt;g2&gt;Ctrl&lt;/g2&gt;) and &lt;g3&gt;+&lt;/g3&gt;, but modern browsers and operating systems still support text-only resizing, and so should you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170503T154927Z" creationid="yoota" creationdate="20170426T071340Z">
-        <seg>&lt;g1&gt;Cmd&lt;/g1&gt;（または&lt;g2&gt;Ctrl&lt;/g2&gt;）キーと&lt;g3&gt;＋&lt;/g3&gt;キーを同時に押してページ全体をズームするユーザーが増えているのは確かです。しかし、最近のブラウザやオペレーティングシステムもテキストのみのサイズ変更をサポートしているため、それに対応しておくべきでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T154941Z" creationid="yoota" creationdate="20170426T071340Z">
+        <seg>&lt;g1&gt;Cmd&lt;/g1&gt;（または&lt;g2&gt;Ctrl&lt;/g2&gt;）キーと&lt;g3&gt;＋&lt;/g3&gt;キーを同時に押してページ全体を拡大するユーザーが増えているのは確かです。しかし、最近のブラウザやオペレーティングシステムもテキストのみのサイズ変更をサポートしているため、それに対応しておくべきでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2803,7 +2803,7 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
     <tu>
       <note>(太田) issueは問題というより注意点でしょうか (すぐ後ろに解決策がありますし)。
 
-(伊原)</note>
+(伊原) フルページズーム➞ページ全体のズームとしました。</note>
       <tuv lang="EN-US">
         <seg>You just need to address one issue: elements set using viewport units &lt;g1&gt;cannot&lt;/g1&gt; be scaled using full-page zoom.</seg>
       </tuv>
