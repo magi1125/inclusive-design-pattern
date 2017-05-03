@@ -1974,12 +1974,14 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) LGTM
+
+(伊原) タッチユーザーというのにちょっと違和感が。タッチデバイスのユーザーとしました。</note>
       <tuv lang="EN-US">
         <seg>Skip links should not appear visually by default because they have very limited utility to mouse and touch users and would only serve to confound them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T110123Z" creationid="yoota" creationdate="20170501T110123Z">
-        <seg>ただし、スキップリンクはデフォルトでは表示されないようにすべきです。マウスユーザーやタッチユーザーにとっては非常に使いにくく、混乱を招くだけだからです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T195607Z" creationid="yoota" creationdate="20170501T110123Z">
+        <seg>ただし、スキップリンクはデフォルトでは表示されないようにすべきです。マウスユーザーやタッチデバイスのユーザーにとっては非常に使いにくく、混乱を招くだけだからです。</seg>
       </tuv>
     </tu>
     <tu>
