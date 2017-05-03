@@ -245,13 +245,15 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
-      <note>(太田) いちおう SubsettedWebFont, ExtensiveSystemFont は訳してみました。ExtensiveSystemFont はもっと短くて分かりやすい訳語があればぜひ。</note>
+      <note>(太田) いちおう SubsettedWebFont, ExtensiveSystemFont は訳してみました。ExtensiveSystemFont はもっと短くて分かりやすい訳語があればぜひ。
+
+(伊原) 前に「システムフォントは多くの文字にマッチし、普段あまり使われない文字も提供できます」と言っているので、単に「システムフォント」でも良いような気もします。いったん取ってみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;font-family&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; SubsettedWebFont, ExtensiveSystemFont, sans-serif&lt;g6&gt;;&lt;/g6&gt;
 &lt;g7&gt;}&lt;/g7&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T075400Z" creationid="yoota" creationdate="20170501T075318Z">
-        <seg>&lt;g4&gt;font-family&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; サブセット化したWebフォント, 広範な文字をサポートするシステムフォント, sans-serif&lt;g6&gt;;&lt;/g6&gt;
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T192606Z" creationid="yoota" creationdate="20170501T075318Z">
+        <seg>&lt;g4&gt;font-family&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; サブセット化したWebフォント, システムフォント, sans-serif&lt;g6&gt;;&lt;/g6&gt;
 &lt;g7&gt;}&lt;/g7&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
@@ -664,7 +666,9 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
     <tu>
       <note>(太田) Basic Latin Unicode blockは「Unicodeの基本ラテン文字のブロック」としました。
 your web font は「独自の」ではないかもしれません。
-roll backは「引き下げる」のような意味で、ここでは「限定する」くらいでしょうか。</note>
+roll backは「引き下げる」のような意味で、ここでは「限定する」くらいでしょうか。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>By using Font Squirrel’s generator, you can roll back your web font’s character set to just the &lt;g6&gt;&lt;g7&gt;Basic Latin Unicode block&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;10&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;, for example.</seg>
       </tuv>
@@ -1266,7 +1270,9 @@ it would have liked to begin with は最初から好まれていたであろう�
     <tu>
       <note>(太田)  ここでの unusual characters は、原義そのままの「あまり使わない文字」という意味でしょう。
 well-matched はよくマッチするということで、システムフォントには多くの文字が含まれるため、より多くの文字にマッチするという話ですね。取っても通じるので取ってしまってもいいかもしれません。
-# ここに限らないのですが、前の文でmatchという言葉をぜんぜん使っていないのに、ここで急に出てくるので翻訳者は意味がとりにくいだろうと思います。ヘイドンさんの脳裏にはFont Matching Algorithmが思い浮かべられているのでしょうけれど。</note>
+# ここに限らないのですが、前の文でmatchという言葉をぜんぜん使っていないのに、ここで急に出てくるので翻訳者は意味がとりにくいだろうと思います。ヘイドンさんの脳裏にはFont Matching Algorithmが思い浮かべられているのでしょうけれど。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In practice, this means a well-matched system font can supply the more unusual characters, allowing you to heavily subset the web font.</seg>
       </tuv>
@@ -1295,7 +1301,7 @@ http://yuheiy.hatenablog.com/entry/2017/04/24/122749
 http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks.html
 ひとまずカタカナのママとし、「フォントスタックの仕組み」としてみました。filled は直訳すると「埋められる」で、それでも通じそうですが「補われる」くらい?
 
-
+(伊原) LGTM.
 </note>
       <tuv lang="EN-US">
         <seg>In the CSS font stack, characters not supported by a priority font are filled by a fallback.</seg>
