@@ -469,7 +469,8 @@ font-size: 16px;
     <tu>
       <note>(太田) 少しだけと言いつつしっかりJavaScriptを使っているようです。少しだけ依存するという話ではないかと思います。
 offered by Bram Stein のリンク先はGithubですが、これは例ではなくがっつり実用的なライブラリを提供しているので、「例」とするのは適切でないと思います。
-</note>
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>A more comprehensive way of overcoming FOIT is &lt;g1&gt;&lt;g2&gt;offered by Bram Stein&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;7&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; and requires a small JavaScript dependency.</seg>
       </tuv>
@@ -2226,7 +2227,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
     </tu>
     <tu>
       <note>(太田) Base64エンコードのフォント→Base64でエンコードしたフォント
-末尾の like so を「以下のように」としました。</note>
+末尾の like so を「以下のように」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The base64-encoded font would be included inside an &lt;g1&gt;@font-face&lt;/g1&gt; declaration block, like so:</seg>
       </tuv>
