@@ -1007,8 +1007,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       <tuv lang="EN-US">
         <seg>If the user has gone to &lt;g3&gt;Settings → Content&lt;/g3&gt; in Firefox and set the default font size to 20px, &lt;g4&gt;2rem&lt;/g4&gt; will mean 2 × 20 — or 40px.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T082856Z" creationid="yoota" creationdate="20170426T082856Z">
-        <seg>ユーザーがFirefoxの&lt;g3&gt;[オプション]→[コンテンツ]&lt;/g3&gt;でデフォルトのフォントサイズを20pxに設定している場合、&lt;g4&gt;2rem&lt;/g4&gt;は20×2、つまり40pxを意味します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T143514Z" creationid="yoota" creationdate="20170426T082856Z">
+        <seg>ユーザーがFirefoxの&lt;g3&gt;[環境設定]→[コンテンツ]&lt;/g3&gt;でデフォルトのフォントサイズを20pxに設定している場合、&lt;g4&gt;2rem&lt;/g4&gt;は20×2、つまり40pxを意味します。</seg>
       </tuv>
     </tu>
     <tu>
