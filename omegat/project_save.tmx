@@ -2028,7 +2028,9 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) ユーザーの能力の問題でショートカットが使えないわけではなく、ショートカットの機能が提供されていないという話です。</note>
+      <note>(太田) ユーザーの能力の問題でショートカットが使えないわけではなく、ショートカットの機能が提供されていないという話です。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Such people are not afforded the same shortcuts as screen reader operators, so it’s them we’re mostly helping to skip over navigation and other header content.</seg>
       </tuv>
@@ -2389,7 +2391,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) LGTM
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The principal beneficiaries of skip links are sighted keyboard users.</seg>
       </tuv>
