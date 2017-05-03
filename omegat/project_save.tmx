@@ -1009,8 +1009,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       <tuv lang="EN-US">
         <seg>If the user has gone to &lt;g3&gt;Settings → Content&lt;/g3&gt; in Firefox and set the default font size to 20px, &lt;g4&gt;2rem&lt;/g4&gt; will mean 2 × 20 — or 40px.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170503T143514Z" creationid="yoota" creationdate="20170426T082856Z">
-        <seg>ユーザーがFirefoxの&lt;g3&gt;[環境設定]→[コンテンツ]&lt;/g3&gt;でデフォルトのフォントサイズを20pxに設定している場合、&lt;g4&gt;2rem&lt;/g4&gt;は20×2、つまり40pxを意味します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T143802Z" creationid="yoota" creationdate="20170426T082856Z">
+        <seg>ユーザーがFirefoxの&lt;g3&gt;[環境設定（またはオプション）]→[コンテンツ]&lt;/g3&gt;でデフォルトのフォントサイズを20pxに設定している場合、&lt;g4&gt;2rem&lt;/g4&gt;は20×2、つまり40pxを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1281,12 +1281,13 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       <note>(太田) 原文で強調されているifは訳出する必要があります。そのまま「もし」としました。
 「Preferences → Content」は「オプション→コンテンツ」となっていました (Firefox51.0.1 で確認)。
 
-(伊原) MacのFirefoxだと「環境設定➞コンテンツ」でした…。いったんこっちに合わせておきますね。</note>
+(伊原) MacのFirefoxだと「環境設定➞コンテンツ」でした…。いったんこっちに合わせておきますね。
+➞と思ったんですが、併記することにしました。</note>
       <tuv lang="EN-US">
         <seg>In the example above, &lt;g1&gt;100%&lt;/g1&gt; is equal to &lt;g2&gt;16px&lt;/g2&gt; &lt;g3&gt;if&lt;/g3&gt; the user has not adjusted the font size manually, either in their operating system or browser settings (e.g. under &lt;g4&gt;Preferences → Content&lt;/g4&gt; in Firefox).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170503T134948Z" creationid="yoota" creationdate="20170426T070808Z">
-        <seg>この例の場合、&lt;g3&gt;もし&lt;/g3&gt;ユーザーがオペレーティングシステムやブラウザの設定（たとえばFirefoxの場合は&lt;g4&gt;［環境設定］→［コンテンツ］&lt;/g4&gt;）でフォントサイズを手動で調整していないなら、&lt;g1&gt;100%&lt;/g1&gt;は&lt;g2&gt;16px&lt;/g2&gt;になります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T143744Z" creationid="yoota" creationdate="20170426T070808Z">
+        <seg>この例の場合、&lt;g3&gt;もし&lt;/g3&gt;ユーザーがオペレーティングシステムやブラウザの設定（たとえばFirefoxの場合は&lt;g4&gt;［環境設定（またはオプション）］→［コンテンツ］&lt;/g4&gt;）でフォントサイズを手動で調整していないなら、&lt;g1&gt;100%&lt;/g1&gt;は&lt;g2&gt;16px&lt;/g2&gt;になります。</seg>
       </tuv>
     </tu>
     <tu>
