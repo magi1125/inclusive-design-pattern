@@ -1089,12 +1089,12 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     <tu>
       <note>(太田) LGTM
 
-(伊原) LGTM</note>
+(伊原) LGTM. 兄弟➞兄弟要素と補いました（body直下のmain以外をdisplay:noneするCSSなので）</note>
       <tuv lang="EN-US">
         <seg>If your navigation, header, footer and sidebar (&lt;g2&gt;&lt;aside&gt;&lt;/g2&gt;) regions are correctly made the siblings of &lt;g3&gt;&lt;main&gt;&lt;/g3&gt;, you can target them quite easily with CSS:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T101429Z" creationid="yoota" creationdate="20170501T101429Z">
-        <seg>ナビゲーション、ヘッダー、フッター、サイドバー（&lt;g2&gt;&lt;aside&gt;&lt;/g2&gt;）の領域がきちんと&lt;g3&gt;&lt;main&gt;&lt;/g3&gt;の兄弟になっていれば、CSSでそれらをターゲットに指定するのは非常に簡単です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T194526Z" creationid="yoota" creationdate="20170501T101429Z">
+        <seg>ナビゲーション、ヘッダー、フッター、サイドバー（&lt;g2&gt;&lt;aside&gt;&lt;/g2&gt;）の領域がきちんと&lt;g3&gt;&lt;main&gt;&lt;/g3&gt;の兄弟要素になっていれば、CSSでそれらをターゲットに指定するのは非常に簡単です。</seg>
       </tuv>
     </tu>
     <tu>
