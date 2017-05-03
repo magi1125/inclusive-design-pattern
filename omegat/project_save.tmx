@@ -1087,7 +1087,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) LGTM
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>If your navigation, header, footer and sidebar (&lt;g2&gt;&lt;aside&gt;&lt;/g2&gt;) regions are correctly made the siblings of &lt;g3&gt;&lt;main&gt;&lt;/g3&gt;, you can target them quite easily with CSS:</seg>
       </tuv>
