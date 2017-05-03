@@ -2584,8 +2584,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
       <tuv lang="EN-US">
         <seg>Viewport units present the opportunity to set text that scales with the height (&lt;g1&gt;vh&lt;/g1&gt;) or width (&lt;g2&gt;vw&lt;/g2&gt;) of the viewport.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T092654Z" creationid="yoota" creationdate="20170426T092511Z">
-        <seg>ビューポートを基準とする単位を使えば、ビューポートの高さ（&lt;c0&gt;vh&lt;/c0&gt;）と幅（&lt;c1&gt;vw&lt;/c1&gt;）に合わせてテキストのサイズを調整できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T152225Z" creationid="yoota" creationdate="20170426T092511Z">
+        <seg>ビューポートを基準とする単位を使えば、ビューポートの高さ（&lt;g1&gt;vh&lt;/g1&gt;）と幅（&lt;g2&gt;vw&lt;/g2&gt;）に合わせてテキストのサイズを調整できます。</seg>
       </tuv>
     </tu>
     <tu>
