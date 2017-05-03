@@ -695,7 +695,9 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「慣習」とするべきか?</note>
+      <note>(太田) 「慣習」とするべきか?
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Conventional practice is to describe the page and append author and site information.</seg>
       </tuv>
@@ -850,7 +852,9 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) [Webサイト名] | [検索語句]の検索結果 と [] を補いました。</note>
+      <note>(太田) [Webサイト名] | [検索語句]の検索結果 と [] を補いました。
+
+(伊原) 訳はLGTM。その話とは別に、検索結果のときだけサイト名とページ名が反転するのはなぜだろう？と思いました。</note>
       <tuv lang="EN-US">
         <seg>For example, “Inclusive Design Template | Heydon’s Site.” For a search results page, you should include the search term the user provided; something like, “[Website name] | Search results for [search phrase].”</seg>
       </tuv>
