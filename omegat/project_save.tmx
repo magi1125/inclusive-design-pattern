@@ -745,11 +745,21 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) implicitlyを明示的とするのは誤訳かと。
+
+Essentially, this means you can employ implicitly responsive text without the need for media queries like that of the previous code example.
+本質的に／この方法は／あなたは可能になる／暗黙的にレスポンシブテキストを採用する／メディアクエリを必要とせずに／前のコード例のような
+
+で、何が暗黙的かというと、おそらくメディアクエリを書くよりvh/vwのほうが記述として暗黙的だ、ということなのかなと。
+ただ、記述の見通しのよさについてそこまで言及する必要はなさそうなので、単に「明示的」を取ればいいかなと思いました。
+
+
+</note>
       <tuv lang="EN-US">
         <seg>Essentially, this means you can employ implicitly responsive text without the need for media queries like that of the previous code example.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170425T095452Z" creationid="yoota" creationdate="20170425T095452Z">
-        <seg>つまり、前出のコード例のようなメディアクエリを用いずに、レスポンシブなテキストを明示的に使用できるというわけです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T154617Z" creationid="yoota" creationdate="20170425T095452Z">
+        <seg>つまり、前出のコード例のようなメディアクエリを用いずに、レスポンシブなテキストを使用できるというわけです。</seg>
       </tuv>
     </tu>
     <tu>
