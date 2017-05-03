@@ -2826,12 +2826,14 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) I hear you say. を訳出しました。</note>
+      <note>(太田) I hear you say. を訳出しました。
+
+(伊原) 「私のページの閲覧者」というのが感覚的に引っかかりました。ページ単位というよりも「私のサイトの訪問者」みたいな感じかなと。</note>
       <tuv lang="EN-US">
         <seg>“But my audience is young and hip!” I hear you say.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T065554Z" creationid="yoota" creationdate="20170424T065416Z">
-        <seg>「でも私のページの閲覧者は若くて流行に敏感な人たちだから!」と言う人もいるでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170503T132052Z" creationid="yoota" creationdate="20170424T065416Z">
+        <seg>「でも私のサイトの訪問者は若くて流行に敏感な人たちだから!」と言う人もいるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
