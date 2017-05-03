@@ -1037,6 +1037,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>If your layout breaks badly when a user zooms, &lt;g1&gt;the design&lt;/g1&gt; is at fault, not the user, and removing their ability to zoom is not a solution.</seg>
       </tuv>
@@ -2189,6 +2190,7 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM. こちらもyouがデザイナーとなっていますね。</note>
       <tuv lang="EN-US">
         <seg>The fewer decisions you make for them, the more they can make for themselves.</seg>
       </tuv>
