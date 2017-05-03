@@ -1003,7 +1003,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 英語では2 times 20で2x20と書くほうが自然なのでしょうが、日本語では20×2という表記のほうが自然のように思いますので変更しました。</note>
+      <note>(太田) 英語では2 times 20で2x20と書くほうが自然なのでしょうが、日本語では20×2という表記のほうが自然のように思いますので変更しました。
+
+(伊原) 前のと合わせて、オプション➞環境設定としました。</note>
       <tuv lang="EN-US">
         <seg>If the user has gone to &lt;g3&gt;Settings → Content&lt;/g3&gt; in Firefox and set the default font size to 20px, &lt;g4&gt;2rem&lt;/g4&gt; will mean 2 × 20 — or 40px.</seg>
       </tuv>
