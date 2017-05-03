@@ -2074,7 +2074,9 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
     </tu>
     <tu>
       <note>(太田) それでは→これではとしました。
-不安定なネットワーク→回線が不安定としました。</note>
+不安定なネットワーク→回線が不安定としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>That’s pretty uninclusive of users on temperamental networks.</seg>
       </tuv>
@@ -2651,7 +2653,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。</note>
     </tu>
     <tu>
       <note>(太田) フォントがエンハンスメントなのではなく、エンハンスメントの手法でフォントを扱うという話なので、「エンハンスメントとして処理」→「エンハンスメントで処理」としました。
-</note>
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Web fonts are typically large assets which should be treated as an enhancement.</seg>
       </tuv>
