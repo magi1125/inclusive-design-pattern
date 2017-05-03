@@ -2272,7 +2272,17 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
-      <note>(太田)</note>
+      <note>(太田)
+
+(伊原) この記事に対して、「html要素にrem指定したら初期値を見に行くんだから、safariの挙動は別におかしくない（というかbodyに指定したらいいじゃん）」と言っている人が居ます。
+https://alastairc.ac/2017/04/px-em-or-rem-media-queries-different-conclusion/
+
+確かに確認するとそのように書かれています。
+https://www.w3.org/TR/css3-values/#rem
+rem unit
+Equal to the computed value of font-size on the root element. When specified on the font-size property of the root element, the rem units refer to the property’s initial value.
+
+もう少し詳しく見て要訳注かも。</note>
       <tuv lang="EN-US">
         <seg>The rem unit causes problems in Safari, as “&lt;g2&gt;&lt;g3&gt;PX, EM or REM Media Queries?&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;5&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;” by Zell Liew attests.)</seg>
       </tuv>
