@@ -1497,7 +1497,9 @@ must ではなく should なので「べき」としました。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) たぶん誤訳で、ちょっと補ってこういうことかなと思います。</note>
+      <note>(太田) たぶん誤訳で、ちょっと補ってこういうことかなと思います。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>It’s what ends up in the compiled CSS, parsable by browsers, that counts.</seg>
       </tuv>
