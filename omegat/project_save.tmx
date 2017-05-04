@@ -2589,12 +2589,12 @@ Equal to the computed value of font-size on the root element. When specified on 
 
 (伊原) 「改行位置」は一般的には折り返しが発生する右端を指しますが、原文では「行が異なる場所に折り返される」と、行の位置が変わることも含めて言っているようです（実際、行間だけが変わっているケースなどはけっこうあります）。なのでそのようにしてみました。
 
-(太田) 「行が異なる場所に折り返される」は直訳としては正しいですが日本語としてはちょっとわからないかも。大幅に</note>
+(太田) 「行が異なる場所に折り返される」は直訳としては正しいですが日本語としてはちょっとわからないかも。大幅に補いつつ大幅に意訳してみましたがどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>This is due to one font being intrinsically larger or smaller than the other, causing lines to wrap in different places.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170504T035859Z" creationid="yoota" creationdate="20170428T111235Z">
-        <seg>それぞれのフォントの大きさが異なると、行の高さや改行位置が変わってしまうためです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170504T035935Z" creationid="yoota" creationdate="20170428T111235Z">
+        <seg>それぞれのフォントの大きさが異なると、行の高さや改行位置が変わり、行送りが変化するためです。</seg>
       </tuv>
     </tu>
     <tu>
