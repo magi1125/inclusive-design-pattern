@@ -2593,8 +2593,8 @@ Equal to the computed value of font-size on the root element. When specified on 
       <tuv lang="EN-US">
         <seg>This is due to one font being intrinsically larger or smaller than the other, causing lines to wrap in different places.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170504T035954Z" creationid="yoota" creationdate="20170428T111235Z">
-        <seg>それぞれのフォントの大きさが異なると、行の高さや改行位置が変わり、行の折り返しが変化するためです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170504T040019Z" creationid="yoota" creationdate="20170428T111235Z">
+        <seg>それぞれのフォントの大きさが異なると、行の折り返し位置が変化するためです。</seg>
       </tuv>
     </tu>
     <tu>
