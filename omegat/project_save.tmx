@@ -1932,6 +1932,22 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Lines that are too long are difficult to read because, on reaching the end of the line, scanning back to find the start of the following line becomes problematic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T084052Z" creationid="yoota" creationdate="20170510T084052Z">
+        <seg>行が長すぎると、行末まで読んだ後、次行の行頭を探すのが大変になるため読みにくくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lines that are too short require darting your eyes back and forth too frequently — something that becomes tiresome quickly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T084159Z" creationid="yoota" creationdate="20170510T084159Z">
+        <seg>また、行が短すぎると、視線を頻繁に素早く往復させなくてはならなくなります――読む人はすぐに疲れてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「ブレイクポイントを配置する」は日本語としてちょっと違和感があります。ここの locate は場所を決めるくらいの意味と思われ、「設計する」「検討する」くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>Locating content breakpoints is easy using Firefox’s &lt;a0&gt;&lt;s1&gt;responsive design mode&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;3&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;.</seg>
