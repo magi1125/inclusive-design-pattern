@@ -657,6 +657,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As a result, they alienated the majority of dyslexic readers as well as creating a “clunky and difficult to read” font for everyone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T073136Z" creationid="yoota" creationdate="20170510T073136Z">
+        <seg>この結果、彼らはディスレクシアの読者の大部分を疎外しただけではなく、誰にとっても「不格好で読みにくい」フォントを作ってしまったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「要素の位置を固定する」は原文では「位置固定の要素を使うのを避ける」で微妙にニュアンスが違います。</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, avoid using positioned elements, especially with &lt;c1&gt;position: fixed&lt;/c1&gt;.</seg>
@@ -862,6 +870,14 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T093916Z" creationid="yoota" creationdate="20170425T093004Z">
         <seg>CSSプリプロセッサでremをピクセルに変換するという過ちを犯さないように注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don’t Buy Into The Hype&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;7&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;,” the creator of the Lucida typeface, Chuck Bigelow, corroborates these findings with his own research.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T073238Z" creationid="yoota" creationdate="20170510T073238Z">
+        <seg>Don’t Buy Into The Hype&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注20）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;」で、自身の研究により、この発見を確証しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1480,6 +1496,14 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T071929Z" creationid="yoota" creationdate="20170501T070204Z">
         <seg>CSSのフォントスタックの仕組みでは、最優先フォントでサポートされていない文字はフォールバックによって補われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the article “&lt;g7&gt;&lt;g8&gt;A Typeface For Dyslexics?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T073218Z" creationid="yoota" creationdate="20170510T073218Z">
+        <seg>Lucida書体の作成者であるチャック・ビゲロウ（Chuck Bigelow）は、ブログ記事「&lt;g7&gt;&lt;g8&gt;ATypefaceForDyslexics?</seg>
       </tuv>
     </tu>
     <tu>
