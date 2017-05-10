@@ -2066,12 +2066,13 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       <note>(太田) 原文にあった [] を「」として補いました。
 原文のダッシュを括弧に変えていただいていましたが、意味が違ってくるおそれがあるのでダッシュのままとしました。
 ダッシュ内ですが、「読み書きが困難な人には補足的な価値がある」という話ではなく、「読み書きが困難な人のためになるという補足的な価値がある」という話をしているものと思います (ヘイドンさんの文はどちらともとれるがG103 http://waic.jp/docs/WCAG-TECHS/G103 などを意識した話のはず)。
-learn better visually は「視覚からの方が情報を受け取りやすい人」とされていますが、情報を受け取るというより、文字通り学ぶ話だと思います。力強く意訳して「学習障害のある人」みたいなほうが分かりやすくはあるのかもしれません。</note>
+learn better visually は「視覚からの方が情報を受け取りやすい人」とされていますが、情報を受け取るというより、文字通り学ぶ話だと思います。
+力強く意訳して「学習障害のある人」みたいなほうが分かりやすくはあるのかもしれません。</note>
       <tuv lang="EN-US">
         <seg>Some say [a picture paints a thousand words], but I prefer the contrary expression: "“Never send a picture to do the job of words.” Text is the most direct and efficient way of communicating information and — though imagery and other media have supplemental value for those who learn better visually or have literacy issues — it should be treated as &lt;g1&gt;primary&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T051616Z" creationid="yoota" creationdate="20170510T045951Z">
-        <seg>「一枚の絵は千の言葉に値する」と言う人もいますが、私はその反対の「絵に言葉の仕事をさせてはならない」という表現の方が好きです。テキストは、情報を伝えるのに最も直接的で効果的な方法であり――ただし、学習障害のある人や読み書きが困難な人にとっては、画像やその他の媒体にも価値がありますが――、第一の手段として扱うべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T051704Z" creationid="yoota" creationdate="20170510T045951Z">
+        <seg>「一枚の絵は千の言葉に値する」と言う人もいますが、私はその反対の「絵に言葉の仕事をさせてはならない」という表現の方が好きです。テキストは、情報を伝えるのに最も直接的で効果的な方法であり――ただし、学習障害のある人や読み書きが困難な人にとっては、画像やその他の媒体にはテキストにない価値がありますが――、第一の手段として扱うべきです。</seg>
       </tuv>
     </tu>
     <tu>
