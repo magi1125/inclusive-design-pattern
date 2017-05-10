@@ -735,6 +735,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Bearing this in mind, no container of text in your layout should exceed your stated measure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T093401Z" creationid="yoota" creationdate="20170510T093401Z">
+        <seg>これを念頭に置いて、レイアウト内のテキストのコンテナは、指定したカラム幅よりも小さくすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(画像alt)
 
 (伊原) 下訳を入れました。</note>
@@ -1038,6 +1046,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T083357Z" creationid="yoota" creationdate="20170420T083304Z">
         <seg>たとえば、英語のページの中でフランス語を引用したい場合は、以下のようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, your &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; element should be set with an appropriate &lt;g2&gt;max-width&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T093411Z" creationid="yoota" creationdate="20170510T093411Z">
+        <seg>たとえば、&lt;main&gt;要素は、適切なmax-widthで設定します。</seg>
       </tuv>
     </tu>
     <tu>
