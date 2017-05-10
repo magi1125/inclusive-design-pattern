@@ -1770,6 +1770,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Nonetheless, it is entirely possible to design an excruciatingly unreadable font which is technically sans serif.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T055352Z" creationid="yoota" creationdate="20170510T055352Z">
+        <seg>しかし、技術的にはサンセリフであっても、耐えがたいほど読みにくいフォントをデザインすることも十分可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) スムーズとは言っていないようなので、容易にとしました。</note>
       <tuv lang="EN-US">
         <seg>Not only does it make the page more indexable by search engines, but it also becomes easier to translate by users operating third-party tools such as Google’s &lt;a0&gt;&lt;s1&gt;Translate API&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;2&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;.</seg>
@@ -1848,12 +1856,13 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) ここのsupportedは裏付けがあるのではなく、支持されているという意味かと思います。</note>
+      <note>(太田) ここのsupportedは裏付けがあるのではなく、支持されているという意味かと思います。
+「セリフフォント」「サンセリフフォント」は字面が見づらいので「セリフ書体」「サンセリフ書体」としたほうが読みやすいかも。</note>
       <tuv lang="EN-US">
         <seg>One well-supported claim is that sans serif fonts are more readable than serif ones.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T055339Z" creationid="yoota" creationdate="20170510T054950Z">
-        <seg>よく支持されている意見の1つは、セリフフォントよりサンセリフフォントの方が読みやすいというものです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T055456Z" creationid="yoota" creationdate="20170510T054950Z">
+        <seg>よく支持されている意見の1つは、セリフ書体よりサンセリフ書体の方が読みやすいというものです。</seg>
       </tuv>
     </tu>
     <tu>
