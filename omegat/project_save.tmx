@@ -1088,6 +1088,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>However, it’s important not to think about extreme cases in isolation and to target specific groups.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T073008Z" creationid="yoota" creationdate="20170510T073008Z">
+        <seg>しかし、極端なケースを分離して考えないこと、そして特定のグループをターゲットにしないことが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「読み込み後」は原文もそうなので正しいのですが、この問題のポイントは読み込まれた瞬間に一気に切り替わってしまうことなので、少し補って「読み込まれたタイミングで」としました。
 
 (伊原) LGTM</note>
@@ -1238,6 +1246,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 太田: OmegaTでチーム編集するテスト</note>
       <tuv lang="EN-US">
         <seg>Imprint | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;g1&gt;&lt;g2&gt;an experimental study carried out in Spain&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;6&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (PDF) which investigated the readability of different fonts to dyslexic people, a typeface designed &lt;g6&gt;specifically for&lt;/g6&gt; dyslexic readers performed very poorly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T073034Z" creationid="yoota" creationdate="20170510T073034Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;スペインで実施された、ディスレクシアの人々に対する各種フォントの読みやすさを調査した実験的研究&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注19）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;（PDF）では、ディスレクシアの読者専用にデザインされた書体の成績が非常に悪いという結果になりました。</seg>
       </tuv>
     </tu>
     <tu>
