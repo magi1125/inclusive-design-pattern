@@ -8,7 +8,8 @@
 訳注:
 ここで言う「気が散る」は、単に邪魔に思うという話ではありません。WCAG 2.0の達成基準2.2.2「一時停止、停止、非表示」では、動きがあったり点滅したりするコンテンツに気を取られてしまい、それ以外の部分に集中するのが困難になってしまうユーザーが存在することを指摘しています。そのようなユーザーは、動いたり点滅したりする要素を視界の外に出さないとコンテンツを読むことができません。
 
-参考:「一時停止、停止、非表示: 達成基準 2.2.2 を理解する」
+参考:
+「一時停止、停止、非表示: 達成基準 2.2.2 を理解する」
 http://waic.jp/docs/UNDERSTANDING-WCAG20/time-limits-pause.html
 
 
@@ -35,6 +36,9 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
 >DOCTYPEでドキュメントの種類をブラウザに伝えたら（HTML5なら上の例のようになります）、次は<html>要素のlang属性でドキュメントの言語を指定します。
 訳注:
 厳密には、HTML5のDOCTYPEは文書の種類を伝えるためのものではありません。HTML4までのHTMLはSGMLベースのマークアップ言語だったため、SGMLのルールにより、冒頭に文書型宣言 (Document type declaration) を書いて文書の種類を宣言する必要がありました。しかしHTML5はもはやSGMLではありません。HTML5でも文書の先頭にDOCTYPEを書きますが、これはSGMLの文書型宣言ではなく、DOCTYPEを見て挙動を変えるブラウザとの互換性のために書いているに過ぎません。そのため、仕様でも "Document type declaration" ではなく、単に "DOCTYPE" と呼ばれています。
+
+参考:
+HTML Living Standard - 12.1.1 The DOCTYPE
 https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 
 
@@ -73,6 +77,7 @@ http://waic.jp/news/20130422.html
 訳注: 
 CSSには「カスケード」と呼ばれる仕組みがあり、著者(Author, コンテンツ制作者)、ユーザー、ユーザーエージェントの三者がそれぞれスタイルを定義することができます。コンテンツ制作者がCSSを用意していない場合、ブラウザ側が用意しているスタイルがそのまま使われます。また、それらに加えて、ユーザーが独自のスタイルを定義することもできます。
 
+参考:
 CSS Cascading and Inheritance Level 3 - 6.1. Cascading Origins
 http://www.w3.org/TR/css3-cascade/#cascading-origins
 
