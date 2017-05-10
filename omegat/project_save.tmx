@@ -1904,6 +1904,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>None of our users is like the average user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T072042Z" creationid="yoota" creationdate="20170510T072042Z">
+        <seg>ユーザーの誰もが平均的ユーザーとは異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) technically sans serif はどういう意味なのか。</note>
       <tuv lang="EN-US">
         <seg>Nonetheless, it is entirely possible to design an excruciatingly unreadable font which is technically sans serif.</seg>
@@ -2729,6 +2737,15 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, when designing for that artificial individual we create something that doesn’t fit anyone’s needs.” – “&lt;g1&gt;&lt;g2&gt;Designing for the extremes&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;4&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” Susana Gonzalez Ruiz</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T072046Z" creationid="yoota" creationdate="20170510T072046Z">
+        <seg>この作り出された個人に合わせてデザインするということは、誰のニーズにも合わないものを作っているということです」
+—「Designing for the extremes」、スサーナ・ゴンザレス・ルイス（Susana Gonzalez Ruiz）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) compatible をどうするか。元役は支援技術対応としていますが、支援技術だけに対応するわけではなく、支援技術に対しても互換性があるラベルです。「支援技術とも互換性のあるラベル」
 
 (伊原) LGTM</note>
@@ -3040,6 +3057,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170502T101913Z" creationid="yoota" creationdate="20170420T112012Z">
         <seg>著者側のCSSがなければ、Webページはこのようにふるまいます。CSSを含める場合でも、この基本的なふるまいを尊重すべきでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What we get is, in fact, a completely different user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T071945Z" creationid="yoota" creationdate="20170510T071945Z">
+        <seg>実際に得られるのは、まったく異なるユーザーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3359,6 +3384,14 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       <tuv lang="JA" changeid="rikiha" changedate="20170503T200953Z" creationid="yoota" creationdate="20170501T112108Z">
         <seg>開発者の作業しやすさより、ユーザーのニーズの方が重要だと私は思う。
 — ポール・ルイス（Paul Lewis）（脚注15）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“The average user is created from the combination of all users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T071935Z" creationid="yoota" creationdate="20170510T071935Z">
+        <seg>「平均的なユーザーは、すべてのユーザーを組み合わせて作られます。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
