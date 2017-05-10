@@ -1498,6 +1498,14 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In text that isn’t justified (see “Justification” below) this will vary, so you should measure the longest line of a sample paragraph.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T080044Z" creationid="yoota" creationdate="20170510T080044Z">
+        <seg>行端揃えされていないテキスト（下の「行端揃え」を参照）では、これはバラバラになります。このため、サンプルパラグラフの最も長い行の幅を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) CCS Font Stack をどうするか。
 言っていることは分かるが日本語でそのままカタカナでOK?
 カタカナ書きしているサイトはあるが少ないかも。
@@ -1586,6 +1594,9 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+訳語参考:
+http://waic.jp/docs/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation.html</note>
       <tuv lang="EN-US">
         <seg>Inclusive typesetting aids readability and is the task of choosing a measure, justification and leading which suit the typeface at hand.</seg>
       </tuv>
