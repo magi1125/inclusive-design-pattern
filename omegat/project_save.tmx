@@ -486,11 +486,12 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「効果がありました」を少し補って「読みやすさにつながります」としました。</note>
       <tuv lang="EN-US">
         <seg>A &lt;g8&gt;d&lt;/g8&gt; and &lt;g9&gt;b&lt;/g9&gt; which were &lt;g10&gt;not&lt;/g10&gt; an exact mirror image of one another also helped, as well as a clear distinction between an uppercase &lt;g11&gt;I&lt;/g11&gt;, lowercase &lt;g12&gt;l&lt;/g12&gt; and &lt;g13&gt;1&lt;/g13&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T062010Z" creationid="yoota" creationdate="20170510T062010Z">
-        <seg>また、dとbが完璧な鏡文字ではないこと、大文字のI、小文字のl、1がはっきりと区別されていることにも効果がありました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T063804Z" creationid="yoota" creationdate="20170510T062010Z">
+        <seg>また、&lt;g8&gt;d&lt;/g8&gt;と&lt;g9&gt;b&lt;/g9&gt;が完璧な鏡文字では&lt;g10&gt;ない&lt;/g10&gt;こと、大文字の&lt;g11&gt;I&lt;/g11&gt;と小文字の&lt;g12&gt;l&lt;/g12&gt;と数字の&lt;g13&gt;1&lt;/g13&gt;がはっきりと区別されていることも読みやすさにつながります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,11 +1007,12 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「好評」は日本語としてすこし違和感があります。「読みやすい」としました。</note>
       <tuv lang="EN-US">
         <seg>Generous ascenders (e.g. the vertical line in &lt;g6&gt;d&lt;/g6&gt;) and descenders (e.g. the down-pointing line in &lt;g7&gt;y&lt;/g7&gt;) proved popular among dyslexic readers in their research.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T062023Z" creationid="yoota" creationdate="20170510T062004Z">
-        <seg>彼らの研究では、アセンダ（&lt;g6&gt;d&lt;/g6&gt;の縦線など）とディセンダ（&lt;g7&gt;y&lt;/g7&gt;の下向きの線など）が大きい方が、ディスレクシア（難読症）の人たちに好評であることが分かりました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T063637Z" creationid="yoota" creationdate="20170510T062004Z">
+        <seg>彼らの研究では、アセンダ（&lt;g6&gt;d&lt;/g6&gt;の縦線など）とディセンダ（&lt;g7&gt;y&lt;/g7&gt;の下向きの線など）が大きい方が、ディスレクシア（難読症）の人たちにとって読みやすいことが分かりました。</seg>
       </tuv>
     </tu>
     <tu>
