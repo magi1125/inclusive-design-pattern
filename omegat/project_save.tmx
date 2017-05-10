@@ -439,6 +439,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Although sans serif fonts are generally thought to be more readable, their simplicity makes them more vulnerable to having similar letterforms.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T064324Z" creationid="yoota" creationdate="20170510T064324Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;サンセリフフォントは一般に読みやすいと考えられていますが、簡素であるため、似た字形になりやすいという特徴があります。&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM. &lt;x1/&gt;&lt;x2/&gt;は&lt;img/&gt;&lt;br/&gt;ぽい。
 
 (伊原) LGTM
@@ -1468,7 +1476,7 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       </tuv>
     </tu>
     <tu>
-      <note>画像aly</note>
+      <note>画像alt</note>
       <tuv lang="EN-US">
         <seg>In the first set they are not a mirror image.</seg>
       </tuv>
