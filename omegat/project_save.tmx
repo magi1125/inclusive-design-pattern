@@ -1310,7 +1310,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 原文は lowercase m と言っていますがemの元々の意味は大文字Mの大きさのはずで、実際にもほとんどのケースで1emは小文字mより大文字Mの幅に近くなるように思います。</note>
+      <note>(太田) 原文は lowercase m と言っていますがemの元々の意味は大文字Mの大きさのはずで、実際にもほとんどのケースで1emは小文字mより大文字Mの幅に近くなるように思います。
+(参考: https://en.wikipedia.org/wiki/Em_(typography))</note>
       <tuv lang="EN-US">
         <seg>In CSS, 1rem roughly corresponds to the width of the typeface’s lowercase &lt;g2&gt;m&lt;/g2&gt;, so a paragraph which is 60rem wide could be said to have a measure of 60 — nicely within range for comfort.</seg>
       </tuv>
