@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -452,6 +452,14 @@ font-size: 16px;
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T111842Z" creationid="yoota" creationdate="20170501T111822Z">
         <seg>フレームワーク、プリプロセッサ、タスクランナーについての注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Paragraph</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T045341Z" creationid="yoota" creationdate="20170510T045341Z">
+        <seg>パラグラフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1686,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T050848Z" creationid="yoota" creationdate="20170418T103159Z">
         <seg>その場合、レイアウトやインタラクションが不安定になることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s start small.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T045421Z" creationid="yoota" creationdate="20170510T045421Z">
+        <seg>まずは小さなところから。</seg>
       </tuv>
     </tu>
     <tu>
