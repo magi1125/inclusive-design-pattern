@@ -2322,6 +2322,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The Typeface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T054914Z" creationid="yoota" creationdate="20170510T054914Z">
+        <seg>書体</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 元訳では単に「名前」となっていましたが、accessible name です。
 いったん「アクセシブルな名前 (name)」と置きました。要検討。
 ここでは指定方法の話をしているのではなく、titleで指定されたものが名前(name)として扱われると言っているものと思います。
