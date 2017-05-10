@@ -557,6 +557,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A paragraph’s measure is the length, in characters, of one line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T074944Z" creationid="yoota" creationdate="20170510T074944Z">
+        <seg>パラグラフのカラム幅は1行の長さ（文字数）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「&lt;main&gt;で」を「&lt;main&gt;の中で」としました。</note>
       <tuv lang="EN-US">
         <seg>A products page would describe the products within &lt;g6&gt;&lt;main&gt;&lt;/g6&gt;.</seg>
@@ -1940,6 +1948,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T040156Z" creationid="yoota" creationdate="20170426T040156Z">
         <seg>アセットの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T074940Z" creationid="yoota" creationdate="20170510T074940Z">
+        <seg>カラム幅</seg>
       </tuv>
     </tu>
     <tu>
