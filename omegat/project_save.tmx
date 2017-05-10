@@ -2065,9 +2065,9 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
     <tu>
       <note>(太田) 原文にあった [] を「」として補いました。
 原文のダッシュを括弧に変えていただいていましたが、意味が違ってくるおそれがあるのでダッシュのままとしました。
-ダッシュ内ですが、「読み書きが困難な人には補足的な価値がある」という話ではなく、「読み書きが困難な人のためになるという補足的な価値がある」という話をしているものと思います (ヘイドンさんの文はどちらともとれるがG103 http://waic.jp/docs/WCAG-TECHS/G103 などを意識した話のはず)。
+ダッシュ内ですが、「読み書きが困難な人には補足的な価値がある」という話ではなく、「読み書きが困難な人のためになるという価値がある」という話をしているものと思います (ヘイドンさんの文はどちらともとれるがG103 http://waic.jp/docs/WCAG-TECHS/G103 などを意識した話のはず)。supplemental valueは直訳すると追加の価値で、ここでは「テキストにはない独自の価値」という意味で使われているものと思います。
 learn better visually は「視覚からの方が情報を受け取りやすい人」とされていますが、情報を受け取るというより、文字通り学ぶ話だと思います。
-力強く意訳して「学習障害のある人」みたいなほうが分かりやすくはあるのかもしれません。</note>
+力強く意訳して「学習障害のある人や読み書きが困難な人にとっては、画像やその他の媒体にはテキストにない価値があります」くらいにしてしまったほうが分かりやすくなるかもしれません。</note>
       <tuv lang="EN-US">
         <seg>Some say [a picture paints a thousand words], but I prefer the contrary expression: "“Never send a picture to do the job of words.” Text is the most direct and efficient way of communicating information and — though imagery and other media have supplemental value for those who learn better visually or have literacy issues — it should be treated as &lt;g1&gt;primary&lt;/g1&gt;.</seg>
       </tuv>
