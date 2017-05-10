@@ -2541,6 +2541,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>There is a lot of conflicting advice on what the characteristics of a readable body text typeface should be.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T054926Z" creationid="yoota" creationdate="20170510T054926Z">
+        <seg>読みやすい本文テキストの書体の特徴については、相反する意見が多数あります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>There is a rationale for reasonably large defaults: anything else risks alienating a huge swath of users, many from older populations whose eyesight has deteriorated.</seg>
