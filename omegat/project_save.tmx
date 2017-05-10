@@ -1752,6 +1752,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Kerning (the spacing between characters) benefited from being reasonably generous, particularly between &lt;g14&gt;r&lt;/g14&gt; and &lt;g15&gt;n&lt;/g15&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T063833Z" creationid="yoota" creationdate="20170510T063833Z">
+        <seg>カーニング（文字間のスペース）は、特に&lt;g14&gt;r&lt;/g14&gt;と&lt;g15&gt;n&lt;/g15&gt;の間では適度な間隔を空けた方が読みやすくなり、</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) レイアウトのエラーというのは日本語として変な感じがします。直訳すると、「レイアウトとインタラクションが誤りやすい予測できない状態になりうる」ということで、ひっくるめて「不安定になる」くらいかなと思います。
 
 (伊原) LGTM. 「の動作」はトリでもいいかも？とは思いました。
