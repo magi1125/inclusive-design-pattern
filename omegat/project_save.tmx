@@ -1679,6 +1679,14 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It would appear that the typeface designers, though well-meaning, made some generalizations about the target audience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T073105Z" creationid="yoota" creationdate="20170510T073105Z">
+        <seg>書体デザイナーが、良かれと思ってターゲットの読者についてある種の一般化を行ったと考えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) とても分かりにくい文章ですが、印刷結果をPDF出力して保存すればオフラインになっても読めるよ、という話ですね。補って訳してみました。
 
 (伊原) LGTM</note>
