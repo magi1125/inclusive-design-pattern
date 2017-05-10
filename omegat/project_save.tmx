@@ -1848,6 +1848,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>One well-supported claim is that sans serif fonts are more readable than serif ones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T054950Z" creationid="yoota" creationdate="20170510T054950Z">
+        <seg>十分に裏付けがある意見の1つに、セリフフォントよりサンセリフフォントの方が読みやすいというものがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 何を言っているのか良くわからないのでちょっと保留。
 modular, often dynamic content は直訳すると「組み立て式の、しばしばダイナミックなコンテンツ」で、要するにナビとかではなくページごとに変わるコンテンツのことを言っているのだと思います。
 
@@ -2541,11 +2549,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
+      <note>(太田) まちがってはいませんがいかにも直訳っぽい文章だったので少し砕いてみました。
+
+</note>
       <tuv lang="EN-US">
         <seg>There is a lot of conflicting advice on what the characteristics of a readable body text typeface should be.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T054926Z" creationid="yoota" creationdate="20170510T054926Z">
-        <seg>読みやすい本文テキストの書体の特徴については、相反する意見が多数あります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T055159Z" creationid="yoota" creationdate="20170510T054926Z">
+        <seg>本文テキストをどのような書体にすると読みやすいかについては、相反する意見が多数あります。</seg>
       </tuv>
     </tu>
     <tu>
