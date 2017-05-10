@@ -2574,6 +2574,15 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
+      <note>(太田)  around an applicationが訳から落ちているように思いましたので「アプリケーションの」を補いました。</note>
+      <tuv lang="EN-US">
+        <seg>This applies whether you’re in the business of publishing lengthy, florid prose or dotting isolated descriptions and messages around an application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T052442Z" creationid="yoota" creationdate="20170510T052442Z">
+        <seg>これは、長々とした美辞麗句の多い散文を公開する場合でも、アプリケーションの使い方に関する個々の説明やメッセージを点々と記述する場合でも当てはまります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)「後押し」は要検討。
 
 (伊原) 視覚方面の構成要素ではあるので、支持する、とかでしょうか。
