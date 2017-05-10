@@ -127,7 +127,7 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 原文は一文なので一文にしました。</note>
+      <note>(太田) 原文は一文なので一文にしました。distinctは識別できるというより区別できるという感じでしょうか。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Are individual letterforms distinct in shape or can they be confused with others?</seg>
       </tuv>
@@ -150,6 +150,14 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T055921Z" creationid="yoota" creationdate="20170510T055921Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt; 理解の邪魔になる装飾がないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Does the typeface support all of the characters and font styles that are needed?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170510T060454Z" creationid="yoota" creationdate="20170510T060454Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt; その書体は、必要とされるすべての文字とフォントスタイルをサポートしているか？</seg>
       </tuv>
     </tu>
     <tu>
