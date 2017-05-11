@@ -781,13 +781,13 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
     </tu>
     <tu>
       <note>(太田) 原文で強調されている and は訳出する必要がありそうです。
-passes muster は「検閲をパスする」というヘイドンフレーズです。
+passes muster は「検閲をパスする」というヘイドンフレーズです。ひとまず「対象になります」としておきました。
 </note>
       <tuv lang="EN-US">
         <seg>Any link &lt;g1&gt;href&lt;/g1&gt; which begins with &lt;g2&gt;http&lt;/g2&gt; (i.e. is not a relative link) &lt;g3&gt;and&lt;/g3&gt; does not link to the current domain passes muster.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T105011Z" creationid="yoota" creationdate="20170511T104711Z">
-        <seg>&lt;g1&gt;href&lt;/g1&gt;の値が&lt;g2&gt;http&lt;/g2&gt;で始まり（つまり相対リンクではない）、&lt;g3&gt;かつ&lt;/g3&gt;、現在のドメインにリンクしていないすべてのリンクが検閲をパスします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T105115Z" creationid="yoota" creationdate="20170511T104711Z">
+        <seg>&lt;g1&gt;href&lt;/g1&gt;の値が&lt;g2&gt;http&lt;/g2&gt;で始まり（つまり相対リンクではない）、&lt;g3&gt;かつ&lt;/g3&gt;、現在のドメインにリンクしていないすべてのリンクが対象になります。</seg>
       </tuv>
     </tu>
     <tu>
