@@ -3202,6 +3202,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This results in a ragged right-hand side to your paragraphs, but users won’t care.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T055712Z" creationid="yoota" creationdate="20170511T055712Z">
+        <seg>この結果、パラグラフの右側は不揃いになりますが、ユーザーには気にならないでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) thisは文書型宣言ではなく、「HTMLが文書であるという事実」ではないかと思います。
 This serves as an important reminderは直訳すると「このことは重要なリマインダーとなる」ということですが、もう少し砕いて訳したい感もあります。
 
