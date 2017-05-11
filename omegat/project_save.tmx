@@ -819,6 +819,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Be wary, though, of older browsers that do not support gradient backgrounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T092437Z" creationid="yoota" creationdate="20170511T092437Z">
+        <seg>ただし、グラデーション背景をサポートしていない古いブラウザには注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「小さくする」のではなく「超えないようにする」ということだと思います。下の例ではmax-widthを指定していますし。
 in your layout は直訳すれば「あなたのレイアウトの中で」ですが、「レイアウトする」と訳すのが良いように思います。</note>
       <tuv lang="EN-US">
@@ -3507,6 +3515,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T074913Z" creationid="yoota" creationdate="20170510T074913Z">
         <seg>ビゲロウなどによると、これらの対策はフォントの選択よりもさらに大切であるようです（もちろん涙が出るほど読みにくいフォントでなければの話です）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These should have a &lt;g4&gt;text-decoration&lt;/g4&gt; fallback:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T092537Z" creationid="yoota" creationdate="20170511T092441Z">
+        <seg>古いブラウザには、以下のように&lt;g4&gt;text-decoration&lt;/g4&gt;のフォールバックで対応するべきでしょう。</seg>
       </tuv>
     </tu>
     <tu>
