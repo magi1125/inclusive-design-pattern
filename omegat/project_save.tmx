@@ -1899,6 +1899,14 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It is advisable to slightly temper the contrast between your paragraph text and background color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T073103Z" creationid="yoota" creationdate="20170511T073103Z">
+        <seg>パラグラフのテキストと背景の色のコントラストは、少し控えめにすることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 子属性とは!?
 body内のの子要素にlang属性を、ですね。</note>
       <tuv lang="EN-US">
