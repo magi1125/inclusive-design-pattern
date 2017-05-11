@@ -3263,7 +3263,10 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) ここのlibraryはライブラリ? 辞書?</note>
+      <note>(太田) ここのlibraryはライブラリ? 辞書?
+→言語ごとのハイフネーションルールがJSに書かれているものっぽい。
+https://github.com/mnater/Hyphenator/tree/master/patterns
+</note>
       <tuv lang="EN-US">
         <seg>To make matters worse, &lt;g7&gt;&lt;g8&gt;JavaScript polyfills&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;9&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; for hyphenation tend to be extremely weighty because they must refer to a large library of agreed hyphenation patterns.</seg>
       </tuv>
