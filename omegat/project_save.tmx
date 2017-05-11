@@ -191,6 +191,14 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Make sure the element is focusable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T100238Z" creationid="yoota" creationdate="20170511T100238Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt; 要素をフォーカス可能にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) テキストが大きい→テキストを大きくする、としました (ユーザーによるズームの話ですので)。
 コピー／ペーストは日本では一般的に「コピー&amp;ペースト」と言われるように思います。
 
@@ -1009,6 +1017,14 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T092219Z" creationid="yoota" creationdate="20170511T092219Z">
         <seg>テキストシャドウのおかげでアンダーラインはディセンダの上を通らず、まるで堀が城を護っているかのように文字が保護されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Designing inclusively is to support as many of these as possible and provide alternative content and interaction mechanisms where this isn’t possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T100211Z" creationid="yoota" creationdate="20170511T100211Z">
+        <seg>インクルーシブなデザインの目的は、これらをできるだけ広くサポートし、それが不可能な場合には、代替のコンテンツやインタラクションメカニズムを提供することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2451,6 +2467,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T061035Z" creationid="yoota" creationdate="20170426T061035Z">
         <seg>コンテンツブレイクポイントを検討する際は、Firefoxの&lt;g1&gt;&lt;g2&gt;レスポンシブデザインモード&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注6）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;が便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Making an element keyboard-accessible is quite straightforward:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T100225Z" creationid="yoota" creationdate="20170511T100225Z">
+        <seg>キーボードで要素にアクセスできるようにするのは、非常に簡単です。</seg>
       </tuv>
     </tu>
     <tu>
