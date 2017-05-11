@@ -3047,6 +3047,12 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <note>画像alt</note>
+      <tuv lang="EN-US">
+        <seg>The left one has a comfortable line height.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文にない括弧を補うのはできるだけ避けたいです。語順を変えて調整しました。
 
 (伊原) LGTM</note>
@@ -3102,6 +3108,12 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T105245Z" creationid="yoota" creationdate="20170420T105127Z">
         <seg>このとき、レスポンシブデザインモードのインターフェイスに現在のサイズが表示されるため、これを記録すれば、そのブレイクポイントが分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>画像alt</note>
+      <tuv lang="EN-US">
+        <seg>The right one has the same line height but with larger letterforms, forcing each line to overlap.</seg>
       </tuv>
     </tu>
     <tu>
