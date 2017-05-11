@@ -1390,6 +1390,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In CSS this can be expressed using the &lt;g6&gt;line-height&lt;/g6&gt; property.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T063215Z" creationid="yoota" creationdate="20170511T063215Z">
+        <seg>CSSでは、これは&lt;g6&gt;line-height&lt;/g6&gt;プロパティを使用して表すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注アリ
 
 (太田) 原文は lowercase m と言っていますがemの元々の意味は大文字Mの大きさのはずで、実際にもほとんどのケースで1emは小文字mより大文字Mの幅に近くなるように思います。
