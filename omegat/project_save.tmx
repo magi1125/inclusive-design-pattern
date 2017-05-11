@@ -1984,6 +1984,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Justification means making each line the same length, which makes paragraphs look neater but can severely impair readability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T050543Z" creationid="yoota" creationdate="20170511T050543Z">
+        <seg>行端揃えとは、各行を同じ長さにすることを意味します。これによりパラグラフの見た目はすっきりしますが、読みやすさは大きく損なわれる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Justification, possible by setting &lt;g1&gt;text-align: justify;&lt;/g1&gt; in your CSS, is generally considered bad practice for web content.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T050529Z" creationid="yoota" creationdate="20170511T050529Z">
