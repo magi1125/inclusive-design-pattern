@@ -1009,11 +1009,12 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 括弧をダッシュにしつつ調整しました。</note>
       <tuv lang="EN-US">
         <seg>For example, where I increase the font size for wider desktop screens, the measure — which is defined using a unit relative to the font size (rem) — also increases.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T025155Z" creationid="yoota" creationdate="20170511T025155Z">
-        <seg>たとえば、より幅が広いデスクトップ画面でフォントサイズを大きくする場合、カラム幅――フォントサイズに相対的な単位（rem）を使用して定義される――も大きくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T025334Z" creationid="yoota" creationdate="20170511T025155Z">
+        <seg>たとえば、幅が広いデスクトップの画面でフォントサイズを大きくした場合、このカラム幅――フォントサイズに相対的な単位（rem）で定義された値――も大きくなります。</seg>
       </tuv>
     </tu>
     <tu>
