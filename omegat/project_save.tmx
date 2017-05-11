@@ -784,8 +784,8 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       <tuv lang="EN-US">
         <seg>Any link &lt;g1&gt;href&lt;/g1&gt; which begins with &lt;g2&gt;http&lt;/g2&gt; (i.e. is not a relative link) &lt;g3&gt;and&lt;/g3&gt; does not link to the current domain passes muster.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T104711Z" creationid="yoota" creationdate="20170511T104711Z">
-        <seg>&lt;g2&gt;http&lt;/g2&gt;で始まる（つまり相対リンクではない）、&lt;g3&gt;かつ&lt;/g3&gt;、現在のドメインにリンクしていないhrefはすべて外部リンクです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T104724Z" creationid="yoota" creationdate="20170511T104711Z">
+        <seg>&lt;g2&gt;http&lt;/g2&gt;で始まる（つまり相対リンクではない）、&lt;g3&gt;かつ&lt;/g3&gt;、現在のドメインにリンクしていない&lt;g1&gt;href&lt;/g1&gt;はすべて外部リンクです。</seg>
       </tuv>
     </tu>
     <tu>
