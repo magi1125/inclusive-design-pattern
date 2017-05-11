@@ -1366,8 +1366,8 @@ http://www.w3.org/TR/CSS1/#length-units
       <tuv lang="EN-US">
         <seg>In CSS, 1rem roughly corresponds to the width of the typeface’s lowercase &lt;g2&gt;m&lt;/g2&gt;, so a paragraph which is 60rem wide could be said to have a measure of 60 — nicely within range for comfort.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T090902Z" creationid="yoota" creationdate="20170510T090902Z">
-        <seg>CSSでは、1remが書体の小文字&lt;g2&gt;m&lt;/g2&gt;の幅にほぼ該当します。このため、幅が60remのパラグラフはカラム幅が60であると言うことができ、ちょうど読みやすい幅に収まります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T033803Z" creationid="yoota" creationdate="20170510T090902Z">
+        <seg>CSSでは、1remが書体の小文字&lt;g2&gt;m&lt;/g2&gt;の幅にほぼ該当します。このため、幅が60remのパラグラフはカラム幅が60字分であると言うことができ、ちょうど読みやすい幅に収まります。</seg>
       </tuv>
     </tu>
     <tu>
