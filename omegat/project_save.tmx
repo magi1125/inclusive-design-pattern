@@ -4008,11 +4008,12 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「標準化」→「統一」としました。</note>
       <tuv lang="EN-US">
         <seg>We can strengthen and simultaneously normalize the appearance of focus styles for our paragraph links across browsers by using a &lt;g3&gt;background-color&lt;/g3&gt; solution.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T101356Z" creationid="yoota" creationdate="20170511T101356Z">
-        <seg>&lt;g3&gt;background-color&lt;/g3&gt;を使用することで、パラグラフのリンクのフォーカススタイルを強調すると同時に、複数のブラウザ間で標準化することができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T101506Z" creationid="yoota" creationdate="20170511T101356Z">
+        <seg>&lt;g3&gt;background-color&lt;/g3&gt;を使用することで、パラグラフのリンクのフォーカススタイルを強調すると同時に、ブラウザごとの挙動を統一することができます。</seg>
       </tuv>
     </tu>
     <tu>
