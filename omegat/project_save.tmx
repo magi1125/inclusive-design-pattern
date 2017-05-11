@@ -851,6 +851,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As discussed, an inclusive editorial experience is one where the editor is not asked to think and work in an unfamiliar way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T105438Z" creationid="yoota" creationdate="20170511T105438Z">
+        <seg>先ほど述べたように、インクルーシブな編集体験とは、編集者がよく分からないことを考えたり作業したりすることを要求されないものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「時間を割く」は「紙面を割く」としました。
 
 (伊原) LGTM</note>
@@ -2098,6 +2106,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In which case, we don’t want to ask editors to have to upload and link icon images or — worse still — edit the source to add a &lt;g1&gt;class&lt;/g1&gt; attribute to each external link.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T105625Z" creationid="yoota" creationdate="20170511T105625Z">
+        <seg>それを実現するには、編集者にアイコンイメージをアップロードしてリンクするよう頼むのは避けたいですし、ましてやソースを編集して各外部リンクに&lt;g1&gt;class&lt;/g1&gt;属性を追加してもらうことなど頼めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 訳語参考:
 http://waic.jp/docs/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation.html
@@ -2927,6 +2943,14 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T165048Z" creationid="yoota" creationdate="20170425T110128Z">
         <seg>レスポンシブデザインと同じく、インクルーシブデザインの土台となるのがプログレッシブエンハンスメントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Providing the Icon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T105358Z" creationid="yoota" creationdate="20170511T105358Z">
+        <seg>アイコンの提供</seg>
       </tuv>
     </tu>
     <tu>
@@ -4088,6 +4112,7 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 語順を調整しました。</note>
       <tuv lang="EN-US">
         <seg>Translated, the selector reads, “Links with &lt;g1&gt;href&lt;/g1&gt; values that start with &lt;g2&gt;http&lt;/g2&gt; but do not contain the string &lt;g3&gt;heydonworks.com&lt;/g3&gt;.”</seg>
       </tuv>
