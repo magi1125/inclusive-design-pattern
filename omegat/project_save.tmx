@@ -480,6 +480,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A background color creates a filled box which is easier to identify as focus moves between elements than the dotted outline some browsers provide by default.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T101643Z" creationid="yoota" creationdate="20170511T101643Z">
+        <seg>背景色によって塗りつぶされたボックスが作られます。一部のブラウザがデフォルトで提供するドットのアウトラインに比べると、要素間でのフォーカスの移動が分かりやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Although sans serif fonts are generally thought to be more readable, their simplicity makes them more vulnerable to having similar letterforms.&lt;/g3&gt;</seg>
@@ -3362,6 +3370,12 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170428T100509Z" creationid="yoota" creationdate="20170428T100400Z">
         <seg>Base64でエンコードしたフォントは@font-face宣言ブロックで以下のように指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>画像alt</note>
+      <tuv lang="EN-US">
+        <seg>The basic dotted outline focus style compared with a blue background focus style.</seg>
       </tuv>
     </tu>
     <tu>
