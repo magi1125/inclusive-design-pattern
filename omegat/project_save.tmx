@@ -1363,6 +1363,14 @@ utility is radical と言っているので逆かも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Ideally, the underline should not intersect the form of descenders but leave space for them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T091318Z" creationid="yoota" creationdate="20170511T091318Z">
+        <seg>できればアンダーラインはディセンダと交差せず、間隔が空いているのが理想です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここの regardless は、エンハンスメントでない方法で読み込まれることを言っています。
 訳注: この場合、エンハンスメントは機能せず、コンテンツのロードが終わる前にフォントを読み込みます。</note>
       <tuv lang="EN-US">
