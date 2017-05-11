@@ -199,6 +199,22 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Make sure the focus state of the element is visible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T100307Z" creationid="yoota" creationdate="20170511T100307Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt; 要素のフォーカス状態を可視にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Make sure the focusable element is visible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T100302Z" creationid="yoota" creationdate="20170511T100302Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;フォーカス可能な要素を可視にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) テキストが大きい→テキストを大きくする、としました (ユーザーによるズームの話ですので)。
 コピー／ペーストは日本では一般的に「コピー&amp;ペースト」と言われるように思います。
 
