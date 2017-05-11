@@ -850,6 +850,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Automated Icons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T102935Z" creationid="yoota" creationdate="20170511T102935Z">
+        <seg>自動化されたアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 直訳「悪い犬」。「悪いやつですね!」くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>Bad dog!</seg>
@@ -1178,6 +1186,14 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T110653Z" creationid="yoota" creationdate="20170501T110653Z">
         <seg>フォーカスがあたるとスキップリンクが画面に表示され、ユーザーは必要に応じてメインコンテンツにジャンプできるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folks who update and maintain websites can be non-technical and frequently have no confidence (nor interest) in visual design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T103050Z" creationid="yoota" creationdate="20170511T103050Z">
+        <seg>Webサイトの更新や保守を行う人々の中には、技術に詳しくなかったり、ビジュアルデザインに自信がない（そもそも興味がない）人もいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3574,8 +3590,8 @@ Equal to the computed value of font-size on the root element. When specified on 
       <tuv lang="EN-US">
         <seg>The subject of focus styles will come up in many patterns to follow, as more and different interactive elements are added to our vocabulary.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T102909Z" creationid="yoota" creationdate="20170511T102411Z">
-        <seg>フォーカススタイルの課題は、インタラクティブ要素の数や種類が増えるにつれ、今後もさまざまなパターンで現れてくることでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T102932Z" creationid="yoota" creationdate="20170511T102411Z">
+        <seg>フォーカススタイルの課題は、インタラクティブ要素の数や種類が増えるにつれ、今後もさまざまな形で現れてくることでしょう。</seg>
       </tuv>
     </tu>
     <tu>
