@@ -1061,7 +1061,7 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 細かいがtext-alignのデフォルトはtext-align: startです。</note>
+      <note>(太田) 細かいですがCSS3 textではtext-alignのデフォルトはtext-align: startです。</note>
       <tuv lang="EN-US">
         <seg>For good readability without JavaScript dependencies and their attendant performance issues, the default &lt;g1&gt;text-align&lt;/g1&gt; value of &lt;g2&gt;left&lt;/g2&gt; is preferable.</seg>
       </tuv>
