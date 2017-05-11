@@ -509,11 +509,12 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「制御」は大げさな感があったので「色だけを変える」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;When using custom, gradient-based underlines you have the luxury of being able to control their color independently of the font color.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T091852Z" creationid="yoota" creationdate="20170511T091852Z">
-        <seg>カスタムのグラデーションベースのアンダーラインを使用すると、フォントの色とは別にアンダーラインの色を制御することもできます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T092027Z" creationid="yoota" creationdate="20170511T091852Z">
+        <seg>カスタムのグラデーションベースのアンダーラインを使用すると、フォントの色とは別にアンダーラインの色だけを変えることもできます。</seg>
       </tuv>
     </tu>
     <tu>
