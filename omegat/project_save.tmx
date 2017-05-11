@@ -4136,6 +4136,14 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>You can tweak the vertical positioning using &lt;g2&gt;background-position&lt;/g2&gt;, and the thickness using &lt;g3&gt;background-size&lt;/g3&gt; to find the most readable solution for the typeface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T092339Z" creationid="yoota" creationdate="20170511T092339Z">
+        <seg>&lt;g2&gt;background-position&lt;/g2&gt;で垂直位置を調整したり、&lt;g3&gt;background-size&lt;/g3&gt;で太さを調整したりして、書体が最も読みやすくなる方法を見つけることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 問題というより注意点でしょうか (すぐ後ろに解決策がありますし)。</note>
       <tuv lang="EN-US">
         <seg>You just need to address one issue: elements set using viewport units &lt;e0&gt;cannot&lt;/e0&gt; be scaled using full-page zoom.</seg>
