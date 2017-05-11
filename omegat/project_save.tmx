@@ -1778,11 +1778,12 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) line-heightには単位のない比率の値を指定できます。ここではそのことを言っています。</note>
       <tuv lang="EN-US">
         <seg>Instead, &lt;g8&gt;line-height&lt;/g8&gt; should be set as a unitless proportion:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T064116Z" creationid="yoota" creationdate="20170511T064116Z">
-        <seg>代わりに、単位のない比率として&lt;g8&gt;line-height&lt;/g8&gt;を設定しましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T064155Z" creationid="yoota" creationdate="20170511T064116Z">
+        <seg>代わりに、単位なしの比率の値を&lt;g8&gt;line-height&lt;/g8&gt;を設定しましょう。</seg>
       </tuv>
     </tu>
     <tu>
