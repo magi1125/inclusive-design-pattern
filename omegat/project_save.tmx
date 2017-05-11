@@ -1975,6 +1975,22 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Justification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T050514Z" creationid="yoota" creationdate="20170511T050514Z">
+        <seg>行端揃え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Justification, possible by setting &lt;g1&gt;text-align: justify;&lt;/g1&gt; in your CSS, is generally considered bad practice for web content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T050529Z" creationid="yoota" creationdate="20170511T050529Z">
+        <seg>CSSで&lt;g1&gt;text-align:justify;&lt;/g1&gt;を設定することで行える行端揃えは、一般にWebコンテンツには推奨されない慣習です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 語順を調整しました。</note>
       <tuv lang="EN-US">
         <seg>Kerning (the spacing between characters) benefited from being reasonably generous, particularly between &lt;g14&gt;r&lt;/g14&gt; and &lt;g15&gt;n&lt;/g15&gt;.</seg>
