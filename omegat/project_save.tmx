@@ -3263,6 +3263,14 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To make matters worse, &lt;g7&gt;&lt;g8&gt;JavaScript polyfills&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;9&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; for hyphenation tend to be extremely weighty because they must refer to a large library of agreed hyphenation patterns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T054145Z" creationid="yoota" creationdate="20170511T054145Z">
+        <seg>さらに悪いことに、ハイフンを使用するための&lt;g7&gt;&lt;g8&gt;JavaScriptポリフィル&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注22）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;は、決まったハイフネーションパターンの大きなライブラリを参照する必要があるため、極度に重くなりがちです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>To make skip links available to keyboard users, we should bring them into view on focus:</seg>
