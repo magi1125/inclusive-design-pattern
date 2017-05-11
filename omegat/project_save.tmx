@@ -736,7 +736,7 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
     </tu>
     <tu>
       <note>(太田) 「小さくする」のではなく「超えないようにする」ということだと思います。下の例ではmax-widthを指定していますし。
-</note>
+in your layout は直訳すれば「あなたのレイアウトの中で」ですが、「このようにレイアウトする」と訳すのがよいように思います。</note>
       <tuv lang="EN-US">
         <seg>Bearing this in mind, no container of text in your layout should exceed your stated measure.</seg>
       </tuv>
