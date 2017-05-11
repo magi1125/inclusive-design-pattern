@@ -1500,6 +1500,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Improved Link Underlines</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T082039Z" creationid="yoota" creationdate="20170511T082039Z">
+        <seg>改良されたリンクのアンダーライン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In &lt;g1&gt;&lt;g2&gt;an experimental study carried out in Spain&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;6&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (PDF) which investigated the readability of different fonts to dyslexic people, a typeface designed &lt;g6&gt;specifically for&lt;/g6&gt; dyslexic readers performed very poorly.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T073644Z" creationid="yoota" creationdate="20170510T073034Z">
@@ -3943,6 +3951,14 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T071330Z" creationid="yoota" creationdate="20170511T071330Z">
         <seg>なぜこれほど多くの書体デザイナーが、白の背景上に薄いグレーのテキストを好んで使うのか、私には分かりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With custom CSS, we can keep the symbolic role of an underline but implement it better.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T082011Z" creationid="yoota" creationdate="20170511T082011Z">
+        <seg>カスタムのCSSを使用すれば、アンダーラインの象徴的な役割はそのままに、より優れた方法で実装できます。</seg>
       </tuv>
     </tu>
     <tu>
