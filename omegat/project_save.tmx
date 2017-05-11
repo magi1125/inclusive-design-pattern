@@ -987,11 +987,12 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) イコノグラフィーは「アイコン」としてしまってよいのではないでしょうか。</note>
       <tuv lang="EN-US">
         <seg>By employing a modicum of fairly advanced CSS, it’s possible to provide iconography within paragraph text which is inclusive on two counts:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T103920Z" creationid="yoota" creationdate="20170511T103920Z">
-        <seg>高度なCSSを少し取り入れることで、次の2つの点についてインクルーシブな形で、イコノグラフィーをパラグラフテキスト内に提供することが可能になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T104151Z" creationid="yoota" creationdate="20170511T103920Z">
+        <seg>高度なCSSを少し取り入れることで、次の2点においてインクルーシブな形で、パラグラフテキスト内にアイコンを入れることが可能になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4207,6 +4208,15 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T064657Z" creationid="yoota" creationdate="20170501T053623Z">
         <seg>&lt;g1&gt;&lt;g2&gt;Google Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注11）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用する場合は、URIにtextパラメータを付けて、必要な文字のリストを指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) リンクを開く→リンクをたどるとしました。</note>
+      <tuv lang="EN-US">
+        <seg>When linking to an external resource on a separate domain, it’s polite to inform the user that following the link will take them out of the current context.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T104223Z" creationid="yoota" creationdate="20170511T104223Z">
+        <seg>別のドメインにある外部リソースにリンクする場合、そのリンクをたどると現在のコンテキストから外に移動することをユーザーに伝えた方が親切です。</seg>
       </tuv>
     </tu>
     <tu>
