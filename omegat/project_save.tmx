@@ -735,7 +735,8 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) </note>
+      <note>(太田) 「小さくする」のではなく「超えないようにする」ということだと思います。下の例ではmax-widthを指定していますし。
+</note>
       <tuv lang="EN-US">
         <seg>Bearing this in mind, no container of text in your layout should exceed your stated measure.</seg>
       </tuv>
