@@ -2668,6 +2668,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>My blog’s local domain is &lt;g4&gt;heydonworks.com&lt;/g4&gt;, so I’d build a selector like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T105135Z" creationid="yoota" creationdate="20170511T105135Z">
+        <seg>私のブログのローカルドメインは&lt;g4&gt;heydonworks.com&lt;/g4&gt;なので、セレクタを次のように構築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 若干誤訳っぽいです。支援技術を使うのと同じように、さまざまな設定ができる、という話かと。
 
 (伊原) LGTM</note>
