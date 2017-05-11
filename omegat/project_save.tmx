@@ -608,6 +608,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A mouse is an HID.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T095954Z" creationid="yoota" creationdate="20170511T095954Z">
+        <seg>HIDは、人間（ユーザー）が入出力を行えるさまざまな機器で、マウスもその1つです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文にない括弧をとって調整しました。</note>
       <tuv lang="EN-US">
         <seg>A paragraph’s measure is the length, in characters, of one line.</seg>
@@ -2612,6 +2620,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T033150Z" creationid="yoota" creationdate="20170426T040649Z">
         <seg>ネットワークの速度が遅い場合は、コンテンツができるだけ早く表示されるようにしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One approach to inclusive interaction design is to look at interfaces from the perspective of human interface devices (HIDs): different devices which allow input from and/or output to a human user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T095940Z" creationid="yoota" creationdate="20170511T095940Z">
+        <seg>インクルーシブなインタラクションデザインへのアプローチの1つに、ヒューマンインターフェイスデバイス（HID）の視点からインターフェイスを見るという方法があります。</seg>
       </tuv>
     </tu>
     <tu>
