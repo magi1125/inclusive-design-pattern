@@ -1061,12 +1061,13 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 細かいですがCSS3 textではtext-alignのデフォルトはtext-align: startです。</note>
+      <note>(太田) 細かいですがCSS3 textではtext-alignのデフォルトはtext-align: startです。CSS2では" nameless value that acts as 'left' if 'direction' is 'ltr', 'right' if 'direction' is 'rtl' " というなかなかひどい定義でした。
+http://www.w3.org/TR/CSS22/text.html#alignment-prop</note>
       <tuv lang="EN-US">
         <seg>For good readability without JavaScript dependencies and their attendant performance issues, the default &lt;g1&gt;text-align&lt;/g1&gt; value of &lt;g2&gt;left&lt;/g2&gt; is preferable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T054934Z" creationid="yoota" creationdate="20170511T054917Z">
-        <seg>JavaScriptに依存したり、それに付随するパフォーマンスの問題に頭を悩ますことなく、読みやすくするためには、デフォルトの&lt;g1&gt;text-align&lt;/g1&gt;値の&lt;g2&gt;left&lt;/g2&gt;の使用が推奨されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T055500Z" creationid="yoota" creationdate="20170511T054917Z">
+        <seg>JavaScriptに依存したり、それに付随するパフォーマンスの問題に頭を悩ますことなく、読みやすくするためには、デフォルトの&lt;g1&gt;text-align&lt;/g1&gt;値である&lt;g2&gt;left&lt;/g2&gt;の使用が推奨されます。</seg>
       </tuv>
     </tu>
     <tu>
