@@ -1378,6 +1378,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you end up in the unfortunate position that colors were chosen without recourse to contrast accessibility, tools like &lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;13&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt; can help you identify problem areas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T072130Z" creationid="yoota" creationdate="20170511T072130Z">
+        <seg>コントラストのアクセシビリティを考慮せずに色が選択されてしまった場合は、&lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注26）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;などのツールを使えば問題のある領域を特定するのに役立つでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your layout breaks badly when a user zooms, &lt;e0&gt;the design&lt;/e0&gt; is at fault, not the user, and removing their ability to zoom is not a solution.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170424T062140Z" creationid="yoota" creationdate="20170424T062113Z">
