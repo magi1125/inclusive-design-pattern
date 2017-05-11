@@ -4211,12 +4211,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) リンクを開く→リンクをたどるとしました。</note>
+      <note>(太田) リンクを開く→リンクをたどる としました。
+外に移動する→外れる としました。
+</note>
       <tuv lang="EN-US">
         <seg>When linking to an external resource on a separate domain, it’s polite to inform the user that following the link will take them out of the current context.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T104223Z" creationid="yoota" creationdate="20170511T104223Z">
-        <seg>別のドメインにある外部リソースにリンクする場合、そのリンクをたどると現在のコンテキストから外に移動することをユーザーに伝えた方が親切です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T104305Z" creationid="yoota" creationdate="20170511T104223Z">
+        <seg>別のドメインにある外部リソースにリンクする場合、そのリンクをたどると現在のコンテキストから外れることをユーザーに伝えた方が親切です。</seg>
       </tuv>
     </tu>
     <tu>
