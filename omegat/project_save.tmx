@@ -3518,7 +3518,7 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
-      <note>(太田) text-decorationによるフォールバックとしました。</note>
+      <note>(太田) 「text-decorationによるフォールバック」としました。</note>
       <tuv lang="EN-US">
         <seg>These should have a &lt;g4&gt;text-decoration&lt;/g4&gt; fallback:</seg>
       </tuv>
