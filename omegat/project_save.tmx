@@ -192,6 +192,23 @@ Do not put everything in the same bag! のような意味のようです。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;It does not complicate the editorial process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T103938Z" creationid="yoota" creationdate="20170511T103938Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt; 編集プロセスを複雑にしない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) アクセス可能→アクセシブルとしました。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;It provides accessible information to users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T104021Z" creationid="yoota" creationdate="20170511T104021Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;アクセシブルな情報をユーザーに提供する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Make sure the element is focusable.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T100238Z" creationid="yoota" creationdate="20170511T100238Z">
@@ -967,6 +984,14 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T081114Z" creationid="yoota" creationdate="20170511T081114Z">
         <seg>色だけでインラインリンクを区別したのでは、一部の読者は周囲のテキストからリンクを見分けることができないので、別の手段が必要になるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By employing a modicum of fairly advanced CSS, it’s possible to provide iconography within paragraph text which is inclusive on two counts:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T103920Z" creationid="yoota" creationdate="20170511T103920Z">
+        <seg>高度なCSSを少し取り入れることで、次の2つの点についてインクルーシブな形で、イコノグラフィーをパラグラフテキスト内に提供することが可能になります。</seg>
       </tuv>
     </tu>
     <tu>
