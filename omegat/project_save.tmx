@@ -2340,6 +2340,15 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 括弧内は「など」というより「どちらでも」ということのように思いますので調整しました。</note>
+      <tuv lang="EN-US">
+        <seg>Now, as the paragraph font size is increased or decreased (either in a media query or by the user changing their font size settings), a comfortable, proportionate line height is ensured.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T065852Z" creationid="yoota" creationdate="20170511T065852Z">
+        <seg>これで、パラグラフのフォントサイズが大きくなったり小さくなったりしても（メディアクエリによる変更の場合、ユーザーがフォントサイズの設定を変更した場合のいずれであっても）、読みやすいバランスのとれた行の高さになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 作ってみようという話ではないような。
 
 (伊原) 「文書」は、ここは章タイトル的に「ドキュメント」かなと。</note>
