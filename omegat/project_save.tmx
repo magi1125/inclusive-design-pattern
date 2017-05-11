@@ -3347,8 +3347,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       <tuv lang="EN-US">
         <seg>Unfortunately, CSS hyphenation, available via the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;hyphens&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; property, is poorly implemented across browsers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T054042Z" creationid="yoota" creationdate="20170511T053732Z">
-        <seg>残念ながら、&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;hyphens&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注21）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で指定できるはずのCSSのハイフネーションの仕組みは、ブラウザの実装状況がかなり貧弱です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T054051Z" creationid="yoota" creationdate="20170511T053732Z">
+        <seg>残念ながら、&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;hyphens&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注21）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で指定できるはずのCSSのハイフネーションの仕組みは、ブラウザの実装がかなり貧弱です。</seg>
       </tuv>
     </tu>
     <tu>
