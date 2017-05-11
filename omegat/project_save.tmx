@@ -3587,6 +3587,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>When a pixel-based line height is used, the following is the result:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T065922Z" creationid="yoota" creationdate="20170511T065922Z">
+        <seg>ピクセルベースの行の高さが使用されている場合、結果は以下のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) blind spots は盲点・死角ですが、該当の要素が見えなくなるわけではなく、該当の要素が他の要素を覆い隠して他のものが何も見えなくなるという話です。
 補って訳すか、訳注か。いったん補ってみました。
 
