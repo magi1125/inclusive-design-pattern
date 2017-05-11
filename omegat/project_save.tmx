@@ -1502,8 +1502,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       <tuv lang="EN-US">
         <seg>Improved Link Underlines</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T082039Z" creationid="yoota" creationdate="20170511T082039Z">
-        <seg>改良されたリンクのアンダーライン</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T082055Z" creationid="yoota" creationdate="20170511T082039Z">
+        <seg>改良したリンクのアンダーライン</seg>
       </tuv>
     </tu>
     <tu>
@@ -2753,6 +2753,14 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T101405Z" creationid="yoota" creationdate="20170501T100704Z">
         <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;にページの主要コンテンツを入れる設計になったことで、印刷用スタイルシートを簡単に書けるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since an underline tends to sit directly below the typeface’s baseline, it cuts through the descenders of letterforms like &lt;g1&gt;g&lt;/g1&gt; and &lt;g2&gt;j&lt;/g2&gt;, diminishing the readability of linked text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T082100Z" creationid="yoota" creationdate="20170511T082100Z">
+        <seg>アンダーラインは書体のベースラインの直下に付加されことが多いため、gやjなどの文字のディセンダの上をアンダーラインが横切り、リンクテキストが読みにくくなることがあります。</seg>
       </tuv>
     </tu>
     <tu>
