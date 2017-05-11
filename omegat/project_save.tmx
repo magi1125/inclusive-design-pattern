@@ -2668,11 +2668,13 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 原文 local doman ですが「ローカルドメイン」と言われると localhostを連想して混乱を招くので「ローカル」はとりました。
+</note>
       <tuv lang="EN-US">
         <seg>My blog’s local domain is &lt;g4&gt;heydonworks.com&lt;/g4&gt;, so I’d build a selector like this:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T105135Z" creationid="yoota" creationdate="20170511T105135Z">
-        <seg>私のブログのローカルドメインは&lt;g4&gt;heydonworks.com&lt;/g4&gt;なので、セレクタを次のように構築します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T105218Z" creationid="yoota" creationdate="20170511T105135Z">
+        <seg>私のブログのドメインは&lt;g4&gt;heydonworks.com&lt;/g4&gt;なので、セレクタを次のように構築します。</seg>
       </tuv>
     </tu>
     <tu>
