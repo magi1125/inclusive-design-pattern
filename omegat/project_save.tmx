@@ -1927,6 +1927,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In this implementation, a &lt;g1&gt;linear-gradient&lt;/g1&gt; background with a height of just 0.05em forms the underline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T092051Z" creationid="yoota" creationdate="20170511T092051Z">
+        <seg>この実装では、高さがわずか0.05emの&lt;g1&gt;linear-gradient&lt;/g1&gt;背景がアンダーラインを形成しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 訳語参考:
 http://waic.jp/docs/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation.html
