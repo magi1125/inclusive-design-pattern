@@ -1953,8 +1953,8 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
       <tuv lang="EN-US">
         <seg>It gives us the freedom to exercise our creativity, and it &lt;g1&gt;gives us the freedom to exercise our creativity&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T074903Z" creationid="yoota" creationdate="20170511T074903Z">
-        <seg>創造力を働かせる自由をくれると同時に、&lt;g1&gt;創造力を働かせなくてはならない自由をくれるのです&lt;/g1&gt;。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T075538Z" creationid="yoota" creationdate="20170511T074903Z">
+        <seg>創造力を働かせる自由をくれると同時に、&lt;g1&gt;創造力を働かせる自由をくれるのです&lt;/g1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2422,6 +2422,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Not only does capitalizing on this convention help folks to identify links within paragraph text, but it also alleviates a more extreme concern of inclusive design: color blindness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T075530Z" creationid="yoota" creationdate="20170511T075530Z">
+        <seg>この慣習を取り入れることで、パラグラフテキスト内のリンクが見分けやすくなるだけでなく、インクルーシブデザインで重視すべき色覚異常の問題も軽減されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) スムーズとは言っていないようなので、容易にとしました。</note>
       <tuv lang="EN-US">
         <seg>Not only does it make the page more indexable by search engines, but it also becomes easier to translate by users operating third-party tools such as Google’s &lt;a0&gt;&lt;s1&gt;Translate API&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;2&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;.</seg>
@@ -2637,6 +2645,14 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T085821Z" creationid="yoota" creationdate="20170420T085821Z">
         <seg>レスポンシブデザインはインクルーシブデザインの重要な要素の1つです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save for button-like call-to-action links which play by different rules of affordance, it is conventional for links to be underlined.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T075517Z" creationid="yoota" creationdate="20170511T075517Z">
+        <seg>異なるアフォーダンスのルールで動作する、ボタンのようなコールトゥアクションリンクを除き、リンクにはアンダーラインを付加するのが慣習です。</seg>
       </tuv>
     </tu>
     <tu>
