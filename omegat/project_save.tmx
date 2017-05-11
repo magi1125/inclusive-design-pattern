@@ -861,6 +861,14 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By differentiating inline links by color alone, some readers will not be able to pick them out from the surrounding text, so there should be another means.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T081114Z" creationid="yoota" creationdate="20170511T081114Z">
+        <seg>色だけでインラインリンクを区別したのでは、一部の読者は周囲のテキストからリンクを見分けることができないので、別の手段が必要になるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ちょっと誤訳っぽいですね。テストできない端末でもレイアウトを成立させられるという話だと思います。
 直訳すると、
 「コンテンツブレークポイントを採用することで、手動でテストできたよりもはるかに広い範囲のデバイスに対して、成功したレイアウトを確実なものにすることができます」
@@ -1184,6 +1192,14 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T024102Z" creationid="yoota" creationdate="20170510T093411Z">
         <seg>たとえば、&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素に適切な&lt;g2&gt;max-width&lt;/g2&gt;を指定すると良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For this reason, all browsers render text with &lt;g1&gt;text-decoration: underline&lt;/g1&gt; by default, making inline link design a classic case of doing &lt;g2&gt;nothing&lt;/g2&gt; being a perfectly good resolution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T081129Z" creationid="yoota" creationdate="20170511T081129Z">
+        <seg>すべてのブラウザは、デフォルトで&lt;g1&gt;text-decoration: underline&lt;/g1&gt;を使用してテキストを表示し、インラインリンクのデザインは「何もしないのが完璧な決断である」ことを示す典型的な例になります。</seg>
       </tuv>
     </tu>
     <tu>
