@@ -2168,6 +2168,7 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) CSSの用語としてはpseudo-contentではなくpseudo-elementです。</note>
       <tuv lang="EN-US">
         <seg>Instead, we can use CSS pseudo-content to automatically add the icon based on the matched selector:</seg>
       </tuv>
