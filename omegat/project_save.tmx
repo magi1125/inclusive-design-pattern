@@ -1779,6 +1779,14 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, &lt;g8&gt;line-height&lt;/g8&gt; should be set as a unitless proportion:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T064116Z" creationid="yoota" creationdate="20170511T064116Z">
+        <seg>代わりに、単位のない比率として&lt;g8&gt;line-height&lt;/g8&gt;を設定しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, by selecting a typeface which is workable for those who &lt;g3&gt;struggle to read&lt;/g3&gt;, we arrive at a choice that works for everyone.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T071857Z" creationid="yoota" creationdate="20170510T071857Z">
