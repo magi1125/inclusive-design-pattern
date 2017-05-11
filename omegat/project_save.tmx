@@ -1020,7 +1020,7 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     <tu>
       <note>(太田) 括弧をダッシュにしつつ調整しました。
 この文章と下のCSSのコードとの関係が良く分からない。
-下のCSSのコードはズームで拡大していくとあるところで急に小さくなるという謎コードになっている。</note>
+下のCSSのコードはズームで拡大していくと、あるところで急に小さくなるという挙動になっている。</note>
       <tuv lang="EN-US">
         <seg>For example, where I increase the font size for wider desktop screens, the measure — which is defined using a unit relative to the font size (rem) — also increases.</seg>
       </tuv>
