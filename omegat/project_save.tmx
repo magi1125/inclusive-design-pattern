@@ -501,6 +501,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The danger of a line height that is not relative to the font size.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T070112Z" creationid="yoota" creationdate="20170511T070112Z">
+        <seg>フォントサイズに比例しない行の高さは危険です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ひとまず下訳を入れます。OKかなと。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Your interface is not the only interface users are interacting with when their browsers are open.&lt;/g3&gt;</seg>
