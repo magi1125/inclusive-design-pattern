@@ -1824,8 +1824,8 @@ body内のの子要素にlang属性を、ですね。
       <tuv lang="EN-US">
         <seg>It is the vertical measure between one line’s baseline and the next.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T062745Z" creationid="yoota" creationdate="20170511T062745Z">
-        <seg>1つの行のベースラインと次の行のベースラインの間の距離です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T063047Z" creationid="yoota" creationdate="20170511T062745Z">
+        <seg>ある行のベースラインと次行のベースラインとの距離に相当します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2104,11 +2104,12 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 訳としては正しいですが違和感があります。「物語る」みたいな意味もあって、。</note>
       <tuv lang="EN-US">
         <seg>Leading relates to the height of individual lines.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T062730Z" creationid="yoota" creationdate="20170511T062730Z">
-        <seg>行送りは、各行の高さに関連しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T063014Z" creationid="yoota" creationdate="20170511T062730Z">
+        <seg>行送りは、各行の高さを決めるものです。</seg>
       </tuv>
     </tu>
     <tu>
