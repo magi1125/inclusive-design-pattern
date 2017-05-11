@@ -1112,6 +1112,14 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Even so, if links are not styled so their focus state is indicated, it’s impossible for the user to see which element is indeed in current focus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T100701Z" creationid="yoota" creationdate="20170511T100701Z">
+        <seg>とは言え、リンクにフォーカス状態を示すスタイルが適用されていなければ、ユーザーには現在どの要素がフォーカスされているのか分かりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 画像のaltです。
 「これでもまだ利用できる！」はたぶん誤訳です。
 
@@ -3740,6 +3748,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T071925Z" creationid="yoota" creationdate="20170510T071925Z">
         <seg>これが効果的で効率的なインクルーシブデザインです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is where &lt;g1&gt;focus styles&lt;/g1&gt; come in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T100713Z" creationid="yoota" creationdate="20170511T100713Z">
+        <seg>そこで登場するのが&lt;g1&gt;フォーカスのスタイル&lt;/g1&gt;です。</seg>
       </tuv>
     </tu>
     <tu>
