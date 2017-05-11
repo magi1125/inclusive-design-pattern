@@ -1203,6 +1203,14 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, as stated earlier in “The Document,” it’s rarely advisable to use fixed units like pixels because it makes managing comfortable proportions a headache.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T063951Z" creationid="yoota" creationdate="20170511T063951Z">
+        <seg>しかし、先ほど「ドキュメント全体」で説明した通り、通常は、ピクセルなどの固定の単位の使用は推奨されません。読みやすい比率を維持するのが難しくなるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it’s important not to think about extreme cases in isolation and to target specific groups.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T073008Z" creationid="yoota" creationdate="20170510T073008Z">
