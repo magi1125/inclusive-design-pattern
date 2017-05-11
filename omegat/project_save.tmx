@@ -3106,6 +3106,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>They’ll be too busy effortlessly digesting your content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T055733Z" creationid="yoota" creationdate="20170511T055733Z">
+        <seg>彼らはコンテンツから情報を得るのに忙しいはずですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 表示→レンダリングとしました。ほぼ同義ですが厳密には異なり、レンダリングされるが表示されない場合などもあります。
 「そうすれば」→「これによって……できるようになります」としました。
 
