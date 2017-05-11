@@ -2466,11 +2466,12 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 誤訳っぽいですね。&lt;button&gt;がリンクなのではなく、リンクが&lt;button&gt;と同様だと言っているのだと思います。</note>
       <tuv lang="EN-US">
         <seg>Links, like the &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; element addressed in the introduction, are implicitly focusable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T100328Z" creationid="yoota" creationdate="20170511T100328Z">
-        <seg>「はじめに」で触れた&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;要素などのリンクは、暗黙的にフォーカス可能です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T100447Z" creationid="yoota" creationdate="20170511T100328Z">
+        <seg>リンクは、「はじめに」で触れた&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;要素と同様に、暗黙的にフォーカス可能です。</seg>
       </tuv>
     </tu>
     <tu>
