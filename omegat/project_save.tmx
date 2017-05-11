@@ -1574,8 +1574,8 @@ well-matched はよくマッチするということで、システムフォン�
       <tuv lang="EN-US">
         <seg>In text that isn’t justified (see “Justification” below) this will vary, so you should measure the longest line of a sample paragraph.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T080044Z" creationid="yoota" creationdate="20170510T080044Z">
-        <seg>行端揃えされていないテキスト（下の「行端揃え」を参照）では、これはバラバラになります。このため、サンプルパラグラフの最も長い行の幅を決定します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T050942Z" creationid="yoota" creationdate="20170510T080044Z">
+        <seg>均等割り付けされていないテキスト（下の「均等割り付け」を参照）では、これはバラバラになります。このため、サンプルパラグラフの最も長い行の幅を決定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1674,8 +1674,8 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       <tuv lang="EN-US">
         <seg>Inclusive typesetting aids readability and is the task of choosing a measure, justification and leading which suit the typeface at hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T050853Z" creationid="yoota" creationdate="20170510T074903Z">
-        <seg>インクルーシブなタイプセッティングは、読みやすさを向上します。これは、使用している書体に合ったカラム幅、均等割り付け、行送りを選択する作業です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T050936Z" creationid="yoota" creationdate="20170510T074903Z">
+        <seg>インクルーシブなタイプセッティングは、読みやすさを向上します。これは、使用している書体に合ったカラム幅、均等割り付けの有無、行送りを選択する作業です。</seg>
       </tuv>
     </tu>
     <tu>
