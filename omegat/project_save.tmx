@@ -739,8 +739,8 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       <tuv lang="EN-US">
         <seg>Bad dog!</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T051117Z" creationid="yoota" creationdate="20170511T051117Z">
-        <seg>悪い見本ですね！</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T051219Z" creationid="yoota" creationdate="20170511T051117Z">
+        <seg>悪いやつですね！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1585,6 +1585,14 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T040622Z" creationid="yoota" creationdate="20170426T040449Z">
         <seg>ドキュメントのセットアップという観点では、ページのコンテンツを強化するためのリソースが逆にコンテンツの妨げにならないようにすることが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In text justification, to make each line of equal length, words need to be redistributed within their lines, creating distractingly uneven word spacing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T051237Z" creationid="yoota" creationdate="20170511T051237Z">
+        <seg>テキストの均等割り付けは、各行を同じ長さにするために、その行内で単語が再割り付けされるので、単語間のスペースが不均一になって読みにくくなります。</seg>
       </tuv>
     </tu>
     <tu>
