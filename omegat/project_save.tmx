@@ -1821,6 +1821,14 @@ body内のの子要素にlang属性を、ですね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It is the vertical measure between one line’s baseline and the next.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T062745Z" creationid="yoota" creationdate="20170511T062745Z">
+        <seg>1つの行のベースラインと次の行のベースラインの間の距離です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) これは事実かどうか要確認。Chromeはサポートを切っているのではないか。OS側の文字サイズ変更はどこまでWebコンテンツに反映されるのか。
 記述が事実と異なるようであれば要訳注。
 「デザインもそうすべきです」のデザインは原文になく補われています。「そうすべき」とは具体的に何をすべきと言っているのか原文でも不明瞭ですが、「それに対応しておくべき」くらいでしょうか。
@@ -2093,6 +2101,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T061252Z">
         <seg>行送り (&lt;g1&gt;line-height&lt;/g1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leading relates to the height of individual lines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T062730Z" creationid="yoota" creationdate="20170511T062730Z">
+        <seg>行送りは、各行の高さに関連しています。</seg>
       </tuv>
     </tu>
     <tu>
