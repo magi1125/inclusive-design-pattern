@@ -4008,6 +4008,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>We can strengthen and simultaneously normalize the appearance of focus styles for our paragraph links across browsers by using a &lt;g3&gt;background-color&lt;/g3&gt; solution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T101356Z" creationid="yoota" creationdate="20170511T101356Z">
+        <seg>&lt;g3&gt;background-color&lt;/g3&gt;を使用することで、パラグラフのリンクのフォーカススタイルを強調すると同時に、複数のブラウザ間で標準化することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) フォントがエンハンスメントなのではなく、エンハンスメントの手法でフォントを扱うという話なので、「エンハンスメントとして処理」→「エンハンスメントで処理」としました。
 
 (伊原) LGTM</note>
