@@ -3664,8 +3664,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       <tuv lang="EN-US">
         <seg>What’s less known is that very high contrast can actually &lt;g1&gt;diminish&lt;/g1&gt; readability for some users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T072412Z" creationid="yoota" creationdate="20170511T072412Z">
-        <seg>あまり知られていませんが、コントラストが非常に高い場合も、一部のユーザーにとって読みにくくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T072452Z" creationid="yoota" creationdate="20170511T072412Z">
+        <seg>あまり知られていませんが、コントラストが非常に高い場合も、一部のユーザーにとって&lt;g1&gt;読みにくく&lt;/g1&gt;なります。</seg>
       </tuv>
     </tu>
     <tu>
