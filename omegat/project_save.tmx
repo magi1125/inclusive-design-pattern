@@ -3587,11 +3587,12 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 訳は合っていますがわかりにくいので調整しました。</note>
       <tuv lang="EN-US">
         <seg>When a pixel-based line height is used, the following is the result:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T065922Z" creationid="yoota" creationdate="20170511T065922Z">
-        <seg>ピクセルベースの行の高さが使用されている場合、結果は以下のようになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T070000Z" creationid="yoota" creationdate="20170511T065922Z">
+        <seg>行の高さをピクセルベースで指定していた場合、結果は以下のようになります。</seg>
       </tuv>
     </tu>
     <tu>
