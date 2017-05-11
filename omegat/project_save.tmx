@@ -823,6 +823,15 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「良くする」がピンときませんでしたので「改良する」としました。</note>
+      <tuv lang="EN-US">
+        <seg>But it’s possible to improve on &lt;g3&gt;text-decoration: underline&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T081943Z" creationid="yoota" creationdate="20170511T081943Z">
+        <seg>しかし、&lt;g3&gt;text-decoration: underline&lt;/g3&gt;をさらに改良することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「画面で見ないと意味をなさない」ということは実際にはあまりなくて、「画面でブラウズしているときでないと意味がない」というものが多いです。ナビゲーションなどは、印刷されたときちゃんと見えますし意味もわかりますが、操作ができないので無意味だという話です。
 ということで「見る」に特化した訳ではないほうが良いと思います。</note>
       <tuv lang="EN-US">
