@@ -1019,16 +1019,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     </tu>
     <tu>
       <note>(太田) 括弧をダッシュにしつつ調整しました。
-この文章と下のCSSのコードとの関係が良く分からない。この文章は下のCSSを説明しているようにも思える (本書では通常、コードの前にそのコードの説類に相当す文章がある) が、内容がかみ合っていないようにも思える。
-下のCSSのコードは、文字サイズを拡大していくと、あるところで逆に小さくなるという謎の挙動になる (仕組み上は当然であって謎でもなんでもないが)。
-もしかして原著から1行抜けているのではないか?
+この文章わかりにくいですが、下のCSSは「幅1920px以上のワイドディスプレイでは文字サイズを1.5倍で表示する」という意図のスタイルです。訳注が必要かもしれません。
 
-余談だがIE11だとmain要素のデフォルトのdisplayがblockではないらしく、display:blockを指定しないと意図通りに機能しなかった。Chromeではデフォルトdisplay:blockの模様。</note>
+余談でがIE11だとmain要素のデフォルトのdisplayがblockではないらしく、display:blockを指定しないと意図通りに機能しなかった。Chromeではデフォルトdisplay:blockの模様。</note>
       <tuv lang="EN-US">
         <seg>For example, where I increase the font size for wider desktop screens, the measure — which is defined using a unit relative to the font size (rem) — also increases.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T025334Z" creationid="yoota" creationdate="20170511T025155Z">
-        <seg>たとえば、幅が広いデスクトップの画面でフォントサイズを大きくした場合、このカラム幅――フォントサイズに相対的な単位（rem）で定義された値――も大きくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T032917Z" creationid="yoota" creationdate="20170511T025155Z">
+        <seg>たとえば、幅が広いデスクトップの画面ではフォントサイズを大きくしたい場合、このカラム幅――フォントサイズに相対的な単位（rem）で定義された値――は一緒に大きくなってくれます。</seg>
       </tuv>
     </tu>
     <tu>
