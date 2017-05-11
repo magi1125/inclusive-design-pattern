@@ -509,6 +509,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;When using custom, gradient-based underlines you have the luxury of being able to control their color independently of the font color.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T091852Z" creationid="yoota" creationdate="20170511T091852Z">
+        <seg>カスタムのグラデーションベースのアンダーラインを使用すると、フォントの色とは別にアンダーラインの色を制御することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ひとまず下訳を入れます。OKかなと。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Your interface is not the only interface users are interacting with when their browsers are open.&lt;/g3&gt;</seg>
@@ -3268,6 +3276,12 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       <note>画像alt</note>
       <tuv lang="EN-US">
         <seg>The first shows that people on poor networks are a subgroup of people who benefit from performant websites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>画像alt</note>
+      <tuv lang="EN-US">
+        <seg>The gradient version pairs blue text with a gray underline.</seg>
       </tuv>
     </tu>
     <tu>
