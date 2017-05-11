@@ -2296,7 +2296,7 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       <note>(太田) containingは「含まれる要素」となっていますが、これは祖先の要素を指します。CSSにはcontaining blockという概念があり、昔のCSS2の日本語訳では「包含ブロック」とされていましたが、定訳ではないような気がします。
 参考:
 http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
-また「改行される」とあるのは「改行されるようにするべき」という話と思われます (should)。</note>
+また「改行される」とありますが、「改行されるようにするべき」という話と思われます (should)。</note>
       <tuv lang="EN-US">
         <seg>Setting paragraphs’ measure directly is unwise, since in responsive and modular layouts they should wrap according to their containing element.</seg>
       </tuv>
