@@ -3018,6 +3018,15 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「役立つ結果」はいかにも直訳っぽいですね。</note>
+      <tuv lang="EN-US">
+        <seg>This has a useful outcome regarding media queries which augment the root font size: the measure adjusts proportionately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T024149Z" creationid="yoota" creationdate="20170511T024149Z">
+        <seg>これは、ルートのフォントサイズを大きくするメディアクエリに関して役立つ結果となります。カラム幅が比例的に調整されるためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>This has the added advantage of ensuring a minimum font size for the page.</seg>
