@@ -2813,6 +2813,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note the use of relative units and a percentage-based &lt;g1&gt;background-size&lt;/g1&gt; to make sure the icon scales with the text when it is resized by the user or in a media query.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T110123Z" creationid="yoota" creationdate="20170511T110123Z">
+        <seg>ユーザーによって、またはメディアクエリでテキストのサイズが変更されたときに、これに合わせてアイコンのサイズが変更されるよう、相対的な単位およびパーセンテージに基づく&lt;g1&gt;background-size&lt;/g1&gt;が使用されていることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 括弧内は「など」というより「どちらでも」ということのように思いますので調整しました。</note>
       <tuv lang="EN-US">
         <seg>Now, as the paragraph font size is increased or decreased (either in a media query or by the user changing their font size settings), a comfortable, proportionate line height is ensured.</seg>
