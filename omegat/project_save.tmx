@@ -2269,6 +2269,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>One of the most popular browsers, Chrome, does not support hyphenation at all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T053950Z" creationid="yoota" creationdate="20170511T053950Z">
+        <seg>最も普及しているブラウザの1つであるChromeは、ハイフンをまったくサポートしていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのsupportedは裏付けがあるのではなく、支持されているという意味かと思います。
 「セリフフォント」「サンセリフフォント」は字面が見づらいので「セリフ書体」「サンセリフ書体」としたほうが読みやすいかも。</note>
       <tuv lang="EN-US">
@@ -3335,11 +3343,12 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「あらゆるブラウザで正しく実装されているわけではない」というのは過大評価過ぎるというか、原文はもっとこき下ろしているように思います。</note>
       <tuv lang="EN-US">
         <seg>Unfortunately, CSS hyphenation, available via the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;hyphens&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; property, is poorly implemented across browsers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T053838Z" creationid="yoota" creationdate="20170511T053732Z">
-        <seg>残念ながら、&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;hyphens&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注21）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で指定するCSSのハイフネーションの仕組みは、あらゆるブラウザで正しく実装されているわけではありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T053935Z" creationid="yoota" creationdate="20170511T053732Z">
+        <seg>残念ながら、&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;hyphens&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注21）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で指定できるはずのCSSのハイフネーションの仕組みは、あらゆるブラウザで正しく実装されているわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
