@@ -747,6 +747,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An inclusive editorial system should be streamlined so that it doesn’t force editors to think about and deal in code or formatting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T103143Z" creationid="yoota" creationdate="20170511T103143Z">
+        <seg>編集者にコードやフォーマットについて考えさせたり、作業させたりすることがないよう、インクルーシブな編集システムを整える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And utility depends on cognition, which depends on convention.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T075043Z" creationid="yoota" creationdate="20170511T075043Z">
@@ -1189,12 +1197,14 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 訳としては合っていますが、意味的に「そういう人もいる」という話のはずなので、少し補いつつ訳してみました。</note>
+      <note>(太田) 訳としては合っていますが、意味的に「そういう人もいる」という話のはずなので、少し補いつつ訳してみました。
+maintainは「運用」としました (保守だとちょっとシステムによった印象)。
+</note>
       <tuv lang="EN-US">
         <seg>Folks who update and maintain websites can be non-technical and frequently have no confidence (nor interest) in visual design.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T103050Z" creationid="yoota" creationdate="20170511T103050Z">
-        <seg>Webサイトの更新や保守を行う人々の中には、技術に詳しくなかったり、ビジュアルデザインに自信がない（そもそも興味がない）人もいます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T103230Z" creationid="yoota" creationdate="20170511T103050Z">
+        <seg>Webサイトの更新や運用を行う人々の中には、技術に詳しくなかったり、ビジュアルデザインに自信がない（そもそも興味がない）人もいます。</seg>
       </tuv>
     </tu>
     <tu>
