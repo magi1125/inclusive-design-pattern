@@ -20,3 +20,20 @@ http://www.w3.org/TR/css3-values/#font-relative-lengths
 この例は、横幅1920px以上のワイドディスプレイでは文字サイズを大きくする、という意図のメディアクエリを追加したものです (文字サイズが16pxのとき、120remは1920pxになります)。mainの横幅をremで指定しておけば、このようなメディアクエリを後から追加しても整合性を保つことができます。
 しかし実際にこのスタイルをそのまま使うと、ユーザーが文字サイズを変更しようとした際、文字を大きくすると逆に小さくなってしまうという不可解な現象が発生してしまうため、このままでは使いにくいでしょう。
 
+
+
+>JavaScriptへの依存や、それに付随するパフォーマンス問題を避けつつ読みやすくするためには、<g1>text-align</g1>のデフォルトの値である<g2>left</g2>を使用することが好ましいでしょう。
+
+訳注:
+正確に言えば、text-alignの初期値はleftではありません。右から左に書く言語もあるため、leftを初期値と定義してしまうと都合が悪いのです。CSS1では「UAに依存」とされており、CSS2では、「書字方向が左から右ならleft、右から左ならrightとしてふるまう無名の値」という趣のある定義でした。CSS Text Module Level 3では start という値が導入され、これが初期値とされています。
+
+参考:
+Cascading Style Sheets, level 1 - 5.4.6 'text-align'
+http://www.w3.org/TR/REC-CSS1/#text-align
+
+Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification - 16.2 Alignment: the 'text-align' property
+http://www.w3.org/TR/CSS22/text.html#alignment-prop
+
+CSS Text Module Level 3 - 7.1. Text Alignment: the ‘text-align’ property 
+http://www.w3.org/TR/css-text-3/#text-align
+
