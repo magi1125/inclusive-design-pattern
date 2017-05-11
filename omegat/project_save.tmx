@@ -1663,6 +1663,8 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       </tuv>
     </tu>
     <tu>
+      <note>(太田) "space-and-a-half" は WCAG 2.0の1.4.8で使われている用語です。日本語訳では「1.5文字分」とされています (というか、しました)。
+http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentation</note>
       <tuv lang="EN-US">
         <seg>In the W3C’s WCAG 2.0 accessibility guideline &lt;g1&gt;&lt;g2&gt;1.4.8 Visual Presentation&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, it is recommended that a generous “space-and-a-half” of leading is applied to paragraphs.</seg>
       </tuv>
