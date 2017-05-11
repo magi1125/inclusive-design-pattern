@@ -1195,11 +1195,12 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
+      <note>(太田) </note>
       <tuv lang="EN-US">
         <seg>For this reason, all browsers render text with &lt;g1&gt;text-decoration: underline&lt;/g1&gt; by default, making inline link design a classic case of doing &lt;g2&gt;nothing&lt;/g2&gt; being a perfectly good resolution.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T081329Z" creationid="yoota" creationdate="20170511T081129Z">
-        <seg>この理由から、すべてのブラウザはデフォルトで&lt;g1&gt;text-decoration: underline&lt;/g1&gt;を適用してテキストを表示します。インラインリンクのデザインは&lt;g2&gt;何もしない&lt;/g2&gt;のが完璧に良い解決策であることを示す典型的な例になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T081827Z" creationid="yoota" creationdate="20170511T081129Z">
+        <seg>この理由から、すべてのブラウザはデフォルトで&lt;g1&gt;text-decoration: underline&lt;/g1&gt;を適用してテキストを表示します。そのため、インラインリンクのデザインは、&lt;g2&gt;何もしない&lt;/g2&gt;のが完璧に良い解決策であるという典型的な例になります。</seg>
       </tuv>
     </tu>
     <tu>
