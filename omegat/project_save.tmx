@@ -1291,6 +1291,14 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Here is my adapted version:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T091815Z" creationid="yoota" creationdate="20170511T091815Z">
+        <seg>以下は私が手を加えたバージョンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Here’s the thing: が訳から落ちています。
 utility is radical と言っているので逆かも。
 ここの radical はどういう意味か。急進的なのか、根本なのか。
@@ -3365,6 +3373,12 @@ Equal to the computed value of font-size on the root element. When specified on 
       <note>画像alt</note>
       <tuv lang="EN-US">
         <seg>The second shows that people with visual dyslexia are a subgroup of people who benefit from readable fonts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>画像alt</note>
+      <tuv lang="EN-US">
+        <seg>The standard text decoration underline compared with the superior gradient technique.</seg>
       </tuv>
     </tu>
     <tu>
