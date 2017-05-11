@@ -988,6 +988,14 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Descenders are not crossed thanks to a text shadow which protects the letterforms like a moat protects a castle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T092219Z" creationid="yoota" creationdate="20170511T092219Z">
+        <seg>テキストシャドウのおかげでアンダーラインはディセンダの上を通らず、まるで堀が城を護っているかのように文字が保護されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Desktop browsers tend to render fonts at 16px by default.</seg>
@@ -2548,6 +2556,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T093121Z" creationid="yoota" creationdate="20170426T093121Z">
         <seg>ご心配なく。&lt;g1&gt;font-size: calc(1em+1vw);&lt;/g1&gt; という記述はプログレッシブエンハンスメントになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that unlike &lt;g1&gt;text-decoration: underline;&lt;/g1&gt;, this underline is adjustable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170511T092235Z" creationid="yoota" creationdate="20170511T092235Z">
+        <seg>&lt;g1&gt;text-decoration: underline;&lt;/g1&gt;とは異なり、このアンダーラインは調整可能です。</seg>
       </tuv>
     </tu>
     <tu>
