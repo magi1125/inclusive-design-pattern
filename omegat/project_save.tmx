@@ -2179,7 +2179,7 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       <note>(太田)
 CSSの用語としてはpseudo-contentではなくpseudo-elementです。
 参考: http://www.w3.org/TR/css3-selectors/#gen-content
-勝手に直して「擬似要素」としました。</note>
+訳注にするほどでもないので勝手に直して「擬似要素」としました。</note>
       <tuv lang="EN-US">
         <seg>Instead, we can use CSS pseudo-content to automatically add the icon based on the matched selector:</seg>
       </tuv>
