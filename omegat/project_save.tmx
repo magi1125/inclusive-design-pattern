@@ -4038,12 +4038,15 @@ This serves as an important reminderは直訳すると「このことは重要�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) brokenはヘイドンさんが好きなbreakですが、「破綻」とするのが良いように思えてきました。</note>
+      <note>※訳注アリ
+
+(太田) brokenはヘイドンさんが好きなbreakですが、「破綻」とするのが良いように思えてきました。
+</note>
       <tuv lang="EN-US">
         <seg>Those that don’t support it provide a less informative experience, but not a broken one.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T030300Z" creationid="yoota" creationdate="20170512T030300Z">
-        <seg>サポートしていない組み合わせでは、得られる情報量は少なくなりますが、まったく役に立たないわけではありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T030324Z" creationid="yoota" creationdate="20170512T030300Z">
+        <seg>サポートしていない組み合わせでは、得られる情報量は少なくなりますが、破綻するわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4526,6 +4529,14 @@ regressを「後方互換する」としていますが、日本語として違�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170425T141001Z" creationid="rikiha" creationdate="20170425T141001Z">
         <seg>DOCTYPEが明確でないと、ブラウザはコンテンツをどう解釈したらよいか分からず、&lt;g2&gt;&lt;g3&gt;非対応の不適合なモード、いわゆる&lt;g4&gt;Quirksモード&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注4）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;で表示してしまうことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writing Paragraphs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T030328Z" creationid="yoota" creationdate="20170512T030328Z">
+        <seg>パラグラフの記述</seg>
       </tuv>
     </tu>
     <tu>
