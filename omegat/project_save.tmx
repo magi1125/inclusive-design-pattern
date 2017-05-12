@@ -1486,7 +1486,7 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       <note>(太田) 解析できないということはないのでは……。
 厳密に言うとスクリーンリーダーはDOMを解析しているわけではないのですが訳注いりますかね?
 massiveは「大きくて重い、大規模な」というような意味ですが、データサイズの肥大については前の文で述べているので、ここでは「複雑な」としました。
-「出力を生成した」は単に「出力した」で良いと思います。
+「出力を生成した」は単に「出力をした」で良いと思います。
 # erroneous output は具体的にどんなものなのでしょうね。書かれていないので分かりませんね……。</note>
       <tuv lang="EN-US">
         <seg>For example, in testing I’ve experienced a screen reader producing erroneous output as it struggled to parse a massive DOM.</seg>
