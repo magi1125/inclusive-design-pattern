@@ -1484,12 +1484,12 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     </tu>
     <tu>
       <note>(太田) 解析できないということはないのでは……。
-</note>
+厳密に言うとスクリーンリーダーはDOMを解析しているわけではないのですが訳注いりますかね?</note>
       <tuv lang="EN-US">
         <seg>For example, in testing I’ve experienced a screen reader producing erroneous output as it struggled to parse a massive DOM.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T102756Z" creationid="yoota" creationdate="20170512T102756Z">
-        <seg>たとえば、私がテストをしていたときに、スクリーンリーダーが大きなDOMをなかなか解析できず、誤った出力を生成したことがありました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T103527Z" creationid="yoota" creationdate="20170512T102756Z">
+        <seg>たとえば、私がテストをしていたときに、スクリーンリーダーが大量のDOMの解析に苦労し、誤った出力を生成したことがありました。</seg>
       </tuv>
     </tu>
     <tu>
