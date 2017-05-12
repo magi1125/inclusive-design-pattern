@@ -3490,6 +3490,14 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Simple user interfaces are usable interfaces, accessible interfaces, maintainable interfaces, and performant interfaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T104102Z" creationid="yoota" creationdate="20170512T104102Z">
+        <seg>シンプルなユーザーインターフェイスこそが、使い勝手の良いインターフェイスであり、アクセシブルなインターフェイスであり、パフォーマンスの高いインターフェイスなのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのSinceは時期的な起点のニュアンスを持っていて、mainがこのようにデザインされたから楽になった、と言っている (暗に「昔はmainがなかったので大変だった」ということを含んでいる) ように思います。</note>
       <tuv lang="EN-US">
         <seg>Since &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; is designed to contain the salient content of a page, it can make the writing of a print style sheet easier.</seg>
