@@ -1016,8 +1016,8 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       <tuv lang="EN-US">
         <seg>At a blog permalink, the salient content is the blog article itself, so it should be placed inside &lt;g1&gt;&lt;main&gt;&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T093627Z" creationid="yoota" creationdate="20170512T093627Z">
-        <seg>ブログのパーマリンクでは、主要なコンテンツがブログ記事そのものであるため、これを&lt;main&gt;の中に置く必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T093707Z" creationid="yoota" creationdate="20170512T093627Z">
+        <seg>ブログのパーマリンクでは、主要なコンテンツがブログ記事そのものであるため、これを&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;の中に置く必要があります。</seg>
       </tuv>
     </tu>
     <tu>
