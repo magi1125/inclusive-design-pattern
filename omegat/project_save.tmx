@@ -745,6 +745,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Alternative Text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T024516Z" creationid="yoota" creationdate="20170512T024516Z">
+        <seg>代替テキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 訳から&lt;h2&gt;が落ちていますが元訳にはあったのかも?</note>
       <tuv lang="EN-US">
         <seg>An &lt;c0&gt;&lt;h2&gt;&lt;/c0&gt; given &lt;c1&gt;font-size: 2rem;&lt;/c1&gt; is two times larger than the size set at the root.</seg>
@@ -3330,6 +3338,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170501T002817Z" creationid="yoota" creationdate="20170426T055325Z">
         <seg>つまり、もし&lt;g1&gt;&lt;html lang="en"&gt;&lt;/g1&gt;が存在するのにテキストが実際にはフランス語である場合、Jaquesと呼ばれるフランス語の音声プロファイルによる流暢なフランス語の発音で読まれるべきところで、Jackという英語の音声プロファイルによる下手なフランス人のものまねを聞かされる羽目になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That just leaves adding some hidden text to also inform screen reader users that the link is external.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T024602Z" creationid="yoota" creationdate="20170512T024602Z">
+        <seg>あとは、リンクが外部であることをスクリーンリーダーのユーザーに知らせる、隠しテキストを追加するだけです。</seg>
       </tuv>
     </tu>
     <tu>
