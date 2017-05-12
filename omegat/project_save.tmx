@@ -2743,6 +2743,14 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve had a blog for several years and it’s been through four to five design iterations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T065603Z" creationid="yoota" creationdate="20170512T065603Z">
+        <seg>私は数年間ブログを書いており、デザインの見直しを4、5回行いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ちょっと何言ってるか分からない訳になっていますが、Cmd + Option + M はレスポンシブデザインモードへの切り替えのトグルで、これを押すとレスポンシブデザインモードになるもののはずです (と思いますがMacで確認していないので伊原さん確認お願いします。WinだとCtrl+Shift+Mです)。
 頭の Just は命令形を和らげるjustで「ちょっと」くらいでしょうか。
 resizeを「大きくしていく」と訳していますが、これは逆で小さくなりますね。ビューポートが小さくなるからコンテンツが重なるわけです。
@@ -2796,6 +2804,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Keeping things prosaic for now, let’s look at paragraphs in context.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T065548Z" creationid="yoota" creationdate="20170512T065548Z">
+        <seg>まずは坦々と、パラグラフをコンテキストに照らして見ていきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 語順を調整しました。</note>
       <tuv lang="EN-US">
         <seg>Kerning (the spacing between characters) benefited from being reasonably generous, particularly between &lt;g14&gt;r&lt;/g14&gt; and &lt;g15&gt;n&lt;/g15&gt;.</seg>
@@ -2841,6 +2857,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T045421Z" creationid="yoota" creationdate="20170510T045421Z">
         <seg>まずは小さなところから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like many designer-bloggers, I seem to be afflicted with obsessive tinkering and I’m still not happy with the result.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T065624Z" creationid="yoota" creationdate="20170512T065624Z">
+        <seg>多くのデザイナーブロガーと同じように、あちこちいじらずにはいられず、今も結果には満足していません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4350,6 +4374,14 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T090153Z" creationid="yoota" creationdate="20170501T083058Z">
         <seg>本書には&lt;g3&gt;アクセシブルな名前 (name)&lt;/g3&gt;の話がたびたび出てきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time is a luxury we often can’t afford on client projects — which is why client work sometimes gets finished, I suppose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T065646Z" creationid="yoota" creationdate="20170512T065646Z">
+        <seg>クライアントのプロジェクトでは時間に余裕のない場合が多く、これが作業を完了させる理由となることもあるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
