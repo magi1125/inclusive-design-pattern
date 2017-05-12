@@ -2509,6 +2509,14 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s rarely worth saying the same thing twice in different ways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T033247Z" creationid="yoota" creationdate="20170512T033247Z">
+        <seg>たいていの場合、別の方法で同じことを2回言っても価値はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 上記にあるのは .fonts-loaded クラスだけでCSSは下にあります。
 
 (伊原) LGTM</note>
