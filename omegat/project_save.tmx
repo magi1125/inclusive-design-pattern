@@ -877,6 +877,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As stated in the principles outlined in the introduction, all other design activities should be treated as merely supportive of the content and its formation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T032705Z" creationid="yoota" creationdate="20170512T032705Z">
+        <seg>「はじめに」で概説した原則で述べたように、他のすべてのデザイン活動は、コンテンツやその編成を単に支えるものとして行うべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「時間を割く」は「紙面を割く」としました。
 
 (伊原) LGTM</note>
@@ -2520,8 +2528,8 @@ must ではなく should なので「べき」としました。
       <tuv lang="EN-US">
         <seg>I’m a big believer in &lt;g1&gt;&lt;g2&gt;content-first design&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;20&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T032636Z" creationid="yoota" creationdate="20170512T032636Z">
-        <seg>私は、&lt;g1&gt;&lt;g2&gt;コンテンツファーストデザイン&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注33）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の信者です。
+      <tuv lang="JA" changeid="yoota" changedate="20170512T032714Z" creationid="yoota" creationdate="20170512T032636Z">
+        <seg>私は、&lt;g1&gt;&lt;g2&gt;コンテンツファーストデザイン&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注33）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の信奉者です。
 </seg>
       </tuv>
     </tu>
@@ -2806,6 +2814,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T055741Z" creationid="yoota" creationdate="20170510T055352Z">
         <seg>しかし、技術的にはサンセリフであっても、耐えがたいほど読みにくいフォントをデザインすることも十分可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nonetheless, there are some general guidelines that are applicable to paragraph text:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T032839Z" creationid="yoota" creationdate="20170512T032839Z">
+        <seg>とは言え、パラグラフテキストに適用できる汎用的なガイドラインがいくつかあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4356,6 +4372,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170502T101913Z" creationid="yoota" creationdate="20170420T112012Z">
         <seg>著者側のCSSがなければ、Webページはこのようにふるまいます。CSSを含める場合でも、この基本的なふるまいを尊重すべきでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What makes things hard is that, unlike dealing in accessible interaction states or color contrast levels, accessible wording is not easy to measure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T032836Z" creationid="yoota" creationdate="20170512T032836Z">
+        <seg>難しいのは、アクセシブルなインタラクション状態や色のコントラストレベルでの対処とは異なり、アクセシブルな言葉遣いは簡単には評価できないということです。</seg>
       </tuv>
     </tu>
     <tu>
