@@ -1483,6 +1483,8 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 解析できないということはないのでは……。
+</note>
       <tuv lang="EN-US">
         <seg>For example, in testing I’ve experienced a screen reader producing erroneous output as it struggled to parse a massive DOM.</seg>
       </tuv>
