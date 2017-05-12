@@ -5030,12 +5030,14 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) あります→あるべきです。</note>
+      <note>(太田) あります→あるべきです。
+「セットアップした」は合っていますがもう少し砕きたいかも。
+</note>
       <tuv lang="EN-US">
         <seg>You may recall the &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; element from our setup in “The Document.” Every web page should have a &lt;g2&gt;&lt;main&gt;&lt;/g2&gt; element to identify the unique content of that page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T080106Z" creationid="yoota" creationdate="20170512T080048Z">
-        <seg>「ドキュメント全体」でセットアップした&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素を思い出してください。すべてのWebページには、そのページ独自のコンテンツを特定する&lt;g2&gt;&lt;main&gt;&lt;/g2&gt;要素があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T080153Z" creationid="yoota" creationdate="20170512T080048Z">
+        <seg>「ドキュメント全体」でセットアップした&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素を思い出してください。すべてのWebページには、そのページ独自のコンテンツを特定する&lt;g2&gt;&lt;main&gt;&lt;/g2&gt;要素があるべきです。</seg>
       </tuv>
     </tu>
     <tu>
