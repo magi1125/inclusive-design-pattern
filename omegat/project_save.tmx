@@ -306,6 +306,16 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <note>(太田) "external link" はふつうにユーザーに読ませるテキストなので、訳すべきかなと。
+</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g27&gt;content&lt;/g27&gt;&lt;g28&gt;:&lt;/g28&gt; &lt;g29&gt;'(external link)'&lt;/g29&gt;&lt;g30&gt;;&lt;/g30&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T030821Z" creationid="yoota" creationdate="20170512T030821Z">
+        <seg>&lt;g27&gt;content&lt;/g27&gt;&lt;g28&gt;:&lt;/g28&gt; &lt;g29&gt;'(外部リンク)'&lt;/g29&gt;&lt;g30&gt;;&lt;/g30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;/* do not do this */&lt;/g4&gt;</seg>
       </tuv>
@@ -2363,8 +2373,8 @@ must ではなく should なので「べき」としました。
       <tuv lang="EN-US">
         <seg>It’s a common &lt;g1&gt;&lt;g2&gt;misconception that pseudo-content (in this case, “(external link)”) is not announced in screen readers&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;19&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T030202Z" creationid="yoota" creationdate="20170512T025847Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;疑似コンテンツ（ここでは「(external link)」）はスクリーンリーダーで読み上げられないというのは、よくある誤解です。&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注32）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T030738Z" creationid="yoota" creationdate="20170512T025847Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;疑似コンテンツ（ここでは「(外部リンク)」）はスクリーンリーダーで読み上げられないというのは、よくある誤解です。&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注32）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
