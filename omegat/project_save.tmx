@@ -1484,6 +1484,14 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For now, note this down: &lt;g6&gt;everything but content is an enhancement&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T033759Z" creationid="yoota" creationdate="20170512T033759Z">
+        <seg>ここではまず、&lt;g6&gt;コンテンツ以外のすべては補強である&lt;/g6&gt;、ということを覚えておいてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) あまりにも分かりにくいので2文にわけました。たぶんこういうことだと思います。</note>
       <tuv lang="EN-US">
         <seg>For this reason, all browsers render text with &lt;g1&gt;text-decoration: underline&lt;/g1&gt; by default, making inline link design a classic case of doing &lt;g2&gt;nothing&lt;/g2&gt; being a perfectly good resolution.</seg>
