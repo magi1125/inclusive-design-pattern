@@ -2367,6 +2367,14 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It would be remiss of me to talk about inclusive paragraph design without mentioning how to actually &lt;g1&gt;write&lt;/g1&gt; approachable, accessible content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T031225Z" creationid="yoota" creationdate="20170512T031225Z">
+        <seg>分かりやすくて利用しやすいコンテンツを実際に&lt;g1&gt;書く&lt;/g1&gt;方法に触れずに、インクルーシブなパラグラフデザインについて語ることは許されないでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのpseudo-content は擬似要素ではなく「擬似要素にcontentプロパティを使用して生成されたもの」を指すものと解釈してママとしました。
 
 </note>
