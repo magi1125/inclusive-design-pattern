@@ -2775,6 +2775,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not all screen reader and browser combinations support pseudo-content, but most do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T030227Z" creationid="yoota" creationdate="20170512T030227Z">
+        <seg>すべてのスクリーンリーダーとブラウザの組み合わせが疑似コンテンツをサポートしているわけではありませんが、ほとんどはサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not only does capitalizing on this convention help folks to identify links within paragraph text, but it also alleviates a more extreme concern of inclusive design: color blindness.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T075530Z" creationid="yoota" creationdate="20170511T075530Z">
@@ -4027,6 +4035,15 @@ This serves as an important reminderは直訳すると「このことは重要�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T085400Z" creationid="yoota" creationdate="20170418T085400Z">
         <seg>このことは、立体的で動きのあるインターフェイスをデザインするときでも、結局はコンテンツをブラウザウィンドウの中に入れているのだという事実を思い出させてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) brokenはヘイドンさんが好きなbreakですが、「破綻」とするのが良いように思えてきました。</note>
+      <tuv lang="EN-US">
+        <seg>Those that don’t support it provide a less informative experience, but not a broken one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T030300Z" creationid="yoota" creationdate="20170512T030300Z">
+        <seg>サポートしていない組み合わせでは、得られる情報量は少なくなりますが、まったく役に立たないわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
