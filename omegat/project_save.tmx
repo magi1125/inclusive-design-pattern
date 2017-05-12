@@ -3944,7 +3944,7 @@ Equal to the computed value of font-size on the root element. When specified on 
     </tu>
     <tu>
       <note>(太田) achievableがスルーされているような。「実装できます」としてみました。
-out of sight は「非表示」とされていましたが、文字通り「視界の外に出す」としました (非表示にはせずに視界の外に出すのがポイントです)。
+out of sight は「非表示」とされていましたが、文字通り「視界の外に出す」としました (非表示にはせずに見えないようにするのがポイントです)。
 </note>
       <tuv lang="EN-US">
         <seg>This is achievable using the &lt;g1&gt;content&lt;/g1&gt; property and a few supplementary rules to move it out of sight without affecting layout.</seg>
