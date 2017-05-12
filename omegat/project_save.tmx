@@ -698,6 +698,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A Blog Post</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T063546Z" creationid="yoota" creationdate="20170512T063546Z">
+        <seg>ブログ記事</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Note は訳出したいです。
 
 (伊原) LGTM</note>
