@@ -4734,6 +4734,15 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) ヘイドンbreak。破綻としてみました。</note>
+      <tuv lang="EN-US">
+        <seg>When the reader adjusts something, there’s simply less to break as a result.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T071731Z" creationid="yoota" creationdate="20170512T071731Z">
+        <seg>読者が何らかの調整を行った場合でも、破綻することが少なくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 「ページ全体のサイズ」が若干微妙だが、いったんこのままで。</note>
       <tuv lang="EN-US">
         <seg>Where everything is set proportionately, whole pages can be scaled simply by adjusting the root font size, as in the media query that follows.</seg>
