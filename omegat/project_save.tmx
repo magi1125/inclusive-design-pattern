@@ -1483,6 +1483,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For example, in testing I’ve experienced a screen reader producing erroneous output as it struggled to parse a massive DOM.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T102756Z" creationid="yoota" creationdate="20170512T102756Z">
+        <seg>たとえば、私がテストをしていたときに、スクリーンリーダーが大きなDOMをなかなか解析できず、誤った出力を生成したことがありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注アリ。訳注はCSSのコードの下に挿入
 
 (太田) 括弧をダッシュにしつつ調整しました。
@@ -1908,6 +1916,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T051044Z" creationid="yoota" creationdate="20170511T051044Z">
         <seg>駄じゃれのようで申し訳ありませんが、私は均等割り付け（justification）の見た目が好きで、これを何度も正当化（justify）しようと試みてきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you’re building a highly complex layout, a grid system may help you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T102802Z" creationid="yoota" creationdate="20170512T102802Z">
+        <seg>非常に複雑なレイアウトを構築するのであれば、グリッドシステムは役に立つかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
