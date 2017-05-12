@@ -1113,6 +1113,15 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) formulateは計画?</note>
+      <tuv lang="EN-US">
+        <seg>By looking at typefaces, leading, measure, justification, contrast, focus indication and more, we’ve set ourselves on the right path to formulate paragraphs suited for a hugely diverse audience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T034119Z" creationid="yoota" creationdate="20170512T034119Z">
+        <seg>書体、行送り、カラム幅、行端揃え、コントラスト、フォーカス状態の表示などを学ぶことで、非常に多様な閲覧者に合ったパラグラフを計画するための、正しい第一歩を踏み出しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Basic Latin Unicode blockは「Unicodeの基本ラテン文字のブロック」としました。
 your web font は「独自の」ではないかもしれません。
 roll backは「引き下げる」のような意味で、ここでは「限定する」くらいでしょうか。
@@ -3404,6 +3413,14 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T034035Z" creationid="yoota" creationdate="20170512T034035Z">
+        <seg>まとめ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) generousは単に「大きい」というよりももう少しゆったりした感じのイメージかと思います。</note>
       <tuv lang="EN-US">
         <seg>Sure, but generous font sizes don’t &lt;e0&gt;offend&lt;/e0&gt; young, keen-eyed folks.</seg>
@@ -4499,6 +4516,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170502T101913Z" creationid="yoota" creationdate="20170420T112012Z">
         <seg>著者側のCSSがなければ、Webページはこのようにふるまいます。CSSを含める場合でも、この基本的なふるまいを尊重すべきでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, there’s more that goes into humble paragraph text design than perhaps you first imagined.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T034043Z" creationid="yoota" creationdate="20170512T034043Z">
+        <seg>地味なパラグラフテキストのデザインには、皆さんが最初にイメージしていたよりも、おそらくたくさんのことが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
