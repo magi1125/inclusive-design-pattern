@@ -3949,8 +3949,8 @@ out of sight は「非表示」とされていましたが、文字通り「視�
       <tuv lang="EN-US">
         <seg>This is achievable using the &lt;g1&gt;content&lt;/g1&gt; property and a few supplementary rules to move it out of sight without affecting layout.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T025010Z" creationid="yoota" creationdate="20170512T024711Z">
-        <seg>&lt;g1&gt;content&lt;/g1&gt;プロパティを使い、レイアウトに影響しないよう視界の外に出すルールを追加することで実装できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T025759Z" creationid="yoota" creationdate="20170512T024711Z">
+        <seg>&lt;g1&gt;content&lt;/g1&gt;プロパティを使い、レイアウトに影響しないよう視界から消すルールを追加することで実装できます。</seg>
       </tuv>
     </tu>
     <tu>
