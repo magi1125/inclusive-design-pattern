@@ -155,6 +155,14 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;A measure that’s too long or too short.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T045340Z" creationid="yoota" creationdate="20170512T045340Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;長すぎる、または短すぎるカラム幅</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文は一文なので一文にしました。distinctは識別できるというより区別できるという感じでしょうか。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Are individual letterforms distinct in shape or can they be confused with others?</seg>
@@ -257,6 +265,14 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Reasonably high contrast, without defaulting to stark black on white.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T045400Z" creationid="yoota" creationdate="20170512T045400Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;• デフォルトの白地に黒ではない、かなり高いコントラスト</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) テキストが大きい→テキストを大きくする、としました (ユーザーによるズームの話ですので)。
 コピー／ペーストは日本では一般的に「コピー&amp;ペースト」と言われるように思います。
 
@@ -337,6 +353,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T033511Z" creationid="yoota" creationdate="20170512T033439Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;文章やパラグラフの長さに変化をつける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Wording and typefaces designed to impress rather than communicate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T045304Z" creationid="yoota" creationdate="20170512T045304Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;• 伝達することではなく、印象付けることを目的にデザインした言葉遣いや書体</seg>
       </tuv>
     </tu>
     <tu>
@@ -4087,6 +4111,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T055733Z" creationid="yoota" creationdate="20170511T055733Z">
         <seg>彼らはコンテンツから情報を得るのに忙しいはずですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Things to Avoid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T045240Z" creationid="yoota" creationdate="20170512T045240Z">
+        <seg>避けるべきこと</seg>
       </tuv>
     </tu>
     <tu>
