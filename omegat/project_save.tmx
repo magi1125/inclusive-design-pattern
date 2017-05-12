@@ -401,6 +401,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g30&gt;&lt;!-- blog article here --&gt;&lt;/g30&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T100839Z" creationid="yoota" creationdate="20170512T100839Z">
+        <seg>&lt;g30&gt;&lt;!-- ここにブログ記事 --&gt;&lt;/g30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g4&gt;/* do not do this */&lt;/g4&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T071306Z" creationid="yoota" creationdate="20170426T071306Z">
@@ -449,6 +457,16 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       <note>(太田)  元訳ではここに /* デフォルトなので、この行は不要です */  というコメントがありましたが電子版のファイルにはそのコメントはないようです。「デフォルトなので」は事実ではない (1em ならデフォルトだが 1remを指定することには別の意味がある) ので、コメントなしで良いかと思います。</note>
       <tuv lang="EN-US">
         <seg>&lt;g5&gt;font-size&lt;/g5&gt;&lt;g6&gt;:&lt;/g6&gt; 1rem&lt;g7&gt;;&lt;/g7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g9&gt;&lt;!-- blog article here --&gt;&lt;/g9&gt;
+&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;/&lt;/g12&gt;main&lt;/g11&gt;&lt;g13&gt;&gt;&lt;/g13&gt;&lt;/g10&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170512T100846Z" creationid="yoota" creationdate="20170512T100846Z">
+        <seg>&lt;g9&gt;&lt;!-- ここにブログ記事 --&gt;&lt;/g9&gt;
+&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;/&lt;/g12&gt;main&lt;/g11&gt;&lt;g13&gt;&gt;&lt;/g13&gt;&lt;/g10&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
