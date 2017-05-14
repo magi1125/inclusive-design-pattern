@@ -2389,9 +2389,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>画像alt
+
+(伊原) 下訳を反映</note>
       <tuv lang="EN-US">
         <seg>In the first set they are not a mirror image.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170514T135615Z">
+        <seg>1つ目のセットは鏡文字ではない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,7 +3371,9 @@ modular, often dynamic content は直訳すると「組み立て式の、しば�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) LGTM
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Otherwise “modern” could be read as “modem.”</seg>
       </tuv>
@@ -4042,9 +4049,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>画像alt
+
+(伊原) 下訳を反映</note>
       <tuv lang="EN-US">
         <seg>The characters d and b in two sets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170514T135602Z">
+        <seg>dとbの文字のセットが2つ並んでいる。</seg>
       </tuv>
     </tu>
     <tu>
