@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -736,6 +736,7 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>A Paragraph</seg>
       </tuv>
@@ -2983,6 +2984,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Let’s start small.</seg>
       </tuv>
@@ -3641,7 +3643,9 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
 ダッシュ内のsupplemental valueは直訳すると追加の価値で、ここでは「テキストにはない独自の価値」という意味で使われているものと思います。
 learn better visually は「視覚からの方が情報を受け取りやすい人」とされていますが、情報を受け取るというより、文字通り学ぶ話だと思います。
 (参考: G103 アイデア、事象及びプロセスの説明を理解しやすくするために、視覚的な図画、写真及びシンボルを提供する&lt;http://waic.jp/docs/WCAG-TECHS/G103&gt;)
-力強く意訳して「学習障害のある人や読み書きが困難な人にとっては、画像やその他の媒体にはテキストにない価値があります」くらいにしてしまったほうが分かりやすくなるかもしれません。</note>
+力強く意訳して「学習障害のある人や読み書きが困難な人にとっては、画像やその他の媒体にはテキストにない価値があります」くらいにしてしまったほうが分かりやすくなるかもしれません。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Some say [a picture paints a thousand words], but I prefer the contrary expression: "“Never send a picture to do the job of words.” Text is the most direct and efficient way of communicating information and — though imagery and other media have supplemental value for those who learn better visually or have literacy issues — it should be treated as &lt;g1&gt;primary&lt;/g1&gt;.</seg>
       </tuv>
