@@ -3128,12 +3128,17 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) technically sans serif はどういう意味なのか。</note>
+      <note>(太田) technically sans serif はどういう意味なのか。
+
+(伊原) technically は、厳密に言えば的ニュアンスもあるようです。
+http://eigo-kobako.blog.so-net.ne.jp/2015-07-14
+つまり、ヒゲ無しだからサンセリフに分類されるフォントであったとしても〜的なことなのかなと。
+ということで「形式上では」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Nonetheless, it is entirely possible to design an excruciatingly unreadable font which is technically sans serif.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T055741Z" creationid="yoota" creationdate="20170510T055352Z">
-        <seg>しかし、技術的にはサンセリフであっても、耐えがたいほど読みにくいフォントをデザインすることも十分可能です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170514T133524Z" creationid="yoota" creationdate="20170510T055352Z">
+        <seg>とはいえ、形式上はサンセリフであっても、耐えがたいほど読みにくいフォントをデザインすることも十分可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3325,7 +3330,9 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
     </tu>
     <tu>
       <note>(太田) ここのsupportedは裏付けがあるのではなく、支持されているという意味かと思います。
-「セリフフォント」「サンセリフフォント」は字面が見づらいので「セリフ書体」「サンセリフ書体」としたほうが読みやすいかも。</note>
+「セリフフォント」「サンセリフフォント」は字面が見づらいので「セリフ書体」「サンセリフ書体」としたほうが読みやすいかも。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>One well-supported claim is that sans serif fonts are more readable than serif ones.</seg>
       </tuv>
@@ -4278,7 +4285,7 @@ Equal to the computed value of font-size on the root element. When specified on 
     <tu>
       <note>(太田) まちがってはいませんが、いかにも直訳っぽい文章だったので少し砕いてみました。
 
-</note>
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>There is a lot of conflicting advice on what the characteristics of a readable body text typeface should be.</seg>
       </tuv>
