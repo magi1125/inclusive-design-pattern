@@ -3971,6 +3971,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;h1&gt;&lt;/g1&gt; element represents your document’s first-level heading.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T074251Z" creationid="yoota" creationdate="20170515T074251Z">
+        <seg>&lt;g1&gt;&lt;h1&gt;&lt;/g1&gt;要素は、ドキュメントの第1レベルの見出しを表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
