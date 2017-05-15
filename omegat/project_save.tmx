@@ -2801,7 +2801,7 @@ body内のの子要素にlang属性を、ですね。
     </tu>
     <tu>
       <note>(伊原) 次行➞次の行
-</note>
+そしてCSSのline-heightは文字の上下にアキを作るものなので、厳密に言うと欧文組版のleadingとは違っており、そのあたり気にするかどうか。</note>
       <tuv lang="EN-US">
         <seg>It is the vertical measure between one line’s baseline and the next.</seg>
       </tuv>
