@@ -2317,7 +2317,7 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 後半のmeasureは「測る」のほうだと思われるので、調整しました。</note>
+      <note>(伊原) 後半のmeasureは「測る」のほうだと思われるので、調整しました。またshouldのニュアンスを追加。</note>
       <tuv lang="EN-US">
         <seg>In text that isn’t justified (see “Justification” below) this will vary, so you should measure the longest line of a sample paragraph.</seg>
       </tuv>
@@ -3051,8 +3051,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <tuv lang="EN-US">
         <seg>Lines that are too long are difficult to read because, on reaching the end of the line, scanning back to find the start of the following line becomes problematic.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T084052Z" creationid="yoota" creationdate="20170510T084052Z">
-        <seg>行が長すぎると、行末まで読んだ後、次行の行頭を探すのが大変になるため読みにくくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170515T031652Z" creationid="yoota" creationdate="20170510T084052Z">
+        <seg>行が長すぎると、行末まで読んだ後、次の行の行頭を探すのが大変になるため読みにくくなります。</seg>
       </tuv>
     </tu>
     <tu>
