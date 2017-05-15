@@ -2753,12 +2753,17 @@ must ではなく should なので「べき」としました。
     <tu>
       <note>(太田) 留意→注意としました。
 
-(伊原) importantが訳出されてないかも？また、注意というとちょっとネガティブな印象を受けました。〜に気付く、〜を気に留める、〜に気を配る、といったほうが近いかもしれません。そのあたりを調整してみました。</note>
+(伊原) importantが訳出されてないかも？また、注意というとちょっとネガティブな印象を受けました。〜に気付く、〜を気に留める、〜に気を配る、といったほうが近いかもしれません。そのあたりを調整してみました。
+
+(太田) importantを訳出したことによって非常に分かりにくい文章になってしまったように思います。
+「ディスレクシアなどの読字障害を持つ人にとって読みやすいテキストは、読むのに問題がない人にとっても好ましいテキストであるということに注目するのは重要なことです」
+これはちょっとありえないです。
+「好ましいテキストです。」と言い切ってしまったほうが良いのでは。どうしても残したければ2文に分けるべきだと思います。</note>
       <tuv lang="EN-US">
         <seg>It’s important to note that &lt;g1&gt;legible&lt;/g1&gt; body text for folks with reading disorders such as dyslexia is also &lt;g2&gt;pleasant&lt;/g2&gt; body text for those who have less trouble reading.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170515T012725Z" creationid="yoota" creationdate="20170510T070456Z">
-        <seg>ディスレクシアなどの読字障害を持つ人にとって&lt;g1&gt;読みやすい&lt;/g1&gt;テキストは、読むのに問題がない人にとっても&lt;g2&gt;好ましい&lt;/g2&gt;テキストであるということに注目するのは重要なことです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T024739Z" creationid="yoota" creationdate="20170510T070456Z">
+        <seg>ディスレクシアなどの読字障害を持つ人にとって&lt;g1&gt;読みやすい&lt;/g1&gt;テキストは、読むのに問題がない人にとっても&lt;g2&gt;好ましい&lt;/g2&gt;テキストです。</seg>
       </tuv>
     </tu>
     <tu>
