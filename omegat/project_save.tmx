@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3503,12 +3503,13 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「1つ目の構造」が何を指すのか分かりませんでした。上記のコード例の前者、だと思いますので補いました。</note>
+      <note>(太田) 「1つ目の構造」が何を指すのか分かりませんでした。上記のコード例の前者、だと思いますので補いました。
+エラーを生成しない→エラーとならない、としました。</note>
       <tuv lang="EN-US">
         <seg>Note that the first structure is unlikely to produce an error in an automated accessibility testing tool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170515T102338Z" creationid="yoota" creationdate="20170515T102338Z">
-        <seg>1つ目の構造は、自動化されたアクセシビリティテストツールでは、おそらくエラーを生成しないことに注意してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T102441Z" creationid="yoota" creationdate="20170515T102338Z">
+        <seg>上記の最初のコード例の構造は、自動化されたアクセシビリティテストツールでは、おそらくエラーとならないことに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
