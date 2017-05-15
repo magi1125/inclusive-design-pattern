@@ -2573,6 +2573,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In the first, commented out example, someone navigating by heading using the generic &lt;g1&gt;h&lt;/g1&gt; key would be unaware of the publish date because the screen reader would take them silently past it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T101849Z" creationid="yoota" creationdate="20170515T101849Z">
+        <seg>1つ目の例では、汎用的なhキーを使用して見出しでナビゲートしている人には公開日付は分かりません。スクリーンリーダーは読み上げずにこれを通過します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 画像のaltです。
 
 (伊原) 下訳の反映。
