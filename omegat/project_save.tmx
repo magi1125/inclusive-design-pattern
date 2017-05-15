@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2953,7 +2953,9 @@ must ではなく should なので「べき」としました。
 (太田) importantを訳出したことによって非常に分かりにくい文章になってしまったように思います。
 「ディスレクシアなどの読字障害を持つ人にとって読みやすいテキストは、読むのに問題がない人にとっても好ましいテキストであるということに注目するのは重要なことです」
 これはちょっとありえないです。
-「好ましいテキストです。」と言い切ってしまったほうが良いのでは。どうしてもimportantを訳出したければ2文に分けるべきだと思います。「このことに注目するのは重要です。」とか。</note>
+「好ましいテキストです。」と言い切ってしまったほうが良いのでは。どうしてもimportantを訳出したければ2文に分けるべきだと思います。「このことに注目するのは重要です。」とか。
+
+(伊原) 了解です。それでいきましょう。</note>
       <tuv lang="EN-US">
         <seg>It’s important to note that &lt;g1&gt;legible&lt;/g1&gt; body text for folks with reading disorders such as dyslexia is also &lt;g2&gt;pleasant&lt;/g2&gt; body text for those who have less trouble reading.</seg>
       </tuv>
