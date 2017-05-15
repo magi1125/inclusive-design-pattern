@@ -502,6 +502,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g53&gt;&lt;g54&gt;&lt;g55&gt;&lt;&lt;/g55&gt;h1&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g53&gt;How To Mark Up Inclusive Blog Articles&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;h1&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T101821Z" creationid="yoota" creationdate="20170515T101821Z">
+        <seg>&lt;g53&gt;&lt;g54&gt;&lt;g55&gt;&lt;&lt;/g55&gt;h1&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g53&gt;インクルーシブなブログ記事のマークアップ方法&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;h1&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)  元訳ではここに /* デフォルトなので、この行は不要です */  というコメントがありましたが電子版のファイルにはそのコメントはないようです。「デフォルトなので」は事実ではない (1em ならデフォルトだが 1remを指定することには別の意味がある) ので、コメントなしで良いかと思います。</note>
       <tuv lang="EN-US">
         <seg>&lt;g5&gt;font-size&lt;/g5&gt;&lt;g6&gt;:&lt;/g6&gt; 1rem&lt;g7&gt;;&lt;/g7&gt;</seg>
