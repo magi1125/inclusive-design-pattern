@@ -2616,6 +2616,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Inclusive design is about appreciating how people really use interfaces, not just fixing technical errors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T102527Z" creationid="yoota" creationdate="20170515T102527Z">
+        <seg>インクルーシブデザインの目的は、単に技術的なエラーを修正することではなく、ユーザーが実際にインターフェイスを使用する方法を正しく理解することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 訳語参考:
 http://waic.jp/docs/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation.html
@@ -4078,6 +4086,14 @@ target はそのままカタカナだと意味がとりにくいように思い�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That does not mean the second structure is not preferable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T102514Z" creationid="yoota" creationdate="20170515T102514Z">
+        <seg>これは2番目の構造の方が好ましくないという意味ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That doesn’t mean you need a breakpoint for every width.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T110055Z" creationid="yoota" creationdate="20170420T110055Z">
@@ -4979,8 +4995,8 @@ compelには強要する、強いるという意味があり、転じて「目�
       <tuv lang="EN-US">
         <seg>Though it can be made to look visually compelling either way, it is therefore important not to open an article with its publish date, but with its heading.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170515T101604Z" creationid="yoota" creationdate="20170515T091518Z">
-        <seg>視覚的には無理やり順番を変えて見せることもできますが、上記の理由から、記事の先頭を公開日ではなく、見出しで始めることが大切です。これは使わないでください</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T102635Z" creationid="yoota" creationdate="20170515T091518Z">
+        <seg>視覚的には無理やり順番を変えて見せることもできますが、上記の理由から、記事の先頭を公開日ではなく、見出しで始めることが大切です。</seg>
       </tuv>
     </tu>
     <tu>
