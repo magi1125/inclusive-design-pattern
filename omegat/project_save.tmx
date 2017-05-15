@@ -2636,6 +2636,15 @@ body内のの子要素にlang属性を、ですね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) トップ→先頭くらい?</note>
+      <tuv lang="EN-US">
+        <seg>It is the top heading of the document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T074324Z" creationid="yoota" creationdate="20170515T074324Z">
+        <seg>そのドキュメントのトップの見出しです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>It is the vertical measure between one line’s baseline and the next.</seg>
       </tuv>
