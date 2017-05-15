@@ -3591,11 +3591,12 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
+      <note>(太田) JISのほうでもモダリティは定訳が不明でそのままモダリティとしていたはずです。</note>
       <tuv lang="EN-US">
         <seg>Providing unobtrusive options for users is sometimes called &lt;g8&gt;multimodality&lt;/g8&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170515T085542Z" creationid="yoota" creationdate="20170515T085542Z">
-        <seg>ユーザーに目立たない複数のオプションを提供することを、&lt;g8&gt;マルチモダリティ&lt;/g8&gt;と呼ぶことがあります。【コメント：定訳が確認できませんでした】</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T085611Z" creationid="yoota" creationdate="20170515T085542Z">
+        <seg>ユーザーに目立たない複数のオプションを提供することを、&lt;g8&gt;マルチモダリティ&lt;/g8&gt;と呼ぶことがあります。</seg>
       </tuv>
     </tu>
     <tu>
