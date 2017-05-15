@@ -5139,7 +5139,9 @@ integratedは統合された?
       </tuv>
     </tu>
     <tu>
-      <note>(太田) improperを「不正」としていますが、不正と言われるとinvalidをイメージしますが、実際にはmainの複数使用はinvalidではありません。
+      <note>※訳注アリ
+
+(太田) improperを「不正」としていますが、不正と言われるとinvalidをイメージしますが、実際にはmainの複数使用はinvalidではありません。
 複数mainは不正なのかというのは https://github.com/momdo/talk/blob/master/webtalk_2016-09-03.pdf でも触れられているアツいトピックです。
 W3Cの2014年10月28日のHTML5.0 4.14.14 には以下のようにあります。
 
