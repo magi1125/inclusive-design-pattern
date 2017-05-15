@@ -746,7 +746,10 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 微調整しました。</note>
+      <note>(太田) 微調整しました。
+
+(伊原) LGTM
+</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Justified text produces the worst results when using a narrow measure, such as in the column-based layout illustrated.&lt;/g3&gt;</seg>
       </tuv>
