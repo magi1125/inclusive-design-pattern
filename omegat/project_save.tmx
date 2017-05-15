@@ -59,6 +59,16 @@ p {</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- don’t use this --&gt;&lt;/g2&gt;
+&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;main&lt;/g4&gt; &lt;g6&gt;id&lt;/g6&gt;&lt;g7&gt;&lt;g8&gt;=&lt;/g8&gt;"main"&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T101614Z" creationid="yoota" creationdate="20170515T101614Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- これは使わないでください --&gt;&lt;/g2&gt;
+&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;main&lt;/g4&gt; &lt;g6&gt;id&lt;/g6&gt;&lt;g7&gt;&lt;g8&gt;=&lt;/g8&gt;"main"&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- don’t use this --&gt;&lt;/g2&gt;
 &lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;meta&lt;/g4&gt; &lt;g6&gt;name&lt;/g6&gt;&lt;g7&gt;&lt;g8&gt;=&lt;/g8&gt;"viewport"&lt;/g7&gt; &lt;g9&gt;content&lt;/g9&gt;&lt;g10&gt;&lt;g11&gt;=&lt;/g11&gt;"width&lt;g12&gt;=&lt;/g12&gt;device-width, initial-scale&lt;g13&gt;=&lt;/g13&gt;1.0, minimum-scale&lt;g14&gt;=&lt;/g14&gt;1.0, maximum-scale&lt;g15&gt;=&lt;/g15&gt;1.0, user-scalable&lt;g16&gt;=&lt;/g16&gt;no"&lt;/g10&gt;&lt;g17&gt;&gt;&lt;/g17&gt;&lt;/g3&gt;
 
 &lt;g18&gt;&lt;!-- use this --&gt;&lt;/g18&gt;
@@ -415,6 +425,22 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g40&gt;&lt;!-- article content here --&gt;&lt;/g40&gt;
+&lt;g41&gt;&lt;g42&gt;&lt;g43&gt;&lt;/&lt;/g43&gt;main&lt;/g42&gt;&lt;g44&gt;&gt;&lt;/g44&gt;&lt;/g41&gt;
+
+&lt;g45&gt;&lt;!-- use this --&gt;&lt;/g45&gt;
+&lt;g46&gt;&lt;g47&gt;&lt;g48&gt;&lt;&lt;/g48&gt;main&lt;/g47&gt; &lt;g49&gt;id&lt;/g49&gt;&lt;g50&gt;&lt;g51&gt;=&lt;/g51&gt;"main"&lt;/g50&gt;&lt;g52&gt;&gt;&lt;/g52&gt;&lt;/g46&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T101702Z" creationid="yoota" creationdate="20170515T101702Z">
+        <seg>&lt;g40&gt;&lt;!-- ここに記事のコンテンツ --&gt;&lt;/g40&gt;
+&lt;g41&gt;&lt;g42&gt;&lt;g43&gt;&lt;/&lt;/g43&gt;main&lt;/g42&gt;&lt;g44&gt;&gt;&lt;/g44&gt;&lt;/g41&gt;
+
+&lt;g45&gt;&lt;!-- これを使ってください --&gt;&lt;/g45&gt;
+&lt;g46&gt;&lt;g47&gt;&lt;g48&gt;&lt;&lt;/g48&gt;main&lt;/g47&gt; &lt;g49&gt;id&lt;/g49&gt;&lt;g50&gt;&lt;g51&gt;=&lt;/g51&gt;"main"&lt;/g50&gt;&lt;g52&gt;&gt;&lt;/g52&gt;&lt;/g46&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g4&gt;/* do not do this */&lt;/g4&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T071306Z" creationid="yoota" creationdate="20170426T071306Z">
@@ -463,6 +489,16 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       <note>(太田)  元訳ではここに /* デフォルトなので、この行は不要です */  というコメントがありましたが電子版のファイルにはそのコメントはないようです。「デフォルトなので」は事実ではない (1em ならデフォルトだが 1remを指定することには別の意味がある) ので、コメントなしで良いかと思います。</note>
       <tuv lang="EN-US">
         <seg>&lt;g5&gt;font-size&lt;/g5&gt;&lt;g6&gt;:&lt;/g6&gt; 1rem&lt;g7&gt;;&lt;/g7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g83&gt;&lt;!-- article content here --&gt;&lt;/g83&gt;
+&lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;/&lt;/g86&gt;main&lt;/g85&gt;&lt;g87&gt;&gt;&lt;/g87&gt;&lt;/g84&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T101705Z" creationid="yoota" creationdate="20170515T101705Z">
+        <seg>&lt;g83&gt;&lt;!-- ここに記事のコンテンツ --&gt;&lt;/g83&gt;
+&lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;/&lt;/g86&gt;main&lt;/g85&gt;&lt;g87&gt;&gt;&lt;/g87&gt;&lt;/g84&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4874,8 +4910,8 @@ compelには強要する、強いるという意味があり、転じて「目�
       <tuv lang="EN-US">
         <seg>Though it can be made to look visually compelling either way, it is therefore important not to open an article with its publish date, but with its heading.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170515T101547Z" creationid="yoota" creationdate="20170515T091518Z">
-        <seg>視覚的には無理やり順番を変えて見せることもできますが、上記の理由から、記事の先頭を公開日ではなく、見出しで始めることが大切です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T101604Z" creationid="yoota" creationdate="20170515T091518Z">
+        <seg>視覚的には無理やり順番を変えて見せることもできますが、上記の理由から、記事の先頭を公開日ではなく、見出しで始めることが大切です。これは使わないでください</seg>
       </tuv>
     </tu>
     <tu>
