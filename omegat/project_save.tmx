@@ -2800,11 +2800,12 @@ body内のの子要素にlang属性を、ですね。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 次行➞次の行</note>
       <tuv lang="EN-US">
         <seg>It is the vertical measure between one line’s baseline and the next.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T063047Z" creationid="yoota" creationdate="20170511T062745Z">
-        <seg>ある行のベースラインと次行のベースラインとの距離に相当します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170515T152442Z" creationid="yoota" creationdate="20170511T062745Z">
+        <seg>ある行のベースラインと次の行のベースラインとの距離に相当します。</seg>
       </tuv>
     </tu>
     <tu>
