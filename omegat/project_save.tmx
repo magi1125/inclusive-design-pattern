@@ -4172,7 +4172,8 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) supersectionについてはアウトラインアルゴリズム上の用語を確認。</note>
+      <note>(太田) supersectionについてはアウトラインアルゴリズム上の用語を確認。
+sectioning rootという言い方はあるがsupersectionは正式な用語ではない模様。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; text effectively labels the supersection that is the document body, so it’s not logical to have more than one per page.</seg>
       </tuv>
