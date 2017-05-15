@@ -1058,6 +1058,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At our permalink, it should be the title of the blog article itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T074402Z" creationid="yoota" creationdate="20170515T074402Z">
+        <seg>ここでのパーマリンクでは、ブログ記事のタイトルそのものにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At this juncture I’d like to thank you in advance for dampening contrast in this way.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T073218Z" creationid="yoota" creationdate="20170511T073218Z">
@@ -2640,8 +2648,8 @@ body内のの子要素にlang属性を、ですね。
       <tuv lang="EN-US">
         <seg>It is the top heading of the document.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170515T074324Z" creationid="yoota" creationdate="20170515T074324Z">
-        <seg>そのドキュメントのトップの見出しです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T074335Z" creationid="yoota" creationdate="20170515T074324Z">
+        <seg>そのドキュメントの先頭の見出しです。</seg>
       </tuv>
     </tu>
     <tu>
