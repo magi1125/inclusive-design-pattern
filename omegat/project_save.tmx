@@ -1699,7 +1699,8 @@ coverは説明するというか触れている程度かもしれません。</n
 
 (太田) 細かいですがCSS3 textではtext-alignのデフォルトはtext-align: startです。CSS2では" nameless value that acts as 'left' if 'direction' is 'ltr', 'right' if 'direction' is 'rtl' " というなかなかひどい定義でした。
 http://www.w3.org/TR/CSS22/text.html#alignment-prop
-</note>
+
+(伊原) LGTM. 勉強になります。</note>
       <tuv lang="EN-US">
         <seg>For good readability without JavaScript dependencies and their attendant performance issues, the default &lt;g1&gt;text-align&lt;/g1&gt; value of &lt;g2&gt;left&lt;/g2&gt; is preferable.</seg>
       </tuv>
