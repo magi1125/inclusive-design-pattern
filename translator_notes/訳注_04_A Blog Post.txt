@@ -1,0 +1,22 @@
+><g1><main></g1>要素そのものが独特な動作を提供しているのは確かですが、これらのメリットは、不適切な配置によって損なわれることもあります。たとえば、単一のページで複数の<g2><main></g2>要素を使ったり、<g3><main></g3>を使用してDOM全体をラップしたりする使い方です
+
+訳注:
+原著が出版された2016年10月の時点では、W3CのHTML5.0勧告に以下のような記述がありました。
+
+>Authors must not include more than one main element in a document. 
+
+これによれば、コンテンツ制作者は一つのドキュメント内で複数のmain要素を使ってはならないということになります。
+しかし、WHATWGのHTML Living Standardには該当の記述はありません。その後、W3Cのドキュメントでも、2016年3月10日のHTML5.1の草案から該当部分が削除されています。
+
+参考:
+HTML5 W3C Recommendation 28 October 2014 - 4.4.14 The main element
+http://www.w3.org/TR/2014/REC-html5-20141028/grouping-content.html#the-main-element
+
+HTML5.1 W3C Working Draft, 10 March 2016 - 4.4.14 The main element
+http://www.w3.org/TR/2016/WD-html51-20160310/grouping-content.html#the-main-element
+
+
+
+
+
+
