@@ -2968,6 +2968,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Justification</seg>
       </tuv>
@@ -2984,11 +2985,12 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 行える行端揃え、となっていたので、語順や語を調整。</note>
       <tuv lang="EN-US">
         <seg>Justification, possible by setting &lt;g1&gt;text-align: justify;&lt;/g1&gt; in your CSS, is generally considered bad practice for web content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T050529Z" creationid="yoota" creationdate="20170511T050529Z">
-        <seg>CSSで&lt;g1&gt;text-align:justify;&lt;/g1&gt;を設定することで行える行端揃えは、一般にWebコンテンツには推奨されない慣習です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170515T033845Z" creationid="yoota" creationdate="20170511T050529Z">
+        <seg>均等割り付けはCSSで&lt;g1&gt;text-align:justify;&lt;/g1&gt;を設定することで可能となりますが、一般にWebコンテンツには推奨されない慣習です。</seg>
       </tuv>
     </tu>
     <tu>
