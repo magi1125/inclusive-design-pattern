@@ -3503,6 +3503,15 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「1つ目の構造」が何を指すのか分かりませんでした。</note>
+      <tuv lang="EN-US">
+        <seg>Note that the first structure is unlikely to produce an error in an automated accessibility testing tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T102338Z" creationid="yoota" creationdate="20170515T102338Z">
+        <seg>1つ目の構造は、自動化されたアクセシビリティテストツールでは、おそらくエラーを生成しないことに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Note that unlike &lt;g1&gt;text-decoration: underline;&lt;/g1&gt;, this underline is adjustable.</seg>
       </tuv>
