@@ -3591,6 +3591,14 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Providing unobtrusive options for users is sometimes called &lt;g8&gt;multimodality&lt;/g8&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T085542Z" creationid="yoota" creationdate="20170515T085542Z">
+        <seg>ユーザーに目立たない複数のオプションを提供することを、&lt;g8&gt;マルチモダリティ&lt;/g8&gt;と呼ぶことがあります。【コメント：定訳が確認できませんでした】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 作ってみようという話ではないような。
 ここに置いときますね、的な話のように思いますが、putが多義すぎてよくわからないですね。FTP/WebDAVのPUTを連想しなくもない。
 いったん「見てみよう」としましたが、要検討。
