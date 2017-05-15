@@ -4130,7 +4130,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>画像alt
+
+(伊原) 下訳を反映</note>
       <tuv lang="EN-US">
         <seg>The first shows that people on poor networks are a subgroup of people who benefit from performant websites.</seg>
       </tuv>
@@ -4253,9 +4255,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>画像alt
+
+(伊原) 下訳を反映</note>
       <tuv lang="EN-US">
         <seg>The second shows that people with visual dyslexia are a subgroup of people who benefit from readable fonts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170515T021256Z">
+        <seg>2つ目のベン図は、ディスレクシアの人は、読みやすいフォントのメリットを享受する人の部分集合であることを示している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4786,7 +4793,9 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>画像alt
+
+(伊原) 下訳を反映</note>
       <tuv lang="EN-US">
         <seg>Two Venn diagrams.</seg>
       </tuv>
