@@ -3239,6 +3239,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>More on that shortly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T090626Z" creationid="yoota" creationdate="20170515T090626Z">
+        <seg>これについては、この後、詳しく説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文にない括弧を入れるのはできるだけ避けたいですが、unicorn-rare というヘイドンフレーズを生かすべきかどうか。
 全体やや誤訳っぽいです。malignは「悪く言う」の意味で、この文全体は Much maligned as X,  it has much broader implications. という形ですので、Xのように悪く言われることが多いが、(実際には) もっと広い意味がある、と言っています。補って訳してみましたがわかりにくいですね……。
 
