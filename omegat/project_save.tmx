@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4804,9 +4804,7 @@ Equal to the computed value of font-size on the root element. When specified on 
       <note>(太田)  around an applicationが訳から落ちているように思いましたので「アプリケーションの」を補いました。
 「点々と記述する」はちょっとイメージがわきませんでした。原文では「孤立したものを点在させる」と言っているように思います。いったん「ばらばらに記述する」としてみましたが、もっと良い訳があれば。
 
-(伊原) まとまった長文に対するものなので、各所に記述する〜ぐらいにしてみました。
-
-(岡本) 何にもいじってないですが、ふたたびテスト。</note>
+(伊原) まとまった長文に対するものなので、各所に記述する〜ぐらいにしてみました。</note>
       <tuv lang="EN-US">
         <seg>This applies whether you’re in the business of publishing lengthy, florid prose or dotting isolated descriptions and messages around an application.</seg>
       </tuv>
