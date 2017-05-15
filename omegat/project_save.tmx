@@ -3591,7 +3591,8 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
-      <note>(太田) WAICのほうでもmodalityの定訳が不明で「感覚モダリティ」のようにカタカナ書きにしています。JISの規格票でもそのままでした。カタカナママで良いかと思います。</note>
+      <note>(太田) WAICのほうでもmodalityの定訳が不明で「感覚モダリティ」のようにカタカナ書きにしています。JISの規格票でもそのままでした。カタカナママで良いかと思います。
+参考: http://waic.jp/docs/WCAG20/Overview.html#programmaticallydetermineddef</note>
       <tuv lang="EN-US">
         <seg>Providing unobtrusive options for users is sometimes called &lt;g8&gt;multimodality&lt;/g8&gt;.</seg>
       </tuv>
