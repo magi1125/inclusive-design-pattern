@@ -4179,7 +4179,7 @@ sectioning rootという言い方はある (bodyのことではない) がsupers
 https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
 「最上位セクション」くらいでしょうか。
 
-訳注でも入れておく?</note>
+複数&lt;h1&gt;はHTML Standardでは許されていてサンプルもあります。訳注でも入れておく?</note>
       <tuv lang="EN-US">
         <seg>The &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; text effectively labels the supersection that is the document body, so it’s not logical to have more than one per page.</seg>
       </tuv>
