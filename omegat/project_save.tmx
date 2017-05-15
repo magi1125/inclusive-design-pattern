@@ -54,7 +54,9 @@
       </tuv>
     </tu>
     <tu>
-      <note>(太田) ヘイドンジョークの life is too short をどうするのか。いったん元訳をそのまま反映しています。</note>
+      <note>(太田) ヘイドンジョークの life is too short をどうするのか。いったん元訳をそのまま反映しています。
+
+(伊原) LGTM. ジョークの意味があまりわかっていません。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;/* (life is too short)
 p {</seg>
@@ -3569,7 +3571,9 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 括弧内は「など」というより「どちらでも」ということのように思いますので調整しました。</note>
+      <note>(太田) 括弧内は「など」というより「どちらでも」ということのように思いますので調整しました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Now, as the paragraph font size is increased or decreased (either in a media query or by the user changing their font size settings), a comfortable, proportionate line height is ensured.</seg>
       </tuv>
