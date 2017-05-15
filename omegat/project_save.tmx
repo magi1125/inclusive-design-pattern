@@ -4074,6 +4074,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; text effectively labels the supersection that is the document body, so it’s not logical to have more than one per page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T084348Z" creationid="yoota" creationdate="20170515T084348Z">
+        <seg>&lt;g2&gt;&lt;h1&gt;&lt;/g2&gt;テキストは実質的に、ドキュメントの本文であるスーパーセクションのラベルとなります。このため、1ページに複数あるのは論理的に正しくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) DOCTYPEは大文字にしたいです。HTML仕様では大文字表記です。
 https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 文書型とすべきかどうか悩みましたが、HTML5はSGMLではないため、もはやDOCTYPEに文書型宣言の意味はありません。それをふまえると、下手に文書型と訳したりしないほうが良いように思いました。
