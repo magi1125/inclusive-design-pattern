@@ -2989,8 +2989,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <tuv lang="EN-US">
         <seg>Justification, possible by setting &lt;g1&gt;text-align: justify;&lt;/g1&gt; in your CSS, is generally considered bad practice for web content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170515T033845Z" creationid="yoota" creationdate="20170511T050529Z">
-        <seg>均等割り付けはCSSで&lt;g1&gt;text-align:justify;&lt;/g1&gt;を設定することで可能となりますが、一般にWebコンテンツには推奨されない慣習です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170515T033902Z" creationid="yoota" creationdate="20170511T050529Z">
+        <seg>CSSで&lt;g1&gt;text-align:justify;&lt;/g1&gt;を設定することで可能となる均等割り付けは、一般にWebコンテンツには推奨されない慣習です。</seg>
       </tuv>
     </tu>
     <tu>
