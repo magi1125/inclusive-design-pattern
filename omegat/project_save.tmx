@@ -3615,6 +3615,10 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) Chrome 56からAndroidとMacではハイフネーションができるようになったようです。訳注いるかも。
+http://caniuse.com/#feat=css-hyphens
+https://tympanus.net/codrops/css_reference/hyphens/
+</note>
       <tuv lang="EN-US">
         <seg>One of the most popular browsers, Chrome, does not support hyphenation at all.</seg>
       </tuv>
