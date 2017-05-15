@@ -4532,7 +4532,9 @@ Equal to the computed value of font-size on the root element. When specified on 
     </tu>
     <tu>
       <note>(太田) 「役立つ結果」はいかにも直訳っぽいので調整してみました。
-「比例的に調整される」は分かりにくいように思いました。font-sizeに比例する話なので、少し補ってみました。</note>
+「比例的に調整される」は分かりにくいように思いました。font-sizeに比例する話なので、少し補ってみました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>This has a useful outcome regarding media queries which augment the root font size: the measure adjusts proportionately.</seg>
       </tuv>
