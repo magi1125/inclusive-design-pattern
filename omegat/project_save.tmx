@@ -5142,20 +5142,7 @@ integratedは統合された?
       <note>※訳注アリ
 
 (太田) improperを「不正」としていますが、不正と言われるとinvalidをイメージしますが、実際にはmainの複数使用はinvalidではありません。
-複数mainは不正なのかというのは https://github.com/momdo/talk/blob/master/webtalk_2016-09-03.pdf でも触れられているアツいトピックです。
-W3Cの2014年10月28日のHTML5.0 4.14.14 には以下のようにあります。
-
-http://www.w3.org/TR/2014/REC-html5-20141028/grouping-content.html#the-main-element
-&gt;Authors must not include more than one main element in a document. 
-
-2015年10月8日版のHTML5.1の草案にはまだ該当の記述がそのまま残っている。
-http://www.w3.org/TR/2015/WD-html51-20151008/semantics.html#the-main-element
-&gt;Authors must not include more than one main element in a document. 
-
-2016年3月10日版のHTML5.1の草案では該当部分が削除されている。
-http://www.w3.org/TR/2016/WD-html51-20160310/grouping-content.html#the-main-element
-
-原著の出版が2016年10月なので、執筆時点ではまだ記述が残っていたのかも (ヘイドンさんが気づいてないだけという説もある)。いずれにしてもこれは訳注でしょう。
+複数mainは不正なのかというのは https://github.com/momdo/talk/blob/master/webtalk_2016-09-03.pdf でも触れられているアツいトピックです。訳注でしょう。
 
 「DOM全体をラップ」は正直ヘンですが原文そうなってますね。DOMはモデルであって言うならDOMツリーでしょうが、DOMツリー全体がmainでくくられることはありえないので二重におかしいです。おそらくbodyの中身全部くらいのことが言いたいのでしょうけれど。</note>
       <tuv lang="EN-US">
