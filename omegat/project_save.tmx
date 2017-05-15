@@ -2317,11 +2317,12 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 後半のmeasureは「測る」のほうだと思われるので、調整しました。</note>
       <tuv lang="EN-US">
         <seg>In text that isn’t justified (see “Justification” below) this will vary, so you should measure the longest line of a sample paragraph.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T050942Z" creationid="yoota" creationdate="20170510T080044Z">
-        <seg>均等割り付けされていないテキスト（下の「均等割り付け」を参照）では、これはバラバラになります。このため、サンプルパラグラフの最も長い行の幅を決定します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170515T031206Z" creationid="yoota" creationdate="20170510T080044Z">
+        <seg>均等割り付けされていないテキスト（下の「均等割り付け」を参照）では、これはバラバラになります。このため、サンプルパラグラフにおける最も長い行を測ります。</seg>
       </tuv>
     </tu>
     <tu>
