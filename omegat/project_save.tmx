@@ -1099,7 +1099,9 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
     </tu>
     <tu>
       <note>(太田) 「小さくする」のではなく「超えないようにする」ということだと思います。下の例ではmax-widthを指定していますし。
-in your layout は直訳すれば「あなたのレイアウトの中で」ですが、「レイアウトする」と訳すのが良いように思います。</note>
+in your layout は直訳すれば「あなたのレイアウトの中で」ですが、「レイアウトする」と訳すのが良いように思います。
+
+(伊原) 「テキストのコンテナが想定した」と読めてしまうのを防ぐため、語順を入れ替えました。</note>
       <tuv lang="EN-US">
         <seg>Bearing this in mind, no container of text in your layout should exceed your stated measure.</seg>
       </tuv>
