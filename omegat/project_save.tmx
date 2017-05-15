@@ -1740,6 +1740,7 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>For instance, if the font size was 16px, the leading should be &lt;g7&gt;at least&lt;/g7&gt; 24px.</seg>
       </tuv>
@@ -2191,6 +2192,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In CSS this can be expressed using the &lt;g6&gt;line-height&lt;/g6&gt; property.</seg>
       </tuv>
