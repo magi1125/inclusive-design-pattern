@@ -3048,6 +3048,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 次行➞次の行と調整</note>
       <tuv lang="EN-US">
         <seg>Lines that are too long are difficult to read because, on reaching the end of the line, scanning back to find the start of the following line becomes problematic.</seg>
       </tuv>
