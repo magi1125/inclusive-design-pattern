@@ -1103,8 +1103,8 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       <tuv lang="EN-US">
         <seg>Bearing this in mind, no container of text in your layout should exceed your stated measure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T023852Z" creationid="yoota" creationdate="20170510T093401Z">
-        <seg>これを念頭に置いて、テキストのコンテナが想定したカラム幅を超えないようにレイアウトしましょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170515T032430Z" creationid="yoota" creationdate="20170510T093401Z">
+        <seg>これを念頭に置いて、想定したカラム幅を超えないようにテキストコンテナをレイアウトしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3553,7 +3553,7 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
 http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
 また「改行される」とありますが、「改行されるようにするべき」という話と思われます (should)。
 
-(伊原) LGTM. 「パラグラフを含む要素の幅」ぐらい開いてもいいかもしれませんが。</note>
+(伊原) LGTM. 「パラグラフを含んでいる要素の幅」ぐらい開いてもいいかもしれませんが。</note>
       <tuv lang="EN-US">
         <seg>Setting paragraphs’ measure directly is unwise, since in responsive and modular layouts they should wrap according to their containing element.</seg>
       </tuv>
