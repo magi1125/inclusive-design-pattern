@@ -1130,6 +1130,14 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Because not all screen reader users are alike.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T085110Z" creationid="yoota" creationdate="20170515T085110Z">
+        <seg>これは、スクリーンリーダーユーザーが皆同じではないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「NVDAとJAWSのユーザーは」とすると限定されているような印象がありますが、他のスクリーンリーダーもおおむね実装しているはずです。「NVDAやJAWSでは」としてみました。「ユーザーは」「スクリーンリーダーによって」は無くても分かり、日本語では無いほうが一般的のように思いますのでとりました。
 heading level oneは「見出しレベル1」ですね。</note>
       <tuv lang="EN-US">
@@ -2074,6 +2082,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T033934Z" creationid="yoota" creationdate="20170427T033934Z">
         <seg>&lt;g3&gt;&lt;g4&gt;キース・クラーク（Keith Clark）の例&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注9）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;では、&lt;g8&gt;&lt;link&gt;&lt;/g8&gt;のonloadハンドラでメディアタイプを&lt;g10&gt;none&lt;/g10&gt;から&lt;g11&gt;all&lt;/g11&gt;に切り替えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;g3&gt;&lt;g4&gt;my informal research into screen reader users’ behaviors and preferences&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;2&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;, some respondents were familiar and comfortable with landmark (region) navigation, but the majority used headings to get around.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170515T085128Z" creationid="yoota" creationdate="20170515T085128Z">
+        <seg>&lt;g3&gt;&lt;g4&gt;私が行った、スクリーンリーダーユーザーの行動および好みに関する非公式の研究&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注37）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;では、一部の回答者はランドマーク（リージョン）ナビゲーションを熟知して使いこなしていたものの、大半の回答者は見出しを使って移動していました。</seg>
       </tuv>
     </tu>
     <tu>
