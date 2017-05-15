@@ -24,6 +24,52 @@ http://www.w3.org/TR/2016/WD-html51-20160310/grouping-content.html#the-main-elem
 
 
 
+><g2><h1></g2>テキストは実質的に、ドキュメントの本文であるスーパーセクションのラベルとなります。このため、1ページに複数あるのは論理的に正しくありません。
+訳注:
+HTML5のセクショニングアルゴリズムでは、bodyもセクションを構成します。そのため、bodyに対する見出しがない状態でsection要素を使うと、最上位セクションに見出しが付けられていない状態になります。たとえば以下のようなマークアップがあるとします。
+
+<body>
+<section>
+<h1>最初の見出し</h1>
+<p>本文</p>
+</section>
+<section>
+<h1>次の見出し</h1>
+<p>本文</p>
+</section>
+</body>
+
+このとき、アウトラインは以下のようになり、最上位に見出しのないセクションができてしまいます。
+
+1.(untitled section)
+  1-1.最初の見出し
+  1-2.次の見出し
+
+なお、明示的セクションを使わない場合は、h1要素を複数使うとそのままbodyが分割されます。
+HTML Living Standardには "A document can contain multiple top-level headings:" として以下のようなサンプルが掲載されています。
+
+<!DOCTYPE HTML>
+<html lang=en>
+<title>Alphabetic Fruit</title>
+<h1>Apples</h1>
+<p>Pomaceous.</p>
+<h1>Bananas</h1>
+<p>Edible.</p>
+<h1>Carambola</h1>
+<p>Star.</p>
+
+このときのアウトラインは以下のようになり、見出しのないセクションは現れません。
+
+1. Apples 
+2. Bananas 
+3. Carambola 
+
+つまり2017年現在の仕様では、書き方によっては複数のh1要素を使うこともできるということです。
+
+参考:
+HTML Living Standard - 4.3.11.2 Sample outlines
+https://html.spec.whatwg.org/multipage/semantics.html#sample-outlines
+
 
 
 
