@@ -3146,12 +3146,13 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
     </tu>
     <tu>
       <note>(太田) 原文は「異なる」ということより「いない」ということに重点が置かれているように思います。
-</note>
+
+(伊原) 平均的ユーザーとして「な」を取りました。</note>
       <tuv lang="EN-US">
         <seg>None of our users is like the average user.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T072245Z" creationid="yoota" creationdate="20170510T072042Z">
-        <seg>平均的なユーザーのようなユーザーなど存在しません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170515T015551Z" creationid="yoota" creationdate="20170510T072042Z">
+        <seg>平均的ユーザーのようなユーザーなど存在しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5349,12 +5350,12 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) 平均的ユーザーとして「な」を取りました。</note>
       <tuv lang="EN-US">
         <seg>“The average user is created from the combination of all users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T071935Z" creationid="yoota" creationdate="20170510T071935Z">
-        <seg>「平均的なユーザーは、すべてのユーザーを組み合わせて作られます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170515T015603Z" creationid="yoota" creationdate="20170510T071935Z">
+        <seg>「平均的ユーザーは、すべてのユーザーを組み合わせて作られます。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
