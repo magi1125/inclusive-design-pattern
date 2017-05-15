@@ -693,9 +693,7 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>画像?
-原著画像altは以下のとおりですがなぜか反映されていない?
-Shows how heading navigation bypasses section content that precedes sections’ headings.
+      <note>
 </note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;</seg>
@@ -3807,7 +3805,8 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) </note>
+      <note>画像alt
+ひとまず下訳を反映。</note>
       <tuv lang="EN-US">
         <seg>Shows how heading navigation bypasses section content that precedes sections’ headings.</seg>
       </tuv>
