@@ -3788,7 +3788,9 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここで言う相対的な単位というのはwidth/heightを指しているので、補いました。</note>
+      <note>(伊原) ここで言う相対的な単位というのはwidth/heightを指しているので、補いました。
+
+(太田) 補ったwidthとheightがプロパティ名であればスタイルをつける必要がありますがどうしましょうか。</note>
       <tuv lang="EN-US">
         <seg>Note the use of relative units and a percentage-based &lt;g1&gt;background-size&lt;/g1&gt; to make sure the icon scales with the text when it is resized by the user or in a media query.</seg>
       </tuv>
