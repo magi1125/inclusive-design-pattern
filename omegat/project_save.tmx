@@ -1570,11 +1570,12 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Even so, if links are not styled so their focus state is indicated, it’s impossible for the user to see which element is indeed in current focus.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T100701Z" creationid="yoota" creationdate="20170511T100701Z">
-        <seg>とは言え、リンクにフォーカス状態を示すスタイルが適用されていなければ、ユーザーには現在どの要素がフォーカスされているのか分かりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T050910Z" creationid="yoota" creationdate="20170511T100701Z">
+        <seg>とはいえ、リンクにフォーカス状態を示すスタイルが適用されていなければ、ユーザーには現在どの要素がフォーカスされているのか分かりません。</seg>
       </tuv>
     </tu>
     <tu>
