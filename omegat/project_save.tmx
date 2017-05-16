@@ -1760,7 +1760,9 @@ min-widthにremを使われると例としてはわかりにくいですね…�
     </tu>
     <tu>
       <note>(太田) 「ブログ記事」が何のことか分かりにくく感じたので「「ブログ記事」の章」と補いました。
-coverは説明するというか触れている程度かもしれません。</note>
+coverは説明するというか触れている程度かもしれません。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>For example, “The Blog Post” will cover testing content readability against the &lt;g1&gt;&lt;g2&gt;Flesch-Kincaid scale&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;22&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
@@ -1832,7 +1834,9 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
-      <note>(太田) enhancementは補強でいいのか。</note>
+      <note>(太田) enhancementは補強でいいのか。
+
+(伊原) いったん補強で。</note>
       <tuv lang="EN-US">
         <seg>For now, note this down: &lt;g6&gt;everything but content is an enhancement&lt;/g6&gt;.</seg>
       </tuv>
