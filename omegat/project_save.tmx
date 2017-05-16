@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1773,7 +1773,7 @@ massiveは「大きくて重い、大規模な」というような意味です�
 (太田) 括弧をダッシュにしつつ調整しました。
 この文章わかりにくいですが、下のCSSは「幅1920px以上のワイドディスプレイでは文字サイズを1.5倍にする」という意図のメディアクエリを使用した例です。訳注が必要かもしれません。
 
-余談ですがIE11だとmain要素のデフォルトのdisplayがblockではないらしく、display:blockを指定しないと意図通りに機能しなかった。Chromeではデフォルトdisplay:blockの模様。
+余談ですがIE11だとmain要素のデフォルトのdisplayがblockではないらしく、display:blockを指定しないと意図通りに機能しませんでした。Chromeではデフォルトdisplay:blockの模様。
 
 (伊原) たとえば　が重なるので、例として　としました。
 min-widthにremを使われると例としてはわかりにくいですね…。</note>
@@ -5515,7 +5515,7 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       <note>(伊原) タイプセッティングとするか、組版とするか。Webではあまり組版とは言わないか…？ 要検討。
 
 (太田)
-悩ましいですが「組版」のほうが良いように思えてきました・</note>
+悩ましいですが「組版」のほうが良いように思えてきました。</note>
       <tuv lang="EN-US">
         <seg>Typesetting</seg>
       </tuv>
