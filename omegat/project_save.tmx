@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2795,8 +2795,8 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       <tuv lang="EN-US">
         <seg>Inclusive typesetting aids readability and is the task of choosing a measure, justification and leading which suit the typeface at hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T050936Z" creationid="yoota" creationdate="20170510T074903Z">
-        <seg>インクルーシブなタイプセッティングは、読みやすさを向上します。これは、使用している書体に合ったカラム幅、均等割り付けの有無、行送りを選択する作業です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170516T084818Z" creationid="yoota" creationdate="20170510T074903Z">
+        <seg>インクルーシブな組版は、読みやすさを向上します。これは、使用している書体に合ったカラム幅、均等割り付けの有無、行送りを選択する作業です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5513,8 +5513,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       <tuv lang="EN-US">
         <seg>Typesetting</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T074119Z" creationid="yoota" creationdate="20170510T074119Z">
-        <seg>タイプセッティング</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170516T084807Z" creationid="yoota" creationdate="20170510T074119Z">
+        <seg>組版</seg>
       </tuv>
     </tu>
     <tu>
