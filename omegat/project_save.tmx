@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1175,12 +1175,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ちょっと語尾を調整。</note>
+      <note>(伊原) ちょっと語尾を調整。
+
+(岡本) 分からない→わからない</note>
       <tuv lang="EN-US">
         <seg>As discussed, an inclusive editorial experience is one where the editor is not asked to think and work in an unfamiliar way.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T053041Z" creationid="yoota" creationdate="20170511T105438Z">
-        <seg>先ほど述べたように、インクルーシブな編集体験とは、編集者がよく分からないことを考えたり作業したりすることを求められないということです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T083726Z" creationid="yoota" creationdate="20170511T105438Z">
+        <seg>先ほど述べたように、インクルーシブな編集体験とは、編集者がよくわからないことを考えたり作業したりすることを求められないということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3079,12 +3081,14 @@ must ではなく should なので「べき」としました。
 
 (太田) gov.ukが実際に採用している色は #ffbf47 のようです。
 
-(伊原) インクルーシブ「な」と足しました。</note>
+(伊原) インクルーシブ「な」と足しました。
+
+(岡本) 31→32</note>
       <tuv lang="EN-US">
         <seg>It’s a style implemented on the official UK government website, &lt;g1&gt;&lt;g2&gt;GOV.UK&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;18&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;; an exemplar of inclusive service design, with a responsibility to be usable by every British citizen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T051408Z" creationid="yoota" creationdate="20170511T102041Z">
-        <seg>これは、イギリス政府の公式Webサイト、&lt;g1&gt;&lt;g2&gt;GOV.UK&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注31）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;が実装しているスタイルです。イギリスの全国民に対して利用可能にするという責任を自覚した、インクルーシブなサービスデザインの模範と言えます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T083457Z" creationid="yoota" creationdate="20170511T102041Z">
+        <seg>これは、イギリス政府の公式Webサイト、&lt;g1&gt;&lt;g2&gt;GOV.UK&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注32）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;が実装しているスタイルです。イギリスの全国民に対して利用可能にするという責任を自覚した、インクルーシブなサービスデザインの模範と言えます。</seg>
       </tuv>
     </tu>
     <tu>
