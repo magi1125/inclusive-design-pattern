@@ -1104,12 +1104,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
     </tu>
     <tu>
       <note>(伊原) user or readerはまとめてユーザーで良さそうと思いました。
-また、インクルーシブデザイン対策というのがちょっと違和感がありました。デザインしている時点で準備や対応というニュアンスを含んでいるので、対策を外してみました。</note>
+また、インクルーシブデザイン対策というのがちょっと違和感がありました。デザインしている時点で準備や対応というニュアンスを含んでいるので、対策を外してみました。
+
+(岡本) 1種類→一種類</note>
       <tuv lang="EN-US">
         <seg>As I’ll restate throughout the book, there’s rarely an inclusive design provision that benefits only one kind of user or reader.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T030522Z" creationid="yoota" creationdate="20170511T073142Z">
-        <seg>これから本書の中で繰り返し述べますが、1種類のユーザーだけにメリットがあるインクルーシブデザインというものはまずありません。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T080356Z" creationid="yoota" creationdate="20170511T073142Z">
+        <seg>これから本書の中で繰り返し述べますが、一種類のユーザーだけにメリットがあるインクルーシブデザインというものはまずありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3266,12 +3268,14 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここももしかしたらradicalを根本と訳したほうが良いのかもしれません。</note>
+      <note>(伊原) ここももしかしたらradicalを根本と訳したほうが良いのかもしれません。
+
+(岡本) vあらゆる→あらゆる、癖→くせ</note>
       <tuv lang="EN-US">
         <seg>I’m not saying every website and app should look the same, but we have a habit of breaking with conventions just to appear radical.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T033039Z" creationid="yoota" creationdate="20170511T074709Z">
-        <seg>vあらゆるWebサイトとアプリの見た目が同じでなくてはならないとは言いませんが、根本から生じる慣習を壊そうとする癖が私たちにはあります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T080717Z" creationid="yoota" creationdate="20170511T074709Z">
+        <seg>あらゆるWebサイトとアプリの見た目が同じでなくてはならないとは言いませんが、根本から生じる慣習を壊そうとするくせが私たちにはあります。</seg>
       </tuv>
     </tu>
     <tu>
