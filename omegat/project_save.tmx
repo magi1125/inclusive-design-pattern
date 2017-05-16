@@ -3866,7 +3866,8 @@ https://tympanus.net/codrops/css_reference/hyphens/
 
 (岡本) 1つ→ひとつ
 
-(太田) 訳注書きますかー。</note>
+(太田) 訳注書きますかー。
+https://css-tricks.com/almanac/properties/h/hyphenate/ のサンプルをChrome58で見ても意図通りにハイフネーションされていないように見えます。</note>
       <tuv lang="EN-US">
         <seg>One of the most popular browsers, Chrome, does not support hyphenation at all.</seg>
       </tuv>
