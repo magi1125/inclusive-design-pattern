@@ -783,12 +783,14 @@ font-size: 16px;
       <note>(太田) 微調整しました。
 
 (伊原) LGTM
+
+(岡本) 狭いとき→狭いときに
 </note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Justified text produces the worst results when using a narrow measure, such as in the column-based layout illustrated.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T052348Z" creationid="yoota" creationdate="20170511T051420Z">
-        <seg>均等割り付けされたテキストは、図のようなカラムベースのレイアウトを行う場合など、カラム幅が狭いとき最悪の結果をもたらします。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T073530Z" creationid="yoota" creationdate="20170511T051420Z">
+        <seg>均等割り付けされたテキストは、図のようなカラムベースのレイアウトを行う場合など、カラム幅が狭いときに最悪の結果をもたらします。</seg>
       </tuv>
     </tu>
     <tu>
