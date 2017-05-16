@@ -1792,6 +1792,7 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Free tools like &lt;g1&gt;&lt;g2&gt;Contrast-A&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;11&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (requires Flash) and &lt;g6&gt;&lt;g7&gt;Color Safe&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;12&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; are available to help you there.</seg>
       </tuv>
@@ -2085,11 +2086,12 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) unfortunate を訳出しました</note>
       <tuv lang="EN-US">
         <seg>If you end up in the unfortunate position that colors were chosen without recourse to contrast accessibility, tools like &lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;13&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt; can help you identify problem areas.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T072130Z" creationid="yoota" creationdate="20170511T072130Z">
-        <seg>コントラストのアクセシビリティを考慮せずに色が選択されてしまった場合は、&lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注26）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;などのツールを使えば問題のある領域を特定するのに役立つでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T011607Z" creationid="yoota" creationdate="20170511T072130Z">
+        <seg>残念ながらコントラストのアクセシビリティを考慮せずに色が選択されてしまった場合、&lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注26）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;などのツールを使えば問題のある領域を特定するのに役立つでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2341,6 +2343,7 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In any case, low-contrast combinations of text and background colors should be avoided.</seg>
       </tuv>
@@ -3776,6 +3779,7 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Quite apart from it causing readability issues, it just looks feeble.</seg>
       </tuv>
@@ -3911,7 +3915,9 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) accessibleを「使える」とされていましたが、力強く「アクセシブル」で良いかと思います。</note>
+      <note>(太田) accessibleを「使える」とされていましたが、力強く「アクセシブル」で良いかと思います。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Since it’s easy to become wedded to brand colors early in a project, instead of testing color contrast after the fact, I recommend designing an accessible color scheme from the outset.</seg>
       </tuv>
