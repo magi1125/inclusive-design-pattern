@@ -3118,7 +3118,9 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) ヘイドンジョークをどう処理するか問題。</note>
+      <note>(太田) ヘイドンジョークをどう処理するか問題。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>I’m glad it’s not me who’ll have to inform your brand guru!</seg>
       </tuv>
@@ -5391,7 +5393,9 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 原文diminishが強調されています。</note>
+      <note>(太田) 原文diminishが強調されています。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>What’s less known is that very high contrast can actually &lt;g1&gt;diminish&lt;/g1&gt; readability for some users.</seg>
       </tuv>
