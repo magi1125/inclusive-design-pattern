@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -734,12 +734,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 塗りつぶされたボックスが作られる➞ボックスが塗りつぶされる、としました。</note>
+      <note>(伊原) 塗りつぶされたボックスが作られる➞ボックスが塗りつぶされる、としました。
+
+(岡本) 分かり→わかり</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A background color creates a filled box which is easier to identify as focus moves between elements than the dotted outline some browsers provide by default.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T051204Z" creationid="yoota" creationdate="20170511T101643Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;背景色によってボックスが塗りつぶされます。一部のブラウザがデフォルトで提供する点線のアウトラインよりも、要素間でのフォーカスの移動が分かりやすくなります。&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T082223Z" creationid="yoota" creationdate="20170511T101643Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;背景色によってボックスが塗りつぶされます。一部のブラウザがデフォルトで提供する点線のアウトラインよりも、要素間でのフォーカスの移動がわかりやすくなります。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1633,12 +1635,14 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(岡本) 分かり→わかり</note>
       <tuv lang="EN-US">
         <seg>Even so, if links are not styled so their focus state is indicated, it’s impossible for the user to see which element is indeed in current focus.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T050910Z" creationid="yoota" creationdate="20170511T100701Z">
-        <seg>とはいえ、リンクにフォーカス状態を示すスタイルが適用されていなければ、ユーザーには現在どの要素がフォーカスされているのか分かりません。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T082141Z" creationid="yoota" creationdate="20170511T100701Z">
+        <seg>とはいえ、リンクにフォーカス状態を示すスタイルが適用されていなければ、ユーザーには現在どの要素がフォーカスされているのかわかりません。</seg>
       </tuv>
     </tu>
     <tu>
