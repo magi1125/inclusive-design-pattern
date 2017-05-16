@@ -1879,12 +1879,14 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(岡本) 24→25、25→26</note>
       <tuv lang="EN-US">
         <seg>Free tools like &lt;g1&gt;&lt;g2&gt;Contrast-A&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;11&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (requires Flash) and &lt;g6&gt;&lt;g7&gt;Color Safe&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;12&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; are available to help you there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T071951Z" creationid="yoota" creationdate="20170511T071951Z">
-        <seg>これには、フリーツールの&lt;g1&gt;&lt;g2&gt;Contrast-A&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注24）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;（Flashが必要）や&lt;g6&gt;&lt;g7&gt;Color Safe&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注25）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;などが役立ちます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T080004Z" creationid="yoota" creationdate="20170511T071951Z">
+        <seg>これには、フリーツールの&lt;g1&gt;&lt;g2&gt;Contrast-A&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注25）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;（Flashが必要）や&lt;g6&gt;&lt;g7&gt;Color Safe&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注26）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;などが役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,12 +2184,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) unfortunate を訳出しました</note>
+      <note>(伊原) unfortunate を訳出しました
+
+(岡本) 26→27</note>
       <tuv lang="EN-US">
         <seg>If you end up in the unfortunate position that colors were chosen without recourse to contrast accessibility, tools like &lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;13&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt; can help you identify problem areas.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T011607Z" creationid="yoota" creationdate="20170511T072130Z">
-        <seg>残念ながらコントラストのアクセシビリティを考慮せずに色が選択されてしまった場合、&lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注26）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;などのツールを使えば問題のある領域を特定するのに役立つでしょう。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T080027Z" creationid="yoota" creationdate="20170511T072130Z">
+        <seg>残念ながらコントラストのアクセシビリティを考慮せずに色が選択されてしまった場合、&lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注27）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;などのツールを使えば問題のある領域を特定するのに役立つでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2636,12 +2640,14 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       <note>(太田) "space-and-a-half" は WCAG 2.0の1.4.8で使われている用語です。日本語訳では「1.5文字分」とされています (というか、しました)。
 http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentation
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 23→24</note>
       <tuv lang="EN-US">
         <seg>In the W3C’s WCAG 2.0 accessibility guideline &lt;g1&gt;&lt;g2&gt;1.4.8 Visual Presentation&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, it is recommended that a generous “space-and-a-half” of leading is applied to paragraphs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T063838Z" creationid="yoota" creationdate="20170511T063102Z">
-        <seg>W3CのWCAG 2.0アクセシビリティガイドライン&lt;g1&gt;&lt;g2&gt;1.4.8「視覚的提示」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注23）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;では、パラグラフに「1.5文字分」の行送りを適用することを推奨しています。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T075338Z" creationid="yoota" creationdate="20170511T063102Z">
+        <seg>W3CのWCAG 2.0アクセシビリティガイドライン&lt;g1&gt;&lt;g2&gt;1.4.8「視覚的提示」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注24）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;では、パラグラフに「1.5文字分」の行送りを適用することを推奨しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,12 +2900,14 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
     <tu>
       <note>※訳注アリ
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) お勧め→おすすめ</note>
       <tuv lang="EN-US">
         <seg>It is advisable to slightly temper the contrast between your paragraph text and background color.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T073103Z" creationid="yoota" creationdate="20170511T073103Z">
-        <seg>パラグラフのテキストと背景の色のコントラストは、少し控えめにすることをお勧めします。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T080239Z" creationid="yoota" creationdate="20170511T073103Z">
+        <seg>パラグラフのテキストと背景の色のコントラストは、少し控えめにすることをおすすめします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4223,12 +4231,14 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
     <tu>
       <note>(太田) scotopic sensitivity syndromが訳から落ちているようです。「光感受性症候群」としました。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 27→28</note>
       <tuv lang="EN-US">
         <seg>Sufferers of &lt;g2&gt;&lt;g3&gt;scotopic sensitivity syndrome&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;14&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; (or Irlen syndrome) are sensitive to glare, and stark contrast can result in blurred text or text that appears to move around.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T072933Z" creationid="yoota" creationdate="20170511T072511Z">
-        <seg>&lt;g2&gt;&lt;g3&gt;光感受性症候群&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注27）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; (アーレン症候群とも呼ばれます)  の人はまぶしさに敏感で、コントラストが強いとテキストがぼやけたり、動き回っているように見えることがあります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T080042Z" creationid="yoota" creationdate="20170511T072511Z">
+        <seg>&lt;g2&gt;&lt;g3&gt;光感受性症候群&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注28）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; (アーレン症候群とも呼ばれます)  の人はまぶしさに敏感で、コントラストが強いとテキストがぼやけたり、動き回っているように見えることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5763,12 +5773,14 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここの type は書体なのかどうか。書体デザイナーが色を検討する、というのには違和感があります。文字を扱うデザイナー、ぐらいの感じのような。だとするとtypeを訳さずに、単に「デザイナー」で良いのかもしれません。</note>
+      <note>(伊原) ここの type は書体なのかどうか。書体デザイナーが色を検討する、というのには違和感があります。文字を扱うデザイナー、ぐらいの感じのような。だとするとtypeを訳さずに、単に「デザイナー」で良いのかもしれません。
+
+(岡本）分かり→わかり</note>
       <tuv lang="EN-US">
         <seg>Why so many type designers are enamored with pale gray text on a white background, I’ll never know.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T011334Z" creationid="yoota" creationdate="20170511T071330Z">
-        <seg>なぜこれほど多くのデザイナーが、白の背景上に薄いグレーのテキストを好んで使うのか、私には分かりません。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T075925Z" creationid="yoota" creationdate="20170511T071330Z">
+        <seg>なぜこれほど多くのデザイナーが、白の背景上に薄いグレーのテキストを好んで使うのか、私にはわかりません。</seg>
       </tuv>
     </tu>
     <tu>
