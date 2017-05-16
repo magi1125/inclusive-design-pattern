@@ -752,7 +752,7 @@ font-size: 16px;
 (岡本) 分かり→わかり
 
 (太田) 元々存在するボックスが塗りつぶされるわけではなく、塗りつぶされたボックスが作られるので、ちょっとニュアンスがかわってしまっているように思います。
-そもそもボックスって何、というのもあるので、boxは捨てて「要素の背景が塗りつぶされます」と意訳してしまったほうがいいかもしれません。</note>
+そもそもボックスって何、というのもあるので、boxは捨てて「要素のうしろが背景色で塗りつぶされます」と意訳してしまったほうがいいかもしれません。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A background color creates a filled box which is easier to identify as focus moves between elements than the dotted outline some browsers provide by default.&lt;/g3&gt;</seg>
       </tuv>
