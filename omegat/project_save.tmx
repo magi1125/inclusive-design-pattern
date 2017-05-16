@@ -275,6 +275,7 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Make sure the element is focusable.</seg>
       </tuv>
@@ -283,19 +284,21 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 可視にする、を「見えるようにする」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Make sure the focus state of the element is visible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T100307Z" creationid="yoota" creationdate="20170511T100307Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt; 要素のフォーカス状態を可視にする。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T050604Z" creationid="yoota" creationdate="20170511T100307Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt; 要素のフォーカス状態を見えるようにする。</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 可視にする、を「見えるようにする」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Make sure the focusable element is visible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T100302Z" creationid="yoota" creationdate="20170511T100302Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;フォーカス可能な要素を可視にする。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T050557Z" creationid="yoota" creationdate="20170511T100302Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;フォーカス可能な要素を見えるようにする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3386,6 +3389,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Making an element keyboard-accessible is quite straightforward:</seg>
       </tuv>
