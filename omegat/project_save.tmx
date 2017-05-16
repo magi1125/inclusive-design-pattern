@@ -4870,6 +4870,7 @@ Equal to the computed value of font-size on the root element. When specified on 
 (太田) 「text-decorationによるフォールバック」としました。
 以下のCSSはコンディショナルコメントで &lt;!--[if lte IE 9]&gt; &lt;html class="ie-lte-9"&gt; &lt;![endif]--&gt; のようになっている前提であるように思いますが前提の説明がないので訳注が必要かもしれません。
 
+(伊原) LGTM
 (伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>These should have a &lt;g4&gt;text-decoration&lt;/g4&gt; fallback:</seg>
