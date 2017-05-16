@@ -4769,7 +4769,9 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
-      <note>(太田) インタラクティブ要素が増えるとそのたびにフォーカススタイルの議論が必要になるという話のように思います。</note>
+      <note>(太田) インタラクティブ要素が増えるとそのたびにフォーカススタイルの議論が必要になるという話のように思います。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The subject of focus styles will come up in many patterns to follow, as more and different interactive elements are added to our vocabulary.</seg>
       </tuv>
