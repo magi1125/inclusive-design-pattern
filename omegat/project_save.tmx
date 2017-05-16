@@ -4070,12 +4070,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
 http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
 また「改行される」とありますが、「改行されるようにするべき」という話と思われます (should)。
 
-(伊原) LGTM. 「パラグラフを含んでいる要素の幅」ぐらい開いてもいいかもしれませんが。</note>
+(伊原) LGTM. 「パラグラフを含んでいる要素の幅」ぐらい開いてもいいかもしれませんが。
+
+(太田) すぐ下でコンテナと言っているので「コンテナ要素」としてしまいました。</note>
       <tuv lang="EN-US">
         <seg>Setting paragraphs’ measure directly is unwise, since in responsive and modular layouts they should wrap according to their containing element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T024546Z" creationid="yoota" creationdate="20170510T092748Z">
-        <seg>パラグラフのカラム幅を直接設定するのは賢い方法ではありません。レスポンシブなモジュール式のレイアウトでは、包含要素の幅に応じて改行されるようにする必要があるためです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170516T093743Z" creationid="yoota" creationdate="20170510T092748Z">
+        <seg>パラグラフのカラム幅を直接設定するのは賢い方法ではありません。レスポンシブなモジュール式のレイアウトでは、コンテナ要素の幅に応じて改行されるようにする必要があるためです。</seg>
       </tuv>
     </tu>
     <tu>
