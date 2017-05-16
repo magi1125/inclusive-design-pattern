@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2268,11 +2268,12 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <note>(岡本) 脚注15→脚注16</note>
       <tuv lang="EN-US">
         <seg>In Brad Frost’s &lt;g1&gt;&lt;g2&gt;atomic design terminology&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, a paragraph would be an &lt;g6&gt;atom&lt;/g6&gt;: an indivisible building block with which complex patterns (&lt;g7&gt;molecules&lt;/g7&gt;, &lt;g8&gt;organisms&lt;/g8&gt; and &lt;g9&gt;pages&lt;/g9&gt;) are created.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T045833Z" creationid="yoota" creationdate="20170510T045753Z">
-        <seg>ブラッド・フロスト（Brad Frost）の&lt;g1&gt;&lt;g2&gt;アトミックデザイン&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注15）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;では、パラグラフ（段落）は&lt;g6&gt;原子&lt;/g6&gt;にあたります。複雑なパターン（&lt;g7&gt;分子&lt;/g7&gt;、&lt;g8&gt;有機体&lt;/g8&gt;、&lt;g9&gt;ページ&lt;/g9&gt;）を作成するための、これ以上分割できない基本単位です。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T063440Z" creationid="yoota" creationdate="20170510T045753Z">
+        <seg>ブラッド・フロスト（Brad Frost）の&lt;g1&gt;&lt;g2&gt;アトミックデザイン&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注16）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;では、パラグラフ（段落）は&lt;g6&gt;原子&lt;/g6&gt;にあたります。複雑なパターン（&lt;g7&gt;分子&lt;/g7&gt;、&lt;g8&gt;有機体&lt;/g8&gt;、&lt;g9&gt;ページ&lt;/g9&gt;）を作成するための、これ以上分割できない基本単位です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5026,12 +5027,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       <note>(太田)  around an applicationが訳から落ちているように思いましたので「アプリケーションの」を補いました。
 「点々と記述する」はちょっとイメージがわきませんでした。原文では「孤立したものを点在させる」と言っているように思います。いったん「ばらばらに記述する」としてみましたが、もっと良い訳があれば。
 
-(伊原) まとまった長文に対するものなので、各所に記述する〜ぐらいにしてみました。</note>
+(伊原) まとまった長文に対するものなので、各所に記述する〜ぐらいにしてみました。
+
+(岡本) でも→にも、でも→にも</note>
       <tuv lang="EN-US">
         <seg>This applies whether you’re in the business of publishing lengthy, florid prose or dotting isolated descriptions and messages around an application.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170514T131550Z" creationid="yoota" creationdate="20170510T052442Z">
-        <seg>これは、美辞麗句の多い長文を公開する場合でも、アプリケーションが出す個々の説明やメッセージを各所に記述する場合でも当てはまります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T063723Z" creationid="yoota" creationdate="20170510T052442Z">
+        <seg>これは、美辞麗句の多い長文を公開する場合にも、アプリケーションが出す個々の説明やメッセージを各所に記述する場合にも当てはまります。</seg>
       </tuv>
     </tu>
     <tu>
