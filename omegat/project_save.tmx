@@ -3468,8 +3468,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <tuv lang="EN-US">
         <seg>My blog’s local domain is &lt;g4&gt;heydonworks.com&lt;/g4&gt;, so I’d build a selector like this:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T052250Z" creationid="yoota" creationdate="20170511T105135Z">
-        <seg>私のブログのドメインは&lt;g4&gt;heydonworks.com&lt;/g4&gt;なので、セレクタを次のように組み立てします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T052303Z" creationid="yoota" creationdate="20170511T105135Z">
+        <seg>私のブログのドメインは&lt;g4&gt;heydonworks.com&lt;/g4&gt;なので、セレクタを次のように組み立てます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3828,6 +3828,7 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Providing the Icon</seg>
       </tuv>
@@ -5319,7 +5320,9 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
     </tu>
     <tu>
       <note>(太田) 語順を調整しました。
-これはhttpsで始まるリンクにも効果がありますが、// で始まるリンクやクエリに heydonworks.com を含むようなリンクを誤判定します。とはいえ訳注を書くほどでもないか。</note>
+これはhttpsで始まるリンクにも効果がありますが、// で始まるリンクやクエリに heydonworks.com を含むようなリンクを誤判定します。とはいえ訳注を書くほどでもないか。
+
+(伊原) LGTM. //スタートは確かにそうですね。</note>
       <tuv lang="EN-US">
         <seg>Translated, the selector reads, “Links with &lt;g1&gt;href&lt;/g1&gt; values that start with &lt;g2&gt;http&lt;/g2&gt; but do not contain the string &lt;g3&gt;heydonworks.com&lt;/g3&gt;.”</seg>
       </tuv>
