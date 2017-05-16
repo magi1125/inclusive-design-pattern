@@ -1779,7 +1779,12 @@ massiveは「大きくて重い、大規模な」というような意味です�
 余談ですがIE11だとmain要素のデフォルトのdisplayがblockではないらしく、display:blockを指定しないと意図通りに機能しませんでした。Chromeではデフォルトdisplay:blockの模様。
 
 (伊原) たとえば　が重なるので、例として　としました。
-min-widthにremを使われると例としてはわかりにくいですね…。</note>
+min-widthにremを使われると例としてはわかりにくいですね…。
+
+(太田) 「例として」→「以下の例では」としてみました。この文が以下の例の話なのかどうか分かりにくいと思っていたので渡りに船ということで。
+
+
+</note>
       <tuv lang="EN-US">
         <seg>For example, where I increase the font size for wider desktop screens, the measure — which is defined using a unit relative to the font size (rem) — also increases.</seg>
       </tuv>
