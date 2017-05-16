@@ -749,12 +749,14 @@ font-size: 16px;
     <tu>
       <note>(伊原) 塗りつぶされたボックスが作られる➞ボックスが塗りつぶされる、としました。
 
-(岡本) 分かり→わかり</note>
+(岡本) 分かり→わかり
+
+(太田) 元々存在するボックスが塗りつぶされるわけではなく、塗りつぶされたボックスが作られるので、ちょっとニュアンスがかわってしまっているように思います。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A background color creates a filled box which is easier to identify as focus moves between elements than the dotted outline some browsers provide by default.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T082223Z" creationid="yoota" creationdate="20170511T101643Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;背景色によってボックスが塗りつぶされます。一部のブラウザがデフォルトで提供する点線のアウトラインよりも、要素間でのフォーカスの移動がわかりやすくなります。&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170516T120327Z" creationid="yoota" creationdate="20170511T101643Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;背景色で塗りつぶされたボックスが作られます。一部のブラウザがデフォルトで提供する点線のアウトラインよりも、要素間でのフォーカスの移動がわかりやすくなります。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
