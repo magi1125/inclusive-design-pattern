@@ -771,7 +771,9 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「制御」は大げさな感があったので「色だけを変える」としました。</note>
+      <note>(太田) 「制御」は大げさな感があったので「色だけを変える」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;When using custom, gradient-based underlines you have the luxury of being able to control their color independently of the font color.&lt;/g3&gt;</seg>
       </tuv>
@@ -4591,6 +4593,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       <note>画像alt</note>
       <tuv lang="EN-US">
         <seg>The gradient version pairs blue text with a gray underline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T035503Z">
+        <seg>グラデーション版は、青い文字とグレーのアンダーラインの組み合わせになっている。</seg>
       </tuv>
     </tu>
     <tu>
