@@ -1642,12 +1642,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       <note>(太田) 原著にある&lt;h2&gt;がヌケ (OmegaTにもってくるところで抜けたかも)。
 とはいえ　&lt;h2&gt; はなくても意味が通じるというか、下の例には全く出てきませんしむしろないほうが意味が通じるようにも思います。
 「リンク」はlink要素のことなので「link要素」としました。
+
+(岡本) 分かって→わかって
 </note>
       <tuv lang="EN-US">
         <seg>For example, if you know your &lt;g7&gt;&lt;h2&gt;&lt;/g7&gt; headings will use just the uppercase letters from a particular font, you can include the link like so:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T065804Z" creationid="yoota" creationdate="20170501T064741Z">
-        <seg>たとえば、&lt;g7&gt;&lt;h2&gt;&lt;/g7&gt;見出しで特定フォントの大文字だけを使うと分かっている場合、link要素を以下のように書くことができます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T014344Z" creationid="yoota" creationdate="20170501T064741Z">
+        <seg>たとえば、&lt;g7&gt;&lt;h2&gt;&lt;/g7&gt;見出しで特定フォントの大文字だけを使うとわかっている場合、link要素を以下のように書くことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2269,12 +2271,14 @@ http://www.w3.org/TR/CSS1/#length-units
       <note>(太田) rendered を「レンダリング」としました。
 「しなければなりません」とは言っていないので少し調整しました。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 1つの→ひとつの</note>
       <tuv lang="EN-US">
         <seg>In a single-page application, your singular &lt;g4&gt;&lt;main&gt;&lt;/g4&gt; should be where each of your functionality-heavy views is rendered.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T095814Z" creationid="yoota" creationdate="20170501T095558Z">
-        <seg>シングルページアプリケーションの場合、1つの&lt;g4&gt;&lt;main&gt;&lt;/g4&gt;で、さまざまな機能が盛り込まれた各ビューをレンダリングすることになるでしょう。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T014422Z" creationid="yoota" creationdate="20170501T095558Z">
+        <seg>シングルページアプリケーションの場合、ひとつの&lt;g4&gt;&lt;main&gt;&lt;/g4&gt;で、さまざまな機能が盛り込まれた各ビューをレンダリングすることになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4059,12 +4063,14 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
     <tu>
       <note>(太田) ユーザーの能力の問題でショートカットが使えないわけではなく、ショートカットの機能が提供されていないという話です。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 青眼の→目が見えている</note>
       <tuv lang="EN-US">
         <seg>Such people are not afforded the same shortcuts as screen reader operators, so it’s them we’re mostly helping to skip over navigation and other header content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T110040Z" creationid="yoota" creationdate="20170501T105028Z">
-        <seg>晴眼のキーボードユーザーには、スクリーンリーダーのようなショートカットの機能が提供されていません。ナビゲーションや他のヘッダーコンテンツをスキップする機能は、彼らのためのものなのです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T014618Z" creationid="yoota" creationdate="20170501T105028Z">
+        <seg>目が見えているキーボードユーザーには、スクリーンリーダーのようなショートカットの機能が提供されていません。ナビゲーションや他のヘッダーコンテンツをスキップする機能は、彼らのためのものなのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4611,12 +4617,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
     <tu>
       <note>(太田) LGTM
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 青眼の→目が見えている</note>
       <tuv lang="EN-US">
         <seg>The principal beneficiaries of skip links are sighted keyboard users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T104643Z" creationid="yoota" creationdate="20170501T104643Z">
-        <seg>スキップリンクの恩恵を最も受けるのは、晴眼のキーボードユーザーです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T014451Z" creationid="yoota" creationdate="20170501T104643Z">
+        <seg>スキップリンクの恩恵を最も受けるのは、目が見えているキーボードユーザーです。</seg>
       </tuv>
     </tu>
     <tu>
