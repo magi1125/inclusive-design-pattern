@@ -457,6 +457,17 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <note>ここも訳す感じで。「アイコンの幅」としました。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g37&gt;text-indent&lt;/g37&gt;&lt;g38&gt;:&lt;/g38&gt; 1em&lt;g39&gt;;&lt;/g39&gt; &lt;g40&gt;/* the width of the icon */&lt;/g40&gt;
+&lt;g41&gt;}&lt;/g41&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T053608Z" creationid="rikiha" creationdate="20170516T053608Z">
+        <seg>&lt;g37&gt;text-indent&lt;/g37&gt;&lt;g38&gt;:&lt;/g38&gt; 1em&lt;g39&gt;;&lt;/g39&gt; &lt;g40&gt;/* アイコンの幅 */&lt;/g40&gt;
+&lt;g41&gt;}&lt;/g41&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g40&gt;&lt;!-- article content here --&gt;&lt;/g40&gt;
 &lt;g41&gt;&lt;g42&gt;&lt;g43&gt;&lt;/&lt;/g43&gt;main&lt;/g42&gt;&lt;g44&gt;&gt;&lt;/g44&gt;&lt;/g41&gt;
