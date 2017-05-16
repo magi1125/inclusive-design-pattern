@@ -512,7 +512,9 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
-      <note>(太田)  元訳ではここに /* デフォルトなので、この行は不要です */  というコメントがありましたが電子版のファイルにはそのコメントはないようです。「デフォルトなので」は事実ではない (1em ならデフォルトだが 1remを指定することには別の意味がある) ので、コメントなしで良いかと思います。</note>
+      <note>(太田)  元訳ではここに /* デフォルトなので、この行は不要です */  というコメントがありましたが電子版のファイルにはそのコメントはないようです。「デフォルトなので」は事実ではない (1em ならデフォルトだが 1remを指定することには別の意味がある) ので、コメントなしで良いかと思います。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g5&gt;font-size&lt;/g5&gt;&lt;g6&gt;:&lt;/g6&gt; 1rem&lt;g7&gt;;&lt;/g7&gt;</seg>
       </tuv>
@@ -5196,6 +5198,9 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       <note>画像alt</note>
       <tuv lang="EN-US">
         <seg>Two paragraphs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T010842Z">
+        <seg>2つのパラグラフ。</seg>
       </tuv>
     </tu>
     <tu>
