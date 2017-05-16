@@ -3650,11 +3650,12 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここで言う相対的な単位というのはwidth/heightを指しているので、補いました。</note>
       <tuv lang="EN-US">
         <seg>Note the use of relative units and a percentage-based &lt;g1&gt;background-size&lt;/g1&gt; to make sure the icon scales with the text when it is resized by the user or in a media query.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T110123Z" creationid="yoota" creationdate="20170511T110123Z">
-        <seg>ユーザーによって、またはメディアクエリでテキストのサイズが変更されたときに、これに合わせてアイコンのサイズが変更されるよう、相対的な単位およびパーセンテージに基づく&lt;g1&gt;background-size&lt;/g1&gt;が使用されていることに注目してください。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T053350Z" creationid="yoota" creationdate="20170511T110123Z">
+        <seg>ユーザーによって、またはメディアクエリでテキストのサイズが変更されたときに、これに合わせてアイコンのサイズが変更されるよう、相対的な単位によるwidthとheight、およびパーセンテージに基づく&lt;g1&gt;background-size&lt;/g1&gt;が使用されていることに注目してください。</seg>
       </tuv>
     </tu>
     <tu>
