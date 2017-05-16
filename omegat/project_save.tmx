@@ -762,6 +762,7 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The danger of a line height that is not relative to the font size.&lt;/g3&gt;</seg>
       </tuv>
@@ -4554,9 +4555,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>画像alt
+
+(伊原) 下訳を反映</note>
       <tuv lang="EN-US">
         <seg>The left one has a comfortable line height.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T010855Z">
+        <seg>左は読みやすい行の高さになっている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,9 +4624,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>画像alt
+
+(伊原) 下訳を反映</note>
       <tuv lang="EN-US">
         <seg>The right one has the same line height but with larger letterforms, forcing each line to overlap.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T010859Z">
+        <seg>右は、行の高さは同じだが文字が大きいため、各行が重なってしまっている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5503,11 +5514,12 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここの type は書体なのかどうか。書体デザイナーが色を検討する、というのには違和感があります。文字を扱うデザイナー、ぐらいの感じのような。だとするとtypeを訳さずに、単に「デザイナー」で良いのかもしれません。</note>
       <tuv lang="EN-US">
         <seg>Why so many type designers are enamored with pale gray text on a white background, I’ll never know.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T071330Z" creationid="yoota" creationdate="20170511T071330Z">
-        <seg>なぜこれほど多くの書体デザイナーが、白の背景上に薄いグレーのテキストを好んで使うのか、私には分かりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T011334Z" creationid="yoota" creationdate="20170511T071330Z">
+        <seg>なぜこれほど多くのデザイナーが、白の背景上に薄いグレーのテキストを好んで使うのか、私には分かりません。</seg>
       </tuv>
     </tu>
     <tu>
