@@ -2449,12 +2449,14 @@ it would have liked to begin with は最初から好まれていたであろう�
 あるいは訳注?
 訳注案: 
 フォントの読み込みに時間がかかる場合、特に何もしないと、テキストはまずデフォルトのフォントで表示されます。その後、フォントの読み込みが終わった時点で、該当のフォントに変化しますが、読み込み完了までの間はデフォルトのフォントが見えていることになります。このとき、デフォルトのフォントが一瞬見えてしまう現象を、一般に FOUT (Flash of Unstyled Text) と呼びます。この現象への対策として、フォントの読み込み中はテキストを非表示にしておき、読み込みが完了してから表示させるという手法があります。この場合、テキストが何も表示されていない状態が一瞬見えることになるため、これを FOIT(Flash of Invisible Text) と呼んでいます。
+
+(岡本) !→！
 </note>
       <tuv lang="EN-US">
         <seg>In particular, FOIT (flash of invisible text) should be avoided: if the font resource is indefinitely stalled (it happens!), users of some devices and browsers will be stuck with a page that has no visible text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170428T105336Z" creationid="yoota" creationdate="20170427T032457Z">
-        <seg>特にFOIT（Flash of Invisible Text）は避けた方が賢明です。フォントのリソースがいつまでも読み込まれないと（実際よくあることです!）、デバイスやブラウザによってはページのテキストが全く表示されない状態で止まってしまいます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T014047Z" creationid="yoota" creationdate="20170427T032457Z">
+        <seg>特にFOIT（Flash of Invisible Text）は避けた方が賢明です。フォントのリソースがいつまでも読み込まれないと（実際よくあることです！）、デバイスやブラウザによってはページのテキストが全く表示されない状態で止まってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4500,12 +4502,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
     <tu>
       <note>(太田) 「それこそ桁がいくつも違ってきます。」はわかりますが、原文の "!" を生かすべく「それこそ桁違いです!」としてみました。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) !→！</note>
       <tuv lang="EN-US">
         <seg>The difference in file size between an entire font and one subsetted to just the ampersand glyph you want will be many orders of magnitude!</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T053611Z" creationid="yoota" creationdate="20170501T053331Z">
-        <seg>フォント全体のファイルサイズと、必要な文字、たとえばアンパサンド記号（&amp;）のみをサブセット化した場合のファイルサイズは、それこそ桁違いです!</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T014206Z" creationid="yoota" creationdate="20170501T053331Z">
+        <seg>フォント全体のファイルサイズと、必要な文字、たとえばアンパサンド記号（&amp;）のみをサブセット化した場合のファイルサイズは、それこそ桁違いです！</seg>
       </tuv>
     </tu>
     <tu>
