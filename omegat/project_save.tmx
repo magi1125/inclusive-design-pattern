@@ -2236,6 +2236,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>If you’re going to get something right from the outset make it the content, &lt;g8&gt;not&lt;/g8&gt; the typography, layout or color scheme.</seg>
       </tuv>
@@ -5049,6 +5050,7 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Things to Avoid</seg>
       </tuv>
