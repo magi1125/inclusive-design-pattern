@@ -3486,8 +3486,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <tuv lang="EN-US">
         <seg>Lines that are too long are difficult to read because, on reaching the end of the line, scanning back to find the start of the following line becomes problematic.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170515T031652Z" creationid="yoota" creationdate="20170510T084052Z">
-        <seg>行が長すぎると、行末まで読んだ後、次の行の行頭を探すのが大変になるため読みにくくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170516T090321Z" creationid="yoota" creationdate="20170510T084052Z">
+        <seg>行が長すぎると、行末まで読んだ後、次の行の行頭を探すのが大変になるため、読みにくくなります。</seg>
       </tuv>
     </tu>
     <tu>
