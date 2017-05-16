@@ -3790,7 +3790,11 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
     <tu>
       <note>(伊原) ここで言う相対的な単位というのはwidth/heightを指しているので、補いました。
 
-(太田) 補ったwidthとheightがプロパティ名であればスタイルをつける必要がありますがどうしましょうか。</note>
+(太田) 補ったwidthとheightがプロパティ名であればスタイルをつける必要がありますがどうしましょうか。
+
+(伊原) 試しに&lt;g1&gt;&lt;/g1&gt;でくくってみたら、無事code要素になりました。
+----
+&lt;p&gt;ユーザーによって、またはメディアクエリでテキストのサイズが変更されたときに、これに合わせてアイコンのサイズが変更されるよう、相対的な単位による&lt;code&gt;width&lt;/code&gt;と&lt;code&gt;height&lt;/code&gt;、およびパーセンテージに基づく&lt;code&gt;background-size&lt;/code&gt;が使用されていることに注目してください。&lt;/p&gt;</note>
       <tuv lang="EN-US">
         <seg>Note the use of relative units and a percentage-based &lt;g1&gt;background-size&lt;/g1&gt; to make sure the icon scales with the text when it is resized by the user or in a media query.</seg>
       </tuv>
