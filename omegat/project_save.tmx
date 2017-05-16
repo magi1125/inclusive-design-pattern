@@ -1351,12 +1351,14 @@ heading level oneは「見出しレベル1」ですね。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) イコノグラフィーは「アイコン」としてしまってよいのではないでしょうか。</note>
+      <note>(太田) イコノグラフィーは「アイコン」としてしまってよいのではないでしょうか。
+
+(伊原) 「で」が連続するので語尾を調整。</note>
       <tuv lang="EN-US">
         <seg>By employing a modicum of fairly advanced CSS, it’s possible to provide iconography within paragraph text which is inclusive on two counts:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T104151Z" creationid="yoota" creationdate="20170511T103920Z">
-        <seg>高度なCSSを少し取り入れることで、次の2点においてインクルーシブな形で、パラグラフテキスト内にアイコンを入れることが可能になります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T051938Z" creationid="yoota" creationdate="20170511T103920Z">
+        <seg>高度なCSSを少し取り入れると、次の2点においてインクルーシブな形で、パラグラフテキスト内にアイコンを入れることが可能になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2925,6 +2927,7 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>It should enable them to get on with what they’re good at without the fear of breaking anything.</seg>
       </tuv>
