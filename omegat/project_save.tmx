@@ -4188,11 +4188,12 @@ target はそのままカタカナだと意味がとりにくいように思い�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順を調整（標準のブラウザ動作➞ブラウザの標準の動作）</note>
       <tuv lang="EN-US">
         <seg>Thanks to standard browser behavior, any &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; element with an &lt;g3&gt;href&lt;/g3&gt; attribute which is the next focusable element within the document will gain focus when the user hits the &lt;g4&gt;Tab&lt;/g4&gt; key.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T100536Z" creationid="yoota" creationdate="20170511T100459Z">
-        <seg>標準のブラウザ動作のおかげで、ユーザーが&lt;g4&gt;Tab&lt;/g4&gt;キーを押すと、ドキュメント内で次にフォーカス可能な要素である、&lt;g3&gt;href&lt;/g3&gt;属性を持つ&lt;g2&gt;&lt;a&gt;&lt;/g2&gt;要素にフォーカスが移動します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T050816Z" creationid="yoota" creationdate="20170511T100459Z">
+        <seg>ブラウザの標準の動作のおかげで、ユーザーが&lt;g4&gt;Tab&lt;/g4&gt;キーを押すと、ドキュメント内で次にフォーカス可能な要素である、&lt;g3&gt;href&lt;/g3&gt;属性を持つ&lt;g2&gt;&lt;a&gt;&lt;/g2&gt;要素にフォーカスが移動します。</seg>
       </tuv>
     </tu>
     <tu>
