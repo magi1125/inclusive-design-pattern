@@ -2680,12 +2680,12 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) イメージ➞画像としました</note>
+      <note>(伊原) それを実現するには➞その場合、イメージ➞画像としました</note>
       <tuv lang="EN-US">
         <seg>In which case, we don’t want to ask editors to have to upload and link icon images or — worse still — edit the source to add a &lt;g1&gt;class&lt;/g1&gt; attribute to each external link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T052617Z" creationid="yoota" creationdate="20170511T105625Z">
-        <seg>それを実現するには、編集者にアイコン画像をアップロードしてリンクするよう頼むのは避けたいですし、ましてや、ソースを編集して各外部リンクに&lt;g1&gt;class&lt;/g1&gt;属性を追加してもらうことなど頼めません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T052921Z" creationid="yoota" creationdate="20170511T105625Z">
+        <seg>その場合、編集者にアイコン画像をアップロードしてリンクするよう頼むのは避けたいですし、ましてや、ソースを編集して各外部リンクに&lt;g1&gt;class&lt;/g1&gt;属性を追加してもらうことなど頼めません。</seg>
       </tuv>
     </tu>
     <tu>
