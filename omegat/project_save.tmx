@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -126,12 +126,14 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(岡本) 17→18</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;The British Dyslexia Association notes some specific characteristics&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; that can aid legibility.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T061632Z" creationid="yoota" creationdate="20170510T061521Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;英国ディスレクシア協会（British Dyslexia Association）は、読みやすさを向上できるいくつかの特徴に言及しています。&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注17）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T065829Z" creationid="yoota" creationdate="20170510T061521Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;英国ディスレクシア協会（British Dyslexia Association）は、読みやすさを向上できるいくつかの特徴に言及しています。&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注18）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -199,12 +201,14 @@ Do not put everything in the same bag! のような意味のようです。
     <tu>
       <note>(太田) 一致しているというより一貫性があるということでしょうか。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 16→17</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Are the metrics (such as &lt;g2&gt;&lt;g3&gt;x-height&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;2&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;) consistent between letterforms?</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T060227Z" creationid="yoota" creationdate="20170510T055949Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt; 各種の文字のメトリクス（&lt;g2&gt;&lt;g3&gt;x-height&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注16）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;など）に一貫性があるか？</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T065005Z" creationid="yoota" creationdate="20170510T055949Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt; 各種の文字のメトリクス（&lt;g2&gt;&lt;g3&gt;x-height&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注17）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;など）に一貫性があるか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -1899,12 +1903,14 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
     <tu>
       <note>(太田) 「好評」は日本語としてすこし違和感があります。「読みやすい」としました。
 
-(伊原) LGTM. Generousのニュアンスを出すと「たっぷりとした｜気前よくついたアセンダとディセンダ」となるのですが、ちょっとわかりにくいのでママで。</note>
+(伊原) LGTM. Generousのニュアンスを出すと「たっぷりとした｜気前よくついたアセンダとディセンダ」となるのですが、ちょっとわかりにくいのでママで。
+
+(岡本) 分かり→わかり</note>
       <tuv lang="EN-US">
         <seg>Generous ascenders (e.g. the vertical line in &lt;g6&gt;d&lt;/g6&gt;) and descenders (e.g. the down-pointing line in &lt;g7&gt;y&lt;/g7&gt;) proved popular among dyslexic readers in their research.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T063637Z" creationid="yoota" creationdate="20170510T062004Z">
-        <seg>彼らの研究では、アセンダ（&lt;g6&gt;d&lt;/g6&gt;の縦線など）とディセンダ（&lt;g7&gt;y&lt;/g7&gt;の下向きの線など）が大きい方が、ディスレクシア（難読症）の人たちにとって読みやすいことが分かりました。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T070105Z" creationid="yoota" creationdate="20170510T062004Z">
+        <seg>彼らの研究では、アセンダ（&lt;g6&gt;d&lt;/g6&gt;の縦線など）とディセンダ（&lt;g7&gt;y&lt;/g7&gt;の下向きの線など）が大きい方が、ディスレクシア（難読症）の人たちにとって読みやすいことがわかりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2766,12 +2772,14 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(岡本) 従来からの知恵に頼るのではなく、検討中の書体については、→　検討中の書体については、従来からの知恵に頼るのではなく、</note>
       <tuv lang="EN-US">
         <seg>Instead of relying on conventional wisdom, here are a few things to ask about a typeface under consideration:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T055839Z" creationid="yoota" creationdate="20170510T055839Z">
-        <seg>従来からの知恵に頼るのではなく、検討中の書体については、以下について考える必要があります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T064257Z" creationid="yoota" creationdate="20170510T055839Z">
+        <seg>検討中の書体については、従来からの知恵に頼るのではなく、以下について考える必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3782,12 +3790,14 @@ https://tympanus.net/codrops/css_reference/hyphens/
       <note>(太田) ここのsupportedは裏付けがあるのではなく、支持されているという意味かと思います。
 「セリフフォント」「サンセリフフォント」は字面が見づらいので「セリフ書体」「サンセリフ書体」としたほうが読みやすいかも。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>One well-supported claim is that sans serif fonts are more readable than serif ones.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T055456Z" creationid="yoota" creationdate="20170510T054950Z">
-        <seg>よく支持されている意見の1つは、セリフ書体よりサンセリフ書体の方が読みやすいというものです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T063836Z" creationid="yoota" creationdate="20170510T054950Z">
+        <seg>よく支持されている意見のひとつは、セリフ書体よりサンセリフ書体の方が読みやすいというものです。</seg>
       </tuv>
     </tu>
     <tu>
