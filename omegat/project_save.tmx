@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -421,11 +421,12 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <note>(岡本) 付ける→づける</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Wording and typefaces designed to impress rather than communicate.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T045304Z" creationid="yoota" creationdate="20170512T045304Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;• 伝達することではなく、印象付けることを目的にデザインした言葉遣いや書体</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T084929Z" creationid="yoota" creationdate="20170512T045304Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;• 伝達することではなく、印象づけることを目的にデザインした言葉遣いや書体</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,12 +1799,14 @@ min-widthにremを使われると例としてはわかりにくいですね…�
       <note>(太田) 「ブログ記事」が何のことか分かりにくく感じたので「「ブログ記事」の章」と補いました。
 coverは説明するというか触れている程度かもしれません。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 35→36</note>
       <tuv lang="EN-US">
         <seg>For example, “The Blog Post” will cover testing content readability against the &lt;g1&gt;&lt;g2&gt;Flesch-Kincaid scale&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;22&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T033723Z" creationid="yoota" creationdate="20170512T033610Z">
-        <seg>たとえば「ブログ記事」の章では、&lt;g1&gt;&lt;g2&gt;Flesch-Kincaidスケール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注35）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を指標としたコンテンツの読みやすさのテストについて触れています。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T084636Z" creationid="yoota" creationdate="20170512T033610Z">
+        <seg>たとえば「ブログ記事」の章では、&lt;g1&gt;&lt;g2&gt;Flesch-Kincaidスケール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注36）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を指標としたコンテンツの読みやすさのテストについて触れています。</seg>
       </tuv>
     </tu>
     <tu>
