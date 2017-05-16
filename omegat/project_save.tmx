@@ -707,6 +707,7 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 塗りつぶされたボックスが作られる➞ボックスが塗りつぶされる、としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A background color creates a filled box which is easier to identify as focus moves between elements than the dotted outline some browsers provide by default.&lt;/g3&gt;</seg>
       </tuv>
