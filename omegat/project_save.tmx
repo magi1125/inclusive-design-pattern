@@ -5391,7 +5391,9 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「標準化」→「見た目をそろえる」としました。</note>
+      <note>(太田) 「標準化」→「見た目をそろえる」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>We can strengthen and simultaneously normalize the appearance of focus styles for our paragraph links across browsers by using a &lt;g3&gt;background-color&lt;/g3&gt; solution.</seg>
       </tuv>
