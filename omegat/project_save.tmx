@@ -973,13 +973,13 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       <note>(伊原) 訳語調を軽減しました。
 
 (太田) ちょっと見直したいです。「実は有効」は日本語として変な印象です。
-そもそもaccordinglyは「すなわち」ではないかも。
+accordinglyは「すなわち」ではないかも。文意を分かりにくくする不要な接続詞であるようにも思えるので、とってしまったほうがいいかも。
 </note>
       <tuv lang="EN-US">
         <seg>Accordingly, serif typefaces are generally regarded as overcomplex, but a purposeful use of serifs to differentiate characters is actually beneficial.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170516T064451Z" creationid="yoota" creationdate="20170510T070414Z">
-        <seg>複雑すぎるとみなされているセリフ書体も、文字を区別するために意図的に使えば、実際に有効に使うことができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170516T064705Z" creationid="yoota" creationdate="20170510T070414Z">
+        <seg>複雑すぎるとみなされているセリフ書体も、文字を区別するために意図的に使えば、実際に読みやすくなることがあります。</seg>
       </tuv>
     </tu>
     <tu>
