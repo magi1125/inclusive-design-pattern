@@ -5505,11 +5505,12 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) レベルというのが、コントラストに掛かっているのではなく全体に掛かっているように読めるため、削りました。</note>
       <tuv lang="EN-US">
         <seg>What makes things hard is that, unlike dealing in accessible interaction states or color contrast levels, accessible wording is not easy to measure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T032836Z" creationid="yoota" creationdate="20170512T032836Z">
-        <seg>難しいのは、アクセシブルなインタラクション状態や色のコントラストレベルでの対処とは異なり、アクセシブルな言葉遣いは簡単には評価できないということです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T054851Z" creationid="yoota" creationdate="20170512T032836Z">
+        <seg>難しいのは、アクセシブルなインタラクションの状態や色のコントラストといった対応とは異なり、アクセシブルな言葉遣いは簡単には評価できないということです。</seg>
       </tuv>
     </tu>
     <tu>
