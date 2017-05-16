@@ -1049,7 +1049,8 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
     <tu>
       <note>(太田) 原文で強調されている and は訳出する必要がありそうです。
 passes muster は「検閲をパスする」というヘイドンフレーズです。ひとまず「対象になります」としておきました。
-</note>
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Any link &lt;g1&gt;href&lt;/g1&gt; which begins with &lt;g2&gt;http&lt;/g2&gt; (i.e. is not a relative link) &lt;g3&gt;and&lt;/g3&gt; does not link to the current domain passes muster.</seg>
       </tuv>
