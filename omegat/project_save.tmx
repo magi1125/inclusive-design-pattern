@@ -710,8 +710,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A background color creates a filled box which is easier to identify as focus moves between elements than the dotted outline some browsers provide by default.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T101852Z" creationid="yoota" creationdate="20170511T101643Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;背景色によって塗りつぶされたボックスが作られます。一部のブラウザがデフォルトで提供する点線のアウトラインよりも、要素間でのフォーカスの移動が分かりやすくなります。&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T051204Z" creationid="yoota" creationdate="20170511T101643Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;背景色によってボックスが塗りつぶされます。一部のブラウザがデフォルトで提供する点線のアウトラインよりも、要素間でのフォーカスの移動が分かりやすくなります。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4514,6 +4514,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       <note>画像alt</note>
       <tuv lang="EN-US">
         <seg>The basic dotted outline focus style compared with a blue background focus style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T051116Z">
+        <seg>基本的な点線のアウトラインによるフォーカススタイルと、青い背景のフォーカススタイルの比較。</seg>
       </tuv>
     </tu>
     <tu>
