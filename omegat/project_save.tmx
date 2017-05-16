@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -920,12 +920,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 訳の位置がちょっとズラしてあったので、直しました。</note>
+      <note>(伊原) 訳の位置がちょっとズラしてあったので、直しました。
+
+(岡本) 1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>A mouse is an HID.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T050230Z" creationid="yoota" creationdate="20170511T095954Z">
-        <seg>マウスもその1つです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T081546Z" creationid="yoota" creationdate="20170511T095954Z">
+        <seg>マウスもそのひとつです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3783,12 +3785,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM. カタカナが多くてルーっぽいのがあれですが…w</note>
+      <note>(伊原) LGTM. カタカナが多くてルーっぽいのがあれですが…w
+
+(岡本) 1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>One approach to inclusive interaction design is to look at interfaces from the perspective of human interface devices (HIDs): different devices which allow input from and/or output to a human user.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T050207Z" creationid="yoota" creationdate="20170511T095940Z">
-        <seg>インクルーシブなインタラクションデザインへのアプローチの1つに、ヒューマンインターフェイスデバイス（HID）の視点からインターフェイスを見るという方法があります。HIDとは、人間のユーザーが入出力を行えるさまざまな機器のことです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T081742Z" creationid="yoota" creationdate="20170511T095940Z">
+        <seg>インクルーシブなインタラクションデザインへのアプローチのひとつに、ヒューマンインターフェイスデバイス（HID）の視点からインターフェイスを見るという方法があります。HIDとは、人間のユーザーが入出力を行えるさまざまな機器のことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4144,12 +4148,14 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(岡本) 29→30、30→31</note>
       <tuv lang="EN-US">
         <seg>So are keyboards, touch displays, refreshable braille displays and keyboards, &lt;g1&gt;&lt;g2&gt;joysticks&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;16&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; and &lt;g6&gt;&lt;g7&gt;switches&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;17&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T100129Z" creationid="yoota" creationdate="20170511T100129Z">
-        <seg>その他には、キーボード、タッチディスプレイ、点字ディスプレイおよびキーボード、&lt;g1&gt;&lt;g2&gt;ジョイスティック&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注29）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;、&lt;g6&gt;&lt;g7&gt;スイッチ&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注30）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;などがあります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T081513Z" creationid="yoota" creationdate="20170511T100129Z">
+        <seg>その他には、キーボード、タッチディスプレイ、点字ディスプレイおよびキーボード、&lt;g1&gt;&lt;g2&gt;ジョイスティック&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注30）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;、&lt;g6&gt;&lt;g7&gt;スイッチ&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注31）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;などがあります。</seg>
       </tuv>
     </tu>
     <tu>
