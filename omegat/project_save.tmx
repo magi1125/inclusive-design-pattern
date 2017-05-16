@@ -1398,12 +1398,14 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) そのまま訳せば「祝福でもあり、呪いでもある」。</note>
+      <note>(太田) そのまま訳せば「祝福でもあり、呪いでもある」。
+
+(伊原) ここはヘイドン調でもいいように思いました。</note>
       <tuv lang="EN-US">
         <seg>CSS is a blessing and a curse.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T073913Z" creationid="yoota" creationdate="20170511T073913Z">
-        <seg>CSSはありがたくもあり、厄介でもあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T031107Z" creationid="yoota" creationdate="20170511T073913Z">
+        <seg>CSSは祝福でもあり、呪いでもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,6 +2680,7 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Inline Links</seg>
       </tuv>
@@ -2775,7 +2778,9 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
     </tu>
     <tu>
       <note>(太田) 大事なことなので2回言いました?
-原文は前半後半全く同一なので、訳でも同一のほうがいいかも。</note>
+原文は前半後半全く同一なので、訳でも同一のほうがいいかも。
+
+(伊原) LGTM. 何がいいたいのかわからなくはないですが、謎ですね。</note>
       <tuv lang="EN-US">
         <seg>It gives us the freedom to exercise our creativity, and it &lt;g1&gt;gives us the freedom to exercise our creativity&lt;/g1&gt;.</seg>
       </tuv>
