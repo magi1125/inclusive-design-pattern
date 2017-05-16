@@ -422,6 +422,15 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここは訳す感じで。「代替テキスト」としました。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g26&gt;/* alternative text rules */&lt;/g26&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170516T053520Z" creationid="rikiha" creationdate="20170516T053520Z">
+        <seg>&lt;g26&gt;/* 代替テキスト */&lt;/g26&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) "external link" はふつうにユーザーに読ませるテキストなので、訳すべきかなと。
 </note>
       <tuv lang="EN-US">
