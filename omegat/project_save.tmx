@@ -1266,7 +1266,9 @@ heading level oneは「見出しレベル1」ですね。</note>
     </tu>
     <tu>
       <note>(太田) 「ぼんやりとした青い光の輪」はChromeのデフォルトフォーカススタイルを指しています。ママで良いと思います。
-「ドットの」は「点線の」としました。</note>
+「ドットの」は「点線の」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Browsers implement their own focus styles ranging from dotted outlines to fuzzy blue halos.</seg>
       </tuv>
@@ -5064,6 +5066,7 @@ out of sight は「非表示」とされていましたが、文字通り「視�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>This is where &lt;g1&gt;focus styles&lt;/g1&gt; come in.</seg>
       </tuv>
