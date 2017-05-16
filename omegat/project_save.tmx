@@ -2797,12 +2797,14 @@ body内のの子要素にlang属性を、ですね。</note>
       <note>(太田) 子属性とは!?
 body内のの子要素にlang属性を、ですね。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>It is possible to switch languages within a page using the &lt;g1&gt;lang&lt;/g1&gt; attribute on child elements within the &lt;g2&gt;&lt;body&gt;&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T060218Z" creationid="yoota" creationdate="20170426T060218Z">
-        <seg>&lt;g2&gt;&lt;body&gt;&lt;/g2&gt;内の子要素に&lt;g1&gt;lang&lt;/g1&gt;属性を指定して、1つのページの中で言語を切り替えることも可能です。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012654Z" creationid="yoota" creationdate="20170426T060218Z">
+        <seg>&lt;g2&gt;&lt;body&gt;&lt;/g2&gt;内の子要素に&lt;g1&gt;lang&lt;/g1&gt;属性を指定して、ひとつのページの中で言語を切り替えることも可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3702,12 +3704,14 @@ modular, often dynamic content は直訳すると「組み立て式の、しば�
     <tu>
       <note>(太田) 原文でダッシュを使用している箇所はダッシュを使用するようにしました。「際立った点」という訳は何が際立っているのかイマイチ不明瞭に感じたので、「最も分かりやすい」としてみました。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 分かりやすい→わかりやすい</note>
       <tuv lang="EN-US">
         <seg>Perhaps most starkly, a page that does not have a language declared — or has the wrong language declared for the content — will not trigger the adoption of an appropriate synthetic voice profile when used with a screen reader.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170419T103339Z" creationid="yoota" creationdate="20170419T102025Z">
-        <seg>おそらく最も分かりやすいのは、言語が明示されていないページ――あるいは間違った言語が指定されているページ――では、スクリーンリーダーを使用したときに適切な合成音声プロファイルが選択されないことです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012439Z" creationid="yoota" creationdate="20170419T102025Z">
+        <seg>おそらく最もわかりやすいのは、言語が明示されていないページ――あるいは間違った言語が指定されているページ――では、スクリーンリーダーを使用したときに適切な合成音声プロファイルが選択されないことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4177,12 +4181,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       <note>(太田) do an impression of XでXのものまねをする、という意味があるようです。たぶん全体としてはいつもの皮肉っぽいヘイドンジョークでしょう。
 voice profile called Jack は「Jackと呼ばれる音声プロファイル」かもしれません。音声プロファイルにはたいてい人の名前がついていて、たとえばWindows7 のナレーターのデフォルト音声は Anna という名前です。
 
-(伊原) 後半が聞かされる〜なので、前半も受け身にしてみました。</note>
+(伊原) 後半が聞かされる〜なので、前半も受け身にしてみました。
+
+(岡本) ものまね→モノマネ、羽目→はめ</note>
       <tuv lang="EN-US">
         <seg>That is, if &lt;g1&gt;&lt;html lang="en"&gt;&lt;/g1&gt; is present but the text is actually in French, you’d hear a voice profile called Jack doing a bad impression of French, rather than a French profile called Jaques using authentic French pronunciation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170501T002817Z" creationid="yoota" creationdate="20170426T055325Z">
-        <seg>つまり、もし&lt;g1&gt;&lt;html lang="en"&gt;&lt;/g1&gt;が存在するのにテキストが実際にはフランス語である場合、Jaquesと呼ばれるフランス語の音声プロファイルによる流暢なフランス語の発音で読まれるべきところで、Jackという英語の音声プロファイルによる下手なフランス人のものまねを聞かされる羽目になります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012556Z" creationid="yoota" creationdate="20170426T055325Z">
+        <seg>つまり、もし&lt;g1&gt;&lt;html lang="en"&gt;&lt;/g1&gt;が存在するのにテキストが実際にはフランス語である場合、Jaquesと呼ばれるフランス語の音声プロファイルによる流暢なフランス語の発音で読まれるべきところで、Jackという英語の音声プロファイルによる下手なフランス人のモノマネを聞かされるはめになります。</seg>
       </tuv>
     </tu>
     <tu>
