@@ -3803,12 +3803,14 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(岡本) 1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>Responsive design is a big part of inclusive design.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T085821Z" creationid="yoota" creationdate="20170420T085821Z">
-        <seg>レスポンシブデザインはインクルーシブデザインの重要な要素の1つです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012813Z" creationid="yoota" creationdate="20170420T085821Z">
+        <seg>レスポンシブデザインはインクルーシブデザインの重要な要素のひとつです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4147,12 +4149,14 @@ target はそのままカタカナだと意味がとりにくいように思い�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(岡本) 1つ→ひとつ、すべて→全て</note>
       <tuv lang="EN-US">
         <seg>That doesn’t mean you need a breakpoint for every width.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T061542Z" creationid="yoota" creationdate="20170426T061542Z">
-        <seg>ただしそれは、1つのブレイクポイントですべての幅に対応しなければならないということではありません。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012950Z" creationid="yoota" creationdate="20170426T061542Z">
+        <seg>ただしそれは、ひとつのブレイクポイントで全ての幅に対応しなければならないということではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4629,12 +4633,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 頭の The を少し補って「このとき」としました。全体的に少し補いつつ砕いた表現にしてみました。</note>
+      <note>(太田) 頭の The を少し補って「このとき」としました。全体的に少し補いつつ砕いた表現にしてみました。
+
+(岡本) 分かり→わかり</note>
       <tuv lang="EN-US">
         <seg>The responsive design mode interface displays the current dimensions, allowing you to record and attend to that breakpoint.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T105245Z" creationid="yoota" creationdate="20170420T105127Z">
-        <seg>このとき、レスポンシブデザインモードのインターフェイスに現在のサイズが表示されるため、これを記録すれば、そのブレイクポイントが分かります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012921Z" creationid="yoota" creationdate="20170420T105127Z">
+        <seg>このとき、レスポンシブデザインモードのインターフェイスに現在のサイズが表示されるため、これを記録すれば、そのブレイクポイントがわかります。</seg>
       </tuv>
     </tu>
     <tu>
