@@ -970,12 +970,16 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 訳語調を軽減しました。</note>
+      <note>(伊原) 訳語調を軽減しました。
+
+(太田) ちょっと見直したいです。「実は有効」は日本語として変な印象です。
+そもそもaccordinglyは「すなわち」ではないかも。
+</note>
       <tuv lang="EN-US">
         <seg>Accordingly, serif typefaces are generally regarded as overcomplex, but a purposeful use of serifs to differentiate characters is actually beneficial.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170515T005131Z" creationid="yoota" creationdate="20170510T070414Z">
-        <seg>すなわち、たいてい複雑すぎるとみなされているセリフ書体も、文字を区別するために意図的に使うのは実は有効です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170516T064451Z" creationid="yoota" creationdate="20170510T070414Z">
+        <seg>複雑すぎるとみなされているセリフ書体も、文字を区別するために意図的に使えば、実際に有効に使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
