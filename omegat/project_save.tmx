@@ -1097,12 +1097,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
 後ろにも As a rule of thumb が出てくる (position: fixedの話)
 
 (伊原) 以下のような感じですね。大雑把でよいと思います。
-大ざっぱに言えば［言って］、大ざっぱなやり方で、経験で、ヤマ勘で、目の子勘定で、目の子算で、目分量で、大まかに</note>
+大ざっぱに言えば［言って］、大ざっぱなやり方で、経験で、ヤマ勘で、目の子勘定で、目の子算で、目分量で、大まかに
+
+(岡本) 大雑把→大ざっぱ</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, you should never set a fixed width or height on any element: the intrinsic flexibility of boxes means they can tolerate the same content in different spaces.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170424T063956Z" creationid="yoota" creationdate="20170420T110743Z">
-        <seg>大雑把に言ってしまえば、どんな要素も幅や高さを固定すべきではありません。ボックスに柔軟性があれば、同じコンテンツでさまざまなスペースに対応できます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T013150Z" creationid="yoota" creationdate="20170420T110743Z">
+        <seg>大ざっぱに言ってしまえば、どんな要素も幅や高さを固定すべきではありません。ボックスに柔軟性があれば、同じコンテンツでさまざまなスペースに対応できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5110,12 +5112,14 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(岡本) 分かり→わかり、1つ目→1つめ、2つ目→２つめ</note>
       <tuv lang="EN-US">
         <seg>To be clear, then, the first of what follows is unacceptable; the second is correct.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170421T033331Z" creationid="yoota" creationdate="20170421T033331Z">
-        <seg>分かりやすい例をお見せしましょう。1つ目は不適正な例、2つ目は正しい例です。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T013309Z" creationid="yoota" creationdate="20170421T033331Z">
+        <seg>わかりやすい例をお見せしましょう。1つめは不適正な例、2つめは正しい例です。</seg>
       </tuv>
     </tu>
     <tu>
