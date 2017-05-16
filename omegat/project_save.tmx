@@ -1124,7 +1124,7 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM. ちょっと冗長な感じもあるが、いったんこのままで。</note>
+      <note>(伊原) ちょっと語尾を調整。</note>
       <tuv lang="EN-US">
         <seg>As discussed, an inclusive editorial experience is one where the editor is not asked to think and work in an unfamiliar way.</seg>
       </tuv>
@@ -2761,7 +2761,9 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       <note>(太田)
 CSSの用語としてはpseudo-contentではなくpseudo-elementです。
 参考: http://www.w3.org/TR/css3-selectors/#gen-content
-訳注にするほどでもないので勝手に直して「擬似要素」としました。</note>
+訳注にするほどでもないので勝手に直して「擬似要素」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Instead, we can use CSS pseudo-content to automatically add the icon based on the matched selector:</seg>
       </tuv>
