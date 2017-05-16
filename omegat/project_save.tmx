@@ -5539,7 +5539,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
     <tu>
       <note>(太田) リンクを開く→リンクをたどる としました。
 外に移動する→外れる としました。
-</note>
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>When linking to an external resource on a separate domain, it’s polite to inform the user that following the link will take them out of the current context.</seg>
       </tuv>
