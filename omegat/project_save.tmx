@@ -3389,12 +3389,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <note>(太田) 原文にない括弧を入れるのはできるだけ避けたいですが、unicorn-rare というヘイドンフレーズを生かすべきかどうか。
 全体やや誤訳っぽいです。malignは「悪く言う」の意味で、この文全体は Much maligned as X,  it has much broader implications. という形ですので、Xのように悪く言われることが多いが、(実際には) もっと広い意味がある、と言っています。補って訳してみましたがわかりにくいですね……。
 
-(伊原) LGTM. 文の長さを緩和するため、骨の折れる仕事➞苦行としてみました。</note>
+(伊原) LGTM. 文の長さを緩和するため、骨の折れる仕事➞苦行としてみました。
+
+(岡本) 苦行だ→骨の折れる仕事だ</note>
       <tuv lang="EN-US">
         <seg>Much maligned as the arduous task of making web applications still do things when a unicorn-rare user switches JavaScript off, it has much broader implications.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170503T170714Z" creationid="yoota" creationdate="20170425T110254Z">
-        <seg>JavaScriptをオフにしているユニコーンのように希少なユーザーでも使えるWebアプリケーションを作るかのような苦行だ、などと言われることが多いのですが、実際にはもっと広い意味があります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T013934Z" creationid="yoota" creationdate="20170425T110254Z">
+        <seg>JavaScriptをオフにしているユニコーンのように希少なユーザーでも使えるWebアプリケーションを作るかのような骨の折れる仕事だ、などと言われることが多いのですが、実際にはもっと広い意味があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5699,12 +5701,14 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
     <tu>
       <note>(太田) issueは問題というより注意点でしょうか (すぐ後ろに解決策がありますし)。
 
-(伊原) フルページズーム➞ページ全体のズームとしました。</note>
+(伊原) フルページズーム➞ページ全体のズームとしました。
+
+(岡本) 1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>You just need to address one issue: elements set using viewport units &lt;g1&gt;cannot&lt;/g1&gt; be scaled using full-page zoom.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170503T154918Z" creationid="yoota" creationdate="20170426T092718Z">
-        <seg>ただし、1つ注意点があります。ビューポートの単位が指定されている要素は、ページ全体のズームでは拡大縮小&lt;g1&gt;されない&lt;/g1&gt;ということです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T013753Z" creationid="yoota" creationdate="20170426T092718Z">
+        <seg>ただし、ひとつ注意点があります。ビューポートの単位が指定されている要素は、ページ全体のズームでは拡大縮小&lt;g1&gt;されない&lt;/g1&gt;ということです。</seg>
       </tuv>
     </tu>
     <tu>
