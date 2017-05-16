@@ -1211,6 +1211,7 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Be wary, though, of older browsers that do not support gradient backgrounds.</seg>
       </tuv>
@@ -5742,6 +5743,7 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>You can tweak the vertical positioning using &lt;g2&gt;background-position&lt;/g2&gt;, and the thickness using &lt;g3&gt;background-size&lt;/g3&gt; to find the most readable solution for the typeface.</seg>
       </tuv>
