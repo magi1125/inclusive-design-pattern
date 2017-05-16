@@ -5826,12 +5826,27 @@ less magical はいわゆるヘイドンジョークなので厳密に訳す必�
       <note>(太田) 保留。
 
 (伊原) 前段落の「インタラクティブな仕組みにおいて本文テキストのデザインを疎かにしがち」というのと対にして「静的なページにおけるインクルーシブだって読みやすさの話だけじゃなくインタラクティブ性があるぞ」と言っているのでしょうね。
-のちほど訳を検討。</note>
+のちほど訳を検討。
+
+(太田)
+直訳すると以下のようになる。
+Yet not only is a readable web page an inclusive one
+また、読みやすいWebページだけがインクルーシブなWebページなのではない
+there’s also some interactivity to address
+扱うべきいくつかのインタラクティブ性というものも存在する
+in the forms of zoom functionality and inline hyperlinks.
+(インタラクティブ性は) ズーム機能やインラインハイパーリンクといった形である
+
+Yetは「しかし」ではなく「また」とすべきかもしれません。
+全体見直して意訳しました。
+
+</note>
       <tuv lang="EN-US">
         <seg>Yet not only is a readable web page an inclusive one, there’s also some interactivity to address in the forms of zoom functionality and inline hyperlinks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170510T054431Z" creationid="yoota" creationdate="20170510T054431Z">
-        <seg>しかし、読むことができるWebページだけがインクルーシブなわけではなく、ズーム機能やインラインハイパーリンクといった形で対処すべきインタラクティブ性も存在します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170516T065715Z" creationid="yoota" creationdate="20170510T054431Z">
+        <seg>また、読みやすければそれだけでインクルーシブだというわけでもなく、ズーム機能や、インラインハイパーリンクといったインタラクティブな機能についても扱う必要があります。
+</seg>
       </tuv>
     </tu>
     <tu>
