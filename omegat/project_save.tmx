@@ -3057,12 +3057,14 @@ must ではなく should なので「べき」としました。
     <tu>
       <note>(太田) accessibleはアクセシブルで良いと思います。approachable, accessible となっていますが、「アクセシブルで分かりやすい」としました。
 
-(伊原) LGTM. 英語っぽい言い回しですね。</note>
+(伊原) LGTM. 英語っぽい言い回しですね。
+
+(岡本) 分かり→わかり</note>
       <tuv lang="EN-US">
         <seg>It would be remiss of me to talk about inclusive paragraph design without mentioning how to actually &lt;g1&gt;write&lt;/g1&gt; approachable, accessible content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T031412Z" creationid="yoota" creationdate="20170512T031225Z">
-        <seg>アクセシブルで分かりやすいコンテンツを実際に&lt;g1&gt;書く&lt;/g1&gt;方法に触れずに、インクルーシブなパラグラフデザインについて語ることは許されないでしょう。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T084044Z" creationid="yoota" creationdate="20170512T031225Z">
+        <seg>アクセシブルでわかりやすいコンテンツを実際に&lt;g1&gt;書く&lt;/g1&gt;方法に触れずに、インクルーシブなパラグラフデザインについて語ることは許されないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3254,12 +3256,14 @@ must ではなく should なので「べき」としました。
     <tu>
       <note>(太田) ビリーバーだと言っているので「信者」で良いように思います。もしくは信奉者とか。
 
-(伊原) LGTM. 信者がわかりやすかったのでそうしてみました。</note>
+(伊原) LGTM. 信者がわかりやすかったのでそうしてみました。
+
+(岡本) 33→34</note>
       <tuv lang="EN-US">
         <seg>I’m a big believer in &lt;g1&gt;&lt;g2&gt;content-first design&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;20&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T054408Z" creationid="yoota" creationdate="20170512T032636Z">
-        <seg>私は、&lt;g1&gt;&lt;g2&gt;コンテンツファーストデザイン&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注33）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の信者です。
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T084232Z" creationid="yoota" creationdate="20170512T032636Z">
+        <seg>私は、&lt;g1&gt;&lt;g2&gt;コンテンツファーストデザイン&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注34）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の信者です。
 </seg>
       </tuv>
     </tu>
@@ -3648,12 +3652,14 @@ http://eigo-kobako.blog.so-net.ne.jp/2015-07-14
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(岡本) すべて→全て</note>
       <tuv lang="EN-US">
         <seg>Not all screen reader and browser combinations support pseudo-content, but most do.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T030227Z" creationid="yoota" creationdate="20170512T030227Z">
-        <seg>すべてのスクリーンリーダーとブラウザの組み合わせが疑似コンテンツをサポートしているわけではありませんが、ほとんどはサポートしています。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T083927Z" creationid="yoota" creationdate="20170512T030227Z">
+        <seg>全てのスクリーンリーダーとブラウザの組み合わせが疑似コンテンツをサポートしているわけではありませんが、ほとんどはサポートしています。</seg>
       </tuv>
     </tu>
     <tu>
