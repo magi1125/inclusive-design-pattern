@@ -2392,12 +2392,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) LGTM</note>
+      <note>(太田) LGTM
+
+(岡本) 私はそのやり方で恩恵を受けるのは誰かを必ず考えます。</note>
       <tuv lang="EN-US">
         <seg>In all cases, whether I’m applying visual design, writing JavaScript behavior or structuring content, I ask who benefits from the &lt;g1&gt;way&lt;/g1&gt; I’m approaching it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T113608Z" creationid="yoota" creationdate="20170501T113608Z">
-        <seg>視覚的なデザインに取り組むときも、JavaScriptの動作を記述するときも、コンテンツを構築するときも、私は必ず、その&lt;g1&gt;やり方&lt;/g1&gt;で恩恵を受けるのは誰かを考えます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T014738Z" creationid="yoota" creationdate="20170501T113608Z">
+        <seg>視覚的なデザインに取り組むときも、JavaScriptの動作を記述するときも、コンテンツを構築するときも、私はその&lt;g1&gt;やり方&lt;/g1&gt;で恩恵を受けるのは誰かを必ず考えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5962,13 +5964,15 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       <note>(太田) ergonomicsは人間工学、あるいは「エルゴノミクス」とカタカナでもいいとおもいますが、砕いた訳にするなら「使いやすさ」などでも良いと思います。
 いったん「使いやすさ」にしてみましたが、HCDのプロフェッショナルのご意見に期待します。
 
-(伊原) 開発者が開発する上での工学（有効さや効率を生み出す仕組みの研究）ということなので「開発者にとっての作業しやすさ」「開発者にとっての作りやすさ」みたいな形がよいかと思います。そのようにしてみました。</note>
+(伊原) 開発者が開発する上での工学（有効さや効率を生み出す仕組みの研究）ということなので「開発者にとっての作業しやすさ」「開発者にとっての作りやすさ」みたいな形がよいかと思います。そのようにしてみました。
+
+(岡本) ーをトルツメ</note>
       <tuv lang="EN-US">
         <seg>“It seems to me that developer ergonomics should be less important than our users’ needs.” – &lt;g1&gt;&lt;g2&gt;Paul Lewis&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170503T200953Z" creationid="yoota" creationdate="20170501T112108Z">
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T053651Z" creationid="yoota" creationdate="20170501T112108Z">
         <seg>開発者の作業しやすさより、ユーザーのニーズの方が重要だと私は思う。
-— ポール・ルイス（Paul Lewis）（脚注15）</seg>
+ポール・ルイス（Paul Lewis）（脚注15）</seg>
       </tuv>
     </tu>
     <tu>
