@@ -92,7 +92,12 @@ http://waic.jp/docs/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentati
 
 
 >最も普及しているブラウザのひとつであるChromeは、ハイフネーションをまったくサポートしていません
-※訳注検討
+
+訳注: 現在ではChromeはハイフネーションをサポートしています。2016年11月のChrome55から、AndroidとMac上でハイフネーションをサポートするようになりました。残念ながらWindows上ではサポートされていません (2017年5月現在)。
+
+参考:
+Chrome 55 ベータ版: 入力ハンドリングの改善と async / await 関数 
+https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
 
 
 
@@ -113,3 +118,6 @@ http://www.w3.org/TR/css-text-decor-3/#text-decoration-skip
 
 Chrome 57 ベータ版: CSS のグリッド レイアウト、ホーム画面に追加の改善、Media Session API 
 https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-improved.html
+
+
+
