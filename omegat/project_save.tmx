@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5444,12 +5444,13 @@ https://github.com/mnater/Hyphenator
 &gt;Hyphenator.js and the hyphenation patterns are quite large. Good compression and caching is vital.
 
 (伊原) LGTM
-</note>
+
+(岡本) 22→23</note>
       <tuv lang="EN-US">
         <seg>To make matters worse, &lt;g7&gt;&lt;g8&gt;JavaScript polyfills&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;9&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; for hyphenation tend to be extremely weighty because they must refer to a large library of agreed hyphenation patterns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T054851Z" creationid="yoota" creationdate="20170511T054145Z">
-        <seg>さらに悪いことに、ハイフネーションを行う&lt;g7&gt;&lt;g8&gt;JavaScriptのポリフィル&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注22）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;は、膨大なハイフネーションパターンの定義を参照する必要があるため、極度に重くなりがちです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170517T071817Z" creationid="yoota" creationdate="20170511T054145Z">
+        <seg>さらに悪いことに、ハイフネーションを行う&lt;g7&gt;&lt;g8&gt;JavaScriptのポリフィル&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注23）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;は、膨大なハイフネーションパターンの定義を参照する必要があるため、極度に重くなりがちです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5569,12 +5570,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
     <tu>
       <note>(太田) 「あらゆるブラウザで正しく実装されているわけではない」というのは過大評価過ぎるというか、原文はもっとこき下ろしているように思います。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 21→22</note>
       <tuv lang="EN-US">
         <seg>Unfortunately, CSS hyphenation, available via the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;hyphens&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; property, is poorly implemented across browsers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T054059Z" creationid="yoota" creationdate="20170511T053732Z">
-        <seg>残念ながら、&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;hyphens&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注21）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で指定できるはずのCSSのハイフネーションの仕組みは、ブラウザの実装がかなり貧弱な状況です。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170517T070716Z" creationid="yoota" creationdate="20170511T053732Z">
+        <seg>残念ながら、&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;hyphens&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注22）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で指定できるはずのCSSのハイフネーションの仕組みは、ブラウザの実装がかなり貧弱な状況です。</seg>
       </tuv>
     </tu>
     <tu>
