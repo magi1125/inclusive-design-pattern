@@ -5094,11 +5094,19 @@ Equal to the computed value of font-size on the root element. When specified on 
     </tu>
     <tu>
       <note>※訳注アリ
+※コード下に追加する訳注もアリ
 
 (太田) 「text-decorationによるフォールバック」としました。
 以下のCSSはコンディショナルコメントで &lt;!--[if lte IE 9]&gt; &lt;html class="ie-lte-9"&gt; &lt;![endif]--&gt; のようになっている前提であるように思いますが前提の説明がないので訳注が必要かもしれません。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(太田) 今年の2月に出たChrome57がtext-decoration-skip:inkに対応していることに気づきました。
+https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-improved.html
+&gt;text-decoration-skip: ink がサポートされるようになりました。これにより、ディセンダー（文字がテキストのベースラインより下にはみ出る部分）の下線をスキップできます。
+
+ということで訳注をもうひとつ追加しました。こちらの訳注はこの節の末尾 (コードの下、「フォーカスを示す」見出しの前) に入れる想定です。
+</note>
       <tuv lang="EN-US">
         <seg>These should have a &lt;g4&gt;text-decoration&lt;/g4&gt; fallback:</seg>
       </tuv>
