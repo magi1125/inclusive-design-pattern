@@ -101,4 +101,15 @@ http://waic.jp/docs/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentati
 
 
 
+>以下のように<g4>text-decoration</g4>によるフォールバックで対応するべきでしょう。
+※コードの下、セクションの末尾に訳注
 
+訳注:
+ここでは背景色を使った実装が紹介されていますが、CSS Text Decoration Module Level 3ではtext-decoration-skipというプロパティが提案されています。text-decoration-skip: inkを指定すると、文字と重ならないように下線が引かれる想定です。つい最近まで対応しているブラウザがほとんどない状況でしたが、2017年2月にChrome 57が対応し、現在のChromeでは使えるようになっています。今後、この指定に対応するブラウザが増えれば、シンプルにtext-decoration-skipを指定する方法が普及していくかもしれません。
+
+参考:
+CSS Text Decoration Module Level 3 - 2.5.  Text Decoration Line Continuity: the ‘text-decoration-skip’ property
+http://www.w3.org/TR/css-text-decor-3/#text-decoration-skip
+
+Chrome 57 ベータ版: CSS のグリッド レイアウト、ホーム画面に追加の改善、Media Session API 
+https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-improved.html
