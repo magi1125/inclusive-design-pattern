@@ -2339,7 +2339,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
-      <note>(太田) familiarは「熟知」は少し言い過ぎかも。ランドマークを知っているということだと思います。familiar and comfortable をセットで「使いこなす」としても良いように思いました (知らないと使いこなせませんし)。</note>
+      <note>(太田) familiarは「熟知」は少し言い過ぎかも。ランドマークを知っているということだと思います。familiar and comfortable をセットで「使いこなす」としても良いように思いました (知らないと使いこなせませんし)。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In &lt;g3&gt;&lt;g4&gt;my informal research into screen reader users’ behaviors and preferences&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;2&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;, some respondents were familiar and comfortable with landmark (region) navigation, but the majority used headings to get around.</seg>
       </tuv>
