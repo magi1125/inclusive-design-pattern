@@ -2632,8 +2632,8 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) grid elements はグリッドに沿った要素としました。
-また、贅沢なことができないというより、「（相対位置は一貫していて信頼できるという）贅沢がない」ということなので、そのようにしました。</note>
+      <note>(伊原) grid elements はグリッドに沿った要素としました。一貫していて信頼というより並列なので、信頼性と一貫性としました。
+また、贅沢なことができないというより、「（相対位置に信頼性と一貫性があるという）贅沢がない」ということなので、そのようにしました。</note>
       <tuv lang="EN-US">
         <seg>In print design, where the relative position of grid elements is reliable and consistent, you can rely on juxtaposition to convey meaning and use terminology like, “the photograph to the right.” On the responsive web, you don’t have this luxury.</seg>
       </tuv>
