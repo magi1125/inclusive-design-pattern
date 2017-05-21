@@ -3793,12 +3793,12 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
     <tu>
       <note>(太田) 括弧内は「これも…」ではなく「“The Document” でも議論しています」ということと思われます。要するに「詳しくは “The Document” を見てね」という意味と思われるので、「詳しくは「ドキュメント全体」で説明しています」としました。
 
-(伊原) LGTM</note>
+(伊原) ちなみに的ニュアンスになるように若干調整。</note>
       <tuv lang="EN-US">
         <seg>Note the &lt;g2&gt;id&lt;/g2&gt; below, which allows keyboard users to navigate to the article via a skip link (also discussed in “The Document”):</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170515T083237Z" creationid="yoota" creationdate="20170512T093733Z">
-        <seg>下の&lt;g2&gt;id&lt;/g2&gt;に注目してください。これは、キーボードユーザーがスキップリンクを介して記事に移動できるようにするためのものです（詳しくは「ドキュメント全体」で説明しています）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170521T131521Z" creationid="yoota" creationdate="20170512T093733Z">
+        <seg>下の&lt;g2&gt;id&lt;/g2&gt;に注意してください。これにより、キーボードユーザーがスキップリンクを介して記事に移動できるようになります（詳しくは「ドキュメント全体」で説明しています）。</seg>
       </tuv>
     </tu>
     <tu>
