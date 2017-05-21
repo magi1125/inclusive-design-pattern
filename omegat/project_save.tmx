@@ -5787,7 +5787,9 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) ヘイドンbreak。破綻としてみました。</note>
+      <note>(太田) ヘイドンbreak。破綻としてみました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>When the reader adjusts something, there’s simply less to break as a result.</seg>
       </tuv>
