@@ -5775,11 +5775,12 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) に基づく➞ベースの　としてみました。</note>
       <tuv lang="EN-US">
         <seg>When incorporating complex grid systems, we tend to rely heavily on &lt;g1&gt;&lt;div&gt;&lt;/g1&gt;-based scaffolding.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T094630Z" creationid="yoota" creationdate="20170512T094630Z">
-        <seg>複雑なグリッドシステムを組み込むとき、私たちは&lt;g1&gt;&lt;div&gt;&lt;/g1&gt;に基づく枠組みに大きく依存しがちです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170521T131812Z" creationid="yoota" creationdate="20170512T094630Z">
+        <seg>複雑なグリッドシステムを組み込むとき、私たちは&lt;g1&gt;&lt;div&gt;&lt;/g1&gt;ベースの枠組みに大きく依存しがちです。</seg>
       </tuv>
     </tu>
     <tu>
