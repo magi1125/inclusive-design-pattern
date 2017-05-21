@@ -1242,6 +1242,7 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここのパーマリンクも、個別記事ページの意味ですね。</note>
       <tuv lang="EN-US">
         <seg>At our permalink, it should be the title of the blog article itself.</seg>
       </tuv>
@@ -2994,7 +2995,9 @@ body内のの子要素にlang属性を、ですね。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) トップ→先頭くらい?</note>
+      <note>(太田) トップ→先頭くらい?
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>It is the top heading of the document.</seg>
       </tuv>
