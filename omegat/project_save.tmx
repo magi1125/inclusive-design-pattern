@@ -1232,6 +1232,8 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 「ヘイドンさんは個別記事ページのことをpermalinkと呼んでいる模様」がコレですね。
+個別記事ページと語を置き換えないと意味不明になりますね…。</note>
       <tuv lang="EN-US">
         <seg>At a blog permalink, the salient content is the blog article itself, so it should be placed inside &lt;g1&gt;&lt;main&gt;&lt;/g1&gt;.</seg>
       </tuv>
@@ -3789,7 +3791,9 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 括弧内は「これも…」ではなく「“The Document” でも議論しています」ということと思われます。要するに「詳しくは “The Document” を見てね」という意味と思われるので、「詳しくは「ドキュメント全体」で説明しています」としました。</note>
+      <note>(太田) 括弧内は「これも…」ではなく「“The Document” でも議論しています」ということと思われます。要するに「詳しくは “The Document” を見てね」という意味と思われるので、「詳しくは「ドキュメント全体」で説明しています」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Note the &lt;g2&gt;id&lt;/g2&gt; below, which allows keyboard users to navigate to the article via a skip link (also discussed in “The Document”):</seg>
       </tuv>
