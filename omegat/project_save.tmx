@@ -1991,6 +1991,7 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Heading Structure</seg>
       </tuv>
@@ -3312,10 +3313,11 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>I’m concerned we only usually look at HTML semantics in terms of discrete elements providing meaning, and not by looking at their relationships to one another.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170515T070717Z" creationid="yoota" creationdate="20170515T070717Z">
+      <tuv lang="JA" changeid="rikiha" changedate="20170521T151558Z" creationid="yoota" creationdate="20170515T070717Z">
         <seg>私はいつも、HTMLのセマンティクスが、意味を提供している個別の要素という観点からのみ見られており、互いの関係が見られていないことを懸念しています。</seg>
       </tuv>
     </tu>
