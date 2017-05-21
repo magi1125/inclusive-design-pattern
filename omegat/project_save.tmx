@@ -2632,11 +2632,12 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) grid elements はグリッドに沿った要素としました。</note>
       <tuv lang="EN-US">
         <seg>In print design, where the relative position of grid elements is reliable and consistent, you can rely on juxtaposition to convey meaning and use terminology like, “the photograph to the right.” On the responsive web, you don’t have this luxury.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T104125Z" creationid="yoota" creationdate="20170512T104125Z">
-        <seg>印刷物のデザインでは、グリッド要素の相対位置は一貫していて信頼できるため、意味を伝えるために横に並べて配置したり、「右の写真」といった言い方をすることができます。レスポンシブWebでは、こんな贅沢なことはできません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170521T143033Z" creationid="yoota" creationdate="20170512T104125Z">
+        <seg>印刷物のデザインでは、グリッドに沿った要素の相対位置は一貫していて信頼できるため、意味を伝えるために横に並べて配置したり、「右の写真」といった言い方をしたりできます。レスポンシブWebでは、こんな贅沢なことはできません。</seg>
       </tuv>
     </tu>
     <tu>
