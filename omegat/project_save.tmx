@@ -4776,6 +4776,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 指定→設計</note>
       <tuv lang="EN-US">
         <seg>The HTML5 outline algorithm was specified to automate section structure based on sectioning elements, removing the need for &lt;g6&gt;&lt;h1&gt;&lt;/g6&gt;–&lt;g7&gt;&lt;h6&gt;&lt;/g7&gt;.</seg>
       </tuv>
