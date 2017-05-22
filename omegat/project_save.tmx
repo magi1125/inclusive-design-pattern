@@ -2828,12 +2828,14 @@ becauseを訳出しました。</note>
     <tu>
       <note>(伊原) not just で「だけでなく」なのでそのようにしました。また、実際の使い方という言い方に直しました。
 
-(太田) AS的な考え方ですね。</note>
+(太田) AS的な考え方ですね。語順は原文に忠実にしたほうが分かりやすいかも。
+「インクルーシブデザインとは、技術的なエラーを修正することだけでなく、ユーザーが実際にインターフェイスをどのように使うかを理解することです」
+→</note>
       <tuv lang="EN-US">
         <seg>Inclusive design is about appreciating how people really use interfaces, not just fixing technical errors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170521T161840Z" creationid="yoota" creationdate="20170515T102527Z">
-        <seg>インクルーシブデザインとは、技術的なエラーを修正することだけでなく、ユーザーが実際にインターフェイスをどのように使うかを理解することです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T095203Z" creationid="yoota" creationdate="20170515T102527Z">
+        <seg>インクルーシブデザインとは、ユーザーが実際にインターフェイスをどのように使うかを理解することであり、技術的なエラーを修正することではありません。</seg>
       </tuv>
     </tu>
     <tu>
