@@ -1434,6 +1434,16 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) thematic map
+https://en.wikipedia.org/wiki/Thematic_map</note>
+      <tuv lang="EN-US">
+        <seg>By dividing our blog article into subsections, we can describe which parts of it belong to which other parts, building a thematic map or outline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T095847Z" creationid="yoota" creationdate="20170522T095847Z">
+        <seg>ブログ記事をサブセクションに分割することで、どの部分がどの部分に属しているかを説明し、セマンティックなマップまたはアウトラインを構築できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) イコノグラフィーは「アイコン」としてしまってよいのではないでしょうか。
 
 (伊原) 「で」が連続するので語尾を調整。</note>
@@ -5876,6 +5886,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170521T131812Z" creationid="yoota" creationdate="20170512T094630Z">
         <seg>複雑なグリッドシステムを組み込むとき、私たちは&lt;g1&gt;&lt;div&gt;&lt;/g1&gt;ベースの枠組みに大きく依存しがちです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When it comes to structure, depth is just as important as source order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T095648Z" creationid="yoota" creationdate="20170522T095648Z">
+        <seg>構造に関しては、ソースの順序と同じくらい大事なのが深さです。</seg>
       </tuv>
     </tu>
     <tu>
