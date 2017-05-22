@@ -4069,7 +4069,9 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       <note>(太田) WAICのほうでもmodalityの定訳が不明で「感覚モダリティ」のようにカタカナ書きにしています。JISの規格票でもそのままでした。カタカナママで良いかと思います。
 参考: http://waic.jp/docs/WCAG20/Overview.html#programmaticallydetermineddef
 
-(伊原) 訳としては合ってるのですが、ヘイドンさんの説明にはちょっと違和感はありますね…。複数の感覚モダリティをカバーするのをマルチモダリティというのは正しいと思うのですが、スクリーンリーダーにおいてh1とmainのどちらでもナビゲートできるようにすることをマルチモダリティというのはちょっと語のスコープを広げすぎな気が。</note>
+(伊原) 訳としては合ってるのですが、ヘイドンさんの説明にはちょっと違和感はありますね…。複数の感覚モダリティをカバーするのをマルチモダリティというのは正しいと思うのですが、スクリーンリーダーにおいてh1とmainのどちらでもナビゲートできるようにすることをマルチモダリティというのはちょっと語のスコープを広げすぎな気が。
+
+(太田) たしかに。モダリティ警察の出動か。</note>
       <tuv lang="EN-US">
         <seg>Providing unobtrusive options for users is sometimes called &lt;g8&gt;multimodality&lt;/g8&gt;.</seg>
       </tuv>
