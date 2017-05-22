@@ -2114,6 +2114,14 @@ http://www.dictionary.com/browse/radical
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>However, it is &lt;g8&gt;&lt;g9&gt;not implemented in any user agent&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;3&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;, and there’s no sign it ever will be.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T100306Z" creationid="yoota" creationdate="20170522T100306Z">
+        <seg>しかし、これは&lt;g8&gt;&lt;g9&gt;どのユーザーエージェントにも実装されておらず&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;（脚注38）&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;、今後実装されそうな兆候もありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 前段までに生じるであろう誤解に釘を刺す段落なので、そのような形に調整しました。</note>
       <tuv lang="EN-US">
         <seg>However, it’s important not to think about extreme cases in isolation and to target specific groups.</seg>
@@ -4780,8 +4788,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       <tuv lang="EN-US">
         <seg>The HTML5 outline algorithm was specified to automate section structure based on sectioning elements, removing the need for &lt;g6&gt;&lt;h1&gt;&lt;/g6&gt;–&lt;g7&gt;&lt;h6&gt;&lt;/g7&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170522T100214Z" creationid="yoota" creationdate="20170522T100214Z">
-        <seg>HTML5のアウトラインアルゴリズムは、セクショニング要素に基づいてセクションの構造を自動化し、&lt;g6&gt;&lt;h1&gt;&lt;/g6&gt;～&lt;g7&gt;&lt;h6&gt;&lt;/g7&gt;.を不要にするよう指定されていました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T100240Z" creationid="yoota" creationdate="20170522T100214Z">
+        <seg>HTML5のアウトラインアルゴリズムは、セクショニング要素に基づいてセクションの構造を自動化し、&lt;g6&gt;&lt;h1&gt;&lt;/g6&gt;～&lt;g7&gt;&lt;h6&gt;&lt;/g7&gt;.を不要にするよう設計されていました。</seg>
       </tuv>
     </tu>
     <tu>
