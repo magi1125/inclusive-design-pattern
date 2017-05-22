@@ -4640,6 +4640,15 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 要検討。</note>
+      <tuv lang="EN-US">
+        <seg>That’s ultimately what HTML is for: forming structure through differentiation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T100431Z" creationid="yoota" creationdate="20170522T100431Z">
+        <seg>HTMLの最終的な目的は、分化を通じて構造を形成することですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) lang属性で向上させれば読んでもらえる、は若干強すぎる印象です。ほとんどの場合、lang属性がなくてもわりと読めますので……。原文もそこまで強く言っていないように思いますので、すこしふんわりさせました。</note>
       <tuv lang="EN-US">
         <seg>The &lt;c0&gt;lang&lt;/c0&gt; attribute can be used to improve the readability, translatability and compatibility of web documents’ written content, helping open it up to an international audience.</seg>
@@ -6216,6 +6225,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>You could stop there, but the lack of further structural information would produce comprehension issues for a broad range of users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T100406Z" creationid="yoota" creationdate="20170522T100406Z">
+        <seg>これだけでも良いですが、これ以上の構造情報がないと、多くのユーザーに理解の点で問題が生じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 問題というより注意点でしょうか (すぐ後ろに解決策がありますし)。</note>
       <tuv lang="EN-US">
         <seg>You just need to address one issue: elements set using viewport units &lt;e0&gt;cannot&lt;/e0&gt; be scaled using full-page zoom.</seg>
@@ -6276,6 +6293,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T093521Z" creationid="yoota" creationdate="20170512T080048Z">
         <seg>「ドキュメント全体」で設定した&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素を思い出してください。すべてのWebページには、そのページ独自のコンテンツを特定する&lt;g2&gt;&lt;main&gt;&lt;/g2&gt;要素があるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should always aim to divide your content into digestible chunks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T100411Z" creationid="yoota" creationdate="20170522T100411Z">
+        <seg>常にコンテンツは、理解しやすい塊に分けるよう努めるべきです。</seg>
       </tuv>
     </tu>
     <tu>
