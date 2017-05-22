@@ -6163,6 +6163,14 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>While this method eschews having to make structural errors to achieve visual effects, exercise caution: in most cases, an &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; should &lt;g2&gt;look&lt;/g2&gt; like an &lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T101102Z" creationid="yoota" creationdate="20170522T101102Z">
+        <seg>この方法では、視覚的な効果を得るための構造エラーを回避できますが、注意が必要です。たいていの場合、&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt;は&lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;らしい&lt;g2&gt;見た目&lt;/g2&gt;にすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ここの type は書体なのかどうか。書体デザイナーが色を検討する、というのには違和感があります。文字を扱うデザイナー、ぐらいの感じのような。だとするとtypeを訳さずに、単に「デザイナー」で良いのかもしれません。
 
 (岡本）分かり→わかり</note>
