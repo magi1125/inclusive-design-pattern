@@ -2791,8 +2791,8 @@ becauseを訳出しました。</note>
       <tuv lang="EN-US">
         <seg>In the first, commented out example, someone navigating by heading using the generic &lt;g1&gt;h&lt;/g1&gt; key would be unaware of the publish date because the screen reader would take them silently past it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170522T094636Z" creationid="yoota" creationdate="20170515T101849Z">
-        <seg>1つ目の例では、汎用的な&lt;g1&gt;h&lt;/g1&gt;キーを使用して見出しでナビゲートしている人には公開日付は分かりません。スクリーンリーダーはこれを読み上げずに通過してしまうからです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T094656Z" creationid="yoota" creationdate="20170515T101849Z">
+        <seg>1つ目の例では、汎用的な&lt;g1&gt;h&lt;/g1&gt;キーを使用して見出しでナビゲートしている人には公開日付は分かりません。スクリーンリーダーは日付を読み上げずに通過してしまうからです。</seg>
       </tuv>
     </tu>
     <tu>
