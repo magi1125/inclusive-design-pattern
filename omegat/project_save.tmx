@@ -5472,12 +5472,15 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 自分のブログいじりは余裕があるから終わらないんだ、という話なので、もう少し調整してみました。</note>
+      <note>(伊原) 自分のブログいじりは余裕があるから終わらないんだ、という話なので、もう少し調整してみました。
+
+(太田) 「クライアントがあるプロジェクト」は日本語的に違和感があるので
+「クライアントから依頼を受けた」と補いみました。</note>
       <tuv lang="EN-US">
         <seg>Time is a luxury we often can’t afford on client projects — which is why client work sometimes gets finished, I suppose.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170521T121225Z" creationid="yoota" creationdate="20170512T065646Z">
-        <seg>クライアントがあるプロジェクトでは、贅沢に時間を掛ける余裕はない場合が多い ――これが、しばしばクライアントワークが完了する理由でしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T083738Z" creationid="yoota" creationdate="20170512T065646Z">
+        <seg>クライアントから依頼を受けたプロジェクトでは、贅沢に時間を掛ける余裕はない場合が多い ――これが、しばしばクライアントワークが完了する理由でしょう。</seg>
       </tuv>
     </tu>
     <tu>
