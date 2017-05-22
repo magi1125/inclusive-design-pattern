@@ -3532,12 +3532,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 公開します➞示します</note>
+      <note>(伊原) 公開します➞示します
+
+(太田) 「提供する」くらいかも。</note>
       <tuv lang="EN-US">
         <seg>Like the &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; element, the &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; exposes a navigation shortcut for assistive technology users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170521T153547Z" creationid="yoota" creationdate="20170515T084556Z">
-        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素と同じく、&lt;g2&gt;&lt;h1&gt;&lt;/g2&gt;は、支援技術のユーザーにナビゲーション用のショートカットを示します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T093656Z" creationid="yoota" creationdate="20170515T084556Z">
+        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素と同じく、&lt;g2&gt;&lt;h1&gt;&lt;/g2&gt;は、支援技術のユーザーにナビゲーション用のショートカットを提供します。</seg>
       </tuv>
     </tu>
     <tu>
