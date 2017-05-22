@@ -5475,12 +5475,13 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
       <note>(伊原) 自分のブログいじりは余裕があるから終わらないんだ、という話なので、もう少し調整してみました。
 
 (太田) 「クライアントがあるプロジェクト」は日本語的に違和感があるので
-「クライアントから依頼を受けた」と補ってみました。</note>
+「クライアントから依頼を受けた」と補ってみました。
+「クライアントワークが完了する」ですが、日本語でこう書くと肯定的な表現に見えます。ここでは時間が無いために完了させられてしまった、という話のはずなので、「打ち切られる」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Time is a luxury we often can’t afford on client projects — which is why client work sometimes gets finished, I suppose.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170522T083738Z" creationid="yoota" creationdate="20170512T065646Z">
-        <seg>クライアントから依頼を受けたプロジェクトでは、贅沢に時間を掛ける余裕はない場合が多い ――これが、しばしばクライアントワークが完了する理由でしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T084159Z" creationid="yoota" creationdate="20170512T065646Z">
+        <seg>クライアントから依頼を受けたプロジェクトでは、贅沢に時間を掛ける余裕はない場合が多い ――時にはこの理由で、クライアントワークが打ち切られることもあるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
