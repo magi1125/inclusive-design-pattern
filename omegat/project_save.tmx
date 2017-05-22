@@ -2784,7 +2784,9 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(太田)  commented out example が訳から落ちてていますが、ソースコードは別にコメントアウトされていないので落としたままでいいかも。</note>
       <tuv lang="EN-US">
         <seg>In the first, commented out example, someone navigating by heading using the generic &lt;g1&gt;h&lt;/g1&gt; key would be unaware of the publish date because the screen reader would take them silently past it.</seg>
       </tuv>
