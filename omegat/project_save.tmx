@@ -4776,6 +4776,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The HTML5 outline algorithm was specified to automate section structure based on sectioning elements, removing the need for &lt;g6&gt;&lt;h1&gt;&lt;/g6&gt;–&lt;g7&gt;&lt;h6&gt;&lt;/g7&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T100214Z" creationid="yoota" creationdate="20170522T100214Z">
+        <seg>HTML5のアウトラインアルゴリズムは、セクショニング要素に基づいてセクションの構造を自動化し、&lt;g6&gt;&lt;h1&gt;&lt;/g6&gt;～&lt;g7&gt;&lt;h6&gt;&lt;/g7&gt;.を不要にするよう指定されていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The Typeface</seg>
