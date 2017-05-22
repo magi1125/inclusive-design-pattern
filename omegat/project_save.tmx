@@ -1617,6 +1617,14 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Despite the inclusion of nestable sectioning elements in the HTML5 specification, like &lt;g1&gt;&lt;section&gt;&lt;/g1&gt;, the only elements currently able to describe depth in an inclusive fashion are &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; to &lt;g3&gt;&lt;h6&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T100124Z" creationid="yoota" creationdate="20170522T100124Z">
+        <seg>HTML5仕様には&lt;g1&gt;&lt;section&gt;&lt;/g1&gt;などのネスト可能なセクショニング要素が含まれていますが、現在のところ、インクルーシブな方法で深さを記述できる要素は &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt;～&lt;g3&gt;&lt;h6&gt;&lt;/g3&gt;だけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 図版部分はどうしますかね。この箇所の原文は画像のalt、参考訳文は画像の中のテキストを訳したものです。
 
 (伊原) ひとまず訳を入れる感じですかね。入れてみました。</note>
