@@ -4401,6 +4401,15 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「別に」要検討。分離とかそのあたりか。</note>
+      <tuv lang="EN-US">
+        <seg>Some developers handle heading styles separately using CSS classes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T100941Z" creationid="yoota" creationdate="20170522T100941Z">
+        <seg>CSSクラスを使って見出しのスタイルを別に処理する開発者もいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
@@ -5410,6 +5419,14 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170522T100655Z" creationid="yoota" creationdate="20170522T100655Z">
         <seg>これは、認識されている構造を壊し、レベルが1つスキップされるため、視覚的な読者と非視覚的な読者の両方を欺くことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This gives them the freedom to change font sizes independent of semantic structure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170522T100945Z" creationid="yoota" creationdate="20170522T100945Z">
+        <seg>この方法では、セマンティックな構造に依存することなく、自由にフォントサイズを変更することができます。</seg>
       </tuv>
     </tu>
     <tu>
