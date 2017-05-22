@@ -5941,7 +5941,7 @@ integratedは統合された?
     <tu>
       <note>※訳注アリ
 
-(太田) improperを「不正」としていますが、不正と言われるとinvalidをイメージしますが、実際にはmainの複数使用はinvalidではありません。
+(太田) improperを「不正」としていますが、不正と言われるとinvalidをイメージします。実際にはmainの複数使用はinvalidではありません。
 複数mainは不正なのかというのは https://github.com/momdo/talk/blob/master/webtalk_2016-09-03.pdf でも触れられているアツいトピックです。訳注を書きました。
 
 「DOM全体をラップ」は正直ヘンですが原文そうなってますね。DOMはモデルであって言うならDOMツリーでしょうが、DOMツリー全体がmainでくくられることはありえないので二重におかしいです。おそらくbodyの中身全部くらいのことが言いたいのでしょうけれど。
