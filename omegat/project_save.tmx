@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2693,12 +2693,14 @@ In addition を「その上」とすると前からのつながりがおかし�
     <tu>
       <note>(太田) spartanはスパルタ式の質実剛健な、という程度の意味。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) 邪魔→じゃま</note>
       <tuv lang="EN-US">
         <seg>In my opinion, the most effective blog designs are spartan, focusing on content and removing as many distractions as possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T065844Z" creationid="yoota" creationdate="20170512T065844Z">
-        <seg>個人的な意見ですが、最も効果的なブログのデザインは、コンテンツを中心とし、邪魔なものはできる限り取り除いた質素なデザインです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170523T030550Z" creationid="yoota" creationdate="20170512T065844Z">
+        <seg>個人的な意見ですが、最も効果的なブログのデザインは、コンテンツを中心とし、じゃまなものはできる限り取り除いた質素なデザインです。</seg>
       </tuv>
     </tu>
     <tu>
