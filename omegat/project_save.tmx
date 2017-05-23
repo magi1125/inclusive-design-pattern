@@ -342,6 +342,14 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Link text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T095316Z" creationid="yoota" creationdate="20170523T095316Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;リンクテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Make sure the element is focusable.</seg>
