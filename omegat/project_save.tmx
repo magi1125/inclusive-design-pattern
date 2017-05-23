@@ -4586,6 +4586,19 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+&lt;subtitle&gt;要素は存在しないのでこれは仮定の話です (if you should の if が省略されて文頭にShouldが来るパターン)。
+そのことが分かるように訳す必要アリ。
+「アクセシビリティツリーはDOMの一種」というのは変ですね。
+「アクセシビリティツリーというのは、DOMの支援技術が使う版」みたいな感じですね。
+ここのexposeは表示ではありません (アクセシビリティツリーの内容は支援技術に伝わる物であって、表示されるものではない)。
+
+roleを役割とするべきかどうかは別途確認 (全体で統一する必要アリ)。</note>
+      <tuv lang="EN-US">
+        <seg>Should a &lt;g1&gt;&lt;subtitle&gt;&lt;/g1&gt; element ever be specified, the clarifying “Subtitle:” prefix would probably be provided for you as a feature of the element’s role, and therefore automatically available in the “&lt;g2&gt;&lt;g3&gt;accessibility tree&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;5&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;” — the version of the DOM used by assistive technologies where roles, properties, states, labels and values are exposed.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Should you wish ... は If you should wish の If が省略された形です。
 be my guest は「どうぞご自由に」の意味の慣用句です。
 
