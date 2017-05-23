@@ -1675,6 +1675,14 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By wrapping the &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; and &lt;g3&gt;&lt;h2&gt;&lt;/g3&gt; in an &lt;g4&gt;&lt;hgroup&gt;&lt;/g4&gt;, you could theoretically remove the &lt;g5&gt;&lt;h2&gt;&lt;/g5&gt; from the outline, preventing it from creating a subheading:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T095534Z" creationid="yoota" creationdate="20170523T095528Z">
+        <seg>以下のように、&lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; と&lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;を &lt;g4&gt;&lt;hgroup&gt;&lt;/g4&gt;でラップすることで、理論上はアウトラインからを取り除き、サブ見出しが作成されないようにすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) そのまま訳せば「祝福でもあり、呪いでもある」。
 
 (伊原) ここはヘイドン調でもいいように思いました。</note>
