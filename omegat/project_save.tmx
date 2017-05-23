@@ -1690,12 +1690,12 @@ segregateは隔離というより分離としたほうがしっくりくるか�
     <tu>
       <note>(太田)
 ここのroleは「ロール」で良いかもしれません。
-</note>
+「ほぼ同じようなことです」の意味が不明です。原文では一文で前半を受けて in much the same way as とつながるので、「……と同じようなやり方です」くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>By providing the prefix “Subtitle:” we clarify the role of the &lt;g5&gt;&lt;p&gt;&lt;/g5&gt; element non-visually, in much the same way as the implicit role of a &lt;g6&gt;&lt;button&gt;&lt;/g6&gt; element makes screen readers announce “Button.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T102205Z" creationid="yoota" creationdate="20170523T101745Z">
-        <seg>ここでは、「サブタイトル：」という接頭辞を付けることで、非視覚的に&lt;g5&gt;&lt;p&gt;&lt;/g5&gt;要素の役割を明確化しています。これは、&lt;g6&gt;&lt;button&gt;&lt;/g6&gt;要素の暗黙的なロールによって、スクリーンリーダーが「ボタン」と読み上げるのとほぼ同じようなことです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T102503Z" creationid="yoota" creationdate="20170523T101745Z">
+        <seg>ここでは、「サブタイトル：」という接頭辞を付けることで、非視覚的に&lt;g5&gt;&lt;p&gt;&lt;/g5&gt;要素の役割を明確化しています。これは、&lt;g6&gt;&lt;button&gt;&lt;/g6&gt;要素の暗黙的なロールによって、スクリーンリーダーが「ボタン」と読み上げるのと同じようなやり方です。</seg>
       </tuv>
     </tu>
     <tu>
