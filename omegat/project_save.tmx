@@ -4202,7 +4202,7 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
     </tu>
     <tu>
       <note>(太田)
-微妙に誤訳かも。「&lt;g2&gt;.visually-hidden&lt;/g2&gt;クラスが指定された&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;」としました。</note>
+微妙に誤訳かも。「&lt;g2&gt;.visually-hidden&lt;/g2&gt;クラスを指定した&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;」としました。</note>
       <tuv lang="EN-US">
         <seg>Note the use of the &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; with the &lt;g2&gt;.visually-hidden&lt;/g2&gt; class.</seg>
       </tuv>
@@ -6250,6 +6250,17 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T152225Z" creationid="yoota" creationdate="20170426T092511Z">
         <seg>ビューポートを基準とする単位を使えば、ビューポートの高さ（&lt;g1&gt;vh&lt;/g1&gt;）と幅（&lt;g2&gt;vw&lt;/g2&gt;）に合わせてテキストのサイズを調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+「示されます」→「示されるでしょう」かと思います。調整して「おそらくスタイルで表現されていることでしょう」としました。
+「サブタイトルの役割」がわかりにくいかもしれません。それがサブタイトルの役割を果たしていること、という意味なので少し補いました。</note>
+      <tuv lang="EN-US">
+        <seg>Visually, the role of the subtitle would presumably be indicated by its styling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T101432Z" creationid="yoota" creationdate="20170523T101343Z">
+        <seg>視覚的には、それがサブタイトルの役割を果たしているということは、おそらくスタイルで表現されていることでしょう。</seg>
       </tuv>
     </tu>
     <tu>
