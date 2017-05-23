@@ -2272,6 +2272,14 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Having such a utility class in your style sheet and at your disposal is always recommended.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T104911Z" creationid="yoota" creationdate="20170523T104911Z">
+        <seg>このようなユーティリティクラスをスタイルシートに用意し、自由に使えるようにしておくことをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Heading Structure</seg>
@@ -2884,6 +2892,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T101825Z" creationid="yoota" creationdate="20170512T101124Z">
         <seg>一般的なケースでは、サードパーティのグリッドシステムを使うことはお勧めできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In later chapters, we’ll call on &lt;g1&gt;.visually-hidden&lt;/g1&gt; a number of times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T104925Z" creationid="yoota" creationdate="20170523T104925Z">
+        <seg>&lt;g1&gt;.visually-hidden&lt;/g1&gt;は後の章でも何度か出てきます。</seg>
       </tuv>
     </tu>
     <tu>
