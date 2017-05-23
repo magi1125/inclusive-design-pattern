@@ -2499,6 +2499,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+新しい行にする→改行する としました。</note>
       <tuv lang="EN-US">
         <seg>If we want “In Seven Easy Steps” to be part of the title, we can separate it with a semantically inert &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; element and drop it onto a new line using &lt;g2&gt;h1 span { display: block; }&lt;/g2&gt;.</seg>
       </tuv>
