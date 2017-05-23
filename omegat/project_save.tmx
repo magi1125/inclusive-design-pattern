@@ -5590,12 +5590,12 @@ out of sight は「非表示」とされていましたが、文字通り「視�
       <note>(太田)
 「ミスをします」だと過失によるミスのように思えますが、実際は正しいと思ってやってしまっているので「過ちを犯します」としました。
 「見出しが表すセクション」→「そのセクション」
-「認識上の」はよくわかりません。 perceived は知覚された、認められた、くらいの意味。 彼らが感じた重要性、というような意味かと。</note>
+「認識上の」はよくわかりません。 perceived は知覚された、認められた、くらいの意味。 彼らが感じとった重要性、というような意味かと。</note>
       <tuv lang="EN-US">
         <seg>This is where a lot of developers make a mistake: they choose a heading element which they believe best fits the perceived importance of the section it represents.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T055738Z" creationid="yoota" creationdate="20170522T100551Z">
-        <seg>ここで、多くの開発者が過ちを犯します。そのセクションの認識上の重要性に最も合うと思う見出し要素を選んでしまうのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T060026Z" creationid="yoota" creationdate="20170522T100551Z">
+        <seg>ここで、多くの開発者が過ちを犯します。そのセクションの重要性を判断して、それに最も合うと思う見出し要素を選んでしまうのです。</seg>
       </tuv>
     </tu>
     <tu>
