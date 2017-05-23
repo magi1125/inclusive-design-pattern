@@ -6612,12 +6612,12 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
     </tu>
     <tu>
       <note>(太田)
-&lt;hgroup&gt; は原文に無いものが補われている模様。強調のマークアップどうするかの。</note>
+&lt;hgroup&gt; は原文に無いものが補われている模様。強調のマークアップどうするか。</note>
       <tuv lang="EN-US">
         <seg>You cannot therefore depend on it becoming implemented uniformly or reliably in browsers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T095815Z" creationid="yoota" creationdate="20170523T095815Z">
-        <seg>このため、&lt;hgroup&gt;が各種ブラウザに一様にまたは確実に実装されていることを前提としてはなりません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T095847Z" creationid="yoota" creationdate="20170523T095815Z">
+        <seg>このため、&lt;hgroup&gt;が各種ブラウザに確実に実装されていることを前提としてはなりません。</seg>
       </tuv>
     </tu>
     <tu>
