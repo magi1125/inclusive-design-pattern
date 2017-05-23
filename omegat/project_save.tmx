@@ -5049,7 +5049,7 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
 「特別なプロパティセット」は謎です。特別でもないと思いますが原文にはspecialとありますね。「専用」くらいでしょうか。
 invokeはメソッドなどを「呼び出す」ときに使われるので合っていますが、CSSで呼び出すと言われると強い違和感がありますね。参照するくらいでしょうが、全体として意訳してもいいのかも。
 「スクリーンリーダーソフトウェア」は冗長なので「ソフトウェア」をとりました。
-becoming silenced in screen reader はヘイドンユーモアフレーズ? そのまま訳すと分かりにくいので「スクリーンリーダーでは読み上げられる」としました。</note>
+becoming silenced in screen reader はヘイドンユーモアフレーズ? そのまま訳すと「スクリーンリーダーを沈黙させることなく」くらいですが、いったん素直に「スクリーンリーダーでは読み上げられる」としました。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;.visually-hidden&lt;/g1&gt; class invokes a special set of properties, carefully devised to hide the element visually without it becoming silenced in screen reader software.</seg>
       </tuv>
