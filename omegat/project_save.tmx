@@ -2180,10 +2180,12 @@ http://www.dictionary.com/browse/radical
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 要事実確認。ユーザーエージェントをブラウザに限らなければ実装は存在すると思います (少なくともアウトラインを表示する専用のUAはあったはず)。W3C HTML5.1には以下のようにあり、同趣旨ですがヘイドンさんほど強くは言い切っていない感じです。
+      <note>(太田) 要事実確認。ユーザーエージェントをブラウザに限らなければ実装は存在すると思います (少なくともアウトラインを表示する専用のUAはあったはず)。W3C HTML5.1には以下のようにあり、
+
 http://www.w3.org/TR/html51/sections.html#creating-an-outline
 &gt;There are currently no known native implementations of the outline algorithm in graphical browsers or assistive technology user agents, although the algorithm is implemented in other software such as conformance checkers and browser extensions. 
 
+適合性チェッカーやブラウザ拡張がアルゴリズムを実装している旨は書かれています。ヘイドンさんの any UA は言いすぎです。
 いずれにしても訳注が必要か。</note>
       <tuv lang="EN-US">
         <seg>However, it is &lt;g8&gt;&lt;g9&gt;not implemented in any user agent&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;3&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;, and there’s no sign it ever will be.</seg>
