@@ -4597,8 +4597,8 @@ roleを役割とするべきかどうかは別途確認 (全体で統一する�
       <tuv lang="EN-US">
         <seg>Should a &lt;g1&gt;&lt;subtitle&gt;&lt;/g1&gt; element ever be specified, the clarifying “Subtitle:” prefix would probably be provided for you as a feature of the element’s role, and therefore automatically available in the “&lt;g2&gt;&lt;g3&gt;accessibility tree&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;5&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;” — the version of the DOM used by assistive technologies where roles, properties, states, labels and values are exposed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T105716Z">
-        <seg>もし&lt;g1&gt;&lt;subtitle&gt;&lt;/g1&gt;要素が定義されたなら、この要素のロールが持つ機能として、「サブタイトル：」という接頭辞を提供して、意味を明確にするようになるかもしれません。接頭辞は自動的に&lt;g2&gt;&lt;g3&gt;「アクセシビリティツリー」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注40）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;――支援技術が利用するもので、DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの情報を加えたもの――に追加され、支援技術から利用できるようになるでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T105739Z">
+        <seg>もし&lt;g1&gt;&lt;subtitle&gt;&lt;/g1&gt;要素が定義されたなら、この要素のロールが持つ機能として「サブタイトル：」という接頭辞を提供して、意味を明確にするようになるかもしれません。接頭辞は自動的に&lt;g2&gt;&lt;g3&gt;「アクセシビリティツリー」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注40）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;――支援技術が利用するもので、DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの情報を加えたもの――に追加され、支援技術から利用できるようになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
