@@ -2716,8 +2716,8 @@ http://www.w3.org/TR/CSS1/#length-units
       <tuv lang="EN-US">
         <seg>In a non-visual context, this would not be apparent: Traversing from the &lt;g3&gt;&lt;h1&gt;&lt;/g3&gt; to the &lt;g4&gt;&lt;p&gt;&lt;/g4&gt; would have a screen reader believe that they had begun reading the article body.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T101534Z" creationid="yoota" creationdate="20170523T101517Z">
-        <seg>非視覚的なコンテキストでは、このことは分かりません。&lt;g3&gt;&lt;h1&gt;&lt;/g3&gt; から&lt;g4&gt;&lt;p&gt;&lt;/g4&gt;へのトラバースで、スクリーンリーダーは、記事の本文を読み始めたのだと考えるでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T101638Z" creationid="yoota" creationdate="20170523T101517Z">
+        <seg>非視覚的なコンテキストでは、このことは分かりません。&lt;g3&gt;&lt;h1&gt;&lt;/g3&gt; から&lt;g4&gt;&lt;p&gt;&lt;/g4&gt;に移り変わることで、スクリーンリーダーは、記事の本文を読み始めたと考えるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
