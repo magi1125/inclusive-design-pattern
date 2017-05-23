@@ -1418,8 +1418,12 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
     </tu>
     <tu>
       <note>(太田)
-「これ」が何を指すのか分かりにくいですが、「ネイティブな要素があること」(ネイティブな要素を使うこと) ですね。
-</note>
+たとえば&lt;button&gt;などのネイティブ要素を使うことで、
+・フォーカスを受け取るなどのインタラクティブな動作が勝手に実現される
+・アクセシビリティツリーに追加され、支援技術で「ボタン」と読まれるなどの機能が勝手に実現される
+というメリットがあります。
+ここでは前者はさておき後者がメリットだよねという話をしています。
+分かりにくいと思います。</note>
       <tuv lang="EN-US">
         <seg>Aside from providing interactive behaviors, this is one of the simple benefits of using semantic elements where they are specified and supported.</seg>
       </tuv>
