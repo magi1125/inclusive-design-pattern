@@ -4044,7 +4044,8 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
     </tu>
     <tu>
       <note>(太田)
-familiarを「十分に学習してきた」としていますが、「十分に」はいらないかも。</note>
+familiarを「十分に学習してきた」としていますが、「十分に」はいらないかも。
+「直接的なサブセクション」が不明。</note>
       <tuv lang="EN-US">
         <seg>Now that you’re familiar with the structural contribution of headings, you should be able to see the problem: the &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; creates an immediate subsection, “In Seven Easy Steps.” That’s a pretty weird, fragmentary heading for a section and would make little sense wherever a table of contents is generated:</seg>
       </tuv>
