@@ -1688,6 +1688,14 @@ segregateは隔離というより分離としたほうがしっくりくるか�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By providing the prefix “Subtitle:” we clarify the role of the &lt;g5&gt;&lt;p&gt;&lt;/g5&gt; element non-visually, in much the same way as the implicit role of a &lt;g6&gt;&lt;button&gt;&lt;/g6&gt; element makes screen readers announce “Button.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T101745Z" creationid="yoota" creationdate="20170523T101745Z">
+        <seg>ここでは、「サブタイトル：」という接頭辞を付けることで、非視覚的に&lt;p&gt;の役割を明確化しています。これは、&lt;button&gt;要素の暗黙的な役割によって、スクリーンリーダーが「ボタン」と読み上げるのとほぼ同じようなことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) リテラシーはそのままカタカナにしてみました。</note>
       <tuv lang="EN-US">
         <seg>By tackling specific issues we know would affect folks with limited vision, dyslexia, Irlen syndrome, low literacy and limited technical knowledge, a comfortable reading and interaction experience has been ensured for most everyone else.</seg>
