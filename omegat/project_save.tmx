@@ -6611,6 +6611,16 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+&lt;hgroup&gt; は原文に無いものが補われている模様。</note>
+      <tuv lang="EN-US">
+        <seg>You cannot therefore depend on it becoming implemented uniformly or reliably in browsers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T095815Z" creationid="yoota" creationdate="20170523T095815Z">
+        <seg>このため、&lt;hgroup&gt;が各種ブラウザに一様にまたは確実に実装されていることを前提としてはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのcouldに「良い」というニュアンスはないように思うので、「それで終わりにすることもできますが」としました。
 「これ以上の構造情報がないと」の「以上」が何と比較して上なのか分かりにくいように思いましたので、「構造情報がこれだけでは」としました。
 </note>
