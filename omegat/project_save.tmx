@@ -5047,14 +5047,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       <note>(太田)
 冒頭のTheに対応して「この」を補いました。
 「特別なプロパティセット」は謎です。特別でもないと思いますが原文にはspecialとありますね。「専用」くらいでしょうか。
-invokeはメソッドなどを「呼び出す」ときに使われるので合っていますが、CSSで呼び出すと言われると強い違和感がありますね。参照するくらいでしょうか。
+invokeはメソッドなどを「呼び出す」ときに使われるので合っていますが、CSSで呼び出すと言われると強い違和感がありますね。参照するくらいでしょうが、全体として意訳してもいいのかも。
 
 </note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;.visually-hidden&lt;/g1&gt; class invokes a special set of properties, carefully devised to hide the element visually without it becoming silenced in screen reader software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T104053Z" creationid="yoota" creationdate="20170523T102523Z">
-        <seg>この&lt;g1&gt;.visually-hidden&lt;/g1&gt;クラスは、専用のプロパティセットを呼び出し、スクリーンリーダーソフトウェアで読み上げを回避されることなく、要素を視覚的に巧みに隠します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T104230Z" creationid="yoota" creationdate="20170523T102523Z">
+        <seg>この&lt;g1&gt;.visually-hidden&lt;/g1&gt;クラスは、専用のプロパティセットを参照して、スクリーンリーダーソフトウェアで読み上げを回避されることなく、要素を視覚的に巧みに隠します。</seg>
       </tuv>
     </tu>
     <tu>
