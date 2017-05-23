@@ -2502,8 +2502,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       <tuv lang="EN-US">
         <seg>If we want “In Seven Easy Steps” to be part of the title, we can separate it with a semantically inert &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; element and drop it onto a new line using &lt;g2&gt;h1 span { display: block; }&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T095946Z" creationid="yoota" creationdate="20170523T095935Z">
-        <seg>「～シンプルな7つのステップで～」をタイトルの一部にしたい場合は、特別な意味を持たない&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;要素でこれを区切り、&lt;g2&gt;h1 span{ display:block;}&lt;/g2&gt;を使用して新しい行にすることができます。【コメント：原文「InSeven Easy Steps」】</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T100000Z" creationid="yoota" creationdate="20170523T095935Z">
+        <seg>「～シンプルな7つのステップで～」をタイトルの一部にしたい場合は、特別な意味を持たない&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;要素でこれを区切り、&lt;g2&gt;h1 span{ display:block;}&lt;/g2&gt;を使用して改行することができます。</seg>
       </tuv>
     </tu>
     <tu>
