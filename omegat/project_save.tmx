@@ -1484,7 +1484,7 @@ https://en.wikipedia.org/wiki/Thematic_map
 地理用語としては「主題図」が定訳のようですが、ここでは概略図? 概要?
 describeは説明? UAなどに伝える意味のように思います。記述?
 
-buildingがどこにくっついているのかよくわかりません。元訳はwe can buildと解釈しているようですが、we can building とは言わないはずなので疑問が残ります。parts についていると解釈するなら、「概要やアウトラインを構築するパーツのどこに所属するのかを表現できる」となり、これはこれで意味が通じるように思います。とはいえ、そう解釈しても結局のところ「概要やアウトラインを作れる」ということにつながるので、元訳と言っていることが大きくは違わないようにも思いますね。
+buildingがどこにくっついているのかよくわかりません。元訳はwe can buildと解釈しているようですが、we can building とは言わないはずなので疑問が残ります。parts についていると解釈するなら、「概要やアウトラインを構築するパーツのどこに所属するのかを表現できる」となり、これはこれで意味が通じるように思います。とはいえ、そう解釈しても結局のところ「概要やアウトラインを作れる」ということにつながるので、元訳と言っていることが大きくは違わないようにも思います。
 </note>
       <tuv lang="EN-US">
         <seg>By dividing our blog article into subsections, we can describe which parts of it belong to which other parts, building a thematic map or outline.</seg>
@@ -1674,11 +1674,12 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 深さ→階層の深さ、と補いました。</note>
       <tuv lang="EN-US">
         <seg>Despite the inclusion of nestable sectioning elements in the HTML5 specification, like &lt;g1&gt;&lt;section&gt;&lt;/g1&gt;, the only elements currently able to describe depth in an inclusive fashion are &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; to &lt;g3&gt;&lt;h6&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170522T100124Z" creationid="yoota" creationdate="20170522T100124Z">
-        <seg>HTML5仕様には&lt;g1&gt;&lt;section&gt;&lt;/g1&gt;などのネスト可能なセクショニング要素が含まれていますが、現在のところ、インクルーシブな方法で深さを記述できる要素は &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt;～&lt;g3&gt;&lt;h6&gt;&lt;/g3&gt;だけです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T031701Z" creationid="yoota" creationdate="20170522T100124Z">
+        <seg>HTML5仕様には&lt;g1&gt;&lt;section&gt;&lt;/g1&gt;などのネスト可能なセクショニング要素が含まれていますが、現在のところ、インクルーシブな方法で階層の深さを記述できる要素は &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt;～&lt;g3&gt;&lt;h6&gt;&lt;/g3&gt;だけです。</seg>
       </tuv>
     </tu>
     <tu>
