@@ -3107,6 +3107,14 @@ becauseを訳出しました。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In which case, the following solution could work:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T100630Z" creationid="yoota" creationdate="20170523T100630Z">
+        <seg>このような場合には、以下の方法で対処できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) それを実現するには➞その場合、イメージ➞画像としました</note>
       <tuv lang="EN-US">
         <seg>In which case, we don’t want to ask editors to have to upload and link icon images or — worse still — edit the source to add a &lt;g1&gt;class&lt;/g1&gt; attribute to each external link.</seg>
