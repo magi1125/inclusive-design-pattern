@@ -3208,12 +3208,14 @@ CSSの用語としてはpseudo-contentではなくpseudo-elementです。
     </tu>
     <tu>
       <note>(太田)
-重要でないため→重要ではないと考えて、としました。</note>
+重要でないため→重要ではないと考えて、としました。
+「すべて削除」だと複数個所あってその全てを消すようなニュアンスにも読めるので、「まるごと削除」としました。
+</note>
       <tuv lang="EN-US">
         <seg>Instead, you might deem the subtitle unimportant and want to remove its text from the outline altogether.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T100419Z" creationid="yoota" creationdate="20170523T100409Z">
-        <seg>そうではなく、サブタイトルは重要でないと考えて、そのテキストをアウトラインからすべて削除したいこともあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T100612Z" creationid="yoota" creationdate="20170523T100409Z">
+        <seg>そうではなく、サブタイトルは重要でないと考えて、そのテキストをアウトラインからまるごと削除したいこともあります。</seg>
       </tuv>
     </tu>
     <tu>
