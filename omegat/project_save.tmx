@@ -2710,6 +2710,16 @@ http://www.w3.org/TR/CSS1/#length-units
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「これが分かりません」→「このことは分かりません」としました。</note>
+      <tuv lang="EN-US">
+        <seg>In a non-visual context, this would not be apparent: Traversing from the &lt;g3&gt;&lt;h1&gt;&lt;/g3&gt; to the &lt;g4&gt;&lt;p&gt;&lt;/g4&gt; would have a screen reader believe that they had begun reading the article body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T101517Z" creationid="yoota" creationdate="20170523T101517Z">
+        <seg>非視覚的なコンテキストでは、このことは分かりません。から&lt;p&gt;へのトラバースで、スクリーンリーダーは、記事の本文を読み始めたのだと考えるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 入れます→入れるべきです。head要素内に入れても動くのですが&lt;/body&gt;の前に入れることを推奨するという話です。</note>
       <tuv lang="EN-US">
         <seg>In a progressively enhanced setup, scripts should be inserted at the end of the document, just before the closing &lt;c0&gt;&lt;/body&gt;&lt;/c0&gt; tag.</seg>
