@@ -5053,8 +5053,8 @@ invokeはメソッドなどを「呼び出す」ときに使われるので合�
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;.visually-hidden&lt;/g1&gt; class invokes a special set of properties, carefully devised to hide the element visually without it becoming silenced in screen reader software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T104331Z" creationid="yoota" creationdate="20170523T102523Z">
-        <seg>この&lt;g1&gt;.visually-hidden&lt;/g1&gt;クラスには専用のCSSプロパティが定義されており、スクリーンリーダーで読み上げを回避されることなく、要素を視覚的に巧みに隠します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T104401Z" creationid="yoota" creationdate="20170523T102523Z">
+        <seg>この&lt;g1&gt;.visually-hidden&lt;/g1&gt;クラスには専用のCSSプロパティが定義されており、要素を視覚的には巧みに隠しながら、スクリーンリーダーでは読み上げられるようにします。</seg>
       </tuv>
     </tu>
     <tu>
