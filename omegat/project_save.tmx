@@ -78,6 +78,16 @@ p {</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- do not use --&gt;&lt;/g2&gt;
+&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;hgroup&lt;/g4&gt;&lt;g6&gt;&gt;&lt;/g6&gt;&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T095611Z" creationid="yoota" creationdate="20170523T095611Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- これは使わないでください --&gt;&lt;/g2&gt;
+&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;hgroup&lt;/g4&gt;&lt;g6&gt;&gt;&lt;/g6&gt;&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- don’t use this --&gt;&lt;/g2&gt;
 &lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;main&lt;/g4&gt; &lt;g6&gt;id&lt;/g6&gt;&lt;g7&gt;&lt;g8&gt;=&lt;/g8&gt;"main"&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g3&gt;</seg>
       </tuv>
