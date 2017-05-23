@@ -3536,6 +3536,14 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve seen many an implementation which chooses to put the subtitle in a separate heading element, like so:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T093706Z" creationid="yoota" creationdate="20170523T093706Z">
+        <seg>以下のように、別の見出し要素にサブタイトルを入れている例を多数見たことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ちょっと何言ってるか分からない訳になっていますが、Cmd + Option + M はレスポンシブデザインモードへの切り替えのトグルで、これを押すとレスポンシブデザインモードになるもののはずです (と思いますがMacで確認していないので伊原さん確認お願いします。WinだとCtrl+Shift+Mです)。
 頭の Just は命令形を和らげるjustで「ちょっと」くらいでしょうか。
 resizeを「大きくしていく」と訳していますが、これは逆で小さくなりますね。ビューポートが小さくなるからコンテンツが重なるわけです。
