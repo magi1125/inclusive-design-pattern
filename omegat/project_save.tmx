@@ -1837,11 +1837,13 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+思い→考え</note>
       <tuv lang="EN-US">
         <seg>For example, a developer might choose an &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt; in place of an &lt;g2&gt;&lt;h2&gt;&lt;/g2&gt; because they deem the section unimportant and would like to reduce the &lt;g3&gt;font-size&lt;/g3&gt; accordingly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170522T100645Z" creationid="yoota" creationdate="20170522T100645Z">
-        <seg>たとえば、そのセクションは重要ではないと思い、&lt;g3&gt;font-size&lt;/g3&gt;を小さくしたいと考えて、&lt;g2&gt;&lt;h2&gt;&lt;/g2&gt;ではなく&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;を選択することがあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T060334Z" creationid="yoota" creationdate="20170522T100645Z">
+        <seg>たとえば、そのセクションは重要ではないと考えて、&lt;g3&gt;font-size&lt;/g3&gt;を小さくしたいと考えて、&lt;g2&gt;&lt;h2&gt;&lt;/g2&gt;ではなく&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;を選択することがあります。</seg>
       </tuv>
     </tu>
     <tu>
