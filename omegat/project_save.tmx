@@ -4044,12 +4044,12 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
     </tu>
     <tu>
       <note>(太田)
-familiarを「十分に学習」としていますが、「十分に」はいらないかも。</note>
+familiarを「十分に学習してきた」としていますが、「十分に」はいらないかも。</note>
       <tuv lang="EN-US">
         <seg>Now that you’re familiar with the structural contribution of headings, you should be able to see the problem: the &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; creates an immediate subsection, “In Seven Easy Steps.” That’s a pretty weird, fragmentary heading for a section and would make little sense wherever a table of contents is generated:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T093931Z" creationid="yoota" creationdate="20170523T093931Z">
-        <seg>ここまでに見出しの構造的な役割を学習してきた皆さんには、何が問題かお分かりでしょう。それは、が直接的なサブセクション「？？7つのシンプルステップ？？」を作成するということです。【コメント：原文「“In Seven Easy Steps.”」。前の説明文と例では「In Seven Simple Steps」となっていますが同一のものを指していると判断して同じ訳をあてました。複数あり、？？で囲みました】？？これはセクションの見出しとしては奇妙で断片的であり、目次が生成されてもほとんど意味を成さないでしょう。？？【コメント：日本語訳の場合、不自然ではありません】</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T094014Z" creationid="yoota" creationdate="20170523T093931Z">
+        <seg>ここまでに見出しの構造的な役割を学習してきた皆さんには、何が問題かお分かりでしょう。それは、&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt;が直接的なサブセクション「？？7つのシンプルステップ？？」を作成するということです。【コメント：原文「“In Seven Easy Steps.”」。前の説明文と例では「In Seven Simple Steps」となっていますが同一のものを指していると判断して同じ訳をあてました。複数あり、？？で囲みました】？？これはセクションの見出しとしては奇妙で断片的であり、目次が生成されてもほとんど意味を成さないでしょう。？？【コメント：日本語訳の場合、不自然ではありません】</seg>
       </tuv>
     </tu>
     <tu>
