@@ -5044,6 +5044,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;.visually-hidden&lt;/g1&gt; class invokes a special set of properties, carefully devised to hide the element visually without it becoming silenced in screen reader software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T102523Z" creationid="yoota" creationdate="20170523T102523Z">
+        <seg>&lt;g1&gt;.visually-hidden&lt;/g1&gt;クラスは、特別なプロパティセットを呼び出し、スクリーンリーダーソフトウェアで読み上げを回避されることなく、要素を視覚的に巧みに隠します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;h1&gt;&lt;/g1&gt; Element</seg>
