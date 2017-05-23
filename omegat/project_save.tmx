@@ -4744,6 +4744,9 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       <tuv lang="EN-US">
         <seg>That’s what it &lt;g4&gt;is&lt;/g4&gt;, after all!</seg>
       </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T072344Z">
+        <seg>結局のところ、そういうことなのです！</seg>
+      </tuv>
     </tu>
     <tu>
       <note>(太田) lang属性で向上させれば読んでもらえる、は若干強すぎる印象です。ほとんどの場合、lang属性がなくてもわりと読めますので……。原文もそこまで強く言っていないように思いますので、すこしふんわりさせました。</note>
