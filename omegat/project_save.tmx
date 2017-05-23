@@ -1917,6 +1917,14 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Finding the right solution depends on what we want to achieve.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T095911Z" creationid="yoota" creationdate="20170523T095911Z">
+        <seg>正しい解決策は、何を行いたいかによります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ハイライト表示されるように変更する、のではなく、ハイライト表示するための辞書を切り替える、かなと。</note>
       <tuv lang="EN-US">
         <seg>Firefox, for instance, changes dictionaries on &lt;c6&gt;&lt;textarea&gt;&lt;/c6&gt;s so that spelling errors are highlighted appropriately.</seg>
@@ -2488,6 +2496,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T103829Z" creationid="yoota" creationdate="20170418T103829Z">
         <seg>Webページのテスト時におかしなことが起きたら、私はまっさきにDOCTYPEを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If we want “In Seven Easy Steps” to be part of the title, we can separate it with a semantically inert &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; element and drop it onto a new line using &lt;g2&gt;h1 span { display: block; }&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T095935Z" creationid="yoota" creationdate="20170523T095935Z">
+        <seg>「～シンプルな7つのステップで～」をタイトルの一部にしたい場合は、特別な意味を持たない&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;要素でこれを区切り、h1span{ display:block;}を使用して新しい行にすることができます。【コメント：原文「InSeven Easy Steps」】</seg>
       </tuv>
     </tu>
     <tu>
