@@ -5589,12 +5589,13 @@ out of sight は「非表示」とされていましたが、文字通り「視�
     <tu>
       <note>(太田) 要検討
 「ミスをします」だと過失によるミスのように思えますが、実際は正しいと思ってやってしまっているので「過ちを犯します」としました。
+「見出しが表すセクション」→「そのセクション」
 </note>
       <tuv lang="EN-US">
         <seg>This is where a lot of developers make a mistake: they choose a heading element which they believe best fits the perceived importance of the section it represents.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T055557Z" creationid="yoota" creationdate="20170522T100551Z">
-        <seg>ここで、多くの開発者が過ちを犯します。見出しが表すセクションの認識上の重要性に最も合うと思う見出し要素を選んでしまうのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T055738Z" creationid="yoota" creationdate="20170522T100551Z">
+        <seg>ここで、多くの開発者が過ちを犯します。そのセクションの認識上の重要性に最も合うと思う見出し要素を選んでしまうのです。</seg>
       </tuv>
     </tu>
     <tu>
