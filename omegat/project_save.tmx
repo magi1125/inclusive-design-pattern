@@ -6263,8 +6263,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       <tuv lang="EN-US">
         <seg>Using &lt;g2&gt;display: none;&lt;/g2&gt;, &lt;g3&gt;visibility: hidden;&lt;/g3&gt;, &lt;g4&gt;height: 0;&lt;/g4&gt; or &lt;g5&gt;width: 0;&lt;/g5&gt; wouldn’t work — it would make the span unavailable both visually &lt;g6&gt;and&lt;/g6&gt; aurally.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T104654Z" creationid="yoota" creationdate="20170523T104654Z">
-        <seg>&lt;g2&gt;display: none;&lt;/g2&gt;、&lt;g3&gt;visibility: hidden;&lt;/g3&gt;、&lt;g4&gt;height: 0;&lt;/g4&gt;、&lt;g5&gt;width: 0;&lt;/g5&gt;を使用したのではうまく機能しません。視覚的にも聴覚的にもspanが利用できなくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T104733Z" creationid="yoota" creationdate="20170523T104654Z">
+        <seg>&lt;g2&gt;display: none;&lt;/g2&gt;、&lt;g3&gt;visibility: hidden;&lt;/g3&gt;、&lt;g4&gt;height: 0;&lt;/g4&gt;、&lt;g5&gt;width: 0;&lt;/g5&gt;を使ってもうまく機能しません――視覚と聴覚の&lt;g6&gt;両方で&lt;/g6&gt;spanが利用できなくなります。</seg>
       </tuv>
     </tu>
     <tu>
