@@ -5472,12 +5472,12 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
     <tu>
       <note>(太田)
 原文ダッシュは生かしたい気がするがどうか。
-これは、視覚的なユーザーと非視覚的なユーザーの両方を欺くことになります。なぜなら、知覚される構造を壊す――レベルが1つスキップされることになるからです。</note>
+</note>
       <tuv lang="EN-US">
         <seg>This deceives both visual and non-visual readers because it breaks the perceived structure — a level has been skipped.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170522T100655Z" creationid="yoota" creationdate="20170522T100655Z">
-        <seg>これは、認識されている構造を壊し、レベルが1つスキップされるため、視覚的な読者と非視覚的な読者の両方を欺くことになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170523T061106Z" creationid="yoota" creationdate="20170522T100655Z">
+        <seg>これは、視覚的なユーザーと非視覚的なユーザーの両方を欺くことになります。なぜなら、知覚される構造を壊すため――レベルが1つスキップされることになるためです。</seg>
       </tuv>
     </tu>
     <tu>
