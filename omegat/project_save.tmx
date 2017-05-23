@@ -6260,6 +6260,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+元訳では原文のandの強調がうまく反映できなかったので「両方で」を補って強調する形にしてみました。</note>
       <tuv lang="EN-US">
         <seg>Using &lt;g2&gt;display: none;&lt;/g2&gt;, &lt;g3&gt;visibility: hidden;&lt;/g3&gt;, &lt;g4&gt;height: 0;&lt;/g4&gt; or &lt;g5&gt;width: 0;&lt;/g5&gt; wouldn’t work — it would make the span unavailable both visually &lt;g6&gt;and&lt;/g6&gt; aurally.</seg>
       </tuv>
