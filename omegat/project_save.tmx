@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3814,7 +3814,9 @@ poorlyを「正しくない」とするのは強すぎるかもしれません�
 
 (伊原) LGTM. self-managing grids って何でしょうね。
 
-(太田) 脚注リンク先を見るとFlexboxを使っていい感じにレイアウトをする話のようで、「勝手にいい感じになるグリッド」みたいな雰囲気のようです。</note>
+(太田) 脚注リンク先を見るとFlexboxを使っていい感じにレイアウトをする話のようで、「勝手にいい感じになるグリッド」みたいな雰囲気のようです。
+
+(岡本) 10章「フィルターウィジェット」で詳しく説明します。　　※仮変更</note>
       <tuv lang="EN-US">
         <seg>I’ll talk more about the terseness with which you can &lt;g1&gt;&lt;g2&gt;create responsive, self-managing grids&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; using Flexbox in the “A Filter Widget” chapter.</seg>
       </tuv>
@@ -3837,7 +3839,9 @@ poorlyを「正しくない」とするのは強すぎるかもしれません�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(岡本) 私は〜懸念しています、がちょっと離れすぎている印象。「HTMLのセマンティクスは、意味を提供している個別の要素という観点からのみ見られており、互いの関係が見られていません。私はいつもそのことを懸念しています」とかですかねー。。。</note>
       <tuv lang="EN-US">
         <seg>I’m concerned we only usually look at HTML semantics in terms of discrete elements providing meaning, and not by looking at their relationships to one another.</seg>
       </tuv>
