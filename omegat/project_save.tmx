@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3008,6 +3008,16 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170524T083529Z" creationid="yoota" creationdate="20170512T101124Z">
         <seg>一般的なケースでは、サードパーティのグリッドシステムを使うことはおすすめできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+脚注の位置を原文とそろえました。</note>
+      <tuv lang="EN-US">
+        <seg>In her talk “&lt;g1&gt;&lt;g2&gt;Burn Your Select Tags&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;8&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;” (video), Alice Bartlett shares the research she undertook at the &lt;g6&gt;&lt;g7&gt;UK Government Digital Service&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;9&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; into &lt;g11&gt;&lt;select&gt;&lt;/g11&gt; element usability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T090135Z" creationid="yoota" creationdate="20170524T090135Z">
+        <seg>アリス・バートレット（Alice Bartlett）は、「&lt;g1&gt;&lt;g2&gt;Burn Your Select Tags&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注43）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」（ビデオ）の中で、UK Government Digital Service（脚注44）で彼女が行った&lt;select&gt;要素のユーザービリティの調査について話しています。</seg>
       </tuv>
     </tu>
     <tu>
