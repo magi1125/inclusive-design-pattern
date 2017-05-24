@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4302,12 +4302,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
     <tu>
       <note>(太田) 括弧内は「これも…」ではなく「“The Document” でも議論しています」ということと思われます。要するに「詳しくは “The Document” を見てね」という意味と思われるので、「詳しくは「ドキュメント全体」で説明しています」としました。
 
-(伊原) ちなみに的ニュアンスになるように若干調整。</note>
+(伊原) ちなみに的ニュアンスになるように若干調整。
+
+(岡本) 上で章名を入れているので、ここは単に「2章で」でいいかなと思いました。</note>
       <tuv lang="EN-US">
         <seg>Note the &lt;g2&gt;id&lt;/g2&gt; below, which allows keyboard users to navigate to the article via a skip link (also discussed in “The Document”):</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170521T131521Z" creationid="yoota" creationdate="20170512T093733Z">
-        <seg>下の&lt;g2&gt;id&lt;/g2&gt;に注意してください。これにより、キーボードユーザーがスキップリンクを介して記事に移動できるようになります（詳しくは「ドキュメント全体」で説明しています）。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170524T082911Z" creationid="yoota" creationdate="20170512T093733Z">
+        <seg>下の&lt;g2&gt;id&lt;/g2&gt;に注意してください。これにより、キーボードユーザーがスキップリンクを介して記事に移動できるようになります（詳しくは2章で説明しています）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6110,7 +6112,9 @@ out of sight は「非表示」とされていましたが、文字通り「視�
     <tu>
       <note>(伊原) 枠に入れるというのがちょっと謎でした。よく読めば、枠組みに入れるということなのだと思いますが、構造を枠に入れるというのが日本語的にちょっと不自然な気も。
 
-(太田) corralは「囲いに入れる」的な動詞なので、「囲む」「括る」などでも良いように思います。いったん「括る」としてみました。</note>
+(太田) corralは「囲いに入れる」的な動詞なので、「囲む」「括る」などでも良いように思います。いったん「括る」としてみました。
+
+(岡本) 括る→くくる</note>
       <tuv lang="EN-US">
         <seg>This may help us to corral the visual structure of the page, but it has no impact on the &lt;g2&gt;semantic&lt;/g2&gt; structure.</seg>
       </tuv>
