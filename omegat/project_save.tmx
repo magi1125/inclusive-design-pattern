@@ -2955,12 +2955,14 @@ In addition を「その上」とすると前からのつながりがおかし�
     <tu>
       <note>(太田) 「一般に」と言っているので一般的に推奨されていないようにも読めますが、原文では I recoomend なので一般論ではなくヘイドンさんの考えのようです。後を読むと、サードパーティのグリッドシステムが役立つこともあると言っているので、ほとんどの状況では、ということでしょう。「一般的なケースでは」としてみました。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(岡本) お勧め→おすすめ</note>
       <tuv lang="EN-US">
         <seg>In general, I recommend against dealing with third-party grid systems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T101825Z" creationid="yoota" creationdate="20170512T101124Z">
-        <seg>一般的なケースでは、サードパーティのグリッドシステムを使うことはお勧めできません。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170524T083529Z" creationid="yoota" creationdate="20170512T101124Z">
+        <seg>一般的なケースでは、サードパーティのグリッドシステムを使うことはおすすめできません。</seg>
       </tuv>
     </tu>
     <tu>
