@@ -6409,7 +6409,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
     </tu>
     <tu>
       <note>(太田)
-原文が1文で、2文に分けなくても良い (分けると元訳のように&lt;article&gt;を補わないと分かりにくい) と思いましたので1文にしました。</note>
+原文が1文で、2文に分けなくても良い (分けると元訳のように&lt;article&gt;を補わないと分かりにくい) と思いましたので1文にしました。
+「ナビゲーションツールとして提供」はやや分かりにくいので「ナビゲーション機能を提供」としました。</note>
       <tuv lang="EN-US">
         <seg>Unlike the &lt;g13&gt;&lt;main&gt;&lt;/g13&gt; element, &lt;g14&gt;&lt;article&gt;&lt;/g14&gt; is not a landmark, so few screen readers provide it as a navigational tool.</seg>
       </tuv>
