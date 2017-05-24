@@ -3501,12 +3501,13 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
     <tu>
       <note>(太田)
 日本語として違和感あり。要検討。
-usableは「使用は可能」で良いのか。accssesibleではなくusableと言っているので、使いやすさも求めている気がする。</note>
+usableは「使用は可能」で良いのか。accssesibleではなくusableと言っているので、使いやすさも求めている気がする。
+stillは無理に訳さなくても良い気がします。</note>
       <tuv lang="EN-US">
         <seg>Is the page still navigable and usable?</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T103326Z" creationid="yoota" creationdate="20170524T102835Z">
-        <seg>ページをナビゲートしたり、使用は可能なままですか？</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T103414Z" creationid="yoota" creationdate="20170524T102835Z">
+        <seg>ナビゲートでき、使いやすいものになっていますか？</seg>
       </tuv>
     </tu>
     <tu>
