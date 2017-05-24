@@ -4216,8 +4216,8 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       <tuv lang="EN-US">
         <seg>Note that the first structure is unlikely to produce an error in an automated accessibility testing tool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170515T102441Z" creationid="yoota" creationdate="20170515T102338Z">
-        <seg>上記の最初のコード例の構造は、自動化されたアクセシビリティテストツールでは、おそらくエラーとならないことに注意してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T012741Z" creationid="yoota" creationdate="20170515T102338Z">
+        <seg>なお、上記の最初のコード例の構造は、自動化されたアクセシビリティテストツールでは、おそらくエラーとはなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4944,8 +4944,8 @@ target はそのままカタカナだと意味がとりにくいように思い�
       <tuv lang="EN-US">
         <seg>That does not mean the second structure is not preferable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T012642Z" creationid="yoota" creationdate="20170515T102514Z">
-        <seg>だからといって最初のコード例のほうが好ましいということではありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T012747Z" creationid="yoota" creationdate="20170515T102514Z">
+        <seg>だからといって最初のコード例のほうが好ましいということではありませんので注意してください。</seg>
       </tuv>
     </tu>
     <tu>
