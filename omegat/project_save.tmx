@@ -573,6 +573,16 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g24&gt;&lt;!-- third article’s content here --&gt;&lt;/g24&gt;
+&lt;g25&gt;&lt;g26&gt;&lt;g27&gt;&lt;/&lt;/g27&gt;article&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g25&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T084003Z" creationid="yoota" creationdate="20170524T084003Z">
+        <seg>&lt;g24&gt;&lt;!-- ここに3番目の記事のコンテンツ --&gt;&lt;/g24&gt;
+&lt;g25&gt;&lt;g26&gt;&lt;g27&gt;&lt;/&lt;/g27&gt;article&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g25&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ここは訳す感じで。「代替テキスト」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g26&gt;/* alternative text rules */&lt;/g26&gt;</seg>
@@ -6421,6 +6431,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T105344Z" creationid="yoota" creationdate="20170511T105331Z">
         <seg>説明すると、このセレクタは「&lt;g1&gt;href&lt;/g1&gt;の値が&lt;g2&gt;http&lt;/g2&gt;で始まり、&lt;g3&gt;heydonworks.com&lt;/g3&gt;という文字列を含まないリンク」と言っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try to think in terms of user experience when choosing semantic elements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T084010Z" creationid="yoota" creationdate="20170524T084010Z">
+        <seg>セマンティックな要素を選ぶときは、ユーザー体験の点から考えるようにしましょう。</seg>
       </tuv>
     </tu>
     <tu>
