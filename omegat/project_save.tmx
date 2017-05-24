@@ -2609,6 +2609,13 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+長いコンテンツを非同期読み込みして速度を改善する話などもありますが……。</note>
+      <tuv lang="EN-US">
+        <seg>However, when the content you are serving is static and intended for reading alone, relying on client-side JavaScript to render that content is an underperforming and relatively unreliable method.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
