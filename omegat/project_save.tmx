@@ -1875,6 +1875,14 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Content that works well in different contexts and via different inputs can be said to be &lt;g1&gt;interoperable&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T102328Z" creationid="yoota" creationdate="20170524T102328Z">
+        <seg>さまざまなコンテキストで、さまざまな入力を介して問題なく機能するコンテンツは、&lt;g1&gt;相互運用性&lt;/g1&gt;があると言うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Contrast</seg>
@@ -2412,6 +2420,14 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Headings, for instance, will appear in bold text and have font sizes indicative of the section depth they represent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T102309Z" creationid="yoota" creationdate="20170524T102309Z">
+        <seg>たとえば、見出しは太字テキストで表示され、それらが表すセクションの深さを示すフォントサイズになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Here is my adapted version:</seg>
@@ -2583,6 +2599,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T034513Z" creationid="yoota" creationdate="20170427T034351Z">
         <seg>JavaScriptがまったく使えない場合でも、&lt;noscript&gt;があるおかげで、とりあえずCSSは読み込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a browser fails to load your style sheet, it will still differentiate key elements of the interface using its own default user agent style sheet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T102306Z" creationid="yoota" creationdate="20170524T102306Z">
+        <seg>ブラウザがスタイルシートの読み込みに失敗した場合でも、独自のデフォルトユーザーエージェントのスタイルシートを使用して、インターフェイスの主要な要素を区別します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,6 +2934,14 @@ http://www.w3.org/TR/CSS1/#length-units
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T082231Z" creationid="yoota" creationdate="20170420T081502Z">
         <seg>適切な言語が明示されていれば、スクリーンリーダーや点字ディスプレイにとって有益ですし、さらに、ブラウザが適切な文字セットを含むシステムフォントを選択することもできるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, services that syndicate your content, such as feed readers, will be able to apply their own structural styles, enabling a comfortable reading experience within their own applications.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T102314Z" creationid="yoota" creationdate="20170524T102314Z">
+        <seg>さらに、フィードリーダーなどのコンテンツをまとめるサービスは、独自の構造スタイルを適用し、それぞれのアプリケーション内で読みやすくすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5818,6 +5850,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T072022Z">
         <seg>2つめのベン図は、ディスレクシアの人は、読みやすいフォントのメリットを享受する人の部分集合であることを示している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sound semantic structure we’ve been fostering in our blog article doesn’t just benefit screen reader users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T102257Z" creationid="yoota" creationdate="20170524T102257Z">
+        <seg>ここまでにブログ記事で作り上げてきた音声のセマンティック構造は、スクリーンリーダーユーザーにのみメリットをもたらすわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
