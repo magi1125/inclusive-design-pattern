@@ -3841,7 +3841,10 @@ poorlyを「正しくない」とするのは強すぎるかもしれません�
     <tu>
       <note>(伊原) LGTM
 
-(岡本) 私は〜懸念しています、がちょっと離れすぎている印象。「HTMLのセマンティクスは、意味を提供している個別の要素という観点からのみ見られており、互いの関係が見られていません。私はいつもそのことを懸念しています」とかですかねー。。。</note>
+(岡本) 私は〜懸念しています、がちょっと離れすぎている印象。「HTMLのセマンティクスは、意味を提供している個別の要素という観点からのみ見られており、互いの関係が見られていません。私はいつもそのことを懸念しています」とかですかねー。。。
+
+(太田)
+冷静に読むと「いつも」がついている位置もおかしいですね。「いつも懸念している」のではなく、「いつも見られていることを懸念している」となるのが正しそうです。</note>
       <tuv lang="EN-US">
         <seg>I’m concerned we only usually look at HTML semantics in terms of discrete elements providing meaning, and not by looking at their relationships to one another.</seg>
       </tuv>
