@@ -4502,6 +4502,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Other times they &lt;g1&gt;do&lt;/g1&gt; have an impact but the part they play is confusing, inconsistent or obstructive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T084346Z" creationid="yoota" creationdate="20170524T084346Z">
+        <seg>また、効果がある場合でも、その役割が分かりにくかったり、一貫性がなかったり、邪魔だったりする場合もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 何を言っているのか良くわからないのでちょっと保留。
 modular, often dynamic content は直訳すると「組み立て式の、しばしばダイナミックなコンテンツ」で、要するにナビとかではなくページごとに変わるコンテンツのことを言っているのだと思います。
 
@@ -4935,7 +4943,7 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
     <tu>
       <note>(太田)
  in any way などが落ちているように思ったので少し調整しました。
-</note>
+impactは次の文に合わせて「効果」としました。</note>
       <tuv lang="EN-US">
         <seg>Sometimes they may be the technically correct element to use, but they’re not supported in any way so have no impact on anyone.</seg>
       </tuv>
