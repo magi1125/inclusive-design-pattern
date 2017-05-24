@@ -1169,8 +1169,8 @@ divergeは分岐する、分かれる、それるの意味。
       <tuv lang="EN-US">
         <seg>A syndicated version of your content, subject to a different style sheet, would diverge in visual structure too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T013858Z" creationid="yoota" creationdate="20170522T101533Z">
-        <seg>RSSフィードなどを通じて表示される際には、異なるスタイルシートが適用されるため、視覚的な構造が異なるものになることもあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T032742Z" creationid="yoota" creationdate="20170522T101533Z">
+        <seg>RSSリーダーなどを通じて表示される際には、異なるスタイルシートが適用されるため、視覚的な構造が異なるものになることもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5109,6 +5109,14 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T104615Z" creationid="yoota" creationdate="20170523T102523Z">
         <seg>この&lt;g1&gt;.visually-hidden&lt;/g1&gt;クラスには専用のCSSプロパティが定義されており、視覚的には要素を巧みに隠しつつ、スクリーンリーダーでは読み上げられるようにしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;article&gt;&lt;/g1&gt; Element</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T032752Z" creationid="yoota" creationdate="20170524T032752Z">
+        <seg>&lt;g1&gt;&lt;article&gt;&lt;/g1&gt;要素</seg>
       </tuv>
     </tu>
     <tu>
