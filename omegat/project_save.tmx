@@ -4939,12 +4939,13 @@ target はそのままカタカナだと意味がとりにくいように思い�
 しかしコメントでは「これは使わないでください」「これを使ってください」ということなので、2つ目がオススメですよね。
 謎です。
 
-(太田) 1つめがエラーとならないからといって、1つめのほうが好ましい (2つめが好ましくない) という意味ではない、ということかと思います。分かりにくいです。</note>
+(太田) 1つめがエラーとならないからといって、1つめのほうが好ましい (2つめが好ましくない) という意味ではない、ということかと思います。分かりにくいです。
+二重否定をやめて書き直して調整しました。</note>
       <tuv lang="EN-US">
         <seg>That does not mean the second structure is not preferable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170522T094948Z" creationid="yoota" creationdate="20170515T102514Z">
-        <seg>これは2番目の構造が好ましくないという意味ではありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T012642Z" creationid="yoota" creationdate="20170515T102514Z">
+        <seg>だからといって最初のコード例のほうが好ましいということではありません。</seg>
       </tuv>
     </tu>
     <tu>
