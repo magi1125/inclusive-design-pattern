@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1327,6 +1327,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T201824Z" creationid="yoota" creationdate="20170501T113301Z">
         <seg>インクルーシブデザインの手法に合うように調整することが容易でないような、柔軟性のないフレームワークは避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arguably, this is useful information where there are several &lt;g4&gt;&lt;article&gt;&lt;/g4&gt;s on the same page and the user is reading from top to bottom, element by element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T083609Z" creationid="yoota" creationdate="20170524T083609Z">
+        <seg>確かに、同じページに複数の&lt;g4&gt;&lt;article&gt;&lt;/g4&gt;があり、ユーザーが要素ごとに上から下に向かって読んでいる場合には、これは有益な情報です。</seg>
       </tuv>
     </tu>
     <tu>
