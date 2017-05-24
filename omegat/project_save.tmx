@@ -4623,6 +4623,14 @@ parityは平均化というより、ここでは等価、価値を等しくす�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Progressive Enhancement And Interoperability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T101347Z" creationid="yoota" creationdate="20170524T101347Z">
+        <seg>プログレッシブエンハンスメントとインターオペラビリティ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「形式が合理的かつ堅牢」となっていますが、buildingにかかっているように見えますので「合理的かつ堅牢な形で構築」でしょうか。
 ネットワーク障害→回線状況としました。回線が遅い場合の話も出てきますので。
 scripting failures はスクリプトエラーで良いのかどうか謎。Ajax通信でAPIが応答しなかった場合のようなものを想定している気がしており、そうすると「スクリプトエラー」ではないように思います。そのまま「スクリプト処理の失敗」としてみました。
