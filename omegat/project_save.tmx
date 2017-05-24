@@ -2105,6 +2105,14 @@ min-widthにremを使われると例としてはわかりにくいですね…�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you may be asking, “If this is an article, shouldn’t it be in an &lt;g1&gt;&lt;article&gt;&lt;/g1&gt; element?”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T032822Z" creationid="yoota" creationdate="20170524T032822Z">
+        <seg>たとえば、「これが記事（article）であれば、&lt;g1&gt;&lt;article&gt;&lt;/g1&gt;要素に入れるべきではないか？」と思われるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) [Webサイト名] | [検索語句]の検索結果 と [] を補いました。
 
 (伊原) 訳はLGTM。その話とは別に、検索結果のときだけサイト名とページ名が反転するのはなぜだろう？と思いました。</note>
@@ -5673,6 +5681,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T055223Z" creationid="yoota" creationdate="20170510T054926Z">
         <seg>本文テキストをどのような書体にすると読みやすいかについては、相反する多数の意見があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a lot of confusion surrounding HTML5 sectioning elements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T032805Z" creationid="yoota" creationdate="20170524T032805Z">
+        <seg>HTML5のセクショニング要素については多くの混乱があります。</seg>
       </tuv>
     </tu>
     <tu>
