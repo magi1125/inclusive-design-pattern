@@ -2374,6 +2374,16 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+works wellは「正しく機能」ではないかも。「よく機能」「うまく機能」?</note>
+      <tuv lang="EN-US">
+        <seg>Good semantic structure works well with screen readers, feed readers, search engines and all sorts of other parsers looking for structural meaning in your content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T102427Z" creationid="yoota" creationdate="20170524T102427Z">
+        <seg>優れたセマンティック構造は、スクリーンリーダー、フィードリーダー、サーチエンジン、およびコンテンツ内の構造的な意味を検索する他のあらゆるパーサーで正しく機能します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) document-level とは何か。ぱっと見、従うべきドキュメントがある (WCAGのような文書を指す) という話のようにも読めますが、ここの章のタイトルが "the document" であることを考えると、ドキュメント全体が従うべきベストプラクティスがあるといっているように思えます。この文全体として、「HTMLページの中身は好きに作っても良いが、ドキュメント全体が従うべき慣習がある」と言っているのではないでしょうか。
 
 (伊原) はい、そのように思います。</note>
