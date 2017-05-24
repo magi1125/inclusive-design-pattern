@@ -2634,11 +2634,13 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ownは無理に訳さなくて良いように思うので「独自の」をとりました。</note>
       <tuv lang="EN-US">
         <seg>If a browser fails to load your style sheet, it will still differentiate key elements of the interface using its own default user agent style sheet.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T102306Z" creationid="yoota" creationdate="20170524T102306Z">
-        <seg>ブラウザがスタイルシートの読み込みに失敗した場合でも、独自のデフォルトユーザーエージェントのスタイルシートを使用して、インターフェイスの主要な要素を区別します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T103800Z" creationid="yoota" creationdate="20170524T102306Z">
+        <seg>ブラウザがスタイルシートの読み込みに失敗しても、ユーザーエージェントのデフォルトスタイルシートが適用されて、インターフェイスの主要な要素を区別します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5903,8 +5905,8 @@ sound semantic structureとは。</note>
       <tuv lang="EN-US">
         <seg>The sound semantic structure we’ve been fostering in our blog article doesn’t just benefit screen reader users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T103505Z" creationid="yoota" creationdate="20170524T102257Z">
-        <seg>ここまで作り上げてきたブログ記事の音声セマンティック構造は、スクリーンリーダーユーザーにのみメリットをもたらすわけではありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T103635Z" creationid="yoota" creationdate="20170524T102257Z">
+        <seg>ここまでにブログ記事で作り上げてきた音声のセマンティック構造は、スクリーンリーダーユーザーにのみメリットをもたらすわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
