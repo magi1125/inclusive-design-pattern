@@ -3527,6 +3527,14 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It would be poorly placed here because we haven’t even begun the main content of the document (which is the outermost section).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T052219Z" creationid="yoota" creationdate="20170524T052219Z">
+        <seg>この例では、まだドキュメントのメインコンテンツも開始していないため（最も外側のセクション）、ここに置くのは正しくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) accessibleはアクセシブルで良いと思います。approachable, accessible となっていますが、「アクセシブルで分かりやすい」としました。
 
 (伊原) LGTM. 英語っぽい言い回しですね。
