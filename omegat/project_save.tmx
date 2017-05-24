@@ -6408,6 +6408,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike the &lt;g13&gt;&lt;main&gt;&lt;/g13&gt; element, &lt;g14&gt;&lt;article&gt;&lt;/g14&gt; is not a landmark, so few screen readers provide it as a navigational tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T055115Z" creationid="yoota" creationdate="20170524T055115Z">
+        <seg>&lt;g13&gt;&lt;main&gt;&lt;/g13&gt;要素とは異なり、&lt;g14&gt;&lt;article&gt;&lt;/g14&gt;はランドマークではありません。このため、&lt;article&gt;をナビゲーションツールとして提供しているスクリーンリーダーはほとんどありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文のダッシュを生かす方向で調整。
 元訳では原文のandの強調がうまく反映できなかったので「両方で」を補って強調する形にしてみました。</note>
