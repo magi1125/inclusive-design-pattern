@@ -1261,6 +1261,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Altogether, deploying &lt;g1&gt;&lt;article&gt;&lt;/g1&gt; doesn’t look very appealing, but there is a &lt;g2&gt;small&lt;/g2&gt; advantage in certain contexts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T055540Z" creationid="yoota" creationdate="20170524T055540Z">
+        <seg>結局のところ、&lt;g1&gt;&lt;article&gt;&lt;/g1&gt;の配置にはあまり魅力がなさそうですが、ある特定のコンテキストではちょっとした利点があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 訳から&lt;h2&gt;が落ちていますが元訳にはあったのかも?</note>
       <tuv lang="EN-US">
         <seg>An &lt;c0&gt;&lt;h2&gt;&lt;/c0&gt; given &lt;c1&gt;font-size: 2rem;&lt;/c1&gt; is two times larger than the size set at the root.</seg>
