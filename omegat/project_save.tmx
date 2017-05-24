@@ -3844,12 +3844,13 @@ poorlyを「正しくない」とするのは強すぎるかもしれません�
 (岡本) 私は〜懸念しています、がちょっと離れすぎている印象。「HTMLのセマンティクスは、意味を提供している個別の要素という観点からのみ見られており、互いの関係が見られていません。私はいつもそのことを懸念しています」とかですかねー。。。
 
 (太田)
-冷静に読むと「いつも」がついている位置もおかしいですね。「いつも懸念している」のではなく、「いつも見られていることを懸念している」となるのが正しそうです。</note>
+冷静に読むと「いつも」がついている位置もおかしいですね。usually look atなので「いつも懸念している」のではなく、「いつも見られている」となるのが正しそうです。
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>I’m concerned we only usually look at HTML semantics in terms of discrete elements providing meaning, and not by looking at their relationships to one another.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170521T151558Z" creationid="yoota" creationdate="20170515T070717Z">
-        <seg>私はいつも、HTMLのセマンティクスが、意味を提供している個別の要素という観点からのみ見られており、互いの関係が見られていないことを懸念しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T095001Z" creationid="yoota" creationdate="20170515T070717Z">
+        <seg>私が懸念しているのは、HTMLのセマンティクスが、意味を提供している個別の要素という観点だけで見られ、互いの関係が見られない傾向があることです。</seg>
       </tuv>
     </tu>
     <tu>
