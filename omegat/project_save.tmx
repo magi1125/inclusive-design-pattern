@@ -632,6 +632,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g43&gt;&lt;!-- article content here --&gt;&lt;/g43&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T045802Z" creationid="yoota" creationdate="20170524T045802Z">
+        <seg>&lt;g43&gt;&lt;!-- ここに記事のコンテンツ --&gt;&lt;/g43&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g48&gt;&lt;!-- article content here --&gt;&lt;/g48&gt;
 &lt;g49&gt;&lt;g50&gt;&lt;g51&gt;&lt;/&lt;/g51&gt;main&lt;/g50&gt;&lt;g52&gt;&gt;&lt;/g52&gt;&lt;/g49&gt;&lt;/g1&gt;</seg>
       </tuv>
