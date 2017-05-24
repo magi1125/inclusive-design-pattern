@@ -5696,6 +5696,7 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 原文で強調されているshouldが訳から落ちているようです。</note>
       <tuv lang="EN-US">
         <seg>Theoretically, the &lt;g1&gt;&lt;article&gt;&lt;/g1&gt; &lt;g2&gt;should&lt;/g2&gt; start a new subsection by deferring to the &lt;g3&gt;&lt;g4&gt;HTML5 outline algorithm&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;6&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
