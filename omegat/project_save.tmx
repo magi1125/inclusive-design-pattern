@@ -5343,7 +5343,7 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
     </tu>
     <tu>
       <note>(太田)
-原文と語順をあわせました。</note>
+コロン前後で原文と語順をあわせました。</note>
       <tuv lang="EN-US">
         <seg>The answer is: probably not, but maybe.</seg>
       </tuv>
@@ -5693,6 +5693,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T172350Z">
         <seg>次にCSSを取得するが、コンテンツは維持される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Theoretically, the &lt;g1&gt;&lt;article&gt;&lt;/g1&gt; &lt;g2&gt;should&lt;/g2&gt; start a new subsection by deferring to the &lt;g3&gt;&lt;g4&gt;HTML5 outline algorithm&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;6&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T050727Z" creationid="yoota" creationdate="20170524T050727Z">
+        <seg>理論上は、&lt;g1&gt;&lt;article&gt;&lt;/g1&gt;はHTML5アウトラインアルゴリズムに従って、新しいサブセクションを開始します。</seg>
       </tuv>
     </tu>
     <tu>
