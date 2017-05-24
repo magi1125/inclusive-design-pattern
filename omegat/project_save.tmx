@@ -5348,8 +5348,12 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
-「JAWSスクリーンリーダー」は違和感があるので「スクリーンリーダーのJAWS」としました。「スクリーンリーダーの」をとるのもありかもしれない。</note>
+      <note>※要確認
+
+(太田)
+「JAWSスクリーンリーダー」は違和感があるので「スクリーンリーダーのJAWS」としました。「スクリーンリーダーの」をとるのもありかもしれない。
+
+JAWS日本語版の読み上げを確認したいが可能かどうか。中根さんももうJAWS使ってないっぽいし……。</note>
       <tuv lang="EN-US">
         <seg>The JAWS screen reader (and &lt;g3&gt;only&lt;/g3&gt; the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
       </tuv>
