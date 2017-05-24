@@ -5353,8 +5353,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       <tuv lang="EN-US">
         <seg>The JAWS screen reader (and &lt;g3&gt;only&lt;/g3&gt; the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T072926Z" creationid="yoota" creationdate="20170524T072926Z">
-        <seg>JAWSスクリーンリーダーは（JAWSスクリーンリーダーだけは）、この要素に入るときに「＃＃Article＃＃」、出るときに「＃＃Article end＃＃」と読み上げます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T072957Z" creationid="yoota" creationdate="20170524T072926Z">
+        <seg>スクリーンリーダーのJAWSは（そしてJAWS&lt;g3&gt;だけ&lt;/g3&gt;が）、この要素に入るときに「＃＃Article＃＃」、出るときに「＃＃Article end＃＃」と読み上げます。</seg>
       </tuv>
     </tu>
     <tu>
