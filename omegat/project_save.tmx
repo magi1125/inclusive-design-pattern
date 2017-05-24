@@ -1374,6 +1374,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Are the order and hierarchy apparent?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T102829Z" creationid="yoota" creationdate="20170524T102829Z">
+        <seg>順序や階層は明確ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「要素ごとに」の意味がわかりにくいです。原文 element by element。
 飛ばし読み、流し読みをせずに順番に読むということだと思いますので、「要素をひとつずつ」としてみました。</note>
@@ -3488,6 +3496,14 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is the page still navigable and usable?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T102835Z" creationid="yoota" creationdate="20170524T102835Z">
+        <seg>ページのナビゲートや使用は可能なままですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also helps the user to &lt;e5&gt;write&lt;/e5&gt; in the page’s language.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170419T101653Z" creationid="yoota" creationdate="20170419T101653Z">
@@ -4678,12 +4694,13 @@ parityは平均化というより、ここでは等価、価値を等しくす�
     </tu>
     <tu>
       <note>(太田)
-インターオペラビリティは相互運用性にする?</note>
+インターオペラビリティは相互運用性にする?
+後ろのほうで「相互運用性」とされているので日本語にしました。</note>
       <tuv lang="EN-US">
         <seg>Progressive Enhancement And Interoperability</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T101347Z" creationid="yoota" creationdate="20170524T101347Z">
-        <seg>プログレッシブエンハンスメントとインターオペラビリティ</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170524T102824Z" creationid="yoota" creationdate="20170524T101347Z">
+        <seg>プログレッシブエンハンスメントと相互運用性</seg>
       </tuv>
     </tu>
     <tu>
