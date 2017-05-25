@@ -3348,12 +3348,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       <note>(伊原) LGTM
 
 (太田)  commented out example が訳から落ちてていますが、ソースコードは別にコメントアウトされていないので落としたままでいいかも。
-becauseを訳出しました。</note>
+becauseを訳出しました。
+
+(岡本) 1つ目→ひとつ目、分かりません→わかりません</note>
       <tuv lang="EN-US">
         <seg>In the first, commented out example, someone navigating by heading using the generic &lt;g1&gt;h&lt;/g1&gt; key would be unaware of the publish date because the screen reader would take them silently past it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170522T094656Z" creationid="yoota" creationdate="20170515T101849Z">
-        <seg>1つ目の例では、汎用的な&lt;g1&gt;h&lt;/g1&gt;キーを使用して見出しでナビゲートしている人には公開日付は分かりません。スクリーンリーダーは日付を読み上げずに通過してしまうからです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170525T072720Z" creationid="yoota" creationdate="20170515T101849Z">
+        <seg>ひとつ目の例では、汎用的な&lt;g1&gt;h&lt;/g1&gt;キーを使用して見出しでナビゲートしている人には公開日付はわかりません。スクリーンリーダーは日付を読み上げずに通過してしまうからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6430,9 +6432,7 @@ more important というほどでもないが、とはいえ多少は重要と�
       <note>(太田) 冒頭の「どちらでも」がどの二つを指しているのか分かりにくいです (原文も分かりにくいと思うのですが)。
 compelには強要する、強いるという意味があり、転じて「目を奪う」というような意味になっていますが、ここでは原義に近い意味かもしれません。ここでは「視覚的には無理やり順番を変えることもできる」ということが言いたいのではないでしょうか。
 
-(伊原) LGTM
-
- (岡本) </note>
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Though it can be made to look visually compelling either way, it is therefore important not to open an article with its publish date, but with its heading.</seg>
       </tuv>
