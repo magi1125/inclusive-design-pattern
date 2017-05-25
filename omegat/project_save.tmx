@@ -5514,7 +5514,7 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
-      <note>(岡本)  1つ下がった→ひとつさがった</note>
+      <note>(岡本)  1つ下がった→ひとつ下がった</note>
       <tuv lang="EN-US">
         <seg>The &lt;g2&gt;2&lt;/g2&gt; in &lt;g3&gt;&lt;h2&gt;&lt;/g3&gt; says “two levels deep,” or “one down from the first level.” Visually, headings are conventionally differentiated by font size: the deeper the level, the smaller the &lt;g4&gt;font-size&lt;/g4&gt;.</seg>
       </tuv>
@@ -6220,7 +6220,9 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
 原文ダッシュは生かしたい気がするがどうか。
 語順調整してダッシュを生かしてみました。
 readerはまえの章で「ユーザー」としていたように思います。
-percievedは「知覚される」としました。</note>
+percievedは「知覚される」としました。
+
+(岡本)  1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>This deceives both visual and non-visual readers because it breaks the perceived structure — a level has been skipped.</seg>
       </tuv>
