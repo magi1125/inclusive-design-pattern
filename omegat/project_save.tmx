@@ -1829,12 +1829,14 @@ segregateは隔離というより分離としたほうがしっくりくるか�
     <tu>
       <note>(太田)
 ここのroleは「ロール」で良いかもしれません。JIS的には「役割(role)」という訳語なのですがそのへんどうしますかね。
-「ほぼ同じようなことです」の意味が不明です。原文では一文で前半を受けて in much the same way as とつながるので、「……と同じようなやり方です」くらいでしょうか。</note>
+「ほぼ同じようなことです」の意味が不明です。原文では一文で前半を受けて in much the same way as とつながるので、「……と同じようなやり方です」くらいでしょうか。
+
+(岡本)　付ける→つける</note>
       <tuv lang="EN-US">
         <seg>By providing the prefix “Subtitle:” we clarify the role of the &lt;g5&gt;&lt;p&gt;&lt;/g5&gt; element non-visually, in much the same way as the implicit role of a &lt;g6&gt;&lt;button&gt;&lt;/g6&gt; element makes screen readers announce “Button.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T102503Z" creationid="yoota" creationdate="20170523T101745Z">
-        <seg>ここでは、「サブタイトル：」という接頭辞を付けることで、非視覚的に&lt;g5&gt;&lt;p&gt;&lt;/g5&gt;要素の役割を明確化しています。これは、&lt;g6&gt;&lt;button&gt;&lt;/g6&gt;要素の暗黙的なロールによって、スクリーンリーダーが「ボタン」と読み上げるのと同じようなやり方です。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170525T101336Z" creationid="yoota" creationdate="20170523T101745Z">
+        <seg>ここでは、「サブタイトル：」という接頭辞をつけることで、非視覚的に&lt;g5&gt;&lt;p&gt;&lt;/g5&gt;要素の役割を明確化しています。これは、&lt;g6&gt;&lt;button&gt;&lt;/g6&gt;要素の暗黙的なロールによって、スクリーンリーダーが「ボタン」と読み上げるのと同じようなやり方です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2925,7 +2927,9 @@ http://www.w3.org/TR/CSS1/#length-units
     <tu>
       <note>(太田)
 「これが分かりません」→「このことは分かりません」としました。
-トラバースは訳していいやつですね。「移り変わる」としました。</note>
+トラバースは訳していいやつですね。「移り変わる」としました。
+
+(岡本)  分かりません→わかりません</note>
       <tuv lang="EN-US">
         <seg>In a non-visual context, this would not be apparent: Traversing from the &lt;g3&gt;&lt;h1&gt;&lt;/g3&gt; to the &lt;g4&gt;&lt;p&gt;&lt;/g4&gt; would have a screen reader believe that they had begun reading the article body.</seg>
       </tuv>
