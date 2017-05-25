@@ -1995,7 +1995,9 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 深さ→階層の深さ、と補いました。</note>
+      <note>(太田) 深さ→階層の深さ、と補いました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Despite the inclusion of nestable sectioning elements in the HTML5 specification, like &lt;g1&gt;&lt;section&gt;&lt;/g1&gt;, the only elements currently able to describe depth in an inclusive fashion are &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; to &lt;g3&gt;&lt;h6&gt;&lt;/g3&gt;.</seg>
       </tuv>
