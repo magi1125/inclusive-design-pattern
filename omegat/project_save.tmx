@@ -1517,7 +1517,7 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 日本でMDNというと2つあるので、開いてあげる必要がありそうです。</note>
+      <note>(伊原) 日本でMDNというと2つあるので、開いてあげる必要がありそうです。調整しました。</note>
       <tuv lang="EN-US">
         <seg>As this &lt;g1&gt;&lt;g2&gt;MDN article on &lt;g3&gt;&lt;hgroup&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;4&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; attests, however, &lt;g7&gt;&lt;hgroup&gt;&lt;/g7&gt; has been removed from the HTML5 specification.</seg>
       </tuv>
@@ -7315,7 +7315,9 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
     </tu>
     <tu>
       <note>(太田)
-&lt;hgroup&gt; は原文に無いものが補われている模様。強調のマークアップどうするか。</note>
+&lt;hgroup&gt; は原文に無いものが補われている模様。強調のマークアップどうするか。
+
+(伊原) &lt;code&gt;でくくる部分ですね。「この要素が」としてもいいような。</note>
       <tuv lang="EN-US">
         <seg>You cannot therefore depend on it becoming implemented uniformly or reliably in browsers.</seg>
       </tuv>
