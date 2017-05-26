@@ -4657,12 +4657,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       <note>(太田)
 原文のdoをどうしたものか。動詞を強調するdoをさらに強調している感じですが。
 ひとまず「効果が&lt;g1&gt;間違いなく&lt;/g1&gt;発揮される」としてみました。
-confusingは分かりにくいというよりも、混乱を招くという感じかなと。</note>
+confusingは分かりにくいというよりも、混乱を招くという感じかなと。
+
+(岡本）　邪魔→じゃま</note>
       <tuv lang="EN-US">
         <seg>Other times they &lt;g1&gt;do&lt;/g1&gt; have an impact but the part they play is confusing, inconsistent or obstructive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T084831Z" creationid="yoota" creationdate="20170524T084346Z">
-        <seg>また、効果が&lt;g1&gt;間違いなく&lt;/g1&gt;発揮される場合でも、混乱を招いたり、一貫性がなかったり、邪魔だったりする場合もあります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170526T031943Z" creationid="yoota" creationdate="20170524T084346Z">
+        <seg>また、効果が&lt;g1&gt;間違いなく&lt;/g1&gt;発揮される場合でも、混乱を招いたり、一貫性がなかったり、じゃまだったりする場合もあります。</seg>
       </tuv>
     </tu>
     <tu>
