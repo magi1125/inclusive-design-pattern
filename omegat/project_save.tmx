@@ -5108,7 +5108,9 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 「別に」要検討。分離とかそのあたりか。</note>
+      <note>(太田) 「別に」要検討。分離とかそのあたりか。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Some developers handle heading styles separately using CSS classes.</seg>
       </tuv>
