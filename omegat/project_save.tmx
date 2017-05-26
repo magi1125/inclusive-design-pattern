@@ -5920,12 +5920,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
 前の例にはサブタイトルに相当するものは無かったので唐突な感はありますね。rewrittenを訳出して「前の例を書き直して」的にするほうがいいかもしれません。
 In Seven Simple Steps.の訳は要検討。「セクションの見出しとしては奇妙で断片的であり、目次が生成されてもほとんど意味を成さない」ものになっているべきです。
 ～シンプルな7つのステップで～
-とかでしょうか。</note>
+とかでしょうか。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The previous example could be rewritten to take the title “How To Mark Up Blog Articles” and the subtitle “In Seven Simple Steps.” The question is how to mark this up.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T094734Z" creationid="yoota" creationdate="20170523T093152Z">
-        <seg>前の例を書き直して、タイトルを「ブログ記事のマークアップ方法」とし、サブタイトルを「～シンプルな7つのステップで～」とすることを考えてみましょう。問題はこれをどのようにマークアップするかです。～シンプルな7つのステップで～</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170526T165132Z" creationid="yoota" creationdate="20170523T093152Z">
+        <seg>前の例を書き直して、タイトルを「ブログ記事のマークアップ方法」とし、サブタイトルを「～シンプルな7つのステップで～」とすることを考えてみましょう。問題はこれをどのようにマークアップするかです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6256,6 +6258,7 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>This also applies to books…</seg>
       </tuv>
