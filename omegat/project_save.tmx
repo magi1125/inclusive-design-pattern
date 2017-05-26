@@ -2507,11 +2507,12 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) それらが表す、がちょっと謎。取っても通じるのでトリにしてみました。</note>
       <tuv lang="EN-US">
         <seg>Headings, for instance, will appear in bold text and have font sizes indicative of the section depth they represent.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T102309Z" creationid="yoota" creationdate="20170524T102309Z">
-        <seg>たとえば、見出しは太字テキストで表示され、それらが表すセクションの深さを示すフォントサイズになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170526T181648Z" creationid="yoota" creationdate="20170524T102309Z">
+        <seg>たとえば、見出しは太字テキストで表示され、セクションの深さを示すフォントサイズになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2700,7 +2701,9 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
     </tu>
     <tu>
       <note>(太田)
-ownは無理に訳さなくて良いように思うので「独自の」をとりました。</note>
+ownは無理に訳さなくて良いように思うので「独自の」をとりました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>If a browser fails to load your style sheet, it will still differentiate key elements of the interface using its own default user agent style sheet.</seg>
       </tuv>
