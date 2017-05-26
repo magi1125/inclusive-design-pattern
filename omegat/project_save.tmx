@@ -1319,6 +1319,7 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Altogether, deploying &lt;g1&gt;&lt;article&gt;&lt;/g1&gt; doesn’t look very appealing, but there is a &lt;g2&gt;small&lt;/g2&gt; advantage in certain contexts.</seg>
       </tuv>
@@ -5682,7 +5683,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 (太田)
 「JAWSスクリーンリーダー」は違和感があるので「スクリーンリーダーのJAWS」としました。「スクリーンリーダーの」をとるのもありかもしれない。
 
-JAWS日本語版の読み上げを確認したいが可能かどうか。中根さんももうJAWS使ってないっぽいし……。</note>
+JAWS日本語版の読み上げを確認したいが可能かどうか。中根さんももうJAWS使ってないっぽいし……。
+
+(伊原) レビュアーでJAWSユーザー募集しましょうかね。</note>
       <tuv lang="EN-US">
         <seg>The JAWS screen reader (and &lt;g3&gt;only&lt;/g3&gt; the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
       </tuv>
