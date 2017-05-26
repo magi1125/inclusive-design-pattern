@@ -2960,7 +2960,9 @@ http://www.w3.org/TR/CSS1/#length-units
 「これが分かりません」→「このことは分かりません」としました。
 トラバースは訳していいやつですね。「移り変わる」としました。
 
-(岡本)  分かりません→わかりません</note>
+(岡本)  分かりません→わかりません
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In a non-visual context, this would not be apparent: Traversing from the &lt;g3&gt;&lt;h1&gt;&lt;/g3&gt; to the &lt;g4&gt;&lt;p&gt;&lt;/g4&gt; would have a screen reader believe that they had begun reading the article body.</seg>
       </tuv>
