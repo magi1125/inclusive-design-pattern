@@ -3417,7 +3417,8 @@ becauseを訳出しました。
 
 (太田) appreciateは「評価する」くらいかも。
 
-(岡本) 図版のaltが必要です。</note>
+(岡本) 図版のaltが必要です。
+(伊原) 図のaltは「スクリーンリーダーの見出しナビゲーションがセクション見出しの前にあるコンテンツをスキップしている様子」が相当します。</note>
       <tuv lang="EN-US">
         <seg>Inclusive design is about appreciating how people really use interfaces, not just fixing technical errors.</seg>
       </tuv>
@@ -6949,7 +6950,9 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     </tu>
     <tu>
       <note>(太田) 見出しレベルの話なのですが、これを単に深さと呼ぶのは分かりにくいように思います。「階層の深さ」と補ってみました。
-「大事」がやや口語的すぎる印象を受けたので「重要」としました。</note>
+「大事」がやや口語的すぎる印象を受けたので「重要」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>When it comes to structure, depth is just as important as source order.</seg>
       </tuv>
