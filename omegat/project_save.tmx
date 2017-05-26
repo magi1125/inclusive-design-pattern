@@ -2451,12 +2451,13 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       <note>(太田)
 works wellは「正しく機能」ではないかも。「よく機能」「うまく機能」?
 「適切に扱うことができます」くらいか。
-</note>
+
+(伊原) lookingを「検索する」とすべきか。探索する、としてみました。</note>
       <tuv lang="EN-US">
         <seg>Good semantic structure works well with screen readers, feed readers, search engines and all sorts of other parsers looking for structural meaning in your content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T104746Z" creationid="yoota" creationdate="20170524T102427Z">
-        <seg>優れたセマンティック構造は、スクリーンリーダー、フィードリーダー、サーチエンジン、およびコンテンツ内の構造的な意味を検索する他のあらゆるパーサーで適切に扱うことができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170526T182235Z" creationid="yoota" creationdate="20170524T102427Z">
+        <seg>優れたセマンティック構造は、スクリーンリーダー、フィードリーダー、サーチエンジン、およびコンテンツ内の構造的な意味を探索する他のあらゆるパーサーで適切に扱うことができます。</seg>
       </tuv>
     </tu>
     <tu>
