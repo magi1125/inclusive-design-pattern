@@ -4059,7 +4059,9 @@ poorlyを「正しくない」とするのは強すぎるかもしれません�
     </tu>
     <tu>
       <note>(太田)
-implementationを例→実装としました。</note>
+implementationを例→実装としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>I’ve seen many an implementation which chooses to put the subtitle in a separate heading element, like so:</seg>
       </tuv>
