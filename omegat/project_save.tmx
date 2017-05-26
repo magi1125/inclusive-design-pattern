@@ -5882,6 +5882,15 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 画像alt、下訳反映。</note>
+      <tuv lang="EN-US">
+        <seg>The middle subsection is labeled missing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170526T164333Z" creationid="rikiha" creationdate="20170526T164333Z">
+        <seg>中間のサブセクションには「欠けているサブセクション」というラベルが付いている。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文にない括弧を補うのはできるだけ避けたいです。語順を変えて調整しました。
 
 (伊原) LGTM</note>
@@ -6514,9 +6523,14 @@ compelには強要する、強いるという意味があり、転じて「目�
     <tu>
       <note>画像alt
 
-(岡本)  alt待ち</note>
+(岡本)  alt待ち
+
+(伊原) 下訳反映。</note>
       <tuv lang="EN-US">
         <seg>Three nested boxes representing a section/subsection structure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170526T164330Z">
+        <seg>セクション/サブセクション構造を示す、ネストされた3つのボックス。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7034,6 +7048,7 @@ integratedは統合された?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 「2番目のネストレベル」でわかるかどうか。</note>
       <tuv lang="EN-US">
         <seg>Where’s the second nesting level?</seg>
       </tuv>
