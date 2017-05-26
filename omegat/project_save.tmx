@@ -2265,6 +2265,7 @@ min-widthにremを使われると例としてはわかりにくいですね…�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>For example, you may be asking, “If this is an article, shouldn’t it be in an &lt;g1&gt;&lt;article&gt;&lt;/g1&gt; element?”</seg>
       </tuv>
@@ -5724,7 +5725,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
     </tu>
     <tu>
       <note>(太田)
-コロン前後で原文と語順をあわせました。</note>
+コロン前後で原文と語順をあわせました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The answer is: probably not, but maybe.</seg>
       </tuv>
