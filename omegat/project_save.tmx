@@ -1138,7 +1138,9 @@ Note を訳出しました。</note>
     </tu>
     <tu>
       <note>(太田)
-「音声構造」要検討。</note>
+「音声構造」要検討。
+
+</note>
       <tuv lang="EN-US">
         <seg>A good way to test that your content has a sound structure is to turn CSS off and see if the page is still readable.</seg>
       </tuv>
@@ -1394,12 +1396,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
 コンテンツ側で「階層を明確にしろ」といっているようにも読めますが、ここでは、コンテンツ側で設定した階層が明確に伝わるか、と言っています。
 「明確に分かりますか?」としてみました。
 
-(岡本)　分かり→わかり</note>
+(岡本)　分かり→わかり
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Are the order and hierarchy apparent?</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T103124Z" creationid="yoota" creationdate="20170524T102829Z">
-        <seg>順序や階層が明確に分かりますか？</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170526T182317Z" creationid="yoota" creationdate="20170524T102829Z">
+        <seg>順序や階層が明確にわかりますか？</seg>
       </tuv>
     </tu>
     <tu>
