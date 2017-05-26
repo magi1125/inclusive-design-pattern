@@ -4572,7 +4572,9 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
     </tu>
     <tu>
       <note>(太田)
-微妙に誤訳かも。「&lt;g2&gt;.visually-hidden&lt;/g2&gt;クラスを指定した&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;」としました。</note>
+微妙に誤訳かも。「&lt;g2&gt;.visually-hidden&lt;/g2&gt;クラスを指定した&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Note the use of the &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; with the &lt;g2&gt;.visually-hidden&lt;/g2&gt; class.</seg>
       </tuv>
