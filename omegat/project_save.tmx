@@ -1405,7 +1405,9 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
     <tu>
       <note>(太田)
 「要素ごとに」の意味がわかりにくいです。原文 element by element。
-飛ばし読み、流し読みをせずに順番に読むということだと思いますので、「要素をひとつずつ」としてみました。</note>
+飛ばし読み、流し読みをせずに順番に読むということだと思いますので、「要素をひとつずつ」としてみました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Arguably, this is useful information where there are several &lt;g4&gt;&lt;article&gt;&lt;/g4&gt;s on the same page and the user is reading from top to bottom, element by element.</seg>
       </tuv>
@@ -5685,7 +5687,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 
 JAWS日本語版の読み上げを確認したいが可能かどうか。中根さんももうJAWS使ってないっぽいし……。
 
-(伊原) レビュアーでJAWSユーザー募集しましょうかね。</note>
+(伊原) LGTM. レビュアーでJAWSユーザー募集しましょうかね。</note>
       <tuv lang="EN-US">
         <seg>The JAWS screen reader (and &lt;g3&gt;only&lt;/g3&gt; the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
       </tuv>
