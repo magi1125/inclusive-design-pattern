@@ -1739,6 +1739,7 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>But, since the outline algorithm is &lt;g8&gt;&lt;g9&gt;not actually implemented in any user agents&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;7&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;, this has no effect on assistive technology users.</seg>
       </tuv>
