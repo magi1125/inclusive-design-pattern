@@ -3048,12 +3048,13 @@ http://www.w3.org/TR/CSS1/#length-units
       <note>(太田)
 "services that syndicate your content, such as feed readers"  って、先に syndicated contents が出てきた時点で such as を書いてほしかった……。
 
+(伊原) いままで構造というとセマンティックなものを指していたので、ここで構造というとちょっとニュアンスが変わってしまう気がします。スタイル構成としてみました。
 </note>
       <tuv lang="EN-US">
         <seg>In addition, services that syndicate your content, such as feed readers, will be able to apply their own structural styles, enabling a comfortable reading experience within their own applications.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T102314Z" creationid="yoota" creationdate="20170524T102314Z">
-        <seg>さらに、フィードリーダーなどのコンテンツをまとめるサービスは、独自の構造スタイルを適用し、それぞれのアプリケーション内で読みやすくすることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170526T181856Z" creationid="yoota" creationdate="20170524T102314Z">
+        <seg>さらに、フィードリーダーなどのコンテンツをまとめるサービスは、独自のスタイル構成を適用し、それぞれのアプリケーション内で読みやすくすることができます。</seg>
       </tuv>
     </tu>
     <tu>
