@@ -4970,7 +4970,9 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
 「アクセシビリティツリーというのは、DOMの支援技術が使う版」みたいな感じです。
 ここのexposeは表示ではありません (アクセシビリティツリーの内容は支援技術に伝わる物であって、表示されるものではない)。提示、提供あたりでしょうか。
 
-roleをどうするかは要検討 (全体で統一する必要アリ)。いったん「ロール」としました。</note>
+roleをどうするかは要検討 (全体で統一する必要アリ)。いったん「ロール」としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Should a &lt;g1&gt;&lt;subtitle&gt;&lt;/g1&gt; element ever be specified, the clarifying “Subtitle:” prefix would probably be provided for you as a feature of the element’s role, and therefore automatically available in the “&lt;g2&gt;&lt;g3&gt;accessibility tree&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;5&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;” — the version of the DOM used by assistive technologies where roles, properties, states, labels and values are exposed.</seg>
       </tuv>
