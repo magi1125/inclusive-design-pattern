@@ -6848,7 +6848,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
 
 非常に細かい話をすると、article要素がランドマークではないというより、articleロールがランドマークではないという話ですね。訳注いる?
 http://www.w3.org/TR/wai-aria-1.1/#article
-</note>
+
+(伊原) LGTM. ここは訳注ナシでもいいように思います。</note>
       <tuv lang="EN-US">
         <seg>Unlike the &lt;g13&gt;&lt;main&gt;&lt;/g13&gt; element, &lt;g14&gt;&lt;article&gt;&lt;/g14&gt; is not a landmark, so few screen readers provide it as a navigational tool.</seg>
       </tuv>
