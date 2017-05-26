@@ -5407,12 +5407,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 何を言っているのか良く分からない文ですね。要検討。</note>
+      <note>(太田) 何を言っているのか良く分からない文ですね。要検討。
+
+(伊原) differentiationが区別とか識別といった訳にするとわかる気がします。要素として見分ける、識別することを通じて構造化を行う的な。いったんそのようにしてみました。</note>
       <tuv lang="EN-US">
         <seg>That’s ultimately what HTML is for: forming structure through differentiation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170522T100431Z" creationid="yoota" creationdate="20170522T100431Z">
-        <seg>HTMLの最終的な目的は、分化を通じて構造を形成することですから。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170526T153924Z" creationid="yoota" creationdate="20170522T100431Z">
+        <seg>HTMLの最終的な目的は、要素の識別を通じて構造化することですから。</seg>
       </tuv>
     </tu>
     <tu>
