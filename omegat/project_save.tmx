@@ -1848,7 +1848,10 @@ segregateは隔離というより分離としたほうがしっくりくるか�
 ここのroleは「ロール」で良いかもしれません。JIS的には「役割(role)」という訳語なのですがそのへんどうしますかね。
 「ほぼ同じようなことです」の意味が不明です。原文では一文で前半を受けて in much the same way as とつながるので、「……と同じようなやり方です」くらいでしょうか。
 
-(岡本)　付ける→つける</note>
+(岡本)　付ける→つける
+
+(伊原) ここで言っているのはaria的なroleのことと思うので、ロールでいいと思います。
+「同じようなことです」は、得られる出力結果が同じようなもの、みたいなことなのかなと。</note>
       <tuv lang="EN-US">
         <seg>By providing the prefix “Subtitle:” we clarify the role of the &lt;g5&gt;&lt;p&gt;&lt;/g5&gt; element non-visually, in much the same way as the implicit role of a &lt;g6&gt;&lt;button&gt;&lt;/g6&gt; element makes screen readers announce “Button.”</seg>
       </tuv>
