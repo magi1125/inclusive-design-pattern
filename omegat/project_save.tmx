@@ -6840,6 +6840,7 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Universally implemented and semantic though it is, there’s compelling evidence that you should avoid using the &lt;g12&gt;&lt;select&gt;&lt;/g12&gt; element wherever possible.</seg>
       </tuv>
