@@ -2109,6 +2109,7 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Finding the right solution depends on what we want to achieve.</seg>
       </tuv>
@@ -2762,7 +2763,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     </tu>
     <tu>
       <note>(太田)
-新しい行にする→改行する としました。</note>
+新しい行にする→改行する としました。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>If we want “In Seven Easy Steps” to be part of the title, we can separate it with a semantically inert &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; element and drop it onto a new line using &lt;g2&gt;h1 span { display: block; }&lt;/g2&gt;.</seg>
       </tuv>
