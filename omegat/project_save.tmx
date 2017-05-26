@@ -1485,6 +1485,7 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>As stated, our blog article should begin with an &lt;g1&gt;&lt;h1&gt;&lt;/g1&gt;.</seg>
       </tuv>
@@ -7274,7 +7275,8 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
     <tu>
       <note>(太田) ここのcouldに「良い」というニュアンスはないように思うので、「それで終わりにすることもできますが」としました。
 「これ以上の構造情報がないと」の「以上」が何と比較して上なのか分かりにくいように思いましたので、「構造情報がこれだけでは」としました。
-</note>
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>You could stop there, but the lack of further structural information would produce comprehension issues for a broad range of users.</seg>
       </tuv>
