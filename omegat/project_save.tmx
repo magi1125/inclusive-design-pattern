@@ -2724,6 +2724,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If JavaScript was used to construct the content in the client, all I would see is the code for the outer web page, with its link(s) to the JavaScript which &lt;g7&gt;curl&lt;/g7&gt; is unable to run.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T140052Z" creationid="rikiha" creationdate="20170527T140052Z">
+        <seg>クライアントでコンテンツを構築するのにJavaScriptが使用されている場合、表示されるのは&lt;g7&gt;curl&lt;/g7&gt;を実行することができないJavaScriptへのリンクを持つ、外側のWebページのコードだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 ownは無理に訳さなくて良いように思うので「独自の」をとりました。
 
