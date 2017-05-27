@@ -7126,11 +7126,12 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) sends prerendered content to the client をどうしたものか。clientと言っているから、サーバ側でレンダリングした、と補足しないでも大丈夫？　いったんレンダリング済みのコンテンツとしてみました。</note>
       <tuv lang="EN-US">
         <seg>When a site like &lt;g1&gt;&lt;g2&gt;smashingmagazine.com&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; sends prerendered content to the client, I can print that content to my console using the &lt;g6&gt;curl&lt;/g6&gt; command.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170527T135941Z" creationid="rikiha" creationdate="20170527T135941Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;smashingmagazine.com&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのサイトが、事前に描画されたコンテンツをクライアントに送る場合、&lt;g6&gt;curl&lt;/g6&gt;コマンドを使用することで、自分のコンソールにそのコンテンツを出力できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T142332Z" creationid="rikiha" creationdate="20170527T135941Z">
+        <seg>Webサイト、例えば&lt;g1&gt;&lt;g2&gt;smashingmagazine.com&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などがレンダリング済みのコンテンツをクライアントに送信しているケースでは、&lt;g6&gt;curl&lt;/g6&gt;コマンドを使用することでコンソールにそのコンテンツを出力できます。</seg>
       </tuv>
     </tu>
     <tu>
