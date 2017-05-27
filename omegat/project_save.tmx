@@ -2724,7 +2724,7 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 「クライアントでコンテンツを構築するのにJavaScriptが使用されている場合」が受身でややこしいです。また前段落との対比もしづらいので、JavaScriptを使用してクライアントでコンテンツを構築しているケース、としました。</note>
+      <note>(伊原) 「クライアントでコンテンツを構築するのにJavaScriptが使用されている場合」が受身でややこしいです。また前段落との対比もしづらいので、JavaScriptを使用してクライアントでコンテンツを構築しているケース、としました。「外側のWebページのコード」は「Webページの外枠のコード」としました。</note>
       <tuv lang="EN-US">
         <seg>If JavaScript was used to construct the content in the client, all I would see is the code for the outer web page, with its link(s) to the JavaScript which &lt;g7&gt;curl&lt;/g7&gt; is unable to run.</seg>
       </tuv>
