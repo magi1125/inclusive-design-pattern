@@ -1944,11 +1944,13 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 冒頭のコンテンツが遠すぎる感があったので語順を調整。
+do not have JavaScript running は「実行していないユーザー」でよいか。JSオフ的な書き方のほうがわかりやすいかどうか。</note>
       <tuv lang="EN-US">
         <seg>Content should be available to users who do not have JavaScript running or for whom JavaScript has thrown an error, been blocked or failed to load.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170527T132449Z" creationid="rikiha" creationdate="20170527T123707Z">
-        <seg>JavaScriptを実行していないユーザーや、JavaScriptがエラーを報告したり、ブロックされたり、読み込みに失敗したりしたユーザーにもコンテンツが利用できるようにすべきです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T132658Z" creationid="rikiha" creationdate="20170527T123707Z">
+        <seg>JavaScriptを実行していないユーザーや、JavaScriptがエラーになったり、ブロックされたり、読み込めなかったりしたユーザーにもコンテンツが利用できるようにすべきです。</seg>
       </tuv>
     </tu>
     <tu>
