@@ -4885,8 +4885,8 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       <tuv lang="EN-US">
         <seg>Providing server-rendered content also means that content will be found by folks using search engines, and is parsable by third parties using command line tools like &lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170527T133019Z" creationid="rikiha" creationdate="20170527T132939Z">
-        <seg>また、サーバーがレンダリングするコンテンツを提供することは、サーチエンジンの利用者がそのコンテンツを見つけられること、また&lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのコマンドラインツールを使用するサードパーティが解析可能であることを意味します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T133534Z" creationid="rikiha" creationdate="20170527T132939Z">
+        <seg>また、サーバーがレンダリングするコンテンツを提供することは、検索エンジンのユーザーがそのコンテンツを見つけられること、サードパーティによる&lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのコマンドラインツールを使った解析が可能となることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
