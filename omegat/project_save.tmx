@@ -2680,7 +2680,7 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       <tuv lang="EN-US">
         <seg>However, when the content you are serving is static and intended for reading alone, relying on client-side JavaScript to render that content is an underperforming and relatively unreliable method.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170527T132131Z">
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T133124Z">
         <seg>しかし、提供コンテンツが静的で、読むことだけが目的である場合、クライアントサイドJavaScriptでコンテンツを表示するのは非効率で比較的信頼性の低い方法です。</seg>
       </tuv>
     </tu>
@@ -4882,6 +4882,14 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Providing server-rendered content also means that content will be found by folks using search engines, and is parsable by third parties using command line tools like &lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T133019Z" creationid="rikiha" creationdate="20170527T132939Z">
+        <seg>また、サーバーがレンダリングするコンテンツを提供することは、サーチエンジンの利用者がそのコンテンツを見つけられること、また&lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのコマンドラインツールを使用するサードパーティが解析可能であることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Providing the Icon</seg>
@@ -5128,8 +5136,8 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       <tuv lang="EN-US">
         <seg>Single-page applications are typified by their use of client-side JavaScript to render and rerender content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170527T131144Z" creationid="rikiha" creationdate="20170527T123517Z">
-        <seg>シングルページアプリケーションには、クライアントサイドJavaScriptを使用してコンテンツの表示と再レンダリングを行うという特徴があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T133113Z" creationid="rikiha" creationdate="20170527T123517Z">
+        <seg>シングルページアプリケーションには、クライアントサイドJavaScriptを使用してコンテンツの表示と再描画を行うという特徴があります。</seg>
       </tuv>
     </tu>
     <tu>
