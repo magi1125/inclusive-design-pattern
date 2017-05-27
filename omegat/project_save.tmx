@@ -1944,6 +1944,14 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Content should be available to users who do not have JavaScript running or for whom JavaScript has thrown an error, been blocked or failed to load.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T123707Z" creationid="rikiha" creationdate="20170527T123707Z">
+        <seg>コンテンツはJavaScriptを実行していないユーザーや、JavaScriptがエラーを報告したり、ブロックされたり、読み込みに失敗したりしたユーザーにも利用できるようにすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 コンテキストは文脈とはせずコンテキストのままでOK (JISの訳語で「コンテキスト」のままにしたので)。
 
@@ -2667,6 +2675,9 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
 長いコンテンツを非同期読み込みして速度を改善する話などもありますが……。</note>
       <tuv lang="EN-US">
         <seg>However, when the content you are serving is static and intended for reading alone, relying on client-side JavaScript to render that content is an underperforming and relatively unreliable method.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T123658Z">
+        <seg>しかし、提供しようとしているコンテンツが静的で、読むことだけを目的としたものである場合、クライアント側のJavaScriptを使用してコンテンツを表示するのは、非効率で、比較的信頼性の低い方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5106,6 +5117,14 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Single-page applications are typified by their use of client-side JavaScript to render and rerender content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T123517Z" creationid="rikiha" creationdate="20170527T123517Z">
+        <seg>シングルページアプリケーションは、クライアント側のJavaScriptを使用してコンテンツを描画および再描画するのが特徴です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM</note>
       <tuv lang="EN-US">
         <seg>Skip Links</seg>
@@ -7128,6 +7147,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T071731Z" creationid="yoota" creationdate="20170512T071731Z">
         <seg>読者が何らかの調整を行った場合でも、破綻することが少なくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where content is subject to a lot of change as a result of user interaction, this approach enables an immediacy not possible when making round-trips to the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T123648Z" creationid="rikiha" creationdate="20170527T123648Z">
+        <seg>ユーザー操作の結果として、コンテンツに多くの変更が生じるケースでは、このアプローチをとれば、サーバーとの往復を行った場合には得られない迅速さが実現します。</seg>
       </tuv>
     </tu>
     <tu>
