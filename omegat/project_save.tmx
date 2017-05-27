@@ -2728,8 +2728,8 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       <tuv lang="EN-US">
         <seg>If JavaScript was used to construct the content in the client, all I would see is the code for the outer web page, with its link(s) to the JavaScript which &lt;g7&gt;curl&lt;/g7&gt; is unable to run.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170527T143325Z" creationid="rikiha" creationdate="20170527T140052Z">
-        <seg>JavaScriptを使用してクライアントでコンテンツを構築しているケースだと、&lt;g7&gt;curl&lt;/g7&gt;が解析できないJavaScriptへのリンクを含んだ外側のWebページのコードだけが表示されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170527T144142Z" creationid="rikiha" creationdate="20170527T140052Z">
+        <seg>JavaScriptによってクライアントでコンテンツを構築しているケースだと、表示されるのは&lt;g7&gt;curl&lt;/g7&gt;が解析できないJavaScriptへのリンクを含んだWebページの外枠のコードだけです。</seg>
       </tuv>
     </tu>
     <tu>
