@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5710,12 +5710,28 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 
 JAWS日本語版の読み上げを確認したいが可能かどうか。中根さんももうJAWS使ってないっぽいし……。
 
-(伊原) LGTM. レビュアーでJAWSユーザー募集しましょうかね。</note>
+(伊原) LGTM. レビュアーでJAWSユーザー募集しましょうかね。
+
+(太田)
+諸熊さんに聞いてみたら「知人がJAWS使ってるんで聞いてみましょうか」と言っていただけて、以下のような情報をいただきました。
+
+JAWSによる読み上げ
+
+タグ名  | 開始時                       | 終了時
+------- | ---------------------------- | ----------------------------
+header  | バナー開始                   | バナー終了
+footer  | コンテンツ情報開始           | コンテンツ情報終了
+nav     | ナビゲーションリージョン開始 | ナビゲーションリージョン終了
+article | アーティクル開始             | アーティクル終了
+aside   | コンプリメンタリー情報開始   | コンプリメンタリー情報終了
+section |                              | 
+main    | メインリージョン開始         | メインリージョン終了
+</note>
       <tuv lang="EN-US">
         <seg>The JAWS screen reader (and &lt;g3&gt;only&lt;/g3&gt; the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T072957Z" creationid="yoota" creationdate="20170524T072926Z">
-        <seg>スクリーンリーダーのJAWSは（そしてJAWS&lt;g3&gt;だけ&lt;/g3&gt;が）、この要素に入るときに「＃＃Article＃＃」、出るときに「＃＃Article end＃＃」と読み上げます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170527T110715Z" creationid="yoota" creationdate="20170524T072926Z">
+        <seg>スクリーンリーダーのJAWSは（そしてJAWS&lt;g3&gt;だけ&lt;/g3&gt;が）、この要素に入るときに「アーティクル開始」、出るときに「アーティクル終了」と読み上げます。</seg>
       </tuv>
     </tu>
     <tu>
