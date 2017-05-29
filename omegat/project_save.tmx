@@ -6066,12 +6066,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 画像alt、下訳反映。</note>
+      <note>(伊原) 画像alt、下訳反映。
+
+(岡本) 付いている→ついている</note>
       <tuv lang="EN-US">
         <seg>The middle subsection is labeled missing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170526T164333Z" creationid="rikiha" creationdate="20170526T164333Z">
-        <seg>中間のサブセクションには「欠けているサブセクション」というラベルが付いている。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170529T055433Z" creationid="rikiha" creationdate="20170526T164333Z">
+        <seg>中間のサブセクションには「欠けているサブセクション」というラベルがついている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6475,7 +6477,7 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
 readerはまえの章で「ユーザー」としていたように思います。
 percievedは「知覚される」としました。
 
-(岡本)  1つ→ひとつ
+(岡本)  1つ→ひとつ、欺く→あざむく
 
 (伊原) LGTM</note>
       <tuv lang="EN-US">
