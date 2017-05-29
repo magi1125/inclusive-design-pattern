@@ -3917,8 +3917,8 @@ poorlyを「正しくない」とするのは強すぎるかもしれません�
       <tuv lang="EN-US">
         <seg>It’s for all these reasons that &lt;g6&gt;&lt;g7&gt;Tantek Çelik&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;11&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;, cofounder of the IndieWeb movement, believes JavaScript-dependent static content is not in keeping with web design fundamentals.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170527T134808Z" creationid="rikiha" creationdate="20170527T134433Z">
-        <seg>こうした理由から、IndieWebムーブメントの創始者のひとりである&lt;g6&gt;&lt;g7&gt;タンテック・チェリック（Tantek Çelik）&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;11&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;は、JavaScript依存の静的コンテンツはWebデザインの原則に則っていないと考えています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170529T032237Z" creationid="rikiha" creationdate="20170527T134433Z">
+        <seg>こうした理由から、IndieWebムーブメントの創始者のひとりである&lt;g6&gt;&lt;g7&gt;タンテック・チェリック（Tantek Çelik）&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注46）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;は、JavaScript依存の静的コンテンツはWebデザインの原則に則っていないと考えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,8 +4914,8 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       <tuv lang="EN-US">
         <seg>Providing server-rendered content also means that content will be found by folks using search engines, and is parsable by third parties using command line tools like &lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170527T134113Z" creationid="rikiha" creationdate="20170527T132939Z">
-        <seg>また、サーバーでレンダリングされたコンテンツを提供することは、検索エンジンのユーザーがそのコンテンツを見つけられること、サードパーティが&lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのコマンドラインツールを使って解析できることを意味します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170529T032056Z" creationid="rikiha" creationdate="20170527T132939Z">
+        <seg>また、サーバーでレンダリングされたコンテンツを提供することは、検索エンジンのユーザーがそのコンテンツを見つけられること、サードパーティが&lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注45）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのコマンドラインツールを使って解析できることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
