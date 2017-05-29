@@ -2165,6 +2165,7 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Flesch-Kincaid Readability Tests</seg>
       </tuv>
@@ -3506,6 +3507,15 @@ becauseを訳出しました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T052921Z" creationid="yoota" creationdate="20170511T105625Z">
         <seg>その場合、編集者にアイコン画像をアップロードしてリンクするよう頼むのは避けたいですし、ましてや、ソースを編集して各外部リンクに&lt;g1&gt;class&lt;/g1&gt;属性を追加してもらうことなど頼めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) ガイダンスを説明したというより提供したという感じかなと。</note>
+      <tuv lang="EN-US">
+        <seg>In “A Paragraph” I offered some basic guidance on writing easily digestible body text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170529T032749Z" creationid="rikiha" creationdate="20170529T032749Z">
+        <seg>3章「パラグラフ」では、理解しやすい本文テキストの書き方について基本的なガイダンスを提供しました。</seg>
       </tuv>
     </tu>
     <tu>
