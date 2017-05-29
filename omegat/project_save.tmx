@@ -3662,12 +3662,14 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
 usableは「使用は可能」で良いのか。accssesibleではなくusableと言っているので、使いやすさも求めている気がする。
 stillは無理に訳さなくても良い気がします。
 
-(伊原) LGTM. ちなみにusable=使いやすいはHCD的にはいろいろ議論があるようです。使いものになる的な訳のほうが正しいのでは的な。</note>
+(伊原) LGTM. ちなみにusable=使いやすいはHCD的にはいろいろ議論があるようです。使いものになる的な訳のほうが正しいのでは的な。
+
+(岡本) 使いやすいもの→使い物　　にいったんしてみました。</note>
       <tuv lang="EN-US">
         <seg>Is the page still navigable and usable?</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T103414Z" creationid="yoota" creationdate="20170524T102835Z">
-        <seg>ナビゲートでき、使いやすいものになっていますか？</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170529T062609Z" creationid="yoota" creationdate="20170524T102835Z">
+        <seg>ナビゲートでき、使い物になっていますか？</seg>
       </tuv>
     </tu>
     <tu>
