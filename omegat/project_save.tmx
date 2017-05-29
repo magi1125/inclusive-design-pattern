@@ -2688,7 +2688,10 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
 長いコンテンツを非同期読み込みして速度を改善する話などもありますが……。
 
 (伊原) 
-句点が多すぎたり冗長だったりする部分を調整しました。</note>
+句点が多すぎたり冗長だったりする部分を調整しました。
+
+(岡本)
+静的で、→静的で</note>
       <tuv lang="EN-US">
         <seg>However, when the content you are serving is static and intended for reading alone, relying on client-side JavaScript to render that content is an underperforming and relatively unreliable method.</seg>
       </tuv>
