@@ -6301,6 +6301,15 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 文が長くてわかりにくい。「コンテンツに対して実行できる、」は自明なのでトリにしてみました。</note>
+      <tuv lang="EN-US">
+        <seg>There are two tests you can perform on your content which assess word, sentence and paragraph length to determine the readability of your text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T084210Z" creationid="rikiha" creationdate="20170530T084210Z">
+        <seg>単語、文章、パラグラフの長さを評価してテキストの読みやすさを判定するテストは2種類あります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) まちがってはいませんが、いかにも直訳っぽい文章だったので少し砕いてみました。
 
 (伊原) LGTM</note>
