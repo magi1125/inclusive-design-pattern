@@ -5729,8 +5729,8 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;Flesch reading ease&lt;/g1&gt; test gives you a score between 0 and 100 where a higher score means more easily readable and, therefore, more inclusive of different readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170530T084546Z" creationid="rikiha" creationdate="20170530T084546Z">
-        <seg>Flesch Reading Easeテストでは、0～100点で評価されます。得点が高いほど読みやすい、つまり、多様な読者に対してよりインクルーシブであるという意味です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T084625Z" creationid="rikiha" creationdate="20170530T084546Z">
+        <seg>&lt;g1&gt;Flesch Reading Ease&lt;/g1&gt;テストでは、0～100点で評価されます。得点が高いほど読みやすい、つまり、多様な読者に対してよりインクルーシブであるという意味です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5782,6 +5782,15 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T094733Z" creationid="yoota" creationdate="20170515T084348Z">
         <seg>&lt;g2&gt;&lt;h1&gt;&lt;/g2&gt;テキストは実質的に、ドキュメントの本文である最上位セクションのラベルとなります。このため、1ページに複数あるのは論理的に正しくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) 米国の学校の学年で評価します、だと「学年で評価します」という意味合いになってしまうので、評価の尺度が学年であるとわかるように補いました。</note>
+      <tuv lang="EN-US">
+        <seg>The &lt;g2&gt;Flesch-Kincaid grade level&lt;/g2&gt; test is similar but produces a US school grade level.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T085023Z" creationid="rikiha" creationdate="20170530T084604Z">
+        <seg>&lt;g2&gt;Flesch- Kincaid Grade Level&lt;/g2&gt;テストもこれと似ていますが、評価結果は米国の学校の学年として表現されます。</seg>
       </tuv>
     </tu>
     <tu>
