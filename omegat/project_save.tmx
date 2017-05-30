@@ -36,6 +36,15 @@
     <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
+        <seg>10th to 12th grade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T095348Z" creationid="rikiha" creationdate="20170530T095348Z">
+        <seg>10～12年生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
         <seg>5th grade</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170530T094952Z" creationid="rikiha" creationdate="20170530T094952Z">
@@ -2105,6 +2114,15 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>Difficult to read.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T095408Z" creationid="rikiha" creationdate="20170530T095408Z">
+        <seg>読みにくい。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) theoretical は論理的というような意味ですが、まあなくても分かるのでとってしまってもいいかも。
 
 (伊原) LGTM</note>
@@ -2192,6 +2210,15 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T082141Z" creationid="yoota" creationdate="20170511T100701Z">
         <seg>とはいえ、リンクにフォーカス状態を示すスタイルが適用されていなければ、ユーザーには現在どの要素がフォーカスされているのかわかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>Fairly difficult to read.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T095356Z" creationid="rikiha" creationdate="20170530T095356Z">
+        <seg>わりと読みにくい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7851,6 +7878,14 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T101211Z" creationid="yoota" creationdate="20170425T100316Z">
         <seg>ズームを再び機能させるには、ビューポートの単位の値にemベースの値を加算するという方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>college</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T095402Z" creationid="rikiha" creationdate="20170530T095402Z">
+        <seg>大学生</seg>
       </tuv>
     </tu>
     <tu>
