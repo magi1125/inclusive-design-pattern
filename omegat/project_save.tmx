@@ -34,6 +34,39 @@
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>5th grade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T094952Z" creationid="rikiha" creationdate="20170530T094952Z">
+        <seg>5年生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>6th grade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T095012Z" creationid="rikiha" creationdate="20170530T095012Z">
+        <seg>6年生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>7th grade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T095054Z" creationid="rikiha" creationdate="20170530T095054Z">
+        <seg>7年生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>8th &amp; 9th grade</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;div&lt;/g11&gt; &lt;g13&gt;class&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"meta"&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g10&gt;Published on &lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;time&lt;/g18&gt; &lt;g20&gt;datetime&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"2017-12-12"&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g17&gt;12/12/2017&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;/&lt;/g26&gt;time&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;&lt;g28&gt;&lt;g29&gt;&lt;g30&gt;&lt;/&lt;/g30&gt;div&lt;/g29&gt;&lt;g31&gt;&gt;&lt;/g31&gt;&lt;/g28&gt;</seg>
       </tuv>
@@ -1998,6 +2031,15 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 日常、と補った。</note>
+      <tuv lang="EN-US">
+        <seg>Conversational English for consumers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T095043Z" creationid="rikiha" creationdate="20170530T095043Z">
+        <seg>日常会話に使われる英語。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) カタカナ書きの「フォーム」はform要素にまつわるものと思われそうですが、ここでは視覚芸術分野の用語と思われます。
 https://en.wikipedia.org/wiki/Shape_and_form_(visual_arts)
 どう訳せばいいのかは謎。様式?
@@ -2087,6 +2129,24 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>Easily understood by an average 11-year-old student.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T095002Z" creationid="rikiha" creationdate="20170530T095002Z">
+        <seg>平均的な11才の生徒が容易に理解できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>Easy to read.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T095015Z" creationid="rikiha" creationdate="20170530T095015Z">
+        <seg>読みやすい。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 括弧は原文にありませんし不要かと。
 例によってヘイドンさんがこの図で何を伝えたいのか良く分かりません。</note>
       <tuv lang="EN-US">
@@ -2123,6 +2183,15 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T082141Z" creationid="yoota" creationdate="20170511T100701Z">
         <seg>とはいえ、リンクにフォーカス状態を示すスタイルが適用されていなければ、ユーザーには現在どの要素がフォーカスされているのかわかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>Fairly easy to read.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T095154Z" creationid="rikiha" creationdate="20170530T095154Z">
+        <seg>わりと読みやすい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4701,6 +4770,15 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 注釈というか補足かなと。</note>
+      <tuv lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T094946Z" creationid="rikiha" creationdate="20170530T094946Z">
+        <seg>補足</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) もう少しこなれた訳にしたい。ちょっと調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Now that we’re putting a few paragraphs together within a blog article, it’s probably a good time to review the readability of your content.</seg>
@@ -4906,6 +4984,17 @@ parityは平均化というより、ここでは等価、価値を等しくす�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) これちょっとむずかしいですね。プレイン・イングリッシュというレベル感の定義があります。
+https://ja.wikipedia.org/wiki/プレイン・イングリッシュ
+訳注ですかね。</note>
+      <tuv lang="EN-US">
+        <seg>Plain English.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T095321Z" creationid="rikiha" creationdate="20170530T095321Z">
+        <seg>プレイン・イングリッシュ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Practically speaking, the &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; and &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; offer similar functionality, so why employ both?</seg>
@@ -5053,6 +5142,16 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>School Level</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T094922Z" creationid="rikiha" creationdate="20170530T094922Z">
+        <seg>学年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Score</seg>
       </tuv>
@@ -7087,6 +7186,15 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T104733Z" creationid="yoota" creationdate="20170523T104654Z">
         <seg>&lt;g2&gt;display: none;&lt;/g2&gt;、&lt;g3&gt;visibility: hidden;&lt;/g3&gt;、&lt;g4&gt;height: 0;&lt;/g4&gt;、&lt;g5&gt;width: 0;&lt;/g5&gt;を使ってもうまく機能しません――視覚と聴覚の&lt;g6&gt;両方で&lt;/g6&gt;spanが利用できなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>Very easy to read.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170530T094957Z" creationid="rikiha" creationdate="20170530T094957Z">
+        <seg>非常に読みやすい。</seg>
       </tuv>
     </tu>
     <tu>
