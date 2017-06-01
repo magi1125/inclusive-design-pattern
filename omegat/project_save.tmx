@@ -2913,12 +2913,12 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) I see は省略。上で貧弱なコードスタイルと言っているので、「貧弱なリーダビリティ」と表現を揃えました。</note>
+      <note>(伊原) I see は省略。</note>
       <tuv lang="EN-US">
         <seg>I see no reason why poor readability should not also be considered a point of failure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T081201Z" creationid="rikiha" creationdate="20170601T081201Z">
-        <seg>貧弱なリーダビリティもひとつの失敗ポイントとみなすべきです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T081632Z" creationid="rikiha" creationdate="20170601T081201Z">
+        <seg>読みやすさに劣ることもひとつの失敗ポイントとみなすべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2974,8 +2974,8 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
       <tuv lang="EN-US">
         <seg>If poor code style like inconsistent indentation breaks a build, that’s one thing; but if a build breaks because the product is in danger of alienating a user?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T074351Z" creationid="rikiha" creationdate="20170601T073157Z">
-        <seg>一貫性のないインデントのような貧弱なコードスタイルによってビルドが失敗するなら、それはそれです。では、製品内にユーザーを疎外する危険性があるためにビルドが失敗するとしたらどうでしょう？</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T081833Z" creationid="rikiha" creationdate="20170601T073157Z">
+        <seg>インデントが一貫していないといった貧弱なコードスタイルによってビルドが失敗するなら、それはそれです。では、製品内にユーザーを疎外する危険性があるためにビルドが失敗するとしたらどうでしょう？</seg>
       </tuv>
     </tu>
     <tu>
@@ -4920,10 +4920,11 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Note, however, that readability is rather subjective.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T081341Z" creationid="rikiha" creationdate="20170601T081341Z">
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T081855Z" creationid="rikiha" creationdate="20170601T081341Z">
         <seg>ただし、この読みやすさはかなり主観的であることに注意してください。</seg>
       </tuv>
     </tu>
