@@ -294,6 +294,14 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;What’s&lt;/g1&gt; free?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T174303Z" creationid="rikiha" creationdate="20170601T174142Z">
+        <seg>&lt;g1&gt;何が&lt;/g1&gt;無料なのでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文には it benefits があるので「恩恵を受ける」を補いました。
 
 (伊原) LGTM</note>
@@ -2252,6 +2260,15 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170530T095408Z" creationid="rikiha" creationdate="20170530T095408Z">
         <seg>読みにくい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) contentをcontextに誤訳しているので修正。</note>
+      <tuv lang="EN-US">
+        <seg>Direct, descriptive headings clarify the ensuing content, which aids comprehension across the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T174502Z" creationid="rikiha" creationdate="20170601T174502Z">
+        <seg>直接的で分かりやすい見出しは、あとに続く内容を明確にし、全体的な理解も助けます。</seg>
       </tuv>
     </tu>
     <tu>
