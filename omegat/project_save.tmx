@@ -2073,13 +2073,13 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       <note>(伊原) 言い回しを多少調整。do not have JavaScript running は「実行していないユーザー」でよいか。JSオフ的な書き方のほうがわかりやすいかどうか。
 
 (太田) JSオフ的な書き方のほうがわかりやすそうです。ただ厳密には、「オフにしているのではなく、そもそもJSが使えない」というような環境も含んでいるのかもしれません。
- failed to loadを「読み込めなかった」→「読み込みに失敗した」としました。
+「読み込めなかったユーザー」は変かもしれません (ユーザーがJSを読み込むわけではないので)。「ユーザー」をとって「読み込めなかった場合でも」としてみました。
 </note>
       <tuv lang="EN-US">
         <seg>Content should be available to users who do not have JavaScript running or for whom JavaScript has thrown an error, been blocked or failed to load.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170601T093334Z" creationid="rikiha" creationdate="20170527T123707Z">
-        <seg>コンテンツは、JavaScriptが無効になっているユーザーや、JavaScriptがエラーになったり、ブロックされたり、読み込みに失敗した場合でも利用できるようにすべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T093621Z" creationid="rikiha" creationdate="20170527T123707Z">
+        <seg>コンテンツは、JavaScriptが無効になっているユーザーや、JavaScriptがエラーになったり、ブロックされたり、読み込めなかった場合でも利用できるようにすべきです。</seg>
       </tuv>
     </tu>
     <tu>
