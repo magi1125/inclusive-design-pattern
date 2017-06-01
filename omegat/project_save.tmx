@@ -2931,13 +2931,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
 
 (岡本)　直訳語調でよくわからない。「読みやすさに劣ることも失敗のひとつとみなすべきでしょう」とか？
 
-(太田) ひどい二重否定の文ですね。前の章でこういうのやめましょうって書いてませんでしたっけ。ここは要するに「読みにくいときにビルドがとまるようにしよう、それを避ける理由は無いよね」という話だと思います。
+(太田) ひどい二重否定の文ですね。前の章でこういうのやめましょうって書いてませんでしたっけ。
+ここは要するに「読みにくいときにビルドがとまるようにしよう、それを避ける理由は無いよね」という話だと思います。
 この文まるごと削除でもいいかも。</note>
       <tuv lang="EN-US">
         <seg>I see no reason why poor readability should not also be considered a point of failure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170601T104117Z" creationid="rikiha" creationdate="20170601T081201Z">
-        <seg>読みにくいときにビルドに失敗するやすさに劣ることもひとつの失敗ポイントとみなすべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T104159Z" creationid="rikiha" creationdate="20170601T081201Z">
+        <seg>読みにくいときにビルドが失敗するようにすることを、避けるべき理由はないように思います。</seg>
       </tuv>
     </tu>
     <tu>
