@@ -8111,7 +8111,9 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
     <tu>
       <note>(伊原) LGTM
 
-(岡本)  初出で日英名を併記しているので、日名だけにしてみます。日名を前にして日名の前の「、」取り。</note>
+(岡本)  初出で日英名を併記しているので、日名だけにしてみます。日名を前にして日名の前の「、」取り。
+
+(太田) js;dr が tl;dr のもじりだという注釈はいらないですかね。まあいらないか。</note>
       <tuv lang="EN-US">
         <seg>“If it’s not curlable, it’s not on the web.” – “&lt;g1&gt;&lt;g2&gt;js;dr = JavaScript required; Didn’t Read&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” Tantek Çelik</seg>
       </tuv>
