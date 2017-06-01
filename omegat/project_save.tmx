@@ -7624,12 +7624,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       <note>(伊原) 多少調整。round-tripsを往復としていいかどうか。SPAだってラウンドトリップはしているわけで…。
 普通にページ単位でやりとりしているのに比べて、という話なのはわかるが、そこを補うかどうか。
 
-(太田) "round-trips" と複数形になっているので、何度も往復しなくて良いといっているのかもしれません。</note>
+(太田) "round-trips" と複数形になっているので、何度も往復しなくて良いといっているのかもしれません。
+「サーバーとの往復では得られない迅速さ」はいかにも翻訳っぽいので、</note>
       <tuv lang="EN-US">
         <seg>Where content is subject to a lot of change as a result of user interaction, this approach enables an immediacy not possible when making round-trips to the server.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170527T131105Z" creationid="rikiha" creationdate="20170527T123648Z">
-        <seg>インタラクションの結果としてコンテンツに大きな変化が生じる場合でも、このアプローチであれば、サーバーとの往復では得られない迅速さが実現します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T092531Z" creationid="rikiha" creationdate="20170527T123648Z">
+        <seg>インタラクションの結果としてコンテンツに大きな変化が生じる場合でも、このアプローチならばサーバーと何度もやり取りをせずに済み、即座に実現することができます。
+</seg>
       </tuv>
     </tu>
     <tu>
