@@ -5502,7 +5502,9 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       <note>(伊原) は〜特徴です、という繋がりがちょっと妙だったので調整。
 語順を入れ替えて以下のようにしても良い気がしましたが、こちらは保留。
 
-コンテンツの表示と再レンダリングをクライアントサイドJavaScriptによって行うのがシングルページアプリケーションの特徴です。</note>
+コンテンツの表示と再レンダリングをクライアントサイドJavaScriptによって行うのがシングルページアプリケーションの特徴です。
+
+(太田) LGTM</note>
       <tuv lang="EN-US">
         <seg>Single-page applications are typified by their use of client-side JavaScript to render and rerender content.</seg>
       </tuv>
