@@ -5224,7 +5224,10 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
     <tu>
       <note>(伊原) 検索エンジンのユーザーが〜、サードパーティが〜となるように調整。
 
-(太田) 日本語で「サードパーティ」というとサードパーティのベンダーをさすことが多いように思います。ここではコマンドラインツールを使う個人などを指していると思うので、「第三者」としたほうが良いように思いました。</note>
+(太田) 日本語で「サードパーティ」というとサードパーティのベンダーをさすことが多いように思います。ここではコマンドラインツールを使う個人などを指していると思うので、「第三者」としたほうが良いように思いました。
+
+paresは解析で訳としては合っているのですが、文脈として違和感があります。cURLの主要な用途はダウンロードでしょうし、ここではコンテンツがJSで生成されるとアクセスできないという話ですから、コンテンツの利用にフォーカスした話のはずです。「利用」くらいで良いのではないでしょうか。
+</note>
       <tuv lang="EN-US">
         <seg>Providing server-rendered content also means that content will be found by folks using search engines, and is parsable by third parties using command line tools like &lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
