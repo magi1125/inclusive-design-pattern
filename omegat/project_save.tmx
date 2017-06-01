@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4979,7 +4979,9 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
 
 (太田) ちょっと何を言っているのかわからない感がありますね。以下のどちらがいいたいのか。
 1. 本書の話の流れとして、パラグラフをまとめたタイミングなので、ここで読みやすさの話をする。
-2. ブログ記事を書くにあたり、パラグラフをいくつか書いた時点で、読みやすさのチェックをすると良い。</note>
+2. ブログ記事を書くにあたり、パラグラフをいくつか書いた時点で、読みやすさのチェックをすると良い。
+
+(伊原) たぶん1かなと思います。あとでCIの話とか出てくるので、</note>
       <tuv lang="EN-US">
         <seg>Now that we’re putting a few paragraphs together within a blog article, it’s probably a good time to review the readability of your content.</seg>
       </tuv>
