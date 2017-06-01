@@ -1401,12 +1401,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
     <tu>
       <note>(伊原) 繰り返しっぽい言い回しになるようにしました。
 
-(太田) ちょっと日本語として硬いかもしれません。「さらに良くなりますね」とか?</note>
+(太田) ちょっと日本語として硬いかもしれません。「さらに良くなりますね」とか?
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>All the better.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T074454Z" creationid="rikiha" creationdate="20170601T073539Z">
-        <seg>なおさら良いことです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T134950Z" creationid="rikiha" creationdate="20170601T073539Z">
+        <seg>さらに良くなりますね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1443,12 +1445,13 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       <note>(伊原) ちょっとわかりづらい感じがします。後続の段落を見るに、「ユーザー側ではなく」開発者側のメンテ性のほうを向いていた文化、ということがいいたいのだと思うので、そのようにしました。
 
 (岡本)　わかりにくいですね。「開発者による、メンテナンス性を中心とする品質保証文化において、こうしたツールの登場は非常に歓迎すべきことです」とかでしょうか。
-</note>
+
+(伊原) forが強調されているので、◯◯のために〜という部分が残る必要はあるように思います。もう少し調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Amid a maintenance-centric quality assurance culture largely designed by developers &lt;g6&gt;for&lt;/g6&gt; developers, this is most welcome.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T080900Z" creationid="rikiha" creationdate="20170601T073136Z">
-        <seg>開発者による、主に&lt;g6&gt;開発者のために&lt;/g6&gt;作られたメンテナンス性を中心とする品質保証文化において、これは非常に歓迎すべきことです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T140137Z" creationid="rikiha" creationdate="20170601T073136Z">
+        <seg>開発者による、主に&lt;g6&gt;開発者のための&lt;/g6&gt;メンテナンス性を中心とした品質保証という文化がある中で、これは非常に歓迎すべきことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2946,7 +2949,8 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
 (太田) ひどい二重否定の文ですね。前の章でこういうのやめましょうって書いてませんでしたっけ。
 ここは要するに「読みにくいときにビルドがとまるようにしよう、それを避ける理由は無いよね」という話だと思います。
 いったん大幅に補って意訳してみました。
-</note>
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>I see no reason why poor readability should not also be considered a point of failure.</seg>
       </tuv>
@@ -3014,7 +3018,8 @@ breakは「失敗」というより停止かも。「通らない」という言
 poorは貧弱というか、ここでは「ダメな」「望ましくない」くらいですかね。
 「それはそれです」はよくわからないです。
 前半を力強く意訳し、後半をすこし調整してみました。
-</note>
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>If poor code style like inconsistent indentation breaks a build, that’s one thing; but if a build breaks because the product is in danger of alienating a user?</seg>
       </tuv>
@@ -5381,7 +5386,9 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
     <tu>
       <note>(伊原) LGTM
 
-(太田) 訳としては「頼ることはできません」で合っているのですが、言いたいこことしては「頼るべきではありません」のような気がします。</note>
+(太田) 訳としては「頼ることはできません」で合っているのですが、言いたいこことしては「頼るべきではありません」のような気がします。
+
+(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Scientific though a formula for determining readability may sound, you cannot rely on Flesch-Kinkaid tests alone.</seg>
       </tuv>
