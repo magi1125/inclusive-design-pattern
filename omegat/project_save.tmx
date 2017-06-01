@@ -2995,8 +2995,8 @@ breakは「失敗」というより停止かも。</note>
       <tuv lang="EN-US">
         <seg>If poor code style like inconsistent indentation breaks a build, that’s one thing; but if a build breaks because the product is in danger of alienating a user?</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170601T102922Z" creationid="rikiha" creationdate="20170601T073157Z">
-        <seg>インデントが一貫していないといった貧弱なコードスタイルでビルドが止まるなら、それはそれで良いでしょう。では、製品内にユーザーを疎外する危険性があるためにビルドが止まるとしたらどうでしょう？</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T103007Z" creationid="rikiha" creationdate="20170601T073157Z">
+        <seg>インデントが一貫していないといった貧弱なコードスタイルがビルドを止めるなら、それはそれで良いでしょう。では、製品内にユーザーを疎外する危険性があるためにビルドが止まるとしたらどうでしょう？</seg>
       </tuv>
     </tu>
     <tu>
