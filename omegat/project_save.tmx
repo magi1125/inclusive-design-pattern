@@ -1892,6 +1892,16 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 本文テキスト➞本文、リスト➞一覧
+また「本文の外側に見出しを一覧している目次」が分かりづらかったため、2文にしてみました。</note>
+      <tuv lang="EN-US">
+        <seg>But this isn’t much help in a table of contents, listing headings outside of body text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T174134Z" creationid="rikiha" creationdate="20170601T174134Z">
+        <seg>しかし、目次ではそういうわけにはいきません。本文の外側に見出しを一覧しているからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのbut は逆接の「しかし」で良いように思います。</note>
       <tuv lang="EN-US">
         <seg>But who’s it for?</seg>
