@@ -4176,7 +4176,9 @@ poorlyを「正しくない」とするのは強すぎるかもしれません�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 1人➞ひとり、基礎➞原則</note>
+      <note>(伊原) 1人➞ひとり、基礎➞原則
+
+(太田) ここの「考えています」は他人の頭の中をのぞいているようで違和感があります。「主張しています」くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>It’s for all these reasons that &lt;g6&gt;&lt;g7&gt;Tantek Çelik&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;11&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;, cofounder of the IndieWeb movement, believes JavaScript-dependent static content is not in keeping with web design fundamentals.</seg>
       </tuv>
@@ -5231,8 +5233,8 @@ paresは解析で訳としては合っているのですが、文脈として違
       <tuv lang="EN-US">
         <seg>Providing server-rendered content also means that content will be found by folks using search engines, and is parsable by third parties using command line tools like &lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170601T093855Z" creationid="rikiha" creationdate="20170527T132939Z">
-        <seg>また、サーバーでレンダリングされたコンテンツを提供することは、検索エンジンのユーザーがそのコンテンツを見つけられること、第三者が&lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注45）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのコマンドラインツールを使って解析できることを意味します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T094342Z" creationid="rikiha" creationdate="20170527T132939Z">
+        <seg>また、サーバーでレンダリングされたコンテンツを提供することは、検索エンジンのユーザーがそのコンテンツを見つけられること、第三者が&lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注45）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのコマンドラインツールから利用できることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
