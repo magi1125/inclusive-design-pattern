@@ -4323,6 +4323,15 @@ implementationを例→実装としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微妙に誤訳なので調整。あとJust感を出した。</note>
+      <tuv lang="EN-US">
+        <seg>Just install &lt;g11&gt;readability-checker&lt;/g11&gt; globally and point it at a web page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T055343Z" creationid="rikiha" creationdate="20170601T055343Z">
+        <seg>readability-checkerをグローバルインストールして、Webページを指定するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ちょっと何言ってるか分からない訳になっていますが、Cmd + Option + M はレスポンシブデザインモードへの切り替えのトグルで、これを押すとレスポンシブデザインモードになるもののはずです (と思いますがMacで確認していないので伊原さん確認お願いします。WinだとCtrl+Shift+Mです)。
 頭の Just は命令形を和らげるjustで「ちょっと」くらいでしょうか。
 resizeを「大きくしていく」と訳していますが、これは逆で小さくなりますね。ビューポートが小さくなるからコンテンツが重なるわけです。
@@ -6497,8 +6506,8 @@ sound semantic structureとは。
       <tuv lang="EN-US">
         <seg>There are a number of tools to test your content against Flesch-Kincaid, including &lt;g1&gt;&lt;g2&gt;the TRAY readability tool&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;15&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (a Chrome browser extension) or, if you want something to run from the command line, I’ve created &lt;g6&gt;&lt;g7&gt;Readability Checker CLI&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;16&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; — a Node.js CLI (command line interface).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T054723Z" creationid="rikiha" creationdate="20170601T054553Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;TRAYリーダビリティツール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注48）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;（Chromeブラウザ拡張）など、Flesch-Kincaidを基準としてコンテンツをテストするツールはいくつかあります。コマンドラインからテストを実行したい場合は、私が作成した&lt;g6&gt;&lt;g7&gt;Readability Checker CLI&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注49）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;――Node.js CLI（コマンドラインインターフェイス）があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T054735Z" creationid="rikiha" creationdate="20170601T054553Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;TRAYリーダビリティツール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注48）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;（Chromeブラウザ拡張）など、Flesch-Kincaidを基準としてコンテンツをテストするツールはいくつかあります。コマンドラインからテストを実行したい場合には、私が作成した&lt;g6&gt;&lt;g7&gt;Readability Checker CLI&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注49）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;――Node.js CLI（コマンドラインインターフェイス）があります。</seg>
       </tuv>
     </tu>
     <tu>
