@@ -2666,12 +2666,14 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
 works wellは「正しく機能」ではないかも。「よく機能」「うまく機能」?
 「適切に扱うことができます」くらいか。
 
-(伊原) lookingを「検索する」とすべきか。探索する、としてみました。</note>
+(伊原) lookingを「検索する」とすべきか。探索する、としてみました。
+
+(太田) 「探る」が良いかもしれません。</note>
       <tuv lang="EN-US">
         <seg>Good semantic structure works well with screen readers, feed readers, search engines and all sorts of other parsers looking for structural meaning in your content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170526T182235Z" creationid="yoota" creationdate="20170524T102427Z">
-        <seg>優れたセマンティック構造は、スクリーンリーダー、フィードリーダー、サーチエンジン、およびコンテンツ内の構造的な意味を探索する他のあらゆるパーサーで適切に扱うことができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T091821Z" creationid="yoota" creationdate="20170524T102427Z">
+        <seg>優れたセマンティック構造は、スクリーンリーダー、フィードリーダー、サーチエンジン、およびコンテンツ内の構造的な意味を探る他のあらゆるパーサーで適切に扱うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3328,8 +3330,8 @@ http://www.w3.org/TR/CSS1/#length-units
       <tuv lang="EN-US">
         <seg>In addition, services that syndicate your content, such as feed readers, will be able to apply their own structural styles, enabling a comfortable reading experience within their own applications.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170601T091715Z" creationid="yoota" creationdate="20170524T102314Z">
-        <seg>さらに、フィードリーダーなどのコンテンツをまとめるサービスは、独自のスタイルを適用し、それぞれのアプリケーション内で読みやすくすることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T091727Z" creationid="yoota" creationdate="20170524T102314Z">
+        <seg>さらに、フィードリーダーなどのコンテンツをまとめるサービスでは、独自のスタイルを適用し、それぞれのアプリケーション内で読みやすくすることができます。</seg>
       </tuv>
     </tu>
     <tu>
