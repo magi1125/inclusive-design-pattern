@@ -4428,7 +4428,7 @@ implementationを例→実装としました。
       <note>(伊原) 微妙に誤訳なので調整。あとJust感を出した。
 
 (太田) 「グローバルインストール」がなんのこっちゃ感がありそうなので、「npm -g でグローバルインストールして」くらい補ってもいいのかも。
-というかむしろ「グローバル」いらないかも。</note>
+というかむしろ「グローバル」なくてよいのでは。いったんとってみました。</note>
       <tuv lang="EN-US">
         <seg>Just install &lt;g11&gt;readability-checker&lt;/g11&gt; globally and point it at a web page.</seg>
       </tuv>
