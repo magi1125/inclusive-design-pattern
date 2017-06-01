@@ -235,6 +235,15 @@ p {</seg>
       </tuv>
     </tu>
     <tu>
+      <note>（伊原：確認中）</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h2&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;Free flapjacks, you say?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T180002Z" creationid="rikiha" creationdate="20170601T180002Z">
+        <seg>フラップジャックが無料ですって？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h2&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;Free, you say?</seg>
@@ -1395,6 +1404,15 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170516T064705Z" creationid="yoota" creationdate="20170510T070414Z">
         <seg>複雑すぎるとみなされているセリフ書体も、文字を区別するために意図的に使えば、実際に読みやすくなることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>（伊原：確認中）</note>
+      <tuv lang="EN-US">
+        <seg>Accordingly, the following heading content would be of greater utility (at least if this section of the blog article is indeed about flapjacks, otherwise it would be rather misleading!).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T175923Z" creationid="rikiha" creationdate="20170601T175829Z">
+        <seg>したがって、以下の見出しコンテンツの方がずっと便利でしょう。（少なくともブログ記事のこのセクションが本当にフラップジャックに関するものであれば。そうでなければ誤解を招きます！）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,6 +2656,15 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T063932Z" creationid="yoota" creationdate="20170511T063915Z">
         <seg>たとえば、フォントサイズが16pxだった場合、行送りを24px&lt;g7&gt;以上&lt;/g7&gt;にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>（伊原：確認中）</note>
+      <tuv lang="EN-US">
+        <seg>For instance, in NVDA, I can open the &lt;g1&gt;Elements List&lt;/g1&gt; dialog with &lt;g2&gt;Insert&lt;/g2&gt; + &lt;g3&gt;F7&lt;/g3&gt; and browse a list of headings on the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T175859Z" creationid="rikiha" creationdate="20170601T175814Z">
+        <seg>たとえば、NVDAでは、Insert + F7キーで＃＃Elements List＃＃ダイアログを開き、ページの見出しのリストを見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5450,6 +5477,15 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
       </tuv>
     </tu>
     <tu>
+      <note>（伊原：確認中）</note>
+      <tuv lang="EN-US">
+        <seg>Running VoiceOver you can open the &lt;g4&gt;rotor&lt;/g4&gt; (&lt;g5&gt;Ctrl&lt;/g5&gt; + &lt;g6&gt;Option&lt;/g6&gt; + &lt;g7&gt;U&lt;/g7&gt; on Mac OS X) and see headings listed in a similar fashion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T175931Z" creationid="rikiha" creationdate="20170601T175820Z">
+        <seg>VoiceOverでは、ローター（Mac OS X上でCtrl + Option + U）を開いて、同じようにリストされた見出しを見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注アリ
 
 (伊原) アフォーダンス警察に捕まりそうです。訳注する？
@@ -6882,6 +6918,15 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
+      <note>（伊原：確認中）</note>
+      <tuv lang="EN-US">
+        <seg>There’s also a specific implication for screen reader users: screen readers tend to catalog headings dynamically and offer them as a list to choose from.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T175842Z" creationid="rikiha" creationdate="20170601T175807Z">
+        <seg>さらに、スクリーンリーダーユーザーにとってはある意味合いがあります。スクリーンリーダーは、動的に見出しをカタログ化し、選択できるリストとして提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>There’s no need to say the convoluted, “a pork pie was eaten by Harry” when you can just as well say, “Harry ate a pork pie.”</seg>
@@ -8031,6 +8076,15 @@ regressを「後方互換する」としていますが、日本語として違�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T030328Z" creationid="yoota" creationdate="20170512T030328Z">
         <seg>パラグラフの記述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>（伊原：確認中）</note>
+      <tuv lang="EN-US">
+        <seg>Yes, please!&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;h2&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T180007Z" creationid="rikiha" creationdate="20170601T180007Z">
+        <seg>ください！</seg>
       </tuv>
     </tu>
     <tu>
