@@ -6493,11 +6493,12 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 多少調整</note>
       <tuv lang="EN-US">
         <seg>There are a number of tools to test your content against Flesch-Kincaid, including &lt;g1&gt;&lt;g2&gt;the TRAY readability tool&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;15&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (a Chrome browser extension) or, if you want something to run from the command line, I’ve created &lt;g6&gt;&lt;g7&gt;Readability Checker CLI&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;16&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; — a Node.js CLI (command line interface).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T054649Z" creationid="rikiha" creationdate="20170601T054553Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;TRAYリーダビリティツール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注48）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;（Chromeブラウザ拡張）など、Flesch-Kincaidを基準としてコンテンツをテストするツールはいくつかあります。コマンドラインからテストを実行したい場合には、私が作成した&lt;g6&gt;&lt;g7&gt;Readability Checker CLI&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注49）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;――Node.js CLI（コマンドラインインターフェイス）があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T054723Z" creationid="rikiha" creationdate="20170601T054553Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;TRAYリーダビリティツール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注48）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;（Chromeブラウザ拡張）など、Flesch-Kincaidを基準としてコンテンツをテストするツールはいくつかあります。コマンドラインからテストを実行したい場合は、私が作成した&lt;g6&gt;&lt;g7&gt;Readability Checker CLI&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注49）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;――Node.js CLI（コマンドラインインターフェイス）があります。</seg>
       </tuv>
     </tu>
     <tu>
