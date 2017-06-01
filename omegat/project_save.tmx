@@ -2990,12 +2990,13 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
     <tu>
       <note>(岡本) ビルドはビルドとしか言いようがないですか？ 「製品内にユーザーを疎外する危険性があるためにビルドが失敗するとしたら」もよくわからない。
 
-(太田) ビルドはビルドでしょうね……。</note>
+(太田) ビルドはビルドでしょうね……。
+breakは「失敗」というより停止かも。</note>
       <tuv lang="EN-US">
         <seg>If poor code style like inconsistent indentation breaks a build, that’s one thing; but if a build breaks because the product is in danger of alienating a user?</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170601T102805Z" creationid="rikiha" creationdate="20170601T073157Z">
-        <seg>インデントが一貫していないといった貧弱なコードスタイルによってビルドが失敗するなら、それはそれで良いでしょう。では、製品内にユーザーを疎外する危険性があるためにビルドが失敗するとしたらどうでしょう？</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T102922Z" creationid="rikiha" creationdate="20170601T073157Z">
+        <seg>インデントが一貫していないといった貧弱なコードスタイルでビルドが止まるなら、それはそれで良いでしょう。では、製品内にユーザーを疎外する危険性があるためにビルドが止まるとしたらどうでしょう？</seg>
       </tuv>
     </tu>
     <tu>
