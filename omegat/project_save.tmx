@@ -7559,7 +7559,9 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     <tu>
       <note>(伊原) sends prerendered content to the client をどうしたものか。clientと言っているから、サーバ側でレンダリングした、と補足しないでも大丈夫？　いったんレンダリング済みのコンテンツとしてみました。
 
-(岡本) このsmamshingmagazine.comへの脚注はPDFにはありませんでした。</note>
+(岡本) このsmamshingmagazine.comへの脚注はPDFにはありませんでした。
+
+(太田) 訳としては合っていますが「レンダリング」と言われるとブラウザ内部でレンダリングを行うイメージのほうが強く、サーバ側でレンダリングした結果を画像として送ってくるような印象も受けますね。</note>
       <tuv lang="EN-US">
         <seg>When a site like &lt;g1&gt;&lt;g2&gt;smashingmagazine.com&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; sends prerendered content to the client, I can print that content to my console using the &lt;g6&gt;curl&lt;/g6&gt; command.</seg>
       </tuv>
