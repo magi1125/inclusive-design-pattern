@@ -5222,7 +5222,9 @@ scripting failures はスクリプトエラーで良いのかどうか謎。Ajax
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 検索エンジンのユーザーが〜、サードパーティが〜となるように調整。</note>
+      <note>(伊原) 検索エンジンのユーザーが〜、サードパーティが〜となるように調整。
+
+(太田) サードパーティはこのままで良いか。</note>
       <tuv lang="EN-US">
         <seg>Providing server-rendered content also means that content will be found by folks using search engines, and is parsable by third parties using command line tools like &lt;g1&gt;&lt;g2&gt;cURL&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;10&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
