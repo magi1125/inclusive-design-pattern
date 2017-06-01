@@ -1236,6 +1236,16 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 【要検討：保留】そのまま訳すとちょっと意味がわからない感じになりそうです。
+個別の特徴がありつつ、多くの状況で上手くハマるということを言っているのだと思いますが…。</note>
+      <tuv lang="EN-US">
+        <seg>A good module has an independent purpose that can be lent seamlessly to a number of different contexts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T172702Z" creationid="rikiha" creationdate="20170601T172702Z">
+        <seg>適切なモジュールには、多様なコンテキストでシームレスに役立つ、独立した目的があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「音声構造」要検討。
 
@@ -2611,6 +2621,14 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T033759Z" creationid="yoota" creationdate="20170512T033759Z">
         <seg>ここではまず、&lt;g6&gt;コンテンツ以外のすべては補強である&lt;/g6&gt;、ということを覚えておいてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the purposes of inclusive design, sometimes our text has to have a certain autonomy as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T172708Z" creationid="rikiha" creationdate="20170601T172708Z">
+        <seg>インクルーシブデザインでは、テキストにある程度の自律性が求められる場合があります。</seg>
       </tuv>
     </tu>
     <tu>
