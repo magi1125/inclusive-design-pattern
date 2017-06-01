@@ -2624,6 +2624,7 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 【要検討：保留】これもちょっとピンとこない。</note>
       <tuv lang="EN-US">
         <seg>For the purposes of inclusive design, sometimes our text has to have a certain autonomy as well.</seg>
       </tuv>
@@ -5831,6 +5832,15 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T110907Z" creationid="yoota" creationdate="20170501T110907Z">
         <seg>そしてもう一度Tabキーを押すとスキップリンクは非表示になり、ページ内の次のインタラクティブ要素（たいていはホームページへのリンクやナビゲーションリストの最初のリンク）にフォーカスが移ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) 他の例示の導入と揃えました。</note>
+      <tuv lang="EN-US">
+        <seg>Take the following &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; heading as an example:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T173053Z" creationid="rikiha" creationdate="20170601T173053Z">
+        <seg>例として以下の見出しを見てみましょう。</seg>
       </tuv>
     </tu>
     <tu>
