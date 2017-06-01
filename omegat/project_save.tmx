@@ -7412,6 +7412,16 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「これら」が何を指すのか分かりにくいですね。
+</note>
+      <tuv lang="EN-US">
+        <seg>Use them as an early warning system to highlight potential issues, and test with real users as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T105538Z" creationid="yoota" creationdate="20170601T105538Z">
+        <seg>これらは、潜在する問題を浮き彫りにするための早い段階での警告システムとして使用し、実際のユーザーでもテストしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文のダッシュを生かす方向で調整。
 元訳では原文のandの強調がうまく反映できなかったので「両方で」を補って強調する形にしてみました。
