@@ -1396,6 +1396,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>All the better.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T073539Z" creationid="rikiha" creationdate="20170601T073539Z">
+        <seg>ますます結構なことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文にある Pinch がなくなっているように思います。
 
 (伊原) LGTM
@@ -1430,8 +1438,8 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       <tuv lang="EN-US">
         <seg>Amid a maintenance-centric quality assurance culture largely designed by developers &lt;g6&gt;for&lt;/g6&gt; developers, this is most welcome.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T073446Z" creationid="rikiha" creationdate="20170601T073136Z">
-        <seg>開発者によって、主に&lt;g6&gt;開発者のために&lt;/g6&gt;作られたメンテナンス性を中心とした品質保証文化において、これは非常に歓迎すべきことです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T073459Z" creationid="rikiha" creationdate="20170601T073136Z">
+        <seg>開発者による、主に&lt;g6&gt;開発者のために&lt;/g6&gt;作られたメンテナンス性を中心とした品質保証文化において、これは非常に歓迎すべきことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2956,8 +2964,8 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
       <tuv lang="EN-US">
         <seg>If poor code style like inconsistent indentation breaks a build, that’s one thing; but if a build breaks because the product is in danger of alienating a user?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T073157Z" creationid="rikiha" creationdate="20170601T073157Z">
-        <seg>まず1つには、一貫しないインデントなど、お粗末なコードスタイルがあればビルドが壊れます。では、成果物がユーザーを疎外する危険があるためにビルドが壊れるとしたらどうでしょう？</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T073944Z" creationid="rikiha" creationdate="20170601T073157Z">
+        <seg>一貫性のないインデントのような貧弱なコードスタイルによってビルドが破綻するなら、それはそれです。では、成果物がユーザーを疎外する危険があるためにビルドが壊れるとしたらどうでしょう？</seg>
       </tuv>
     </tu>
     <tu>
