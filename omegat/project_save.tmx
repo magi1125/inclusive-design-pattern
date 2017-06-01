@@ -2913,7 +2913,7 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) I see は省略。上で貧弱なコードスタイルと言っているので、表現を揃えました。</note>
+      <note>(伊原) I see は省略。上で貧弱なコードスタイルと言っているので、「貧弱なリーダビリティ」と表現を揃えました。</note>
       <tuv lang="EN-US">
         <seg>I see no reason why poor readability should not also be considered a point of failure.</seg>
       </tuv>
@@ -4917,6 +4917,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T101135Z" creationid="yoota" creationdate="20170523T101044Z">
         <seg>&lt;g2&gt;.visually-hidden&lt;/g2&gt;クラスを指定した&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;を使っていることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note, however, that readability is rather subjective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T081341Z" creationid="rikiha" creationdate="20170601T081341Z">
+        <seg>ただし、この読みやすさはかなり主観的であることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
