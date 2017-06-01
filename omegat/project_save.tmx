@@ -1446,12 +1446,12 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
 
 (岡本)　わかりにくいですね。「開発者による、メンテナンス性を中心とする品質保証文化において、こうしたツールの登場は非常に歓迎すべきことです」とかでしょうか。
 
-(伊原) forが強調されているので、◯◯のために〜という部分が残る必要はあるように思います。もう少し調整してみました。</note>
+(伊原) forが強調されているので、◯◯のために〜という部分が残る必要はあるように思います。もう少し補って調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Amid a maintenance-centric quality assurance culture largely designed by developers &lt;g6&gt;for&lt;/g6&gt; developers, this is most welcome.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T140137Z" creationid="rikiha" creationdate="20170601T073136Z">
-        <seg>開発者による、主に&lt;g6&gt;開発者のための&lt;/g6&gt;メンテナンス性を中心とした品質保証という文化がある中で、これは非常に歓迎すべきことです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T140434Z" creationid="rikiha" creationdate="20170601T073136Z">
+        <seg>開発者が&lt;g6&gt;開発者のために&lt;/g6&gt;作ってきた、コードのメンテナンス性を中心とした品質保証という文化がある中で、これは非常に歓迎すべきことです。</seg>
       </tuv>
     </tu>
     <tu>
