@@ -235,6 +235,15 @@ p {</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) LGTM</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h2&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;Free, you say?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T173110Z" creationid="rikiha" creationdate="20170601T173110Z">
+        <seg>無料ですって？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 (伊原) LGTM</note>
       <tuv lang="EN-US">
@@ -3713,6 +3722,15 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここは段落と文脈でいいかなと。</note>
+      <tuv lang="EN-US">
+        <seg>In the context of surrounding paragraph text, it is no doubt possible to infer what the heading is referring to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T173603Z" creationid="rikiha" creationdate="20170601T173603Z">
+        <seg>周囲の段落の文脈があれば、見出しが何を指しているか推測することは間違いなく可能でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文で強調されているifは訳出する必要があります。そのまま「もし」としました。
 「Preferences → Content」は「オプション→コンテンツ」となっていました (Firefox51.0.1 で確認)。
 </note>
@@ -6702,6 +6720,15 @@ sound semantic structureとは。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T033024Z" creationid="yoota" creationdate="20170427T033024Z">
         <seg>ポイントは、先にページを読み込んでから、onloadイベントを分岐点にしてフォントを読み込むようにすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) ちょっと調整。</note>
+      <tuv lang="EN-US">
+        <seg>Then yes, please!&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;h2&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T173303Z" creationid="rikiha" creationdate="20170601T173121Z">
+        <seg>それならください！</seg>
       </tuv>
     </tu>
     <tu>
