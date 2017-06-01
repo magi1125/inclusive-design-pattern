@@ -1426,6 +1426,15 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ちょっとわかりづらい感じがします。後続の段落を見るに、「ユーザー側ではなく」開発者側のメンテ性のほうを向いていた文化、ということがいいたいのだと思うので、そのようにしました。</note>
+      <tuv lang="EN-US">
+        <seg>Amid a maintenance-centric quality assurance culture largely designed by developers &lt;g6&gt;for&lt;/g6&gt; developers, this is most welcome.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T073410Z" creationid="rikiha" creationdate="20170601T073136Z">
+        <seg>開発者による、主に&lt;g6&gt;開発者のために&lt;/g6&gt;作られたメンテナンス性を中心とした品質保証文化において、これは非常に歓迎すべきことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 訳から&lt;h2&gt;が落ちていますが元訳にはあったのかも?</note>
       <tuv lang="EN-US">
         <seg>An &lt;c0&gt;&lt;h2&gt;&lt;/c0&gt; given &lt;c1&gt;font-size: 2rem;&lt;/c1&gt; is two times larger than the size set at the root.</seg>
@@ -2941,6 +2950,14 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T103926Z" creationid="yoota" creationdate="20170524T102306Z">
         <seg>ブラウザがスタイルシートの読み込みに失敗しても、ユーザーエージェントのデフォルトスタイルシートが適用されて、インターフェイスの主要な要素は認識できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If poor code style like inconsistent indentation breaks a build, that’s one thing; but if a build breaks because the product is in danger of alienating a user?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170601T073157Z" creationid="rikiha" creationdate="20170601T073157Z">
+        <seg>まず1つには、一貫しないインデントなど、お粗末なコードスタイルがあればビルドが壊れます。では、成果物がユーザーを疎外する危険があるためにビルドが壊れるとしたらどうでしょう？</seg>
       </tuv>
     </tu>
     <tu>
