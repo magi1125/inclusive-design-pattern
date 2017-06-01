@@ -4425,12 +4425,15 @@ implementationを例→実装としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微妙に誤訳なので調整。あとJust感を出した。</note>
+      <note>(伊原) 微妙に誤訳なので調整。あとJust感を出した。
+
+(太田) 「グローバルインストール」がなんのこっちゃ感がありそうなので、「npm -g でグローバルインストールして」くらい補ってもいいのかも。
+というかむしろ「グローバル」いらないかも。</note>
       <tuv lang="EN-US">
         <seg>Just install &lt;g11&gt;readability-checker&lt;/g11&gt; globally and point it at a web page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T055343Z" creationid="rikiha" creationdate="20170601T055343Z">
-        <seg>readability-checkerをグローバルインストールして、Webページを指定するだけです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T102057Z" creationid="rikiha" creationdate="20170601T055343Z">
+        <seg>readability-checkerをインストールして、Webページを指定するだけです。</seg>
       </tuv>
     </tu>
     <tu>
