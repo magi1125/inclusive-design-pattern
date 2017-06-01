@@ -1435,7 +1435,10 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ちょっとわかりづらい感じがします。後続の段落を見るに、「ユーザー側ではなく」開発者側のメンテ性のほうを向いていた文化、ということがいいたいのだと思うので、そのようにしました。</note>
+      <note>(伊原) ちょっとわかりづらい感じがします。後続の段落を見るに、「ユーザー側ではなく」開発者側のメンテ性のほうを向いていた文化、ということがいいたいのだと思うので、そのようにしました。
+
+(岡本)　わかりにくいですね。「開発者による、メンテナンス性を中心とする品質保証文化において、こうしたツールの登場は非常に歓迎すべきことです」とかでしょうか。
+</note>
       <tuv lang="EN-US">
         <seg>Amid a maintenance-centric quality assurance culture largely designed by developers &lt;g6&gt;for&lt;/g6&gt; developers, this is most welcome.</seg>
       </tuv>
