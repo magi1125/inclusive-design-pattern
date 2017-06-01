@@ -2988,7 +2988,9 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
       </tuv>
     </tu>
     <tu>
-      <note>(岡本) ビルドはビルドとしか言いようがないですか？ 「製品内にユーザーを疎外する危険性があるためにビルドが失敗するとしたら」もよくわからない。</note>
+      <note>(岡本) ビルドはビルドとしか言いようがないですか？ 「製品内にユーザーを疎外する危険性があるためにビルドが失敗するとしたら」もよくわからない。
+
+(太田) ビルドはビルドでしょうね……。</note>
       <tuv lang="EN-US">
         <seg>If poor code style like inconsistent indentation breaks a build, that’s one thing; but if a build breaks because the product is in danger of alienating a user?</seg>
       </tuv>
