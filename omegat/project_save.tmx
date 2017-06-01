@@ -7563,12 +7563,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
 
 (太田) 訳としては合っていますが「レンダリング」と言われるとブラウザ内部でレンダリングを行うイメージのほうが強く、サーバ側でレンダリングした結果を画像として送ってくるような印象も受けますね。まあ、分かるとは思います。
 
-冒頭の「Webサイト、」は強調されすぎのように思います。JSでレンダリングしているサイトもWebサイトですし。</note>
+冒頭の「Webサイト、」は強調されすぎのように思います。JSでレンダリングしているサイトもWebサイトですし。
+
+print は「出力」ではなく「表示」で良いと思います。</note>
       <tuv lang="EN-US">
         <seg>When a site like &lt;g1&gt;&lt;g2&gt;smashingmagazine.com&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; sends prerendered content to the client, I can print that content to my console using the &lt;g6&gt;curl&lt;/g6&gt; command.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170601T095151Z" creationid="rikiha" creationdate="20170527T135941Z">
-        <seg>例えば&lt;g1&gt;&lt;g2&gt;smashingmagazine.com&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注47）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのWebサイトは、レンダリング済みのコンテンツをクライアントに送信しているため、&lt;g6&gt;curl&lt;/g6&gt;コマンドを使用することでコンソールにコンテンツを出力できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T095226Z" creationid="rikiha" creationdate="20170527T135941Z">
+        <seg>例えば&lt;g1&gt;&lt;g2&gt;smashingmagazine.com&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注47）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのWebサイトは、レンダリング済みのコンテンツをクライアントに送信しているため、&lt;g6&gt;curl&lt;/g6&gt;コマンドを使用することでコンテンツをコンソールに表示できます。</seg>
       </tuv>
     </tu>
     <tu>
