@@ -2898,12 +2898,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
 句点が多すぎたり冗長だったりする部分を調整しました。
 
 (岡本)
-静的で、→静的で</note>
+静的で、→静的で
+
+(太田) 「提供コンテンツ」は良く分かりませんでした。もはや「提供」トリでも良いのでは。</note>
       <tuv lang="EN-US">
         <seg>However, when the content you are serving is static and intended for reading alone, relying on client-side JavaScript to render that content is an underperforming and relatively unreliable method.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170527T133124Z">
-        <seg>しかし、提供コンテンツが静的で、読むことだけが目的である場合、クライアントサイドJavaScriptでコンテンツを表示するのは非効率で比較的信頼性の低い方法です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170601T092726Z">
+        <seg>しかし、コンテンツが静的で、読むことだけが目的である場合、クライアントサイドJavaScriptでコンテンツを表示するのは非効率で比較的信頼性の低い方法です。</seg>
       </tuv>
     </tu>
     <tu>
