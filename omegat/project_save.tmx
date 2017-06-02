@@ -248,8 +248,8 @@ p {</seg>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h2&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;Free, you say?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T173110Z" creationid="rikiha" creationdate="20170601T173110Z">
-        <seg>無料ですって？</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170602T090430Z" creationid="rikiha" creationdate="20170601T173110Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h2&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;無料ですって？</seg>
       </tuv>
     </tu>
     <tu>
@@ -5947,12 +5947,12 @@ impactは次の文に合わせて「効果」としました。
     <tu>
       <note>(伊原) 他の例示の導入と揃えました。
 
-(太田) &lt;h2&gt; がぬけていますので補いました。</note>
+(太田) &lt;h2&gt; がぬけていましたので補いました。</note>
       <tuv lang="EN-US">
         <seg>Take the following &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; heading as an example:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170602T090346Z" creationid="rikiha" creationdate="20170601T173053Z">
-        <seg>例として以下の&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; 見出しを見てみましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170602T090413Z" creationid="rikiha" creationdate="20170601T173053Z">
+        <seg>例として以下の&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt;見出しを見てみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6832,8 +6832,8 @@ sound semantic structureとは。
       <tuv lang="EN-US">
         <seg>Then yes, please!&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;h2&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T173303Z" creationid="rikiha" creationdate="20170601T173121Z">
-        <seg>それならください！</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170602T090439Z" creationid="rikiha" creationdate="20170601T173121Z">
+        <seg>それならください！&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;h2&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
