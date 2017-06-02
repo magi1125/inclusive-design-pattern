@@ -3231,12 +3231,12 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 (太田) 微妙に違和感があるというか、何をいっているのか分かりにくいというか。「誰が」フロントエンドエンジニアであれば、と言っているのが分からないのが違和感の原因なのかも。もしかするとyouを訳出しても良いのかも知れません。
 work as が訳出されていないのはOK? いったん訳出してみました。
 「利点に精通」はすこしおかしいので「利点をよく知っている」くらいでしょうか。
-no doubt はやっぱりなくてもいいかも……。</note>
+</note>
       <tuv lang="EN-US">
         <seg>If you work as a front-end engineer, you are no doubt familiar with the virtues of modular design.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170602T085912Z" creationid="rikiha" creationdate="20170601T141400Z">
-        <seg>フロントエンドエンジニアとして働く人は、モジュール設計の利点をよく知っています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170602T085941Z" creationid="rikiha" creationdate="20170601T141400Z">
+        <seg>フロントエンドエンジニアとして働く人は、間違いなくモジュール設計の利点をよく知っています。</seg>
       </tuv>
     </tu>
     <tu>
