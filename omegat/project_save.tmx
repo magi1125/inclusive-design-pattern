@@ -1933,12 +1933,13 @@ heading level oneは「見出しレベル1」ですね。
       <note>(伊原) 本文テキスト➞本文、リスト➞一覧
 また「本文の外側に見出しを一覧している目次」が分かりづらかったため、2文にしてみました。
 
-(太田)「本文の外側に見出しを一覧」は日本語としておかしいように思います。</note>
+(太田)「本文の外側に見出しを一覧」は日本語としておかしいように思います。
+少し補って「本文から外れたところで見出しだけを一覧にしている」としてみました。</note>
       <tuv lang="EN-US">
         <seg>But this isn’t much help in a table of contents, listing headings outside of body text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T174134Z" creationid="rikiha" creationdate="20170601T174134Z">
-        <seg>しかし、目次ではそういうわけにはいきません。本文の外側に見出しを一覧しているからです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170602T092118Z" creationid="rikiha" creationdate="20170601T174134Z">
+        <seg>しかし、目次ではそういうわけにはいきません。本文から外れたところで見出しだけを一覧にしているからです。</seg>
       </tuv>
     </tu>
     <tu>
