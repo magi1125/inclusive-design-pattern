@@ -2685,9 +2685,8 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
     <tu>
       <note>（伊原：確認中）
 
-(太田) 正確には Insert は「NVDAキー」で、「NVDAキー」として使うキーのデフォルトがInsertというだけですね。
-
-「要素リスト」</note>
+(太田) 正確には Insert は「NVDAキー」で、「NVDAキー」として使うキーのデフォルトがInsertというだけですね。訳注で書くほどでもないか……?
+NVDA+F7で出るダイアログは日本語版では「要素リスト」という名称でした。</note>
       <tuv lang="EN-US">
         <seg>For instance, in NVDA, I can open the &lt;g1&gt;Elements List&lt;/g1&gt; dialog with &lt;g2&gt;Insert&lt;/g2&gt; + &lt;g3&gt;F7&lt;/g3&gt; and browse a list of headings on the page.</seg>
       </tuv>
