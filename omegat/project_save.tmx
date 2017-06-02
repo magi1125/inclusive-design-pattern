@@ -5945,12 +5945,14 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 他の例示の導入と揃えました。</note>
+      <note>(伊原) 他の例示の導入と揃えました。
+
+(太田) &lt;h2&gt; がぬけていますので補いました。</note>
       <tuv lang="EN-US">
         <seg>Take the following &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; heading as an example:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T173053Z" creationid="rikiha" creationdate="20170601T173053Z">
-        <seg>例として以下の見出しを見てみましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170602T090346Z" creationid="rikiha" creationdate="20170601T173053Z">
+        <seg>例として以下の&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; 見出しを見てみましょう。</seg>
       </tuv>
     </tu>
     <tu>
