@@ -1958,12 +1958,14 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ちょっと不自然な感じがあります。あんまりしっくり来ませんが、調整してみました。</note>
+      <note>(伊原) ちょっと不自然な感じがあります。あんまりしっくり来ませんが、調整してみました。
+
+(太田) 調整してみました。tried-and-tested code は「テストされたコード」としてみました。</note>
       <tuv lang="EN-US">
         <seg>By creating reusable modules (or components), you can develop more rapidly, with tried-and-tested code, and eliminate redundancy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170601T172316Z" creationid="rikiha" creationdate="20170601T172316Z">
-        <seg>再利用可能なモジュール（コンポーネント）を作成することで、試行を繰り返したコードでより迅速に開発が行え、冗長性も排除できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170602T084848Z" creationid="rikiha" creationdate="20170601T172316Z">
+        <seg>再利用可能なモジュール（コンポーネント）を作っておけば、より迅速に開発でき、テストされたコードを利用でき、冗長性も排除できます。</seg>
       </tuv>
     </tu>
     <tu>
