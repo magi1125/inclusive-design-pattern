@@ -2683,7 +2683,11 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
-      <note>（伊原：確認中）</note>
+      <note>（伊原：確認中）
+
+(太田) 正確には Insert は「NVDAキー」で、「NVDAキー」として使うキーのデフォルトがInsertというだけですね。
+
+</note>
       <tuv lang="EN-US">
         <seg>For instance, in NVDA, I can open the &lt;g1&gt;Elements List&lt;/g1&gt; dialog with &lt;g2&gt;Insert&lt;/g2&gt; + &lt;g3&gt;F7&lt;/g3&gt; and browse a list of headings on the page.</seg>
       </tuv>
