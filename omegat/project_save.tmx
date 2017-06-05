@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -242,7 +242,9 @@ https://en.wikipedia.org/wiki/Flapjack_(oat_bar)
 参考: http://www.absolute-london.co.uk/fooddrink/sweets/4386
 イギリスでは一般的な家庭のお菓子のようですね。
 
-ぱっと見「ブラックジャック」かと思い、かつ鈍器のほうを連想しました……(ブラックジャックはD&amp;Dに登場するので、ヘイドンさんならありえる)。</note>
+ぱっと見「ブラックジャック」かと思い、かつ鈍器のほうを連想しました……(ブラックジャックはD&amp;Dに登場するので、ヘイドンさんならありえる)。
+
+(岡本） 監訳で別途扱うほどでもないので（監訳：イギリスでは一般的なお菓子）みたいな扱いですかね。単に（イギリスでは一般的なお菓子）とか。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h2&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;Free flapjacks, you say?</seg>
       </tuv>
