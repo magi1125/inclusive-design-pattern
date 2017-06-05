@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3835,7 +3835,8 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
 
 (太田) 原文の意味としては「周囲の段落の文脈」が正しく、「周囲の段落に文脈があれば」とするとニュアンスが異なってきてしまいます。もう少し調整したいところ。
 周囲→前後としたほうが日本語としては自然か。「前後の段落の文脈を見れば」としてみました。「の」の連続は気になりますが。
-</note>
+
+(岡本)　なるほど。了解しました。</note>
       <tuv lang="EN-US">
         <seg>In the context of surrounding paragraph text, it is no doubt possible to infer what the heading is referring to.</seg>
       </tuv>
