@@ -4799,7 +4799,10 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 訳としては正しいのですが、先に確認したとおり「要素リスト」という名称のダイアログなので「要素リスト」としたいですね。</note>
+      <note>(太田) 訳としては正しいのですが、先に確認したとおり「要素リスト」という名称のダイアログなので「要素リスト」としたいですね。
+
+「集約します」は分かりにくい印象。リスト的な何かで表示する的な機能がある、ということなのでしょうけれど。ざっくり「他のスクリーンリーダーにも同様の機能があります」くらいでいいかも。
+</note>
       <tuv lang="EN-US">
         <seg>Links, like headings, are made available as a list in NVDA’s elements dialog, and other screen readers aggregate them in a similar fashion.</seg>
       </tuv>
