@@ -2248,12 +2248,14 @@ visual designはそのままビジュアルデザインでいいかも。
     <tu>
       <note>(太田)
 かわいいですかね?
-そのまま「キュートですが」くらいでいいかも。</note>
+そのまま「キュートですが」くらいでいいかも。
+
+読みはリンクラベル+「リンク」のアナウンスなので、ラベルと「リンク」の間にはスペースか読点を入れたいところ。</note>
       <tuv lang="EN-US">
         <seg>Cute, but each link has an entirely meaningless label when taken out of context, not to mention that even read sequentially “a link lot link of link” doesn’t tell us anything useful.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170605T032641Z" creationid="yoota" creationdate="20170605T032641Z">
-        <seg>キュートですが、コンテキストから取り出してみると、各リンクには、まったく意味のないラベルが付いています。順番に「？？多リンクくリンクのリンク？？」と読んでも、何も分からないことは言うまでもありません。【コメント：上の例文に合わせて日本語にしましたがこれで問題ないでしょうか。原文「a link lot link of link」】</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170605T032833Z" creationid="yoota" creationdate="20170605T032641Z">
+        <seg>キュートですが、コンテキストから取り出してみると、各リンクには、まったく意味のないラベルが付いています。順番に「多、リンク。く、リンク。の、リンク」と読んでも、何も分からないことは言うまでもありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,6 +3084,9 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
 これどうしますかね。いったん保留。</note>
       <tuv lang="EN-US">
         <seg>I have &lt;g1&gt;a&lt;/g1&gt; &lt;g2&gt;lot&lt;/g2&gt; &lt;g3&gt;of&lt;/g3&gt; support to back up my amazing ideas!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170605T032811Z">
+        <seg>私の素晴らしいアイデアには、これを支える&lt;g1&gt;多&lt;/g1&gt;&lt;g2&gt; く&lt;/g2&gt;&lt;g3&gt; の&lt;/g3&gt;裏付けがある。</seg>
       </tuv>
     </tu>
     <tu>
