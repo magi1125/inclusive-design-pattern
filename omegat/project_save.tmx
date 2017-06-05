@@ -2252,12 +2252,14 @@ visual designはそのままビジュアルデザインでいいかも。
 
 読みはリンクラベル+「リンク」のアナウンスなので、ラベルと「リンク」の間にはスペースか読点を入れたいところ。原文のスタイルとは異なりますが、いったんそれぞれのリンクの間は句点で区切ってみました。
 
-「まったく意味のないラベル」というより「完全に無意味なラベル」というほうがニュアンスが近い気がします (「意味を持たない」のでなく「意味不明」というニュアンスに近い)。</note>
+「まったく意味のないラベル」というより「完全に無意味なラベル」というほうがニュアンスが近い気がします (「意味を持たない」のでなく「意味不明」というニュアンスに近い)。
+
+最後は「何も分からない」のではなく、有益な情報が何もないという話ですね。へんなリンクがあるということだけは分かりますので。</note>
       <tuv lang="EN-US">
         <seg>Cute, but each link has an entirely meaningless label when taken out of context, not to mention that even read sequentially “a link lot link of link” doesn’t tell us anything useful.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170605T033013Z" creationid="yoota" creationdate="20170605T032641Z">
-        <seg>キュートですが、コンテキストから取り出してみると、それぞれのリンクには完全に無意味なラベルが付いています。順番に「多、リンク。く、リンク。の、リンク」と読まれても、何も分からないことは言うまでもありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170605T033244Z" creationid="yoota" creationdate="20170605T032641Z">
+        <seg>キュートですが、コンテキストから取り出してみると、それぞれのリンクには完全に無意味なラベルが付いています。順番に「多、リンク。く、リンク。の、リンク」と読まれても、有益な情報は何も得られません。</seg>
       </tuv>
     </tu>
     <tu>
