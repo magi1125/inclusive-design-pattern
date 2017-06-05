@@ -4799,6 +4799,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Links, like headings, are made available as a list in NVDA’s elements dialog, and other screen readers aggregate them in a similar fashion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170605T031519Z" creationid="yoota" creationdate="20170605T031519Z">
+        <seg>見出しと同じく、リンクもNVDAの要素ダイアログにリストとして提供されます。他のスクリーンリーダーもこれらを同じような形で集約します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 誤訳っぽいですね。&lt;button&gt;がリンクなのではなく、リンクが&lt;button&gt;と同様だと言っているのだと思います。
 
 (伊原) LGTM</note>
@@ -5212,6 +5220,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T200006Z" creationid="yoota" creationdate="20170501T111031Z">
         <seg>それでは、ここまで見てきたインクルーシブなドキュメントがどのような構成になったか見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Obnoxious Link Labels</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170605T031515Z" creationid="yoota" creationdate="20170605T031515Z">
+        <seg>不快なリンクラベル</seg>
       </tuv>
     </tu>
     <tu>
