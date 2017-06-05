@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4800,7 +4800,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 訳としては正しいのですが、先に確認したとおり「要素リスト」という名称のダイアログなので「要素リスト」としたいですね。
+      <note>(太田) 訳としては「要素ダイアログにリストされる」で正しいのですが、先に確認したとおり「要素リスト」という名称のダイアログなので、ここも「要素リストダイアログ」としたいです。「要素リスト」といえばリストであることは分かるので、「リストとして提供」は単に「表示される」としてみました。
 
 「集約します」は分かりにくい印象。リスト的な何かで表示する的な機能がある、ということなのでしょうけれど。ざっくり「他のスクリーンリーダーにも同様の機能があります」くらいでいいかも。
 </note>
