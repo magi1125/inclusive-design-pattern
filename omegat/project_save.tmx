@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5060,8 +5060,8 @@ Webコンテンツを見ることを「閲覧」という事はありますが�
       <tuv lang="EN-US">
         <seg>Not only are there discrete technical shortcomings (such as certain devices suppressing the zoom of &lt;g13&gt;&lt;option&gt;&lt;/g13&gt; overlays), but they just don’t seem to be &lt;g14&gt;understood&lt;/g14&gt; by all sorts of people.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T101315Z" creationid="yoota" creationdate="20170524T090303Z">
-        <seg>個々の技術的な欠点（特定のデバイスで、オーバーレイ表示される&lt;g13&gt;&lt;option&gt;&lt;/g13&gt;をズームできないなど）があるだけではなく、あらゆる人に&lt;g14&gt;理解&lt;/g14&gt;できるわけではないようです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170605T065304Z" creationid="yoota" creationdate="20170524T090303Z">
+        <seg>れる&lt;g13&gt;&lt;option&gt;&lt;/g13&gt;をズームできないなど）があるだけではなく、あらゆる人に&lt;g14&gt;理解&lt;/g14&gt;できるわけではないようです。</seg>
       </tuv>
     </tu>
     <tu>
