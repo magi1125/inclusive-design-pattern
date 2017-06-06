@@ -1677,7 +1677,9 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
     </tu>
     <tu>
       <note>(太田)
-いったん保留。</note>
+いったん保留。
+
+</note>
       <tuv lang="EN-US">
         <seg>As a writer, it is the differentiation and clarification of runs and blocks of words that still excites me most about HTML, old news though this basic feature is.</seg>
       </tuv>
@@ -1926,7 +1928,9 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田)
+文章を書くだけでなく動画で表現する、という話の導入部分です。となると、「ライター」→「書き手」としたほうが明確かもしれません。
+</note>
       <tuv lang="EN-US">
         <seg>But I appreciate that not everyone is a confident writer or an avid reader.</seg>
       </tuv>
@@ -6597,6 +6601,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T084512Z" creationid="yoota" creationdate="20170501T083937Z">
         <seg>ドキュメントや&lt;g4&gt;&lt;iframe&gt;&lt;/g4&gt;、埋め込みのSVG要素では、それぞれに指定された&lt;g5&gt;&lt;title&gt;&lt;/g5&gt;がアクセシブルな名前 (name)  となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The addition of images, sound and video to blog posts gives color and variety to content, as well as providing more options to those with different abilities and preferences, or in different circumstances.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T094713Z" creationid="yoota" creationdate="20170606T094713Z">
+        <seg>画像、サウンド、ビデオをブログ記事に加えることで、コンテンツに色や多様性が加わるだけでなく、さまざまな能力や好みを持つ人たち、または多様な環境にいる人たちに、より多くの選択肢を提供できます。</seg>
       </tuv>
     </tu>
     <tu>
