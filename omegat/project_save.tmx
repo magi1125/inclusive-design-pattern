@@ -2860,6 +2860,9 @@ NVDA+F7で出るダイアログは日本語版では「要素リスト」とい�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+or similarの訳は要検討。「音声」は違和感あり。
+</note>
       <tuv lang="EN-US">
         <seg>For instance, the play button should say “Play button” (or similar) when focused, or “Pause button” if the video is already playing.</seg>
       </tuv>
@@ -5565,6 +5568,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170606T101119Z" creationid="yoota" creationdate="20170606T101119Z">
         <seg>もちろん、キャプションがあれば、聴力に問題のある人たちの役に立ちます。でもそれ&lt;g1&gt;だけ&lt;/g1&gt;ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of course, you should make sure the button can indeed be switched from a &lt;g1&gt;press-to-play&lt;/g1&gt; to a &lt;g2&gt;press-to-pause&lt;/g2&gt; state.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T103547Z" creationid="yoota" creationdate="20170606T103547Z">
+        <seg>もちろん、ボタンが実際に再生と一時停止の状態を切り替えられるかどうかも確認しなくてはなりません。</seg>
       </tuv>
     </tu>
     <tu>
