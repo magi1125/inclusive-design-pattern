@@ -7817,6 +7817,14 @@ This serves as an important reminderは直訳すると「このことは重要�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This should work by pressing either the &lt;g3&gt;Space&lt;/g3&gt; or &lt;g4&gt;Enter&lt;/g4&gt; keys whether or not a screen reader is running.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T103723Z" creationid="yoota" creationdate="20170606T103723Z">
+        <seg>これは、スクリーンリーダーが実行されているかどうかに関わらず、SpaceキーまたはEnterキーを押すことで機能するはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 correctedは修正された、ですが若干違和感があります。訳すなら「正しい」「意図通りの」くらいでしょうか。複数の方法の一つを紹介している形であり、これが唯一の正解ということではないので、トリでも良いように思いました。
 
