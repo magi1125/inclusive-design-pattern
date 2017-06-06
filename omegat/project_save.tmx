@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3536,6 +3536,16 @@ http://www.w3.org/TR/CSS1/#length-units
     </tu>
     <tu>
       <note>(太田)
+</note>
+      <tuv lang="EN-US">
+        <seg>In addition, it’s not always clear visually that there are separate links present.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T021450Z" creationid="yoota" creationdate="20170606T021450Z">
+        <seg>加えて、個別のリンクが存在することが、視覚的にも明確であるとは限りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
 "services that syndicate your content, such as feed readers"  って、先に syndicated contents が出てきた時点で such as を書いてほしかった……。
 
 (伊原) いままで構造というとセマンティックなものを指していたので、ここで構造というとちょっとニュアンスが変わってしまう気がします。スタイル構成としてみました。でも構成もトリでもいいかも。
@@ -6081,6 +6091,14 @@ target はそのままカタカナだと意味がとりにくいように思い�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T050816Z" creationid="yoota" creationdate="20170511T100459Z">
         <seg>ブラウザの標準の動作のおかげで、ユーザーが&lt;g4&gt;Tab&lt;/g4&gt;キーを押すと、ドキュメント内で次にフォーカス可能な要素である、&lt;g3&gt;href&lt;/g3&gt;属性を持つ&lt;g2&gt;&lt;a&gt;&lt;/g2&gt;要素にフォーカスが移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That depends on you identifying breaks in the underline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T021453Z" creationid="yoota" creationdate="20170606T021453Z">
+        <seg>アンダーラインの途切れが発見（認識）されるかどうかにかかっています。</seg>
       </tuv>
     </tu>
     <tu>
