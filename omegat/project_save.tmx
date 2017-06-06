@@ -2860,6 +2860,14 @@ NVDA+F7で出るダイアログは日本語版では「要素リスト」とい�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, the play button should say “Play button” (or similar) when focused, or “Pause button” if the video is already playing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T103532Z" creationid="yoota" creationdate="20170606T103532Z">
+        <seg>たとえば、再生ボタンにフォーカスを合わせると「再生ボタン」（または似たような音声）、ビデオがすでに再生中の場合は「一時停止ボタン」、といった具合に読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>For instance, your &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; element should be set with an appropriate &lt;g2&gt;max-width&lt;/g2&gt;.</seg>
@@ -2908,6 +2916,14 @@ NVDA+F7で出るダイアログは日本語版では「要素リスト」とい�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T033749Z" creationid="yoota" creationdate="20170427T033749Z">
         <seg>そのためには、フォントはBase64でエンコードし、当該のスタイルシートに埋め込む必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fortunately, testing an interactive widget like a video player doesn’t require a working knowledge of the vast array of keyboard commands offered in NVDA and other readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T103521Z" creationid="yoota" creationdate="20170606T103521Z">
+        <seg>幸いなことに、ビデオプレイヤーなどのインタラクティブなウィジェットをテストするのに、NVDAやその他のリーダーで提供されている膨大なキーボードコマンドに関する実用的な知識は必要ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4928,6 +4944,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Just tab to the controls as you would when testing keyboard support and listen for aural feedback.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T103526Z" creationid="yoota" creationdate="20170606T103526Z">
+        <seg>キーボードサポートをテストするときは、ただコントロールにタブを移動し、音声フィードバックを聞きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Justification</seg>
@@ -5123,7 +5147,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
     </tu>
     <tu>
       <note>(太田)
-信頼性とは</note>
+体験の信頼性とは。
+</note>
       <tuv lang="EN-US">
         <seg>Make sure you use VoiceOver with Safari for the most reliable experience.</seg>
       </tuv>
