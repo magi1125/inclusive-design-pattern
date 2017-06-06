@@ -3536,12 +3536,12 @@ http://www.w3.org/TR/CSS1/#length-units
     </tu>
     <tu>
       <note>(太田)
-</note>
+ここから視覚の話になるということがややが分かりにくいように思ったので、「視覚的にも」の位置を調整しました。</note>
       <tuv lang="EN-US">
         <seg>In addition, it’s not always clear visually that there are separate links present.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170606T021450Z" creationid="yoota" creationdate="20170606T021450Z">
-        <seg>加えて、個別のリンクが存在することが、視覚的にも明確であるとは限りません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T021548Z" creationid="yoota" creationdate="20170606T021450Z">
+        <seg>加えて視覚的にも、個別のリンクが存在することが、明確であるとは限りません。</seg>
       </tuv>
     </tu>
     <tu>
