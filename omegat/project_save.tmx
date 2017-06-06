@@ -2824,6 +2824,17 @@ NVDA+F7で出るダイアログは日本語版では「要素リスト」とい�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「話し手を見る」のがメインではなく「キャプションを見る」のがメインなので文章要調整。あとで検討。
+</note>
+      <tuv lang="EN-US">
+        <seg>Furthermore, watching speakers in the video with captions also available can assist me as a non-native speaker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T100315Z" creationid="yoota" creationdate="20170606T100315Z">
+        <seg>さらに、キャプション付きのビデオで話し手を見られれば、ネイティブスピーカーでない人の助けになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文は1文で、分けるほどでもないので1文にしました。
 「いくら控えめに言っても」は「いくらなんでも」くらいでもいいかも。</note>
       <tuv lang="EN-US">
