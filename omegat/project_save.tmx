@@ -3921,6 +3921,14 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In short: no focus styles, no good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101416Z" creationid="yoota" creationdate="20170606T101416Z">
+        <seg>簡単に言うと、フォーカススタイルがないのはダメです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) critical は大切というよりもう少し強いニュアンスかも。いったん「重要」としてみました。
 
 (伊原) LGTM</note>
@@ -5764,6 +5772,14 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Remember the “Indicating Focus” section in the last chapter?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101411Z" creationid="yoota" creationdate="20170606T101411Z">
+        <seg>前章の「フォーカスを示す」を思い出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) レスポンシブWebデザイン、としなくて良いかどうかはちょっと迷いました。ひとまずこのままで。</note>
       <tuv lang="EN-US">
         <seg>Responsive Design</seg>
@@ -5861,6 +5877,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T095447Z" creationid="yoota" creationdate="20170501T095426Z">
         <seg>JAWSなどのスクリーンリーダーには、&lt;g3&gt;&lt;main&gt;&lt;/g3&gt;にアクセスするキーボードショートカット（&lt;g2&gt;Q&lt;/g2&gt;キー）も用意されているため、ユーザーはページの前置きを飛ばして目的のコンテンツに直行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second prize for Worst Keyboard Accessibility Implementation goes to players which you can tab into and use, but without any visual feedback.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101408Z" creationid="yoota" creationdate="20170606T101408Z">
+        <seg>キーボードアクセシビリティ実装のワースト第2位は、タブでアクセスして使用できるけれども、視覚的なフィードバックが一切ないものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6413,6 +6437,16 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T024602Z" creationid="yoota" creationdate="20170512T024602Z">
         <seg>あとは、リンクが外部であることをスクリーンリーダーのユーザーに知らせる、隠しテキストを追加するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+要検討。</note>
+      <tuv lang="EN-US">
+        <seg>That said, if the various player controls are implemented in HTML and CSS and you can provide your &lt;g1&gt;own&lt;/g1&gt; focus styles, the player may be salvageable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101534Z" creationid="yoota" creationdate="20170606T101534Z">
+        <seg>ただし、さまざまなプレイヤーコントロールがHTMLとCSSに実装されていて、自分なりのフォーカススタイルを提供できれば、そのプレイヤーは救いようがあるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
