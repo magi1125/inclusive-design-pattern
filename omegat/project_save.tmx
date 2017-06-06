@@ -1676,6 +1676,16 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+いったん保留。</note>
+      <tuv lang="EN-US">
+        <seg>As a writer, it is the differentiation and clarification of runs and blocks of words that still excites me most about HTML, old news though this basic feature is.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T094601Z" creationid="yoota" creationdate="20170606T094601Z">
+        <seg>ライターの私がHTMLについて今でも最もワクワクするのは、単語の並びや塊を差別化および明確化することです。この基本的な機能は目新しいものではありませんが。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ちょっと語尾を調整。
 
 (岡本) 分からない→わからない</note>
@@ -7843,7 +7853,7 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     </tu>
     <tu>
       <note>(太田)
-「映像」「動画」のように訳すのもあり? 一端保留。
+「動画」のように訳すのもあり? 一端保留。
 </note>
       <tuv lang="EN-US">
         <seg>Video</seg>
