@@ -3536,7 +3536,9 @@ http://www.w3.org/TR/CSS1/#length-units
     </tu>
     <tu>
       <note>(太田)
-ここから視覚の話になるということがややが分かりにくいように思ったので、「視覚的にも」の位置を調整しました。</note>
+ここから視覚の話になるということがややが分かりにくいように思ったので、
+「視覚的にも」の位置を調整しました。
+separateは「分割されている」くらいに強く訳したほうが分かりやすいかもしれません。</note>
       <tuv lang="EN-US">
         <seg>In addition, it’s not always clear visually that there are separate links present.</seg>
       </tuv>
@@ -6096,7 +6098,7 @@ target はそのままカタカナだと意味がとりにくいように思い�
     <tu>
       <note>(太田)
 発見・識別はもう少し砕いてもいいかも。「気がつく」としてみました。
-「かかっています」は少し分かりにくいかもしれません。</note>
+「かかっています」は少し分かりにくいかもしれません。少し補って</note>
       <tuv lang="EN-US">
         <seg>That depends on you identifying breaks in the underline.</seg>
       </tuv>
