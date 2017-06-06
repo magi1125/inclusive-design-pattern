@@ -2654,6 +2654,14 @@ min-widthにremを使われると例としてはわかりにくいですね…�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For example, while I’m working on a visual design for something, I might want to simultaneously listen to the dialog from a conference talk video.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T100129Z" creationid="yoota" creationdate="20170606T100129Z">
+        <seg>たとえば、何かの視覚デザインに取り組みながら、同時にカンファレンスのトークビデオの会話を聞き取りたいと思うことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>For example, you may be asking, “If this is an article, shouldn’t it be in an &lt;g1&gt;&lt;article&gt;&lt;/g1&gt; element?”</seg>
@@ -5365,6 +5373,16 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170521T150046Z" creationid="yoota" creationdate="20170512T104130Z">
         <seg>時には、空きスペースを徹底的に埋めるために、ものを横並びにしたいと思うことがあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+原文強調のandの訳出が必要</note>
+      <tuv lang="EN-US">
+        <seg>On a bus, and without a set of headphones handy, I might want to be shown &lt;g3&gt;and&lt;/g3&gt; told, but without blaring audio at my fellow passengers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T100202Z" creationid="yoota" creationdate="20170606T100202Z">
+        <seg>バスに乗っていて、ヘッドフォンもないときに、見ながらトークを聞きたいけれど、他の乗客の前で大きな音を鳴らすことは避けたいという場合もあるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
