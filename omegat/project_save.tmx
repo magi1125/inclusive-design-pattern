@@ -3346,6 +3346,18 @@ work as が訳出されていないのはOK? いったん訳出してみまし�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「他の著者」は訳として正しいですが日本語ではあまり言わないかも。「他者」「第三者」くらいでしょうか。
+
+</note>
+      <tuv lang="EN-US">
+        <seg>If you’re going to cite the work of other authors, the polite thing to do is mention their works by name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T022920Z" creationid="yoota" creationdate="20170606T022920Z">
+        <seg>他の著者の著作物を引用するのであれば、名前でこれに言及するのが礼儀です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>If you’re going to get something right from the outset make it the content, &lt;g8&gt;not&lt;/g8&gt; the typography, layout or color scheme.</seg>
