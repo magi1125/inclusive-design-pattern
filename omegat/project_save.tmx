@@ -1421,6 +1421,14 @@ divergeは分岐する、分かれる、それるの意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A video blog post should feature the video prominently, but provide a transcript of the video underneath it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101144Z" creationid="yoota" creationdate="20170606T101144Z">
+        <seg>ビデオブログ記事では、ビデオを目立つように表示すべきですが、その下にビデオのトランスクリプトを提供した方が良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「良いキャプション」なのか。ここのcaptionは動詞で「よくキャプション付けされた」という程度のような気がする。あとで検討。</note>
       <tuv lang="EN-US">
@@ -1946,6 +1954,14 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170606T094652Z" creationid="yoota" creationdate="20170606T094652Z">
         <seg>しかし、すべての人が自信あふれるライターや熱心な読者であるわけではないということは理解しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But captions are only available if the video itself can be downloaded or streamed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101136Z" creationid="yoota" creationdate="20170606T101136Z">
+        <seg>しかし、キャプションはビデオそのものをダウンロードまたはストリーミングできる場合にしか利用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2504,6 +2520,14 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Find another player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101234Z" creationid="yoota" creationdate="20170606T101234Z">
+        <seg>別のプレイヤーを探しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Finding the right solution depends on what we want to achieve.</seg>
@@ -2965,6 +2989,14 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Here are a few pointers on posting videos.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101149Z" creationid="yoota" creationdate="20170606T101149Z">
+        <seg>以下は、ビデオをポストするときのアドバイスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Here is my adapted version:</seg>
@@ -3347,6 +3379,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T080027Z" creationid="yoota" creationdate="20170511T072130Z">
         <seg>残念ながらコントラストのアクセシビリティを考慮せずに色が選択されてしまった場合、&lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注27）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;などのツールを使えば問題のある領域を特定するのに役立つでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you find focus bypasses the player altogether, then game over.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101207Z" creationid="yoota" creationdate="20170606T101207Z">
+        <seg>フォーカスがプレイヤーを飛ばしてしまう場合はゲームオーバーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,6 +4502,14 @@ poorlyを「正しくない」とするのは強すぎるかもしれません�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s better to see captions as simply “another way to consume the same content.” Then you get a better idea of just how many people can make use of them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101131Z" creationid="yoota" creationdate="20170606T101131Z">
+        <seg>「同じコンテンツを利用するもう1つの方法」として、キャプションが見られた方が良いのです。そう考えると、どれだけ多くの人が利用できるかよく分かるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) とても分かりにくい文章ですが、印刷結果をPDF出力して保存すればオフラインになっても読めるよ、という話ですね。補って訳してみました。
 
 (伊原) LGTM</note>
@@ -4991,6 +5039,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T061035Z" creationid="yoota" creationdate="20170426T061035Z">
         <seg>コンテンツブレイクポイントを検討する際は、Firefoxの&lt;g1&gt;&lt;g2&gt;レスポンシブデザインモード&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注6）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;が便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the video player is keyboard and screen reader accessible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101157Z" creationid="yoota" creationdate="20170606T101157Z">
+        <seg>ビデオプレイヤーがキーボードおよびスクリーンリーダーでアクセスできることを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5725,6 +5781,16 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012813Z" creationid="yoota" creationdate="20170420T085821Z">
         <seg>レスポンシブデザインはインクルーシブデザインの重要な要素のひとつです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+ヘイドンジョーク的フレーズの検討。</note>
+      <tuv lang="EN-US">
+        <seg>Retreat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101230Z" creationid="yoota" creationdate="20170606T101230Z">
+        <seg>そのプレイヤーはやめて</seg>
       </tuv>
     </tu>
     <tu>
@@ -6663,6 +6729,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The Player</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101153Z" creationid="yoota" creationdate="20170606T101153Z">
+        <seg>プレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The Typeface</seg>
@@ -6820,6 +6894,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170521T130748Z" creationid="yoota" creationdate="20170512T093542Z">
         <seg>この要素は、そのページの実際のメインコンテンツは何であるかについて考えるのに役立ちます。また、後でスクリーンリーダーユーザーがナビゲーション手段として利用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fastest way to know if a player is worthy of your use is to try tabbing into it with your keyboard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101201Z" creationid="yoota" creationdate="20170606T101201Z">
+        <seg>プレイヤーが使用にふさわしいかどうか見極める最も迅速な方法は、キーボードでプレイヤーにタブを移動してみることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7526,6 +7608,14 @@ out of sight は「非表示」とされていましたが、文字通り「視�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T060035Z" creationid="yoota" creationdate="20170522T100551Z">
         <seg>ここで、多くの開発者が過ちを犯します。そのセクションの重要性を判断して、それに最も合うように思える見出し要素を選んでしまうのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is why video that contains dialog should always be accompanied by a transcript.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T101140Z" creationid="yoota" creationdate="20170606T101140Z">
+        <seg>このため、会話を含むビデオには常にトランスクリプトを付けるべきです。</seg>
       </tuv>
     </tu>
     <tu>
