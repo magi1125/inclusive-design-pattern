@@ -613,6 +613,17 @@ Reasonablyは合理的、ほどよい、といった意味。
     </tu>
     <tu>
       <note>(太田)
+脚注の位置を調整。
+日本語リソースの紹介があるべきか?</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Refer to &lt;g2&gt;&lt;g3&gt;this list of NVDA keyboard commands&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;20&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; from WebAIM.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170606T102041Z" creationid="yoota" creationdate="20170606T102041Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;WebAIMで、&lt;g2&gt;&lt;g3&gt;NVDAキーボードコマンドのリスト&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注53）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を参照する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
 exclusivelyの訳を検討。
 </note>
       <tuv lang="EN-US">
