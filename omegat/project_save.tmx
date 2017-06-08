@@ -2084,12 +2084,12 @@ heading level oneは「見出しレベル1」ですね。
 (太田)「本文の外側に見出しを一覧」は日本語としておかしいように思います。
 少し補って「本文から外れたところで見出しだけを一覧にしている」としてみました。
 
-(伊原) OK</note>
+(伊原) 後ろの段落でリストと言っているので、リストに戻しました。</note>
       <tuv lang="EN-US">
         <seg>But this isn’t much help in a table of contents, listing headings outside of body text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170602T092118Z" creationid="rikiha" creationdate="20170601T174134Z">
-        <seg>しかし、目次ではそういうわけにはいきません。本文から外れたところで見出しだけを一覧にしているからです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170608T155118Z" creationid="rikiha" creationdate="20170601T174134Z">
+        <seg>しかし、目次ではそういうわけにはいきません。本文から外れたところで見出しだけをリストにしているからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2874,7 +2874,9 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       <note>（伊原：確認中）
 
 (太田) 正確には Insert は「NVDAキー」で、「NVDAキー」として使うキーのデフォルトがInsertというだけですね。訳注で書くほどでもないか……?
-NVDA+F7で出るダイアログは日本語版では「要素リスト」という名称でした。</note>
+NVDA+F7で出るダイアログは日本語版では「要素リスト」という名称でした。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For instance, in NVDA, I can open the &lt;g1&gt;Elements List&lt;/g1&gt; dialog with &lt;g2&gt;Insert&lt;/g2&gt; + &lt;g3&gt;F7&lt;/g3&gt; and browse a list of headings on the page.</seg>
       </tuv>
@@ -7531,12 +7533,12 @@ sound semantic structureとは。
 
 (太田) 「ある意味合い」はちょっと変かも (すぐ後ろで言っていますし)。「別の意味合いもあります」としてみました。
 
-(伊原) カタログ化に違和感を感じたので、リストアップと一覧としてみました。</note>
+(伊原) カタログ化に違和感を感じたので、ピックアップとしてみました。取り出して並べる＝カタログ化だと思うのですが、後ろで「リストとして提供」と言っているので、取り出すという話だけでもいいかなと。</note>
       <tuv lang="EN-US">
         <seg>There’s also a specific implication for screen reader users: screen readers tend to catalog headings dynamically and offer them as a list to choose from.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170608T154849Z" creationid="rikiha" creationdate="20170601T175807Z">
-        <seg>さらに、スクリーンリーダーユーザーにとっては別の意味合いもあります。スクリーンリーダーは、動的に見出しをリストアップし、選択できる一覧として提供します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170608T155047Z" creationid="rikiha" creationdate="20170601T175807Z">
+        <seg>さらに、スクリーンリーダーユーザーにとっては別の意味合いもあります。スクリーンリーダーは、動的に見出しをピックアップし、選択できるリストとして提供します。</seg>
       </tuv>
     </tu>
     <tu>
