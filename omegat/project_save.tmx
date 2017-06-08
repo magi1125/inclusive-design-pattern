@@ -263,7 +263,9 @@ https://en.wikipedia.org/wiki/Flapjack_(oat_bar)
     <tu>
       <note>(伊原) LGTM
 
-(太田) 無料なのかタダなのかフリーなのか。</note>
+(太田) 無料なのかタダなのかフリーなのか。
+
+(伊原) フラップジャックというお菓子が無料という話っぽく。原文の勢い的には「タダ」か？</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h2&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;Free, you say?</seg>
       </tuv>
@@ -2080,7 +2082,9 @@ heading level oneは「見出しレベル1」ですね。
 また「本文の外側に見出しを一覧している目次」が分かりづらかったため、2文にしてみました。
 
 (太田)「本文の外側に見出しを一覧」は日本語としておかしいように思います。
-少し補って「本文から外れたところで見出しだけを一覧にしている」としてみました。</note>
+少し補って「本文から外れたところで見出しだけを一覧にしている」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>But this isn’t much help in a table of contents, listing headings outside of body text.</seg>
       </tuv>
@@ -2120,7 +2124,9 @@ heading level oneは「見出しレベル1」ですね。
     <tu>
       <note>(伊原) ちょっと不自然な感じがあります。あんまりしっくり来ませんが、調整してみました。
 
-(太田) 調整してみました。tried-and-tested code は「十分にテストされたコード」としてみました (「枯れたコード」でも良いと思いましたが、プログラマでない人には逆にわかりにくそうなので)。</note>
+(太田) 調整してみました。tried-and-tested code は「十分にテストされたコード」としてみました (「枯れたコード」でも良いと思いましたが、プログラマでない人には逆にわかりにくそうなので)。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>By creating reusable modules (or components), you can develop more rapidly, with tried-and-tested code, and eliminate redundancy.</seg>
       </tuv>
@@ -3498,7 +3504,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 (太田) 微妙に違和感があるというか、何をいっているのか分かりにくいというか。「誰が」フロントエンドエンジニアであれば、と言っているのが分からないのが違和感の原因なのかも。もしかするとyouを訳出しても良いのかも知れません。
 work as が訳出されていないのはOK? いったん訳出してみました。
 「利点に精通」はすこしおかしいので「利点をよく知っている」くらいでしょうか。そのまま「慣れ親しんでいる」でもいいのかも (普段モジュールを使っているという意味でしょうから)。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>If you work as a front-end engineer, you are no doubt familiar with the virtues of modular design.</seg>
       </tuv>
@@ -4113,7 +4120,9 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
 (太田) 原文の意味としては「周囲の段落の文脈」が正しく、「周囲の段落に文脈があれば」とするとニュアンスが異なってきてしまいます。もう少し調整したいところ。
 周囲→前後としたほうが日本語としては自然か。「前後の段落の文脈を見れば」としてみました。「の」の連続は気になりますが。
 
-(岡本)　なるほど。了解しました。</note>
+(岡本)　なるほど。了解しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the context of surrounding paragraph text, it is no doubt possible to infer what the heading is referring to.</seg>
       </tuv>
@@ -6437,7 +6446,9 @@ impactは次の文に合わせて「効果」としました。
     <tu>
       <note>(伊原) 他の例示の導入と揃えました。
 
-(太田) &lt;h2&gt; がぬけていましたので補いました。</note>
+(太田) &lt;h2&gt; がぬけていましたので補いました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Take the following &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; heading as an example:</seg>
       </tuv>
