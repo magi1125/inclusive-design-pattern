@@ -5153,7 +5153,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <note>(太田) 訳としては「要素ダイアログにリストされる」で正しいのですが、先に確認したとおり「要素リスト」という名称のダイアログなので、ここも「要素リストダイアログ」としたいです。「要素リスト」といえばリストであることは分かるので、「リストとして提供」は単に「表示される」としてみました。
 
 「集約します」が分かりにくい印象を受けます。リスト的な何かで表示する的な機能がある、ということなのでしょうけれど。ざっくり「他のスクリーンリーダーにも同様の機能があります」くらいでいいかも。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Links, like headings, are made available as a list in NVDA’s elements dialog, and other screen readers aggregate them in a similar fashion.</seg>
       </tuv>
