@@ -5126,12 +5126,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
     <tu>
       <note>(太田) OK
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　分かる→わかる</note>
       <tuv lang="EN-US">
         <seg>Like headings, link text should be autonomously meaningful.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170605T032120Z" creationid="yoota" creationdate="20170605T032120Z">
-        <seg>見出しと同様に、リンクテキストもそれ自体で意味が分かるようにすべきです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170609T030613Z" creationid="yoota" creationdate="20170605T032120Z">
+        <seg>見出しと同様に、リンクテキストもそれ自体で意味がわかるようにすべきです。</seg>
       </tuv>
     </tu>
     <tu>
