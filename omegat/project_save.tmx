@@ -2643,11 +2643,13 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
+      <note>(太田) こちらも命令形なので。
+前の文とのつながりがやや微妙なので「そして」を補いました。</note>
       <tuv lang="EN-US">
         <seg>Find another player.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170606T101234Z" creationid="yoota" creationdate="20170606T101234Z">
-        <seg>別のプレイヤーを探しましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170609T083800Z" creationid="yoota" creationdate="20170606T101234Z">
+        <seg>そして別のプレイヤーを探してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6044,12 +6046,14 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
     </tu>
     <tu>
       <note>(太田)
-ヘイドンジョーク的フレーズの検討。「撤退!」とか?</note>
+ヘイドンジョーク的フレーズの検討。「撤退!」とか?
+命令形なので「撤退してください」としました。
+</note>
       <tuv lang="EN-US">
         <seg>Retreat.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170606T101230Z" creationid="yoota" creationdate="20170606T101230Z">
-        <seg>そのプレイヤーはやめて</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170609T083652Z" creationid="yoota" creationdate="20170606T101230Z">
+        <seg>撤退してください。</seg>
       </tuv>
     </tu>
     <tu>
