@@ -5251,7 +5251,7 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 命令系なので「確認してください」くらいか。</note>
+      <note>(太田) 命令系なので「確認してください」くらいかなと。</note>
       <tuv lang="EN-US">
         <seg>Make sure the video player is keyboard and screen reader accessible.</seg>
       </tuv>
@@ -7200,6 +7200,7 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「使用にふさわしい」は違和感あり。</note>
       <tuv lang="EN-US">
         <seg>The fastest way to know if a player is worthy of your use is to try tabbing into it with your keyboard.</seg>
       </tuv>
