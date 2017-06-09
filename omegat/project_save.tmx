@@ -3538,11 +3538,12 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <note>(太田) altogetherは訳出しなくてよいのでしょうか。いったん「全体を」としてみました。</note>
       <tuv lang="EN-US">
         <seg>If you find focus bypasses the player altogether, then game over.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170606T101207Z" creationid="yoota" creationdate="20170606T101207Z">
-        <seg>フォーカスがプレイヤーを飛ばしてしまう場合はゲームオーバーです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170609T083631Z" creationid="yoota" creationdate="20170606T101207Z">
+        <seg>フォーカスがプレイヤー全体を飛ばしてしまったら、ゲームオーバーです。</seg>
       </tuv>
     </tu>
     <tu>
