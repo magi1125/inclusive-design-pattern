@@ -2068,11 +2068,13 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「ストリーミングできる」は違和感があったので調整。</note>
       <tuv lang="EN-US">
         <seg>But captions are only available if the video itself can be downloaded or streamed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170606T101136Z" creationid="yoota" creationdate="20170606T101136Z">
-        <seg>しかし、キャプションはビデオそのものをダウンロードまたはストリーミングできる場合にしか利用できません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170609T082207Z" creationid="yoota" creationdate="20170606T101136Z">
+        <seg>しかし、キャプションはビデオそのものがダウンロードできるか、またはストリーミング再生できる場合にしか利用できません。</seg>
       </tuv>
     </tu>
     <tu>
