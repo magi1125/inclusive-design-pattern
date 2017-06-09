@@ -5251,11 +5251,12 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 命令系なので「確認してください」くらいか。</note>
       <tuv lang="EN-US">
         <seg>Make sure the video player is keyboard and screen reader accessible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170606T101157Z" creationid="yoota" creationdate="20170606T101157Z">
-        <seg>ビデオプレイヤーがキーボードおよびスクリーンリーダーでアクセスできることを確認します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170609T083054Z" creationid="yoota" creationdate="20170606T101157Z">
+        <seg>ビデオプレイヤーがキーボードおよびスクリーンリーダーでアクセスできることを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
