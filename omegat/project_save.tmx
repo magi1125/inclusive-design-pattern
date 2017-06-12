@@ -665,12 +665,14 @@ strategyを「方策」としているのは少し大げさかもしれません
     <tu>
       <note>(太田)
 exclusivelyの訳を検討。
-「Firefoxだけを立ち上げて」としてみました。</note>
+「Firefoxだけを立ち上げて」としてみました。
+
+括弧内も良く分からなかったので「NVDAとの互換性がもっとも高いため」としてみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Run it with Firefox exclusively (for maximum compatibility).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170612T072725Z" creationid="yoota" creationdate="20170606T101853Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;Firefoxだけを立ち上げて実行する（互換性を最大にするため）</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170612T104647Z" creationid="yoota" creationdate="20170606T101853Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Firefoxだけを立ち上げて実行する（NVDAとの互換性がもっとも高いため）</seg>
       </tuv>
     </tu>
     <tu>
