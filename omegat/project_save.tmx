@@ -5071,12 +5071,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) キーボードサポートをテスト→「キーボードが使えるかどうかをテスト」としました。</note>
+      <note>(太田) キーボードサポートをテスト→「キーボードが使えるかどうかをテスト」としました。
+「タブを移動」→「タブ移動」としました。
+全体が命令形なので、文末を「ください」としました。</note>
       <tuv lang="EN-US">
         <seg>Just tab to the controls as you would when testing keyboard support and listen for aural feedback.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170612T105028Z" creationid="yoota" creationdate="20170606T103526Z">
-        <seg>キーボードが使えるかどうかをテストするときは、ただコントロールにタブを移動し、音声フィードバックを聞きます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170612T105146Z" creationid="yoota" creationdate="20170606T103526Z">
+        <seg>キーボードが使えるかどうかをテストするときは、単にコントロールにタブ移動して、音声のフィードバックを聞いてください。</seg>
       </tuv>
     </tu>
     <tu>
