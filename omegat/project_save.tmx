@@ -6722,7 +6722,7 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       <note>(太田)
 元訳やや誤訳っぽいかと。
 the various player controls は、そのプレイヤーを構成するさまざまなコントロール、というような意味かと思います。プレイヤー側でフォーカススタイルを消していても、HTMLとCSSで実装されているならコンテンツ側のCSSで上書きできるという話だと思います。
-
+yourを「コンテンツ側で」として補いました。
 原文強調のownは「独自の」としてみました。</note>
       <tuv lang="EN-US">
         <seg>That said, if the various player controls are implemented in HTML and CSS and you can provide your &lt;g1&gt;own&lt;/g1&gt; focus styles, the player may be salvageable.</seg>
