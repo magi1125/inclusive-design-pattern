@@ -12,8 +12,8 @@
 
 >Authors must not include more than one main element in a document. 
 
-これによれば、コンテンツ制作者は一つのドキュメント内で複数のmain要素を使ってはならないということになります。
-しかし、WHATWGのHTML Living Standardには該当の記述はありません。その後、W3Cのドキュメントでも、2016年3月10日のHTML5.1の草案から該当部分が削除されています。
+これによれば、コンテンツ制作者は一つのドキュメント内で複数のmain要素を使ってはならないということになります。しかし、WHATWGのHTML Living Standardには該当の記述はありません。その後、W3Cのドキュメントでも、2016年3月10日のHTML5.1の草案から該当部分が削除されています。
+なお、WAI-ARIA1.1では「コンテンツ制作者はdocumentやapplicationの中で複数の要素にmainロールをマーク付けすべきではない」という主旨のことが書かれています。これらを総合すると、複数のmainは望ましくないが、禁止まではされてはいない、ということになります。
 
 参考:
 HTML5 W3C Recommendation 28 October 2014 - 4.4.14 The main element
@@ -21,6 +21,9 @@ http://www.w3.org/TR/2014/REC-html5-20141028/grouping-content.html#the-main-elem
 
 HTML5.1 W3C Working Draft, 10 March 2016 - 4.4.14 The main element
 http://www.w3.org/TR/2016/WD-html51-20160310/grouping-content.html#the-main-element
+
+Accessible Rich Internet Applications (WAI-ARIA) 1.1 - 5.4 Definition of Roles
+http://www.w3.org/TR/wai-aria-1.1/#main
 
 
 
