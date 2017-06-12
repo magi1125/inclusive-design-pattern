@@ -6720,12 +6720,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
     </tu>
     <tu>
       <note>(太田)
-要検討。</note>
+要検討。
+
+原文強調のownは「独自の」としてみました。</note>
       <tuv lang="EN-US">
         <seg>That said, if the various player controls are implemented in HTML and CSS and you can provide your &lt;g1&gt;own&lt;/g1&gt; focus styles, the player may be salvageable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170606T101722Z" creationid="yoota" creationdate="20170606T101534Z">
-        <seg>とはいえ、さまざまなプレイヤーコントロールがHTMLとCSSに実装されていて、自分なりのフォーカススタイルを提供できれば、そのプレイヤーは救いようがあるかもしれません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170612T072235Z" creationid="yoota" creationdate="20170606T101534Z">
+        <seg>とはいえ、さまざまなプレイヤーコントロールがHTMLとCSSに実装されていて、&lt;/g1&gt;独自の&lt;g1&gt;フォーカススタイルを提供できれば、そのプレイヤーは救いようがあるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
