@@ -478,8 +478,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Background/incidental sound</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T053557Z" creationid="yoota" creationdate="20170613T051340Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;背景音／突発的な音</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T074704Z" creationid="yoota" creationdate="20170613T051340Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;背景音／突発的な物音</seg>
       </tuv>
     </tu>
     <tu>
@@ -5898,12 +5898,12 @@ the buttonを「このボタン」としました。
       <note>(太田)
 noiseは雑音で良いか?
 「物音」としてみました。
-</note>
+ここのcapsはキャプションではなく大文字のほうですね。</note>
       <tuv lang="EN-US">
         <seg>Often, the description of such a noise is both in caps and bookended by &lt;g1&gt;[&lt;/g1&gt; and &lt;g2&gt;]&lt;/g2&gt; (square brackets).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T074646Z" creationid="yoota" creationdate="20170613T074615Z">
-        <seg>多くの場合、このような物音の説明はキャプションと[ ]（角括弧）で囲むことによって示されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T074821Z" creationid="yoota" creationdate="20170613T074615Z">
+        <seg>多くの場合、このような物音の説明は大文字の表記を[ ]（角括弧）で囲むことによって示されます。</seg>
       </tuv>
     </tu>
     <tu>
