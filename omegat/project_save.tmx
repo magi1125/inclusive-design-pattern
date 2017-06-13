@@ -5685,6 +5685,17 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+Note を訳出したほうが良いかも。
+</note>
+      <tuv lang="EN-US">
+        <seg>Note that the name is not needed for the second caption as the speaker has not changed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T070044Z" creationid="yoota" creationdate="20170613T070044Z">
+        <seg>話し手が変わっていないため、2番目のキャプションには名前は不要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Note that unlike &lt;g1&gt;text-decoration: underline;&lt;/g1&gt;, this underline is adjustable.</seg>
@@ -8121,7 +8132,7 @@ out of sight は「非表示」とされていましたが、文字通り「視�
     </tu>
     <tu>
       <note>(太田)
-OKだがやや硬いかも。</note>
+OKですがやや硬いかも。</note>
       <tuv lang="EN-US">
         <seg>This is not the &lt;g1&gt;only&lt;/g1&gt; way to identify speakers, but whatever convention you use, make sure it is consistent.</seg>
       </tuv>
