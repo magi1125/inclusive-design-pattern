@@ -5908,7 +5908,7 @@ noiseは雑音で良いか?→「物音」としてみました。
 ここのcapsはcaptionの略ではなくcapital letterのほうですね。大文字で書いて括弧でくくるといっています。
 動詞bookendはブックエンドするというような意味ですが、辞書を見ると
 To come before and after, or at both sides of. 
-とあって「囲む」というより「前後/左右を何かで挟む」というニュアンスのようです。おそらくですがキャプション長い場合に [ と ]  が同じ画面に出現せずに [foo... / ...bar] のように分割されるケースもあることを頭に置いているのではないかと思います。ひとまず「挟む」としてみました</note>
+とあって「囲む」というより「前後/左右に何かを置く」というニュアンスのようです。おそらくですがキャプション長い場合に [ と ]  が同じ画面に出現せずに [foo... / ...bar] のように分割されるケースもあることを頭に置いているのではないかと思います。ひとまず「挟む」としてみました</note>
       <tuv lang="EN-US">
         <seg>Often, the description of such a noise is both in caps and bookended by &lt;g1&gt;[&lt;/g1&gt; and &lt;g2&gt;]&lt;/g2&gt; (square brackets).</seg>
       </tuv>
