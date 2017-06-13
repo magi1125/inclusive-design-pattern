@@ -8987,6 +8987,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>You can manually &lt;g1&gt;&lt;g2&gt;add caption files to HTML5 &lt;g3&gt;&lt;video&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;25&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; using a &lt;g7&gt;&lt;g8&gt;WebVTT file&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;26&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; as the &lt;g12&gt;src&lt;/g12&gt; of a &lt;g13&gt;&lt;track&gt;&lt;/g13&gt; element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T030923Z" creationid="yoota" creationdate="20170613T030923Z">
+        <seg>&lt;g7&gt;&lt;g8&gt;WebVTTファイル&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注59）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;を&lt;track&gt;要素のsrcにすることで、HTML5 &lt;video&gt;（脚注58）に手動でキャプションファイルを追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>You can replace these default styles, but you should &lt;g2&gt;never&lt;/g2&gt; just remove them.</seg>
