@@ -2391,13 +2391,13 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
     <tu>
       <note>(太田)
 「ビデオ自体には埋め込まれていないキャプション」が日本語としてやや違和感あり (じゃあどこに埋め込まれているの? と感じます)。
-
+全体調整しつつ、2文に分けてみました。
 </note>
       <tuv lang="EN-US">
         <seg>Closed captions are captions which exist in a separate, associated file and can be switched on or off by the user, rather than being embedded into the video itself.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T022127Z" creationid="yoota" creationdate="20170613T022127Z">
-        <seg>クローズドキャプションは、ビデオ自体には埋め込まれていないキャプション（字幕）で、関連付けられた別のファイルに存在しており、ユーザーがオンとオフを切り替えることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T030722Z" creationid="yoota" creationdate="20170613T022127Z">
+        <seg>クローズドキャプションは、ビデオとは別個のファイルに書かれ、ビデオに関連付けられたキャプション（字幕）です。ビデオ自体に埋め込まれているわけではないため、ユーザーがオンとオフを切り替えることができます。</seg>
       </tuv>
     </tu>
     <tu>
