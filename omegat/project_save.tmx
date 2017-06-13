@@ -4358,6 +4358,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
     <tu>
       <note>画像alt
 
+</note>
+      <tuv lang="EN-US">
+        <seg>In the first frame the left speaker is identified in the caption using an all-caps name followed by a colon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>画像alt
+
 (伊原) 下訳を反映
 
 (岡本) 1つ目→1つめ</note>
@@ -8499,6 +8507,9 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <note>画像alt
+他の場所の訳文が勝手に反映されているっぽい。
+</note>
       <tuv lang="EN-US">
         <seg>Two frames.</seg>
       </tuv>
