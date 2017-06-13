@@ -474,12 +474,12 @@ OK
       <note>(太田)
 偶発的?
 この incidental sound は、たとえば「(ガラスが割れた音)」のような字幕がつくタイプの音を指しているはずで、かならずしも偶発的ではないと思います。日本語にすることを放棄すれば「インシデント的な音」と言えると思いますが、日本語でどういうべきか。
-</note>
+突発的?</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Background/incidental sound</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T051340Z" creationid="yoota" creationdate="20170613T051340Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;背景音／偶発的な音</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T053557Z" creationid="yoota" creationdate="20170613T051340Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;背景音／突発的な音</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,6 +494,9 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+OK
+「話者」or「話し手」は後者で統一されている模様。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Changes of speaker</seg>
       </tuv>
