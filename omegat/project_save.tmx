@@ -164,6 +164,14 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;37.&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip.html&lt;/g3&gt;&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T075142Z" creationid="yoota" creationdate="20170613T075142Z">
+        <seg>n&lt;g1&gt;37.&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip.html&lt;/g3&gt;&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ヘイドンジョークの life is too short をどうするのか。いったん元訳をそのまま反映しています。
 
 (伊原) LGTM. ジョークの意味があまりわかっていません。</note>
@@ -5902,8 +5910,8 @@ noiseは雑音で良いか?→「物音」としてみました。
       <tuv lang="EN-US">
         <seg>Often, the description of such a noise is both in caps and bookended by &lt;g1&gt;[&lt;/g1&gt; and &lt;g2&gt;]&lt;/g2&gt; (square brackets).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T075115Z" creationid="yoota" creationdate="20170613T074615Z">
-        <seg>多くの場合、このような物音の説明は、大文字で表記するとともに &lt;g1&gt;[&lt;/g1&gt;と&lt;g2&gt;]&lt;/g2&gt;（角括弧）で囲んで示します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T075151Z" creationid="yoota" creationdate="20170613T074615Z">
+        <seg>多くの場合、このような物音の説明は、大文字で表記するとともに &lt;g1&gt;[&lt;/g1&gt;と&lt;g2&gt;]&lt;/g2&gt;（角括弧）で囲みます。</seg>
       </tuv>
     </tu>
     <tu>
