@@ -2146,11 +2146,14 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+composeは作成でいいのか。
+</note>
       <tuv lang="EN-US">
         <seg>But the easiest way (that I’m aware of) to &lt;g14&gt;compose&lt;/g14&gt; closed captions is to use YouTube’s intuitive GUI, for which Google offers &lt;g15&gt;&lt;g16&gt;a help page&lt;/g16&gt;&lt;/g15&gt;&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;27&lt;/g19&gt;&lt;/g18&gt;&lt;/g17&gt; to get you started.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T032327Z" creationid="yoota" creationdate="20170613T032327Z">
-        <seg>しかし、クローズドキャプションを作成する最も簡単である（と私が感じている）方法は、YouTubeの直感的なGUIを使用することです。Googleが、その使い方を説明したヘルプページ（脚注60）を提供しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T032427Z" creationid="yoota" creationdate="20170613T032327Z">
+        <seg>しかし、クローズドキャプションを作成する最も簡単な（と私が考えている）方法は、YouTubeの直感的なGUIを使用することです。Googleが、その使い方を説明したヘルプページ（脚注60）を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9000,8 +9003,8 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       <tuv lang="EN-US">
         <seg>You can manually &lt;g1&gt;&lt;g2&gt;add caption files to HTML5 &lt;g3&gt;&lt;video&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;25&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; using a &lt;g7&gt;&lt;g8&gt;WebVTT file&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;26&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; as the &lt;g12&gt;src&lt;/g12&gt; of a &lt;g13&gt;&lt;track&gt;&lt;/g13&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T032316Z" creationid="yoota" creationdate="20170613T030923Z">
-        <seg>手動で&lt;g1&gt;&lt;g2&gt;HTML5の&lt;g3&gt;&lt;video&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注58）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;にキャプションファイルを追加したい場合は、&lt;g13&gt;&lt;track&gt;&lt;/g13&gt;要素の&lt;g12&gt;src&lt;/g12&gt;属性で&lt;g7&gt;&lt;g8&gt;WebVTTファイル&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注59）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;を指定します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T032338Z" creationid="yoota" creationdate="20170613T030923Z">
+        <seg>手動で&lt;g1&gt;&lt;g2&gt;HTML5の&lt;g3&gt;&lt;video&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注58）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;にキャプションファイルを追加したい場合、&lt;g13&gt;&lt;track&gt;&lt;/g13&gt;要素の&lt;g12&gt;src&lt;/g12&gt;属性で&lt;g7&gt;&lt;g8&gt;WebVTTファイル&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注59）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;を指定します。</seg>
       </tuv>
     </tu>
     <tu>
