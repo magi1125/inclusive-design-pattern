@@ -2146,6 +2146,14 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>But the easiest way (that I’m aware of) to &lt;g14&gt;compose&lt;/g14&gt; closed captions is to use YouTube’s intuitive GUI, for which Google offers &lt;g15&gt;&lt;g16&gt;a help page&lt;/g16&gt;&lt;/g15&gt;&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;27&lt;/g19&gt;&lt;/g18&gt;&lt;/g17&gt; to get you started.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T032327Z" creationid="yoota" creationdate="20170613T032327Z">
+        <seg>しかし、クローズドキャプションを作成する最も簡単である（と私が感じている）方法は、YouTubeの直感的なGUIを使用することです。Googleが、その使い方を説明したヘルプページ（脚注60）を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) べつに崩れるわけではないはずです。直訳すると「厳密にしようとすることは無駄だ」と言っています。要素を横に並べようとしても環境によっては横に並ばないかもしれないし、ピクセルパーフェクトを求めても仕方ないということでしょう。
 
 (伊原) LGTM</note>
