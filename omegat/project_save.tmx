@@ -5906,12 +5906,14 @@ the buttonを「このボタン」としました。
       <note>(太田)
 noiseは雑音で良いか?→「物音」としてみました。
 ここのcapsはcaptionの略ではなくcapital letterのほうですね。大文字で書いて括弧でくくるといっています。
+動詞bookendはブックエンドではさむというような意味で、おそらくですがキャプション長い場合に [ と ]  が同じ画面に出現せずに [foo... / ...bar] のように分割されるケースもあることを頭に置いているのではないかと思います。
+ひとまず「挟む」としてみました
 </note>
       <tuv lang="EN-US">
         <seg>Often, the description of such a noise is both in caps and bookended by &lt;g1&gt;[&lt;/g1&gt; and &lt;g2&gt;]&lt;/g2&gt; (square brackets).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T075151Z" creationid="yoota" creationdate="20170613T074615Z">
-        <seg>多くの場合、このような物音の説明は、大文字で表記するとともに &lt;g1&gt;[&lt;/g1&gt;と&lt;g2&gt;]&lt;/g2&gt;（角括弧）で囲みます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170613T075438Z" creationid="yoota" creationdate="20170613T074615Z">
+        <seg>多くの場合、このような物音の説明は、大文字で表記するとともに &lt;g1&gt;[&lt;/g1&gt;と&lt;g2&gt;]&lt;/g2&gt;（角括弧）で挟みます。</seg>
       </tuv>
     </tu>
     <tu>
