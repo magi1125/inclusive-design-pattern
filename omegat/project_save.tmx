@@ -3267,6 +3267,14 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Grouping and Separation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T101812Z" creationid="yoota" creationdate="20170614T101812Z">
+        <seg>グループ化と分離</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) document-level とは何か。ぱっと見、従うべきドキュメントがある (WCAGのような文書を指す) という話のようにも読めますが、ここの章のタイトルが "the document" であることを考えると、ドキュメント全体が従うべきベストプラクティスがあるといっているように思えます。この文全体として、「HTMLページの中身は好きに作っても良いが、ドキュメント全体が従うべき慣習がある」と言っているのではないでしょうか。
 
 (伊原) はい、そのように思います。</note>
@@ -3653,8 +3661,8 @@ a element ではなく elements であることに意味があるように思い
       <tuv lang="EN-US">
         <seg>If instead we applied margin directly to elements, there would be the danger of it doubling up with the padding of containers:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T101736Z" creationid="yoota" creationdate="20170614T100622Z">
-        <seg>要素に直接マージンを適用してしまうと、コンテナのパディングと重複してしまう危険があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T101808Z" creationid="yoota" creationdate="20170614T100622Z">
+        <seg>それぞれの要素に直接マージンを適用してしまうと、コンテナのパディングと重複してしまう危険があります。</seg>
       </tuv>
     </tu>
     <tu>
