@@ -9010,7 +9010,7 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
 パラグラフは段落?
 
 flow elements は気持ち的には「ブロック要素」のことなのかも。
-「コーディングWebアクセシビリティ」でも訳注を付けましたが、HTML5にはブロック要素の概念がなくなり、フロー要素というくくりがありますが、これは従前のブロック要素よりも広い概念です。
+「コーディングWebアクセシビリティ」でも訳注を付けましたが、HTML5ではブロック要素の概念がなくなりました。フロー要素というくくりがありますが、これは従前のブロック要素よりも広い概念です。
 https://html.spec.whatwg.org/multipage/dom.html#flow-content</note>
       <tuv lang="EN-US">
         <seg>Unlike a grid system, a flow system deals with the relations between flow elements which appear one after another in a single column — headings, paragraphs, lists, images, videos, and so on.</seg>
