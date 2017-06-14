@@ -8588,8 +8588,8 @@ toughは「難しい」でいいのか。「大変」としてみました。
       <tuv lang="EN-US">
         <seg>Though a strict &lt;g1&gt;&lt;g2&gt;vertical rhythm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;31&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; is notoriously tough to establish and maintain, it’s good practice to at least use your paragraph line height as a basis for vertical spacing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T095659Z" creationid="yoota" creationdate="20170614T082537Z">
-        <seg>厳密な&lt;g1&gt;&lt;g2&gt;バーティカルリズム&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注64）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を確立して運用するのは大変なこととして有名ですが、ひとまずは段落の行の高さを縦の間隔の基準として使用するのが良いでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T095711Z" creationid="yoota" creationdate="20170614T082537Z">
+        <seg>厳密な&lt;g1&gt;&lt;g2&gt;バーティカルリズム&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注64）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を確立して運用するのは大変なこととして知られていますが、ひとまずは段落の行の高さを縦の間隔の基準として使用するのが良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8703,6 +8703,16 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170522T100446Z" creationid="yoota" creationdate="20170522T100446Z">
         <seg>記事内にサブセクションを作成するには、&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt;を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+何を言っているのか。</note>
+      <tuv lang="EN-US">
+        <seg>To enforce a regularity independent of the flow elements incorporated in the editor’s WYSIWYG or Markdown editor, this basic spacing should be applied generally, with just a few exceptions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T095756Z" creationid="yoota" creationdate="20170614T095756Z">
+        <seg>編集者のWYSIWYGエディタまたはMarkdownエディタに組み込まれたフロー要素に関係なく規則的にするために、少数の例外を除き、この基本の間隔を全体に適用します。</seg>
       </tuv>
     </tu>
     <tu>
