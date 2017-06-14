@@ -8790,7 +8790,6 @@ shouldなので「しなければならない」は強すぎるかもしれな�
     <tu>
       <note>(太田)
 とてもわかりにくいですね。
-規則性を強制すると言っているのでそういう感じにしたい。
 多少調整してみましたがわかりにくさが否めないのでもう少し練りたいところ。</note>
       <tuv lang="EN-US">
         <seg>To enforce a regularity independent of the flow elements incorporated in the editor’s WYSIWYG or Markdown editor, this basic spacing should be applied generally, with just a few exceptions.</seg>
@@ -9004,7 +9003,9 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※要訳注?
+
+(太田)
 誤訳っぽい印象。
 「1カラムで扱います」というのが主眼になるはず。
 パラグラフは段落?
@@ -9012,6 +9013,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
 flow elements はいわゆる「ブロック要素」のことなのかも。「コーディングWebアクセシビリティ」では以下のような訳注を書きました。
 
 &gt;実際には内容モデルのフロー（flow）という分類は非常に幅広く、フレーズやセクションに属する要素は同時にフローにも属していますが、上図のフローは主に`&lt;p&gt;`、`&lt;div&gt;`などのブロックレベル要素を指しています。HTML5ではブロックという分類がなくなり、これらの要素をひとことで言い表すことが難しくなってしまいました。
+
+ヘイドンさんのイメージするフロー要素について訳注が必要かもしれません。
 </note>
       <tuv lang="EN-US">
         <seg>Unlike a grid system, a flow system deals with the relations between flow elements which appear one after another in a single column — headings, paragraphs, lists, images, videos, and so on.</seg>
