@@ -3647,12 +3647,14 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
       <note>(太田)
 「コンテナ」は他でも「コンテナ」表記なのでママで。
 「二重になる」は分かりそうな、そうでもないような。「重なってくれない」という話なのでやや語弊があるかもしれません。「重複してしまう」とか、やや砕けた感じにはなり毎が「ダブってしまう」とかでも良いような。
+
+a element ではなく elements なので「それぞれの要素に」としました。
 </note>
       <tuv lang="EN-US">
         <seg>If instead we applied margin directly to elements, there would be the danger of it doubling up with the padding of containers:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T101349Z" creationid="yoota" creationdate="20170614T100622Z">
-        <seg>マージンを要素に直接適用してしまうと、コンテナのパディングと重複してしまう危険があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T101736Z" creationid="yoota" creationdate="20170614T100622Z">
+        <seg>要素に直接マージンを適用してしまうと、コンテナのパディングと重複してしまう危険があります。</seg>
       </tuv>
     </tu>
     <tu>
