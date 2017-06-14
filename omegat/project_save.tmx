@@ -8833,7 +8833,8 @@ shouldなので「しなければならない」は強すぎるかもしれな�
     <tu>
       <note>(太田)
 とてもわかりにくいですね。
-多少調整してみましたがわかりにくさが否めないのでもう少し練りたいところ。</note>
+多少調整してみましたがわかりにくさが否めないのでもう少し練りたいところ。
+後のほうを読むと、WYSIWYGエディタが空の&lt;p&gt;&lt;/p&gt;を吐いてもマージンが空いたりしないようにする話と思われます。</note>
       <tuv lang="EN-US">
         <seg>To enforce a regularity independent of the flow elements incorporated in the editor’s WYSIWYG or Markdown editor, this basic spacing should be applied generally, with just a few exceptions.</seg>
       </tuv>
