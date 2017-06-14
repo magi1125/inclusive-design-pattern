@@ -2041,6 +2041,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>BARMAN (out of shot): “Sorry about that!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T030349Z" creationid="yoota" creationdate="20170614T030349Z">
+        <seg>BARMAN（ショット外）：「失礼しました！」</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 直訳「悪い犬」。「悪いやつですね!」くらいでしょうか。
 
 (伊原) LGTM</note>
@@ -5371,7 +5379,10 @@ OK
 ※キャプション中の人名を訳すかどうか問題とは?
 キャプションの例で登場するSimonとRupertですが、地の文では「サイモン」「ルパート」と訳されています。とすると、キャプションの事例中でも「サイモン」「ルパート」としたほうが良さそうに思えます。
 しかし、キャプション中では人名は大文字で書くと説明されていて、実際キャプションの例の中では大文字で書かれています。これを訳すと大文字で書かれているということが例示できなくなってしまいます。
-現状はキャプション中の人名は英語大文字表記、文中では初出時に「サイモン(Simon)」のように表記して、以降は単に「サイモン」で通しています。</note>
+
+現状はキャプション中の人名は英語大文字表記、文中では初出時に「サイモン(Simon)」のように表記して、以降は単に「サイモン」で通しています。
+もちろん日本語でキャプションを書くときは大文字にはしないので、割り切って日本語にしてしまうのもありかとは思います。
+</note>
       <tuv lang="EN-US">
         <seg>Let’s say our video involves two men called Simon and Rupert.</seg>
       </tuv>
@@ -9545,6 +9556,14 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T101211Z" creationid="yoota" creationdate="20170425T100316Z">
         <seg>ズームを再び機能させるには、ビューポートの単位の値にemベースの値を加算するという方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[GLASS BREAKING]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T030331Z" creationid="yoota" creationdate="20170614T030331Z">
+        <seg>[グラスの割れる音]</seg>
       </tuv>
     </tu>
     <tu>
