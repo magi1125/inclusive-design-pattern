@@ -3633,8 +3633,8 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
       <tuv lang="EN-US">
         <seg>If instead we applied margin directly to elements, there would be the danger of it doubling up with the padding of containers:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T100622Z" creationid="yoota" creationdate="20170614T100622Z">
-        <seg>代わりに余白を要素に直接適用した場合、コンテナのパディングと二重になる危険があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T101148Z" creationid="yoota" creationdate="20170614T100622Z">
+        <seg>もしマージンを要素に直接適用してしまうと、コンテナのパディングと二重になる危険があります。</seg>
       </tuv>
     </tu>
     <tu>
