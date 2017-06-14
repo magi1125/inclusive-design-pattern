@@ -8707,12 +8707,13 @@ shouldなので「しなければならない」は強すぎるかもしれな�
     </tu>
     <tu>
       <note>(太田)
-規則性を強制すると言っていますね。</note>
+とてもわかりにくいですね。
+規則性を強制すると言っているのでそういう感じにしたい。</note>
       <tuv lang="EN-US">
         <seg>To enforce a regularity independent of the flow elements incorporated in the editor’s WYSIWYG or Markdown editor, this basic spacing should be applied generally, with just a few exceptions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T095756Z" creationid="yoota" creationdate="20170614T095756Z">
-        <seg>編集者のWYSIWYGエディタまたはMarkdownエディタに組み込まれたフロー要素に関係なく規則的にするために、少数の例外を除き、この基本の間隔を全体に適用します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T100234Z" creationid="yoota" creationdate="20170614T095756Z">
+        <seg>編集者のWYSIWYGまたはMarkdownエディタに組み込まれているフロー要素とは独立した規則性を強制するためには、少数の例外を除き、この基本の間隔を全体に適用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
