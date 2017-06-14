@@ -112,6 +112,22 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+visible spaceは「見た目上のスペース」くらいでしょうか。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g10&gt;margin-top&lt;/g10&gt;&lt;g11&gt;:&lt;/g11&gt; 1.5rem&lt;g12&gt;;&lt;/g12&gt;
+&lt;g13&gt;}&lt;/g13&gt;
+
+&lt;g14&gt;/* visible space inside top of .container would now be 3em */&lt;/g14&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T101450Z" creationid="yoota" creationdate="20170614T101450Z">
+        <seg>&lt;g10&gt;margin-top&lt;/g10&gt;&lt;g11&gt;:&lt;/g11&gt; 1.5rem&lt;g12&gt;;&lt;/g12&gt;
+&lt;g13&gt;}&lt;/g13&gt;
+
+&lt;g14&gt;/* .container上部の見た目上のスペースは3remになります */&lt;/g14&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g10&gt;right&lt;/g10&gt;&lt;g11&gt;:&lt;/g11&gt; 100%&lt;g12&gt;;&lt;/g12&gt; &lt;g13&gt;/* moves off screen */&lt;/g13&gt;
 &lt;g14&gt;}&lt;/g14&gt;
@@ -3635,8 +3651,8 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
       <tuv lang="EN-US">
         <seg>If instead we applied margin directly to elements, there would be the danger of it doubling up with the padding of containers:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T101333Z" creationid="yoota" creationdate="20170614T100622Z">
-        <seg>もしマージンを要素に直接適用してしまうと、コンテナのパディングと重複してしまう危険があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T101349Z" creationid="yoota" creationdate="20170614T100622Z">
+        <seg>マージンを要素に直接適用してしまうと、コンテナのパディングと重複してしまう危険があります。</seg>
       </tuv>
     </tu>
     <tu>
