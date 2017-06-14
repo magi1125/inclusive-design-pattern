@@ -2304,8 +2304,9 @@ composeは作成でいいのか。あとで検討。
     </tu>
     <tu>
       <note>(太田)
-なにがsimilarなのか謎。この章のサブセクションのところにはサブセクションの見出しレベルに応じてフォントサイズを変える話が出ていて、ここではそれを前提とした話をしているけれども、べつにsimilarではないような。
-(familiarではあるかもしれない。)
+なにがsimilarなのか謎。この章のサブセクションのところにはサブセクションの見出しレベルに応じてフォントサイズを変える話が出ていますが、それとの類似点はないような。
+familiarではあるかもしれないので、ひょっとするとtypoの類かも。
+
 </note>
       <tuv lang="EN-US">
         <seg>By changing the unit of measurement from rem to em, we can achieve a similar effect for subsections of content within our blog: a margin set in em on a heading will be relative to its own font size.</seg>
