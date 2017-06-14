@@ -9009,9 +9009,10 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
 「1カラムで扱います」というのが主眼になるはず。
 パラグラフは段落?
 
-flow elements は気持ち的には「ブロック要素」のことなのかも。
-「コーディングWebアクセシビリティ」でも訳注を付けましたが、HTML5ではブロック要素の概念がなくなりました。フロー要素というくくりがありますが、これは従前のブロック要素よりも広い概念です。
-https://html.spec.whatwg.org/multipage/dom.html#flow-content</note>
+flow elements は気持ち的には「ブロック要素」のことなのかも。「コーディングWebアクセシビリティ」では以下のような訳注を書きました。
+
+&gt;実際には内容モデルのフロー（flow）という分類は非常に幅広く、フレーズやセクションに属する要素は同時にフローにも属していますが、上図のフローは主に`&lt;p&gt;`、`&lt;div&gt;`などのブロックレベル要素を指しています。HTML5ではブロックという分類がなくなり、これらの要素をひとことで言い表すことが難しくなってしまいました。
+</note>
       <tuv lang="EN-US">
         <seg>Unlike a grid system, a flow system deals with the relations between flow elements which appear one after another in a single column — headings, paragraphs, lists, images, videos, and so on.</seg>
       </tuv>
