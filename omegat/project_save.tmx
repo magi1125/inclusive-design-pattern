@@ -6777,6 +6777,14 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>So, if paragraphs have a &lt;g6&gt;line-height&lt;/g6&gt; of &lt;g7&gt;1.5&lt;/g7&gt;, one unit of vertical whitespace should be &lt;g8&gt;1.5em&lt;/g8&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T091216Z" creationid="yoota" creationdate="20170614T091216Z">
+        <seg>つまり、パラグラフのline-heightが1.5の場合、縦の空白の1単位を1.5remにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「別に」要検討。分離とかそのあたりか。
 
 (伊原) LGTM</note>
