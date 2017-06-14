@@ -1448,13 +1448,13 @@ Note を訳出しました。
     <tu>
       <note>(太田)
 「読みやすい要素の連続を生成」はかなり違和感あり。
-
+ processionは「行列」のような意味。
 </note>
       <tuv lang="EN-US">
         <seg>A good flow system produces a regular, well-spaced, readable procession of elements regardless of their order and combination.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T081109Z" creationid="yoota" creationdate="20170614T081109Z">
-        <seg>優れたフローシステムは、順序や組み合わせに関わらず、規則的で十分な間隔があり、読みやすい要素の連続を生成します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T091940Z" creationid="yoota" creationdate="20170614T081109Z">
+        <seg>優れたフローシステムは、要素の順序や組み合わせに関わらず、規則的で、十分な間隔があり、読みやすい要素の連続を生成します。</seg>
       </tuv>
     </tu>
     <tu>
