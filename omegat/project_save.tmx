@@ -2768,6 +2768,20 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+line-heightは原文の原稿では小文字なのですが、この見出しはh3であり、h3には h3{text-transform: uppercase;} というスタイルが適用されているので見た目上は大文字に見えています。
+小文字にしてしまって良いと思います。
+
+
+</note>
+      <tuv lang="EN-US">
+        <seg>Everything Divisible by &lt;g1&gt;line-height&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T082049Z" creationid="yoota" creationdate="20170614T082049Z">
+        <seg>すべては&lt;g1&gt;line-height&lt;/g1&gt;で分割できる</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Fairly difficult to read.</seg>
