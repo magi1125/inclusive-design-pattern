@@ -5907,6 +5907,14 @@ Note を訳出したほうが良いかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note the use of the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;owl selector&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;32&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;/g1&gt; in the first line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T100345Z" creationid="yoota" creationdate="20170614T100345Z">
+        <seg>最初の行で&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;owlセレクタ&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注65）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;/g1&gt;が使用されていることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 微妙に誤訳かも。「&lt;g2&gt;.visually-hidden&lt;/g2&gt;クラスを指定した&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;」としました。
 
