@@ -2069,11 +2069,13 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+上で「ショット」→「フレーム」としたのでこちらも「フレーム」に。</note>
       <tuv lang="EN-US">
         <seg>BARMAN (out of shot): “Sorry about that!”</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T030349Z" creationid="yoota" creationdate="20170614T030349Z">
-        <seg>BARMAN（ショット外）：「失礼しました！」</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T102237Z" creationid="yoota" creationdate="20170614T030349Z">
+        <seg>BARMAN（フレーム外）：「失礼しました！」</seg>
       </tuv>
     </tu>
     <tu>
@@ -7899,8 +7901,8 @@ separateは物理的に分割するイメージかも。
       <tuv lang="EN-US">
         <seg>The only substitution I have made, for clarity where there is no visual context, is that the barman is identified as being out of shot:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T024504Z" creationid="yoota" creationdate="20170614T024504Z">
-        <seg>ここで行った唯一の置き換えは、視覚的なコンテキストがない状態で明確に伝えるために、バーテンダーがショットの外側にいると示したことです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T102209Z" creationid="yoota" creationdate="20170614T024504Z">
+        <seg>ここで行った唯一の置き換えは、視覚的なコンテキストがない状態で明確に伝えるために、バーテンダーがフレームの外側にいると示したことです。</seg>
       </tuv>
     </tu>
     <tu>
