@@ -2295,6 +2295,17 @@ composeは作成でいいのか。あとで検討。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+
+</note>
+      <tuv lang="EN-US">
+        <seg>By changing the unit of measurement from rem to em, we can achieve a similar effect for subsections of content within our blog: a margin set in em on a heading will be relative to its own font size.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T103744Z" creationid="yoota" creationdate="20170614T103744Z">
+        <seg>サイズの単位をremからemに変更することで、ブログ内のコンテンツのサブセクションの場合と同じような効果を作成できます。つまり、emで設定した見出しの余白は、それ自体のフォントサイズと相対的になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 後ろの段落と語尾の表現を合わせました。
 
 (太田) あらためて見ると主語があいまいで「平均的なユーザーが書体を選ぶ」とも読める文になっているので、調整しました。 </note>
