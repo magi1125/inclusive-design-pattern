@@ -5364,6 +5364,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+OK
+カッコ内の表記は「キャプション中の人名を訳すかどうか問題」に関連して要検討。
+
+※キャプション中の人名を訳すかどうか問題とは?
+キャプションの例で登場するSimonとRupertですが、地の文では「サイモン」「ルパート」と訳されています。とすると、キャプションの事例中でも「サイモン」「ルパート」としたほうが良さそうに思えます。
+しかし、キャプション中では人名は大文字で書くと説明されていて、実際キャプションの例の中では大文字で書かれています。これを訳すと大文字で書かれているということが例示できなくなってしまいます。
+</note>
       <tuv lang="EN-US">
         <seg>Let’s say our video involves two men called Simon and Rupert.</seg>
       </tuv>
@@ -6254,6 +6262,14 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>RUPERT: “Well, actually—”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T025127Z" creationid="yoota" creationdate="20170614T025127Z">
+        <seg>ルパート: 「ええと、本当は…」</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 語順を調整。登場しました➞登場しはじめました。</note>
       <tuv lang="EN-US">
         <seg>Recently, products like &lt;g1&gt;&lt;g2&gt;Tenon&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;17&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; have begun to emerge: quality assurance tools focused on accessibility and inclusion.</seg>
@@ -6346,12 +6362,12 @@ OK</note>
     </tu>
     <tu>
       <note>(太田)
-SIMONは上で「サイモン」としていたのでここも訳すべきかと。</note>
+SIMONは上で「サイモン」としていたのでここも訳すべきかと思えますが、「キャプション中の人名を訳すかどうか問題」のためいったんママとしています。</note>
       <tuv lang="EN-US">
         <seg>SIMON: “Did you know the daddy long-legs spider is the most poisonous creature in the world?</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T024725Z" creationid="yoota" creationdate="20170614T024636Z">
-        <seg>サイモン: 「ユウレイグモが世界で一番強い毒を持つ生き物だって知っていた？</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T025341Z" creationid="yoota" creationdate="20170614T024636Z">
+        <seg>SIMON: 「ユウレイグモが世界で一番強い毒を持つ生き物だって知っていた？</seg>
       </tuv>
     </tu>
     <tu>
