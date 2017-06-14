@@ -6756,6 +6756,14 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Since heading text is larger than body text, this means the heading will appear closer to the content introduced below it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T104156Z" creationid="yoota" creationdate="20170614T104156Z">
+        <seg>見出しテキストは本体テキストよりも大きいため、見出しは下に続くコンテンツの方に近づいた見た目になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) accessibleを「使える」とされていましたが、力強く「アクセシブル」で良いかと思います。
 
 (伊原) LGTM</note>
