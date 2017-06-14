@@ -2599,7 +2599,7 @@ visual designはそのままビジュアルデザインでいいかも。
     </tu>
     <tu>
       <note>(太田)
-「現在」と言われると微妙ですね。上の例では、的なことではあります。</note>
+「現在」と言われると微妙ですね。ここまでの例では、的なことではあります。</note>
       <tuv lang="EN-US">
         <seg>Currently, every flow element is separated by the same 1.5em margin, with a few exceptions.</seg>
       </tuv>
@@ -5599,6 +5599,14 @@ manageは管理で良いような。</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T100447Z" creationid="yoota" creationdate="20170511T100328Z">
         <seg>リンクは、「はじめに」で触れた&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;要素と同様に、暗黙的にフォーカス可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List items (&lt;g1&gt;&lt;li&gt;&lt;/g1&gt;s) do not take margin at all and consequently look grouped together.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T102402Z" creationid="yoota" creationdate="20170614T102402Z">
+        <seg>リスト項目（&lt;g1&gt;&lt;li&gt;&lt;/g1&gt;）は余白をまったく取らないため、グループ化されているように見えます。</seg>
       </tuv>
     </tu>
     <tu>
