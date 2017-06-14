@@ -1026,7 +1026,7 @@ OK</note>
       <note>※要訳注
 
 (太田)
-このCSSはダメだと思います。これでは &lt;img/&gt; なども消えてしまうはずです。</note>
+このCSSには問題がありそうです。このセレクタでは &lt;img/&gt; なども見境なく消してしまいます。訳注かなと。</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;display&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; none&lt;g6&gt;;&lt;/g6&gt;
 &lt;g7&gt;}&lt;/g7&gt;&lt;/g1&gt;</seg>
