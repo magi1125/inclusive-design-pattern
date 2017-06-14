@@ -2301,8 +2301,8 @@ composeは作成でいいのか。あとで検討。
       <tuv lang="EN-US">
         <seg>By changing the unit of measurement from rem to em, we can achieve a similar effect for subsections of content within our blog: a margin set in em on a heading will be relative to its own font size.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T103744Z" creationid="yoota" creationdate="20170614T103744Z">
-        <seg>サイズの単位をremからemに変更することで、ブログ内のコンテンツのサブセクションの場合と同じような効果を作成できます。つまり、emで設定した見出しの余白は、それ自体のフォントサイズと相対的になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T103947Z" creationid="yoota" creationdate="20170614T103744Z">
+        <seg>&lt;サイズの単位をremからemに変更することで、ブログ内のコンテンツのサブセクションの場合と同じような効果を作成できます。つまり、emで設定した見出しの余白は、それ自体のフォントサイズと相対的になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7471,8 +7471,8 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       <tuv lang="EN-US">
         <seg>The &lt;g2&gt;2&lt;/g2&gt; in &lt;g3&gt;&lt;h2&gt;&lt;/g3&gt; says “two levels deep,” or “one down from the first level.” Visually, headings are conventionally differentiated by font size: the deeper the level, the smaller the &lt;g4&gt;font-size&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170525T074625Z" creationid="yoota" creationdate="20170522T100511Z">
-        <seg>&lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;の&lt;g2&gt;2&lt;/g2&gt;が意味しているのは、「レベル2の深さ」つまり「第1レベルからひとつ下がったレベル」ということです。視覚的には、見出しはフォントサイズで区別されるのが慣習となっており、レベルが深いほど &lt;g4&gt;font-size&lt;/g4&gt;は小さくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T103951Z" creationid="yoota" creationdate="20170522T100511Z">
+        <seg>&lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;の&lt;g2&gt;2&lt;/g2&gt;が意味しているのは、「レベル2の深さ」、つまり「第1レベルからひとつ下がったレベル」ということです。視覚的には、見出しはフォントサイズで区別されるのが慣習となっており、レベルが深いほど &lt;g4&gt;font-size&lt;/g4&gt;は小さくなります。</seg>
       </tuv>
     </tu>
     <tu>
