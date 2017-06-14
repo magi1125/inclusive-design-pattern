@@ -8352,8 +8352,8 @@ marginは「マージン」で良いかと。</note>
       <tuv lang="EN-US">
         <seg>This ensures that top margins only occur &lt;g7&gt;between&lt;/g7&gt; successive elements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T100406Z" creationid="yoota" creationdate="20170614T100406Z">
-        <seg>これにより、上余白は後続の要素との間にのみ発生します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T100431Z" creationid="yoota" creationdate="20170614T100406Z">
+        <seg>これにより、上マージンは後続の要素との&lt;g7&gt;間&lt;/g7&gt;にのみ発生します。</seg>
       </tuv>
     </tu>
     <tu>
