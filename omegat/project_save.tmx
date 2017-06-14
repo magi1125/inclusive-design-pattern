@@ -1446,6 +1446,10 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「読みやすい要素の連続を生成」はかなり違和感あり。
+
+</note>
       <tuv lang="EN-US">
         <seg>A good flow system produces a regular, well-spaced, readable procession of elements regardless of their order and combination.</seg>
       </tuv>
@@ -8912,8 +8916,8 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       <tuv lang="EN-US">
         <seg>Unlike a grid system, a flow system deals with the relations between flow elements which appear one after another in a single column — headings, paragraphs, lists, images, videos, and so on.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T091812Z" creationid="yoota" creationdate="20170614T080909Z">
-        <seg>グリッドシステムとは異なり、フローシステムでは、見出し、段落、リスト、画像、ビデオ、など次々に現れる要素どうしのの関係性を、ひとつのカラムだけで表現します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T091816Z" creationid="yoota" creationdate="20170614T080909Z">
+        <seg>グリッドシステムとは異なり、フローシステムでは、見出し、段落、リスト、画像、ビデオ、など次々に現れる要素どうしの関係性を、ひとつのカラムだけで表現します。</seg>
       </tuv>
     </tu>
     <tu>
