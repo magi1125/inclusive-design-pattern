@@ -8348,6 +8348,16 @@ percievedは「知覚される」としました。
     </tu>
     <tu>
       <note>(太田)
+marginは「マージン」で良いかと。</note>
+      <tuv lang="EN-US">
+        <seg>This ensures that top margins only occur &lt;g7&gt;between&lt;/g7&gt; successive elements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170614T100406Z" creationid="yoota" creationdate="20170614T100406Z">
+        <seg>これにより、上余白は後続の要素との間にのみ発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
 ここのfreedomはジョークというかちょっと洒落た皮肉というか……実際にはレイアウトの自由度はなくなっていて、レイアウトをいちいち考えずに済むのでどんどん書けるという話ですね。「(レイアウトの自由を捨てることで)好きなことをどんどん書けるという自由を得る」みたいな気の利いたっぽい言い回しなのだと思います。
 なのでもうちょっとかっこよく(?)訳したいところ。
 いったん「ただひたすら書くという自由が与えられる」としてみました。
