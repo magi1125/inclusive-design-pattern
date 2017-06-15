@@ -5986,8 +5986,8 @@ resulting inも落ちているような。「結果として」くらいでし�
       <tuv lang="EN-US">
         <seg>Note that the standard 1.5rem top margin of the element following will be superseded, resulting in a 3rem margin as prescribed both above and below the element in question.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170615T102534Z" creationid="yoota" creationdate="20170615T101506Z">
-        <seg>要素の標準である上マージン1.5remの指定が上書きされ、結果として、該当する要素の上下両方のマージンが3remと指定されることに注目してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170615T102840Z" creationid="yoota" creationdate="20170615T101506Z">
+        <seg>要素の標準である1.5remの上マージンは上書きされ、結果として、該当する要素の上下両方のマージンが指定どおりの3remとなることに注目してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8643,6 +8643,10 @@ CSSのcollapseは日本では「相殺」で通っているのでこれはママ
 </note>
       <tuv lang="EN-US">
         <seg>This is thanks to &lt;g1&gt;&lt;g2&gt;collapsing margin behavior&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;33&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170615T102550Z">
+        <seg>これは、マージンの相殺のおかげです。（脚注66）
+</seg>
       </tuv>
     </tu>
     <tu>
