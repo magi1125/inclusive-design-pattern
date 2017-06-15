@@ -7084,13 +7084,12 @@ impactは次の文に合わせて「効果」としました。
     <tu>
       <note>(太田)
 パラグラフ→段落
-
-</note>
+全体調整しました。</note>
       <tuv lang="EN-US">
         <seg>Successive paragraphs have less margin between them than paragraphs and other elements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170615T105451Z" creationid="yoota" creationdate="20170615T105409Z">
-        <seg>段落が連続すると、前後に他の要素が来たときと比べ、マージンが小さくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170615T105506Z" creationid="yoota" creationdate="20170615T105409Z">
+        <seg>段落が連続すると、前後に他の要素が来たときよりもマージンが小さくなります。</seg>
       </tuv>
     </tu>
     <tu>
