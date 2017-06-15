@@ -5982,12 +5982,13 @@ Note を訳出したほうが良いかも。
 Noteが落ちていますね。他に合わせて「注目してください」としました。
 supersedeはここでは上書きして置き換えるくらいの強めの意味のように思います。「上書きされ」としました。
 in questionも落ちているような。 the element in questionで「該当する要素」くらいですね。
-resulting inも落ちているような。「結果として」くらいでしょうか。</note>
+resulting inも落ちているような。「結果として」くらいでしょうか。
+なんかいろいろ分かりにくいので補いつつ全体を調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Note that the standard 1.5rem top margin of the element following will be superseded, resulting in a 3rem margin as prescribed both above and below the element in question.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170615T102840Z" creationid="yoota" creationdate="20170615T101506Z">
-        <seg>要素の標準である1.5remの上マージンは上書きされ、結果として、該当する要素の上下両方のマージンが指定どおりの3remとなることに注目してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170615T103118Z" creationid="yoota" creationdate="20170615T101506Z">
+        <seg>下に続く要素には標準の1.5remの上マージンがありますが、これは上書きされ、結果として、該当する要素の上下両方のマージンが指定どおりの3remとなることに注目してください。</seg>
       </tuv>
     </tu>
     <tu>
