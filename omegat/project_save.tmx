@@ -7082,6 +7082,18 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+パラグラフ→段落
+
+</note>
+      <tuv lang="EN-US">
+        <seg>Successive paragraphs have less margin between them than paragraphs and other elements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170615T105409Z" creationid="yoota" creationdate="20170615T105409Z">
+        <seg>段落が連続すると、パラグラフとその他の要素の間に比べて、間の余白が小さくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ユーザーの能力の問題でショートカットが使えないわけではなく、ショートカットの機能が提供されていないという話です。
 
 (伊原) LGTM
