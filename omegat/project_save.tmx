@@ -8641,12 +8641,13 @@ OKですがやや硬いかも。</note>
       <note>(太田)
 CSSのcollapseは日本では「相殺」で通っているのでこれはママで。
 (当時から個人的に違和感はあったのですが良い訳が思いつかなかった)
-</note>
+
+behaviorは「ふるまい」などですが、「ルール」としてみました。</note>
       <tuv lang="EN-US">
         <seg>This is thanks to &lt;g1&gt;&lt;g2&gt;collapsing margin behavior&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;33&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170615T102550Z">
-        <seg>これは、マージンの相殺のおかげです。（脚注66）
+      <tuv lang="JA" changeid="yoota" changedate="20170615T103231Z">
+        <seg>これは、&lt;g1&gt;&lt;g2&gt;マージンの相殺ルール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注66）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;のおかげです。
 </seg>
       </tuv>
     </tu>
