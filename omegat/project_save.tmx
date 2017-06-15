@@ -8977,11 +8977,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「パラグラフテキスト」とは? 段落のテキスト、ということですが意訳して「本文テキスト」としても良いかも。
+separateは分離ですが、ここでは物理的に(?)距離を空けるという意味。</note>
       <tuv lang="EN-US">
         <seg>To separate supplementary content such as blockquotes and illustrations from the paragraph text, you can apply a greater margin for anything that isn’t a &lt;g1&gt;&lt;p&gt;&lt;/g1&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170615T100620Z" creationid="yoota" creationdate="20170615T100620Z">
-        <seg>引用やイラストなどの補足的なコンテンツをパラグラフテキストから分離するには、以下のように&lt;p&gt;以外のすべてで余白を大きくします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170615T100809Z" creationid="yoota" creationdate="20170615T100620Z">
+        <seg>引用やイラストなどの補足的なコンテンツを本文テキストから分離するには、以下のように&lt;p&gt;以外のすべてで余白を大きくします。</seg>
       </tuv>
     </tu>
     <tu>
