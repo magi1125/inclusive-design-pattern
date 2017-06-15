@@ -5978,6 +5978,17 @@ Note を訳出したほうが良いかも。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+Noteが落ちていますね。
+</note>
+      <tuv lang="EN-US">
+        <seg>Note that the standard 1.5rem top margin of the element following will be superseded, resulting in a 3rem margin as prescribed both above and below the element in question.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170615T101506Z" creationid="yoota" creationdate="20170615T101506Z">
+        <seg>要素の標準の1.5remの上余白の代わりに、要素の上下両方で余白が所定の3remとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Note that unlike &lt;g1&gt;text-decoration: underline;&lt;/g1&gt;, this underline is adjustable.</seg>
