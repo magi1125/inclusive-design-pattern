@@ -4510,11 +4510,13 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ほとんどの環境で問題が出ると思うので「特定の環境」というのは違和感があります。環境によっては、くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>In some circumstances this can have an impact on the spacing and vertical rhythm of the rendered content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T015517Z" creationid="yoota" creationdate="20170616T015517Z">
-        <seg>特定の環境で、これは表示されるコンテンツの間隔やバーティカルリズムに影響することがあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T015631Z" creationid="yoota" creationdate="20170616T015517Z">
+        <seg>環境によっては、これがコンテンツの間隔やバーティカルリズムに影響することがあります。</seg>
       </tuv>
     </tu>
     <tu>
