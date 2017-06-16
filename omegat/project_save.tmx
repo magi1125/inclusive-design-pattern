@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9781,8 +9781,8 @@ raw HTMLは「生の」くらいでしょうか。Wiki記法やMarkdown記法で
       <tuv lang="EN-US">
         <seg>Where needed, most editors (like the &lt;g11&gt;&lt;g12&gt;Penflip&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;36&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt; editor used to write this book) also allow raw HTML input, meaning editors versed in HTML have the option to add more complex content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T114026Z" creationid="yoota" creationdate="20170616T021004Z">
-        <seg>ほとんどのエディタ（本書の執筆に使用した&lt;g11&gt;&lt;g12&gt;Penflip&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注69）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;もそうです）では、必要に応じて生のHTMLをそのまま書くこともできます。編集者がHTMLに詳しければ、複雑なコンテンツを追加することもできるということです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T114039Z" creationid="yoota" creationdate="20170616T021004Z">
+        <seg>ほとんどのエディタ（本書の執筆に使用した&lt;g11&gt;&lt;g12&gt;Penflip&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注69）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;もそうです）では、必要に応じて生のHTMLをそのまま書くこともできます。編集者がHTMLに詳しければ、複雑なコンテンツも追加できるということです。</seg>
       </tuv>
     </tu>
     <tu>
