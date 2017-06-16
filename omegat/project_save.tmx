@@ -751,7 +751,10 @@ strategyを「方策」としているのは少し大げさかもしれません
 exclusivelyの訳を検討。
 「Firefoxだけを立ち上げて」としてみました。
 
-括弧内も良く分からなかったので「NVDAとの互換性がもっとも高いため」としてみました。</note>
+括弧内も良く分からなかったので「NVDAとの互換性がもっとも高いため」としてみました。
+
+(伊原) OK、学びを得ました。
+http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Run it with Firefox exclusively (for maximum compatibility).</seg>
       </tuv>
@@ -854,12 +857,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
     </tu>
     <tu>
       <note>(太田)
-脚注の位置を調整。</note>
+脚注の位置を調整。
+
+(伊原) ビデオ紹介に違和感。単にビデオとしました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Watch &lt;g2&gt;&lt;g3&gt;this excellent video introduction from Deque Systems&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;19&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170606T101950Z" creationid="yoota" creationdate="20170606T101950Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;Deque Systemsのこの素晴らしいビデオ紹介&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注52）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を見る。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170616T004248Z" creationid="yoota" creationdate="20170606T101950Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;Deque Systemsのこの素晴らしいビデオ&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注52）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を見る。</seg>
       </tuv>
     </tu>
     <tu>
