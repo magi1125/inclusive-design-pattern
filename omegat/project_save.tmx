@@ -4379,6 +4379,14 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In lieu of training editorial staff to make the switch to structured content and to patch legacy WYSIWYG-based systems, a defensive strategy can help reduce headaches.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T021209Z" creationid="yoota" creationdate="20170616T021209Z">
+        <seg>編集スタッフに、構造化されたコンテンツへの切り替えや、レガシーなWYSIWYGベースのシステムにパッチを適用する方法を教育する代わりに、防御的な戦略をとれば、頭痛も和らぐでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) </note>
       <tuv lang="EN-US">
         <seg>In my CSS I can select any sections declared as French using the &lt;c0&gt;:lang&lt;/c0&gt; pseudo-class, applying a font well suited to the French character set, thereby improving legibility:</seg>
@@ -9065,6 +9073,14 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T022912Z" creationid="yoota" creationdate="20170512T065646Z">
         <seg>クライアントから依頼されたプロジェクトでは、贅沢に時間を掛ける余裕はない場合が多い ――時にはこの理由で、クライアントワークが打ち切られることもあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time spent fixing layout bugs when entering content is wasted time and contributes to a frustrating and alienating editorial experience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T021219Z" creationid="yoota" creationdate="20170616T021219Z">
+        <seg>コンテンツの入力時にレイアウトのバグを修正するのに費やす時間は無駄であり、編集体験をストレスのたまるとっつきにくいものにする原因となります。</seg>
       </tuv>
     </tu>
     <tu>
