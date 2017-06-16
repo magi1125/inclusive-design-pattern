@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4390,12 +4390,13 @@ it = トランスクリプトと補わないと分かりにくいかも。
 switch to structured content は、WYSWYGエディタの右上にある &lt;&gt; ボタンを押してHTMLを編集させるようなオペレーションを指しているのだと思います。
 つまり前半は、「編集スタッフを教育し、WYSYIGエディタのモードを切り替えてHTMLを編集するという運用をさせることによってレガシーシステムにパッチをあてて運用する」というようなことだと思います。
 
-いったん調整してみましたが長すぎるので2文に分けたほうがいいかも?</note>
+いったん調整してみましたが長すぎるので2文に分けたほうがいいかも?
+補いつつ2文にしてみましたが補いすぎか。どうでしょう。</note>
       <tuv lang="EN-US">
         <seg>In lieu of training editorial staff to make the switch to structured content and to patch legacy WYSIWYG-based systems, a defensive strategy can help reduce headaches.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T112951Z" creationid="yoota" creationdate="20170616T021209Z">
-        <seg>WYSIWYGエディタを構造化モードに切り替えて編集し、レガシーなWYSIWYGベースのシステムにパッチを当てるよう編集スタッフを教育するのは、頭の痛い問題です。そうする代わりに防御的な戦略をとれば、頭痛も和らぐでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T113017Z" creationid="yoota" creationdate="20170616T021209Z">
+        <seg>WYSIWYGエディタを構造化モードに切り替えて編集し、レガシーなWYSIWYGベースのシステムにパッチを当てるよう編集スタッフを教育するのは、頭の痛くなる問題です。そうする代わりに防御的な戦略をとれば、頭痛も和らぐでしょう。</seg>
       </tuv>
     </tu>
     <tu>
