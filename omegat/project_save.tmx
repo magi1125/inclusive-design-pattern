@@ -3213,7 +3213,9 @@ NVDA+F7で出るダイアログは日本語版では「要素リスト」とい�
     <tu>
       <note>(太田)
 or similarの訳は要検討。「音声」は違和感あり。「言葉」?
-「あるいは似たような別の言葉」としてみました。</note>
+「あるいは似たような別の言葉」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For instance, the play button should say “Play button” (or similar) when focused, or “Pause button” if the video is already playing.</seg>
       </tuv>
@@ -5499,7 +5501,9 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
     <tu>
       <note>(太田) キーボードサポートをテスト→「キーボードが使えるかどうかをテスト」としました。
 「タブを移動」→「タブ移動」としました。
-全体が命令形なので、文末を「ください」としました。</note>
+全体が命令形なので、文末を「ください」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Just tab to the controls as you would when testing keyboard support and listen for aural feedback.</seg>
       </tuv>
