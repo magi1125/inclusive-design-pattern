@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4355,11 +4355,20 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+訳としては正しいですが言いたいことが分かりにくいですね。
+ここでは、以下のような話の流れです。
+・WYSIWYGエディタを使うとソースコードにゴミが出るよ
+・一般論として、WYSIWYGを使わないでMarkdownなどを使う方法もあり、それができるならベストだよ
+・でも教育コストが高いよ
+・なのでWYSIWYGエディタを使わせつつ防衛的にやるといいよ
+
+</note>
       <tuv lang="EN-US">
         <seg>In general, it’s best to encourage the creation of semantic, well-structured content with a syntax like &lt;g1&gt;&lt;g2&gt;Markdown&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;34&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; or &lt;g6&gt;&lt;g7&gt;Textile&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;35&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T020841Z" creationid="yoota" creationdate="20170616T020535Z">
-        <seg>一般に、&lt;g1&gt;&lt;g2&gt;Markdown&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注67）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;や&lt;g6&gt;&lt;g7&gt;Textile&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注68）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;のような構文を使用して、セマンティックで十分に構造化されたコンテンツを作成することを推奨するのがベストです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T113513Z" creationid="yoota" creationdate="20170616T020535Z">
+        <seg>一般論としては、&lt;g1&gt;&lt;g2&gt;Markdown&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注67）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;や&lt;g6&gt;&lt;g7&gt;Textile&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注68）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;のような構文を使用して、セマンティックで十分に構造化されたコンテンツを作成することを推奨するのがベストではあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4396,8 +4405,8 @@ switch to structured content は、WYSWYGエディタの右上にある &lt;&gt;
       <tuv lang="EN-US">
         <seg>In lieu of training editorial staff to make the switch to structured content and to patch legacy WYSIWYG-based systems, a defensive strategy can help reduce headaches.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T113228Z" creationid="yoota" creationdate="20170616T021209Z">
-        <seg>WYSIWYGエディタを構造化モードに切り替えて、レガシーなWYSIWYGベースのシステムにパッチを当てるよう編集スタッフを教育するのは大変です。その代わりに防御的な戦略をとれば、頭痛も和らぐでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T113239Z" creationid="yoota" creationdate="20170616T021209Z">
+        <seg>WYSIWYGエディタを構造化モードに切り替えて、レガシーなWYSIWYGベースのシステムにパッチを当てるよう編集スタッフを教育するのは大変なことです。その代わりに防御的な戦略をとれば、頭痛も和らぐでしょう。</seg>
       </tuv>
     </tu>
     <tu>
