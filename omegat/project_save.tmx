@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8888,7 +8888,9 @@ out of sight は「非表示」とされていましたが、文字通り「視�
     </tu>
     <tu>
       <note>(太田)
-OKですがやや硬いかも。</note>
+OKですがやや硬いかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This is not the &lt;g1&gt;only&lt;/g1&gt; way to identify speakers, but whatever convention you use, make sure it is consistent.</seg>
       </tuv>
