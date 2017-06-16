@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1641,12 +1641,13 @@ divergeは分岐する、分かれる、それるの意味。
     </tu>
     <tu>
       <note>(太田) OK
-</note>
+
+(伊原) ビデオブログ記事というのがちょっと変な感じがしたので、「の」を足しました</note>
       <tuv lang="EN-US">
         <seg>A video blog post should feature the video prominently, but provide a transcript of the video underneath it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170606T101144Z" creationid="yoota" creationdate="20170606T101144Z">
-        <seg>ビデオブログ記事では、ビデオを目立つように表示すべきですが、その下にビデオのトランスクリプトを提供した方が良いでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170616T001536Z" creationid="yoota" creationdate="20170606T101144Z">
+        <seg>ビデオブログの記事ではビデオを目立つように表示すべきですが、その下にビデオのトランスクリプトを提供した方が良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3434,7 +3435,9 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
     </tu>
     <tu>
       <note>(太田)
-ポストは投稿?</note>
+ポストは投稿?
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Here are a few pointers on posting videos.</seg>
       </tuv>
