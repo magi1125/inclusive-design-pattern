@@ -4384,12 +4384,15 @@ it = トランスクリプトと補わないと分かりにくいかも。
     </tu>
     <tu>
       <note>(太田)
-「編集スタッフ」と「教育」が離れすぎていて読みにくいように感じました。</note>
+「編集スタッフ」と「教育」が離れすぎていて読みにくいように感じました。
+
+switch to structured content は、WYSWYGエディタの右上にある &lt;&gt; ボタンを押してHTMLほ編集させるようなオペレーションを指しているのだと思います。
+</note>
       <tuv lang="EN-US">
         <seg>In lieu of training editorial staff to make the switch to structured content and to patch legacy WYSIWYG-based systems, a defensive strategy can help reduce headaches.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T021209Z" creationid="yoota" creationdate="20170616T021209Z">
-        <seg>編集スタッフに、構造化されたコンテンツへの切り替えや、レガシーなWYSIWYGベースのシステムにパッチを適用する方法を教育する代わりに、防御的な戦略をとれば、頭痛も和らぐでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T111626Z" creationid="yoota" creationdate="20170616T021209Z">
+        <seg>編集スタッフを教育して構造化コンテンツへの切り替えや、レガシーなWYSIWYGベースのシステムにパッチを適用する方法を教育する代わりに、防御的な戦略をとれば、頭痛も和らぐでしょう。</seg>
       </tuv>
     </tu>
     <tu>
