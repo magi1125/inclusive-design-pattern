@@ -9462,6 +9462,15 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
+      <tuv lang="EN-US">
+        <seg>We can employ some defensive coding here to remove empty elements from the flow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T020150Z" creationid="yoota" creationdate="20170616T020150Z">
+        <seg>ここでは防御的なコーディングを採用して、フローから空の要素を取り除きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「標準化」→「見た目をそろえる」としました。
 
 (伊原) LGTM</note>
