@@ -7673,12 +7673,12 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
     <tu>
       <note>(太田)
 CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトルアキの意味に取られがちです。ここではトルツメの意味なので、「取り除く」などが良いでしょう。
-上の節で remove を取り除くと訳しているので、こちらは「除去」としてみました。</note>
+上の節で remove を「取り除く」と訳しているので、こちらは「除去」としてみました。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;display:none;&lt;/g1&gt; declaration eliminates the element’s layout, including any margins attributed to it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T020254Z" creationid="yoota" creationdate="20170616T020105Z">
-        <seg>&lt;g1&gt;display:none;&lt;/g1&gt;の宣言は、要素のレイアウト（それにより発生する余白を含む）を除去します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T020331Z" creationid="yoota" creationdate="20170616T020105Z">
+        <seg>&lt;g1&gt;display:none;&lt;/g1&gt;の宣言は、要素のレイアウトを、それにより発生する余白ごとを除去します。</seg>
       </tuv>
     </tu>
     <tu>
