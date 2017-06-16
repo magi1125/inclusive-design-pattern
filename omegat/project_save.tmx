@@ -7682,7 +7682,7 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
 上の節で remove を「取り除く」と訳しているので、こちらは「削除」としてみました。
 原文にない括弧を補って「（それにより発生する余白を含む）」とされていましたが、シンプルに「マージンも含めて」としてみました。
 
-なお、このには問題があり、このセレクタでは &lt;img/&gt; なども見境なく消してしまいます。CSSのコードの下に訳注を入れる想定です。訳注が必要かなと。</note>
+なお、ここで挙げられているCSSはインクルーシブすぎ、&lt;img/&gt; なども見境なく消してしまいます。CSSのコードの下に訳注を入れる想定です。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;display:none;&lt;/g1&gt; declaration eliminates the element’s layout, including any margins attributed to it.</seg>
       </tuv>
