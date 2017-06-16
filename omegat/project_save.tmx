@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4667,6 +4667,7 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
     <tu>
       <note>画像alt
 
+(岡本）キャプションでもありますね。下の方でキャプションを和訳していただいているようなので、これもお願いできればと思います。ただ、これまでキャプションとaltについては不徹底なので、初稿出たら改めて見直す必要があるかも。
 </note>
       <tuv lang="EN-US">
         <seg>In the first frame the left speaker is identified in the caption using an all-caps name followed by a colon.</seg>
