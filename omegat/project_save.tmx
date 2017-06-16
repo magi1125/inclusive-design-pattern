@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -536,12 +536,16 @@ OK
       <note>(太田)
 偶発的?
 この incidental sound は、たとえば「(ガラスが割れた音)」のような字幕がつくタイプの音を指しているはずで、かならずしも偶発的ではないと思います。日本語にすることを放棄すれば「インシデント的な音」と言えると思いますが、日本語でどういうべきか。
-突発的?</note>
+突発的?
+
+(伊原) incidental soundsを聞いてみたり、incidental musicの訳を見てみると、どうも環境音とか、雰囲気を醸す音っぽい感じです。ゲームでいうところのBGM。なので、「環境音／BGM」ではどうかなと。
+http://ejje.weblio.jp/content/incidental+music
+https://www.soundsnap.com/tags/incidental</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Background/incidental sound</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T074704Z" creationid="yoota" creationdate="20170613T051340Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;背景音／突発的な物音</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170616T114309Z" creationid="yoota" creationdate="20170613T051340Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;環境音／BGM</seg>
       </tuv>
     </tu>
     <tu>
