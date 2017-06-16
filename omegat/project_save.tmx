@@ -1064,10 +1064,6 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注
-
-(太田)
-このセレクタでは &lt;img/&gt; なども見境なく消してしまいます。訳注が必要かなと。</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;display&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; none&lt;g6&gt;;&lt;/g6&gt;
 &lt;g7&gt;}&lt;/g7&gt;&lt;/g1&gt;</seg>
@@ -7679,12 +7675,14 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※要訳注
+
+(太田)
 CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトルアキの意味に取られがちです。ここではトルツメの意味なので、「取り除く」などが良いでしょう。
 上の節で remove を「取り除く」と訳しているので、こちらは「削除」としてみました。
 原文にない括弧を補って「（それにより発生する余白を含む）」とされていましたが、シンプルに「マージンも含めて」としてみました。
 
-なお、この宣言の使用には問題があるのでCSSのコードの下に訳注を入れる想定です。</note>
+なお、このには問題があり、このセレクタでは &lt;img/&gt; なども見境なく消してしまいます。CSSのコードの下に訳注を入れる想定です。訳注が必要かなと。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;display:none;&lt;/g1&gt; declaration eliminates the element’s layout, including any margins attributed to it.</seg>
       </tuv>
