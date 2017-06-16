@@ -6563,7 +6563,9 @@ OK</note>
       <note>(岡本)
 前章の「フォーカスを示す」を思い出してください。→3章「パラグラフ」の「フォーカスを示す」（◯ページ）を思い出してください。
 
-(太田) OK</note>
+(太田) OK
+
+(伊原) ◯ページとやると電子版のときにマズそう、とはいえ紙には必要なので、このあたり処理するか要検討かなと。</note>
       <tuv lang="EN-US">
         <seg>Remember the “Indicating Focus” section in the last chapter?</seg>
       </tuv>
@@ -6703,12 +6705,15 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
     </tu>
     <tu>
       <note>(太田) 冒頭若干読みにくかったので、ワースト2位を冒頭に持ってきてみました。
-「タブでアクセス」→「タブ移動」としました。</note>
+「タブでアクセス」→「タブ移動」としました。
+
+(伊原) ないもの➞ないというもの
+ワースト第2位、という言い回しはよく聞くでしょうか。個人的には「ワースト2」みたいなほうが見かけるかなと思ったり。「キーボードアクセシビリティのワースト2は」とか。</note>
       <tuv lang="EN-US">
         <seg>Second prize for Worst Keyboard Accessibility Implementation goes to players which you can tab into and use, but without any visual feedback.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170609T085145Z" creationid="yoota" creationdate="20170606T101408Z">
-        <seg>ワースト第2位のキーボードアクセシビリティ実装は、タブ移動できて使用できるけれども、視覚的なフィードバックが一切ないものです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170616T002813Z" creationid="yoota" creationdate="20170606T101408Z">
+        <seg>ワースト第2位のキーボードアクセシビリティ実装は、タブ移動できて使用できるけれども、視覚的なフィードバックが一切ないというものです。</seg>
       </tuv>
     </tu>
     <tu>
