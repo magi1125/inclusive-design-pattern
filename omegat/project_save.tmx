@@ -4439,12 +4439,13 @@ well-matched はよくマッチするということで、システムフォン�
     <tu>
       <note>(太田) 要検討
 no focus style はフォーカスが見えないことを指すのか、スタイルが指定されていないことを指すのか。言葉的には後者に読めますが意味的には前者の気がします。
-</note>
+
+(伊原) 次の段落の内容（プレイヤー側のCSSをコンテンツ側のCSSで上書きしてスタイルを付け直す）を考えると、ここは前者の意味かなと思います。ということでそのようにしてみました。</note>
       <tuv lang="EN-US">
         <seg>In short: no focus styles, no good.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170612T072145Z" creationid="yoota" creationdate="20170606T101416Z">
-        <seg>簡単に言うと、フォーカスのスタイルがないのはダメです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170616T003138Z" creationid="yoota" creationdate="20170606T101416Z">
+        <seg>簡単に言うと、フォーカスを消すスタイルはダメです。</seg>
       </tuv>
     </tu>
     <tu>
