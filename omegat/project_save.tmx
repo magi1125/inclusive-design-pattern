@@ -5716,7 +5716,9 @@ manageは管理で良いような。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 命令系なので「確認してください」くらいかなと。</note>
+      <note>(太田) 命令系なので「確認してください」くらいかなと。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Make sure the video player is keyboard and screen reader accessible.</seg>
       </tuv>
@@ -7692,6 +7694,7 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The Player</seg>
       </tuv>
@@ -7906,7 +7909,9 @@ breakは単に「離れる」的なことだと思いますが、いったん元
 worthly of your use は直訳すると「あなたの用途にふさわしい」という感じですが。とりあえず「用途」としました。
 「最も迅速」が少し硬い印象だったので「手っ取り早い」としてみました。「最も」は訳出しなくても良いように思います。
 
-「タブを移動」ではなく「タブ移動」ですね。「タブでフォーカスを移動」の意味です。</note>
+「タブを移動」ではなく「タブ移動」ですね。「タブでフォーカスを移動」の意味です。
+
+(伊原) 用途にふさわしい、難しいですね。前提として「用意されたプレイヤーを選ぶ話である」というのがないとちょっと謎な感じがしました（作る話がはじまるのかと思っていたので）</note>
       <tuv lang="EN-US">
         <seg>The fastest way to know if a player is worthy of your use is to try tabbing into it with your keyboard.</seg>
       </tuv>
