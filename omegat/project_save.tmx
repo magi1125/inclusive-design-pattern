@@ -6229,7 +6229,7 @@ familiarを「十分に学習してきた」としていますが、「十分に
 ラベルだけでなくボタンの機能そのものを確認しなくてはならない、という話なので、「押すと再生が始まる状態」「押すと一時停止する状態」としました。
 the buttonを「このボタン」としました。
 
-(伊原) OK</note>
+(伊原) OK. ちゃんとトグルするかという話ですね。</note>
       <tuv lang="EN-US">
         <seg>Of course, you should make sure the button can indeed be switched from a &lt;g1&gt;press-to-play&lt;/g1&gt; to a &lt;g2&gt;press-to-pause&lt;/g2&gt; state.</seg>
       </tuv>
@@ -8846,7 +8846,9 @@ This serves as an important reminderは直訳すると「このことは重要�
     <tu>
       <note>(太田)
 ボタンを押して動作させるためにSpaceかEnterを押せばよいという話なので、「機能するはず」→「動作するはず」としました。
-冒頭の「これは」をとり、「ボタンが」を補いました。</note>
+冒頭の「これは」をとり、「ボタンが」を補いました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This should work by pressing either the &lt;g3&gt;Space&lt;/g3&gt; or &lt;g4&gt;Enter&lt;/g4&gt; keys whether or not a screen reader is running.</seg>
       </tuv>
