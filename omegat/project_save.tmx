@@ -1485,6 +1485,14 @@ a little ではなく little なので、これは「ほとんどない」とい
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A Note on Defensive Coding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T013951Z" creationid="yoota" creationdate="20170616T013951Z">
+        <seg>防御的なコーディングについて</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 Note を訳出しました。
 
@@ -4904,13 +4912,12 @@ stillは無理に訳さなくても良い気がします。
       <note>(太田) 
 訳としてはOKと思いますが、何を言っているのかはわかりにくいかもしれません。特に「インクルーシブ」はこのままでいいのかどうか。先の文節の「インクルーシブ」についてのコメントを参照してください。
 
-冒頭の「これは」をとりました。
-canを生かして最後を「活用できます」としてみました。</note>
+考えた結果、前段のインクルーシブはそのまま、こちらを「一括」のようにするのが良いように思えてきましたがどうでしょう。いったんその方向で調整してみました。</note>
       <tuv lang="EN-US">
         <seg>It can help us manage content and its interrelationships inclusively.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T013938Z" creationid="yoota" creationdate="20170615T110236Z">
-        <seg>コンテンツと、それらの相互関係をインクルーシブに管理するために活用できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T014116Z" creationid="yoota" creationdate="20170615T110236Z">
+        <seg>うまく使えば、コンテンツと、それらの相互関係を一括して管理することができます。</seg>
       </tuv>
     </tu>
     <tu>
