@@ -5455,13 +5455,13 @@ WYSIWYG の訳は必要かどうか。
 
 invisibleは「非表示の」というより「見えない」くらいでしょうか (この後にそれらを真に非表示にする方法が出てきますので)。
 undesiredは「不要」よりもう少し強いかも。直訳すると望ましくない、望まれないといったところですが、「なくても良い」というより、「意図しない」というニュアンスだと思います。
-いったん「意図しない見えないゴミ」としてみました。
+いったん「意図していない見えないゴミ」としてみました。
 </note>
       <tuv lang="EN-US">
         <seg>I’ve always found the term WYSIWYG (what you see is what you get) a bit misleading, since WYSIWYG editors almost invariably have a habit of leaving lots of undesired, invisible junk in the source.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T015004Z" creationid="yoota" creationdate="20170616T014515Z">
-        <seg>WYSIWYG（what you see is what you get：最終的なアウトプットのスタイルのまま編集できる）という言葉が少し誤解されているのをよく目にします。WYSIWYGエディタでは、ほぼ必ず、意図しない見えないゴミがソース内にたくさん残ります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T015013Z" creationid="yoota" creationdate="20170616T014515Z">
+        <seg>WYSIWYG（what you see is what you get：最終的なアウトプットのスタイルのまま編集できる）という言葉が少し誤解されているのをよく目にします。WYSIWYGエディタでは、ほぼ必ず、意図していない見えないゴミがソース内にたくさん残ります。</seg>
       </tuv>
     </tu>
     <tu>
