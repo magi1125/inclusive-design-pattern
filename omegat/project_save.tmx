@@ -4351,6 +4351,14 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In general, it’s best to encourage the creation of semantic, well-structured content with a syntax like &lt;g1&gt;&lt;g2&gt;Markdown&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;34&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; or &lt;g6&gt;&lt;g7&gt;Textile&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;35&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T020535Z" creationid="yoota" creationdate="20170616T020535Z">
+        <seg>一般に、Markdown（脚注67）やTextile（脚注68）のような構文を使用して、セマンティックで十分に構造化されたコンテンツを作成することを推奨するのがベストです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 脚注の位置を原文とそろえました。
 
@@ -7674,12 +7682,12 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       <note>(太田)
 CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトルアキの意味に取られがちです。ここではトルツメの意味なので、「取り除く」などが良いでしょう。
 上の節で remove を「取り除く」と訳しているので、こちらは「削除」としてみました。
-原文にない括弧を補って「（それにより発生する余白を含む）」とされていましたが、シンプルに「マージンごと」としてみました。</note>
+原文にない括弧を補って「（それにより発生する余白を含む）」とされていましたが、シンプルに「マージンも含めて」としてみました。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;display:none;&lt;/g1&gt; declaration eliminates the element’s layout, including any margins attributed to it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T020346Z" creationid="yoota" creationdate="20170616T020105Z">
-        <seg>&lt;g1&gt;display:none;&lt;/g1&gt;の宣言は、要素のレイアウトをマージンごと削除します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170616T020547Z" creationid="yoota" creationdate="20170616T020105Z">
+        <seg>&lt;g1&gt;display:none;&lt;/g1&gt;の宣言は、要素のレイアウトをマージンも含めて削除します。</seg>
       </tuv>
     </tu>
     <tu>
