@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2342,12 +2342,13 @@ heading level oneは「見出しレベル1」ですね。
     <tu>
       <note>(太田)
 composeは作成でいいのか。あとで検討。
-</note>
+
+(伊原) 文書自体の作成は別に必要なので「設定」のほうが実際に近い気はします。そうしてみました。</note>
       <tuv lang="EN-US">
         <seg>But the easiest way (that I’m aware of) to &lt;g14&gt;compose&lt;/g14&gt; closed captions is to use YouTube’s intuitive GUI, for which Google offers &lt;g15&gt;&lt;g16&gt;a help page&lt;/g16&gt;&lt;/g15&gt;&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;27&lt;/g19&gt;&lt;/g18&gt;&lt;/g17&gt; to get you started.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T032459Z" creationid="yoota" creationdate="20170613T032327Z">
-        <seg>しかし、クローズドキャプションを&lt;g14&gt;作成&lt;/g14&gt;する最も簡単な（と私が考えている）方法は、YouTubeの直感的なGUIを使用することです。Googleが、&lt;g15&gt;&lt;g16&gt;その使い方を説明したヘルプページ&lt;/g16&gt;&lt;/g15&gt;&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;（脚注60）&lt;/g19&gt;&lt;/g18&gt;&lt;/g17&gt;を提供しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170616T113242Z" creationid="yoota" creationdate="20170613T032327Z">
+        <seg>しかし、クローズドキャプションを&lt;g14&gt;設定&lt;/g14&gt;する最も簡単な（と私が考えている）方法は、YouTubeの直感的なGUIを使用することです。Googleが、&lt;g15&gt;&lt;g16&gt;その使い方を説明したヘルプページ&lt;/g16&gt;&lt;/g15&gt;&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;（脚注60）&lt;/g19&gt;&lt;/g18&gt;&lt;/g17&gt;を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8462,6 +8463,7 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>There are certain conventions you should follow when writing captions.</seg>
       </tuv>
