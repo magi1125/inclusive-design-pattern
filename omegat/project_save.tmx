@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10003,7 +10003,9 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
     </tu>
     <tu>
       <note>(太田)
-分かりにくかったので語順を調整しました。</note>
+分かりにくかったので語順を調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>You can manually &lt;g1&gt;&lt;g2&gt;add caption files to HTML5 &lt;g3&gt;&lt;video&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;25&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; using a &lt;g7&gt;&lt;g8&gt;WebVTT file&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;26&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; as the &lt;g12&gt;src&lt;/g12&gt; of a &lt;g13&gt;&lt;track&gt;&lt;/g13&gt; element.</seg>
       </tuv>
