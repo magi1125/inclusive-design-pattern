@@ -7337,7 +7337,9 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
     </tu>
     <tu>
       <note>(太田)
-誤訳かも。「その」は不要。</note>
+誤訳かも。「その」は不要。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>That is, if it’s screen reader accessible too.</seg>
       </tuv>
@@ -8992,12 +8994,14 @@ shouldなので「しなければならない」は強すぎるかもしれな�
     </tu>
     <tu>
       <note>(岡本)
-お勧め→おすすめ</note>
+お勧め→おすすめ
+
+(伊原) ここは初めてチャレンジしてみるときのことを書いているっぽいので、もう少しそのニュアンスを出してみました。</note>
       <tuv lang="EN-US">
         <seg>To get up and running with screen reader testing, I recommend you do the following:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170606T101736Z" creationid="yoota" creationdate="20170606T101736Z">
-        <seg>スクリーンリーダーのテストを開始するには、以下を行うことをお勧めします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170616T003742Z" creationid="yoota" creationdate="20170606T101736Z">
+        <seg>スクリーンリーダーによるテストを始めてみるときは、以下をおすすめします。</seg>
       </tuv>
     </tu>
     <tu>
