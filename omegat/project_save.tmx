@@ -23,12 +23,14 @@
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) 私の、というのがちょっと謎だったので、私が行った、としました。</note>
       <tuv lang="EN-US">
         <seg>(Refer to the &lt;g2&gt;&lt;g3&gt;responses of my screen reader survey&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;21&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; to gain an impression of the diversity.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170606T102128Z" creationid="yoota" creationdate="20170606T102128Z">
-        <seg>（&lt;g2&gt;&lt;g3&gt;私のスクリーンリーダー調査の回答&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注54）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を見ると、その多様性が分かります）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170616T004710Z" creationid="yoota" creationdate="20170606T102128Z">
+        <seg>（&lt;g2&gt;&lt;g3&gt;私が行ったスクリーンリーダー調査の回答&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注54）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を見ると、その多様性が分かります）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,7 +744,8 @@ https://www.nvda.jp/nvda2016.1jp/ja/keyCommands.html
 「皆さん」をどうするか。「晴眼者」的なことにしてもよいですが、chapter-9では「目が見えている」としたのでここもそうしてみました。
 
 strategyを「方策」としているのは少し大げさかもしれません。「使い方」としつつ、周辺を調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Remember that your experience as a screen reader user will differ dramatically from blind users, who have dramatically different strategies even among themselves.</seg>
       </tuv>
