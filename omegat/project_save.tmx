@@ -6097,6 +6097,16 @@ Webコンテンツを見ることを「閲覧」という事はありますが�
     </tu>
     <tu>
       <note>(太田)
+どういうこと?</note>
+      <tuv lang="EN-US">
+        <seg>Not just one structure but an infinite number of legitimate configurations of body text, headings and media elements were catered for in our robust and inclusive CSS flow system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170619T021947Z" creationid="yoota" creationdate="20170619T021947Z">
+        <seg>私たちの堅牢でインクルーシブなCSSフローシステムでは、本文テキスト、見出し、およびメディア要素の適切な構成が、1つではなく無限に提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
 「ズームを表示しない」は「ズームできない」かと思います。
 しかしそもそもオーバーレイで分かるのだろうかという疑問も。すこし補って「オーバーレイ表示される&lt;g13&gt;&lt;option&gt;&lt;/g13&gt;をズームできない」としてみました。
 「あらゆる人たちに理解されてはいない」は意味がとりにくいです。「あらゆる人に理解できるわけではない」としました。
@@ -9627,6 +9637,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T101534Z" creationid="yoota" creationdate="20170511T101356Z">
         <seg>&lt;g3&gt;background-color&lt;/g3&gt;を使用することで、パラグラフのリンクのフォーカススタイルを強調すると同時に、各ブラウザでの見た目をそろえることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We then moved on to supplementing this robust structure with additional media such as video.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170619T021918Z" creationid="yoota" creationdate="20170619T021918Z">
+        <seg>さらに、この堅牢な構造を、ビデオなどの追加のメディアで補完する方法も説明しました。</seg>
       </tuv>
     </tu>
     <tu>
