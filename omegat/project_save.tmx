@@ -4798,9 +4798,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>画像alt
+
+(伊原) 下訳を反映</note>
       <tuv lang="EN-US">
         <seg>In the first one the left speaker is talking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T041307Z">
+        <seg>最初のフレームでは、左の人物が話している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4860,9 +4865,14 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>画像alt
+
+(伊原) 下訳を元に語順を入れ替えて調整。</note>
       <tuv lang="EN-US">
         <seg>In the second, the right speaker interjects and is identified by his all-caps name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T041654Z">
+        <seg>2つ目のフレームでは、右の人物が口をはさみ話し手となったことが大文字の名前で示されている。</seg>
       </tuv>
     </tu>
     <tu>
