@@ -577,12 +577,13 @@ https://www.soundsnap.com/tags/incidental
     <tu>
       <note>(太田)
 余白→マージン
-「敏感で、寛容ではない」は少し違和感あり。</note>
+「敏感で、寛容ではない」は少し違和感あり。
+調整してみましたが……。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;CSS margin declarations not tolerant of and reactive to changing contexts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170619T032813Z" creationid="yoota" creationdate="20170619T032429Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;CSSのマージンの宣言が、コンテキストの変化に影響されやすく、寛容性がない。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170619T032825Z" creationid="yoota" creationdate="20170619T032429Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;CSSのマージンの宣言が、コンテキストの変化に影響されやすく、寛容性がないものになっている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -749,6 +750,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T050557Z" creationid="yoota" creationdate="20170511T100302Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;フォーカス可能な要素を見えるようにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Making your static content site dependent on client-side JavaScript.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170619T032836Z" creationid="yoota" creationdate="20170619T032836Z">
+        <seg>• 静的なコンテンツサイトをクライアント側のJavaScriptに依存させる。</seg>
       </tuv>
     </tu>
     <tu>
