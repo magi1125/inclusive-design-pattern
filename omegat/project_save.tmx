@@ -1618,12 +1618,13 @@ Note を訳出しました。
       <note>(太田)
 「読みやすい要素の連続を生成」はかなり違和感あり。
  processionは「行列」のような意味。
-</note>
+
+(伊原) 配列というとプログラム感がちょっとあるので、並び方としてみました。</note>
       <tuv lang="EN-US">
         <seg>A good flow system produces a regular, well-spaced, readable procession of elements regardless of their order and combination.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T093904Z" creationid="yoota" creationdate="20170614T081109Z">
-        <seg>優れたフローシステムは、要素の順番や組み合わせがどのようなものであっても、要素の配列が規則的で、十分な間隔があり、読みやすいようにしてくれます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T143508Z" creationid="yoota" creationdate="20170614T081109Z">
+        <seg>優れたフローシステムは、要素の順番や組み合わせがどのようなものであっても、要素の並び方が規則的で、十分な間隔があり、読みやすいようにしてくれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9644,7 +9645,8 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
 おそらくflow elements はいわゆる「ブロック要素」のことで、ヘイドンさんのイメージする「フロー要素」について訳注が必要かもしれません。ちなみに「コーディングWebアクセシビリティ」では以下のような訳注を書きました。
 
 &gt;実際には内容モデルのフロー（flow）という分類は非常に幅広く、フレーズやセクションに属する要素は同時にフローにも属していますが、上図のフローは主に`&lt;p&gt;`、`&lt;div&gt;`などのブロックレベル要素を指しています。HTML5ではブロックという分類がなくなり、これらの要素をひとことで言い表すことが難しくなってしまいました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Unlike a grid system, a flow system deals with the relations between flow elements which appear one after another in a single column — headings, paragraphs, lists, images, videos, and so on.</seg>
       </tuv>
