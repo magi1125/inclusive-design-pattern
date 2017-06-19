@@ -2476,7 +2476,9 @@ composeは作成でいいのか。あとで検討。
 なにがsimilarなのか謎。この章のサブセクションのところにはサブセクションの見出しレベルに応じてフォントサイズを変える話が出ていますが、それとの類似点はないような。
 見出しレベルに応じてフォントサイズが変えられている前提の話ではあるので、類似しているのではなく前提としている、という話であればわかります。
 もしかしてfamiliarのtypo的な話だとか?
-いったんその解釈で「サブセクションにふさわしい効果」としてみましたが、私が間違っているのかもしれません。</note>
+いったんその解釈で「サブセクションにふさわしい効果」としてみましたが、私が間違っているのかもしれません。
+
+(伊原) similarは、「リスト項目が近接しているのと同様」ということなのかなと思いました。見出しの上マージンをremからemに変えると、見出しのフォントサイズに応じた大きなアキができるため、結果として</note>
       <tuv lang="EN-US">
         <seg>By changing the unit of measurement from rem to em, we can achieve a similar effect for subsections of content within our blog: a margin set in em on a heading will be relative to its own font size.</seg>
       </tuv>
