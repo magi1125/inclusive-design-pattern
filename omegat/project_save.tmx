@@ -4788,12 +4788,13 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       <note>画像alt
 
 (岡本）キャプションでもありますね。下の方でキャプションを和訳していただいているようなので、これもお願いできればと思います。ただ、これまでキャプションとaltについては不徹底なので、初稿出たら改めて見直す必要があるかも。
-</note>
+
+(伊原) 下訳をもとに調整。</note>
       <tuv lang="EN-US">
         <seg>In the first frame the left speaker is identified in the caption using an all-caps name followed by a colon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170619T040436Z">
-        <seg>1つ目のフレームのキャプション内では、大文字の名前とコロンを使用して左側の話し手を特定している。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T040545Z">
+        <seg>最初のフレームのキャプション内では、大文字の名前とコロンを使用して左側の話し手を特定している。</seg>
       </tuv>
     </tu>
     <tu>
