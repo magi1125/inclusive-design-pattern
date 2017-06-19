@@ -2350,6 +2350,9 @@ heading level oneは「見出しレベル1」ですね。
       <tuv lang="EN-US">
         <seg>Boxes of content.</seg>
       </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T151826Z">
+        <seg>コンテンツを表すボックス。</seg>
+      </tuv>
     </tu>
     <tu>
       <note>(太田) 「ぼんやりとした青い光の輪」はChromeのデフォルトフォーカススタイルを指しています。ママで良いと思います。
@@ -7466,7 +7469,9 @@ impactは次の文に合わせて「効果」としました。
     <tu>
       <note>(太田)
 パラグラフ→段落
-いかにも翻訳ぽい感じだったので全体を意訳して調整しました。</note>
+いかにも翻訳ぽい感じだったので全体を意訳して調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Successive paragraphs have less margin between them than paragraphs and other elements.</seg>
       </tuv>
@@ -8265,7 +8270,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
 ここのstillはおそらく「常にそうし続ける」的なことで、手動でマージンを入れなくても常に勝手にマージンが空き、空き続けるということを言っているのだと思います。
 
 大幅に意訳しつつ調整してみましたがどうですかね?
-breakは単に「離れる」的なことだと思いますが、いったん元訳の「小休止」を生かしてみました。</note>
+breakは単に「離れる」的なことだと思いますが、いったん元訳の「小休止」を生かしてみました。
+
+(伊原) GJ!</note>
       <tuv lang="EN-US">
         <seg>The editor can insert a &lt;g6&gt;&lt;blockquote&gt;&lt;/g6&gt;, &lt;g7&gt;&lt;figure&gt;&lt;/g7&gt;, &lt;g8&gt;&lt;audio&gt;&lt;/g8&gt; or any other element and the spacing will still communicate a break from the prose.</seg>
       </tuv>
