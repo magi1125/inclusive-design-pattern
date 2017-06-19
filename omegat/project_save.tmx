@@ -9258,14 +9258,14 @@ mainainは運用?
 toughは「難しい」でいいのか。「大変」としてみました。
 前半と後半のつながりが謎です。at leastを「ひとまずは」くらいにしてみるのがよいでしょうか。
 
-(伊原) OK.
+(伊原) 見出しで「line-height」と言ってるので、line-heightにしてみました。
 脚注のURLを見る限り、DTPのような厳密さでやるのは大変だけど、まあとりあえずline-height基準でやればおかしくはならないよ、ということがいいたいのかなと思いました。
 https://8thlight.com/blog/chris-peak/2012/12/30/vertical-rhythm.html</note>
       <tuv lang="EN-US">
         <seg>Though a strict &lt;g1&gt;&lt;g2&gt;vertical rhythm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;31&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; is notoriously tough to establish and maintain, it’s good practice to at least use your paragraph line height as a basis for vertical spacing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T095711Z" creationid="yoota" creationdate="20170614T082537Z">
-        <seg>厳密な&lt;g1&gt;&lt;g2&gt;バーティカルリズム&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注64）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を確立して運用するのは大変なこととして知られていますが、ひとまずは段落の行の高さを縦の間隔の基準として使用するのが良いでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T144336Z" creationid="yoota" creationdate="20170614T082537Z">
+        <seg>厳密な&lt;g1&gt;&lt;g2&gt;バーティカルリズム&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注64）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を確立して運用するのは大変なこととして知られていますが、ひとまずは段落のline-heightを縦の間隔の基準として使用するのが良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9396,7 +9396,9 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       <note>(太田)
 とてもわかりにくいですね。
 後のほうを読むと、WYSIWYGエディタが空の&lt;p&gt;&lt;/p&gt;を吐いてもマージンが空いたりしないようにする話が出ています。
-多少調整してみましたがわかりにくさが否めないのでもう少し練りたいところ。</note>
+多少調整してみましたがわかりにくさが否めないのでもう少し練りたいところ。
+
+(伊原) 確かに「編集者のWYSIWYGまたはMarkdownエディタに組み込まれているフロー要素とは独立した規則性」は何を指しているのかわかりにくいですね。</note>
       <tuv lang="EN-US">
         <seg>To enforce a regularity independent of the flow elements incorporated in the editor’s WYSIWYG or Markdown editor, this basic spacing should be applied generally, with just a few exceptions.</seg>
       </tuv>
