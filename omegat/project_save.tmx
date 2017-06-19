@@ -4483,6 +4483,8 @@ it = トランスクリプトと補わないと分かりにくいかも。
 ・一般論として、WYSIWYGを使わないでMarkdownなどを使う方法もあり、それができるならベストだよ (←この文節)
 ・でもそれは教育コストが高いよ
 ・なのでWYSIWYGエディタを使わせつつ防衛的にやるといいよ
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>In general, it’s best to encourage the creation of semantic, well-structured content with a syntax like &lt;g1&gt;&lt;g2&gt;Markdown&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;34&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; or &lt;g6&gt;&lt;g7&gt;Textile&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;35&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
