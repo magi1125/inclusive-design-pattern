@@ -3896,12 +3896,13 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
 「二重になる」は分かりそうな、そうでもないような。「重なってくれない」という話なのでやや語弊があるかもしれません。「重複してしまう」とか、やや砕けた感じにはなりますが「ダブってしまう」とかでも良いような。
 
 a element ではなく elements であることに意味があるように思いますので、「それぞれの要素に」としました。
-</note>
+
+(伊原) 空白が2重になって空きすぎるということなので「ダブってしまう」がいいかなと思いました。</note>
       <tuv lang="EN-US">
         <seg>If instead we applied margin directly to elements, there would be the danger of it doubling up with the padding of containers:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T101808Z" creationid="yoota" creationdate="20170614T100622Z">
-        <seg>それぞれの要素に直接マージンを適用してしまうと、コンテナのパディングと重複してしまう危険があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T144856Z" creationid="yoota" creationdate="20170614T100622Z">
+        <seg>それぞれの要素に直接マージンを適用してしまうと、コンテナのパディングとダブってしまう危険があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6368,6 +6369,7 @@ resulting inも落ちているような。「結果として」くらいでし�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Note the use of the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;owl selector&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;32&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;/g1&gt; in the first line.</seg>
       </tuv>
@@ -8964,7 +8966,9 @@ breakは破綻としました。</note>
     <tu>
       <note>(太田)
 marginは「マージン」で良いかと。
-「発生」は少し違和感がありますね。日本語では「マージンをつける」のような言い方が多いでしょうか。</note>
+「発生」は少し違和感がありますね。日本語では「マージンをつける」のような言い方が多いでしょうか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This ensures that top margins only occur &lt;g7&gt;between&lt;/g7&gt; successive elements.</seg>
       </tuv>
