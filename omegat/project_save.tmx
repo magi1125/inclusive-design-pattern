@@ -2287,8 +2287,8 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
       <tuv lang="EN-US">
         <seg>Before Rupert can finish his sentence, the two speakers are interrupted by a loud crash as the barman drops a glass (out of frame).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T025449Z" creationid="yoota" creationdate="20170613T074430Z">
-        <seg>ルパートが話し終わる前に、バーテンダー（barman）が（フレームの外で）グラスを落としたため、2人の話は遮られます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T064138Z" creationid="yoota" creationdate="20170613T074430Z">
+        <seg>ルパートが話し終わる前に、バーテンダー（barman）が（フレームの外で）グラスを落としたため、2人の話はさえぎられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6490,12 +6490,14 @@ To come before and after, or at both sides of.
 とあって「囲む」というより「前後/左右に何かを置く」というニュアンスのようです。おそらくですが、キャプション長い場合に [ と ]  が同じ画面に出現せずに [foo... / ...bar] のように分割されるケースもあることを頭に置いているのではないかと思います。ひとまず「挟む」としてみました
 
 (岡本)
-挟まれ→はさまれ</note>
+挟まれ→はさまれ
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Often, the description of such a noise is both in caps and bookended by &lt;g1&gt;[&lt;/g1&gt; and &lt;g2&gt;]&lt;/g2&gt; (square brackets).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T075835Z" creationid="yoota" creationdate="20170613T074615Z">
-        <seg>多くの場合、このような物音の説明は、大文字で表記されるとともに &lt;g1&gt;[&lt;/g1&gt; と&lt;g2&gt;]&lt;/g2&gt;（角括弧）で挟まれます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T064256Z" creationid="yoota" creationdate="20170613T074615Z">
+        <seg>多くの場合、このような物音の説明は、大文字で表記されるとともに &lt;g1&gt;[&lt;/g1&gt; と&lt;g2&gt;]&lt;/g2&gt;（角括弧）ではさまれます。</seg>
       </tuv>
     </tu>
     <tu>
