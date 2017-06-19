@@ -1578,7 +1578,7 @@ a little ではなく little なので、これは「ほとんどない」とい
       <note>(太田)
 Noteを「注意」として訳出しました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>A Note on Defensive Coding</seg>
       </tuv>
@@ -5681,12 +5681,13 @@ WYSIWYG の訳は必要かどうか。
 invisibleは「非表示の」というより「見えない」くらいでしょうか (この後にそれらを真に非表示にする方法が出てきますので)。
 undesiredは「不要」よりもう少し強いかも。直訳すると望ましくない、望まれないといったところですが、「なくても良い」というより、「意図しない」という話に近いと思います。
 いったん「意図していない見えないゴミ」としてみました。
-</note>
+
+(伊原) WYSIWYGの初出はもっと前（編集者のWYSIWYGまたはMarkdownエディタ）なので、そちらに移すべきかも。</note>
       <tuv lang="EN-US">
         <seg>I’ve always found the term WYSIWYG (what you see is what you get) a bit misleading, since WYSIWYG editors almost invariably have a habit of leaving lots of undesired, invisible junk in the source.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T015013Z" creationid="yoota" creationdate="20170616T014515Z">
-        <seg>WYSIWYG（what you see is what you get：最終的なアウトプットのスタイルのまま編集できる）という言葉が少し誤解されているのをよく目にします。WYSIWYGエディタでは、ほぼ必ず、意図していない見えないゴミがソース内にたくさん残ります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T152932Z" creationid="yoota" creationdate="20170616T014515Z">
+        <seg>WYSIWYGという言葉が少し誤解されているのをよく目にします。WYSIWYGエディタでは、ほぼ必ず、意図していない見えないゴミがソース内にたくさん残ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9434,12 +9435,13 @@ shouldなので「しなければならない」は強すぎるかもしれな�
 後のほうを読むと、WYSIWYGエディタが空の&lt;p&gt;&lt;/p&gt;を吐いてもマージンが空いたりしないようにする話が出ています。
 多少調整してみましたがわかりにくさが否めないのでもう少し練りたいところ。
 
-(伊原) 確かに「編集者のWYSIWYGまたはMarkdownエディタに組み込まれているフロー要素とは独立した規則性」は何を指しているのかわかりにくいですね。</note>
+(伊原) 確かに「編集者のWYSIWYGまたはMarkdownエディタに組み込まれているフロー要素とは独立した規則性」は何を指しているのかわかりにくいですね。
+ひとまずWYSIWYGはここが初出なので訳を移動してきました。</note>
       <tuv lang="EN-US">
         <seg>To enforce a regularity independent of the flow elements incorporated in the editor’s WYSIWYG or Markdown editor, this basic spacing should be applied generally, with just a few exceptions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T100234Z" creationid="yoota" creationdate="20170614T095756Z">
-        <seg>編集者のWYSIWYGまたはMarkdownエディタに組み込まれているフロー要素とは独立した規則性を強制するためには、少数の例外を除き、この基本の間隔を全体に適用する必要があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T152954Z" creationid="yoota" creationdate="20170614T095756Z">
+        <seg>編集者のWYSIWYG（what you see is what you get：最終的なアウトプットのスタイルのまま編集できる）またはMarkdownエディタに組み込まれているフロー要素とは独立した規則性を強制するためには、少数の例外を除き、この基本の間隔を全体に適用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
