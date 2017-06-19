@@ -492,7 +492,8 @@ OK
       <note>(太田)
 JISではbypass block を「ブロックスキップ」としています。
 リスト項目を全体的に「……する」「……しない」という形で統一しました。
-</note>
+
+(伊原) OK. 「用意しない」を「避ける」＝用意する、が一瞬わかりにくいかもとは思いました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;A lack of navigable, structural cues or &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;bypass blocks&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;37&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;&lt;/g2&gt; like landmarks and headings.</seg>
       </tuv>
@@ -585,7 +586,9 @@ https://www.soundsnap.com/tags/incidental
       <note>(太田)
 余白→マージン
 「敏感で、寛容ではない」は少し違和感あり。
-調整してみましたが……。</note>
+調整してみましたが……。
+
+(伊原) 英語的にどうなのかは不明なのですが、tolerant of and reactive でひとかたまりのように読めます（寛容性があり反応する）。そこに対してnot、to changing contexts で「コンテキストの変化に反応せず不寛容なCSSのマージン宣言」となり、このほうが本文の意図に近いような。どうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;CSS margin declarations not tolerant of and reactive to changing contexts.</seg>
       </tuv>
@@ -963,7 +966,8 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
 
 (岡本)
 付ける→つける
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Whimsical, cryptic or partial labels for headings and links.</seg>
       </tuv>
