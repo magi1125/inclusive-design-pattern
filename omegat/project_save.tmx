@@ -4651,12 +4651,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
     </tu>
     <tu>
       <note>(太田)
-「構想の中で」は違和感があります。「構想を通じて」くらいかと思いますが、もう少し砕いて「ここまで……構想しながら……説明してきました」としてみました。</note>
+「構想の中で」は違和感があります。「構想を通じて」くらいかと思いますが、もう少し砕いて「ここまで……構想しながら……説明してきました」としてみました。
+「最も基本的な側面」は違和感があったので「最も重要な側面」としました。
+</note>
       <tuv lang="EN-US">
         <seg>In the conception of our blog post pattern, I covered one of the most fundamental aspects of inclusive design: &lt;g1&gt;structure&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170619T015249Z" creationid="yoota" creationdate="20170619T014935Z">
-        <seg>ここまで、ブログ記事のパターンを構想しながら、インクルーシブデザインの最も基本的な側面である&lt;g1&gt;構造&lt;/g1&gt;について説明してきました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170619T015349Z" creationid="yoota" creationdate="20170619T014935Z">
+        <seg>ここまで、ブログ記事のパターンを構想しながら、インクルーシブデザインの最も重要な側面である&lt;g1&gt;構造&lt;/g1&gt;について説明してきました。</seg>
       </tuv>
     </tu>
     <tu>
