@@ -6235,12 +6235,14 @@ configurations  were catered for → it catered for configurations
 1つの構造ではなく無限の適切な構成を、という要請を満たしているということか?
 ourを私たちと訳すのはどうなのか。他は適当に濁しているはず。
 
-全体大幅に調整してみました。たぶんこういうことが言いたいのだと思いますがどうでしょうか。</note>
+全体大幅に調整してみました。たぶんこういうことが言いたいのだと思いますがどうでしょうか。
+
+(伊原) よいと思います! 「無数に、かつ」のところを「数の制約なしに」としてみました。また、ここではインクルーシブを避けたので「包括的な」としました。</note>
       <tuv lang="EN-US">
         <seg>Not just one structure but an infinite number of legitimate configurations of body text, headings and media elements were catered for in our robust and inclusive CSS flow system.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170619T024528Z" creationid="yoota" creationdate="20170619T021947Z">
-        <seg>本文テキスト、見出し、メディアといった要素をひとつの型にはめるのではなく、無数に、かつ適切な構造を保ちながら提供できるように、堅牢でインクルーシブなCSSフローシステムを採用しました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T155931Z" creationid="yoota" creationdate="20170619T021947Z">
+        <seg>本文テキスト、見出し、メディアといった要素をひとつの型にはめるのではなく、適切な構造を保ちながらも数の制約なしに提供できるように、堅牢で包括的なCSSフローシステムを採用しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9853,7 +9855,9 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     </tu>
     <tu>
       <note>(太田)
-ここのthenは「次に」くらいでしょうか。</note>
+ここのthenは「次に」くらいでしょうか。
+
+(伊原) OK, videoの追加で補完というのは若干違和感ありつつ。</note>
       <tuv lang="EN-US">
         <seg>We then moved on to supplementing this robust structure with additional media such as video.</seg>
       </tuv>
