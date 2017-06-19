@@ -485,6 +485,17 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+JISではbypass block を「ブロックスキップ」としています。
+</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;A lack of navigable, structural cues or &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;bypass blocks&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;37&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;&lt;/g2&gt; like landmarks and headings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170619T031424Z" creationid="yoota" creationdate="20170619T031424Z">
+        <seg>&lt;g1&gt;• ランドマークや見出しなど、ナビゲート可能な構造的な手掛かりやブロックのバイパスがない。（脚注70）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;A list of the longer sentences (more than 35 words).</seg>
