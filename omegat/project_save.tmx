@@ -118,7 +118,9 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育</note>
     </tu>
     <tu>
       <note>(太田)
-visible spaceは「見た目上のスペース」くらいでしょうか。</note>
+visible spaceは「見た目上のスペース」くらいでしょうか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g10&gt;margin-top&lt;/g10&gt;&lt;g11&gt;:&lt;/g11&gt; 1.5rem&lt;g12&gt;;&lt;/g12&gt;
 &lt;g13&gt;}&lt;/g13&gt;
@@ -2809,12 +2811,14 @@ visual designはそのままビジュアルデザインでいいかも。
 
 (岡本)
 ここまでのコードサンプルでは、とかでしょうか。
-余白→マージン</note>
+余白→マージン
+
+(伊原) 1.5rem➞1.5emに修正。いくつかの例外を除き、とのことですが、そんな例外あったっけ？という疑問が。</note>
       <tuv lang="EN-US">
         <seg>Currently, every flow element is separated by the same 1.5em margin, with a few exceptions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170615T100458Z" creationid="yoota" creationdate="20170614T102317Z">
-        <seg>ここまでのコードサンプルでは、いくつかの例外を除き、すべてのフロー要素は同じ1.5remのマージンで区切られています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T145249Z" creationid="yoota" creationdate="20170614T102317Z">
+        <seg>ここまでのコードサンプルでは、いくつかの例外を除き、すべてのフロー要素は同じ1.5emのマージンで区切られています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3499,6 +3503,7 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Grouping and Separation</seg>
       </tuv>
