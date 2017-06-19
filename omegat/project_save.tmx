@@ -3018,8 +3018,7 @@ Essentially, this means you can employ implicitly responsive text without the ne
 line-heightは原文の原稿では小文字なのですが、この見出しはh3であり、h3には h3{text-transform: uppercase;} というスタイルが適用されているので見た目上は大文字に見えています。
 小文字にしてしまって良いと思います。
 
-
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Everything Divisible by &lt;g1&gt;line-height&lt;/g1&gt;</seg>
       </tuv>
