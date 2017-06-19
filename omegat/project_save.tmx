@@ -7938,12 +7938,14 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
 上の節で remove を「取り除く」と訳しているので、こちらは「削除」としてみました。
 原文にない括弧を補って「（それにより発生する余白を含む）」とされていましたが、シンプルに「マージンも含めて」としてみました。
 
-なお、ここで挙げられているCSSはインクルーシブすぎ、&lt;img/&gt; なども見境なく消してしまいます。CSSのコードの下に訳注を入れる想定です。</note>
+なお、ここで挙げられているCSSはインクルーシブすぎ、&lt;img/&gt; なども見境なく消してしまいます。CSSのコードの下に訳注を入れる想定です。
+
+(伊原) 要素のレイアウトを、というのが気になりました。DOM的には残るから「レイアウト」ということかなと思いますが、アクセシビリティツリー的にも居ないものになるので、「マージンを含めて要素を削除します」でもいいのかなと。どうでしょうか。インクルーシブすぎはワロタ。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;display:none;&lt;/g1&gt; declaration eliminates the element’s layout, including any margins attributed to it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170616T020547Z" creationid="yoota" creationdate="20170616T020105Z">
-        <seg>&lt;g1&gt;display:none;&lt;/g1&gt;の宣言は、要素のレイアウトをマージンも含めて削除します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T153644Z" creationid="yoota" creationdate="20170616T020105Z">
+        <seg>&lt;g1&gt;display:none;&lt;/g1&gt;の宣言は、マージンも含めて要素を削除します。</seg>
       </tuv>
     </tu>
     <tu>
