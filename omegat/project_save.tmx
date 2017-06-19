@@ -8930,12 +8930,15 @@ out of sight は「非表示」とされていましたが、文字通り「視�
     <tu>
       <note>(太田)
 これとは? このthisが何を指すのか不明瞭ですが「相互運用性」と解釈。
-ここはたぶん「Flesch-Kincaid リーダビリティテスト」「見出しとリンクテキスト」などの話なのですが、正直わかりにくいです。</note>
+ここはたぶん「Flesch-Kincaid リーダビリティテスト」「見出しとリンクテキスト」などの話なのですが、正直わかりにくいです。
+いったん全力で意訳してみましたが、原文にないことを言い過ぎているかもしれません。
+
+</note>
       <tuv lang="EN-US">
         <seg>This is bolstered by giving well-written and context-independent structural and navigational cues.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170619T025745Z" creationid="yoota" creationdate="20170619T020306Z">
-        <seg>これは、適切に書かれた、コンテキスト非依存の構造およびナビゲーションの手掛かりを提供することでさらに強化されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170619T030208Z" creationid="yoota" creationdate="20170619T020306Z">
+        <seg>適切に文章を書き、コンテキストに依存しなくても構造の理解とナビゲーションが可能になるようなラベルを使うことで、これはさらに補強されます。</seg>
       </tuv>
     </tu>
     <tu>
