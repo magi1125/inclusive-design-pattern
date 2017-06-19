@@ -4388,12 +4388,13 @@ In addition を「その上」とすると前からのつながりがおかし�
 直線的で分かるかどうか。
 リニアライズとカタカナ書きすることもあるが……?
 it = トランスクリプトと補わないと分かりにくいかも。
-</note>
+
+(伊原) 補ってみました。リニアライズ or 線形化 ですかね。いったんカタカナに。</note>
       <tuv lang="EN-US">
         <seg>In any case, it should take the form of a linearized version of the captions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T024411Z" creationid="yoota" creationdate="20170614T024411Z">
-        <seg>どちらにしても、キャプションを直線的にした形をとります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T123601Z" creationid="yoota" creationdate="20170614T024411Z">
+        <seg>どちらにしても、トランスクリプトはキャプションをリニアライズした形をとります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8426,7 +8427,9 @@ separateは物理的に分割するイメージかも。
 (岡本)
 上に書かれている「フレーム」の方がわかりやすいですね。
 
-(太田) 「フレーム」としました。</note>
+(太田) 「フレーム」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The only substitution I have made, for clarity where there is no visual context, is that the barman is identified as being out of shot:</seg>
       </tuv>
