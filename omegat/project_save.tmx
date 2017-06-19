@@ -5971,7 +5971,8 @@ manageは管理で良いような。
       <note>(太田)
 「余白を取らない」という表現はやや違和感あり。
 「マージンがまったくない」としました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>List items (&lt;g1&gt;&lt;li&gt;&lt;/g1&gt;s) do not take margin at all and consequently look grouped together.</seg>
       </tuv>
@@ -7279,7 +7280,9 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
     </tu>
     <tu>
       <note>(太田)
-近似→近接</note>
+近似→近接
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>So they should: for the sake of comprehension on the part of the reader, related elements should be visually proximate.</seg>
       </tuv>
