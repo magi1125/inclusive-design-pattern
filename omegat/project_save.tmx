@@ -4792,6 +4792,9 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       <tuv lang="EN-US">
         <seg>In the first frame the left speaker is identified in the caption using an all-caps name followed by a colon.</seg>
       </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T040436Z">
+        <seg>1つ目のフレームのキャプション内では、大文字の名前とコロンを使用して左側の話し手を特定している。</seg>
+      </tuv>
     </tu>
     <tu>
       <note>画像alt</note>
@@ -9496,9 +9499,13 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
     <tu>
       <note>画像alt
 他の場所の訳文が勝手に反映されているっぽい。
-</note>
+
+(伊原) 下訳を反映</note>
       <tuv lang="EN-US">
         <seg>Two frames.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170619T040514Z">
+        <seg>2つのフレーム。</seg>
       </tuv>
     </tu>
     <tu>
