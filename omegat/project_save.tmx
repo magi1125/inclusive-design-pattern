@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2501,7 +2501,9 @@ composeは作成でいいのか。あとで検討。
 で、原文だと、remからemに変える➞近接効果が得られる➞見出しマージンをemにすると見出しのフォントサイズと相対的になる…という形で回りくどいなと思います。ということで語順を調整して編集してみました。以下ならまあわかるかなと。
 -----
 ブログ内のコンテンツのサブセクションでも、リスト項目と同様の視覚的な近接効果を得ることができます。見出しのマージンの単位をremからemに変更すると、見出しのフォントサイズと相対的なマージンになります。
-見出しテキストは本文テキストよりも大きいため、見出しは下に続くコンテンツの方に近づいて見えるようになります。</note>
+見出しテキストは本文テキストよりも大きいため、見出しは下に続くコンテンツの方に近づいて見えるようになります。
+
+(太田) なるほど!</note>
       <tuv lang="EN-US">
         <seg>By changing the unit of measurement from rem to em, we can achieve a similar effect for subsections of content within our blog: a margin set in em on a heading will be relative to its own font size.</seg>
       </tuv>
