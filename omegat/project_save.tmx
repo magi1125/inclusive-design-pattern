@@ -2843,7 +2843,9 @@ visual designはそのままビジュアルデザインでいいかも。
 余白→マージン
 
 (伊原) 1.5rem➞1.5emに修正。いくつかの例外を除き、とのことですが、そんな例外あったっけ？という疑問が。
-…あ、下記のリスト項目の話が「例外」なのですね。とすると語順を変えたほうがよさそうです。対応してみました。</note>
+…あ、下記のリスト項目の話が「例外」なのですね。とすると語順を変えたほうがよさそうです。対応してみました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Currently, every flow element is separated by the same 1.5em margin, with a few exceptions.</seg>
       </tuv>
