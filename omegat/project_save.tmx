@@ -3764,7 +3764,7 @@ http://www.dictionary.com/browse/radical
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注
+      <note>※訳注あり
 
 (太田) ヘイドンさんの any UA は言いすぎです。ユーザーエージェントをブラウザに限らなければ実装は存在します。W3C HTML5.1には以下のようにあり、
 
@@ -3776,7 +3776,9 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
 
 (伊原) LGTM、訳注かと思います。ヘイドンさんはここのUAはブラウザというニュアンスで書いたのでしょうね。
 
-(岡本) 訳注待機</note>
+(岡本) 訳注待機
+
+(太田) 訳注を書きました。</note>
       <tuv lang="EN-US">
         <seg>However, it is &lt;g8&gt;&lt;g9&gt;not implemented in any user agent&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;3&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;, and there’s no sign it ever will be.</seg>
       </tuv>
