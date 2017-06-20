@@ -8117,8 +8117,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
-      <note>※要確認→確認済み
-※訳注あり
+      <note>※訳注あり
 
 (太田)
 「JAWSスクリーンリーダー」は違和感があるので「スクリーンリーダーのJAWS」としました。「スクリーンリーダーの」をとるのもありかもしれない。
@@ -8144,7 +8143,7 @@ main    | メインリージョン開始         | メインリージョン終�
 
 (太田)
 VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだけではないようなので訳注で補足する必要があると思います。
-
+訳注を書きました。
 </note>
       <tuv lang="EN-US">
         <seg>The JAWS screen reader (and &lt;g3&gt;only&lt;/g3&gt; the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
