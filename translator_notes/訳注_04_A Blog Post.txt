@@ -83,7 +83,6 @@ https://html.spec.whatwg.org/multipage/semantics.html#sample-outlines
 
 
 >しかし、これは<g8><g9>どのユーザーエージェントにも実装されておらず</g9></g8><g10><g11><g12>（脚注38）</g12></g11></g10>、今後実装されそうな兆候もありません。
-
 訳注:
 ユーザーエージェントをブラウザに限定しなければ、セクショニングアルゴリズムの実装は存在します。HTML5.1の勧告には、適合性チェッカーやブラウザ拡張による実装はあるものの、ブラウザネイティブの実装がないという主旨のことが書かれています。
 
@@ -91,6 +90,10 @@ https://html.spec.whatwg.org/multipage/semantics.html#sample-outlines
 http://www.w3.org/TR/html51/sections.html#creating-an-outline
 
 
+
+>スクリーンリーダーのJAWSは（そしてJAWS<g3>だけ</g3>が）、この要素に入るときに「アーティクル開始」、出るときに「アーティクル終了」と読み上げます。
+訳注:
+最近ではVoiceOverも対応したようで、article要素に差し掛かると「記事 ランドマーク」のように読み上げます (本文に書かれているように、WAI-ARIA1.1の仕様上はarticleロールはランドマークではないのですが、VoiceOverはランドマークとして扱うようです)。
 
 
 
