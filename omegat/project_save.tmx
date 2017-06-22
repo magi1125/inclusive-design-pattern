@@ -6836,6 +6836,7 @@ modular, often dynamic content は直訳すると「組み立て式の、しば�
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)　曖昧→あいまい</note>
       <tuv lang="EN-US">
         <seg>Our terminology for these things fluctuates between &lt;g2&gt;modules&lt;/g2&gt;, &lt;g3&gt;components&lt;/g3&gt;, or the looser term &lt;g4&gt;patterns&lt;/g4&gt;, but essentially we mean the parts that contribute to an interface.</seg>
       </tuv>
@@ -10237,11 +10238,12 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)　1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>When creating patterns, we don’t labor according to any one guiding principle; we don’t create keyboard-accessible patterns or internationalized patterns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170622T030337Z" creationid="yoota" creationdate="20170622T030337Z">
-        <seg>パターンを作るとき、何か1つの指針に従うよう努力することはありません。キーボードでアクセスできるパターンや国際化されたパターンを作るのではないのです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170622T070528Z" creationid="yoota" creationdate="20170622T030337Z">
+        <seg>パターンを作るとき、何かひとつの指針に従うよう努力することはありません。キーボードでアクセスできるパターンや国際化されたパターンを作るのではないのです。</seg>
       </tuv>
     </tu>
     <tu>
