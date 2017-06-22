@@ -2151,8 +2151,8 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       <tuv lang="EN-US">
         <seg>As stated in the principles outlined in the introduction, all other design activities should be treated as merely supportive of the content and its formation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T054522Z" creationid="yoota" creationdate="20170512T032705Z">
-        <seg>「はじめに」で概説した原則で述べたように、他のすべてのデザイン活動は、コンテンツやその構成を単に支えるものとして行うべきです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170622T111820Z" creationid="yoota" creationdate="20170512T032705Z">
+        <seg>1章「はじめに」で概説した原則で述べたように、他のすべてのデザイン活動は、コンテンツやその構成を単に支えるものとして行うべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3346,7 +3346,8 @@ coverは説明するというか触れている程度かもしれません。
 
 (伊原) LGTM
 
-(岡本) 35→36</note>
+(岡本) 35→36
+「ブログ記事」の章では→4章「ブログ記事」では</note>
       <tuv lang="EN-US">
         <seg>For example, “The Blog Post” will cover testing content readability against the &lt;g1&gt;&lt;g2&gt;Flesch-Kincaid scale&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;22&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
