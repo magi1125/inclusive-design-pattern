@@ -9484,7 +9484,9 @@ This serves as an important reminderは直訳すると「このことは重要�
     <tu>
       <note>(太田)
 skeletonはoutlineの言い換えでしょうけれどどうしたものか。
-ひとまず「骨子」としつつ、全体調整しました。</note>
+ひとまず「骨子」としつつ、全体調整しました。
+あととのつながりをふまえて過去の話っぽくしました。
+</note>
       <tuv lang="EN-US">
         <seg>This skeleton was organized around theme, or principle.</seg>
       </tuv>
@@ -10171,12 +10173,12 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     <tu>
       <note>(太田)
 「ざっくりとした概要」は「ラフなアウトライン」のほうが良いかも?
-</note>
+あとを読んでいくと「最初の骨子がだめだったので作り直した」という話になっているので、ここの first は「最初に」と強めに訳出したほうがよさそうに思いました。</note>
       <tuv lang="EN-US">
         <seg>When I started working on this book, I prepared a rough outline first.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170622T024530Z" creationid="yoota" creationdate="20170622T023554Z">
-        <seg>本書の執筆に着手したとき、私はまずラフなアウトラインを作りました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030945Z" creationid="yoota" creationdate="20170622T023554Z">
+        <seg>本書の執筆に着手したとき、私は最初にラフなアウトラインを作りました。</seg>
       </tuv>
     </tu>
     <tu>
