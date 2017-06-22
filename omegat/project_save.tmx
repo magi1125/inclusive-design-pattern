@@ -2033,12 +2033,13 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       <note>(太田)
 「多種多様な章」は変かも。このvariousは「いくつかの」くらいで良いかもしれません。
 「肉付け」はやや比喩的な言い方になっていて分かりにくいかもしれません。動詞のfleshはためす、というような意味があるようです。ここでは「実際に書いてみる」くらいで良いかもしれません。
-</note>
+
+ wrong-foot は不意をつくといった意味があるようです。</note>
       <tuv lang="EN-US">
         <seg>As I embarked on fleshing out the various chapters, it quickly became apparent that I’d wrong-footed the structure entirely.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170622T025914Z" creationid="yoota" creationdate="20170622T025334Z">
-        <seg>私の場合、いくつかの章を実際に書いてみると、構造が完全に誤っていたことがすぐに明らかになりました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030248Z" creationid="yoota" creationdate="20170622T025334Z">
+        <seg>私の場合、いくつかの章を実際に書いてみると、構造が全体的に誤っていたことがすぐに明らかになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3859,6 +3860,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I ditched the contrived inclusion-by-principle structure early on in favor of talking through discrete patterns — motifs and components you might find in a working website or application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030350Z" creationid="yoota" creationdate="20170622T030350Z">
+        <seg>私は嘘臭い原則に従ったインクルージョンには早々に見切りをつけ、うまく機能しているWebサイトやアプリケーションに見られるモチーフやコンポーネントといった、個々のパターンについて説明することを選びました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
@@ -5226,6 +5235,14 @@ stillは無理に訳さなくても良い気がします。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It didn’t feel right to expound on making something inclusive in one regard without taking care of all the other problems that might undermine the same example.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030319Z" creationid="yoota" creationdate="20170622T030319Z">
+        <seg>何かをインクルーシブにする方法について、ある1つの点についてのみ詳しく説明し、害になる可能性がある他の問題について何も説明しないのは適切でないと思いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 大事なことなので2回言いました?
 原文は前半後半全く同一なので、訳でも同一のほうがいいかも。
 
@@ -5324,6 +5341,14 @@ Windowsのテーマなどがブラウザ側に反映されるのかどうかは�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T013540Z" creationid="yoota" creationdate="20170426T071340Z">
         <seg>&lt;g1&gt;Cmd&lt;/g1&gt;（または&lt;g2&gt;Ctrl&lt;/g2&gt;）キーと&lt;g3&gt;＋&lt;/g3&gt;キーを同時に押してページ全体を拡大するユーザーが増えているのはたしかです。しかし、最近のブラウザやオペレーティングシステムもテキストのみのサイズ変更をサポートしているため、それに対応しておくべきでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It just wasn’t compatible with the way I instinctively think and work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030259Z" creationid="yoota" creationdate="20170622T030259Z">
+        <seg>私の直感的な考え方や作業方法に合っていなかったのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5661,6 +5686,14 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T090531Z" creationid="yoota" creationdate="20170515T090531Z">
         <seg>それこそが、ビデオコンテンツにトランスクリプト（内容を文字に書き起こしたもの）を添えるべき理由です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’d be leaving the job unfinished.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030322Z" creationid="yoota" creationdate="20170622T030322Z">
+        <seg>それでは中途半端になってしまうでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6198,6 +6231,14 @@ manageは管理で良いような。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T052303Z" creationid="yoota" creationdate="20170511T105135Z">
         <seg>私のブログのドメインは&lt;g4&gt;heydonworks.com&lt;/g4&gt;なので、セレクタを次のように組み立てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My writing began to flow much more easily because I was essentially documenting my design process: the work of conceiving and realizing inclusive content and functionality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030355Z" creationid="yoota" creationdate="20170622T030355Z">
+        <seg>するとすらすらと筆が進み始めました。基本的に私自身のデザインプロセス（インクルーシブなコンテンツや機能を考え出し、実現するという作業）を文書化していたからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6792,6 +6833,14 @@ modular, often dynamic content は直訳すると「組み立て式の、しば�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Our terminology for these things fluctuates between &lt;g2&gt;modules&lt;/g2&gt;, &lt;g3&gt;components&lt;/g3&gt;, or the looser term &lt;g4&gt;patterns&lt;/g4&gt;, but essentially we mean the parts that contribute to an interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030332Z" creationid="yoota" creationdate="20170622T030332Z">
+        <seg>それはモジュール、コンポーネント、もっと定義が曖昧な言葉で言えばパターンなど、場合によって変化しますが、基本的にはインターフェイスに寄与する部分を意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 parityは平均化というより、ここでは等価、価値を等しくするという意味と思われます。
 
@@ -7281,6 +7330,14 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T101405Z" creationid="yoota" creationdate="20170501T100704Z">
         <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;にページの主要コンテンツを入れる設計になったことで、印刷用スタイルシートを簡単に書けるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since I’m speaking to you as designers, developers and makers yourselves, I figured this would make for clearer and more transferable information for you too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030359Z" creationid="yoota" creationdate="20170622T030359Z">
+        <seg>デザイナー、開発者、作成者の読者を想定した説明なので、この方が皆さんにもより明確で、情報が良く伝わると考えました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8211,6 +8268,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The Problem With Evaluating By Principle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030404Z" creationid="yoota" creationdate="20170622T030404Z">
+        <seg>原則ごとに評価する問題点</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 
@@ -8646,6 +8711,14 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reason I started out writing by principle is because I often have to wear my accessibility engineer hat and perform accessibility audits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030414Z" creationid="yoota" creationdate="20170622T030414Z">
+        <seg>最初に原則ごとに書き始めたのは、アクセシビリティエンジニアとしてアクセシビリティ検査を実行することがよくあるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rem unit causes problems in Safari, as “&lt;a1&gt;&lt;s2&gt;PX, EM or REM Media Queries?&lt;/s2&gt;&lt;/a1&gt;&lt;s3&gt;&lt;a4&gt;&lt;s5&gt;5&lt;/s5&gt;&lt;/a4&gt;&lt;/s3&gt;” by Zell Liew attests.)</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T090249Z" creationid="yoota" creationdate="20170425T085834Z">
@@ -8794,6 +8867,14 @@ would formなので、形作られたものになるでしょう、とか、そ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T033024Z" creationid="yoota" creationdate="20170427T033024Z">
         <seg>ポイントは、先にページを読み込んでから、onloadイベントを分岐点にしてフォントを読み込むようにすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The trouble was, when I set about describing how to make something keyboard-accessible, I had to bite my tongue not to talk about touch interaction, screen reader compatibility and copywriting as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030314Z" creationid="yoota" creationdate="20170622T030314Z">
+        <seg>問題は、何かをキーボードでアクセスできるようにする方法について説明しようと思ったときに、タッチ操作やスクリーンリーダーの互換性、コピーライティングなどについて触れないようにしなくてならなかったことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10014,6 +10095,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>We want these patterns to have &lt;g1&gt;all&lt;/g1&gt; the good qualities and, of course, none of the bad ones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030341Z" creationid="yoota" creationdate="20170622T030341Z">
+        <seg>作りたいのは、すべての優れた質を備え、当然ながら質の悪いところがまったくないパターンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) フォントがエンハンスメントなのではなく、エンハンスメントの手法でフォントを扱うという話なので、「エンハンスメントとして処理」→「エンハンスメントで処理」としました。
 
 (伊原) LGTM</note>
@@ -10141,6 +10230,14 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>When creating patterns, we don’t labor according to any one guiding principle; we don’t create keyboard-accessible patterns or internationalized patterns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030337Z" creationid="yoota" creationdate="20170622T030337Z">
+        <seg>パターンを作るとき、何か1つの指針に従うよう努力することはありません。キーボードでアクセスできるパターンや国際化されたパターンを作るのではないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 必要な文字のリストを指定できる、としました。
 
 (伊原) LGTM</note>
@@ -10193,6 +10290,14 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T071731Z" creationid="yoota" creationdate="20170512T071731Z">
         <seg>読者が何らかの調整を行った場合でも、破綻することが少なくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When we design interfaces, we don’t deal in abstract principles, we create working &lt;g1&gt;things&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T030326Z" creationid="yoota" creationdate="20170622T030326Z">
+        <seg>インターフェイスをデザインするとき、私たちは抽象的な原則を扱うのではなく、機能する具体的なものを作ります。</seg>
       </tuv>
     </tu>
     <tu>
