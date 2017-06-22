@@ -3860,11 +3860,12 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)　嘘→うそ</note>
       <tuv lang="EN-US">
         <seg>I ditched the contrived inclusion-by-principle structure early on in favor of talking through discrete patterns — motifs and components you might find in a working website or application.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170622T030350Z" creationid="yoota" creationdate="20170622T030350Z">
-        <seg>私は嘘臭い原則に従ったインクルージョンには早々に見切りをつけ、うまく機能しているWebサイトやアプリケーションに見られるモチーフやコンポーネントといった、個々のパターンについて説明することを選びました。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170622T070759Z" creationid="yoota" creationdate="20170622T030350Z">
+        <seg>私はうそ臭い原則に従ったインクルージョンには早々に見切りをつけ、うまく機能しているWebサイトやアプリケーションに見られるモチーフやコンポーネントといった、個々のパターンについて説明することを選びました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6840,8 +6841,8 @@ modular, often dynamic content は直訳すると「組み立て式の、しば�
       <tuv lang="EN-US">
         <seg>Our terminology for these things fluctuates between &lt;g2&gt;modules&lt;/g2&gt;, &lt;g3&gt;components&lt;/g3&gt;, or the looser term &lt;g4&gt;patterns&lt;/g4&gt;, but essentially we mean the parts that contribute to an interface.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170622T030332Z" creationid="yoota" creationdate="20170622T030332Z">
-        <seg>それはモジュール、コンポーネント、もっと定義が曖昧な言葉で言えばパターンなど、場合によって変化しますが、基本的にはインターフェイスに寄与する部分を意味します。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170622T070538Z" creationid="yoota" creationdate="20170622T030332Z">
+        <seg>それはモジュール、コンポーネント、もっと定義があいまいな言葉で言えばパターンなど、場合によって変化しますが、基本的にはインターフェイスに寄与する部分を意味します。</seg>
       </tuv>
     </tu>
     <tu>
