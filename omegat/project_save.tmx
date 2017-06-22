@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3047,6 +3047,15 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T030458Z" creationid="yoota" creationdate="20170614T030458Z">
         <seg>フローシステムの確立</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) 「ごとの」で良いのかあとで検討。</note>
+      <tuv lang="EN-US">
+        <seg>Evaluation By Pattern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T023552Z" creationid="yoota" creationdate="20170622T023552Z">
+        <seg>パターンごとの評価</seg>
       </tuv>
     </tu>
     <tu>
@@ -10019,6 +10028,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T072452Z" creationid="yoota" creationdate="20170511T072412Z">
         <seg>あまり知られていませんが、コントラストが非常に高い場合も、一部のユーザーにとって&lt;g1&gt;読みにくく&lt;/g1&gt;なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When I started working on this book, I prepared a rough outline first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T023554Z" creationid="yoota" creationdate="20170622T023554Z">
+        <seg>本書の執筆に着手したとき、私はまずざっくりとした概要を作成しました。</seg>
       </tuv>
     </tu>
     <tu>
