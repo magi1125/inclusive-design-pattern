@@ -1437,12 +1437,14 @@ font-size: 16px;
       <note>(太田) LGTM. &lt;x1/&gt;&lt;x2/&gt;は&lt;img/&gt;&lt;br/&gt;ぽい。
 
 (伊原) LGTM
+
+(岡本)　一つ→ひとつ
 </note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Another advantage of being able to eliminate subsidiary content is the ability to improve the on-screen reading experience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T103158Z" creationid="yoota" creationdate="20170501T103158Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;補助的なコンテンツを省けるようにするもう一つのメリットは、画面で読むユーザーの体験が向上するということです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170622T084552Z" creationid="yoota" creationdate="20170501T103158Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;補助的なコンテンツを省けるようにするもうひとつのメリットは、画面で読むユーザーの体験が向上するということです。</seg>
       </tuv>
     </tu>
     <tu>
