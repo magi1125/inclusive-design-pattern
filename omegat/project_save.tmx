@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5235,11 +5235,12 @@ stillは無理に訳さなくても良い気がします。
       </tuv>
     </tu>
     <tu>
+      <note>(岡本) 1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>It didn’t feel right to expound on making something inclusive in one regard without taking care of all the other problems that might undermine the same example.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170622T030319Z" creationid="yoota" creationdate="20170622T030319Z">
-        <seg>何かをインクルーシブにする方法について、ある1つの点についてのみ詳しく説明し、害になる可能性がある他の問題について何も説明しないのは適切でないと思いました。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170622T065740Z" creationid="yoota" creationdate="20170622T030319Z">
+        <seg>何かをインクルーシブにする方法について、あるひとつの点についてのみ詳しく説明し、害になる可能性がある他の問題について何も説明しないのは適切でないと思いました。</seg>
       </tuv>
     </tu>
     <tu>
