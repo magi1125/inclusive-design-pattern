@@ -9364,6 +9364,17 @@ This serves as an important reminderは直訳すると「このことは重要�
     </tu>
     <tu>
       <note>(太田)
+スケルトンどうするか。
+</note>
+      <tuv lang="EN-US">
+        <seg>This skeleton was organized around theme, or principle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T024543Z" creationid="yoota" creationdate="20170622T024543Z">
+        <seg>この概略は、テーマ、または原則を中心に構成しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
 correctedは修正された、ですが若干違和感があります。訳すなら「正しい」「意図通りの」くらいでしょうか。複数の方法の一つを紹介している形であり、これが唯一の正解ということではないので、トリでも良いように思いました。
 
 (伊原) LGTM</note>
@@ -10037,8 +10048,8 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       <tuv lang="EN-US">
         <seg>When I started working on this book, I prepared a rough outline first.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170622T024522Z" creationid="yoota" creationdate="20170622T023554Z">
-        <seg>本書の執筆に着手したとき、私はまずラフなアウトラインを作成しました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170622T024530Z" creationid="yoota" creationdate="20170622T023554Z">
+        <seg>本書の執筆に着手したとき、私はまずラフなアウトラインを作りました。</seg>
       </tuv>
     </tu>
     <tu>
