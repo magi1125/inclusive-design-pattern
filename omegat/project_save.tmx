@@ -5257,12 +5257,14 @@ stillは無理に訳さなくても良い気がします。
       </tuv>
     </tu>
     <tu>
-      <note>(岡本) 1つ→ひとつ</note>
+      <note>(岡本) 1つ→ひとつ
+
+(伊原) 思いました➞感じました</note>
       <tuv lang="EN-US">
         <seg>It didn’t feel right to expound on making something inclusive in one regard without taking care of all the other problems that might undermine the same example.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170622T065740Z" creationid="yoota" creationdate="20170622T030319Z">
-        <seg>何かをインクルーシブにする方法について、あるひとつの点についてのみ詳しく説明し、害になる可能性がある他の問題について何も説明しないのは適切でないと思いました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170626T140624Z" creationid="yoota" creationdate="20170622T030319Z">
+        <seg>何かをインクルーシブにする方法について、あるひとつの点についてのみ詳しく説明し、害になる可能性がある他の問題について何も説明しないのは適切でないと感じました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5718,11 +5720,12 @@ http://eow.alc.co.jp/search?q=right%20way</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 「私はその仕事が未完成のまま離れるだろう」なので、半端なまま放り出したことになる、的なニュアンスかなと思いました。</note>
       <tuv lang="EN-US">
         <seg>I’d be leaving the job unfinished.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170622T030322Z" creationid="yoota" creationdate="20170622T030322Z">
-        <seg>それでは中途半端になってしまうでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170626T141202Z" creationid="yoota" creationdate="20170622T030322Z">
+        <seg>それでは半端なまま放り出したことになってしまうでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8905,7 +8908,8 @@ would formなので、形作られたものになるでしょう、とか、そ�
     <tu>
       <note>(太田)
 bite my tongue のようなヘイドンフレーズを生かすべきか。
-</note>
+
+(伊原) OK。一文が長いので bite my tongue はスルーでいいような。</note>
       <tuv lang="EN-US">
         <seg>The trouble was, when I set about describing how to make something keyboard-accessible, I had to bite my tongue not to talk about touch interaction, screen reader compatibility and copywriting as well.</seg>
       </tuv>
