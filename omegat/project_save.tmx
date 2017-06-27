@@ -9438,6 +9438,14 @@ separateは物理的に分割するイメージかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The patterns described in this book are reusable as exemplars, but mostly they’re for practice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T102111Z" creationid="okamoto_jun" creationdate="20170627T102111Z">
+        <seg>本書で取り上げているパターンは、手本として使えるように用意したものですが、そのほとんどは実践で使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 前の例にはサブタイトルに相当するものは無かったので唐突な感はありますね。rewrittenを訳出して「前の例を書き直して」的にするほうがいいかもしれません。
 In Seven Simple Steps.の訳は要検討。「セクションの見出しとしては奇妙で断片的であり、目次が生成されてもほとんど意味を成さない」ものになっているべきです。
@@ -11287,6 +11295,14 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>When new problems arise, requiring different inclusive patterns to be formulated, you will have learned how to think about formulating them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T102129Z" creationid="okamoto_jun" creationdate="20170627T102129Z">
+        <seg>新たな問題が生じれば、新たなパターンを確立する必要がありますが、本書を読んだあなたは、パターンを確立する方法を身に着けていることでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ヘイドンbreak。破綻としてみました。
 
 (伊原) LGTM</note>
@@ -11763,6 +11779,15 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170526T153404Z" creationid="yoota" creationdate="20170522T100411Z">
         <seg>理解しやすい塊にコンテンツを分解するよう、常に意識するべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will have become an inclusive designer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T102156Z" creationid="okamoto_jun" creationdate="20170627T102156Z">
+        <seg>あなたはインクルーシブデザイナーになっているのです。
+</seg>
       </tuv>
     </tu>
     <tu>
