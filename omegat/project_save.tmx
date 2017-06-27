@@ -3308,6 +3308,14 @@ line-heightは原文の原稿では小文字なのですが、この見出しは
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Far from being daunted or frustrated, they know that by exploiting standard conventions they can achieve more by doing less.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101153Z" creationid="okamoto_jun" creationdate="20170627T101153Z">
+        <seg>しかし、恐れたり面倒に思ったりすることは全くありません。彼らは、一般的な慣習を利用すれば、わずかな労力で問題を解決できることを知っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 画像のaltです。
 「これでもまだ利用できる！」はたぶん誤訳です。
 
@@ -4964,6 +4972,14 @@ crypticは「暗号めいた」という感じですが、「もったいぶっ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170602T093737Z" creationid="rikiha" creationdate="20170601T175120Z">
         <seg>言い換えれば、もったいぶったり、風変わりにしたりしても、ろくなことがないということです!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In other words, they know when to design and when to employ what is &lt;g1&gt;already designed&lt;/g1&gt; — a simple HTML button element, provided as standard by the HTML specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101353Z" creationid="okamoto_jun" creationdate="20170627T101232Z">
+        <seg>言い換えれば、どういう時にデザインをするべきで、どういう時に既にデザインされたものを採用するべきかわかっているのです。ここで採用すべきは単純なHTMLのボタンの要素、HTMLの仕様で標準として提供されているものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7570,6 +7586,14 @@ OK</note>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095030Z" creationid="okamoto_jun" creationdate="20170627T095008Z">
         <seg>前の段落の「データの構造」を「インターフェイス」に置き換え、「住所」を「人々」に入れ替えてみてください。そうすれば、それがそのまま、いわゆるインクルーシブインターフェイスデザインの話になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resizable, translatable, focusable, interoperable, stylable, restylable, maintainable, mutable, &lt;g2&gt;simple&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101410Z" creationid="okamoto_jun" creationdate="20170627T101410Z">
+        <seg>サイズが変更でき、翻訳でき、フォーカスでき、相互運用でき、スタイルが指定でき、スタイルの上書きができ、メンテナンスでき、変幻自在で、そしてシンプルです。</seg>
       </tuv>
     </tu>
     <tu>
