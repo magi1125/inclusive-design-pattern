@@ -258,6 +258,14 @@ p {</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;button&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;Start&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;button&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101510Z" creationid="okamoto_jun" creationdate="20170627T101510Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;button&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;スタート&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;button&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h1&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;How To Mark Up Blog Articles&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;h1&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;
 &lt;g10&gt;&lt;!-- introductory content --&gt;&lt;/g10&gt;
 &lt;g11&gt;&lt;g12&gt;&lt;g13&gt;&lt;&lt;/g13&gt;h3&lt;/g12&gt;&lt;g14&gt;&gt;&lt;/g14&gt;&lt;/g11&gt;A quick note on the word ‘semantic’&lt;g15&gt;&lt;g16&gt;&lt;g17&gt;&lt;/&lt;/g17&gt;h3&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g15&gt; &lt;g19&gt;&lt;!-- wait!</seg>
@@ -3266,6 +3274,14 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Even so, &lt;g1&gt;combining&lt;/g1&gt; simple, standard elements and conventional structures empathetically needn’t be difficult, nor impede artistic flair: our &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; can still be presented in a near-infinite number of ways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101607Z" creationid="okamoto_jun" creationdate="20170627T101607Z">
+        <seg>それでも、シンプルな標準の要素と慣習的な構造を組み合わせるのはそう難しいことではありませんし、見た目の美しさを邪魔するものでもありません。そして &lt;button&gt; は、あらゆる手段でユーザーに伝わるインクルーシブなものになるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM
 
 (岡本) 分かり→わかり</note>
@@ -4251,6 +4267,14 @@ a element ではなく elements であることに意味があるように思い
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170619T144856Z" creationid="yoota" creationdate="20170614T100622Z">
         <seg>それぞれの要素に直接マージンを適用してしまうと、コンテナのパディングとダブってしまう危険があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If only 1% of all color combinations are accessible then there are still almost 141 million combinations to choose from.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101643Z" creationid="okamoto_jun" creationdate="20170627T101643Z">
+        <seg>しかし、すべての色の組み合わせのわずか1%だけがアクセシブルなのだとしても、およそ1億4千万通りの組み合わせから選べることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6747,6 +6771,14 @@ http://eigo-kobako.blog.so-net.ne.jp/2015-07-14
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Not all inclusive design solutions are as simple as choosing the right HTML element for the job.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101529Z" creationid="okamoto_jun" creationdate="20170627T101529Z">
+        <seg>インクルーシブデザインの解決策は、目的に合った正しいHTML要素を選ぶ、というようなシンプルなものばかりではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM
 
 (岡本) すべて→全て</note>
@@ -7103,6 +7135,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170605T031515Z" creationid="yoota" creationdate="20170605T031515Z">
         <seg>不快なリンクラベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Obviously not all of them are accessible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101637Z" creationid="okamoto_jun" creationdate="20170627T101637Z">
+        <seg>ちろん、その組み合わせのすべてがアクセシブルなわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10305,6 +10345,14 @@ http://pothos.main.jp/setuzokusi.htm</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This seems more than adequate to paint any bikeshed you will come across for the rest of your career.” – “&lt;g1&gt;&lt;g2&gt;The Veil Of Ignorance&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” Adam Morse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101819Z" creationid="okamoto_jun" creationdate="20170627T101819Z">
+        <seg>今後の人生で出くわす自転車置き場をすべてを別の色に塗ってもまだ余るほどです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) thisは文書型宣言ではなく、「HTMLが文書であるという事実」ではないかと思います。
 This serves as an important reminderは直訳すると「このことは重要なリマインダーとなる」ということですが、もう少し砕いて訳したい感もあります。
 
@@ -11894,6 +11942,14 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170515T015603Z" creationid="yoota" creationdate="20170510T071935Z">
         <seg>「平均的ユーザーは、すべてのユーザーを組み合わせて作られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“There are 140,737,479,966,720 combinations of hexcodes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101621Z" creationid="okamoto_jun" creationdate="20170627T101621Z">
+        <seg>色を表す16進コードの組み合わせは140,737,479,966,720通りあります。</seg>
       </tuv>
     </tu>
     <tu>
