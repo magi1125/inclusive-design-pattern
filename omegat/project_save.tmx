@@ -1890,6 +1890,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Accordingly, the current implementation presents a number of problems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100312Z" creationid="okamoto_jun" creationdate="20170627T100312Z">
+        <seg>そうすると、この実装の問題点が次々と見えてきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>（伊原：確認中）
 
 (太田) 「見出しコンテンツ」はやや違和感があるが「見出しの内容」としてもヘンなのでいったんママで。全体をざっくり「以下の見出しのほうが」としてしまっても良いかも。
@@ -2050,6 +2058,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T075043Z" creationid="yoota" creationdate="20170511T075043Z">
         <seg>そして実用性は認知に依存しており、認知は慣習に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another problem is encountered when a user switches off image loading in their mobile browser, to save bandwidth: the button, constituted entirely by a background image, will be invisible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100452Z" creationid="okamoto_jun" creationdate="20170627T100452Z">
+        <seg>もうひとつの問題は、モバイルブラウザで帯域幅を節約するために、画像の読み込みをオフにした場合に起こります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2249,6 +2265,15 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T070955Z" creationid="yoota" creationdate="20170510T072732Z">
         <seg>「&lt;g1&gt;&lt;g2&gt;Designing for the extremes&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注19）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」というすばらしい記事で指摘されているように、極端な状況に置かれたユーザーを優先してデザインすることで、すべての人により良いサービスを提供できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As the third designer is only too aware, there are few direct translations between graphic design and web interface design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100240Z" creationid="okamoto_jun" creationdate="20170627T100240Z">
+        <seg>このことをよく知っているのが次のインクルーシブデザイナーです。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4262,6 +4287,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170429T222132Z" creationid="yoota" creationdate="20170426T053854Z">
         <seg>DOCTYPEでドキュメントの&lt;g1&gt;種類&lt;/g1&gt;をブラウザに伝えたら（HTML5なら上の例のようになります）、次は&lt;g2&gt;&lt;html&gt;&lt;/g2&gt;要素の&lt;g3&gt;lang&lt;/g3&gt;属性でドキュメントの言語を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the user adjusts their browser’s default font size independently, the image (which has been defined using pixels rather than relative units) will not scale at all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100438Z" creationid="okamoto_jun" creationdate="20170627T100438Z">
+        <seg>ユーザーがブラウザのデフォルトフォントサイズを独自に調整した場合、画像（相対単位ではなく、ピクセルでサイズ指定されたもの）は拡大縮小されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7158,6 +7191,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>One problem regards the not insignificant number of users who zoom their web pages to ease reading.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100401Z" creationid="okamoto_jun" creationdate="20170627T100326Z">
+        <seg>問題のひとつは、Webページを読みやすいように拡大するユーザーにとって重要なことです。このようなユーザーは少なくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのsupportedは裏付けがあるのではなく、支持されているという意味かと思います。
 「セリフフォント」「サンセリフフォント」は字面が見づらいので「セリフ書体」「サンセリフ書体」としたほうが読みやすいかも。
 
@@ -8393,6 +8434,14 @@ yourを「コンテンツ側で」として補いました。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That’s if the user operates full page zoom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100420Z" creationid="okamoto_jun" creationdate="20170627T100420Z">
+        <seg>ただし、これはユーザーがページ全体を拡大した場合の話です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That’s not like the web &lt;g1&gt;at all&lt;/g1&gt;, but it doesn’t stop us pouring wasted energy into pointless frippery like pixel perfection and organizing ourselves into those two ill-defined, arbitrary groups, designers and developers.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085240Z" creationid="okamoto_jun" creationdate="20170627T085240Z">
@@ -8716,6 +8765,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095222Z" creationid="okamoto_jun" creationdate="20170627T095222Z">
         <seg>インクルーシブなボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Inclusive Designer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100246Z" creationid="okamoto_jun" creationdate="20170627T100246Z">
+        <seg>インクルーシブデザイナーにとってのボタン</seg>
       </tuv>
     </tu>
     <tu>
@@ -9105,6 +9162,14 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The image used is not a vector, so cannot be scaled without becoming degraded and blurry as a result.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100341Z" creationid="okamoto_jun" creationdate="20170627T100341Z">
+        <seg>使用する画像はベクターではないため、画像のサイズを変えるとどうしても画質が下がり、ぼやけてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「ターゲットを絞ることで得るものは何一つありません」は言いすぎです。「特定の層を排除しても、得るものは何一つありません」が正しいかと。</note>
       <tuv lang="EN-US">
         <seg>The key to inclusive design isn’t to target specific groups, it’s to &lt;e1&gt;not exclude&lt;/e1&gt; groups arbitrarily — there’s nothing to gain.</seg>
@@ -9386,6 +9451,14 @@ sound semantic structureとは。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T024738Z" creationid="yoota" creationdate="20170614T024738Z">
         <seg>だけど実際は、歯が弱すぎて人は噛めないんだ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The third designer sees the second designer’s button from a number of perspectives, each the imagined point of view of a potential user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100300Z" creationid="okamoto_jun" creationdate="20170627T100300Z">
+        <seg>インクルーシブデザイナーは、コードを書くデザイナーのボタンを、潜在ユーザーを想定したさまざまな観点から検討します。</seg>
       </tuv>
     </tu>
     <tu>
