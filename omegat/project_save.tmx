@@ -4721,6 +4721,14 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In any case, thinking about the structure of data and trying to arrive at an optimal solution &lt;g1&gt;is designing&lt;/g1&gt; and there’s not an Adobe license or copy of Sketch in sight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094902Z" creationid="okamoto_jun" creationdate="20170627T094806Z">
+        <seg>ともあれ、このようにデータの構造を考え、最適解を導き出すための試行錯誤をすることがデザインなのです。Adobeのライセンスを買ったり、Sketchをコピーしたりしなくてもデザインはできるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In conventional web page anatomy, this content is designated to a main content area.</seg>
@@ -4750,6 +4758,14 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T052705Z" creationid="yoota" creationdate="20170511T052337Z">
         <seg>デスクトップパブリッシングでは、ハイフネーションでこの問題を軽減できます。長い単語を分割し、より均等に再割り付けするのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In fact, it’s really a kind of &lt;g2&gt;inclusive&lt;/g2&gt; design: here, the right solution is one which is inclusive of different kinds of addresses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094918Z" creationid="okamoto_jun" creationdate="20170627T094918Z">
+        <seg>実際、先に挙げた正しい解決策は、さまざまな形式の住所を含められるインクルーシブデザインになっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7699,6 +7715,14 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Simply capturing a single string makes more sense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094735Z" creationid="okamoto_jun" creationdate="20170627T094735Z">
+        <seg>単純にひとつの文字列として格納するほうが理にかなっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのSinceは時期的な起点のニュアンスを持っていて、mainがこのようにデザインされたから楽になった、と言っている (暗に「昔はmainがなかったので大変だった」ということを含んでいる) ように思います。</note>
       <tuv lang="EN-US">
         <seg>Since &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; is designed to contain the salient content of a page, it can make the writing of a print style sheet easier.</seg>
@@ -10645,6 +10669,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We’d like to be able to deal with consistent, uniform addresses, but that’s not reality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094936Z" creationid="okamoto_jun" creationdate="20170627T094936Z">
+        <seg>一貫性のある、統一された形で住所を扱うことができれば良いのですが、それは現実的ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We’ve misconceived and mistreated the medium, both making hard work for ourselves and shortchanging our audiences as a result.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084518Z" creationid="okamoto_jun" creationdate="20170627T084518Z">
@@ -11305,6 +11337,14 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T100727Z">
         <seg>あなたがデザインするインターフェイスはあくまでブラウザのインターフェイスに付随するものであり、ユーザー側のさまざまな設定や構成に対応できなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’d have to forfeit being able to extract countries, but sometimes that’s the way it goes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094750Z" creationid="okamoto_jun" creationdate="20170627T094750Z">
+        <seg>国の抽出はできなくなりますが、それはそういうものです。</seg>
       </tuv>
     </tu>
     <tu>
