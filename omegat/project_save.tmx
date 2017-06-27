@@ -10276,12 +10276,28 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Well, never mind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T081410Z" creationid="okamoto_jun" creationdate="20170627T081410Z">
+        <seg>いいよ、気にしないで。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Well, there’s more that goes into humble paragraph text design than perhaps you first imagined.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T034043Z" creationid="yoota" creationdate="20170512T034043Z">
         <seg>地味なパラグラフテキストのデザインには、皆さんが最初にイメージしていたよりも、おそらくたくさんのことが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What does he actually &lt;g1&gt;design&lt;/g1&gt; anyway?”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T081431Z" creationid="okamoto_jun" creationdate="20170627T081431Z">
+        <seg>それはそうと、彼はいったい何をデザインしているの？」</seg>
       </tuv>
     </tu>
     <tu>
@@ -11023,12 +11039,44 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>“Oh, &lt;g1&gt;right&lt;/g1&gt;.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T081514Z" creationid="okamoto_jun" creationdate="20170627T081514Z">
+        <seg>あなた「へえ、そうなんだ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Oh, he’s a web designer.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T081502Z" creationid="okamoto_jun" creationdate="20170627T081502Z">
+        <seg>友人「彼はWebデザイナーなんだよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Oh, your friend the designer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T081456Z" creationid="okamoto_jun" creationdate="20170627T081349Z">
+        <seg>あなた「ああ、デザイナーの彼ね。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 平均的ユーザーとして「な」を取りました。</note>
       <tuv lang="EN-US">
         <seg>“The average user is created from the combination of all users.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170515T015603Z" creationid="yoota" creationdate="20170510T071935Z">
         <seg>「平均的ユーザーは、すべてのユーザーを組み合わせて作られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Yeah.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T082017Z" creationid="okamoto_jun" creationdate="20170627T082017Z">
+        <seg>友人「うん」</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
