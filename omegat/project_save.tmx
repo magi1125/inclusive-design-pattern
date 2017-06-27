@@ -2451,6 +2451,14 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>But I’m willing to bet this isn’t you, otherwise you wouldn’t be reading this book.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084401Z" creationid="okamoto_jun" creationdate="20170627T084401Z">
+        <seg>しかし、この本を読んでいるあなたは、きっとそうではないはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「ストリーミングできる」は違和感があったので調整しました。
 
@@ -3262,6 +3270,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170424T065302Z" creationid="yoota" creationdate="20170424T065302Z">
         <seg>フォントサイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a long time, we’ve been getting the answers to these questions epically, tragicomically &lt;g1&gt;wrong&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084504Z" creationid="okamoto_jun" creationdate="20170627T084504Z">
+        <seg> 私たちは長いあいだ、この問いに対する答えを間違え続けてきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4278,8 +4294,8 @@ by name は「バイネームで」でも良いのかもしれないですね。
       <tuv lang="EN-US">
         <seg>If you’re more a consumer of the web than a producer &lt;g1&gt;for&lt;/g1&gt; the web, &lt;g2&gt;web designer&lt;/g2&gt; is probably sufficient: “OK, so they design web stuff.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084257Z" creationid="okamoto_jun" creationdate="20170627T084257Z">
-        <seg>もしあなたがWebを作る側というより利用する側に近いなら、おそらくWebデザイナーという答えで十分でしょう。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084334Z" creationid="okamoto_jun" creationdate="20170627T084257Z">
+        <seg>もしあなたがWebを作る側というより利用する側に近いなら、おそらくWebデザイナーという答えで十分でしょう。こんな風に答えるんじゃないですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -5106,6 +5122,14 @@ becauseを訳出しました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T052921Z" creationid="yoota" creationdate="20170511T105625Z">
         <seg>その場合、編集者にアイコン画像をアップロードしてリンクするよう頼むのは避けたいですし、ましてや、ソースを編集して各外部リンクに&lt;g1&gt;class&lt;/g1&gt;属性を追加してもらうことなど頼めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In which case, you’re no doubt aware just how controversial, contested, and frequently contrary the term &lt;g1&gt;design&lt;/g1&gt; is in the context of the web.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084419Z" creationid="okamoto_jun" creationdate="20170627T084419Z">
+        <seg>Webを作る側の人間ならきっと、Webという文脈においてデザインという言葉がひんぱんに物議を醸し、争いを招き、しばしば意見が正反対に分かれることもご存じでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7179,6 +7203,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Reconceiving Web Design</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085140Z" creationid="okamoto_jun" creationdate="20170627T085140Z">
+        <seg>Webデザインを考え直す</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)
 前章の「フォーカスを示す」を思い出してください。→3章「パラグラフ」の「フォーカスを示す」（◯ページ）を思い出してください。
 
@@ -7614,6 +7646,14 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T103717Z" creationid="yoota" creationdate="20170614T103610Z">
         <seg>そして、そうであるべきなのです。読者の理解を助けるために、関連する要素は視覚的に近接させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So which ones are the designers, and what do they do?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084448Z" creationid="okamoto_jun" creationdate="20170627T084448Z">
+        <seg>では、いったいその中の誰がデザイナーなのでしょうか？ デザイナーとは何をする人なのでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -8798,6 +8838,14 @@ separateは物理的に分割するイメージかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170613T061028Z" creationid="yoota" creationdate="20170613T051311Z">
         <seg>最も重要なのは、以下の点を認識できるようにすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of people contributing to the web at any given moment is unfathomable, and so is the variety of their talents and skills.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084434Z" creationid="okamoto_jun" creationdate="20170627T084434Z">
+        <seg>Webにどこかの段階で寄与している人の数は計り知れず、才能やスキルも実にさまざまです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10293,6 +10341,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Websites and the like.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084342Z" creationid="okamoto_jun" creationdate="20170627T084342Z">
+        <seg>あなた「なるほど、Webのあれやこれやをデザインしているわけね。Webサイトとかそういうやつ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well, never mind.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T081410Z" creationid="okamoto_jun" creationdate="20170627T081410Z">
@@ -10306,6 +10362,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T034043Z" creationid="yoota" creationdate="20170512T034043Z">
         <seg>地味なパラグラフテキストのデザインには、皆さんが最初にイメージしていたよりも、おそらくたくさんのことが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’ve misconceived and mistreated the medium, both making hard work for ourselves and shortchanging our audiences as a result.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084518Z" creationid="okamoto_jun" creationdate="20170627T084518Z">
+        <seg>Webというメディアを誤解して不適切に扱った結果、自ら苦労を増やして、ユーザーにも損害を与えてきたのです。</seg>
       </tuv>
     </tu>
     <tu>
