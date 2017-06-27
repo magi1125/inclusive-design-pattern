@@ -8644,6 +8644,14 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The Designer Who Codes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095716Z" creationid="okamoto_jun" creationdate="20170627T095716Z">
+        <seg>コードを書くデザイナーにとってのボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) DOCTYPEは大文字にしたいです。HTML仕様では大文字表記です。
 https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 文書型とすべきかどうか悩みましたが、HTML5はSGMLではないため、もはやDOCTYPEに文書型宣言の意味はありません。それをふまえると、下手に文書型と訳したりしないほうが良いように思いました。
@@ -8665,6 +8673,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170430T231127Z" creationid="yoota" creationdate="20170418T080813Z">
         <seg>ドキュメント全体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Graphic Designer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095335Z" creationid="okamoto_jun" creationdate="20170627T095335Z">
+        <seg>グラフィックデザイナーにとってのボタン</seg>
       </tuv>
     </tu>
     <tu>
@@ -9004,6 +9020,14 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The first designer comes from a graphic design background.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095351Z" creationid="okamoto_jun" creationdate="20170627T095351Z">
+        <seg>最初にとりあげるのは、グラフィックデザイナーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (伊原) 下訳を反映
@@ -9201,6 +9225,14 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The purpose of this example is to show you how a little bit of knowledge about the medium can lead to a simpler and more inclusive solution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095322Z" creationid="okamoto_jun" creationdate="20170627T095322Z">
+        <seg>Webというメディアに対する少しの知識が、よりシンプルかつインクルーシブな解決策を導き出すことに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reason I started out writing by principle is because I often have to wear my accessibility engineer hat and perform accessibility audits.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170622T030414Z" creationid="yoota" creationdate="20170622T030414Z">
@@ -9377,6 +9409,22 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085313Z" creationid="okamoto_jun" creationdate="20170627T085313Z">
         <seg>本来、デザインの仕事とは、熟慮することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their files never have a resolution lower than 300dpi and they have a working knowledge of color theory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095356Z" creationid="okamoto_jun" creationdate="20170627T095356Z">
+        <seg>彼らは解像度300dpi未満のファイルは絶対に扱いませんが、実用的な色彩理論の知識を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their typography and illustration skills are vivacious.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095409Z" creationid="okamoto_jun" creationdate="20170627T095409Z">
+        <seg>また、タイポグラフィとイラストに関するスキルも豊富です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9568,6 +9616,14 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>They are concerned with how that button resembles a real button and how it simultaneously fits into the larger design’s branding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095436Z" creationid="okamoto_jun" creationdate="20170627T095436Z">
+        <seg>本物のボタンのように見えるか、全体のブランディングにフィットしているかを常に考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「置き換える」でも問題ありませんが、ライティングの話なので「書き換える」としました。
 
 (伊原) LGTM</note>
@@ -9576,6 +9632,14 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T033127Z" creationid="yoota" creationdate="20170512T033127Z">
         <seg>多くの場合、より直接的な表現に書き換えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They have no idea how to put that button on a web page or to make it do anything.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095457Z" creationid="okamoto_jun" creationdate="20170627T095457Z">
+        <seg>そのボタンをどうやってWebページに実装するか、どうやって動作させるかはまったく考えていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10054,6 +10118,14 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This time, we’ll look at an interactive element, a button, from the perspectives of three types of designer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095300Z" creationid="okamoto_jun" creationdate="20170627T095300Z">
+        <seg>ここでは、インタラクティブ要素であるボタンを、3種類のデザイナーの視点で見てみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 correctedは修正された、ですが若干違和感があります。訳すなら「正しい」「意図通りの」くらいでしょうか。複数の方法の一つを紹介している形であり、これが唯一の正解ということではないので、トリでも良いように思いました。
 
@@ -10363,6 +10435,14 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170615T100951Z" creationid="yoota" creationdate="20170615T100620Z">
         <seg>引用やイラストなどの補足的なコンテンツを本文テキストから離すには、以下のように&lt;g1&gt;&lt;p&gt;&lt;/g1&gt;以外のすべてのマージンを増やします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To them, a button is a visual artifact, producible in Adobe Illustrator or Sketch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095421Z" creationid="okamoto_jun" creationdate="20170627T095421Z">
+        <seg>彼らにとってボタンは視覚的な成果物であり、Adobe IllustratorやSketchで作るものです。</seg>
       </tuv>
     </tu>
     <tu>
