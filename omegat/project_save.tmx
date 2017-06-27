@@ -8684,6 +8684,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The HTML looks like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095755Z" creationid="okamoto_jun" creationdate="20170627T095755Z">
+        <seg>彼らは以下のようなHTMLを書きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 指定→設計
 
 (伊原) LGTM</note>
@@ -8736,6 +8744,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170527T110715Z" creationid="yoota" creationdate="20170524T072926Z">
         <seg>スクリーンリーダーのJAWSは（そしてJAWS&lt;g3&gt;だけ&lt;/g3&gt;が）、この要素に入るときに「アーティクル開始」、出るときに「アーティクル終了」と読み上げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The JavaScript would probably be written using jQuery or perhaps AngularJS’s API.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095841Z" creationid="okamoto_jun" creationdate="20170627T095841Z">
+        <seg>JavaScriptはおそらくjQueryか、もしかするとAngularJSのAPIを使って書くことになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9286,6 +9302,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T010859Z">
         <seg>右は、行の高さは同じだが文字が大きいため、各行が重なってしまっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second designer has many of the same skills exhibited by the first, but differs in one important aspect: they have enough knowledge of HTML, CSS and JavaScript to make their button appear inside a web page, and attach a JavaScript event listener to it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095747Z" creationid="okamoto_jun" creationdate="20170627T095747Z">
+        <seg>2番めにとりあげるデザイナーは、最初のデザイナーとほとんど同じスキルをもっていますが、ひとつ大きな違いがあります。彼らは、Webページ内にボタンを表示し、JavaScriptのイベントリスナーをアタッチできるだけのHTML、CSS、JavaScriptの知識を持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10628,6 +10652,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Web API (“vanilla” JavaScript), it might look a bit like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095849Z" creationid="okamoto_jun" creationdate="20170627T095849Z">
+        <seg>Web API （「バニラ」JavaScript）で書くと、おおむね以下のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Very difficult to read.</seg>
@@ -11510,6 +11542,14 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T030331Z" creationid="yoota" creationdate="20170614T030331Z">
         <seg>[グラスの割れる音]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and the CSS like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095806Z" creationid="okamoto_jun" creationdate="20170627T095806Z">
+        <seg>そしてCSSは以下のようになります。</seg>
       </tuv>
     </tu>
     <tu>
