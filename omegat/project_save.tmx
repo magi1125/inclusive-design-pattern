@@ -910,6 +910,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The potential audience of a website or app is &lt;g2&gt;anyone human&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091716Z" creationid="okamoto_jun" creationdate="20170627T091617Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;あらゆる人間がWebやアプリケーションの潜在ユーザーであり、</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The text may be too small for the user to read.</seg>
@@ -3554,6 +3562,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For the subject and purpose of this particular book, that last principle is the most important.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091841Z" creationid="okamoto_jun" creationdate="20170627T091841Z">
+        <seg>この本のテーマと目的からすると、最後の原則が最も重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) あまりにも分かりにくいので2文にわけました。たぶんこういうことだと思います。
 
 (伊原) テキスト➞リンクテキスト と補いました。</note>
@@ -5184,6 +5200,14 @@ easiliy digestible は消化しやすいということのようで、もう少�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Inclusive Design</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091810Z" creationid="okamoto_jun" creationdate="20170627T091810Z">
+        <seg>インクルーシブデザイン</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) not just で「だけでなく」なのでそのようにしました。また、実際の使い方という言い方に直しました。
 
 (太田) appreciateは「評価する」くらいかも。
@@ -5221,6 +5245,14 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T031720Z" creationid="yoota" creationdate="20170614T031720Z">
         <seg>インクルーシブWebデザインの目的は、ユーザーに堅牢でアクセシブルな体験を提供することだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inclusivity of ability, preference and circumstance is paramount.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091725Z" creationid="okamoto_jun" creationdate="20170627T091725Z">
+        <seg>能力、嗜好、状況のインクルーシビティは最も重要である。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10720,6 +10752,14 @@ raw HTMLは「生の」くらいでしょうか。Wiki記法やMarkdown記法で
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170616T114039Z" creationid="yoota" creationdate="20170616T021004Z">
         <seg>ほとんどのエディタ（本書の執筆に使用した&lt;g11&gt;&lt;g12&gt;Penflip&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注69）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;もそうです）では、必要に応じて生のHTMLをそのまま書くこともできます。編集者がHTMLに詳しければ、複雑なコンテンツも追加できるということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where people differ — and they always do — inclusive interfaces are robust interfaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091625Z" creationid="okamoto_jun" creationdate="20170627T091625Z">
+        <seg>異なる人々が集う場では、インクルーシブなインターフェイスこそが常に堅牢であるといえる。</seg>
       </tuv>
     </tu>
     <tu>
