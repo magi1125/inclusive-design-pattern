@@ -3057,6 +3057,14 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Designer number two is a designer who has learned to code inasmuch as they’ve acquired the ability to bring their ideas to the web — to put them in web pages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100005Z" creationid="okamoto_jun" creationdate="20170627T095932Z">
+        <seg>コードを書くデザイナーは、アイデアをWebページで実現するために必要な範囲でコーディングを学んでいました。状況を選べば、そのコードは特定のユーザーのために有効に働くこともあるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 目的というより、インクルーシブにデザインする〜という言い方のように思いました。</note>
       <tuv lang="EN-US">
         <seg>Designing inclusively is to support as many of these as possible and provide alternative content and interaction mechanisms where this isn’t possible.</seg>
@@ -10550,6 +10558,14 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Under some circumstances, they may even work for the odd user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100208Z" creationid="okamoto_jun" creationdate="20170627T100055Z">
+        <seg>しかし残念ながら、イベントリスナーは別として、</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「あらゆるブラウザで正しく実装されているわけではない」というのは過大評価過ぎるというか、原文はもっとこき下ろしているように思います。
 
 (伊原) LGTM
@@ -10560,6 +10576,14 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170517T070716Z" creationid="yoota" creationdate="20170511T053732Z">
         <seg>残念ながら、&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;hyphens&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注22）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で指定できるはずのCSSのハイフネーションの仕組みは、ブラウザの実装がかなり貧弱な状況です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately, aside from the event listener, all they’re really doing is encoding graphic design, not &lt;g1&gt;designing with code&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100149Z" creationid="okamoto_jun" creationdate="20170627T100117Z">
+        <seg>彼らが実際にやっているのはグラフィックデザインをコードに落とすことだけです。コードによるデザインではありません。</seg>
       </tuv>
     </tu>
     <tu>
