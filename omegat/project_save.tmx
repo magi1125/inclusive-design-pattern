@@ -4718,6 +4718,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, the &lt;g1&gt;&lt;div&gt;&lt;/g1&gt; element is semantically inert, offering no information non-visually that it is, indeed, a button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101000Z" creationid="okamoto_jun" creationdate="20170627T101000Z">
+        <seg>付け加えれば、&lt;div&gt;要素はセマンティック的には特に意味がないため、非視覚的には、これが実際にボタンであるという情報を一切提供しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) doctype declarationは「文書型宣言」あるいは「DOCTYPE宣言」かと思います。いったん後者にしました。
 In addition を「その上」とすると前からのつながりがおかしいように思います。
 
@@ -5813,6 +5821,14 @@ facilitating and easing のfacilitatingも行方不明かも。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s also why the button is untranslatable into different languages, making it exclude international audiences.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101034Z" creationid="okamoto_jun" creationdate="20170627T101034Z">
+        <seg>このことは、このボタンのラベルを他の言語に翻訳できない原因にもなり、世界中の閲覧者を排除することにつながります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s as if content editors and project managers don’t even exist!</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085300Z" creationid="okamoto_jun" creationdate="20170627T085300Z">
@@ -6589,6 +6605,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Most desktop screen reader users are also keyboard users, so they encounter the same problems as the previous group.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100946Z" creationid="okamoto_jun" creationdate="20170627T100946Z">
+        <seg>また、デスクトップスクリーンリーダーのユーザーのほとんどはキーボードも使用するため、前述した問題も生じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文にない括弧を入れるのはできるだけ避けたいですが、unicorn-rare というヘイドンフレーズを生かすべきかどうか。
 全体やや誤訳っぽいです。malignは「悪く言う」の意味で、この文全体は Much maligned as X,  it has much broader implications. という形ですので、Xのように悪く言われることが多いが、(実際には) もっと広い意味がある、と言っています。補って訳してみましたがわかりにくいですね……。
 
@@ -7249,6 +7273,15 @@ confusingは分かりにくいというよりも、混乱を招くという感�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Others &lt;g3&gt;must&lt;/g3&gt; use a keyboard, because a mouse requires a finer motor control than they can muster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100825Z" creationid="okamoto_jun" creationdate="20170627T100825Z">
+        <seg>キーボードを使わなければならない人もいます。マウスを使うには手を精密に動かす必要がありますが、それができない人もいるのです。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 何を言っているのか良くわからないのでちょっと保留。
 modular, often dynamic content は直訳すると「組み立て式の、しばしばダイナミックなコンテンツ」で、要するにナビとかではなくページごとに変わるコンテンツのことを言っているのだと思います。
 
@@ -7662,6 +7695,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Screen reader users include those with severe vision impairments, and others who find that having a web page read out to them using a synthetic voice aids their comprehension.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100918Z" creationid="okamoto_jun" creationdate="20170627T100918Z">
+        <seg>スクリーンリーダーユーザーの中には、重度の視覚障害のある人や、障害がなくても、合成音声でWebページを読み上げるとわかりやすくなるという人などが含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「また」は原文になく、なくても問題なくつながるのでとりました。
 
 (伊原) LGTM</note>
@@ -7893,6 +7934,14 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T055521Z" creationid="yoota" creationdate="20170524T055341Z">
         <seg>&lt;g15&gt;&lt;main&gt;&lt;/g15&gt;の単一の子要素になっているため、いずれにしてもユーザーは同じ場所に移動することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the button’s label of “Start” is in a background image as part of CSS’s presentation layer, this too is unavailable to assistive technologies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101018Z" creationid="okamoto_jun" creationdate="20170627T101018Z">
+        <seg>このボタンの「スタート」というラベルは、CSSのプレゼンテーション層の一部に背景画像として含まれているため、これもやはり支援技術からは利用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8437,6 +8486,14 @@ yourを「コンテンツ側で」として補いました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170612T072620Z" creationid="yoota" creationdate="20170606T101534Z">
         <seg>とはいえ、そのプレイヤーを構成するコントロールがHTMLとCSSで実装されていれば、コンテンツ側で&lt;g1&gt;独自の&lt;/g1&gt;フォーカススタイルを提供することで、そのプレイヤーを救うことができるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s a lot of people missing out!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101058Z" creationid="okamoto_jun" creationdate="20170627T101058Z">
+        <seg>非常に多くの人々を逃しているということです！</seg>
       </tuv>
     </tu>
     <tu>
@@ -9194,6 +9251,14 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The inclusive designer anticipates these problems, because experience tells them that people differ, well, in lots of different ways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101120Z" creationid="okamoto_jun" creationdate="20170627T101120Z">
+        <seg>インクルーシブデザイナーはこうした問題を予測できます。経験上、人は同じでないこと、しかもその違いも実にさまざまであることを知っているからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「ターゲットを絞ることで得るものは何一つありません」は言いすぎです。「特定の層を排除しても、得るものは何一つありません」が正しいかと。</note>
       <tuv lang="EN-US">
         <seg>The key to inclusive design isn’t to target specific groups, it’s to &lt;e1&gt;not exclude&lt;/e1&gt; groups arbitrarily — there’s nothing to gain.</seg>
@@ -9407,6 +9472,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095747Z" creationid="okamoto_jun" creationdate="20170627T095747Z">
         <seg>2番めにとりあげるデザイナーは、最初のデザイナーとほとんど同じスキルをもっていますが、ひとつ大きな違いがあります。彼らは、Webページ内にボタンを表示し、JavaScriptのイベントリスナーをアタッチできるだけのHTML、CSS、JavaScriptの知識を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second designer’s button design leaves these users entirely bereft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100928Z" creationid="okamoto_jun" creationdate="20170627T100928Z">
+        <seg>コードを書くデザイナーのボタンデザインでは、こうしたユーザーは置き去りになります。</seg>
       </tuv>
     </tu>
     <tu>
