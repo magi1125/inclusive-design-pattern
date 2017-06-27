@@ -2764,6 +2764,14 @@ buildingがどこにくっついているのかよくわかりません。元訳
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By looking at common web interface patterns through the lens of inclusivity, this book will help you quickly learn how to apply and reapply conventions that will earn you a broader and less frustrated audience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095156Z" creationid="okamoto_jun" creationdate="20170627T095156Z">
+        <seg>本書では、一般的なWebインターフェイスのパターンについて、インクルーシビティの観点で見ていきます。本書を読めば、慣習を適用したり応用したりする方法をすぐに学ぶことができ、より幅広い人に閲覧してもらったり、閲覧者のフラストレーションを軽減したりできるようになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) formulateは計画? 単に「作る」でも良いように思いました。
 
 (伊原) 閲覧者➞ユーザーとしました。</note>
@@ -5400,6 +5408,14 @@ CSSの用語としてはpseudo-contentではなくpseudo-elementです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, we make allowances.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094954Z" creationid="okamoto_jun" creationdate="20170627T094954Z">
+        <seg>それよりも、さまざまなものを受け入れられるようにすることのほうが大事です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 重要でないため→重要ではないと考えて、としました。
 「すべて削除」だと複数個所あってその全てを消すようなニュアンスにも読めるので、「まるごと削除」としました。
@@ -5874,6 +5890,14 @@ http://eow.alc.co.jp/search?q=right%20way</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s just different.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095122Z" creationid="okamoto_jun" creationdate="20170627T095122Z">
+        <seg>ただ違うだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 重要になる、でいいのか。いったん保留。
 「利用できるようにしたいのか」→「利用できるようにするべきなのか」</note>
       <tuv lang="EN-US">
@@ -6282,6 +6306,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170516T115351Z" creationid="yoota" creationdate="20170511T062730Z">
         <seg>行送りは、各行の高さを決めるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s look at one more simple example, a prototypical interface pattern much like those to follow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095241Z" creationid="okamoto_jun" creationdate="20170627T095241Z">
+        <seg>もうひとつ、よくあるシンプルなインターフェイスパターンの例を見てみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7440,6 +7472,14 @@ OK</note>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170616T062914Z" creationid="yoota" creationdate="20170606T101411Z">
         <seg>3章「パラグラフ」の「フォーカスを示す」を思い出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace “structure of data” with “interface” and swap “addresses” for “people” in the previous paragraph, and you’ve got &lt;g1&gt;inclusive interface design&lt;/g1&gt; in a nutshell.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095030Z" creationid="okamoto_jun" creationdate="20170627T095008Z">
+        <seg>前の段落の「データの構造」を「インターフェイス」に置き換え、「住所」を「人々」に入れ替えてみてください。そうすれば、それがそのまま、いわゆるインクルーシブインターフェイスデザインの話になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8639,6 +8679,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The Inclusive Button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095222Z" creationid="okamoto_jun" creationdate="20170627T095222Z">
+        <seg>インクルーシブなボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注あり
 
 (太田)
@@ -8819,6 +8867,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T051116Z">
         <seg>基本的な点線のアウトラインによるフォーカススタイルと、青い背景のフォーカススタイルの比較。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The best part is that designing inclusive interfaces, like designing robust data schemas, doesn’t have to be any harder or more complex than making exclusive or otherwise obsolete ones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095106Z" creationid="okamoto_jun" creationdate="20170627T095106Z">
+        <seg>インクルーシブなインターフェイスをデザインすることは、堅牢なデータスキーマをデザインすることと似ています。排他的だったり、時代遅れで廃れたインターフェイスを作ることに比べ、難しかったり複雑だったりするわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
