@@ -3952,6 +3952,17 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+2人の共通の友人→共通の友人</note>
+      <tuv lang="EN-US">
+        <seg>I simply say, “I’m a designer.” Before you have the chance to ask me what &lt;g1&gt;type&lt;/g1&gt; of designer I am, our mutual friend, the host, taps me on the elbow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T073921Z" creationid="okamoto_jun" creationdate="20170627T073921Z">
+        <seg>私はひとこと「デザイナーです」と答えましたが、あなたが私に「何のデザイナーなの？」と聞く前に、共通の友人が私をヒジで突いています。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Ideally, the underline should not intersect the form of descenders but leave space for them.</seg>
@@ -4248,8 +4259,8 @@ by name は「バイネームで」でも良いのかもしれないですね。
       <tuv lang="EN-US">
         <seg>Imagine we meet at a party.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T073520Z" creationid="okamoto_jun" creationdate="20170627T073414Z">
-        <seg>あなたと私（ヘイドン氏）があるパーティーで出会ったと想像してみてください。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T073754Z" creationid="okamoto_jun" creationdate="20170627T073414Z">
+        <seg>あなたと私（筆者）があるパーティーで出会ったと想像してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6417,6 +6428,16 @@ ourを私たちと訳すのはどうなのか。他は適当に濁している�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170619T155931Z" creationid="yoota" creationdate="20170619T021947Z">
         <seg>本文テキスト、見出し、メディアといった要素をひとつの型にはめるのではなく、適切な構造を保ちながらも数の制約なしに提供できるように、堅牢で包括的なCSSフローシステムを採用しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+尋ね→たずね</note>
+      <tuv lang="EN-US">
+        <seg>Not long into conversation you ask me what I do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T073653Z" creationid="okamoto_jun" creationdate="20170627T073653Z">
+        <seg>会話を始めてまもなく、あなたが私の職業をたずねました。</seg>
       </tuv>
     </tu>
     <tu>
