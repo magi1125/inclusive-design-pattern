@@ -61,13 +61,11 @@ HTML Living Standardには "A document can contain multiple top-level headings:"
 <h1>Carambola</h1>
 <p>Star.</p>
 
-このときのアウトラインは以下のようになり、見出しのないセクションは現れません。
+このときのアウトラインは以下のようになり、見出しのないセクションは現れません。つまり2017年現在の仕様では、書き方によっては複数のh1要素を使うこともできるということです。
 
 1. Apples 
 2. Bananas 
 3. Carambola 
-
-つまり2017年現在の仕様では、書き方によっては複数のh1要素を使うこともできるということです。
 
 参考:
 HTML Living Standard - 4.3.11.2 Sample outlines
