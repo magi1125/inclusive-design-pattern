@@ -2052,6 +2052,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>And it doesn’t stop there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100658Z" creationid="okamoto_jun" creationdate="20170627T100658Z">
+        <seg>問題はこれだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>And utility depends on cognition, which depends on convention.</seg>
@@ -2064,8 +2072,8 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       <tuv lang="EN-US">
         <seg>Another problem is encountered when a user switches off image loading in their mobile browser, to save bandwidth: the button, constituted entirely by a background image, will be invisible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100452Z" creationid="okamoto_jun" creationdate="20170627T100452Z">
-        <seg>もうひとつの問題は、モバイルブラウザで帯域幅を節約するために、画像の読み込みをオフにした場合に起こります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100541Z" creationid="okamoto_jun" creationdate="20170627T100452Z">
+        <seg>もうひとつの問題は、モバイルブラウザで帯域幅を節約するために、画像の読み込みをオフにした場合に起こります。このボタンは背景画像だけで作られているため、画像の読み込みをオフにすれば見えなくなってしまうでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8014,6 +8022,14 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Some folks choose to navigate and operate web pages with a keyboard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100738Z" creationid="okamoto_jun" creationdate="20170627T100738Z">
+        <seg>Webページの移動や操作の際、キーボードを好んで使う人もいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
@@ -8537,6 +8553,14 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T032752Z" creationid="yoota" creationdate="20170524T032752Z">
         <seg>&lt;g1&gt;&lt;article&gt;&lt;/g1&gt;要素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;div&gt;&lt;/g1&gt; element, unlike the purpose-built &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; element, is not (in its current form) focusable or operable by keyboard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100722Z" creationid="okamoto_jun" creationdate="20170627T100722Z">
+        <seg>&lt;div&gt;要素は、ボタンのために作られた&lt;button&gt;要素とは異なり、（このままでは）キーボードでフォーカスしたり操作したりできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10243,6 +10267,14 @@ correctedは修正された、ですが若干違和感があります。訳す�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This, under some conditions, will also &lt;g6&gt;&lt;g7&gt;eliminate background images&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;2&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100644Z" creationid="okamoto_jun" creationdate="20170627T100644Z">
+        <seg>この場合も、条件によって背景画像が表示されなくなることがあります（脚注2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注アリ
 
 (太田) brokenはヘイドンさんが好きなbreakですが、「破綻」とするのが良いように思えてきました。
@@ -10725,6 +10757,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170601T110233Z" creationid="yoota" creationdate="20170601T105538Z">
         <seg>潜在的な問題をあぶりだす早期警戒システムとして利用した上で、実際のユーザーでもテストするようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Users having trouble differentiating foreground and background imagery may turn on Windows’ &lt;g1&gt;&lt;g2&gt;high contrast mode&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100620Z" creationid="okamoto_jun" creationdate="20170627T100620Z">
+        <seg>また、前景と背景の見分けがつきにくいユーザーは、Windowsのハイコントラストモード（脚注1）をオンにするかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
