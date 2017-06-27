@@ -1716,6 +1716,14 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A hack is a symptom of &lt;g2&gt;bad design&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T093914Z" creationid="okamoto_jun" creationdate="20170627T093914Z">
+        <seg>ハック的であることは、悪いデザインの証拠です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
@@ -2375,6 +2383,14 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Because not all addresses end in a country.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094010Z" creationid="okamoto_jun" creationdate="20170627T094010Z">
+        <seg>なぜなら、住所は必ずしも国で終わるとは限らないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Because not all screen reader users are alike.</seg>
@@ -2459,6 +2475,14 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170619T151826Z">
         <seg>コンテンツを表すボックス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>British addresses, for instance, usually end in a postcode:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094454Z" creationid="okamoto_jun" creationdate="20170627T094454Z">
+        <seg>たとえばイギリスの住所は普通、郵便番号が最後にきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6686,6 +6710,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T102200Z" creationid="yoota" creationdate="20170512T101922Z">
         <seg>ダウンロードするドキュメントが大きくなるだけでなく、やっかいな副作用が発生することもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not only is the employment of a helper function relatively computationally heavy, it’s also unreliable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T093933Z" creationid="okamoto_jun" creationdate="20170627T093933Z">
+        <seg>このヘルパー関数は処理を遅くしますが、それ以前に、そもそも信頼できないものです。</seg>
       </tuv>
     </tu>
     <tu>
