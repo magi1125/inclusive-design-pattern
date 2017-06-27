@@ -2723,6 +2723,14 @@ segregateは隔離というより分離としたほうがしっくりくるか�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By relegating design to the realm of visual aesthetics, so much of the web goes undesigned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085613Z" creationid="okamoto_jun" creationdate="20170627T085613Z">
+        <seg>それが「見た目の美しさ」という範囲だけでデザインをとらえることで、Webの大半は本来の意図から外れてしまっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) リテラシーはそのままカタカナにしてみました。</note>
       <tuv lang="EN-US">
         <seg>By tackling specific issues we know would affect folks with limited vision, dyslexia, Irlen syndrome, low literacy and limited technical knowledge, a comfortable reading and interaction experience has been ensured for most everyone else.</seg>
@@ -8570,6 +8578,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The aim of this book is to help you nurture design thinking that’s suited to the web and, as such, acknowledges some (astonishingly recent!) developments in the evolution of the web design discipline:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085704Z" creationid="okamoto_jun" creationdate="20170627T085704Z">
+        <seg>本書の目的は、Webに適したデザインの考え方を養うことです。その思考は、以下のようなWebデザインの原則における（驚くほど最近の）進化をふまえたものとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 コロン前後で原文と語順をあわせました。
 
@@ -9442,6 +9458,14 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T051503Z" creationid="yoota" creationdate="20170420T091812Z">
         <seg>本書ではレスポンシブデザインについて詳述はしませんが、ぜひ知っておきたい、インクルーシブデザインを支えるレスポンシブデザインの原則をいくつか紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can only lead to inaccessibility, poor performance and, of course, a general lack of utility.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085630Z" creationid="okamoto_jun" creationdate="20170627T085630Z">
+        <seg>これは、低いアクセシビリティ、貧弱なパフォーマンス、そして全体的な有用性の低下につながります。</seg>
       </tuv>
     </tu>
     <tu>
