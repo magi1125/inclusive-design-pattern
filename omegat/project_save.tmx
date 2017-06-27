@@ -621,6 +621,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Content — what we &lt;g2&gt;write&lt;/g2&gt; or otherwise &lt;g3&gt;express&lt;/g3&gt; via the web — must be subject to design thinking and, in fact, all other design decisions should facilitate that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091500Z" creationid="okamoto_jun" creationdate="20170627T091500Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;コンテンツ―Webを通じて書いたり表現したりするもの―はデザインの考え方に基づかねばならない。もっと言えば、他のすべてのデザイン上の判断はそれを促進するようにすべきである。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Does it have any ornamentation that gets in the way of comprehension?</seg>
@@ -939,6 +947,14 @@ http://adrianroselli.com/2015/10/dont-disable-zoom.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The web is made of code and must be designed, therefore designing &lt;g2&gt;with&lt;/g2&gt; code is working with the right materials.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091438Z" creationid="okamoto_jun" creationdate="20170627T091438Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Webはコードで構成されていて、かつ、デザインが必要である。したがって、適切な素材を用いれば、コードを使ってデザインをすることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) こちらの括弧は引用元にも存在します。
 quirkはネガティブイメージの言葉ですが、後方互換としてしまうとネガティブな感じがしません。引用元を見ると iOS9 でズームがおかしくなる話のようで、ブラウザのQuirksモードを指しているわけでもないようです。ということで、ここは「奇妙なふるまい」くらいで良いように思います。
 「(つまりはバグ) 」の意味がわかりにくいですが、Quirk もバグだと言っているので、「これも要するにバグ」くらいでしょうか。
@@ -976,6 +992,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170616T004317Z" creationid="yoota" creationdate="20170606T101950Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;Deque Systemsの、この素晴らしいビデオ&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注52）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を見る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Web pages are not immutable artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091512Z" creationid="okamoto_jun" creationdate="20170627T091512Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Webページは不変の成果物ではない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9377,6 +9401,14 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>They should be tolerant of changing, dynamic content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091525Z" creationid="okamoto_jun" creationdate="20170627T091525Z">
+        <seg>動的なコンテンツの変化に寛容でなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>They’ll be too busy effortlessly digesting your content.</seg>
@@ -9466,6 +9498,14 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085630Z" creationid="okamoto_jun" creationdate="20170627T085630Z">
         <seg>これは、低いアクセシビリティ、貧弱なパフォーマンス、そして全体的な有用性の低下につながります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This content should be managed in terms of discrete components which can be reused as agreed patterns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091538Z" creationid="okamoto_jun" creationdate="20170627T091538Z">
+        <seg>コンテンツは、パターンとして再利用可能な個別のコンポーネントとして運用すべきである。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9672,6 +9712,14 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
       <tuv lang="JA" changeid="yoota" changedate="20170615T103732Z">
         <seg>これは&lt;g1&gt;&lt;g2&gt;マージンの相殺ルール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注66）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;のおかげです。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the best course of action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091453Z" creationid="okamoto_jun" creationdate="20170627T091453Z">
+        <seg>これこそが最善策である。</seg>
       </tuv>
     </tu>
     <tu>
