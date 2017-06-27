@@ -1740,6 +1740,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A print designer’s domain is purely visual, confined to predictable and predetermined spaces, using agreed materials and consistently reproducible resolutions and colors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085206Z" creationid="okamoto_jun" creationdate="20170627T085206Z">
+        <seg>印刷デザイナーの領域とは、純粋にビジュアルデザインの領域です。既に定義された、あるいは予測可能なスペースの中で、決められた素材と、確実に再現できる解像度や色を扱います。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「&lt;main&gt;で」を「&lt;main&gt;の中で」としました。</note>
       <tuv lang="EN-US">
         <seg>A products page would describe the products within &lt;g6&gt;&lt;main&gt;&lt;/g6&gt;.</seg>
@@ -5596,6 +5604,14 @@ facilitating and easing のfacilitatingも行方不明かも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s as if content editors and project managers don’t even exist!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085300Z" creationid="okamoto_jun" creationdate="20170627T085300Z">
+        <seg>まるでコンテンツ編集者やプロジェクトマネージャーは存在しないかのようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)
 もう1つ→もうひとつ、よく分かる→よくわかる
 
@@ -5774,6 +5790,14 @@ http://eow.alc.co.jp/search?q=right%20way</note>
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170609T064309Z" creationid="yoota" creationdate="20170606T100054Z">
         <seg>何かを学ぶのであれば、単純でより良い方法だと言えるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s the pursuit of the best solution to a given problem.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085556Z" creationid="okamoto_jun" creationdate="20170627T085556Z">
+        <seg>そして、問題に対するベストな解決策を追求することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6984,6 +7008,14 @@ modular, often dynamic content は直訳すると「組み立て式の、しば�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Our most persistent error as an industry has been to apply the largely incompatible principles of &lt;g1&gt;printed&lt;/g1&gt; graphical communication design to the web.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085148Z" creationid="okamoto_jun" creationdate="20170627T085148Z">
+        <seg>業界における最も根深い間違いは、Webに対してほぼ相容れない印刷物のデザイン原則を当てはめていることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)　曖昧→あいまい</note>
       <tuv lang="EN-US">
         <seg>Our terminology for these things fluctuates between &lt;g2&gt;modules&lt;/g2&gt;, &lt;g3&gt;components&lt;/g3&gt;, or the looser term &lt;g4&gt;patterns&lt;/g4&gt;, but essentially we mean the parts that contribute to an interface.</seg>
@@ -7054,6 +7086,14 @@ https://ja.wikipedia.org/wiki/プレイン・イングリッシュ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T085053Z" creationid="yoota" creationdate="20170515T085044Z">
         <seg>実質的に、&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;と&lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; は似たような機能を提供していますが、両方を採用するのはなぜでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print design is the production of static, immutable artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085220Z" creationid="okamoto_jun" creationdate="20170627T085220Z">
+        <seg>印刷物のデザインとは静的で不変のものを作ることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8121,6 +8161,14 @@ yourを「コンテンツ側で」として補いました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That’s not like the web &lt;g1&gt;at all&lt;/g1&gt;, but it doesn’t stop us pouring wasted energy into pointless frippery like pixel perfection and organizing ourselves into those two ill-defined, arbitrary groups, designers and developers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085240Z" creationid="okamoto_jun" creationdate="20170627T085240Z">
+        <seg>こうした特性はWebとは相容れないのに、私たちは、印刷物のデザインに対してピクセルパーフェクトを求めるような無意味な行いに無駄なエネルギーを注いだり、自分たちで勝手に定めたデザイナーと開発者という曖昧な2つのグループにWebの作り手を分類することをやめられずにいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 元訳の「インクルーシブな方法での深さの記述という目的」は this particular purposeを補ったもの。
 シンプルに「これらが提供する情報では目的を果たせません」でも良いように思いました。
 
@@ -9074,6 +9122,14 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170626T140503Z" creationid="yoota" creationdate="20170622T030314Z">
         <seg>問題は、何かをキーボードでアクセスできるようにする方法について説明しようと思ったときに、タッチ操作やスクリーンリーダーの互換性、コピーライティングなどについて触れないようにしなくてはならなかったことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The truth is, design work is &lt;g1&gt;deliberation&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085313Z" creationid="okamoto_jun" creationdate="20170627T085313Z">
+        <seg>本来、デザインの仕事とは、熟慮することです。</seg>
       </tuv>
     </tu>
     <tu>
