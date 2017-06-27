@@ -3252,6 +3252,14 @@ line-heightは原文の原稿では小文字なのですが、この見出しは
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Fine, but what if I needed to refer to the country part of my address on its own?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T092258Z" creationid="okamoto_jun" creationdate="20170627T092258Z">
+        <seg>このような形式（単一の文字列）のデータの場合、たとえばヘルパーを書いて「United States」の部分を抽出するという方法が考えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ハイライト表示されるように変更する、のではなく、ハイライト表示するための辞書を切り替える、かなと。</note>
       <tuv lang="EN-US">
         <seg>Firefox, for instance, changes dictionaries on &lt;c6&gt;&lt;textarea&gt;&lt;/c6&gt;s so that spelling errors are highlighted appropriately.</seg>
@@ -3828,6 +3836,14 @@ blog post as found at its permalinkは、パーマリンクをたどった先で
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T074511Z" creationid="yoota" creationdate="20170512T072801Z">
         <seg>ここでは、インクルーシブなブログ記事の構成について探りましょう。ブログ記事はパーマリンクで見ることができ、親ページの主要なコンテンツを構成する要素でもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here’s a property representing a street address in JSON:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T092120Z" creationid="okamoto_jun" creationdate="20170627T092120Z">
+        <seg>このJSONのプロパティは住所を表しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6859,6 +6875,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T065910Z" creationid="yoota" creationdate="20170511T065852Z">
         <seg>これで、パラグラフのフォントサイズが大きくなったり小さくなったりしても（メディアクエリによる変更の場合、ユーザーがフォントサイズの設定を変更した場合のいずれであっても）、読みやすくバランスのとれた行の高さになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now, if I wanted to print the address to screen using a templating library like Handlebars, I might write something like &lt;g1&gt;{{this.address}}&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T092153Z" creationid="okamoto_jun" creationdate="20170627T092153Z">
+        <seg>さて、Handlebarsのようなテンプレートライブラリでこの住所を画面に表示したいときは、{{this.address}} のように書きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10908,6 +10932,14 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T110528Z" creationid="yoota" creationdate="20170501T110528Z">
         <seg>その状態でユーザーが&lt;g1&gt;Tab&lt;/g1&gt;キーを押すと、ページ内の最初のインタラクティブ要素、つまりスキップリンクがフォーカスされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the data in its current form — one string — I’d have to write a helper to extract the “United States” part.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T092312Z" creationid="okamoto_jun" creationdate="20170627T092312Z">
+        <seg>このような形式（単一の文字列）のデータの場合、たとえばヘルパーを書いて「United States」の部分を抽出するという方法が考えられます</seg>
       </tuv>
     </tu>
     <tu>
