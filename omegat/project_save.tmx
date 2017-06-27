@@ -1747,6 +1747,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A more robust solution might be to make the address property an object and store each part of the address as a property on that object:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094503Z" creationid="okamoto_jun" creationdate="20170627T094503Z">
+        <seg>この住所のプロパティ（address）はオブジェクトにして、以下のように、オブジェクトのプロパティとして住所の各部を格納する方が堅牢かもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 訳の位置がちょっとズラしてあったので、直しました。
 
 (岡本) 1つ→ひとつ</note>
@@ -2540,6 +2548,14 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170609T082207Z" creationid="yoota" creationdate="20170606T101136Z">
         <seg>しかし、キャプションはビデオそのものがダウンロードできるか、またはストリーミング再生できる場合にしか利用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But is it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094543Z" creationid="okamoto_jun" creationdate="20170627T094543Z">
+        <seg>しかし、本当にそうでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -6867,6 +6883,14 @@ resulting inも落ちているような。「結果として」くらいでし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Now I can access the country simply with &lt;g1&gt;address.country&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094519Z" creationid="okamoto_jun" creationdate="20170627T094519Z">
+        <seg>これならaddress.countryで国にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) もう少しこなれた訳にしたい。ちょっと調整してみました。
 
 (太田) ちょっと何を言っているのかわからない感がありますね。以下のどちらがいいたいのか。
@@ -9903,6 +9927,14 @@ http://pothos.main.jp/setuzokusi.htm</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This seems like a better approach.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094531Z" creationid="okamoto_jun" creationdate="20170627T094531Z">
+        <seg>やり方としてはこちらの方が良いように思えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) thisは文書型宣言ではなく、「HTMLが文書であるという事実」ではないかと思います。
 This serves as an important reminderは直訳すると「このことは重要なリマインダーとなる」ということですが、もう少し砕いて訳したい感もあります。
 
@@ -10425,6 +10457,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T104733Z" creationid="yoota" creationdate="20170523T104654Z">
         <seg>&lt;g2&gt;display: none;&lt;/g2&gt;、&lt;g3&gt;visibility: hidden;&lt;/g3&gt;、&lt;g4&gt;height: 0;&lt;/g4&gt;、&lt;g5&gt;width: 0;&lt;/g5&gt;を使ってもうまく機能しません――視覚と聴覚の&lt;g6&gt;両方で&lt;/g6&gt;spanが利用できなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using a hugely international set of addresses, you’ll find they vary so much that prescribing an unbending set of properties is just not tenable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094608Z" creationid="okamoto_jun" creationdate="20170627T094608Z">
+        <seg>さまざまな国の住所を当てはめてみると、形式があまりにバラエティに富んでいて、融通のきかないプロパティ群ではとても対応できないことがわかるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
