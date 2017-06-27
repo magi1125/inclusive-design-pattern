@@ -3252,11 +3252,10 @@ line-heightは原文の原稿では小文字なのですが、この見出しは
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+翻訳がない？？</note>
       <tuv lang="EN-US">
         <seg>Fine, but what if I needed to refer to the country part of my address on its own?</seg>
-      </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T092258Z" creationid="okamoto_jun" creationdate="20170627T092258Z">
-        <seg>このような形式（単一の文字列）のデータの場合、たとえばヘルパーを書いて「United States」の部分を抽出するという方法が考えられます。</seg>
       </tuv>
     </tu>
     <tu>
