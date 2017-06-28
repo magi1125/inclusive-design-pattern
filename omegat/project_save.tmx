@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3379,6 +3379,9 @@ line-heightは原文の原稿では小文字なのですが、この見出しは
 翻訳がない？？　この行飛ばしてるか、意図的に扱わなかったかですかね。</note>
       <tuv lang="EN-US">
         <seg>Fine, but what if I needed to refer to the country part of my address on its own?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170628T040826Z">
+        <seg>では、住所の国の部分だけを参照したいときはどうすればよいでしょう？</seg>
       </tuv>
     </tu>
     <tu>
