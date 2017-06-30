@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5991,12 +5991,13 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
 要検討。
 
 (伊原) in the right way で「理にかなったやり方で」という訳が出てきました。こっちのほうがしっくりくる気がしたので書き換えてみました。
-http://eow.alc.co.jp/search?q=right%20way</note>
+http://eow.alc.co.jp/search?q=right%20way
+プラス、ものを用意したというよりは準備したということかなーと思ったので、調整してみました。</note>
       <tuv lang="EN-US">
         <seg>It’s good to be prepared, but better to be prepared in the right way.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170626T140309Z" creationid="yoota" creationdate="20170622T025108Z">
-        <seg>こうしたものを用意するのは良いことですが、理にかなったやり方で用意することをお勧めします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170630T141434Z" creationid="yoota" creationdate="20170622T025108Z">
+        <seg>このように準備するのは良いことですが、理にかなったやり方で準備することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
