@@ -11262,7 +11262,9 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(岡本)　1つ→ひとつ</note>
+      <note>(岡本)　1つ→ひとつ
+
+(太田) ここの guiding principle は WCAG 2.0 の4つのprincipleを指しているかも。</note>
       <tuv lang="EN-US">
         <seg>When creating patterns, we don’t labor according to any one guiding principle; we don’t create keyboard-accessible patterns or internationalized patterns.</seg>
       </tuv>
