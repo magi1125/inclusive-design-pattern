@@ -11264,12 +11264,12 @@ print は「出力」ではなく「表示」で良いと思います。</note>
     <tu>
       <note>(岡本)　1つ→ひとつ
 
-(太田) ここの guiding principle は WCAG 2.0 の4つのprincipleを指しているかも。</note>
+(太田) ここの guiding principle は WCAG 2.0 の4つのprincipleを指しているかも。JISの訳語は「原則」なので原則としました。</note>
       <tuv lang="EN-US">
         <seg>When creating patterns, we don’t labor according to any one guiding principle; we don’t create keyboard-accessible patterns or internationalized patterns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170622T070528Z" creationid="yoota" creationdate="20170622T030337Z">
-        <seg>パターンを作るとき、何かひとつの指針に従うよう努力することはありません。キーボードでアクセスできるパターンや国際化されたパターンを作るのではないのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170630T080425Z" creationid="yoota" creationdate="20170622T030337Z">
+        <seg>パターンを作るとき、何かひとつの原則に基づいてつくるということはありません。キーボードでアクセスできるパターンや国際化されたパターンを作るのではないのです。</seg>
       </tuv>
     </tu>
     <tu>
