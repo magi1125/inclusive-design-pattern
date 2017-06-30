@@ -4142,13 +4142,15 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
 
 というか、そもそもうそ臭いとは言っていないような。contriveはもくろむ、たくらむ、工夫するのような意味で、ここでは「当初もくろんでいた」くらいでしょう。
 
+inclusion-by-principleは「原則ごとのインクルージョン」としました。
+
 動詞 ditch は「どぶに捨てる」のような意味なので、ヘイドンフレーズをどう処理するか検討したいかも。
 </note>
       <tuv lang="EN-US">
         <seg>I ditched the contrived inclusion-by-principle structure early on in favor of talking through discrete patterns — motifs and components you might find in a working website or application.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170622T070759Z" creationid="yoota" creationdate="20170622T030350Z">
-        <seg>私はうそ臭い原則に従ったインクルージョンには早々に見切りをつけ、うまく機能しているWebサイトやアプリケーションに見られるモチーフやコンポーネントといった、個々のパターンについて説明することを選びました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170630T082701Z" creationid="yoota" creationdate="20170622T030350Z">
+        <seg>私は、当初もくろんでいた原則ごとのインクルージョンには早々に見切りをつけ、うまく機能しているWebサイトやアプリケーションに見られるモチーフやコンポーネントといった、個々のパターンについて説明することを選びました。</seg>
       </tuv>
     </tu>
     <tu>
