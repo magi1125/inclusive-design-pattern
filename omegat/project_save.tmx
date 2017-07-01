@@ -4149,12 +4149,13 @@ inclusion-by-principleは「原則ごとのインクルージョン」としま�
 (伊原) 当初もくろんでいた原則、と読めるので、語順を入れ替えました。
 ditchはすっぽかす、ドタキャンする、見捨てる、異性を振る、サボるとか、そんな感じみたいですね。
 オサラバして、別れを告げて、ほっといて、とか、そんな感じでしょうか。
-http://www.us-lighthouse.com/englesson/e-15281.html</note>
+http://www.us-lighthouse.com/englesson/e-15281.html
+でも入れてみるとあんまりわかりやすくなりませんね。早々に見切りをつけ、でいいのかも。</note>
       <tuv lang="EN-US">
         <seg>I ditched the contrived inclusion-by-principle structure early on in favor of talking through discrete patterns — motifs and components you might find in a working website or application.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170701T153233Z" creationid="yoota" creationdate="20170622T030350Z">
-        <seg>私は、原則ごとのインクルージョンという当初もくろんでいた構造にはすぐに別れを告げ、個々のパターンについて説明することにしました――うまく機能しているWebサイトやアプリケーションに見られるモチーフやコンポーネントをとりあげることにしたのです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170701T153342Z" creationid="yoota" creationdate="20170622T030350Z">
+        <seg>私は、原則ごとのインクルージョンという当初もくろんでいた構造には早々に見切りをつけて、個々のパターンについて説明することにしました――うまく機能しているWebサイトやアプリケーションに見られるモチーフやコンポーネントをとりあげることにしたのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6706,6 +6707,7 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>My writing began to flow much more easily because I was essentially documenting my design process: the work of conceiving and realizing inclusive content and functionality.</seg>
       </tuv>
