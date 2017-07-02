@@ -9551,8 +9551,8 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
       <tuv lang="EN-US">
         <seg>The reason I started out writing by principle is because I often have to wear my accessibility engineer hat and perform accessibility audits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170702T150224Z" creationid="yoota" creationdate="20170622T030414Z">
-        <seg>本書を原則ごとに書き始めたのは、アクセシビリティエンジニアの立場からアクセシビリティチェックを行うことがよくあるからです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170702T151126Z" creationid="yoota" creationdate="20170622T030414Z">
+        <seg>本書を原則ごとに書き始めたのは、アクセシビリティエンジニアの立場からアクセシビリティ検査を行うことがよくあるからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10528,11 +10528,12 @@ https://8thlight.com/blog/chris-peak/2012/12/30/vertical-rhythm.html
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 前半を短めに調整</note>
       <tuv lang="EN-US">
         <seg>Though different countries have their own accessibility legislation, WCAG offers the de facto international rule set and is ratified by the W3C standards body.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170702T150337Z" creationid="rikiha" creationdate="20170702T150305Z">
-        <seg>国によってアクセシビリティに関する独自の法律がありますが、WCAGは事実上の国際的なルールセットを提供し、標準化団体W3Cによって承認されています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170702T151336Z" creationid="rikiha" creationdate="20170702T150305Z">
+        <seg>国ごとに独自のアクセシビリティ法がありますが、WCAGは事実上の国際的なルールセットを提供し、標準化団体W3Cによって承認されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11399,10 +11400,11 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>When performing an audit, I defer to WCAG (Web Content Accessibility Guidelines).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170702T150332Z" creationid="rikiha" creationdate="20170702T150259Z">
+      <tuv lang="JA" changeid="rikiha" changedate="20170702T151135Z" creationid="rikiha" creationdate="20170702T150259Z">
         <seg>検査を実施する際、私はWCAG（Web Content Accessibility Guidelines）に従います。</seg>
       </tuv>
     </tu>
