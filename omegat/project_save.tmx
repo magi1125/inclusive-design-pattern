@@ -4159,11 +4159,12 @@ http://www.us-lighthouse.com/englesson/e-15281.html
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 括弧書きでややこしい言い回しするほどでもないと感じたので調整。</note>
       <tuv lang="EN-US">
         <seg>I evaluate the accessibility of a website or application, identifying problems and offering guidance for remediation: making things unbroken.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170702T150255Z" creationid="rikiha" creationdate="20170702T150255Z">
-        <seg>Webサイトやアプリケーションのアクセシビリティを評価し、問題を特定して、「改善」（壊れている箇所の修復）についてアドバイスをするのです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170702T151011Z" creationid="rikiha" creationdate="20170702T150255Z">
+        <seg>Webサイトやアプリケーションのアクセシビリティを評価し、問題を特定し、修復による改善についてアドバイスするのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7269,6 +7270,14 @@ To come before and after, or at both sides of.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>On the whole, it’s better I don’t &lt;g1&gt;just&lt;/g1&gt; tell folks how &lt;g2&gt;I&lt;/g2&gt; think they should have designed their interface!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170702T150357Z" creationid="rikiha" creationdate="20170702T150357Z">
+        <seg>概して、検査した対象のインターフェイスをどのようにデザインすべきだったかについて、ただ私がどう考えるかを伝えるよりも良いのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM. カタカナが多くてルーっぽいのがあれですが…w
 
 (岡本) 1つ→ひとつ</note>
@@ -8438,6 +8447,14 @@ target はそのままカタカナだと意味がとりにくいように思い�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T050816Z" creationid="yoota" creationdate="20170511T100459Z">
         <seg>ブラウザの標準の動作のおかげで、ユーザーが&lt;g4&gt;Tab&lt;/g4&gt;キーを押すと、ドキュメント内で次にフォーカス可能な要素である、&lt;g3&gt;href&lt;/g3&gt;属性を持つ&lt;g2&gt;&lt;a&gt;&lt;/g2&gt;要素にフォーカスが移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That WCAG is organized by principle — &lt;g1&gt;perceivable&lt;/g1&gt;, &lt;g2&gt;operable&lt;/g2&gt;, &lt;g3&gt;understandable&lt;/g3&gt;, &lt;g4&gt;robust&lt;/g4&gt; — is to be expected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170702T150402Z" creationid="rikiha" creationdate="20170702T150402Z">
+        <seg>WCAGは当然ながら原則（知覚可能、操作可能、理解可能、堅牢）別に整理されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10511,6 +10528,14 @@ https://8thlight.com/blog/chris-peak/2012/12/30/vertical-rhythm.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Though different countries have their own accessibility legislation, WCAG offers the de facto international rule set and is ratified by the W3C standards body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170702T150337Z" creationid="rikiha" creationdate="20170702T150305Z">
+        <seg>国によってアクセシビリティに関する独自の法律がありますが、WCAGは事実上の国際的なルールセットを提供し、標準化団体W3Cによって承認されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 準否定の scarcely が訳から落ちているように思います。scarcely be more important は「より重要になることはほとんどない」、と言っているのではないでしょうか。実際 lang属性はあまり重要ではないという議論はあります。
 ただ Though frequently omitted, と逆説的につながっていますし、文脈的には重要であるといっているほうがしっくり来ます。
 more important というほどでもないが、とはいえ多少は重要ということなのでしょうか。とすると、「そこそこ重要」「それなりに重要」という程度なのかもしれません。
@@ -11074,6 +11099,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>WCAG doesn’t know in advance precisely which elements, composites and conventions you are going to employ so it has to remain abstract.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170702T150406Z" creationid="rikiha" creationdate="20170702T150406Z">
+        <seg>WCAGは、皆さんがどの要素、コンポジット、規則を使用するかといった詳細を事前に知らないので、抽象的にならざるを得ないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>We can employ some defensive coding here to remove empty elements from the flow.</seg>
@@ -11363,6 +11396,14 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T102129Z" creationid="okamoto_jun" creationdate="20170627T102129Z">
         <seg>新たな問題が生じれば、新たなパターンを確立する必要がありますが、本書を読んだあなたは、パターンを確立する方法を身に着けていることでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When performing an audit, I defer to WCAG (Web Content Accessibility Guidelines).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170702T150332Z" creationid="rikiha" creationdate="20170702T150259Z">
+        <seg>検査を実施する際、私はWCAG（Web Content Accessibility Guidelines）に従います。</seg>
       </tuv>
     </tu>
     <tu>
