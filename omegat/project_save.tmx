@@ -4116,6 +4116,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>However, this has led manual evaluation experts and automated test tools to &lt;g5&gt;report&lt;/g5&gt; according to principle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170703T012241Z" creationid="rikiha" creationdate="20170703T012241Z">
+        <seg>しかしこれが原因で、手動で評価を行うエキスパートや自動化されたテストツールは、原則に照らして結果を報告してきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 長いコンテンツを非同期読み込みして速度を改善する話などもありますが……。
 
@@ -7270,7 +7278,8 @@ To come before and after, or at both sides of.
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) こなれてない感があります。
+      <note>(伊原) 【要検討】こなれてない感があります。
+つまるところは、自分だけの考えとして伝えないほうがベターである＝WCAGというルールセットを元に話した方がいい、ということなのかなとは思います。
 
 On the whole,
 概して
