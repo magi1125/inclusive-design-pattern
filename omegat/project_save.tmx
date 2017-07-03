@@ -8472,11 +8472,14 @@ target はそのままカタカナだと意味がとりにくいように思い�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ダッシュに修正。
+「当然ながら」に若干違和感あり。そのような前提を読者に要求できるのだろうか。
+だとしても「ご存知のとおり」とかでもいいような。</note>
       <tuv lang="EN-US">
         <seg>That WCAG is organized by principle — &lt;g1&gt;perceivable&lt;/g1&gt;, &lt;g2&gt;operable&lt;/g2&gt;, &lt;g3&gt;understandable&lt;/g3&gt;, &lt;g4&gt;robust&lt;/g4&gt; — is to be expected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170702T150402Z" creationid="rikiha" creationdate="20170702T150402Z">
-        <seg>WCAGは当然ながら原則（知覚可能、操作可能、理解可能、堅牢）別に整理されています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170703T013114Z" creationid="rikiha" creationdate="20170702T150402Z">
+        <seg>WCAGは当然ながら原則ごと――知覚可能、操作可能、理解可能、堅牢――に整理されています。</seg>
       </tuv>
     </tu>
     <tu>
