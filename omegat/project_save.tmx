@@ -9588,12 +9588,16 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
     <tu>
       <note>(伊原) やや補いつつ調整。
 
-(太田) audit をどう訳すか。あまり検査とは言わないようにも思います。診断?</note>
+(太田)
+「アクセシビリティエンジニアの立場から」となっていますが、そのまんま「アクセシビリティエンジニアの帽子をかぶって」でも良いように思います。どうでしょうか。
+audit をどう訳すか。あまり検査とは言わないようにも思います。診断?
+
+</note>
       <tuv lang="EN-US">
         <seg>The reason I started out writing by principle is because I often have to wear my accessibility engineer hat and perform accessibility audits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170706T100029Z" creationid="yoota" creationdate="20170622T030414Z">
-        <seg>本書を原則ごとに書き始めたのは、アクセシビリティエンジニアの立場からアクセシビリティ診断を行うことがよくあるからです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170706T100158Z" creationid="yoota" creationdate="20170622T030414Z">
+        <seg>本書を原則ごとに書き始めたのは、アクセシビリティエンジニアの帽子をかぶってアクセシビリティ診断を行うことがよくあるからです。</seg>
       </tuv>
     </tu>
     <tu>
