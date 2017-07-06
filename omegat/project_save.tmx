@@ -4179,8 +4179,8 @@ remediation は治療法ですが、まあママでも。</note>
       <tuv lang="EN-US">
         <seg>I evaluate the accessibility of a website or application, identifying problems and offering guidance for remediation: making things unbroken.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170706T100839Z" creationid="rikiha" creationdate="20170702T150255Z">
-        <seg>Webサイトやアプリケーションのアクセシビリティを評価し、問題を特定し、改善についてアドバイスします。つまり、修整するのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170706T100953Z" creationid="rikiha" creationdate="20170702T150255Z">
+        <seg>Webサイトやアプリケーションのアクセシビリティを評価し、問題を特定し、治療法をアドバイスします。つまり、修整するのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11453,12 +11453,14 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) 検査→診断としてみました。</note>
       <tuv lang="EN-US">
         <seg>When performing an audit, I defer to WCAG (Web Content Accessibility Guidelines).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170702T151135Z" creationid="rikiha" creationdate="20170702T150259Z">
-        <seg>検査を実施する際、私はWCAG（Web Content Accessibility Guidelines）に従います。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170706T100936Z" creationid="rikiha" creationdate="20170702T150259Z">
+        <seg>診断を実施する際、私はWCAG（Web Content Accessibility Guidelines）に従います。</seg>
       </tuv>
     </tu>
     <tu>
