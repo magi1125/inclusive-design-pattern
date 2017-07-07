@@ -8501,7 +8501,13 @@ target はそのままカタカナだと意味がとりにくいように思い�
     <tu>
       <note>(伊原) ダッシュに修正。
 「当然ながら」に若干違和感あり。そのような前提を読者に要求できるのだろうか。
-だとしても「ご存知のとおり」とかでもいいような。</note>
+だとしても「ご存知のとおり」とかでもいいような。
+
+(太田)
+微妙に誤訳っぽい気がしています。語順を普通の言い方に直すと
+it is to be expected that WCAG is organized by principle.
+なので「WCAGが原則ごとに整理されていることは予想できるでしょう」という話かと。
+</note>
       <tuv lang="EN-US">
         <seg>That WCAG is organized by principle — &lt;g1&gt;perceivable&lt;/g1&gt;, &lt;g2&gt;operable&lt;/g2&gt;, &lt;g3&gt;understandable&lt;/g3&gt;, &lt;g4&gt;robust&lt;/g4&gt; — is to be expected.</seg>
       </tuv>
