@@ -1732,6 +1732,12 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>画像alt</note>
+      <tuv lang="EN-US">
+        <seg>A list of tickets tagged with the bug keyword with titles like ‘Bad alt text on page 76’ and ‘Missing alt text on page 94.’</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
@@ -11470,8 +11476,7 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       <note>(太田)
 この ticket はBTSのチケットと思われます。報告でも間違いではないものの、すぐ下にチケットの図があるのでチケットとして訳出するべきではあるように思います。とはいえ「チケット」で良いのかは検討が必要かも。Backlogなどでは「課題」と呼ばれていますね。
 hundredが訳から落ちています。それぞれ異なるチケットが100件登録されるという話をしているはずです。
-一応原文に即して訳してみたつもりですが、BTSを良く知らない読者には伝わらないかも。
-</note>
+一応原文に即して訳してみたつもりですが、BTSを良く知らない読者には伝わらないかも?</note>
       <tuv lang="EN-US">
         <seg>When developer focus moves between integrated components, what good are a hundred disparate and application-wide missing alternative text tickets?</seg>
       </tuv>
