@@ -4117,12 +4117,12 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
     </tu>
     <tu>
       <note>(太田)
-これが原因で→これによって　としました。</note>
+これが原因で→その結果として　としました。</note>
       <tuv lang="EN-US">
         <seg>However, this has led manual evaluation experts and automated test tools to &lt;g5&gt;report&lt;/g5&gt; according to principle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170707T071702Z" creationid="rikiha" creationdate="20170703T012241Z">
-        <seg>しかしこれによって、手動で評価を行うエキスパートや自動化されたテストツールは、原則に照らして結果を&lt;g5&gt;報告&lt;/g5&gt;してきました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T075938Z" creationid="rikiha" creationdate="20170703T012241Z">
+        <seg>しかしその結果として、手動で評価を行うエキスパートや自動化されたテストツールは、原則に照らして結果を&lt;g5&gt;報告&lt;/g5&gt;してきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6254,6 +6254,14 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T072245Z" creationid="yoota" creationdate="20170511T072245Z">
         <seg>ブランディングのリーダーに伝えるのが私の役割でなくてよかった！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m just not convinced development teams find information presented in this way easily actionable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T075915Z" creationid="yoota" creationdate="20170707T075915Z">
+        <seg>開発チームがこの方法で示された情報を簡単に実施できると感じるかどうか、私には確信が持てません。</seg>
       </tuv>
     </tu>
     <tu>
