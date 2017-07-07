@@ -4116,11 +4116,13 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+これが原因で→これによって　としました。</note>
       <tuv lang="EN-US">
         <seg>However, this has led manual evaluation experts and automated test tools to &lt;g5&gt;report&lt;/g5&gt; according to principle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170707T070342Z" creationid="rikiha" creationdate="20170703T012241Z">
-        <seg>しかしこれが原因で、手動で評価を行うエキスパートや自動化されたテストツールは、原則に照らして結果を&lt;g5&gt;報告&lt;/g5&gt;してきました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T071702Z" creationid="rikiha" creationdate="20170703T012241Z">
+        <seg>しかしこれによって、手動で評価を行うエキスパートや自動化されたテストツールは、原則に照らして結果を&lt;g5&gt;報告&lt;/g5&gt;してきました。</seg>
       </tuv>
     </tu>
     <tu>
