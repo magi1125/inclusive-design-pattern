@@ -4119,14 +4119,12 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       <note>(太田)
 これが原因で→その結果　としました。
 this has led で「これが導いた」と言っているので、「報告してきました」→「報告するようになりました」としました。
-
-原文強調のreportは「報告」で良いか。そのまま「レポートする」というのもあり。
-</note>
+原文強調のreportは「報告」で良いか。そのまま「レポートする」というのもあり。</note>
       <tuv lang="EN-US">
         <seg>However, this has led manual evaluation experts and automated test tools to &lt;g5&gt;report&lt;/g5&gt; according to principle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170707T080244Z" creationid="rikiha" creationdate="20170703T012241Z">
-        <seg>しかしその結果、手動で評価を行うエキスパートも、自動化されたテストツールも、原則に照らして結果を&lt;g5&gt;報告&lt;/g5&gt;するようになりました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T081320Z" creationid="rikiha" creationdate="20170703T012241Z">
+        <seg>しかしその結果、手動で評価を行うエキスパートも、自動化されたテストツールも、結果を原則に照らしあわせて&lt;g5&gt;報告&lt;/g5&gt;するようになりました。</seg>
       </tuv>
     </tu>
     <tu>
