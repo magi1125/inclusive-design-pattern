@@ -11460,6 +11460,14 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>When developer focus moves between integrated components, what good are a hundred disparate and application-wide missing alternative text tickets?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T083555Z" creationid="yoota" creationdate="20170707T083555Z">
+        <seg>開発者が統合されたコンポーネント間の動きに注目している場合、それとはまったく関係ないアプリケーション全体にわたる代替テキストの欠落に関する違反報告に、一体何の意味があるというのでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 必要な文字のリストを指定できる、としました。
 
 (伊原) LGTM</note>
