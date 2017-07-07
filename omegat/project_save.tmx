@@ -2640,6 +2640,14 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>But that’s not all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T090538Z" creationid="yoota" creationdate="20170707T090538Z">
+        <seg>それだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 composeは作成でいいのか。あとで検討。
 
@@ -11498,7 +11506,9 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       <note>(太田)
 この ticket はBTSのチケットと思われます。報告でも間違いではないものの、すぐ下にチケットの図があるのでチケットとして訳出するべきではあるように思います。とはいえ「チケット」で良いのかは検討が必要かも。Backlogなどでは「課題」と呼ばれていますね。
 hundredが訳から落ちています。それぞれ異なるチケットが100件登録されるという話をしているはずです。
-一応原文に即して訳してみたつもりですが、BTSを良く知らない読者には伝わらないかも?</note>
+一応原文に即して訳してみたつもりですが、BTSを良く知らない読者には伝わらないかも?
+
+「何の意味があるというのでしょう」は微妙に違うかも。意味はあるはず。</note>
       <tuv lang="EN-US">
         <seg>When developer focus moves between integrated components, what good are a hundred disparate and application-wide missing alternative text tickets?</seg>
       </tuv>
