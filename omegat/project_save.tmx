@@ -7313,6 +7313,10 @@ WCAGに従うことは、伝えるよりも良いのです。
 (太田)
 原文強調2箇所の処理も考える必要あり。
 「検査した対象の」は補っているようですが逆に分かりにくいような。
+直訳すると
+「概して、*私は* そのインターフェイスはこうデザインすべきだったと思う、と伝える *だけ* であるよりも、そのほうが良いです。」
+という感じですね。
+
 
 
 
@@ -7320,8 +7324,8 @@ WCAGに従うことは、伝えるよりも良いのです。
       <tuv lang="EN-US">
         <seg>On the whole, it’s better I don’t &lt;g1&gt;just&lt;/g1&gt; tell folks how &lt;g2&gt;I&lt;/g2&gt; think they should have designed their interface!</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170707T023643Z" creationid="rikiha" creationdate="20170702T150357Z">
-        <seg>概して、検査した対象のインターフェイスをどのようにデザインすべきだったかについて、&lt;g1&gt;ただ&lt;/g1&gt;&lt;g2&gt;私が&lt;/g2&gt;どう考えるかを伝えるよりも良いのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T024818Z" creationid="rikiha" creationdate="20170702T150357Z">
+        <seg>概してそのほうが、&lt;g2&gt;私は&lt;/g2&gt;そのインターフェイスはこうデザインすべきだったと思う、と伝える&lt;g1&gt;だけ&lt;/g1&gt;であるより良いのです。</seg>
       </tuv>
     </tu>
     <tu>
