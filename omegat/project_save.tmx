@@ -6261,12 +6261,14 @@ http://eow.alc.co.jp/search?q=right%20way
     <tu>
       <note>(太田)
 原則ごとに見るのは検証の際には良いが、実装の際には困るという話。
-ピンク本を原則ごとではなく制作フローに沿って書いたのもこの理由ですね。</note>
+ピンク本を原則ごとではなく制作フローに沿って書いたのもこの理由ですね。
+
+</note>
       <tuv lang="EN-US">
         <seg>I’m just not convinced development teams find information presented in this way easily actionable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170707T075915Z" creationid="yoota" creationdate="20170707T075915Z">
-        <seg>開発チームがこの方法で示された情報を簡単に実施できると感じるかどうか、私には確信が持てません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T083746Z" creationid="yoota" creationdate="20170707T075915Z">
+        <seg>開発チームは、このように示された情報を簡単に実行に移せると感じるでしょうか。私には確信が持てません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11334,8 +11336,8 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
       <tuv lang="EN-US">
         <seg>We’re fairly wedded to reporting accessibility failures by principle because it’s easier that way to reassure ourselves each and every independent issue has been covered.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170707T082013Z" creationid="yoota" creationdate="20170707T071746Z">
-        <seg>私たちが原則ごとにアクセシビリティの不備を報告することに固執するのは、その方が、それぞれの問題すべてをカバーしていることを保証しやすいからです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T083807Z" creationid="yoota" creationdate="20170707T071746Z">
+        <seg>私たちが原則ごとにアクセシビリティの不備を報告するのは、その方が、それぞれの問題すべてをカバーしていることを保証しやすいからです。</seg>
       </tuv>
     </tu>
     <tu>
