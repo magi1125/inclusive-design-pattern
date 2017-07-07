@@ -4117,12 +4117,13 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
     </tu>
     <tu>
       <note>(太田)
-これが原因で→その結果として　としました。</note>
+これが原因で→その結果　としました。
+</note>
       <tuv lang="EN-US">
         <seg>However, this has led manual evaluation experts and automated test tools to &lt;g5&gt;report&lt;/g5&gt; according to principle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170707T075938Z" creationid="rikiha" creationdate="20170703T012241Z">
-        <seg>しかしその結果として、手動で評価を行うエキスパートや自動化されたテストツールは、原則に照らして結果を&lt;g5&gt;報告&lt;/g5&gt;してきました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T080055Z" creationid="rikiha" creationdate="20170703T012241Z">
+        <seg>しかしその結果、手動で評価を行うエキスパートや自動化されたテストツールは、原則に照らして結果を&lt;g5&gt;報告&lt;/g5&gt;するようになりました。</seg>
       </tuv>
     </tu>
     <tu>
