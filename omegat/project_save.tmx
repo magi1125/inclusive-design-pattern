@@ -7312,8 +7312,8 @@ WCAGに従うことは、伝えるよりも良いのです。
       <tuv lang="EN-US">
         <seg>On the whole, it’s better I don’t &lt;g1&gt;just&lt;/g1&gt; tell folks how &lt;g2&gt;I&lt;/g2&gt; think they should have designed their interface!</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170702T150357Z" creationid="rikiha" creationdate="20170702T150357Z">
-        <seg>概して、検査した対象のインターフェイスをどのようにデザインすべきだったかについて、ただ私がどう考えるかを伝えるよりも良いのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T023643Z" creationid="rikiha" creationdate="20170702T150357Z">
+        <seg>概して、検査した対象のインターフェイスをどのようにデザインすべきだったかについて、&lt;g1&gt;ただ&lt;/g1&gt;&lt;g2&gt;私が&lt;/g2&gt;どう考えるかを伝えるよりも良いのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10586,7 +10586,7 @@ https://8thlight.com/blog/chris-peak/2012/12/30/vertical-rhythm.html
 (太田)
 「事実上の国際的なルールセット」とは。
 意訳になりますが「事実上の国際標準」としてしまったほうが良いかも。調整してみましたがどうでしょうか。
-前半はちょっと分かりにくかったので「国によっては独自のアクセシビリティ法を持っていることもある」としてみました。やや意訳ですがこういうことかと。</note>
+前半は「国によっては独自のアクセシビリティ法を持っていることもある」としてみました。やや意訳ですがこういうことかと。</note>
       <tuv lang="EN-US">
         <seg>Though different countries have their own accessibility legislation, WCAG offers the de facto international rule set and is ratified by the W3C standards body.</seg>
       </tuv>
