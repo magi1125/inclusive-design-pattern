@@ -11177,14 +11177,15 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
     </tu>
     <tu>
-      <note>
-(太田)
-convention は他のところでは「慣習」としていたのでここもそうするべきか?</note>
+      <note>(太田)
+convention は他のところでは「慣習」としていたのでここもそうするべきか?
+
+composite はここでしか使われていない?</note>
       <tuv lang="EN-US">
         <seg>WCAG doesn’t know in advance precisely which elements, composites and conventions you are going to employ so it has to remain abstract.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170702T150406Z" creationid="rikiha" creationdate="20170702T150406Z">
-        <seg>WCAGは、皆さんがどの要素、コンポジット、規則を使用するかといった詳細を事前に知らないので、抽象的にならざるを得ないのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T065015Z" creationid="rikiha" creationdate="20170702T150406Z">
+        <seg>WCAGは、皆さんがどの要素、コンポジット、慣習を使用するかといった詳細を事前に知らないので、抽象的にならざるを得ないのです。</seg>
       </tuv>
     </tu>
     <tu>
