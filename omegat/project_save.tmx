@@ -11181,14 +11181,17 @@ http://www.w3.org/TR/wai-aria-1.1/#article
 convention は他のところでは「慣習」としていたのでここもそうするべきか?
 
 composite はここでしか使われていない?
-GoFデザインパターンのcompositeのようなものを念頭にしているとすると「構成」のような役になるのが妥当か。
+GoFデザインパターンのcompositeのようなものを念頭にしているとすると「構造」のような役になるのが妥当か。
 https://ja.wikipedia.org/wiki/Composite_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3
+
+
+
 </note>
       <tuv lang="EN-US">
         <seg>WCAG doesn’t know in advance precisely which elements, composites and conventions you are going to employ so it has to remain abstract.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170707T065700Z" creationid="rikiha" creationdate="20170702T150406Z">
-        <seg>WCAGは、皆さんがどのような要素、構成、慣習を採用するかといった詳細を事前に知らないので、抽象的にならざるを得ないのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170707T065805Z" creationid="rikiha" creationdate="20170702T150406Z">
+        <seg>WCAGは、皆さんがどのような要素、構造、慣習を採用するかといった詳細を事前に知らないので、抽象的にならざるを得ないのです。</seg>
       </tuv>
     </tu>
     <tu>
