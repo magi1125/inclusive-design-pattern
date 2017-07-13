@@ -3038,6 +3038,14 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Contriving to turn one instance of poor design into two or more reported issues not only complicates the remediation process, but does nothing to educate the developer about how these problems really come about.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170713T083235Z" creationid="yoota" creationdate="20170713T083235Z">
+        <seg>何とか工夫して、1つの質の悪いデザインの事例を2つ以上の問題に分けて報告しても、修正プロセスが複雑になるだけです。また、それらの問題が実際にどのようにして発生したかについて、開発者に教える役にも立ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「慣習」とするべきか?
 
 (伊原) LGTM</note>
@@ -9025,6 +9033,15 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170530T085023Z" creationid="rikiha" creationdate="20170530T084604Z">
         <seg>&lt;g2&gt;Flesch- Kincaid Grade Level&lt;/g2&gt;テストもこれと似ていますが、評価結果は米国の学校の学年として表現されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>再登場→再掲?</note>
+      <tuv lang="EN-US">
+        <seg>The Button Example (Again)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170713T083310Z" creationid="yoota" creationdate="20170713T083310Z">
+        <seg>ボタンの例（再登場）</seg>
       </tuv>
     </tu>
     <tu>
