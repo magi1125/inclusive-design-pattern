@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6902,11 +6902,12 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)　3人目→3人め</note>
       <tuv lang="EN-US">
         <seg>Meanwhile, a third developer is dutifully studying “Upvote Button Has Improper Role” and — seeing how much work has gone into this &lt;g1&gt;&lt;div&gt;&lt;/g1&gt; already — tops it off with an explicit ARIA role of &lt;g2&gt;"button"&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T071014Z" creationid="yoota" creationdate="20170714T071014Z">
-        <seg>そして、3人目の開発者は「賛成ボタンのロールが不適切」というチケットをしっかりと検討し、すでに&lt;div&gt;に加えられた修正を確認して、“button”という明確なARIAロールを加えて完成させます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170714T101129Z" creationid="yoota" creationdate="20170714T071014Z">
+        <seg>そして、3人めの開発者は「賛成ボタンのロールが不適切」というチケットをしっかりと検討し、すでに&lt;div&gt;に加えられた修正を確認して、“button”という明確なARIAロールを加えて完成させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11478,11 +11479,12 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
     </tu>
     <tu>
+      <note>(岡本) 2人目→2人め</note>
       <tuv lang="EN-US">
         <seg>Unknown to this developer, another developer is assigned “Upvote Button Not Keyboard-Accessible.” The ticket comes with some guidance from the accessibility consultant about how to make the &lt;g1&gt;&lt;div&gt;&lt;/g1&gt; keyboard-accessible using &lt;g2&gt;tabindex&lt;/g2&gt; and some JavaScript to trigger click events with the keyboard.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T070953Z" creationid="yoota" creationdate="20170714T070953Z">
-        <seg>この開発者は知りませんが、2人目の開発者には「賛成ボタンがキーボードでアクセスできない」というチケットが割り当てられています。このチケットには、tabindexを使って&lt;div&gt;をキーボードでアクセスできるようにする方法と、キーボードでクリックイベントをトリガーするJavaScriptについて、アクセシビリティコンサルタントからのアドバイスが添えられています。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170714T101215Z" creationid="yoota" creationdate="20170714T070953Z">
+        <seg>この開発者は知りませんが、2人めの開発者には「賛成ボタンがキーボードでアクセスできない」というチケットが割り当てられています。このチケットには、tabindexを使って&lt;div&gt;をキーボードでアクセスできるようにする方法と、キーボードでクリックイベントをトリガーするJavaScriptについて、アクセシビリティコンサルタントからのアドバイスが添えられています。</seg>
       </tuv>
     </tu>
     <tu>
