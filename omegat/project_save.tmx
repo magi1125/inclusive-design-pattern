@@ -2100,8 +2100,8 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       <tuv lang="EN-US">
         <seg>And the button appears like so:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T033412Z" creationid="yoota" creationdate="20170714T033412Z">
-        <seg>ボタンの見た目はこのようになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T045859Z" creationid="yoota" creationdate="20170714T033412Z">
+        <seg>ボタンの見た目はこのようになっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9362,12 +9362,13 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
     </tu>
     <tu>
       <note>(太田)
-次→以下、としました (他がそうだったはずなので)</note>
+次→以下、としました (他がそうだったはずなので)
+ここはまだ例の想定を紹介している段階なので、なります→なっています、とするのが良いかなと。</note>
       <tuv lang="EN-US">
         <seg>The button markup looks like this:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T033358Z" creationid="yoota" creationdate="20170714T033358Z">
-        <seg>ボタンのマークアップは以下のようになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T045853Z" creationid="yoota" creationdate="20170714T033358Z">
+        <seg>ボタンのマークアップは以下のようになっています。</seg>
       </tuv>
     </tu>
     <tu>
