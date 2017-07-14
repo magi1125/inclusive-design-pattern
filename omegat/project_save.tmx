@@ -2097,6 +2097,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>And the button appears like so:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T033412Z" creationid="yoota" creationdate="20170714T033412Z">
+        <seg>ボタンの見た目はこのようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>And utility depends on cognition, which depends on convention.</seg>
@@ -2713,6 +2721,12 @@ composeは作成でいいのか。あとで検討。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T055025Z" creationid="yoota" creationdate="20170524T054957Z">
         <seg>しかし、&lt;g8&gt;&lt;g9&gt;実際にはいずれのユーザーエージェントにもアウトラインアルゴリズムが実装されていない&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;（脚注42）&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;ため、支援技術ユーザーにとってこれは何の効果も、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>画像alt</note>
+      <tuv lang="EN-US">
+        <seg>Button shape with a thumbs-up icon to the left and the word ‘upvote’ with an exclamation mark to the right.</seg>
       </tuv>
     </tu>
     <tu>
