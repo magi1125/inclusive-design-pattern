@@ -1633,6 +1633,14 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A Better Way</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T071021Z" creationid="yoota" creationdate="20170714T071021Z">
+        <seg>より良い方法</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Post と Article を訳し分けなくて良いか。訳し分けるなら「ブログ投稿」か。</note>
       <tuv lang="EN-US">
         <seg>A Blog Post</seg>
@@ -6830,6 +6838,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Meanwhile, a third developer is dutifully studying “Upvote Button Has Improper Role” and — seeing how much work has gone into this &lt;g1&gt;&lt;div&gt;&lt;/g1&gt; already — tops it off with an explicit ARIA role of &lt;g2&gt;"button"&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T071014Z" creationid="yoota" creationdate="20170714T071014Z">
+        <seg>そして、3人目の開発者は「賛成ボタンのロールが不適切」というチケットをしっかりと検討し、すでに&lt;div&gt;に加えられた修正を確認して、“button”という明確なARIAロールを加えて完成させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Measure</seg>
@@ -9817,6 +9833,14 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T014451Z" creationid="yoota" creationdate="20170501T104643Z">
         <seg>スキップリンクの恩恵を最も受けるのは、目が見えているキーボードユーザーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project’s JavaScript swells slightly and the markup ends up like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T071005Z" creationid="yoota" creationdate="20170714T071005Z">
+        <seg>プロジェクトのJavaScriptがわずかに増え、マークアップは次のようになります。</seg>
       </tuv>
     </tu>
     <tu>
