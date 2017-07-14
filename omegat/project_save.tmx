@@ -8846,7 +8846,9 @@ target はそのままカタカナだと意味がとりにくいように思い�
 (太田)
 微妙に誤訳っぽいというか、語順を普通の言い方にすると
 It is to be expected that WCAG is organized by principle.
-となり、「WCAGが原則ごとに整理されているのは当然のことです」という話かと思います。</note>
+となり、「WCAGが原則ごとに整理されているのは当然のことです」という話かと思います。
+
+(伊原) ナルホド。OKです</note>
       <tuv lang="EN-US">
         <seg>That WCAG is organized by principle — &lt;g1&gt;perceivable&lt;/g1&gt;, &lt;g2&gt;operable&lt;/g2&gt;, &lt;g3&gt;understandable&lt;/g3&gt;, &lt;g4&gt;robust&lt;/g4&gt; — is to be expected.</seg>
       </tuv>
@@ -11693,8 +11695,7 @@ composite はここでしか使われていない?
 GoFデザインパターンのcompositeのようなものを念頭にしているとすると「構造」のような役になるのが妥当か。
 https://ja.wikipedia.org/wiki/Composite_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3
 
-
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>WCAG doesn’t know in advance precisely which elements, composites and conventions you are going to employ so it has to remain abstract.</seg>
       </tuv>
