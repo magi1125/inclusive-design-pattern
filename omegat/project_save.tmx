@@ -7601,12 +7601,13 @@ WCAGに従うことは、伝えるよりも良いのです。
     <tu>
       <note>(太田)
 三人称単数性別不明のThey。
-</note>
+
+close it はチケットをクローズの意味。</note>
       <tuv lang="EN-US">
         <seg>One developer is randomly assigned a ticket labeled “Upvote Button Missing Label.” They open that ticket and, like any self-respecting developer, endeavor to fix and close it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T095817Z" creationid="yoota" creationdate="20170714T070855Z">
-        <seg>ある開発者には、無作為に「賛成ボタンのラベル欠如」というチケットが割り当てられました。開発者はチケットを開き、誇りある開発者ならだれでもそうするように、修正を行って問題を解決しようと努めます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T100157Z" creationid="yoota" creationdate="20170714T070855Z">
+        <seg>ある開発者には、無作為に「賛成ボタンのラベル欠如」というチケットが割り当てられました。開発者はチケットを開き、誇りある開発者ならだれでもそうするように、修正を行ってチケットをクローズしようとします。</seg>
       </tuv>
     </tu>
     <tu>
