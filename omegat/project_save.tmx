@@ -5528,6 +5528,16 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+賛成ボタン→投票ボタン?</note>
+      <tuv lang="EN-US">
+        <seg>In this case, the various failures organized under the &lt;g1&gt;upvote button pattern&lt;/g1&gt; would surely lead them to recommend the use of a standard &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; button element in its place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T080324Z" creationid="yoota" creationdate="20170714T080324Z">
+        <seg>このケースでは、&lt;g1&gt;賛成ボタンのパターン&lt;/g1&gt;という項目にまとめられたさまざまな欠陥を見れば、コンサルタントは当然ながら標準の&lt;g2&gt;&lt;button&gt;&lt;/g2&gt;要素を使うよう勧めるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In this implementation, a &lt;g1&gt;linear-gradient&lt;/g1&gt; background with a height of just 0.05em forms the underline.</seg>
