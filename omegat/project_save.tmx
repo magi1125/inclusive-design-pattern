@@ -6913,12 +6913,14 @@ manageは管理で良いような。
     <tu>
       <note>(岡本)　3人目→3人め
 
-(太田) Meanwhileは「そうこうしている間に」くらいに訳したいですね。</note>
+(太田) Meanwhileは「そうこうしている間に」くらいに訳したいですね。
+
+しっかりと検討→忠実にスタディ、くらい? 皮肉っぽい言い方だと思います。</note>
       <tuv lang="EN-US">
         <seg>Meanwhile, a third developer is dutifully studying “Upvote Button Has Improper Role” and — seeing how much work has gone into this &lt;g1&gt;&lt;div&gt;&lt;/g1&gt; already — tops it off with an explicit ARIA role of &lt;g2&gt;"button"&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T102142Z" creationid="yoota" creationdate="20170714T071014Z">
-        <seg>そうこうしている間に、3人めの開発者は「賛成ボタンのロールが不適切」というチケットをしっかりと検討し、すでに&lt;div&gt;に加えられた修正を確認して、“button”という明確なARIAロールを加えて完成させます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T102359Z" creationid="yoota" creationdate="20170714T071014Z">
+        <seg>そうこうしている間に、3人めの開発者は「賛成ボタンのロールが不適切」というチケットについて忠実にスタディして、――すでに&lt;div&gt;に加えられた修正を確認した上で――&lt;g2&gt;“button”&lt;/g2&gt;という明確なARIAロールを加えて完成させます。</seg>
       </tuv>
     </tu>
     <tu>
