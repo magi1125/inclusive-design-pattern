@@ -11489,8 +11489,8 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       <tuv lang="EN-US">
         <seg>Unknown to this developer, another developer is assigned “Upvote Button Not Keyboard-Accessible.” The ticket comes with some guidance from the accessibility consultant about how to make the &lt;g1&gt;&lt;div&gt;&lt;/g1&gt; keyboard-accessible using &lt;g2&gt;tabindex&lt;/g2&gt; and some JavaScript to trigger click events with the keyboard.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T101516Z" creationid="yoota" creationdate="20170714T070953Z">
-        <seg>この開発者は知りませんが、別のの開発者には「賛成ボタンがキーボードでアクセスできない」というチケットが割り当てられています。このチケットには、tabindexを使って&lt;div&gt;をキーボードでアクセスできるようにする方法と、キーボードでクリックイベントをトリガーするJavaScriptについて、アクセシビリティコンサルタントからのアドバイスが添えられています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T101553Z" creationid="yoota" creationdate="20170714T070953Z">
+        <seg>この開発者は知りませんが、別のの開発者には「賛成ボタンがキーボードでアクセスできない」というチケットが割り当てられています。このチケットには、&lt;g2&gt;tabindex&lt;/g2&gt;を使って&lt;g1&gt;&lt;div&gt;&lt;/g1&gt;をキーボードでアクセスできるようにする方法と、キーボードでクリックイベントをトリガーするJavaScriptについて、アクセシビリティコンサルタントからのアドバイスが添えられています。</seg>
       </tuv>
     </tu>
     <tu>
