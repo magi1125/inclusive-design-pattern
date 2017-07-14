@@ -8021,8 +8021,8 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       <tuv lang="EN-US">
         <seg>Second, under &lt;g7&gt;operable&lt;/g7&gt;, it fails &lt;g8&gt;&lt;g9&gt;2.1.1 Keyboard&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;2&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt; because the button uses an unfocusable &lt;g13&gt;&lt;div&gt;&lt;/g13&gt; element, which — even if you made it to be focusable with &lt;g14&gt;tabindex="0"&lt;/g14&gt; — would still need some JavaScript to trigger click events on pressing the &lt;g15&gt;Enter&lt;/g15&gt; and &lt;g16&gt;Space&lt;/g16&gt; keys.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T052810Z" creationid="yoota" creationdate="20170714T052502Z">
-        <seg>次に、&lt;g7&gt;操作可能&lt;/g7&gt;の観点では、このボタンはフォーカスできない&lt;g13&gt;&lt;div&gt;&lt;/g13&gt;要素を使っているので、&lt;g9&gt;2.1.1「キーボード」&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;（脚注72）&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;を満たしていません。――たとえ&lt;g14&gt;tabindex="0"&lt;/g14&gt;でフォーカス可能にしたとしても――、&lt;g15&gt;Enter&lt;/g15&gt;および&lt;g16&gt;Space&lt;/g16&gt;キーを押してクリックイベントをトリガーするためにはJavaScriptが必要になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T052819Z" creationid="yoota" creationdate="20170714T052502Z">
+        <seg>次に、&lt;g7&gt;操作可能&lt;/g7&gt;の観点では、このボタンはフォーカスできない&lt;g13&gt;&lt;div&gt;&lt;/g13&gt;要素を使っているので、&lt;g8&gt;&lt;g9&gt;2.1.1「キーボード」&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;（脚注72）&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;を満たしていません。――たとえ&lt;g14&gt;tabindex="0"&lt;/g14&gt;でフォーカス可能にしたとしても――、&lt;g15&gt;Enter&lt;/g15&gt;および&lt;g16&gt;Space&lt;/g16&gt;キーを押してクリックイベントをトリガーするためにはJavaScriptが必要になります。</seg>
       </tuv>
     </tu>
     <tu>
