@@ -2230,8 +2230,8 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       <tuv lang="EN-US">
         <seg>As Joe Dolson writes in “&lt;g1&gt;&lt;g2&gt;I’m an accessibility consultant.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T084159Z" creationid="yoota" creationdate="20170714T084159Z">
-        <seg>ジョー・ドルソン（Joe Dolson）が「I’m an accessibility consultant.</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T084322Z" creationid="yoota" creationdate="20170714T084159Z">
+        <seg>ジョー・ドルソン（Joe Dolson）が&lt;g1&gt;&lt;g2&gt;「I’m an accessibility consultant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8600,8 +8600,8 @@ impactは次の文に合わせて「効果」としました。
       <tuv lang="EN-US">
         <seg>Stop hiring me&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;4&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” remediating broken websites and apps is unpleasant work for both the consultant and the client.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T084204Z" creationid="yoota" creationdate="20170714T084204Z">
-        <seg>Stop hiring me」（脚注74）で述べているように、壊れたWebサイトやアプリケーションを修正するのは、コンサルタントにとってもクライアントにとっても楽しい作業ではありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T084331Z" creationid="yoota" creationdate="20170714T084204Z">
+        <seg>Stop hiring me」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注74）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;で述べているように、壊れたWebサイトやアプリケーションを修正するのは、コンサルタントにとってもクライアントにとっても楽しい作業ではありません。</seg>
       </tuv>
     </tu>
     <tu>
