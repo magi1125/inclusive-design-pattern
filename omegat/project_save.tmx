@@ -3097,6 +3097,8 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       <note>(岡本) 1つ→ひとつ　　2つ→ふたつ
 
 (太田)
+「何とか工夫して」は肯定的なニュアンスですが、ここのContriving は否定的なニュアンスで使われているように思います。「わざわざ」としてみました。
+
 poorは「質の悪い」でよいか。
 他の場所を見ると「劣る」「望ましくない」「良くない」「貧弱」「悪い」など、特に統一はされていませんでした。
 poor products を残念な製品としているので、残念なデザインでも良いかも。
@@ -3105,8 +3107,8 @@ issueは文字どおり「イシュー」と思われますが、いったん「
       <tuv lang="EN-US">
         <seg>Contriving to turn one instance of poor design into two or more reported issues not only complicates the remediation process, but does nothing to educate the developer about how these problems really come about.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T093505Z" creationid="yoota" creationdate="20170713T083235Z">
-        <seg>何とか工夫して、ひとつの残念なデザインの事例をふたつ以上の課題に分けて報告しても、修正プロセスが複雑になるだけです。また、それらの問題が実際にどのようにして発生したかについて、開発者に教える役にも立ちません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T093710Z" creationid="yoota" creationdate="20170713T083235Z">
+        <seg>ひとつの残念なデザインの事例を、わざわざふたつ以上の課題に分けて報告しても、修正プロセスが複雑になるだけです。また、それらの問題が実際にどのようにして発生したかについて、開発者に教える役にも立ちません。</seg>
       </tuv>
     </tu>
     <tu>
