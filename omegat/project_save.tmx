@@ -4500,7 +4500,7 @@ poorは貧弱というか、ここでは「ダメな」「望ましくない」�
 
 (岡本)　「止まるというのは、よくあるやり方です」は翻訳口調というか。普通に「〜は、よくあることです」でどうでしょうか。
 
-(太田) 「ビルドが止まるようにするのは、よくあるやり方です」とするのが良いかも。</note>
+(太田) 「ビルドが止まるようにするのは、よくあるやり方です」とするのが良いかも (ここで「ビルドが止まる」のは勝手に止まるのではなく、わざと止まるようにしています)。</note>
       <tuv lang="EN-US">
         <seg>If poor code style like inconsistent indentation breaks a build, that’s one thing; but if a build breaks because the product is in danger of alienating a user?</seg>
       </tuv>
