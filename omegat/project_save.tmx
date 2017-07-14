@@ -11272,6 +11272,14 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown to this developer, another developer is assigned “Upvote Button Not Keyboard-Accessible.” The ticket comes with some guidance from the accessibility consultant about how to make the &lt;g1&gt;&lt;div&gt;&lt;/g1&gt; keyboard-accessible using &lt;g2&gt;tabindex&lt;/g2&gt; and some JavaScript to trigger click events with the keyboard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T070953Z" creationid="yoota" creationdate="20170714T070953Z">
+        <seg>この開発者は知りませんが、2人目の開発者には「賛成ボタンがキーボードでアクセスできない」というチケットが割り当てられています。このチケットには、tabindexを使って&lt;div&gt;をキーボードでアクセスできるようにする方法と、キーボードでクリックイベントをトリガーするJavaScriptについて、アクセシビリティコンサルタントからのアドバイスが添えられています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Unless your superpower is prescience and you can anticipate the device setup of each and every one of your users, this is the only way to go.</seg>
