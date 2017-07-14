@@ -2504,6 +2504,14 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Because the inclusive upvote button replaces the previous implementation one-for-one, the consultant has also helped the organization improve its pattern library.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T082734Z" creationid="yoota" creationdate="20170714T082734Z">
+        <seg>インクルーシブな賛成ボタンが以前の1対1の実装にとって代わるため、コンサルタントは組織のパターンライブラリを向上させる支援もできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「フレーム外」を「フレームの外で」としつつ位置を調整しました。
 barmanは残さなくて良いと思いましたが「キャプション中の人名を訳すかどうか問題」に関係するのでいったんママで。
@@ -9380,6 +9388,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The accessibility consultant (reporter) has met them on their home turf and helped them to improve the interface in an apprehensible and tangible way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T082711Z" creationid="yoota" creationdate="20170714T082711Z">
+        <seg>アクセシビリティコンサルタント（報告者）は、開発者の得意分野で対応し、理解しやすい具体的な方法でインターフェイスを改善させる手伝いができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 元訳では単に「名前」となっていましたが、accessible name です。
 いったん「アクセシブルな名前 (name)」と置きました。要検討。
 ここでは指定方法の話をしているのではなく、titleで指定されたものが名前(name)として扱われると言っているものと思います。
@@ -9787,6 +9803,14 @@ separateは物理的に分割するイメージかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170613T061028Z" creationid="yoota" creationdate="20170613T051311Z">
         <seg>最も重要なのは、以下の点を認識できるようにすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next time an upvote button (or similar) is needed, the developer has an exemplar at the ready.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T082738Z" creationid="yoota" creationdate="20170714T082738Z">
+        <seg>次に賛成ボタン（または似たようなボタン）が必要になったときは、開発者にはすぐに使える見本があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10493,6 +10517,14 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This could apply to current or future projects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T082741Z" creationid="yoota" creationdate="20170714T082741Z">
+        <seg>これは現在のプロジェクトにも、将来のプロジェクトにも当てはまります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文ダッシュは生かしたい気がするがどうか。
 語順調整してダッシュを生かしてみました。
@@ -10994,6 +11026,14 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T090153Z" creationid="yoota" creationdate="20170501T083058Z">
         <seg>本書には&lt;g3&gt;アクセシブルな名前 (name)&lt;/g3&gt;の話がたびたび出てきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tickets tagged ‘Enhancement’ and named after patterns, not just problems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T082746Z" creationid="yoota" creationdate="20170714T082746Z">
+        <seg>パターン別に整理されたチケットは、パターンライブラリと簡単に調和させることができます。</seg>
       </tuv>
     </tu>
     <tu>
