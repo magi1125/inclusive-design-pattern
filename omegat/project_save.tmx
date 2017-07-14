@@ -3489,8 +3489,8 @@ http://waic.jp/docs/WCAG20/Overview.html#images-of-textdef
       <tuv lang="EN-US">
         <seg>First, under &lt;g1&gt;perceivable&lt;/g1&gt;, the button fails &lt;g2&gt;&lt;g3&gt;1.1.1 Non-text Content&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;1&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; because it has no alternative text to supplement the image of text in the background.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T052405Z" creationid="yoota" creationdate="20170714T051214Z">
-        <seg>まず、&lt;g1&gt;知覚可能&lt;/g1&gt;の観点では、背景として敷かれた文字画像に代替テキストがないため、&lt;g2&gt;&lt;g3&gt;1.1.1「非テキストコンテンツ」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注71）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を満たしていません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T052614Z" creationid="yoota" creationdate="20170714T051214Z">
+        <seg>まず、&lt;g1&gt;知覚可能&lt;/g1&gt;の観点では、背景として敷かれた文字画像に代替テキストがないため、このボタンは&lt;g2&gt;&lt;g3&gt;1.1.1「非テキストコンテンツ」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注71）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を満たしていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8021,8 +8021,8 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       <tuv lang="EN-US">
         <seg>Second, under &lt;g7&gt;operable&lt;/g7&gt;, it fails &lt;g8&gt;&lt;g9&gt;2.1.1 Keyboard&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;2&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt; because the button uses an unfocusable &lt;g13&gt;&lt;div&gt;&lt;/g13&gt; element, which — even if you made it to be focusable with &lt;g14&gt;tabindex="0"&lt;/g14&gt; — would still need some JavaScript to trigger click events on pressing the &lt;g15&gt;Enter&lt;/g15&gt; and &lt;g16&gt;Space&lt;/g16&gt; keys.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T052545Z" creationid="yoota" creationdate="20170714T052502Z">
-        <seg>次に、&lt;g7&gt;操作可能&lt;/g7&gt;の観点では、フォーカスできない&lt;g13&gt;&lt;div&gt;&lt;/g13&gt;要素を使っているので、&lt;g9&gt;2.1.1「キーボード」&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;（脚注72）&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;を満たしていません。tabindex="0"でフォーカス可能にしたとしても、EnterキーおよびSpaceキーを押してクリックイベントをトリガーするためにはJavaScriptが必要になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T052641Z" creationid="yoota" creationdate="20170714T052502Z">
+        <seg>次に、&lt;g7&gt;操作可能&lt;/g7&gt;の観点では、このボタンはフォーカスできない&lt;g13&gt;&lt;div&gt;&lt;/g13&gt;要素を使っているので、&lt;g9&gt;2.1.1「キーボード」&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;（脚注72）&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;を満たしていません――&lt;g14&gt;tabindex="0"&lt;/g14&gt;でフォーカス可能にしたとしても、EnterキーおよびSpaceキーを押してクリックイベントをトリガーするためにはJavaScriptが必要になります。</seg>
       </tuv>
     </tu>
     <tu>
