@@ -10692,12 +10692,15 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
     <tu>
       <note>(太田)
 成功基準→達成基準
-冒頭 「今回は、」は少し違和感があります。This time は無理に訳さなくてもいいかも。</note>
+冒頭 「今回は、」は少し違和感があります。This time は無理に訳さなくてもいいかも。
+ここのfailingは「欠陥」というよりも、達成基準を満たすことができていない点、というような意味です (criteriaをsuccesssすることにfailしいる)。
+現行のTechniques for WCAG 2.0日本語訳ではこれをそのまま「失敗」と訳しているのですが、それはそれで分かりにくいので、少し補って「達成基準を満たしていない」としました。
+</note>
       <tuv lang="EN-US">
         <seg>This time, let’s map those shortcomings to WCAG’s success criteria to establish where there are failings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T051735Z" creationid="yoota" creationdate="20170714T050738Z">
-        <seg>それらの短所をWCAGの達成基準に照らしあわせて、どのような問題になるのかを確認していきましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T052008Z" creationid="yoota" creationdate="20170714T050738Z">
+        <seg>それらの短所をWCAGの達成基準に照らしあわせて、どの達成基準を満たしていないのか確認していきましょう。</seg>
       </tuv>
     </tu>
     <tu>
