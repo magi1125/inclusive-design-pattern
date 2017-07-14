@@ -3513,7 +3513,7 @@ http://waic.jp/docs/WCAG20/Overview.html#images-of-textdef
     </tu>
     <tu>
       <note>(太田)
-ボタンを修正する?</note>
+</note>
       <tuv lang="EN-US">
         <seg>Fixing the Button</seg>
       </tuv>
@@ -9833,6 +9833,14 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T014451Z" creationid="yoota" creationdate="20170501T104643Z">
         <seg>スキップリンクの恩恵を最も受けるのは、目が見えているキーボードユーザーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The problem with this contrived and fragmented way of evaluating interfaces is that nobody has the chance to point out and avoid what are simply &lt;g1&gt;bad ideas&lt;/g1&gt;, like using a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; as a button control.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T072619Z" creationid="yoota" creationdate="20170714T072619Z">
+        <seg>このような不自然で断片化された方法でインターフェイスを評価する問題点は、&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;をボタンコントロールとして使うといった、とてもまずいアイデアを指摘したり避けたりする機会が誰にもないことです。</seg>
       </tuv>
     </tu>
     <tu>
