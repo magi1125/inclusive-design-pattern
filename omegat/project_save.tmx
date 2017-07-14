@@ -8020,7 +8020,8 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
     <tu>
       <note>(太田)
 いろいろ調整。
-後半のダッシュ部分はどうも収まりが悪く、いったん2文に分けつつダッシュなしの形で整理してみました。</note>
+後半のダッシュ部分はどうも収まりが悪く、いったん2文に分けつつダッシュなしの形で整理してみました。
+「トリガー」は「発生させる」とかでも良いかも。いったんママにしています。</note>
       <tuv lang="EN-US">
         <seg>Second, under &lt;g7&gt;operable&lt;/g7&gt;, it fails &lt;g8&gt;&lt;g9&gt;2.1.1 Keyboard&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;2&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt; because the button uses an unfocusable &lt;g13&gt;&lt;div&gt;&lt;/g13&gt; element, which — even if you made it to be focusable with &lt;g14&gt;tabindex="0"&lt;/g14&gt; — would still need some JavaScript to trigger click events on pressing the &lt;g15&gt;Enter&lt;/g15&gt; and &lt;g16&gt;Space&lt;/g16&gt; keys.</seg>
       </tuv>
