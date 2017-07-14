@@ -11034,6 +11034,14 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To a developer used to working in terms of modules and components, this represents a complete, integrated solution to a problem.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T082030Z" creationid="yoota" creationdate="20170714T082030Z">
+        <seg>モジュールやコンポーネントという観点での作業に慣れている開発者にとっては、これは問題に対する完全で総合的な解決策となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) you→デザイナーとされているがどうするか。
 shouldなので「しなければならない」は強すぎるかもしれない。
 「デザイナーはまとめ役となって」がやや分かりにくいように思いました。コンテンツのUIだけ見るのではなくブラウザのUIとコンテンツのUIを調整する役割を担えということですが、「まとめ役に徹する」くらいのほうが分かりやすいかもしれません。
