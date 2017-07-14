@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5424,6 +5424,9 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+機械翻訳の「最後に、彼らはアリアラベル。」が、ビールのキャッチフレーズっぽいなと思いました。
+</note>
       <tuv lang="EN-US">
         <seg>In the end, they opt for &lt;g1&gt;aria-label&lt;/g1&gt;.</seg>
       </tuv>
@@ -8733,8 +8736,8 @@ impactは次の文に合わせて「効果」としました。
       <tuv lang="EN-US">
         <seg>Supplying a text node is out because this would be visible over the top of the background image’s text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T070932Z" creationid="yoota" creationdate="20170714T070932Z">
-        <seg>テキストノードを使ったのでは、背景画像のテキストの上に表示されてしまうので問題があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T101129Z" creationid="yoota" creationdate="20170714T070932Z">
+        <seg>テキストノードを追加するのはアウトです。背景画像のテキストの上に表示されてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
