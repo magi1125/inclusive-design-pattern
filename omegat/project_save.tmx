@@ -7089,14 +7089,14 @@ http://eigo-kobako.blog.so-net.ne.jp/2015-07-14
 「アクセシブルな命名テクニック」は要検討。
  accessible naming techniquesは、"accessible name" を付与するためのテクニック、の意味のはず。命名と言うと開発者がラベルを考える印象になりますが、ラベルは単に「upvote」でよく、それをいかにして "accessible name" として付与するかというテクニックです。
 
-アクセシブルネームを適用するためのテクニック
+前の箇所では "accessible name" を「アクセシブルな名前 (name)」としているので、それを適用する方向で。
 
-</note>
+末尾「行き着きます」とすると解決策が確定したように読めますが、ここではまだ候補の段階なので、「」</note>
       <tuv lang="EN-US">
         <seg>Not especially familiar with accessible naming techniques, they do a bit of casual research and land on some possible solutions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T070920Z" creationid="yoota" creationdate="20170714T070920Z">
-        <seg>アクセシブルな命名テクニックに特に詳しいわけではないその開発者は、ざっと調べて、いくつかの実行可能な解決策に行き着きます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T100858Z" creationid="yoota" creationdate="20170714T070920Z">
+        <seg>その開発者は、アクセシブルな名前 (name)をつける技術に特に詳しいわけではなく、軽く調べて、いくつかの実行可能な解決策にたどり着きます。</seg>
       </tuv>
     </tu>
     <tu>
