@@ -3428,6 +3428,8 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+少し調整。</note>
       <tuv lang="EN-US">
         <seg>Finally, under &lt;g17&gt;robust&lt;/g17&gt;, the button fails &lt;g18&gt;&lt;g19&gt;4.1.2 Name, Role, Value&lt;/g19&gt;&lt;/g18&gt;&lt;g20&gt;&lt;g21&gt;&lt;g22&gt;3&lt;/g22&gt;&lt;/g21&gt;&lt;/g20&gt; because there’s nothing in the markup to communicate in assistive technologies that the button is, indeed, a button.</seg>
       </tuv>
@@ -3499,6 +3501,14 @@ http://waic.jp/docs/WCAG20/Overview.html#images-of-textdef
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170714T052614Z" creationid="yoota" creationdate="20170714T051214Z">
         <seg>まず、&lt;g1&gt;知覚可能&lt;/g1&gt;の観点では、背景として敷かれた文字画像に代替テキストがないため、このボタンは&lt;g2&gt;&lt;g3&gt;1.1.1「非テキストコンテンツ」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注71）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を満たしていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixing the Button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T053434Z" creationid="yoota" creationdate="20170714T053434Z">
+        <seg>ボタンの修正</seg>
       </tuv>
     </tu>
     <tu>
