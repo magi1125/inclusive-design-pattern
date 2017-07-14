@@ -9834,6 +9834,8 @@ Equal to the computed value of font-size on the root element. When specified on 
 betweenが連続していてわけがわからない英文ですね。二つ目のbetweenの前に and separation を補って読めばいいのでしょうか……?
 後半、the button の the は訳出する必要がありそう。
 「欠陥」だと不具合っぽいニュアンスがあるような印象があります。ここでは、そもそもの設計がまずいという話なので、「欠点」としました。
+次の文に failings が出るのでそれと区別する必要もありそう。
+
 補いつつ調整してみました。</note>
       <tuv lang="EN-US">
         <seg>The separation between style and behavior between the &lt;g1&gt;class&lt;/g1&gt; and &lt;g2&gt;data-action&lt;/g2&gt; attributes is nice and all, but it hardly makes up for the button’s grave shortcomings when it comes to inclusion.</seg>
