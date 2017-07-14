@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2192,11 +2192,12 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)「＄＄A Menu Button＄＄」→7章「メニューボタン」</note>
       <tuv lang="EN-US">
         <seg>As I cover in “A Menu Button,” SVG benefits from being scalable, small in file size and — unlike icon fonts — not breakable by user font preferences.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T080341Z" creationid="yoota" creationdate="20170714T080341Z">
-        <seg>「＄＄A Menu Button＄＄」で説明するように、SVGには、拡大縮小が可能でファイルサイズが小さいというメリットがあります。また、アイコンフォントとは異なり、ユーザーのフォント選択によって壊れることもありません。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170714T101748Z" creationid="yoota" creationdate="20170714T080341Z">
+        <seg>7章「メニューボタン」で説明するように、SVGには、拡大縮小が可能でファイルサイズが小さいというメリットがあります。また、アイコンフォントとは異なり、ユーザーのフォント選択によって壊れることもありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5280,11 +5281,12 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)　勧める→すすめる</note>
       <tuv lang="EN-US">
         <seg>In reporting by pattern instead, the consultant has the opportunity to recommend alternative approaches and techniques.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T080250Z" creationid="yoota" creationdate="20170714T080250Z">
-        <seg>代わりにパターンで報告すれば、コンサルタントは別のアプローチやテクニックを勧める機会が持てます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170714T101403Z" creationid="yoota" creationdate="20170714T080250Z">
+        <seg>代わりにパターンで報告すれば、コンサルタントは別のアプローチやテクニックをすすめる機会が持てます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5579,12 +5581,15 @@ becauseを訳出しました。
     </tu>
     <tu>
       <note>(太田)
-賛成ボタン→投票ボタン?</note>
+賛成ボタン→投票ボタン?
+
+(岡本)　勧める→すすめる
+いまのところ、図版のところは賛成ボタンとなっています。</note>
       <tuv lang="EN-US">
         <seg>In this case, the various failures organized under the &lt;g1&gt;upvote button pattern&lt;/g1&gt; would surely lead them to recommend the use of a standard &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; button element in its place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T080324Z" creationid="yoota" creationdate="20170714T080324Z">
-        <seg>このケースでは、&lt;g1&gt;賛成ボタンのパターン&lt;/g1&gt;という項目にまとめられたさまざまな欠陥を見れば、コンサルタントは当然ながら標準の&lt;g2&gt;&lt;button&gt;&lt;/g2&gt;要素を使うよう勧めるはずです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170714T101527Z" creationid="yoota" creationdate="20170714T080324Z">
+        <seg>このケースでは、&lt;g1&gt;賛成ボタンのパターン&lt;/g1&gt;という項目にまとめられたさまざまな欠陥を見れば、コンサルタントは当然ながら標準の&lt;g2&gt;&lt;button&gt;&lt;/g2&gt;要素を使うようすすめるはずです。</seg>
       </tuv>
     </tu>
     <tu>
