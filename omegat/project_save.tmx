@@ -9970,11 +9970,14 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+
+</note>
       <tuv lang="EN-US">
         <seg>The problem with this contrived and fragmented way of evaluating interfaces is that nobody has the chance to point out and avoid what are simply &lt;g1&gt;bad ideas&lt;/g1&gt;, like using a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; as a button control.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T072619Z" creationid="yoota" creationdate="20170714T072619Z">
-        <seg>このような不自然で断片化された方法でインターフェイスを評価する問題点は、&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;をボタンコントロールとして使うといった、とてもまずいアイデアを指摘したり避けたりする機会が誰にもないことです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T102833Z" creationid="yoota" creationdate="20170714T072619Z">
+        <seg>このような不自然で断片化された方法でインターフェイスを評価する問題点は、&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;をボタンコントロールとして使うといった、とても&lt;g1&gt;まずいアイデア&lt;/g1&gt;を指摘したり避けたりする機会が誰にもないことです。</seg>
       </tuv>
     </tu>
     <tu>
