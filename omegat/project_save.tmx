@@ -4281,12 +4281,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       <note>(太田)
 これが原因で→その結果　としました。
 this has led で「これが導いた」と言っているので、「報告してきました」→「報告するようになりました」としました。
-原文強調のreportは「報告」で良いか。そのまま「レポートする」というのもあり。</note>
+原文強調のreportは「報告」で良いか。そのまま「レポートする」というのもあり。
+
+(伊原) レポートする、がいいように思いました。</note>
       <tuv lang="EN-US">
         <seg>However, this has led manual evaluation experts and automated test tools to &lt;g5&gt;report&lt;/g5&gt; according to principle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170707T081320Z" creationid="rikiha" creationdate="20170703T012241Z">
-        <seg>しかしその結果、手動で評価を行うエキスパートも、自動化されたテストツールも、結果を原則に照らしあわせて&lt;g5&gt;報告&lt;/g5&gt;するようになりました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170714T134436Z" creationid="rikiha" creationdate="20170703T012241Z">
+        <seg>しかしその結果、手動で評価を行うエキスパートも、自動化されたテストツールも、結果を原則に照らしあわせて&lt;g5&gt;レポート&lt;/g5&gt;するようになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11827,12 +11829,14 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
 原則ごとに見ていくと抜け漏れなくカバーしていることが保証されるから安心、という話かと思います。
 「それぞれの問題すべてをカバーしていることを保証しやすい」としました。
 wed は結婚する、結びつく、こだわる、固執するというような意味ですが、
-なくても通じるのでいったんトリにしてみました。</note>
+なくても通じるのでいったんトリにしてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We’re fairly wedded to reporting accessibility failures by principle because it’s easier that way to reassure ourselves each and every independent issue has been covered.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170707T083912Z" creationid="yoota" creationdate="20170707T071746Z">
-        <seg>私たちが原則ごとにアクセシビリティの不備を報告するのは、その方が、個々の問題すべてをカバーしていることを保証しやすいからです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170714T134657Z" creationid="yoota" creationdate="20170707T071746Z">
+        <seg>私たちが原則ごとにアクセシビリティの不備を報告するのは、そのほうが、個々の問題すべてをカバーしていることを保証しやすいからです。</seg>
       </tuv>
     </tu>
     <tu>
