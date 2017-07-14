@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10009,7 +10009,8 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
 「アクセシビリティエンジニアの立場から」となっていますが、そのまんま「アクセシビリティエンジニアの帽子をかぶって」でも良いように思います。どうでしょうか。
 audit をどう訳すか。あまり検査とは言わないようにも思います。診断?
 
-</note>
+(伊原) hat は「（職業上の）立場，地位，役割」という意味をもともと持っているようなので、ちょっと迷いますね。とはいえ、帽子と言ったほうがテンポラリな立場という感じは出ますね。いったん帽子で。
+検査➞診断はOK.</note>
       <tuv lang="EN-US">
         <seg>The reason I started out writing by principle is because I often have to wear my accessibility engineer hat and perform accessibility audits.</seg>
       </tuv>
