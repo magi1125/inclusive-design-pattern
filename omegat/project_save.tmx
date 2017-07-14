@@ -9849,8 +9849,8 @@ shortcomings「欠陥」だと不具合っぽいニュアンスがあるよう�
       <tuv lang="EN-US">
         <seg>The separation between style and behavior between the &lt;g1&gt;class&lt;/g1&gt; and &lt;g2&gt;data-action&lt;/g2&gt; attributes is nice and all, but it hardly makes up for the button’s grave shortcomings when it comes to inclusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T051332Z" creationid="yoota" creationdate="20170714T044927Z">
-        <seg>&lt;g1&gt;class&lt;/g1&gt;属性と&lt;g2&gt;data-action&lt;/g2&gt;属性を別々に指定し、スタイルとふるまいを分離しているのは悪くありませんが、インクルーシブという観点で見ると、このボタンの重大な問題は解決できていません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T051624Z" creationid="yoota" creationdate="20170714T044927Z">
+        <seg>&lt;g1&gt;class&lt;/g1&gt;属性と&lt;g2&gt;data-action&lt;/g2&gt;属性を別々に指定し、スタイルとふるまいを分離しているのは悪くありませんが、インクルーシブという観点で見ると、このボタンの重大な短所は解決できていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10691,12 +10691,13 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
     </tu>
     <tu>
       <note>(太田)
-成功基準→達成基準</note>
+成功基準→達成基準
+冒頭 「今回は、」は少し違和感があります。This time は無理に訳さなくてもいいかも。</note>
       <tuv lang="EN-US">
         <seg>This time, let’s map those shortcomings to WCAG’s success criteria to establish where there are failings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T051343Z" creationid="yoota" creationdate="20170714T050738Z">
-        <seg>今度は、WCAGの達成基準に照らして、どこに問題があるのかはっきりさせましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T051711Z" creationid="yoota" creationdate="20170714T050738Z">
+        <seg>それらの短所をWCAGの達成基準に照らして、どのような問題があるのかを確認していきましょう。</seg>
       </tuv>
     </tu>
     <tu>
