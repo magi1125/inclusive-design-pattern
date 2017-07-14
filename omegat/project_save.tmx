@@ -10693,8 +10693,7 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       <note>(太田)
 成功基準→達成基準
 冒頭 「今回は、」は少し違和感があります。This time は無理に訳さなくてもいいかも。
-ここのfailingは「欠陥」というよりも、達成基準を満たすことができていない点、というような意味です (criteriaをsuccesssすることにfailしいる)。
-現行のTechniques for WCAG 2.0日本語訳ではこれをそのまま「失敗」と訳しているのですが、それはそれで分かりにくいので、少し補って「達成基準を満たしていない」としました。
+ここのfailingはcriteriaをsuccesssすることにfailしている状態を指し、達成基準を満たすことができていない点、というような意味と思われます。現行のTechniques for WCAG 2.0日本語訳ではこれをそのまま「失敗」と訳しているのですが、それはそれで分かりにくいので、少し補って「達成基準を満たしていない」としました。
 </note>
       <tuv lang="EN-US">
         <seg>This time, let’s map those shortcomings to WCAG’s success criteria to establish where there are failings.</seg>
