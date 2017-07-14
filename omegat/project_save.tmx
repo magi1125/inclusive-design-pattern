@@ -3479,6 +3479,16 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「まず、知覚可能の観点で見ると」、のような訳になるべきかと。</note>
+      <tuv lang="EN-US">
+        <seg>First, under &lt;g1&gt;perceivable&lt;/g1&gt;, the button fails &lt;g2&gt;&lt;g3&gt;1.1.1 Non-text Content&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;1&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; because it has no alternative text to supplement the image of text in the background.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T051214Z" creationid="yoota" creationdate="20170714T051214Z">
+        <seg>まず、&lt;g1&gt;知覚可能&lt;/g1&gt;の観点で見ると、背景のテキスト画像を補完する代替テキストがないので、&lt;g2&gt;&lt;g3&gt;1.1.1「非テキストコンテンツ」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注71）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を満たしていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Flesch-Kincaid Readability Tests</seg>
