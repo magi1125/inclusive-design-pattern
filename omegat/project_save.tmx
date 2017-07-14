@@ -3480,7 +3480,12 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
     </tu>
     <tu>
       <note>(太田)
-「まず、知覚可能の観点で見ると」、のような訳になるべきかと。</note>
+「まず、知覚可能の観点で見ると」、のような訳になるべきかと。
+
+image of text は「文字画像」としています。
+http://waic.jp/docs/WCAG20/Overview.html#images-of-textdef
+
+</note>
       <tuv lang="EN-US">
         <seg>First, under &lt;g1&gt;perceivable&lt;/g1&gt;, the button fails &lt;g2&gt;&lt;g3&gt;1.1.1 Non-text Content&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;1&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; because it has no alternative text to supplement the image of text in the background.</seg>
       </tuv>
