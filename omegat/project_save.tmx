@@ -8727,6 +8727,8 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+</note>
       <tuv lang="EN-US">
         <seg>Supplying a text node is out because this would be visible over the top of the background image’s text.</seg>
       </tuv>
