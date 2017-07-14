@@ -3377,12 +3377,14 @@ line-heightは原文の原稿では小文字なのですが、この見出しは
     </tu>
     <tu>
       <note>(太田)
-fauxが訳から落ちているかも。「偽の」「本物でない」「なんちゃって」のような意味で、button要素で実装された真のボタンではなくdivで実装された「ボタンのようなもの」であることを言っています。</note>
+fauxが訳から落ちているかも。「偽の」「本物でない」「なんちゃって」のような意味で、button要素で実装された真のボタンではなくdivで実装された「ボタンのようなもの」であることを言っています。
+「なんちゃってボタン」「ボタンもどき」くらいでしょうか。
+</note>
       <tuv lang="EN-US">
         <seg>Except this time let’s imagine the faux button is for upvoting some content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T045618Z" creationid="yoota" creationdate="20170713T091354Z">
-        <seg>ただし今回は、このなんちゃってボタンが何らかのコンテンツに賛成票を投じるためのボタンという想定です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170714T045705Z" creationid="yoota" creationdate="20170713T091354Z">
+        <seg>ただし今回は、このボタンもどきが、何らかのコンテンツに賛成票を投じるためのボタンという想定です。</seg>
       </tuv>
     </tu>
     <tu>
