@@ -1642,6 +1642,7 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>A Better Way</seg>
       </tuv>
@@ -6947,7 +6948,9 @@ manageは管理で良いような。
 
 (太田) Meanwhileは「そうこうしている間に」くらいに訳したいですね。
 
-しっかりと検討→律儀に検討、くらい?  皮肉っぽい言い方だと思います。</note>
+しっかりと検討→律儀に検討、くらい?  皮肉っぽい言い方だと思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Meanwhile, a third developer is dutifully studying “Upvote Button Has Improper Role” and — seeing how much work has gone into this &lt;g1&gt;&lt;div&gt;&lt;/g1&gt; already — tops it off with an explicit ARIA role of &lt;g2&gt;"button"&lt;/g2&gt;.</seg>
       </tuv>
@@ -10032,7 +10035,9 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
     </tu>
     <tu>
       <note>(太田)
-次の→以下の</note>
+次の→以下の
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The project’s JavaScript swells slightly and the markup ends up like this:</seg>
       </tuv>
