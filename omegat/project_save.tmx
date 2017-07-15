@@ -2780,12 +2780,12 @@ composeは作成でいいのか。あとで検討。
     <tu>
       <note>画像alt
 
-(伊原) 下訳を反映しつつ、言葉➞ラベルとしました。</note>
+(伊原) 下訳を反映しつつ、言葉➞文字としました。</note>
       <tuv lang="EN-US">
         <seg>Button shape with a thumbs-up icon to the left and the word ‘upvote’ with an exclamation mark to the right.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170715T151243Z">
-        <seg>左側に親指を立てたアイコン、右側に「賛成！」というラベルが配置されたボタン。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170715T152153Z">
+        <seg>左側に親指を立てたアイコン、右側に「賛成！」という文字が配置されたボタン。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7135,7 +7135,9 @@ http://eigo-kobako.blog.so-net.ne.jp/2015-07-14
 
 前の箇所では "accessible name" を「アクセシブルな名前 (name)」としているので、それを適用する方向で。
 
-末尾「行き着きます」とすると解決策が確定したように読めますが、ここではまだ候補の段階なので、「現実的な解決策をいくつか見つけます」くらいかなと。</note>
+末尾「行き着きます」とすると解決策が確定したように読めますが、ここではまだ候補の段階なので、「現実的な解決策をいくつか見つけます」くらいかなと。
+
+(伊原) OKですが、accessible nameについては再度訳注（あるいは訳注の参照）があっても良いかも？と思いました。</note>
       <tuv lang="EN-US">
         <seg>Not especially familiar with accessible naming techniques, they do a bit of casual research and land on some possible solutions.</seg>
       </tuv>
@@ -7654,7 +7656,9 @@ WCAGに従うことは、伝えるよりも良いのです。
 三人称単数性別不明のThey。
 
 「問題を解決」とありますが、close it はチケットをクローズの意味ですね。
-開発者には「チケットをクローズ」で通じると思いますが、どうしたものか。いったん「チケットをクローズ」としました。</note>
+開発者には「チケットをクローズ」で通じると思いますが、どうしたものか。いったん「チケットをクローズ」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>One developer is randomly assigned a ticket labeled “Upvote Button Missing Label.” They open that ticket and, like any self-respecting developer, endeavor to fix and close it.</seg>
       </tuv>
@@ -8777,12 +8781,13 @@ impactは次の文に合わせて「効果」としました。
     </tu>
     <tu>
       <note>(太田)
-</note>
+
+(伊原) 状況説明を少し補いました。</note>
       <tuv lang="EN-US">
         <seg>Supplying a text node is out because this would be visible over the top of the background image’s text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T101129Z" creationid="yoota" creationdate="20170714T070932Z">
-        <seg>テキストノードを追加するのはアウトです。背景画像のテキストの上に表示されてしまいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170715T152557Z" creationid="yoota" creationdate="20170714T070932Z">
+        <seg>テキストノードを追加するのはアウトです。背景にある文字画像の上にテキストが重なって表示されてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
