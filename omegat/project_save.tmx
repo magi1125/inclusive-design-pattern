@@ -2203,7 +2203,9 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
-      <note>(岡本)「＄＄A Menu Button＄＄」→7章「メニューボタン」</note>
+      <note>(岡本)「＄＄A Menu Button＄＄」→7章「メニューボタン」
+
+(伊原) 多少調整。</note>
       <tuv lang="EN-US">
         <seg>As I cover in “A Menu Button,” SVG benefits from being scalable, small in file size and — unlike icon fonts — not breakable by user font preferences.</seg>
       </tuv>
@@ -11246,11 +11248,12 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) used to working で「慣れた」なので、作業という語は入ってこないはず、また in terms of で観点なのですが、もう少し開いて「考えかた」としました。解決策はソリューションとしてみました。</note>
       <tuv lang="EN-US">
         <seg>To a developer used to working in terms of modules and components, this represents a complete, integrated solution to a problem.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T082030Z" creationid="yoota" creationdate="20170714T082030Z">
-        <seg>モジュールやコンポーネントという観点での作業に慣れている開発者にとっては、これは問題に対する完全で総合的な解決策となります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170715T163714Z" creationid="yoota" creationdate="20170714T082030Z">
+        <seg>モジュールやコンポーネントといった考え方に慣れた開発者にとって、これは問題に対する完全かつ総合的なソリューションです。</seg>
       </tuv>
     </tu>
     <tu>
