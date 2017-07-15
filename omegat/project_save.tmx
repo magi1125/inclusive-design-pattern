@@ -3498,7 +3498,9 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Finally, under &lt;g17&gt;robust&lt;/g17&gt;, the button fails &lt;g18&gt;&lt;g19&gt;4.1.2 Name, Role, Value&lt;/g19&gt;&lt;/g18&gt;&lt;g20&gt;&lt;g21&gt;&lt;g22&gt;3&lt;/g22&gt;&lt;/g21&gt;&lt;/g20&gt; because there’s nothing in the markup to communicate in assistive technologies that the button is, indeed, a button.</seg>
       </tuv>
@@ -3564,7 +3566,7 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
 image of text は「文字画像」としています。
 http://waic.jp/docs/WCAG20/Overview.html#images-of-textdef
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>First, under &lt;g1&gt;perceivable&lt;/g1&gt;, the button fails &lt;g2&gt;&lt;g3&gt;1.1.1 Non-text Content&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;1&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; because it has no alternative text to supplement the image of text in the background.</seg>
       </tuv>
@@ -8227,7 +8229,9 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       <note>(太田)
 いろいろ調整。
 後半のダッシュ部分はどうも収まりが悪く、いったん2文に分けつつダッシュなしの形で整理してみました。
-「トリガー」は「発生させる」とかでも良いかも。いったんママにしています。</note>
+「トリガー」は「発生させる」とかでも良いかも。いったんママにしています。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Second, under &lt;g7&gt;operable&lt;/g7&gt;, it fails &lt;g8&gt;&lt;g9&gt;2.1.1 Keyboard&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;2&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt; because the button uses an unfocusable &lt;g13&gt;&lt;div&gt;&lt;/g13&gt; element, which — even if you made it to be focusable with &lt;g14&gt;tabindex="0"&lt;/g14&gt; — would still need some JavaScript to trigger click events on pressing the &lt;g15&gt;Enter&lt;/g15&gt; and &lt;g16&gt;Space&lt;/g16&gt; keys.</seg>
       </tuv>
@@ -10134,7 +10138,9 @@ betweenが連続していてわけがわからない英文ですね。二つ目�
 後半、the button の the は訳出する必要がありそう。
 shortcomings「欠陥」だと不具合っぽいニュアンスがあるような印象があります。次の文に failings が出るのでそれと区別する必要もありそう。ここでは、そもそもの設計がまずいという話なので、「問題」としました。
 
-補いつつ調整してみました。</note>
+補いつつ調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The separation between style and behavior between the &lt;g1&gt;class&lt;/g1&gt; and &lt;g2&gt;data-action&lt;/g2&gt; attributes is nice and all, but it hardly makes up for the button’s grave shortcomings when it comes to inclusion.</seg>
       </tuv>
@@ -11021,7 +11027,8 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
 成功基準→達成基準
 冒頭 「今回は、」は少し違和感があります。This time は無理に訳さなくてもいいかも。
 ここのfailingはcriteriaをsuccesssすることにfailしている状態を指し、達成基準を満たすことができていない点、というような意味と思われます。現行のTechniques for WCAG 2.0日本語訳ではこれをそのまま「失敗」と訳しているのですが、それはそれで分かりにくいので、少し補って「達成基準を満たしていない」としました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This time, let’s map those shortcomings to WCAG’s success criteria to establish where there are failings.</seg>
       </tuv>
