@@ -3577,7 +3577,9 @@ http://waic.jp/docs/WCAG20/Overview.html#images-of-textdef
     <tu>
       <note>(太田)
 the を訳出すべきか?
-残念な修正パターンの話をしているが、見出しにはそういう情報は何もない。</note>
+残念な修正パターンの話をしているが、見出しにはそういう情報は何もない。
+
+(伊原) OK. 一見良さそうなアプローチに見えて実はダメ、ということなので、見出し段階ではこれでいいのでは。</note>
       <tuv lang="EN-US">
         <seg>Fixing the Button</seg>
       </tuv>
@@ -7416,7 +7418,9 @@ resulting inも落ちているような。「結果として」くらいでし�
 少し前に「次に」が登場したこともあり、「次に」は違和感があります。
 この now は「さて」くらいでよいのでは。
 
-成功基準→達成基準</note>
+成功基準→達成基準
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Now imagine an accessibility consultant has reported all of these failures in a spreadsheet under columns organized by principle and success criterion.</seg>
       </tuv>
@@ -11014,7 +11018,9 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       <note>(太田)
 大意に影響ありませんがthenの訳が落ちているかも。頭に「その後」として補ってみました。
 
-「彼は」を補わなくて良いように調整してみました。</note>
+「彼は」を補わなくて良いように調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This spreadsheet is then handed off to their client’s project manager who sets about writing bug tickets for the developers.</seg>
       </tuv>
