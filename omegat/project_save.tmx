@@ -10284,12 +10284,14 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
     </tu>
     <tu>
       <note>(太田)
-「このような方法」とはどのような方法か分かりにくいかも。</note>
+「このような方法」とはどのような方法か分かりにくいかも。
+
+(伊原) 補ってみました。</note>
       <tuv lang="EN-US">
         <seg>The way failures are reported and developers are tasked means you always end up just patching what’s already there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T072644Z" creationid="yoota" creationdate="20170714T072644Z">
-        <seg>このような方法で欠陥を報告し、開発者に作業を割り当てると、どうしてもすでに存在するものにパッチを当てるだけになってしまいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170715T155813Z" creationid="yoota" creationdate="20170714T072644Z">
+        <seg>達成基準ごとに断片化して欠陥を報告し、開発者に作業を割り当てると、どうしてもすでに存在するものにパッチを当てるだけになってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
