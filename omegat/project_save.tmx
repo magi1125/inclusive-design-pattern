@@ -2122,7 +2122,9 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
     </tu>
     <tu>
       <note>(太田)
-こちらも「なっています」としました。</note>
+こちらも「なっています」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>And the button appears like so:</seg>
       </tuv>
@@ -2776,9 +2778,14 @@ composeは作成でいいのか。あとで検討。
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>画像alt
+
+(伊原) 下訳を反映しつつ、言葉➞ラベルとしました。</note>
       <tuv lang="EN-US">
         <seg>Button shape with a thumbs-up icon to the left and the word ‘upvote’ with an exclamation mark to the right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170715T151243Z">
+        <seg>左側に親指を立てたアイコン、右側に「賛成！」というラベルが配置されたボタン。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6747,7 +6754,9 @@ https://docs.google.com/document/d/1ju_rDbIrde0lHKJF84ZkgqfO3YNc8JyuPBA6EaIEGUI/
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Let’s take another look at the button example from the book’s introduction.</seg>
       </tuv>
@@ -9323,7 +9332,9 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
     </tu>
     <tu>
       <note>(太田)
-再登場→再掲?</note>
+再登場→再掲?
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The Button Example (Again)</seg>
       </tuv>
@@ -9619,7 +9630,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
     <tu>
       <note>(太田)
 次→以下、としました (他がそうだったはずなので)
-ここはまだ例の想定を紹介している段階なので、なります→なっています、とするのが良いかなと。</note>
+ここはまだ例の想定を紹介している段階なので、なります→なっています、とするのが良いかなと。
+
+(伊原) OOK</note>
       <tuv lang="EN-US">
         <seg>The button markup looks like this:</seg>
       </tuv>
