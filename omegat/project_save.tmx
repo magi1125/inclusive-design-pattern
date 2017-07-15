@@ -1761,12 +1761,14 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>画像alt
+
+(伊原) 画像に書かれているテキストを補いつつ調整。</note>
       <tuv lang="EN-US">
         <seg>A list of tickets tagged with the bug keyword with titles like ‘Bad alt text on page 76’ and ‘Missing alt text on page 94.’</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170715T143141Z">
-        <seg>「問題のある代替テキスト、76ページ」「代替テキストの不足、94ページ」といったタイトルの、バグとタグ付けされたチケットのリスト。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170715T143347Z">
+        <seg>バグとタグ付けされたチケットのリスト。問題のある代替テキスト：102ページ［バグ］、代替テキストの不足：66ページ［バグ］、不適切な代替テキスト：94ページ［バグ］、代替テキストの欠如：29ページ［バグ］、代替テキストの不具合：84ページ［バグ］</seg>
       </tuv>
     </tu>
     <tu>
