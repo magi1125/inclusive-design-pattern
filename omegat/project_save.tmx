@@ -1581,6 +1581,7 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Tickets organized by pattern can be easily reconciled with a pattern library.&lt;/g3&gt;</seg>
       </tuv>
@@ -11209,8 +11210,8 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
       <tuv lang="EN-US">
         <seg>Tickets tagged ‘Enhancement’ and named after patterns, not just problems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170716T134334Z" creationid="yoota" creationdate="20170714T082746Z">
-        <seg>単なる問題としてではなく、パターン名のあとに「拡張」とタグ付けされたチケット。賛成ボタン［拡張］、ログイン画面［拡張］、ユーザーアカウントのウィジット［拡張］、タブシステム［拡張］</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170716T134421Z" creationid="yoota" creationdate="20170714T082746Z">
+        <seg>単なる問題としてではなく、パターン名と共に「拡張」とタグ付けされたチケット。賛成ボタン［拡張］、ログイン画面［拡張］、ユーザーアカウントのウィジット［拡張］、タブシステム［拡張］</seg>
       </tuv>
     </tu>
     <tu>
