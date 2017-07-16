@@ -10675,6 +10675,7 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This could apply to current or future projects.</seg>
       </tuv>
@@ -11204,11 +11205,12 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 画像altを反映。</note>
       <tuv lang="EN-US">
         <seg>Tickets tagged ‘Enhancement’ and named after patterns, not just problems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T082746Z" creationid="yoota" creationdate="20170714T082746Z">
-        <seg>パターン別に整理されたチケットは、パターンライブラリと簡単に調和させることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170716T134304Z" creationid="yoota" creationdate="20170714T082746Z">
+        <seg>単なる問題としてではなく、パターン名のあとに「拡張」とタグ付けされたチケット。賛成ボタン［拡張］、ログイン画面［拡張］、ユーザーアカウントのウィジット［エンハンスメント］、タブシステム［エンハンスメント］</seg>
       </tuv>
     </tu>
     <tu>
