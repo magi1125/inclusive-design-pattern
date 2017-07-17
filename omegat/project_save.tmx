@@ -7579,6 +7579,14 @@ the buttonを「このボタン」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Of the Shadow DOM, Custom Elements, HTML elements, and HTML templates specifications, only &lt;g6&gt;&lt;g7&gt;Custom Elements&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;6&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; and (to a lesser extent) &lt;g11&gt;&lt;g12&gt;Shadow DOM&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;7&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt; directly pose potential problems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170717T121011Z" creationid="rikiha" creationdate="20170717T121011Z">
+        <seg>Shadow DOM、Custom Elements、HTML要素、HTMLテンプレートの中で、直接的に問題を引き起こす可能性があるのは&lt;g6&gt;&lt;g7&gt;Custom Elements&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注76）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;と&lt;g11&gt;&lt;g12&gt;Shadow DOM&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注77）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;（Custom Elementsよりは可能性が低い）のみです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 noiseは雑音で良いか?→「物音」としてみました。
 ここのcapsはcaptionの略ではなくcapital letterのほうですね。大文字で書いて括弧でくくるといっています。
@@ -8482,6 +8490,15 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T055521Z" creationid="yoota" creationdate="20170524T055341Z">
         <seg>&lt;g15&gt;&lt;main&gt;&lt;/g15&gt;の単一の子要素になっているため、いずれにしてもユーザーは同じ場所に移動することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(確認中)</note>
+      <tuv lang="EN-US">
+        <seg>Since many organizations are beginning to embrace the &lt;g1&gt;&lt;g2&gt;web component specifications&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;5&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; to compose their patterns, we should look at what needs to be done differently or additionally in terms of inclusive design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170717T120857Z" creationid="rikiha" creationdate="20170717T120857Z">
+        <seg>多くの組織がパターンの構成に&lt;g1&gt;&lt;g2&gt;Web Components仕様&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注75）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を取り入れ始めているので、インクルーシブデザインの観点で作業にどのような違いがあるか、あるいは追加で何をする必要があるかについて検討すべきです。</seg>
       </tuv>
     </tu>
     <tu>
