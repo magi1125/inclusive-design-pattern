@@ -3204,6 +3204,15 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Custom Elements And Shadow DOM</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170717T120212Z" creationid="rikiha" creationdate="20170717T120212Z">
+        <seg>Custom ElementsとShadow DOM</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 かわいいですかね?
 そのまま「キュートですが」くらいでいいかも。
@@ -10887,6 +10896,15 @@ OKですがやや硬いかも。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170619T040148Z" creationid="yoota" creationdate="20170613T063345Z">
         <seg>話し手を区別する方法は&lt;g1&gt;これだけ&lt;/g1&gt;ではありませんが、どんな決まりを使う場合でも、必ず一貫したものにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(確認中)</note>
+      <tuv lang="EN-US">
+        <seg>This is probably as good a place as any to approach the issue of inclusion and web components.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170717T120750Z" creationid="rikiha" creationdate="20170717T120750Z">
+        <seg>おそらく今がインクルージョンとWeb Componentsの問題に取り組む一番良いタイミングでしょう。</seg>
       </tuv>
     </tu>
     <tu>
