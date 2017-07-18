@@ -2211,8 +2211,7 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
 (伊原) 多少調整。
 
 (太田)
-壊れる→破綻する、としました。
-アイコンが壊れて表示されるわけではなく、全く表示されないか豆腐になるか別の文字になるかといった現象です。
+壊れる→破綻する、としました。アイコンが壊れて表示されるわけではなく、全く表示されないか豆腐になるか別の文字になるかといった現象です。
 「ユーザーのフォント選択によって壊れる」は訳注必要? 7章できちんとした説明があれば訳注ナシで。
 </note>
       <tuv lang="EN-US">
@@ -11341,7 +11340,10 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) used to working で「慣れた」なので、作業という語は入ってこないはず、また in terms of で観点なのですが、もう少し開いて「考えかた」としました。解決策はソリューションとしてみました。</note>
+      <note>(伊原) used to working で「慣れた」なので、作業という語は入ってこないはず、また in terms of で観点なのですが、もう少し開いて「考えかた」としました。解決策はソリューションとしてみました。
+
+(太田)
+represents の訳が落ちたような気がします。</note>
       <tuv lang="EN-US">
         <seg>To a developer used to working in terms of modules and components, this represents a complete, integrated solution to a problem.</seg>
       </tuv>
