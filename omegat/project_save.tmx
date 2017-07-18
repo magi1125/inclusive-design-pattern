@@ -10079,7 +10079,8 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
 
 (太田)
 故意に「断片化した評価」をしようとしているわけではく、「断片化した評価」は結果なのではないか、という感想です。The problem with this の with の訳し方の問題であるようにも思います。
-
+「この問題で、不自然で断片化された方法でインターフェイスを評価することになってしまう原因は」
+としてみましたがどうでしょうか。
 
 
 
@@ -10087,8 +10088,8 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
       <tuv lang="EN-US">
         <seg>The problem with this contrived and fragmented way of evaluating interfaces is that nobody has the chance to point out and avoid what are simply &lt;g1&gt;bad ideas&lt;/g1&gt;, like using a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; as a button control.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170714T102833Z" creationid="yoota" creationdate="20170714T072619Z">
-        <seg>このような不自然で断片化された方法でインターフェイスを評価する問題点は、&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;をボタンコントロールとして使うといった、とても&lt;g1&gt;まずいアイデア&lt;/g1&gt;を指摘したり避けたりする機会が誰にもないことです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170718T091624Z" creationid="yoota" creationdate="20170714T072619Z">
+        <seg>この問題で、不自然で断片化された方法でインターフェイスを評価することになってしまう原因は、&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;をボタンコントロールとして使うといった、とても&lt;g1&gt;まずいアイデア&lt;/g1&gt;を指摘したり避けたりする機会が誰にもないことです。</seg>
       </tuv>
     </tu>
     <tu>
