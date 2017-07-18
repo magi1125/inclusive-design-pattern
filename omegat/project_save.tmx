@@ -10088,8 +10088,8 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
       <tuv lang="EN-US">
         <seg>The problem with this contrived and fragmented way of evaluating interfaces is that nobody has the chance to point out and avoid what are simply &lt;g1&gt;bad ideas&lt;/g1&gt;, like using a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; as a button control.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170718T091658Z" creationid="yoota" creationdate="20170714T072619Z">
-        <seg>この問題で、不自然で断片化された方法でインターフェイスを評価することになってしまう原因は、&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;をボタンコントロールとして使うというような、単純に&lt;g1&gt;まずいアイデア&lt;/g1&gt;を指摘したり避けたりする機会が誰にもないことです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170718T091717Z" creationid="yoota" creationdate="20170714T072619Z">
+        <seg>この問題で、不自然で断片化された方法でインターフェイスを評価することになってしまう原因は、&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;をボタンコントロールとして使うというような、単純に&lt;g1&gt;まずいアイデア&lt;/g1&gt;を指摘したり避けたりする機会がないことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10345,7 +10345,9 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       <note>(太田)
 「このような方法」とはどのような方法か分かりにくいかも。
 
-(伊原) 補ってみました。</note>
+(伊原) 補ってみました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>The way failures are reported and developers are tasked means you always end up just patching what’s already there.</seg>
       </tuv>
