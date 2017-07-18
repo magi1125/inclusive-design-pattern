@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2543,7 +2543,11 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) このone-for-oneは、前述の「原則ごとの修正」を指しているのではないでしょうか。そのように補いつつ調整してみました。</note>
+      <note>(伊原) このone-for-oneは、前述の「原則ごとの修正」を指しているのではないでしょうか。そのように補いつつ調整してみました。
+
+(太田)
+the previous implementation は div で実装されたボタン、the inclusive upvote buttonは button で実装されたボタンを指すものと思います。
+</note>
       <tuv lang="EN-US">
         <seg>Because the inclusive upvote button replaces the previous implementation one-for-one, the consultant has also helped the organization improve its pattern library.</seg>
       </tuv>
