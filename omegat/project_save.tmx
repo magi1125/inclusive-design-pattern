@@ -2547,7 +2547,8 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
 
 (太田)
 the previous implementation は div で実装されたボタン、the inclusive upvote buttonは button で実装されたボタンを指すものと思います。そしてone-for-one はreplaceにかかる副詞で、古いボタンを一対一対応で置き換えできる (つまり、例外なく全てを置き換えできる) ので、古いものを駆逐できるという話のように思いました。
-つまり元訳は誤訳で、古い実装と一対一でとって代わる、のだと思います。とはいえ一対一を積極的に訳す必要もなさそうです。</note>
+つまり元訳は誤訳で、古い実装と一対一でとって代わる、のだと思います。とはいえ一対一を積極的に訳す必要もなさそうです。
+調整してみました。たぶんこういうことかと。</note>
       <tuv lang="EN-US">
         <seg>Because the inclusive upvote button replaces the previous implementation one-for-one, the consultant has also helped the organization improve its pattern library.</seg>
       </tuv>
