@@ -2546,7 +2546,7 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       <note>(伊原) このone-for-oneは、前述の「原則ごとの修正」を指しているのではないでしょうか。そのように補いつつ調整してみました。
 
 (太田)
-the previous implementation は div で実装されたボタン、the inclusive upvote buttonは button で実装されたボタンを指すものと思います。単にボタンを一つずつ置き換えるという話のように思いましたが……。
+the previous implementation は div で実装されたボタン、the inclusive upvote buttonは button で実装されたボタンを指すものと思います。単にボタンを一つずつ (そして最終的には全て) 置き換えるという話のように思いました。
 </note>
       <tuv lang="EN-US">
         <seg>Because the inclusive upvote button replaces the previous implementation one-for-one, the consultant has also helped the organization improve its pattern library.</seg>
