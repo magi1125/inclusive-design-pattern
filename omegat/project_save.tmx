@@ -8755,6 +8755,8 @@ Sinceは過去の話をしているはずですが、うーん。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+</note>
       <tuv lang="EN-US">
         <seg>Since our toggle button will initialize in the off (unpressed) state, we should also add &lt;g1&gt;aria-pressed="false"&lt;/g1&gt;:</seg>
       </tuv>
