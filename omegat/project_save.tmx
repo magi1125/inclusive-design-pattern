@@ -10492,6 +10492,8 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+toggle()メソッドの実体、か。</note>
       <tuv lang="EN-US">
         <seg>Then we need to create the actual &lt;g1&gt;toggle()&lt;/g1&gt; method.</seg>
       </tuv>
@@ -12591,6 +12593,14 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T092312Z" creationid="okamoto_jun" creationdate="20170627T092312Z">
         <seg>このような形式（単一の文字列）のデータの場合、たとえばヘルパーを書いて「United States」の部分を抽出するという方法が考えられます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the following in place, the state will change either on &lt;g2&gt;click&lt;/g2&gt; or by scripting &lt;g3&gt;toggleInstance.toggle()&lt;/g3&gt; (where &lt;g4&gt;toggleInstance&lt;/g4&gt; is an instance of &lt;g5&gt;&lt;toggle-button&gt;&lt;/g5&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T092128Z" creationid="yoota" creationdate="20170719T092128Z">
+        <seg>以下を所定の場所に追加すると、clickで、またはtoggleInstance.toggle()をスクリプトすることによって、状態が変化します（toggleInstanceは&lt;toggle-button&gt;のインスタンス）。</seg>
       </tuv>
     </tu>
     <tu>
