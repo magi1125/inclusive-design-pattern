@@ -4796,6 +4796,14 @@ by name は「バイネームで」でも良いのかもしれないですね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If you’ve been following along, you’ll know what that means: it’s not focusable or actionable, and doesn’t have the &lt;g1&gt;button&lt;/g1&gt; role that announces it as a button in screen readers — just like the remediated &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; button I was talking about earlier in the chapter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T055521Z" creationid="yoota" creationdate="20170719T055521Z">
+        <seg>ここまで読み進めた皆さんには、それが何を意味するかお分かりでしょう。フォーカスができず、実用的でもなく、スクリーンリーダーでボタンであることを知らせる&lt;g1&gt;button&lt;/g1&gt;ロールもないボタン、つまり先ほど説明した、修正を加えた&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;ボタンと同じようなものだということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK...ですが、この話要る？という素朴な疑問が。
 
 (太田) この話要る？は同感です。
@@ -5150,8 +5158,8 @@ it = トランスクリプトと補わないと分かりにくいかも。
       <tuv lang="EN-US">
         <seg>In fact, it is merely an instance of &lt;g10&gt;&lt;g11&gt;&lt;g12&gt;HTMLElement&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;10&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;, much like a &lt;g16&gt;&lt;div&gt;&lt;/g16&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T055452Z" creationid="yoota" creationdate="20170719T055452Z">
-        <seg>実際のところ、&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;HTMLElement&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注80）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;のインスタンスにすぎず、&lt;div&gt;とよく似ています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T055503Z" creationid="yoota" creationdate="20170719T055452Z">
+        <seg>実際のところ、&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;HTMLElement&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注80）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;のインスタンスにすぎず、&lt;g16&gt;&lt;div&gt;&lt;/g16&gt;とよく似ています。</seg>
       </tuv>
     </tu>
     <tu>
