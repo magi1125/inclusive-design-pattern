@@ -8577,6 +8577,14 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since our toggle button will initialize in the off (unpressed) state, we should also add &lt;g1&gt;aria-pressed="false"&lt;/g1&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T091618Z" creationid="yoota" creationdate="20170719T091618Z">
+        <seg>このトグルボタンはオフ（押していない）状態で初期化するので、&lt;g1&gt;aria-pressed="false"&lt;/g1&gt;も追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the button’s label of “Start” is in a background image as part of CSS’s presentation layer, this too is unavailable to assistive technologies.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101018Z" creationid="okamoto_jun" creationdate="20170627T101018Z">
