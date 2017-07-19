@@ -7238,6 +7238,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>No: they’re autonomous technologies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T093839Z" creationid="yoota" creationdate="20170719T093839Z">
+        <seg>これは間違いで、両者は独立したテクノロジーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文は「異なる」ということより「いない」ということに重点が置かれているように思います。
 
 (伊原) 平均的ユーザーとして「な」を取りました。</note>
@@ -10503,6 +10511,14 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The toggle button example does not use Shadow DOM, so could still associate itself with an element of ID &lt;g1&gt;#toggleTarget&lt;/g1&gt; using &lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T093921Z" creationid="yoota" creationdate="20170719T093921Z">
+        <seg>トグルボタンの例はShadow DOMを使っていないので、&lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;を使ってIDが&lt;g1&gt;#toggleTarget&lt;/g1&gt;の要素と関連付けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 違う気がする。wouldが落ちている。あとで検討
 
@@ -10648,6 +10664,14 @@ convention は他のところでは「慣習」としていたのでここもそ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170707T064944Z" creationid="yoota" creationdate="20170613T044725Z">
         <seg>キャプションを書くときは、従うべき慣習があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are common misconceptions that all custom elements have shadow DOM included, and that you can only use Shadow DOM with Custom Elements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T093835Z" creationid="yoota" creationdate="20170719T093835Z">
+        <seg>よくある誤解は、すべてのCustom ElementsにはShadow DOMが含まれている、そしてShadow DOMはCustom Elementsでのみ使用できる、というものです。</seg>
       </tuv>
     </tu>
     <tu>
