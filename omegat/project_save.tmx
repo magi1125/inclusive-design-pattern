@@ -5467,7 +5467,9 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
     </tu>
     <tu>
       <note>(太田)
-対策?</note>
+対策→機能?
+「独自の要素定義を必要とする」は誤訳で「その要素自身が独自に定義したトグル機能をも持ちます」くらいかと。
+</note>
       <tuv lang="EN-US">
         <seg>In terms of semantics and behavior, our &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt; now has all the accessibility provisions of &lt;g2&gt;&lt;button&gt;&lt;/g2&gt;, but also the toggle functionality which makes it deserving of its own element definition.</seg>
       </tuv>
