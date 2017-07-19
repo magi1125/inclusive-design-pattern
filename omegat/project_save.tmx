@@ -2284,6 +2284,17 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ARIAのrelationshipは青本では「リレーションシップ」にしていました。
+</note>
+      <tuv lang="EN-US">
+        <seg>As Steve Faulkner writes in “&lt;g1&gt;&lt;g2&gt;Some stuff that doesn’t work between the DOM and Shadow DOM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;14&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” the shadow boundary effectively severs relationships built using attributes like &lt;g6&gt;aria-labelledby&lt;/g6&gt;, &lt;g7&gt;aria-describedby&lt;/g7&gt; and &lt;g8&gt;aria-controls&lt;/g8&gt;, where one element in the relationship is the other side of a shadow boundary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T093344Z" creationid="yoota" creationdate="20170719T093344Z">
+        <seg>スティーブ・フォルクナーが「Some stuff that doesn’t work between the DOM and Shadow DOM」（脚注84）で書いているように、？？影の境界？？はaria-labelledby、aria-describedby、aria-controlsなどの属性を使って築かれた関係を事実上分断します（関係における一方の要素が、？？影の境界？？の反対側にある場合）。【コメント：同上】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>As a result, they alienated the majority of dyslexic readers as well as creating a “clunky and difficult to read” font for everyone.</seg>
@@ -11820,7 +11831,9 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
     <tu>
       <note>(太田)
 shadow boundary (the boundary between the DOM and Shadow DOM) は括弧内に書かれているとおり、Shadow DOMの中にカプセル化された要素が外のDOMから参照できない問題です (問題というか、参照されたり影響を受けたりしないようにするために Shadow DOM があるわけなのですが)。
-これを shadow boundary と呼ぶのはおそらく一般的ではなく、ヘイドンさんがここでこう名づけただけなのではないかと思います。</note>
+これを shadow boundary と呼ぶのはおそらく一般的ではなく、ヘイドンさんがここでこう名づけただけなのではないかと思います。
+
+「私が認識している」は、ヘイドンさんが気をつけないといけないと思っている点、ということかと思います。</note>
       <tuv lang="EN-US">
         <seg>Two notable differences I’m aware of are the effect the shadow boundary (the boundary between the DOM and Shadow DOM) has on &lt;g1&gt;&lt;g2&gt;ARIA relationship attributes&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, and positive &lt;g6&gt;tabindex&lt;/g6&gt; values.</seg>
       </tuv>
