@@ -9688,6 +9688,14 @@ has met them and helped them なので過去完了形ですね。文末を「手
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The advantage of adding these attributes and behaviors as part of the element’s definition is that the interface remains clean to authors — they only have to instantiate &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T092031Z" creationid="yoota" creationdate="20170719T092031Z">
+        <seg>これらの属性や動作を要素の定義の一部として追加するメリットは、&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;をインスタンス化するだけでいいので、制作者にとってインターフェイスがすっきりと見やすいものになることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 何が言いたいのか良くわからない印象です。configureを「作る」としていますが、設定するという話なのではないでしょうか (この章では、meta情報などをいい感じに設定する話をしています)。
 いかにも翻訳っぽい文章なのでもう少し砕きたいかも。
 to go in search of the ultimate boilerplate はまあ要するにジョークなので「探し求める」と大げさな感じにしてみました。
