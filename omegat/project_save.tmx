@@ -11591,6 +11591,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To put it another way, it is not an instance of the &lt;g4&gt;&lt;g5&gt;&lt;g6&gt;HTMLButtonElement&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;9&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt; prototype.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T055430Z" creationid="yoota" creationdate="20170719T055430Z">
+        <seg>言い換えれば、&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;HTMLButtonElement&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;（脚注79）&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt;プロトタイプのインスタンスではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「パラグラフテキスト」とは? 段落のテキスト、ということですが意訳して「本文テキスト」としても良いかも。
 separateは分離ですが、ここでは物理的に(?)距離を空けるという意味。単に「離す」という訳で良いかもしれません。
