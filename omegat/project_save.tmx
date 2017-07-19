@@ -8760,8 +8760,8 @@ Sinceは過去の話をしているはずですが、うーん。
       <tuv lang="EN-US">
         <seg>Since our toggle button will initialize in the off (unpressed) state, we should also add &lt;g1&gt;aria-pressed="false"&lt;/g1&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T091618Z" creationid="yoota" creationdate="20170719T091618Z">
-        <seg>このトグルボタンはオフ（押していない）状態で初期化するので、&lt;g1&gt;aria-pressed="false"&lt;/g1&gt;も追加します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T103743Z" creationid="yoota" creationdate="20170719T091618Z">
+        <seg>このトグルボタンをオフ（押されていない）の状態で初期化するために、&lt;g1&gt;aria-pressed="false"&lt;/g1&gt;も追加します。</seg>
       </tuv>
     </tu>
     <tu>
