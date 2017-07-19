@@ -11946,6 +11946,16 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+以下のように書くことができます、かなと。</note>
+      <tuv lang="EN-US">
+        <seg>Using Custom Elements v1 with ES2015/ES6 syntax, we can write what follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T092713Z" creationid="yoota" creationdate="20170719T092713Z">
+        <seg>ES2015/ES6構文でCustom Elements v1を使用し、以下を記述できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Using a hugely international set of addresses, you’ll find they vary so much that prescribing an unbending set of properties is just not tenable.</seg>
       </tuv>
