@@ -2433,6 +2433,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As you can see, now that I’m piggybacking the &lt;g1&gt;HTMLButtonElement&lt;/g1&gt;, I have been able to exclude the &lt;g2&gt;tabindex&lt;/g2&gt; and &lt;g3&gt;role&lt;/g3&gt; attributes, as well as the ugly &lt;g4&gt;keydown&lt;/g4&gt; event dispatching script.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T092750Z" creationid="yoota" creationdate="20170719T092750Z">
+        <seg>ご覧のとおり、&lt;g1&gt;HTMLButtonElement&lt;/g1&gt;を加えているため、tabindex属性とrole属性だけでなく、keydownイベントをディスパッチする見苦しいスクリプトも除外することができました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 たとえば&lt;button&gt;などのネイティブ要素を使うことで、
 ・フォーカスを受け取るなどのインタラクティブな動作が勝手に実現される
