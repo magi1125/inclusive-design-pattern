@@ -9331,6 +9331,9 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ブラウザでの適正な要素とされていますが→ブラウザでは適切な要素として扱われますが
+</note>
       <tuv lang="EN-US">
         <seg>That new element, although accepted as a legitimate element in browsers supporting &lt;g1&gt;registerElement&lt;/g1&gt; or &lt;g2&gt;customElements.define&lt;/g2&gt;, does not have the standard behaviors of a &lt;g3&gt;&lt;button&gt;&lt;/g3&gt; element.</seg>
       </tuv>
