@@ -2375,6 +2375,20 @@ ARIAのrelationshipは青本では「リレーションシップ」にしてい�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「参照」は違和感があります。
+「tabindexに関しては、tabindex="4"のように正の整数を使用すると、Shadow DOM内のフォーカス順序の4番目を意味することになり、親ドキュメント内のフォーカス順序の4番目という意味にはなりません。」
+くらいかなと。
+(実際の実装について要調査)
+</note>
+      <tuv lang="EN-US">
+        <seg>As for &lt;g1&gt;tabindex&lt;/g1&gt;, using a positive integer like &lt;g2&gt;tabindex="4"&lt;/g2&gt; will refer to the fourth in focus order within the shadow DOM and &lt;g3&gt;not&lt;/g3&gt; the fourth in focus order within the parent document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T093956Z" creationid="yoota" creationdate="20170719T093956Z">
+        <seg>tabindexに関しては、tabindex="4"などの正の整数を使用すると、Shadow DOM内のフォーカス順序の4番目を参照し、親ドキュメント内のフォーカス順序の4番目は参照しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 細かいですが、編成➞構成としました。
 
 (岡本)　「はじめに」→1章「はじめに」</note>
@@ -7254,6 +7268,14 @@ manageは管理で良いような。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170515T015551Z" creationid="yoota" creationdate="20170510T072042Z">
         <seg>平均的ユーザーのようなユーザーなど存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nonetheless, if it did employ Shadow DOM, this would become impossible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T093927Z" creationid="yoota" creationdate="20170719T093927Z">
+        <seg>とは言え、Shadow DOMを使用した場合は、それは不可能になります。</seg>
       </tuv>
     </tu>
     <tu>
