@@ -5,6 +5,14 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <tuv lang="EN-US">
+        <seg>(&lt;g1&gt;Note:&lt;/g1&gt; For a comparison of Custom Elements versions 0 and 1, see Shawn Allen’s “&lt;g2&gt;&lt;g3&gt;All about HTML Custom Elements&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.”)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T055332Z" creationid="yoota" creationdate="20170719T055332Z">
+        <seg>（&lt;g1&gt;注：&lt;/g1&gt;Custom Elementsのバージョン0と1の比較は、ショーン・アレン（Shawn Allen）の「&lt;g2&gt;&lt;g3&gt;All about HTML Custom Elements&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注78）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;」を参照してください。）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 以下の例で@media (max-width: 60em)としてemを使っていることの説明であって、読者に推奨しているものではないと思います。</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; To ensure the media query triggers at the correct point relative to user-defined font size, we are using the em unit there, too.</seg>
