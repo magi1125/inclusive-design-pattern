@@ -7789,6 +7789,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Only they affect the behavior of the interface as it is manipulated by the user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T055229Z" creationid="yoota" creationdate="20170719T055229Z">
+        <seg>両者はインターフェイスをユーザーが操作したときに、その動作に影響を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 冒頭の「また」を「逆に」としました。
 
@@ -9938,6 +9946,14 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101120Z" creationid="okamoto_jun" creationdate="20170627T101120Z">
         <seg>インクルーシブデザイナーはこうした問題を予測できます。経験上、人は同じでないこと、しかもその違いも実にさまざまであることを知っているからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The joy of custom elements is that you can tie custom style and behavior to an element of your own conception.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T055238Z" creationid="yoota" creationdate="20170719T055238Z">
+        <seg>うれしいことに、Custom Elements（カスタム要素）はカスタムのスタイルや動作を自分が考案した独自の要素に結び付けることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12646,6 +12662,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T054102Z" creationid="yoota" creationdate="20170522T100406Z">
         <seg>それで終わりにすることもできますが、構造情報がこれだけでは、多くのユーザーに理解の点で問題が生じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You could, for example, write all the code for a toggle button and attach it to a &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt; element: a neat package of functionality with a descriptive name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T055253Z" creationid="yoota" creationdate="20170719T055253Z">
+        <seg>たとえば、トグルボタンのコードを一式書いて、それを&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;要素（分かりやすい名前のすっきりした機能パッケージ）にアタッチできます。</seg>
       </tuv>
     </tu>
     <tu>
