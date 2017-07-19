@@ -2124,6 +2124,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>An easier way to get the basic functionality of a &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; before extending it is to literally &lt;g2&gt;extend&lt;/g2&gt; the &lt;g3&gt;HTMLButtonElement&lt;/g3&gt; prototype.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T092520Z" creationid="yoota" creationdate="20170719T092520Z">
+        <seg>&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;の基本機能を得てからそれを簡単に拡張するには、文字通り&lt;g3&gt;HTMLButtonElement&lt;/g3&gt;プロトタイプを&lt;g2&gt;拡張&lt;/g2&gt;します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「コードやフォーマットについて考えさせたり、作業させたり」は若干不正確になりますが「フォーマットを考えたり、コードを書いたり」としました。
 
 (伊原) LGTM</note>
