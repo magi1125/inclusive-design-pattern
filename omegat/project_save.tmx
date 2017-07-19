@@ -2433,6 +2433,10 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「HTMLButtonElementを加えている」のではなく、HTMLButtonElementをベースにして独自機能を加えているという話です。
+直訳だと「私はHTMLButtonElementを背負っているため」となりますが、意訳して「HTMLButtonElementをベースにしているため」くらいで良いのではないかと思います。
+</note>
       <tuv lang="EN-US">
         <seg>As you can see, now that I’m piggybacking the &lt;g1&gt;HTMLButtonElement&lt;/g1&gt;, I have been able to exclude the &lt;g2&gt;tabindex&lt;/g2&gt; and &lt;g3&gt;role&lt;/g3&gt; attributes, as well as the ugly &lt;g4&gt;keydown&lt;/g4&gt; event dispatching script.</seg>
       </tuv>
