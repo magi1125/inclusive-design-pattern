@@ -5486,6 +5486,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of our custom element, these features can be added much more neatly and robustly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T055533Z" creationid="yoota" creationdate="20170719T055533Z">
+        <seg>ここで例として説明するカスタム要素の場合は、それらの機能をもっとすっきりと確実に追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「構想の中で」は違和感があります。「構想を通じて」くらいかと思いますが、もう少し砕いて「ここまで……構想しながら……説明してきました」としてみました。
 「最も基本的な側面」は違和感があったので「最も重要な側面」としました。
@@ -11849,6 +11857,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T104733Z" creationid="yoota" creationdate="20170523T104654Z">
         <seg>&lt;g2&gt;display: none;&lt;/g2&gt;、&lt;g3&gt;visibility: hidden;&lt;/g3&gt;、&lt;g4&gt;height: 0;&lt;/g4&gt;、&lt;g5&gt;width: 0;&lt;/g5&gt;を使ってもうまく機能しません――視覚と聴覚の&lt;g6&gt;両方で&lt;/g6&gt;spanが利用できなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using Custom Elements v0, we add them in the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;createdCallback&lt;/g3&gt; lifecycle callback&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;11&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T055606Z" creationid="yoota" creationdate="20170719T055606Z">
+        <seg>Custom Elements v0を使用して、&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;createdCallback&lt;/g3&gt;ライフサイクルコールバック&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注81）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;に追加するのです。</seg>
       </tuv>
     </tu>
     <tu>
