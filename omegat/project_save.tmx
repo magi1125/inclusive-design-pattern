@@ -8760,8 +8760,8 @@ Sinceは過去の話をしているはずですが、うーん。
       <tuv lang="EN-US">
         <seg>Since our toggle button will initialize in the off (unpressed) state, we should also add &lt;g1&gt;aria-pressed="false"&lt;/g1&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T103743Z" creationid="yoota" creationdate="20170719T091618Z">
-        <seg>このトグルボタンをオフ（押されていない）の状態で初期化するために、&lt;g1&gt;aria-pressed="false"&lt;/g1&gt;も追加します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T103812Z" creationid="yoota" creationdate="20170719T091618Z">
+        <seg>このトグルボタンをオフ（押されていない）の状態で初期化するため、&lt;g1&gt;aria-pressed="false"&lt;/g1&gt;も追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9872,6 +9872,8 @@ has met them and helped them なので過去完了形ですね。文末を「手
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+原文に合わせる形で調整。</note>
       <tuv lang="EN-US">
         <seg>The advantage of adding these attributes and behaviors as part of the element’s definition is that the interface remains clean to authors — they only have to instantiate &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;.</seg>
       </tuv>
