@@ -13007,11 +13007,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+後半補いつつ調整。
+</note>
       <tuv lang="EN-US">
         <seg>You could, for example, write all the code for a toggle button and attach it to a &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt; element: a neat package of functionality with a descriptive name.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T055253Z" creationid="yoota" creationdate="20170719T055253Z">
-        <seg>たとえば、トグルボタンのコードを一式書いて、それを&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;要素（分かりやすい名前のすっきりした機能パッケージ）にアタッチできます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T102337Z" creationid="yoota" creationdate="20170719T055253Z">
+        <seg>たとえば、トグルボタンのコードを一式書いて、それを&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;要素にアタッチできます。分かりやすい名前の、すっきりした機能をパッケージにすることができるのです。</seg>
       </tuv>
     </tu>
     <tu>
