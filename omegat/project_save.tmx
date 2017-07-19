@@ -2042,11 +2042,13 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>All we need to do now is handle that &lt;g2&gt;click&lt;/g2&gt; event to switch the state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T092048Z" creationid="yoota" creationdate="20170719T092048Z">
-        <seg>あとは、&lt;g2&gt;click&lt;/g2&gt;イベントで状態を切り替えるように対処するだけです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T104011Z" creationid="yoota" creationdate="20170719T092048Z">
+        <seg>あとは、&lt;g2&gt;click&lt;/g2&gt;イベントで状態が切り替わるようにするだけです。</seg>
       </tuv>
     </tu>
     <tu>
