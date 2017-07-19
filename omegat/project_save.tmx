@@ -6434,6 +6434,14 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s more reliable, efficient, and just plain easier.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T093027Z" creationid="yoota" creationdate="20170719T093027Z">
+        <seg>信頼性が高く、効率的で、とにかく簡単な方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 重要になる、でいいのか。いったん保留。
 「利用できるようにしたいのか」→「利用できるようにするべきなのか」</note>
       <tuv lang="EN-US">
@@ -11791,6 +11799,14 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+shadow boundary (the boundary between the DOM and Shadow DOM) は括弧内に書かれているとおり、Shadow DOMの中にカプセル化された要素が外のDOMから参照できない問題です (問題というか、参照されたり影響を受けたりしないようにするために Shadow DOM があるわけなのですが)。
+これを shadow boundary と呼ぶのはおそらく一般的ではなく、ヘイドンさんがここでこう名づけただけなのではないかと思います。</note>
+      <tuv lang="EN-US">
+        <seg>Two notable differences I’m aware of are the effect the shadow boundary (the boundary between the DOM and Shadow DOM) has on &lt;g1&gt;&lt;g2&gt;ARIA relationship attributes&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, and positive &lt;g6&gt;tabindex&lt;/g6&gt; values.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (伊原) 下訳を反映</note>
@@ -12079,6 +12095,14 @@ https://ja.wikipedia.org/wiki/Composite_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170707T070321Z" creationid="rikiha" creationdate="20170702T150406Z">
         <seg>WCAGは、皆さんがどのような要素、構造、慣習を採用するかを事前に把握できないので、抽象的にならざるを得ないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We are doing as we set out to do from the very beginning: using what’s already at our disposal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T093022Z" creationid="yoota" creationdate="20170719T093022Z">
+        <seg>最初から目指しているように、すでに自由に使えるものを利用して行っています。</seg>
       </tuv>
     </tu>
     <tu>
