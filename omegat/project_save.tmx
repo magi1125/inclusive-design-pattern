@@ -9134,8 +9134,8 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       <tuv lang="EN-US">
         <seg>That new element, although accepted as a legitimate element in browsers supporting &lt;g1&gt;registerElement&lt;/g1&gt; or &lt;g2&gt;customElements.define&lt;/g2&gt;, does not have the standard behaviors of a &lt;g3&gt;&lt;button&gt;&lt;/g3&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T055401Z" creationid="yoota" creationdate="20170719T055401Z">
-        <seg>この新しい要素は、&lt;g1&gt;registerElement&lt;/g1&gt;または&lt;g2&gt;customElements.define&lt;/g2&gt;をサポートしているブラウザでの適正な要素とされていますが、&lt;button&gt;要素の標準的な動作は備えていません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T055411Z" creationid="yoota" creationdate="20170719T055401Z">
+        <seg>この新しい要素は、&lt;g1&gt;registerElement&lt;/g1&gt;または&lt;g2&gt;customElements.define&lt;/g2&gt;をサポートしているブラウザでの適正な要素とされていますが、&lt;g3&gt;&lt;button&gt;&lt;/g3&gt;要素の標準的な動作は備えていません。</seg>
       </tuv>
     </tu>
     <tu>
