@@ -3699,6 +3699,14 @@ the を訳出すべきか?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Focus order should follow source order for logical keyboard operation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T094049Z" creationid="yoota" creationdate="20170719T094049Z">
+        <seg>理にかなったキーボード操作のためには、フォーカス順序はソースの順序に従うべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) その時点で→フォーカスがあたると (原文 Focusing the skip link)
 
 (伊原) LGTM</note>
@@ -11185,6 +11193,14 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T104333Z" creationid="yoota" creationdate="20170511T104333Z">
         <seg>特に、現在のサイトの機能やレイアウトに慣れているであろうスクリーンリーダーユーザーにとっては役に立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is most easily achieved simply by using implicitly focusable elements and — where necessary — elements with &lt;g5&gt;tabindex="0"&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T094100Z" creationid="yoota" creationdate="20170719T094100Z">
+        <seg>これを最も簡単に実行するには、暗黙的にフォーカス可能な要素、および必要に応じて&lt;g5&gt;tabindex="0"&lt;/g5&gt;を指定した要素を使います。</seg>
       </tuv>
     </tu>
     <tu>
