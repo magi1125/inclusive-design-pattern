@@ -11303,6 +11303,14 @@ http://pothos.main.jp/setuzokusi.htm</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This may have some useful applications, but use of explicit &lt;g4&gt;tabindex&lt;/g4&gt; ordering is not advised in any case.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T094031Z" creationid="yoota" creationdate="20170719T094031Z">
+        <seg>これは便利な点もあるかもしれませんが、明確な&lt;g4&gt;tabindex&lt;/g4&gt;順序の使用はどのような場合にもお勧めできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 枠に入れるというのがちょっと謎でした。よく読めば、枠組みに入れるということなのだと思いますが、構造を枠に入れるというのが日本語的にちょっと不自然な気も。
 
 (太田) corralは「囲いに入れる」的な動詞なので、「囲む」「括る」などでも良いように思います。いったん「括る」としてみました。
