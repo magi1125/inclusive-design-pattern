@@ -7796,7 +7796,7 @@ the buttonを「このボタン」としました。
 HTML elements とあるのははおそらく原著の誤りで、HTML Imports が正しいかと思います。Web Compnents の4つの機能がShadow DOM、Custom Elements、HTML Imports、HTML Templatesです。
 と、補ったほうがいいと思うので補いました。
 
-括弧は「（影響は小さめですが）」として前に置ききました。</note>
+括弧は「（影響は小さめですが）」として前に置きました。</note>
       <tuv lang="EN-US">
         <seg>Of the Shadow DOM, Custom Elements, HTML elements, and HTML templates specifications, only &lt;g6&gt;&lt;g7&gt;Custom Elements&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;6&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; and (to a lesser extent) &lt;g11&gt;&lt;g12&gt;Shadow DOM&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;7&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt; directly pose potential problems.</seg>
       </tuv>
@@ -10173,11 +10173,16 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+括弧いります?
+いるとしてももっと前でつけたほうがいいような。
+いったんとりました。
+</note>
       <tuv lang="EN-US">
         <seg>The joy of custom elements is that you can tie custom style and behavior to an element of your own conception.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T055238Z" creationid="yoota" creationdate="20170719T055238Z">
-        <seg>うれしいことに、Custom Elements（カスタム要素）はカスタムのスタイルや動作を自分が考案した独自の要素に結び付けることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T101905Z" creationid="yoota" creationdate="20170719T055238Z">
+        <seg>うれしいことに、Custom Elementsはカスタムのスタイルや動作を自分が考案した独自の要素に結び付けることができます。</seg>
       </tuv>
     </tu>
     <tu>
