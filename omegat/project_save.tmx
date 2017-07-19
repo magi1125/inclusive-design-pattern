@@ -12862,7 +12862,7 @@ belong toが「構成する」となっていますが、この章はドキュ�
       <note>(太田)
 スクリプトする→スクリプトから呼ぶ?
 
-原文のclickは「clickする」「clickイベントが発生する」のダブルミーニングですが日本語ではそんな器用なことはできないので「clickイベントが発生する」としました。</note>
+原文のclickは「clickする」とのダブルミーニングですが日本語ではそんな器用なことはできないので「clickイベントが発生する」としました。</note>
       <tuv lang="EN-US">
         <seg>With the following in place, the state will change either on &lt;g2&gt;click&lt;/g2&gt; or by scripting &lt;g3&gt;toggleInstance.toggle()&lt;/g3&gt; (where &lt;g4&gt;toggleInstance&lt;/g4&gt; is an instance of &lt;g5&gt;&lt;toggle-button&gt;&lt;/g5&gt;).</seg>
       </tuv>
