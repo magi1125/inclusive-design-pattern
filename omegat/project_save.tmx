@@ -5540,8 +5540,8 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       <tuv lang="EN-US">
         <seg>In terms of semantics and behavior, our &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt; now has all the accessibility provisions of &lt;g2&gt;&lt;button&gt;&lt;/g2&gt;, but also the toggle functionality which makes it deserving of its own element definition.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T092318Z" creationid="yoota" creationdate="20170719T092318Z">
-        <seg>セマンティクスと動作の観点では、この&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;は&lt;g2&gt;&lt;button&gt;&lt;/g2&gt;のアクセシビリティ対策をすべて備えているだけでなく、独自の要素定義を必要とするトグル機能も持ちます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T104647Z" creationid="yoota" creationdate="20170719T092318Z">
+        <seg>セマンティクスと動作の観点では、この&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;は&lt;g2&gt;&lt;button&gt;&lt;/g2&gt;のアクセシビリティ機能をすべて備えているだけでなく、その要素自身が独自に定義したトグル機能をも持ちます。</seg>
       </tuv>
     </tu>
     <tu>
