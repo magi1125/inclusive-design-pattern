@@ -12135,12 +12135,12 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     </tu>
     <tu>
       <note>(太田)
-わかりにくい。</note>
+ここはCustom Elements v0を使う場合の話です。ので、そのように調整しました。</note>
       <tuv lang="EN-US">
         <seg>Using Custom Elements v0, we add them in the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;createdCallback&lt;/g3&gt; lifecycle callback&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;11&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T055606Z" creationid="yoota" creationdate="20170719T055606Z">
-        <seg>Custom Elements v0を使用して、&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;createdCallback&lt;/g3&gt;ライフサイクルコールバック&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注81）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;に追加するのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T103355Z" creationid="yoota" creationdate="20170719T055606Z">
+        <seg>Custom Elements v0を使う場合、それらの機能を&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;createdCallback&lt;/g3&gt;ライフサイクルコールバック&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注81）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;に追加します。</seg>
       </tuv>
     </tu>
     <tu>
