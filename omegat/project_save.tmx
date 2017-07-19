@@ -3954,6 +3954,17 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ほとんどの場合、インクルーシブなWebコンポーネントの作成は、アクセシブルでセマンティックなHTMLをいつものように作り出しているにすぎません。ただ、それを新しいAPIの中で行っているだけです。
+</note>
+      <tuv lang="EN-US">
+        <seg>For the most part, creating inclusive web components is just creating accessible, semantic HTML as usual but inside a new API.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T093225Z" creationid="yoota" creationdate="20170719T093225Z">
+        <seg>ほとんどの場合、インクルーシブなWebコンポーネントの作成は、アクセシブルでセマンティックなHTMLを従来通りに作成しているにすぎませんが、それを新しいAPI内で行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 【要検討：保留】これもちょっとピンとこない。</note>
       <tuv lang="EN-US">
         <seg>For the purposes of inclusive design, sometimes our text has to have a certain autonomy as well.</seg>
@@ -8477,6 +8488,14 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Shadow Boundary Issues</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T093202Z" creationid="yoota" creationdate="20170719T093202Z">
+        <seg>？？影の境界？？の問題【コメント：定訳が確認できませんでした。複数あります。原文「shadow boundary」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 &lt;subtitle&gt;要素は存在しないのでこれは仮定の話です (if you should の if が省略されて文頭にShouldが来るパターン)。
 そのことが分かるように訳す必要アリ。
@@ -11804,6 +11823,9 @@ shadow boundary (the boundary between the DOM and Shadow DOM) は括弧内に書
 これを shadow boundary と呼ぶのはおそらく一般的ではなく、ヘイドンさんがここでこう名づけただけなのではないかと思います。</note>
       <tuv lang="EN-US">
         <seg>Two notable differences I’m aware of are the effect the shadow boundary (the boundary between the DOM and Shadow DOM) has on &lt;g1&gt;&lt;g2&gt;ARIA relationship attributes&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, and positive &lt;g6&gt;tabindex&lt;/g6&gt; values.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T093159Z">
+        <seg>私が認識している2つの顕著な違いは、？？影の境界？？（DOMとShadow DOMの間の境界）がARIA関係属性に及ぼす影響（脚注83）と、正のtabindex値です。【コメント：同上】</seg>
       </tuv>
     </tu>
     <tu>
