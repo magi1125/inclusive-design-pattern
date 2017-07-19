@@ -12862,12 +12862,12 @@ belong toが「構成する」となっていますが、この章はドキュ�
       <note>(太田)
 スクリプトする→スクリプトから呼ぶ?
 
-原文のclickは「clickする」とのダブルミーニングですが日本語ではそんな器用なことはできないので「clickイベントが発生する」としました。</note>
+原文のclickは「clickする」とのダブルミーニングですが、日本語ではそんな器用なことはできないので「clickイベントが発生する」としました。</note>
       <tuv lang="EN-US">
         <seg>With the following in place, the state will change either on &lt;g2&gt;click&lt;/g2&gt; or by scripting &lt;g3&gt;toggleInstance.toggle()&lt;/g3&gt; (where &lt;g4&gt;toggleInstance&lt;/g4&gt; is an instance of &lt;g5&gt;&lt;toggle-button&gt;&lt;/g5&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T104343Z" creationid="yoota" creationdate="20170719T092128Z">
-        <seg>以下を所定の場所に追加すると、&lt;g2&gt;click&lt;/g2&gt;イベントが発生するか、または&lt;g3&gt;toggleInstance.toggle()&lt;/g3&gt;をスクリプトから呼ぶことによって、状態が変化します（&lt;g4&gt;toggleInstance&lt;/g4&gt;は&lt;g5&gt;&lt;toggle-button&gt;&lt;/g5&gt;のインスタンス）。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T104420Z" creationid="yoota" creationdate="20170719T092128Z">
+        <seg>以下を所定の場所に追加すると、&lt;g2&gt;click&lt;/g2&gt;イベントが発生するか、または&lt;g3&gt;toggleInstance.toggle()&lt;/g3&gt;をスクリプトから呼ぶことによって、状態が変化します（以下の&lt;g4&gt;toggleInstance&lt;/g4&gt;は&lt;g5&gt;&lt;toggle-button&gt;&lt;/g5&gt;のインスタンスです）。</seg>
       </tuv>
     </tu>
     <tu>
