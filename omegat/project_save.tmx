@@ -7419,6 +7419,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note that in Custom Elements v1, &lt;g4&gt;createdCallback&lt;/g4&gt; is not necessary:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170719T092729Z" creationid="yoota" creationdate="20170719T092729Z">
+        <seg>Custom Elements v1では&lt;g4&gt;createdCallback&lt;/g4&gt;は必要ないことに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「1つ目の構造」が何を指すのか分かりませんでした。上記のコード例の前者、だと思いますので補いました。
 エラーを生成しない→エラーとならない、としました。
 
