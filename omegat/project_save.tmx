@@ -5676,7 +5676,8 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
 カスタム要素→Custom Elements
 robustlyは「堅牢な方法で」としてみました。
 「ここで例として説明する」は冗長なのでとりました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the case of our custom element, these features can be added much more neatly and robustly.</seg>
       </tuv>
@@ -12356,7 +12357,9 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     <tu>
       <note>(太田)
 ここはCustom Elements v0を使う場合の話です。ので、そのように調整しました。
-ライフサイクルコールバックはカタカナで書かれても分からないのでいったん  「lifecycle callback メソッド」としてみましたが、単に「createdCallbackに追加」でも良いかも。</note>
+ライフサイクルコールバックはカタカナで書かれても分からないのでいったん  「lifecycle callback メソッド」としてみましたが、単に「createdCallbackに追加」でも良いかも。
+
+(伊原) OK, 脚注があるのでいったんlifecycle〜はイキかなと。</note>
       <tuv lang="EN-US">
         <seg>Using Custom Elements v0, we add them in the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;createdCallback&lt;/g3&gt; lifecycle callback&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;11&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;:</seg>
       </tuv>
