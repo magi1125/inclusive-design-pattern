@@ -8434,12 +8434,14 @@ OK</note>
       <note>(伊原) ちょっと調整。「デザイン思考」は日本ではIDEOのそれを指すので使用を要検討。
 
 (太田) 自信を与える、というのはいかにも翻訳っぽい表現なので調整。
-自信というのもやや微妙ですがいったんママで (既存のパターンを参考にできるので独自の判断をしなくて良いという話)。</note>
+自信というのもやや微妙ですがいったんママで (既存のパターンを参考にできるので独自の判断をしなくて良いという話)。
+
+(伊原) デザイン思考➞デザインの考え方、としました。また「自信が持てる」を「迷いがなくなる」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Remediating by pattern brings design thinking into the remediation process, helping the client to fix their current product while instilling the confidence to make inclusive design decisions in the future.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170718T100110Z" creationid="yoota" creationdate="20170714T084412Z">
-        <seg>パターンごとの修正は、修正プロセスにデザイン思考をもたらします。クライアントが現在の製品を修正するのを手助けするだけでなく、将来的にインクルーシブデザインに関する判断を下す際にも自信が持てるようになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170720T132732Z" creationid="yoota" creationdate="20170714T084412Z">
+        <seg>パターンごとの修正は、修正プロセスにデザインの考え方をもたらします。クライアントが現在の製品を修正するのを手助けするだけでなく、将来的にインクルーシブデザインに関する判断を下す際にも迷いがなくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11359,7 +11361,9 @@ out of sight は「非表示」とされていましたが、文字通り「視�
 
 (太田) 修正者とは。「アクセシビリティ警察」みたいなニュアンスだろうとは思うのですが。
 obsolete は時代遅れというか、もはや必要なくなる的な話ですね。
-大幅に調整してみましたがどうでしょうか。</note>
+大幅に調整してみましたがどうでしょうか。
+
+(伊原) いいですね! OKです</note>
       <tuv lang="EN-US">
         <seg>This is an effective way to make my role as a remediator obsolete and, like Joe, I welcome it.</seg>
       </tuv>
