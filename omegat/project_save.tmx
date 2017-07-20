@@ -4005,13 +4005,12 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
     </tu>
     <tu>
       <note>(太田)
-ほとんどの場合、インクルーシブなWebコンポーネントの作成は、アクセシブルでセマンティックなHTMLをいつものように作り出しているにすぎません。ただ、それを新しいAPIの中で行っているだけです。
-</note>
+2文に分けつつ調整してみました。</note>
       <tuv lang="EN-US">
         <seg>For the most part, creating inclusive web components is just creating accessible, semantic HTML as usual but inside a new API.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T093225Z" creationid="yoota" creationdate="20170719T093225Z">
-        <seg>ほとんどの場合、インクルーシブなWebコンポーネントの作成は、アクセシブルでセマンティックなHTMLを従来通りに作成しているにすぎませんが、それを新しいAPI内で行います。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T052312Z" creationid="yoota" creationdate="20170719T093225Z">
+        <seg>ほとんどの場合、インクルーシブなWebコンポーネントの作成は、アクセシブルでセマンティックなHTMLをいつものように作り出しているにすぎません。ただ、それを新しいAPIの中で行っているだけです。</seg>
       </tuv>
     </tu>
     <tu>
