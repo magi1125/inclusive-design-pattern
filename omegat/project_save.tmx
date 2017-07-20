@@ -2802,6 +2802,17 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+括弧書きは不要かと。
+</note>
+      <tuv lang="EN-US">
+        <seg>But not all web page content is really content, as such.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T063332Z" creationid="yoota" creationdate="20170720T063332Z">
+        <seg>しかし、Webページのすべてのコンテンツが「コンテンツ（内容）」というわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「画面で見ないと意味をなさない」ということは実際にはあまりなくて、「画面でブラウズしているときでないと意味がない」というものが多いです。ナビゲーションなどは、印刷されたときちゃんと見えますし意味もわかりますが、操作ができないので無意味だという話です。
 ということで「見る」に特化した訳ではないほうが良いと思います。</note>
       <tuv lang="EN-US">
@@ -7268,6 +7279,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Navigation Regions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T063305Z" creationid="yoota" creationdate="20170720T063305Z">
+        <seg>ナビゲーション領域</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 若干誤訳っぽいです。支援技術を使うのと同じように、さまざまな設定ができる、という話かと。
 
 (伊原) LGTM
@@ -10278,6 +10297,14 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T104051Z" creationid="yoota" creationdate="20170418T104051Z">
         <seg>lang属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The last couple of patterns dealt a lot with content, how to manage it and write it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T063309Z" creationid="yoota" creationdate="20170720T063309Z">
+        <seg>これまでの章ではコンテンツに重点を置いたパターンを取り上げ、その管理や書き方などを学びました。</seg>
       </tuv>
     </tu>
     <tu>
