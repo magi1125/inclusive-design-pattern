@@ -2703,7 +2703,9 @@ heading level oneは「見出しレベル1」ですね。
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原)OK. 勉強になりました。</note>
       <tuv lang="EN-US">
         <seg>Both of which are placed in default focus order according to source order, unaffected by Shadow DOM subtrees.</seg>
       </tuv>
@@ -3755,6 +3757,7 @@ the を訳出すべきか?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Focus order should follow source order for logical keyboard operation.</seg>
       </tuv>
@@ -11467,7 +11470,9 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
     <tu>
       <note>(太田)
 すこし調整。
-やや分かりにくかったので「だけ」を補いました。</note>
+やや分かりにくかったので「だけ」を補いました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This is most easily achieved simply by using implicitly focusable elements and — where necessary — elements with &lt;g5&gt;tabindex="0"&lt;/g5&gt;.</seg>
       </tuv>
