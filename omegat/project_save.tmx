@@ -3580,7 +3580,8 @@ line-heightは原文の原稿では小文字なのですが、この見出しは
       <note>(太田)
 fauxが訳から落ちているかも。「偽の」「本物でない」「なんちゃって」のような意味で、button要素で実装された真のボタンではなくdivで実装された「ボタンのようなもの」であることを言っています。
 「なんちゃってボタン」「ボタンもどき」くらいでしょうか。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Except this time let’s imagine the faux button is for upvoting some content.</seg>
       </tuv>
@@ -10116,7 +10117,7 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
 次→以下、としました (他がそうだったはずなので)
 ここはまだ例の想定を紹介している段階なので、なります→なっています、とするのが良いかなと。
 
-(伊原) OOK</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The button markup looks like this:</seg>
       </tuv>
@@ -10529,14 +10530,19 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
 「この問題で、不自然で断片化された方法でインターフェイスを評価することになってしまう原因は」
 としてみましたがどうでしょうか。
 
+(伊原) よさそうです。一文がかなり長いという別の課題がありますが、そこはどうでしょうか。
+あと「問題で、不自然で〜方法で」と　で　が連続するので、そのあたりも調整したい感じがあります。
+係り受けをひっくりかえしたほうがいいかも？たとえば以下のような。
+
+&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;をボタンコントロールとして使うような、単純に&lt;g1&gt;まずいアイデア&lt;/g1&gt;を指摘したり避けたりする機会がないと、不自然かつ断片化された方法でインターフェイスを評価することになってしまいます。
 
 
 </note>
       <tuv lang="EN-US">
         <seg>The problem with this contrived and fragmented way of evaluating interfaces is that nobody has the chance to point out and avoid what are simply &lt;g1&gt;bad ideas&lt;/g1&gt;, like using a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; as a button control.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170718T091717Z" creationid="yoota" creationdate="20170714T072619Z">
-        <seg>この問題で、不自然で断片化された方法でインターフェイスを評価することになってしまう原因は、&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;をボタンコントロールとして使うというような、単純に&lt;g1&gt;まずいアイデア&lt;/g1&gt;を指摘したり避けたりする機会がないことです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170720T132131Z" creationid="yoota" creationdate="20170714T072619Z">
+        <seg>&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;をボタンコントロールとして使うような、単純に&lt;g1&gt;まずいアイデア&lt;/g1&gt;を指摘したり避けたりする機会がないと、不自然かつ断片化された方法でインターフェイスを評価することになってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
