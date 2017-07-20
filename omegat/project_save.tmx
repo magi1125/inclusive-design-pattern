@@ -2244,7 +2244,7 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
 (太田)
 壊れる→破綻する、としました。アイコンが壊れて表示されるわけではなく、全く表示されないか豆腐になるか別の文字になるかといった現象です。
 「ユーザーのフォント選択によって壊れる」は訳注必要? 7章できちんとした説明があれば訳注ナシで。
-→7章でそれなりに説明されている模様。</note>
+→7章でそれなりに説明されている模様。訳注ナシでOK</note>
       <tuv lang="EN-US">
         <seg>As I cover in “A Menu Button,” SVG benefits from being scalable, small in file size and — unlike icon fonts — not breakable by user font preferences.</seg>
       </tuv>
@@ -9692,7 +9692,7 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注
+      <note>※訳注あり
 
 (太田)
 CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトルアキの意味に取られがちです。ここではトルツメの意味なので、「取り除く」などが良いでしょう。
