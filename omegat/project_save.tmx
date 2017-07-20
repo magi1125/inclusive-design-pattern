@@ -12291,12 +12291,13 @@ https://ja.wikipedia.org/wiki/Composite_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3
     </tu>
     <tu>
       <note>(太田)
-要検討</note>
+divに小細工するのではなく既存のbutton要素を使う、というのと同様に既にあるものを使うのだという話。
+調整してみましたがどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>We are doing as we set out to do from the very beginning: using what’s already at our disposal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T093022Z" creationid="yoota" creationdate="20170719T093022Z">
-        <seg>最初から目指しているように、すでに自由に使えるものを利用して行っています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T051556Z" creationid="yoota" creationdate="20170719T093022Z">
+        <seg>これは、最初からやろうとしていたことと同じことです。つまり、元から使えるものをそのまま利用するのです。</seg>
       </tuv>
     </tu>
     <tu>
