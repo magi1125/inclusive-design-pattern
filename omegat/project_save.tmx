@@ -2689,8 +2689,8 @@ heading level oneは「見出しレベル1」ですね。
       <tuv lang="EN-US">
         <seg>Both of which are placed in default focus order according to source order, unaffected by Shadow DOM subtrees.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T095029Z" creationid="yoota" creationdate="20170719T095029Z">
-        <seg>どちらもソースの順序に従って、デフォルトのフォーカス順序で配置されていて、Shadow DOMのサブツリーの影響を受けません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T062851Z" creationid="yoota" creationdate="20170719T095029Z">
+        <seg>どちらも、ソースの順序に従ったデフォルトのフォーカス順序で配置され、Shadow DOMのサブツリーの影響を受けません。</seg>
       </tuv>
     </tu>
     <tu>
