@@ -11288,11 +11288,14 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。
+やや分かりにくかったので「だけ」を補いました。</note>
       <tuv lang="EN-US">
         <seg>This is most easily achieved simply by using implicitly focusable elements and — where necessary — elements with &lt;g5&gt;tabindex="0"&lt;/g5&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T094100Z" creationid="yoota" creationdate="20170719T094100Z">
-        <seg>これを最も簡単に実行するには、暗黙的にフォーカス可能な要素、および必要に応じて&lt;g5&gt;tabindex="0"&lt;/g5&gt;を指定した要素を使います。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T062808Z" creationid="yoota" creationdate="20170719T094100Z">
+        <seg>これを最も簡単に実践する方法は、暗黙的にフォーカス可能な要素と、そして――必要に応じて――&lt;g5&gt;tabindex="0"&lt;/g5&gt;を指定した要素だけを使うことです。</seg>
       </tuv>
     </tu>
     <tu>
