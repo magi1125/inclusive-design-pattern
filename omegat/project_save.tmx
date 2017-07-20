@@ -2127,7 +2127,8 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
     </tu>
     <tu>
       <note>(太田)
-誤訳と思われる。要検討</note>
+誤訳と思われる。要検討
+Custom Elements v1を使えるならもっと簡単に書ける、という話をしているはず。</note>
       <tuv lang="EN-US">
         <seg>An easier way to get the basic functionality of a &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; before extending it is to literally &lt;g2&gt;extend&lt;/g2&gt; the &lt;g3&gt;HTMLButtonElement&lt;/g3&gt; prototype.</seg>
       </tuv>
@@ -5810,14 +5811,15 @@ becauseを訳出しました。
     </tu>
     <tu>
       <note>(太田)
-「アクセシビリティが組み込まれた」はやや違和感あり。「アクセシビリティがビルトインされた」とカタカナにするのもありか? 要検討。
+「アクセシビリティが組み込まれた」はやや違和感あり。「アクセシビリティがビルトインされた」とカタカナにするのもありか? 
+いったん「あらかじめ備わった」としてみました。
 後半は少し調整してみました。
 </note>
       <tuv lang="EN-US">
         <seg>In the tradition of &lt;g3&gt;&lt;button&gt;&lt;/g3&gt; we have created an element which has accessibility &lt;g4&gt;built in&lt;/g4&gt;, meaning it can simply be deployed to an interface without having to consider keyboard and screen reader inclusion as separate concerns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T104921Z" creationid="yoota" creationdate="20170719T092333Z">
-        <seg>&lt;g3&gt;&lt;button&gt;&lt;/g3&gt;と同様、アクセシビリティが&lt;g4&gt;組み込まれた&lt;/g4&gt;要素を作りました。つまり、キーボードやスクリーンリーダーのインクルージョンをいちいち考慮する必要がなく、単にインターフェイスとして配置できるということです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T032321Z" creationid="yoota" creationdate="20170719T092333Z">
+        <seg>&lt;g3&gt;&lt;button&gt;&lt;/g3&gt;と同様、アクセシビリティが&lt;g4&gt;あらかじめ備わった&lt;/g4&gt;要素を作りました。つまり、キーボードやスクリーンリーダーのインクルージョンをいちいち考慮する必要がなく、単にインターフェイスとして配置できるということです。</seg>
       </tuv>
     </tu>
     <tu>
