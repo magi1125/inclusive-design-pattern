@@ -8586,12 +8586,13 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
 
 (太田)
 Shadow Boundary問題?
+Shadow DOMは「影DOM」とは訳されないので、少なくともShadowはそのままのほうが良いように思います。
 </note>
       <tuv lang="EN-US">
         <seg>Shadow Boundary Issues</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T093202Z" creationid="yoota" creationdate="20170719T093202Z">
-        <seg>？？影の境界？？の問題【コメント：定訳が確認できませんでした。複数あります。原文「shadow boundary」】</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T051933Z" creationid="yoota" creationdate="20170719T093202Z">
+        <seg>Shadow Boundary問題</seg>
       </tuv>
     </tu>
     <tu>
