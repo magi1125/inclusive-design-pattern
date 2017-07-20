@@ -8881,12 +8881,14 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
 (太田)
 わかりにくいですね。
 Sinceは過去の話をしているはずですが、うーん。
-ちょっと補いつつ調整……。</note>
+ちょっと補いつつ調整……。
+
+(伊原) Web Components 仕様がちょっとアレなので、「の」を追加。一文が長いので「取り入れ始めています。」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Since many organizations are beginning to embrace the &lt;g1&gt;&lt;g2&gt;web component specifications&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;5&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; to compose their patterns, we should look at what needs to be done differently or additionally in terms of inclusive design.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T101113Z" creationid="rikiha" creationdate="20170717T120857Z">
-        <seg>多くの組織がパターンの構成に&lt;g1&gt;&lt;g2&gt;Web Components仕様&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注75）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を取り入れ始めてから、今までと何が違い、追加で何をしなければならなくなったのか、インクルーシブデザインの観点から検討していきましょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170720T133202Z" creationid="rikiha" creationdate="20170717T120857Z">
+        <seg>多くの組織がパターンの構成に&lt;g1&gt;&lt;g2&gt;Web Componentsの仕様&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注75）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を取り入れ始めています。今までと何が違い、追加で何をしなければならなくなったのか、インクルーシブデザインの観点から検討していきましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11471,7 +11473,7 @@ X is as good a place as any to Do. で X は Do するのにうってつけだ�
 「これはおそらくインクルージョンとWeb Componentsの問題に取り組むのにうってつけのトピックでしょう。」
 としてみましたがどうでしょうか。
 
-</note>
+(伊原) なるほど、良さげですが、これ＝見出しとわかるかどうか。</note>
       <tuv lang="EN-US">
         <seg>This is probably as good a place as any to approach the issue of inclusion and web components.</seg>
       </tuv>
