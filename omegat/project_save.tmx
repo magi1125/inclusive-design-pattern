@@ -2388,7 +2388,8 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
 「参照」は違和感があります。
 調整してみました。
 (実際の実装について要調査)
-</note>
+
+実際には tabindex="4" は必ずしも4番目にはならない (1,2,3がないかもしれない) のですが、そこまで細かいツッコミを入れる必要もないですかね。</note>
       <tuv lang="EN-US">
         <seg>As for &lt;g1&gt;tabindex&lt;/g1&gt;, using a positive integer like &lt;g2&gt;tabindex="4"&lt;/g2&gt; will refer to the fourth in focus order within the shadow DOM and &lt;g3&gt;not&lt;/g3&gt; the fourth in focus order within the parent document.</seg>
       </tuv>
