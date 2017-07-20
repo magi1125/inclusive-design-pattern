@@ -10210,12 +10210,14 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
 「うれしいことに」が唐突感があったので、「custom elements の利点は」としました。
 
 「考案」にやや違和感があったので、「自分が考案した独自の要素」→「自分で設計した独自要素」としました。
-</note>
+
+(岡本)
+結び付け→結びつけ</note>
       <tuv lang="EN-US">
         <seg>The joy of custom elements is that you can tie custom style and behavior to an element of your own conception.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T102207Z" creationid="yoota" creationdate="20170719T055238Z">
-        <seg>Custom Elementsの利点は、カスタマイズしたスタイルやふるまいを、自分で設計した独自要素に結び付けられることです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170720T020546Z" creationid="yoota" creationdate="20170719T055238Z">
+        <seg>Custom Elementsの利点は、カスタマイズしたスタイルやふるまいを、自分で設計した独自要素に結びつけられることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13046,12 +13048,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
     <tu>
       <note>(太田)
 後半補いつつ調整。
-</note>
+
+(岡本)
+分かり→わかり</note>
       <tuv lang="EN-US">
         <seg>You could, for example, write all the code for a toggle button and attach it to a &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt; element: a neat package of functionality with a descriptive name.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T102337Z" creationid="yoota" creationdate="20170719T055253Z">
-        <seg>たとえば、トグルボタンのコードを一式書いて、それを&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;要素にアタッチできます。分かりやすい名前の、すっきりした機能をパッケージにすることができるのです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170720T021515Z" creationid="yoota" creationdate="20170719T055253Z">
+        <seg>たとえば、トグルボタンのコードを一式書いて、それを&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;要素にアタッチできます。わかりやすい名前の、すっきりした機能をパッケージにすることができるのです。</seg>
       </tuv>
     </tu>
     <tu>
