@@ -2393,8 +2393,8 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       <tuv lang="EN-US">
         <seg>As for &lt;g1&gt;tabindex&lt;/g1&gt;, using a positive integer like &lt;g2&gt;tabindex="4"&lt;/g2&gt; will refer to the fourth in focus order within the shadow DOM and &lt;g3&gt;not&lt;/g3&gt; the fourth in focus order within the parent document.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T094019Z" creationid="yoota" creationdate="20170719T093956Z">
-        <seg>&lt;g1&gt;tabindex&lt;/g1&gt;に関しては、&lt;g2&gt;tabindex="4"&lt;/g2&gt;などの正の整数を使用すると、Shadow DOM内のフォーカス順序の4番目を参照し、親ドキュメント内のフォーカス順序の4番目は参照&lt;g3&gt;しません&lt;/g3&gt;。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T054359Z" creationid="yoota" creationdate="20170719T093956Z">
+        <seg>&lt;g1&gt;tabindex&lt;/g1&gt;に関しては、&lt;g2&gt;tabindex="4"&lt;/g2&gt;のように正の整数を使用すると、Shadow DOM内のフォーカス順序の4番目を意味することになり、親ドキュメント内のフォーカス順序の4番目はという意味には&lt;g3&gt;なりません&lt;/g3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7326,8 +7326,8 @@ wouldを尊重して「なるでしょう」としてみました。
       <tuv lang="EN-US">
         <seg>Nonetheless, if it did employ Shadow DOM, this would become impossible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T054241Z" creationid="yoota" creationdate="20170719T093927Z">
-        <seg>しかし、Shadow DOMを採用した場合、それは不可能になるでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T054303Z" creationid="yoota" creationdate="20170719T093927Z">
+        <seg>しかし、Shadow DOMを採用すれば、それは不可能になるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
