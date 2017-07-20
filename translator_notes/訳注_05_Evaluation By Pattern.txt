@@ -7,3 +7,11 @@
 参考:
 Web Content Accessibility Guidelines (WCAG) 2.0 - 名前 (name) 
 http://waic.jp/docs/WCAG20/Overview.html#namedef
+
+
+
+>スティーブ・フォルクナーが「<g1><g2>Some stuff that doesn’t work between the DOM and Shadow DOM</g2></g1><g3><g4><g5>（脚注84）</g5></g4></g3>」で書いているように、Shadow Boundaryは、<g6>aria-labelledby</g6>、<g7>aria-describedby</g7>、<g8>aria-controls</g8>などの属性で指定されたリレーションシップを分断してしまいます。
+
+訳注:
+Shadow DOMはコンポーネントをカプセル化して、コンポーネントが外部の影響を受けたり、外部に影響を与えたりしないようにする技術です。ここに書かれているように、コンテンツ側からはShadow DOMの内側の要素を参照できなくなりますが、それは同時に、コンテンツ側のスタイルが意図せずにコンポーネントに影響するようなことを完全に防げるということでもあります。これはShadow DOMの大きなメリットです。
+
