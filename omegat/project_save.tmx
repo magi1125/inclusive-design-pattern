@@ -11990,6 +11990,8 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       <note>(太田)
 shadow boundary (the boundary between the DOM and Shadow DOM) は括弧内に書かれているとおり、Shadow DOMの中にカプセル化された要素が外のDOMから参照できない問題です (問題というか、参照されたり影響を受けたりしないようにするために Shadow DOM があるわけなのですが)。
 
+ここのDOMを「DOMツリー全体」の意味 (他でも見たような)。
+
 「私が認識している」は、ヘイドンさんが気をつけないといけないと思っている点、ということかと思います。</note>
       <tuv lang="EN-US">
         <seg>Two notable differences I’m aware of are the effect the shadow boundary (the boundary between the DOM and Shadow DOM) has on &lt;g1&gt;&lt;g2&gt;ARIA relationship attributes&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, and positive &lt;g6&gt;tabindex&lt;/g6&gt; values.</seg>
