@@ -8115,11 +8115,12 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 読点の位置など微調整。</note>
       <tuv lang="EN-US">
         <seg>Only they affect the behavior of the interface as it is manipulated by the user.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170720T020223Z" creationid="yoota" creationdate="20170719T055229Z">
-        <seg>両者はインターフェイスをユーザーが操作したときに、その動作に影響を与えます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170720T133442Z" creationid="yoota" creationdate="20170719T055229Z">
+        <seg>両者は、ユーザーがインターフェイスを操作したときの動作に影響を与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10353,7 +10354,9 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
 「考案」にやや違和感があったので、「自分が考案した独自の要素」→「自分で設計した独自要素」としました。
 
 (岡本)
-結び付け→結びつけ</note>
+結び付け→結びつけ
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The joy of custom elements is that you can tie custom style and behavior to an element of your own conception.</seg>
       </tuv>
@@ -13245,12 +13248,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
 後半補いつつ調整。
 
 (岡本)
-分かり→わかり</note>
+分かり→わかり
+
+(伊原) パッケージにすることができる➞パッケージにできる、としました。</note>
       <tuv lang="EN-US">
         <seg>You could, for example, write all the code for a toggle button and attach it to a &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt; element: a neat package of functionality with a descriptive name.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170720T021515Z" creationid="yoota" creationdate="20170719T055253Z">
-        <seg>たとえば、トグルボタンのコードを一式書いて、それを&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;要素にアタッチできます。わかりやすい名前の、すっきりした機能をパッケージにすることができるのです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170720T133632Z" creationid="yoota" creationdate="20170719T055253Z">
+        <seg>たとえば、トグルボタンのコードを一式書いて、それを&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;要素にアタッチできます。わかりやすい名前の、すっきりした機能をパッケージにできるのです。</seg>
       </tuv>
     </tu>
     <tu>
