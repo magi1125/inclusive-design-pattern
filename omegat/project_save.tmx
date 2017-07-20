@@ -8585,8 +8585,8 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
 影の境界の問題、でいいですか？
 
 (太田)
-Shadow Boundary問題?
 Shadow DOMは「影DOM」とは訳されないので、少なくともShadowはそのままのほうが良いように思います。
+そのまま「Shadow Boundary問題」でしょうか。
 </note>
       <tuv lang="EN-US">
         <seg>Shadow Boundary Issues</seg>
