@@ -2303,6 +2303,8 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
 
 とはいえ要訳注かも。
 
+(伊原) OK
+
 </note>
       <tuv lang="EN-US">
         <seg>As Steve Faulkner writes in “&lt;g1&gt;&lt;g2&gt;Some stuff that doesn’t work between the DOM and Shadow DOM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;14&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” the shadow boundary effectively severs relationships built using attributes like &lt;g6&gt;aria-labelledby&lt;/g6&gt;, &lt;g7&gt;aria-describedby&lt;/g7&gt; and &lt;g8&gt;aria-controls&lt;/g8&gt;, where one element in the relationship is the other side of a shadow boundary.</seg>
@@ -2397,7 +2399,9 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
 調整してみました。
 (実際の実装について要調査)
 
-実際には tabindex="4" は必ずしも4番目にはならない (1,2,3がないかもしれない) のですが、そこまで細かいツッコミを入れる必要もないですかね。</note>
+実際には tabindex="4" は必ずしも4番目にはならない (1,2,3がないかもしれない) のですが、そこまで細かいツッコミを入れる必要もないですかね。
+
+(伊原) OK. ツッコミは…ネタ的には興味深いですが、話がややこしくなるのでナシでいいかも。</note>
       <tuv lang="EN-US">
         <seg>As for &lt;g1&gt;tabindex&lt;/g1&gt;, using a positive integer like &lt;g2&gt;tabindex="4"&lt;/g2&gt; will refer to the fourth in focus order within the shadow DOM and &lt;g3&gt;not&lt;/g3&gt; the fourth in focus order within the parent document.</seg>
       </tuv>
@@ -7411,7 +7415,9 @@ OK</note>
     </tu>
     <tu>
       <note>(太田)
-すぐ前で「誤解」と言っているので、No は別に訳出しなくてもいいかも。</note>
+すぐ前で「誤解」と言っているので、No は別に訳出しなくてもいいかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>No: they’re autonomous technologies.</seg>
       </tuv>
@@ -7436,6 +7442,7 @@ OK</note>
 単に「しかし」としてみました。
 wouldを尊重して「なるでしょう」としてみました。
 
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Nonetheless, if it did employ Shadow DOM, this would become impossible.</seg>
@@ -10792,7 +10799,9 @@ Theを「先に挙げた」と訳出してみました。
 その他少し調整。
 
 (岡本)
-関連付け→関連づけ</note>
+関連付け→関連づけ
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The toggle button example does not use Shadow DOM, so could still associate itself with an element of ID &lt;g1&gt;#toggleTarget&lt;/g1&gt; using &lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;.</seg>
       </tuv>
@@ -10953,7 +10962,8 @@ convention は他のところでは「慣習」としていたのでここもそ
     <tu>
       <note>(太田)
 「よくある誤解は」で始まりつつも前の話とつながっていないので、語順を調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>There are common misconceptions that all custom elements have shadow DOM included, and that you can only use Shadow DOM with Custom Elements.</seg>
       </tuv>
@@ -11595,7 +11605,9 @@ http://pothos.main.jp/setuzokusi.htm</note>
 調整してみました。
 
 (岡本)
-勧めしません→おすすめしません</note>
+勧めしません→おすすめしません
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This may have some useful applications, but use of explicit &lt;g4&gt;tabindex&lt;/g4&gt; ordering is not advised in any case.</seg>
       </tuv>
