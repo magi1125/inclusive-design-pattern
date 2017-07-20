@@ -2244,7 +2244,9 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
 (太田)
 壊れる→破綻する、としました。アイコンが壊れて表示されるわけではなく、全く表示されないか豆腐になるか別の文字になるかといった現象です。
 「ユーザーのフォント選択によって壊れる」は訳注必要? 7章できちんとした説明があれば訳注ナシで。
-→7章でそれなりに説明されている模様。訳注ナシでOK</note>
+→7章でそれなりに説明されている模様。訳注ナシでOK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>As I cover in “A Menu Button,” SVG benefits from being scalable, small in file size and — unlike icon fonts — not breakable by user font preferences.</seg>
       </tuv>
@@ -2623,7 +2625,9 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
 (太田)
 the previous implementation は div で実装されたボタン、the inclusive upvote buttonは button で実装されたボタンを指すものと思います。そしてone-for-one はreplaceにかかる副詞で、古いボタンを一対一対応で置き換えできる (つまり、例外なく全てを置き換えできる) ので、古いものを駆逐できるという話のように思いました。
 つまり元訳は誤訳で、古い実装と一対一でとって代わる、のだと思います。とはいえ一対一を積極的に訳す必要もなさそうです。
-調整してみました。たぶんこういうことかと。</note>
+調整してみました。たぶんこういうことかと。
+
+(伊原) なるほど、OKです！</note>
       <tuv lang="EN-US">
         <seg>Because the inclusive upvote button replaces the previous implementation one-for-one, the consultant has also helped the organization improve its pattern library.</seg>
       </tuv>
@@ -5535,7 +5539,9 @@ well-matched はよくマッチするということで、システムフォン�
 (太田)
 報告→レポート
 「パターンでレポート」は良く分からない感じがします。
-「パターンを使ってレポート」?</note>
+「パターンを使ってレポート」?
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In reporting by pattern instead, the consultant has the opportunity to recommend alternative approaches and techniques.</seg>
       </tuv>
@@ -9974,7 +9980,9 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
 
 (太田) 土俵とか?
 「開発者と同じ土俵に立って」としてみました。
-has met them and helped them なので過去完了形ですね。文末を「手助けができました」としてみました。</note>
+has met them and helped them なので過去完了形ですね。文末を「手助けができました」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The accessibility consultant (reporter) has met them on their home turf and helped them to improve the interface in an apprehensible and tangible way.</seg>
       </tuv>
@@ -11816,12 +11824,14 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
     <tu>
       <note>(伊原) 画像altを反映しつつ調整。Enhancementは拡張としてみました
 
-(岡本) タグ付け→タグづけ</note>
+(岡本) タグ付け→タグづけ
+
+(伊原) 単なる問題、がちょっと謎だったので、単なる課題としました</note>
       <tuv lang="EN-US">
         <seg>Tickets tagged ‘Enhancement’ and named after patterns, not just problems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170716T134421Z" creationid="yoota" creationdate="20170714T082746Z">
-        <seg>単なる問題としてではなく、パターン名と共に「拡張」とタグ付けされたチケット。賛成ボタン［拡張］、ログイン画面［拡張］、ユーザーアカウントのウィジット［拡張］、タブシステム［拡張］</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170720T132459Z" creationid="yoota" creationdate="20170714T082746Z">
+        <seg>単なる課題としてではなく、パターン名と共に「拡張」とタグ付けされたチケット。賛成ボタン［拡張］、ログイン画面［拡張］、ユーザーアカウントのウィジット［拡張］、タブシステム［拡張］</seg>
       </tuv>
     </tu>
     <tu>
@@ -11871,7 +11881,8 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
 
 (太田)
 「ソリューションです」という言い切りが気になりました。represents の訳が落ちたような気がします。「となるでしょう」くらいにしておけば良いでしょうか。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>To a developer used to working in terms of modules and components, this represents a complete, integrated solution to a problem.</seg>
       </tuv>
@@ -11913,7 +11924,8 @@ shouldなので「しなければならない」は強すぎるかもしれな�
 (太田)
 the redesigned pattern の the を「この」と訳出しました。
 SVGを使ってアイコンを表す→アイコンにSVGを使う、としました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>To complete the redesigned pattern they might recommend the use of an SVG to represent the icon.</seg>
       </tuv>
