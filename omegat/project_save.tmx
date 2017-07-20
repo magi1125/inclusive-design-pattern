@@ -4040,7 +4040,9 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
     </tu>
     <tu>
       <note>(太田)
-2文に分けつつ調整してみました。</note>
+2文に分けつつ調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For the most part, creating inclusive web components is just creating accessible, semantic HTML as usual but inside a new API.</seg>
       </tuv>
@@ -8719,7 +8721,8 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
 (太田)
 Shadow DOMは「影DOM」とは訳されないので、少なくともShadowはそのままのほうが良いように思います。
 しかし「Shadow境界問題」は変な気がします。「Shadow DOM境界問題」と補うか、あるいはそのまま「Shadow Boundary問題」でしょうか。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Shadow Boundary Issues</seg>
       </tuv>
@@ -12198,12 +12201,15 @@ shadow boundary (the boundary between the DOM and Shadow DOM) は括弧内に書
 
 ARIAのrelationshipは青本では「リレーションシップ」にしていました。
 
-2文に分けつつ調整してみました。</note>
+2文に分けつつ調整してみました。
+
+(伊原) 顕著な違いの2つが個別に認識しづらかったので「ひとつは」「もうひとつは」と補いました。
+リレーションシップ属性は初出なので訳注いるかも？</note>
       <tuv lang="EN-US">
         <seg>Two notable differences I’m aware of are the effect the shadow boundary (the boundary between the DOM and Shadow DOM) has on &lt;g1&gt;&lt;g2&gt;ARIA relationship attributes&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, and positive &lt;g6&gt;tabindex&lt;/g6&gt; values.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T053713Z">
-        <seg>ただし、注意が必要な顕著な違いが2つあります。Shadow Boundary（DOMツリー全体とShadow DOMとの間の境界）が&lt;g1&gt;&lt;g2&gt;ARIAのリレーションシップ属性&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注83）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;に及ぼす影響と、正の&lt;g6&gt;tabindex&lt;/g6&gt;値です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170720T135626Z">
+        <seg>ただし、注意が必要な顕著な違いが2つあります。ひとつはShadow Boundary（DOMツリー全体とShadow DOMとの間の境界）が&lt;g1&gt;&lt;g2&gt;ARIAのリレーションシップ属性&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注83）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;に及ぼす影響、もうひとつは正の&lt;g6&gt;tabindex&lt;/g6&gt;値です。</seg>
       </tuv>
     </tu>
     <tu>
