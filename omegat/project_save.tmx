@@ -10620,11 +10620,13 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+Theを「先に挙げた」と訳出してみました。</note>
       <tuv lang="EN-US">
         <seg>The toggle button example does not use Shadow DOM, so could still associate itself with an element of ID &lt;g1&gt;#toggleTarget&lt;/g1&gt; using &lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T093921Z" creationid="yoota" creationdate="20170719T093921Z">
-        <seg>トグルボタンの例はShadow DOMを使っていないので、&lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;を使ってIDが&lt;g1&gt;#toggleTarget&lt;/g1&gt;の要素と関連付けることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T054056Z" creationid="yoota" creationdate="20170719T093921Z">
+        <seg>先に挙げたトグルボタンの例はShadow DOMを使っていないので、IDが&lt;g1&gt;#toggleTarget&lt;/g1&gt;の要素があれば、&lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;を使って関連付けることができます。</seg>
       </tuv>
     </tu>
     <tu>
