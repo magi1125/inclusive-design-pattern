@@ -10777,6 +10777,9 @@ convention は他のところでは「慣習」としていたのでここもそ
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「よくある誤解は」で始まりつつも前の話とつながっていないので、語順を調整してみました。
+</note>
       <tuv lang="EN-US">
         <seg>There are common misconceptions that all custom elements have shadow DOM included, and that you can only use Shadow DOM with Custom Elements.</seg>
       </tuv>
