@@ -5441,6 +5441,16 @@ crypticは「暗号めいた」という感じですが、「もったいぶっ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+metaについては補足が必要か?</note>
+      <tuv lang="EN-US">
+        <seg>In other words, they’re a bit &lt;g1&gt;meta&lt;/g1&gt;: they’re content that helps with content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T063417Z" creationid="yoota" creationdate="20170720T063417Z">
+        <seg>つまり、ナビゲーションランドマークはメタに近い、コンテンツを補助するコンテンツと言えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In other words, you avoid a “Where the hell am I?” moment.</seg>
@@ -7284,6 +7294,14 @@ manageは管理で良いような。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T063305Z" creationid="yoota" creationdate="20170720T063305Z">
         <seg>ナビゲーション領域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigation landmarks, for example, help your audience to traverse your web pages and the content they offer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T063344Z" creationid="yoota" creationdate="20170720T063344Z">
+        <seg>たとえばナビゲーションランドマークは、閲覧者がWebページ間を移動したりコンテンツ内を移動するのに使用されます。</seg>
       </tuv>
     </tu>
     <tu>
