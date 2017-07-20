@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10736,12 +10736,15 @@ sound semantic structureとは。
     <tu>
       <note>(太田)
 Theを「先に挙げた」と訳出してみました。
-その他少し調整。</note>
+その他少し調整。
+
+(岡本)
+関連付け→関連づけ</note>
       <tuv lang="EN-US">
         <seg>The toggle button example does not use Shadow DOM, so could still associate itself with an element of ID &lt;g1&gt;#toggleTarget&lt;/g1&gt; using &lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T054112Z" creationid="yoota" creationdate="20170719T093921Z">
-        <seg>先に挙げたトグルボタンの例はShadow DOMを使っていないので、&lt;g1&gt;#toggleTarget&lt;/g1&gt;というIDの要素があれば、&lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;を使って関連付けることができます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170720T113008Z" creationid="yoota" creationdate="20170719T093921Z">
+        <seg>先に挙げたトグルボタンの例はShadow DOMを使っていないので、&lt;g1&gt;#toggleTarget&lt;/g1&gt;というIDの要素があれば、&lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;を使って関連づけることができます。</seg>
       </tuv>
     </tu>
     <tu>
