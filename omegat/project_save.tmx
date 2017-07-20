@@ -10621,7 +10621,8 @@ sound semantic structureとは。
     </tu>
     <tu>
       <note>(太田)
-Theを「先に挙げた」と訳出してみました。</note>
+Theを「先に挙げた」と訳出してみました。
+その他少し調整。</note>
       <tuv lang="EN-US">
         <seg>The toggle button example does not use Shadow DOM, so could still associate itself with an element of ID &lt;g1&gt;#toggleTarget&lt;/g1&gt; using &lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;.</seg>
       </tuv>
