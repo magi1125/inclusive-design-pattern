@@ -11989,7 +11989,6 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
     <tu>
       <note>(太田)
 shadow boundary (the boundary between the DOM and Shadow DOM) は括弧内に書かれているとおり、Shadow DOMの中にカプセル化された要素が外のDOMから参照できない問題です (問題というか、参照されたり影響を受けたりしないようにするために Shadow DOM があるわけなのですが)。
-これを shadow boundary と呼ぶのはおそらく一般的ではなく、ヘイドンさんがここでこう名づけただけなのではないかと思います。
 
 「私が認識している」は、ヘイドンさんが気をつけないといけないと思っている点、ということかと思います。</note>
       <tuv lang="EN-US">
