@@ -2290,13 +2290,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
     </tu>
     <tu>
       <note>(太田)
+事実上?
 
 </note>
       <tuv lang="EN-US">
         <seg>As Steve Faulkner writes in “&lt;g1&gt;&lt;g2&gt;Some stuff that doesn’t work between the DOM and Shadow DOM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;14&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” the shadow boundary effectively severs relationships built using attributes like &lt;g6&gt;aria-labelledby&lt;/g6&gt;, &lt;g7&gt;aria-describedby&lt;/g7&gt; and &lt;g8&gt;aria-controls&lt;/g8&gt;, where one element in the relationship is the other side of a shadow boundary.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T053212Z" creationid="yoota" creationdate="20170719T093344Z">
-        <seg>スティーブ・フォルクナーが「&lt;g1&gt;&lt;g2&gt;Some stuff that doesn’t work between the DOM and Shadow DOM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注84）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」で書いているように、Shadow Boundaryは、&lt;g6&gt;aria-labelledby&lt;/g6&gt;、&lt;g7&gt;aria-describedby&lt;/g7&gt;、&lt;g8&gt;aria-controls&lt;/g8&gt;などの属性で指定されたリレーションシップを事実上分断します（関係における一方の要素が、Shadow Boundaryの反対側にある場合）。【コメント：同上】</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T053400Z" creationid="yoota" creationdate="20170719T093344Z">
+        <seg>スティーブ・フォルクナーが「&lt;g1&gt;&lt;g2&gt;Some stuff that doesn’t work between the DOM and Shadow DOM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注84）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」で書いているように、&lt;g6&gt;aria-labelledby&lt;/g6&gt;、&lt;g7&gt;aria-describedby&lt;/g7&gt;、&lt;g8&gt;aria-controls&lt;/g8&gt;などの属性で指定されたリレーションシップは、一方の要素がShadow Boundaryの反対側にある場合には分断されてしまいます。【コメント：同上】</seg>
       </tuv>
     </tu>
     <tu>
