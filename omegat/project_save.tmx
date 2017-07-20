@@ -2128,12 +2128,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
     <tu>
       <note>(太田)
 誤訳と思われる。要検討
-Custom Elements v1を使えるならもっと簡単に書ける、という話をしているはず。</note>
+Custom Elements v1を使えるならもっと簡単に書ける、という話をしているはず。
+2文に分けました。
+</note>
       <tuv lang="EN-US">
         <seg>An easier way to get the basic functionality of a &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; before extending it is to literally &lt;g2&gt;extend&lt;/g2&gt; the &lt;g3&gt;HTMLButtonElement&lt;/g3&gt; prototype.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T092520Z" creationid="yoota" creationdate="20170719T092520Z">
-        <seg>&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;の基本機能を得てからそれを簡単に拡張するには、文字通り&lt;g3&gt;HTMLButtonElement&lt;/g3&gt;プロトタイプを&lt;g2&gt;拡張&lt;/g2&gt;します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T033001Z" creationid="yoota" creationdate="20170719T092520Z">
+        <seg>もっと簡単に、まず&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;の基本機能を持たせてから、それを拡張するというやり方もあります。文字通り、&lt;g3&gt;HTMLButtonElement&lt;/g3&gt;プロトタイプを&lt;g2&gt;拡張&lt;/g2&gt;するのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12173,12 +12175,13 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     </tu>
     <tu>
       <note>(太田)
-以下のように書くことができます、かなと。</note>
+以下のように書くことができます、かなと。
+調整しました。</note>
       <tuv lang="EN-US">
         <seg>Using Custom Elements v1 with ES2015/ES6 syntax, we can write what follows.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T092713Z" creationid="yoota" creationdate="20170719T092713Z">
-        <seg>ES2015/ES6構文でCustom Elements v1を使用し、以下を記述できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T033016Z" creationid="yoota" creationdate="20170719T092713Z">
+        <seg>ES2015/ES6構文でCustom Elements v1を使用すれば、以下のように書くことができます。</seg>
       </tuv>
     </tu>
     <tu>
