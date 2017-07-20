@@ -2468,12 +2468,13 @@ ARIAのrelationshipは青本では「リレーションシップ」にしてい�
       <note>(太田)
 「HTMLButtonElementを加えている」のではなく、HTMLButtonElementをベースにして独自機能を加えているという話です。
 直訳だと「私はHTMLButtonElementを背負っているため」となりますが、意訳して「HTMLButtonElementをベースにしているため」くらいで良いのではないかと思います。
-</note>
+
+除外することができました→書かなくてすみました、くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>As you can see, now that I’m piggybacking the &lt;g1&gt;HTMLButtonElement&lt;/g1&gt;, I have been able to exclude the &lt;g2&gt;tabindex&lt;/g2&gt; and &lt;g3&gt;role&lt;/g3&gt; attributes, as well as the ugly &lt;g4&gt;keydown&lt;/g4&gt; event dispatching script.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T092750Z" creationid="yoota" creationdate="20170719T092750Z">
-        <seg>ご覧のとおり、&lt;g1&gt;HTMLButtonElement&lt;/g1&gt;を加えているため、tabindex属性とrole属性だけでなく、keydownイベントをディスパッチする見苦しいスクリプトも除外することができました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170720T033246Z" creationid="yoota" creationdate="20170719T092750Z">
+        <seg>ご覧のとおり、&lt;g1&gt;HTMLButtonElement&lt;/g1&gt;をベースにしているため、tabindex属性とrole属性だけでなく、keydownイベントをディスパッチする見苦しいスクリプトも除外することができました。</seg>
       </tuv>
     </tu>
     <tu>
