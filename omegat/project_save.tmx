@@ -5,6 +5,7 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; For a comparison of Custom Elements versions 0 and 1, see Shawn Allen’s “&lt;g2&gt;&lt;g3&gt;All about HTML Custom Elements&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.”)</seg>
       </tuv>
@@ -4940,7 +4941,9 @@ actionableは「実用的でない」のではなく、実行できない、動�
 少し補って「押しても動作せず」としてみました。
 
 (岡本)
-お分かり→おわかり</note>
+お分かり→おわかり
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>If you’ve been following along, you’ll know what that means: it’s not focusable or actionable, and doesn’t have the &lt;g1&gt;button&lt;/g1&gt; role that announces it as a button in screen readers — just like the remediated &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; button I was talking about earlier in the chapter.</seg>
       </tuv>
@@ -5309,7 +5312,9 @@ it = トランスクリプトと補わないと分かりにくいかも。
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In fact, it is merely an instance of &lt;g10&gt;&lt;g11&gt;&lt;g12&gt;HTMLElement&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;10&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;, much like a &lt;g16&gt;&lt;div&gt;&lt;/g16&gt;.</seg>
       </tuv>
@@ -9486,7 +9491,8 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
     <tu>
       <note>(太田)
 ブラウザでの適正な要素とされていますが→ブラウザでは適切な要素として扱われますが
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>That new element, although accepted as a legitimate element in browsers supporting &lt;g1&gt;registerElement&lt;/g1&gt; or &lt;g2&gt;customElements.define&lt;/g2&gt;, does not have the standard behaviors of a &lt;g3&gt;&lt;button&gt;&lt;/g3&gt; element.</seg>
       </tuv>
@@ -12082,7 +12088,9 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
     </tu>
     <tu>
       <note>(太田)
-文末すこし調整。</note>
+文末すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>To put it another way, it is not an instance of the &lt;g4&gt;&lt;g5&gt;&lt;g6&gt;HTMLButtonElement&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;9&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt; prototype.</seg>
       </tuv>
