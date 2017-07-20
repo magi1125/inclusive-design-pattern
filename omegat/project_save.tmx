@@ -2127,9 +2127,7 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
     </tu>
     <tu>
       <note>(太田)
-誤訳と思われる。要検討
-Custom Elements v1を使えるならもっと簡単に書ける、という話をしているはず。
-2文に分けました。
+Custom Elements v1を使えるならもっと簡単に書ける、という話をしているはず。わかりにくいので2文に分けてみました。
 </note>
       <tuv lang="EN-US">
         <seg>An easier way to get the basic functionality of a &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; before extending it is to literally &lt;g2&gt;extend&lt;/g2&gt; the &lt;g3&gt;HTMLButtonElement&lt;/g3&gt; prototype.</seg>
