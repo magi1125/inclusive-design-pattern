@@ -2044,7 +2044,9 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>All we need to do now is handle that &lt;g2&gt;click&lt;/g2&gt; event to switch the state.</seg>
       </tuv>
@@ -3698,7 +3700,9 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
     <tu>
       <note>(太田)
 原文は一文で、tooを訳出する都合で2文に分けたのだと思いますが、tooはなくても通じるのでシンプルにしてみました。
-リスナー→イベントリスナーと補いました。</note>
+リスナー→イベントリスナーと補いました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>First we add the listener by placing this inside the &lt;g3&gt;createdCallback&lt;/g3&gt; too:</seg>
       </tuv>
@@ -5603,7 +5607,9 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       <note>(太田)
 対策→機能?
 「独自の要素定義を必要とする」は誤訳で「その要素自身が独自に定義したトグル機能をも持ちます」くらいかと。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In terms of semantics and behavior, our &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt; now has all the accessibility provisions of &lt;g2&gt;&lt;button&gt;&lt;/g2&gt;, but also the toggle functionality which makes it deserving of its own element definition.</seg>
       </tuv>
@@ -5877,7 +5883,8 @@ becauseを訳出しました。
 「アクセシビリティが組み込まれた」はやや違和感あり。「アクセシビリティがビルトインされた」とカタカナにするのもありか? 
 いったん「あらかじめ備わった」としてみました。
 後半は少し調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the tradition of &lt;g3&gt;&lt;button&gt;&lt;/g3&gt; we have created an element which has accessibility &lt;g4&gt;built in&lt;/g4&gt;, meaning it can simply be deployed to an interface without having to consider keyboard and screen reader inclusion as separate concerns.</seg>
       </tuv>
@@ -10037,7 +10044,7 @@ has met them and helped them なので過去完了形ですね。文末を「手
 (岡本)
 良い→よい
 
-(伊原) ここでいう「インターフェイスが」は制作者にとってのものであり、UIではないので、「コードが」と置き換えてもよいかも？あと「インスタンス化」も若干謎です。調整してみました。
+(伊原) ここでいう「インターフェイスが」は制作者にとってのものであり、UIではないので、「コードが」と置き換えてもよいかも？あと「インスタンス化」も若干謎です。ここでのインスタンス化というのはタグをコピペするというようなことかなと。調整してみました。
 </note>
       <tuv lang="EN-US">
         <seg>The advantage of adding these attributes and behaviors as part of the element’s definition is that the interface remains clean to authors — they only have to instantiate &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;.</seg>
@@ -10870,7 +10877,8 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
     <tu>
       <note>(太田)
 実際のtoggle()メソッド→toggle()メソッドの実体としました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Then we need to create the actual &lt;g1&gt;toggle()&lt;/g1&gt; method.</seg>
       </tuv>
