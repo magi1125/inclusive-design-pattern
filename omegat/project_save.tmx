@@ -2131,7 +2131,8 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
     <tu>
       <note>(太田)
 Custom Elements v1を使えるならもっと簡単に書ける、という話をしているはず。わかりにくいので2文に分けてみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>An easier way to get the basic functionality of a &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; before extending it is to literally &lt;g2&gt;extend&lt;/g2&gt; the &lt;g3&gt;HTMLButtonElement&lt;/g3&gt; prototype.</seg>
       </tuv>
@@ -2478,7 +2479,9 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
 「HTMLButtonElementを加えている」のではなく、HTMLButtonElementをベースにして独自機能を加えているという話です。
 直訳だと「私はHTMLButtonElementを背負っているため」となりますが、意訳して「HTMLButtonElementをベースにしているため」くらいで良いのではないかと思います。
 
-除外することができました→書かずにすみました、くらいでしょうか。</note>
+除外することができました→書かずにすみました、くらいでしょうか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>As you can see, now that I’m piggybacking the &lt;g1&gt;HTMLButtonElement&lt;/g1&gt;, I have been able to exclude the &lt;g2&gt;tabindex&lt;/g2&gt; and &lt;g3&gt;role&lt;/g3&gt; attributes, as well as the ugly &lt;g4&gt;keydown&lt;/g4&gt; event dispatching script.</seg>
       </tuv>
@@ -4316,6 +4319,7 @@ blog post as found at its permalinkは、パーマリンクをたどった先で
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Here’s a &lt;g1&gt;&lt;g2&gt;demo of this little toggle button implementation, using Custom Elements v0&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
@@ -6583,7 +6587,9 @@ http://eow.alc.co.jp/search?q=right%20way
     </tu>
     <tu>
       <note>(太田)
-少し補いつつ調整してみました。</note>
+少し補いつつ調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It’s more reliable, efficient, and just plain easier.</seg>
       </tuv>
@@ -7656,7 +7662,9 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
     </tu>
     <tu>
       <note>(太田)
-OK</note>
+OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Note that in Custom Elements v1, &lt;g4&gt;createdCallback&lt;/g4&gt; is not necessary:</seg>
       </tuv>
@@ -12383,7 +12391,9 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     <tu>
       <note>(太田)
 以下のように書くことができます、かなと。
-調整しました。</note>
+調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Using Custom Elements v1 with ES2015/ES6 syntax, we can write what follows.</seg>
       </tuv>
@@ -12498,7 +12508,9 @@ https://ja.wikipedia.org/wiki/Composite_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3
     <tu>
       <note>(太田)
 divに小細工するのではなく既存のbutton要素を使う、というのと同様に既にあるものを使うのだという話。
-調整してみましたがどうでしょうか。</note>
+調整してみましたがどうでしょうか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We are doing as we set out to do from the very beginning: using what’s already at our disposal.</seg>
       </tuv>
