@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4902,12 +4902,14 @@ by name は「バイネームで」でも良いのかもしれないですね。
       <note>(太田)
 actionableは「実用的でない」のではなく、実行できない、動作しないのような意味かと。
 少し補って「押しても動作せず」としてみました。
-</note>
+
+(岡本)
+お分かり→おわかり</note>
       <tuv lang="EN-US">
         <seg>If you’ve been following along, you’ll know what that means: it’s not focusable or actionable, and doesn’t have the &lt;g1&gt;button&lt;/g1&gt; role that announces it as a button in screen readers — just like the remediated &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; button I was talking about earlier in the chapter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T102841Z" creationid="yoota" creationdate="20170719T055521Z">
-        <seg>ここまで読み進めた皆さんには、それが何を意味するかお分かりでしょう。フォーカスできず、押しても動作せず、スクリーンリーダーでボタンであることを知らせる&lt;g1&gt;button&lt;/g1&gt;ロールも持っていないボタン――つまり先ほど説明した、修正を加えた&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;ボタンと同じようなものだということです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170720T024508Z" creationid="yoota" creationdate="20170719T055521Z">
+        <seg>ここまで読み進めた皆さんには、それが何を意味するかおわかりでしょう。フォーカスできず、押しても動作せず、スクリーンリーダーでボタンであることを知らせる&lt;g1&gt;button&lt;/g1&gt;ロールも持っていないボタン――つまり先ほど説明した、修正を加えた&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;ボタンと同じようなものだということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9884,7 +9886,10 @@ has met them and helped them なので過去完了形ですね。文末を「手
     </tu>
     <tu>
       <note>(太田)
-原文に合わせる形で調整。</note>
+原文に合わせる形で調整。
+
+(岡本)
+良い→よい</note>
       <tuv lang="EN-US">
         <seg>The advantage of adding these attributes and behaviors as part of the element’s definition is that the interface remains clean to authors — they only have to instantiate &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;.</seg>
       </tuv>
