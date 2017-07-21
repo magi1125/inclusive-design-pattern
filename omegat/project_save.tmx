@@ -10093,8 +10093,8 @@ has met them and helped them なので過去完了形ですね。文末を「手
       <tuv lang="EN-US">
         <seg>The advantage of adding these attributes and behaviors as part of the element’s definition is that the interface remains clean to authors — they only have to instantiate &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170721T085139Z" creationid="yoota" creationdate="20170719T092031Z">
-        <seg>このように、属性やふるまいを要素の定義の中に追加するメリットは、制作者にとってコードがすっきりと見やすいものになることです――彼らはただ&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;と書くだけでよいのです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170721T085251Z" creationid="yoota" creationdate="20170719T092031Z">
+        <seg>このように、要素の定義の中に属性やふるまいの指定を追加することで、コードがすっきりと見やすいものになります――制作者はただ、&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;のインスタンスを作るだけでよいのです。</seg>
       </tuv>
     </tu>
     <tu>
