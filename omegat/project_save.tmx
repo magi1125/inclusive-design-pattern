@@ -10089,6 +10089,7 @@ has met them and helped them なので過去完了形ですね。文末を「手
 (太田)
 プログラマとしては「インスタンス化」は普通に使いますし、タグのコピペとは少しニュアンスが違います。インスタンス化するだけで良いというのは、初期化後に余計なメソッドを呼ぶ必要がないということです (createdCallBackの中にあるコードが勝手に実行されるから別途実行しなくても良いということ)。
 
+全体的に調整してみました。
 </note>
       <tuv lang="EN-US">
         <seg>The advantage of adding these attributes and behaviors as part of the element’s definition is that the interface remains clean to authors — they only have to instantiate &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;.</seg>
