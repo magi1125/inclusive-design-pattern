@@ -8944,12 +8944,15 @@ Good!</note>
       <note>(太田)
 調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+括弧内をそのまま読むと「押されていないの状態」となって変だったので、「の」の位置を調整しました。</note>
       <tuv lang="EN-US">
         <seg>Since our toggle button will initialize in the off (unpressed) state, we should also add &lt;g1&gt;aria-pressed="false"&lt;/g1&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170719T103812Z" creationid="yoota" creationdate="20170719T091618Z">
-        <seg>このトグルボタンをオフ（押されていない）の状態で初期化するため、&lt;g1&gt;aria-pressed="false"&lt;/g1&gt;も追加します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170721T083307Z" creationid="yoota" creationdate="20170719T091618Z">
+        <seg>このトグルボタンをオフの（押されていない）状態で初期化するため、&lt;g1&gt;aria-pressed="false"&lt;/g1&gt;も追加します。</seg>
       </tuv>
     </tu>
     <tu>
