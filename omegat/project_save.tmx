@@ -10083,6 +10083,9 @@ has met them and helped them なので過去完了形ですね。文末を「手
 良い→よい
 
 (伊原) ここでいう「インターフェイスが」は制作者にとってのものであり、UIではないので、「コードが」と置き換えてもよいかも？あと「インスタンス化」も若干謎です。ここでのインスタンス化というのはタグをコピペするというようなことかなと。調整してみました。
+
+(太田)
+プログラマとしては「インスタンス化」は普通に使いますし、タグのコピペとは少しニュアンスが違います。インスタンス化するだけで良いというのは、初期化時に余計なメソッドを呼ぶ必要がないということです (createdCallBackの中にあるコードが勝手に実行されるから別途実行しなくても良いということ)。
 </note>
       <tuv lang="EN-US">
         <seg>The advantage of adding these attributes and behaviors as part of the element’s definition is that the interface remains clean to authors — they only have to instantiate &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;.</seg>
