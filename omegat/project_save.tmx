@@ -2132,12 +2132,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       <note>(太田)
 Custom Elements v1を使えるならもっと簡単に書ける、という話をしているはず。わかりにくいので2文に分けてみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　通り→とおり</note>
       <tuv lang="EN-US">
         <seg>An easier way to get the basic functionality of a &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; before extending it is to literally &lt;g2&gt;extend&lt;/g2&gt; the &lt;g3&gt;HTMLButtonElement&lt;/g3&gt; prototype.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T033001Z" creationid="yoota" creationdate="20170719T092520Z">
-        <seg>もっと簡単に、まず&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;の基本機能を持たせてから、それを拡張するというやり方もあります。文字通り、&lt;g3&gt;HTMLButtonElement&lt;/g3&gt;プロトタイプを&lt;g2&gt;拡張&lt;/g2&gt;するのです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170721T021605Z" creationid="yoota" creationdate="20170719T092520Z">
+        <seg>もっと簡単に、まず&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;の基本機能を持たせてから、それを拡張するというやり方もあります。文字どおり、&lt;g3&gt;HTMLButtonElement&lt;/g3&gt;プロトタイプを&lt;g2&gt;拡張&lt;/g2&gt;するのです。</seg>
       </tuv>
     </tu>
     <tu>
