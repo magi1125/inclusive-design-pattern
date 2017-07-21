@@ -10085,7 +10085,8 @@ has met them and helped them なので過去完了形ですね。文末を「手
 (伊原) ここでいう「インターフェイスが」は制作者にとってのものであり、UIではないので、「コードが」と置き換えてもよいかも？あと「インスタンス化」も若干謎です。ここでのインスタンス化というのはタグをコピペするというようなことかなと。調整してみました。
 
 (太田)
-プログラマとしては「インスタンス化」は普通に使いますし、タグのコピペとは少しニュアンスが違います。インスタンス化するだけで良いというのは、初期化時に余計なメソッドを呼ぶ必要がないということです (createdCallBackの中にあるコードが勝手に実行されるから別途実行しなくても良いということ)。
+プログラマとしては「インスタンス化」は普通に使いますし、タグのコピペとは少しニュアンスが違います。インスタンス化するだけで良いというのは、初期化後に余計なメソッドを呼ぶ必要がないということです (createdCallBackの中にあるコードが勝手に実行されるから別途実行しなくても良いということ)。
+
 </note>
       <tuv lang="EN-US">
         <seg>The advantage of adding these attributes and behaviors as part of the element’s definition is that the interface remains clean to authors — they only have to instantiate &lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;.</seg>
@@ -12244,7 +12245,11 @@ ARIAのrelationshipは青本では「リレーションシップ」にしてい�
 2文に分けつつ調整してみました。
 
 (伊原) 顕著な違いの2つが個別に認識しづらかったので「ひとつは」「もうひとつは」と補いました。
-リレーションシップ属性は初出なので訳注いるかも？</note>
+リレーションシップ属性は初出なので訳注いるかも？
+
+(太田)
+OK
+リレーションシップは脚注がありますが訳注要りますかね?</note>
       <tuv lang="EN-US">
         <seg>Two notable differences I’m aware of are the effect the shadow boundary (the boundary between the DOM and Shadow DOM) has on &lt;g1&gt;&lt;g2&gt;ARIA relationship attributes&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, and positive &lt;g6&gt;tabindex&lt;/g6&gt; values.</seg>
       </tuv>
