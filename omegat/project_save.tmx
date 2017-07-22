@@ -1736,6 +1736,14 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A bullet list of blue, underlined links.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233846Z" creationid="rikiha" creationdate="20170722T233846Z">
+        <seg>CSSが壊れていたり見つからないケースは珍しくなく、このように表示されてもナビゲーションブロックと認識できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのlargeは文字の大きさではなくフォントの数の話と思われます。
 
 (伊原) LGTM</note>
@@ -3158,6 +3166,14 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By using an unordered list, we evoke the rudimentary navigation schemas possible in HTML4 and XHTML and build on a recognized convention.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233804Z" creationid="rikiha" creationdate="20170722T233804Z">
+        <seg>番号なしリストを用いることで、HTML4やHTMLにも対応した基本のナビゲーションスキーマを利用して、広く認められた慣習に基づいたナビゲーションを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) virtue of relativity はヘイドン的フレーズで virtue は「美徳」のような意味ですね。「美しい相対化」のような感じでしょうか。
 
 (伊原) LGTM</note>
@@ -3849,6 +3865,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For &lt;g1&gt;site&lt;/g1&gt; navigation, these links would pertain to the different pages available in your site or application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233759Z" creationid="rikiha" creationdate="20170722T233759Z">
+        <seg>サイトナビゲーションの場合、これらのリンクはサイトやアプリケーションからアクセスできるさまざまなページに関連付けられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a long time, we’ve been getting the answers to these questions epically, tragicomically &lt;g1&gt;wrong&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084504Z" creationid="okamoto_jun" creationdate="20170627T084504Z">
@@ -4089,6 +4113,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T052312Z" creationid="yoota" creationdate="20170719T093225Z">
         <seg>ほとんどの場合、インクルーシブなWebコンポーネントの作成は、アクセシブルでセマンティックなHTMLをいつものように作り出しているにすぎません。ただ、それを新しいAPIの中で行っているだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the purposes of accessible UX, progressive enhancement and backwards compatibility, landmark regions should contain an unordered list of links.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233753Z" creationid="rikiha" creationdate="20170722T233753Z">
+        <seg>アクセシブルなUX（ユーザー体験）、プログレッシブエンハンスメント、後方互換性を考慮に入れると、ランドマーク領域にはリンクの番号なしリストを含めるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6945,6 +6977,14 @@ implementationを例→実装としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Just by using a list, we’re being inclusive of older users and devices, assistive technology users and those who are experiencing a CSS failure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233816Z" creationid="rikiha" creationdate="20170722T233816Z">
+        <seg>リストを使うだけで、高齢のユーザー、古いデバイス、支援技術ユーザー、さらにはCSSエラーが生じてしまったユーザーでも利用できるインクルーシブなナビゲーションになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 微妙に誤訳なので調整。あとJust感を出した。
 
 (太田) 「グローバルインストール」がなんのこっちゃ感がありそうなので、「npm -g でグローバルインストールして」くらい補ってもいいのかも。
@@ -7719,6 +7759,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T093933Z" creationid="okamoto_jun" creationdate="20170627T093933Z">
         <seg>このヘルパー関数は処理を遅くしますが、それ以前に、そもそも信頼できないものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not only that, but when CSS fails, the familiar form of a bulleted list containing blue, underlined text acts as a visual signifier that this content has a navigational purpose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233812Z" creationid="rikiha" creationdate="20170722T233812Z">
+        <seg>さらにCSSでエラーが生じても、おなじみの箇条書きのリストと青い下線が引かれたテキストを見れば、このコンテンツがナビゲーション目的のものであることが分かります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10582,6 +10630,14 @@ separateは物理的に分割するイメージかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170606T023647Z" creationid="yoota" creationdate="20170606T023051Z">
         <seg>以下の例のリンクはすべて、実際のリンク先の場所を示しており、読点――と、「そして」という単語――によってそれぞれが分割されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The list groups the links, conveying accessibly that they have a common and shared purpose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233809Z" creationid="rikiha" creationdate="20170722T233809Z">
+        <seg>リストでリンクをグループ化すれば、それらのリンクに共通の目的があることがアクセシブルに伝わります。</seg>
       </tuv>
     </tu>
     <tu>
