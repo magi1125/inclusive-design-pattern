@@ -3474,8 +3474,8 @@ visual designはそのままビジュアルデザインでいいかも。
       <tuv lang="EN-US">
         <seg>Discrete areas of web pages are variously referred to as &lt;g1&gt;regions&lt;/g1&gt;, &lt;g2&gt;blocks&lt;/g2&gt; or &lt;g3&gt;modules&lt;/g3&gt; and denote the visual boxes that demarcate parts of that page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T224143Z" creationid="rikiha" creationdate="20170722T131817Z">
-        <seg>Webページ内の各部の呼び方は領域、ブロック、モジュールなどさまざまあり、それらは目に見えるボックスによる区切りを指しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T224311Z" creationid="rikiha" creationdate="20170722T131817Z">
+        <seg>Webページ内の各部の呼び方は&lt;g1&gt;領域&lt;/g1&gt;、&lt;g2&gt;ブロック&lt;/g2&gt;、&lt;g3&gt;モジュール&lt;/g3&gt;などさまざまありますが、いずれも目に見えるボックスによる区切りを指しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10101,8 +10101,8 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       <tuv lang="EN-US">
         <seg>The WAI-ARIA specification offers a handful of &lt;g4&gt;&lt;g5&gt;landmark roles&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;2&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; such as &lt;g9&gt;role="main"&lt;/g9&gt;, which define semantics and behaviors to make common regions accessible in assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T131821Z" creationid="rikiha" creationdate="20170722T131821Z">
-        <seg>WAI-ARIAの仕様に定められているいくつかのランドマークロール（脚注86）（role="main"など）を使ってセマンティクスや動作を定義すれば、支援技術で利用できるアクセシブルな共通の領域を作ることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T225209Z" creationid="rikiha" creationdate="20170722T131821Z">
+        <seg>WAI-ARIAが提供する（role="main"などの）&lt;g4&gt;&lt;g5&gt;ランドマークロール&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注86）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;&lt;g9&gt;&lt;/g9&gt;は、セマンティクスや動作を定義すれば、支援技術に対して各領域をアクセシブルにできます。</seg>
       </tuv>
     </tu>
     <tu>
