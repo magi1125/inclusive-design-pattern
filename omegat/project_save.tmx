@@ -4090,11 +4090,12 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 目指すのであれば〜はちょっと違うかなと。インクルージョンという語は既出なので使用しました。</note>
       <tuv lang="EN-US">
         <seg>For the purposes of inclusion, our navigation regions should also be navigation &lt;g1&gt;landmarks&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T131844Z" creationid="rikiha" creationdate="20170722T131844Z">
-        <seg>インクルーシブデザインを目指すのであれば、ナビゲーション領域もナビゲーションランドマークにすべきです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T231418Z" creationid="rikiha" creationdate="20170722T131844Z">
+        <seg>インクルージョンのために、ナビゲーション領域もまたナビゲーションランドマークとすべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9778,11 +9779,12 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) WAI-ARIAロールが掛かる位置が違うので調整。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; element and &lt;g2&gt;role="main"&lt;/g2&gt; WAI-ARIA role map to each other, offering the same semantics and behaviors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T230325Z" creationid="rikiha" creationdate="20170722T131830Z">
-        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素と&lt;g2&gt;role="main"&lt;/g2&gt;はWAI-ARIAロールとしては相互にマッピングされており、同じセマンティクスと動作を提供します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T230400Z" creationid="rikiha" creationdate="20170722T131830Z">
+        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素と&lt;g2&gt;role="main"&lt;/g2&gt;はWAI-ARIAロールとしては相互にマッピングされており、同じセマンティクスとふるまいを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10102,8 +10104,8 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       <tuv lang="EN-US">
         <seg>The WAI-ARIA specification offers a handful of &lt;g4&gt;&lt;g5&gt;landmark roles&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;2&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; such as &lt;g9&gt;role="main"&lt;/g9&gt;, which define semantics and behaviors to make common regions accessible in assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T225803Z" creationid="rikiha" creationdate="20170722T131821Z">
-        <seg>WAI-ARIAが提供する（role="main"などの）&lt;g4&gt;&lt;g5&gt;ランドマークロール&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注86）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;&lt;g9&gt;&lt;/g9&gt;は、Webサイトで共通する領域を支援技術に対してアクセシブルにするためのセマンティクスと振る舞いを定義しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T230329Z" creationid="rikiha" creationdate="20170722T131821Z">
+        <seg>WAI-ARIAが提供する（role="main"などの）&lt;g4&gt;&lt;g5&gt;ランドマークロール&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注86）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;&lt;g9&gt;&lt;/g9&gt;は、Webサイトで共通する領域を支援技術に対してアクセシブルにするためのセマンティクスとふるまいを定義しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13381,6 +13383,7 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>You can use either but &lt;g3&gt;&lt;main&gt;&lt;/g3&gt; is terser, as the following example attests.</seg>
       </tuv>
