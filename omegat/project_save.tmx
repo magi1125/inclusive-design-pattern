@@ -917,11 +917,12 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 多少補いつつ調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The content inside navigation landmarks that appear on multiple pages (such as a common site navigation block) should be consistent between those pages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T131906Z" creationid="rikiha" creationdate="20170722T131906Z">
-        <seg>• 複数のページに表示されるナビゲーションランドマークのコンテンツ（共通のサイトナビゲーションブロックなど）は、それらのページすべてで一貫していなければならない。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T232519Z" creationid="rikiha" creationdate="20170722T131906Z">
+        <seg>• Webサイト内の各ページで表示されるナビゲーションランドマーク内のコンテンツ（共通のサイトナビゲーションブロックなど）は、各ページ間で一貫している必要がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1071,6 +1072,7 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;You can have more than one navigation landmark per page.</seg>
       </tuv>
