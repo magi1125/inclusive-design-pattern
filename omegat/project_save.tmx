@@ -917,6 +917,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The content inside navigation landmarks that appear on multiple pages (such as a common site navigation block) should be consistent between those pages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T131906Z" creationid="rikiha" creationdate="20170722T131906Z">
+        <seg>• 複数のページに表示されるナビゲーションランドマークのコンテンツ（共通のサイトナビゲーションブロックなど）は、それらのページすべてで一貫していなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 括弧書きは原文にもありますが引用元にはなく、ヘイドンさんが付け加えた感想と思われます。原著でもそのことは書かれていないのですが、「!」をつけることで引用文の地の文とは違うという雰囲気にしているのかもしれません。ちょっと口語っぽい訳にすると良いのかもしれないと思いました。
 「きちんとレスポンシブデザインを作らない」という表現では全くレスポンシブしないものも含まれそうですが、原文はそうではありません。「レスポンシブデザインの作りかたがまずい」としてみました。
 
@@ -1060,6 +1068,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T032858Z" creationid="yoota" creationdate="20170512T032858Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;パラグラフ、文章、単語は短くする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;You can have more than one navigation landmark per page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T131901Z" creationid="rikiha" creationdate="20170722T131901Z">
+        <seg>• ナビゲーションランドマークは1つのページに複数設定できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4070,6 +4086,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T052312Z" creationid="yoota" creationdate="20170719T093225Z">
         <seg>ほとんどの場合、インクルーシブなWebコンポーネントの作成は、アクセシブルでセマンティックなHTMLをいつものように作り出しているにすぎません。ただ、それを新しいAPIの中で行っているだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the purposes of inclusion, our navigation regions should also be navigation &lt;g1&gt;landmarks&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T131844Z" creationid="rikiha" creationdate="20170722T131844Z">
+        <seg>インクルーシブデザインを目指すのであれば、ナビゲーション領域もナビゲーションランドマークにすべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7385,6 +7409,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Navigation landmarks, denoted either by the &lt;g2&gt;role="navigation"&lt;/g2&gt; WAI-ARIA role or the &lt;g3&gt;&lt;nav&gt;&lt;/g3&gt; element, differ in two key ways to main landmarks:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T131858Z" creationid="rikiha" creationdate="20170722T131858Z">
+        <seg>role="navigation"（WAI-ARIAロール）または&lt;nav&gt;要素で示されるナビゲーションランドマークは、メインランドマークと主に2つの点が異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 ここまでおおむね「閲覧者」は「ユーザー」としているようです。
 
@@ -9745,6 +9777,14 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; element and &lt;g2&gt;role="main"&lt;/g2&gt; WAI-ARIA role map to each other, offering the same semantics and behaviors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T131830Z" creationid="rikiha" creationdate="20170722T131830Z">
+        <seg>&lt;main&gt;要素とWAI-ARIAロールのrole="main"は相互にマッピングされ、同じセマンティクスと動作を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 読み上げるのか? mainに飛ぶ機能などは提供されますが、読み上げられるわけではないような。
 ひとまず「通知されます」としてみました。
 
@@ -10054,6 +10094,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T054914Z" creationid="yoota" creationdate="20170510T054914Z">
         <seg>書体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The WAI-ARIA specification offers a handful of &lt;g4&gt;&lt;g5&gt;landmark roles&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;2&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; such as &lt;g9&gt;role="main"&lt;/g9&gt;, which define semantics and behaviors to make common regions accessible in assistive technologies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T131821Z" creationid="rikiha" creationdate="20170722T131821Z">
+        <seg>WAI-ARIAの仕様に定められているいくつかのランドマークロール（脚注86）（role="main"など）を使ってセマンティクスや動作を定義すれば、支援技術で利用できるアクセシブルな共通の領域を作ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13328,6 +13376,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T092339Z" creationid="yoota" creationdate="20170511T092339Z">
         <seg>&lt;g2&gt;background-position&lt;/g2&gt;で垂直位置を調整したり、&lt;g3&gt;background-size&lt;/g3&gt;で太さを調整したりして、書体が最も読みやすくなる方法を見つけることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use either but &lt;g3&gt;&lt;main&gt;&lt;/g3&gt; is terser, as the following example attests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T131838Z" creationid="rikiha" creationdate="20170722T131838Z">
+        <seg>どちらを使ってもかまいませんが、次の例からも分かるように、&lt;main&gt;の方が簡潔です。</seg>
       </tuv>
     </tu>
     <tu>
