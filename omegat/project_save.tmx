@@ -7414,8 +7414,8 @@ manageは管理で良いような。
       <tuv lang="EN-US">
         <seg>Navigation landmarks, denoted either by the &lt;g2&gt;role="navigation"&lt;/g2&gt; WAI-ARIA role or the &lt;g3&gt;&lt;nav&gt;&lt;/g3&gt; element, differ in two key ways to main landmarks:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T131858Z" creationid="rikiha" creationdate="20170722T131858Z">
-        <seg>role="navigation"（WAI-ARIAロール）または&lt;nav&gt;要素で示されるナビゲーションランドマークは、メインランドマークと主に2つの点が異なります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T232006Z" creationid="rikiha" creationdate="20170722T131858Z">
+        <seg>&lt;g2&gt;role="navigation"&lt;/g2&gt; WAI-ARIAロールまたは&lt;g3&gt;&lt;nav&gt;&lt;/g3&gt;要素として示されるナビゲーションランドマークは、メインランドマークとは重要な違いがふたつあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9783,8 +9783,8 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; element and &lt;g2&gt;role="main"&lt;/g2&gt; WAI-ARIA role map to each other, offering the same semantics and behaviors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T230400Z" creationid="rikiha" creationdate="20170722T131830Z">
-        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素と&lt;g2&gt;role="main"&lt;/g2&gt;はWAI-ARIAロールとしては相互にマッピングされており、同じセマンティクスとふるまいを提供します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T231712Z" creationid="rikiha" creationdate="20170722T131830Z">
+        <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素と&lt;g2&gt;role="main"&lt;/g2&gt;WAI-ARIAロールは相互にマッピングされており、同じセマンティクスとふるまいを提供します。</seg>
       </tuv>
     </tu>
     <tu>
