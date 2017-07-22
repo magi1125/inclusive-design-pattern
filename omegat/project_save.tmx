@@ -3454,6 +3454,14 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Discrete areas of web pages are variously referred to as &lt;g1&gt;regions&lt;/g1&gt;, &lt;g2&gt;blocks&lt;/g2&gt; or &lt;g3&gt;modules&lt;/g3&gt; and denote the visual boxes that demarcate parts of that page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T131817Z" creationid="rikiha" creationdate="20170722T131817Z">
+        <seg>Webページの各部は領域、ブロック、モジュールなどさまざまな呼び名で呼ばれますが、いずれもそのページを部分ごとに分ける視覚的なボックス（枠、囲い）を意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) theoretical は論理的というような意味ですが、まあなくても分かるのでとってしまってもいいかも。
 
 (伊原) LGTM</note>
