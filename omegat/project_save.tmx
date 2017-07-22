@@ -4419,11 +4419,12 @@ http://www.dictionary.com/browse/radical
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 現在のページを示す、だと現在地表示のことだとわかりにくいため、補いました。</note>
       <tuv lang="EN-US">
         <seg>How to inclusively indicate the current page — so that everyone knows where they are!</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T070843Z" creationid="yoota" creationdate="20170720T070843Z">
-        <seg>また、自分が今どこにいるかが誰でも分かるような、現在のページをインクルーシブに示す方法も紹介します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T121600Z" creationid="yoota" creationdate="20170720T070843Z">
+        <seg>また、自分が今どこにいるかが誰でも分かるような、ナビゲーション上の現在地をインクルーシブに示す方法も紹介します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7097,7 +7098,7 @@ https://docs.google.com/document/d/1ju_rDbIrde0lHKJF84ZkgqfO3YNc8JyuPBA6EaIEGUI/
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) スキーマ➞構成としました。</note>
+      <note>(伊原) スキーマ➞構成としました。また多少補いました。</note>
       <tuv lang="EN-US">
         <seg>Let’s take some time to examine the design of navigation patterns as applied to site-wide, and page-specific table of contents schemas.</seg>
       </tuv>
@@ -11781,11 +11782,12 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 分かりやすい➞明確な</note>
       <tuv lang="EN-US">
         <seg>This will incorporate writing structured markup, clear labels and robust CSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T070840Z" creationid="yoota" creationdate="20170720T070840Z">
-        <seg>構造化されたマークアップ、分かりやすいラベル、堅牢なCSSの書き方についても触れます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T121238Z" creationid="yoota" creationdate="20170720T070840Z">
+        <seg>構造化されたマークアップ、明確なラベル、堅牢なCSSの書き方についても触れます。</seg>
       </tuv>
     </tu>
     <tu>
