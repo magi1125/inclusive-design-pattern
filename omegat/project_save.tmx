@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2827,7 +2827,8 @@ heading level oneは「見出しレベル1」ですね。
       <note>(太田)
 括弧書きは不要かと。
 調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>But not all web page content is really content, as such.</seg>
       </tuv>
@@ -5498,6 +5499,7 @@ crypticは「暗号めいた」という感じですが、「もったいぶっ�
       <note>(太田)
 metaについては補足が必要か?
 
+(伊原) OK. 「コンテンツを補助するコンテンツ」と言ってるので、わかるような。むしろHTMLにおけるmetaとは違うという解説が要るのかも？とは思いました。
 </note>
       <tuv lang="EN-US">
         <seg>In other words, they’re a bit &lt;g1&gt;meta&lt;/g1&gt;: they’re content that helps with content.</seg>
@@ -7363,6 +7365,7 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Navigation Regions</seg>
       </tuv>
@@ -7372,7 +7375,9 @@ manageは管理で良いような。
     </tu>
     <tu>
       <note>(太田)
-ここまでおおむね「閲覧者」は「ユーザー」としているようです。</note>
+ここまでおおむね「閲覧者」は「ユーザー」としているようです。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Navigation landmarks, for example, help your audience to traverse your web pages and the content they offer.</seg>
       </tuv>
@@ -10460,7 +10465,9 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The last couple of patterns dealt a lot with content, how to manage it and write it.</seg>
       </tuv>
