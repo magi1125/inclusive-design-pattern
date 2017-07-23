@@ -521,6 +521,38 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Banner&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233948Z" creationid="rikiha" creationdate="20170722T233948Z">
+        <seg>• バナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Footer&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233957Z" creationid="rikiha" creationdate="20170722T233957Z">
+        <seg>• フッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Main&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233953Z" creationid="rikiha" creationdate="20170722T233953Z">
+        <seg>• メイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Navigation&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233951Z" creationid="rikiha" creationdate="20170722T233951Z">
+        <seg>• ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 JISではbypass block を「ブロックスキップ」としています。
 リスト項目を全体的に「……する」「……しない」という形で統一しました。
@@ -1736,14 +1768,6 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
-        <seg>A bullet list of blue, underlined links.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T233846Z" creationid="rikiha" creationdate="20170722T233846Z">
-        <seg>CSSが壊れていたり見つからないケースは珍しくなく、このように表示されてもナビゲーションブロックと認識できます。</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>(太田) ここのlargeは文字の大きさではなくフォントの数の話と思われます。
 
 (伊原) LGTM</note>
@@ -2092,6 +2116,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170421T032051Z" creationid="yoota" creationdate="20170421T032051Z">
         <seg>ピンチによる拡大縮小を可能にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, NVDA, JAWS and VoiceOver all provide a dialog listing landmarks as a menu, allowing you to switch between them directly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233944Z" creationid="rikiha" creationdate="20170722T233944Z">
+        <seg>また、NVDA、JAWS、VoiceOverではダイアログにメニューとしてランドマークが一覧表示されるため、ランドマークをダイレクトに切り替えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3783,6 +3815,15 @@ http://waic.jp/docs/WCAG20/Overview.html#images-of-textdef
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Firstly, I’d hear “Navigation landmark,” followed by “List, one of five” and finally “Link, home.” By then, I’d know that I’m in a navigation landmark, that it contains five links in total, and that I can follow the first link immediately if I wish.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233916Z" creationid="rikiha" creationdate="20170722T233916Z">
+        <seg>最初に「＃＃Navigation landmark＃＃」と読み上げられた後、「＃＃List, one of five＃＃」と続き、最後に「＃＃Link, home＃＃」と読み上げられたとします。これにより、自分が今ナビゲーションランドマークにいること、そしてそこには全部で5つのリンクがあり、必要であればすぐに1つ目のリンク先にジャンプできることが分かります。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 the を訳出すべきか?
 残念な修正パターンの話をしているが、見出しにはそういう情報は何もない。
@@ -4738,6 +4779,14 @@ remediation は治療法?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T104443Z" creationid="yoota" creationdate="20170511T104443Z">
         <seg>外部リンクを特定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If I was to enter the landmark while running a screen reader and focus the first link, I would hear a lot of useful information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233912Z" creationid="rikiha" creationdate="20170722T233912Z">
+        <seg>たとえばスクリーンリーダーの実行中にランドマークが見つかると、さまざまな有用な情報を耳で聞くことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7578,6 +7627,14 @@ http://eigo-kobako.blog.so-net.ne.jp/2015-07-14
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Nonetheless, it’s helpful to have your screen reader create an automated index of regions for the page in this way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T234004Z" creationid="rikiha" creationdate="20170722T234004Z">
+        <seg>しかし、このようにスクリーンリーダーがページの領域のインデックスを自動生成してくれると助かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ヘイドンさんにもこのガイドラインに沿ったライティングをお願いしたいところ。
 
 (伊原) ワロタ</note>
@@ -8019,6 +8076,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T200006Z" creationid="yoota" creationdate="20170501T111031Z">
         <seg>それでは、ここまで見てきたインクルーシブなドキュメントがどのような構成になったか見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OK, so a navigation menu that lists a navigation menu is &lt;g1&gt;really&lt;/g1&gt; meta.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T234001Z" creationid="rikiha" creationdate="20170722T234001Z">
+        <seg>ナビゲーションメニューが一覧表示されるナビゲーションメニューはまさにメタです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9091,7 +9156,9 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+※この節全体確認中</note>
       <tuv lang="EN-US">
         <seg>Site-Wide Navigation</seg>
       </tuv>
@@ -9712,6 +9779,14 @@ yourを「コンテンツ側で」として補いました。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That’s not all, though.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233930Z" creationid="rikiha" creationdate="20170722T233930Z">
+        <seg>それだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That’s not like the web &lt;g1&gt;at all&lt;/g1&gt;, but it doesn’t stop us pouring wasted energy into pointless frippery like pixel perfection and organizing ourselves into those two ill-defined, arbitrary groups, designers and developers.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085240Z" creationid="okamoto_jun" creationdate="20170627T085240Z">
@@ -9865,6 +9940,14 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T095335Z" creationid="yoota" creationdate="20170501T095052Z">
         <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素で定義された領域は、スクリーンリーダーに認識され、通知されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;nav&gt;&lt;/g1&gt; (or &lt;g2&gt;role="navigation"&lt;/g2&gt;) landmark joins &lt;g3&gt;&lt;main&gt;&lt;/g3&gt; in being discoverable when traversing the page by region — for instance by using the &lt;g4&gt;D&lt;/g4&gt; key in the NVDA screen reader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233941Z" creationid="rikiha" creationdate="20170722T233941Z">
+        <seg>？？&lt;nav&gt;（あるいはrole="navigation"）ランドマークと&lt;main&gt;を組み合わせれば、たとえばNVDAスクリーンリーダーでDキーを使うなどして、ランドマークをたどりながら領域単位でページ内を移動できます。？？【コメント：この解釈で問題ないでしょうか。原文「The &lt;nav&gt; (or role="navigation") landmark joins &lt;main&gt; in being discoverable when travers- ing the page by region — for instance by using the D key in the NVDA screen reader.」】</seg>
       </tuv>
     </tu>
     <tu>
@@ -12709,6 +12792,14 @@ https://ja.wikipedia.org/wiki/Composite_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Wading through content with only the hope of encountering an identifiable region requires faith that few users have to spare.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T234015Z" creationid="rikiha" creationdate="20170722T234015Z">
+        <seg>？？認識可能な領域が見つかることを祈りながら運頼みでコンテンツを見て回ることを良しとするユーザーはきわめてまれです。？？【コメント：意訳しています。原文「Wading through content with only the hope of encountering an identifiable region requires faith that few users have to spare.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 divに小細工するのではなく既存のbutton要素を使う、というのと同様に既にあるものを使うのだという話。
 調整してみましたがどうでしょうか。
@@ -13348,6 +13439,14 @@ regressを「後方互換する」としていますが、日本語として違�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170425T141001Z" creationid="rikiha" creationdate="20170425T141001Z">
         <seg>DOCTYPEが明確でないと、ブラウザはコンテンツをどう解釈したらよいか分からず、&lt;g2&gt;&lt;g3&gt;非対応の不適合なモード、いわゆる&lt;g4&gt;Quirksモード&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注4）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;で表示してしまうことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrapping the list in a landmark offers additional semantics and behaviors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170722T233909Z" creationid="rikiha" creationdate="20170722T233909Z">
+        <seg>さらに、このリストをランドマークでラップすることでセマンティクスと動作を追加できます。</seg>
       </tuv>
     </tu>
     <tu>
