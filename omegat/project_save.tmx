@@ -3907,12 +3907,12 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     <tu>
       <note>(岡本)　関連付け→関連づけ
 
-(伊原) </note>
+(伊原) まわりくどい感じがあったので修正。wouldを活かすべきか。一応その方向にしてみた。</note>
       <tuv lang="EN-US">
         <seg>For &lt;g1&gt;site&lt;/g1&gt; navigation, these links would pertain to the different pages available in your site or application.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170724T134058Z" creationid="rikiha" creationdate="20170722T233759Z">
-        <seg>サイトナビゲーションとして、サイトやアプリケーションにおけるさまざまなページに付随するものになるでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170724T134622Z" creationid="rikiha" creationdate="20170722T233759Z">
+        <seg>サイトナビゲーションとして、このリンクリストはサイトやアプリケーション内のさまざまなページに付属するものになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
