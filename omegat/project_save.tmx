@@ -13473,11 +13473,12 @@ regressを「後方互換する」としていますが、日本語として違�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ナビゲーションランドマークと補いました。またラップするを言い換えました。</note>
       <tuv lang="EN-US">
         <seg>Wrapping the list in a landmark offers additional semantics and behaviors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T233909Z" creationid="rikiha" creationdate="20170722T233909Z">
-        <seg>さらに、このリストをランドマークでラップすることでセマンティクスと動作を追加できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170724T153634Z" creationid="rikiha" creationdate="20170722T233909Z">
+        <seg>このリストをナビゲーションランドマークに含めることで、セマンティクスとふるまいを追加できます。</seg>
       </tuv>
     </tu>
     <tu>
