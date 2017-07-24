@@ -1653,11 +1653,12 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ちょっと補いつつ調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;We see interfaces with broken or missing CSS frequently enough to recognize this as a navigation block.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170724T150624Z" creationid="rikiha" creationdate="20170724T150410Z">
-        <seg>CSSが壊れていたり見つからなかったりといったケースは珍しくありませんが、このような表示であってもこれがナビゲーションブロックであると認識できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170724T150832Z" creationid="rikiha" creationdate="20170724T150410Z">
+        <seg>CSSが壊れていたり見つからなかったりといったケースは珍しくありませんが、このような表示であってもこれはナビゲーションブロックであると認識できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1776,6 +1777,7 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) alt、下訳から反映しつつ調整</note>
       <tuv lang="EN-US">
         <seg>A bullet list of blue, underlined links.</seg>
       </tuv>
@@ -7049,6 +7051,7 @@ implementationを例→実装としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 使える・利用できる➞用いる・使えるとしました。また直前でナビゲーションと言っているので、ここは主語を省略（インクルーシブなもの）しても伝わるかなと。</note>
       <tuv lang="EN-US">
         <seg>Just by using a list, we’re being inclusive of older users and devices, assistive technology users and those who are experiencing a CSS failure.</seg>
       </tuv>
