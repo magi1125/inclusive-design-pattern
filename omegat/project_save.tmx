@@ -4158,11 +4158,12 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) リンクの番号なしリスト➞番号なしリンクリストとしました</note>
       <tuv lang="EN-US">
         <seg>For the purposes of accessible UX, progressive enhancement and backwards compatibility, landmark regions should contain an unordered list of links.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T233753Z" creationid="rikiha" creationdate="20170722T233753Z">
-        <seg>アクセシブルなUX（ユーザー体験）、プログレッシブエンハンスメント、後方互換性を考慮に入れると、ランドマーク領域にはリンクの番号なしリストを含めるべきです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170724T133126Z" creationid="rikiha" creationdate="20170722T233753Z">
+        <seg>アクセシブルUX、プログレッシブエンハンスメント、後方互換性を考慮に入れると、ランドマーク領域には番号なしリンクリストを含めるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7179,8 +7180,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <tuv lang="EN-US">
         <seg>Let’s deal with the most common type of navigation landmark first, establishing some of the features common to all navigation landmarks while we’re at it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170724T131619Z" creationid="rikiha" creationdate="20170722T233750Z">
-        <seg>まずは最も一般的なタイプのナビゲーションランドマークを見ていきつつ、すべてのナビゲーションランドマークに共通するいくつかの特徴を組み立てていきましょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170724T132701Z" creationid="rikiha" creationdate="20170722T233750Z">
+        <seg>まずは最も一般的なタイプのナビゲーションランドマークを見ていきつつ、すべてのナビゲーションランドマークに共通する特徴のいくつかを組み立てていきましょう。</seg>
       </tuv>
     </tu>
     <tu>
