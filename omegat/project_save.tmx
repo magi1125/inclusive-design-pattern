@@ -3198,11 +3198,12 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 要検討。言わんとすることは分かるが…。</note>
       <tuv lang="EN-US">
         <seg>By using an unordered list, we evoke the rudimentary navigation schemas possible in HTML4 and XHTML and build on a recognized convention.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T233804Z" creationid="rikiha" creationdate="20170722T233804Z">
-        <seg>番号なしリストを用いることで、HTML4やHTMLにも対応した基本のナビゲーションスキーマを利用して、広く認められた慣習に基づいたナビゲーションを作成できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170724T140336Z" creationid="rikiha" creationdate="20170722T233804Z">
+        <seg>c番号なしリストを使うことで、HTML4やXHTMLでも使える基本的のナビゲーション方式を呼び出せる、慣習に沿ったナビゲーションを構築することができます。</seg>
       </tuv>
     </tu>
     <tu>
