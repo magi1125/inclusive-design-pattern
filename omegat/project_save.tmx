@@ -1653,6 +1653,14 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;We see interfaces with broken or missing CSS frequently enough to recognize this as a navigation block.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170724T150410Z" creationid="rikiha" creationdate="20170724T150410Z">
+        <seg>CSSが壊れていたり見つからないケースは珍しくありませんが、このように表示されてもナビゲーションブロックと認識できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「制御」は大げさな感があったので「色だけを変える」としました。
 
 (伊原) LGTM</note>
@@ -1765,6 +1773,14 @@ Note を訳出しました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T045341Z" creationid="yoota" creationdate="20170510T045341Z">
         <seg>パラグラフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A bullet list of blue, underlined links.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170724T150129Z" creationid="rikiha" creationdate="20170724T150129Z">
+        <seg>アンダーラインが引かれた青いリンクの箇条書きリスト。</seg>
       </tuv>
     </tu>
     <tu>
