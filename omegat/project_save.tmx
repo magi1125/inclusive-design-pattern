@@ -9810,6 +9810,7 @@ yourを「コンテンツ側で」として補いました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>That’s not all, though.</seg>
       </tuv>
@@ -9975,11 +9976,12 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原)</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;nav&gt;&lt;/g1&gt; (or &lt;g2&gt;role="navigation"&lt;/g2&gt;) landmark joins &lt;g3&gt;&lt;main&gt;&lt;/g3&gt; in being discoverable when traversing the page by region — for instance by using the &lt;g4&gt;D&lt;/g4&gt; key in the NVDA screen reader.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T233941Z" creationid="rikiha" creationdate="20170722T233941Z">
-        <seg>？？&lt;nav&gt;（あるいはrole="navigation"）ランドマークと&lt;main&gt;を組み合わせれば、たとえばNVDAスクリーンリーダーでDキーを使うなどして、ランドマークをたどりながら領域単位でページ内を移動できます。？？【コメント：この解釈で問題ないでしょうか。原文「The &lt;nav&gt; (or role="navigation") landmark joins &lt;main&gt; in being discoverable when travers- ing the page by region — for instance by using the D key in the NVDA screen reader.」】</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T003855Z" creationid="rikiha" creationdate="20170722T233941Z">
+        <seg>？？&lt;nav&gt;（あるいはrole="navigation"）ランドマークと&lt;main&gt;を組み合わせれば、たとえばNVDAスクリーンリーダーでDキーを使うなどして、ランドマークをたどりながら領域単位でページ内を移動できます。</seg>
       </tuv>
     </tu>
     <tu>
