@@ -3650,6 +3650,14 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Elements will slip behind other elements or extend outside of the viewport and become obscured.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074256Z" creationid="rikiha" creationdate="20170725T074256Z">
+        <seg>要素が他の要素の後ろに隠れたり、ビューポートの外まで広がって見えなくなるなど、レイアウトの問題が生じる恐れがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 括弧は原文にありませんし不要かと。
 例によってヘイドンさんがこの図で何を伝えたいのか良く分かりません。</note>
       <tuv lang="EN-US">
@@ -5573,6 +5581,14 @@ cognitive cacheは経験キャッシュとしてみました。</note>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170524T083529Z" creationid="yoota" creationdate="20170512T101124Z">
         <seg>一般的なケースでは、サードパーティのグリッドシステムを使うことはおすすめできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general, avoid positioning in all but the rarest of cases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074300Z" creationid="rikiha" creationdate="20170725T074300Z">
+        <seg>きわめて例外的な場合を除き、通常はこの方法による配置は避けるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7942,6 +7958,14 @@ ourを私たちと訳すのはどうなのか。他は適当に濁している�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170501T002343Z" creationid="yoota" creationdate="20170426T054914Z">
         <seg>検索エンジンがインデクシングしやすくなるほか、ユーザーがGoogleの&lt;g1&gt;&lt;g2&gt;Translate API&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注5）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;のようなサードパーティツールを使って翻訳することも容易になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not only does this create a contrary user experience for keyboard users, but positioned elements don’t reflow with the rest of the document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074249Z" creationid="rikiha" creationdate="20170725T074249Z">
+        <seg>しかし、これはキーボードユーザーにとって不便なだけでなく、この方法で配置された要素はドキュメントの他の要素と共にリフローされません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11956,6 +11980,14 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This is liable to create layout issues when the viewport or its content is resized.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074253Z" creationid="rikiha" creationdate="20170725T074253Z">
+        <seg>そのため、ビューポートやコンテンツのサイズを変更したときに、</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 すこし調整。
 やや分かりにくかったので「だけ」を補いました。
@@ -13403,6 +13435,14 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>When relying on positioning to create modal dialogs, you should exercise extreme caution, testing against a range of viewport dimensions and magnification settings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T075617Z" creationid="rikiha" creationdate="20170725T075617Z">
+        <seg>この方法でモーダルダイアログを作成する場合は、細心の注意を払うとともに、ビューポートのサイズや拡大／縮小の設定をさまざまに変えてテストするようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ヘイドンbreak。破綻としてみました。
 
 (伊原) LGTM</note>
@@ -13594,6 +13634,14 @@ belong toが「構成する」となっていますが、この章はドキュ�
 訳を指定ない様子。前後の文脈から考えて問題ないかと。</note>
       <tuv lang="EN-US">
         <seg>Why?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With CSS position values of &lt;g1&gt;absolute&lt;/g1&gt; or &lt;g2&gt;fixed&lt;/g2&gt;, one can visually position an element anywhere in the viewport, regardless of the source order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074246Z" creationid="rikiha" creationdate="20170725T074246Z">
+        <seg>CSSのpositionの値をabsoluteまたはfixedにすれば、要素をソースの順序に関係なくビューポートの好きな場所に表示させることができます。</seg>
       </tuv>
     </tu>
     <tu>
