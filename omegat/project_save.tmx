@@ -1596,6 +1596,14 @@ a little ではなく little なので、これは「ほとんどない」とい
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;I’m not suggesting your navigation bar has to use a white, cursive font on a black background!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021535Z" creationid="rikiha" creationdate="20170725T021535Z">
+        <seg>ナビゲーションバーの文字は白、フォントは草書体、背景は黒でなければいけない、と言っているわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 微調整しました。
 
 (伊原) LGTM
@@ -5749,11 +5757,12 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 「一方」はちょっとニュアンスが違うのでトリました。理解が何なのか謎なのでちょっと補いました。</note>
       <tuv lang="EN-US">
         <seg>In programming terms, schemata are a kind of &lt;g1&gt;cache for understanding&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T021505Z" creationid="rikiha" creationdate="20170725T021505Z">
-        <seg>一方、プログラミング用語のスキーマは、理解のためのキャッシュのようなものです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T031158Z" creationid="rikiha" creationdate="20170725T021505Z">
+        <seg>プログラミング用語におけるスキーマは、ものごとを理解するための一種のキャッシュです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5905,6 +5914,14 @@ robustlyは「堅牢な方法で」としてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170719T103004Z" creationid="yoota" creationdate="20170719T055533Z">
         <seg>Custom Elementsの場合、それらの機能をもっとすっきりと、堅牢な方法で追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of the site navigation landmark, you would do well to give it a familiar form consisting of adjacent, enlarged links.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021524Z" creationid="rikiha" creationdate="20170725T021524Z">
+        <seg>サイトナビゲーションランドマークの場合は、大きい文字で書かれたリンクが並ぶおなじみの形式が良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6877,6 +6894,14 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170609T064309Z" creationid="yoota" creationdate="20170606T100054Z">
         <seg>何かを学ぶのであれば、単純でより良い方法だと言えるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s the familiar positioning and shape that counts.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021637Z" creationid="rikiha" creationdate="20170725T021637Z">
+        <seg>大事なのは一般的によく使われている配置と形を用いることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8565,6 +8590,14 @@ https://ja.wikipedia.org/wiki/プレイン・イングリッシュ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Position it in the header of each page, above the main content and preferably before anything else.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021527Z" creationid="rikiha" creationdate="20170725T021527Z">
+        <seg>これを各ページのヘッダーに置くのですが、メインコンテンツの上、できれば何よりも前に配置しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Practically speaking, the &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; and &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; offer similar functionality, so why employ both?</seg>
@@ -8877,11 +8910,12 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) スキーマが経験を形成するのではなく、過去の経験がスキーマを形成する、ということかなと。</note>
       <tuv lang="EN-US">
         <seg>Schemata constitute prior experience against which current experience is evaluated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T021502Z" creationid="rikiha" creationdate="20170725T021502Z">
-        <seg>スキーマが経験を形成し、その過去の経験に照らし合わせて現在の経験が評価されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T030943Z" creationid="rikiha" creationdate="20170725T021502Z">
+        <seg>過去の経験によってスキーマが形成され、それに照らして現在の経験が評価されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9249,9 +9283,7 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK
-
-※この節全体確認中</note>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Site-Wide Navigation</seg>
       </tuv>
@@ -9307,6 +9339,7 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>So long as a familiar thing is being experienced, little more effort is required to understand it.</seg>
       </tuv>
@@ -10709,11 +10742,12 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 訳はあってると思いますがちょっと整理しました。</note>
       <tuv lang="EN-US">
         <seg>The human brain uses patterns called &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;schemata&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;3&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; to understand sense data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T021459Z" creationid="rikiha" creationdate="20170725T021459Z">
-        <seg>人間の脳はスキーマ（シェーマ）（脚注87）と呼ばれるパターンを用いて？？センスデータ（感覚器官から受け取った情報）を理解します。？？【コメント：不安訳です。原文「～ understand sense data」】</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T022748Z" creationid="rikiha" creationdate="20170725T021459Z">
+        <seg>人間の脳は、知覚した情報をスキーマ（脚注87）と呼ばれるパターンによって理解します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11765,6 +11799,14 @@ marginは「マージン」で良いかと。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170428T110905Z" creationid="yoota" creationdate="20170428T110452Z">
         <seg>なお、「Flash of Unstyled Text」というのは理不尽な呼び方です。なぜなら、すべてのフォントはスタイルを持っている（つまり、独自の字形を持っている）からです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a well-known usability principle, but it’s worth restating — especially in the context of inclusive design, where we’re trying to cater for extremes of cognitive impairment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021521Z" creationid="rikiha" creationdate="20170725T021521Z">
+        <seg>有名なユーザビリティの原則ですが、認識機能障害を持つユーザーのニーズにも応えようとするインクルーシブデザインにおいては特に重要なため、あえて書きました。</seg>
       </tuv>
     </tu>
     <tu>
