@@ -2573,6 +2573,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As we’ve already established, keyboard users navigate pages one interactive element at a time, in order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074159Z" creationid="rikiha" creationdate="20170725T074159Z">
+        <seg>前述したように、キーボードユーザーはインタラクティブ要素を1つずつ順番にたどってページを移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「理解できるテキストを作成できるかどうか」は変に補いすぎてしまっているように思います。
 
 (伊原) 十分でかつ、がちょっと違和感があったので、十分かつ　としました</note>
@@ -5742,6 +5750,14 @@ metaについては補足が必要か?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In practice, so long as source order matches reading order this is something which takes care of itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074208Z" creationid="rikiha" creationdate="20170725T074208Z">
+        <seg>実際には、ソースの順序と読み進める順序が同じであれば、そのままでも何とかなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)  ここでの unusual characters は、原義そのままの「あまり使わない文字」という意味でしょう。
 well-matched はよくマッチするということで、システムフォントには多くの文字が含まれるため、より多くの文字にマッチするという話ですね。取っても通じるので取ってしまってもいいかもしれません。
 # ここに限らないのですが、前の文でmatchという言葉をぜんぜん使っていないのに、ここで急に出てくるので翻訳者は意味がとりにくいだろうと思います。ヘイドンさんの脳裏にはFont Matching Algorithmが思い浮かべられているのでしょうけれど。
@@ -6593,6 +6609,14 @@ must ではなく should なので「べき」としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T100608Z" creationid="yoota" creationdate="20170511T100608Z">
         <seg>これでそのリンクが操作可能になり、Enterを押せばリンクをたどることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It turns out it was; it was just at the bottom of the source so it took thirty or forty presses of the &lt;g6&gt;Tab&lt;/g6&gt; key to reach it and finally invoke the focus style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074226Z" creationid="rikiha" creationdate="20170725T074226Z">
+        <seg>そして判明した原因は単純なことでした。サイトナビゲーションがソースの最下部にあったせいで、そこに到達してフォーカス状態になるまでに30～40回Tabキーを押さなければならなかったのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8411,6 +8435,14 @@ WCAGに従うことは、伝えるよりも良いのです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>One of the attendees had come to Léonie with a problem: they couldn’t work out why the site navigation in their prototype wasn’t focusable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074219Z" creationid="rikiha" creationdate="20170725T074219Z">
+        <seg>そのときの参加者の1人がレオニーに、プロトタイプのサイトナビゲーションになぜかフォーカスできないと相談に来ました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注アリ
 
 (伊原) Chrome 56からAndroidとMacではハイフネーションができるようになったようです。訳注いるかも。
@@ -8738,6 +8770,14 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T114332Z" creationid="yoota" creationdate="20170501T110944Z">
         <seg>ページを見てみよう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Putting page navigation at the top means they don’t have to traverse one page to get to another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074202Z" creationid="rikiha" creationdate="20170725T074202Z">
+        <seg>ページナビゲーションが最上部にあれば、現在のページを最後まで見ずに別のページに移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11047,6 +11087,14 @@ Good!
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The purpose of placing site navigation at the top of the page is not only for cognition, but interaction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074156Z" creationid="rikiha" creationdate="20170725T074156Z">
+        <seg>サイトナビゲーションをページの一番上に置くのは、認識しやすいからだけでなく、インタラクションのためでもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The purpose of this example is to show you how a little bit of knowledge about the medium can lead to a simpler and more inclusive solution.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095322Z" creationid="okamoto_jun" creationdate="20170627T095322Z">
@@ -12740,6 +12788,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately, we have a habit of overengineering and overcomplicating things.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074211Z" creationid="rikiha" creationdate="20170725T074211Z">
+        <seg>しかし困ったことに、私たちはつい作り込みすぎたり、物事を必要以上にややこしくしてしまいがちです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Universally implemented and semantic though it is, there’s compelling evidence that you should avoid using the &lt;g12&gt;&lt;select&gt;&lt;/g12&gt; element wherever possible.</seg>
@@ -13465,6 +13521,14 @@ integratedは統合された?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T083052Z" creationid="yoota" creationdate="20170418T083052Z">
         <seg>昔ながらの静的なリソースであれ、シングルページアプリケーションであれ、Webページがドキュメントであることは間違いありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While attending the Future of Web Design conference in 2015, I sat in on an accessibility clinic run by &lt;g1&gt;&lt;g2&gt;Léonie Watson&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;5&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T074215Z" creationid="rikiha" creationdate="20170725T074215Z">
+        <seg>2015年のFuture of Web Designカンファレンスで、私はレオニー・ワトソン（Léonie Watson）（脚注89）のアクセシビリティ講座に参加しました。</seg>
       </tuv>
     </tu>
     <tu>
