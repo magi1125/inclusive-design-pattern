@@ -525,24 +525,26 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Banner&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T233948Z" creationid="rikiha" creationdate="20170722T233948Z">
-        <seg>• バナー</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T011622Z" creationid="rikiha" creationdate="20170722T233948Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;バナー&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Footer&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T233957Z" creationid="rikiha" creationdate="20170722T233957Z">
-        <seg>• フッター</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T011643Z" creationid="rikiha" creationdate="20170722T233957Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;フッター&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Main&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T233953Z" creationid="rikiha" creationdate="20170722T233953Z">
-        <seg>• メイン</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T011633Z" creationid="rikiha" creationdate="20170722T233953Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;メイン&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,8 +552,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Navigation&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T233951Z" creationid="rikiha" creationdate="20170722T233951Z">
-        <seg>• ナビゲーション</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T011620Z" creationid="rikiha" creationdate="20170722T233951Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;ナビゲーション&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1659,8 +1661,8 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;We see interfaces with broken or missing CSS frequently enough to recognize this as a navigation block.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170724T150832Z" creationid="rikiha" creationdate="20170724T150410Z">
-        <seg>CSSが壊れていたり見つからなかったりといったケースは珍しくありませんが、このような表示であってもこれはナビゲーションブロックであると認識できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T011457Z" creationid="rikiha" creationdate="20170724T150410Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;CSSが壊れていたり見つからなかったりといったケースは珍しくありませんが、このような表示であってもこれはナビゲーションブロックであると認識できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8116,8 +8118,8 @@ familiarを「十分に学習してきた」としていますが、「十分に
       <tuv lang="EN-US">
         <seg>OK, so a navigation menu that lists a navigation menu is &lt;g1&gt;really&lt;/g1&gt; meta.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T234001Z" creationid="rikiha" creationdate="20170722T234001Z">
-        <seg>ナビゲーションメニューが一覧表示されるナビゲーションメニューはまさにメタです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T011820Z" creationid="rikiha" creationdate="20170722T234001Z">
+        <seg>はい、ナビゲーションメニューが一覧表示されるナビゲーションメニューなんて、&lt;g1&gt;まさに&lt;/g1&gt;メタですね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9984,8 +9986,8 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;nav&gt;&lt;/g1&gt; (or &lt;g2&gt;role="navigation"&lt;/g2&gt;) landmark joins &lt;g3&gt;&lt;main&gt;&lt;/g3&gt; in being discoverable when traversing the page by region — for instance by using the &lt;g4&gt;D&lt;/g4&gt; key in the NVDA screen reader.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T011007Z" creationid="rikiha" creationdate="20170722T233941Z">
-        <seg>&lt;nav&gt;（あるいはrole="navigation"）ランドマークと&lt;main&gt;を組み合わせれば、たとえばNVDAスクリーンリーダーでDキーを使って領域単位でページ内を移動するときにランドマークが見つかるようになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T011552Z" creationid="rikiha" creationdate="20170722T233941Z">
+        <seg>&lt;g1&gt;&lt;nav&gt;&lt;/g1&gt;（あるいは&lt;g2&gt;role="navigation"&lt;/g2&gt;）ランドマークと&lt;g3&gt;&lt;main&gt;&lt;/g3&gt;を組み合わせれば、たとえばNVDAスクリーンリーダーで&lt;g4&gt;D&lt;/g4&gt;キーを使って領域単位でページ内を移動するときにランドマークが見つかるようになります。</seg>
       </tuv>
     </tu>
     <tu>
