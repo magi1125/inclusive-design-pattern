@@ -3656,8 +3656,8 @@ visual designはそのままビジュアルデザインでいいかも。
       <tuv lang="EN-US">
         <seg>Elements will slip behind other elements or extend outside of the viewport and become obscured.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T074256Z" creationid="rikiha" creationdate="20170725T074256Z">
-        <seg>要素が他の要素の後ろに隠れたり、ビューポートの外まで広がって見えなくなるなど、レイアウトの問題が生じる恐れがあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T150913Z" creationid="rikiha" creationdate="20170725T074256Z">
+        <seg>要素が他の要素の後ろに滑り込むか、またはビューポートの外側に広がり、不明瞭になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11993,8 +11993,8 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
       <tuv lang="EN-US">
         <seg>This is liable to create layout issues when the viewport or its content is resized.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T074253Z" creationid="rikiha" creationdate="20170725T074253Z">
-        <seg>そのため、ビューポートやコンテンツのサイズを変更したときに、</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T151115Z" creationid="rikiha" creationdate="20170725T074253Z">
+        <seg>その結果、ビューポートやコンテンツのサイズが変わったときにレイアウトの問題が発生する可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
