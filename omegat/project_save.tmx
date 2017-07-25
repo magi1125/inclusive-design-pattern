@@ -2137,11 +2137,12 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ダイアログにメニューとして〜がややこしかったので調整。</note>
       <tuv lang="EN-US">
         <seg>Also, NVDA, JAWS and VoiceOver all provide a dialog listing landmarks as a menu, allowing you to switch between them directly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T233944Z" creationid="rikiha" creationdate="20170722T233944Z">
-        <seg>また、NVDA、JAWS、VoiceOverではダイアログにメニューとしてランドマークが一覧表示されるため、ランドマークをダイレクトに切り替えることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T011300Z" creationid="rikiha" creationdate="20170722T233944Z">
+        <seg>また、NVDA、JAWS、VoiceOverではてランドマーク一覧がメニューダイアログとして表示されるため、ランドマーク間をダイレクトに切り替えることができます。</seg>
       </tuv>
     </tu>
     <tu>
