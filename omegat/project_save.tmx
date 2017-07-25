@@ -10429,6 +10429,7 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
+      <note>(岡本）書体が違うのが謎ですが、見出しレベルは2ですね。</note>
       <tuv lang="EN-US">
         <seg>The Navigation Landmark</seg>
       </tuv>
@@ -14214,6 +14215,12 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T082017Z" creationid="okamoto_jun" creationdate="20170627T082017Z">
         <seg>友人「うん」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本）書体が違うのが謎ですが、見出しレベルは3ですね。</note>
+      <tuv lang="EN-US">
+        <seg>“You Are Here”</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
