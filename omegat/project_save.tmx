@@ -4807,11 +4807,12 @@ remediation は治療法?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) and focus the first link が訳から落ちているので追加。その他調整。</note>
       <tuv lang="EN-US">
         <seg>If I was to enter the landmark while running a screen reader and focus the first link, I would hear a lot of useful information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T233912Z" creationid="rikiha" creationdate="20170722T233912Z">
-        <seg>たとえばスクリーンリーダーの実行中にランドマークが見つかると、さまざまな有用な情報を耳で聞くことができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T002937Z" creationid="rikiha" creationdate="20170722T233912Z">
+        <seg>たとえばスクリーンリーダー実行中にランドマーク内の最初のリンクにフォーカスすると、多くの有用な情報が聞こえてきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13477,8 +13478,8 @@ regressを「後方互換する」としていますが、日本語として違�
       <tuv lang="EN-US">
         <seg>Wrapping the list in a landmark offers additional semantics and behaviors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170724T153634Z" creationid="rikiha" creationdate="20170722T233909Z">
-        <seg>このリストをナビゲーションランドマークに含めることで、セマンティクスとふるまいを追加できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T002452Z" creationid="rikiha" creationdate="20170722T233909Z">
+        <seg>このリストをナビゲーションランドマークに含めると、セマンティクスとふるまいを追加できます。</seg>
       </tuv>
     </tu>
     <tu>
