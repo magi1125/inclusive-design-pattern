@@ -1596,11 +1596,12 @@ a little ではなく little なので、これは「ほとんどない」とい
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK…ですが、この文要らないのでは。余計な誤解を生みそう。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;I’m not suggesting your navigation bar has to use a white, cursive font on a black background!</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T021535Z" creationid="rikiha" creationdate="20170725T021535Z">
-        <seg>ナビゲーションバーの文字は白、フォントは草書体、背景は黒でなければいけない、と言っているわけではありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T070659Z" creationid="rikiha" creationdate="20170725T021535Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;ナビゲーションバーの文字は白、フォントは草書体、背景は黒でなければいけない、と言っているわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8540,6 +8541,14 @@ contributeを「寄与」とするのがどうも硬いので「構成する」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Page layout with navigation bar highlighted at the top.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T070422Z" creationid="rikiha" creationdate="20170725T070422Z">
+        <seg>ページのレイアウト図。上部のナビゲーションバーがハイライトされている。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 parityは平均化というより、ここでは等価、価値を等しくするという意味と思われます。
 
@@ -8595,6 +8604,7 @@ https://ja.wikipedia.org/wiki/プレイン・イングリッシュ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Position it in the header of each page, above the main content and preferably before anything else.</seg>
       </tuv>
