@@ -7855,12 +7855,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) CSSエラーというのがちょっと変なので修正。青い下線が引かれたテキスト➞下線が引かれた青いテキスト。このコンテンツが➞これが　と調整。</note>
+      <note>(伊原) CSSエラーというのがちょっと変なので修正。青い下線が引かれたテキスト➞下線が引かれた青いテキスト。このコンテンツが➞これが　と調整。
+
+(岡本) 分かります→わかります</note>
       <tuv lang="EN-US">
         <seg>Not only that, but when CSS fails, the familiar form of a bulleted list containing blue, underlined text acts as a visual signifier that this content has a navigational purpose.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170724T145826Z" creationid="rikiha" creationdate="20170722T233812Z">
-        <seg>さらに、CSSの読み込みに失敗しても、おなじみの箇条書きと下線が引かれた青いテキストを見れば、これがナビゲーション目的のものであると分かります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170725T015627Z" creationid="rikiha" creationdate="20170722T233812Z">
+        <seg>さらに、CSSの読み込みに失敗しても、おなじみの箇条書きと下線が引かれた青いテキストを見れば、これがナビゲーション目的のものであるとわかります。</seg>
       </tuv>
     </tu>
     <tu>
