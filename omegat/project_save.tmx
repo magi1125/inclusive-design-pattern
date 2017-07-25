@@ -3231,8 +3231,8 @@ segregateは隔離というより分離としたほうがしっくりくるか�
       <tuv lang="EN-US">
         <seg>By the same token, if something genuinely new is experienced, there’s nothing in the cache to be relied on and the sense data must be evaluated in full.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T031814Z" creationid="rikiha" creationdate="20170725T021511Z">
-        <seg>一方、まったく新しいことを経験する場合は信頼できるキャッシュがないため、知覚した情報をすべて評価しなければなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T050511Z" creationid="rikiha" creationdate="20170725T021511Z">
+        <seg>一方、まったく新しいことを経験する場合、信頼できるキャッシュがないため、知覚した情報をすべて評価しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5494,11 +5494,13 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 動作に合った予想通りの見た目、をもう少しちゃんとした言い方にしました。
+cognitive cacheは経験キャッシュとしてみました。</note>
       <tuv lang="EN-US">
         <seg>In design, by making things that behave in a certain way &lt;g1&gt;appear&lt;/g1&gt; as expected, we help our users make the most of their cognitive cache.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T021514Z" creationid="rikiha" creationdate="20170725T021514Z">
-        <seg>したがって、デザインを動作に合った予想どおりの見た目にすれば、ユーザーは経験的知識のキャッシュを最大限に活用できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T051935Z" creationid="rikiha" creationdate="20170725T021514Z">
+        <seg>デザインにおいては、特定のふるまいを期待させる外観にすることで、ユーザーの経験キャッシュを最大限に活用できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
