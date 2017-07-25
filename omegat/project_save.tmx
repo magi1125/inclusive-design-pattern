@@ -3219,6 +3219,14 @@ segregateは隔離というより分離としたほうがしっくりくるか�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By the same token, if something genuinely new is experienced, there’s nothing in the cache to be relied on and the sense data must be evaluated in full.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021511Z" creationid="rikiha" creationdate="20170725T021511Z">
+        <seg>これに対して、まったく新しいことを経験する場合はキャッシュの中に頼りになるものがないため、？？センスデータ？？を一から評価しなければなりません。【コメント：同上】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Basic Latin Unicode blockは「Unicodeの基本ラテン文字のブロック」としました。
 your web font は「独自の」ではないかもしれません。
 roll backは「引き下げる」のような意味で、ここでは「限定する」くらいでしょうか。
@@ -5475,6 +5483,14 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In design, by making things that behave in a certain way &lt;g1&gt;appear&lt;/g1&gt; as expected, we help our users make the most of their cognitive cache.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021514Z" creationid="rikiha" creationdate="20170725T021514Z">
+        <seg>したがって、デザインを動作に合った予想どおりの見た目にすれば、ユーザーは経験的知識のキャッシュを最大限に活用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ハイフネーションはカタカナでも良いような。
 原文コロン区切りは2文にしました。
 
@@ -5670,6 +5686,14 @@ metaについては補足が必要か?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In other words, we &lt;g2&gt;&lt;g3&gt;don’t make them think&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;4&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021517Z" creationid="rikiha" creationdate="20170725T021517Z">
+        <seg>これは言い換えると、ユーザーに考えさせないということです。（脚注88）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In other words, you avoid a “Where the hell am I?” moment.</seg>
@@ -5720,6 +5744,14 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T092029Z" creationid="yoota" creationdate="20170512T104125Z">
         <seg>印刷デザインでは、グリッドに沿った要素の相対位置には信頼性と一貫性があるため、意味を伝えるために横に並べて配置したり、「右の写真」といった言い方をしたりできます。レスポンシブWebには、このような贅沢はできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In programming terms, schemata are a kind of &lt;g1&gt;cache for understanding&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021505Z" creationid="rikiha" creationdate="20170725T021505Z">
+        <seg>一方、プログラミング用語のスキーマは、理解のためのキャッシュのようなものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8843,6 +8875,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Schemata constitute prior experience against which current experience is evaluated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021502Z" creationid="rikiha" creationdate="20170725T021502Z">
+        <seg>スキーマが経験を形成し、その過去の経験に照らし合わせて現在の経験が評価されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>School Level</seg>
@@ -9262,6 +9302,14 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T081513Z" creationid="yoota" creationdate="20170511T100129Z">
         <seg>その他には、キーボード、タッチディスプレイ、点字ディスプレイおよびキーボード、&lt;g1&gt;&lt;g2&gt;ジョイスティック&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注30）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;、&lt;g6&gt;&lt;g7&gt;スイッチ&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注31）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;などがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So long as a familiar thing is being experienced, little more effort is required to understand it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021508Z" creationid="rikiha" creationdate="20170725T021508Z">
+        <seg>すでによく知っていることを経験するときは、さほど努力しなくても理解できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10656,6 +10704,14 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T035503Z">
         <seg>グラデーション版は、青い文字とグレーのアンダーラインの組み合わせになっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The human brain uses patterns called &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;schemata&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;3&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; to understand sense data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T021459Z" creationid="rikiha" creationdate="20170725T021459Z">
+        <seg>人間の脳はスキーマ（シェーマ）（脚注87）と呼ばれるパターンを用いて？？センスデータ（感覚器官から受け取った情報）を理解します。？？【コメント：不安訳です。原文「～ understand sense data」】</seg>
       </tuv>
     </tu>
     <tu>
