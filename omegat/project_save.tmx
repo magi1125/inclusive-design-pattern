@@ -14234,9 +14234,15 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
     </tu>
     <tu>
-      <note>(岡本）書体が違うのが謎ですが、見出しレベルは3ですね。</note>
+      <note>(岡本）書体が違うのが謎ですが、見出しレベルは3ですね。
+
+(伊原) OK
+※</note>
       <tuv lang="EN-US">
         <seg>“You Are Here”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T155627Z">
+        <seg>「現在位置」</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
