@@ -3653,11 +3653,12 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 2文に分けつつ、表現を調整。</note>
       <tuv lang="EN-US">
         <seg>Elements will slip behind other elements or extend outside of the viewport and become obscured.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T151347Z" creationid="rikiha" creationdate="20170725T074256Z">
-        <seg>別の要素の裏側に要素が隠れたり、ビューポートの外側に広がって見えなくなったりするのです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T151439Z" creationid="rikiha" creationdate="20170725T074256Z">
+        <seg>別の要素の裏側に要素が隠れたり、ビューポートの外側に要素がはみ出して見えなくなったりするのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5587,11 +5588,12 @@ cognitive cacheは経験キャッシュとしてみました。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 通常は➞原則として</note>
       <tuv lang="EN-US">
         <seg>In general, avoid positioning in all but the rarest of cases.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T074300Z" creationid="rikiha" creationdate="20170725T074300Z">
-        <seg>きわめて例外的な場合を除き、通常はこの方法による配置は避けるべきです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T151544Z" creationid="rikiha" creationdate="20170725T074300Z">
+        <seg>きわめて例外的な場合を除き、原則としてこの方法による配置は避けるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11990,6 +11992,7 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 2文に分けました。</note>
       <tuv lang="EN-US">
         <seg>This is liable to create layout issues when the viewport or its content is resized.</seg>
       </tuv>
@@ -13449,8 +13452,8 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       <tuv lang="EN-US">
         <seg>When relying on positioning to create modal dialogs, you should exercise extreme caution, testing against a range of viewport dimensions and magnification settings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T075617Z" creationid="rikiha" creationdate="20170725T075617Z">
-        <seg>この方法でモーダルダイアログを作成する場合は、細心の注意を払うとともに、ビューポートのサイズや拡大／縮小の設定をさまざまに変えてテストするようにしましょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T152035Z" creationid="rikiha" creationdate="20170725T075617Z">
+        <seg>この配置方法を頼りにしたモーダルダイアログを作るときは、細心の注意を払うとともに、さまざまなビューポートのサイズや拡大／縮小の倍率に対してテストしましょう。</seg>
       </tuv>
     </tu>
     <tu>
