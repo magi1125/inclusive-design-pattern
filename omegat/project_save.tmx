@@ -6636,8 +6636,8 @@ must ではなく should なので「べき」としました。
       <tuv lang="EN-US">
         <seg>It turns out it was; it was just at the bottom of the source so it took thirty or forty presses of the &lt;g6&gt;Tab&lt;/g6&gt; key to reach it and finally invoke the focus style.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T133222Z" creationid="rikiha" creationdate="20170725T074226Z">
-        <seg>そして、こういう状態であることが分かりました。サイトナビゲーションはソースの最下部にあり、30～40回Tabキーを押すことでそこに到達し、最終的にはフォーカス状態になりました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T134925Z" creationid="rikiha" creationdate="20170725T074226Z">
+        <seg>そして、こういう状況であることが分かりました。サイトナビゲーションはソースの最下部にあり、30～40回Tabキーを押すことでそこに到達し、最終的にはフォーカス状態になりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7969,8 +7969,8 @@ ourを私たちと訳すのはどうなのか。他は適当に濁している�
       <tuv lang="EN-US">
         <seg>Not only does this create a contrary user experience for keyboard users, but positioned elements don’t reflow with the rest of the document.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T074249Z" creationid="rikiha" creationdate="20170725T074249Z">
-        <seg>しかし、これはキーボードユーザーにとって不便なだけでなく、この方法で配置された要素はドキュメントの他の要素と共にリフローされません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T135503Z" creationid="rikiha" creationdate="20170725T074249Z">
+        <seg>これによりキーボードユーザーの体験が損なわれるだけでなく、この方法で配置された要素はドキュメントのフローから外れるためリフローされなくなりますません。</seg>
       </tuv>
     </tu>
     <tu>
