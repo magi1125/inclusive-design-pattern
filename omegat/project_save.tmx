@@ -5499,8 +5499,8 @@ cognitive cacheは経験キャッシュとしてみました。</note>
       <tuv lang="EN-US">
         <seg>In design, by making things that behave in a certain way &lt;g1&gt;appear&lt;/g1&gt; as expected, we help our users make the most of their cognitive cache.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T051935Z" creationid="rikiha" creationdate="20170725T021514Z">
-        <seg>デザインにおいては、特定のふるまいを期待させる外観にすることで、ユーザーの経験キャッシュを最大限に活用できるようにします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T054349Z" creationid="rikiha" creationdate="20170725T021514Z">
+        <seg>デザインにおいては、特定のふるまいを期待させるように&lt;g1&gt;見せる&lt;/g1&gt;ことで、ユーザーの経験キャッシュを最大限に活用できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5699,11 +5699,12 @@ metaについては補足が必要か?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) Don't Make Me Think という書籍を指しているので、それに沿った訳にしました。</note>
       <tuv lang="EN-US">
         <seg>In other words, we &lt;g2&gt;&lt;g3&gt;don’t make them think&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;4&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T054112Z" creationid="rikiha" creationdate="20170725T021517Z">
-        <seg>これは言い換えると、&lt;g2&gt;&lt;g3&gt;ユーザーに考えさせない&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注88）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;ということです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170725T054728Z" creationid="rikiha" creationdate="20170725T021517Z">
+        <seg>言い換えると、&lt;g2&gt;&lt;g3&gt;ユーザーに考えさせるな&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注88）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;、ということです。</seg>
       </tuv>
     </tu>
     <tu>
