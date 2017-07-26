@@ -4273,8 +4273,8 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       <tuv lang="EN-US">
         <seg>For the purposes of accessible UX, progressive enhancement and backwards compatibility, landmark regions should contain an unordered list of links.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170726T093049Z" creationid="rikiha" creationdate="20170722T233753Z">
-        <seg>アクセシブルUX、プログレッシブエンハンスメント、後方互換性の観点からは、ランドマーク領域には番号なしリンクリストを含めるべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170726T094103Z" creationid="rikiha" creationdate="20170722T233753Z">
+        <seg>アクセシブルUX、プログレッシブエンハンスメント、後方互換性の観点から、ランドマーク領域には番号なしリンクリストを含めるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7409,8 +7409,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <tuv lang="EN-US">
         <seg>Let’s deal with the most common type of navigation landmark first, establishing some of the features common to all navigation landmarks while we’re at it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170724T132701Z" creationid="rikiha" creationdate="20170722T233750Z">
-        <seg>まずは最も一般的なタイプのナビゲーションランドマークを見ていきつつ、すべてのナビゲーションランドマークに共通する特徴のいくつかを組み立てていきましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170726T094139Z" creationid="rikiha" creationdate="20170722T233750Z">
+        <seg>まずは最も一般的なタイプのnavigationランドマークを見ていきつつ、すべてのナビゲーションランドマークに共通する特徴のいくつかを組み立てていきましょう。</seg>
       </tuv>
     </tu>
     <tu>
