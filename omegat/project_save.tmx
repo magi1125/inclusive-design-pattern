@@ -3605,7 +3605,10 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 冗長感があったので調整しました。</note>
+      <note>(伊原) 冗長感があったので調整しました。
+
+(太田) 「目に見えるボックス」は違和感あり。実線borderでボックス自体が視認できるイメージになりそうです。
+</note>
       <tuv lang="EN-US">
         <seg>Discrete areas of web pages are variously referred to as &lt;g1&gt;regions&lt;/g1&gt;, &lt;g2&gt;blocks&lt;/g2&gt; or &lt;g3&gt;modules&lt;/g3&gt; and denote the visual boxes that demarcate parts of that page.</seg>
       </tuv>
