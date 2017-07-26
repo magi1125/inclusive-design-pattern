@@ -10549,12 +10549,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
 
 (太田)
 原文にない括弧はとりました。
+「仕様」「いくつかの」が落ちたようだったので補いました。
+commonは「共通する」というより「一般的」と訳すほうが分かりやすいかも。
 </note>
       <tuv lang="EN-US">
         <seg>The WAI-ARIA specification offers a handful of &lt;g4&gt;&lt;g5&gt;landmark roles&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;2&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; such as &lt;g9&gt;role="main"&lt;/g9&gt;, which define semantics and behaviors to make common regions accessible in assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170726T084657Z" creationid="rikiha" creationdate="20170722T131821Z">
-        <seg>WAI-ARIAが提供する&lt;g9&gt;role="main"&lt;/g9&gt;などの&lt;g4&gt;&lt;g5&gt;ランドマークロール&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注86）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;は、Webサイトで共通する領域を支援技術に対してアクセシブルにするためのセマンティクスとふるまいを定義しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170726T085143Z" creationid="rikiha" creationdate="20170722T131821Z">
+        <seg>WAI-ARIAの仕様には&lt;g9&gt;role="main"&lt;/g9&gt;などいくつかの&lt;g4&gt;&lt;g5&gt;ランドマークロール&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注86）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;が用意されており、Webサイトで一般的に使われる領域に対して、支援技術でアクセシブルにするためのセマンティクスとふるまいを定義することができます。</seg>
       </tuv>
     </tu>
     <tu>
