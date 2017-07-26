@@ -5582,12 +5582,13 @@ cognitive cacheは経験キャッシュとしてみました。</note>
 
 (太田) DL警察出動のおそれあり。黎明期は定義リストだったので間違いではないのですが。訳注ですね。
 evenの訳が落ちているように思います。Webページでさえ、としました。
+冒頭の in fact を「それどころか」としました (慣習になっている、それどころか最初からあった、という話なので)。
 </note>
       <tuv lang="EN-US">
         <seg>In fact, even &lt;g1&gt;&lt;g2&gt;the first web page ever created&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; features a rudimentary navigation region consisting of a set of links within a definition list (&lt;g6&gt;&lt;dl&gt;&lt;/g6&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170726T034139Z" creationid="yoota" creationdate="20170720T070833Z">
-        <seg>実際、&lt;g1&gt;&lt;g2&gt;世界で初めて作られたWebページ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注85）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;でさえ、定義リスト（&lt;g6&gt;&lt;dl&gt;&lt;/g6&gt;）内の一連のリンクによって構成された基本的なナビゲーション領域が存在しました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170726T034312Z" creationid="yoota" creationdate="20170720T070833Z">
+        <seg>それどころか、&lt;g1&gt;&lt;g2&gt;世界で初めて作られたWebページ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注85）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;でさえ、定義リスト（&lt;g6&gt;&lt;dl&gt;&lt;/g6&gt;）内の一連のリンクによって構成された基本的なナビゲーション領域が存在しました。</seg>
       </tuv>
     </tu>
     <tu>
