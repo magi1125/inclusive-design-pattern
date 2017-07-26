@@ -4267,12 +4267,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) リンクの番号なしリスト➞番号なしリンクリストとしました</note>
+      <note>(伊原) リンクの番号なしリスト➞番号なしリンクリストとしました
+
+(太田) 考慮に入れるというのが少し分かりにくいかも。「観点からは」としてみました。</note>
       <tuv lang="EN-US">
         <seg>For the purposes of accessible UX, progressive enhancement and backwards compatibility, landmark regions should contain an unordered list of links.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170724T133126Z" creationid="rikiha" creationdate="20170722T233753Z">
-        <seg>アクセシブルUX、プログレッシブエンハンスメント、後方互換性を考慮に入れると、ランドマーク領域には番号なしリンクリストを含めるべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170726T093049Z" creationid="rikiha" creationdate="20170722T233753Z">
+        <seg>アクセシブルUX、プログレッシブエンハンスメント、後方互換性の観点からは、ランドマーク領域には番号なしリンクリストを含めるべきです。</seg>
       </tuv>
     </tu>
     <tu>
