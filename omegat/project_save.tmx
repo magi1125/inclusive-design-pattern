@@ -10212,7 +10212,9 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) WAI-ARIAロールが掛かる位置が違うので調整。</note>
+      <note>(伊原) WAI-ARIAロールが掛かる位置が違うので調整。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; element and &lt;g2&gt;role="main"&lt;/g2&gt; WAI-ARIA role map to each other, offering the same semantics and behaviors.</seg>
       </tuv>
