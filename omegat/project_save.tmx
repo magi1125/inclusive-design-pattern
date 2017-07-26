@@ -7735,12 +7735,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ちょっと調整。</note>
+      <note>(伊原) ちょっと調整。
+
+(太田) 語順を原文に近づける形で調整。</note>
       <tuv lang="EN-US">
         <seg>Navigation landmarks, denoted either by the &lt;g2&gt;role="navigation"&lt;/g2&gt; WAI-ARIA role or the &lt;g3&gt;&lt;nav&gt;&lt;/g3&gt; element, differ in two key ways to main landmarks:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170726T090429Z" creationid="rikiha" creationdate="20170722T131858Z">
-        <seg>&lt;g2&gt;role="navigation"&lt;/g2&gt; WAI-ARIAロールまたは&lt;g3&gt;&lt;nav&gt;&lt;/g3&gt;要素として示されるnavigationランドマークは、mainランドマークとの重要な違いがふたつあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170726T090502Z" creationid="rikiha" creationdate="20170722T131858Z">
+        <seg>navigationランドマークは、&lt;g2&gt;role="navigation"&lt;/g2&gt; WAI-ARIAロールまたは&lt;g3&gt;&lt;nav&gt;&lt;/g3&gt;要素として示されますが、mainランドマークとの重要な違いがふたつあります。</seg>
       </tuv>
     </tu>
     <tu>
