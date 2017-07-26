@@ -3608,12 +3608,12 @@ visual designはそのままビジュアルデザインでいいかも。
       <note>(伊原) 冗長感があったので調整しました。
 
 (太田) 「目に見えるボックス」は違和感あり。実線borderでボックス自体が視認できるイメージになりそうです。
-</note>
+単純に「ボックス型に区切る」とかで良いように思いました。</note>
       <tuv lang="EN-US">
         <seg>Discrete areas of web pages are variously referred to as &lt;g1&gt;regions&lt;/g1&gt;, &lt;g2&gt;blocks&lt;/g2&gt; or &lt;g3&gt;modules&lt;/g3&gt; and denote the visual boxes that demarcate parts of that page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170722T224311Z" creationid="rikiha" creationdate="20170722T131817Z">
-        <seg>Webページ内の各部の呼び方は&lt;g1&gt;領域&lt;/g1&gt;、&lt;g2&gt;ブロック&lt;/g2&gt;、&lt;g3&gt;モジュール&lt;/g3&gt;などさまざまありますが、いずれも目に見えるボックスによる区切りを指しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170726T084141Z" creationid="rikiha" creationdate="20170722T131817Z">
+        <seg>Webページ内の各部は&lt;g1&gt;領域&lt;/g1&gt;、&lt;g2&gt;ブロック&lt;/g2&gt;、&lt;g3&gt;モジュール&lt;/g3&gt;などと呼ばれ、ページの各部をボックス型に区切っています。</seg>
       </tuv>
     </tu>
     <tu>
