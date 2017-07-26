@@ -4014,12 +4014,17 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     <tu>
       <note>(岡本)　関連付け→関連づけ
 
-(伊原) まわりくどい感じがあったので修正。wouldを活かすべきか。一応その方向にしてみた。</note>
+(伊原) まわりくどい感じがあったので修正。wouldを活かすべきか。一応その方向にしてみた。
+
+(太田) 付属というのも微妙な気が。
+「さまざまなページで使われる」とかでよいような。。
+
+</note>
       <tuv lang="EN-US">
         <seg>For &lt;g1&gt;site&lt;/g1&gt; navigation, these links would pertain to the different pages available in your site or application.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170726T094158Z" creationid="rikiha" creationdate="20170722T233759Z">
-        <seg>&lt;g1&gt;サイト&lt;/g1&gt;ナビゲーションとして、このリンクリストはサイトやアプリケーション内のさまざまなページに付属するものになるでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170726T094525Z" creationid="rikiha" creationdate="20170722T233759Z">
+        <seg>&lt;g1&gt;サイト&lt;/g1&gt;ナビゲーションとして、このリンクリストはサイトやアプリケーション内のさまざまなページで使われることになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
