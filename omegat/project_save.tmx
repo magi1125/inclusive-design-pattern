@@ -1831,11 +1831,12 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここでスキーマと言うべきか。要検討。</note>
       <tuv lang="EN-US">
         <seg>A friendly navigation schema does something similar by highlighting the current page: the page the user has open.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T155654Z" creationid="rikiha" creationdate="20170725T155654Z">
-        <seg>ナビゲーションスキーマも同様に、現在のページ（ユーザーが開いているページ）をハイライト表示すると分かりやすくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T115909Z" creationid="rikiha" creationdate="20170725T155654Z">
+        <seg>同様に、ユーザーフレンドリーなナビゲーションスキーマは、現在のページ、つまりユーザーが開いているページをハイライト表示します。</seg>
       </tuv>
     </tu>
     <tu>
