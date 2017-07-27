@@ -16,6 +16,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>(&lt;g1&gt;Note:&lt;/g1&gt; The CSS for the &lt;g2&gt;visually-hidden&lt;/g2&gt; class is set out in “A Blog Post.”)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134638Z" creationid="rikiha" creationdate="20170727T134638Z">
+        <seg>（注：visually-hiddenクラスのCSSについては「ブログ記事」を参照してください。）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 以下の例で@media (max-width: 60em)としてemを使っていることの説明であって、読者に推奨しているものではないと思います。</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; To ensure the media query triggers at the correct point relative to user-defined font size, we are using the em unit there, too.</seg>
@@ -31,6 +39,14 @@
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T090203Z" creationid="yoota" creationdate="20170425T085320Z">
         <seg>（注：ユーザーが指定したフォントサイズに対して相対的に正しい位置で確実にメディアクエリが実行されるようにするために、単位にemを使っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Note that Internet Explorer does not support &lt;g5&gt;hidden&lt;/g5&gt; at the time of writing, but you can force it to by adding &lt;g6&gt;[hidden] { display: none; }&lt;/g6&gt; to your style sheet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134722Z" creationid="rikiha" creationdate="20170727T134722Z">
+        <seg>（本書の執筆時現在、Internet Explorerではhiddenはサポートされていませんが、スタイルシートに[hidden] { display: none; }を追加することで対応できます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -557,6 +573,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-describedby&lt;/g2&gt; is a &lt;g3&gt;relationship attribute&lt;/g3&gt;: it associates the described element with the descriptive element via &lt;g4&gt;id&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134705Z" creationid="rikiha" creationdate="20170727T134705Z">
+        <seg>• aria-describedbyはリレーションシップ属性であり、説明される側の要素と説明する側の要素をidで関連付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 JISではbypass block を「ブロックスキップ」としています。
 リスト項目を全体的に「……する」「……しない」という形で統一しました。
@@ -855,6 +879,14 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Moving the &lt;g2&gt;aria-describedby="current"&lt;/g2&gt; attribute from one element to another between pages is easy enough, and it can be used as a styling hook just as a class might be: &lt;g3&gt;[aria-describedby="current"]&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134726Z" creationid="rikiha" creationdate="20170727T134726Z">
+        <seg>• ？？aria-describedby="current"属性は別のページの別の要素に簡単に移動でき、クラスと同じようにスタイルをつけるための仕掛けとして使用できます（[aria-describedby="current"]）。？？【コメント：不安訳です。原文「Moving the aria-describedby="current" attribute from one element to another between pages is easy enough, and it can be used as a styling hook just as a class might be: [aria-describedby="current"].」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 注記➞補足</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Notes about the score.</seg>
@@ -950,6 +982,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T095150Z" creationid="yoota" creationdate="20170523T095150Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;サブセクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The HTML5 &lt;g2&gt;hidden&lt;/g2&gt; attribute is used to hide the description both visually and from screen readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134711Z" creationid="rikiha" creationdate="20170727T134711Z">
+        <seg>• HTML5のhidden属性を使用して、説明を表示上だけでなくスクリーンリーダーからも隠しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1829,6 +1869,14 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A few notes:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134702Z" creationid="rikiha" creationdate="20170727T134702Z">
+        <seg>いくつか注意点があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのlargeは文字の大きさではなくフォントの数の話と思われます。
 
 (伊原) LGTM</note>
@@ -2320,6 +2368,14 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T075043Z" creationid="yoota" creationdate="20170511T075043Z">
         <seg>そして実用性は認知に依存しており、認知は慣習に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another approach, which goes some way to mitigate ambiguity, is to use a proxy element and &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-describedby&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134648Z" creationid="rikiha" creationdate="20170727T134648Z">
+        <seg>？？前者は意味が曖昧で、現在のページについての説明へのリンクを表しているという誤解を与えます。？？【コメント：「about」を「企業情報」と訳しているため、日本語には当てはまらない説明です。また、前文の2例の出現順が入れ替わっているため「latter」を「前者」としています。原文「The latter is ambiguous: does this link refer to a description of the current page?」】</seg>
       </tuv>
     </tu>
     <tu>
@@ -3605,6 +3661,14 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170424T065316Z" creationid="yoota" creationdate="20170424T065316Z">
         <seg>デスクトップのブラウザでは、デフォルトのフォントサイズはたいてい16pxです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Despite being hidden, because it &lt;g4&gt;has a relationship&lt;/g4&gt; to the link, the link still has access to “Current page” and it will be announced on focusing the link.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134719Z" creationid="rikiha" creationdate="20170727T134719Z">
+        <seg>隠れるとはいえ説明とリンクの関連付けは行われるため、リンクがフォーカスを受け取ると「現在のページ」と読み上げられます</seg>
       </tuv>
     </tu>
     <tu>
@@ -4981,8 +5045,8 @@ remediation は治療法?
       <tuv lang="EN-US">
         <seg>Identifying the current page link in your &lt;g1&gt;&lt;nav&gt;&lt;/g1&gt; region makes your site more usable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T120300Z" creationid="rikiha" creationdate="20170725T155701Z">
-        <seg>&lt;nav&gt;領域内における現在のページのリンクが分かるようにすると、サイトがより使いやすくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134456Z" creationid="rikiha" creationdate="20170725T155701Z">
+        <seg>&lt;g1&gt;&lt;nav&gt;&lt;/g1&gt;領域内における現在のページのリンクが分かるようにすると、サイトがより使いやすくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5590,6 +5654,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170421T034845Z" creationid="yoota" creationdate="20170421T033257Z">
         <seg>私がTwitterでフォロワーを対象に行った、デザイナーが犯すインクルージョン関連の最大のミスは何か？という調査では、「携帯端末でピンチによる拡大縮小を禁止している」が群を抜いて1位でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In any case, I’ve prepended the &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; so the screen reader says “Current page about” rather than “About current page.” The latter is ambiguous: does this link refer to a description &lt;g2&gt;of&lt;/g2&gt; the current page?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134644Z" creationid="rikiha" creationdate="20170727T134644Z">
+        <seg>例では&lt;span&gt;を前に付け加えたので、スクリーンリーダーでは「＃＃企業情報 現在のページ＃＃」ではなく「＃＃現在のページ 企業情報＃＃」と読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6263,6 +6335,14 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In the following example, focusing on the current (about page) link would trigger the announcement, “About [pause] Current page.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134658Z" creationid="rikiha" creationdate="20170727T134658Z">
+        <seg>たとえば次の例の場合は、現在の（「企業情報」ページの）リンクにフォーカスしたときに、「＃＃企業情報（一呼吸置いて）現在のページ＃＃」と読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) OK
 
 (伊原) OK</note>
@@ -6360,6 +6440,14 @@ becauseを訳出しました。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084419Z" creationid="okamoto_jun" creationdate="20170627T084419Z">
         <seg>Webを作る側の人間ならきっと、Webという文脈においてデザインという言葉がひんぱんに物議を醸し、争いを招き、しばしば意見が正反対に分かれることもご存じでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In “&lt;g1&gt;&lt;g2&gt;The Accessible Current Page Link Conundrum&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;7&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” I explored a few possibilities and a productive discussion took place in the comments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134444Z" creationid="rikiha" creationdate="20170727T134444Z">
+        <seg>私が「The Accessible Current Page Link Conundrum」（脚注91）でいくつかの可能性を検討した際、コメント欄で生産的な議論が行われました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6500,6 +6588,14 @@ CSSの用語としてはpseudo-contentではなくpseudo-elementです。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094954Z" creationid="okamoto_jun" creationdate="20170627T094954Z">
         <seg>それよりも、さまざまなものを受け入れられるようにすることのほうが大事です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, we’ll have to employ a workaround.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134429Z" creationid="rikiha" creationdate="20170727T134429Z">
+        <seg>次善策に頼るしかないのが現状です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6777,6 +6873,14 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It works like &lt;g3&gt;display: none;&lt;/g3&gt; but is syntactically neater.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134715Z" creationid="rikiha" creationdate="20170727T134715Z">
+        <seg>display: none;と似ていますが、構文的にはhiddenの方がすっきりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 「ある種の一般化」がちょっと謎ですが…。いったん保留。
 
 (太田) ここのsomeは量を言っているのかもしれませんね。ふつうsomeは多くも少なくもない感じですが、口語的には少し皮肉っぽく「相当な、かなりの」という意味で使われることもあるようで、そういう使い方なのかもしれません。
@@ -6990,6 +7094,14 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170718T061428Z" creationid="yoota" creationdate="20170622T025108Z">
         <seg>このように準備するのは良いことですが、理にかなったやり方で準備することをおすすめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s important that this text does &lt;g1&gt;not&lt;/g1&gt; replace the existing link text and is, instead, appended or prepended to it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134629Z" creationid="rikiha" creationdate="20170727T134629Z">
+        <seg>重要なのは、既存のリンクテキストをこのテキストで置き換えるのではなく、リンクテキストの前か後に付け足すことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7688,8 +7800,8 @@ manageは管理で良いような。
       <tuv lang="EN-US">
         <seg>Mac users who want to see what their web pages look like without color can go to &lt;g4&gt;System Preferences… → Accessibility → Display&lt;/g4&gt; and check &lt;g5&gt;Use grayscale&lt;/g5&gt;.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T130433Z" creationid="rikiha" creationdate="20170727T124122Z">
-        <seg>色がないWebページを見え方を知りたいなら、Macの場合は、［システム環境設定］→［アクセシビリティ］→［表示］で［グレイスケールを使用］をオンにします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134603Z" creationid="rikiha" creationdate="20170727T124122Z">
+        <seg>色がないWebページを見え方を知りたいなら、Macの場合は、&lt;g4&gt;［システム環境設定］→［アクセシビリティ］→［表示］&lt;/g4&gt;で&lt;g5&gt;［グレイスケールを使用］&lt;/g5&gt;をオンにします。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8610,6 +8722,14 @@ WCAGに従うことは、伝えるよりも良いのです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>One approach is to insert a visually hidden, screen reader announceable &lt;g2&gt;&lt;span&gt;&lt;/g2&gt; containing a cipher, like “Current page”:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134635Z" creationid="rikiha" creationdate="20170727T134635Z">
+        <seg>1つの方法は、スクリーンリーダーで読み上げられるだけで表示はされない&lt;span&gt;を挿入して、たとえば「現在のページ」のような符号を入れることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM. カタカナが多くてルーっぽいのがあれですが…w
 
 (岡本) 1つ→ひとつ</note>
@@ -9231,6 +9351,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170530T094852Z" creationid="rikiha" creationdate="20170530T094852Z">
         <seg>得点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Reader and Keyboard Support</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134423Z" creationid="rikiha" creationdate="20170727T134423Z">
+        <seg>スクリーンリーダーとキーボードサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -10495,6 +10623,14 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g7&gt;aria-describedby&lt;/g7&gt; attribute imports and appends a description which is read after a pause.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134651Z" creationid="rikiha" creationdate="20170727T134651Z">
+        <seg>もうひとつはプロキシ要素とaria-describedby（脚注92）を使用する方法です。aria-describedby属性によって読み込まれた説明はリンクテキストの後に付け足されますが、一呼吸置いてから読み上げられるため、いくらか曖昧さが軽減されるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 再登場→再掲?
 
@@ -10914,6 +11050,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The description is the descriptive element’s text node.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134709Z" creationid="rikiha" creationdate="20170727T134709Z">
+        <seg>なお、説明そのものは説明する側の要素のテキストノードで指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「それこそ桁がいくつも違ってきます。」はわかりますが、原文の "!" を生かすべく「それこそ桁違いです!」としてみました。
 
 (伊原) LGTM
@@ -11014,6 +11158,22 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T104530Z" creationid="yoota" creationdate="20170511T104448Z">
         <seg>最初のステップは、どのリンクが外部リンクかを特定することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first thing you need to do is provide some text to be read out when the screen reader operator focuses the link.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134625Z" creationid="rikiha" creationdate="20170727T134625Z">
+        <seg>まず、スクリーンリーダーユーザーがリンクにフォーカスしたときに読み上げられるテキストを指定しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following is an exposition of the better ideas that emerged there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134622Z" creationid="rikiha" creationdate="20170727T134622Z">
+        <seg>ここではその中でも特に良かったアイデアを紹介しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11780,6 +11940,14 @@ convention は他のところでは「慣習」としていたのでここもそ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T033225Z" creationid="yoota" creationdate="20170512T033225Z">
         <seg>回りくどく言う必要はありません。「ハリーがポークパイを食べた」と言えるのに、「ポークパイがハリーに食べられた」とする必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There’s no standard way to identify current page links non-visually as yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134426Z" creationid="rikiha" creationdate="20170727T134426Z">
+        <seg>現在のページのリンクを視覚的な方法以外で区別する標準的なやり方というものは今のところありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13784,6 +13952,14 @@ integratedは統合された?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T030023Z" creationid="yoota" creationdate="20170426T030009Z">
         <seg>JavaScriptが使えるかどうかに関係なく、セマンティックHTMLは支援技術のユーザーにインクルーシブな体験を保証し、インタラクションの動作をより予測可能で効率的なものにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether this text is to say “Current page,” “This page” or “You are here” is somewhat open to debate, but it should be fairly succinct.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T134641Z" creationid="rikiha" creationdate="20170727T134641Z">
+        <seg>「現在のページ」にするか、あるいは「このページ」や「現在地」の方が良いかは議論の余地がありますが、いずれにしても簡潔な言葉にしなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
