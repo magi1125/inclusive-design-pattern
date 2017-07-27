@@ -2383,8 +2383,8 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       <tuv lang="EN-US">
         <seg>Another approach, which goes some way to mitigate ambiguity, is to use a proxy element and &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-describedby&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T134648Z" creationid="rikiha" creationdate="20170727T134648Z">
-        <seg>？？前者は意味が曖昧で、現在のページについての説明へのリンクを表しているという誤解を与えます。？？【コメント：「about」を「企業情報」と訳しているため、日本語には当てはまらない説明です。また、前文の2例の出現順が入れ替わっているため「latter」を「前者」としています。原文「The latter is ambiguous: does this link refer to a description of the current page?」】</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T145314Z" creationid="rikiha" creationdate="20170727T134648Z">
+        <seg>もうひとつはプロキシ要素とaria-describedby（脚注92）を使用する方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5666,12 +5666,17 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 能動態に変更。</note>
+      <note>(伊原) 能動態に変更。
+下訳コメント：「about」を「企業情報」と訳しているため、日本語には当てはまらない説明です。また、前文の2例の出現順が入れ替わっているため「latter」を「前者」としています。
+
+About current pageじゃないと通じない文ですね。どうしたものでしょうか…。トリ？
+「いま現在の企業情報についての説明へのリンクを表しているという誤解」みたいな、無理矢理なこじつけもできなくはなさそうですが。
+</note>
       <tuv lang="EN-US">
         <seg>In any case, I’ve prepended the &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; so the screen reader says “Current page about” rather than “About current page.” The latter is ambiguous: does this link refer to a description &lt;g2&gt;of&lt;/g2&gt; the current page?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T145152Z" creationid="rikiha" creationdate="20170727T134644Z">
-        <seg>例では&lt;span&gt;を前に付け加えたので、スクリーンリーダーは「企業情報 現在のページ」ではなく「現在のページ 企業情報」と読み上げます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T145819Z" creationid="rikiha" creationdate="20170727T134644Z">
+        <seg>例では&lt;span&gt;を前に付け加えたので、スクリーンリーダーは「企業情報 現在のページ」ではなく「現在のページ 企業情報」と読み上げます。前者は意味が曖昧で、現在のページについての説明へのリンクを表しているという誤解を与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10642,8 +10647,8 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
       <tuv lang="EN-US">
         <seg>The &lt;g7&gt;aria-describedby&lt;/g7&gt; attribute imports and appends a description which is read after a pause.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T134651Z" creationid="rikiha" creationdate="20170727T134651Z">
-        <seg>もうひとつはプロキシ要素とaria-describedby（脚注92）を使用する方法です。aria-describedby属性によって読み込まれた説明はリンクテキストの後に付け足されますが、一呼吸置いてから読み上げられるため、いくらか曖昧さが軽減されるでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T145305Z" creationid="rikiha" creationdate="20170727T134651Z">
+        <seg>aria-describedby属性によって読み込まれた説明はリンクテキストの後に付け足されますが、一呼吸置いてから読み上げられるため、いくらか曖昧さが軽減されるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
