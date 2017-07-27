@@ -5674,8 +5674,8 @@ About current pageじゃないと通じない文ですね。どうしたもの�
       <tuv lang="EN-US">
         <seg>In any case, I’ve prepended the &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; so the screen reader says “Current page about” rather than “About current page.” The latter is ambiguous: does this link refer to a description &lt;g2&gt;of&lt;/g2&gt; the current page?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T150153Z" creationid="rikiha" creationdate="20170727T134644Z">
-        <seg>例では&lt;span&gt;を前に付け加えたので、スクリーンリーダーは「企業情報 現在のページ」ではなく「現在のページ 企業情報」と読み上げます。「企業情報 現在のページ」は意味が曖昧で、現在のページに関する説明へのリンクであるという誤解を与えます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T154812Z" creationid="rikiha" creationdate="20170727T134644Z">
+        <seg>例では&lt;span&gt;を前に付け加えたので、スクリーンリーダーは「企業情報 現在のページ」ではなく「現在のページ 企業情報」と読み上げます。この「企業情報 現在のページ」は意味があいまいです。現在のページに関する説明へのリンクであるという誤解を与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10646,8 +10646,8 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
       <tuv lang="EN-US">
         <seg>The &lt;g7&gt;aria-describedby&lt;/g7&gt; attribute imports and appends a description which is read after a pause.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T145305Z" creationid="rikiha" creationdate="20170727T134651Z">
-        <seg>aria-describedby属性によって読み込まれた説明はリンクテキストの後に付け足されますが、一呼吸置いてから読み上げられるため、いくらか曖昧さが軽減されるでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T154746Z" creationid="rikiha" creationdate="20170727T134651Z">
+        <seg>aria-describedby属性によって読み込まれて付け足される説明は、一呼吸置いてから読み上げられるためです。</seg>
       </tuv>
     </tu>
     <tu>
