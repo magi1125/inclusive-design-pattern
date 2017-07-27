@@ -11165,14 +11165,16 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 受身になっているのがわかりにくいので調整。</note>
       <tuv lang="EN-US">
         <seg>The first thing you need to do is provide some text to be read out when the screen reader operator focuses the link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T134625Z" creationid="rikiha" creationdate="20170727T134625Z">
-        <seg>まず、スクリーンリーダーユーザーがリンクにフォーカスしたときに読み上げられるテキストを指定しなければなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T143450Z" creationid="rikiha" creationdate="20170727T134625Z">
+        <seg>まず、リンクにフォーカスしたときにスクリーンリーダーが読み上げるテキストを指定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The following is an exposition of the better ideas that emerged there.</seg>
       </tuv>
