@@ -4472,11 +4472,12 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 現在位置の把握大事、ということを言いたいのだと思うので、原文に沿った言い回しに。</note>
       <tuv lang="EN-US">
         <seg>Half of knowing where you want to go is knowing where you are already.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T155648Z" creationid="rikiha" creationdate="20170725T155648Z">
-        <seg>自分が行きたい場所を知るためには、自分が今いる場所を知る必要があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T114709Z" creationid="rikiha" creationdate="20170725T155648Z">
+        <seg>自分の行き先を知ることの半分は、自分がどこにいるかを知ることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14372,13 +14373,13 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
     <tu>
       <note>(岡本）書体が違うのが謎ですが、見出しレベルは3ですね。
 
-(伊原) OK
+(伊原) OK…と思ったのですが、カッコがついていると変なのでトリました。
 ※この節確認中</note>
       <tuv lang="EN-US">
         <seg>“You Are Here”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T155627Z">
-        <seg>「現在位置」</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T114140Z">
+        <seg>現在位置</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
