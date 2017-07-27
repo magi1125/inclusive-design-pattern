@@ -1933,11 +1933,12 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) もう一歩というより別の方法なので、そのように調整。</note>
       <tuv lang="EN-US">
         <seg>A more ambitious solution might be to use some scaling and a little pointer, provided in pseudo-content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T124129Z" creationid="rikiha" creationdate="20170727T124129Z">
-        <seg>さらにもう一歩進め、疑似コンテンツを使用して拡大したり小さいポインターを表示するなどしても良いでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T131801Z" creationid="rikiha" creationdate="20170727T124129Z">
+        <seg>より意欲的なやり方として、リンクを拡大したり、疑似要素によって小さなポインターを表示したりしても良いかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
