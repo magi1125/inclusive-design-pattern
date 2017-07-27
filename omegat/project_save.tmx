@@ -7099,6 +7099,7 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It’s important that this text does &lt;g1&gt;not&lt;/g1&gt; replace the existing link text and is, instead, appended or prepended to it.</seg>
       </tuv>
@@ -8724,11 +8725,12 @@ WCAGに従うことは、伝えるよりも良いのです。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) cipherは暗号とかカギとかそういうニュアンスのようなので、符号➞隠し文字としてみました。</note>
       <tuv lang="EN-US">
         <seg>One approach is to insert a visually hidden, screen reader announceable &lt;g2&gt;&lt;span&gt;&lt;/g2&gt; containing a cipher, like “Current page”:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T134635Z" creationid="rikiha" creationdate="20170727T134635Z">
-        <seg>1つの方法は、スクリーンリーダーで読み上げられるだけで表示はされない&lt;span&gt;を挿入して、たとえば「現在のページ」のような符号を入れることです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T144104Z" creationid="rikiha" creationdate="20170727T134635Z">
+        <seg>ひとつの手としては、視覚的に表示されないがスクリーンリーダーで読み上げられる&lt;span&gt;を挿入することで「現在のページ」のような隠し文字を入れることです。</seg>
       </tuv>
     </tu>
     <tu>
