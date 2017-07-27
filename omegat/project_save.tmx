@@ -46,8 +46,8 @@
       <tuv lang="EN-US">
         <seg>(Note that Internet Explorer does not support &lt;g5&gt;hidden&lt;/g5&gt; at the time of writing, but you can force it to by adding &lt;g6&gt;[hidden] { display: none; }&lt;/g6&gt; to your style sheet.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T134722Z" creationid="rikiha" creationdate="20170727T134722Z">
-        <seg>（本書の執筆時現在、Internet Explorerではhiddenはサポートされていませんが、スタイルシートに[hidden] { display: none; }を追加することで対応できます）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T163224Z" creationid="rikiha" creationdate="20170727T134722Z">
+        <seg>（本書の執筆時現在、Internet Explorerでは&lt;g5&gt;hidden&lt;/g5&gt;はサポートされていませんが、スタイルシートに&lt;g6&gt;[hidden] { display: none; }&lt;/g6&gt;を追加すれば無理やり使うことができます）。</seg>
       </tuv>
     </tu>
     <tu>
