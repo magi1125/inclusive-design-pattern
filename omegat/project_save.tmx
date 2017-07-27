@@ -1583,6 +1583,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;As illustrated, a clear differentiation by hue can be a faint differentiation by shade to some color blind users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T124118Z" creationid="rikiha" creationdate="20170727T124118Z">
+        <seg>図のように、色合いがまったく違っていても色覚障害を持つユーザーにはわずかな違いしか感じられらないこともあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 画像キャプションです。
 括弧は原文にありませんし不要かと。
 画像の内容はaltのとおりで、左から右にローディングが進むプロセスをあらわしています。HTMLがロードされた時点でコンテンツが読めるようになり、CSSが来ても、JSが来てもコンテンツはありつづけるという話です。
@@ -1921,6 +1929,14 @@ Note を訳出しました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T112139Z" creationid="yoota" creationdate="20170501T112139Z">
         <seg>Webデザイン関連の記事や本には、ワークフローの改善や、開発者側が楽をするための方法が書かれたものがたくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A more ambitious solution might be to use some scaling and a little pointer, provided in pseudo-content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T124129Z" creationid="rikiha" creationdate="20170727T124129Z">
+        <seg>さらにもう一歩進め、疑似コンテンツを使用して拡大したり小さいポインターを表示するなどしても良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,6 +2338,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T105115Z" creationid="yoota" creationdate="20170511T104711Z">
         <seg>&lt;g1&gt;href&lt;/g1&gt;の値が&lt;g2&gt;http&lt;/g2&gt;で始まり（つまり相対リンクではない）、&lt;g3&gt;かつ&lt;/g3&gt;、現在のドメインにリンクしていないすべてのリンクが対象になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any method is acceptable so long as the link text remains unobscured and readable, and the hue is not the only means of differentiation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T124150Z" creationid="rikiha" creationdate="20170727T124150Z">
+        <seg>リンクテキストがはっきりと読めさえすれば、どんな方法でもかまいません。色以外にも方法はあるのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6851,6 +6875,14 @@ facilitating and easing のfacilitatingも行方不明かも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s best to provide an additional adornment, such as a text underline, as an alternative means of differentiation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T124313Z" creationid="rikiha" creationdate="20170727T124108Z">
+        <seg>ベストなのは、他の装飾と併用することです。代替手段として、たとえばテキストに下線を引くなど、他の装飾と併用するのがベストです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)
 もう1つ→もうひとつ、よく分かる→よくわかる
 
@@ -7648,6 +7680,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Mac users who want to see what their web pages look like without color can go to &lt;g4&gt;System Preferences… → Accessibility → Display&lt;/g4&gt; and check &lt;g5&gt;Use grayscale&lt;/g5&gt;.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T124122Z" creationid="rikiha" creationdate="20170727T124122Z">
+        <seg>Macをお使いの方は、［システム環境設定］→［ユニバーサルアクセス］→［表示］で［グレイスケールを使用］をオンにしてみましょう。色がないとWebページがどのように見えるかが分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 命令系なので「確認してください」くらいかなと。
 
 (伊原) OK</note>
@@ -7785,12 +7825,28 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Nav bar with active “about” inside a white bordered box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T124134Z" creationid="rikiha" creationdate="20170727T124134Z">
+        <seg>ナビゲーションバーのアクティブなリンク「企業情報」が白縁のボックスで囲まれた状態。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Navigation Regions</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T063305Z" creationid="yoota" creationdate="20170720T063305Z">
         <seg>ナビゲーション領域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigation bar with the active “about” link underlined.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T124114Z" creationid="rikiha" creationdate="20170727T124114Z">
+        <seg>ナビゲーションバーのアクティブなリンク「企業情報」に下線が引かれた状態。</seg>
       </tuv>
     </tu>
     <tu>
