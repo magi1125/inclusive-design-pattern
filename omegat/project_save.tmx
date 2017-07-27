@@ -1341,9 +1341,14 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(岡本)　このコメント、和訳する必要があります。参考訳文のままでOKですか？</note>
+      <note>(岡本)　このコメント、和訳する必要があります。参考訳文のままでOKですか？
+
+(伊原) 多少調整して入れました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g6&gt;&lt;!-- the last interactive elements on the page --&gt;&lt;/g6&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T114030Z">
+        <seg>&lt;g6&gt;&lt;!-- このページ内で最後のインタラクティブな要素 --&gt;&lt;/g6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3290,7 +3295,8 @@ roll backは「引き下げる」のような意味で、ここでは「限定�
 古の存在を呼び覚ますようなイメージなのですかね?
 rudimentaryは原始的のほうがいいかも。
 少し調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>By using an unordered list, we evoke the rudimentary navigation schemas possible in HTML4 and XHTML and build on a recognized convention.</seg>
       </tuv>
@@ -4031,7 +4037,7 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
 (太田) 付属というのも微妙な気が。
 「さまざまなページで使われる」とかでよいような。。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For &lt;g1&gt;site&lt;/g1&gt; navigation, these links would pertain to the different pages available in your site or application.</seg>
       </tuv>
@@ -11237,7 +11243,7 @@ Good!
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ためだけでなく、ためでもある、としました。</note>
+      <note>(伊原) ためだけでなく〜ためでもある、としました。</note>
       <tuv lang="EN-US">
         <seg>The purpose of placing site navigation at the top of the page is not only for cognition, but interaction.</seg>
       </tuv>
