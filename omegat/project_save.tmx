@@ -6349,11 +6349,12 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) すこし調整。</note>
       <tuv lang="EN-US">
         <seg>In the following example, focusing on the current (about page) link would trigger the announcement, “About [pause] Current page.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T134658Z" creationid="rikiha" creationdate="20170727T134658Z">
-        <seg>たとえば次の例の場合は、現在の（「企業情報」ページの）リンクにフォーカスしたときに、「＃＃企業情報（一呼吸置いて）現在のページ＃＃」と読み上げられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T155303Z" creationid="rikiha" creationdate="20170727T134658Z">
+        <seg>たとえば次の例なら、現在の（「企業情報」ページの）リンクにフォーカスしたときに、「企業情報（一呼吸置いて）現在のページ」と読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
