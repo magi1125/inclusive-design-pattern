@@ -20,8 +20,8 @@
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; The CSS for the &lt;g2&gt;visually-hidden&lt;/g2&gt; class is set out in “A Blog Post.”)</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T144638Z" creationid="rikiha" creationdate="20170727T134638Z">
-        <seg>（注：CSSのvisually-hiddenクラスについては「ブログ記事」を参照してください。）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T154839Z" creationid="rikiha" creationdate="20170727T134638Z">
+        <seg>（&lt;g1&gt;注&lt;/g1&gt;：CSSの&lt;g2&gt;visually-hidden&lt;/g2&gt;クラスについては「ブログ記事」を参照してください。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2383,8 +2383,8 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       <tuv lang="EN-US">
         <seg>Another approach, which goes some way to mitigate ambiguity, is to use a proxy element and &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-describedby&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T154525Z" creationid="rikiha" creationdate="20170727T134648Z">
-        <seg>もうひとつのアプローチであれば、あいまいさが軽減されます。代理となる要素とaria-describedby（脚注92）を使用する方法です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T155031Z" creationid="rikiha" creationdate="20170727T134648Z">
+        <seg>もうひとつのアプローチであれば、あいまいさが軽減されます。代理となる要素と&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-describedby&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注92）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を使用する方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5674,8 +5674,8 @@ About current pageじゃないと通じない文ですね。どうしたもの�
       <tuv lang="EN-US">
         <seg>In any case, I’ve prepended the &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; so the screen reader says “Current page about” rather than “About current page.” The latter is ambiguous: does this link refer to a description &lt;g2&gt;of&lt;/g2&gt; the current page?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T154812Z" creationid="rikiha" creationdate="20170727T134644Z">
-        <seg>例では&lt;span&gt;を前に付け加えたので、スクリーンリーダーは「企業情報 現在のページ」ではなく「現在のページ 企業情報」と読み上げます。この「企業情報 現在のページ」は意味があいまいです。現在のページに関する説明へのリンクであるという誤解を与えます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T154951Z" creationid="rikiha" creationdate="20170727T134644Z">
+        <seg>例では&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;を前に付け加えたので、スクリーンリーダーは「企業情報 現在のページ」ではなく「現在のページ 企業情報」と読み上げます。この「企業情報 現在のページ」は意味があいまいです。現在のページに&lt;g2&gt;関する&lt;/g2&gt;説明へのリンクであるという誤解を与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10643,11 +10643,12 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 原文に近い分節に分割。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g7&gt;aria-describedby&lt;/g7&gt; attribute imports and appends a description which is read after a pause.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T154746Z" creationid="rikiha" creationdate="20170727T134651Z">
-        <seg>aria-describedby属性によって読み込まれて付け足される説明は、一呼吸置いてから読み上げられるためです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T155147Z" creationid="rikiha" creationdate="20170727T134651Z">
+        <seg>&lt;g7&gt;aria-describedby&lt;/g7&gt;属性によって読み込まれ付け足される説明は、一呼吸置いてから読み上げられるためです。</seg>
       </tuv>
     </tu>
     <tu>
