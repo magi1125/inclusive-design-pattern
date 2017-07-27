@@ -5675,8 +5675,8 @@ About current pageじゃないと通じない文ですね。どうしたもの�
       <tuv lang="EN-US">
         <seg>In any case, I’ve prepended the &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; so the screen reader says “Current page about” rather than “About current page.” The latter is ambiguous: does this link refer to a description &lt;g2&gt;of&lt;/g2&gt; the current page?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T150039Z" creationid="rikiha" creationdate="20170727T134644Z">
-        <seg>例では&lt;span&gt;を前に付け加えたので、スクリーンリーダーは「企業情報 現在のページ」ではなく「現在のページ 企業情報」と読み上げます。前者は意味が曖昧で、現在のページに関する説明へのリンクであるという誤解を与えます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T150120Z" creationid="rikiha" creationdate="20170727T134644Z">
+        <seg>例では&lt;span&gt;を前に付け加えたので、スクリーンリーダーは「企業情報 現在のページ」ではなく「現在のページ 企業情報」と読み上げます。「企業情報 現在のページ」だと意味が曖昧で、現在のページに関する説明へのリンクであるという誤解を与えます。</seg>
       </tuv>
     </tu>
     <tu>
