@@ -1583,11 +1583,12 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) shadeの訳が落ちてるようなので追加。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;As illustrated, a clear differentiation by hue can be a faint differentiation by shade to some color blind users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T124118Z" creationid="rikiha" creationdate="20170727T124118Z">
-        <seg>図のように、色合いがまったく違っていても色覚障害を持つユーザーにはわずかな違いしか感じられらないこともあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T125702Z" creationid="rikiha" creationdate="20170727T124118Z">
+        <seg>図のように色合いによる区別が明らかでも、色覚障害のユーザーによってはその違いはわずかな陰影にすぎません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7842,11 +7843,12 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 画像alt。ここのactiveは現在位置のことなので、そのように調整。</note>
       <tuv lang="EN-US">
         <seg>Navigation bar with the active “about” link underlined.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T124646Z" creationid="rikiha" creationdate="20170727T124114Z">
-        <seg>ナビゲーションバー。アクティブなリンク「企業情報」にアンダーラインが引かれている。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T124816Z" creationid="rikiha" creationdate="20170727T124114Z">
+        <seg>ナビゲーションバー。「企業情報」リンクに現在位置を示すアンダーラインが引かれている。</seg>
       </tuv>
     </tu>
     <tu>
