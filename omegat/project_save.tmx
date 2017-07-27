@@ -895,8 +895,8 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Moving the &lt;g2&gt;aria-describedby="current"&lt;/g2&gt; attribute from one element to another between pages is easy enough, and it can be used as a styling hook just as a class might be: &lt;g3&gt;[aria-describedby="current"]&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T164206Z" creationid="rikiha" creationdate="20170727T134726Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;別ページに移動したとき、aria-describedby="current"属性を別のリンクに移し替えることは簡単です。[aria-describedby="current"]と書けば、スタイルを指定するフックとしてclassと同じように使用できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T164227Z" creationid="rikiha" creationdate="20170727T134726Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;別ページに移動したとき、aria-describedby="current"属性を別のリンクに移し替えることは簡単です。CSSで[aria-describedby="current"]と書けば、スタイルを指定するフックとしてclassと同じように使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9388,8 +9388,7 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK
-この節確認中。</note>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Screen Reader and Keyboard Support</seg>
       </tuv>
