@@ -957,7 +957,9 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
 
 (太田) 
 should be なので「なければならない」「必要がある」は強すぎるかも。
-全体的にちょっと調整してみました。</note>
+全体的にちょっと調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The content inside navigation landmarks that appear on multiple pages (such as a common site navigation block) should be consistent between those pages.</seg>
       </tuv>
@@ -1114,7 +1116,9 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
     <tu>
       <note>(伊原) OK
 
-(太田) 設定できる→あってもよい、としました (原文 have)</note>
+(太田) 設定できる→あってもよい、としました (原文 have)
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;You can have more than one navigation landmark per page.</seg>
       </tuv>
@@ -3623,7 +3627,8 @@ visual designはそのままビジュアルデザインでいいかも。
 (太田) 「目に見えるボックス」は違和感あり。実線borderでボックス自体が視認できるイメージになりそうです。
 単純に「箱型に区切る」とかで良いように思いました。
 どうにも分かりにくいので、思い切って語順を入れ替えてみました。箱型に区切られたエリアがさまざまに呼ばれる、という話で間違っていないのではないかと思います。
-</note>
+
+(伊原) OK、こちらのほうがいいですね。</note>
       <tuv lang="EN-US">
         <seg>Discrete areas of web pages are variously referred to as &lt;g1&gt;regions&lt;/g1&gt;, &lt;g2&gt;blocks&lt;/g2&gt; or &lt;g3&gt;modules&lt;/g3&gt; and denote the visual boxes that demarcate parts of that page.</seg>
       </tuv>
@@ -4281,7 +4286,9 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
     <tu>
       <note>(伊原) リンクの番号なしリスト➞番号なしリンクリストとしました
 
-(太田) 考慮に入れるというのが少し分かりにくいかも。「観点からは」としてみました。</note>
+(太田) 考慮に入れるというのが少し分かりにくいかも。「観点からは」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For the purposes of accessible UX, progressive enhancement and backwards compatibility, landmark regions should contain an unordered list of links.</seg>
       </tuv>
@@ -4293,7 +4300,9 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       <note>(伊原) 目指すのであれば〜はちょっと違うかなと。インクルージョンという語は既出なので使用しました。
 
 (太田)
-ナビゲーション&lt;g1&gt;ランドマーク&lt;/g1&gt; はランドマークの名称と思われるので、とすると navigation とするべきかと思います。</note>
+ナビゲーション&lt;g1&gt;ランドマーク&lt;/g1&gt; はランドマークの名称と思われるので、とすると navigation とするべきかと思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For the purposes of inclusion, our navigation regions should also be navigation &lt;g1&gt;landmarks&lt;/g1&gt;.</seg>
       </tuv>
@@ -4668,7 +4677,9 @@ http://www.dictionary.com/browse/radical
 
 (岡本) 分かる→わかる
 
-(太田) ダッシュ区切りの表現を原文にあわせました。</note>
+(太田) ダッシュ区切りの表現を原文にあわせました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>How to inclusively indicate the current page — so that everyone knows where they are!</seg>
       </tuv>
@@ -7419,12 +7430,13 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
 (太田) 特徴を組み立てるというのは変なのでは。
 ここのestablishは立証、確かめるに近い意味かも。
 後で検討。
-</note>
+
+(伊原) いくつかの特徴を確かめてみましょう、としてみました。</note>
       <tuv lang="EN-US">
         <seg>Let’s deal with the most common type of navigation landmark first, establishing some of the features common to all navigation landmarks while we’re at it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170726T094147Z" creationid="rikiha" creationdate="20170722T233750Z">
-        <seg>まずは最も一般的なタイプのnavigationランドマークを見ていきつつ、すべてのnavigationランドマークに共通する特徴のいくつかを組み立てていきましょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T113609Z" creationid="rikiha" creationdate="20170722T233750Z">
+        <seg>まずは最も一般的なタイプのnavigationランドマークを見ていきつつ、すべてのnavigationランドマークに共通するいくつかの特徴を確かめてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7766,7 +7778,9 @@ manageは管理で良いような。
     <tu>
       <note>(伊原) ちょっと調整。
 
-(太田) 語順を原文に近づける形で調整。</note>
+(太田) 語順を原文に近づける形で調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Navigation landmarks, denoted either by the &lt;g2&gt;role="navigation"&lt;/g2&gt; WAI-ARIA role or the &lt;g3&gt;&lt;nav&gt;&lt;/g3&gt; element, differ in two key ways to main landmarks:</seg>
       </tuv>
@@ -10587,7 +10601,9 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
 原文にない括弧はとりました。
 「仕様」「いくつかの」が落ちたようだったので補いました。
 commonは「共通する」というより「一般的」と訳すほうが分かりやすいかも。
-調整してみましたがどうでしょうか。</note>
+調整してみましたがどうでしょうか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The WAI-ARIA specification offers a handful of &lt;g4&gt;&lt;g5&gt;landmark roles&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;2&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; such as &lt;g9&gt;role="main"&lt;/g9&gt;, which define semantics and behaviors to make common regions accessible in assistive technologies.</seg>
       </tuv>
