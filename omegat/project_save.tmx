@@ -891,11 +891,12 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 現在地表示を書き換えるのも簡単である、ということがいいたいのだと思うので、そのように調整しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Moving the &lt;g2&gt;aria-describedby="current"&lt;/g2&gt; attribute from one element to another between pages is easy enough, and it can be used as a styling hook just as a class might be: &lt;g3&gt;[aria-describedby="current"]&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T163911Z" creationid="rikiha" creationdate="20170727T134726Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;別ページに移動したとき、aria-describedby="current"属性を別のリンクに移し替えることは簡単です。[aria-describedby="current"]と書けば、クラスと同じようにスタイルをつけるための仕掛けとしても使用できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170727T164206Z" creationid="rikiha" creationdate="20170727T134726Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;別ページに移動したとき、aria-describedby="current"属性を別のリンクに移し替えることは簡単です。[aria-describedby="current"]と書けば、スタイルを指定するフックとしてclassと同じように使用できます。</seg>
       </tuv>
     </tu>
     <tu>
