@@ -6098,8 +6098,8 @@ well-matched はよくマッチするということで、システムフォン�
       <tuv lang="EN-US">
         <seg>In practice, this means that clicking the link will reload the page, dumping the keyboard user’s focus at the very top, on the document itself.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142546Z" creationid="rikiha" creationdate="20170728T142546Z">
-        <seg>それは、現在のページのリンクが「企業情報」ページ、つまり現在のページをポイントしているということです。そのため、リンクをクリックするとページの再読み込みが行われ、キーボードユーザーのフォーカスは再びドキュメントの一番上に戻ってしまいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T144311Z" creationid="rikiha" creationdate="20170728T142546Z">
+        <seg>そのため、リンクをクリックするとページの再読み込みが行われ、キーボードユーザーのフォーカスは再びドキュメントの一番上に戻ってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9999,11 +9999,18 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
     </tu>
     <tu>
+      <note>Some unfinished business:
+
+
+
+
+points to the same about page.
+</note>
       <tuv lang="EN-US">
         <seg>Some unfinished business: on the about page, the current page link, now accessibly identified, points to the same about page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142542Z" creationid="rikiha" creationdate="20170728T142542Z">
-        <seg>これで現在のページのリンクをアクセシブルに区別できるようになりました。しかし、まだ問題が残っています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T145310Z" creationid="rikiha" creationdate="20170728T142542Z">
+        <seg>まだ話は終わっていません。現在のページを示すリンクはアクセシブルに識別できるようになりましたが、企業情報ページ上だと、そのリンクは同じく企業情報ページ、つまり自分自身を指しているのです。</seg>
       </tuv>
     </tu>
     <tu>
