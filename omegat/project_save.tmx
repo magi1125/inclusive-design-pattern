@@ -588,7 +588,10 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(岡本）関連付け→関連づけ</note>
+      <note>(伊原) OK
+
+(岡本）関連付け→関連づけ
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-describedby&lt;/g2&gt; is a &lt;g3&gt;relationship attribute&lt;/g3&gt;: it associates the described element with the descriptive element via &lt;g4&gt;id&lt;/g4&gt;.</seg>
       </tuv>
@@ -2398,6 +2401,7 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) proxy elementをどう訳すか。いったん「代理となる要素」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Another approach, which goes some way to mitigate ambiguity, is to use a proxy element and &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-describedby&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
@@ -5688,8 +5692,8 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 能動態に変更。
-下訳コメント：「about」を「企業情報」と訳しているため、日本語には当てはまらない説明です。また、前文の2例の出現順が入れ替わっているため「latter」を「前者」としています。
+      <note>(伊原) 【要検討】
+【下訳コメント：「about」を「企業情報」と訳しているため、日本語には当てはまらない説明です。また、前文の2例の出現順が入れ替わっているため「latter」を「前者」としています。】
 
 About current pageじゃないと通じない文ですね。どうしたものでしょうか…。トリ？　しかし、ここの誤解の話がないと次のアプローチの話に繋がらなくなりそう。「いま現在の企業情報に関する説明へのリンクであるという誤解」みたいな、無理矢理なこじつけもできなくはなさそうですが。
 </note>
