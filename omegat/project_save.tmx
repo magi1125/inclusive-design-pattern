@@ -588,11 +588,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(岡本）関連付け→関連づけ</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-describedby&lt;/g2&gt; is a &lt;g3&gt;relationship attribute&lt;/g3&gt;: it associates the described element with the descriptive element via &lt;g4&gt;id&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T155438Z" creationid="rikiha" creationdate="20170727T134705Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-describedby&lt;/g2&gt;は&lt;g3&gt;リレーションシップ属性&lt;/g3&gt;であり、説明される側の要素と説明する側の要素を&lt;g4&gt;id&lt;/g4&gt;で関連付けます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170728T032750Z" creationid="rikiha" creationdate="20170727T134705Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-describedby&lt;/g2&gt;は&lt;g3&gt;リレーションシップ属性&lt;/g3&gt;であり、説明される側の要素と説明する側の要素を&lt;g4&gt;id&lt;/g4&gt;で関連づけます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6367,7 +6368,9 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) すこし調整。</note>
+      <note>(伊原) すこし調整。
+
+(岡本）一呼吸→ひと呼吸</note>
       <tuv lang="EN-US">
         <seg>In the following example, focusing on the current (about page) link would trigger the announcement, “About [pause] Current page.”</seg>
       </tuv>
@@ -10667,8 +10670,8 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
       <tuv lang="EN-US">
         <seg>The &lt;g7&gt;aria-describedby&lt;/g7&gt; attribute imports and appends a description which is read after a pause.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T155147Z" creationid="rikiha" creationdate="20170727T134651Z">
-        <seg>&lt;g7&gt;aria-describedby&lt;/g7&gt;属性によって読み込まれ付け足される説明は、一呼吸置いてから読み上げられるためです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170728T032518Z" creationid="rikiha" creationdate="20170727T134651Z">
+        <seg>&lt;g7&gt;aria-describedby&lt;/g7&gt;属性によって読み込まれ付け足される説明は、ひと呼吸置いてから読み上げられるためです。</seg>
       </tuv>
     </tu>
     <tu>
