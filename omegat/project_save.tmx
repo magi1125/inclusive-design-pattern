@@ -11686,8 +11686,8 @@ audit をどう訳すか。あまり検査とは言わないようにも思い�
       <tuv lang="EN-US">
         <seg>The redundancy of the self-referential link has prompted some designers to remove it altogether.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142551Z" creationid="rikiha" creationdate="20170728T142551Z">
-        <seg>このように自己参照リンクは余計な繰り返し（重複）が生じるため、一切使わないというデザイナーもいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T153625Z" creationid="rikiha" creationdate="20170728T142551Z">
+        <seg>自己参照リンクは冗長であるため、完全に取り除いたほうがよいというデザイナーもいます。</seg>
       </tuv>
     </tu>
     <tu>
