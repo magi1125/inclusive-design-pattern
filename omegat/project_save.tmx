@@ -46,6 +46,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>(Be wary of using this technique in single-page applications.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142653Z" creationid="rikiha" creationdate="20170728T142653Z">
+        <seg>ただし、この方法をシングルページアプリケーションで用いる場合は注意が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) forceのニュアンスを出してみました。</note>
       <tuv lang="EN-US">
         <seg>(Note that Internet Explorer does not support &lt;g5&gt;hidden&lt;/g5&gt; at the time of writing, but you can force it to by adding &lt;g6&gt;[hidden] { display: none; }&lt;/g6&gt; to your style sheet.</seg>
@@ -2563,6 +2571,14 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As a remedy, I’ve heard it suggested to remove the current page link’s &lt;g1&gt;href&lt;/g1&gt;, or to replace the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; entirely with an uninteractive &lt;g3&gt;&lt;span&gt;&lt;/g3&gt; element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142607Z" creationid="rikiha" creationdate="20170728T142607Z">
+        <seg>その対処法として寄せられたのが、現在のページのリンクのhrefを削除するか、&lt;a&gt;そのものを非インタラクティブ要素である&lt;span&gt;要素で置き換えるという案です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>As a result, they alienated the majority of dyslexic readers as well as creating a “clunky and difficult to read” font for everyone.</seg>
@@ -3608,6 +3624,14 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Credit should go to &lt;g1&gt;&lt;g2&gt;Daniel Göransson&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;9&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; for suggesting this solution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142645Z" creationid="rikiha" creationdate="20170728T142645Z">
+        <seg>この方法を提案してくれたダニエル・ゴランソン（Göransson）（脚注93）に拍手を送ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「現在」と言われると微妙ですね。ここまでの例では、的なことではあります。
 
@@ -4414,6 +4438,22 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For screen reader users, this will prompt the repeated announcement of document-level information such as the &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; and a set of meta information about the page such as how many links it contains.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142548Z" creationid="rikiha" creationdate="20170728T142548Z">
+        <seg>またスクリーンリーダーユーザーの場合は、&lt;title&gt;などのドキュメントレベルの情報や、含まれているリンクの数などページに関するメタ情報一式がもう一度読み上げられることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For single-page applications, the &lt;g1&gt;aria-describedby&lt;/g1&gt; approach would therefore be more suitable.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142704Z" creationid="rikiha" creationdate="20170728T142704Z">
+        <seg>したがって、シングルページアプリケーションの場合はaria-describedbyの方が適しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 2文に分けつつ調整してみました。
 
@@ -4514,13 +4554,13 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 訳は正しそうだが、意味がちょっと謎。
+      <note>(伊原) OK
 ※この節検討中</note>
       <tuv lang="EN-US">
         <seg>From Redundant Link to Skip Link</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142538Z" creationid="rikiha" creationdate="20170728T142538Z">
-        <seg>冗長なリンクからスキップリンクへ</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142836Z" creationid="rikiha" creationdate="20170728T142538Z">
+        <seg>重複リンクをスキップリンクに</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,6 +5219,14 @@ poorは貧弱というか、ここでは「ダメな」「望ましくない」�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170601T105437Z" creationid="rikiha" creationdate="20170601T073157Z">
         <seg>インデントが一貫していないなど、望ましくないコーディングスタイルでビルドが止まるというのは、よくあるやり方です。では、製品がユーザーを疎外する危険性がある、という理由でビルドが止まるとしたらどうでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the current page indicator is not focusable, it would be skipped over as if it didn’t exist.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142614Z" creationid="rikiha" creationdate="20170728T142614Z">
+        <seg>したがって、せっかく現在のページの目印を設置しても、フォーカスできなければ、そんなものは存在しないかのようにスキップされてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6044,6 +6092,14 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T073040Z" creationid="yoota" creationdate="20170501T072017Z">
         <seg>実際のところ、システムフォントは多くの文字にマッチし、普段あまり使われない文字も提供できます。そのため、Webフォントを大幅にサブセット化しても問題ないというわけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In practice, this means that clicking the link will reload the page, dumping the keyboard user’s focus at the very top, on the document itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142546Z" creationid="rikiha" creationdate="20170728T142546Z">
+        <seg>それは、現在のページのリンクが「企業情報」ページ、つまり現在のページをポイントしているということです。そのため、リンクをクリックするとページの再読み込みが行われ、キーボードユーザーのフォーカスは再びドキュメントの一番上に戻ってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7986,6 +8042,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>My favorite solution is to make the current page link point to the main region of the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142617Z" creationid="rikiha" creationdate="20170728T142617Z">
+        <seg>私が好きなのは、現在のページのリンクのポイント先をページのメイン領域にするという方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田)
@@ -8346,6 +8410,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T093933Z" creationid="okamoto_jun" creationdate="20170627T093933Z">
         <seg>このヘルパー関数は処理を遅くしますが、それ以前に、そもそも信頼できないものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not only is the link easy to style via the &lt;g1&gt;[href="#main"]&lt;/g1&gt; attribute selector, but its behavior is communicated to assistive technologies: on focusing the home link, “Home, link” will be announced.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142629Z" creationid="rikiha" creationdate="20170728T142629Z">
+        <seg>この方法なら[href="#main"]属性セレクタを使って簡単にリンクのスタイルを指定できるだけでなく、その動作は支援技術にも伝えられます。したがって、たとえば「ホーム」のリンクにフォーカスすると、「＃＃ホーム、link＃＃」と読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8737,6 +8809,14 @@ To come before and after, or at both sides of.
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T033150Z" creationid="yoota" creationdate="20170426T040649Z">
         <seg>ネットワークの速度が遅い場合は、コンテンツができるだけ早く表示されるようにしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the about page, that would leave us with:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142554Z" creationid="rikiha" creationdate="20170728T142554Z">
+        <seg>その場合、「企業情報」ページのナビゲーションは次のようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9916,6 +9996,22 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T051704Z" creationid="yoota" creationdate="20170510T045951Z">
         <seg>「一枚の絵は千の言葉に値する」と言う人もいますが、私はその反対の「絵に言葉の仕事をさせてはならない」という表現の方が好きです。テキストは、情報を伝えるのに最も直接的で効果的な方法であり――ただし、学習障害のある人や読み書きが困難な人にとっては、画像やその他の媒体にはテキストにない価値がありますが――、第一の手段として扱うべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some unfinished business: on the about page, the current page link, now accessibly identified, points to the same about page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142542Z" creationid="rikiha" creationdate="20170728T142542Z">
+        <seg>これで現在のページのリンクをアクセシブルに区別できるようになりました。しかし、まだ問題が残っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes discussions in article comment sections can be surprisingly productive!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142649Z" creationid="rikiha" creationdate="20170728T142649Z">
+        <seg>このように記事のコメント欄でのやり取りが驚くべき成果をもたらすこともあるのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11112,6 +11208,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The current page link is for context, remember, the “You are here” marker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142602Z" creationid="rikiha" creationdate="20170728T142602Z">
+        <seg>現在のページのリンクは状況によって変わります。「現在位置」の目印を思い出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 多少調整。</note>
       <tuv lang="EN-US">
         <seg>The description is the descriptive element’s text node.</seg>
@@ -11577,6 +11681,14 @@ audit をどう訳すか。あまり検査とは言わないようにも思い�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The redundancy of the self-referential link has prompted some designers to remove it altogether.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142551Z" creationid="rikiha" creationdate="20170728T142551Z">
+        <seg>このように自己参照リンクは余計な繰り返し（重複）が生じるため、一切使わないというデザイナーもいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rem unit causes problems in Safari, as “&lt;a1&gt;&lt;s2&gt;PX, EM or REM Media Queries?&lt;/s2&gt;&lt;/a1&gt;&lt;s3&gt;&lt;a4&gt;&lt;s5&gt;5&lt;/s5&gt;&lt;/a4&gt;&lt;/s3&gt;” by Zell Liew attests.)</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T090249Z" creationid="yoota" creationdate="20170425T085834Z">
@@ -11867,6 +11979,14 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Then, on focusing the about link, the user should hear “About, same page link.” Since “same page” is vocalized already, the hidden &lt;g2&gt;&lt;span&gt;&lt;/g2&gt; with “Current page” is arguably obsolete.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142632Z" creationid="rikiha" creationdate="20170728T142632Z">
+        <seg>その後、「企業情報」のリンクにフォーカスを移すと、「＃＃企業情報、same page link＃＃」と読み上げられます。「＃＃same page＃＃」というアナウンスが入るため、非表示の&lt;span&gt;で「現在のページ」と指定する必要もないと言えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文で強調されているshouldが訳から落ちているようです。
 
@@ -12026,6 +12146,14 @@ http://kidachi.kazuhi.to/blog/archives/039312.html</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T083912Z" creationid="yoota" creationdate="20170501T083512Z">
         <seg>これは支援技術とも互換性のあるラベルで、Webページのさまざまな要素に適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These implementations are serviceable for sighted users, but screen reader users often traverse navigation landmarks from link to link, using their &lt;g4&gt;Tab&lt;/g4&gt; key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142611Z" creationid="rikiha" creationdate="20170728T142611Z">
+        <seg>どちらの方法も晴眼のユーザーには便利です。しかし、スクリーンリーダーユーザーの多くはTabキーを使ってリンクをたどりながらナビゲーションランドマークを移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12609,6 +12737,14 @@ http://pothos.main.jp/setuzokusi.htm</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This produces an unsatisfactory wayfinding experience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142559Z" creationid="rikiha" creationdate="20170728T142559Z">
+        <seg>しかし、これではユーザーを満足させるナビゲーション体験は作れません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This reduces monotony, encouraging focus.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T033529Z" creationid="yoota" creationdate="20170512T033529Z">
@@ -12714,6 +12850,14 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095300Z" creationid="okamoto_jun" creationdate="20170627T095300Z">
         <seg>ここでは、インタラクティブ要素であるボタンを、3種類のデザイナーの視点で見てみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This way, instead of just reloading the page, it takes you past the navigation landmark to the content, like a skip link.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142623Z" creationid="rikiha" creationdate="20170728T142623Z">
+        <seg>こうすれば、ただページの再読み込みが行われるのではなく、ユーザーはナビゲーションランドマークをスキップリンクのように使用して目的のコンテンツにジャンプできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13691,6 +13835,14 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We’ve married behavior and semantics just by altering the &lt;g3&gt;href&lt;/g3&gt; value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142637Z" creationid="rikiha" creationdate="20170728T142637Z">
+        <seg>hrefの値を変えるだけで動作およびセマンティクスを結び付けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We’ve misconceived and mistreated the medium, both making hard work for ourselves and shortchanging our audiences as a result.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084518Z" creationid="okamoto_jun" creationdate="20170627T084518Z">
@@ -13929,6 +14081,14 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170701T151002Z" creationid="yoota" creationdate="20170622T030326Z">
         <seg>インターフェイスをデザインするときは、抽象的な原則を扱うのではなく、機能する&lt;g1&gt;もの&lt;/g1&gt;を作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you are emulating the behavior of loading whole new pages, the announcement of “same page link” exposes a white lie and would make the experience confusing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142656Z" creationid="rikiha" creationdate="20170728T142656Z">
+        <seg>まったく新しいページを読み込む動作をエミュレートした場合、「＃＃same page link＃＃」というアナウンスは「うそ」になり、ユーザーの混乱を招きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14216,6 +14376,14 @@ regressを「後方互換する」としていますが、日本語として違�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170425T141001Z" creationid="rikiha" creationdate="20170425T141001Z">
         <seg>DOCTYPEが明確でないと、ブラウザはコンテンツをどう解釈したらよいか分からず、&lt;g2&gt;&lt;g3&gt;非対応の不適合なモード、いわゆる&lt;g4&gt;Quirksモード&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注4）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;で表示してしまうことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without it, you force the user into a rather absurd spot-the-difference game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T142604Z" creationid="rikiha" creationdate="20170728T142604Z">
+        <seg>この目印がないと、ユーザーは無意味な「間違い探しゲーム」をするはめになります。</seg>
       </tuv>
     </tu>
     <tu>
