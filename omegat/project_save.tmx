@@ -6095,11 +6095,12 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) dumpingを訳出するか。いったんママで。</note>
       <tuv lang="EN-US">
         <seg>In practice, this means that clicking the link will reload the page, dumping the keyboard user’s focus at the very top, on the document itself.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T144311Z" creationid="rikiha" creationdate="20170728T142546Z">
-        <seg>そのため、リンクをクリックするとページの再読み込みが行われ、キーボードユーザーのフォーカスは再びドキュメントの一番上に戻ってしまいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T151705Z" creationid="rikiha" creationdate="20170728T142546Z">
+        <seg>そのため、リンクをクリックするとページがリロードされ、キーボードユーザーのフォーカスはドキュメントの一番上に戻ってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9999,13 +10000,7 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
     </tu>
     <tu>
-      <note>Some unfinished business:
-
-
-
-
-points to the same about page.
-</note>
+      <note>(伊原) 自分リンクの話だとわかるように調整。</note>
       <tuv lang="EN-US">
         <seg>Some unfinished business: on the about page, the current page link, now accessibly identified, points to the same about page.</seg>
       </tuv>
