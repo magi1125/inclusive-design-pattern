@@ -4438,11 +4438,12 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 多少調整。</note>
       <tuv lang="EN-US">
         <seg>For screen reader users, this will prompt the repeated announcement of document-level information such as the &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; and a set of meta information about the page such as how many links it contains.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142548Z" creationid="rikiha" creationdate="20170728T142548Z">
-        <seg>またスクリーンリーダーユーザーの場合は、&lt;title&gt;などのドキュメントレベルの情報や、含まれているリンクの数などページに関するメタ情報一式がもう一度読み上げられることになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170728T152928Z" creationid="rikiha" creationdate="20170728T142548Z">
+        <seg>スクリーンリーダーユーザーには、&lt;title&gt;などのドキュメントレベルの情報や、ページに含まれるリンクの数といったメタ情報一式がもう一度読み上げられることになります。</seg>
       </tuv>
     </tu>
     <tu>
