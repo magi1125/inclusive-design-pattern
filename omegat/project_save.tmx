@@ -3628,8 +3628,8 @@ visual designはそのままビジュアルデザインでいいかも。
       <tuv lang="EN-US">
         <seg>Credit should go to &lt;g1&gt;&lt;g2&gt;Daniel Göransson&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;9&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; for suggesting this solution.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142645Z" creationid="rikiha" creationdate="20170728T142645Z">
-        <seg>この方法を提案してくれたダニエル・ゴランソン（Göransson）（脚注93）に拍手を送ります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T161041Z" creationid="rikiha" creationdate="20170728T142645Z">
+        <seg>この方法を提案してくれた&lt;g1&gt;&lt;g2&gt;ダニエル・ゴランソン（Göransson）&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注93）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;に拍手を送ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11993,8 +11993,8 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       <tuv lang="EN-US">
         <seg>Then, on focusing the about link, the user should hear “About, same page link.” Since “same page” is vocalized already, the hidden &lt;g2&gt;&lt;span&gt;&lt;/g2&gt; with “Current page” is arguably obsolete.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T160713Z" creationid="rikiha" creationdate="20170728T142632Z">
-        <seg>.次に「企業情報」のリンクにフォーカスを移すと、「＃＃企業情報、same page link＃＃」と読み上げられます。すでに「＃＃same page＃＃」と読み上げられているため、「現在のページ」と指定した非表示の&lt;span&gt;を使うのは止めて良いと言えます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T161018Z" creationid="rikiha" creationdate="20170728T142632Z">
+        <seg>.次に「企業情報」のリンクにフォーカスを移すと、「＃＃企業情報、same page link＃＃」と読み上げられます。すでに「＃＃same page＃＃」と読み上げられているため、「現在のページ」と指定した非表示の&lt;g2&gt;&lt;span&gt;&lt;/g2&gt;を使うのは止めて良いと言えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13852,8 +13852,8 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       <tuv lang="EN-US">
         <seg>We’ve married behavior and semantics just by altering the &lt;g3&gt;href&lt;/g3&gt; value.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T160933Z" creationid="rikiha" creationdate="20170728T142637Z">
-        <seg>hrefの値を変えるだけで、ふるまいとセマンティクスを結び付けることができました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T160955Z" creationid="rikiha" creationdate="20170728T142637Z">
+        <seg>&lt;g3&gt;href&lt;/g3&gt;の値を変えるだけで、ふるまいとセマンティクスを結び付けることができました。</seg>
       </tuv>
     </tu>
     <tu>
