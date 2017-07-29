@@ -8421,8 +8421,8 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       <tuv lang="EN-US">
         <seg>Not only is the link easy to style via the &lt;g1&gt;[href="#main"]&lt;/g1&gt; attribute selector, but its behavior is communicated to assistive technologies: on focusing the home link, “Home, link” will be announced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142629Z" creationid="rikiha" creationdate="20170728T142629Z">
-        <seg>この方法なら[href="#main"]属性セレクタを使って簡単にリンクのスタイルを指定できるだけでなく、その動作は支援技術にも伝えられます。したがって、たとえば「ホーム」のリンクにフォーカスすると、「＃＃ホーム、link＃＃」と読み上げられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T155150Z" creationid="rikiha" creationdate="20170728T142629Z">
+        <seg>この方法なら、[href="#main"]属性セレクタを使って簡単にスタイルを設定できるリンク。したがって、たとえば「ホーム」のリンクにフォーカスすると、「＃＃ホーム、link＃＃」と読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
