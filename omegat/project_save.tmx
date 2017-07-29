@@ -2571,11 +2571,12 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) </note>
       <tuv lang="EN-US">
         <seg>As a remedy, I’ve heard it suggested to remove the current page link’s &lt;g1&gt;href&lt;/g1&gt;, or to replace the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; entirely with an uninteractive &lt;g3&gt;&lt;span&gt;&lt;/g3&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142607Z" creationid="rikiha" creationdate="20170728T142607Z">
-        <seg>その対処法として寄せられたのが、現在のページのリンクのhrefを削除するか、&lt;a&gt;そのものを非インタラクティブ要素である&lt;span&gt;要素で置き換えるという案です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T135619Z" creationid="rikiha" creationdate="20170728T142607Z">
+        <seg>対処方法として,耳にするのは、現在のページのリンクのhrefを削除する、または&lt;a&gt;を非インタラクティブ要素である&lt;span&gt;要素で完全に置き換えるという提案です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14386,6 +14387,7 @@ regressを「後方互換する」としていますが、日本語として違�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 訳としてはこんな感じかなと。</note>
       <tuv lang="EN-US">
         <seg>Without it, you force the user into a rather absurd spot-the-difference game.</seg>
       </tuv>
