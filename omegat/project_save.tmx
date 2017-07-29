@@ -8418,6 +8418,7 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整。</note>
       <tuv lang="EN-US">
         <seg>Not only is the link easy to style via the &lt;g1&gt;[href="#main"]&lt;/g1&gt; attribute selector, but its behavior is communicated to assistive technologies: on focusing the home link, “Home, link” will be announced.</seg>
       </tuv>
@@ -11988,11 +11989,12 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 必要がないというより、廃止してよいということかなと。</note>
       <tuv lang="EN-US">
         <seg>Then, on focusing the about link, the user should hear “About, same page link.” Since “same page” is vocalized already, the hidden &lt;g2&gt;&lt;span&gt;&lt;/g2&gt; with “Current page” is arguably obsolete.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142632Z" creationid="rikiha" creationdate="20170728T142632Z">
-        <seg>その後、「企業情報」のリンクにフォーカスを移すと、「＃＃企業情報、same page link＃＃」と読み上げられます。「＃＃same page＃＃」というアナウンスが入るため、非表示の&lt;span&gt;で「現在のページ」と指定する必要もないと言えます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T160634Z" creationid="rikiha" creationdate="20170728T142632Z">
+        <seg>.次に「企業情報」のリンクにフォーカスを移すと、「＃＃企業情報、same page link＃＃」と読み上げられます。すでに「＃＃same page＃＃」と読み上げられているため、「現在のページ」と指定した非表示の&lt;span&gt;は使うのを止めて良いと言えます。</seg>
       </tuv>
     </tu>
     <tu>
