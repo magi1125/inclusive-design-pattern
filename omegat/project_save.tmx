@@ -5227,8 +5227,8 @@ poorは貧弱というか、ここでは「ダメな」「望ましくない」�
       <tuv lang="EN-US">
         <seg>If the current page indicator is not focusable, it would be skipped over as if it didn’t exist.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142614Z" creationid="rikiha" creationdate="20170728T142614Z">
-        <seg>したがって、せっかく現在のページの目印を設置しても、フォーカスできなければ、そんなものは存在しないかのようにスキップされてしまいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T143831Z" creationid="rikiha" creationdate="20170728T142614Z">
+        <seg>現在のページの目印がフォーカスできないものであれば、あたかもそれが存在しないかのようにスキップされてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
