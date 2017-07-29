@@ -2575,8 +2575,8 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       <tuv lang="EN-US">
         <seg>As a remedy, I’ve heard it suggested to remove the current page link’s &lt;g1&gt;href&lt;/g1&gt;, or to replace the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; entirely with an uninteractive &lt;g3&gt;&lt;span&gt;&lt;/g3&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T135634Z" creationid="rikiha" creationdate="20170728T142607Z">
-        <seg>対処方法として、現在のページのリンクのhrefを削除する、または&lt;a&gt;を非インタラクティブ要素である&lt;span&gt;要素で完全に置き換えるという提案を聞いたことがあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T155437Z" creationid="rikiha" creationdate="20170728T142607Z">
+        <seg>対処方法として、現在のページのリンクの&lt;g1&gt;href&lt;/g1&gt;を削除する、または&lt;g2&gt;&lt;a&gt;&lt;/g2&gt;を非インタラクティブ要素である&lt;g3&gt;&lt;span&gt;&lt;/g3&gt;要素で完全に置き換えるという提案を聞いたことがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4443,8 +4443,8 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       <tuv lang="EN-US">
         <seg>For screen reader users, this will prompt the repeated announcement of document-level information such as the &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; and a set of meta information about the page such as how many links it contains.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T152928Z" creationid="rikiha" creationdate="20170728T142548Z">
-        <seg>スクリーンリーダーユーザーには、&lt;title&gt;などのドキュメントレベルの情報や、ページに含まれるリンクの数といったメタ情報一式がもう一度読み上げられることになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T155403Z" creationid="rikiha" creationdate="20170728T142548Z">
+        <seg>スクリーンリーダーユーザーには、&lt;g1&gt;&lt;title&gt;&lt;/g1&gt;などのドキュメントレベルの情報や、ページに含まれるリンクの数といったメタ情報一式がもう一度読み上げられることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8421,8 +8421,8 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       <tuv lang="EN-US">
         <seg>Not only is the link easy to style via the &lt;g1&gt;[href="#main"]&lt;/g1&gt; attribute selector, but its behavior is communicated to assistive technologies: on focusing the home link, “Home, link” will be announced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T155150Z" creationid="rikiha" creationdate="20170728T142629Z">
-        <seg>この方法なら、[href="#main"]属性セレクタを使って簡単にスタイルを設定できるリンク。したがって、たとえば「ホーム」のリンクにフォーカスすると、「＃＃ホーム、link＃＃」と読み上げられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T155902Z" creationid="rikiha" creationdate="20170728T142629Z">
+        <seg>&lt;g1&gt;このリンクは、[href="#main"]&lt;/g1&gt;属性セレクタを使って簡単にスタイルを設定できるだけでなく、支援技術にもふるまいが伝えられます。「ホーム」のリンクにフォーカスすると、「＃＃ホーム、link＃＃」と読み上げられるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12162,8 +12162,8 @@ http://kidachi.kazuhi.to/blog/archives/039312.html</note>
       <tuv lang="EN-US">
         <seg>These implementations are serviceable for sighted users, but screen reader users often traverse navigation landmarks from link to link, using their &lt;g4&gt;Tab&lt;/g4&gt; key.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T143312Z" creationid="rikiha" creationdate="20170728T142611Z">
-        <seg>どちらの方法も晴眼のユーザーには伝わります。しかし、スクリーンリーダーユーザーの多くはナビゲーションランドマーク内をリンクからリンクへTabキーで辿りながら確認していきます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T155451Z" creationid="rikiha" creationdate="20170728T142611Z">
+        <seg>どちらの方法も晴眼のユーザーには伝わります。しかし、スクリーンリーダーユーザーの多くはナビゲーションランドマーク内をリンクからリンクへ&lt;g4&gt;Tab&lt;/g4&gt;キーで辿りながら確認していきます。</seg>
       </tuv>
     </tu>
     <tu>
