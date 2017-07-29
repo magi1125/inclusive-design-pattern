@@ -49,8 +49,8 @@
       <tuv lang="EN-US">
         <seg>(Be wary of using this technique in single-page applications.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142653Z" creationid="rikiha" creationdate="20170728T142653Z">
-        <seg>ただし、この方法をシングルページアプリケーションで用いる場合は注意が必要です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T161613Z" creationid="rikiha" creationdate="20170728T142653Z">
+        <seg>（シングルページアプリケーションでこの方法を用いる場合は注意が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14101,11 +14101,12 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) white lie = 罪のない嘘、ということなので、そんな感じに。</note>
       <tuv lang="EN-US">
         <seg>When you are emulating the behavior of loading whole new pages, the announcement of “same page link” exposes a white lie and would make the experience confusing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142656Z" creationid="rikiha" creationdate="20170728T142656Z">
-        <seg>まったく新しいページを読み込む動作をエミュレートした場合、「＃＃same page link＃＃」というアナウンスは「うそ」になり、ユーザーの混乱を招きます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T162004Z" creationid="rikiha" creationdate="20170728T142656Z">
+        <seg>新しくページ全体を読み込む動作をエミュレートした場合、「＃＃same page link＃＃」という読み上げは思いがけず嘘となってしまい、ユーザーの混乱を招きます。</seg>
       </tuv>
     </tu>
     <tu>
