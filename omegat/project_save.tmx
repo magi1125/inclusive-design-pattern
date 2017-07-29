@@ -910,8 +910,8 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Moving the &lt;g2&gt;aria-describedby="current"&lt;/g2&gt; attribute from one element to another between pages is easy enough, and it can be used as a styling hook just as a class might be: &lt;g3&gt;[aria-describedby="current"]&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T164227Z" creationid="rikiha" creationdate="20170727T134726Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;別ページに移動したとき、aria-describedby="current"属性を別のリンクに移し替えることは簡単です。CSSで[aria-describedby="current"]と書けば、スタイルを指定するフックとしてclassと同じように使用できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T155332Z" creationid="rikiha" creationdate="20170727T134726Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;別ページに移動したとき、&lt;g2&gt;aria-describedby="current"&lt;/g2&gt;属性を別のリンクに移し替えることは簡単です。CSSで&lt;g3&gt;[aria-describedby="current"]&lt;/g3&gt;と書けば、スタイルを指定するフックとしてclassと同じように使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1017,8 +1017,8 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The HTML5 &lt;g2&gt;hidden&lt;/g2&gt; attribute is used to hide the description both visually and from screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T161844Z" creationid="rikiha" creationdate="20170727T134711Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;HTML5のhidden属性を使い、視覚的にもスクリーンリーダーからも説明を隠しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T155214Z" creationid="rikiha" creationdate="20170727T134711Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;HTML5の&lt;g2&gt;hidden&lt;/g2&gt;属性を使い、視覚的にもスクリーンリーダーからも説明を隠しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6992,8 +6992,8 @@ must ではなく should なので「べき」としました。
       <tuv lang="EN-US">
         <seg>It works like &lt;g3&gt;display: none;&lt;/g3&gt; but is syntactically neater.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T162048Z" creationid="rikiha" creationdate="20170727T134715Z">
-        <seg>display: none;と似ていますが、こちらのほうが構文的にはすっきりします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170729T155224Z" creationid="rikiha" creationdate="20170727T134715Z">
+        <seg>&lt;g3&gt;display: none;&lt;/g3&gt;と似ていますが、こちらのほうが構文的にはすっきりします。</seg>
       </tuv>
     </tu>
     <tu>
