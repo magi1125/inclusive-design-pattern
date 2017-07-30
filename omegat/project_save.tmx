@@ -12644,11 +12644,12 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ひとつだけが唯一の、がちょっとわかりにくかったので調整。</note>
       <tuv lang="EN-US">
         <seg>This is because multiple &lt;g4&gt;&lt;header&gt;&lt;/g4&gt; elements can be used on one page, but only one should be the singular banner landmark.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T124352Z" creationid="rikiha" creationdate="20170730T124352Z">
-        <seg>&lt;header&gt;要素は1つのページに複数使用できますが、その中の1つだけが唯一のバナーランドマークだからです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T134140Z" creationid="rikiha" creationdate="20170730T124352Z">
+        <seg>&lt;g4&gt;&lt;header&gt;&lt;/g4&gt;要素はページ内で複数使用できますが、bannerランドマークはその中にひとつしかないはずだからです。</seg>
       </tuv>
     </tu>
     <tu>
