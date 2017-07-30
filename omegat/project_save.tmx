@@ -63,6 +63,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>(Note: I am still using the same-page link technique here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124426Z" creationid="rikiha" creationdate="20170730T124426Z">
+        <seg>（注：ここでもやはり「＃＃same page link＃＃」とアナウンスされる方法を使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) OK
 
 (伊原) 私の、というのがちょっと謎だったので、私が行った、としました。
@@ -3231,6 +3239,14 @@ composeは作成でいいのか。あとで検討。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By creating a canonical link to the homepage, we’ve not only made navigation simpler to understand but foregone a &lt;g1&gt;Tab&lt;/g1&gt; stop and diminished the verbosity of screen reader output.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124444Z" creationid="rikiha" creationdate="20170730T124444Z">
+        <seg>正統派のホームページリンクを作成することで、ナビゲーションがよりシンプルで分かりやすくなるだけでなく、タブストップを使わずにすむ上に、スクリーンリーダーで同じアナウンスが繰り返されるのも防げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ちょっと不自然な感じがあります。あんまりしっくり来ませんが、調整してみました。
 
 (太田) 調整してみました。tried-and-tested code は「十分にテストされたコード」としてみました (「枯れたコード」でも良いと思いましたが、プログラマでない人には逆にわかりにくそうなので)。
@@ -4814,6 +4830,14 @@ blog post as found at its permalinkは、パーマリンクをたどった先で
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Here’s how that might be devised.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124337Z" creationid="rikiha" creationdate="20170730T124337Z">
+        <seg>ここではその構築方法の例を紹介しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Here’s the thing: が訳から落ちています。
 utility is radical と言っているので逆かも。
 ここの radical はどういう意味か。急進的なのか、根本なのか。
@@ -4933,6 +4957,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170515T022021Z" creationid="yoota" creationdate="20170510T073008Z">
         <seg>ただし重要なことは、極端なケースを分離して考えないこと、そして特定のグループをターゲットにしないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, navigation landmarks need to be complete and autonomous because they can be accessed directly, using shortcuts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124412Z" creationid="rikiha" creationdate="20170730T124412Z">
+        <seg>しかし、ナビゲーションランドマークはそれだけで完結していなければなりません。なぜなら、ショートカットを使ってダイレクトにアクセスするユーザーもいるからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5486,6 +5518,14 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T073754Z" creationid="okamoto_jun" creationdate="20170627T073414Z">
         <seg>あなたと私（筆者）があるパーティーで出会ったと想像してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Imagining that we are currently &lt;g1&gt;on&lt;/g1&gt; the home page, the logo’s link goes to &lt;g2&gt;#main&lt;/g2&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124430Z" creationid="rikiha" creationdate="20170730T124430Z">
+        <seg>現在、ホームページにいると想定して、ロゴのリンクのポイント先を#mainに設定しています。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6061,6 +6101,14 @@ metaについては補足が必要か?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In other words, “My Project logo” would not suffice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124437Z" creationid="rikiha" creationdate="20170730T124437Z">
+        <seg>この例の場合は、「プロジェクトのロゴ」ではなく、</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Flash of Invisible Text は日本語を補う必要がありそう。
 あるいは訳注?
 訳注案: 
@@ -6192,6 +6240,14 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T040622Z" creationid="yoota" creationdate="20170426T040449Z">
         <seg>ドキュメントのセットアップという観点では、ページのコンテンツを強化するためのリソースが逆にコンテンツの妨げにならないようにすることが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In terms of responsive design, it’s possible to target the logo using &lt;g1&gt;:first-child&lt;/g1&gt; and, for example, place it on its own row within smaller viewports:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124456Z" creationid="rikiha" creationdate="20170730T124456Z">
+        <seg>また、レスポンシブデザインという観点で考えると、:first-childを使ってロゴにターゲットを設定し、たとえば？？ビューポートが小さい場合は単独の行に配置する？？ということも可能です。【コメント：この解釈で問題ないでしょうか。原文「place it on its own row within smaller viewports」】</seg>
       </tuv>
     </tu>
     <tu>
@@ -6680,6 +6736,14 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170516T085430Z" creationid="yoota" creationdate="20170510T071857Z">
         <seg>そうではなく、&lt;g3&gt;読むことに困難を抱える人&lt;/g3&gt;にも読みやすい書体を選ぶことで、すべての人が読みやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, we can turn the navigation block’s home link into the logo, compacting the content by removing the now unnecessary &lt;g1&gt;role="banner"&lt;/g1&gt; landmark.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124417Z" creationid="rikiha" creationdate="20170730T124417Z">
+        <seg>そこでもうひとつの方法として、ナビゲーションブロックのホームのリンクをロゴにしてしまえば、role="banner"ランドマークも不要になるため、コンテンツもコンパクトになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7218,6 +7282,14 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170718T061428Z" creationid="yoota" creationdate="20170622T025108Z">
         <seg>このように準備するのは良いことですが、理にかなったやり方で準備することをおすすめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s important that screen reader users get all the information they need, but redundant information is noise, something which is more difficult to ignore than visual artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124447Z" creationid="rikiha" creationdate="20170730T124447Z">
+        <seg>スクリーンリーダーユーザーが必要なすべての情報を得られることは大切ですが、同じ情報が何度も読み上げられるのは不快で、視覚的なノイズよりも無視するのが容易ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8406,6 +8478,14 @@ ourを私たちと訳すのはどうなのか。他は適当に濁している�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Not only does this create needless and potentially confounding redundancy, but we’ve committed the cardinal usability sin of giving two things that &lt;g1&gt;appear&lt;/g1&gt; differently the same functionality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124405Z" creationid="rikiha" creationdate="20170730T124405Z">
+        <seg>この不要な重複は混乱を招く上に、同じように機能するのに見た目は異なる2つの要素が存在するというのは、ユーザビリティの観点からするとあってはならないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「不快な副作用」はいまいちピンときませんでした。unpleasant を「やっかいな」としてみました。
 side effect = 副作用はプログラム用語の定訳ですが、ここでヘイドンさんが言っていることとはニュアンスが違うようにも思います。まあこれはママで。
 
@@ -8475,6 +8555,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170719T092729Z" creationid="yoota" creationdate="20170719T092729Z">
         <seg>Custom Elements v1では&lt;g4&gt;createdCallback&lt;/g4&gt;は必要ないことに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that the &lt;g2&gt;&lt;header&gt;&lt;/g2&gt; element has the explicit ARIA &lt;g3&gt;banner&lt;/g3&gt; role.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124341Z" creationid="rikiha" creationdate="20170730T124341Z">
+        <seg>&lt;header&gt;要素にARIAロールであるbannerロールを明示的に指定してあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8965,6 +9053,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>One resolution might be to remove the home link from the navigation landmark.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124408Z" creationid="rikiha" creationdate="20170730T124408Z">
+        <seg>この問題の1つの解決策として、ナビゲーションランドマークからホームのリンクを削除することが考えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのsupportedは裏付けがあるのではなく、支持されているという意味かと思います。
 「セリフフォント」「サンセリフフォント」は字面が見づらいので「セリフ書体」「サンセリフ書体」としたほうが読みやすいかも。
 
@@ -9360,6 +9456,7 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ※この節確認中</note>
       <tuv lang="EN-US">
         <seg>Removing Redundancy</seg>
       </tuv>
@@ -9840,6 +9937,14 @@ Good!</note>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101018Z" creationid="okamoto_jun" creationdate="20170627T101018Z">
         <seg>このボタンの「スタート」というラベルは、CSSのプレゼンテーション層の一部に背景画像として含まれているため、これもやはり支援技術からは利用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since usability convention dictates that the logo image should double as a link to the home page, the logo has a navigational role: the same navigational role as the first of the navigation landmark’s links.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124402Z" creationid="rikiha" creationdate="20170730T124402Z">
+        <seg>ユーザビリティの慣習に従うなら、ロゴの画像はホームページのリンクも兼ねていなければなりません。つまり、ロゴはナビゲーションランドマークの最初のリンクと同じナビゲーションの役割も持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12536,6 +12641,14 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This is because multiple &lt;g4&gt;&lt;header&gt;&lt;/g4&gt; elements can be used on one page, but only one should be the singular banner landmark.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124352Z" creationid="rikiha" creationdate="20170730T124352Z">
+        <seg>&lt;header&gt;要素は1つのページに複数使用できますが、その中の1つだけが唯一のバナーランドマークだからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 これとは? このthisが何を指すのか不明瞭ですが「相互運用性」と解釈。
 ここはたぶん「Flesch-Kincaid リーダビリティテスト」「見出しとリンクテキスト」などの話なのですが、正直わかりにくいです。
@@ -12994,6 +13107,14 @@ compelには強要する、強いるという意味があり、転じて「目�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T102635Z" creationid="yoota" creationdate="20170515T091518Z">
         <seg>視覚的には無理やり順番を変えて見せることもできますが、上記の理由から、記事の先頭を公開日ではなく、見出しで始めることが大切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though some browsers are clever enough to calculate which &lt;g5&gt;&lt;header&gt;&lt;/g5&gt; is the right one, this helps others along.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124355Z" creationid="rikiha" creationdate="20170730T124355Z">
+        <seg>中にはどの&lt;header&gt;がバナーランドマークなのか判断できる高度なブラウザもありますが、そうでないブラウザの場合はbannerロールが役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14125,6 +14246,14 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Where an image is the content of a link, the alternative text (&lt;g1&gt;alt&lt;/g1&gt; value) should describe the purpose of the link, not the nature of the image.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124434Z" creationid="rikiha" creationdate="20170730T124434Z">
+        <seg>リンクに画像を用いる場合は、代替テキスト（altの値）には画像自体の説明ではなくリンクの内容の説明を書くようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 多少調整。round-tripsを往復としていいかどうか。SPAだってラウンドトリップはしているわけで…。
 普通にページ単位でやりとりしているのに比べて、という話なのはわかるが、そこを補うかどうか。
 
@@ -14859,6 +14988,14 @@ https://waic.github.io/wcag20/Understanding/visual-audio-contrast-without-color.
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T053651Z" creationid="yoota" creationdate="20170501T112108Z">
         <seg>開発者の作業しやすさより、ユーザーのニーズの方が重要だと私は思う。
 ポール・ルイス（Paul Lewis）（脚注15）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“My Project home” or just “Home” are both appropriate here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124441Z" creationid="rikiha" creationdate="20170730T124441Z">
+        <seg>「プロジェクトのホーム」か単純に「ホーム」とするのが適切です。</seg>
       </tuv>
     </tu>
     <tu>
