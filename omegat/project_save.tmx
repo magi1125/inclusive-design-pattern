@@ -67,8 +67,8 @@
       <tuv lang="EN-US">
         <seg>(Note: I am still using the same-page link technique here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T145209Z" creationid="rikiha" creationdate="20170730T124426Z">
-        <seg>（注：ここでもやはり「＃＃same page link＃＃」テクニックを使っています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T145532Z" creationid="rikiha" creationdate="20170730T124426Z">
+        <seg>（注：この例でも「＃＃same page link＃＃」テクニックを使っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5524,11 +5524,12 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ちょっと調整。</note>
       <tuv lang="EN-US">
         <seg>Imagining that we are currently &lt;g1&gt;on&lt;/g1&gt; the home page, the logo’s link goes to &lt;g2&gt;#main&lt;/g2&gt;.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T145411Z" creationid="rikiha" creationdate="20170730T124430Z">
-        <seg>ホームページにいる状態を想定し、ロゴのリンクの遷移先を#mainにしています。）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T145502Z" creationid="rikiha" creationdate="20170730T124430Z">
+        <seg>ホームページにいる状態を想定して、ロゴのリンクの遷移先を#mainにしています。）</seg>
       </tuv>
     </tu>
     <tu>
