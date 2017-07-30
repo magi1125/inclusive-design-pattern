@@ -7130,6 +7130,14 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s common practice to place your navigation landmark within the page’s &lt;g1&gt;banner&lt;/g1&gt; landmark, which also features your company or project logo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124334Z" creationid="rikiha" creationdate="20170730T124334Z">
+        <seg>ページのバナーランドマーク（たとえば企業やプロジェクトのロゴ）の中にナビゲーションランドマークを設定するのはよくあることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) とても分かりにくい文章ですが、印刷結果をPDF出力して保存すればオフラインになっても読めるよ、という話ですね。補って訳してみました。
 
 (伊原) LGTM</note>
@@ -9349,6 +9357,14 @@ Good!</note>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170616T062914Z" creationid="yoota" creationdate="20170606T101411Z">
         <seg>3章「パラグラフ」の「フォーカスを示す」を思い出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing Redundancy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124332Z" creationid="rikiha" creationdate="20170730T124332Z">
+        <seg>重複をなくす</seg>
       </tuv>
     </tu>
     <tu>
