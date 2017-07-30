@@ -14261,8 +14261,8 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       <tuv lang="EN-US">
         <seg>Where an image is the content of a link, the alternative text (&lt;g1&gt;alt&lt;/g1&gt; value) should describe the purpose of the link, not the nature of the image.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T124434Z" creationid="rikiha" creationdate="20170730T124434Z">
-        <seg>リンクに画像を用いる場合は、代替テキスト（altの値）には画像自体の説明ではなくリンクの内容の説明を書くようにしましょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T145930Z" creationid="rikiha" creationdate="20170730T124434Z">
+        <seg>画像でリンクする場合は、代替テキスト（&lt;g1&gt;alt&lt;/g1&gt;の値）には画像の説明ではなくリンク先を書くべきです。</seg>
       </tuv>
     </tu>
     <tu>
