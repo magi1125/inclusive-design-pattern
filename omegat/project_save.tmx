@@ -3744,8 +3744,8 @@ visual designはそのままビジュアルデザインでいいかも。
       <tuv lang="EN-US">
         <seg>Despite being hidden, because it &lt;g4&gt;has a relationship&lt;/g4&gt; to the link, the link still has access to “Current page” and it will be announced on focusing the link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170728T032935Z" creationid="rikiha" creationdate="20170727T134719Z">
-        <seg>隠されているにもかかわらず、リンクとの&lt;g4&gt;関連づけは生きている&lt;/g4&gt;ため、リンクは「現在のページ」という説明とつながったままで、フォーカスを受け取るとそれが読み上げられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124941Z" creationid="rikiha" creationdate="20170727T134719Z">
+        <seg>隠されているにもかかわらず、リンクとの&lt;g4&gt;関連づけは生きている&lt;/g4&gt;ため、リンクは「現在のページ」という説明とつながったままであり、フォーカスを受け取るとそれが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4122,8 +4122,8 @@ http://waic.jp/docs/WCAG20/Overview.html#images-of-textdef
       <tuv lang="EN-US">
         <seg>Firstly, I’d hear “Navigation landmark,” followed by “List, one of five” and finally “Link, home.” By then, I’d know that I’m in a navigation landmark, that it contains five links in total, and that I can follow the first link immediately if I wish.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170725T022515Z" creationid="rikiha" creationdate="20170722T233916Z">
-        <seg>最初に「＃＃Navigation landmark＃＃」と読み上げられた後、「＃＃List, one of five＃＃」と続き、最後に「＃＃Link, home＃＃」と読み上げられたとします。これにより、自分が今ナビゲーションランドマークにいること、そしてそこには全部で5つのリンクがあり、必要であればすぐに最初のリンク先をたどることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124824Z" creationid="rikiha" creationdate="20170722T233916Z">
+        <seg>最初に「＃＃Navigation landmark＃＃」と読み上げられた後、「＃＃List, one of five＃＃」と続き、最後に「＃＃Link, home＃＃」と読み上げられたとします。これにより、自分が今navigationランドマークにいること、そしてそこには全部で5つのリンクがあり、必要であればすぐに最初のリンク先をたどることができます。</seg>
       </tuv>
     </tu>
     <tu>
