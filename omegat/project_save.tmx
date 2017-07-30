@@ -8560,11 +8560,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) Noteを訳出。</note>
       <tuv lang="EN-US">
         <seg>Note that the &lt;g2&gt;&lt;header&gt;&lt;/g2&gt; element has the explicit ARIA &lt;g3&gt;banner&lt;/g3&gt; role.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T131317Z" creationid="rikiha" creationdate="20170730T124341Z">
-        <seg>&lt;g2&gt;&lt;header&gt;&lt;/g2&gt;要素に明示的な&lt;g3&gt;banner&lt;/g3&gt;ARIAロールを指定していることに注意してください。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T131350Z" creationid="rikiha" creationdate="20170730T124341Z">
+        <seg>&lt;g2&gt;&lt;header&gt;&lt;/g2&gt;要素に&lt;g3&gt;banner&lt;/g3&gt;ARIAロールを明示的に指定していることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
