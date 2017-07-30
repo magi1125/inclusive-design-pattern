@@ -7197,8 +7197,8 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
       <tuv lang="EN-US">
         <seg>It’s common practice to place your navigation landmark within the page’s &lt;g1&gt;banner&lt;/g1&gt; landmark, which also features your company or project logo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T124334Z" creationid="rikiha" creationdate="20170730T124334Z">
-        <seg>ページのバナーランドマーク（たとえば企業やプロジェクトのロゴ）の中にナビゲーションランドマークを設定するのはよくあることです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124709Z" creationid="rikiha" creationdate="20170730T124334Z">
+        <seg>ページの&lt;g1&gt;バナー&lt;/g1&gt;ランドマーク（たとえば企業やプロジェクトのロゴ）の中にナビゲーションランドマークを設定するのはよくあることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13000,8 +13000,8 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       <tuv lang="EN-US">
         <seg>This way, instead of just reloading the page, it takes you past the navigation landmark to the content, like a skip link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T144527Z" creationid="rikiha" creationdate="20170728T142623Z">
-        <seg>こうすれば、ただページをリロードするのに代わって、スキップリンクのようにナビゲーションランドマークを通過してコンテンツに移動できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T124719Z" creationid="rikiha" creationdate="20170728T142623Z">
+        <seg>こうすれば、ただページをリロードするのに代わって、スキップリンクのようにnavigationランドマークを通過してコンテンツに移動できます。</seg>
       </tuv>
     </tu>
     <tu>
