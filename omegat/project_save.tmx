@@ -6256,8 +6256,8 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       <tuv lang="EN-US">
         <seg>In terms of responsive design, it’s possible to target the logo using &lt;g1&gt;:first-child&lt;/g1&gt; and, for example, place it on its own row within smaller viewports:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T124456Z" creationid="rikiha" creationdate="20170730T124456Z">
-        <seg>また、レスポンシブデザインという観点で考えると、:first-childを使ってロゴにターゲットを設定し、たとえば？？ビューポートが小さい場合は単独の行に配置する？？ということも可能です。【コメント：この解釈で問題ないでしょうか。原文「place it on its own row within smaller viewports」】</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T154543Z" creationid="rikiha" creationdate="20170730T124456Z">
+        <seg>なお、レスポンシブデザインという観点だと、&lt;g1&gt;:first-child&lt;/g1&gt;セレクタで使ってロゴを指すことで、たとえばビューポートが狭い場合はナビゲーションからロゴだけを取り出したブロックを配置する、といったこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7300,8 +7300,8 @@ http://eow.alc.co.jp/search?q=right%20way
       <tuv lang="EN-US">
         <seg>It’s important that screen reader users get all the information they need, but redundant information is noise, something which is more difficult to ignore than visual artifacts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T154038Z" creationid="rikiha" creationdate="20170730T124447Z">
-        <seg>スクリーンリーダーユーザーがすべての必要な情報を入手できることは重要です。しかし冗長な情報はノイズであり、視覚的なもの無視しにくいものです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170730T154122Z" creationid="rikiha" creationdate="20170730T124447Z">
+        <seg>スクリーンリーダーユーザーがすべての必要な情報を入手できることは重要です。しかし冗長な情報はノイズであり、視覚的なものより無視しにくいのです。</seg>
       </tuv>
     </tu>
     <tu>
