@@ -12300,12 +12300,14 @@ http://kidachi.kazuhi.to/blog/archives/039312.html</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 便利というほどではないかなと。また、ナビゲーションランドマークを移動するのではなく、ナビゲーションランドマーク内のリンクを辿るのだと思われます。</note>
+      <note>(伊原) 便利というほどではないかなと。また、ナビゲーションランドマークを移動するのではなく、ナビゲーションランドマーク内のリンクを辿るのだと思われます。
+
+(岡本)　辿り→たどり</note>
       <tuv lang="EN-US">
         <seg>These implementations are serviceable for sighted users, but screen reader users often traverse navigation landmarks from link to link, using their &lt;g4&gt;Tab&lt;/g4&gt; key.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T125022Z" creationid="rikiha" creationdate="20170728T142611Z">
-        <seg>どちらの方法も晴眼のユーザーには伝わります。しかし、スクリーンリーダーユーザーの多くはnavigationランドマーク内をリンクからリンクへ&lt;g4&gt;Tab&lt;/g4&gt;キーで辿りながら確認していきます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170731T034318Z" creationid="rikiha" creationdate="20170728T142611Z">
+        <seg>どちらの方法も晴眼のユーザーには伝わります。しかし、スクリーンリーダーユーザーの多くはnavigationランドマーク内をリンクからリンクへ&lt;g4&gt;Tab&lt;/g4&gt;キーでたどりながら確認していきます。</seg>
       </tuv>
     </tu>
     <tu>
