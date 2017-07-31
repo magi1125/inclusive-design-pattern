@@ -5540,8 +5540,8 @@ actionableは「実用的でない」のではなく、実行できない、動�
       <tuv lang="EN-US">
         <seg>Imagining that we are currently &lt;g1&gt;on&lt;/g1&gt; the home page, the logo’s link goes to &lt;g2&gt;#main&lt;/g2&gt;.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T145502Z" creationid="rikiha" creationdate="20170730T124430Z">
-        <seg>ホームページにいる状態を想定して、ロゴのリンクの遷移先を#mainにしています。）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135715Z" creationid="rikiha" creationdate="20170730T124430Z">
+        <seg>ホームページに&lt;g1&gt;いる&lt;/g1&gt;状態を想定して、ロゴのリンクの遷移先を&lt;g2&gt;#main&lt;/g2&gt;にしています。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14999,6 +14999,14 @@ https://waic.github.io/wcag20/Understanding/visual-audio-contrast-without-color.
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170727T122314Z" creationid="rikiha" creationdate="20170727T122314Z">
         <seg>色が、情報を伝える、動作を示す、反応を促す、又は視覚的な要素を判別するための唯一の視覚的手段になっていない。――&lt;g1&gt;&lt;g2&gt;WCAG2.0 1.4.1 色の仕様&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;6&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“I like pages with links at the top of the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135653Z" creationid="rikiha" creationdate="20170731T135653Z">
+        <seg>「私はページの一番上にリンクがある方が好きです。</seg>
       </tuv>
     </tu>
     <tu>
