@@ -7306,11 +7306,12 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 原文に沿った訳に調整。</note>
       <tuv lang="EN-US">
         <seg>It’s important that screen reader users get all the information they need, but redundant information is noise, something which is more difficult to ignore than visual artifacts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T154122Z" creationid="rikiha" creationdate="20170730T124447Z">
-        <seg>スクリーンリーダーユーザーがすべての必要な情報を入手できることは重要です。しかし冗長な情報はノイズであり、視覚的なものより無視しにくいのです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135631Z" creationid="rikiha" creationdate="20170730T124447Z">
+        <seg>スクリーンリーダーユーザーが求めるすべての情報を入手できることは重要です。しかし冗長な情報はノイズであり、視覚的なものより無視しにくいのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10365,6 +10366,16 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T110907Z" creationid="yoota" creationdate="20170501T110907Z">
         <seg>そしてもう一度Tabキーを押すとスキップリンクは非表示になり、ページ内の次のインタラクティブ要素（たいていはホームページへのリンクやナビゲーションリストの最初のリンク）にフォーカスが移ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) OK
+※この節確認中</note>
+      <tuv lang="EN-US">
+        <seg>Tables Of Contents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T065748Z" creationid="rikiha" creationdate="20170731T065748Z">
+        <seg>目次</seg>
       </tuv>
     </tu>
     <tu>
