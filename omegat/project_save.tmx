@@ -933,6 +933,14 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Providing navigation to specific sections of long-form content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135839Z" creationid="rikiha" creationdate="20170731T135839Z">
+        <seg>• 長文コンテンツの各セクションにジャンプするナビゲーションを提供できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) あれ、メモが消えてしまった‥。確かに要確認ですね。
 
 ↓復帰させました
@@ -1019,6 +1027,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T095150Z" creationid="yoota" creationdate="20170523T095150Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;サブセクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Summarizing long-form content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135835Z" creationid="rikiha" creationdate="20170731T135835Z">
+        <seg>• 長文のコンテンツを要約できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,6 +3874,14 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Drop-down submenus (let’s call them that) attempt to solve the same problem of grouping links to related content, but are flawed in a number of ways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135853Z" creationid="rikiha" creationdate="20170731T135853Z">
+        <seg>ドロップダウン形式のサブメニュー（ここではそう呼ぶことにします）もコンテンツに関連付けられているリンクを分類する手段として使われますが、さまざまな意味で問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Easily understood by 13- to 15-year-old students.</seg>
@@ -4114,6 +4138,14 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>First, they hide navigational content from view within a precarious, interaction-activated menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135857Z" creationid="rikiha" creationdate="20170731T135857Z">
+        <seg>まず、インタラクションによってアクティブになる不安定なメニューである上に、表示されたメニューのせいで対象のコンテンツが隠れて見えなくなることが挙げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「まず、知覚可能の観点で見ると」、のような訳になるべきかと。
 
@@ -4362,6 +4394,14 @@ coverは説明するというか触れている程度かもしれません。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T070849Z" creationid="yoota" creationdate="20170512T033610Z">
         <seg>たとえば4章「ブログ記事」では、&lt;g1&gt;&lt;g2&gt;Flesch-Kincaidスケール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注36）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を指標としたコンテンツの読みやすさのテストについて触れています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For further reading, instead consult the Nielsen Norman Group’s “&lt;g1&gt;&lt;g2&gt;Drop-Down Menus: Use Sparingly&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;11&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T141513Z" creationid="rikiha" creationdate="20170731T141513Z">
+        <seg>この件についてもっと詳しく知りたい方は、Nielsen Norman Groupの「Drop-Down Menus: Use Sparingly」（脚注95）を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5040,6 +5080,15 @@ this has led で「これが導いた」と言っているので、「報告し�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I can figure out what’s on the page without a lot of work.” – Lea, a persona from &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;A Web For Everyone&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135827Z" creationid="rikiha" creationdate="20170731T135827Z">
+        <seg>そのページに何が書かれているか一目で見当がつきます」
+— Lea（「A Web For Everyone」（脚注94）の登場人物）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)　嘘→うそ
 
 (太田)
@@ -5126,6 +5175,14 @@ remediation は治療法?
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170619T072051Z" creationid="yoota" creationdate="20170613T075921Z">
         <seg>大なり記号を先頭につけることで、彼がフレーム外にいることを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I mean, these don’t even have a name anyone can agree on!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135849Z" creationid="rikiha" creationdate="20170731T135849Z">
+        <seg>この手のサブメニューには誰もが納得する名前すらありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7399,6 +7456,14 @@ http://eow.alc.co.jp/search?q=right%20way
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s really helpful on long pages with a lot of sections.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135822Z" creationid="rikiha" creationdate="20170731T135822Z">
+        <seg>1つ1つのページが長く、多数のセクションで構成されている場合は、一番上にリンクがあると非常に助かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s really more of a mindset than anything reducible to discrete skills, so I’m going to illustrate it by way of an analogy.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091954Z" creationid="okamoto_jun" creationdate="20170627T091954Z">
@@ -7555,6 +7620,14 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T100044Z" creationid="yoota" creationdate="20170515T070717Z">
         <seg>HTMLのセマンティクスは、意味を提供する個々の要素の観点だけで見られてしまいがちで、他の要素との関係は考慮されない傾向にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m fond of tables of contents for one reason most of all: they’re not drop-down/pull-down/pop-up submenus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135845Z" creationid="rikiha" creationdate="20170731T135845Z">
+        <seg>私が目次を好きな一番の理由は、ドロップダウンやプルダウン、ポップアップと呼ばれるサブメニューではないところです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9507,6 +9580,14 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Resources like Wikipedia which trade in typically very lengthy and detailed articles, have long been incorporating tables of content because they provide two related benefits:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135832Z" creationid="rikiha" creationdate="20170731T135832Z">
+        <seg>Wikipediaのような情報サイトは概して非常に長い詳細な記事を扱うため、昔から目次が使われます。目次には相関する2つのメリットがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) レスポンシブWebデザイン、としなくて良いかどうかはちょっと迷いました。ひとまずこのままで。</note>
       <tuv lang="EN-US">
         <seg>Responsive Design</seg>
@@ -9679,6 +9760,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170616T115806Z" creationid="yoota" creationdate="20170606T101408Z">
         <seg>キーボードアクセシビリティのワースト2は、タブ移動できて使用できるけれども、視覚的なフィードバックが一切ないというものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second, they encourage information architects to spawn numerous, independent pages of content, without the clear hierarchy of grouping related sections under a main heading on a shared page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135906Z" creationid="rikiha" creationdate="20170731T135906Z">
+        <seg>？？また、インフォメーションアーキテクトが多数の独立したコンテンツページ（共有ページのメインの見出しの下の、分類された関連セクションの階層が不明確）を作るのを助長してしまうのも問題です。？？【コメント：不安訳です。原文「Second, they encourage information architects to spawn numerous, independent pages of content, without the clear hierarchy of grouping related sections under a main heading on a shared page.」】</seg>
       </tuv>
     </tu>
     <tu>
@@ -10172,6 +10261,14 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes it’s better not to make something just-about-inclusive, but to think about the root problem and devise a completely different solution — a simpler and more robust one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135916Z" creationid="rikiha" creationdate="20170731T135916Z">
+        <seg>場合によっては、何とかインクルーシブに近づけるよりも、根本的な問題に目を向けて、まったく別のもっとシンプルかつ堅牢な解決策を考えた方が良いこともあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 
 「変える」のは少し違和感あり。「転用する」としてみました。
 
@@ -10376,6 +10473,14 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170731T065748Z" creationid="rikiha" creationdate="20170731T065748Z">
         <seg>目次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tables of content are the antidote to drop-down submenus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135920Z" creationid="rikiha" creationdate="20170731T135920Z">
+        <seg>そして、このドロップダウン形式のサブメニューに対抗する手段が目次というわけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11998,6 +12103,14 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The submenus they disclose need to be positioned absolutely, which invites layout issues across different viewports, and they’re cumbersome when it comes to graceful degradation in the absence of JavaScript, CSS or both.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135914Z" creationid="rikiha" creationdate="20170731T135914Z">
+        <seg>ドロップダウン形式のサブメニューは位置を固定する必要があるため、ビューポートの違いによるレイアウトの問題が生じます。また、JavaScriptやCSS（あるいはその両方）が使えない場合のグレイスフルデグラデーションも厄介です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The thing is, though, they can’t bite you because their teeth are too weak.”</seg>
@@ -13158,6 +13271,14 @@ compelには強要する、強いるという意味があり、転じて「目�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170730T134751Z" creationid="rikiha" creationdate="20170730T124355Z">
         <seg>どの&lt;g5&gt;&lt;header&gt;&lt;/g5&gt;が当たりなのかを判断できる賢いブラウザもありますが、そうでない場合はこの指定が役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though technically they can be made accessible, it’s not a trivial task to support mouse, keyboard and touch interaction simultaneously without diminishing the quality of any one mode.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170731T135911Z" creationid="rikiha" creationdate="20170731T135911Z">
+        <seg>技術的にはアクセシブルにできないこともありませんが、マウス、キーボード、タッチインタラクションのすべてに、質を下げずに対応するのは簡単なことではありません。</seg>
       </tuv>
     </tu>
     <tu>
