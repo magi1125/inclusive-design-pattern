@@ -12129,7 +12129,9 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 必要がないというより、廃止してよいということかなと。</note>
+      <note>(伊原) 必要がないというより、廃止してよいということかなと。
+
+(岡本）使うことは取りやめて良い　→　使わなくてよい　　ではダメ？</note>
       <tuv lang="EN-US">
         <seg>Then, on focusing the about link, the user should hear “About, same page link.” Since “same page” is vocalized already, the hidden &lt;g2&gt;&lt;span&gt;&lt;/g2&gt; with “Current page” is arguably obsolete.</seg>
       </tuv>
@@ -14008,12 +14010,14 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整</note>
+      <note>(伊原) 微調整
+
+(岡本)　付け→つけ</note>
       <tuv lang="EN-US">
         <seg>We’ve married behavior and semantics just by altering the &lt;g3&gt;href&lt;/g3&gt; value.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T160955Z" creationid="rikiha" creationdate="20170728T142637Z">
-        <seg>&lt;g3&gt;href&lt;/g3&gt;の値を変えるだけで、ふるまいとセマンティクスを結び付けることができました。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170731T065048Z" creationid="rikiha" creationdate="20170728T142637Z">
+        <seg>&lt;g3&gt;href&lt;/g3&gt;の値を変えるだけで、ふるまいとセマンティクスを結びつけることができました。</seg>
       </tuv>
     </tu>
     <tu>
