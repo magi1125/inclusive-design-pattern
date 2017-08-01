@@ -15260,7 +15260,11 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
     </tu>
     <tu>
       <note>(伊原) 一応以下からコピペ。
-https://waic.github.io/wcag20/Understanding/visual-audio-contrast-without-color.html</note>
+https://waic.github.io/wcag20/Understanding/visual-audio-contrast-without-color.html
+
+(太田)
+一応以下のほうがいいです (同じですが)。
+http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast</note>
       <tuv lang="EN-US">
         <seg>“Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.” – &lt;g1&gt;&lt;g2&gt;WCAG2.0 1.4.1 Use of Color&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;6&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
       </tuv>
