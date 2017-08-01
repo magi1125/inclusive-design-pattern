@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1212,12 +1212,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
 
 (太田) 設定できる→あってもよい、としました (原文 have)
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本) 1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;You can have more than one navigation landmark per page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170726T090650Z" creationid="rikiha" creationdate="20170722T131901Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;navigationランドマークは1つのページに複数あってもよい。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170801T102721Z" creationid="rikiha" creationdate="20170722T131901Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;navigationランドマークはひとつのページに複数あってもよい。</seg>
       </tuv>
     </tu>
     <tu>
