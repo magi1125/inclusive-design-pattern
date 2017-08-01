@@ -10945,7 +10945,8 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
 いったん置き換えてみました。
 
 (太田) NVDAのDキーは次のランドマークにいきなり飛びます (対象がないと「次のランドマークがありません」といわれます)。「ランドマークをたどりながら領域単位でページ内を移動できます」としてしまいたいですね。
-冒頭の The を訳出しました。</note>
+冒頭の The を訳出しました。
+原文に合わせてダッシュ区切りにしました。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;nav&gt;&lt;/g1&gt; (or &lt;g2&gt;role="navigation"&lt;/g2&gt;) landmark joins &lt;g3&gt;&lt;main&gt;&lt;/g3&gt; in being discoverable when traversing the page by region — for instance by using the &lt;g4&gt;D&lt;/g4&gt; key in the NVDA screen reader.</seg>
       </tuv>
