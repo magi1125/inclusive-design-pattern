@@ -1691,12 +1691,15 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) shadeの訳が落ちてるようなので追加。</note>
+      <note>(伊原) shadeの訳が落ちてるようなので追加。
+
+(太田)
+覚障害のユーザーによっては→覚障害のユーザーにとっては</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;As illustrated, a clear differentiation by hue can be a faint differentiation by shade to some color blind users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T125702Z" creationid="rikiha" creationdate="20170727T124118Z">
-        <seg>図のように色合いによる区別が明らかでも、色覚障害のユーザーによってはその違いはわずかな陰影にすぎません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T095353Z" creationid="rikiha" creationdate="20170727T124118Z">
+        <seg>図のように色合いによる区別が明らかでも、色覚障害のユーザーにとってはその違いはわずかな陰影にすぎません。</seg>
       </tuv>
     </tu>
     <tu>
