@@ -8627,7 +8627,9 @@ ourを私たちと訳すのはどうなのか。他は適当に濁している�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 話が変わるので2文に分けました。また「ドキュメントの他の要素と共にリフローされません」がわかりにくかったので、若干意訳してみました。</note>
+      <note>(伊原) 話が変わるので2文に分けました。また「ドキュメントの他の要素と共にリフローされません」がわかりにくかったので、若干意訳してみました。
+
+(太田) positioned 要検討。</note>
       <tuv lang="EN-US">
         <seg>Not only does this create a contrary user experience for keyboard users, but positioned elements don’t reflow with the rest of the document.</seg>
       </tuv>
