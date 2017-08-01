@@ -3927,7 +3927,9 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 2文に分けつつ、表現を調整。</note>
+      <note>(伊原) 2文に分けつつ、表現を調整。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Elements will slip behind other elements or extend outside of the viewport and become obscured.</seg>
       </tuv>
@@ -8634,8 +8636,8 @@ ourを私たちと訳すのはどうなのか。他は適当に濁している�
       <tuv lang="EN-US">
         <seg>Not only does this create a contrary user experience for keyboard users, but positioned elements don’t reflow with the rest of the document.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170801T092619Z" creationid="rikiha" creationdate="20170725T074249Z">
-        <seg>しかし、このやり方はキーボードユーザーの体験を損なう上、絶対配置された要素はリフローされなくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T092631Z" creationid="rikiha" creationdate="20170725T074249Z">
+        <seg>しかし、このやり方はキーボードユーザーの体験を損なう上、絶対配置された要素はリフローされなくなるという問題もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12946,12 +12948,14 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 2文に分けました。</note>
+      <note>(伊原) 2文に分けました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>This is liable to create layout issues when the viewport or its content is resized.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T151154Z" creationid="rikiha" creationdate="20170725T074253Z">
-        <seg>その結果、ビューポートやコンテンツのサイズが変わったときにレイアウトの問題が生じる恐れがあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T092731Z" creationid="rikiha" creationdate="20170725T074253Z">
+        <seg>その結果、ビューポートやコンテンツのサイズが変わったときに、レイアウトに問題が生じることがあります。</seg>
       </tuv>
     </tu>
     <tu>
