@@ -5968,8 +5968,8 @@ cognitive cacheは経験キャッシュとしてみました。
       <tuv lang="EN-US">
         <seg>In design, by making things that behave in a certain way &lt;g1&gt;appear&lt;/g1&gt; as expected, we help our users make the most of their cognitive cache.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T054349Z" creationid="rikiha" creationdate="20170725T021514Z">
-        <seg>デザインにおいては、特定のふるまいを期待させるように&lt;g1&gt;見せる&lt;/g1&gt;ことで、ユーザーの経験キャッシュを最大限に活用できるようにします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T082040Z" creationid="rikiha" creationdate="20170725T021514Z">
+        <seg>デザインにおいては、特定のふるまいを期待させるように&lt;g1&gt;見せる&lt;/g1&gt;ことで、ユーザーの認知のキャッシュを最大限に活用できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6281,8 +6281,7 @@ well-matched はよくマッチするということで、システムフォン�
 (伊原) 「一方」はちょっとニュアンスが違うのでトリました。理解が何なのか謎なのでちょっと補いました。
 
 (太田) &lt;g1&gt; を反映し、それに伴って語順を調整しました。
-個人的には、プログラミング用語のスキーマと言われると XML Schema とかRDBのスキーマを連想します。続く話を読むと認知心理学用語のスキーマをデザイン視点で語っている話で、「プログラミング用語のスキーマ」は1ミリも語られていないように感じます。ヘイドンさんの言ってることは正直ぴんと来ないですね。
-「プログラミング用語」ではなく「デザイン用語」と言われるなら分かるのですが。
+個人的には、プログラミング用語のスキーマと言われると XML Schema とかRDBのスキーマを連想します。続く話を読むと認知心理学用語のスキーマをデザイン視点で語っている話で、「プログラミング用語のスキーマ」は1ミリも語られていないように感じます。ヘイドンさんの言ってることは正直ぴんと来ないですね。「プログラミング用語」ではなく「デザイン用語」と言われるなら分かるのですが。
 訳注?
 「プログラミング用語における」を取り払うというのもありか?
 </note>
