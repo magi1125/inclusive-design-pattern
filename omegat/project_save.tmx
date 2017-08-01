@@ -1736,12 +1736,13 @@ a little ではなく little なので、これは「ほとんどない」とい
     <tu>
       <note>(伊原) OK…ですが、この文は要らないのでは。余計な誤解を生みそうなのでできればトリにしたい。
 
-(太田) 真のキャプションが入っていないですね。この前に「ナビゲーションバーを他の領域よりも前に配置」くらい付け足してもよいのかも。</note>
+(太田) 真のキャプションが入っていないですね。この前に「ナビゲーションバーを他の領域よりも前に配置。」くらい付け足してもよいのかも。
+ちょっと調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;I’m not suggesting your navigation bar has to use a white, cursive font on a black background!</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T070659Z" creationid="rikiha" creationdate="20170725T021535Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;ナビゲーションバーの文字は白、フォントは草書体、背景は黒でなければいけない、と言っているわけではありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T084700Z" creationid="rikiha" creationdate="20170725T021535Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;ナビゲーションバーを他の領域よりも前に配置。白文字、黒背景、草書体、にしろと言っているわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
