@@ -14490,12 +14490,14 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) これが例外ケースということで、「この配置方法を頼りにした」と入れました。</note>
+      <note>(伊原) これが例外ケースということで、「この配置方法を頼りにした」と入れました。
+
+(太田) positioning を「絶対配置」としました。</note>
       <tuv lang="EN-US">
         <seg>When relying on positioning to create modal dialogs, you should exercise extreme caution, testing against a range of viewport dimensions and magnification settings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T152035Z" creationid="rikiha" creationdate="20170725T075617Z">
-        <seg>この配置方法を頼りにしたモーダルダイアログを作るときは、細心の注意を払うとともに、さまざまなビューポートのサイズや拡大／縮小の倍率に対してテストしましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T093348Z" creationid="rikiha" creationdate="20170725T075617Z">
+        <seg>絶対配置に頼ったモーダルダイアログを作るときは、細心の注意を払うとともに、さまざまなビューポートのサイズや拡大／縮小の倍率に対してテストしましょう。</seg>
       </tuv>
     </tu>
     <tu>
