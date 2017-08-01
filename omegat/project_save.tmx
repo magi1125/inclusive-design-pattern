@@ -6269,12 +6269,14 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 「一方」はちょっとニュアンスが違うのでトリました。理解が何なのか謎なのでちょっと補いました。</note>
+      <note>(伊原) 「一方」はちょっとニュアンスが違うのでトリました。理解が何なのか謎なのでちょっと補いました。
+
+(太田) &lt;g1&gt; を反映し、それに伴って語順を調整しました。</note>
       <tuv lang="EN-US">
         <seg>In programming terms, schemata are a kind of &lt;g1&gt;cache for understanding&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T070220Z" creationid="rikiha" creationdate="20170725T021505Z">
-        <seg>プログラミング用語におけるスキーマは、ものごとを理解するための一種のキャッシュです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T075140Z" creationid="rikiha" creationdate="20170725T021505Z">
+        <seg>プログラミング用語におけるスキーマは、&lt;g1&gt;ものごとを理解するためのキャッシュ&lt;/g1&gt;の一種です。</seg>
       </tuv>
     </tu>
     <tu>
