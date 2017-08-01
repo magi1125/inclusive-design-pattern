@@ -8635,7 +8635,9 @@ ourを私たちと訳すのはどうなのか。他は適当に濁している�
 
 (太田) positioned 要検討。「絶対配置された」というニュアンスかも。
 fixed もAbsolute positioningの一種なので「絶対配置」と呼んで良いです。
+
 http://www.w3.org/TR/css-position-3/#abs-pos
+&gt;References in this specification to an absolutely positioned element (or its box) imply that the element’s ‘position’ property has the value ‘absolute’ or ‘fixed’.
 
 後半は単に「リフローされなくなる」で良いのでは。</note>
       <tuv lang="EN-US">
