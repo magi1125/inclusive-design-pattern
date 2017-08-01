@@ -14716,7 +14716,9 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順を調整。プロパティと補足。</note>
+      <note>(伊原) 語順を調整。プロパティと補足。
+
+(太田) OK。</note>
       <tuv lang="EN-US">
         <seg>With CSS position values of &lt;g1&gt;absolute&lt;/g1&gt; or &lt;g2&gt;fixed&lt;/g2&gt;, one can visually position an element anywhere in the viewport, regardless of the source order.</seg>
       </tuv>
