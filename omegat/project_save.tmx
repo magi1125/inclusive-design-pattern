@@ -5286,12 +5286,14 @@ remediation は治療法?
       <note>(伊原) &lt;nav&gt;領域で分かるようにするのではなく、&lt;nav&gt;内のリンクの話なので、そのあたり調整。
 
 (太田) わかりにくい。多少調整。
-yourなどをどうにか訳出するべきか?</note>
+yourなどをどうにか訳出するべきか?
+
+(岡本)　分かる→わかる</note>
       <tuv lang="EN-US">
         <seg>Identifying the current page link in your &lt;g1&gt;&lt;nav&gt;&lt;/g1&gt; region makes your site more usable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170801T094756Z" creationid="rikiha" creationdate="20170725T155701Z">
-        <seg>&lt;g1&gt;&lt;nav&gt;&lt;/g1&gt;領域の中でも、現在のページへのリンクがどれなのか分かるようにすれば、サイトがより使いやすくなります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170801T104817Z" creationid="rikiha" creationdate="20170725T155701Z">
+        <seg>&lt;g1&gt;&lt;nav&gt;&lt;/g1&gt;領域の中でも、現在のページへのリンクがどれなのかわかるようにすれば、サイトがより使いやすくなります。</seg>
       </tuv>
     </tu>
     <tu>
