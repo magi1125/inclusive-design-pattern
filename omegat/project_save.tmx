@@ -7743,12 +7743,14 @@ implementationを例→実装としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 使える・利用できる➞用いる・使えるとしました。また直前でナビゲーションと言っているので、ここは主語を省略（インクルーシブなもの）しても伝わるかなと。</note>
+      <note>(伊原) 使える・利用できる➞用いる・使えるとしました。また直前でナビゲーションと言っているので、ここは主語を省略（インクルーシブなもの）しても伝わるかなと。
+
+(太田) we’re being inclusive なので、今まさにinclusiveになっている、なりつつあるというニュアンスでしょうか。なります→なっています、としました。</note>
       <tuv lang="EN-US">
         <seg>Just by using a list, we’re being inclusive of older users and devices, assistive technology users and those who are experiencing a CSS failure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170724T150022Z" creationid="rikiha" creationdate="20170722T233816Z">
-        <seg>リストを用いるだけで、高齢者、古いデバイス、支援技術ユーザー、さらにはCSSの読み込みに失敗したユーザーにも使えるインクルーシブなものになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T054755Z" creationid="rikiha" creationdate="20170722T233816Z">
+        <seg>リストを用いるだけで、高齢者、古いデバイス、支援技術ユーザー、さらにはCSSの読み込みに失敗したユーザーにも使えるインクルーシブなものになっています。</seg>
       </tuv>
     </tu>
     <tu>
