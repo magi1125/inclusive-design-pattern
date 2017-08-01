@@ -3453,12 +3453,15 @@ segregateは隔離というより分離としたほうがしっくりくるか�
     <tu>
       <note>(伊原) By the same token で「同様に」なのですが、ちょっとそれだと変ですね。こちらを「一方」としました。その他もろもろ調整。
 
-(太田) 「同じ理屈で」、というようなことでしょうね。「逆に」とかのほうがいいかも。</note>
+(太田) 「同じ理屈で」、というようなことでしょうね。「逆に」とかのほうがいいかも。
+rely on には「信頼できる」までの意味はないかも (認知心理学上のスキーマは時に信頼できないことももあるものなので)。「キャッシュに頼ることができないため」としました。
+
+</note>
       <tuv lang="EN-US">
         <seg>By the same token, if something genuinely new is experienced, there’s nothing in the cache to be relied on and the sense data must be evaluated in full.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170801T075538Z" creationid="rikiha" creationdate="20170725T021511Z">
-        <seg>逆に、まったく新しいことを経験する場合、信頼できるキャッシュがないため、知覚した情報をすべて評価しなければなりません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T075745Z" creationid="rikiha" creationdate="20170725T021511Z">
+        <seg>逆に、まったく新しいことを経験する場合、キャッシュに頼ることができないため、知覚した情報をすべて評価しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
