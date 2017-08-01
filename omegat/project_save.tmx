@@ -13815,12 +13815,14 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ちょっと補いつつ調整。</note>
+      <note>(伊原) ちょっと補いつつ調整。
+
+(太田) 典型例の使い方が日本語として変かも少し調整。</note>
       <tuv lang="EN-US">
         <seg>Typically, the current page link is distinguished by color, which means users with certain varieties of color blindness may not be able to differentiate this link from the others.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T124051Z" creationid="rikiha" creationdate="20170727T123608Z">
-        <seg>現在のページのリンクに色の差をつけて目立たせるという典型例がありますが、この方法だと色覚障害のユーザーが他のリンクと区別できないかもしれません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T095221Z" creationid="rikiha" creationdate="20170727T123608Z">
+        <seg>典型的には、現在ページへのリンクは色を区別して目立たせますが、それでは色覚障害のユーザーが他のリンクと区別できないかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
