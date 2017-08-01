@@ -2317,12 +2317,15 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ダイアログにメニューとして〜がややこしかったので調整。</note>
+      <note>(伊原) ダイアログにメニューとして〜がややこしかったので調整。
+
+(太田) 勝手に表示されるわけではなく、表示させる機能があるという話と思われます。ダイアログかどうかはそこまで重要ではないはずなので、「ランドマークを一覧表示することができ」、としてみました。
+themは</note>
       <tuv lang="EN-US">
         <seg>Also, NVDA, JAWS and VoiceOver all provide a dialog listing landmarks as a menu, allowing you to switch between them directly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170725T011841Z" creationid="rikiha" creationdate="20170722T233944Z">
-        <seg>また、NVDA、JAWS、VoiceOverではメニューダイアログとしてランドマークが一覧表示されるため、ランドマーク間をダイレクトに切り替えることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T072024Z" creationid="rikiha" creationdate="20170722T233944Z">
+        <seg>また、NVDA、JAWS、VoiceOverでは、ランドマークを一覧表示することができ、ランドマーク間をダイレクトに切り替えることができます。</seg>
       </tuv>
     </tu>
     <tu>
