@@ -2488,12 +2488,15 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) WCAGの説明に沿って「唯一」を活かしました。</note>
+      <note>(伊原) WCAGの説明に沿って「唯一」を活かしました。
+
+(太田) 誤訳なのでは。カンマ以降は別の文ではなく、acceptableとされるための要件の一つであるように思います。
+hueは正確には色相ですが、まあ色で良いかなと。</note>
       <tuv lang="EN-US">
         <seg>Any method is acceptable so long as the link text remains unobscured and readable, and the hue is not the only means of differentiation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T134312Z" creationid="rikiha" creationdate="20170727T124150Z">
-        <seg>リンクテキストがはっきりと読めさえすれば、どんな方法でもかまいません。色だけが唯一の区別の手段ではないのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170801T100400Z" creationid="rikiha" creationdate="20170727T124150Z">
+        <seg>リンクテキストがはっきりと読めて、かつ、色が唯一の区別の手段になっていないのであれば、どんな方法でもかまいません。</seg>
       </tuv>
     </tu>
     <tu>
