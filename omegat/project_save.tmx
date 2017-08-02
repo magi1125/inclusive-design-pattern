@@ -8379,12 +8379,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ポイント先➞遷移先としました。</note>
+      <note>(伊原) ポイント先➞遷移先としました。
+
+(太田) the page の the は訳出したほうがいいかも。</note>
       <tuv lang="EN-US">
         <seg>My favorite solution is to make the current page link point to the main region of the page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T144109Z" creationid="rikiha" creationdate="20170728T142617Z">
-        <seg>私のお気に入りのやりかたは、現在のページのリンクの遷移先をページのメイン領域にするというものです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T095147Z" creationid="rikiha" creationdate="20170728T142617Z">
+        <seg>私のお気に入りのやりかたは、現在のページのリンクの遷移先を、そのページのメイン領域にするというものです。</seg>
       </tuv>
     </tu>
     <tu>
