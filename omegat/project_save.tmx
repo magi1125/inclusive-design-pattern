@@ -2471,7 +2471,9 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) proxy elementをどう訳すか。いったん「代理となる要素」としてみました。</note>
+      <note>(伊原) proxy elementをどう訳すか。いったん「代理となる要素」としてみました。
+
+(太田) aria-describedbyの参照先となる要素のこと。</note>
       <tuv lang="EN-US">
         <seg>Another approach, which goes some way to mitigate ambiguity, is to use a proxy element and &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-describedby&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
