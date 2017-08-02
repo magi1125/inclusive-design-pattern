@@ -6334,12 +6334,15 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) dumpingを訳出するか。いったんママで。</note>
+      <note>(伊原) dumpingを訳出するか。いったんママで。
+
+(太田) dumpingはここでは「すっ飛ぶ」「吹っ飛ぶ」みたいなニュアンスですかね。「飛ばれさてしまいます」としてみました。
+</note>
       <tuv lang="EN-US">
         <seg>In practice, this means that clicking the link will reload the page, dumping the keyboard user’s focus at the very top, on the document itself.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T151705Z" creationid="rikiha" creationdate="20170728T142546Z">
-        <seg>そのため、リンクをクリックするとページがリロードされ、キーボードユーザーのフォーカスはドキュメントの一番上に戻ってしまいます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T093409Z" creationid="rikiha" creationdate="20170728T142546Z">
+        <seg>そのため、リンクをクリックするとページがリロードされ、キーボードユーザーのフォーカスはドキュメントの一番上に飛ばされてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
