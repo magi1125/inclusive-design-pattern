@@ -926,7 +926,7 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       <note>(伊原) 現在地表示を書き換えるのも簡単である、ということがいいたいのだと思うので、そのように調整しました。
 
 (太田) 訳というよりヘイドンさんの問題だと思いますが、移し変えると言われるとJSなどで移し変える処理をしなければならないような印象を受けます。たぶんそういうことではないはず。
-調整してみました。
+少し補いつつ調整してみました。
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Moving the &lt;g2&gt;aria-describedby="current"&lt;/g2&gt; attribute from one element to another between pages is easy enough, and it can be used as a styling hook just as a class might be: &lt;g3&gt;[aria-describedby="current"]&lt;/g3&gt;.</seg>
