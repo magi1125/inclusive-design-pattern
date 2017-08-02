@@ -2652,8 +2652,8 @@ hueは正確には色相ですが、まあ色で良いかなと。</note>
       <note>(伊原) コメント欄という話を意識しての下訳と思いますが、この段階ではまだ一般論の話かなと思うので、そのように調整しました。
 
 (太田) 
-ここのentirelyは「a要素全体」を指しているかと (属性だけではない、という意味)。調整しました。
-</note>
+ここのentirelyは「完全に置き換える」のではなく「a要素全体」かなと (属性だけではない、という意味)。
+調整しました。</note>
       <tuv lang="EN-US">
         <seg>As a remedy, I’ve heard it suggested to remove the current page link’s &lt;g1&gt;href&lt;/g1&gt;, or to replace the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; entirely with an uninteractive &lt;g3&gt;&lt;span&gt;&lt;/g3&gt; element.</seg>
       </tuv>
