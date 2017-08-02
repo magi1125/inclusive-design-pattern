@@ -11679,12 +11679,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 多少調整。</note>
+      <note>(伊原) 多少調整。
+
+(太田) 実体とは。ちょっと調整。</note>
       <tuv lang="EN-US">
         <seg>The description is the descriptive element’s text node.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T161514Z" creationid="rikiha" creationdate="20170727T134709Z">
-        <seg>説明の実体は、説明する側の要素のテキストノードです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T091624Z" creationid="rikiha" creationdate="20170727T134709Z">
+        <seg>説明する側の要素のテキストノードが、そのまま説明になります。</seg>
       </tuv>
     </tu>
     <tu>
