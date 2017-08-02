@@ -61,7 +61,9 @@
 (伊原) forceのニュアンスを出してみました。
 
 (太田) 訳はOKですが、手元のIE11はhiddenに対応しているようです。ヘイドンさんIE10?
-訳注でフォローが必要と思われます。</note>
+訳注でフォローが必要と思われます。
+
+(伊原) OK、訳注で。</note>
       <tuv lang="EN-US">
         <seg>(Note that Internet Explorer does not support &lt;g5&gt;hidden&lt;/g5&gt; at the time of writing, but you can force it to by adding &lt;g6&gt;[hidden] { display: none; }&lt;/g6&gt; to your style sheet.</seg>
       </tuv>
@@ -927,7 +929,8 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
 
 (太田) 訳というよりヘイドンさんの問題だと思いますが、移し変えると言われるとJSなどで移し変える処理をしなければならないような印象を受けます。たぶんそういうことではないはず。
 少し補いつつ調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Moving the &lt;g2&gt;aria-describedby="current"&lt;/g2&gt; attribute from one element to another between pages is easy enough, and it can be used as a styling hook just as a class might be: &lt;g3&gt;[aria-describedby="current"]&lt;/g3&gt;.</seg>
       </tuv>
@@ -1053,7 +1056,9 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
     <tu>
       <note>(伊原) 多少調整。
 
-(太田) すこし調整。</note>
+(太田) すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The HTML5 &lt;g2&gt;hidden&lt;/g2&gt; attribute is used to hide the description both visually and from screen readers.</seg>
       </tuv>
@@ -2669,7 +2674,9 @@ hueは正確には色相ですが、まあ色で良いかなと。
 
 (太田) 
 ここのentirelyは「完全に置き換える」のではなく「a要素全体」かなと (属性だけではない、という意味)。
-調整しました。</note>
+調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>As a remedy, I’ve heard it suggested to remove the current page link’s &lt;g1&gt;href&lt;/g1&gt;, or to replace the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; entirely with an uninteractive &lt;g3&gt;&lt;span&gt;&lt;/g3&gt; element.</seg>
       </tuv>
@@ -3848,7 +3855,9 @@ visual designはそのままビジュアルデザインでいいかも。
 関連付け→関連づけ　　繋がった→つながった
 
 (太田) 
-見えているものを後から隠したわけではないので、「つながったままであり」は少し違和感が。「つながっており」としてみました。</note>
+見えているものを後から隠したわけではないので、「つながったままであり」は少し違和感が。「つながっており」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Despite being hidden, because it &lt;g4&gt;has a relationship&lt;/g4&gt; to the link, the link still has access to “Current page” and it will be announced on focusing the link.</seg>
       </tuv>
@@ -4720,7 +4729,9 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
     <tu>
       <note>(伊原) OK
 
-(太田) 話の内容的に「重複」ではないですね。冗長?</note>
+(太田) 話の内容的に「重複」ではないですね。冗長?
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>From Redundant Link to Skip Link</seg>
       </tuv>
@@ -6369,7 +6380,8 @@ well-matched はよくマッチするということで、システムフォン�
       <note>(伊原) dumpingを訳出するか。いったんママで。
 
 (太田) dumpingはここでは「すっ飛ばす」みたいなニュアンスですかね。「飛ばれさてしまいます」としてみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In practice, this means that clicking the link will reload the page, dumping the keyboard user’s focus at the very top, on the document itself.</seg>
       </tuv>
@@ -7307,7 +7319,9 @@ must ではなく should なので「べき」としました。
     <tu>
       <note>(伊原) 指示語でわかると思うので「こちらのほうで」と調整。
 
-(太田) 構文的とは。「構文はすっきりします」でよさそう。</note>
+(太田) 構文的とは。「構文はすっきりします」でよさそう。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It works like &lt;g3&gt;display: none;&lt;/g3&gt; but is syntactically neater.</seg>
       </tuv>
@@ -10507,7 +10521,9 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
     <tu>
       <note>(伊原) 自分リンクの話だとわかるように調整。
 
-(太田) ちょっと調整。</note>
+(太田) ちょっと調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Some unfinished business: on the about page, the current page link, now accessibly identified, points to the same about page.</seg>
       </tuv>
@@ -11769,7 +11785,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
     <tu>
       <note>(伊原) 多少調整。
 
-(太田) 実体とは。ちょっと調整。</note>
+(太田) 実体とは。ちょっと調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The description is the descriptive element’s text node.</seg>
       </tuv>
@@ -15076,7 +15094,8 @@ regressを「後方互換する」としていますが、日本語として違�
 
 (太田) OK
 馬鹿が気になるようであれば、absurdは「理不尽な」としても良いかも。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Without it, you force the user into a rather absurd spot-the-difference game.</seg>
       </tuv>
