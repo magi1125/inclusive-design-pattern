@@ -1711,7 +1711,9 @@ font-size: 16px;
       <note>(伊原) shadeの訳が落ちてるようなので追加。
 
 (太田)
-ユーザーによっては→ユーザーにとっては</note>
+ユーザーによっては→ユーザーにとっては
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;As illustrated, a clear differentiation by hue can be a faint differentiation by shade to some color blind users.</seg>
       </tuv>
@@ -1993,7 +1995,9 @@ Note を訳出しました。
     <tu>
       <note>(伊原) ここでスキーマと言うべきか。要検討。
 
-(太田) スキーマは避けたいですね。ここのfriendlyは親切な、くらいでいいかも。</note>
+(太田) スキーマは避けたいですね。ここのfriendlyは親切な、くらいでいいかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>A friendly navigation schema does something similar by highlighting the current page: the page the user has open.</seg>
       </tuv>
@@ -2089,7 +2093,9 @@ Note を訳出しました。
       <note>(伊原) もう一歩というより別の方法なので、そのように調整。
 
 (太田) 意欲的はちょっとぴんとこない感じがしました。
-色 + 下線 + もう一歩、ということでもう一歩でも良いようには思いましたが、ここのambitiousは派手とか大胆とかでも良いかも。</note>
+色 + 下線 + もう一歩、ということでもう一歩でも良いようには思いましたが、ここのambitiousは派手とか大胆とかでも良いかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>A more ambitious solution might be to use some scaling and a little pointer, provided in pseudo-content.</seg>
       </tuv>
@@ -5334,7 +5340,9 @@ remediation は治療法?
 (太田) わかりにくい。多少調整。
 yourなどをどうにか訳出するべきか?
 
-(岡本)　分かる→わかる</note>
+(岡本)　分かる→わかる
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Identifying the current page link in your &lt;g1&gt;&lt;nav&gt;&lt;/g1&gt; region makes your site more usable.</seg>
       </tuv>
@@ -7406,7 +7414,8 @@ facilitating and easing のfacilitatingも行方不明かも。
 
 下のCSSの $highlight-color はどこからやってきたのか。
 SASS前提だと思いますが要訳注?
-</note>
+
+(伊原) OK. そうですね、ナチュラルにsassですね。訳注要りそう。</note>
       <tuv lang="EN-US">
         <seg>It’s best to provide an additional adornment, such as a text underline, as an alternative means of differentiation.</seg>
       </tuv>
@@ -8758,7 +8767,9 @@ fixed もAbsolute positioningの一種なので「絶対配置」と呼んで良
 http://www.w3.org/TR/css-position-3/#abs-pos
 &gt;References in this specification to an absolutely positioned element (or its box) imply that the element’s ‘position’ property has the value ‘absolute’ or ‘fixed’.
 
-後半は単に「リフローされなくなる」で良いのでは。</note>
+後半は単に「リフローされなくなる」で良いのでは。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Not only does this create a contrary user experience for keyboard users, but positioned elements don’t reflow with the rest of the document.</seg>
       </tuv>
@@ -13996,7 +14007,9 @@ OK
     <tu>
       <note>(伊原) ちょっと補いつつ調整。
 
-(太田) 典型例の使い方が日本語として変かも少し調整。</note>
+(太田) 典型例の使い方が日本語として変かも少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Typically, the current page link is distinguished by color, which means users with certain varieties of color blindness may not be able to differentiate this link from the others.</seg>
       </tuv>
@@ -14692,7 +14705,9 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
     <tu>
       <note>(伊原) これが例外ケースということで、「この配置方法を頼りにした」と入れました。
 
-(太田) positioning を「絶対配置」としました。</note>
+(太田) positioning を「絶対配置」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>When relying on positioning to create modal dialogs, you should exercise extreme caution, testing against a range of viewport dimensions and magnification settings.</seg>
       </tuv>
@@ -15453,7 +15468,9 @@ https://waic.github.io/wcag20/Understanding/visual-audio-contrast-without-color.
 一応以下のほうがいいです (同じですが)。
 http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast
 
-色の仕様→色の使用</note>
+色の仕様→色の使用
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>“Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.” – &lt;g1&gt;&lt;g2&gt;WCAG2.0 1.4.1 Use of Color&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;6&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
       </tuv>
