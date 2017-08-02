@@ -13414,12 +13414,14 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順など調整。</note>
+      <note>(伊原) 語順など調整。
+
+(太田) 通過→飛ばして、くらいかなと</note>
       <tuv lang="EN-US">
         <seg>This way, instead of just reloading the page, it takes you past the navigation landmark to the content, like a skip link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T124719Z" creationid="rikiha" creationdate="20170728T142623Z">
-        <seg>こうすれば、ただページをリロードするのに代わって、スキップリンクのようにnavigationランドマークを通過してコンテンツに移動できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T095309Z" creationid="rikiha" creationdate="20170728T142623Z">
+        <seg>こうすれば、ただページをリロードするのに代わって、スキップリンクのようにnavigationランドマークを飛ばしてコンテンツに移動できます。</seg>
       </tuv>
     </tu>
     <tu>
