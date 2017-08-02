@@ -56,10 +56,14 @@
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) forceのニュアンスを出してみました。
+      <note>※要訳注
+
+(伊原) forceのニュアンスを出してみました。
 
 (太田) 手元のIE11はhiddenに対応しているようです。
-ヘイドンさんIE10?</note>
+ヘイドンさんIE10?
+
+</note>
       <tuv lang="EN-US">
         <seg>(Note that Internet Explorer does not support &lt;g5&gt;hidden&lt;/g5&gt; at the time of writing, but you can force it to by adding &lt;g6&gt;[hidden] { display: none; }&lt;/g6&gt; to your style sheet.</seg>
       </tuv>
