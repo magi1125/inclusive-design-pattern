@@ -1973,12 +1973,14 @@ Note を訳出しました。
       <note>(伊原) OK
 
 (太田) コロンのニュアンスが出ていないがまあ良いか。
-「注意点: 」とするのもありそう。</note>
+「注意点: 」とするのもありそう。
+
+(伊原) 箇条書きが来るので、コロンのほうがよさそうです。そうしてみました。</note>
       <tuv lang="EN-US">
         <seg>A few notes:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170727T134702Z" creationid="rikiha" creationdate="20170727T134702Z">
-        <seg>いくつか注意点があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170802T133108Z" creationid="rikiha" creationdate="20170727T134702Z">
+        <seg>注意点:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2495,7 +2497,8 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
 (太田) aria-describedbyの参照先となる要素のことを指している。
 proxy elementは力強く削除してしまったほうが分かりやすそうではあります。
 いったん取ってみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Another approach, which goes some way to mitigate ambiguity, is to use a proxy element and &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-describedby&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
@@ -6741,7 +6744,9 @@ becauseを訳出しました。
 (岡本）一呼吸→ひと呼吸
 
 (太田) 
-他に倣って「次の例の場合は」→「以下の例では」としました。</note>
+他に倣って「次の例の場合は」→「以下の例では」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the following example, focusing on the current (about page) link would trigger the announcement, “About [pause] Current page.”</seg>
       </tuv>
@@ -11321,7 +11326,9 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
 
 (太田) 「読み込まれ」は少し違和感。トリでも良いのでは。少し調整。
 「ひと呼吸置いてから読み上げられます」はたまたまそういう実装なだけの気がしなくもない (地の文と説明とはなんらか区別されるべきではあり、その区別の方法として「ひと呼吸置く」という実装を採用することが多いという話)。
-訳注を入れるほどでもないか。</note>
+訳注を入れるほどでもないか。
+
+(伊原) 確かに厳密に説明するなら訳注ですね。サイン音とか声色変更とかもあり得るわけで。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g7&gt;aria-describedby&lt;/g7&gt; attribute imports and appends a description which is read after a pause.</seg>
       </tuv>
