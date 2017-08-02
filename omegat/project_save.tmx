@@ -3992,6 +3992,14 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Each link points to a &lt;g3&gt;&lt;g4&gt;fragment identifier&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;12&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; that corresponds with a section of the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170802T162205Z" creationid="rikiha" creationdate="20170802T162205Z">
+        <seg>その場合、それぞれのリンクのポイント先は、ページの各セクションのフラグメント識別子（脚注96）に設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Easily understood by 13- to 15-year-old students.</seg>
@@ -10346,6 +10354,14 @@ Good!</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since tables of contents that link to page sections are de facto navigation landmarks, we can do one better than Wikipedia and include &lt;g2&gt;role="navigation"&lt;/g2&gt; on the parent element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170802T162200Z" creationid="rikiha" creationdate="20170802T162200Z">
+        <seg>しかし、ページの各セクションにリンクしている目次は事実上のナビゲーションランドマークであるため、親要素にrole="navigation"を指定すればWikipediaよりもうまいやり方で目次を作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the button’s label of “Start” is in a background image as part of CSS’s presentation layer, this too is unavailable to assistive technologies.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101018Z" creationid="okamoto_jun" creationdate="20170627T101018Z">
@@ -15010,6 +15026,14 @@ belong toが「構成する」となっていますが、この章はドキュ�
 訳を指定ない様子。前後の文脈から考えて問題ないかと。</note>
       <tuv lang="EN-US">
         <seg>Why?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wikipedia provides the &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; “Contents” to locate the table of contents in assistive technology.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170802T162157Z" creationid="rikiha" creationdate="20170802T162157Z">
+        <seg>Wikipediaは、「目次」にを使用しており、支援技術で見つけることができます。</seg>
       </tuv>
     </tu>
     <tu>
