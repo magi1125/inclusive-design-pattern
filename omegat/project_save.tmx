@@ -2527,7 +2527,9 @@ passes muster は「検閲をパスする」というヘイドンフレーズで
       <note>(伊原) WCAGの説明に沿って「唯一」を活かしました。
 
 (太田) 誤訳なのでは。カンマ以降は別の文ではなく、acceptableとされるための要件の一つであるように思います。
-hueは正確には色相ですが、まあ色で良いかなと。</note>
+hueは正確には色相ですが、まあ色で良いかなと。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Any method is acceptable so long as the link text remains unobscured and readable, and the hue is not the only means of differentiation.</seg>
       </tuv>
@@ -6851,7 +6853,9 @@ becauseを訳出しました。
       <note>(伊原) ヘイドンさんのブログのことだと補足。
 
 (太田)
-「においていくつか」のひらがな連続が読みにくかったので読点を挿入。</note>
+「においていくつか」のひらがな連続が読みにくかったので読点を挿入。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In “&lt;g1&gt;&lt;g2&gt;The Accessible Current Page Link Conundrum&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;7&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” I explored a few possibilities and a productive discussion took place in the comments.</seg>
       </tuv>
@@ -7550,7 +7554,9 @@ http://eow.alc.co.jp/search?q=right%20way
     <tu>
       <note>(伊原) OK
 
-(太田) 微調整</note>
+(太田) 微調整
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It’s important that this text does &lt;g1&gt;not&lt;/g1&gt; replace the existing link text and is, instead, appended or prepended to it.</seg>
       </tuv>
@@ -9277,7 +9283,9 @@ WCAGに従うことは、伝えるよりも良いのです。
       <note>(伊原) cipherは暗号とかカギとかそういうニュアンスのようなので、符号➞手がかりとしてみました。
 
 (太田) ここの One はひとつめ?
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK（</note>
       <tuv lang="EN-US">
         <seg>One approach is to insert a visually hidden, screen reader announceable &lt;g2&gt;&lt;span&gt;&lt;/g2&gt; containing a cipher, like “Current page”:</seg>
       </tuv>
@@ -11878,7 +11886,8 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
 
 ちょっと補わないとダメかも。
 補ってみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The first thing you need to do is provide some text to be read out when the screen reader operator focuses the link.</seg>
       </tuv>
@@ -12708,7 +12717,9 @@ http://kidachi.kazuhi.to/blog/archives/039312.html
 
 (太田) 原著出版当時はaria-currentの対応状況がお寒い状況だったのでしょう。
 NVDA2017.2jaでは、 aria-current="page" を「現在のページ」、 aria-current="location" を「現在の位置」と読むことを確認しました。
-訳注ですかね。</note>
+訳注ですかね。
+
+(伊原) OK、訳注お願いします！</note>
       <tuv lang="EN-US">
         <seg>There’s no standard way to identify current page links non-visually as yet.</seg>
       </tuv>
