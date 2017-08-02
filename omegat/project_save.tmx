@@ -4235,8 +4235,8 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       <tuv lang="EN-US">
         <seg>First, they hide navigational content from view within a precarious, interaction-activated menu.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170801T143449Z" creationid="rikiha" creationdate="20170731T135857Z">
-        <seg>ひとつめは、インタラクションによってメニューがアクティブになった際、表示領域の状況によってはナビゲーションが隠れて見えなくなるという点です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170802T142906Z" creationid="rikiha" creationdate="20170731T135857Z">
+        <seg>まず、インタラクションによってメニューがアクティブになった際、表示領域の状況によってはナビゲーションが隠れて見えなくなるという点です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10028,8 +10028,8 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 要検討というか、上手い訳が思いつかず。「セクション分けして目次を置けばいいところを、ドロップダウンメニューがあることで、IAが無駄にページを分けてしまう」ということがいいたいのだとは思います。
-ところでIAって訳注いるでしょうか…。
+      <note>(伊原) 要検討というか、上手い訳が思いつかず。「セクション分けして目次を置けばいいところを、ドロップダウンメニューがあることで、IAが無駄にページを分けてしまう」ということがいいたいのだとは思います。が、後ろの段落に上手く繋がらない気もする。
+ちなみにIAって何？的な訳注いるでしょうか。
 
 they encourage information architects to spawn numerous,
 彼らはインフォメーションアーキテクトに多数の情報を奨励するよう促します。
@@ -10044,8 +10044,8 @@ without the clear hierarchy of grouping related sections under a main heading on
       <tuv lang="EN-US">
         <seg>Second, they encourage information architects to spawn numerous, independent pages of content, without the clear hierarchy of grouping related sections under a main heading on a shared page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170802T142142Z" creationid="rikiha" creationdate="20170731T135906Z">
-        <seg>ふたつめは、インフォメーションアーキテクトが多数の独立したコンテンツページ（共有ページのメインの見出しの下の、分類された関連セクションの階層が不明確）を作るのを助長してしまうのも問題です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170802T143003Z" creationid="rikiha" creationdate="20170731T135906Z">
+        <seg>また、インフォメーションアーキテクトが多数の独立したコンテンツページ（共有ページのメインの見出しの下の、分類された関連セクションの階層が不明確）を作るのを助長してしまうのも問題です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12432,8 +12432,8 @@ sound semantic structureとは。
       <tuv lang="EN-US">
         <seg>The submenus they disclose need to be positioned absolutely, which invites layout issues across different viewports, and they’re cumbersome when it comes to graceful degradation in the absence of JavaScript, CSS or both.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170731T135914Z" creationid="rikiha" creationdate="20170731T135914Z">
-        <seg>ドロップダウン形式のサブメニューは位置を固定する必要があるため、ビューポートの違いによるレイアウトの問題が生じます。また、JavaScriptやCSS（あるいはその両方）が使えない場合のグレイスフルデグラデーションも厄介です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170802T143711Z" creationid="rikiha" creationdate="20170731T135914Z">
+        <seg>ドロップダウン/サブメニューは位置を固定する必要があるため、ビューポートの違いによるレイアウトの問題が生じます。また、JavaScriptやCSS（あるいはその両方）が使えない場合のグレイスフルデグラデーションも厄介です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13628,7 +13628,7 @@ compelには強要する、強いるという意味があり、転じて「目�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 割と原文ママな訳に。</note>
+      <note>(伊原) 割と原文ママな訳に修正。</note>
       <tuv lang="EN-US">
         <seg>Though technically they can be made accessible, it’s not a trivial task to support mouse, keyboard and touch interaction simultaneously without diminishing the quality of any one mode.</seg>
       </tuv>
