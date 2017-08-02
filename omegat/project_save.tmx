@@ -1053,8 +1053,8 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The HTML5 &lt;g2&gt;hidden&lt;/g2&gt; attribute is used to hide the description both visually and from screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T155214Z" creationid="rikiha" creationdate="20170727T134711Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;HTML5の&lt;g2&gt;hidden&lt;/g2&gt;属性を使い、視覚的にもスクリーンリーダーからも説明を隠しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T091736Z" creationid="rikiha" creationdate="20170727T134711Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;HTML5の&lt;g2&gt;hidden&lt;/g2&gt;属性を使い、視覚とスクリーンリーダーの両方から説明を隠しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11685,8 +11685,8 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       <tuv lang="EN-US">
         <seg>The description is the descriptive element’s text node.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170802T091700Z" creationid="rikiha" creationdate="20170727T134709Z">
-        <seg>説明する側の要素のテキストノードが、そのまま説明として使われます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T091705Z" creationid="rikiha" creationdate="20170727T134709Z">
+        <seg>説明する側の要素のテキストノードが、そのまま説明文として使われます。</seg>
       </tuv>
     </tu>
     <tu>
