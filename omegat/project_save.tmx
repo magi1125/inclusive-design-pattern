@@ -2479,8 +2479,8 @@ proxy elementは力強く削除して、「リンクの前後に直接要素を�
       <tuv lang="EN-US">
         <seg>Another approach, which goes some way to mitigate ambiguity, is to use a proxy element and &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-describedby&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170802T084953Z" creationid="rikiha" creationdate="20170727T134648Z">
-        <seg>あいまいさを軽減する、別のアプローチもあります。代理となる要素と&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-describedby&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注92）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を使用する方法です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T090835Z" creationid="rikiha" creationdate="20170727T134648Z">
+        <seg>あいまいさを軽減する、別のアプローチもあります。リンクの前後に要素を直接挿入するのではなく、&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-describedby&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注92）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を使用する方法です。</seg>
       </tuv>
     </tu>
     <tu>
