@@ -61,9 +61,7 @@
 (伊原) forceのニュアンスを出してみました。
 
 (太田) 訳はOKですが、手元のIE11はhiddenに対応しているようです。ヘイドンさんIE10?
-訳注でフォローが必要と思われます。
-
-</note>
+訳注でフォローが必要と思われます。</note>
       <tuv lang="EN-US">
         <seg>(Note that Internet Explorer does not support &lt;g5&gt;hidden&lt;/g5&gt; at the time of writing, but you can force it to by adding &lt;g6&gt;[hidden] { display: none; }&lt;/g6&gt; to your style sheet.</seg>
       </tuv>
@@ -925,7 +923,11 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 現在地表示を書き換えるのも簡単である、ということがいいたいのだと思うので、そのように調整しました。</note>
+      <note>(伊原) 現在地表示を書き換えるのも簡単である、ということがいいたいのだと思うので、そのように調整しました。
+
+(太田) 訳というよりヘイドンさんの問題だと思いますが、移し変えると言われるとJSなどで移し変える処理をしなければならないような印象を受けます。たぶんそういうことではないはず。
+
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Moving the &lt;g2&gt;aria-describedby="current"&lt;/g2&gt; attribute from one element to another between pages is easy enough, and it can be used as a styling hook just as a class might be: &lt;g3&gt;[aria-describedby="current"]&lt;/g3&gt;.</seg>
       </tuv>
