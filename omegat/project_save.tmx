@@ -6691,12 +6691,13 @@ becauseを訳出しました。
 
 (岡本）一呼吸→ひと呼吸
 
-(太田) OK</note>
+(太田) 
+他に倣って「次の例の場合は」→「以下の例では」としました。</note>
       <tuv lang="EN-US">
         <seg>In the following example, focusing on the current (about page) link would trigger the announcement, “About [pause] Current page.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170728T032511Z" creationid="rikiha" creationdate="20170727T134658Z">
-        <seg>たとえば次の例なら、現在の（「企業情報」ページの）リンクにフォーカスしたときに、「企業情報（ひと呼吸置いて）現在のページ」と読み上げられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T091434Z" creationid="rikiha" creationdate="20170727T134658Z">
+        <seg>たとえば以下の例では、現在の（「企業情報」ページの）リンクにフォーカスしたときに、「企業情報（ひと呼吸置いて）現在のページ」と読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
