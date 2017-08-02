@@ -5997,7 +5997,7 @@ About current pageじゃないと通じない文ですね。どうしたもの�
 (太田) 思い切ってラベル全部英語にする? あるいは訳注か。
 単に「一続きに読まれるので誤解を招くことがある」、という話なので訳注で適当に日本語の駄目な例を補足しても良いかも。
 
-
+(伊原) 訳注で「原文だとAbout current pageになる、日本語だと◯◯みたいな誤解をうける例」とする感じですね。
 </note>
       <tuv lang="EN-US">
         <seg>In any case, I’ve prepended the &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; so the screen reader says “Current page about” rather than “About current page.” The latter is ambiguous: does this link refer to a description &lt;g2&gt;of&lt;/g2&gt; the current page?</seg>
@@ -9285,7 +9285,7 @@ WCAGに従うことは、伝えるよりも良いのです。
 (太田) ここの One はひとつめ?
 調整してみました。
 
-(伊原) OK（</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>One approach is to insert a visually hidden, screen reader announceable &lt;g2&gt;&lt;span&gt;&lt;/g2&gt; containing a cipher, like “Current page”:</seg>
       </tuv>
@@ -14860,7 +14860,9 @@ integratedは統合された?
       <note>(伊原) かなり簡潔、としました。
 
 (太田) 何が、が分かりにくかったのでちょっと調整。
-shouldなので「すべき」くらいかなと。</note>
+shouldなので「すべき」くらいかなと。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Whether this text is to say “Current page,” “This page” or “You are here” is somewhat open to debate, but it should be fairly succinct.</seg>
       </tuv>
