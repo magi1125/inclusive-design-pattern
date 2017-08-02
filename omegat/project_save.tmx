@@ -4696,12 +4696,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) 話の内容的に「重複」ではないですね。冗長?</note>
       <tuv lang="EN-US">
         <seg>From Redundant Link to Skip Link</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170728T142836Z" creationid="rikiha" creationdate="20170728T142538Z">
-        <seg>重複リンクをスキップリンクに</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T092934Z" creationid="rikiha" creationdate="20170728T142538Z">
+        <seg>冗長なリンクはスキップリンクに</seg>
       </tuv>
     </tu>
     <tu>
