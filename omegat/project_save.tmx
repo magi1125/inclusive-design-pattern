@@ -5941,7 +5941,8 @@ In addition を「その上」とすると前からのつながりがおかし�
 【下訳コメント：「about」を「企業情報」と訳しているため、日本語には当てはまらない説明です。また、前文の2例の出現順が入れ替わっているため「latter」を「前者」としています。】
 
 About current pageじゃないと通じない文ですね。どうしたものでしょうか…。トリ？　しかし、ここの誤解の話がないと次のアプローチの話に繋がらなくなりそう。「いま現在の企業情報に関する説明へのリンクであるという誤解」みたいな、無理矢理なこじつけもできなくはなさそうですが。
-</note>
+
+(太田) 思い切ってラベル全部英語にする?</note>
       <tuv lang="EN-US">
         <seg>In any case, I’ve prepended the &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; so the screen reader says “Current page about” rather than “About current page.” The latter is ambiguous: does this link refer to a description &lt;g2&gt;of&lt;/g2&gt; the current page?</seg>
       </tuv>
