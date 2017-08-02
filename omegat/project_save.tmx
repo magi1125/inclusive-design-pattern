@@ -8436,7 +8436,9 @@ manageは管理で良いような。
     <tu>
       <note>(伊原) ポイント先➞遷移先としました。
 
-(太田) the page の the は訳出したほうがいいかも。</note>
+(太田) the page の the は訳出したほうがいいかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>My favorite solution is to make the current page link point to the main region of the page.</seg>
       </tuv>
@@ -8834,7 +8836,9 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
     <tu>
       <note>(伊原) 微調整。
 
-(太田) NVDA2017.2ではページ内リンクも「リンク」としか読まないようです。</note>
+(太田) NVDA2017.2ではページ内リンクも「リンク」としか読まないようです。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Not only is the link easy to style via the &lt;g1&gt;[href="#main"]&lt;/g1&gt; attribute selector, but its behavior is communicated to assistive technologies: on focusing the home link, “Home, link” will be announced.</seg>
       </tuv>
@@ -12585,7 +12589,9 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
     <tu>
       <note>(伊原) 必要がないというより、廃止してよいということかなと。
 
-(岡本）使うことは取りやめてよい　→　使わなくてよい　　ではダメ？</note>
+(岡本）使うことは取りやめてよい　→　使わなくてよい　　ではダメ？
+
+(伊原)</note>
       <tuv lang="EN-US">
         <seg>Then, on focusing the about link, the user should hear “About, same page link.” Since “same page” is vocalized already, the hidden &lt;g2&gt;&lt;span&gt;&lt;/g2&gt; with “Current page” is arguably obsolete.</seg>
       </tuv>
@@ -13498,7 +13504,9 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
     <tu>
       <note>(伊原) 語順など調整。
 
-(太田) 通過→飛ばして、くらいかなと</note>
+(太田) 通過→飛ばして、くらいかなと
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This way, instead of just reloading the page, it takes you past the navigation landmark to the content, like a skip link.</seg>
       </tuv>
