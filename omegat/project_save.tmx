@@ -11233,12 +11233,12 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
 
 (岡本)　一呼吸→ひと呼吸
 
-(太田) 「読み込まれ」は少し違和感。トリでも良いのでは。</note>
+(太田) 「読み込まれ」は少し違和感。トリでも良いのでは。少し調整。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g7&gt;aria-describedby&lt;/g7&gt; attribute imports and appends a description which is read after a pause.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170802T091021Z" creationid="rikiha" creationdate="20170727T134651Z">
-        <seg>&lt;g7&gt;aria-describedby&lt;/g7&gt;属性によって付け足される説明は、ひと呼吸置いてから読み上げられるためです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T091043Z" creationid="rikiha" creationdate="20170727T134651Z">
+        <seg>&lt;g7&gt;aria-describedby&lt;/g7&gt;属性によって付け足される説明は、ひと呼吸置いてから読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
