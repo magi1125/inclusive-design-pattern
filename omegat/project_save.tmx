@@ -12570,7 +12570,7 @@ convention は他のところでは「慣習」としていたのでここもそ
 http://kidachi.kazuhi.to/blog/archives/039312.html
 
 (太田) 原著出版当時はaria-currentの対応状況がお寒い状況だったのでしょう。訳注ですかね。
-</note>
+NVDA2017.2jaでは、 aria-current="page" を「現在のページ」、 aria-current="location" を「現在の位置」と読むことを確認しました。</note>
       <tuv lang="EN-US">
         <seg>There’s no standard way to identify current page links non-visually as yet.</seg>
       </tuv>
