@@ -3825,12 +3825,13 @@ visual designはそのままビジュアルデザインでいいかも。
 (岡本)
 関連付け→関連づけ　　繋がった→つながった
 
-(太田) Very Good!</note>
+(太田) 
+見えているものを後から隠したわけではないので、「つながったままであり」は少し違和感が。「つながっており」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Despite being hidden, because it &lt;g4&gt;has a relationship&lt;/g4&gt; to the link, the link still has access to “Current page” and it will be announced on focusing the link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T124941Z" creationid="rikiha" creationdate="20170727T134719Z">
-        <seg>隠されているにもかかわらず、リンクとの&lt;g4&gt;関連づけは生きている&lt;/g4&gt;ため、リンクは「現在のページ」という説明とつながったままであり、フォーカスを受け取るとそれが読み上げられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T092050Z" creationid="rikiha" creationdate="20170727T134719Z">
+        <seg>隠されているにもかかわらず、リンクとの&lt;g4&gt;関連づけは生きている&lt;/g4&gt;ため、リンクは「現在のページ」という説明とつながっており、フォーカスを受け取るとそれが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
