@@ -1049,7 +1049,9 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 多少調整。</note>
+      <note>(伊原) 多少調整。
+
+(太田) すこし調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The HTML5 &lt;g2&gt;hidden&lt;/g2&gt; attribute is used to hide the description both visually and from screen readers.</seg>
       </tuv>
@@ -7251,12 +7253,14 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 指示語でわかると思うので「こちらのほうで」と調整。</note>
+      <note>(伊原) 指示語でわかると思うので「こちらのほうで」と調整。
+
+(太田) 構文的とは。「構文はすっきりします」でよさそう。</note>
       <tuv lang="EN-US">
         <seg>It works like &lt;g3&gt;display: none;&lt;/g3&gt; but is syntactically neater.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T155224Z" creationid="rikiha" creationdate="20170727T134715Z">
-        <seg>&lt;g3&gt;display: none;&lt;/g3&gt;と似ていますが、こちらのほうが構文的にはすっきりします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170802T091848Z" creationid="rikiha" creationdate="20170727T134715Z">
+        <seg>&lt;g3&gt;display: none;&lt;/g3&gt;と似ていますが、こちらのほうが構文はすっきりします。</seg>
       </tuv>
     </tu>
     <tu>
