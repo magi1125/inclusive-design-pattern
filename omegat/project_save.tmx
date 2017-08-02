@@ -2973,6 +2973,16 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK
+※この節確認中</note>
+      <tuv lang="EN-US">
+        <seg>Basic Structure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170802T152558Z" creationid="rikiha" creationdate="20170802T152558Z">
+        <seg>基本構造</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Be wary, though, of older browsers that do not support gradient backgrounds.</seg>
