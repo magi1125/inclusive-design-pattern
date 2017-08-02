@@ -12681,7 +12681,9 @@ NVDA2017.2jaでは、 aria-current="page" を「現在のページ」、 aria-cu
     <tu>
       <note>(伊原) 便利というほどではないかなと。また、ナビゲーションランドマークを移動するのではなく、ナビゲーションランドマーク内のリンクを辿るのだと思われます。
 
-(岡本)　辿り→たどり</note>
+(岡本)　辿り→たどり
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>These implementations are serviceable for sighted users, but screen reader users often traverse navigation landmarks from link to link, using their &lt;g4&gt;Tab&lt;/g4&gt; key.</seg>
       </tuv>
