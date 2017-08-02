@@ -1757,7 +1757,9 @@ a little ではなく little なので、これは「ほとんどない」とい
       <note>(伊原) OK…ですが、この文は要らないのでは。余計な誤解を生みそうなのでできればトリにしたい。
 
 (太田) 真のキャプションが入っていないですね。この前に「ナビゲーションバーを他の領域よりも前に配置。」くらい付け足してもよいのかも。
-ちょっと調整。</note>
+ちょっと調整。
+
+(伊原) OK. 白文字〜のくだりはイキにしますか？</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;I’m not suggesting your navigation bar has to use a white, cursive font on a black background!</seg>
       </tuv>
@@ -6327,7 +6329,9 @@ metaについては補足が必要か?
 
 (太田) つながりも考えると、
 「実際に、ソースの順序と読み進める順序が同じであれば、それだけで良い」
-という話と思われます。調整してみました。</note>
+という話と思われます。調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In practice, so long as source order matches reading order this is something which takes care of itself.</seg>
       </tuv>
@@ -6560,7 +6564,7 @@ robustlyは「堅牢な方法で」としてみました。
 
 (太田) ナビゲーションなのかnavigationなのか。
 
-(伊原) ここはグロナビのことをsite navigation landmarkと言っているっぽいので、ナビゲーションなのかも。</note>
+(伊原) ここはグロナビ的なものことをsite navigation landmarkと言っているっぽいので、ナビゲーションなのかも。</note>
       <tuv lang="EN-US">
         <seg>In the case of the site navigation landmark, you would do well to give it a familiar form consisting of adjacent, enlarged links.</seg>
       </tuv>
@@ -7273,7 +7277,9 @@ must ではなく should なので「べき」としました。
 
 (岡本）分かり→わかり
 
-(太田) justを訳出してみました。少し調整して2文に分けてみました。</note>
+(太田) justを訳出してみました。少し調整して2文に分けてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It turns out it was; it was just at the bottom of the source so it took thirty or forty presses of the &lt;g6&gt;Tab&lt;/g6&gt; key to reach it and finally invoke the focus style.</seg>
       </tuv>
@@ -7663,7 +7669,9 @@ http://eow.alc.co.jp/search?q=right%20way
       <note>(伊原) 冗長だったので多少調整しました。
 
 (太田) 言っていることが少し違うような。
-「この配置と形状は、よく用いられるおなじみのものです」ということかと。</note>
+「この配置と形状は、よく用いられるおなじみのものです」ということかと。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It’s the familiar positioning and shape that counts.&lt;/g3&gt;</seg>
       </tuv>
@@ -9469,6 +9477,7 @@ contributeを「寄与」とするのがどうも硬いので「構成する」�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 画像alt</note>
       <tuv lang="EN-US">
         <seg>Page layout with navigation bar highlighted at the top.</seg>
       </tuv>
@@ -9535,7 +9544,9 @@ https://ja.wikipedia.org/wiki/プレイン・イングリッシュ
       <note>(伊原) OK
 
 (太田) 「できれば何よりも前に」が少し分かりにくいかも。「あらゆるものの前」か「先頭」か。
-ちょっと調整</note>
+ちょっと調整
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Position it in the header of each page, above the main content and preferably before anything else.</seg>
       </tuv>
@@ -9665,7 +9676,9 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
       <note>(伊原) 最後まで見ずにというより、アタマのところで移動できるという話なので、そのようにしました。
 
 (太田) 詳しく見る、というより下の方まで探索する感じですかね。
-探し回る、とかで良いのではないかと。</note>
+探し回る、とかで良いのではないかと。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Putting page navigation at the top means they don’t have to traverse one page to get to another.</seg>
       </tuv>
