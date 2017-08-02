@@ -3506,7 +3506,7 @@ segregateは隔離というより分離としたほうがしっくりくるか�
 (太田) 「同じ理屈で」、というようなことでしょうね。「逆に」とかのほうがいいかも。
 rely on には「信頼できる」までの意味はないかも (認知心理学上のスキーマは時に信頼できないことももあるものなので)。「キャッシュに頼ることができないため」としました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>By the same token, if something genuinely new is experienced, there’s nothing in the cache to be relied on and the sense data must be evaluated in full.</seg>
       </tuv>
@@ -6052,7 +6052,9 @@ it = トランスクリプトと補わないと分かりにくいかも。
       <note>(伊原) 動作に合った予想通りの見た目、をもう少しちゃんとした言い方にしました。
 cognitive cacheは経験キャッシュとしてみました。
 
-(太田) cognitiveは一般的には認知、認識ですね。</note>
+(太田) cognitiveは一般的には認知、認識ですね。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In design, by making things that behave in a certain way &lt;g1&gt;appear&lt;/g1&gt; as expected, we help our users make the most of their cognitive cache.</seg>
       </tuv>
@@ -6383,7 +6385,9 @@ well-matched はよくマッチするということで、システムフォン�
 個人的には、プログラミング用語のスキーマと言われると XML Schema とかRDBのスキーマを連想します。続く話を読むと認知心理学用語のスキーマをデザイン視点で語っている話で、「プログラミング用語のスキーマ」は1ミリも語られていないように感じます。ヘイドンさんの言ってることは正直ぴんと来ないですね。「プログラミング用語」ではなく「デザイン用語」と言われるなら分かるのですが。
 訳注?
 「プログラミング用語における」を取り払うというのもありか?
-いったん全力でとってみました。</note>
+いったん全力でとってみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In programming terms, schemata are a kind of &lt;g1&gt;cache for understanding&lt;/g1&gt;.</seg>
       </tuv>
@@ -11891,7 +11895,9 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       <note>(伊原) 訳はあってると思いますがちょっと整理しました。
 
 (太田) パターンによって→パターンを用いて、で良いかと。
-スキーマは認知の枠組みなので。</note>
+スキーマは認知の枠組みなので。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The human brain uses patterns called &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;schemata&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;3&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; to understand sense data.</seg>
       </tuv>
@@ -13029,7 +13035,8 @@ marginは「マージン」で良いかと。
 原文のダッシュ構造にあわせました。
 有名→よく知られた、としました (famousではなくwell-knownであるから「知ってると思うけどあえて書きました」という話になる)。
 再掲だと前に書いているイメージです。「あらためて取り上げる」くらいでしょうか。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This is a well-known usability principle, but it’s worth restating — especially in the context of inclusive design, where we’re trying to cater for extremes of cognitive impairment.</seg>
       </tuv>
