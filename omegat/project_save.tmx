@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1832,7 +1832,8 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
 (太田) 「珍しくない」がちょっと強調されすぎている印象を受けました。「しばしばありますが」くらいで良いかと思います。
 interfaceは訳出しなくて良いのか。
 少し調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;We see interfaces with broken or missing CSS frequently enough to recognize this as a navigation block.&lt;/g3&gt;</seg>
       </tuv>
@@ -7894,7 +7895,9 @@ implementationを例→実装としました。
     <tu>
       <note>(伊原) 使える・利用できる➞用いる・使えるとしました。また直前でナビゲーションと言っているので、ここは主語を省略（インクルーシブなもの）しても伝わるかなと。
 
-(太田) we’re being inclusive なので、今まさにinclusiveになっている、なりつつあるというニュアンスでしょうか。なります→なっています、としました。</note>
+(太田) we’re being inclusive なので、今まさにinclusiveになっている、なりつつあるというニュアンスでしょうか。なります→なっています、としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Just by using a list, we’re being inclusive of older users and devices, assistive technology users and those who are experiencing a CSS failure.</seg>
       </tuv>
@@ -15020,14 +15023,12 @@ regressを「後方互換する」としていますが、日本語として違�
 
 (太田) 要検討。「ランドマークに含める」はやや違和感アリ。そもそも原文のlandmarkが「ランドマークロールを持った要素」の意味であって、大胆に省略されているものと思われるので、それを補ったほうがいいのかも。
 
-
-
-</note>
+(伊原) 調整してみました、こういうことでしょうか？</note>
       <tuv lang="EN-US">
         <seg>Wrapping the list in a landmark offers additional semantics and behaviors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T124801Z" creationid="rikiha" creationdate="20170722T233909Z">
-        <seg>このリストをnavigationランドマークに含めると、セマンティクスとふるまいを追加できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170802T130811Z" creationid="rikiha" creationdate="20170722T233909Z">
+        <seg>このリストをnavigationランドマークロールを持った要素でくくると、さらにセマンティクスとふるまいを追加できます。</seg>
       </tuv>
     </tu>
     <tu>
