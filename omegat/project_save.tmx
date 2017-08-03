@@ -8872,13 +8872,13 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
 (伊原) OK
 
 (太田)
-中根さん・西本さんの情報によるとJAWSは読むっぽく、NVDAは読まないけれど読んでほしいという要望があっていつか実装したいというステータスの模様。。訳注ですね。
+中根さん・西本さんの情報によるとJAWSは読むっぽく、NVDAは読まないけれど読んでほしいという要望があっていつか実装したいというステータスの模様。訳注ですね。
 https://twitter.com/bakera/status/892689261576699904</note>
       <tuv lang="EN-US">
         <seg>Not only is the link easy to style via the &lt;g1&gt;[href="#main"]&lt;/g1&gt; attribute selector, but its behavior is communicated to assistive technologies: on focusing the home link, “Home, link” will be announced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T155902Z" creationid="rikiha" creationdate="20170728T142629Z">
-        <seg>&lt;g1&gt;このリンクは、[href="#main"]&lt;/g1&gt;属性セレクタを使って簡単にスタイルを設定できるだけでなく、支援技術にもふるまいが伝えられます。「ホーム」のリンクにフォーカスすると、「＃＃ホーム、link＃＃」と読み上げられるでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T020851Z" creationid="rikiha" creationdate="20170728T142629Z">
+        <seg>このリンクは、&lt;g1&gt;[href="#main"]&lt;/g1&gt;属性セレクタを使って簡単にスタイルを設定できるだけでなく、支援技術にもふるまいが伝えられます。「ホーム」のリンクにフォーカスすると、「＃＃ホーム、link＃＃」と読み上げられるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
