@@ -4289,12 +4289,14 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 隠されるのはnavigational contentなので、こういうことかなと。</note>
+      <note>(伊原) 隠されるのはnavigational contentなので、こういうことかなと。
+
+(太田) 「不安定で、インタラクションによってアクティブになるメニューの中に隠す」ということなのでは。</note>
       <tuv lang="EN-US">
         <seg>First, they hide navigational content from view within a precarious, interaction-activated menu.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170802T142906Z" creationid="rikiha" creationdate="20170731T135857Z">
-        <seg>まず、インタラクションによってメニューがアクティブになった際、表示領域の状況によってはナビゲーションが隠れて見えなくなるという点です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T092637Z" creationid="rikiha" creationdate="20170731T135857Z">
+        <seg>まず、ナビゲーションがビューから隠され、不安定で、インタラクションによって初めてアクティブになるメニューの中に隠されてしまうという点です。</seg>
       </tuv>
     </tu>
     <tu>
