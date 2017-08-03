@@ -13215,7 +13215,13 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ひとつだけが唯一の、がちょっとわかりにくかったので調整。</note>
+      <note>(伊原) ひとつだけが唯一の、がちょっとわかりにくかったので調整。
+
+(太田) shouldは正確に訳出したいところ。仕様的にもSHOULDです。
+
+http://www.w3.org/TR/wai-aria-1.1/#banner
+&gt;Within any document or application, the author SHOULD mark no more than one element with the banner role.
+</note>
       <tuv lang="EN-US">
         <seg>This is because multiple &lt;g4&gt;&lt;header&gt;&lt;/g4&gt; elements can be used on one page, but only one should be the singular banner landmark.</seg>
       </tuv>
