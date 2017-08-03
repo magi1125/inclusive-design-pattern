@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -250,6 +250,15 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       <tuv lang="JA" changeid="yoota" changedate="20170523T095647Z" creationid="yoota" creationdate="20170523T095647Z">
         <seg>&lt;g15&gt;&lt;g16&gt;&lt;g17&gt;&lt;&lt;/g17&gt;h2&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g15&gt;～シンプルな7つのステップで～&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;/&lt;/g21&gt;h2&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;
 &lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;hgroup&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本）My Project home→ホーム</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;img&lt;/g17&gt; &lt;g19&gt;src&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"images/logo.svg"&lt;/g20&gt; &lt;g22&gt;alt&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"My Project home"&lt;/g23&gt;&lt;g25&gt;&gt;&lt;/g25&gt;&lt;/g16&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170803T024027Z" creationid="okamoto_jun" creationdate="20170803T024027Z">
+        <seg>&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;img&lt;/g17&gt; &lt;g19&gt;src&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"images/logo.svg"&lt;/g20&gt; &lt;g22&gt;alt&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"ホーム"&lt;/g23&gt;&lt;g25&gt;&gt;&lt;/g25&gt;&lt;/g16&gt;</seg>
       </tuv>
     </tu>
     <tu>
