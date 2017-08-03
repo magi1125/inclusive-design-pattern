@@ -14842,7 +14842,7 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
 (岡本) こういう括弧書きは初出で、ちょっと不自然ですね。括弧なしにするか、Note扱い（レベル5扱い）にしてもいいでしょうか。
 
 (太田) 結構重要なことを言っているので、括弧とりで前の文の冒頭に「ただし」を入れる感じでしょうか。
-前半の言っていることがとてもわかりにくいですね。</note>
+前半の言っていることがとてもわかりにくいですね。画面遷移しないでAjaxなどでロードするパターンのアプリのグロナビにこの手法を使うと残念なことになる、という話だと思いますが。</note>
       <tuv lang="EN-US">
         <seg>When you are emulating the behavior of loading whole new pages, the announcement of “same page link” exposes a white lie and would make the experience confusing.</seg>
       </tuv>
