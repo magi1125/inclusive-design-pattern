@@ -12635,12 +12635,16 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
 NVDA2017.2ではページ内リンクも「リンク」としか読まないようです。
 
 中根さん・西本さんの情報によるとJAWSは読むっぽく、NVDAは読まないけれど読んでほしいという要望があっていつか実装したいというステータスの模様。訳注ですね。
-https://twitter.com/bakera/status/892689261576699904</note>
+https://twitter.com/bakera/status/892689261576699904
+
+「すでに」あたりが違和感があるのでちょっと調整。
+
+</note>
       <tuv lang="EN-US">
         <seg>Then, on focusing the about link, the user should hear “About, same page link.” Since “same page” is vocalized already, the hidden &lt;g2&gt;&lt;span&gt;&lt;/g2&gt; with “Current page” is arguably obsolete.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170731T065206Z" creationid="rikiha" creationdate="20170728T142632Z">
-        <seg>次に「企業情報」のリンクにフォーカスを移すと、「＃＃企業情報、same page link＃＃」と読み上げられます。すでに「＃＃same page＃＃」と読み上げられているため、「現在のページ」と指定した非表示の&lt;g2&gt;&lt;span&gt;&lt;/g2&gt;を使うことは取り止めてよいと言えます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T021223Z" creationid="rikiha" creationdate="20170728T142632Z">
+        <seg>次に「企業情報」のリンクにフォーカスを移すと、「＃＃企業情報、same page link＃＃」と読み上げられます。この時点で「＃＃same page＃＃」と読み上げられているため、「現在のページ」という非表示の&lt;g2&gt;&lt;span&gt;&lt;/g2&gt;を使うことは止めてよいと言えます。</seg>
       </tuv>
     </tu>
     <tu>
