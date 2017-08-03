@@ -75,7 +75,9 @@
     <tu>
       <note>(伊原) 前に出たワザなので、テクニックで通じるかなと。
 
-(太田) JAWS日本語版の読みを反映。括弧もいらないかと。</note>
+(太田) JAWS日本語版の読みを反映。括弧もいらないかと。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>(Note: I am still using the same-page link technique here.</seg>
       </tuv>
@@ -6413,7 +6415,9 @@ metaについては補足が必要か?
 中根さんは一周して「プロジェクトのロゴ」で良いといいそう。訳注？
 
 (太田) 原文がピリオドで終わっているので句点で切るようにしました。
-中根さん警察は不要かと。入れるとしてもここでなく、後の「冗長な情報はノイズであり」のあたりに入れるのかなと思います。</note>
+中根さん警察は不要かと。入れるとしてもここでなく、後の「冗長な情報はノイズであり」のあたりに入れるのかなと思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In other words, “My Project logo” would not suffice.</seg>
       </tuv>
@@ -14968,7 +14972,9 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
     <tu>
       <note>(伊原) 書くようにしましょう➞書くべきです。
 
-(太田) 画像でリンクする→画像をリンクにする、のほうがしっくりくるかなと。</note>
+(太田) 画像でリンクする→画像をリンクにする、のほうがしっくりくるかなと。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Where an image is the content of a link, the alternative text (&lt;g1&gt;alt&lt;/g1&gt; value) should describe the purpose of the link, not the nature of the image.</seg>
       </tuv>
