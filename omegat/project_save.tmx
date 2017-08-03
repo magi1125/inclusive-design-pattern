@@ -14865,8 +14865,8 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       <tuv lang="EN-US">
         <seg>When you are emulating the behavior of loading whole new pages, the announcement of “same page link” exposes a white lie and would make the experience confusing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170803T072704Z" creationid="rikiha" creationdate="20170728T142656Z">
-        <seg>新しくページ全体を読み込む動作をエミュレートしている場合、「＃＃same page link＃＃」という読み上げは結果としてウソになってしまい、ユーザーの混乱を招きます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T072829Z" creationid="rikiha" creationdate="20170728T142656Z">
+        <seg>新しくページ全体を読み込む動作をエミュレートしている場合、「ページ内リンク」という読み上げは結果としてウソになってしまい、ユーザーの混乱を招きます。</seg>
       </tuv>
     </tu>
     <tu>
