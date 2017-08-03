@@ -4663,11 +4663,13 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>For single-page applications, the &lt;g1&gt;aria-describedby&lt;/g1&gt; approach would therefore be more suitable.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T162120Z" creationid="rikiha" creationdate="20170728T142704Z">
-        <seg>シングルページアプリケーションにおいては&lt;g1&gt;aria-describedby&lt;/g1&gt;を使うアプローチがより適しています。）</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T025550Z" creationid="rikiha" creationdate="20170728T142704Z">
+        <seg>シングルページアプリケーションにおいては&lt;g1&gt;aria-describedby&lt;/g1&gt;を使うアプローチのほうが適しています。</seg>
       </tuv>
     </tu>
     <tu>
