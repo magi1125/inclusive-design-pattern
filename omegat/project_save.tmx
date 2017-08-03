@@ -6558,8 +6558,8 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       <tuv lang="EN-US">
         <seg>In terms of responsive design, it’s possible to target the logo using &lt;g1&gt;:first-child&lt;/g1&gt; and, for example, place it on its own row within smaller viewports:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170803T085039Z" creationid="rikiha" creationdate="20170730T124456Z">
-        <seg>なお、レスポンシブデザインの場合は、&lt;g1&gt;:first-child&lt;/g1&gt;擬似クラスを使ってこのロゴの入った要素を選択し、たとえば、ビューポートが狭い場合は改行して表示する、といったことも可能です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T085113Z" creationid="rikiha" creationdate="20170730T124456Z">
+        <seg>レスポンシブデザインの場合は、&lt;g1&gt;:first-child&lt;/g1&gt;擬似クラスを使ってこのロゴの入った要素を選択し、たとえば、ビューポートが狭い場合は改行して表示する、といったことも可能です。</seg>
       </tuv>
     </tu>
     <tu>
