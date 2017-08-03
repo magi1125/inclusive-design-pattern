@@ -4291,12 +4291,13 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
     <tu>
       <note>(伊原) 隠されるのはnavigational contentなので、こういうことかなと。
 
-(太田) 誤訳のような。hide from view, within menu ということで、「視界から隠し、メニューの中に入れる」ということなのではないかと思います。調整してみました。</note>
+(太田) 誤訳のような。hide from view, within menu ということで、「視界から隠し、メニューの中に入れる」ということなのではないかと思います。調整してみました。
+precariousは不安定というか、当てにならないというか、ニュアンスはまあ分かりますがどう訳すか。頼りない?</note>
       <tuv lang="EN-US">
         <seg>First, they hide navigational content from view within a precarious, interaction-activated menu.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170803T093050Z" creationid="rikiha" creationdate="20170731T135857Z">
-        <seg>まず、ナビゲーションを視界から隠し、不安定な、インタラクションによって初めてアクティブになるメニューの中に入れてしまうという点です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T093232Z" creationid="rikiha" creationdate="20170731T135857Z">
+        <seg>まず、ナビゲーションを視界から隠し、インタラクションによって初めてアクティブになる頼りないメニューの中に入れてしまうという点です。</seg>
       </tuv>
     </tu>
     <tu>
