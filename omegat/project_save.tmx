@@ -8870,10 +8870,7 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
 (太田) NVDA2017.2ではページ内リンクも「リンク」としか読まないようです。
 
 (伊原) OK
-
-(太田)
-中根さん・西本さんの情報によるとJAWSは読むっぽく、NVDAは読まないけれど読んでほしいという要望があっていつか実装したいというステータスの模様。訳注ですね。
-https://twitter.com/bakera/status/892689261576699904</note>
+</note>
       <tuv lang="EN-US">
         <seg>Not only is the link easy to style via the &lt;g1&gt;[href="#main"]&lt;/g1&gt; attribute selector, but its behavior is communicated to assistive technologies: on focusing the home link, “Home, link” will be announced.</seg>
       </tuv>
@@ -12635,7 +12632,11 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       <note>(伊原) 必要がないというより、廃止してよいということかなと。
 
 (岡本）使うことは取りやめてよい　→　使わなくてよい　　ではダメ？
-</note>
+
+
+(太田)
+中根さん・西本さんの情報によるとJAWSは読むっぽく、NVDAは読まないけれど読んでほしいという要望があっていつか実装したいというステータスの模様。訳注ですね。
+https://twitter.com/bakera/status/892689261576699904</note>
       <tuv lang="EN-US">
         <seg>Then, on focusing the about link, the user should hear “About, same page link.” Since “same page” is vocalized already, the hidden &lt;g2&gt;&lt;span&gt;&lt;/g2&gt; with “Current page” is arguably obsolete.</seg>
       </tuv>
