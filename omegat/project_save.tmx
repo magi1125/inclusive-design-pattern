@@ -14897,12 +14897,14 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 書くようにしましょう➞書くべきです。</note>
+      <note>(伊原) 書くようにしましょう➞書くべきです。
+
+(太田) 画像でリンクする→画像をリンクにする、のほうがしっくりくるかなと。</note>
       <tuv lang="EN-US">
         <seg>Where an image is the content of a link, the alternative text (&lt;g1&gt;alt&lt;/g1&gt; value) should describe the purpose of the link, not the nature of the image.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T145930Z" creationid="rikiha" creationdate="20170730T124434Z">
-        <seg>画像でリンクする場合は、代替テキスト（&lt;g1&gt;alt&lt;/g1&gt;の値）には画像の説明ではなくリンク先を書くべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T083048Z" creationid="rikiha" creationdate="20170730T124434Z">
+        <seg>画像をリンクにする場合は、代替テキスト（&lt;g1&gt;alt&lt;/g1&gt;の値）には画像の説明ではなくリンク先を書くべきです。</seg>
       </tuv>
     </tu>
     <tu>
