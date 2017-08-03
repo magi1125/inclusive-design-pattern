@@ -10386,12 +10386,14 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) カブっているということがわかりやすくなるように調整してみました。</note>
+      <note>(伊原) カブっているということがわかりやすくなるように調整してみました。
+
+(太田) shouldなので、かねる必要がある→かねるべき</note>
       <tuv lang="EN-US">
         <seg>Since usability convention dictates that the logo image should double as a link to the home page, the logo has a navigational role: the same navigational role as the first of the navigation landmark’s links.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T141954Z" creationid="rikiha" creationdate="20170730T124402Z">
-        <seg>ユーザビリティの慣習により、ロゴ画像はホームページへのリンクも兼ねる必要があります。つまりロゴにはナビゲーションランドマーク内のひとつめのリンクと同じ役割があるのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T081249Z" creationid="rikiha" creationdate="20170730T124402Z">
+        <seg>ユーザビリティの慣習に従うなら、ロゴ画像はホームページへのリンクも兼ねるべきで、ナビゲーションの役割を持つことになります。つまり、ナビゲーションランドマーク内のひとつめのリンクと同じ役割があるのです。</seg>
       </tuv>
     </tu>
     <tu>
