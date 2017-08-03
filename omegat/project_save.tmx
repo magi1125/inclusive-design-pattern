@@ -8853,7 +8853,7 @@ http://www.w3.org/TR/css-position-3/#abs-pos
     <tu>
       <note>(伊原) 言い回しがややこしかったのでシンプルに。
 
-(太田) 少し調整。</note>
+(太田) 少し調整。&lt;g1&gt; を反映。</note>
       <tuv lang="EN-US">
         <seg>Not only does this create needless and potentially confounding redundancy, but we’ve committed the cardinal usability sin of giving two things that &lt;g1&gt;appear&lt;/g1&gt; differently the same functionality.</seg>
       </tuv>
