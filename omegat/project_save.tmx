@@ -6553,12 +6553,13 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
 
 (太田) 単独の行→別の行、改行、という解釈で書くと分かりやすいかも。
 :first-childセレクタは:first-child擬似クラスとしました (セレクタは nav li:first-child となるので)。
+「ロゴを指定」と言われるとロゴを content プロパティで突っ込むようなイメージがあります。target をどう訳すか。「このロゴの入った要素を選択」?
 </note>
       <tuv lang="EN-US">
         <seg>In terms of responsive design, it’s possible to target the logo using &lt;g1&gt;:first-child&lt;/g1&gt; and, for example, place it on its own row within smaller viewports:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170803T084733Z" creationid="rikiha" creationdate="20170730T124456Z">
-        <seg>なお、レスポンシブデザインの場合は、&lt;g1&gt;:first-child&lt;/g1&gt;擬似クラスを使ってロゴを指定し、たとえばビューポートが狭い場合はナビゲーションからロゴだけを取り出して配置する、といったことも可能です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T084954Z" creationid="rikiha" creationdate="20170730T124456Z">
+        <seg>なお、レスポンシブデザインの場合は、&lt;g1&gt;:first-child&lt;/g1&gt;擬似クラスでこのロゴの入った要素を選択して、たとえばビューポートが狭い場合はナビゲーションからロゴだけを取り出して配置する、といったことも可能です。</seg>
       </tuv>
     </tu>
     <tu>
