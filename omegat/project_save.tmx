@@ -7049,7 +7049,8 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
     <tu>
       <note>(伊原) ここは逆に、こういう方法があるという話で一回切りたいので、2文にしました。また、ここで「コンテンツ」というのはちょっと不自然だったので取ってみました。
 
-(太田) role="banner"が必要なくなるというのはちょっとよくわからないですね。ことごとく the がついているので、一般論として不要と言っているわけではなく、「この例では必要なくなったのでとりました」というニュアンスかもしれません。とすると、2文にしないほうがいいやつかも。</note>
+(太田) role="banner"が必要なくなるというのはちょっとよくわからないですね。ことごとく the がついているので、一般論として不要と言っているわけではなく、「この例では必要なくなったのでとりました」というニュアンスかもしれません。とすると、2文にしないほうがいいやつかも。
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Instead, we can turn the navigation block’s home link into the logo, compacting the content by removing the now unnecessary &lt;g1&gt;role="banner"&lt;/g1&gt; landmark.</seg>
       </tuv>
