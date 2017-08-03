@@ -12537,12 +12537,14 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ちょっと調整。「グレイスフルデグラデーションも面倒です」で不自然じゃないかどうか。処理とか対応とか補う？</note>
+      <note>(伊原) ちょっと調整。「グレイスフルデグラデーションも面倒です」で不自然じゃないかどうか。処理とか対応とか補う？
+
+(太田) The submenus they disclose は「そこから展開するサブメニュー」ですかね。</note>
       <tuv lang="EN-US">
         <seg>The submenus they disclose need to be positioned absolutely, which invites layout issues across different viewports, and they’re cumbersome when it comes to graceful degradation in the absence of JavaScript, CSS or both.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170802T144459Z" creationid="rikiha" creationdate="20170731T135914Z">
-        <seg>ドロップダウン・サブメニューは絶対配置する必要があるため、ビューポートの状況によってはレイアウト上の問題が生じます。JavaScript、CSS、あるいはその両方が使えないときのグレイスフルデグラデーションも面倒です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T100624Z" creationid="rikiha" creationdate="20170731T135914Z">
+        <seg>そこから展開するサブメニューは絶対配置する必要があるため、ビューポートの状況によってはレイアウト上の問題が生じます。JavaScript、CSS、あるいはその両方が使えないときのグレイスフルデグラデーションも面倒です。</seg>
       </tuv>
     </tu>
     <tu>
