@@ -13221,7 +13221,8 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
 
 http://www.w3.org/TR/wai-aria-1.1/#banner
 &gt;Within any document or application, the author SHOULD mark no more than one element with the banner role.
-</note>
+
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>This is because multiple &lt;g4&gt;&lt;header&gt;&lt;/g4&gt; elements can be used on one page, but only one should be the singular banner landmark.</seg>
       </tuv>
