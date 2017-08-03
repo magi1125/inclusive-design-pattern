@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1273,9 +1273,12 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(岡本) My Project homeはどう訳しましょうか。</note>
+      <note>(岡本) My Project homeはどう訳しましょうか。→ホーム　に</note>
       <tuv lang="EN-US">
         <seg>&lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;&lt;/g23&gt;img&lt;/g22&gt; &lt;g24&gt;src&lt;/g24&gt;&lt;g25&gt;&lt;g26&gt;=&lt;/g26&gt;"images/logo.svg"&lt;/g25&gt; &lt;g27&gt;alt&lt;/g27&gt;&lt;g28&gt;&lt;g29&gt;=&lt;/g29&gt;"My Project home"&lt;/g28&gt;&lt;g30&gt;&gt;&lt;/g30&gt;&lt;/g21&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170803T024506Z">
+        <seg>&lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;&lt;/g23&gt;img&lt;/g22&gt; &lt;g24&gt;src&lt;/g24&gt;&lt;g25&gt;&lt;g26&gt;=&lt;/g26&gt;"images/logo.svg"&lt;/g25&gt; &lt;g27&gt;alt&lt;/g27&gt;&lt;g28&gt;&lt;g29&gt;=&lt;/g29&gt;"ホーム"&lt;/g28&gt;&lt;g30&gt;&gt;&lt;/g30&gt;&lt;/g21&gt;</seg>
       </tuv>
     </tu>
     <tu>
