@@ -13225,8 +13225,8 @@ http://www.w3.org/TR/wai-aria-1.1/#banner
       <tuv lang="EN-US">
         <seg>This is because multiple &lt;g4&gt;&lt;header&gt;&lt;/g4&gt; elements can be used on one page, but only one should be the singular banner landmark.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T134140Z" creationid="rikiha" creationdate="20170730T124352Z">
-        <seg>&lt;g4&gt;&lt;header&gt;&lt;/g4&gt;要素はページ内で複数使用できますが、bannerランドマークはその中にひとつしかないはずだからです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T075150Z" creationid="rikiha" creationdate="20170730T124352Z">
+        <seg>&lt;g4&gt;&lt;header&gt;&lt;/g4&gt;要素はページ内で複数使用できますが、bannerランドマークはひとつだけにすべきだとされています。</seg>
       </tuv>
     </tu>
     <tu>
