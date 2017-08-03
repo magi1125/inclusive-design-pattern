@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15165,7 +15165,7 @@ regressを「後方互換する」としていますが、日本語として違�
     <tu>
       <note>(伊原) 訳としてはこんな感じかなと。
 
-(岡本)　馬鹿は開いてもバカやばかでもいい気がするけど、強調する気もするので保留。
+(岡本)　馬鹿は開いてもバカやばかでもいい気がするけど、強調する気もするので保留。理不尽な、で。
 
 (太田) OK
 馬鹿が気になるようであれば、absurdは「理不尽な」としても良いかも。
@@ -15174,8 +15174,8 @@ regressを「後方互換する」としていますが、日本語として違�
       <tuv lang="EN-US">
         <seg>Without it, you force the user into a rather absurd spot-the-difference game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170729T135101Z" creationid="rikiha" creationdate="20170728T142604Z">
-        <seg>この目印がなかったなら、ユーザーはひどく馬鹿げた間違い探しゲームへの参加を強制されるはめになります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170803T022230Z" creationid="rikiha" creationdate="20170728T142604Z">
+        <seg>この目印がなかったなら、ユーザーはひどく理不尽な間違い探しゲームへの参加を強制されるはめになります。</seg>
       </tuv>
     </tu>
     <tu>
