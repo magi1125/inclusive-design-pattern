@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7095,7 +7095,9 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       <note>(伊原) ここは逆に、こういう方法があるという話で一回切りたいので、2文にしました。また、ここで「コンテンツ」というのはちょっと不自然だったので取ってみました。
 
 (太田) role="banner"が必要なくなるというのはちょっとよくわからないですね。ことごとく the がついているので、一般論として不要と言っているわけではなく、「この例では必要なくなったのでとりました」というニュアンスかもしれません。とすると、2文にしないほうがいいやつかも。
-調整してみました。たぶんこういう感じだと思いますがどうでしょうか。</note>
+調整してみました。たぶんこういう感じだと思いますがどうでしょうか。
+
+(伊原) なるほど確かに。OKです。role="banner"がなくなっていいのかはさておき。</note>
       <tuv lang="EN-US">
         <seg>Instead, we can turn the navigation block’s home link into the logo, compacting the content by removing the now unnecessary &lt;g1&gt;role="banner"&lt;/g1&gt; landmark.</seg>
       </tuv>
@@ -8906,7 +8908,9 @@ http://www.w3.org/TR/css-position-3/#abs-pos
     <tu>
       <note>(伊原) 言い回しがややこしかったのでシンプルに。
 
-(太田) 少し調整。&lt;g1&gt; を反映。</note>
+(太田) 少し調整。&lt;g1&gt; を反映。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Not only does this create needless and potentially confounding redundancy, but we’ve committed the cardinal usability sin of giving two things that &lt;g1&gt;appear&lt;/g1&gt; differently the same functionality.</seg>
       </tuv>
@@ -10450,7 +10454,9 @@ Good!</note>
       <note>(伊原) カブっているということがわかりやすくなるように調整してみました。
 
 (太田) shouldなので、かねる必要がある→かねるべき。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Since usability convention dictates that the logo image should double as a link to the home page, the logo has a navigational role: the same navigational role as the first of the navigation landmark’s links.</seg>
       </tuv>
@@ -13294,7 +13300,9 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
 http://www.w3.org/TR/wai-aria-1.1/#banner
 &gt;Within any document or application, the author SHOULD mark no more than one element with the banner role.
 
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This is because multiple &lt;g4&gt;&lt;header&gt;&lt;/g4&gt; elements can be used on one page, but only one should be the singular banner landmark.</seg>
       </tuv>
