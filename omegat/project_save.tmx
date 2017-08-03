@@ -12844,12 +12844,15 @@ NVDA2017.2jaでは、 aria-current="page" を「現在のページ」、 aria-cu
 
 (太田) OK
 
-(岡本）前に青眼の、を何か（目が見える的な…）に言い換えた気がしますが、忘れたのでとりあえずママで。</note>
+(岡本）前に青眼の、を何か（目が見える的な…）に言い換えた気がしますが、忘れたのでとりあえずママで。
+
+(太田)
+青眼の→目が見えている、ですね。</note>
       <tuv lang="EN-US">
         <seg>These implementations are serviceable for sighted users, but screen reader users often traverse navigation landmarks from link to link, using their &lt;g4&gt;Tab&lt;/g4&gt; key.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170731T034318Z" creationid="rikiha" creationdate="20170728T142611Z">
-        <seg>どちらの方法も晴眼のユーザーには伝わります。しかし、スクリーンリーダーユーザーの多くはnavigationランドマーク内をリンクからリンクへ&lt;g4&gt;Tab&lt;/g4&gt;キーでたどりながら確認していきます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170803T072555Z" creationid="rikiha" creationdate="20170728T142611Z">
+        <seg>どちらの方法も目が見えているユーザーには伝わります。しかし、スクリーンリーダーユーザーの多くはnavigationランドマーク内をリンクからリンクへ&lt;g4&gt;Tab&lt;/g4&gt;キーでたどりながら確認していきます。</seg>
       </tuv>
     </tu>
     <tu>
