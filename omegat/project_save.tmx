@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12828,7 +12828,9 @@ NVDA2017.2jaでは、 aria-current="page" を「現在のページ」、 aria-cu
 
 (岡本)　辿り→たどり
 
-(太田) OK</note>
+(太田) OK
+
+(岡本）前に青眼の、を何か言い換えた気がしますが、忘れたのでとりあえずママで。</note>
       <tuv lang="EN-US">
         <seg>These implementations are serviceable for sighted users, but screen reader users often traverse navigation landmarks from link to link, using their &lt;g4&gt;Tab&lt;/g4&gt; key.</seg>
       </tuv>
