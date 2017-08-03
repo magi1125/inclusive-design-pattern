@@ -4021,7 +4021,9 @@ visual designはそのままビジュアルデザインでいいかも。
     <tu>
       <note>(伊原) ひとまず原文っぽい訳に。
 
-(太田) 問題の解決を試みます、はもうちょっとこなれた感じにしたい。</note>
+(太田) 問題の解決を試みます、はもうちょっとこなれた感じにしたい。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Drop-down submenus (let’s call them that) attempt to solve the same problem of grouping links to related content, but are flawed in a number of ways.</seg>
       </tuv>
@@ -4311,7 +4313,9 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       <note>(伊原) 隠されるのはnavigational contentなので、こういうことかなと。
 
 (太田) 誤訳のような。hide nav from view, within a menu ということで、「視界から隠し、メニューの中に入れる」ということなのではないかと思います。調整してみました。
-precariousは、ユーザーに見つかるかどうか分からないということだと思いますが、どう訳すか。「ユーザーが気づくかどうかも分からない」と補ってみましたがどうですかね。</note>
+precariousは、ユーザーに見つかるかどうか分からないということだと思いますが、どう訳すか。「ユーザーが気づくかどうかも分からない」と補ってみましたがどうですかね。
+
+(伊原) おおなるほど、OKです。</note>
       <tuv lang="EN-US">
         <seg>First, they hide navigational content from view within a precarious, interaction-activated menu.</seg>
       </tuv>
@@ -5385,7 +5389,9 @@ remediation は治療法?
     <tu>
       <note>(伊原) 前段落とセットで要検討。
 
-(太田) a name の a を訳出しないとダメかも。ひとつの名前に決まっていないところからしてもうダメ、みたいなことですね。そのまま反映してみました。</note>
+(太田) a name の a を訳出しないとダメかも。ひとつの名前に決まっていないところからしてもうダメ、みたいなことですね。そのまま反映してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>I mean, these don’t even have a name anyone can agree on!</seg>
       </tuv>
@@ -6589,6 +6595,8 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
 (太田) 単独の行→別の行、改行、という解釈で書くと分かりやすいかも。
 :first-childセレクタは:first-child擬似クラスとしました (セレクタは nav li:first-child となるので)。
 「ロゴを指定」と言われるとロゴを content プロパティで突っ込むようなイメージがあります。target をどう訳すか。「このロゴの入った要素を選択」?
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>In terms of responsive design, it’s possible to target the logo using &lt;g1&gt;:first-child&lt;/g1&gt; and, for example, place it on its own row within smaller viewports:</seg>
@@ -7942,7 +7950,9 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) なんだかわかりにくい。目次の話をするのかと思いきや、以下しばらくはドロップダウンメニューへの批判。反転させて「目次に比べてこういったメニュー群は好ましくない」としたほうがいいような。要検討。</note>
+      <note>(伊原) なんだかわかりにくい。目次の話をするのかと思いきや、以下しばらくはドロップダウンメニューへの批判。反転させて「目次に比べてこういったメニュー群は好ましくない」としたほうがいいような。要検討。
+
+(伊原) ご調整ありがとうございます。OKです。</note>
       <tuv lang="EN-US">
         <seg>I’m fond of tables of contents for one reason most of all: they’re not drop-down/pull-down/pop-up submenus.</seg>
       </tuv>
@@ -9960,7 +9970,9 @@ Good!</note>
     <tu>
       <note>(伊原) 少しシンプルに。
 
-(太田) 「おおむね」など削除してさらにシンプルに。「相関する」もいらないような。</note>
+(太田) 「おおむね」など削除してさらにシンプルに。「相関する」もいらないような。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Resources like Wikipedia which trade in typically very lengthy and detailed articles, have long been incorporating tables of content because they provide two related benefits:</seg>
       </tuv>
@@ -10160,7 +10172,9 @@ without the clear hierarchy of grouping related sections under a main heading on
 
 (太田) グロナビのどこにも属さないページを生やすのを助長するという話ですね。
 「また、インフォメーションアーキテクトにとっては、共通ページのセクションや階層構造に属さない独立ページを大量生産してしまいがちな状況になります。」
-とか?</note>
+とか?
+
+(伊原) 文自体の意味は理解できるのですが、それがドロップダウンメニューとどう関係があるのかがわかりませんでした…。slackに書きますね。</note>
       <tuv lang="EN-US">
         <seg>Second, they encourage information architects to spawn numerous, independent pages of content, without the clear hierarchy of grouping related sections under a main heading on a shared page.</seg>
       </tuv>
