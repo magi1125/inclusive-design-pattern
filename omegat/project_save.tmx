@@ -4315,12 +4315,14 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
 (太田) 誤訳のような。hide nav from view, within a menu ということで、「視界から隠し、メニューの中に入れる」ということなのではないかと思います。調整してみました。
 precariousは、ユーザーに見つかるかどうか分からないということだと思いますが、どう訳すか。「ユーザーが気づくかどうかも分からない」と補ってみましたがどうですかね。
 
-(伊原) おおなるほど、OKです。</note>
+(伊原) おおなるほど、OKです。
+
+(岡本)　分からない→わからない</note>
       <tuv lang="EN-US">
         <seg>First, they hide navigational content from view within a precarious, interaction-activated menu.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170803T093534Z" creationid="rikiha" creationdate="20170731T135857Z">
-        <seg>まず、ナビゲーションを視界から消し、インタラクションによって初めてアクティブになる、ユーザーが気づくかどうかも分からないメニューの中に隠してしまうという点があります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170804T022519Z" creationid="rikiha" creationdate="20170731T135857Z">
+        <seg>First, they hide navigational content from view within a precarious, interaction-activated menu.まず、ナビゲーションを視界から消し、インタラクションによって初めてアクティブになる、ユーザーが気づくかどうかもわからないメニューの中に隠してしまうという点があります。</seg>
       </tuv>
     </tu>
     <tu>
