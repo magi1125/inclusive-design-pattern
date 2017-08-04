@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10176,7 +10176,11 @@ without the clear hierarchy of grouping related sections under a main heading on
 「また、インフォメーションアーキテクトにとっては、共通ページのセクションや階層構造に属さない独立ページを大量生産してしまいがちな状況になります。」
 とか?
 
-(伊原) 文自体の意味は理解できるのですが、それがドロップダウンメニューとどう関係があるのかがわかりませんでした…。slackに書きますね。</note>
+(伊原) 文自体の意味は理解できるのですが、それがドロップダウンメニューとどう関係があるのかがわかりませんでした…。slackに書きますね。
+
+(太田) ヘイドンさんが書いていないので謎ではありますね。目次は基本的に階層構造に添った形になりますが、プロップダウンはそうでもないので、ということかなと思います。
+
+</note>
       <tuv lang="EN-US">
         <seg>Second, they encourage information architects to spawn numerous, independent pages of content, without the clear hierarchy of grouping related sections under a main heading on a shared page.</seg>
       </tuv>
