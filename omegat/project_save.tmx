@@ -1884,6 +1884,16 @@ interfaceは訳出しなくて良いのか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) ちょっと調整。
+Wikipedia modelはそのままWikipediaモデルでも良いような。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Web page tables of contents usually follow the Wikipedia model: a basic bulleted list of links inside a box.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170804T160846Z" creationid="bakera" creationdate="20170804T160846Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Webページの目次は、Wikipediaモデルが一般的です。シンプルな箇条書きのリンクリストを枠で囲んだものです。&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「制御」は大げさな感があったので「色だけを変える」としました。
 
 (伊原) LGTM</note>
