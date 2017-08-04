@@ -15200,11 +15200,21 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 「目次」が何を指すのか分かりにくいので「目次という見出し」と補いました。
+Wikipediaの目次まわりはこんなマークアップでした。
+
+&lt;div class="toc" id="toc"&gt;
+&lt;div class="toctitle"&gt;
+&lt;h2&gt;目次&lt;/h2&gt;
+&lt;/div&gt;
+&lt;ul&gt;&lt;/ul&gt;
+&lt;/div&gt;
+</note>
       <tuv lang="EN-US">
         <seg>Wikipedia provides the &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; “Contents” to locate the table of contents in assistive technology.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170804T033644Z" creationid="rikiha" creationdate="20170802T162157Z">
-        <seg>Wikipediaは、「目次」に &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; を使用しており、支援技術で見つけることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170804T033856Z" creationid="rikiha" creationdate="20170802T162157Z">
+        <seg>Wikipediaは、「目次」という見出しに&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; を使用しており、支援技術で見つけることができます。</seg>
       </tuv>
     </tu>
     <tu>
