@@ -10468,8 +10468,8 @@ Good!</note>
       <tuv lang="EN-US">
         <seg>Since tables of contents that link to page sections are de facto navigation landmarks, we can do one better than Wikipedia and include &lt;g2&gt;role="navigation"&lt;/g2&gt; on the parent element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170804T033948Z" creationid="rikiha" creationdate="20170802T162200Z">
-        <seg>しかし、ページの各セクションにリンクしている目次は事実上のナビゲーションランドマークであるため、親要素に&lt;g2&gt;role="navigation"&lt;/g2&gt;を指定すればWikipediaよりもうまいやり方で目次を作成できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170804T034013Z" creationid="rikiha" creationdate="20170802T162200Z">
+        <seg>しかし、ページの各セクションにリンクしている目次は事実上のnavigationランドマークであるため、親要素に&lt;g2&gt;role="navigation"&lt;/g2&gt;を指定すれば、Wikipediaよりもうまいやり方で目次を作成できます。</seg>
       </tuv>
     </tu>
     <tu>
