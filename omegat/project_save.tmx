@@ -12317,11 +12317,15 @@ separateは物理的に分割するイメージかも。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+目次のリンク→目次内のリンク
+なんか誤訳っぽい気がしたので大幅に調整。
+</note>
       <tuv lang="EN-US">
         <seg>The links within a table of contents point to element &lt;g1&gt;id&lt;/g1&gt;s representing targets within the page, such as &lt;g2&gt;#services&lt;/g2&gt;, which update the document’s URL with the corresponding hash cipher.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T124726Z" creationid="rikiha" creationdate="20170805T124726Z">
-        <seg>目次のリンクはページ内のターゲットの要素idをポイントし（例：#services）、対応するハッシュでドキュメントのURLが更新されます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170805T130608Z" creationid="rikiha" creationdate="20170805T124726Z">
+        <seg>目次内のリンクは、同一ページ内のターゲットとなる要素の&lt;g1&gt;id&lt;/g1&gt;を、&lt;g2&gt;#services&lt;/g2&gt;のように、ドキュメントのURLにハッシュを付加した形で参照します。</seg>
       </tuv>
     </tu>
     <tu>
