@@ -10490,12 +10490,14 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Since tables of contents that link to page sections are de facto navigation landmarks, we can do one better than Wikipedia and include &lt;g2&gt;role="navigation"&lt;/g2&gt; on the parent element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170804T034028Z" creationid="rikiha" creationdate="20170802T162200Z">
-        <seg>しかし、ページの各セクションにリンクしている目次は事実上のナビゲーションランドマークであるため、親要素に&lt;g2&gt;role="navigation"&lt;/g2&gt;を指定すれば、Wikipediaよりもうまいやり方で目次を作成できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T121703Z" creationid="rikiha" creationdate="20170802T162200Z">
+        <seg>しかし、目次は,ページの各セクションにリンクしている事実上のナビゲーションランドマークであるため、親要素に&lt;g2&gt;role="navigation"&lt;/g2&gt;を指定すれば、Wikipediaよりもうまいやり方で目次を作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15237,7 +15239,8 @@ Wikipediaの目次まわりはこんなマークアップでした。
 &lt;/div&gt;
 &lt;ul&gt;&lt;/ul&gt;
 &lt;/div&gt;
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Wikipedia provides the &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; “Contents” to locate the table of contents in assistive technology.</seg>
       </tuv>
