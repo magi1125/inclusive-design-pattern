@@ -2281,6 +2281,14 @@ divergeは分岐する、分かれる、それるの意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A typical implementation is achieved by animating &lt;g1&gt;scrollTop&lt;/g1&gt; using jQuery.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163240Z" creationid="rikiha" creationdate="20170805T163240Z">
+        <seg>これは通常、jQueryを使用してscrollTopをアニメーションするという方法で実装します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) OK
 
 (伊原) ビデオブログ記事というのがちょっと変な感じがしたので、「の」を足しました</note>
@@ -2834,6 +2842,14 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T054359Z" creationid="yoota" creationdate="20170719T093956Z">
         <seg>&lt;g1&gt;tabindex&lt;/g1&gt;に関しては、&lt;g2&gt;tabindex="4"&lt;/g2&gt;のように正の整数を使用すると、Shadow DOM内のフォーカス順序の4番目を意味することになり、親ドキュメント内のフォーカス順序の4番目はという意味には&lt;g3&gt;なりません&lt;/g3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As is often the case in making keyboard-inclusive JavaScript interfaces, explicit focus management must be employed to move the keyboard user to the intended location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163234Z" creationid="rikiha" creationdate="20170805T163234Z">
+        <seg>キーボード対応のJavaScriptインターフェイスを作るときにはよくあることですが、明示的なフォーカス管理を用いてキーボードユーザーを目的の場所に移動させなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4826,6 +4842,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For this to work correctly, the standard browser behavior of jumping instantaneously to the target needs to be suppressed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163206Z" creationid="rikiha" creationdate="20170805T163206Z">
+        <seg>このスムーズスクロールを正しく動作させるためには、ブラウザの標準の動作であるターゲットへの瞬間移動をやめさせる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 日本語のフォントセットをBase64でCSSに突っ込むというのは現実的でなく、日本の読者にはあまり参考にならない方法であるように思われます。要訳注。
 
 (伊原) 「当該」を何か別の言い方にしたいが…「くだんの」とか？イマイチですね。</note>
@@ -4834,6 +4858,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T033749Z" creationid="yoota" creationdate="20170427T033749Z">
         <seg>そのためには、フォントはBase64でエンコードし、当該のスタイルシートに埋め込む必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fortunately, jQuery’s &lt;g2&gt;animate&lt;/g2&gt; method provides a callback, meaning focus can be applied to the target element after the animation has finished.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163244Z" creationid="rikiha" creationdate="20170805T163244Z">
+        <seg>幸い、jQueryのanimateメソッドではコールバックが使えるため、アニメーションが終了してからターゲット要素にフォーカスを適用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6461,6 +6493,14 @@ metaについては補足が必要か?
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170725T054728Z" creationid="rikiha" creationdate="20170725T021517Z">
         <seg>言い換えると、&lt;g2&gt;&lt;g3&gt;ユーザーに考えさせるな&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注88）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;、ということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In other words, we need to use JavaScript to fix the JavaScript.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163229Z" creationid="rikiha" creationdate="20170805T163229Z">
+        <seg>つまり、JavaScriptを使ってJavaScriptを修正するというわけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8232,6 +8272,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Keyboard users become stranded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163219Z" creationid="rikiha" creationdate="20170805T163219Z">
+        <seg>キーボードユーザーが困ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) レイアウトのエラーというのは日本語として変な感じがします。直訳すると、「レイアウトとインタラクションが誤りやすい予測できない状態になりうる」ということで、ひっくるめて「不安定になる」くらいかなと思います。
 
 (伊原) LGTM. 「の動作」はトリでもいいかも？とは思いました。
@@ -8414,6 +8462,15 @@ manageは管理で良いような。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T084159Z" creationid="yoota" creationdate="20170510T084159Z">
         <seg>また、行が短すぎると、視線を頻繁に素早く往復させなくてはならなくなります――読む人はすぐに疲れてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>この節確認中</note>
+      <tuv lang="EN-US">
+        <seg>Linkjacking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163156Z" creationid="rikiha" creationdate="20170805T163156Z">
+        <seg>リンクを乗っ取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -9160,6 +9217,14 @@ resulting inも落ちているような。「結果として」くらいでし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note the line starting &lt;g1&gt;window.location.hash&lt;/g1&gt; which updates the URL after focus with the hash fragment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163308Z" creationid="rikiha" creationdate="20170805T163308Z">
+        <seg>ハッシュフラグメントにフォーカスが移ると、window.location.hashで始まる行により、URLが更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ここで言う相対的な単位というのはwidth/heightを指しているので、補いました。
 
 (太田) 補ったwidthとheightがプロパティ名であればスタイルをつける必要がありますがどうしましょうか。
@@ -9240,6 +9305,14 @@ resulting inも落ちているような。「結果として」くらいでし�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170718T094203Z" creationid="yoota" creationdate="20170714T053527Z">
         <seg>さて、アクセシビリティコンサルタントが、これらの問題すべてを原則と達成基準ごとに整理してスプレッドシートにまとめ、レポートしたとしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now that standard behavior has been usurped, the usurper needs to emulate it for us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163225Z" creationid="rikiha" creationdate="20170805T163225Z">
+        <seg>標準の動作を奪われたのですから、奪った本人にその動作を再現してもらう必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10286,10 +10359,7 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
     </tu>
     <tu>
-      <note>この節確認中。おそらく以下あたりの話とか改善策とかのことっぽい。
-https://momdo.github.io/html/interaction.html#sequential-focus-navigation
-
-(伊原) そのままカタカナにするので良いかどうか。</note>
+      <note>(伊原) そのままカタカナにするので良いかどうか。</note>
       <tuv lang="EN-US">
         <seg>Sequential Focus Navigation</seg>
       </tuv>
@@ -10728,6 +10798,14 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100738Z" creationid="okamoto_jun" creationdate="20170627T100738Z">
         <seg>Webページの移動や操作の際、キーボードを好んで使う人もいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some implementations of in-page linking are enhanced by JavaScript to provide a smooth scrolling effect as the targeted section comes into view.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163203Z" creationid="rikiha" creationdate="20170805T163203Z">
+        <seg>JavaScriptを使用して、ターゲットのセクションに移動する際にスムーズスクロール表示されるようにしたページ内リンクもよく見かけます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11942,6 +12020,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T051116Z">
         <seg>基本的な点線のアウトラインによるフォーカススタイルと、青い背景のフォーカススタイルの比較。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The behavior of &lt;g1&gt;linking&lt;/g1&gt; is effectively replaced with &lt;g2&gt;scrolling&lt;/g2&gt; and sequential focus navigation no longer takes place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163216Z" creationid="rikiha" creationdate="20170805T163216Z">
+        <seg>しかし、リンクの動作をスクロールで置き換えると、シーケンシャルフォーカスナビゲーションが機能しなくなり、</seg>
       </tuv>
     </tu>
     <tu>
@@ -13204,6 +13290,14 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This ability to record and retrieve subsections of documents is an integral part of the web experience, and one some users would miss if absent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163320Z" creationid="rikiha" creationdate="20170805T163320Z">
+        <seg>こうしたドキュメントのサブセクションを記録したり取得したりする機能はWeb体験に不可欠な機能であり、これがないと困るというユーザーも大勢います。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 表示→レンダリングとしました。ほぼ同義ですが厳密には異なり、レンダリングされるが表示されない場合などもあります。
 「そうすれば」→「これによって……できるようになります」としました。
 
@@ -13697,6 +13791,14 @@ http://pothos.main.jp/setuzokusi.htm</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T033529Z" creationid="yoota" creationdate="20170512T033529Z">
         <seg>単調さが軽減し、読む人を飽きさせません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This reinstates standard behavior too, making sure the user can still bookmark and share the subsection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T163312Z" creationid="rikiha" creationdate="20170805T163312Z">
+        <seg>同時に通常の動作に戻るため、ユーザーは普段どおりサブセクションにブックマークを付けたり共有したりもできます。</seg>
       </tuv>
     </tu>
     <tu>
