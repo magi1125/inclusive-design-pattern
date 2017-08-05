@@ -3033,13 +3033,12 @@ hueは正確には色相ですが、まあ色で良いかなと。
 ※この節確認中
 
 (太田) 書いてある内容と見出しの内容があまりかみ合っていないような気も。
-
-(伊原) 一般的な構造としてみました。</note>
+</note>
       <tuv lang="EN-US">
         <seg>Basic Structure</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T123104Z" creationid="rikiha" creationdate="20170802T152558Z">
-        <seg>一般的な構造</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T124904Z" creationid="rikiha" creationdate="20170802T152558Z">
+        <seg>基本構造</seg>
       </tuv>
     </tu>
     <tu>
@@ -3956,6 +3955,14 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T031701Z" creationid="yoota" creationdate="20170522T100124Z">
         <seg>HTML5仕様には&lt;g1&gt;&lt;section&gt;&lt;/g1&gt;などのネスト可能なセクショニング要素が含まれていますが、現在のところ、インクルーシブな方法で階層の深さを記述できる要素は &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt;～&lt;g3&gt;&lt;h6&gt;&lt;/g3&gt;だけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Despite these targets (usually &lt;g1&gt;&lt;section&gt;&lt;/g1&gt;s or headings) not typically being focusable elements, browsers employ &lt;g2&gt;sequential focus navigation&lt;/g2&gt; whereby the first focusable element within or after the target is made the &lt;g3&gt;next&lt;/g3&gt; focusable element in sequence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T124732Z" creationid="rikiha" creationdate="20170805T124732Z">
+        <seg>これらのターゲット（通常は&lt;section&gt;や見出し）はたいていフォーカス可能な要素ではありませんが、ブラウザが、ターゲット内またはターゲットの後の最初のフォーカス可能要素を、シーケンシャルフォーカスナビゲーションの次のフォーカス可能要素として処理してくれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12292,6 +12299,14 @@ separateは物理的に分割するイメージかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The links within a table of contents point to element &lt;g1&gt;id&lt;/g1&gt;s representing targets within the page, such as &lt;g2&gt;#services&lt;/g2&gt;, which update the document’s URL with the corresponding hash cipher.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T124726Z" creationid="rikiha" creationdate="20170805T124726Z">
+        <seg>目次のリンクはページ内のターゲットの要素idをポイントし（例：#services）、対応するハッシュでドキュメントのURLが更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) OK</note>
@@ -12737,6 +12752,14 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085313Z" creationid="okamoto_jun" creationdate="20170627T085313Z">
         <seg>本来、デザインの仕事とは、熟慮することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The upshot is that users navigating by keyboard can follow a link in a table of contents and be transported to that section safe in the knowledge that keyboard functionality will be localized to the section.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T124735Z" creationid="rikiha" creationdate="20170805T124735Z">
+        <seg>キーボードでナビゲートする場合も、？？移動先がセクションに限定されるため？？、目次のリンクをたどって確実に目的のセクションに移動できます。【コメント：意訳しています。原文「keyboard functionality will be localized to the section」】</seg>
       </tuv>
     </tu>
     <tu>
