@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12326,7 +12326,9 @@ separateは物理的に分割するイメージかも。
       <note>(太田)
 目次のリンク→目次内のリンク
 なんか誤訳っぽい気がしたので大幅に調整。
-updateはここでは「付け加える」くらいの意味かと思います。</note>
+updateはここでは「付け加える」くらいの意味かと思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The links within a table of contents point to element &lt;g1&gt;id&lt;/g1&gt;s representing targets within the page, such as &lt;g2&gt;#services&lt;/g2&gt;, which update the document’s URL with the corresponding hash cipher.</seg>
       </tuv>
