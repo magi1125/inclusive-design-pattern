@@ -3961,8 +3961,8 @@ visual designはそのままビジュアルデザインでいいかも。
       <tuv lang="EN-US">
         <seg>Despite these targets (usually &lt;g1&gt;&lt;section&gt;&lt;/g1&gt;s or headings) not typically being focusable elements, browsers employ &lt;g2&gt;sequential focus navigation&lt;/g2&gt; whereby the first focusable element within or after the target is made the &lt;g3&gt;next&lt;/g3&gt; focusable element in sequence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T124732Z" creationid="rikiha" creationdate="20170805T124732Z">
-        <seg>これらのターゲット（通常は&lt;section&gt;や見出し）はたいていフォーカス可能な要素ではありませんが、ブラウザが、ターゲット内またはターゲットの後の最初のフォーカス可能要素を、シーケンシャルフォーカスナビゲーションの次のフォーカス可能要素として処理してくれます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170805T130726Z" creationid="rikiha" creationdate="20170805T124732Z">
+        <seg>これらのターゲット（通常は&lt;g1&gt;&lt;section&gt;&lt;/g1&gt;や見出し）はたいていフォーカス可能な要素ではありませんが、ブラウザが、ターゲット内またはターゲットの後の最初のフォーカス可能要素を、シーケンシャルフォーカスナビゲーションの次のフォーカス可能要素として処理してくれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12320,13 +12320,12 @@ separateは物理的に分割するイメージかも。
       <note>(太田)
 目次のリンク→目次内のリンク
 なんか誤訳っぽい気がしたので大幅に調整。
-updateはここでは「付け加える」くらいの意味かと思います。「ハッシュを付加した」としてみました。
-</note>
+updateはここでは「付け加える」くらいの意味かと思います。</note>
       <tuv lang="EN-US">
         <seg>The links within a table of contents point to element &lt;g1&gt;id&lt;/g1&gt;s representing targets within the page, such as &lt;g2&gt;#services&lt;/g2&gt;, which update the document’s URL with the corresponding hash cipher.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170805T130608Z" creationid="rikiha" creationdate="20170805T124726Z">
-        <seg>目次内のリンクは、同一ページ内のターゲットとなる要素の&lt;g1&gt;id&lt;/g1&gt;を、&lt;g2&gt;#services&lt;/g2&gt;のように、ドキュメントのURLにハッシュを付加した形で参照します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170805T130717Z" creationid="rikiha" creationdate="20170805T124726Z">
+        <seg>目次内のリンクは、同一ページ内のターゲットとなる要素の&lt;g1&gt;id&lt;/g1&gt;を、&lt;g2&gt;#services&lt;/g2&gt;のように、ドキュメントのURLにハッシュを付け加えた形で参照します。</seg>
       </tuv>
     </tu>
     <tu>
