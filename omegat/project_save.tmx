@@ -4847,6 +4847,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Fortunately, this is possible by simply adding &lt;g7&gt;tabindex="-1"&lt;/g7&gt; to the element carrying the target &lt;g8&gt;id&lt;/g8&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T125647Z" creationid="rikiha" creationdate="20170805T125647Z">
+        <seg>幸い、ターゲットのidが設定されている要素にtabindex="-1"を付け加えるだけで解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM
 
 (岡本) 24→25、25→26</note>
@@ -8521,6 +8529,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Maximizing Support</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T125623Z" creationid="rikiha" creationdate="20170805T125623Z">
+        <seg>サポートの拡大</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)　3人目→3人め
 
 (太田) Meanwhileは「そうこうしている間に」くらいに訳したいですね。
@@ -10261,7 +10277,7 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
     </tu>
     <tu>
-      <note>この節確認中。おそらく
+      <note>この節確認中。おそらく以下あたりの話とか改善策とかのことっぽい。
 https://website-usability.info/2015/12/entry_151201.html
 </note>
       <tuv lang="EN-US">
@@ -14140,6 +14156,14 @@ https://github.com/mnater/Hyphenator
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To make sequential focus navigation work in Internet Explorer, you have to overcome a longstanding &lt;g6&gt;hasLayout&lt;/g6&gt; bug.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T125631Z" creationid="rikiha" creationdate="20170805T125631Z">
+        <seg>Internet Explorerでシーケンシャルフォーカスナビゲーションを使用するためには、以前からあるhasLayoutのバグの対処が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>To make skip links available to keyboard users, we should bring them into view on focus:</seg>
@@ -14459,6 +14483,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T055242Z" creationid="yoota" creationdate="20170524T055115Z">
         <seg>&lt;g13&gt;&lt;main&gt;&lt;/g13&gt;要素とは異なり、&lt;g14&gt;&lt;article&gt;&lt;/g14&gt;はランドマークではないため、ナビゲーション機能を提供しているスクリーンリーダーはほとんどありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Until recently, &lt;g1&gt;&lt;g2&gt;a bug in Chrome&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; meant that sequential focus navigation did not work, but that bug has (finally!) been fixed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T125627Z" creationid="rikiha" creationdate="20170805T125627Z">
+        <seg>最近までChromeでシーケンシャルフォーカスナビゲーションが機能しないというバグ（脚注97）がありましたが、すでに（ようやく！）修正されています。</seg>
       </tuv>
     </tu>
     <tu>
