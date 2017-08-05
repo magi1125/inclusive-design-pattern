@@ -4842,12 +4842,12 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 多少調整。</note>
+      <note>(伊原) 多少補いつつ調整</note>
       <tuv lang="EN-US">
         <seg>For this to work correctly, the standard browser behavior of jumping instantaneously to the target needs to be suppressed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T223656Z" creationid="rikiha" creationdate="20170805T163206Z">
-        <seg>これを正しく動かすためには、ターゲットに即座にジャンプするという、ブラウザの標準的なふるまいを抑制する必要があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T224004Z" creationid="rikiha" creationdate="20170805T163206Z">
+        <seg>これを正しく動かすためには、リンクを押すとターゲットに即座にジャンプするという、ブラウザの標準的なふるまいを抑制する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12028,8 +12028,8 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       <tuv lang="EN-US">
         <seg>The behavior of &lt;g1&gt;linking&lt;/g1&gt; is effectively replaced with &lt;g2&gt;scrolling&lt;/g2&gt; and sequential focus navigation no longer takes place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T163216Z" creationid="rikiha" creationdate="20170805T163216Z">
-        <seg>しかし、リンクの動作をスクロールで置き換えると、シーケンシャルフォーカスナビゲーションが機能しなくなり、</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T223923Z" creationid="rikiha" creationdate="20170805T163216Z">
+        <seg>リンクのふるまいをスクロールで置き換えると、シーケンシャルフォーカスナビゲーションが機能しなくなり、</seg>
       </tuv>
     </tu>
     <tu>
