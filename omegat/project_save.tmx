@@ -10492,12 +10492,12 @@ Good!</note>
     <tu>
       <note>(太田) OK
 
-(伊原) OK</note>
+(伊原) OK. ちょっと一文が長い感じはしました。</note>
       <tuv lang="EN-US">
         <seg>Since tables of contents that link to page sections are de facto navigation landmarks, we can do one better than Wikipedia and include &lt;g2&gt;role="navigation"&lt;/g2&gt; on the parent element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T121703Z" creationid="rikiha" creationdate="20170802T162200Z">
-        <seg>しかし、目次は,ページの各セクションにリンクしている事実上のナビゲーションランドマークであるため、親要素に&lt;g2&gt;role="navigation"&lt;/g2&gt;を指定すれば、Wikipediaよりもうまいやり方で目次を作成できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T121900Z" creationid="rikiha" creationdate="20170802T162200Z">
+        <seg>しかし、ページの各セクションにリンクしている目次は事実上のナビゲーションランドマークであるため、親要素に&lt;g2&gt;role="navigation"&lt;/g2&gt;を指定すれば、Wikipediaよりもうまいやり方で目次を作成できます。</seg>
       </tuv>
     </tu>
     <tu>
