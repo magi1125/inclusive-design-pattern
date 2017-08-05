@@ -12025,11 +12025,12 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 原文に沿った形に調整。</note>
       <tuv lang="EN-US">
         <seg>The behavior of &lt;g1&gt;linking&lt;/g1&gt; is effectively replaced with &lt;g2&gt;scrolling&lt;/g2&gt; and sequential focus navigation no longer takes place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T224404Z" creationid="rikiha" creationdate="20170805T163216Z">
-        <seg>リンクのふるまいをスクロールで置き換えると、シーケンシャルフォーカスナビゲーションはもはや行われません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T224527Z" creationid="rikiha" creationdate="20170805T163216Z">
+        <seg>リンクのふるまいをスクロールで置き換えたら、もはやシーケンシャルフォーカスナビゲーションは行われません。</seg>
       </tuv>
     </tu>
     <tu>
