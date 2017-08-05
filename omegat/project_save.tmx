@@ -1483,7 +1483,9 @@ OK
     </tu>
     <tu>
       <note>(太田)
-#endorsements → #news</note>
+#endorsements → #news
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g62&gt;&lt;g63&gt;&lt;g64&gt;&lt;&lt;/g64&gt;li&lt;/g63&gt;&lt;g65&gt;&gt;&lt;/g65&gt;&lt;/g62&gt;&lt;g66&gt;&lt;g67&gt;&lt;g68&gt;&lt;&lt;/g68&gt;a&lt;/g67&gt; &lt;g69&gt;href&lt;/g69&gt;&lt;g70&gt;&lt;g71&gt;=&lt;/g71&gt;"#endorsements"&lt;/g70&gt;&lt;g72&gt;&gt;&lt;/g72&gt;&lt;/g66&gt;News&lt;g73&gt;&lt;g74&gt;&lt;g75&gt;&lt;/&lt;/g75&gt;a&lt;/g74&gt;&lt;g76&gt;&gt;&lt;/g76&gt;&lt;/g73&gt;&lt;g77&gt;&lt;g78&gt;&lt;g79&gt;&lt;/&lt;/g79&gt;li&lt;/g78&gt;&lt;g80&gt;&gt;&lt;/g80&gt;&lt;/g77&gt;</seg>
       </tuv>
@@ -2096,9 +2098,12 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
-      <note>画像alt</note>
+      <note>(伊原) 画像altを下訳から反映しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>A grey, bordered box with the heading “Contents” above a bulleted list of in-page links.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T122650Z">
+        <seg>枠線付きで背景色がグレーのボックス内の上部に「目次」という見出しがあり、その下にページ内リンクリストが配置されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4066,7 +4071,8 @@ visual designはそのままビジュアルデザインでいいかも。
     <tu>
       <note>(太田)
 ポイント先→遷移先としました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Each link points to a &lt;g3&gt;&lt;g4&gt;fragment identifier&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;12&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; that corresponds with a section of the page.</seg>
       </tuv>
