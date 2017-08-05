@@ -8534,7 +8534,8 @@ manageは管理で良いような。
     <tu>
       <note>土屋さんは以下のように書かれていますが
 https://website-usability.info/2015/12/entry_151201.html
-Chromeはバグが修正され、OSX Safariも手元で試したら大丈夫そうでした。
+Chromeはバグが修正され、OSX Safariも手元で試したら大丈夫そうでした（そもそも環境設定でチェック入れないとリンクにフォーカスしないというオチで結構ハマった。そして本多くんの記事で思い出した（謎））。
+https://yuichon.com/2016/12/safari-focus/#_os
 IEはどのバージョンのことを言っているのか要確認。</note>
       <tuv lang="EN-US">
         <seg>Maximizing Support</seg>
