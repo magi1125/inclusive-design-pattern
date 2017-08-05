@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4053,7 +4053,9 @@ visual designはそのままビジュアルデザインでいいかも。
       <note>(伊原) 入れるつもりはありません、ぐらいの感じかなと思いつつ、ありません、でもいいかなと。
 
 (太田) a pattern of their own は「それ自体のパターン」「単独のパターン」とかでしょうか。話題にすることはあっても、パターンとして採用するつもりはない、ということかなと。
-ちょっと調整してみました。</note>
+ちょっと調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Drop-down submenus will not, therefore, have a pattern of their own in this book.</seg>
       </tuv>
@@ -12618,7 +12620,9 @@ sound semantic structureとは。
     <tu>
       <note>(伊原) ちょっと調整。「グレイスフルデグラデーションも面倒です」で不自然じゃないかどうか。処理とか対応とか補う？
 
-(太田) The submenus they disclose は「そこから展開するサブメニュー」ですかね。</note>
+(太田) The submenus they disclose は「そこから展開するサブメニュー」ですかね。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The submenus they disclose need to be positioned absolutely, which invites layout issues across different viewports, and they’re cumbersome when it comes to graceful degradation in the absence of JavaScript, CSS or both.</seg>
       </tuv>
@@ -13852,7 +13856,7 @@ compelには強要する、強いるという意味があり、転じて「目�
 (太田) theyがドロップダウン・サブメニューを指すことがわかりにくいかも。
 補いつつ調整してみました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Though technically they can be made accessible, it’s not a trivial task to support mouse, keyboard and touch interaction simultaneously without diminishing the quality of any one mode.</seg>
       </tuv>
