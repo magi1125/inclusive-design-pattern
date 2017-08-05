@@ -1887,7 +1887,9 @@ interfaceは訳出しなくて良いのか。
     </tu>
     <tu>
       <note>(太田) ちょっと調整。
-Wikipedia modelはそのままWikipediaモデルでも良いような。</note>
+Wikipedia modelはそのままWikipediaモデルでも良いような。
+
+(伊原) OK. Wikipediaは番号ついてたりしますけどね…（マークアップはul）</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Web page tables of contents usually follow the Wikipedia model: a basic bulleted list of links inside a box.&lt;/g3&gt;</seg>
       </tuv>
@@ -2102,8 +2104,8 @@ Note を訳出しました。
       <tuv lang="EN-US">
         <seg>A grey, bordered box with the heading “Contents” above a bulleted list of in-page links.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T122650Z">
-        <seg>枠線付きで背景色がグレーのボックス内の上部に「目次」という見出しがあり、その下にページ内リンクリストが配置されている。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T122851Z">
+        <seg>枠線付きで背景色がグレーのボックス内の上部に「目次」という見出しがあり、その下に箇条書きのページ内リンクリストが配置されている。</seg>
       </tuv>
     </tu>
     <tu>
