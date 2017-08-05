@@ -4851,8 +4851,8 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       <tuv lang="EN-US">
         <seg>Fortunately, this is possible by simply adding &lt;g7&gt;tabindex="-1"&lt;/g7&gt; to the element carrying the target &lt;g8&gt;id&lt;/g8&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T125647Z" creationid="rikiha" creationdate="20170805T125647Z">
-        <seg>幸い、ターゲットのidが設定されている要素にtabindex="-1"を付け加えるだけで解決します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T154223Z" creationid="rikiha" creationdate="20170805T125647Z">
+        <seg>幸い、ターゲットの&lt;g8&gt;id&lt;/g8&gt;が設定されている要素に&lt;g7&gt;tabindex="-1"&lt;/g7&gt;を付け加えるだけで解決します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14172,11 +14172,12 @@ https://github.com/mnater/Hyphenator
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ちょっと調整。</note>
       <tuv lang="EN-US">
         <seg>To make sequential focus navigation work in Internet Explorer, you have to overcome a longstanding &lt;g6&gt;hasLayout&lt;/g6&gt; bug.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T154118Z" creationid="rikiha" creationdate="20170805T125631Z">
-        <seg>Internet Explorerでシーケンシャルフォーカスナビゲーションを正しく動作させるためには、長年続くhasLayoutバグを乗り越えなければなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T154200Z" creationid="rikiha" creationdate="20170805T125631Z">
+        <seg>Internet Explorerでシーケンシャルフォーカスナビゲーションを正しく動作させるためには、長年続く&lt;g6&gt;hasLayout&lt;/g6&gt;バグを乗り越えなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
