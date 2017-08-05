@@ -12320,6 +12320,7 @@ separateは物理的に分割するイメージかも。
       <note>(太田)
 目次のリンク→目次内のリンク
 なんか誤訳っぽい気がしたので大幅に調整。
+updateはここでは「付け加える」くらいの意味かと思います。「ハッシュを付加した」としてみました。
 </note>
       <tuv lang="EN-US">
         <seg>The links within a table of contents point to element &lt;g1&gt;id&lt;/g1&gt;s representing targets within the page, such as &lt;g2&gt;#services&lt;/g2&gt;, which update the document’s URL with the corresponding hash cipher.</seg>
