@@ -6497,11 +6497,12 @@ metaについては補足が必要か?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) JavaScriptでJavaScriptを、というのが（当たり前すぎて）意味不明だったので、単にJSを修正する</note>
       <tuv lang="EN-US">
         <seg>In other words, we need to use JavaScript to fix the JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T163229Z" creationid="rikiha" creationdate="20170805T163229Z">
-        <seg>つまり、JavaScriptを使ってJavaScriptを修正するというわけです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T225540Z" creationid="rikiha" creationdate="20170805T163229Z">
+        <seg>つまり、スムーズスクロールJavaScriptを修正するわけです。</seg>
       </tuv>
     </tu>
     <tu>
