@@ -3958,9 +3958,6 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
-
-</note>
       <tuv lang="EN-US">
         <seg>Despite these targets (usually &lt;g1&gt;&lt;section&gt;&lt;/g1&gt;s or headings) not typically being focusable elements, browsers employ &lt;g2&gt;sequential focus navigation&lt;/g2&gt; whereby the first focusable element within or after the target is made the &lt;g3&gt;next&lt;/g3&gt; focusable element in sequence.</seg>
       </tuv>
