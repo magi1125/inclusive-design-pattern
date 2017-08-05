@@ -10254,6 +10254,15 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
     </tu>
     <tu>
+      <note>この節確認中</note>
+      <tuv lang="EN-US">
+        <seg>Sequential Focus Navigation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170805T124721Z" creationid="rikiha" creationdate="20170805T124721Z">
+        <seg>シーケンシャルフォーカスナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) containingは「含まれる要素」となっていますが、これは祖先の要素を指します。CSSにはcontaining blockという概念があり、昔のCSS2の日本語訳では「包含ブロック」とされていましたが、定訳ではないような気がします。
 参考:
 http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
