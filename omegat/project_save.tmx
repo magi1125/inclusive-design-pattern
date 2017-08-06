@@ -6497,12 +6497,12 @@ metaについては補足が必要か?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) JavaScriptでJavaScriptを、というのが（当たり前すぎて）意味不明だったので、単にJSを修正する</note>
+      <note>(伊原) JavaScriptでJavaScriptを、というのが（当たり前すぎて）意味不明だったので、単にJSを修正するという形に。</note>
       <tuv lang="EN-US">
         <seg>In other words, we need to use JavaScript to fix the JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T225540Z" creationid="rikiha" creationdate="20170805T163229Z">
-        <seg>つまり、スムーズスクロールJavaScriptを修正するわけです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170806T220304Z" creationid="rikiha" creationdate="20170805T163229Z">
+        <seg>つまり、スムーズスクロールのJavaScriptを修正するわけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10809,8 +10809,8 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       <tuv lang="EN-US">
         <seg>Some implementations of in-page linking are enhanced by JavaScript to provide a smooth scrolling effect as the targeted section comes into view.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T223240Z" creationid="rikiha" creationdate="20170805T163203Z">
-        <seg>ページ内リンクでターゲットセクションに移動する際、JavaScriptでスムーズスクロールするエフェクトを掛けたものを見かけることがあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170806T220232Z" creationid="rikiha" creationdate="20170805T163203Z">
+        <seg>ページ内リンクでターゲットセクションに移動する際、JavaScriptでスムーズスクロールするものを見かけることがあります。</seg>
       </tuv>
     </tu>
     <tu>
