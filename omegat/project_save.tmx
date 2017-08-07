@@ -4871,7 +4871,11 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) フォーカスを適用➞フォーカスを当てる</note>
+      <note>(伊原) フォーカスを適用➞フォーカスを当てる
+
+ところで、window.location.hash = target.id || target.name;をJQueryのコールバックで呼ぶと、ブラウザの戻るボタンを押しても、押す前の位置に戻らなくなるようです（Chromeで試して再現）。
+http://chibinowa.net/note/js/smoothscroll.html
+pushStateのほうがモダンな感じがしますが、どうでしょう。</note>
       <tuv lang="EN-US">
         <seg>Fortunately, jQuery’s &lt;g2&gt;animate&lt;/g2&gt; method provides a callback, meaning focus can be applied to the target element after the animation has finished.</seg>
       </tuv>
