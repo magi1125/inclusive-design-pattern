@@ -2292,8 +2292,8 @@ divergeは分岐する、分かれる、それるの意味。
       <tuv lang="EN-US">
         <seg>A typical implementation is achieved by animating &lt;g1&gt;scrollTop&lt;/g1&gt; using jQuery.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170807T133755Z" creationid="rikiha" creationdate="20170805T163240Z">
-        <seg>スムーズスクロールを実装する典型的な方法は、jQueryのanimateメソッドでscrollTopを使うことです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170807T140525Z" creationid="rikiha" creationdate="20170805T163240Z">
+        <seg>スムーズスクロールを実装する典型的な方法は、jQueryの&lt;g1&gt;animate&lt;/g1&gt;メソッドで&lt;g1&gt;scrollTop&lt;/g1&gt;を使うことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4875,8 +4875,8 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       <tuv lang="EN-US">
         <seg>Fortunately, jQuery’s &lt;g2&gt;animate&lt;/g2&gt; method provides a callback, meaning focus can be applied to the target element after the animation has finished.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170807T133937Z" creationid="rikiha" creationdate="20170805T163244Z">
-        <seg>幸い、jQueryのanimateメソッドではコールバックが使えるため、アニメーション終了後にターゲットとなる要素にフォーカスを当てることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170807T140532Z" creationid="rikiha" creationdate="20170805T163244Z">
+        <seg>幸い、jQueryの&lt;g2&gt;animate&lt;/g2&gt;メソッドではコールバックが使えるため、アニメーション終了後にターゲットとなる要素にフォーカスを当てることができます。</seg>
       </tuv>
     </tu>
     <tu>
