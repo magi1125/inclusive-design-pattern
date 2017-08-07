@@ -9230,11 +9230,16 @@ resulting inも落ちているような。「結果として」くらいでし�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 
+
+ところで、window.location.hash = target.id || target.name;をJQueryのコールバックで呼ぶと、ブラウザの戻るボタンを押しても、押す前の位置に戻らなくなるようです（Chromeで試して再現）。
+http://chibinowa.net/note/js/smoothscroll.html
+pushStateのほうがモダンな感じがしますが、どうでしょう。</note>
       <tuv lang="EN-US">
         <seg>Note the line starting &lt;g1&gt;window.location.hash&lt;/g1&gt; which updates the URL after focus with the hash fragment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T163308Z" creationid="rikiha" creationdate="20170805T163308Z">
-        <seg>ハッシュフラグメントにフォーカスが移ると、window.location.hashで始まる行により、URLが更新されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170807T140112Z" creationid="rikiha" creationdate="20170805T163308Z">
+        <seg>window.location.hashで始まる行に注意してください。ハッシュフラグメントnoフォーカスが当たったあとにURLが更新されます。</seg>
       </tuv>
     </tu>
     <tu>
