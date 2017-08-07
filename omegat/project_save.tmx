@@ -9238,8 +9238,8 @@ pushStateのほうがモダンな感じがしますが、どうでしょう。</
       <tuv lang="EN-US">
         <seg>Note the line starting &lt;g1&gt;window.location.hash&lt;/g1&gt; which updates the URL after focus with the hash fragment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170807T140112Z" creationid="rikiha" creationdate="20170805T163308Z">
-        <seg>window.location.hashで始まる行に注意してください。ハッシュフラグメントnoフォーカスが当たったあとにURLが更新されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170807T140220Z" creationid="rikiha" creationdate="20170805T163308Z">
+        <seg>window.location.hashで始まる行に注意してください。ハッシュフラグメントが指定する要素にフォーカスが当たったあとにURLが更新されます。</seg>
       </tuv>
     </tu>
     <tu>
