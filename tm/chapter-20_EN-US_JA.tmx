@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A List of Products | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T024619Z">
+        <seg>8章：商品のリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First person holding a piece of paper: Here's your website.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T024619Z">
+        <seg>「はい、頼まれていた君のWebサイトだよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Second person: That's just a piece of paper.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T024619Z">
+        <seg>「ただの紙切れじゃないか」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First person again: You asked me to design it, not make it. </seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T024619Z">
+        <seg>「作ってくれじゃなくて、デザインしてくれって言ったよね」</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

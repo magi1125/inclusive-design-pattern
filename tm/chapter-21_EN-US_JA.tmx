@@ -1,0 +1,2734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A List Of Products | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>8章：商品のリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“What [religion are] you?”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「君の宗教は何だい？」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Well if you’re going to reduce my identity to my religion, then I’m Sikh.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「僕のアイデンティティを宗教で片付けようと言うのなら、シーク教徒ですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But I also like hiphop and NPR.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>でも僕はヒップポップやナショナル・パブリック・ラジオも好きです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And I’m restoring a 1967 Corvette in my spare time.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>それに暇なときは1967年式コルベットの修理をしていますよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Okay.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「分かった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So, one Sikh, and…”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>じゃ、シーク教徒が1人、と…」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>– The Office, Season 4, Fun Run</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>—「The Office」シーズン4、「Fun Run」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Business tends to concern itself with targeting and communicating to a receptive audience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ビジネスでは、反応の良い閲覧者にターゲットを絞り、彼らに伝えることに関心を寄せる傾向があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The creators of a photography website, for example, would seek to identify and target people who like photography and, well, websites.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>たとえば、写真サイトの制作者は、写真、そしてWebサイトを好きな人々を特定し、ターゲットにしようとするでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For most marketers, research doesn’t stop there.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ほとんどのマーケティング担当者にとって、調査はそこで終わりではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They’ll look into age groups, related interests, competing websites, income, aspirations and even gender.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>彼らは、年齢層、関連する興味関心、競合サイト、収入、願望、性別なども詳しく調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fortunately for you — the inclusive designer — the precarious and error-prone art of marketing is none of your concern because abilities, preferences and circumstances have little to do with interests, tastes or lifestyle choices.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>幸いなことに、不確かで間違いを起こしやすいマーケティング術は、インクルーシブデザイナーが首を突っ込む問題ではありません。能力、優先度、環境や状況は、興味関心、好み、ライフスタイルの選択とはほとんど関係ないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And while second guessing who might want to use our products is a game we have to play, making assumptions about how folks use them can only alienate potential fans and customers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>また、自分たちの商品を誰が使いたいと思うかを先読みすることは必要ですが、彼らがどのようにそれを使うかを決めてかかると、潜在的なファンや顧客を疎外してしまうだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Targeting a so-called average user is a disastrous interface design strategy, because average users do not exist — except for the handful of people teetering on the apex of your bell curve.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>いわゆる平均的ユーザーをターゲットにするのは、インターフェイスデザインの戦略としては破滅的です。なぜなら、正規分布曲線の頂点に立っているほんの一握りの人々を除き、平均的ユーザーは存在しないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The popular utensil firm OXO knows this well and by catering to extreme situations and disabilities first, they’ve produced highly ergonomic products with mainstream appeal.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>家庭用品などで有名なOXO社はこれをよく理解しており、まず極端な状況や身体的な障害を持つ人々向けにすることで、人間工学的に優れた製品を生み出し、一般の消費者を引き付けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In OXO’s own words:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>OXO社は次のように述べています。（脚注132）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“When all users’ needs are taken into consideration in the initial design process, the result is a product that can be used by the broadest spectrum of users.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「初期のデザインプロセスですべてのユーザーのニーズを考慮すれば、非常に幅広いユーザーが使える製品になる」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the design of the hypothetical photography site, it’s tempting for the business to try to write off support for users they don’t think will be interested in it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>架空の写真サイトをデザインする場合、ビジネス的には、サイトに興味を持ちそうにないユーザーに対するサポートを切り捨てたくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That way, maybe they can save money.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>そうすれば、おそらくコストが削減できるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Blind users aren’t likely to be interested in photography, so why bother making the site screen reader accessible?” they might think.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「目の不自由なユーザーが写真に興味を持つ可能性は低いから、スクリーンリーダーでアクセスできるようにする必要はない」と思うかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Meet Sandra.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>サンドラを紹介しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>She was a photographer until the age of thirty-seven, when she lost her sight.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>彼女は37歳で視力を失うまで写真家でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Her interest in photography never really diminished, though.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>それでも写真に対する興味が薄れることはありませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>She enjoys being an active member of the online photography community where she can trade the technical know-how she’s picked up over the years for detailed descriptions of photographs.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>オンラインの写真コミュニティのメンバーとして活動することを楽しみ、写真の詳細な説明と引き換えに、長年にわたって培った技術的なノウハウを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There’s always a Sandra, and she deserves an experience just as good as the Ryans, Barbaras and Xaviers of this world.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>サンドラのような人は必ずいます。そして、世界中のライアンやバーバラやザビエルたちと同じように体験できて然るべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But also consider the following:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>また、以下の点についても考慮しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The features Sandra wants (a social dimension and text descriptions) are not exclusive to her or other blind users for reasons of being blind.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•サンドラが求める機能（社会的側面およびテキストによる説明）は、彼女や他の視覚障害者のように目の不自由な人たち専用ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Including these features does not alienate other types of user in favor of people like Sandra.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•そうした機能を含めても、サンドラのような人々を優遇して他のタイプのユーザーを疎外することにはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Making these features accessible to blind and low-vision users has benefits for other types of user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•盲目や低視力の人がこれらの機能を利用できるようにすることは、他のタイプのユーザーにとってもメリットがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, alt text describes images in text-only browsers or where image requests return a 403, 404, 500 or 503 status.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>たとえば、altテキストは、テキストのみのブラウザや、画像リクエストに403、404、500、503ステータスが返された場合に画像を説明してくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Screen reader accessibility also requires keyboard accessibility, which helps folks with a range of rheumatic complaints, as well as conditions that cause inaccuracy with a mouse, such as Parkinson’s disease or dyspraxia.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>スクリーンリーダーのアクセシビリティには、キーボードのアクセシビリティも求められます。これは、さまざまなリウマチ症状を持つ人や、パーキンソン病や統合運動障害によってマウスを正確に操作できない人に役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And that doesn’t begin to cover all of the folks who use the keyboard when browsing — clinical condition or no.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>病態の有無に関わらず、これらはブラウジングにキーボードを使う人々のほんの一例にすぎません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Everybody is a keyboard user when eating with their mouse hand.” – Adrian Roselli</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「マウスを操作する方の手で何かを食べているときは誰でもキーボードユーザーだ」— エイドリアン・ロゼリー（Adrian Roselli）（脚注133）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No matter what the content or the commercial offer, there is no reason to second-guess how the user might operate the interface.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>コンテンツ（販売する商品やサービスなど）が何であれ、ユーザーがどのようにインターフェイスを操作するかを先読みする理由はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In fact, doing so can only reduce the quality of the product.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>そんなことをしてもプロダクトの質が低下するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To save money, you are going to want to make just the one interface, not a different one for each imagined user group.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>コストを節約するには、想定したユーザーグループごとに異なるインターフェイスを作るのではなく、1つだけにする必要が出てきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So, you make it inclusive.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>そこでインクルーシブなインターフェイスにするのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You make inclusivity a quality of the product — not an expensive additional feature.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>インクルーシビティを、コストのかかる追加機能ではなく、プロダクトの本質的な特性にしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When inclusion is integrated into the design process in this way, it’s very little more work.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>このようにしてインクルージョンをデザインプロセスに組み込めば、増える作業はごくわずかです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In fact, using standard technologies in expected ways often means less work.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>実際、標準的なテクノロジーをしかるべき方法で使うと、たいていの場合は手間が減ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, devising an inaccessible, custom-authored &lt;div class="heading-3"&gt; is actually more typing than using a standard .</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>たとえば、アクセシブルではないカスタムの&lt;div class="heading-3"&gt;を考案すると、標準のを使うより入力の量が多くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It gets even more verbose when you’re wedded to using a &lt;div&gt; and have to fix the heading accessibility after the fact with ARIA attributes:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;div&gt;を使用することに固執するとさらに冗長になり、後からARIA属性を使って見出しのアクセシビリティを修正しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;!-- life is too short! --&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;!-- 人生はとても短い！--&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div class="heading-3" role="heading" aria-level="3"&gt;Heading text&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;div class="heading-3" role="heading" aria-level="3"&gt;見出しテキスト&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Virtue Of Lists</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>リストの長所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For this particular pattern, I want you to imagine a hypothetical photography app has a built in shop, selling photographic prints.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ここで例示するパターンでは、架空の写真アプリケーションに、写真プリントを販売するショップが組み込まれていると想像してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The product list is the set of prints returned after the user has entered a product search term.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>商品リストは、ユーザーが商品検索の語句を入力すると表示される一連のプリント写真です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We need to look at how individual products might be marked up and presented, including illustrations and calls to action — the aim is to get users to buy things, after all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>個々の商品がどのようにマークアップされ、表示されるかに注目する必要があり、これには図表や行動喚起（コールトゥアクション）も含まれます。結局のところ、目標はユーザーに商品を購入してもらうことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’ve expounded the virtues of lists in previous patterns.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>リストの長所については以前のパターンで詳しく説明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They itemize their contents accessibly, group content thematically, and break up otherwise structureless, undifferentiated runs of prose.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>リストは、コンテンツをアクセシブルな形で項目別に並べ、テーマごとにグループ化して、構造化も区別もされていないダラダラとした文章を分割します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So far, we’ve only included text and inline elements (links) to make terse list items, but it’s perfectly acceptable to define more complex structures.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>これまではテキストとインライン要素（リンク）のみを含めて簡潔なリスト項目を作るだけでしたが、もっと複雑な構造を定義してもまったく問題ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though the pattern as documented in your pattern library is likely only to define the structure of one product item, it’s important to acknowledge context and belonging first.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>皆さんのパターンライブラリに記録されているパターンは、おそらく1つの商品の構造を定義するだけのものでしょうが、まずはコンテキストおよび付属するものを認識することが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s start a list of products and use the contents of the first list item as the product template.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>では、商品リストの作成を開始し、最初のリスト項目のコンテンツを商品テンプレートとして使用しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using an  element, let’s give our product a title.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>まず、要素を使って商品にタイトルを付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;li&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Naked Man In Garage Forecourt</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>給油場の裸の男</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;a href="/photographer/kenny-mulbarton"&gt;by Kenny Mulbarton&lt;/a&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;a href="/photographer/kenny-mulbarton"&gt;ケニー・マルバートン作&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;/li&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each product should have a heading of the same (third) level because they are equal in hierarchy as members of the same list.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>各商品は同じリストの一員として階層が同等なので、同じレベル（第3レベル）の見出しを付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though it’s tempting to use a higher heading level like  to pick out featured products, this should be avoided as it would make for a nonsensical structure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>目玉商品を際立たせるために、などの高いレベルの見出しを使いたくなりますが、合理性を欠く構造になってしまうので、そのような設定は避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Better to show that a product is featured or recommended using some descriptive text, highlighted with CSS.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>目玉商品やお勧めの商品であることを示したい場合は、CSSでハイライト表示した説明文などを使いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;li&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;strong class="highlight"&gt;Featured:&lt;/strong&gt; Naked Man In Garage Forecourt</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;strong class="highlight"&gt;注目の商品：&lt;/strong&gt;給油場の裸の男</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;a href="/photographer/kenny-mulbarton"&gt;by Kenny Mulbarton&lt;/a&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;a href="/photographer/kenny-mulbarton"&gt;ケニー・マルバートン作&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;/li&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The highlight style makes featured items easy to identify visually while scanning and the “Featured” text provides the information non-visually to assistive technologies.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ハイライトスタイルを使うと、ページに目を通しているときに目玉商品を視覚的に特定しやすくなり、「注目の商品」というテキストが非視覚的に支援技術へ情報を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some screen reader users will explore the product list by heading.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>スクリーンリーダーのユーザーの中には、見出しを使って商品を見て回る人もいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With the s in place, they can move from product to product using either the H key (next heading) or 3 (next third-level heading).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>が所定の場所にあれば、ユーザーはHキー（次の見出し）または数字の「3」のキー（次の第3レベルの見出し）を使って商品から商品へと移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Other screen reader users might traverse the list using direct list navigation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>また、直接的なリストナビゲーションを使ってリスト内を移動するスクリーンリーダーユーザーもいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For instance, JAWS offers the I (for item) shortcut key to move from one list item to the next.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>たとえば、JAWSではショートカットキーのI（item、項目）を使って、あるリスト項目から次のリスト項目へと移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Giving users choice is the first of Henny Swan’s accessible UX principles, as developed during the redesign of the BBC iPlayer website:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ユーザーに選択肢を与えるというのは、ヘニー・スワン（Henny Swan）（脚注134）がBBCで考案した、アクセシブルなUXに関する原則の最初の項目です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1. Give users choice.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>1.ユーザーに選択肢を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2. Put users in control.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>2.ユーザーに主導権を握らせる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3. Design with familiarity in mind.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>3.なじみやすさを念頭に置いてデザインする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>4. Prioritize features that add value.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>4.価値を付加する機能を優先する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the absence of author CSS, the browser will display each list item with a bullet point and render the heading text in a large, bold font.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>オーサーCSSがない場合、ブラウザは各リスト項目を箇条書きで、見出しテキストを大きい太字フォントで表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The visual structure is therefore clear, even where CSS is (temporarily or permanently) unavailable or overriden with a user syle sheet.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>そのため、CSSが（一時的または永続的に）使用できない、または、ユーザーのスタイルシートでオーバーライドされた場合でも、視覚的な構造は明確です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Separating content and presentation like this also makes it easier for users to apply their own user styles should they wish to.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>また、このようにコンテンツとプレゼンテーションを分離（脚注135）すると、ユーザーが希望に応じて独自のユーザースタイル（脚注136）を適用しやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the user were to follow the link inside the heading to the photographer’s own page, the photographic prints listed at that location should be similarly marked up and presented.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ユーザーが見出し内のリンクから写真家のページへ移動できるようにする場合は、その場所にリストされている写真プリントも同じようにマークアップし、提示すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As “A Web For Everyone” implores:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「A Web For Everyone」（脚注137）では次のように求めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Present things that are the same in the same way.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「同じものは同じように提示してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One way to help users find their way around a site is to be consistent in how elements of the site are presented and labeled, which doesn’t mean that the site must be boring with no variation or texture.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ユーザーがサイト内を見て回りやすくする1つの方法は、サイトの要素の提示方法と分類方法に一貫性を持たせることです。これは、変化やテクスチャが乏しい退屈なサイトにしろという意味ではありません」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Key Information</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>重要な情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So far, our product only has a title.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>この時点では、商品にはタイトルしかありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The user will no doubt be interested in information such as size, price and customer rating.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ユーザーはきっと、サイズや価格、顧客の評価といった情報に興味を持つでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We can group and label these key pieces of information clearly, using a definition list:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>定義リストを使用して、こうした個々の重要な情報を1箇所にまとめ、明確にラベル付けすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;li&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Naked Man In Garage Forecourt</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>給油場の裸の男</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;a href="/artist/kenny-mulbarton"&gt;by Kenny Mulbarton&lt;/a&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;a href="/artist/kenny-mulbarton"&gt;ケニー・マルバートン作&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dl&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dl&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dt&gt;Size:&lt;/dt&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dt&gt;サイズ：&lt;/dt&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dd&gt;90cm × 30cm&lt;/dd&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dd&gt;90cm × 30cm&lt;/dd&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dt&gt;Price:&lt;/dt&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dt&gt;価格：&lt;/dt&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dd&gt;€35.95&lt;/dd&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dd&gt;€35.95&lt;/dd&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dt&gt;Rating:&lt;/dt&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dt&gt;評価：&lt;/dt&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dd&gt;&lt;img src="/images/rating_4_5.svg" alt=""&gt;4 out of 5 stars&lt;/dd&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dd&gt;&lt;img src="/images/rating_4_5.svg" alt=""&gt;5つ星中4つ星&lt;/dd&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;/dl&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;/dl&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;/li&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>注意点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Like an unordered list (&lt;ul&gt;), the definitions list (&lt;dl&gt;) has its items enumerated by screen readers so users know how many to expect.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•番号なしリスト（&lt;ul&gt;）と同様、定義リスト（&lt;dl&gt;）はスクリーンリーダーが項目を数え上げるので、ユーザーは項目がいくつあるか分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When first encountered, screen readers like VoiceOver will announce “Definition list,” letting users know that they should expect key/value pairs.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>最初に出くわすと、VoiceOverなどのスクリーンリーダーは「＃＃Definition list＃＃」と読み上げ、その後にキーと値のペアが続くことをユーザーに知らせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•User agents style definition lists by indenting the &lt;dd&gt; elements, meaning a visual hierarchy is present in the absence of author CSS.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•ユーザーエージェントのスタイル定義は、&lt;dd&gt;要素をインデントしてリスト化します。つまり、オーサーCSSがない場合は視覚的な階層が示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•“90cm × 30cm” is written using the correct (multiplication) Unicode character, so that “Thirty C M times ninety C M” is announced in screen readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•「90cm × 30cm」は正しいUnicode文字（乗算記号）を使って書かれているので、スクリーンリーダーでは「＃＃Thirty CM times ninety CM＃＃」と読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using a lowercase x would be a poor substitution.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>代わりに小文字のxを使うのは不適切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only would it be announced as “ex,” but it would also be visually unclear — especially when rendered with a serif font.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「＃＃ex＃＃」と読み上げられるだけでなく、視覚的にも不明瞭です（特にセリフフォントで表示された場合）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•We’re using the well-established convention of displaying stars to denote the customer rating.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•顧客の評価には、星印で示すという定着した方法を用いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To reinforce what the stars represent, we’re also spelling out the rating adjacently.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>星印が意味するものを補強するために、隣に説明を添えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A null alt value (alt="") omits the image from screen readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>alt属性の値がnull（alt=""）だと、スクリーンリーダーは画像を無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A description of the rating in place of the image and next to the image would mean a tedious duplication for screen reader users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>画像の横に添えた評価の説明に加え、画像に代わる説明もあると、スクリーンリーダーのユーザーにとってくどい繰り返しになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•To be more precise, the “Size” label should arguably be “Dimensions.” However, size is a simpler and more widely understood word and concept which — practically speaking, given the context — means the same thing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•より正確な表記にするには、「サイズ」のラベルは「寸法」とすべきでしょう。しかし、サイズの方がシンプルで広く理解されている言葉であり、特にこのコンテキストの場合、概念としては同じものを意味しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ashley Bischoff’s presentation, “Embracing Plain Language for Better Accessibility” offers some excellent advice on substituting the pretentious and robotic for the simple and human when choosing words.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>アシュリー・ビショフ（Ashley Bischoff）のプレゼンテーション「Embracing Plain Language for Better Accessibility」（脚注138）では、言葉選びについて素晴らしいアドバイスをしています。言葉を選ぶ際は、大げさでロボットのような言葉の代わりに、シンプルで人間らしい言葉を選ぶよう勧めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Product Thumbnail</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>商品のサムネイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The intimate relationship between images and advertising hardly needs restating here.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>画像と広告の親密な関係については、ここで改めて述べるまでもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Suffice to say, unless you’re selling an intangible product like a six-month subscription or eternal happiness, your users are going to want to get a good look at their potential purchase.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>6カ月間のサブスクリプションや永遠の幸福といった無形の商品を販売する場合を除き、ユーザーは購入を検討している商品をじっくり見たいと思うものだ、と言えば十分でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The product thumbnail is essentially the canonical image of the product.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>商品のサムネイルは基本的に、商品の標準的な画像です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As such, it should show the product in its entirety, unobscured and with no distracting artifacts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>そのため、サムネイルには商品全体が明確に、目障りなアーティファクトなしで示されている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Similar products (such as red and yellow versions of the same T-shirt design) should be presented the same way, from the same angle, denoting equivalency.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>似たような商品（デザインが同じTシャツの緑と青のバージョンなど）は、同じ方法で提示します。同じアングルから、同等に表示してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Three of the same T-shirt in different colors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The last one is unhelpfully taken from a different angle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Art directed, creative product photography may be evocative, but increases cognitive load for users, forcing them to try to unpick exactly what form the product takes.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>アートディレクションされた独創的な商品写真（脚注139）は刺激的かもしれませんが、ユーザーの認知的負荷（脚注140）が高くなり、商品の正確な形態を読み解くことを強いられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It should be the preserve of the product’s permalink page, if at all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>そういった写真を使うのなら、商品のパーマリンクページに留めるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Alternative Text</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>代替テキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fortunately, our photographic print thumbnails are images of images so composition and lighting take care of themselves.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>幸いなことに、写真プリントのサムネイルは画像の画像なので、構図や照明の心配はいりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That leaves the matter of prescribing alternative text so that the product appearance is described to blind and low-vision users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>後は、代替テキストを指定して、盲目や低視力のユーザーに商品の見た目を説明できるようにするだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Always including alt text is one of the first lessons we learn when embarking on accessible interface design, but it’s precisely what text we include that makes the difference between accessible and inaccessible, inclusive and exclusive.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>常にaltテキストを含めるというのは、アクセシブルなインターフェイスデザインに取り組み始めたときに最初に学ぶことの1つですが、それがどんなテキストであるかが、アクセシブルと非アクセシブル、インクルーシブとエクスクルーシブ（排他的）の違いを生みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To avoid duplication in the last example, the correct answer was — perhaps counterintuitively at first glance — explicitly no alternative text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>前の例では、繰り返しを避けるために、一見すると直観に反しているかもしれませんが、代替テキストはなしというのが正解でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Aware that the design of alt text — like the design of anything else — should be informed by context, the WAI (Web Accessibility Initiative) offers the alt decision tree.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>altテキストのデザインには、他のあらゆるもののデザインと同様、コンテキストからの情報が必要で、WAI（Web Accessibility Initiative）はaltの決定木（ディシジョンツリー）を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For our thumbnail, which does not contain text or describe an action, we have to ask: “Does the image contribute meaning to the current page or context?”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>（脚注142）今回のサムネイルの場合は、テキストは含まれておらず、アクションの説明もないので、「この画像は現在のページやコンテキストに意味を提供しているか？」と自問する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The answer is: it can, if we provide information which isn’t already in the image’s title.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>答えは、「画像のタイトル内に存在していない情報を与れば意味を提供できる」です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since the title is very terse and literal, we can seize the opportunity:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>このタイトルは非常に簡潔で文字通りの表現なので、新たな情報を与えるチャンスはあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;li&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Naked Man In Garage Forecourt</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>給油場の裸の男</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;a href="/artist/kenny-mulbarton"&gt;by Kenny Mulbarton&lt;/a&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;a href="/artist/kenny-mulbarton"&gt;ケニー・マルバートン作&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;img src="/images/naked-forecourt-man.jpg" alt="High-contrast black and white image of a naked man nonchalantly leaning against a gas pump."&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;img src="/images/naked-forecourt-man.jpg" alt="裸の男性が何食わぬ顔で給油ポンプにもたれかかっている、ハイコントラストの白黒写真。" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dl&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dl&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dt&gt;Size:&lt;/dt&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dt&gt;サイズ：&lt;/dt&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dd&gt;90cm × 30cm&lt;/dd&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dd&gt;90cm × 30cm&lt;/dd&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dt&gt;Price:&lt;/dt&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dt&gt;価格：&lt;/dt&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dd&gt;€35.95&lt;/dd&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dd&gt;€35.95&lt;/dd&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dt&gt;Rating:&lt;/dt&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dt&gt;評価：&lt;/dt&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;dd&gt;&lt;img src="/images/rating_4_5.svg" alt=""&gt;4 out of 5 stars&lt;/dd&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;dd&gt;&lt;img src="/images/rating_4_5.svg" alt=""&gt;5つ星中4つ星&lt;/dd&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;/dl&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;/dl&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;/li&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that I’ve communicated an important category of the image (black and white photography) and also tried to capture the mood of the image (“nonchalantly leaning”).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>画像の重要なカテゴリー（白黒写真）を伝え、画像の雰囲気（何食わぬ顔でもたれかかっている）もとらえようとしている点に注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Neither piece of information is available elsewhere to blind users or users for whom images are otherwise unavailable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>目の不自由なユーザーや別の理由で画像を見ることができないユーザーが利用できる情報は他にありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As a user on a slow network who has turned off images, or they’ve failed to load, the alternative text is visible to me.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ネットワークの速度が遅いので画像をオフにしている場合、あるいは画像の読み込みに失敗した場合も、代替テキストは見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With descriptive alternative text in place, I might still be convinced to bookmark the photographic print to have a look when I’m on a Wi-Fi connection.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>説明的な代替テキストがあれば、Wi-Fi接続したときに確認できるよう、写真プリントをブックマークする気になるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Image Performance</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>画像のパフォーマンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In “A Menu Button” we looked at the many ways to render the simple, three-lined navicon.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「＃＃A Menu Button＃＃」では、シンプルな三本線のナビコンを表示するさまざまな方法を紹介しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One of the advantages of using SVG is that its file size can be extremely small, especially when using repeated geometric shapes like rectangles, by way of the &lt;rect&gt; element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>SVGを使用する利点の1つは、特に矩形（&lt;rect&gt;要素）などの繰り返される幾何学形状を使った場合に、ファイルサイズが非常に小さくなることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unfortunately, emblematic impressions of the photographs we have for sale, reimagined using rectangles and circles, are not going to cut it here.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>残念ながら、矩形や円を使って、このサイトで販売する写真の印象を象徴的に表しても効果的ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We’ll have to defer to a weightier but more accurate raster format such as PNG or JPG.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ここは、PNGやJPGといった、ファイルサイズは重くても、より正確なラスター形式を用いる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To get an impression of how slow loading a page full of raster thumbnails can be, find an existing site with the kind of content we’re discussing, then open Chrome’s developer tools.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ラスター形式のサムネイルでいっぱいのページを読み込むのにどれだけ時間がかかるか実感するために、そのようなコンテンツを扱っているサイトを見つけ、Chromeのデベロッパーツールを開きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Next, press the Toggle device toolbar button (Cmd + Shift + M).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>次に、［Toggle device toolbar］ボタン（Cmd + Shift + M）を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Choose Show throttling from the menu and select “Regular 3G” — not the slowest or fastest connection.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>メニューから［Show throttling］を選び、［Regular 3G］を選択します（最も遅いまたは速い接続ではありません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now reload the page and wait.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ではページをリロードして待ちましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And then wait some more.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>さらにもう少し待ちましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But boredom isn’t the only issue.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>しかし問題は退屈だけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Loading this many images over a mobile network is costly too.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>こうした多くの画像をモバイルネットワークで読み込むのは費用もかかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To give you an impression, take the URL of the site you were just testing and head over to What Does My Site Cost to find out how many cents it’ll cost in data to retrieve just that one page, replete with all the images.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>イメージをつかむために、What Does My Site Cost（脚注143）に行き、先ほどテストしたサイトのURLを使って、画像がたっぷり含まれるたった1ページを取得するために、データ転送にどれだけ費用がかかるか確認してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Web developers tend to have expensive data contracts and spend most of their working day connected to lightning-fast broadband.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>Web開発者は高額のデータ契約を結んでいることが多く、勤務日の大半は超高速のブロードバンドに接続しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The experience is both a privileged and an unrepresentative one.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>彼らの体験は特権階級のもので、典型的な体験ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To be inclusive of those on poor networks, with smaller budgets or being subject to huge roaming charges, we need to mitigate the impact that loading all of these images is likely to have.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>予算が少ない、あるいはローミング料金が大幅に変わることになる、低質なネットワークを利用しているユーザーにとってインクルーシブなサイトにするには、大量の画像を読み込むことによって予想される影響を軽減する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This book is not the place to discuss the ins and outs of handling image assets for performance but, briefly, let’s consider some important techniques.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>本書ではパフォーマンスを意識した画像アセットの扱いについて詳述はしませんが、いくつかの重要なテクニックについて少し考えてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1. Compression: If you do nothing else, make sure your images are compressed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>1.圧縮：他のことはともかく、画像の圧縮は必ず行いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Compressing images needn’t be the arduous, manual task it once was, now that we can make use of automation tools like ImageOptim.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>画像の圧縮は難しい作業とは限りません。以前は手動で行っていましたが、現在はImageOptim（脚注144）といった自動化ツールが利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2. Lazy loading: There’s no need to load images unless they are to be seen.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>2.遅延読み込み：画像は見ることになるまで読み込む必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using lazy loading means not downloading the image resource unless or until the &lt;img/&gt; element enters the viewport.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>遅延読み込みを使うと、&lt;img/&gt;要素がビューポートに入るまで（入らない限り）画像リソースをダウンロードしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There are a number of scripts and plugins available, each working by replacing a dummy src value with a real one contained in a data- attribute.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>利用できるスクリプトやプラグインがいくつもあり、どれもダミーのsrc値を、data-属性に指定した本当の値で置き換えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For our product list, each image’s markup might look like &lt;img src="dummy.jpg" data-src="/images/naked-forecourt-man.jpg" width="400" height="300"&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>今回の商品リストの場合、各画像のマークアップはだいたい以下のようになります。&lt;img src="dummy.jpg" width="400" height="300" data-src="/images/naked-forecourt-man.jpg"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3. The &lt;picture&gt; element: This allows you to tailor images to viewports.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>3.&lt;picture&gt;要素：画像をビューポートに合わせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since smaller viewports are more likely to be used with mobile devices and networks, you can benefit from prescribing physically smaller — therefore less weighty and costly — images.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>モバイルデバイスやモバイルネットワークでは小さいビューポートが使われることが多いので、物理的に小さい画像（軽くて費用もかからない）を指定すると有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We might, accordingly, incorporate markup similar to that in the following illustration:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>これを行うには、以下の例のようなマークアップを組み込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;picture&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;picture&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;source media="(min-width: 800px;)" srcset="/images/naked-forecourt-man_large.jpg"&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;source media="(min-width: 800px;)" srcset="/images/naked-forecourt-man_large.jpg"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;img src="/images/naked-forecourt-man_small.jpg" alt="High-contrast black and white image of a naked man nonchalantly leaning against a petrol pump."&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;img src="/images/naked-forecourt-man_small.jpg" alt="裸の男性が何食わぬ顔で給油ポンプにもたれかかっている、ハイコントラストの白黒写真。"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;/picture&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;/picture&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that the &lt;img/&gt; element, included last, will have its src attribute automatically switched to that defined in the &lt;source&gt; element only if the viewport is more than 800px wide.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>最後にある&lt;img/&gt;要素は、ビューポートの幅が800px以上の場合にのみ、そのsrc属性を&lt;source&gt;要素で定義されているものに自動的に切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Be aware that this is not an exact science.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>これは精密科学ではない点に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s entirely possible that some of your users will be connected via a slow mobile network on a device featuring a viewport greater than 800px in width.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ユーザーが800pxより幅の広いビューポートを搭載したデバイスを使い、低速のモバイルネットワーク経由で接続しているケースも十分考えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The “Buy Now” Action</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「今すぐ購入」アクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unless we’re entirely lacking in business acumen, we’re going to want to facilitate the user’s purchase of the print.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ビジネス感覚が完全に欠落していない限り、写真プリントの購入を促したいと考えるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Including a “Buy Now” button is perhaps the most straightforward way to go about this.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>そのためには、おそらく「今すぐ購入」ボタンを加えるのが最も簡単な方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Even so, there are some pitfalls to avoid.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>とは言え、避けるべき落とし穴がいくつかあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Buttons versus Buttons</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ボタンと&lt;BUTTON&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The first pitfall regards the concept of buttons and their expected behavior.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>最初の落とし穴は、ボタンの考え方および期待される動作に関するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Despite so-called “Buy Now” buttons having the appearance of a button, their behavior links to a resource — they are hyperlinks.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>いわゆる「今すぐ購入」ボタンは、見た目はボタンですが、その動作はリソースにリンクしています。つまりハイパーリンクです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;a href="/product/naked-man-in-garage" class="button"&gt;Buy Now&lt;/a&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;a href="/product/naked-man-in-garage" class="button"&gt;今すぐ購入&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In a noble attempt to create a more accessible experience, this leads some developers to mistakenly provide the role="button" attribute.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>よりアクセシブルな体験を作り出そうとして、role="button"属性を使うというミスをする開発者がいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This overrides the implicit accessible role of "link" with an explicit role of "button", meaning the link will be announced as a button in screen reader software.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>これを行うと、「リンク」の暗黙のアクセシブルなロールが、"button"の明示的なロールでオーバーライドされ、スクリーンリーダーでリンクがボタンとして読み上げられてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since the linking behavior of loading a new page is still intact, this is deceptive and confusing for blind screen reader users and should be avoided.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>新しいページを読み込むというリンクの動作は損なわれないので、目の不自由なスクリーンリーダーユーザーにとって紛らわしく、混乱を招くため、この方法は避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;!-- don’t do this --&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;!-- これは行わないでください --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;a href="/product/naked-man-in-garage" role="button"&gt;Buy Now&lt;/a&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;a href="/product/naked-man-in-garage" role="button"&gt;今すぐ購入&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since the visual appearance of a button suggests button-like behavior, it is recommended to preserve that aesthetic for actual &lt;button&gt;s.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ボタンの外観はボタンらしい動作を示唆するので、そうした見た目を&lt;button&gt;でも維持することが推奨されます。リンクには独立したcall-to-actionスタイルを保持することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I suggest you maintain a separate call-to-action style for links which has more visual purchase than a standard link but which does not resemble a button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>これは標準のリンクよりも視覚的な手掛かりが多いですが、ボタンのようには見えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>a {
+/* standard link styles */
+}
+
+a.call-to-action {
+/* emphatic link styles */
+}
+
+button {
+/* &lt;button&gt; element styles */
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>a {
+/* 標準のリンクスタイル */
+}
+
+a.call-to-action {
+/* 強調されたリンクスタイル */
+}
+
+button {
+/* &lt;button&gt; 要素のスタイル */
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Three controls: a basic link with underline; an action link with a border; and a button with a blue background.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>基本的なリンク
+アクション
+ボタン
+3つのコントロール：下線付きの基本的なリンク、囲み線があるアクションリンク、青い背景のボタン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>注意点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•I highly recommend that, although each of these elements are treated differently, they share a common color — a color which denotes the shared interactive quality of the three elements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•これらの要素はそれぞれ異なる扱われ方をしますが、同じ色を使うことを強くお勧めします。3つの要素に共通する、インタラクティブという性質を示す色です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For the sake of easy cognition, if links should be blue, so should buttons: blue comes to mean clickable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>認識しやすくするために、リンクが青であれば、ボタンも青にします。これで青はクリックできると分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•I have qualified the .call-to-action class with the element name a.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•.call-to-actionクラスをaという要素名に限定しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You may have read elsewhere that this is redundant, but it serves an important purpose: it restricts the use of .call-to-action styles to the a element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>これは不必要だという意見をどこかで目にしたことがあるかもしれませんが、.call-to-actionスタイルの使用をa要素に限定するという重要な目的を果たします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By using .call-to-action on a &lt;button&gt;, or an inaccessibly interactive &lt;div&gt; element, the style will not be invoked.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;button&gt;またはアクセシブルではないインタラクティブな&lt;div&gt;要素に.call-to-actionを使用しても、スタイルは呼び出されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This effectively prevents a developer from using the wrong element for the job.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>これで開発者が間違った要素を使うのを効果的に防ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the excellent article “How Our CSS Framework Helps Enforce Accessibility,” Ian McBurnie details a number of similar provisions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>イアン・マクバーニー（Ian McBurnie）は「How Our CSS Framework Helps Enforce Accessibility」（脚注145）という素晴らしい記事の中で、いくつかの同様の対策について詳しく説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Another way that &lt;button&gt;s are differentiated from links is that they don’t have a pointer cursor style.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•&lt;button&gt;はpointerカーソルスタイルを持たないこともリンクと区別される点の1つです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In “Buttons shouldn’t have a hand cursor,” Adam Silver explains why manually adding cursor: pointer to &lt;button&gt; elements is a usability mistake.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>アダム・シルバー（Adam Silver）は「Buttons shouldn’t have a hand cursor」（脚注146）の中で、&lt;button&gt;要素に手動でcursor: pointerを追加するのがユーザビリティ上のミスである理由を説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is not standard behavior to invoke this cursor style on &lt;button&gt;s, and it’s risky to break with long-held convention.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;button&gt;でこのカーソルスタイルを呼び出すのは標準の動作ではなく、長年続いてきた慣習を破るのは危険を伴います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Embrace Standard Behavior</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>標準の動作を利用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A second pitfall can be laid out much more succinctly: if the behavior is to link, use a link’s behavior to do it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>2つ目の落とし穴の説明はもっと簡潔です。動作がリンクの場合は、リンクの動作を使ってそれを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It sounds simple when put like that, but we tend to overengineer interfaces.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>このように言うと単純に聞こえますが、私たちはインターフェイスに過剰な機能を持たせがちです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Client-side JavaScript frameworks especially have a habit of supplanting standard link behavior.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>特にクライアント側のJavaScriptフレームワークは、標準のリンク動作を置き換える傾向があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This might help the framework developers because they like to work exclusively within the realm of JavaScript. It does not help users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>これは、JavaScriptの世界の中だけで作業することを好むフレームワーク開発者にとっては便利かもしれませんが、ユーザーの役には立ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As well as basic linking behavior breaking when JavaScript is not available, even where it is available the experience is lacking: URLs only reveal “javascript:;” on hover and the link cannot be dragged into the browser tab list.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>JavaScriptが利用できないと基本的なリンク動作が機能せず、利用できる場合も体験に不足があります。カーソルを合わせてもURLは“javascript:;”とだけ表示され、リンクをブラウザのタブリストにドラッグすることもできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The right-click context menu intended for links is not invoked either.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>リンク用の右クリックのコンテキストメニューも呼び出されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A browser only knows to provide these things if you use the &lt;a&gt; element in an expected way.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ブラウザは、予期される方法で&lt;a&gt;要素を使っている場合だけ、これらの機能を提供すると理解します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;!-- this is robust and featureful --&gt;
+&lt;a href="/product/naked-man-in-garage" class="call-to-action"&gt;Buy Now&lt;/a&gt;
+
+&lt;!-- this is not robust or featureful --&gt;
+&lt;a href="javascript:;" data-action="naked-man-in-garage" class="call-to-action"&gt;Buy Now&lt;/a&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;!-- 堅牢で機能が豊富 --&gt;
+&lt;a href="/product/naked-man-in-garage" class="call-to- action"&gt;今すぐ購入&lt;/a&gt;
+
+&lt;!-- 堅牢ではなく機能が不十分 --&gt;
+&lt;a href="javascript:;" data-action="naked-man-in- garage" class="call-to-action"&gt;今すぐ購入&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unique, Descriptive Link Text</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>固有の説明的なリンクテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s not forget that each link for each product currently has an identical “Buy Now” label, meaning screen reader aggregated link lists will take the following unhelpful form:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>現状では各商品のリンクに同じ「今すぐ購入」というラベルが付いています。つまり、スクリーンリーダーが集約したリンクリストは次のようになり、役に立ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Buy Now 
+•Buy Now 
+•Buy Now 
+•Buy Now 
+•Buy Now</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•今すぐ購入
+•今すぐ購入
+•今すぐ購入
+•今すぐ購入
+•今すぐ購入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since the title of the product is already present visually and in context via the , we should remedy this with some visually hidden text, placed within the link.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>商品のタイトルはすでにを用いて視覚的にコンテキスト内に提示されているので、リンク内に非表示のテキストを配置し、この問題を修正します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;a href="/product/naked-man-in-garage" class="call-to-action"&gt;Buy &lt;span class="visually-hidden"&gt;Naked Man In Garage Forecourt&lt;/span&gt; Now
+&lt;/a&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;a href="/product/naked-man-in-garage" class="call-to- action"&gt;&lt;span class="visually-hidden"&gt;給油場の裸の男を&lt;/span&gt;今すぐ購入
+&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now the link text makes sense independent of context.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>これでコンテキストから独立してリンクテキストが意味をなすようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The visually-hidden class should, of course, correspond to a screen reader accessible hiding technique, as introduced in “A Blog Post.” Note that having the product name in the link text has an added advantage: it is a well-known technique for improving search engine visibility.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「ブログ記事」で説明したように、もちろんvisually-hiddenクラスはスクリーンリーダーでアクセスできる非表示テクニック（脚注147）に対応しています。リンクテキスト内に商品名を入れる利点は他にもあり、検索エンジンの認知度を向上させる周知のテクニックです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Google recommends using descriptive link text because its crawler can see that (where link text and the destination page’s &lt;title&gt; or  are similar) relevance is likely to be high.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>Googleは説明的なリンクテキスト（脚注148）の使用を推奨しています。Googleのクローラーは、（リンクテキストとリンク先ページの&lt;title&gt;やが類似している場合）適合性が高い可能性があると確認できるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here’s how the overall layout is shaping up:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>全体的なレイアウトはこのようになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The product layout with the image on the left and the details and buy button on the right.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>給油場の裸の男
+ケニー・マルバートン作
+サイズ：90cm × 30cm
+価格：€35.95
+評価：★★★★☆（5つ星中4つ星）
+今すぐ購入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Block-Level Links</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ブロックレベルのリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In HTML5, it has been made acceptable to place block-level content inside link (&lt;a&gt;) elements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>HTML5では、リンク（&lt;a&gt;）要素内にブロックレベルのコンテンツを配置することが可能になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, I could wrap my entire product item’s contents in a link.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>（脚注149）つまり、商品のコンテンツ全体をリンクでラップできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This has the advantage of increasing the clickable area of the item.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>こうすれば項目のクリックできる領域が増えるというメリットがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In our case, this comes at the cost of removing the child link to the photographer’s page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>今回の例では、写真家のページへの子リンクを削除するという代償が伴います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;li&gt;
+&lt;a href="/product/naked-man-in-garage"&gt; 
+Naked Man In Garage Forecourt
+&lt;img src="/images/naked-forecourt-man.jpg" alt="high contrast black and white image of a naked man nonchalantly leaning against a petrol pump." /&gt;
+&lt;dl&gt;
+&lt;dt&gt;Size:&lt;/dt&gt;
+&lt;dd&gt;90cm × 30cm&lt;/dd&gt;
+&lt;dt&gt;Price:&lt;/dt&gt;
+&lt;dd&gt;€35.95&lt;/dd&gt;
+&lt;dt&gt;Rating:&lt;/dt&gt;
+&lt;dd&gt;&lt;img src="/images/rating_4_5.svg" alt=""&gt;4 out of 5 stars&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/a&gt;
+&lt;/li&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;li&gt;
+	&lt;a href="/product/naked-man-in-garage"&gt;
+		給油場の裸の男
+		&lt;img src="/images/naked-forecourt-man.jpg" alt="裸の男性が何食わぬ顔で給油ポンプにもたれかかっている、ハイコントラストの白黒写真。" /&gt;
+		&lt;dl&gt;
+			&lt;dt&gt;サイズ：&lt;/dt&gt;
+			&lt;dd&gt;90cm × 30cm&lt;/dd&gt;
+			&lt;dt&gt;価格：&lt;/dt&gt;
+			&lt;dd&gt;€35.95&lt;/dd&gt;
+			&lt;dt&gt;評価：&lt;/dt&gt;
+			&lt;dd&gt;&lt;img src="/images/rating_4_5.svg" alt=""&gt;5つ星中4つ星&lt;/dd&gt;
+		&lt;/dl&gt;
+	&lt;/a&gt;
+&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now that the markup is not technically nonconforming, there are a number of more important UX concerns to address:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>マークアップは技術的に不適合ではなくなりましたが、UXに関する重要な懸案事項がいくつかあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1. The link doesn’t have a dedicated label, either visually or determinable by assistive technologies.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>1.このリンクには、視覚的な専用ラベルも、支援技術によって特定できる専用ラベルもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The outcome is that users will not know they can interact with the item until they interact with it (by hovering the cursor over it to produce a pointer, say, or by invoking a focus style).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>その結果、ユーザーはその項目に触れてみるまで（その上にカーソルを合わせてポインターを表示させたり、フォーカス状態にするなど）、インタラクションを行えることが分かりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2. This structure produces unexpected behaviors in some screen readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>2.この構造は一部のスクリーンリーダーで予期せぬ動作を引き起こします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, in VoiceOver, when I try to navigate to a product heading using Ctrl + Alt + Cmd + H, the surrounding link is focused and the heading semantics (“Third-level heading”) are not announced.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>たとえば、VoiceOverでは、Ctrl + Alt + Cmd + Hを使用して商品の見出しへ移動しようとすると、周囲のリンクがフォーカスされ、見出しのセマンティクス（「＃＃Third-level heading＃＃」）は読み上げられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3. In all assistive technologies, focusing the link is liable to trigger the readout of all its textual contents, which is rather verbose.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>3.すべての支援技術では、リンクをフォーカスするとそのテキストコンテンツすべての読み上げをトリガーする傾向があり、かなり冗長です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>4. Operators of touch devices will undoubtedly find themselves accidentally following the link while pressing a part of the screen which appears to be uninteractive.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>4.タッチデバイスを操作する人はまず間違いなく、画面内のインタラクティブに見えない部分をうっかり押して、リンクをたどることになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Very annoying.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>とてもイライラします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In general, it’s better to avoid block-level links like this one.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>一般に、この例のようなブロックレベルのリンクは避けた方が良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Just because the specification mandates that something is technically valid markup doesn’t mean it produces an agreeable user experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>仕様上は技術的に正当なマークアップだからといって、快適なユーザー体験をもたらすとは限りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In his article “To Hell With Compliance,” accessibility consultant and trainer Karl Groves sets out why the bureaucratic box-ticking of compliance testing gains us little ground towards successful inclusion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>アクセシビリティコンサルタント兼指導者のカール・グローブス（Karl Groves）は、記事「To Hell With Compliance」（脚注150）の中で、準拠性テストのお役所仕事的な確認手続きでは、優れたインクルージョンを達成する助けにはほとんどならない理由を詳しく述べています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s the bare minimum we can offer.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>それでは最低限のことを満たしているにすぎないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Complaints toward online services are almost always from people unable to actually use an interface, but a 100%-compliant interface can still be entirely unusable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>オンラインサービスに対する苦情は、必ずと言っていいほどインターフェイスを実際に使うことができない人々から寄せられますが、100％準拠しているインターフェイスでもまったく使いものにならないことはあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By the same token, an interface with the odd superficial error may be so simple, well structured and clear that it’s still a pleasure to use.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>同様に、変則的なケアレスミスのあるインターフェイスでも、とてもシンプルで十分に構造化された分かりやすいものであれば快適に使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Because so many accessibility errors relating to assistive technologies are markup errors, and because markup errors are so easy to identify, we’ve grown up in an accessibility remediation culture that is assistive technology obsessed and focused on discrete code errors.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>支援技術に関連した非常に多くのアクセシビリティのエラーは、マークアップのエラーです。そしてマークアップのエラーはとても簡単に特定できるので、私たちは個々のコードエラーに神経を尖らせた支援技術という、アクセシビリティ修復文化の中で育ってきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inclusive design has a different take.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>インクルーシブデザインはそれとは異なる見方や考え方をします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It acknowledges the importance of markup in making semantic, robust interfaces, but it is the user’s ability to actually get things done that it makes the object.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>セマンティックで堅牢なインターフェイスの作成におけるマークアップの重要性は認識しながらも、目標はあくまでもユーザーが実際に目的を実行できるようにすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The quality of the markup is measured by what it can offer in terms of UX.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>マークアップの品質は、UXの観点で何が提供できるかによって判断されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SERPs</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>SERP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though our product pattern is now more than satisfactory, we need to accept that our own interface is not the only way our customers will find and consume our product information.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>商品のパターンは十分に満足できるものになりましたが、このサイトのインターフェイス以外にも、顧客が商品の情報を探したり利用したりする方法があることを理解する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A well-indexed site will also expose products in search engine results pages, or SERPs.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>また、適切にインデックス化されたサイトは、SERP（検索エンジンの検索結果ページ）に商品が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The advantage of using SERPs like Google’s is that no matter the content you are searching, the interface remains the same.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>GoogleなどのSERPを使うメリットは、どんなコンテンツを検索していても、インターフェイスが同じだということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notably, some assistive technology users rely heavily on Google Search because it is a prelearned interface.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>特に支援技術ユーザーの中には、使い慣れたインターフェイスだという理由で、Google検索に大きく依存している人もいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A common tactic is to use the site: prefix to return results confined to a chosen website:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>一般的な方法では、site:という接頭辞を使い、選択したWebサイトに限定して検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>site:shop.the-photography-site.com [search term] </seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>site:shop.the-photography-site.com [検索語句]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We don’t have control over the aesthetic with which Google lists our content. But we do have control of the wording.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>Googleがこのサイトのコンテンツをリストするときの見た目の美しさをコントロールすることはできませんが、言葉はできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, the listed page’s &lt;title&gt; doubles as the linked  element of an individual search result.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>たとえば、リストされたページの&lt;title&gt;は、個々の検索結果のリンクされた要素を兼ねます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All the more reason to write descriptive, easily understood &lt;title&gt; text as described in “The Document.” In fact, well-written &lt;title&gt; text can elevate your search rankings, but avoid spammy &lt;title&gt;s.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>「ドキュメント」の章で説明したように、説明的で分かりやすい&lt;title&gt;テキストを書くべき理由はここにもあります。実際、よく練られた&lt;title&gt;テキストは検索順位を上げることができますが、スパムのような&lt;title&gt;は避けましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only will Google penalize you, but such &lt;title&gt;s tend to constitute unreadable, and therefore uninclusive, content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>（脚注151）Googleにペナルティを科せられるだけでなく、そうした&lt;title&gt;は読みにくいコンテンツを構成する傾向があるので、インクルーシブとは言えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since we are dealing with products, we have an opportunity to enhance our product listing using structured data.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>このサイトでは商品を扱っているので、構造化データ（脚注152）を使用して商品のリスティングを向上できる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In brief, structured data increases the meta information parsable by machines like Googlebot.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>簡単に言うと、構造化データを使用すると、Googlebotなどのマシンが構文解析できるメタ情報が増えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s a little like WAI-ARIA, but for archiving rather than assistive technology support.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>少しWAI-ARIAに似ていますが、支援技術のサポートではなく、アーカイブのためのものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Structured data affects the user directly since the search listing will be enhanced to include more detailed information, such as the price and rating of the product.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>検索結果表示が強化されて、より詳細な情報（商品の価格や評価など）が含まれるようになるため、構造化データはユーザーに直接的な影響を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By bringing this information to search engine results, we enhance the experience of those who choose to browse our content in this context.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>これらの情報を検索エンジンの結果に盛り込めば、こうした環境でコンテンツを閲覧するユーザーの体験を向上させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using the Product Vocabulary</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>Productボキャブラリーの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Structured data is divided into vocabularies which apply to different varieties of content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>構造化データは、さまざまなコンテンツに当てはまるボキャブラリーに分類されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For our purposes there is a product vocabulary, defining product-specific properties, to be found at http://schema.org/Product.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>今回のサイト用には、製品固有のプロパティを定義するProductボキャブラリーがあり、http://schema.org/Productで確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The best place to include structured data for an individual product is at its permalink page: the page “Buy Now” will take the user to see greater detail about the product and choose purchasing options.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>個々の商品の構造化データを含めるのに最適な場所は、パーマリンクページ、すなわち購入ボタンを押したときに移動し、ユーザーが商品の詳細を確認したり、購入方法を選択できるページです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At this page, the markup will use a template which might look like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>このページで、マークアップにだいたい以下のようなテンプレートを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;main id="main"&gt;
+
+Naked Man In Garage Forecourt
+&lt;a href="/artist/kenny-mulbarton"&gt;by Kenny Mulbarton&lt;/a&gt;
+
+&lt;img src="/images/naked-forecourt-man.jpg" alt="High-contrast black and white image of a naked man nonchalantly leaning against a petrol pump." /&gt;
+&lt;dl&gt;
+&lt;dt&gt;Size:&lt;/dt&gt;
+&lt;dd&gt;90cm × 30cm&lt;/dd&gt;
+&lt;dt&gt;Price:&lt;/dt&gt;
+&lt;dd&gt;€35.95&lt;/dd&gt;
+&lt;dt&gt;Rating:&lt;/dt&gt;
+&lt;dd&gt;&lt;img src="/images/rating_4_5.svg" alt=""&gt;4 out of 5 stars&lt;/dd&gt;
+&lt;/dl&gt;
+Choose a payment method
+&lt;!-- purchasing widget here --&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;main id="main"&gt;
+	
+		給油場の裸の男
+		&lt;a href="/artist/kenny-mulbarton"&gt;ケニー・マルバートン作&lt;/a&gt;
+	
+	&lt;img src="/images/naked-forecourt-man.jpg" alt="裸の男性が何食わぬ顔で給油ポンプにもたれかかっている、ハイコントラストの白黒写真。" /&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;サイズ：&lt;/dt&gt;
+		&lt;dd&gt;90cm × 30cm&lt;/dd&gt;
+		&lt;dt&gt;価格：&lt;/dt&gt;
+		&lt;dd&gt;€35.95&lt;/dd&gt;
+		&lt;dt&gt;評価：&lt;/dt&gt;
+		&lt;dd&gt;&lt;img src="/images/rating_4_5.svg" alt=""&gt;5つ星中4つ星&lt;/dd&gt;
+	&lt;/dl&gt;
+	支払方法の選択
+	&lt;!-- ここに購買ウィジェット --&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now, let’s adapt the plain markup to include the structured data.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>では、プレーンなマークアップに手を加え、構造化データを含めてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I am basing this on an example provided by Google itselfg using microdata (one version of structured data).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ここで紹介する方法は、Google自身が提供している、マイクロデータ（構造化データの一種）を使用する例（脚注153）に基づいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;main id="main" itemscope itemtype="http://schema.org/Product"&gt;
+
+&lt;span itemprop="name"&gt;Naked Man In Garage Forecourt&lt;/span&gt;
+&lt;a href="/artist/kenny-mulbarton"&gt;by Kenny Mulbarton&lt;/a&gt;
+
+&lt;img itemprop="image" src="/images/naked-forecourt-man.jpg" alt="High-contrast black and white image of a naked man nonchalantly leaning against a petrol pump." /&gt;
+&lt;dl&gt;
+&lt;dt&gt;Size:&lt;/dt&gt;
+&lt;dd&gt;90cm × 30cm&lt;/dd&gt;
+&lt;dd&gt;
+&lt;span itemprop="offers" itemscope  itemtype = "http://schema.org/Offer"&gt;
+&lt;meta itemprop="priceCurrency" content="EUR" /&gt;
+ €&lt;span itemprop="price"&gt;35.95&lt;/span&gt;
+&lt;/span&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Rating:&lt;/dt&gt;
+&lt;dd&gt;
+&lt;img src="/images/rating_4_5.svg" alt=""&gt;
+&lt;span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"&gt;
+&lt;span itemprop="ratingValue"&gt;4&lt;/span&gt; stars, based on &lt;span itemprop="reviewCount"&gt;13 reviews&lt;/span&gt;
+&lt;/span&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+Choose a payment method
+&lt;!-- purchasing widget here --&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;main id="main" itemscope itemtype="http://schema.org/ Product"&gt;
+	
+		&lt;span itemprop="name"&gt;給油場の裸の男&lt;/span&gt;
+		&lt;a href="/artist/kenny-mulbarton"&gt;ケニー・マルバートン作&lt;/a&gt;
+	
+	&lt;img itemprop="image" src="/images/naked-forecourt-man.jpg" alt="裸の男性が何食わぬ顔で給油ポンプにもたれかかっている、ハイコントラストの白黒写真。" /&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;サイズ：&lt;/dt&gt;
+		&lt;dd&gt;90cm × 30cm&lt;/dd&gt;
+		&lt;dd&gt;
+			&lt;span itemprop="offers" itemscope itemtype="http:// schema.org/Offer"&gt;
+				&lt;meta itemprop="priceCurrency" content="EUR" /&gt;
+				€&lt;span itemprop="price"&gt;35.95&lt;/span&gt;
+			&lt;/span&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;評価：&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;img src="/images/rating_4_5.svg" alt=""&gt;
+			&lt;span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"&gt;
+				&lt;span itemprop="ratingValue"&gt;4&lt;/span&gt;つ星、レビュー数&lt;span itemprop="reviewCount"&gt;13&lt;/span&gt;
+			&lt;/span&gt;
+		&lt;/dd&gt;
+	&lt;/dl&gt;
+	支払方法の選択
+	&lt;!-- ここに購買ウィジェット --&gt;
+&lt;/main&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>注意点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The itemscope Boolean attribute and itemtype reference are placed on the wrapping &lt;main&gt; element to define the context for our product data.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•itemscope Boolean属性およびitemtypeの参照は&lt;main&gt;要素でラップして配置し、商品データのコンテキストを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Additional &lt;span&gt;s are used to define the properties where necessary.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•必要に応じて追加の&lt;span&gt;を使用し、プロパティを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The name of the product is defined by wrapping the product’s title, “Naked Man In Garage Forecourt,” in a &lt;span&gt; bearing itemprop="name".</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>商品の名前は、商品のタイトル「給油場の裸の男」を、itemprop="name"を含む&lt;span&gt;でラップして定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The rating and price (‘offer’) are defined using the nested “Offer” and “Aggregate Rating” vocabularies.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•評価と価格は、それぞれネストされたボキャブラリー「AggregateRating」と「Offer」を使って定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Some properties are not based on displayed content (text nodes), such as the three-letter ISO currency of “EUR.” Instead, we supply this information using a &lt;meta&gt; tag.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•「EUR」という3文字のISO通貨コードなど、一部のプロパティは表示されるコンテンツ（テキストノード）に基づいていません。代わりに、&lt;meta&gt;タグを使ってこの情報を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A full list of ISO currency codes is available on Wikipedia.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>ISO通貨コードの完全なリストはWikipedia（脚注154）で確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•You can test your structured data with Google’s tool to make sure the properties are valid and applicable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•Googleのツールで構造化データ（脚注155）をテストし、プロパティが有効および適切であることを確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In Google’s results pages, the final product (no pun intended) will look something like the following:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>Googleの結果ページでは、最終生成物は次のような感じになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A google search engine result for the photograph, displaying rating and price information.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>給油場の裸の男
+☆☆☆☆レビュー数17 - €35.95
+裸の男性が何食わぬ顔で給油ポンプにもたれかかっている、ハイコントラストの白黒写真。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fortunately, Google has ensured that the additional structured information is accessible to our potential visitors.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>幸いなことに、Googleは、追加の構造化された情報を、潜在的な閲覧者にとって利用しやすいものにしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, they use a custom &lt;g-review-stars&gt; element which incorporates an aria-label to spell out the rating.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>たとえば、aria-labelを組み込むカスタムの&lt;g-review-stars&gt;要素を使い、評価を言葉で表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;g-review-stars&gt;
+&lt;span class="_ayg" aria-label="Rated 4.0 out of 5"&gt;
+&lt;span style="width:66px"&gt;&lt;/span&gt;
+&lt;/span&gt;
+&lt;/g-review-stars&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>&lt;g-review-stars&gt;
+	&lt;span class="_ayg" aria-label="5点満点中4点の評価"&gt;
+		&lt;span style="width:66px"&gt;&lt;/span&gt;
+	&lt;/span&gt;
+&lt;/g-review-stars&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>まとめ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This pattern constitutes just one way to go about designing and coding a product list for a maximally inclusive experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>このパターンは、最大限にインクルーシブな体験を実現するために、商品リストのデザインおよびコード化を行う方法の1つにすぎません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As with all the patterns herein, it’s really just an excuse to hone our inclusive design chops.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>本書で取り上げるすべてのパターンと同様、インクルーシブデザインのセンスに磨きをかけるための単なる一例です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As in previous patterns, the organization and structure of content is paramount.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>これまでに紹介したパターンもそうでしたが、最も重要なのはコンテンツの編成と構造です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, this was the first time we looked deeply into image accessibility, from both the perspectives of alternative text composition and performance.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>しかし、本書で代替テキストの構成およびパフォーマンスという観点から画像のアクセシビリティをじっくり検討したのはこれが初めてです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In catering to blind consumers, those who cannot afford generous data contracts, and anyone accessing your content from outside your interface, it was a chance to really push the limits of inclusive design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>目の不自由な購入者、高額のデータ契約を結べない人、サイトの外からコンテンツにアクセスする人のニーズに応えつつ、インクルーシブデザインの限界を押し広げる良い機会でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Things to Avoid</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>避けるべきこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Inconsistently composed or unoptimized product images.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•構成が一貫していない、または最適化されていない商品画像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Unhelpful or misleading alternative text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•役に立たない、または誤解を与える代替テキスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Block-level links containing lots of text content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•多くのテキストコンテンツを含むブロックレベルのリンク。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Links to product permalinks without the product name in the link text. —</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170807T062252Z">
+        <seg>•リンクテキスト内に製品名がない、商品のパーマリンクへのリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.http://universaldesign.ie/What-is-Universal-Design/Case-studies-and-examples/3-case-studies-on-UD/#oxo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2.https://twitter.com/aardrian/status/388733408576159744</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3.http://www.iheni.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>4.https://www.smashingmagazine.com/2015/02/bbc-iplayer-accessibility-case-study/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>5.http://webaim.org/techniques/css/#sep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>6.http://www.opera.com/docs/usercss/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>7.http://www.goodreads.com/book/show/20640233-a-web-for-everyone 8.http://www.handcoding.com/presentations/plaina11y/#cover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>9.http://www.noupe.com/design/10-beginner-tips-for-unique-product-photography-79099.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>10.https://en.wikipedia.org/wiki/Cognitive_load</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>11.https://www.w3.org/WAI/tutorials/images/decision-tree/ 12.https://whatdoesmysitecost.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>13.https://imageoptim.com/mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>14.http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>15.https://medium.com/simple-human/buttons-shouldnt-have-a-hand-cursor-b11e99ca374b#.qoxbgwz15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>16.http://snook.ca/archives/html_and_css/hiding-content-for-accessibility</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>17.https://webmasters.googleblog.com/2008/10/importance-of-link-architecture.html 18.http://html5doctor.com/block-level-links-in-html-5/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>19.http://www.karlgroves.com/2015/01/06/to-hell-with-compliance/ 20.http://www.hobo-web.co.uk/title-tags/#spammy-title-tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>21.https://developers.google.com/structured-data/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>22.http://schema.org/Product</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>23.https://developers.google.com/structured-data/rich-snippets/products#about_product_offers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>24.https://en.wikipedia.org/wiki/ISO_4217#Active_codes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>25.https://developers.google.com/structured-data/testing-tool/</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
