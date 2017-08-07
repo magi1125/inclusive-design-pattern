@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2852,11 +2852,12 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 受動態を調整。</note>
       <tuv lang="EN-US">
         <seg>As is often the case in making keyboard-inclusive JavaScript interfaces, explicit focus management must be employed to move the keyboard user to the intended location.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T163234Z" creationid="rikiha" creationdate="20170805T163234Z">
-        <seg>キーボード対応のJavaScriptインターフェイスを作るときにはよくあることですが、明示的なフォーカス管理を用いてキーボードユーザーを目的の場所に移動させなければなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170807T132637Z" creationid="rikiha" creationdate="20170805T163234Z">
+        <seg>JavaScriptでキーボード対応のインターフェイスを作るときにはよくあることですが、明示的にフォーカスを管理して目的の場所に移動できるようにしなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
