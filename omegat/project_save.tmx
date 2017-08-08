@@ -6593,7 +6593,9 @@ metaについては補足が必要か?
       <note>(伊原) JavaScriptでJavaScriptを、というのが（当たり前すぎて）意味不明だったので、単にJSを修正するという形に。
 
 (太田) JavaScriptでJavaScriptを修正する、はヘイドンジョークでしょう。普通にそのままリンクを使えばいいものを、JavaScriptで小細工するから、JavaScriptで修正しなければならなくなる、という皮肉を込めているのだと思います。
-原文の雰囲気を生かしつつ、分かりにくいようであれば訳注でフォローするようにしたいです。</note>
+原文の雰囲気を生かしつつ、分かりにくいようであれば訳注でフォローするようにしたいです。
+
+(伊原) 了解です、OK.</note>
       <tuv lang="EN-US">
         <seg>In other words, we need to use JavaScript to fix the JavaScript.</seg>
       </tuv>
@@ -8391,7 +8393,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
 (太田) 「まともに」は補いすぎかも (まともでなければ動けるのか、という疑問)。
 ニュアンス的には、もっと抽象的比喩的表現であるように思います。「立ち往生する」くらいでどうでしょうか。
 また、becomeなので「することになります」としてみました。
-</note>
+
+(伊原) OK. 立ち往生とするかはちょっと迷ったところでした。</note>
       <tuv lang="EN-US">
         <seg>Keyboard users become stranded.</seg>
       </tuv>
@@ -8598,12 +8601,14 @@ manageは管理で良いような。
     <tu>
       <note>(伊原) この訳で良いか要検討。対応法の話なので、ちょっと補ってみました。
 
-(太田) クリックジャッキングはカタカナでそのまま書いたりするのでそのままもありか?</note>
+(太田) クリックジャッキングはカタカナでそのまま書いたりするのでそのままもありか?
+
+(伊原) なるほど。そのままにしてみました。</note>
       <tuv lang="EN-US">
         <seg>Linkjacking</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170808T011317Z" creationid="rikiha" creationdate="20170805T163156Z">
-        <seg>リンクを乗っ取るときは</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170808T125218Z" creationid="rikiha" creationdate="20170805T163156Z">
+        <seg>リンクジャッキング</seg>
       </tuv>
     </tu>
     <tu>
@@ -9468,7 +9473,9 @@ the URLは「このページのURL」としてみました。
 
 (太田) 「奪った本人」は少し強調しすぎというか、責任の所在を話しているかのような印象を受けました。誰が実装するかはどうでも良い話なので、ぼやかしてもよさそう。
 emulateはそのままエミュレートでも良いのかも。少し上で「エミュレート」ととしている箇所があります。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Now that standard behavior has been usurped, the usurper needs to emulate it for us.</seg>
       </tuv>
@@ -10990,7 +10997,9 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
     <tu>
       <note>(伊原) 語順を調整。
 
-(太田) enhanceのニュアンスを出したい気もするが難しいか。</note>
+(太田) enhanceのニュアンスを出したい気もするが難しいか。
+
+(伊原) パッと移動するのではなくスムーズスクロールするように拡張している…みたいに書けなくもない気はしますが、ちょっと長ったらしくなる感じもします。次の段落でも触れてるし、いいかなと。</note>
       <tuv lang="EN-US">
         <seg>Some implementations of in-page linking are enhanced by JavaScript to provide a smooth scrolling effect as the targeted section comes into view.</seg>
       </tuv>
@@ -12215,7 +12224,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
     <tu>
       <note>(伊原) 原文に沿った形に調整。
 
-(太田) わざとリンクが動かないようにしているのですから、もはやというのもすこし変な気はします (原文 no longar なので訳としては合っていますが)。ちょっと調整してみました。</note>
+(太田) わざとリンクが動かないようにしているのですから、もはやというのもすこし変な気はします (原文 no longar なので訳としては合っていますが)。ちょっと調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The behavior of &lt;g1&gt;linking&lt;/g1&gt; is effectively replaced with &lt;g2&gt;scrolling&lt;/g2&gt; and sequential focus navigation no longer takes place.</seg>
       </tuv>
