@@ -7032,6 +7032,14 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In the following example, the text node “Contents” (of the &lt;g2&gt;&lt;h2&gt;&lt;/g2&gt;) becomes the label of the region using its &lt;g3&gt;id&lt;/g3&gt; as the &lt;g4&gt;aria-labelledby&lt;/g4&gt; value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T095630Z" creationid="yoota" creationdate="20170808T095630Z">
+        <seg>次の例では、idがaria-labelledbyの値として指定されているテキストノード「目次」（&lt;g2&gt;&lt;h2&gt;&lt;/g2&gt;）がこの領域のラベルになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) OK
 
 (伊原) OK</note>
