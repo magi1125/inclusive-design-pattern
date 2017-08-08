@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4042,7 +4042,9 @@ https://html.spec.whatwg.org/multipage/interaction.html#sequential-focus-navigat
 
 # なんか必要以上に大げさなことを言っているように読めるので、「シーケンシャルフォーカスナビゲーション」は日本語にするか、訳注を入れるかしたほうがいいかもしれません。
 もんどさん訳してなかった。 orz
-https://momdo.github.io/html/interaction.html#sequential-focus-navigation</note>
+https://momdo.github.io/html/interaction.html#sequential-focus-navigation
+
+(伊原) OK。大げさ感は確かに。この節のタイトルと合わせて検討ですかね。</note>
       <tuv lang="EN-US">
         <seg>Despite these targets (usually &lt;g1&gt;&lt;section&gt;&lt;/g1&gt;s or headings) not typically being focusable elements, browsers employ &lt;g2&gt;sequential focus navigation&lt;/g2&gt; whereby the first focusable element within or after the target is made the &lt;g3&gt;next&lt;/g3&gt; focusable element in sequence.</seg>
       </tuv>
