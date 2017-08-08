@@ -8324,6 +8324,16 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ラベル付けで良いのか。後で検討</note>
+      <tuv lang="EN-US">
+        <seg>Labeling Navigation Landmarks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T093759Z" creationid="yoota" creationdate="20170808T093759Z">
+        <seg>ナビゲーションランドマークのラベル付け</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) レイアウトのエラーというのは日本語として変な感じがします。直訳すると、「レイアウトとインタラクションが誤りやすい予測できない状態になりうる」ということで、ひっくるめて「不安定になる」くらいかなと思います。
 
 (伊原) LGTM. 「の動作」はトリでもいいかも？とは思いました。
