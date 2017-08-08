@@ -2315,7 +2315,10 @@ divergeは分岐する、分かれる、それるの意味。
       <note>(伊原) コードに沿って補いました。
 
 (太田) ここでは animate メソッドとは言っていないように思います (次の文では言っていますが)。animateは元々「操る」という意味で、animating &lt;g1&gt;scrollTop&lt;/g1&gt;  は scrollTop を操る (変化させる) と言っているように思います。
-調整してみました。たぶんこういうことだと思いますがどうでしょうか。</note>
+調整してみました。たぶんこういうことだと思いますがどうでしょうか。
+
+(伊原) なるほど。OKです。
+</note>
       <tuv lang="EN-US">
         <seg>A typical implementation is achieved by animating &lt;g1&gt;scrollTop&lt;/g1&gt; using jQuery.</seg>
       </tuv>
@@ -2892,7 +2895,9 @@ hueは正確には色相ですが、まあ色で良いかなと。
     <tu>
       <note>(伊原) 受動態を調整。keyboard-inclusiveがキーボード対応でよいかどうか。
 
-(太田) 語順を入れ替えました。</note>
+(太田) 語順を入れ替えました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>As is often the case in making keyboard-inclusive JavaScript interfaces, explicit focus management must be employed to move the keyboard user to the intended location.</seg>
       </tuv>
