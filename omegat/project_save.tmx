@@ -9230,7 +9230,7 @@ resulting inも落ちているような。「結果として」くらいでし�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) こういうこと？
+      <note> (伊原) こういうこと？
 
 ところで、window.location.hash = target.id || target.name;をJQueryのコールバックで呼ぶと、ブラウザの戻るボタンを押しても、押す前の位置に戻らなくなるようです（Chromeで試して再現）。
 http://chibinowa.net/note/js/smoothscroll.html
