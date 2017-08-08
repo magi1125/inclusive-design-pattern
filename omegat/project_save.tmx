@@ -2376,6 +2376,17 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+日本語のスクリーンリーダーでランドマーク一覧がどう表示されるか要確認。
+</note>
+      <tuv lang="EN-US">
+        <seg>Accordingly, two navigation landmarks would be listed as:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T095514Z" creationid="yoota" creationdate="20170808T095514Z">
+        <seg>したがって、2つのナビゲーションランドマークは次のようにリストされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Acknowledging the importance of good copy design will form a part of many patterns in this book.</seg>
@@ -5301,6 +5312,14 @@ http://www.dictionary.com/browse/radical
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170622T110934Z" creationid="yoota" creationdate="20170511T063951Z">
         <seg>しかし、2章「ドキュメント全体」で説明した通り、通常は、ピクセルなどの固定の単位の使用は推奨されません。読みやすい比率を維持するのが難しくなるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, as you may remember from “A Blog Post,” screen readers aggregate headings, links and landmarks into lists, providing tables of contents of their own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T095443Z" creationid="yoota" creationdate="20170808T095443Z">
+        <seg>また一方で、「ブログ記事」で学んだように、スクリーンリーダーでは見出し、リンク、ランドマークをリストにまとめて独自の目次が作られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8833,6 +8852,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Never fear: thanks to WAI-ARIA’s global &lt;g1&gt;aria-labelledby&lt;/g1&gt; relationship attribute, we can provide an auxiliary label via the existing heading element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T095525Z" creationid="yoota" creationdate="20170808T095525Z">
+        <seg>大丈夫、心配はいりません。WAI-ARIAのグローバルなaria-labelledbyリレーションシップ属性を使えば、既存の見出し要素を用いて補助的なラベルを付けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 若干誤訳っぽいです。支援技術を使うのと同じように、さまざまな設定ができる、という話かと。
 
 (伊原) LGTM
@@ -10827,6 +10854,14 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170725T072330Z" creationid="rikiha" creationdate="20170725T021508Z">
         <seg>馴染みがあることを経験している限りは、さほど努力しなくても理解できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So that headings and links make sense decontextualized in such a fashion, you need to write autonomous, self-describing labels.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T095451Z" creationid="yoota" creationdate="20170808T095451Z">
+        <seg>その際、見出しとリンクがどんな状況でも意味をなすように、それだけで内容が分かるようなラベルを付ける必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14746,6 +14781,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T103115Z" creationid="yoota" creationdate="20170614T080909Z">
         <seg>グリッドシステムとは異なり、フローシステムでは、見出し、段落、リスト、画像、ビデオ、といった次々現れるフロー要素どうしの関係性を、ひとつのカラムだけで表現します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike headings and links, landmarks do not constitute their own labels; they are simply identified by their role.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T095505Z" creationid="yoota" creationdate="20170808T095505Z">
+        <seg>見出しやリンクと違って、ランドマークにはラベルは付きません。ロールだけで識別されます。</seg>
       </tuv>
     </tu>
     <tu>
