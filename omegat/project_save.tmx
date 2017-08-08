@@ -6525,9 +6525,7 @@ metaについては補足が必要か?
     <tu>
       <note>(伊原) JavaScriptでJavaScriptを、というのが（当たり前すぎて）意味不明だったので、単にJSを修正するという形に。
 
-(太田) JavaScriptでJavaScriptを修正する、はヘイドンジョークでしょうね。
-(何も考えずに作られたショボイ) JavaScriptを、(インクルーシブな) JavaScriptを使って修正しなければならない、ということを、毒をもって毒を制する的な言い方で表現したものと思います。
-普通にそのままリンクを使えばいいものを、JavaScriptで小細工するから、JavaScriptで修正しなければならなくなる、という皮肉でしょう。
+(太田) JavaScriptでJavaScriptを修正する、はヘイドンジョークでしょう。普通にそのままリンクを使えばいいものを、JavaScriptで小細工するから、JavaScriptで修正しなければならなくなる、という皮肉を込めているのだと思います。
 原文の雰囲気を生かしつつ、分かりにくいようであれば訳注でフォローするようにしたいです。</note>
       <tuv lang="EN-US">
         <seg>In other words, we need to use JavaScript to fix the JavaScript.</seg>
