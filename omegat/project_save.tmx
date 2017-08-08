@@ -1214,6 +1214,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;When a screen reader user focuses a link inside the navigation landmark, the label is added to the contextual information announced.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T100234Z" creationid="yoota" creationdate="20170808T100234Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;スクリーンリーダーユーザーがナビゲーションランドマーク内のリンクにフォーカスすると、状況によって変わる情報にプラスしてラベルが読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「部分的なラベル」は少し分かりにくいかも。
 
@@ -3556,6 +3564,14 @@ buildingがどこにくっついているのかよくわかりません。元訳
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170501T144353Z" creationid="yoota" creationdate="20170420T100403Z">
         <seg>コンテンツブレイクポイントを採用すれば、手作業でテストできないものも含んだ非常に幅広いデバイスで、レイアウトをより確実に成立させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By focusing the “Our history” link in the previous example, “&lt;g2&gt;contents&lt;/g2&gt; navigation landmark, list, one of four items, our history, link” (or similar) would be announced.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T100247Z" creationid="yoota" creationdate="20170808T100247Z">
+        <seg>たとえば前の例の「沿革」のリンクにフォーカスすると、「＃＃contents navigation landmark, list, one of four items, our history, link＃＃」などと読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6339,6 +6355,14 @@ cognitive cacheは経験キャッシュとしてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T052705Z" creationid="yoota" creationdate="20170511T052337Z">
         <seg>デスクトップパブリッシングでは、ハイフネーションでこの問題を軽減できます。長い単語を分割し、より均等に再割り付けするのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In either implementation, there are two upshots:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T100214Z" creationid="yoota" creationdate="20170808T100214Z">
+        <seg>どちらの方法でも結果は次の2通りになります。</seg>
       </tuv>
     </tu>
     <tu>
