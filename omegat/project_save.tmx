@@ -8300,12 +8300,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 困ります➞動けなくなります。</note>
+      <note>(伊原) 困ります➞動けなくなります。
+
+(太田) </note>
       <tuv lang="EN-US">
         <seg>Keyboard users become stranded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T224718Z" creationid="rikiha" creationdate="20170805T163219Z">
-        <seg>これではキーボードユーザーがまともに動けなくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T073202Z" creationid="rikiha" creationdate="20170805T163219Z">
+        <seg>キーボードユーザーは立ち往生してしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12071,8 +12073,8 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       <tuv lang="EN-US">
         <seg>The behavior of &lt;g1&gt;linking&lt;/g1&gt; is effectively replaced with &lt;g2&gt;scrolling&lt;/g2&gt; and sequential focus navigation no longer takes place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T073021Z" creationid="rikiha" creationdate="20170805T163216Z">
-        <seg>&lt;g1&gt;リンク&lt;/g1&gt;のふるまいが&lt;g2&gt;スクロール&lt;/g2&gt;に置き換えられると、もうシーケンシャルフォーカスナビゲーションは行われなくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T073029Z" creationid="rikiha" creationdate="20170805T163216Z">
+        <seg>&lt;g1&gt;リンク&lt;/g1&gt;のふるまいが&lt;g2&gt;スクロール&lt;/g2&gt;に置き換えられると、シーケンシャルフォーカスナビゲーションは行われなくなります。</seg>
       </tuv>
     </tu>
     <tu>
