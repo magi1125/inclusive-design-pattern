@@ -7114,6 +7114,14 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In which case, the &lt;g1&gt;aria-label&lt;/g1&gt; attribute can be attached directly to the landmark instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T095705Z" creationid="yoota" creationdate="20170808T095705Z">
+        <seg>代わりにランドマークに直接&lt;g1&gt;aria-label&lt;/g1&gt;属性をアタッチすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)  このような→そのような</note>
       <tuv lang="EN-US">
         <seg>In which case, the following solution could work:</seg>
@@ -14146,6 +14154,14 @@ correctedは修正された、ですが若干違和感があります。訳す�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T030324Z" creationid="yoota" creationdate="20170512T030300Z">
         <seg>サポートしていない組み合わせでは、得られる情報量は少なくなりますが、破綻するわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though a heading is recommended to support screen reader heading navigation, and to add lexical clarity for users of all kinds, it’s not obligatory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T095655Z" creationid="yoota" creationdate="20170808T095655Z">
+        <seg>スクリーンリーダーの見出しナビゲーションに対応するためにも、またあらゆるタイプのユーザーに分かりやすく表記するという意味でも、見出しはお勧めですが、必須ではありません。</seg>
       </tuv>
     </tu>
     <tu>
