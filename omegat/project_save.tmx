@@ -14443,7 +14443,7 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
     </tu>
     <tu>
       <note>(太田)
-ここの complementary はroleか? あとで検討
+ここの complementary はroleではないにしてもroleを意識しているはずで、mainに属さない的な意味なのではないか。
 http://www.w3.org/TR/wai-aria/roles#complementary
 </note>
       <tuv lang="EN-US">
@@ -14881,6 +14881,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T152225Z" creationid="yoota" creationdate="20170426T092511Z">
         <seg>ビューポートを基準とする単位を使えば、ビューポートの高さ（&lt;g1&gt;vh&lt;/g1&gt;）と幅（&lt;g2&gt;vw&lt;/g2&gt;）に合わせてテキストのサイズを調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visually speaking this is trivial, since their style and placement demarcate them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T094957Z" creationid="yoota" creationdate="20170808T094957Z">
+        <seg>目で見分けるのは簡単です。スタイルや配置で判断できます。</seg>
       </tuv>
     </tu>
     <tu>
