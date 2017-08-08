@@ -2290,7 +2290,7 @@ divergeは分岐する、分かれる、それるの意味。
     <tu>
       <note>(伊原) コードに沿って補いました。
 
-(太田) ここでは animate メソッドとは言っていないように思います (次の文では言っていますが)。animateは元々「操る」という意味で、animating &lt;g1&gt;scrollTop&lt;/g1&gt;  は scrollTop の値を操る (変化させる) と言っているように思います。
+(太田) ここでは animate メソッドとは言っていないように思います (次の文では言っていますが)。animateは元々「操る」という意味で、animating &lt;g1&gt;scrollTop&lt;/g1&gt;  は scrollTop を操る (変化させる) と言っているように思います。
 調整してみました。たぶんこういうことだと思いますがどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>A typical implementation is achieved by animating &lt;g1&gt;scrollTop&lt;/g1&gt; using jQuery.</seg>
@@ -9267,7 +9267,9 @@ resulting inも落ちているような。「結果として」くらいでし�
 
 ところで、window.location.hash = target.id || target.name;をJQueryのコールバックで呼ぶと、ブラウザの戻るボタンを押しても、押す前の位置に戻らなくなるようです（Chromeで試して再現）。
 http://chibinowa.net/note/js/smoothscroll.html
-pushStateのほうがモダンな感じがしますが、どうでしょう。</note>
+pushStateのほうがモダンな感じがしますが、どうでしょう。
+
+(太田) 良くある問題ですね。訳注ですかね。</note>
       <tuv lang="EN-US">
         <seg>Note the line starting &lt;g1&gt;window.location.hash&lt;/g1&gt; which updates the URL after focus with the hash fragment.</seg>
       </tuv>
