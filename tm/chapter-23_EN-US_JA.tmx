@@ -1,0 +1,2688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Filter Widget | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>9章：フィルターウィジェット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the previous chapter we went commercial and looked at a pattern for displaying products.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>前章では商業的な面に目を向け、商品を提示するパターンを学びました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>How we marked up individual product components and how we grouped them together were both pertinent to inclusive design.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>個々の商品コンテンツのマークアップ方法と、それらをグループ化する方法は、どちらもインクルーシブデザインに即するものでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We even made sure they would be rich with accessible information outside of our own interface, as search engine results.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>さらに、検索エンジンの検索結果といった、自身のサイトのインターフェイス以外でもアクセシブルな情報が十分に含まれるよう配慮しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What we’ve yet to address is providing the tools for users to reorganize and sort lists of content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>まだ取り上げていないのは、ユーザーがコンテンツリストの再編成や並び替えを行えるようにするツールの提供です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Filtering tools are important because they offer an additional dimension of control over search, facilitating users’ ability to prioritize the information they’re viewing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>フィルタツールは、検索のコントロールという新たな側面を提供し、ユーザーは見ている情報に優先順位をつけられるようになるので重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Put users in control is the second of Henny Swan’s principles.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ユーザーに主導権を握らせる、というのはヘニー・スワンが提唱する原則の2つ目の項目です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1. Give users choice.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>1.ユーザーに選択肢を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2. Put users in control.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>2.ユーザーに主導権を握らせる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3. Design with familiarity in mind.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>3.なじみやすさを念頭に置いてデザインする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>4. Prioritize features that add value.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>4.価値を付加する機能を優先する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Like the navigation regions we covered earlier in the book, filtering widgets are meta content, provided as a tool to change the content of the page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>本書で前述したナビゲーション領域と同様、フィルタウィジェットはメタコンテンツであり、ページのコンテンツを変更するツールとして提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To make ours inclusive, we need to consider blind and keyboard users, potential performance issues and visual clarity.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これをインクルーシブなものにするためには、目の不自由なユーザーやキーボードユーザー、潜在的なパフォーマンスの問題、視覚的な明瞭さについて考慮する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The pattern will be founded on progressive enhancement and will work in the absence of both CSS and JavaScript, though we shall improve the experience inclusively with a careful application of those two technologies respectively.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>このパターンは、プログレッシブエンハンスメントに基づいて構築します。CSSとJavaScriptがなくても機能しますが、ここではこの2つのテクノロジーもそれぞれ慎重に用いて、インクルーシブな方法で体験を向上させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>How It Might Look</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>見た目の一例並び替え順
+新着順
+人気順
+価格の安い順
+価格の高い順
+並び替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Filter options displayed inline within a gray bar. The selected filter has a blue ring around it. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that the selected control is highlighted in a color-independent fashion so that our color-blind and low vision users can determine the selected option.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>選択したコントロールは色に依存しない方法でハイライト表示されているので、色覚異常や低視力のユーザーも選択されたオプションを見分けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Markup</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>マークアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some complex JavaScript widgets, like tab interfaces, depend on WAI-ARIA semantics and custom (JavaScript) keyboard bindings to be made fully accessible by keyboard and to screen readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>タブインターフェイス（脚注156）など、一部の複雑なJavaScriptウィジェットは、キーボードやスクリーンリーダーで十分にアクセスできるようにするために、WAI-ARIAセマンティクスおよびカスタム（JavaScript）のキーボードバインディングに依存しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, the first rule of ARIA use states:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ただし、ARIA使用の1番目のルール（脚注157）には、次のように書かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“If you can use a native HTML element or attribute with the semantics and behaviour you require already built in, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, then do so.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>必要なセマンティクスや動作が組み込まれたネイティブのHTML要素や属性が存在する場合は、要素の転用とARIAのロール、ステート、プロパティの追加でアクセシブルにする代わりに、ネイティブのものを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Standard browser-enabled interactivity is more performant and robust than that facilitated by custom JavaScript.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>標準のブラウザ対応のインタラクティブ性の方が、カスタムJavaScriptの助けをかりたものよりもパフォーマンスに優れ堅牢です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you can use it, you should, so it’s worth investigating.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>前者が使える場合は、そちらの方が研究する価値があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Solutions usually rely on harnessing the behavior of standard HTML form elements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>たいていの解決策は、標準HTML形式の要素の動作を利用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>These have idiosyncratic semantics, key bindings and behaviors built in for our convenience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>利便性のために、これらの要素には特異なセマンティクス、キーバインディング、動作が組み込まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Just because JavaScript is (well, might be) available doesn’t mean you should use it to reinvent the wheel.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>JavaScriptが利用できる（かもしれない）からといって、一から作り直す必要はないのです。（脚注158）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In any case, our sorting widget consists of a set of mutually exclusive options each with their own unique label, and grouped under a common label.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ここで説明する並び替えウィジェットは、相互に排他的な一連のオプションで構成されています。各オプションは固有のラベルを持ち、共通のラベルに分類されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We can create this structure using a &lt;fieldset&gt;, &lt;legend&gt; and radio buttons.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>この構造は、&lt;fieldset&gt;、&lt;legend&gt;、radio（ラジオ）ボタンを使って作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Imagining we’re still dealing in products, this is how the widget might look:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>引き続き商品を扱っているという想定で、ウィジェットは以下の例のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;form role="form" class="sorter" method="get"&gt;
+	&lt;fieldset&gt;
+		&lt;legend&gt;Sort by&lt;/legend&gt;
+		&lt;input type="radio" name="sort-method" id="most-recent" value="most-recent" checked&gt;
+		&lt;label for="most-recent"&gt;most recent&lt;/label&gt;
+		&lt;input type="radio" name="sort-method" id="popularity" value="popularity"&gt;
+		&lt;label for="popularity"&gt;popularity&lt;/label&gt;
+		&lt;input type="radio" name="sort-method" id="price-lowhigh" value="price-low-high"&gt;
+		&lt;label for="price-low-high"&gt;price (low to high)&lt;/label&gt;
+		&lt;input type="radio" name="sort-method" id="price-highlow" value="price-high-low"&gt;
+		&lt;label for="price-high-low"&gt;price (high to low)&lt;/label&gt;
+	&lt;/fieldset&gt;
+	&lt;button type="submit"&gt;sort&lt;/button&gt;
+&lt;/form&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>&lt;form role="form" class="sorter" method="get"&gt;
+	&lt;fieldset&gt;
+		&lt;legend&gt;並び替え順&lt;/legend&gt;
+		&lt;input type="radio" name="sort-method" id="most-recent" value="most-recent" checked&gt;
+		&lt;label for="most-recent"&gt;新着順&lt;/label&gt;
+		&lt;input type="radio" name="sort-method" id="popularity" value="popularity"&gt;
+		&lt;label for="popularity"&gt;人気順&lt;/label&gt;
+		&lt;input type="radio" name="sort-method" id="price-low- high" value="price-low-high"&gt;
+		&lt;label for="price-low-high"&gt;価格の安い順&lt;/label&gt;
+		&lt;input type="radio" name="sort-method" id="price-high- low" value="price-high-low"&gt;
+		&lt;label for="price-high-low"&gt;価格の高い順&lt;/label&gt;
+	&lt;/fieldset&gt;
+	&lt;button type="submit"&gt;並び替え&lt;/button&gt;
+&lt;/form&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>注意点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Having the ARIA role of form on a &lt;form&gt; seems counterintuitive, but it turns the widget into a region, making it navigable in screen readers using shortcuts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•&lt;form&gt;にformというARIAロールがあるのは直観に反するようですが、それがウィジェットを領域にし、スクリーンリーダーでのショートカットを用いたナビゲーションを可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since the basic functionality works without JavaScript and triggers a page refresh, this helps users navigate back to the form from the top of the document.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>基本的な機能はJavaScriptがなくても機能し、ページリフレッシュをトリガーするので、ドキュメントのトップからフォームに戻るのに便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The &lt;form&gt; contains a single &lt;fieldset&gt; which is used to group the radio options under the label “Sort by,” followed by a submit button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•&lt;form&gt;には1つの&lt;fieldset&gt;が含まれ、これを使って「並び替え順」ラベル下のradioオプションをグループ化し、その後にsubmit（送信）ボタンが続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When a radio &lt;input&gt; is focused, the &lt;legend&gt;content is announced followed by the &lt;input&gt;’s &lt;label&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>radioの&lt;input&gt;がフォーカスされると、&lt;legend&gt;コンテンツが読み上げられ、&lt;input&gt;の&lt;label&gt;がその後に続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To begin with, the first option (“most recent”) is checked.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>まず、最初のオプション（「新着順」）にチェックを入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Standard behavior is that only this checked &lt;input&gt; is focusable by Tab.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>標準動作では、このチェックされた&lt;input&gt;のみがTabキーでフォーカス可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Focusing it would trigger the announcement of “Sort by most recent, selected, radio button, one of four.” “Sort by” is the group label; “most recent” is the element label; “selected” is the element state; “radio button” is the element role.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>フォーカスすると、「＃＃並び替え順、新着順、selected, radio button, one of four.＃＃」という読み上げをトリガーします。「並び替え順」はグループラベル、「新着順」は要素ラベル、「＃＃selected＃＃」は要素ステート、「＃＃radio button＃＃」は要素ロールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The number four is the total number of radio buttons which share a common name="sort-method".</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>数字の4は、同じname="sort-method"を共有するradioボタンの総数です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The browser delegates arrow keys (left and right, up and down) for selecting different options.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•ブラウザでは、矢印キー（左矢印、右矢印、上矢印、下矢印）を使って異なるオプションを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pressing the right arrow key, for instance, will focus and select the next radio button with the name="sort-method" attribute - “popularity.” In screen readers this will announce something similar to “Sort by popularity, selected, radio button, two of four.” Note that “Sort by” is read whichever radio button is selected.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>たとえば、右矢印キーを押すと、name="sort-method"属性を持つ次のradioボタン、「人気順」をフォーカスおよび選択します。スクリーンリーダーでは、「＃＃並び替え順、人気順、selected, radio button, two of four.＃＃」などと読み上げられます。「並び替え順」は、どのradioボタンが選択されても読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This ensures that if I were to leave the widget and begin focusing other page elements and then return to it, I’d be reminded of the sorting function no matter which option is currently selected.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これにより、ウィジェットをいったん離れ、別のページ要素をフォーカスした後にまた戻っても、現在どのオプションが選択されているかに関わらず、並び替え機能だと思い出させてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•We’re using the get method on the form to rebuild the page from the server without relying on client-side JavaScript, at this stage.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•この段階では、formでgetメソッドを使い、サーバーからページを再構築しています。クライアント側のJavaScriptには依存していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, submitting the form with the popularity option selected will build a page with ?sort-method=popularity as the query parameter.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>たとえば、人気順オプションを選択してフォームを送信すると、クエリパラメータとして?sort-method=popularityを使用しページが構築されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We’ll enhance the experience with JavaScript in the “JavaScript Enhancement” section to come.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>JavaScriptを用いた体験の改善については、後ほど「JavaScriptによる改善」セクションで説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CSS Enhancement</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>CSSによる改善</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By designing our sorting widget with conventional, well-supported markup, we’ve already ensured it is accessible to keyboard and screen reader users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>この並び替えウィジェットは、慣習的で十分な裏付けのあるマークアップでデザインしたので、すでにキーボードユーザーとスクリーンリーダーユーザーにとってアクセシブルになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It can also be manipulated without a dependence on JavaScript and assumes a familiar form.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>また、JavaScriptに依存せずに操作でき、なじみのある形式になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Despite the inclusive nature of standard radio buttons, they offer limited styling opportunities.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>標準のradioボタンはインクルーシブな性質を備えていますが、スタイルの面でできることは限られています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is the main reason why we dispense with them in favor of either completely inaccessible &lt;div&gt;- and &lt;span&gt;-based solutions, or comparatively fragile and complex WAI-ARIA implementations.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>まったくアクセシブルではない&lt;div&gt;ベースや&lt;span&gt;ベースの解決策や、比較的脆弱で複雑なWAI-ARIAの実装を選んでしまう主な理由はそこにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, as I wrote in “Replacing Radio Buttons Without Replacing Radio Buttons,” you don’t actually have to style the &lt;input type="radio"&gt; element directly.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•しかし、「Replacing Radio Buttons Without Replacing Radio Buttons」（脚注159）でも書いているように、&lt;input type="radio"&gt;要素を直接スタイル付けする必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can hide it and style the &lt;label&gt; as a proxy.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>それを隠して、&lt;label&gt;をプロキシとしてスタイル付けすれば良いのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the following structure, the for/id relationship means that clicking (or pressing) the &lt;label&gt; operates the associated &lt;input&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>以下の構造では、forとidの関係は、&lt;label&gt;をクリックすると（または押すと）、関連付けられた&lt;input&gt;が作動することを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, the &lt;label&gt; extends the click area of the &lt;input&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>つまり、&lt;label&gt;は&lt;input&gt;のクリック領域を拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;input type="radio" name="sort-method" id="most-recent" value="most-recent" checked /&gt;
+&lt;label for="most-recent"&gt;most recent&lt;/label&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>&lt;input type="radio" name="sort-method" id="most-recent" value="most-recent" checked /&gt;
+&lt;label for="most-recent"&gt;新着順&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only does this help provide a larger, more ergonomic hit area for touch users, but we can use CSS to indicate the &lt;input&gt;’s :focus and :checked states in CSS.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•これにより、タッチユーザーに対して、より大きい人間工学的に優れたヒット領域を提供できるだけでなく、CSSを使って&lt;input&gt;の:focusステートと:checkedステートを示すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note the use of adjacent sibling combinators to pass state to the label:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>隣接セレクタを使ってステートをラベルに渡す方法は以下の通りです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>[type="radio"] + label { 
+	cursor: pointer;
+	/* other basic styles */
+}
+
+[type="radio"]:focus + label {
+	/* focus styles */
+}
+
+[type="radio"]:checked + label {
+	/* selected styles */
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>[type="radio"] + label { 
+	cursor: pointer;
+	/* その他の基本スタイル */
+}
+
+[type="radio"]:focus + label {
+	/* フォーカススタイル */
+}
+
+[type="radio"]:checked + label {
+	/* 選択時のスタイル */
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now that all the interaction and visual feedback is attached to the label, we can safely hide the obstinately ugly radio button from view.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これですべてのインタラクションと視覚的なフィードバックがラベルに指定されたので、安心して融通の利かない見苦しいボタンを非表示にできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.sorter [type="radio"] { 
+	position: absolute !important; 
+	width: 1px !important; 
+	height: 1px !important; 
+	padding:0  !important; 
+	border:0  !important; 
+	overflow: hidden !important;
+	clip: rect(1px, 1px, 1px, 1px);
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>.sorter [type="radio"] { 
+	position: absolute !important; 
+	width: 1px !important; 
+	height: 1px !important; 
+	padding:0  !important; 
+	border:0  !important; 
+	overflow: hidden !important;
+	clip: rect(1px, 1px, 1px, 1px);
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In summary: never fix with JavaScript and WAI-ARIA what can be achieved with HTML and CSS.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>要約すると、HTMLとCSSで達成できることを、JavaScriptとWAI-ARIAを使って修正してはいけない、ということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“WTF, forms?” by Mark Otto provides similar CSS enhancement solutions for checkboxes, &lt;select&gt; elements, and file inputs.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>マーク・オットー（Mark Otto）の「WTF, forms?」（脚注160）では、同様のCSSによる改善方法（チェックボックス、&lt;select&gt;要素、ファイルの入力用）を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>JavaScript Enhancement</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>JavaScriptによる改善</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The pattern we’ve devised is already fully functional and robust.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ここまで考案してきたパターンはすでに十分機能し、堅牢です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s fair to say it’s a bit clunky, though.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>しかし、少しばかり使い勝手が悪いと言えるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where JavaScript is available to the user, we ought to enhance the experience where we can.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ユーザーがJavaScriptを利用できる場合は、可能な限り体験を改善すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But just because JavaScript is available, doesn’t mean we should get carried away tearing everything up and rewriting it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ただし、JavaScriptが利用できるからといって、調子に乗ってすべてを破棄し、書き直すべきではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The foundation is solid; there’s no need to recreate in JavaScript the parts that already work without it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>しっかりした土台ができているので、JavaScriptなしですでに問題なく機能している部分はJavaScriptで作り直す必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each time a user chooses a new filtering option and hits the sort button, there’s currently a page refresh.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>現状では、ユーザーが新しいフィルタオプションを選択し、並び替えボタンを押すたびにページがリフレッシュされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By now, you’ll know what this means for screen reader and keyboard users: having to hear all the page information again or having to traverse through all the document’s preamble to get to the content they were just interacting with.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これがスクリーンリーダーユーザーとキーボードユーザーにとって何を意味するか、もうお分かりでしょう。それまでインタラクションを行っていたコンテンツにたどり着くには、すべてのページ情報をもう一度聞かなければならない、または、ドキュメントの前置きをすべてたどらなければならないということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Or both.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>その両方ということもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where possible, we should aim to repopulate our list with XHR.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>可能な限り、XHR（脚注161）を利用してリストを再表示することを目指すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That way, new content can be added without reloading the page and the keyboard-dependent user can progress directly from the widget (where focus will remain) into the content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>そうすれば、ページをリロードせずに新しいコンテンツを加えることができ、キーボードに頼っているユーザーは、ウィジェット（フォーカスされたままになっている）からそのままコンテンツの操作を続けることできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Waiting</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Telling users that content is pending and will arrive in a matter of time is the preserve of the ubiquitous loading symbol, which looks a bit like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>コンテンツの処理中で、もうすぐ表示されるということをユーザーに伝えるのは、よく目にする読み込み中のマークです。この図のような見た目をしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The circular loading graphic with the text ‘Loading products…’</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>商品の読み込み中…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The trouble is, this is only determinable by sighted users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>問題は、これを確認できるのは晴眼のユーザーだけだという点です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s important to communicate that content is being fetched to screen reader users as well.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>コンテンツが画面に表示されたことをスクリーンリーダーユーザーにも伝えることが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Otherwise they might be left wondering if hitting the sort button did anything at all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>そうしないと、並び替えボタンを押したことで何か実行されたのか分からないままになりかねません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The WAI-ARIA specification provides live regions for just this kind of thing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>WAI-ARIA仕様は、このような問題用にライブリージョン（脚注162）を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Usually, content is only announced in screen readers when either:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>通常、コンテンツがスクリーンリーダーで読み上げられるのは次の場合のみです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•An element is focused either by the user or programmatically.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•要素がユーザーまたはプログラムによってフォーカスされているとき。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The user navigates to an element using their screen reader’s own navigation commands (such as pressing 9 in NVDA to announce the following line).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•ユーザーがスクリーンリーダーのナビゲーションコマンドを使って要素に移動するとき（NVDAで数字の「9」のキーを押して次の行を読み上げるなど）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But live regions announce their content simply when that content changes.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>しかしライブリージョンは、コンテンツが変更されたときにそのコンテンツを読み上げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In practice, this means we can provide commentary to screen reader users without asking them to leave their location in the page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これは、スクリーンリーダーユーザーがページ内の現在の位置にとどまったままの状態で、状況についての説明を提供できることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>After the sort button is pressed, we can populate a live region with the message, “Please wait. Loading products.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>並び替えボタンを押した後、ライブリージョンに「少々お待ちください。商品を読み込んでいます。」というメッセージを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div aria-live="assertive" role="alert"&gt; 
+　Please wait. Loading products. 
+&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>&lt;div aria-live="assertive" role="alert"&gt; 
+　少々お待ちください。商品を読み込んでいます。
+&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Then, when the products are loaded, we can change the live region content to inform the user:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>その後、商品が読み込まれたら、ライブリージョンのコンテンツを変えて、ユーザーに次のように知らせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div aria-live="assertive" role="alert"&gt; 
+　Loading complete. 23 products listed. 
+&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>&lt;div aria-live="assertive" role="alert"&gt; 
+　読み込みが完了しました。23個の商品がリストされています。
+&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>注意点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The aria-live="polite" property and the status role are equivalent.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•aria-live="polite"（脚注163）プロパティとstatus（脚注164）ロールは同等です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Both are provided to maximize compatibility across platforms and screen readers (in some setups, only one or the other is recognized).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>両者はプラットフォームやスクリーンリーダー間の互換性を最大限にするために提供されています（一部のセットアップでは、どちらか一方が認識されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•We would populate the live region with the message using simple JavaScript DOM manipulation: liveElement.textContent = '[message]'.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•ライブリージョンには、JavaScriptでの単純なDOM操作（liveElement.textContent = 'message'）を使ってメッセージを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The equivalent assertive and alert values mean the current readout of the screen reader will be interrupted to announce the live region’s new message.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•同等であるassertive値とalert値は、スクリーンリーダーの現在の読み上げが中断され、ライブリージョンの新しいメッセージが読み上げられることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since the user might move away from the widget to read some other content, this means they will be told that the products are ready immediately.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>つまり、ユーザーがウィジェットから離れて別のコンテンツを読んでいても、商品の読み込みが完了したことが即座に知らされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Alternative polite and status values would mean the live region contents are announced only after the screen reader has finished announcing the content it is currently set to announce.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>代替手段のpolite値とstatus値では、スクリーンリーダーが現在読み上げているコンテンツが終了した後に、ライブリージョンのコンテンツが読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•For app notifications, you would need to style and display the live region’s contents so that it doubled as a visual message.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•アプリケーションの通知の場合は、視覚的なメッセージの役割も果たすよう、ライブリージョンにスタイルを付け、表示する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, the loading symbol (and its eventual removal) already say what needs to be said.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ただし、読み込み中のマーク（読み込みが完了すると消える）は、すでに必要な情報を伝えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In which case, we can hide our live region from view, so that it is only available non-visually.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>こうしたケースでは、ライブリージョンを非表示にして、非視覚的にのみ利用されるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Once again, we’d call on a screen reader accessible hiding method.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ここでも、スクリーンリーダーのアクセシブルな非表示方法（脚注165）を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Deque offers a live region playground for exploring a number of settings.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•Dequeは、いくつもの設定を検討できるLive Region Playground（脚注166）を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you’re a Mac user, the quickest way to get started testing with this is to open it in Safari and turn on VoiceOver (Cmd + F5).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>Macユーザーの場合は、SafariでLive Region Playgroundを開き、VoiceOverをオン（Cmd + F5）にすれば簡単にテストを開始できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Foregoing the Submit Button</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>submitボタンに先んずる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now that we’re not making use of our get functionality, we’ll need to prevent the page refreshing by suppressing the submit button’s default form submission functionality.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>get機能を使用しないので、submitボタンのデフォルトのフォーム送信機能を抑止して、ページがリフレッシュされるのを防ぐ必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We do this by catching the submit event.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これを行うには、submitイベントをキャッチします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>var sortForm = document.querySelector('.sorter'); 
+sortForm.addEventListener('submit', function(event) {
+
+　// keep the browser from submitting the form,
+　// because we’re handling this with XHR
+event.preventDefault();
+
+　// XHR request handling here
+});</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>var sortForm = document.querySelector('.sorter'); 
+sortForm.addEventListener('submit', function(event) {
+
+　// XHRを使って処理するので、
+　// ブラウザにフォームを送信させない
+event.preventDefault();
+
+　// ここでXHRリクエスト処理
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This begs the question whether we need the submit button at all.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これは、そもそもsubmitボタンが必要なのかという疑問を投げかけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>おそらく手っ取り早いのは、JavaScriptでsubmitボタンを取り除き、XHR機能を指定してイベントを変更する方法でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>var sortForm = document.querySelector('.sorter');
+sortForm.addEventListener('change', function(event) {
+　if (event.target.type !== 'radio') { 
+　　return;
+　}
+
+　this.submit();
+}, true);</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>var sortForm = document.querySelector('.sorter');
+sortForm.addEventListener('change', function(event) {
+　if (event.target.type !== 'radio') { 
+　　return;
+　}
+
+　this.submit();
+}, true);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since we’ve styled our radio controls to look like buttons and provided clear feedback via our loading symbol and live region, this seems like a fairly safe course of action.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>radioコントロールにスタイルを付けてボタンのような見た目にし、読み込み中マークで明確なフィードバックを提供しているので、この方針でもかなり安全に思えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, we must be mindful of the give users control principle mentioned at the beginning of this chapter.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>しかし、本章の冒頭でも触れた、ユーザーに主導権を握らせるという原則を忘れてはいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By removing an explicit submission action, it’s possible that triggering the XHR will be unexpected to some users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>明確な送信アクションを取り除くと、XHRのトリガーを予期しないユーザーがいる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They may feel their control has been usurped and this may diminish their trust in the interface.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ユーザーはコントロールを奪われたように感じ、インターフェイスに対する信頼が損なわれる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition, note that keyboard users operating the widget must use their arrow keys to move through the radio options.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>加えて、ウィジェットを操作するキーボードユーザーは、radioオプション間を移動するのに矢印キーを使わなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each arrow keypress not only focuses adjacent radio buttons but selects them as well.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>矢印キーを押すと、隣接するradioボタンがフォーカスされるだけでなく、選択もされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This means moving through the options in either direction would fire the change event three times in total.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これは、オプション間をどの方向に移動してもchangeイベントが合計3回発火することを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s possible to limit this enhanced XHR-on-choosing-filter-option functionality to mouse and touch users by switching from using the change event to using click.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>changeイベントではなくclickを使用するように置き換えることで、フィルタオプションの選択に関する改善されたXHR機能をマウスユーザーとタッチユーザーに限定することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>var sortForm = document.querySelector('.sorter');
+sortForm.addEventListener('click', function(event) {
+　if (event.target.type !== 'radio') { 
+　　return;
+　}
+
+　this.submit();
+}, true);</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>var sortForm = document.querySelector('.sorter');
+sortForm.addEventListener('click', function(event) {
+　if (event.target.type !== 'radio') { 
+　　return;
+　}
+
+　this.submit();
+}, true);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, this would mean hiding the now redundant submit button and trusting that keyboard users would know to press Enter to submit the form.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ただし、この方法では冗長になったsubmitボタンが非表示になるので、Enterを押してフォームを送信する仕組みをキーボードユーザーが知っていると願うことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that you can’t simply remove the submit button because some platforms (notably iOS) will not submit forms where a submit button isn’t present.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>また、一部のプラットフォーム（特にiOS）では、submitボタンが存在しないとフォームを送信しないので、submitボタンをただ単に取り除くことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In which case, we’d have to use our special .visually-hidden class, plus tabindex="-1" to make sure the button isn’t user-focusable:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>その場合、特別な.visually-hiddenクラスに加え、tabindex="-1"を使用して、ユーザーがボタンをフォーカスできないようにする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;button type="submit" class="visually-hidden" tabindex="-1"&gt;sort&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>&lt;button type="submit" class="visually-hidden" tabindex="-1"&gt;並び替え&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Even with these measures in place, whether users actually understand or like this enhancement is a question for user testing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これらの対策を行っても、ユーザーが実際にこうした改善を理解する、または、好むかどうかは、ユーザーテストで確認すべき問題です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Recruiting a diverse test group is the best way to properly confirm inclusive design decisions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>多様なテストグループを募集するのが、インクルーシブデザインの決定を正確に裏付ける最良の方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Include disabled participants as part of a wider user testing recruitment process.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ユーザーテストの人員を幅広く募集する中に、障害を持つ参加者を含めること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The numbers will be small, but aim to capture a range of disabilities and assistive technologies.” – Government Digital Services (UK)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>数は少なくても、さまざまな障害や支援技術を含めることを目指す。— Government Digital Services（イギリス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Government Service Design Manual has an informative section on accessibility testing as a complement to standard user testing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>Government Service Design Manualには、標準的なユーザーテストの補完として、アクセシビリティテスト（脚注167）の参考になるセクションがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For smaller budgets and timeframes, diverse users should be made part of the main test group.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>予算が少なく、時間が限られている場合は、さまざまなユーザーをメインのテストグループに含めましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Loading More Results</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>結果をさらに読み込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If we have a large inventory of products, some search terms and filtering options are likely to match a considerable number of items.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>扱っている商品数が多い場合、検索語句やフィルタオプションによっては、かなり大量の項目が一致するでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Retrieving and rendering all of them at once would cause a serious performance bottleneck, as well as producing an intimidating and unwieldy page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>それを一度にすべて読み出して表示すると、深刻なパフォーマンスボトルネックを引き起こすことが多く、威圧感を与える扱いにくいページになってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Far better to load a smaller set of results, then retrieve more as and when the user needs them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>少なめの結果を読み込んで、ユーザーが必要とするときにもっと表示する方がはるかに優れています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I can think of a few different ways to do this.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これを行う方法はいくつか思い当たります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One of them — infinite scroll — has some serious problems regarding inclusivity.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>その1つが無限スクロールですが、これにはインクルーシビティに関する重大な問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Infinite Scroll</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>無限スクロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The infinite scroll pattern harnesses the user’s scroll behavior to automatically load new content at the point that they reach the current content’s end.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>無限スクロール（脚注168）のパターンは、ユーザーのスクロール動作を利用して、現在のコンテンツの最後に達した時点で新しいコンテンツを自動的に読み込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The aim is to provide a stream of new content to the user without necessitating an action on their part.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ユーザー側のアクションを必要とせずに、新しいコンテンツを流れるように提供することが狙いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unless implemented very carefully, infinite scroll tends to result in a frustrating experience for a number of different input modes.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ただし、無限スクロールは非常に慎重に実装しないと、さまざまな入力モードでストレスのたまる体験をもたらす傾向があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As a mouse user, I might scroll the page by dragging the scrollbar’s handle.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>マウスユーザーは、スクロールバーのハンドルをドラッグしてページをスクロールする場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When new results load, this handle will move upwards in accordance with the greater amount of content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>新しい結果が読み込まれると、コンテンツの量が増えるのに伴い、ハンドルが上に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not realizing the handle has moved away from reach, I may click the scroll track instead and make the page lurch downwards from my current location: a hugely counterintuitive and annoying experience, wherein I’m liable to skip over unread content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ハンドルが離れた所に移動したことに気付かず、スクロールバーのトラック部分をクリックしてしまうと、ページが現在位置から急に下に飛びます。これはかなり直観に反する不快な体験で、まだ見ていないコンテンツを見逃してしまう恐れがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As Derek Featherstone writes, infinite scrolling is also a frustrating experience for keyboard users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>デレク・フェザーストン（Derek Featherstone）が書いているように（脚注169）、無限スクロールはキーボードユーザーにとってもストレスのたまる体験です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When items within the stream have interactive elements (such as our “Buy Now” buttons), focusable elements are added to the stream ad infinitum, making it impossible to tab past the main content to interactive elements that reside below it in the footer.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ストリームの中の項目にインタラクティブな要素（「今すぐ購入」ボタンなど）があると、フォーカス可能な要素がストリームに際限なく追加されます。その結果、Tabキーでメインコンテンツを超えて、下のフッター内にあるインタラクティブな要素に移動することができなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Derek offers two solutions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>デレクは2つの解決策を提示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He’s so fond of one that he lists it twice:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>彼はその1つをとても気に入っていて、2回も記載しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1. Just don’t implement infinite scrolling.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>1.無限スクロールを実装しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2. Replace automatic infinite scrolling with a “Load more results…” button or link that explicitly invites the user to add more.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>2.自動の無限スクロールの代わりに、「結果をもっと読み込む…」ボタン、または、もっと表示するようユーザーに明示的に勧めるリンクを実装する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Once they do a few times, prompt them to ask if they’d like to turn auto-loading of more results on.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ユーザーが何度か読み込みを繰り返したら、さらなる結果の自動読み込みをオンにするか尋ねるプロンプトを表示する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3. No, really, just don’t implement infinite scrolling.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>3.とにかく無限スクロールを実装しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The “Load More” Button</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>「もっと読み込む」ボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The “Load more” button — and it should be a &lt;button&gt; — resides at the end of the current crop of results and clicking it sends an XHR request to load the next set.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>現在表示されている結果の最後にある「もっと読み込む」ボタン（&lt;button&gt;でなければなりません）をクリックすると、次のセットを読み込むためにXHRリクエストが送信されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>　&lt;li&gt;&lt;!-- penultimate item --&gt;&lt;/li&gt;
+　&lt;li&gt;&lt;!-- last item --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;button data-load-more&gt;Load more&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>　&lt;li&gt;&lt;!-- 最後から2番目の項目 --&gt;&lt;/li&gt;
+　&lt;li&gt;&lt;!-- 最後の項目 --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;button data-load-more&gt;もっと読み込む&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>After the new content is rendered, it’s important that keyboard focus is moved from the data-load-more button to the first of the newly loaded items.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>新しいコンテンツが表示された後は、キーボードフォーカスがdata-load-moreボタンから、新たに読み込まれた最初の項目に移動することが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Otherwise, the user’s view will not change and focus will remain on the data-load-more button which has now been pushed off-screen by the added content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>そうでないと、ユーザーが目にするものは変わらず、追加されたコンテンツによって画面から押し出されたdata-load-moreボタンがフォーカスされたままになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that most implementations only remove focus from the button, and don’t move it elsewhere.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>たいていの実装では、ボタンからフォーカスが外れるだけで、別のところに移動しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This results in what’s sometimes called freak out mode whereby the browser doesn’t know what to focus and defaults to focusing the document body. The outcome is that keyboard (including screen reader) users are sent right to the start of the page content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>するとブラウザは何をフォーカスしていいか分からず、ドキュメントの本文をフォーカスします（「フリークアウトモード」とも呼ばれる状態）。その結果、キーボードユーザー（スクリーンリーダーユーザーも含む）は、ページコンテンツの冒頭に送られることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An effective course here is to switch focus to the title () of the first newly returned product.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ここでの効果的な方法は、新たに表示された最初の商品のタイトル（）にフォーカスを切り替えることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This will place that product at the top of the viewport (which benefits all kinds of sighted users) and trigger the announcement of the ’s text in screen readers, naming the first instance of the new content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>こうすると、その商品がビューポートの一番上に配置されます（これはあらゆるタイプの晴眼ユーザーに役立ちます）。また、スクリーンリーダーではのテキストの読み上げがトリガーされ、新しいコンテンツの最初のインスタンスの名前を読み上げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that tabindex="-1" has to be applied to the first item’s  to make it focusable with JavaScript’s focus() method.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>JavaScriptのfocus()メソッドでフォーカス可能になるよう、最初の項目のにtabindex="-1"が適用される必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlike tabindex="0", elements are not focusable by keyboard users directly.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>tabindex="0"とは違い、要素はキーボードユーザーによって直接フォーカスされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In this case, user focus is not desirable because the  is not an actionable (interactive) element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>は実行可能（インタラクティブ）な要素ではないので、このケースではユーザーのフォーカスは望ましくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We are only focusing the  to place the user in the correct context and to trigger announcement.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ユーザーを適切なコンテキストに配置し、読み上げをトリガーするためだけににフォーカスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A press of the Tab key will take them to the artist link, and another press to the “Buy now” link.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>Tabキーを押すとアーティストのリンクに移動し、もう一回押すと「今すぐ購入」リンクに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;li&gt;
+　&lt;h3 tabindex="-1"&gt; &lt;!-- make the title focusable --&gt; 
+　　Naked Man In Garage Forecourt
+　　&lt;a href="/artist/kenny-mulbarton"&gt;Kenny Mulbarton&lt;/a&gt;
+　
+　&lt;img src="/images/naked-forecourt-man.jpg" alt="high contrast black and white image of a naked man nonchalantly leaning against a petrol pump." /&gt;
+　&lt;dl&gt;
+　　&lt;dt&gt;Size:&lt;/dt&gt;
+　　&lt;dd&gt;30cm × 90cm&lt;/dd&gt;
+　　&lt;dt&gt;Price:&lt;/dt&gt;
+　　&lt;dd&gt;€35.95&lt;/dd&gt;
+　　&lt;dt&gt;Rating:&lt;/dt&gt;
+　　&lt;dd&gt;&lt;img src="/images/rating_4_5.svg" alt=""&gt;4 out of 5 stars&lt;/dd&gt;
+　&lt;/dl&gt;
+　&lt;a href="/product/naked-man-in-garage" class="call-to-action"&gt;
+　　Buy &lt;span class="visually-hidden"&gt;Naked Man In Garage Forecourt&lt;/span&gt; Now
+　&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+　&lt;!-- second newly returned product --&gt;
+&lt;/li&gt;
+&lt;li&gt;
+　&lt;!-- etc --&gt;
+&lt;/li&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>&lt;li&gt;
+　&lt;h3 tabindex="-1"&gt; &lt;!-- タイトルをフォーカス可能にする --&gt; 
+　　給油場の裸の男
+　　&lt;a href="/artist/kenny-mulbarton"&gt;ケニー・マルバートン&lt;/a&gt;
+　
+　&lt;img src="/images/naked-forecourt-man.jpg" alt="裸の男性が何食わぬ顔で給油ポンプにもたれかかっている、ハイコントラストの白黒写真。" /&gt;
+　&lt;dl&gt;
+　　&lt;dt&gt;サイズ：&lt;/dt&gt;
+　　&lt;dd&gt;30cm × 90cm&lt;/dd&gt;
+　　&lt;dt&gt;価格：&lt;/dt&gt;
+　　&lt;dd&gt;€35.95&lt;/dd&gt;
+　　&lt;dt&gt;評価：&lt;/dt&gt;
+　　&lt;dd&gt;&lt;img src="/images/rating_4_5.svg" alt=""&gt;5つ星中4つ星&lt;/dd&gt;
+　&lt;/dl&gt;
+　&lt;a href="/product/naked-man-in-garage" class="call-to-action"&gt;
+　　&lt;span class="visually-hidden"&gt;給油場の裸の男&lt;/span&gt;を今すぐ購入
+　&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+　&lt;!-- 新たに表示された2番目の商品 --&gt;
+&lt;/li&gt;
+&lt;li&gt;
+　&lt;!-- 以下略 --&gt;
+&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As with choosing a filtering option, an XHR has to be handled.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>フィルタオプションの選択と同様、XHRが処理されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We should, therefore, supply a loading graphic and live region.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>そのため、読み込みのグラフィックとライブリージョンを供給する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In this case, we can replace the “Load more” button’s text node with that graphic.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>このケースでは、「もっと読み込む」ボタンのテキストノードをグラフィックで置き換えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The order of events should be as follows:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>イベントの順序は次の通りです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1. The user clicks the “Load more” button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>1.ユーザーが「もっと読み込む」ボタンをクリックする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2. The button’s text is changed to “Loading:” and is set to handle no further clicks.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>2.ボタンのテキストが「読み込み中」に代わり、それ以上クリックを受け付けないよう設定される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can catch the click and simply return if the loading state is detected (for instance, by looking for “Loading” in the button’s textContent).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>クリックをキャッチし、読み込みステートが検知されているかどうかreturnする（たとえば、ボタンのtextContent内の「読み込み中」を探す）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3. A hidden live region announces, “Loading more products.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>3.非表示のライブリージョンが「＃＃商品をさらに読み込み中＃＃」と読み上げる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>4. The XHR is handled.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>4.XHRが処理される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>5. On success, the content is rendered.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>5.成功すると、コンテンツが表示される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>6. The live region announces, “Products loaded.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>6.ライブリージョンが「＃＃商品が読み込まれました＃＃」と読み上げる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>7. Focus is moved from the button to the first of the newly loaded product items.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>7.フォーカスがボタンから新たに読み込まれた1番目の商品に移動する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A smooth scrolling action could be used here, as described in “Navigation Regions.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>「＃＃Navigation Regions＃＃」で説明したように、ここでスムーズスクロールアクションを使用することもできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>8. The “Load more” button has its original text node reinstated and click events are handled again.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>8.「もっと読み込む」ボタンが元のテキストノードに戻り、clickイベントがまた処理される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The left button says “load more” and the right button says “loading” with the loading symbol. The second button is disabled so grayed out.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>もっと読み込む
+読み込み中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The “Load more” button in its initial state (left) and after being pressed (right).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>「もっと読み込む」ボタンの初期状態（左）と押された後の状態（右）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Infinite scroll hijacks the user’s scrolling action to perform an unexpected behavior, commandeering user control and diminishing the user experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>無限スクロールは、ユーザーのスクロールアクションを乗っ取って予期せぬ動作をします。ユーザーのコントロールは奪われ、ユーザー体験が損なわれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The “Load more” button invites the user to take an explicit, labeled action at their convenience and therefore conforms to the second of Henny Swan’s UX principles, to give users control.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>「もっと読み込む」ボタンなら、ユーザーはラベルの付いた明示的なアクションを自分の都合の良いときに行えるので、ヘニー・スワンが提唱する2つ目の原則、ユーザーに主導権を握らせるにも適合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Display Options</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>表示オプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Typically, designers see it as their job to foresee their users’ needs and make intelligent decisions on their behalf.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>概してデザイナーは、ユーザーのニーズを予見して彼らのために賢い判断をすることが自分の仕事だと考えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s what design is, right?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>それがデザインというものですよね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Perhaps, but we have to contend with:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>その考え方はもっともでしょうが、次のような問題に取り組む必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Users having different preferences.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•ユーザーの好みはさまざまである。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Users encountering different circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•ユーザーはさまざまな環境や状況に直面する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One example of making a decision on users’ behalf is to disable zoom, using user-scalable=no on the viewport &lt;meta&gt; tag.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ユーザーのためを思って下す判断の一例は、&lt;meta&gt;タグのviewportでuser-scalable=noを使い、ズームを無効にすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is to decide for the user what font size and magnification level suits them, and prevents them from adjusting it themselves.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>どのフォントサイズおよび拡大レベルがユーザーに適しているかを彼らに代わって判断し、自分で調節できないようにするのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An audacious act, and foolhardy given the inevitable diversity of your audience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これは厚かましい行為で、閲覧者の必然的な多様性を考えると無謀とも言えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We still have to make some decisions in isolation, of course, because not every part of a design can be informed directly by user research.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>当然ながら、デザインのあらゆる部分に関してユーザーリサーチから直接情報を得ることはできないので、自分で判断を下さなくてはならないものもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But when we do, we can increase our confidence by deferring to:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>しかしその場合も、以下の考え方に従えば、下す判断に対する自信を高めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Convention: Using widely adopted patterns, motifs or language.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•慣習：広く採用されているパターン、モチーフ、言葉を使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Choice: Allowing the user to decide how they want to consume something.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•選択：何かをどのように利用したいかをユーザーに決めさせる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To complete our filtering widget pattern, we’re going to give our users a choice over the way the filtered content is displayed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>フィルタウィジェットのパターンを完成させるために、フィルタが適用されたコンテンツの表示方法をユーザーが選択できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>List or Grid?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>リストとグリッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In this final enhancement to our filtering interface, we’ll give the user the choice between displaying results in list or grid format.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>このフィルタインターフェイスに対する最後の改善では、結果をリスト形式とグリッド形式のどちらで表示するかをユーザーが選べるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That way, they can select a visual display that best suits their cognitive needs.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>そうすれば、ユーザーは自分の認知的ニーズに最適の視覚表示を選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A list is a simple format, but necessarily longer vertically; a grid gives a better overview but compresses more information into the viewport at once.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>リスト形式はシンプルですが、どうしても縦に長くなります。グリッドはリストよりも全体を見渡すことができますが、一度により多くの情報をビューポートに詰め込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The adapted filter widget might look like the following:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>調整を加えたフィルタウィジェットは以下の例のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The filtering form now shows a new row for the display options.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>並び替え順
+新着順
+人気順
+価格の安い順
+価格の高い順
+適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The submit button now reads “apply”: a broader action which relates to both the sorting and display settings.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>表示方法submitボタンは、並び替えにも表示設定にも当てはまる、広義のアクション「適用」にしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here’s the extended markup:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>こちらが拡張したマークアップです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>注意点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The “Display as” functionality is in its own &lt;fieldset&gt; to demarcate it from the principal filtering options.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•「表示方法」の機能は、主要なフィルタオブションと区別するために、独立した&lt;fieldset&gt;の中にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The list and grid icons are provided as inline SVGs, with visually hidden &lt;text&gt; elements providing each radio button’s screen reader accessible label text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•リストとグリッドのアイコンはインラインSVGとして提供され、非表示の&lt;text&gt;要素が、スクリーンリーダーでアクセスできる、各radioボタンのラベルテキストを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Focusing the selected display option radio button would announce the &lt;legend&gt; first, then the &lt;label&gt; and additional information in screen readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•選択した表示オプションのradioボタンをフォーカスすると、スクリーンリーダーでは、まず&lt;legend&gt;が読み上げられ、次に&lt;label&gt;とその他の情報が読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So, if the list item is focused (and selected) it would read, “Display as a list, radio button, selected” or similar.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>したがって、リスト項目がフォーカス（および選択）されると、「＃＃表示方法、リスト、radio button, selected＃＃」などと読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•I’ve changed the submit button label from “sort” to “apply” so that it applies to both settings, if you’ll excuse the wordplay.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•並び替えと表示設定の両方に当てはまるよう、submitボタンのラベルを「並び替え」から「適用」に変更しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Self-Governing Grid</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>自律型のグリッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Whether grid or list in terms of layout, the products should always be formed as a list (&lt;ul&gt;) in the markup.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>レイアウト的にグリッドとリストのどちらであろうと、マークアップでは商品を常にリスト（&lt;ul&gt;）として形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Users not actually seeing a list benefit from list semantics regardless.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>実際にリストを見ないユーザーは、レイアウトに関係なくリストのセマンティクスのメリットを享受します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This also saves on client-side DOM manipulation: all we should need to change is a class on the parent &lt;ul&gt; item: .list-display for a single-column layout or .grid-display for multiple columns.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>また、クライアント側のDOM操作も軽減します。親の&lt;ul&gt;項目のクラスを変える必要があるだけです（レイアウトがシングルカラムの場合は.list-display、マルチカラムの場合は.grid-display）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The question is: “How many columns is the right number?” In responsive design, the answer depends on how much space there is.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>問題は、「カラムはいくつが適切か」ということです。レスポンシブデザインでは、スペースがどれだけあるかによって答えは変わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We typically proceed to match column numbers to viewport widths — the wider the viewport, the greater the number of columns we can afford.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>一般に、コラムの数をビューポートの幅に合わせることが多く、ビューポートの幅が広いほどカラムを多くできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This necessitates a lot of manual media query writing and an ever-watchful eye for layout problems.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これを行うには多くのメディアクエリを手書きする必要があり、レイアウトの問題に常に気を配る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using Flexbox, we can instead use flex-basis to define an ideal width at an element level.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>Flexboxを使用すれば、代わりにflex-basisを使って要素レベルで理想的な幅を定義できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By switching on flex-grow and flex-shrink, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>flex-growとflex-shrinkをオンにすることによって、グリッド要素を展開したり折りたたむことができ、無限の範囲のビューポートで、この理想的で完全かつ順序正しいグリッドを維持することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.grid-display { 
+　display: flex;
+　flex-direction: row; 
+　flex-wrap: wrap;
+}
+
+.grid-display li { 
+　flex-grow: 1;
+　flex-shrink: 1; /* the default value, in fact  */ 
+　flex-basis: 10em;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>.grid-display { 
+　display: flex;
+　flex-direction: row; 
+　flex-wrap: wrap;
+}
+
+.grid-display li { 
+　flex-grow: 1;
+　flex-shrink: 1; /* 1がデフォルト値 */ 
+　flex-basis: 10em;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>注意点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The flex-basis value is key.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•flex-basis値が重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is the width the Flexbox algorithm considers ideal for individual items.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>Flexboxのアルゴリズムは、これを個々の項目にとって理想的な幅と見なします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each item will try to be 10em wide but will flex to share the available space completely (see flex-grow and flex-shrink below).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>各項目は幅10emになろうとしますが、利用可能なスペースを余すことなく分かち合うよう伸縮します（下のflex-growとflex-shrinkの説明を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The flex-basis value is set in ems so that it is relative to font size.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•フォントサイズと相対的になるよう、flex-basis値はemsで設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This means that the automatic reflow of columns that we’ve established is sensitive to font size.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>つまり、構築したカラムの自動的なリフローが、フォントサイズの影響を受けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The flex-grow value of 1 means items will grow beyond the 10em width to fill the available space.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•flex-grow値が1というのは、項目の幅が10em以上になって利用可能なスペースを埋めることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The flex-shrink value of 1 (can be omitted, in fact, because it’s the default) ensures items will shrink if needed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•flex-shrink値が1（デフォルトなので省略可能）というのは、必要に応じて項目の幅が狭くなることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•flex-wrap is switched on so items will wrap to the next row when there is not enough room to fit them alongside other items greater than 10em in width.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•幅が10emより大きい他の項目の横に並べて収める十分なスペースがない場合に、項目が次の行に折り返すよう、flex-wrapをオンにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ensuring Acceptable Measure</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>許容できるカラム幅を確保する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What we’ve established is a self-governing grid system.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ここで構築してきたのは、自律型のグリッドシステムです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With very little code, we are able to ensure our content remains unbroken across an infinite range of viewport widths.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ごく少ないコードで、無限の範囲のビューポート幅にわたって、コンテンツを崩さず表示することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s a highly inclusive layout strategy.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これは非常にインクルーシブなレイアウト方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All that’s left is to ensure the content remains readable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>後は、コンテンツの読みやすさを確保するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you remember from “A Paragraph,” we shouldn’t allow the measure to get too wide.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>「パラグラフ」の章でも説明しましたが、カラム幅が広くなりすぎないようにすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s currently a danger at wider viewports, especially when the wrapping algorithm places the final item on a single line. A five-column grid with eleven items, meaning the last item takes up a whole row on its own.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>現状では、幅の広いビューポートでそれが起こる危険があります（特に、折り返しのアルゴリズムによって最後の項目が単独で配置された場合）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the adapted code example to follow, items are restricted to having a max-width of 20em.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>次に紹介する、調整を加えたコードの例では、項目のmax-width（最大幅）が20emになるように制限されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>My preference, for symmetry, is to group the content around the center line, hence the justify-content: center; declaration on the flex container.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>対称性に関しては、センターラインにコンテンツをまとめるのが私の好みなので、flexコンテナでjustify-content: center;と宣言しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.grid-display { 
+　display: flex;
+　flex-direction: row; 
+　flex-wrap: wrap; 
+　justify-content: center;
+}
+
+.grid-display li { 
+　flex-grow: 1; 
+　flex-basis: 10em; 
+　max-width: 20em;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>.grid-display { 
+　display: flex;
+　flex-direction: row; 
+　flex-wrap: wrap; 
+　justify-content: center;
+}
+
+.grid-display li { 
+　flex-grow: 1; 
+　flex-basis: 10em; 
+　max-width: 20em;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now the grid items are organized around the vertical center line and cannot become more than 20em wide.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これでグリッド項目が縦のセンターラインにまとまり、幅が20emを超えることはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flexbox works algorithmically, which is what makes it so powerful.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>Flexboxはアルゴリズムで機能するので非常に強力です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To get the best results for your own content, you’ll need to tweak the 10em and 20em values.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>扱うコンテンツにとって最高の結果を得るには、この例で10emと20emとした値を調節する必要があるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note: IE10 and IE11 have an unpleasant bug whereby the children of focusable items within a flex container can become focusable themselves. The handy a11y.js library has a fix for this.)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>（注：IE10とIE11には不快なバグがあり、flexコンテナ内のフォーカス可能な項目の子自体がフォーカス可能になる場合があります。これは便利なa11y.jsライブラリで修正できます。）（脚注170）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right-to-Left Grids</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>右寄せのグリッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As we established in the chapter “The Document,” it’s important to declare the language of a web page because this gets the most out of assistive technologies and translation tools.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>「ドキュメント」の章で確認したように、Webページの言語を宣言することが重要です。そうすれば支援技術と翻訳ツールを最大限に活用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An international audience is a big step for inclusion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>海外の閲覧者はインクルージョンにとって大きな一歩です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some languages, like Arabic, are supposed to be read right to left, unlike languages like English that are read left to right.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>アラビア語などの一部の言語は、左から右に読む英語などの言語とは違い、右から左に読みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Setting the text direction for the document is possible by including the dir attribute (alongside the lang attribute) on the HTML element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ドキュメントのテキスト方向は、HTML要素に（lang属性と並べて）dir属性を含めることで設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;html lang="ar" dir="rtl"&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>&lt;html lang="ar" dir="rtl"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Float-based CSS layouts are unaffected by this provision.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>FloatベースのCSSレイアウトは、この設定に影響を受けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, you have to manually reverse the layout of floated content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>つまり、フロート化されたコンテンツのレイアウトは手動で向きを変える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.content { 
+　float: left; 
+　width: 60%;
+}
+
+[dir="rtl"] .content { 
+　float: right;
+}
+
+.sidebar { 
+　float: right; 
+　width: 40%;
+}
+
+[dir="rtl"] .sidebar { 
+　float: left;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>.content { 
+　float: left; 
+　width: 60%;
+}
+
+[dir="rtl"] .content { 
+　float: right;
+}
+
+.sidebar { 
+　float: right; 
+　width: 40%;
+}
+
+[dir="rtl"] .sidebar { 
+　float: left;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flexbox, rather beautifully, handles direction automatically.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>Flexboxは、かなり見事に方向を自動的に処理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Any flex container inside a document with dir set to rtl will display each row of content from right to left as expected: it switches the row and row-reversevalues of the flex-direction property.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>dirがrtlに設定されたドキュメント内のflexコンテナはすべて、コンテンツの各行を期待通り右から左に表示します。flex-directionプロパティのrow値とrow-reverse値を置き換えるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Should you, despite the right-to-left direction setting, want your grid to be laid out in a left-to-right configuration, you can force this using the CSS direction property on the flex container:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>右から左の方向設定に反して、グリッドを左寄せで配置したい場合は、flexコンテナにCSSのdirectionプロパティを使用して強制的に左寄せにできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.grid-display { 
+　display: flex; 
+　direction: ltr; 
+　flex-direction: row; 
+　flex-wrap: wrap;
+　justify-content: center;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>.grid-display { 
+　display: flex; 
+　direction: ltr; 
+　flex-direction: row; 
+　flex-wrap: wrap;
+　justify-content: center;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note: This automatic reversal is also true of &lt;table&gt; elements which switch their column order. We don’t use &lt;table&gt; elements for layout because they provide incorrect semantic information to assistive technologies.)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>（注：この自動的な方向の逆転は&lt;table&gt;要素にも当てはまり、カラムの順序が入れ替わります。&lt;table&gt;要素は支援技術に誤ったセマンティック情報を提供するので、レイアウトには使用しません。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tolerating Dynamic Content</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>動的なコンテンツに対応する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As ever, we should be mindful of the content that our proposed structure is designed for.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これまで同様、コンテンツに注目しましょう。本書で提案する構造は、そのコンテンツのためにデザインされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since we’ve covered wording and tone in previous chapters, let’s take some time to consider fluctuating quantity.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>言葉遣いやトーンについては以前の章で説明したので、ここでは少し時間をかけて、変動する量について考えていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One of the main reasons static mockups of interface components are defunct is that they tend to represent idealized content: people’s names of a particular length, and descriptions all exactly five lines high, for instance.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>インターフェイスコンポーネントの静的なモックアップが廃れた主な理由の1つは、それが理想的なコンテンツを表しがちだからです（特定の長さの人名、すべてぴったり5行に収まる説明文など）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When the front-end is built, problems can occur where variable content has an unexpected effect on layout.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>そしてフロントエンドが作られると、変動するコンテンツがレイアウトに予期せぬ影響を与えて問題が発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To make sure our products grid interface can tolerate fluctuating content length at the prototyping stage, we can make use of a tool like forceFeed.js. This script allows you to feed the proposed layout with randomized arrays of content within certain parameters.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>プロトタイプの段階で、プロダクトのグリッドインターフェイスが変動するコンテンツの長さを許容できることを確認するためには、forceFeed.jsなどのツールを利用します。（脚注171）このスクリプトを使うと、レイアウト案の特定のパラメータ内にランダムな分量のコンテンツが供給されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, to test the interface’s tolerance of different names, I might add the following forceFeed.js data-forcefeed attribute to the artist link’s &lt;cite&gt;:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>たとえば、インターフェイスがさまざまな長さの名前を許容できるかテストするには、以下のようにアーティストのリンクの&lt;cite&gt;にforceFeed.jsのdata-forcefeed属性を加えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;a href="/artist/kenny-mulbarton"&gt;&lt;cite data- forcefeed="words|2"&gt;Kenny Mulbarton&lt;/cite&gt;&lt;/a&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>&lt;a href="/artist/kenny-mulbarton"&gt;&lt;cite data- forcefeed="words|2"&gt;ケニー・マルバートン&lt;/cite&gt;作&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The words parameter refers to an array of words of different lengths.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>wordsパラメータは、さまざまな長さの一連の単語を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The 2 parameter refers to the number of randomized words I want to include.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>パラメータの2は、2つのランダムな単語を含めたいという意味です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since most names are composed of two words — a forename and surname — two seems reasonable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ほとんどの人名は2つの単語（苗字と名前）で構成されているので、2が妥当でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To run this over all of the artist &lt;cite&gt;s in a page, I first include forceFeed.js, then script the following.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これをページ内の全アーティストの&lt;cite&gt;に実行するには、まずforceFeed.jsを含めてから、以下のようにスクリプトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that I’m using a short set of lorem ipsum words just for brevity, but you can populate your array how you like.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>ここでは簡略のために、少量のlorem ipsum（ロレム・イプサム：ダミーテキストの意）を使っていますが、自分の好きな単語を入れてかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>window.words = ['lorem', 'ipsum', 'dolor', 'sit', 'amet',
+'adipsing', 'consectetur', 'elit', 'sed', 'commodo',
+'ligula', 'vitae', 'mollis', 'pellentesque', 'condimentum',
+'sollicitudin', 'fermentum', 'enim', 'tincidunt'];
+
+var cites = document.querySelectorAll('cite');
+
+[].forEach.call(cites, function(cite) { 
+　cite.addAttribute('data-forcefeed', 'words|2');
+});
+forceFeed({words: window.words});</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>window.words = ['lorem', 'ipsum', 'dolor', 'sit', 'amet',
+'adipsing', 'consectetur', 'elit', 'sed', 'commodo',
+'ligula', 'vitae', 'mollis', 'pellentesque', 'condimentum',
+'sollicitudin', 'fermentum', 'enim', 'tincidunt'];
+
+var cites = document.querySelectorAll('cite');
+
+[].forEach.call(cites, function(cite) { 
+　cite.addAttribute('data-forcefeed', 'words|2');
+});
+forceFeed({words: window.words});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Testing the tolerance of these word combinations is a simple case of reloading the page repeatedly to see whether any randomized combinations of words appear to break the layout, by causing an ugly wrapping behavior, for example.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これらの単語の組み合わせに対する許容度のテストはシンプルです。ページを何度もリロードし、ランダムな組み合わせの単語が、見苦しい折り返しなどによってレイアウトを崩していないか確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Product Title</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>商品のタイトル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There’s another dimension to forceFeed.js. The script also allows you to add between x and n numbers of array items.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>forceFeed.jsにはもう1つの特徴があり、並べる項目数の範囲をスクリプトに加えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This helps to test dynamic content for the title of the print.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>これは、写真プリントのタイトルについて、動的なコンテンツをテストするのに役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that forceFeed.js needs a wrapper element to work, so let’s pretend we’ve used a script to place a &lt;span&gt; around the title before the link.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>forceFeed.jsを機能させるにはラッパー要素が必要なので、リンクの前にあるタイトルを&lt;span&gt;で囲んでいたことにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;h3 tabindex="-1"&gt; &lt;!-- make the title focusable --&gt;
+　&lt;span data-forcefeed="words|1|10"&gt;Naked Man In Garage Forecourt&lt;/span&gt;
+　&lt;a href="/artist/kenny-mulbarton"&gt;by &lt;cite data- forcefeed="words|1"&gt;Kenny Mulbarton&lt;/cite&gt;&lt;/a&gt;
+</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>&lt;h3 tabindex="-1"&gt; &lt;!-- タイトルをフォーカス可能にする --&gt;
+　&lt;span data-forcefeed="words|1|10"&gt;給油場の裸の男&lt;/span&gt;
+　&lt;a href="/artist/kenny-mulbarton"&gt;&lt;cite data- forcefeed="words|1"&gt;ケニー・マルバートン&lt;/cite&gt;作&lt;/a&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When two numbers are provided, as in words|1|10, the script will place between the first number and second number of array items as the text node.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>words|1|10のように2つの数字を指定すると、スクリプトは1個（1つ目の数字）から10個（2つ目の数字）の項目をテキストノードとして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Between one and ten words is the kind of variability we can expect for the titles.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>1～10個の単語という変動幅は作品のタイトルとして妥当でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now it’s back to refreshing the page and adapting the grid to tolerate any visual breakages better. Usually problems arise due to wrapping causing height differences between items, or failures to wrap meaning content breaks out of its box.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>後はページをリフレッシュし、グリッドに調整を加えて、視覚的な崩れに対する耐性を高めます。通常、問題は折り返しによって項目間の高さに違いが生じたことによって生じます。または、折り返しの不具合によってコンテンツが枠からはみ出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>まとめ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In this pattern we discovered two things.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>このパターンでは、2つのことが分かりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First, sometimes HTML already provides the behaviors we often find ourselves needlessly and flimsily recreating in JavaScript.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>1つ目は、私たちがしばしば大した根拠もなく不必要にJavaScriptで作り直している動作の中には、HTMLが既に提供しているものがあるということ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Second, when using semantic HTML, CSS can be used as a form of progressive enhancement.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>そして2つ目は、セマンティックHTMLを使用するときに、CSSをプログレッシブエンハンスメントという形で使用できるということ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition, we explored the importance of giving users choice and control over how their content is arranged.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>加えて、コンテンツをどのように並べるかについて、ユーザーに選択肢と主導権を与えることの重要性についても検討しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We also used some techniques to make sure our design was tolerant of dynamic and fluctuating content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>また、動的な変動するコンテンツにも対応できるデザインであることを確認するテクニックも使用しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As we’ve been discussing throughout the book, inclusive design also means a visual design which is not too strict about the nature of the content imparted to it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>本書を通して説明してきたように、インクルーシブデザインとは、そこに含められるコンテンツの性質について融通が利く視覚デザインということでもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Things to Avoid</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>避けるべきこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Creating behaviors in JavaScript that HTML already offers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•HTMLがすでに提供している動作をJavaScriptで作る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Grid systems which don’t allow right-to-left language support.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•右から左に読む言語をサポートできないグリッドシステム。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Infinite scrolling.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•無限スクロール。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Prototyping with idealized content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170808T093833Z">
+        <seg>•理想的なコンテンツを使用したプロトタイプ制作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.http://heydonworks.com/practical_aria_examples/#tab-interface 2.https://www.w3.org/TR/aria-in-html/#first-rule-of-aria-use</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3.http://www.heydonworks.com/article/reinventing-the-hyperlink 4.http://www.sitepoint.com/replacing-radio-buttons-without-replacing-radio-buttons/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>5.http://wtfforms.com/ 6.https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>7.http://w3c.github.io/aria/practices/aria-practices.html#LiveRegions 8.http://w3c.github.io/aria/aria/aria.html#aria-live</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>9.http://w3c.github.io/aria/aria/aria.html#status 10.http://snook.ca/archives/html_and_css/hiding-content-for-accessibility</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>11.https://dequeuniversity.com/library/aria/content-feedback/liveregion-playground</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>12.https://www.gov.uk/service-manual/user-centred-design/user-research/accessibility-testing.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>13.https://www.smashingmagazine.com/2013/05/infinite-scrolling-lets-get-to-the-bottom-of-this/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>14.http://simplyaccessible.com/article/infinite-scrolling/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>15.http://allyjs.io/api/fix/pointer-focus-children.html 16.https://github.com/Heydon/forceFeed</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
