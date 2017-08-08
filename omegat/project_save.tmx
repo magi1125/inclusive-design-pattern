@@ -2853,7 +2853,9 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 受動態を調整。keyboard-inclusiveがキーボード対応でよいかどうか。</note>
+      <note>(伊原) 受動態を調整。keyboard-inclusiveがキーボード対応でよいかどうか。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>As is often the case in making keyboard-inclusive JavaScript interfaces, explicit focus management must be employed to move the keyboard user to the intended location.</seg>
       </tuv>
