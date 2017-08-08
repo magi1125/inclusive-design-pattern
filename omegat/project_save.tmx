@@ -2290,12 +2290,12 @@ divergeは分岐する、分かれる、それるの意味。
     <tu>
       <note>(伊原) コードに沿って補いました。
 
-(太田) ここでは animate メソッドとは言っていないように思います。</note>
+(太田) ここでは animate メソッドとは言っていないように思います。animateは元々「操る」という意味で、ここでは scrollTop の値を変化させることを言っているように読めました。</note>
       <tuv lang="EN-US">
         <seg>A typical implementation is achieved by animating &lt;g1&gt;scrollTop&lt;/g1&gt; using jQuery.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T090314Z" creationid="rikiha" creationdate="20170805T163240Z">
-        <seg>スムーズスクロールを実装する典型的な方法は、jQueryの&lt;g1&gt;scrollTop&lt;/g1&gt;を使ってアニメーションさせることです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T090532Z" creationid="rikiha" creationdate="20170805T163240Z">
+        <seg>スムーズスクロールを実装する典型的な方法は、jQueryを使って&lt;g1&gt;scrollTop&lt;/g1&gt;を操作することです。</seg>
       </tuv>
     </tu>
     <tu>
