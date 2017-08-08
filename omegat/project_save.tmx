@@ -12908,16 +12908,19 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       <note>(伊原) 要検討。というか良い訳が思い浮かびませんでした。
 
 (太田)
-safe in the knowledge
+safe in the knowledge は
+
 &gt;Confidently, because one is certain that something relevant to the situation is true. 
+
+ということですが、ここではthat 以下 (キーボードの機能がセクションをローカライズしてくれるであろうこと) を確信しているのだと思います。
 
 be transported は受動態のままではなく能動態に変えて訳すか。
 </note>
       <tuv lang="EN-US">
         <seg>The upshot is that users navigating by keyboard can follow a link in a table of contents and be transported to that section safe in the knowledge that keyboard functionality will be localized to the section.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T153241Z" creationid="rikiha" creationdate="20170805T124735Z">
-        <seg>結果として、キーボードでナビゲートするユーザーは目次内のリンクをたどることができ、そしてキーボード機能がそのセクションをつきとめることで、自信を持ってそのセクションまで運ばれることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T064700Z" creationid="rikiha" creationdate="20170805T124735Z">
+        <seg>結果として、キーボードでナビゲートするユーザーは目次内のリンクをたどることができ、そしてキーボード機能がそのセクションをつきとめることで、自信を持ってそのセクションに移動することができます。</seg>
       </tuv>
     </tu>
     <tu>
