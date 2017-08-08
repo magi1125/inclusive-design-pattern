@@ -2295,8 +2295,8 @@ divergeは分岐する、分かれる、それるの意味。
       <tuv lang="EN-US">
         <seg>A typical implementation is achieved by animating &lt;g1&gt;scrollTop&lt;/g1&gt; using jQuery.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T090653Z" creationid="rikiha" creationdate="20170805T163240Z">
-        <seg>スムーズスクロールを実装する典型的な方法は、jQueryを使って&lt;g1&gt;scrollTop&lt;/g1&gt;の値を操作することです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T091051Z" creationid="rikiha" creationdate="20170805T163240Z">
+        <seg>スムーズスクロールを実装する典型的な方法は、jQueryを使って&lt;g1&gt;scrollTop&lt;/g1&gt;の値を変化させることです。</seg>
       </tuv>
     </tu>
     <tu>
