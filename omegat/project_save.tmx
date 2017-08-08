@@ -3994,8 +3994,8 @@ visual designはそのままビジュアルデザインでいいかも。
       <tuv lang="EN-US">
         <seg>Despite these targets (usually &lt;g1&gt;&lt;section&gt;&lt;/g1&gt;s or headings) not typically being focusable elements, browsers employ &lt;g2&gt;sequential focus navigation&lt;/g2&gt; whereby the first focusable element within or after the target is made the &lt;g3&gt;next&lt;/g3&gt; focusable element in sequence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T063623Z" creationid="rikiha" creationdate="20170805T124732Z">
-        <seg>これらのターゲット（通常は&lt;g1&gt;&lt;section&gt;&lt;/g1&gt;や見出し）はたいていフォーカスできない要素であるものの、ブラウザが採用している&lt;g2&gt;シーケンシャルフォーカスナビゲーション&lt;/g2&gt;の仕組みでは、ターゲットの中または直後にある&lt;g3&gt;次に&lt;/g3&gt;フォーカス可能な要素にフォーカスがあたります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T063808Z" creationid="rikiha" creationdate="20170805T124732Z">
+        <seg>これらのターゲット（通常は&lt;g1&gt;&lt;section&gt;&lt;/g1&gt;や見出し）はたいていフォーカスできない要素であるものの、ブラウザが採用している&lt;g2&gt;シーケンシャルフォーカスナビゲーション&lt;/g2&gt;の仕組みでは、ターゲットの中または直後にある要素を&lt;g3&gt;次に&lt;/g3&gt;フォーカス可能な要素とみなします。</seg>
       </tuv>
     </tu>
     <tu>
