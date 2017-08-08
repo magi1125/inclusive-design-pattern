@@ -2855,12 +2855,12 @@ hueは正確には色相ですが、まあ色で良いかなと。
     <tu>
       <note>(伊原) 受動態を調整。keyboard-inclusiveがキーボード対応でよいかどうか。
 
-(太田) OK</note>
+(太田) </note>
       <tuv lang="EN-US">
         <seg>As is often the case in making keyboard-inclusive JavaScript interfaces, explicit focus management must be employed to move the keyboard user to the intended location.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170807T132637Z" creationid="rikiha" creationdate="20170805T163234Z">
-        <seg>JavaScriptでキーボード対応のインターフェイスを作るときにはよくあることですが、明示的にフォーカスを管理して目的の場所に移動できるようにしなければなりません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T085451Z" creationid="rikiha" creationdate="20170805T163234Z">
+        <seg>JavaScriptでキーボード対応のインターフェイスを作るときにはよくあることですが、ユーザーが目的の場所に移動できるようにするためには、明示的にフォーカスを管理しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
