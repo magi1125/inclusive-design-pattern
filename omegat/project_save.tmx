@@ -13188,7 +13188,8 @@ convention は他のところでは「慣習」としていたのでここもそ
     </tu>
     <tu>
       <note>(太田)
-原文にない括弧はやめたい。</note>
+原文にない括弧はやめたい。
+complianceは要求を満たすことで、準拠でも間違いではないが変ではあるので訳を検討したい。</note>
       <tuv lang="EN-US">
         <seg>There’s a world of difference, however, between technical compliance and ensuring a good user experience.</seg>
       </tuv>
@@ -14435,6 +14436,14 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T071955Z" creationid="yoota" creationdate="20170426T071735Z">
         <seg>また、ユーザーが文字サイズを変更した際、&lt;g4&gt;font-size&lt;/g4&gt;、&lt;g5&gt;padding&lt;/g5&gt;、&lt;g6&gt;margin&lt;/g6&gt;が協調して変化するように、それぞれの値を相対単位の&lt;g7&gt;rem&lt;/g7&gt;や&lt;g8&gt;em&lt;/g8&gt;、&lt;g9&gt;ch&lt;/g9&gt;などで設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make the most of these two complementary navigation tools, the user needs to know which is which.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T094307Z" creationid="yoota" creationdate="20170808T094307Z">
+        <seg>互いに補完し合う2つのナビゲーションツールを最大限に活用するためには、ユーザーは両者を区別できなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
