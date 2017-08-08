@@ -9423,6 +9423,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Now we’ve spawned an in-page navigation landmark, introducing a second region to our pages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T093905Z" creationid="yoota" creationdate="20170808T093905Z">
+        <seg>それから、ページ内ナビゲーションランドマークを使って現在のページの別の領域に移動する方法も学びました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 括弧内は「など」というより「どちらでも」ということのように思いますので調整しました。
 
 (伊原) LGTM</note>
@@ -14915,6 +14923,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>We began by formulating a site-wide navigation landmark.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T093831Z" creationid="yoota" creationdate="20170808T093831Z">
+        <seg>この章では最初に、サイト内共通のナビゲーションランドマークについて考察しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>We can employ some defensive coding here to remove empty elements from the flow.</seg>
@@ -15494,6 +15510,14 @@ belong toが「構成する」となっていますが、この章はドキュ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T050536Z" creationid="yoota" creationdate="20170418T062512Z">
         <seg>この後の章では個々のインターフェイスパターン――モジュールあるいはコンポーネントとして確立された慣習――を詳しく見ていくことになりますが、その前に、それらのパターンが最終的にWebドキュメントに属することを理解しておかなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While some landmarks like &lt;g1&gt;banner&lt;/g1&gt; and &lt;g2&gt;main&lt;/g2&gt; can only occur once per page, it’s quite legitimate to use multiple navigation landmarks if the content merits them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T093920Z" creationid="yoota" creationdate="20170808T093920Z">
+        <seg>&lt;g1&gt;banner&lt;/g1&gt;や&lt;g2&gt;main&lt;/g2&gt;のように1つのページに1つしか設定できないランドマークもありますが、コンテンツにその価値がある場合は当然、複数のナビゲーションランドマークが必要になります。</seg>
       </tuv>
     </tu>
     <tu>
