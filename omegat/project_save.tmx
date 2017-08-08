@@ -13083,7 +13083,9 @@ safe in the knowledge は
 &gt;Confidently, because one is certain that something relevant to the situation is true. 
 ということですが、ここではthat 以下 (キーボードの機能がセクションに連れて行ってくれるであろうこと) を確信しているのだと思います。
 be transported は受動態のままではなく能動態に変えて訳すか。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK!</note>
       <tuv lang="EN-US">
         <seg>The upshot is that users navigating by keyboard can follow a link in a table of contents and be transported to that section safe in the knowledge that keyboard functionality will be localized to the section.</seg>
       </tuv>
@@ -14521,7 +14523,7 @@ https://github.com/mnater/Hyphenator
 
 (太田) hasLayoutバグは解説必要?
 
-</note>
+(伊原) おお、あまりに当たり前すぎていて訳注の必要性に気づきませんでした。必要ですね。</note>
       <tuv lang="EN-US">
         <seg>To make sequential focus navigation work in Internet Explorer, you have to overcome a longstanding &lt;g6&gt;hasLayout&lt;/g6&gt; bug.</seg>
       </tuv>
