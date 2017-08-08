@@ -13371,16 +13371,17 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 直前の文で同じことを行っているので、省略しつつ調整。
+      <note>※要訳注
+
+(伊原) 直前の文で同じことを行っているので、省略しつつ調整。
 
 (太田) 直前と同じに見えて、実はすこし掘り下げているように思いました。 ヘイドンさんの説明不足だと思いますが、record and retrieveというのは「途中まで読んだ状態を記録しておき、続きから読む」ということだと思います。そういう使われ方があって、それができないと困る人がいるという話をしているのだと思います。
-
-</note>
+いったん原文に沿って訳しつつ訳注ですかね?</note>
       <tuv lang="EN-US">
         <seg>This ability to record and retrieve subsections of documents is an integral part of the web experience, and one some users would miss if absent.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T093551Z" creationid="rikiha" creationdate="20170805T163320Z">
-        <seg>この記録と再生の機能はWebの体験において不可欠であり、これがないと困るというユーザーもいるでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T093631Z" creationid="rikiha" creationdate="20170805T163320Z">
+        <seg>このようにサブセクションの記録と再生の機能はWebの体験において不可欠であり、これがないと困るというユーザーもいるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
