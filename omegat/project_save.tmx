@@ -14439,6 +14439,9 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+complementary はroleか? あとで検討
+http://www.w3.org/TR/wai-aria/roles#complementary</note>
       <tuv lang="EN-US">
         <seg>To make the most of these two complementary navigation tools, the user needs to know which is which.</seg>
       </tuv>
