@@ -9352,14 +9352,16 @@ pushStateのほうがモダンな感じがしますが、どうでしょう。</
       <note>(伊原) 冗長だったので調整。
 
 (太田) 「本人」は少し強調しすぎで、責任の所在を話しているような印象を受けました。
+emulateはそのままエミュレートでも良いのかも。
+
 
 
 </note>
       <tuv lang="EN-US">
         <seg>Now that standard behavior has been usurped, the usurper needs to emulate it for us.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170805T225211Z" creationid="rikiha" creationdate="20170805T163225Z">
-        <seg>標準のふるまいを奪った本人に、そのふるまいを再現してもらう必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T073719Z" creationid="rikiha" creationdate="20170805T163225Z">
+        <seg>標準のふるまいを奪っのですから、そのふるまいを再現してもらう必要があります。</seg>
       </tuv>
     </tu>
     <tu>
