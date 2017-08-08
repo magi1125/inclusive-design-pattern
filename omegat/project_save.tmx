@@ -1482,6 +1482,15 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 前述のソースと同様に修正</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;&lt;/g56&gt;li&lt;/g55&gt;&lt;g57&gt;&gt;&lt;/g57&gt;&lt;/g54&gt;&lt;g58&gt;&lt;g59&gt;&lt;g60&gt;&lt;&lt;/g60&gt;a&lt;/g59&gt; &lt;g61&gt;href&lt;/g61&gt;&lt;g62&gt;&lt;g63&gt;=&lt;/g63&gt;"#endorsements"&lt;/g62&gt;&lt;g64&gt;&gt;&lt;/g64&gt;&lt;/g58&gt;Visit our office&lt;g65&gt;&lt;g66&gt;&lt;g67&gt;&lt;/&lt;/g67&gt;a&lt;/g66&gt;&lt;g68&gt;&gt;&lt;/g68&gt;&lt;/g65&gt;&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;/&lt;/g71&gt;li&lt;/g70&gt;&lt;g72&gt;&gt;&lt;/g72&gt;&lt;/g69&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170808T134331Z" creationid="rikiha" creationdate="20170808T134331Z">
+        <seg>&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;&lt;/g56&gt;li&lt;/g55&gt;&lt;g57&gt;&gt;&lt;/g57&gt;&lt;/g54&gt;&lt;g58&gt;&lt;g59&gt;&lt;g60&gt;&lt;&lt;/g60&gt;a&lt;/g59&gt; &lt;g61&gt;href&lt;/g61&gt;&lt;g62&gt;&lt;g63&gt;=&lt;/g63&gt;"#office"&lt;/g62&gt;&lt;g64&gt;&gt;&lt;/g64&gt;&lt;/g58&gt;Visit our office&lt;g65&gt;&lt;g66&gt;&lt;g67&gt;&lt;/&lt;/g67&gt;a&lt;/g66&gt;&lt;g68&gt;&gt;&lt;/g68&gt;&lt;/g65&gt;&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;/&lt;/g71&gt;li&lt;/g70&gt;&lt;g72&gt;&gt;&lt;/g72&gt;&lt;/g69&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)  元訳ではここに /* デフォルトなので、この行は不要です */  というコメントがありましたが電子版のファイルにはそのコメントはないようです。「デフォルトなので」は事実ではない (1em ならデフォルトだが 1remを指定することには別の意味がある) ので、コメントなしで良いかと思います。
 
 (伊原) LGTM</note>
@@ -1510,6 +1519,7 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) #endorsements➞#officeに修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g65&gt;&lt;g66&gt;&lt;g67&gt;&lt;&lt;/g67&gt;li&lt;/g66&gt;&lt;g68&gt;&gt;&lt;/g68&gt;&lt;/g65&gt;&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;&lt;/g71&gt;a&lt;/g70&gt; &lt;g72&gt;href&lt;/g72&gt;&lt;g73&gt;&lt;g74&gt;=&lt;/g74&gt;"#endorsements"&lt;/g73&gt;&lt;g75&gt;&gt;&lt;/g75&gt;&lt;/g69&gt;Visit our office&lt;g76&gt;&lt;g77&gt;&lt;g78&gt;&lt;/&lt;/g78&gt;a&lt;/g77&gt;&lt;g79&gt;&gt;&lt;/g79&gt;&lt;/g76&gt;&lt;g80&gt;&lt;g81&gt;&lt;g82&gt;&lt;/&lt;/g82&gt;li&lt;/g81&gt;&lt;g83&gt;&gt;&lt;/g83&gt;&lt;/g80&gt;</seg>
       </tuv>
