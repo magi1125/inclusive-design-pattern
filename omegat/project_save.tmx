@@ -9272,14 +9272,15 @@ http://chibinowa.net/note/js/smoothscroll.html
 pushStateのほうがモダンな感じがしますが、どうでしょう。
 
 (太田) 
-誤訳っぽいかも。スクロールした後にアドレスバーを更新する話です。
+誤訳っぽいかも。スクロールした後にアドレスバーのURLを更新する話です。
+注意→注目としました。
 戻れなくなるのは良くある問題ですね。訳注ですかね。
 </note>
       <tuv lang="EN-US">
         <seg>Note the line starting &lt;g1&gt;window.location.hash&lt;/g1&gt; which updates the URL after focus with the hash fragment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170808T005528Z" creationid="rikiha" creationdate="20170805T163308Z">
-        <seg>window.location.hashで始まる行に注意してください。ハッシュフラグメントによってフォーカスが当たり、URLが更新されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170808T092140Z" creationid="rikiha" creationdate="20170805T163308Z">
+        <seg>window.location.hashで始まる行に注目してください。ハッシュフラグメントによってフォーカスが当たり、URLが更新されます。</seg>
       </tuv>
     </tu>
     <tu>
