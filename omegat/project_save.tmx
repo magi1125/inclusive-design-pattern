@@ -14618,7 +14618,7 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
 参考:
 http://www.w3.org/TR/wai-aria/roles#complementary
 
-トリで良いような気がしてきました。
+なんかトリでも良いような気がしてきました。
 トリつつ調整してみました。</note>
       <tuv lang="EN-US">
         <seg>To make the most of these two complementary navigation tools, the user needs to know which is which.</seg>
@@ -15066,11 +15066,13 @@ http://www.w3.org/TR/wai-aria-1.1/#article
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>Visually speaking this is trivial, since their style and placement demarcate them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T094957Z" creationid="yoota" creationdate="20170808T094957Z">
-        <seg>目で見分けるのは簡単です。スタイルや配置で判断できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T085743Z" creationid="yoota" creationdate="20170808T094957Z">
+        <seg>視覚的に見分けるのは簡単で、スタイルや配置で判断できます。</seg>
       </tuv>
     </tu>
     <tu>
