@@ -15732,12 +15732,12 @@ belong toが「構成する」となっていますが、この章はドキュ�
     </tu>
     <tu>
       <note>(太田)
-「コンテンツにその価値がある場合は」要調整</note>
+「コンテンツにその価値がある場合は」→「コンテンツに必要な場合は」、かと思います。</note>
       <tuv lang="EN-US">
         <seg>While some landmarks like &lt;g1&gt;banner&lt;/g1&gt; and &lt;g2&gt;main&lt;/g2&gt; can only occur once per page, it’s quite legitimate to use multiple navigation landmarks if the content merits them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T093920Z" creationid="yoota" creationdate="20170808T093920Z">
-        <seg>&lt;g1&gt;banner&lt;/g1&gt;や&lt;g2&gt;main&lt;/g2&gt;のように1つのページに1つしか設定できないランドマークもありますが、コンテンツにその価値がある場合は当然、複数のナビゲーションランドマークが必要になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T084421Z" creationid="yoota" creationdate="20170808T093920Z">
+        <seg>&lt;g1&gt;banner&lt;/g1&gt;や&lt;g2&gt;main&lt;/g2&gt;のように、1つのページで1回しか使えないランドマークもありますが、コンテンツに必要であれば、複数のナビゲーションランドマークを使うことは理にかなっています。</seg>
       </tuv>
     </tu>
     <tu>
