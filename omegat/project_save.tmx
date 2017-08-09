@@ -13342,16 +13342,14 @@ convention は他のところでは「慣習」としていたのでここもそ
     </tu>
     <tu>
       <note>(太田)
-原文にない括弧はやめたい。
-complianceは要求を満たすことで、準拠でも間違いではないが変ではあるので訳を検討したい。
-
+原文にない括弧はやめたい。complianceは要求を満たすことで、準拠でも間違いではないが変ではあるので訳を検討したい。
 仕様では複数navigationが認められるが、複数あるとユーザーが混乱するという話。
-</note>
+意訳しつつ調整してみましたがどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>There’s a world of difference, however, between technical compliance and ensuring a good user experience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T094249Z" creationid="yoota" creationdate="20170808T094249Z">
-        <seg>しかし、「技術的準拠」と「優れたユーザー体験の確保」の間には大きな違いがあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T084745Z" creationid="yoota" creationdate="20170808T094249Z">
+        <seg>しかし、技術的に認められているというからといって、優れたユーザー体験を確保できるということにはなりません。</seg>
       </tuv>
     </tu>
     <tu>
