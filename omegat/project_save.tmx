@@ -1268,11 +1268,12 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) やや調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Unconventionally designed or difficult to discover menu systems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170809T102543Z" creationid="yoota" creationdate="20170809T102543Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;慣習を無視した、または見つけにくい（分かりづらい）メニューシステム。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T145921Z" creationid="yoota" creationdate="20170809T102543Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;型破りな、または探しにくいメニューシステム。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15818,8 +15819,8 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       <tuv lang="EN-US">
         <seg>When JavaScript was introduced to enhance scrolling behavior, we ensured it would both remain functional to keyboard users and degrade gracefully in the absence of the script.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170809T145542Z" creationid="yoota" creationdate="20170809T102452Z">
-        <seg>また、JavaScriptを使ってスクロールのふるまいを強化する例では、キーボードユーザーも利用できるようにすることと、グレイスフルデグラデーションでスクリプトが使えない場合に対応することを担保しました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T145618Z" creationid="yoota" creationdate="20170809T102452Z">
+        <seg>また、JavaScriptを使ってスクロールのふるまいを強化する例では、キーボードユーザーも利用できるようにすることと、グレイスフルデグラデーションでスクリプトが使えない場合にも対応することを担保しました。</seg>
       </tuv>
     </tu>
     <tu>
