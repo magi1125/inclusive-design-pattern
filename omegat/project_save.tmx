@@ -858,12 +858,12 @@ OK
     <tu>
       <note>(太田)
 「スクリーンリーダーの」はなくてもいいかも。
-</note>
+「ランドマーク要素リスト」は原文がそうなっていますが、NVDAではダイアログの名前は単に「要素リスト」で、ダイアログの中に「ランドマーク」というラジオボタンがある構造です。「要素リストでランドマークを表示」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;In the screen readers VoiceOver, NVDA and JAWS, the navigation landmark will be distinctly labeled as “Contents navigation” in the landmark elements list.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170809T100650Z" creationid="yoota" creationdate="20170808T100301Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;スクリーンリーダーのVoiceOver、NVDA、JAWSのランドマーク要素リストでは、ナビゲーションランドマークは「＃＃Contents navigation＃＃」というラベルで区別されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T101733Z" creationid="yoota" creationdate="20170808T100301Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;スクリーンリーダーのVoiceOver、NVDA、JAWSの要素リストでランドマークを表示すると、ナビゲーションランドマークは「目次 ナビゲーション 」というラベルで区別されます。</seg>
       </tuv>
     </tu>
     <tu>
