@@ -13079,12 +13079,16 @@ shouldはここでは「そうであろう」というような意味。
 
 括弧書きのMicrosoft Word documentが意味不明感があります。実際にはMS Wordの機能では好きな場所に目次を挿入できるのですが。訳注いりますかね?
 
+(伊原) 「&lt;main&gt;のコンテンツの上」、という書き方だと、mainの中のコンテンツの上（つまりmainの中）と読めそうだったので、単に「&lt;main＞の上に、目次は中に」としてみました。
+
+Wordにあるような感じというのは、そもそもどんな感じなのかあまり思い浮かびませんでした…w　「Word 目次」で画像検索しても、ドキュメント冒頭に目次ページを設ける例ばかりですし。
+ここをイキにするなら要訳注かなと。
 </note>
       <tuv lang="EN-US">
         <seg>The site navigation should appear above the &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; content and the table of contents within it (preferably directly below the document’s principal &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; heading, as it would in a Microsoft Word document).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170809T090614Z" creationid="yoota" creationdate="20170808T095258Z">
-        <seg>サイトナビゲーションは&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;のコンテンツの上に、目次は中にあるでしょう（ドキュメントの主要な &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt;見出しのすぐ下が好ましいでしょう。Microsoft Word文書でよく見かけるような感じです）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T130632Z" creationid="yoota" creationdate="20170808T095258Z">
+        <seg>サイトナビゲーションは&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;の上に、目次は中にあるでしょう（ドキュメントの主要な &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt;見出しのすぐ下が好ましいでしょう。Microsoft Word文書でよく見かけるような感じです）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15193,7 +15197,9 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Visually speaking this is trivial, since their style and placement demarcate them.</seg>
       </tuv>
