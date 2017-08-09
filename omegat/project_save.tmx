@@ -7114,8 +7114,8 @@ becauseを訳出しました。
       <tuv lang="EN-US">
         <seg>In the following example, the text node “Contents” (of the &lt;g2&gt;&lt;h2&gt;&lt;/g2&gt;) becomes the label of the region using its &lt;g3&gt;id&lt;/g3&gt; as the &lt;g4&gt;aria-labelledby&lt;/g4&gt; value.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170809T094437Z" creationid="yoota" creationdate="20170808T095630Z">
-        <seg>次の例では、「目次」というテキストノード（&lt;g2&gt;&lt;h2&gt;&lt;/g2&gt;の内容）をこの領域のラベルにするため、見出しの&lt;g3&gt;id&lt;/g3&gt;を&lt;g4&gt;aria-labelledby&lt;/g4&gt;の値として指定しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T094547Z" creationid="yoota" creationdate="20170808T095630Z">
+        <seg>次の例では、見出しの&lt;g3&gt;id&lt;/g3&gt;を&lt;g4&gt;aria-labelledby&lt;/g4&gt;の値として指定しているため、「目次」というテキストノード（&lt;g2&gt;&lt;h2&gt;&lt;/g2&gt;の内容）がこの領域のラベルになります。</seg>
       </tuv>
     </tu>
     <tu>
