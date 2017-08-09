@@ -857,11 +857,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ちょっと調整。Foregoingの意味がちょっと不明。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Foregoing unique labels where more than one &lt;g2&gt;&lt;nav&gt;&lt;/g2&gt; is present.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170809T102600Z" creationid="yoota" creationdate="20170809T102600Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;一意のラベルを付けずに&lt;nav&gt;を複数定義する。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T150754Z" creationid="yoota" creationdate="20170809T102600Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;複数の&lt;g2&gt;&lt;nav&gt;&lt;/g2&gt;が存在するが一意のラベルがついていない。</seg>
       </tuv>
     </tu>
     <tu>
