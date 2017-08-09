@@ -3627,11 +3627,14 @@ buildingがどこにくっついているのかよくわかりません。元訳
       </tuv>
     </tu>
     <tu>
-      <note>
+      <note>(太田)
+NVDAでは以下のように読みました。
+
 contents ナビゲーション ランドマーク 
 リスト 4項目  
-• 
-Our history</note>
+Our history
+
+contentsとOur historyは訳す感じですかね。</note>
       <tuv lang="EN-US">
         <seg>By focusing the “Our history” link in the previous example, “&lt;g2&gt;contents&lt;/g2&gt; navigation landmark, list, one of four items, our history, link” (or similar) would be announced.</seg>
       </tuv>
