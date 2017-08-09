@@ -825,10 +825,26 @@ OK
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Foregoing unique labels where more than one &lt;g2&gt;&lt;nav&gt;&lt;/g2&gt; is present.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T102600Z" creationid="yoota" creationdate="20170809T102600Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;一意のラベルを付けずに&lt;nav&gt;を複数定義する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Headings</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T095137Z" creationid="yoota" creationdate="20170523T095137Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;見出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Hijacking link behavior without considering focus management.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T102603Z" creationid="yoota" creationdate="20170809T102549Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;フォーカス管理を考えずにリンクの動作を「ハイジャック」する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1041,6 +1057,14 @@ https://www.nvda.jp/nvda2016.1jp/ja/keyCommands.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Relying on color alone to indicate the current page or section.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T102605Z" creationid="yoota" creationdate="20170809T102546Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt; 現在のページやセクションを色だけで区別する。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「皆さん」をどうするか。「晴眼者」的なことにしてもよいですが、chapter-9では「目が見えている」としたのでここもそうしてみました。
 
@@ -1206,6 +1230,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T062937Z" creationid="yoota" creationdate="20170426T062833Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt; ブラウザのバグや奇妙なふるまい（これも要するにバグ）のせいで、デフォルトの表示倍率では正しく表示されないことがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Unconventionally designed or difficult to discover menu systems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T102543Z" creationid="yoota" creationdate="20170809T102543Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;慣習を無視した、または見つけにくい（分かりづらい）メニューシステム。</seg>
       </tuv>
     </tu>
     <tu>
