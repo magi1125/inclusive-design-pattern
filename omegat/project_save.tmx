@@ -7193,11 +7193,13 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。「代わりに」はなくても良いかも。</note>
       <tuv lang="EN-US">
         <seg>In which case, the &lt;g1&gt;aria-label&lt;/g1&gt; attribute can be attached directly to the landmark instead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170809T095143Z" creationid="yoota" creationdate="20170808T095705Z">
-        <seg>その場合、ランドマークに対して直接&lt;g1&gt;aria-label&lt;/g1&gt;属性を指定することもできます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T095205Z" creationid="yoota" creationdate="20170808T095705Z">
+        <seg>ランドマークに対して直接&lt;g1&gt;aria-label&lt;/g1&gt;属性を指定することもできます。</seg>
       </tuv>
     </tu>
     <tu>
