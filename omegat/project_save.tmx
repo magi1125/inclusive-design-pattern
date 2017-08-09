@@ -14275,11 +14275,13 @@ correctedは修正された、ですが若干違和感があります。訳す�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+調整。分かりにくかったので2文にしてみました。</note>
       <tuv lang="EN-US">
         <seg>Though a heading is recommended to support screen reader heading navigation, and to add lexical clarity for users of all kinds, it’s not obligatory.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170809T094832Z" creationid="yoota" creationdate="20170808T095655Z">
-        <seg>見出しを使えば、スクリーンリーダーの見出しナビゲーションにだけでなく、あらゆるユーザーに明確に伝わるようになります。そのため、見出しを使うことをお勧めしますが、これは必須というわけではありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T095015Z" creationid="yoota" creationdate="20170808T095655Z">
+        <seg>見出しを使うことをお勧めするのは、スクリーンリーダーの見出しナビゲーションに対応するだけでなく、あらゆるユーザーに明確に伝わるようになるためです。とはいえ、見出しがなければいけないというわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
