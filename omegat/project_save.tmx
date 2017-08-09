@@ -1241,11 +1241,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+contextual informationをどう訳すか。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;When a screen reader user focuses a link inside the navigation landmark, the label is added to the contextual information announced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170809T100010Z" creationid="yoota" creationdate="20170808T100234Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;スクリーンリーダーユーザーがナビゲーションランドマーク内のリンクにフォーカスを移すと、状況によって変わる情報にプラスしてラベルが読み上げられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T100133Z" creationid="yoota" creationdate="20170808T100234Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;スクリーンリーダーユーザーがナビゲーションランドマーク内のリンクにフォーカスを移すと、コンテキストの情報にプラスしてラベルが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
