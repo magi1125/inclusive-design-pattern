@@ -907,12 +907,14 @@ OK
     <tu>
       <note>(太田)
 「スクリーンリーダーの」はなくてもいいかも。
-「ランドマーク要素リスト」は原文がそうなっていますが、NVDAではダイアログの名前は単に「要素リスト」で、ダイアログの中に「ランドマーク」というラジオボタンがある構造です。「要素リストでランドマークを表示」としました。</note>
+「ランドマーク要素リスト」は原文がそうなっていますが、NVDAではダイアログの名前は単に「要素リスト」で、ダイアログの中に「ランドマーク」というラジオボタンがある構造です。「要素リストでランドマークを表示」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;In the screen readers VoiceOver, NVDA and JAWS, the navigation landmark will be distinctly labeled as “Contents navigation” in the landmark elements list.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170809T101807Z" creationid="yoota" creationdate="20170808T100301Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;スクリーンリーダーのVoiceOver、NVDA、JAWSの要素リストでランドマークを表示すると、このナビゲーションランドマークは「目次 ナビゲーション」というラベルで表示され、区別ですることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T135906Z" creationid="yoota" creationdate="20170808T100301Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;VoiceOver、NVDA、JAWSの要素リストでランドマークを表示すると、このナビゲーションランドマークは「目次 ナビゲーション」というラベルで表示され、区別ですることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3964,7 +3966,9 @@ contents ナビゲーション ランドマーク
 リスト 4項目  
 Our history
 
-contentsとOur historyは訳す感じですかね。だとするとソースコード中も訳す必要がありますね。</note>
+contentsとOur historyは訳す感じですかね。だとするとソースコード中も訳す必要がありますね。
+
+(伊原) OK. 訳しておきました。</note>
       <tuv lang="EN-US">
         <seg>By focusing the “Our history” link in the previous example, “&lt;g2&gt;contents&lt;/g2&gt; navigation landmark, list, one of four items, our history, link” (or similar) would be announced.</seg>
       </tuv>
