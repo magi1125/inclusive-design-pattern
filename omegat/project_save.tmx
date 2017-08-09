@@ -961,6 +961,14 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Navigation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T093956Z" creationid="yoota" creationdate="20170809T093956Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 注記➞補足</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Notes about the score.</seg>
@@ -2419,6 +2427,8 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
     <tu>
       <note>(太田)
 日本語のスクリーンリーダーでランドマーク一覧がどう表示されるか要確認。
+NVDAでは「ナビゲーション」でした。
+
 wouldなので語尾を少しやわらかめに。</note>
       <tuv lang="EN-US">
         <seg>Accordingly, two navigation landmarks would be listed as:</seg>
@@ -5370,8 +5380,7 @@ http://www.dictionary.com/browse/radical
     <tu>
       <note>(太田)
 微調整。
-
-NVDAの場合 NVDA+F7で「要素リスト」というダイアログが出ます。</note>
+ちなみにNVDAの場合 NVDA+F7で「要素リスト」というダイアログが出ます。</note>
       <tuv lang="EN-US">
         <seg>However, as you may remember from “A Blog Post,” screen readers aggregate headings, links and landmarks into lists, providing tables of contents of their own.</seg>
       </tuv>
