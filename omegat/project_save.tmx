@@ -1278,7 +1278,9 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
     <tu>
       <note>(太田)
 contextual informationをどう訳すか。
-いったん「コンテキストの情報」としてみました。</note>
+いったん「コンテキストの情報」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;When a screen reader user focuses a link inside the navigation landmark, the label is added to the contextual information announced.</seg>
       </tuv>
@@ -6490,7 +6492,9 @@ cognitive cacheは経験キャッシュとしてみました。
     <tu>
       <note>(太田)
 2通りと言われると or の関係に見えますね。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In either implementation, there are two upshots:</seg>
       </tuv>
@@ -7278,7 +7282,9 @@ becauseを訳出しました。
     </tu>
     <tu>
       <note>(太田)
-微調整。「代わりに」はなくても良いかも。</note>
+微調整。「代わりに」はなくても良いかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In which case, the &lt;g1&gt;aria-label&lt;/g1&gt; attribute can be attached directly to the landmark instead.</seg>
       </tuv>
