@@ -9544,13 +9544,13 @@ familiarを「十分に学習してきた」としていますが、「十分に
       <note>(伊原) 「ページ内ナビゲーションランドマーク」がちょっと謎。そんな言い方はいままで出てきてなくて「目次」だったような。
 
 (太田) 「ナビゲーションランドマークがダブる」という話なのであえて言い方をそろえたのだと思います。
-どちらかというと spawn をどう訳すかが難しい気がしていて、ここでは「むやみにたくさん増やす」的なニュアンスがこめられているはずです (前にも同じニュアンスで出てきましたが)。
-</note>
+どちらかというと spawn をどう訳すかが難しい気がしていて、植物や虫なんかがわらわら湧いてくるようなイメージですが、ここでは「むやみにたくさん増やす」的なニュアンスがこめられているはずです (前にも同じニュアンスで出てきましたが)。
+ひとまず「追加する」的な訳にしてみました。</note>
       <tuv lang="EN-US">
         <seg>Now we’ve spawned an in-page navigation landmark, introducing a second region to our pages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T093905Z" creationid="yoota" creationdate="20170808T093905Z">
-        <seg>それから、ページ内ナビゲーションランドマークを使って現在のページの別の領域に移動する方法も学びました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T084102Z" creationid="yoota" creationdate="20170808T093905Z">
+        <seg>それから、ページ内リンクのナビゲーションランドマークを追加して、現在のページの別の領域に移動できるようにしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15138,11 +15138,13 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+話の流れ的に「考察した」のではなく「設置した」という話だと思います。</note>
       <tuv lang="EN-US">
         <seg>We began by formulating a site-wide navigation landmark.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T093831Z" creationid="yoota" creationdate="20170808T093831Z">
-        <seg>この章では最初に、サイト内共通のナビゲーションランドマークについて考察しました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T084050Z" creationid="yoota" creationdate="20170808T093831Z">
+        <seg>この章では最初に、サイト内共通のナビゲーションランドマークを設置しました。</seg>
       </tuv>
     </tu>
     <tu>
