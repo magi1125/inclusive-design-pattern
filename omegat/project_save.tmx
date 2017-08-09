@@ -5295,11 +5295,12 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) progressively enhanced は「段階的に強化」と訳すより、プログレッシブ・エンハンスメントと言ったほうがいいのではと考えました。</note>
       <tuv lang="EN-US">
         <seg>For this pattern, we progressively enhanced one of HTML’s primitives, lists, to create the inclusive means to navigate within and between web pages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170809T142806Z" creationid="yoota" creationdate="20170809T102437Z">
-        <seg>このパターンでは、HTMLの基本の1つであるリストに対してプログレッシブ・エンハンスメントを施し、サイト内およびページ内をナビゲートするインクルーシブな方法を考案しました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T142915Z" creationid="yoota" creationdate="20170809T102437Z">
+        <seg>このパターンでは、HTMLの基本の1つである箇条書きリストに対してプログレッシブ・エンハンスメントを施し、サイト内およびページ内をナビゲートするためのインクルーシブな方法を考案しました。</seg>
       </tuv>
     </tu>
     <tu>
