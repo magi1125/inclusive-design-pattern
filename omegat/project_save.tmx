@@ -7192,7 +7192,9 @@ becauseを訳出しました。
     </tu>
     <tu>
       <note>(太田)
-全体少し調整。</note>
+全体少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the following example, the text node “Contents” (of the &lt;g2&gt;&lt;h2&gt;&lt;/g2&gt;) becomes the label of the region using its &lt;g3&gt;id&lt;/g3&gt; as the &lt;g4&gt;aria-labelledby&lt;/g4&gt; value.</seg>
       </tuv>
