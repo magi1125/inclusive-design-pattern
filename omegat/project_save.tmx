@@ -10956,6 +10956,8 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+WCAG日本語訳で「コンテキスト」という言葉を使っているので、decontextualize は「コンテキストから外れても」とするのがよさそう。</note>
       <tuv lang="EN-US">
         <seg>So that headings and links make sense decontextualized in such a fashion, you need to write autonomous, self-describing labels.</seg>
       </tuv>
