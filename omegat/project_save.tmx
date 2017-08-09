@@ -2529,6 +2529,14 @@ wouldなので語尾を少しやわらかめに。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Along the way, I covered design provisions transferable to many other patterns, including logical source order and the virtue of eliminating redundancy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T102445Z" creationid="yoota" creationdate="20170809T102445Z">
+        <seg>その中で、論理的なソースの順序や、重複をなくす方法など、さまざまなパターンに応用できるデザイン対策も学びました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ダイアログにメニューとして〜がややこしかったので調整。
 
 (太田) 勝手に表示されるわけではなく、表示させる機能があるという話と思われます。ダイアログかどうかはそこまで重要ではないはずなので、「ランドマークを一覧表示することができ」、としてみました。
@@ -4961,6 +4969,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091841Z" creationid="okamoto_jun" creationdate="20170627T091841Z">
         <seg>この本のテーマと目的からすると、最後の原則が最も重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For this pattern, we progressively enhanced one of HTML’s primitives, lists, to create the inclusive means to navigate within and between web pages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T102437Z" creationid="yoota" creationdate="20170809T102437Z">
+        <seg>今回のパターンでは、HTMLの基本の1つであるリストを段階的に強化して、Webページ内およびWebページ間をナビゲートするインクルーシブな手段を作成しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15439,6 +15455,14 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170622T030945Z" creationid="yoota" creationdate="20170622T023554Z">
         <seg>本書の執筆に着手したとき、私は最初にラフなアウトラインを作りました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When JavaScript was introduced to enhance scrolling behavior, we ensured it would both remain functional to keyboard users and degrade gracefully in the absence of the script.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T102452Z" creationid="yoota" creationdate="20170809T102452Z">
+        <seg>また、JavaScriptを使ってスクロール動作を強化する例では、キーボードユーザーも利用できるようにすることと、スクリプトが使えない場合のグレイスフルデグラデーションを念頭に置きました。</seg>
       </tuv>
     </tu>
     <tu>
