@@ -8950,11 +8950,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。
+グローバルなは「グローバル属性」と補いました。</note>
       <tuv lang="EN-US">
         <seg>Never fear: thanks to WAI-ARIA’s global &lt;g1&gt;aria-labelledby&lt;/g1&gt; relationship attribute, we can provide an auxiliary label via the existing heading element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T095614Z" creationid="yoota" creationdate="20170808T095525Z">
-        <seg>大丈夫、心配はいりません。WAI-ARIAのグローバルな&lt;g1&gt;aria-labelledby&lt;/g1&gt;リレーションシップ属性を使えば、既存の見出し要素を用いて補助的なラベルを付けることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T094217Z" creationid="yoota" creationdate="20170808T095525Z">
+        <seg>大丈夫、心配はいりません。WAI-ARIAのグローバル属性である&lt;g1&gt;aria-labelledby&lt;/g1&gt;リレーションシップ属性を使えば、既存の見出し要素を用いて補助的なラベルを付けることができます。</seg>
       </tuv>
     </tu>
     <tu>
