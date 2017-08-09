@@ -2418,12 +2418,13 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
     </tu>
     <tu>
       <note>(太田)
-日本語のスクリーンリーダーでランドマーク一覧がどう表示されるか要確認。</note>
+日本語のスクリーンリーダーでランドマーク一覧がどう表示されるか要確認。
+wouldなので語尾を少しやわらかめに。</note>
       <tuv lang="EN-US">
         <seg>Accordingly, two navigation landmarks would be listed as:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T095514Z" creationid="yoota" creationdate="20170808T095514Z">
-        <seg>したがって、2つのナビゲーションランドマークは次のようにリストされます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T092940Z" creationid="yoota" creationdate="20170808T095514Z">
+        <seg>したがって、2つのナビゲーションランドマークは次のようにリストされるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
