@@ -2354,6 +2354,15 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       </tuv>
     </tu>
     <tu>
+      <note>※この節確認中。</note>
+      <tuv lang="EN-US">
+        <seg>A Menu Button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152151Z" creationid="rikiha" creationdate="20170809T152151Z">
+        <seg>メニューボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Note は訳出したいです。
 
 (伊原) LGTM</note>
@@ -2830,6 +2839,14 @@ wouldなので語尾を少しやわらかめに。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>All these things have to be taken into account.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152202Z" creationid="rikiha" creationdate="20170809T152202Z">
+        <seg>こうしたことすべてを考慮に入れなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 微調整。
 
@@ -3207,6 +3224,14 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T063616Z" creationid="yoota" creationdate="20170426T063242Z">
         <seg>経験から言って、固定配置の要素、特に&lt;g2&gt;position:fixed&lt;/g2&gt;で固定したものは避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a rule of thumb, if the menu has fewer than five items, just lay them out; make them available to the user at all times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152207Z" creationid="rikiha" creationdate="20170809T152207Z">
+        <seg>経験から言うと、メニュー項目が5つに満たない場合は、単純に項目を並べて、ユーザーがいつでも使えるようにすべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4823,6 +4848,14 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>First of all, though, it needs to be stated that — like drop-down menus — if you don’t need a menu button, don’t involve one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152204Z" creationid="rikiha" creationdate="20170809T152204Z">
+        <seg>しかし最初に言っておきますが、ドロップダウンメニュー同様、メニューボタンも必要がなければ使わないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文は一文で、tooを訳出する都合で2文に分けたのだと思いますが、tooはなくても通じるのでシンプルにしてみました。
 リスナー→イベントリスナーと補いました。
@@ -5692,6 +5725,14 @@ http://www.dictionary.com/browse/radical
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hiding functionality away from users and requiring them to perform an additional action to reveal that functionality is always a last resort.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152213Z" creationid="rikiha" creationdate="20170809T152213Z">
+        <seg>機能を隠して、ユーザーがわざわざ操作しないと表示されないようにするのは、常に最後の手段です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How To Mark Up Blog Articles &lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;&lt;/g8&gt;span&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;In Seven Easy Steps&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;/&lt;/g12&gt;span&lt;/g11&gt;&lt;g13&gt;&gt;&lt;/g13&gt;&lt;/g10&gt;
 &lt;g14&gt;&lt;g15&gt;&lt;g16&gt;&lt;/&lt;/g16&gt;h1&lt;/g15&gt;&lt;g17&gt;&gt;&lt;/g17&gt;&lt;/g14&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -6113,6 +6154,14 @@ a element ではなく elements であることに意味があるように思い
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101643Z" creationid="okamoto_jun" creationdate="20170627T101643Z">
         <seg>しかし、すべての色の組み合わせのわずか1%だけがアクセシブルなのだとしても、およそ1億4千万通りの組み合わせから選べることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If only a few menu items are needed, the menu button is a solution to a problem that does not exist.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152216Z" creationid="rikiha" creationdate="20170809T152216Z">
+        <seg>必要なメニュー項目がほんの数個であれば、？？問題はないのでメニューボタンを使う必要はありません。？？【コメント：意訳しています。原文「the menu button is a solution to a problem that does not exist.」】</seg>
       </tuv>
     </tu>
     <tu>
@@ -6778,6 +6827,14 @@ cognitive cacheは経験キャッシュとしてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T052705Z" creationid="yoota" creationdate="20170511T052337Z">
         <seg>デスクトップパブリッシングでは、ハイフネーションでこの問題を軽減できます。長い単語を分割し、より均等に再割り付けするのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In desktop viewports, there’s rarely &lt;g1&gt;any&lt;/g1&gt; reason to hide a navigation menu away, regardless of the number of items it contains.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152210Z" creationid="rikiha" creationdate="20170809T152210Z">
+        <seg>また、デスクトップのビューポートの場合は、項目の数にかかわらず、ナビゲーションメニューを隠さなければならない理由はほとんどありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9097,6 +9154,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Louie A points out in “&lt;g1&gt;&lt;g2&gt;Why and How to Avoid Hamburger Menus&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;” that foregoing the button is often a question of information architecture.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152219Z" creationid="rikiha" creationdate="20170809T152219Z">
+        <seg>ルイ・A（Louie A）は「Why and How to Avoid Hamburger Menus」（脚注98）の中で、？？情報アーキテクチャを見直せばボタンの使用を控えることができる場合が多いと指摘しています。？？【コメント：意訳しています。原文「foregoing the button is often a question of information architecture.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 語順を原文に合わせて調整。</note>
       <tuv lang="EN-US">
         <seg>Mac users who want to see what their web pages look like without color can go to &lt;g4&gt;System Preferences… → Accessibility → Display&lt;/g4&gt; and check &lt;g5&gt;Use grayscale&lt;/g5&gt;.&lt;/g3&gt;</seg>
@@ -9443,6 +9508,14 @@ http://eigo-kobako.blog.so-net.ne.jp/2015-07-14
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170801T073019Z" creationid="rikiha" creationdate="20170722T234004Z">
         <seg>ともあれ、ページ領域の索引をスクリーンリーダーが自動生成してくれるのは助かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nonetheless, not all applications are reducible to only a handful of views or actions and, since menu buttons are close to ubiquitous, we should formulate an inclusive implementation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152227Z" creationid="rikiha" creationdate="20170809T152227Z">
+        <seg>とはいえ、すべてのアプリケーションのビューやアクションの数を減らせるわけではありません。また、メニューボタンはあちこちに使われるものなので、インクルーシブな実装パターンを考える必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10772,6 +10845,14 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Revealing the menu should be at the user’s discretion, so we provide a button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152156Z" creationid="rikiha" creationdate="20170809T152156Z">
+        <seg>その場合は、ユーザーが好きなときにメニューを表示できるように、ボタンを用意します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>（伊原：確認中）
 
 (太田) 原文どおりではあるものの Mac OS Xという表記は正確ではないと思われる (2012年のOS X Mountain Lion以降は単に "OS X" で Mac とつかないはず)。 
@@ -11560,6 +11641,14 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T084438Z" creationid="yoota" creationdate="20170524T084139Z">
         <seg>技術的に正しい要素を使用していても、それが全くサポートされておらず、誰が見ても何の効果も発揮しないことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes we hide menus away (like the navigation regions of the last chapter), putting the content center stage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152154Z" creationid="rikiha" creationdate="20170809T152154Z">
+        <seg>コンテンツを引き立てるために、（前の章のナビゲーション領域のような）メニューをあえて隠すこともあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15707,6 +15796,14 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T034043Z" creationid="yoota" creationdate="20170512T034043Z">
         <seg>地味なパラグラフテキストのデザインには、皆さんが最初にイメージしていたよりも、おそらくたくさんのことが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Were menu buttons straightforward and uncontroversial, I could have folded this pattern into the last one, but, alas, there are a number of challenges and concerns to address: the method of rendering the menu icon; how to make it easily intelligible; how to label it accessibly; the communication of open and closed menu states; the ergonomics of touch operation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T152159Z" creationid="rikiha" creationdate="20170809T152159Z">
+        <seg>メニューボタンが単純明快で議論の余地がないなら、前章のパターンに含めてしまうこともできました。しかし残念ながら、そうはいきません。メニューアイコンの表示方法、どうすれば分かりやすいボタンにできるか、アクセシブルなラベルの付け方、メニューの状態（開いている／閉じている）の伝え方、タッチ操作の人間工学的側面など、対処しなければならない課題や懸念事項がたくさんあります。</seg>
       </tuv>
     </tu>
     <tu>
