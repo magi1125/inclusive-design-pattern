@@ -2158,11 +2158,15 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「一方」はどこから来たのか謎ですがいらないような。
+
+</note>
       <tuv lang="EN-US">
         <seg>A heading, such as the “Contents” &lt;g3&gt;&lt;h2&gt;&lt;/g3&gt; in the previous example, helps if the user is navigating by heading shortcut.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T095437Z" creationid="yoota" creationdate="20170808T095437Z">
-        <seg>一方、前の例で取り上げた「目次」の&lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;のような見出しは、ユーザーが見出しのショートカットを使ってナビゲートする際に役立ちます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T091602Z" creationid="yoota" creationdate="20170808T095437Z">
+        <seg>前の例で取り上げた「目次」の&lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;のような見出しは、ユーザーが見出しのショートカットを使ってナビゲートする際に役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
