@@ -14617,12 +14617,13 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
 ここの complementary はroleではないにしてもroleを意識はしているはずで、mainに属さない補足的なものが2つあるという意味なのではないか。
 参考:
 http://www.w3.org/TR/wai-aria/roles#complementary
-</note>
+
+トリで良いような気がしてきました。</note>
       <tuv lang="EN-US">
         <seg>To make the most of these two complementary navigation tools, the user needs to know which is which.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T094307Z" creationid="yoota" creationdate="20170808T094307Z">
-        <seg>互いに補完し合う2つのナビゲーションツールを最大限に活用するためには、ユーザーは両者を区別できなければなりません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170809T085555Z" creationid="yoota" creationdate="20170808T094307Z">
+        <seg>この2つのナビゲーションツールを最大限に活用するためには、ユーザーは両者を区別できなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
