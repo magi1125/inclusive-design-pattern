@@ -13460,7 +13460,9 @@ convention は他のところでは「慣習」としていたのでここもそ
       <note>(太田)
 原文にない括弧はやめたい。complianceは要求を満たすことで、準拠でも間違いではないが変ではあるので訳を検討したい。
 仕様では複数navigationが認められるが、複数あるとユーザーが混乱するという話。
-意訳しつつ調整してみましたがどうでしょうか。</note>
+意訳しつつ調整してみましたがどうでしょうか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>There’s a world of difference, however, between technical compliance and ensuring a good user experience.</seg>
       </tuv>
@@ -14737,7 +14739,9 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
 http://www.w3.org/TR/wai-aria/roles#complementary
 
 なんかトリでも良いような気がしてきました。
-トリつつ調整してみました。</note>
+トリつつ調整してみました。
+
+(伊原) OK.</note>
       <tuv lang="EN-US">
         <seg>To make the most of these two complementary navigation tools, the user needs to know which is which.</seg>
       </tuv>
