@@ -291,6 +291,14 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;li&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g16&gt;&lt;g20&gt;&lt;g21&gt;&lt;g22&gt;&lt;&lt;/g22&gt;a&lt;/g21&gt; &lt;g23&gt;href&lt;/g23&gt;&lt;g24&gt;&lt;g25&gt;=&lt;/g25&gt;"#history"&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g20&gt;Our history&lt;g27&gt;&lt;g28&gt;&lt;g29&gt;&lt;/&lt;/g29&gt;a&lt;/g28&gt;&lt;g30&gt;&gt;&lt;/g30&gt;&lt;/g27&gt;&lt;g31&gt;&lt;g32&gt;&lt;g33&gt;&lt;/&lt;/g33&gt;li&lt;/g32&gt;&lt;g34&gt;&gt;&lt;/g34&gt;&lt;/g31&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T134644Z" creationid="rikiha" creationdate="20170809T134644Z">
+        <seg>&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;li&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g16&gt;&lt;g20&gt;&lt;g21&gt;&lt;g22&gt;&lt;&lt;/g22&gt;a&lt;/g21&gt; &lt;g23&gt;href&lt;/g23&gt;&lt;g24&gt;&lt;g25&gt;=&lt;/g25&gt;"#history"&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g20&gt;沿革&lt;g27&gt;&lt;g28&gt;&lt;g29&gt;&lt;/&lt;/g29&gt;a&lt;/g28&gt;&lt;g30&gt;&gt;&lt;/g30&gt;&lt;/g27&gt;&lt;g31&gt;&lt;g32&gt;&lt;g33&gt;&lt;/&lt;/g33&gt;li&lt;/g32&gt;&lt;g34&gt;&gt;&lt;/g34&gt;&lt;/g31&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;h2&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g17&gt;In Seven Simple Steps&lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;/&lt;/g23&gt;h2&lt;/g22&gt;&lt;g24&gt;&gt;&lt;/g24&gt;&lt;/g21&gt; &lt;g25&gt;&lt;!-- this should not be a heading --&gt;&lt;/g25&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T100838Z" creationid="yoota" creationdate="20170523T093820Z">
@@ -1425,6 +1433,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g27&gt;&lt;g28&gt;&lt;g29&gt;&lt;&lt;/g29&gt;li&lt;/g28&gt;&lt;g30&gt;&gt;&lt;/g30&gt;&lt;/g27&gt;&lt;g31&gt;&lt;g32&gt;&lt;g33&gt;&lt;&lt;/g33&gt;a&lt;/g32&gt; &lt;g34&gt;href&lt;/g34&gt;&lt;g35&gt;&lt;g36&gt;=&lt;/g36&gt;"#history"&lt;/g35&gt;&lt;g37&gt;&gt;&lt;/g37&gt;&lt;/g31&gt;Our history&lt;g38&gt;&lt;g39&gt;&lt;g40&gt;&lt;/&lt;/g40&gt;a&lt;/g39&gt;&lt;g41&gt;&gt;&lt;/g41&gt;&lt;/g38&gt;&lt;g42&gt;&lt;g43&gt;&lt;g44&gt;&lt;/&lt;/g44&gt;li&lt;/g43&gt;&lt;g45&gt;&gt;&lt;/g45&gt;&lt;/g42&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T134609Z" creationid="rikiha" creationdate="20170809T134609Z">
+        <seg>&lt;g27&gt;&lt;g28&gt;&lt;g29&gt;&lt;&lt;/g29&gt;li&lt;/g28&gt;&lt;g30&gt;&gt;&lt;/g30&gt;&lt;/g27&gt;&lt;g31&gt;&lt;g32&gt;&lt;g33&gt;&lt;&lt;/g33&gt;a&lt;/g32&gt; &lt;g34&gt;href&lt;/g34&gt;&lt;g35&gt;&lt;g36&gt;=&lt;/g36&gt;"#history"&lt;/g35&gt;&lt;g37&gt;&gt;&lt;/g37&gt;&lt;/g31&gt;沿革&lt;g38&gt;&lt;g39&gt;&lt;g40&gt;&lt;/&lt;/g40&gt;a&lt;/g39&gt;&lt;g41&gt;&gt;&lt;/g41&gt;&lt;/g38&gt;&lt;g42&gt;&lt;g43&gt;&lt;g44&gt;&lt;/&lt;/g44&gt;li&lt;/g43&gt;&lt;g45&gt;&gt;&lt;/g45&gt;&lt;/g42&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) "external link" はふつうにユーザーに読ませるテキストなので、訳すべきかなと。
 </note>
       <tuv lang="EN-US">
@@ -1492,6 +1508,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g35&gt;&lt;g36&gt;&lt;g37&gt;&lt;&lt;/g37&gt;li&lt;/g36&gt;&lt;g38&gt;&gt;&lt;/g38&gt;&lt;/g35&gt;&lt;g39&gt;&lt;g40&gt;&lt;g41&gt;&lt;&lt;/g41&gt;a&lt;/g40&gt; &lt;g42&gt;href&lt;/g42&gt;&lt;g43&gt;&lt;g44&gt;=&lt;/g44&gt;"#services"&lt;/g43&gt;&lt;g45&gt;&gt;&lt;/g45&gt;&lt;/g39&gt;The services we offer&lt;g46&gt;&lt;g47&gt;&lt;g48&gt;&lt;/&lt;/g48&gt;a&lt;/g47&gt;&lt;g49&gt;&gt;&lt;/g49&gt;&lt;/g46&gt;&lt;g50&gt;&lt;g51&gt;&lt;g52&gt;&lt;/&lt;/g52&gt;li&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g50&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T134652Z" creationid="rikiha" creationdate="20170809T134652Z">
+        <seg>&lt;g35&gt;&lt;g36&gt;&lt;g37&gt;&lt;&lt;/g37&gt;li&lt;/g36&gt;&lt;g38&gt;&gt;&lt;/g38&gt;&lt;/g35&gt;&lt;g39&gt;&lt;g40&gt;&lt;g41&gt;&lt;&lt;/g41&gt;a&lt;/g40&gt; &lt;g42&gt;href&lt;/g42&gt;&lt;g43&gt;&lt;g44&gt;=&lt;/g44&gt;"#services"&lt;/g43&gt;&lt;g45&gt;&gt;&lt;/g45&gt;&lt;/g39&gt;業務内容&lt;g46&gt;&lt;g47&gt;&lt;g48&gt;&lt;/&lt;/g48&gt;a&lt;/g47&gt;&lt;g49&gt;&gt;&lt;/g49&gt;&lt;/g46&gt;&lt;g50&gt;&lt;g51&gt;&lt;g52&gt;&lt;/&lt;/g52&gt;li&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g50&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ここも訳す感じで。「アイコンの幅」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g37&gt;text-indent&lt;/g37&gt;&lt;g38&gt;:&lt;/g38&gt; 1em&lt;g39&gt;;&lt;/g39&gt; &lt;g40&gt;/* the width of the icon */&lt;/g40&gt;
@@ -1548,6 +1572,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134459Z" creationid="rikiha" creationdate="20170809T134459Z">
         <seg>&lt;g43&gt;&lt;g44&gt;&lt;g45&gt;&lt;&lt;/g45&gt;li&lt;/g44&gt;&lt;g46&gt;&gt;&lt;/g46&gt;&lt;/g43&gt;&lt;g47&gt;&lt;g48&gt;&lt;g49&gt;&lt;&lt;/g49&gt;a&lt;/g48&gt; &lt;g50&gt;href&lt;/g50&gt;&lt;g51&gt;&lt;g52&gt;=&lt;/g52&gt;"#services"&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g47&gt;業務内容&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;/&lt;/g56&gt;a&lt;/g55&gt;&lt;g57&gt;&gt;&lt;/g57&gt;&lt;/g54&gt;&lt;g58&gt;&lt;g59&gt;&lt;g60&gt;&lt;/&lt;/g60&gt;li&lt;/g59&gt;&lt;g61&gt;&gt;&lt;/g61&gt;&lt;/g58&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g46&gt;&lt;g47&gt;&lt;g48&gt;&lt;&lt;/g48&gt;li&lt;/g47&gt;&lt;g49&gt;&gt;&lt;/g49&gt;&lt;/g46&gt;&lt;g50&gt;&lt;g51&gt;&lt;g52&gt;&lt;&lt;/g52&gt;a&lt;/g51&gt; &lt;g53&gt;href&lt;/g53&gt;&lt;g54&gt;&lt;g55&gt;=&lt;/g55&gt;"#services"&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g50&gt;The services we offer&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;a&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;&lt;g61&gt;&lt;g62&gt;&lt;g63&gt;&lt;/&lt;/g63&gt;li&lt;/g62&gt;&lt;g64&gt;&gt;&lt;/g64&gt;&lt;/g61&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T134623Z" creationid="rikiha" creationdate="20170809T134623Z">
+        <seg>&lt;g46&gt;&lt;g47&gt;&lt;g48&gt;&lt;&lt;/g48&gt;li&lt;/g47&gt;&lt;g49&gt;&gt;&lt;/g49&gt;&lt;/g46&gt;&lt;g50&gt;&lt;g51&gt;&lt;g52&gt;&lt;&lt;/g52&gt;a&lt;/g51&gt; &lt;g53&gt;href&lt;/g53&gt;&lt;g54&gt;&lt;g55&gt;=&lt;/g55&gt;"#services"&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g50&gt;業務内容&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;a&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;&lt;g61&gt;&lt;g62&gt;&lt;g63&gt;&lt;/&lt;/g63&gt;li&lt;/g62&gt;&lt;g64&gt;&gt;&lt;/g64&gt;&lt;/g61&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1657,8 +1689,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;&lt;/g56&gt;li&lt;/g55&gt;&lt;g57&gt;&gt;&lt;/g57&gt;&lt;/g54&gt;&lt;g58&gt;&lt;g59&gt;&lt;g60&gt;&lt;&lt;/g60&gt;a&lt;/g59&gt; &lt;g61&gt;href&lt;/g61&gt;&lt;g62&gt;&lt;g63&gt;=&lt;/g63&gt;"#endorsements"&lt;/g62&gt;&lt;g64&gt;&gt;&lt;/g64&gt;&lt;/g58&gt;Visit our office&lt;g65&gt;&lt;g66&gt;&lt;g67&gt;&lt;/&lt;/g67&gt;a&lt;/g66&gt;&lt;g68&gt;&gt;&lt;/g68&gt;&lt;/g65&gt;&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;/&lt;/g71&gt;li&lt;/g70&gt;&lt;g72&gt;&gt;&lt;/g72&gt;&lt;/g69&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170808T134331Z" creationid="rikiha" creationdate="20170808T134331Z">
-        <seg>&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;&lt;/g56&gt;li&lt;/g55&gt;&lt;g57&gt;&gt;&lt;/g57&gt;&lt;/g54&gt;&lt;g58&gt;&lt;g59&gt;&lt;g60&gt;&lt;&lt;/g60&gt;a&lt;/g59&gt; &lt;g61&gt;href&lt;/g61&gt;&lt;g62&gt;&lt;g63&gt;=&lt;/g63&gt;"#office"&lt;/g62&gt;&lt;g64&gt;&gt;&lt;/g64&gt;&lt;/g58&gt;Visit our office&lt;g65&gt;&lt;g66&gt;&lt;g67&gt;&lt;/&lt;/g67&gt;a&lt;/g66&gt;&lt;g68&gt;&gt;&lt;/g68&gt;&lt;/g65&gt;&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;/&lt;/g71&gt;li&lt;/g70&gt;&lt;g72&gt;&gt;&lt;/g72&gt;&lt;/g69&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T134658Z" creationid="rikiha" creationdate="20170808T134331Z">
+        <seg>&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;&lt;/g56&gt;li&lt;/g55&gt;&lt;g57&gt;&gt;&lt;/g57&gt;&lt;/g54&gt;&lt;g58&gt;&lt;g59&gt;&lt;g60&gt;&lt;&lt;/g60&gt;a&lt;/g59&gt; &lt;g61&gt;href&lt;/g61&gt;&lt;g62&gt;&lt;g63&gt;=&lt;/g63&gt;"#office"&lt;/g62&gt;&lt;g64&gt;&gt;&lt;/g64&gt;&lt;/g58&gt;営業所&lt;g65&gt;&lt;g66&gt;&lt;g67&gt;&lt;/&lt;/g67&gt;a&lt;/g66&gt;&lt;g68&gt;&gt;&lt;/g68&gt;&lt;/g65&gt;&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;/&lt;/g71&gt;li&lt;/g70&gt;&lt;g72&gt;&gt;&lt;/g72&gt;&lt;/g69&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1718,8 +1750,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g65&gt;&lt;g66&gt;&lt;g67&gt;&lt;&lt;/g67&gt;li&lt;/g66&gt;&lt;g68&gt;&gt;&lt;/g68&gt;&lt;/g65&gt;&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;&lt;/g71&gt;a&lt;/g70&gt; &lt;g72&gt;href&lt;/g72&gt;&lt;g73&gt;&lt;g74&gt;=&lt;/g74&gt;"#endorsements"&lt;/g73&gt;&lt;g75&gt;&gt;&lt;/g75&gt;&lt;/g69&gt;Visit our office&lt;g76&gt;&lt;g77&gt;&lt;g78&gt;&lt;/&lt;/g78&gt;a&lt;/g77&gt;&lt;g79&gt;&gt;&lt;/g79&gt;&lt;/g76&gt;&lt;g80&gt;&lt;g81&gt;&lt;g82&gt;&lt;/&lt;/g82&gt;li&lt;/g81&gt;&lt;g83&gt;&gt;&lt;/g83&gt;&lt;/g80&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170808T134214Z" creationid="rikiha" creationdate="20170808T134214Z">
-        <seg>&lt;g65&gt;&lt;g66&gt;&lt;g67&gt;&lt;&lt;/g67&gt;li&lt;/g66&gt;&lt;g68&gt;&gt;&lt;/g68&gt;&lt;/g65&gt;&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;&lt;/g71&gt;a&lt;/g70&gt; &lt;g72&gt;href&lt;/g72&gt;&lt;g73&gt;&lt;g74&gt;=&lt;/g74&gt;"#office"&lt;/g73&gt;&lt;g75&gt;&gt;&lt;/g75&gt;&lt;/g69&gt;Visit our office&lt;g76&gt;&lt;g77&gt;&lt;g78&gt;&lt;/&lt;/g78&gt;a&lt;/g77&gt;&lt;g79&gt;&gt;&lt;/g79&gt;&lt;/g76&gt;&lt;g80&gt;&lt;g81&gt;&lt;g82&gt;&lt;/&lt;/g82&gt;li&lt;/g81&gt;&lt;g83&gt;&gt;&lt;/g83&gt;&lt;/g80&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T134628Z" creationid="rikiha" creationdate="20170808T134214Z">
+        <seg>&lt;g65&gt;&lt;g66&gt;&lt;g67&gt;&lt;&lt;/g67&gt;li&lt;/g66&gt;&lt;g68&gt;&gt;&lt;/g68&gt;&lt;/g65&gt;&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;&lt;/g71&gt;a&lt;/g70&gt; &lt;g72&gt;href&lt;/g72&gt;&lt;g73&gt;&lt;g74&gt;=&lt;/g74&gt;"#office"&lt;/g73&gt;&lt;g75&gt;&gt;&lt;/g75&gt;&lt;/g69&gt;営業所&lt;g76&gt;&lt;g77&gt;&lt;g78&gt;&lt;/&lt;/g78&gt;a&lt;/g77&gt;&lt;g79&gt;&gt;&lt;/g79&gt;&lt;/g76&gt;&lt;g80&gt;&lt;g81&gt;&lt;g82&gt;&lt;/&lt;/g82&gt;li&lt;/g81&gt;&lt;g83&gt;&gt;&lt;/g83&gt;&lt;/g80&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1771,6 +1803,14 @@ OK
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g73&gt;&lt;g74&gt;&lt;g75&gt;&lt;&lt;/g75&gt;li&lt;/g74&gt;&lt;g76&gt;&gt;&lt;/g76&gt;&lt;/g73&gt;&lt;g77&gt;&lt;g78&gt;&lt;g79&gt;&lt;&lt;/g79&gt;a&lt;/g78&gt; &lt;g80&gt;href&lt;/g80&gt;&lt;g81&gt;&lt;g82&gt;=&lt;/g82&gt;"#endorsements"&lt;/g81&gt;&lt;g83&gt;&gt;&lt;/g83&gt;&lt;/g77&gt;Endorsements&lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;/&lt;/g86&gt;a&lt;/g85&gt;&lt;g87&gt;&gt;&lt;/g87&gt;&lt;/g84&gt;&lt;g88&gt;&lt;g89&gt;&lt;g90&gt;&lt;/&lt;/g90&gt;li&lt;/g89&gt;&lt;g91&gt;&gt;&lt;/g91&gt;&lt;/g88&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T134702Z" creationid="rikiha" creationdate="20170809T134702Z">
+        <seg>&lt;g73&gt;&lt;g74&gt;&lt;g75&gt;&lt;&lt;/g75&gt;li&lt;/g74&gt;&lt;g76&gt;&gt;&lt;/g76&gt;&lt;/g73&gt;&lt;g77&gt;&lt;g78&gt;&lt;g79&gt;&lt;&lt;/g79&gt;a&lt;/g78&gt; &lt;g80&gt;href&lt;/g80&gt;&lt;g81&gt;&lt;g82&gt;=&lt;/g82&gt;"#endorsements"&lt;/g81&gt;&lt;g83&gt;&gt;&lt;/g83&gt;&lt;/g77&gt;調達方針&lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;/&lt;/g86&gt;a&lt;/g85&gt;&lt;g87&gt;&gt;&lt;/g87&gt;&lt;/g84&gt;&lt;g88&gt;&lt;g89&gt;&lt;g90&gt;&lt;/&lt;/g90&gt;li&lt;/g89&gt;&lt;g91&gt;&gt;&lt;/g91&gt;&lt;/g88&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g76&gt;&lt;g77&gt;&lt;g78&gt;&lt;&lt;/g78&gt;li&lt;/g77&gt;&lt;g79&gt;&gt;&lt;/g79&gt;&lt;/g76&gt;&lt;g80&gt;&lt;g81&gt;&lt;g82&gt;&lt;&lt;/g82&gt;a&lt;/g81&gt; &lt;g83&gt;href&lt;/g83&gt;&lt;g84&gt;&lt;g85&gt;=&lt;/g85&gt;"/products"&lt;/g84&gt;&lt;g86&gt;&gt;&lt;/g86&gt;&lt;/g80&gt;products&lt;g87&gt;&lt;g88&gt;&lt;g89&gt;&lt;/&lt;/g89&gt;a&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g87&gt;&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;/&lt;/g93&gt;li&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134304Z" creationid="rikiha" creationdate="20170809T134304Z">
@@ -1817,6 +1857,14 @@ OK
       <tuv lang="JA" changeid="yoota" changedate="20170515T101705Z" creationid="yoota" creationdate="20170515T101705Z">
         <seg>&lt;g83&gt;&lt;!-- ここに記事のコンテンツ --&gt;&lt;/g83&gt;
 &lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;/&lt;/g86&gt;main&lt;/g85&gt;&lt;g87&gt;&gt;&lt;/g87&gt;&lt;/g84&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;&lt;/g86&gt;li&lt;/g85&gt;&lt;g87&gt;&gt;&lt;/g87&gt;&lt;/g84&gt;&lt;g88&gt;&lt;g89&gt;&lt;g90&gt;&lt;&lt;/g90&gt;a&lt;/g89&gt; &lt;g91&gt;href&lt;/g91&gt;&lt;g92&gt;&lt;g93&gt;=&lt;/g93&gt;"#endorsements"&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g88&gt;Endorsements&lt;g95&gt;&lt;g96&gt;&lt;g97&gt;&lt;/&lt;/g97&gt;a&lt;/g96&gt;&lt;g98&gt;&gt;&lt;/g98&gt;&lt;/g95&gt;&lt;g99&gt;&lt;g100&gt;&lt;g101&gt;&lt;/&lt;/g101&gt;li&lt;/g100&gt;&lt;g102&gt;&gt;&lt;/g102&gt;&lt;/g99&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170809T134635Z" creationid="rikiha" creationdate="20170809T134635Z">
+        <seg>&lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;&lt;/g86&gt;li&lt;/g85&gt;&lt;g87&gt;&gt;&lt;/g87&gt;&lt;/g84&gt;&lt;g88&gt;&lt;g89&gt;&lt;g90&gt;&lt;&lt;/g90&gt;a&lt;/g89&gt; &lt;g91&gt;href&lt;/g91&gt;&lt;g92&gt;&lt;g93&gt;=&lt;/g93&gt;"#endorsements"&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g88&gt;調達方針&lt;g95&gt;&lt;g96&gt;&lt;g97&gt;&lt;/&lt;/g97&gt;a&lt;/g96&gt;&lt;g98&gt;&gt;&lt;/g98&gt;&lt;/g95&gt;&lt;g99&gt;&lt;g100&gt;&lt;g101&gt;&lt;/&lt;/g101&gt;li&lt;/g100&gt;&lt;g102&gt;&gt;&lt;/g102&gt;&lt;/g99&gt;</seg>
       </tuv>
     </tu>
     <tu>
