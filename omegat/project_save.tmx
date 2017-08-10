@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5353,7 +5353,8 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
 (太田) 名詞形の primitives は「基本要素」くらいに訳したいかも。
 サイト内・ページ内という表現は一つのものを指しているようにも見えるので調整したいです。やや冗長ですが、「サイト内ナビゲーションとページ内ナビゲーション」としてみました。
 考案が謎。createは普通に作り出したという意味なのでは。
-</note>
+
+(伊原) パターンは見出すものというイメージがあり「パターンを作り出した」というのが何か違和感がありまして。slackで話させて下さい。</note>
       <tuv lang="EN-US">
         <seg>For this pattern, we progressively enhanced one of HTML’s primitives, lists, to create the inclusive means to navigate within and between web pages.</seg>
       </tuv>
