@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Further Reading | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>関連資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thank you for reading my book!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>本書をお読みいただき、ありがとうございました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One of the best things about writing a book about patterns is that there are always more patterns to talk about.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>パターンに関する書籍の執筆で最高な点の1つは、取り上げるべきパターンがいくらでもあることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And you know what that means: I can write a sequel!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>そうです、つまりは続編を書けるということです！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you can think of any inclusive patterns you’d like me to explore, you can find me on Twitter as @heydonworks.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>私に研究してほしいインクルーシブパターンがある方は、Twitter（@heydonworks）から声をかけてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also, if you spot any inconsistencies or errors here (it happens!), please contact myself or Smashing Magazine so we can update the errata page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>また、本書の矛盾やエラー（たまにあるのです！）に気付いた方は、私またはSmashing Magazineにご連絡ください。正誤表ページ（脚注209）を更新させて頂きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the meantime, here’s a list of resources I recommend for reading about and around inclusive design, covering everything from responsive design to UX, technical accessibility, performance, and internationalization.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>では最後に、インクルーシブデザインに関連するお勧めの参考資料をご紹介します。レスポンシブデザインからUX、技術的なアクセシビリティ、パフォーマンス、国際化まで、ありとあらゆるトピックを扱っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Books</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>書籍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•A Web For Everyone by Sarah Horton and Whitney Quesenbery</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『A Web For Everyone』Sarah Horton、Whitney Quesenbery著：http://smashed.by/aweb4everyone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Apps For All by Heydon Pickering</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Apps For All』Heydon Pickering著：http://smashed.by/apps4all
+日本語版：『コーディングWebアクセシビリティ - WAI-ARIAで実現するマルチデバイス環境のWebアプリケーション』ヘイドン・ピカリング著（ボーンデジタル刊）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Designing With Web Standards by Jeffrey Zeldman with Ethan Marcotte</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Designing With Web Standards』Jeffrey Zeldman、Ethan Marcotte著：http://smashed.by/webstandards
+日本語版：『Designing with Web Standards―XHTML+CSSを中心とした「Web標準」によるデザインの実践』ジェフリー・ゼルドマン、イーサン・マルコッテ著（毎日コミュニケーションズ刊）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Adaptive Web Design by Aaron Gustafson</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Adaptive Web Design』Aaron Gustafson著：http://adaptivewebdesign.info/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The Design Of Everyday Things by Donald A Norman</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『The Design Of Everyday Things』Donald A Norman著：http://smashed.by/everydaythings
+日本語版：『誰のためのデザイン？認知科学者のデザイン原論』ドナルド・A・ノーマン著（新曜社刊）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Colour Accessibility by Geri Coady</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Colour Accessibility』Geri Coady著：https://gumroad.com/l/loura11y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Don’t Make Me Think by Steve Krug</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Don’t Make Me Think』Steve Krug著：http://smashed.by/dontmakemethink
+日本語版：『超明快 Webユーザビリティ―ユーザーに「考えさせない」デザインの法則』スティーブ・クルーグ著（ビー・エヌ・エヌ新社刊）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Responsible Responsive Design by Scott Jehl</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Responsible Responsive Design』Scott Jehl著：http://smashed.by/resres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Web Performance by Andy Davis</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Web Performance』Andy Davis著：http://andydavies.me/books/#webperformance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Front-end Style Guides by Anna Debenham</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Front-end Style Guides』Anna Debenham著：http://www.maban.co.uk/projects/front-end-style-guides/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•International User Research by Chui Chui Tan</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『International User Research』Chui Chui Tan著：https://gumroad.com/l/international-user-research</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Service Design: From Insight To Implementation by Andy Polaine, Lavrans Løvlie, Ben Reason</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Service Design — From Insight To Implementation』Andy Polaine、Lavrans Løvlie、Ben Reason著：http://smashed.by/servicedesign</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Design Meets Disability by Graham Pullin</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Design Meets Disability』Graham Pullin著：http://smashed.by/desdis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The Joy of UX — User Experience and Interactive Design for Developers by David Platt</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『The Joy of UX — User Experience and Interactive Design for Developers』David Platt著：http://smashed.by/joyux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Including Your Missing 20% By Embedding Web And Mobile Accessibility by Jonathan Hassell</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Including Your Missing 20% By Embedding Web And Mobile Accessibility』Jonathan Hassell著：http://www.hassellinclusion.com/landing/book/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Design For Real Life by Eric Meyer &amp; Sara Wachter-Boettcher</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Design For Real Life』Eric Meyer、Sara Wachter- Boettcher著：http://smashed.by/reallife</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The Timeless Way Of Building by Christopher Alexander</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『The Timeless Way Of Building』Christopher Alexander著：http://smashed.by/timelessway</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>ブログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Marco’s Accessibility Blog</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Marco’s Accessibility Blog：https://www.marcozehe.de/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The Paciello Group’s blog</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Paciello Groupのブログ：https://www.paciellogroup.com/blog/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Accessibility Wins</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Accessibility Wins：https://a11ywins.tumblr.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Tink.uk (Léonie Watson)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Tink.uk：http://tink.uk/（Léonie Watson）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Adrian Roselli</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Adrian Roselli：http://adrianroselli.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Simply Accessible’s blog</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Simply Accessible：http://simplyaccessible.com/articles/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Web Axe (Dennis Lembrée)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Web Axe：http://www.webaxe.org/（Dennis Lembrée）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Web Aim’s blog</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Web Aimのブログ：http://webaim.org/blog/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Karl Groves</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Karl Groves：http://www.karlgroves.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•SSB Bart Group’s blog</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•SSB Bart Groupのブログ：http://www.ssbbartgroup.com/blog/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Deque’s blog</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Dequeのブログ：http://www.deque.com/blog/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Terrill Thompson</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Terrill Thompson：http://terrillthompson.com/blog/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The Nielsen Norman Group blog</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•Nielsen Norman Group：https://www.nngroup.com/articles/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The GOV.UK accessibility blog</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•GOV.UK accessibility blog：https://accessibility.blog.gov.uk/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•lukew (Luke Wroblewski)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•lukew：http://www.lukew.com/ff/（Luke Wroblewski）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•UX Booth Accessibility</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•UX Booth：http://smashed.by/a11yforms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>More From Smashing Magazine</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>Smashing Magazineの関連書籍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Apps For All: Coding Accessible Web Applicationsby Heydon Pickering</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Apps For All: Coding Accessible Web Applications』Heydon Pickering著
+日本語版：『コーディングWebアクセシビリティ - WAI-ARIAで実現するマルチデバイス環境のWebアプリケーション』ヘイドン・ピカリング著（ボーンデジタル刊）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Hardboiled Web Design: Fifth Anniversary Editionby Andy Clarke</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Hardboiled Web Design: Fifth Anniversary Edition 』Andy Clarke著</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Smashing Book #5: Real-Life Responsive Web DesignOur latest web community book with chapters contributed by John Allsopp, Daniel Mall, Vitaly Friedman, Eileen Webb, Sara Soueidan, Zoe M. Gillenwater, Bram Stein, Yoav Weiss, Fabio Carneiro, Tom Maslen, Ben Callahan and Andy Clarke.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Smashing Book #5: Real-Life Responsive Web Design』Smashing Magazineの最新のWebコミュニティブック。John Allsopp、Daniel Mall、Vitaly Friedman、Eileen Webb、Sara Soueidan、Zoe M.Gillenwater、Bram Stein、Yoav Weiss、Fabio Carneiro、Tom Maslen、Ben Callahan、Andy Clarkeが各章を執筆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Digital Adaptation by Paul Boag</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Digital Adaptation』Paul Boag著</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Smashing Book #4: New Perspectives On Web Design Our 4th web community book written by Harry Roberts, Nicholas Zakas, Christian Heilmann, Tim Kadlec, Mat Marquis, Addy Osmani, Aaron Gustafson, Paul Tero, Marko Dugonjić, Corey Vilhauer, Rachel Andrew, Nishant Kothary and Christopher Murphy.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>•『Smashing Book #4 : New Perspectives on Web Design』Smashing Magazineの4冊目のWebコミュニティブック。Harry Roberts、Nicholas Zakas、Christian Heilmann、Tim Kadlec、Mat Marquis、Addy Osmani、Aaron Gustafson、Paul Tero、Marko Dugonjić、Corey Vilhauer、Rachel Andrew、Nishant Kothary、Christopher Murphy著。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Visit smashingmagazine.com/books/ for our full list of titles.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T072054Z">
+        <seg>全書籍のリストはsmashingmagazine.com/books/をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.http://smashed.by/errata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2.http://shop.oreilly.com/product/9781933820972.do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3.https://shop.smashingmagazine.com/products/apps-for-all 4.http://www.peachpit.com/store/designing-with-web-standards-9780321616951</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>5.http://adaptivewebdesign.info/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>6.https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>7.https://gumroad.com/l/loura11y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>8.https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think 9.https://abookapart.com/products/responsible-responsive-design</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>10.http://andydavies.me/books/#webperformance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>11.http://www.maban.co.uk/projects/front-end-style-guides/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>12.https://gumroad.com/l/international-user-research</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>13.http://www.goodreads.com/book/show/19904558-service-design</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>14.https://mitpress.mit.edu/books/design-meets-disability 15.https://www.safaribooksonline.com/library/view/the-joy-of/9780134277790/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>16.http://www.hassellinclusion.com/landing/book/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>17.https://abookapart.com/products/design-for-real-life 18.https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>19.https://www.marcozehe.de/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>20.https://www.paciellogroup.com/blog/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>21.https://a11ywins.tumblr.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>22.http://tink.uk/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>23.http://adrianroselli.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>24.http://simplyaccessible.com/articles/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>25.http://www.webaxe.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>26.http://webaim.org/blog/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>27.http://www.karlgroves.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>28.http://www.ssbbartgroup.com/blog/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>29.http://www.deque.com/blog/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>30.http://terrillthompson.com/blog/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>31.https://www.nngroup.com/articles/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>32.https://accessibility.blog.gov.uk/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>33.http://www.lukew.com/ff/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>34.http://www.uxbooth.com/articles/styling-forms-accessibly/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>35.http://www.smashingmagazine.com/books/</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
