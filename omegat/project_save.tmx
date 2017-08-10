@@ -11450,12 +11450,14 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
 WCAG日本語訳で「コンテキスト」という言葉を使っているので、decontextualize は「コンテキストから外れても」とするのがよさそう。
 調整してみました。
 
-(伊原) OK. コンテキストというともう少し技術っぽい感じがするので、「文脈」でも良いかな？とは思いました。</note>
+(伊原) OK. コンテキストというともう少し技術っぽい感じがするので、「文脈」でも良いかな？とは思いました。
+
+(岡本)　付ける→つける</note>
       <tuv lang="EN-US">
         <seg>So that headings and links make sense decontextualized in such a fashion, you need to write autonomous, self-describing labels.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170809T092628Z" creationid="yoota" creationdate="20170808T095451Z">
-        <seg>その際、見出しとリンクがコンテキストから外れても意味がわかるように、単独で理解できるようなラベルを付ける必要があります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170810T015836Z" creationid="yoota" creationdate="20170808T095451Z">
+        <seg>その際、見出しとリンクがコンテキストから外れても意味がわかるように、単独で理解できるようなラベルをつける必要があります。</seg>
       </tuv>
     </tu>
     <tu>
