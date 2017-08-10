@@ -861,7 +861,9 @@ OK
 
 (太田) 
 OK
-forego は「先に行く」のような感じですが、他動詞として使うと「(権利を)放棄する、捨てる」のような意味もあるようです。今の訳で良いように思います。</note>
+forego は「先に行く」のような感じですが、他動詞として使うと「(権利を)放棄する、捨てる」のような意味もあるようです。今の訳で良いように思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Foregoing unique labels where more than one &lt;g2&gt;&lt;nav&gt;&lt;/g2&gt; is present.</seg>
       </tuv>
@@ -2884,7 +2886,9 @@ wouldなので語尾を少しやわらかめに。
     <tu>
       <note>(伊原) 微調整。学びましたというより、ネタをカバーしました的なことかなと。
 
-(太田) 意味的にはいいと思いますが、日本語で「カバーした」というと十分に言及できているというようなプラスのニュアンスがあり、著者自身が言っているとどうも自信満々なように読めて違和感があります。「カバーしたつもり」とするか、「触れました」くらいが良いのではないかと思います。</note>
+(太田) 意味的にはいいと思いますが、日本語で「カバーした」というと十分に言及できているというようなプラスのニュアンスがあり、著者自身が言っているとどうも自信満々なように読めて違和感があります。「カバーしたつもり」とするか、「触れました」くらいが良いのではないかと思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Along the way, I covered design provisions transferable to many other patterns, including logical source order and the virtue of eliminating redundancy.</seg>
       </tuv>
@@ -15966,7 +15970,9 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
 「グレイスフルデグラデーションでスクリプトが使えない場合にも対応すること」は文中で明言されていないような気がしますがどうなのでしょうか。
 実際、コードは &lt;a href="#history"&gt; のようになっているのでそのように機能はしますが、説明は全くされていないように思います。本来であれば、 &lt;a href="javascript:scrollTo('history')"&gt; のような書き方をするとダメというような説明があるべきだと思います。
 大胆に訳注?
-とりあえず文末は「担保しています」としました。</note>
+とりあえず文末は「担保しています」としました。
+
+(伊原) OK、大胆に訳注事案ですね。</note>
       <tuv lang="EN-US">
         <seg>When JavaScript was introduced to enhance scrolling behavior, we ensured it would both remain functional to keyboard users and degrade gracefully in the absence of the script.</seg>
       </tuv>
