@@ -5757,8 +5757,8 @@ http://www.dictionary.com/browse/radical
       <tuv lang="EN-US">
         <seg>Hiding functionality away from users and requiring them to perform an additional action to reveal that functionality is always a last resort.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170809T152213Z" creationid="rikiha" creationdate="20170809T152213Z">
-        <seg>機能を隠して、ユーザーがわざわざ操作しないと表示されないようにするのは、常に最後の手段です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170810T165130Z" creationid="rikiha" creationdate="20170809T152213Z">
+        <seg>機能を非表示にして、その表示にユーザーに追加の操作を要求する、常に最後の手段です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6863,11 +6863,12 @@ cognitive cacheは経験キャッシュとしてみました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 訳としてはこうなのですが、それが何故かが書かれていないのがちょっともやもや。</note>
       <tuv lang="EN-US">
         <seg>In desktop viewports, there’s rarely &lt;g1&gt;any&lt;/g1&gt; reason to hide a navigation menu away, regardless of the number of items it contains.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170810T164537Z" creationid="rikiha" creationdate="20170809T152210Z">
-        <seg>デスクトップのビューポートなら、項目の数にかかわらず、ナビゲーションメニューを非表示にする理由はほとんどありません</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170810T164854Z" creationid="rikiha" creationdate="20170809T152210Z">
+        <seg>デスクトップのビューポートなら、項目の数にかかわらず、ナビゲーションメニューを非表示にする理由はほとんどありません。</seg>
       </tuv>
     </tu>
     <tu>
