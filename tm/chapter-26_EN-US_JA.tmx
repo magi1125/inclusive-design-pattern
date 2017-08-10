@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Test-Driven Markup | Inclusive Design Patterns Two people contemplate a bell curve chart.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T023442Z">
+        <seg>テスト駆動マークアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First person says: We designed it for our average user: a guy called Dave.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T023442Z">
+        <seg>「平均的ユーザーのデイヴのためにデザインしたんだ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Second person says: So Dave must be pretty happy then, right?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T023442Z">
+        <seg>「じゃあ、デイヴはとても喜んでいるに違いないね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First person again: It's a social media app that no one else can use. </seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T023442Z">
+        <seg>「彼以外は誰も使えないソーシャルメディアアプリなんだ」</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

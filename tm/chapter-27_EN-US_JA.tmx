@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Test-Driven Markup | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>11章：テスト駆動マークアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Test-driven development (TDD) allows developers working with frequent iterations to move forward with confidence.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>テスト駆動開発（TDD）（脚注193）行えば、頻繁なイテレーションを行いながら作業する開発者は、自信を持って先に進むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By writing tests first, to prescribe outcomes, then creating the functionality to achieve them, you can ensure successful builds behave in a predictable and reliable fashion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>まずテストを書き、期待される結果を指定してから、それを達成する機能を作ることで、予測可能かつ信頼性の高い動作をする優れたビルドを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thrill seekers who relish their “What the hell is going on?” moments may find TDD a little boring, but it’s a solid approach.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>TDDは、「いったい何が起きているんだ？」と思う瞬間を楽しむ、スリルを求める人にとっては少し退屈かもしれませんが、堅実な方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In application development, tests are usually written against functions and what those functions are expected to produce.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>アプリケーション開発では通常、機能およびその機能に期待される成果に対するテストが書かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, if I wanted to test that the add() function from my add.js Node.js module worked correctly, I could use Mocha and the Chai assertion library:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>たとえば、add.jsのNodeモジュールのadd()機能が正しく動作するかテストしたい場合は、Mocha（脚注194）およびChai（脚注195）のアサーションライブラリを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>var expect = require('chai').expect; 
+var add = require('../lib/add.js'); 
+describe('Add module', function() {
+　describe('The add() function', function() { 
+　　it('should give 4 when adding 3 to 1', function() {
+　　　add(3, 1).should.equal(4);
+　　});
+　});
+});</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>var expect = require('chai').expect; 
+var add = require('../lib/add.js'); 
+describe('Add module', function() {
+　describe('The add() function', function() { 
+　　it('should give 4 when adding 3 to 1', function() {
+　　　add(3, 1).should.equal(4);
+　　});
+　});
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now I can just run npm test (or whatever alias I have set up) and I’ll find out if my function is doing what I hoped it would.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>後はnpm test（またはセットアップした何らかのalias）を実行すれば、機能が期待通りの動作をしているか分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s all very well, but it’s designed for the largely imperative language of JavaScript.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>実に結構なことではありますが、これは主に命令型言語であるJavaScript用にデザインされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What if we could write similar tests for declarative languages like HTML?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>では、HTMLのような宣言型言語用に同様のテストを書けたらどうでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Then we could ensure the correct structure of markup as we write it as well.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>そうすれば、マークアップの構造が正しいことを確認しながら書き進めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since well-formed markup is a big contributor to web accessibility, a kind of TDD for markup can keep us from building uninclusive patterns.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>適切に構築されたマークアップはWebアクセシビリティに大いに貢献するので、マークアップ用TDDのようなことを行えば、インクルーシブではないパターンの構築を防げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It turns out there’s already a language perfectly suited for this task.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>実は、この作業にぴったりの言語があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Appropriately, it is itself a declarative language and, fortuitously, it does not take the form of an additional library dependency.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>それ自体も宣言型言語であり、幸いなことに、付加的なライブラリにも依存しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I’m talking, of course, about CSS.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>もちろん、その言語とはCSSです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Logic Of Selectors</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>セレクタのロジック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Despite CSS being a declarative language, there is a logic in the formulation of selectors.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>CSSは宣言型言語ですが、セレクタの構築にはロジックがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Selectors are condition-based expressions which are used to match HTML structures.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>セレクタは、HTML構造にマッチさせるために使われる、条件ベースの式です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So good are CSS selectors at doing this that tools for writing markup like Emmet are based on selector-like syntax.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>CSSセレクタはそれを非常にうまくこなすので、Emmet（脚注196）などのマークアップを書くためのツールは、セレクタのような構文に基づいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The inherent logic of CSS selectors becomes clear when you reimagine selectors in JavaScript syntax.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>CSSセレクタの固有のロジックは、JavaScript構文のセレクタで考え直すと分かりやすいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, I might want to match all buttons that are not disabled:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>たとえば、無効になっていないすべてのボタンにマッチさせたい場合は、次のように記述します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>button:not(:disabled) { … }</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>button:not(:disabled) { … }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rewritten in JavaScript:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>これをJavaScriptで記述し直すと、次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>if (element.nodeName === 'button' &amp;&amp; !element.disabled) { … }</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>if (element.nodeName === 'button' &amp;&amp; !element.disabled) { … }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Typically, CSS selectors are used to match expected patterns but, by the same token, we could use selectors to target broken or malformed patterns.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>CSSのセレクタは通常、予期されるパターンにマッチさせるのに使われますが、同様に、壊れた（または不正な形式の）パターンをターゲットにすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where these are present, an error style could be elicited to highlight the problem.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>そうした壊れたパターンが存在する場合、エラースタイルを表示させて問題を目立たせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>[undesired pattern] {
+　/* error style, such as 
+　outline: 0.5em solid red;
+　*/
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>[undesired pattern] {
+　/* 以下のようなエラースタイル 
+　outline: 0.5em solid red;
+　*/
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now all we need is a method for describing the issue to the user on inspection of the highlighted element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>あと必要なのは、ハイライト表示された要素の調査時に、ユーザーに問題を説明する方法だけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s see how this might work using a tab interface as our subject pattern.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>タブインターフェイスのパターンを使って、これがどのように機能するか見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Test-Driven Tab Interface</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>テスト駆動のタブインターフェイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I detail the formulation of accessible, ARIA-enhanced tab interfaces in my book, “Apps For All: Coding Accessible Web Applications.” Also available are a demo and explanation. If you’re not familiar with this integrated pattern and its expected behaviors, please refer to either of these resources.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>ARIAで拡張されたアクセシブルなタブインターフェイスについては、私の著書『Apps For All: Coding Accessible Web Applications』（日本語版：『コーディングWebアクセシビリティ - WAI-ARIAで実現するマルチデバイス環境のWebアプリケーション』ボーンデジタル刊）（脚注197）で詳しく説明しています。また、デモや解説も利用できます。（脚注198）このような統合パターンおよびその予期される動作についてよく知らない方は、どちらかを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The following code example sets out a tab interface as marked up in its initial state.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>次のコード例は、マークアップされたタブインターフェイスの初期状態を示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Our job is to write tests against the elements’ properties and relationships within the tab interface, to make sure it is structured as expected.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>やるべきことは、タブインターフェイス内の要素のプロパティと関係に対するテストを書き、期待通りに構築されていると確認することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With relatively complex patterns like tab interfaces, it’s easy to slip up and miss out or badly form part of the structure.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>タブインターフェイスのように比較的複雑なパターンの場合、構造の一部を見落として間違えたり、不適切に形成してしまうことがよくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is our opportunity to stop that from happening.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>これは、そうした問題が起こるのを防ぐチャンスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div class="tab-interface"&gt;
+　&lt;ul role="tablist"&gt;
+　　&lt;li role="presentation"&gt;&lt;a href="#panel1" id="tab1" role="tab" aria-selected="true"&gt;First Tab&lt;/a&gt;&lt;/li&gt;
+　　&lt;li role="presentation"&gt;&lt;a href="#panel2" id="tab2" role="tab" tabindex="-1"&gt;Second Tab&lt;/a&gt;&lt;/li&gt;
+　　&lt;li role="presentation"&gt;&lt;a href="#panel3" id="tab3" role="tab" tabindex="-1"&gt;Third Tab&lt;/a&gt;&lt;/li&gt;
+　&lt;/ul&gt;
+　&lt;div role="tabpanel" id="panel1" aria-labelledby="tab1"&gt;
+　　&lt;!-- tab panel 1 content --&gt;
+　&lt;/div&gt;
+　&lt;div role="tabpanel" id="panel2" aria-labelledby="tab2"&gt;
+　　&lt;!-- tab panel 2 content --&gt;
+　&lt;/div&gt;
+　&lt;div role="tabpanel" id="panel3" aria-labelledby="tab3"&gt;
+　　&lt;!-- tab panel 3 content --&gt;
+　&lt;/div&gt;
+&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>&lt;div class="tab-interface"&gt;
+　&lt;ul role="tablist"&gt;
+　　&lt;li role="presentation"&gt;&lt;a href="#panel1" id="tab1" role="tab" aria-selected="true"&gt;1番目のタブ&lt;/a&gt;&lt;/li&gt;
+　　&lt;li role="presentation"&gt;&lt;a href="#panel2" id="tab2" role="tab" tabindex="-1"&gt;2番目のタブ&lt;/a&gt;&lt;/li&gt;
+　　&lt;li role="presentation"&gt;&lt;a href="#panel3" id="tab3" role="tab" tabindex="-1"&gt;3番目のタブ&lt;/a&gt;&lt;/li&gt;
+　&lt;/ul&gt;
+　&lt;div role="tabpanel" id="panel1" aria-labelledby="tab1"&gt;
+　　&lt;!-- タブパネル1のコンテンツ --&gt;
+　&lt;/div&gt;
+　&lt;div role="tabpanel" id="panel2" aria-labelledby="tab2"&gt;
+　　&lt;!-- タブパネル2のコンテンツ --&gt;
+　&lt;/div&gt;
+　&lt;div role="tabpanel" id="panel3" aria-labelledby="tab3"&gt;
+　　&lt;!-- タブパネル3のコンテンツ --&gt;
+　&lt;/div&gt;
+&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Tests</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>テスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let’s start from the top.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>では上から見ていきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I know that my tabs will only function correctly in assistive technologies if they belong to an element with the special tablist role to group the individual tabs.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>これらのタブは、各タブをグループ化する特別なtablistロールを持つ要素に属している場合にのみ、支援技術で正しく機能することが分かっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>My selector should identify the &lt;ul&gt; element within the class="tab-interface" container and highlight it if it doesn’t have a role="tablist" attribute.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>セレクタは、class="tab-interface"コンテナ内の&lt;ul&gt;要素を確認し、role="tablist"属性がない場合はそれをハイライト表示する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.tab-interface ul:not([role="tablist"]) { 
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>.tab-interface ul:not([role="tablist"]) { 
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now, if no well-placed tablist semantics are present, an ugly red outline will appear on the list element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>これで、適切に配置されたtablistセマンティクスが存在しない場合、リスト要素に見苦しい赤枠が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As stated in the tablist role specification, tablists require “owned elements” with the explicit tab role, in the form role="tab".</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>tablistロールの仕様（脚注199）で定められているように、tablistには明示的なtabロールを持つ「所有要素」（role="tab"）が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some implementations place this attribute directly on each &lt;li&gt; element, but I prefer to use &lt;a&gt; elements so that the structure easily degrades as a list of links.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>この属性を各&lt;li&gt;要素に直接配置する実装方法もありますが、私は&lt;a&gt;要素を使用するようにしています。そうすれば構造を簡単にリンクリストに分解できるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>See the “Navigation Regions” chapter for more on link lists and navigation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>リンクリストとナビゲーションの詳細については「＄＄Navigation Regions＄＄」の章を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Having decided that it is the &lt;a&gt; element which should take the tab role, I can add a corresponding test to my suite.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>&lt;a&gt;要素でtabロールを指定すると決めたので、対応するテストをスイートに加えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]) {
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]) {
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where JavaScript has added the tab interface semantics, the list semantics become redundant, which is why we suppress them with role="presentation" on each &lt;li&gt; element.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>JavaScriptがタブインターフェイスのセマンティクスを加えた場合は、リストのセマンティクスが冗長になるので、各&lt;li&gt;要素のrole="presentation"でそれを抑制します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This test selector follows similar logic to the previous test.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>このテストセレクタは前のテストと同様のロジックに従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"])
+{
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"])
+{
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In correctly behaving tab interfaces, there should always be one selected tab, defined accessibly using the aria-selected state.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>正しく動作するタブインターフェイスでは常に、aria-selected（脚注200）ステートを使用してアクセシブルに定義された、1つの選択されたタブがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This should be the only element focusable by the user with the Tab key.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>これが、ユーザーがTabキーでフォーカスできる唯一の要素でなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All other tabs should take the tabindex="-1" attribute and be selectable using only the arrow keys.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>その他のタブはすべて、tabindex="-1"属性が指定され、矢印キーでのみ選択できる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This requires two more test selectors.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>これを確認するには、2つのテストセレクタが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The second is essentially a negated version of the first.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>基本的に、2つ目は1つ目の否定バージョンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"]), 
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"])
+{
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"]), 
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"])
+{
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We can even detect incorrect patterns used to formulate the tabpanel aria-labelledby attribute values.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>tabpanel aria-labelledby属性値の定式化に使用される誤ったパターンの検出も可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The additional test selector in the following example matches tab panels with the correct role, but with an aria-labelledby value not commencing with “tab.” This fuzzy matching is possible using the starts with ^ modifier in the attribute selector, [aria-labelledby^="tab"].</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>次の例で追加するテストセレクタは、正しいロールが設定されたタブパネルにはマッチしますが、「tab」から始まらないaria-labelledby値にはマッチしません。このファジーマッチングは、属性セレクタ内で^（～で始まる）修飾子を使用することで可能になります（[aria-labelledby^="tab"]）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"]), 
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"])
+{
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"]), 
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"])
+{
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Of course, this catches the complete absence of aria-labelledby as well.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>もちろん、aria-labelledbyが完全に欠落していることも検知します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Finally, let’s make sure all the tab panels have the tabpanel role.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>最後に、タブパネルにtabpanelロールが指定されていることを確認しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We know that the tab panel set should appear after the list, so we can use the general sibling combinator ~ in this test to ask if there are any s following the tablist that are not tabpanels.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>タブパネルセットはリストの直後に出現すべきだと分かっているので、このテスト内で間接セレクタの~を使い、tablistの後にtabpanelではない&lt;div&gt;がないか調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"]), 
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]), 
+[role="tablist"] ~ div:not([role="tabpanel"])
+{
+　outline: 0.5em solid red;
+} </seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"]), 
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]), 
+[role="tablist"] ~ div:not([role="tabpanel"])
+{
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Having content between the tablist and tab panels would fragment the interface and cause confusion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>tablistとタブパネルの間にコンテンツがあると、インターフェイスが断片化して混乱を招きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As an accompaniment to the last test, we can make sure a &lt;div&gt; with the tabpanel role is the first sibling element after the tablist.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>先ほどのテストに、tabpanelロールが指定された&lt;div&gt;がtablistの後の最初の兄弟要素だという確認を加えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This test selector uses the adjacent sibling combinator (or next-sibling selector) +:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>このテストセレクタは、隣接セレクタ（脚注201）の+を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"]), 
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]), 
+[role="tablist"] ~ div:not([role="tabpanel"]), 
+[role="tablist"] + div:not([role="tabpanel"])
+{
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"]), 
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]), 
+[role="tablist"] ~ div:not([role="tabpanel"]), 
+[role="tablist"] + div:not([role="tabpanel"])
+{
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Error Messages</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>エラーメッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So far, we’ve provided a red outline for any elements which match undesired patterns.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>これまでは、望ましくないパターンにマッチする要素には赤枠を表示してきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But that’s not much use unless we also provide an explanation of the error.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>しかし、エラーに関する説明がなければあまり役に立ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the experimental CSS testing bookmarklet revenge.css, I used test selectors to identify generic accessibility-related markup errors and provided error messages using pseudo-content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>私は試験的なCSSテスト用ブックマークレットrevenge.css（脚注202）で、テストセレクタを使用してアクセシビリティに関連する一般的なマークアップエラーを特定し、pseudo-contentを使用してエラーメッセージを提供しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, the following prints a lurid message for lists which are badly formed:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>たとえば以下のセレクタでは、不適切に形成されたリストに対してけばけばしいメッセージが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ol &gt; *:not(li)::after, 
+ul &gt; *:not(li)::after {
+　content: 'Only &lt;li&gt; can be a direct child of &lt;ul&gt; or &lt;ol&gt;.';
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>ol &gt; *:not(li)::after, 
+ul &gt; *:not(li)::after {
+　content: '&lt;ul&gt;または&lt;ol&gt;の直接的な子になれるのは&lt;li&gt;だけです。';
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, actually printing that error to the screen is fraught with problems.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>ただし、そのエラーを画面に表示することには問題が伴います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since it piggybacks a site’s own CSS, I had to be very careful about overriding certain styles for pseudo-content that would mess up the appearance and readability of the error messages.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>サイト自身のCSSに便乗しているため、エラーメッセージの外観や見やすさを台無しにする可能性がある、pseudo-content用の特定のスタイルのオーバーライドについて十分に注意する必要がありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where there are errors for successive sibling elements (like the erroneous &lt;li&gt; replacements the last example is designed to detect) space becomes an issue too.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>連続する兄弟要素のエラー（前の例が検出する&lt;li&gt;の順序の誤りなど）がある場合は、スペースも問題になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A11y.css — a more advanced CSS accessibility testing tool by Gaël Poupard — overcomes this by positioning each pseudo-content message at the top of the document and reveals it on hover.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>A11y.css（脚注203）（ゲール・プパール（Gaël Poupard）（脚注204）による、より高度なCSSアクセシビリティテストツール）は、各pseudo-contentメッセージをドキュメント上部に配置し、カーソルを合わせると表示されるようにすることで、この問題を克服しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But why bother showing the error messages within the page itself at all?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>しかし、そもそもエラーメッセージをページに表示する必要はあるのでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead, I can use the developer tools CSS inspector like a JavaScript console and provide the error messages there.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>私は代わりに、開発者ツールのCSSインスペクタ（JavaScriptコンソールなど）を使用し、そこにエラーメッセージを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The red outline should remain, but only as an indicator of which elements the developer should be inspecting.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>赤枠はページに表示させますが、それは調査が必要な要素だと開発者に示すためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In which case, I could just hide the pseudo-content message with display:none;:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>その場合は、display:none;で疑似コンテンツメッセージを隠します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Screenshot of dev tools declaration block with a display:none; declaration above the content declaration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>　content: '&lt;ul&gt;要素の子として許可されるのは&lt;li&gt;要素のみです。';
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Screenshot of devtools declaration block with display: none; declaration above the content declaration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There are a couple of small issues here.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>ここで小さい問題が2つあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The first is that when two errors apply to the same element, all but the last in the cascade will be grayed out (with a line-through style) in the CSS inspector.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>まず、同じ要素に2つのエラーがある場合、CSSインスペクタ内では、最後のエラー以外はすべてグレーアウト（打ち消し線が引かれた状態）になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, it looks misleadingly as if all but the last error is not applicable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>つまり、最後のエラー以外は該当しないかのような誤解を招きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The other is that display:none; is supplemental to the error message — unnecessary noise.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>2つ目の問題は、display:none;はエラーメッセージの補足、すなわち不必要なノイズだという点です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The ERROR Property</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>エラープロパティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The is no such thing as the ERROR property in CSS and there are no plans for one — let me make that clear right away!But there are a few benefits to using an unrecognized CSS property to log errors to the CSS inspector.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>はっきり言いますが、CSSにはERRORプロパティなどというものはなく、それが追加される予定もありません。しかし、認められていないCSSプロパティを使ってCSSインスペクタにエラーをログすることには、いくつかのメリットあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The first is that pseudo-content becomes entirely redundant, along with the display:none; property, reducing an individual CSS error to this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>まず、display:none;プロパティと共にpseudo-contentがもっぱら冗長になり、各CSSエラーが次のように減ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.tab-interface ul:not([role="tablist"]) {
+　ERROR: The tab interface &lt;ul&gt; must have the tablist WAI-ARIA role
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>.tab-interface ul:not([role="tablist"]) {
+　ERROR: タブインターフェイス&lt;ul&gt;はtablist WAI- ARIAロールを持たなければなりません。
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Second, as an unrecognized property it is not entered into specificity calculations.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>さらに、認められていないプロパティは特異性の計算から除外されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Depending on the browser, this either means no more graying out, or a grayed-out style for all ERROR declarations: a slight improvement.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>ブラウザによって異なりますが、これはグレーアウトされなくなる、またはすべてのERROR宣言がグレーアウトスタイルになることを意味し、問題が少し改善されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>My favorite part is that the Chrome browser’s way of highlighting unrecognized properties is to prefix them with a little warning sign (“⚠”).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>私が最も気に入っている点は、Chromeブラウザでは、認められていないプロパティの前に小さい警告サイン（⚠）が付いて強調されることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We automatically co-opt this sign to help highlight our errors, producing something like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>このサインを自動的に取り入れてエラーを強調すると、次のような感じになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>▲ERROR: &lt;ul&gt;要素の子として許可されるのは&lt;li&gt;要素のみです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A declaration block from Chrome dev tools showing the error declaration with a line-through style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A declaration block from Chrome dev tools showing the error declaration with a line-through style.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>Chrome開発ツールの宣言ブロック。エラー宣言が打ち消し線スタイルで表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unfortunately, like overriden declarations, unrecognized declarations still take a line-through style as illustrated.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>残念ながら、オーバーライドされた宣言と同様に、認められていない宣言にも図に示したように打ち消し線のスタイルが適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For my money, this isn’t a deal-breaker because the capitalized ERROR property name picks these declarations out quite clearly.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>私の考えでは、それはこの方法を断念する理由にはなりません。大文字のプロパティ名ERRORは、これらの宣言をかなり明確に際立たせてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nonetheless, with the help of Dan Smith, I can provide a small Chrome extension for removing this line-through style and replacing it with a more error-like white-on-red appearance: The error declaration has a red box behind it and white text. The warning sign is still present.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>とは言え、ダン・スミス（Dan Smith）（脚注205）の助けを借りれば、ちょっとしたChrome拡張機能（脚注206）を提供して、この打ち消し線スタイルを取り除き、赤地に白文字という、もっとエラーらしい見た目に置き換えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that it’s no longer necessary to encapsulate the error in single quotation marks as a string.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>エラーを文字列としてシングルクォーテーションで囲む必要はもうありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Be aware that this style will be honored by any declaration using an unrecognized property.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>このスタイルは大部分の認められていない宣言に適用される点に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, thanks to the extension’s omission of the .has-ignorable-error class, the most common unrecognized properties — browser prefixes — are not styled this way.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>ただし、この拡張機能は.has-ignorable-errorクラスを除外しているので、最も一般的な認められていないプロパティ（ブラウザプレフィックス）にはこのスタイルは適用されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.overloaded.not-parsed-ok.inactive:not(.has-ignorable-error)
+{
+　text-decoration: none !important; 
+　background: red !important; 
+　color: #fff !important;
+}
+
+.overloaded.not-parsed-ok.inactive:not(.has-ignorable-error)
+.webkit-css-property { 
+　color: #fff !important;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>.overloaded.not-parsed-ok.inactive:not(.has-ignorable-error)
+{
+　text-decoration: none !important; 
+　background: red !important; 
+　color: #fff !important;
+}
+
+.overloaded.not-parsed-ok.inactive:not(.has-ignorable-error)
+.webkit-css-property { 
+　color: #fff !important;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Putting It Together</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>1つにまとめる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Our tab interface pattern should now have a tab-interface.css file and, in an effort to establish a naming convention, an accompanying tab-interface.test.css file — something like this:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>これで、タブインターフェイスパターンは、tab-interface.CSSファイルと、命名規則を定めるために、付随のtab-interface.test.cssファイルが、以下の例のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.tab-interface ul:not([role="tablist"]) {
+　ERROR: "The tab interface &lt;ul&gt; must have the tablist WAI-ARIA role to be recognized in assistive technologies.";
+}
+
+[role="tablist"] a:not([role="tab"]) {
+　ERROR: "&lt;a&gt; elements within the tablist need to each have the WAI-ARIA tab role to be counted as tabs in assistive technologies.";
+}
+
+[role="tablist"] li:not([role="presentation"]) {
+　ERROR: "Remove the &lt;li&gt; semantics with the WAI-ARIA presentation role. Where the tab interface is instated, these semantics are irrelevant.";
+}
+
+[role="tablist"] a[aria-selected][tabindex="-1"] {
+　ERROR: "Remove the -1 tabindex value on the aria-selected tab to make it focusable by the user. They should be able to move to this tab only.";
+}
+
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"])
+{
+　ERROR: "All unselected tabs should have the -1 tabindex value and only be focusable using the left and right arrow keys.";
+}
+
+[role="tabpanel"]:not([aria-labelledby^="tab"]) {
+　ERROR: "Each tabpanel should have an aria-labelledby attribute starting with "tab" followed by the corresponding tab’s number. This is the convention of tab systems in our interface.";
+}
+
+[role="tablist"] ~ div:not([role="tabpanel"]) {
+　ERROR: "Each tabpanel needs to have the explicit tabpanel WAI-ARIA role to be correctly associated with the tablist that controls it.";
+}
+
+[role="tablist"] + div:not([role="tabpanel"]) {
+　ERROR: "The first element after the tablist should be a tab panel with the tabpanel WAI-ARIA role. Screen reader users must be able to move directly into the open tab panel from the selected tab.";
+}
+
+.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"]),
+[role="tablist"] a[aria-selected][tabindex="-1"], 
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), 
+[role="tabpanel"]:not([aria-labelledby^="tab"]), 
+[role="tablist"] ~ div:not([role="tabpanel"]), 
+[role="tablist"] + div:not([role="tabpanel"])
+{
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>.tab-interface ul:not([role="tablist"]) {
+　ERROR: 支援技術で認識されるためには、タブインターフェイスの&lt;ul&gt;はWAI- ARIAロールがtablistでなければなりません。;
+}
+
+[role="tablist"] a:not([role="tab"]) {
+　ERROR: 技術支援でタブと見なされるためには、tablist内の&lt;a&gt;要素は、それぞれがWAI-ARIAのtabロールを持たなければなりません。;
+}
+
+[role="tablist"] li:not([role="presentation"]) {
+　ERROR: WAI-ARIAのpresentationロールを持つ&lt;li&gt;セマンティクスを削除してください。タブインターフェイスが配置されている場合、これらのセマンティクスは不適切です。;
+}[role="tablist"] a[aria-selected][tabindex="-1"] {
+	ERROR: aria-selectedタブの-1というtabindex値を削除して、ユーザーがフォーカスできるようにしてください。ユーザーはこのタブだけに移動できなければなりません。;
+}
+
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"])
+{
+　ERROR: 選択されていないタブはすべて、tabindex値が-1で、左右の矢印キーを使う方法でのみフォーカスできなければなりません。;
+}
+
+[role="tabpanel"]:not([aria-labelledby^="tab"]) {
+　ERROR: 各tabpanelは、「tab」（その後に対応するタブ番号が続く）で始まるaria-labelledby属性を持たなければなりません。これがこのインターフェイスにおけるタブシステムの規則です。;
+}
+
+[role="tablist"] ~ div:not([role="tabpanel"]) {
+　ERROR: 各tabpanelが、それをコントロールするtablistと正しく関連付けられるためには、WAI-ARIAロールが明示的にtabpanelに指定されている必要があります。;
+}
+
+[role="tablist"] + div:not([role="tabpanel"]) {
+　ERROR: tablistの後の最初の要素は、WAI-ARIAロールがtabpanelのタブパネルでなければなりません。スクリーンリーダーユーザーが、選択されたタブから開いたタブパネルに直接移動できる必要があります。;
+}
+
+.tab-interface ul:not([role="tablist"]), 
+[role="tablist"] a:not([role="tab"]), 
+[role="tablist"] li:not([role="presentation"]),
+[role="tablist"] a[aria-selected][tabindex="-1"], 
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), 
+[role="tabpanel"]:not([aria-labelledby^="tab"]), 
+[role="tablist"] ~ div:not([role="tabpanel"]), 
+[role="tablist"] + div:not([role="tabpanel"])
+{
+　outline: 0.5em solid red;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Of course, none of this can technically fail a build in its current form; it just highlights errors visually, for the front-end developer to see.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>もちろん、現在の形式で、技術的にこれらが原因でビルドが失敗することはありません。フロントエンド開発者に見えるよう、エラーを視覚的に際立たせているだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, the .test.css files certainly don’t want to be included in production.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>ただし、.test.cssファイルは絶対にプロダクションには含めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using the .test.css convention helps when it comes to omit them from being copied to your production build folder.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>.test.css規則を使用すれば、プロダクションビルドのフォルダへコピーする際に除外しやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not One-Size-Fits-All</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>汎用的ではない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The difference between this test-driven markup approach and standard automated accessibility testing is clear: whether using a CSS-based bookmarklet like a11y.css or an advanced API like tenon.io, generic errors are disclosed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>テスト駆動のマークアップ方法と標準的な自動化されたアクセシビリティテストの違いは明らかです。a11y.css（脚注207）などのCSSベースのブックマークレットを使用しても、tenon.io（脚注208）などの高度なAPIを使用しても、一般的なエラーが明らかになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This testing is important, especially for WCAG compliance.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>このテストは、特にWCAG準拠にとって重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But writing your own tests for your own tailored patterns and structures means you can be more granular and specific about their expected form.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>しかし、自分なりにカスタマイズしたパターンや構造のために独自のテストを書くというのは、期待される形式に対してよりきめの細かい具体的なテストが可能になることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Implementations of tab interfaces can differ.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>タブインターフェイスの実装はさまざまです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For instance, the relationship between the tabs and their panels can be achieved using aria-controls rather than aria-labelledby.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>たとえば、タブとパネルの関係をaria-labelledbyではなくaria-controls を使用して構築することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The tests written here ensure that my implementation — my specific pattern — is structured in the prescribed way.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>本章で書いたテストは、私の実装（私の特定のパターン）が所定の構造になっていることを確認するためのものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where additional JavaScript and CSS hooks (data and class attributes) should be present, this is also an opportunity to test for them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>追加のJavaScriptフックやCSSフック（data属性やclass属性）が必要な場合には、それらをテストする機会でもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As you develop your own library of inclusive design patterns, I recommend you try writing some tests like these.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>インクルーシブデザインのパターンの自分なりのライブラリを構築する際は、ここで紹介したようなテストをいくつか書いてみることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As the pattern evolves over time and between colleagues, you can make sure its integrity remains intact.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>時間と共に、そして同僚や仲間たちの手を経るなどして、パターンが進化していく中で、完全性が保たれていることを確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where an error does emerge, you will have taken the opportunity — via the error message — to explain your decision-making and how the structure you’ve chosen makes the markup inclusive. —</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
+        <seg>エラーが生じた場合は、その機会を利用し（そのエラーメッセージを用いて）、自分の意思決定を明確にし、自分の選択した構造がどのようにマークアップをインクルーシブにするかを明らかにさせましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1.https://en.wikipedia.org/wiki/Test-driven_development</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2.https://mochajs.org 3.http://chaijs.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>4.http://emmet.io/ 5.https://shop.smashingmagazine.com/products/apps-for-all</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>6.http://heydonworks.com/practical_aria_examples/#tab-interface 7.https://www.w3.org/TR/wai-aria/roles#tablist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>8.http://w3c.github.io/aria/aria/aria.html#aria-selected 9.https://developer.mozilla.org/en/docs/Web/CSS/General_sibling_selectors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>10.https://developer.mozilla.org/en/docs/Web/CSS/Adjacent_sibling_selectors 11.http://heydonworks.com/revenge_css_bookmarklet/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>12.https://ffoodd.github.io/a11y.css/ 13.https://twitter.com/ffoodd_fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>14.https://twitter.com/dansketchpad 15.https://github.com/Heydon/css-error-property-style/blob/master/README.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>16.https://ffoodd.github.io/a11y.css/ 17.http://tenon.io/</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
