@@ -15949,7 +15949,10 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       <note>(伊原) こと〜こととなるように調整しました。
 
 (太田) 「スクロールのふるまいを強化」は意味としては正しいですが、だいぶ違和感があります。「ふるまいを変える」くらいで良いのでは。
-</note>
+
+「スクリプトが使えない場合にもグレイスフルデグラデーションで対応すること」は文中で明言されていないような気がしますがどうなのでしょうか。
+実際、コードは &lt;a href="#history"&gt; のようになっているのでそのように機能はしますが、説明は全くされていないように思います。本来であれば、 &lt;a href="javascript:scrollTo('history')"&gt; のような書き方をするとダメというような説明があるべきだと思います。
+大胆に訳注?</note>
       <tuv lang="EN-US">
         <seg>When JavaScript was introduced to enhance scrolling behavior, we ensured it would both remain functional to keyboard users and degrade gracefully in the absence of the script.</seg>
       </tuv>
