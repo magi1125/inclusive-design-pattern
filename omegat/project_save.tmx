@@ -3245,6 +3245,7 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) べきです、までは言ってないような。</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, if the menu has fewer than five items, just lay them out; make them available to the user at all times.</seg>
       </tuv>
@@ -6865,8 +6866,8 @@ cognitive cacheは経験キャッシュとしてみました。
       <tuv lang="EN-US">
         <seg>In desktop viewports, there’s rarely &lt;g1&gt;any&lt;/g1&gt; reason to hide a navigation menu away, regardless of the number of items it contains.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170809T152210Z" creationid="rikiha" creationdate="20170809T152210Z">
-        <seg>また、デスクトップのビューポートの場合は、項目の数にかかわらず、ナビゲーションメニューを隠さなければならない理由はほとんどありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170810T164537Z" creationid="rikiha" creationdate="20170809T152210Z">
+        <seg>デスクトップのビューポートなら、項目の数にかかわらず、ナビゲーションメニューを非表示にする理由はほとんどありません</seg>
       </tuv>
     </tu>
     <tu>
