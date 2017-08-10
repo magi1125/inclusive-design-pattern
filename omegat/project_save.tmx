@@ -13483,7 +13483,9 @@ shortcomings「欠陥」だと不具合っぽいニュアンスがあるよう�
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※要訳注
+
+(太田)
 shouldはここでは「そうであろう」というような意味。
 調整してみました。
 
@@ -13493,6 +13495,8 @@ shouldはここでは「そうであろう」というような意味。
 
 Wordにあるような感じというのは、そもそもどんな感じなのかあまり思い浮かびませんでした…w　「Word 目次」で画像検索しても、ドキュメント冒頭に目次ページを設ける例ばかりですし。
 ここをイキにするなら要訳注かなと。
+
+(太田) OK。訳注検討。
 </note>
       <tuv lang="EN-US">
         <seg>The site navigation should appear above the &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; content and the table of contents within it (preferably directly below the document’s principal &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; heading, as it would in a Microsoft Word document).</seg>
