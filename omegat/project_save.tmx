@@ -4486,12 +4486,14 @@ https://html.spec.whatwg.org/multipage/interaction.html#sequential-focus-navigat
 もんどさん訳してなかった。 orz
 https://momdo.github.io/html/interaction.html#sequential-focus-navigation
 
-(伊原) OK。大げさ感は確かに。この節のタイトルと合わせて検討ですかね。</note>
+(伊原) OK。大げさ感は確かに。この節のタイトルと合わせて検討ですかね。
+
+(岡本)　みなし→見なし</note>
       <tuv lang="EN-US">
         <seg>Despite these targets (usually &lt;g1&gt;&lt;section&gt;&lt;/g1&gt;s or headings) not typically being focusable elements, browsers employ &lt;g2&gt;sequential focus navigation&lt;/g2&gt; whereby the first focusable element within or after the target is made the &lt;g3&gt;next&lt;/g3&gt; focusable element in sequence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T063956Z" creationid="rikiha" creationdate="20170805T124732Z">
-        <seg>これらのターゲット（たいていは&lt;g1&gt;&lt;section&gt;&lt;/g1&gt;や見出し）はフォーカスできない要素であることが多いのですが、ブラウザが採用している&lt;g2&gt;シーケンシャルフォーカスナビゲーション&lt;/g2&gt;の仕組みでは、ターゲットの中または直後にある要素を&lt;g3&gt;次の&lt;/g3&gt;フォーカス可能な要素とみなします。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170810T090407Z" creationid="rikiha" creationdate="20170805T124732Z">
+        <seg>これらのターゲット（たいていは&lt;g1&gt;&lt;section&gt;&lt;/g1&gt;や見出し）はフォーカスできない要素であることが多いのですが、ブラウザが採用している&lt;g2&gt;シーケンシャルフォーカスナビゲーション&lt;/g2&gt;の仕組みでは、ターゲットの中または直後にある要素を&lt;g3&gt;次の&lt;/g3&gt;フォーカス可能な要素と見なします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10394,8 +10396,8 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       <tuv lang="EN-US">
         <seg>One resolution might be to remove the home link from the navigation landmark.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T143356Z" creationid="rikiha" creationdate="20170730T124408Z">
-        <seg>解決策のひとつは、ナビゲーションランドマークからホームへのリンクを削除することです</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170810T090343Z" creationid="rikiha" creationdate="20170730T124408Z">
+        <seg>解決策のひとつは、ナビゲーションランドマークからホームへのリンクを削除することです。</seg>
       </tuv>
     </tu>
     <tu>
