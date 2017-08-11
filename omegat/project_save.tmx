@@ -2116,6 +2116,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A smiley face says “happy” to more people than any one language can manage.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133121Z" creationid="rikiha" creationdate="20170811T133121Z">
+        <seg>言葉よりも、にっこり笑った顔の方が「うれしい」気持ちがより伝わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
@@ -2152,6 +2160,14 @@ font-size: 16px;
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170801T095353Z" creationid="rikiha" creationdate="20170727T124118Z">
         <seg>図のように色合いによる区別が明らかでも、色覚障害のユーザーにとってはその違いはわずかな陰影にすぎません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;By drawing a perimeter line around the icon and text of the control it appears as a button.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133227Z" creationid="rikiha" creationdate="20170811T133227Z">
+        <seg>コントロールのアイコンとテキストの周りを線で囲むことでボタンらしく見えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2577,6 +2593,14 @@ heading shortcutは「見出しジャンプ」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A menu icon with the text “MENU” next to the same control but with an outline around the icon and text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133223Z" creationid="rikiha" creationdate="20170811T133223Z">
+        <seg>同じコントロールの隣に "MENU"というテキストがありますが、アイコンとテキストの周りにアウトラインがあるメニューアイコンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) もう一歩というより別の方法なので、そのように調整。
 
 (太田) 意欲的はちょっとぴんとこない感じがしました。
@@ -2619,6 +2643,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T081546Z" creationid="yoota" creationdate="20170511T095954Z">
         <seg>マウスもそのひとつです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A non-textual mode of communication also crosses language barriers, helping to internationalize an interface, and assists those with poor literacy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133033Z" creationid="rikiha" creationdate="20170811T133033Z">
+        <seg>また、文字を使わないコミュニケーションは言葉の壁を乗り越えてインターフェイスの国際化を助長し、さらには読み書きが得意でない人の手助けもしてくれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2680,6 +2712,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170502T232756Z">
         <seg>図：小さい実線のボックスは想定される最小のビューポートを表し、そこから横に伸びる大きい点線のボックスは無限に引き伸ばしたビューポートを表している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A smiley face symbol with the word “happy” in lots of different languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133114Z" creationid="rikiha" creationdate="20170811T133114Z">
+        <seg>さまざまな言語で「幸せ」という言葉を持つスマイリーな顔のシンボル。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3301,6 +3341,14 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170609T063553Z" creationid="yoota" creationdate="20170606T094601Z">
         <seg>HTMLのそもそもの基本機能は、単語の並びや塊を差別化し、明確化することです。書き手として、私はいまでもこの機能に一番ワクワクさせられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As always, convention is a friend to inclusion, so extrapolating on the the classic three-line symbol by adding lines or changing line orientation is to be avoided.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133146Z" creationid="rikiha" creationdate="20170811T133146Z">
+        <seg>ただし、慣習がインクルーシブデザインを助けてくれるのはどんな場合でも同じなので、線を足したり向きを変えるなどして基本の3本線の記号に手を加えることはやめましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4033,6 +4081,14 @@ contentsとOur historyは訳す感じですかね。だとするとソースコ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170809T095824Z" creationid="yoota" creationdate="20170808T100247Z">
         <seg>たとえば前の例の「沿革」のリンクにフォーカスすると、「目次 ナビゲーション ランドマーク リスト 4項目 沿革 リンク」などと読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By having the icon and the “menu” text present, we accelerate the comprehension of well-versed mobile interface users, without alienating relative newcomers: a win for usability and a win for inclusivity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133231Z" creationid="rikiha" creationdate="20170811T133231Z">
+        <seg>さらにアイコンに「メニュー」という文字をプラスすれば、モバイルインターフェイスに慣れていない初心者ユーザーを遠ざけることなく、ベテランユーザーの理解も加速させることができ、ユーザビリティとインクルーシビティの両方を実現できるというわけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5603,6 +5659,14 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He also found that menu buttons with a button-like shape (thanks to a bordered outline) were more apprehensible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133209Z" creationid="rikiha" creationdate="20170811T133209Z">
+        <seg>また、メニューのボタンをそれらしい形にした方が（つまり、枠で囲んだ方が）理解されやすいことも判明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He could have meant &lt;g1&gt;anything&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170628T041144Z" creationid="okamoto_jun" creationdate="20170627T081122Z">
@@ -6183,6 +6247,15 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If a convention exists, use it.” – Mark Boulton, “&lt;g1&gt;&lt;g2&gt;Icons, Symbols and a semiotic Web&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;4&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133159Z" creationid="rikiha" creationdate="20170811T133159Z">
+        <seg>慣習があるなら、それを使うべきです」
+— マーク・ボルトン（Mark Boulton）「Icons, Symbols and a semiotic Web」（脚注101）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「コンテナ」は他でも「コンテナ」表記なのでママで。
 「二重になる」は分かりそうな、そうでもないような。「重なってくれない」という話なのでやや語弊があるかもしれません。「重複してしまう」とか、やや砕けた感じにはなりますが「ダブってしまう」とかでも良いような。
@@ -6561,6 +6634,14 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T085517Z" creationid="yoota" creationdate="20170515T085128Z">
         <seg>&lt;g3&gt;&lt;g4&gt;私が行った、スクリーンリーダーユーザーの行動および好みに関する非公式の研究&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注37）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;では、一部の回答者はランドマーク（リージョン）ナビゲーションを使いこなしていたものの、大半の回答者は見出しを使って移動していました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In A/B testing he found that the icon accompanied by the text “menu” was better understood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133206Z" creationid="rikiha" creationdate="20170811T133206Z">
+        <seg>まず、アイコンに「メニュー」という文字をプラスすると、より理解が増すことがA/Bテストで分かりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6949,6 +7030,14 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170524T083529Z" creationid="yoota" creationdate="20170512T101124Z">
         <seg>一般的なケースでは、サードパーティのグリッドシステムを使うことはおすすめできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general, all the buttons in your interface should &lt;g1&gt;look&lt;/g1&gt; like buttons, otherwise they lose &lt;g2&gt;&lt;g3&gt;perceived affordance&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;6&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;: the appearance that they can be used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133212Z" creationid="rikiha" creationdate="20170811T133212Z">
+        <seg>一般的に、インターフェイスのすべてのボタンはボタンらしく見えるべきです。そうでないと、「知覚されたアフォーダンス」（脚注103）に欠けるボタン、つまり実際に使えるように見えないボタンになってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7650,6 +7739,14 @@ becauseを訳出しました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T095828Z" creationid="yoota" creationdate="20170719T092333Z">
         <seg>&lt;g3&gt;&lt;button&gt;&lt;/g3&gt;と同様、アクセシビリティが&lt;g4&gt;あらかじめ備わった&lt;/g4&gt;要素を作りました。つまり、キーボードやスクリーンリーダーのインクルージョンをいちいち考慮する必要がなく、単純にインターフェイスとして配置できるということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the “Navigation Regions” pattern we acknowledged the ubiquity of lists being used to enumerate navigation options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133126Z" creationid="rikiha" creationdate="20170811T133126Z">
+        <seg>「ナビゲーション領域」のパターンでは、ナビゲーションのオプションを列挙する目的でリストが広く使われていることを確認しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9270,6 +9367,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Making list items bear the same shape and background color as the horizontal strips in the icon itself makes the icon truly iconic (representative by physical approximation).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133143Z" creationid="rikiha" creationdate="20170811T133143Z">
+        <seg>リストの項目の形や背景色をアイコンの横縞と同じにすれば、物理的な外観が似ているという意味で真の「アイコン」になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM.
 
 (伊原) LGTM</note>
@@ -9647,6 +9752,14 @@ http://eigo-kobako.blog.so-net.ne.jp/2015-07-14
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170714T101008Z" creationid="yoota" creationdate="20170714T070920Z">
         <seg>その開発者は、アクセシブルな名前 (name)をつける技術に特に詳しいわけではなかったので、軽く調べて、現実的な解決策をいくつか見つけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not everyone will see navigation when looking at something as pictorially reductive as three horizontal lines, and &lt;g1&gt;&lt;g2&gt;James Foster’s research&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;5&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; ratifies this assumption.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133203Z" creationid="rikiha" creationdate="20170811T133203Z">
+        <seg>しかし、シンプルな絵で表現された3本線のアイコンを見たすべての人が、必ずしもナビゲーションを想像するとは限りません。このことはジェームズ・フォスター（James Foster）の研究（脚注102）でも認められています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10572,6 +10685,14 @@ parityは平均化というより、ここでは等価、価値を等しくす�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perceived affordance is a cornerstone of cognitive accessibility for interaction design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133217Z" creationid="rikiha" creationdate="20170811T133217Z">
+        <seg>この知覚されたアフォーダンスは、インタラクションデザインにおける認知障害に関するアクセシビリティの要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perhaps he makes designer egg cups?</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170628T020316Z" creationid="okamoto_jun" creationdate="20170627T081006Z">
@@ -11414,6 +11535,14 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Since the three-line (☰) hamburger icon or navicon is a co-opted list icon, it is meaningful based on our knowledge of lists and their relationship to navigation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133130Z" creationid="rikiha" creationdate="20170811T133130Z">
+        <seg>3本線（☰）のいわゆるハンバーガーアイコン（ナビコン）はリストを模したアイコンですが、私たちがリストや、リストとナビゲーションの関連性について知っているからこそ意味をなします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) カブっているということがわかりやすくなるように調整してみました。
 
 (太田) shouldなので、かねる必要がある→かねるべき。
@@ -11595,6 +11724,14 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100738Z" creationid="okamoto_jun" creationdate="20170627T100738Z">
         <seg>Webページの移動や操作の際、キーボードを好んで使う人もいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some icons are more intelligible than others and that’s a question of their place within a &lt;g1&gt;&lt;g2&gt;sign system&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133124Z" creationid="rikiha" creationdate="20170811T133124Z">
+        <seg>分かりやすいアイコンもあれば分かりづらいアイコンもあり、分かりやすさはそのアイコンの記号体系（脚注100）における位置づけによって決まります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14509,6 +14646,14 @@ OKですがやや硬いかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This is not the place to do something different.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133155Z" creationid="rikiha" creationdate="20170811T133155Z">
+        <seg>人と違うことをすれば良いというわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原)【要検討】このThisはなんだろう？
 
 This is probably 
@@ -14656,6 +14801,14 @@ http://pothos.main.jp/setuzokusi.htm</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170730T125003Z" creationid="rikiha" creationdate="20170728T142559Z">
         <seg>このコードによるナビゲーション体験は残念なものになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This rather depends, though, on the menu that’s being revealed actually having the appearance of a list.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133136Z" creationid="rikiha" creationdate="20170811T133136Z">
+        <seg>とは言え、これは実際に表示されるメニューのリストの見た目にもよります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15254,6 +15407,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170131T135228Z" creationid="rikiha" creationdate="20170131T135228Z">
         <seg>こんな世界でも私を笑顔にしてくれる、我が妻ファンに捧ぐ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To pick just one study, “&lt;g1&gt;&lt;g2&gt;Icons Improve Older and Younger Adults’ Comprehension of Medication Information&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;2&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;” (PDF) found that medication dosage and routine were more quickly understood when icons were used to represent the salient information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133031Z" creationid="rikiha" creationdate="20170811T133031Z">
+        <seg>その一例として、「Icons Improve Older and Younger Adults Comprehension of Medication Information」（PDF）（脚注99）の研究では、重要な情報を表すのにアイコンを使用したところ、薬の用法・用量に対する理解が早まったという結果が報告されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16482,6 +16643,14 @@ Wikipediaの目次まわりはこんなマークアップでした。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>With that in mind, the icon should be fairly widely understood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133133Z" creationid="rikiha" creationdate="20170811T133133Z">
+        <seg>そう考えると、アイコンは広く誰にでも理解できるものでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
@@ -17025,6 +17194,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T053651Z" creationid="yoota" creationdate="20170501T112108Z">
         <seg>開発者の作業しやすさより、ユーザーのニーズの方が重要だと私は思う。
 ポール・ルイス（Paul Lewis）（脚注15）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Leave creativity to the bad designers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170811T133150Z" creationid="rikiha" creationdate="20170811T133150Z">
+        <seg>「独創性はできの悪いデザイナーに任せましょう。</seg>
       </tuv>
     </tu>
     <tu>
