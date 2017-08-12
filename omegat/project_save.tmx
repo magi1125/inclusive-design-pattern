@@ -2651,9 +2651,7 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
     <tu>
       <note>(伊原) 多少調整。
 
-(太田) 「識字率の低い人」はおかしいです (識字率というのは字が読める人の割合。「識字率の低い国」はOKだが「識字率の低い人」はおかしい)。
-「あまり字が読めない」くらいでしょうか。
-
+(太田) 「識字率の低い人」はおかしいです (識字率というのは字が読める人の割合。「識字率の低い国」はOKだが「識字率の低い人」はおかしい)。「あまり字が読めない」くらいでしょうか。
 「国際化を促す」というのはちょっと謎です。国際化しようという動機を強めるということではなく、国際化しやすいということだと思います。
 </note>
       <tuv lang="EN-US">
@@ -11852,7 +11850,9 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 要検討。</note>
+      <note>(伊原) 要検討。
+
+(太田) othersは何なのか。いったん保留</note>
       <tuv lang="EN-US">
         <seg>Some icons are more intelligible than others and that’s a question of their place within a &lt;g1&gt;&lt;g2&gt;sign system&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
