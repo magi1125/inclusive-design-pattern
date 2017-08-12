@@ -2174,6 +2174,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Encapsulated in white, on the high contrast mode’s black background, the icon appears differently and seems separate from the text label of “menu.”&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161444Z" creationid="rikiha" creationdate="20170812T161444Z">
+        <seg>ハイコントラストモードの黒背景では白で囲まれたアイコンは別物に見えてしまう上に、「メニュー」というテキストとも分離して見えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 画像キャプションです。
 括弧は原文にありませんし不要かと。
 画像の内容はaltのとおりで、左から右にローディングが進むプロセスをあらわしています。HTMLがロードされた時点でコンテンツが読めるようになり、CSSが来ても、JSが来てもコンテンツはありつづけるという話です。
@@ -2343,6 +2351,14 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170501T144818Z" creationid="rikiha" creationdate="20170501T144818Z">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;レスポンシブデザインはあらゆる幅に対応しているべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A &lt;g1&gt;.png&lt;/g1&gt; image which defines three black lines separated by transparent spaces has a similar issue: when the background becomes black, you get three black lines on a black background.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161431Z" creationid="rikiha" creationdate="20170812T161431Z">
+        <seg>3本の黒い線と透明のスペースからなる.png画像の場合も同じような問題があります。つまり、背景を黒にすると、黒い背景に黒い3本線となってしまうのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6626,6 +6642,15 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170720T024508Z" creationid="yoota" creationdate="20170719T055521Z">
         <seg>ここまで読み進めた皆さんには、それが何を意味するかおわかりでしょう。フォーカスできず、押しても動作せず、スクリーンリーダーでボタンであることを知らせる&lt;g1&gt;button&lt;/g1&gt;ロールも持っていないボタン――つまり先ほど説明した、修正を加えた&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;ボタンと同じようなものだということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) この節以降確認中</note>
+      <tuv lang="EN-US">
+        <seg>Image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161426Z" creationid="rikiha" creationdate="20170812T161426Z">
+        <seg>画像</seg>
       </tuv>
     </tu>
     <tu>
@@ -17009,6 +17034,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170726T090206Z" creationid="rikiha" creationdate="20170722T131838Z">
         <seg>どちらを使ってもかまいませんが、次の例からもわかるように、&lt;g3&gt;&lt;main&gt;&lt;/g3&gt;の方が簡潔です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can, of course, provide a white, rather than transparent, background for your icon, but on a black background this becomes three black stripes in a white box, which is a slightly different proposition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161434Z" creationid="rikiha" creationdate="20170812T161434Z">
+        <seg>もちろん、アイコンの背景を透明ではなく白にするという方法も考えられますが、そうすると背景を黒にしたときに、今度は白いボックスの中に3本の黒い横縞が描かれることになり、意図したものと少し違ってきます。</seg>
       </tuv>
     </tu>
     <tu>
