@@ -7015,14 +7015,13 @@ cognitive cacheは経験キャッシュとしてみました。
     <tu>
       <note>(伊原) 訳としてはこうなのですが、それが何故かが書かれていないのがちょっともやもや。
 
-(太田) でかいんだからたたまなくてもいいだろ、という乱暴な話なのでしょうね。
-anyの強調をどう処理するか。
-</note>
+(太田) 画面がでかいしスクロールできるんだからたたまなくてもいいだろ、という乱暴な話なのでしょうね。「項目の数にかかわらず」がもうすこし強調されると少しわかりやすくなるかも? 語順を原文にそろえてみましたがどうでしょうか。
+anyの強調をどう処理するか微妙ですが「ありません」部分に反映してみました。</note>
       <tuv lang="EN-US">
         <seg>In desktop viewports, there’s rarely &lt;g1&gt;any&lt;/g1&gt; reason to hide a navigation menu away, regardless of the number of items it contains.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170812T111124Z" creationid="rikiha" creationdate="20170809T152210Z">
-        <seg>デスクトップのビューポートなら、項目の数にかかわらず、ナビゲーションメニューを非表示にする理由はほとんど&lt;g1&gt;ありません&lt;/g1&gt;。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170812T111415Z" creationid="rikiha" creationdate="20170809T152210Z">
+        <seg>デスクトップのビューポートなら、ナビゲーションメニューを隠す理由はほとんど&lt;g1&gt;ありません&lt;/g1&gt;。項目の数にかかわらずです。</seg>
       </tuv>
     </tu>
     <tu>
