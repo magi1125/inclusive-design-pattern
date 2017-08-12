@@ -9758,12 +9758,13 @@ http://eigo-kobako.blog.so-net.ne.jp/2015-07-14
 (太田) view や action がそのままで伝わるのかどうか。
 a handful ofは片手でつかめる程度、の意味ですが、前にメニューは5項目なら隠さなくてよいという話があるので、ここでは「片手で数えられる程度」の意味だと思います。
 
-「考案する」は強い違和感があります。</note>
+「考案する」はやはり違和感があります……。
+shouldなので語尾少し弱くしました。</note>
       <tuv lang="EN-US">
         <seg>Nonetheless, not all applications are reducible to only a handful of views or actions and, since menu buttons are close to ubiquitous, we should formulate an inclusive implementation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170810T172123Z" creationid="rikiha" creationdate="20170809T152227Z">
-        <seg>とはいえ、すべてのアプリケーションのビューやアクションの数を極端に減らせるわけでもなく、メニューボタンはいたるところで使われているため、やはりインクルーシブな実装方法を考案する必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170812T113734Z" creationid="rikiha" creationdate="20170809T152227Z">
+        <seg>とはいえ、アプリケーションのビューやアクションを片手で数えられるまでに減らせるとは限りませんし、メニューボタンはいたるところで使われているため、やはりインクルーシブな実装方法を考えておく必要があるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
