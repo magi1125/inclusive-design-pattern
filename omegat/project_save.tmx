@@ -5699,11 +5699,12 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) カッコ内が誤訳っぽいので調整。</note>
       <tuv lang="EN-US">
         <seg>He also found that menu buttons with a button-like shape (thanks to a bordered outline) were more apprehensible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170811T133209Z" creationid="rikiha" creationdate="20170811T133209Z">
-        <seg>また、メニューのボタンをそれらしい形にした方が（つまり、枠で囲んだ方が）理解されやすいことも判明しました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T125746Z" creationid="rikiha" creationdate="20170811T133209Z">
+        <seg>また、ボタンらしい形にした方が（枠線による輪郭のおかげで）よりメニューボタンとして理解されやすいことも判明しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6705,8 +6706,8 @@ actionableは「実用的でない」のではなく、実行できない、動�
       <tuv lang="EN-US">
         <seg>In A/B testing he found that the icon accompanied by the text “menu” was better understood.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170811T133206Z" creationid="rikiha" creationdate="20170811T133206Z">
-        <seg>まず、アイコンに「メニュー」という文字をプラスすると、より理解が増すことがA/Bテストで分かりました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T125342Z" creationid="rikiha" creationdate="20170811T133206Z">
+        <seg>A/Bテストの結果、アイコンと共に「メニュー」という文字を配置したほうが理解されやすいことが分かりました。</seg>
       </tuv>
     </tu>
     <tu>
