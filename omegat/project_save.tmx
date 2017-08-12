@@ -5948,11 +5948,12 @@ http://www.dictionary.com/browse/radical
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 若干調整。edgeだと背景画像が残る件を訳注？</note>
       <tuv lang="EN-US">
         <seg>However, as you may recall from the &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; example in the introduction, background images are eliminated when users switch into &lt;g3&gt;&lt;g4&gt;Windows’ high contrast mode&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;7&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170811T133421Z" creationid="rikiha" creationdate="20170811T133421Z">
-        <seg>しかし、「はじめに」の&lt;button&gt;の例でも学んだように、ユーザーがWindowsのハイコントラストモード（脚注104）に切り替えると背景画像は表示されなくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T160016Z" creationid="rikiha" creationdate="20170811T133421Z">
+        <seg>しかし、「はじめに」の&lt;g2&gt;&lt;button&gt;&lt;/g2&gt;の例を思い出してください。Windowsで&lt;g3&gt;&lt;g4&gt;ハイコントラストモード&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注104）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;に切り替えると背景画像は表示されなくなります。</seg>
       </tuv>
     </tu>
     <tu>
