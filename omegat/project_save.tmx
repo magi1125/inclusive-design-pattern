@@ -10265,11 +10265,12 @@ the URLは「このページのURL」としてみました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) viabilityをどう訳すか。実現性的な感じだろうか。使い所が増えた、とも言えそうな。いったんそのまま。</note>
       <tuv lang="EN-US">
         <seg>Now that background images can be scaled using the &lt;g1&gt;background-size&lt;/g1&gt; property, their viability in responsive design has improved.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170811T133417Z" creationid="rikiha" creationdate="20170811T133417Z">
-        <seg>background-sizeプロパティを使って背景画像のサイズを変えられるようになったおかげで、レスポンシブデザインにおける背景画像の有用性は向上しました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T155618Z" creationid="rikiha" creationdate="20170811T133417Z">
+        <seg>background-sizeプロパティを使って背景画像のサイズを設定できるようになり、レスポンシブデザインにおける背景画像の有用性は向上しました。</seg>
       </tuv>
     </tu>
     <tu>
