@@ -5871,12 +5871,13 @@ http://www.dictionary.com/browse/radical
     <tu>
       <note>(伊原) 微調整
 
-(太田)  away from users が落ちていたので補いました。</note>
+(太田)  away from users のニュアンスがが落ちているような。遠ざけるというのも変なので「ユーザーから隠す」としてみました。
+「常に最後の手段」は直訳としては正しいですが日本語的な言い方ではないかも。「どうしようもないときの最終手段と考えてください」? もうちょいスマートに言えないものか。</note>
       <tuv lang="EN-US">
         <seg>Hiding functionality away from users and requiring them to perform an additional action to reveal that functionality is always a last resort.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170812T111524Z" creationid="rikiha" creationdate="20170809T152213Z">
-        <seg>機能を非表示にしてユーザーから遠ざけ、わざわざ操作しないと表示されないようにするのは、常に最後の手段です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170812T112102Z" creationid="rikiha" creationdate="20170809T152213Z">
+        <seg>機能をユーザーから隠し、わざわざ操作しないと表示されないようにするのは、どうしようもないときの最終手段と考えてください。</seg>
       </tuv>
     </tu>
     <tu>
