@@ -2402,6 +2402,14 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A Glyph from an Icon Font</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161447Z" creationid="rikiha" creationdate="20170812T161447Z">
+        <seg>アイコンフォントのグリフ（記号、絵文字）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※この節確認中。
 ※この節の主張には激しく同意。</note>
       <tuv lang="EN-US">
@@ -3095,6 +3103,14 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Another advantage is that icon fonts scale without degradation, much like SVG.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161455Z" creationid="rikiha" creationdate="20170812T161455Z">
+        <seg>また、SVG同様、拡大／縮小しても画質が劣化しないというメリットもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) proxy elementをどう訳すか。いったん「代理となる要素」としてみました。
 
 (太田) aria-describedbyの参照先となる要素のことを指している。
@@ -3202,6 +3218,14 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T083823Z" creationid="yoota" creationdate="20170524T083609Z">
         <seg>確かに、同じページに複数の&lt;g4&gt;&lt;article&gt;&lt;/g4&gt;があり、ユーザーが上から下に向かって要素をひとつずつ読んでいる場合には、これは有益な情報です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As Google’s &lt;g1&gt;&lt;g2&gt;305-byte logo implementation&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;14&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; attests, they can make very small assets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161621Z" creationid="rikiha" creationdate="20170812T161621Z">
+        <seg>Googleのロゴが305バイトになった（脚注111）ことで実証されたように、SVGスプライトを使えばアセットをかなり小さくできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3506,6 +3530,14 @@ lay, makeはいずれも命令系で使われているので、「すべき」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As with any web font, an icon font is a resource which may be blocked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161515Z" creationid="rikiha" creationdate="20170812T161515Z">
+        <seg>Webフォント同様、アイコンフォントもリソースなので、ブロックされることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「HTMLButtonElementを加えている」のではなく、HTMLButtonElementをベースにして独自機能を加えているという話です。
 直訳だと「私はHTMLButtonElementを背負っているため」となりますが、意訳して「HTMLButtonElementをベースにしているため」くらいで良いのではないかと思います。
@@ -3802,6 +3834,14 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T100853Z" creationid="yoota" creationdate="20170511T100807Z">
         <seg>ブラウザには、点線のアウトラインやぼんやりとした青い光の輪など、それぞれ独自のフォーカススタイルがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bruce Lawson of Opera has a great article on “&lt;g1&gt;&lt;g2&gt;Making websites that work well on Opera Mini&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;9&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” Successful Opera Mini support is a good litmus test of high performance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161525Z" creationid="rikiha" creationdate="20170812T161525Z">
+        <seg>Operaのブルース・ローソン（Bruce Lawson）の記事「Making websites that work well on Opera Mini」（脚注106）が非常に参考になります。Opera Miniでうまく表示されれば、パフォーマンスに優れたページであることを示す指標となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4314,6 +4354,14 @@ rudimentaryは原始的のほうがいいかも。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T031107Z" creationid="yoota" creationdate="20170511T073913Z">
         <seg>CSSは祝福でもあり、呪いでもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS pseudo-content is, typically, announced by screen readers and there’s no “Don’t say this” property that’s supported well (although &lt;g2&gt;&lt;g3&gt;work is underway&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;13&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161604Z" creationid="rikiha" creationdate="20170812T161604Z">
+        <seg>CSS疑似コンテンツは通常、スクリーンリーダーで読み上げられます。「読み上げないで」という意味のプロパティはまだ十分にサポートされていません（サポートする方向で進んでいる最中です）。（脚注110）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5538,6 +5586,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Fortunately, icon fonts are text, so they &lt;g1&gt;behave&lt;/g1&gt; like text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161449Z" creationid="rikiha" creationdate="20170812T161449Z">
+        <seg>幸い、アイコンフォントはテキストなので、テキストと同じように動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) フォーカスを適用➞フォーカスを当てる
 
 (太田) OK</note>
@@ -6199,6 +6255,14 @@ remediation は治療法?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I imagine this might have a negative impact on cognition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161534Z" creationid="rikiha" creationdate="20170812T161534Z">
+        <seg>この問題はきっと認知面のマイナス要因となるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 前段落とセットで要検討。
 
 (太田) a name の a を訳出しないとダメかも。ひとつの名前に決まっていないところからしてもうダメ、みたいなことですね。そのまま反映してみました。
@@ -6237,6 +6301,14 @@ remediation は治療法?
       <tuv lang="JA" changeid="yoota" changedate="20170628T041118Z" creationid="okamoto_jun" creationdate="20170627T073921Z">
         <seg>私はひとこと「デザイナーです」と答えましたが、あなたが私に「&lt;g1&gt;何の&lt;/g1&gt;デザイナーなの？」と聞く前に、共通の友人が私をヒジで突いています。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icon fonts become problematic when users choose their own fonts for web pages, as described by Seren D in “&lt;g1&gt;&lt;g2&gt;Death To Icon Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;8&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” It’s important for inclusion to allow users to choose fonts which they are comfortable reading, especially if they experience difficulty with dyslexia.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161457Z" creationid="rikiha" creationdate="20170812T161457Z">
+        <seg>ただし、セレン・D（Seren D）の「Death To Icon Fonts」（脚注105）にも書かれているように、アイコンフォントは、Webページのフォントをユーザーが自分で選んだ場合に問題が生じます。インクルーシブデザインを目指すなら、それぞれのユーザー（特にディスレクシアのような識字障害を持つユーザー）が読みやすいフォントを選べるようにすることが重要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6344,6 +6416,14 @@ a element ではなく elements であることに意味があるように思い
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170619T144856Z" creationid="yoota" creationdate="20170614T100622Z">
         <seg>それぞれの要素に直接マージンを適用してしまうと、コンテナのパディングとダブってしまう危険があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it was hidden using CSS, the SVG would be visible to users whose CSS was not loaded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161648Z" creationid="rikiha" creationdate="20170812T161648Z">
+        <seg>CSSを使って非表示にすると、CSSが読み込めない場合はSVGが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7121,6 +7201,14 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In fact, since &lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt; elements are not themselves rendered, there would be a blank gap in your design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161651Z" creationid="rikiha" creationdate="20170812T161651Z">
+        <seg>しかし、実際には&lt;symbol&gt;要素自体は表示されないため、結果的にデザインに空白ができてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「一般に」と言っているので一般的に推奨されていないようにも読めますが、原文では I recoomend なので一般論ではなくヘイドンさんの考えのようです。後を読むと、サードパーティのグリッドシステムが役立つこともあると言っているので、ほとんどの状況では、ということでしょう。「一般的なケースでは」としてみました。
 
 (伊原) LGTM
@@ -7388,6 +7476,14 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In practice, this means our menu icon font could fail to load and fall back to displaying a cat’s face.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161531Z" creationid="rikiha" creationdate="20170812T161531Z">
+        <seg>これはつまり、私たちが作ったメニューのアイコンフォントが正しく読み込まれず、代わりに猫の顔が表示されてしまう可能性もあるということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) dumpingを訳出するか。いったんママで。
 
 (太田) dumpingはここでは「すっ飛ばす」みたいなニュアンスですかね。「飛ばれさてしまいます」としてみました。
@@ -7499,6 +7595,14 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In terms of performance and font stacking behavior, this is an improvement — and there is indeed an approximate Unicode symbol: &lt;g1&gt;&lt;g2&gt;U+2630&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;11&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161548Z" creationid="rikiha" creationdate="20170812T161548Z">
+        <seg>パフォーマンスとフォントスタックの動作という点では、むしろその方が良いと言えます。しかも、Unicode絵文字にもハンバーガーアイコンそっくりのU+2630があります。（脚注108）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 解釈はあっていますがちょっと調整。単独の行というのはちょっとわかりづらかったので、コードを見ればわかるだろうと省略。
 
 (太田) 単独の行→別の行、改行、という解釈で書くと分かりやすいかも。
@@ -7563,6 +7667,14 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T071929Z" creationid="yoota" creationdate="20170501T070204Z">
         <seg>CSSのフォントスタックの仕組みでは、最優先フォントでサポートされていない文字はフォールバックによって補われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the CSS, we change the icon’s default 20×20px size (set in the referenced SVG’s &lt;g1&gt;viewBox&lt;/g1&gt; definition) to fit and scale along with the “menu” text:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161704Z" creationid="rikiha" creationdate="20170812T161704Z">
+        <seg>CSSで、アイコンのデフォルトのサイズである（参照先のSVGのviewBox定義で設定されている）20 × 20pxを、「メニュー」というテキストに合わせて変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10109,6 +10221,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note that it is hidden with an inline &lt;g3&gt;display: none;&lt;/g3&gt; style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161643Z" creationid="rikiha" creationdate="20170812T161643Z">
+        <seg>非表示にするのにインラインのdisplay: none;スタイルが使われていることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) Noteを訳出。</note>
       <tuv lang="EN-US">
         <seg>Note that the &lt;g2&gt;&lt;header&gt;&lt;/g2&gt; element has the explicit ARIA &lt;g3&gt;banner&lt;/g3&gt; role.</seg>
@@ -10718,6 +10838,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Opera Mini doesn’t load web fonts as a matter of course.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161521Z" creationid="rikiha" creationdate="20170812T161521Z">
+        <seg>当然ながら、Opera MiniではWebフォントは読み込まれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 冒頭の「また」を「逆に」としました。
 
@@ -11235,6 +11363,38 @@ SIMONは上で「サイモン」としていたのでここも訳すべきかと
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T025341Z" creationid="yoota" creationdate="20170614T024636Z">
         <seg>SIMON: 「ユウレイグモが世界で一番強い毒を持つ生き物だって知っていた？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SVG Sprites</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161616Z" creationid="rikiha" creationdate="20170812T161616Z">
+        <seg>SVGスプライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SVG is clearly the most robust solution and already has &lt;g1&gt;&lt;g2&gt;very good support&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;15&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161713Z" creationid="rikiha" creationdate="20170812T161713Z">
+        <seg>SVGは間違いなく最も堅牢な方法であり、すでに広くサポートされています。（脚注112）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SVG sprites are fast becoming the de facto solution for icon rendering — and with good reason.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161618Z" creationid="rikiha" creationdate="20170812T161618Z">
+        <seg>急速にアイコン表示の事実上の解決策になりつつあるのがSVGスプライトです。それにはもっともな理由があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SVG sprites work best cross-browser when they’re embedded in the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161630Z" creationid="rikiha" creationdate="20170812T161630Z">
+        <seg>SVGスプライトは、ページに埋め込んでしまえば、ブラウザを選ばず最も効果を発揮します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12661,6 +12821,14 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;symbol&gt;&lt;/g1&gt; can be used within our menu button by referencing its &lt;g2&gt;id&lt;/g2&gt; with a &lt;g3&gt;&lt;use&gt;&lt;/g3&gt; element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161655Z" creationid="rikiha" creationdate="20170812T161655Z">
+        <seg>メニューボタンに&lt;symbol&gt;を使用するためには、&lt;use&gt;要素でidを参照します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; Element</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T075435Z" creationid="yoota" creationdate="20170501T075435Z">
@@ -13332,6 +13500,14 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The first is that not all devices support a Unicode set extensive enough to include this character, the “trigram for heaven.” The second is that, unlike an icon font which is mapped to Unicode points in the &lt;g1&gt;&lt;g2&gt;private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, this character is more likely to be interpreted by assistive technology.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161553Z" creationid="rikiha" creationdate="20170812T161553Z">
+        <seg>まず、すべてのデバイスがUnicode文字セットを広くサポートしているとは限らないため、この文字「trigram for heaven」（U+2630、八卦の乾）に対応していない恐れがあります。また、PUA（脚注109）の？？Unicodeコードポイント？？にマッピングされているアイコンフォントと違い、この文字は支援技術によって解釈される可能性が高いという問題もあります。【コメント：原文「Unicode points」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (伊原) 下訳を反映
@@ -13395,6 +13571,14 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170526T175724Z" creationid="yoota" creationdate="20170524T083834Z">
         <seg>以下のマークアップは、ブログのホームページの、最近の記事が複数リストされるところで役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following should appear directly inside the &lt;g1&gt;&lt;body&gt;&lt;/g1&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161637Z" creationid="rikiha" creationdate="20170812T161637Z">
+        <seg>その場合は&lt;body&gt;の中に直接、次のように記述します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13560,6 +13744,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The menu button with the rectangular glyph-not-defined icon in place of the three bar menu icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161509Z" creationid="rikiha" creationdate="20170812T161509Z">
+        <seg>よく見かける長方形のボックスは、対象のグリフがサポートされていないことを示す、いわゆるフォールバックです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 画像alt、下訳反映。
 
 (岡本) 付いている→ついている</note>
@@ -13664,6 +13856,14 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T014451Z" creationid="yoota" creationdate="20170501T104643Z">
         <seg>スキップリンクの恩恵を最も受けるのは、目が見えているキーボードユーザーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The problem comes when the user-defined font does not support the characters used for the icons, and leaves generic “Glyph not defined” boxes in their place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161506Z" creationid="rikiha" creationdate="20170812T161506Z">
+        <seg>ユーザーが指定したフォントが、アイコンに使われている文字をサポートしていない場合は、代わりに「グリフが定義されていない」ことを意味する例のボックスが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14137,6 +14337,14 @@ JAWS日本語版では「ページ内リンク」らしいです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>There are a couple of issues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161551Z" creationid="rikiha" creationdate="20170812T161551Z">
+        <seg>ただし、いくつか問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 多少調整</note>
       <tuv lang="EN-US">
         <seg>There are a number of tools to test your content against Flesch-Kincaid, including &lt;g1&gt;&lt;g2&gt;the TRAY readability tool&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;15&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (a Chrome browser extension) or, if you want something to run from the command line, I’ve created &lt;g6&gt;&lt;g7&gt;Readability Checker CLI&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;16&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; — a Node.js CLI (command line interface).</seg>
@@ -14218,6 +14426,14 @@ convention は他のところでは「慣習」としていたのでここもそ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170424T065406Z" creationid="yoota" creationdate="20170424T065406Z">
         <seg>デフォルトが大きめなのには理由があります。他のサイズでは、特に視力が低下した高齢者など、さまざまなユーザーを遠ざけてしまう恐れがあるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, unless intervention is taken, “Trigram for heaven” could be announced in some screen readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161556Z" creationid="rikiha" creationdate="20170812T161556Z">
+        <seg>それをやめさせないと、スクリーンリーダーによっては「＃＃Trigram for heaven＃＃」と読み上げられてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14366,6 +14582,14 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>They are scalable by nature and can even change color in accordance with changes to font color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161627Z" creationid="rikiha" creationdate="20170812T161627Z">
+        <seg>しかも、その性質上、拡大／縮小が可能なだけでなく、フォントカラーの変更に合わせて色を変えられるというメリットもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「置き換える」でも問題ありませんが、ライティングの話なので「書き換える」としました。
 
 (伊原) LGTM</note>
@@ -14493,6 +14717,14 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T093131Z" creationid="yoota" creationdate="20170523T093131Z">
         <seg>これは本にも当てはまります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This also eliminates a separate HTTP request.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161632Z" creationid="rikiha" creationdate="20170812T161632Z">
+        <seg>また、そのためのHTTPリクエストも必要ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14643,6 +14875,14 @@ marginは「マージン」で良いかと。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T101305Z" creationid="yoota" creationdate="20170425T100645Z">
         <seg>この方法には、ページの最小フォントサイズを確保できるというメリットもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This hidden &lt;g1&gt;&lt;svg&gt;&lt;/g1&gt; is for reference and defines the menu icon as a &lt;g2&gt;&lt;symbol&gt;&lt;/g2&gt; containing the path that forms the icon’s shape.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161641Z" creationid="rikiha" creationdate="20170812T161641Z">
+        <seg>この非表示の&lt;svg&gt;は参照用で、メニューアイコンは、アイコンを形作るパスを含む&lt;symbol&gt;として定義します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14931,6 +15171,14 @@ http://pothos.main.jp/setuzokusi.htm</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This is workable where there are fallback system fonts defined, but icon fonts tend to use esoteric Unicode points which have no equivalent in normal system fonts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161523Z" creationid="rikiha" creationdate="20170812T161523Z">
+        <seg>フォールバック用のシステムフォントが定義されていれば対処できるのですが、アイコンフォントにはたいてい？？特殊なUnicodeコードポイント（符号位置）？？が使用されており、一般的なシステムフォントには相当するものがありません。【コメント：この解釈で問題ないでしょうか。原文「esoteric Unicode points」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 明確な→明示的な?
 ここのapplicationは「応用」の意味かと。
@@ -15124,6 +15372,14 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170722T121238Z" creationid="yoota" creationdate="20170720T070840Z">
         <seg>構造化されたマークアップ、明確なラベル、堅牢なCSSの書き方についても触れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will result in the generic-boxes-all-over-the-place effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161518Z" creationid="rikiha" creationdate="20170812T161518Z">
+        <seg>その場合は、あちこちに例のボックスが表示されることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15419,6 +15675,14 @@ SVGを使ってアイコンを表す→アイコンにSVGを使う、としま�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To either English or Chinese screen reader users, this would be rather confusing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161559Z" creationid="rikiha" creationdate="20170812T161559Z">
+        <seg>？？これは、どの言語のスクリーンリーダーユーザーにとっても混乱のもとになります。？？【コメント：意訳しています。原文「To either English or Chinese screen reader users, this would be rather confusing.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 とてもわかりにくいですね。
 後のほうを読むと、WYSIWYGエディタが空の&lt;p&gt;&lt;/p&gt;を吐いてもマージンが空いたりしないようにする話が出ています。
@@ -15541,6 +15805,14 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To make the icon adopt the color of the button element’s font — both with high contrast mode on or off — we can use CSS’s &lt;g1&gt;currentColor&lt;/g1&gt; value and set it on the &lt;g2&gt;&lt;path&gt;&lt;/g2&gt;’s &lt;g3&gt;fill&lt;/g3&gt; property.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161710Z" creationid="rikiha" creationdate="20170812T161710Z">
+        <seg>アイコンの色を（ハイコントラストモードのオン／オフに関係なく）ボタン要素のフォントの色と同じにするためには、CSSのcurrentColor値を&lt;path&gt;のfillプロパティに設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「補完しあう」は要検討。
 ここの complementary はroleではないにしてもroleを意識はしているはずで、mainに属さない補足的なものが2つあるという意味なのではないか。
@@ -15611,6 +15883,14 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170615T100951Z" creationid="yoota" creationdate="20170615T100620Z">
         <seg>引用やイラストなどの補足的なコンテンツを本文テキストから離すには、以下のように&lt;g1&gt;&lt;p&gt;&lt;/g1&gt;以外のすべてのマージンを増やします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To silence readout, you’d have to place the icon in an element with &lt;g1&gt;aria-hidden="true"&lt;/g1&gt; specified, which precludes the use of CSS pseudo-content for rendering it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161601Z" creationid="rikiha" creationdate="20170812T161601Z">
+        <seg>読み上げられないようにするには、アイコンを要素の中に入れてaria-hidden="true"を指定します。？？これで、アイコンの表示にCSS疑似コンテンツが使用されなくなります。？？【コメント：この解釈で問題ないでしょうか。原文「which precludes the use of CSS pseudo-content for rendering it.」】</seg>
       </tuv>
     </tu>
     <tu>
@@ -15781,6 +16061,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170801T091238Z" creationid="rikiha" creationdate="20170725T074211Z">
         <seg>ただ残念なことに、私たちはつい作り込みすぎて無駄にややこしくしてしまうくせがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unicode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161537Z" creationid="rikiha" creationdate="20170812T161537Z">
+        <seg>UNICODE</seg>
       </tuv>
     </tu>
     <tu>
@@ -16276,6 +16564,14 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>What if, instead of downloading an icon font, we used a standard Unicode symbol to represent the icon?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161545Z" creationid="rikiha" creationdate="20170812T161545Z">
+        <seg>アイコンフォントをダウンロードする代わりに、標準のUnicode絵文字をアイコンに利用したらどうなるでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) レベルというのが、コントラストに掛かっているのではなく全体に掛かっているように読めるため、削りました。</note>
       <tuv lang="EN-US">
         <seg>What makes things hard is that, unlike dealing in accessible interaction states or color contrast levels, accessible wording is not easy to measure.</seg>
@@ -16423,6 +16719,14 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170715T145537Z" creationid="yoota" creationdate="20170707T083555Z">
         <seg>開発者が統合されたコンポーネント間の動きに注目しているときに、アプリケーション全体で代替テキストが欠落しているというチケットが100件登録されたとして、一体何の役に立つというのでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When high contrast mode inverts the color of the “menu” text, it will also invert the color of the icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161452Z" creationid="rikiha" creationdate="20170812T161452Z">
+        <seg>ハイコントラストモードで「メニュー」というテキストの色が反転すると、アイコンの色も反転します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17200,6 +17504,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Your style sheets should be sensitive to this preference.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161503Z" creationid="rikiha" creationdate="20170812T161503Z">
+        <seg>したがって、スタイルシートもこの選択に配慮しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) subsidiaryをどう訳すかは要検討。下の画像を見ると分かりますが、ヘイドンさんはブラウザウィンドウが持つインターフェイスに対して、コンテンツが持つインターフェイスを subsidiary interface と呼んでいます。ブラウザを補助するというわけではなく、従属的というか主役ではない脇役というようなイメージかと。補って訳してみましたが、落としても通じますし下の図で説明されているので落とすのもありかも。
 図の中の your interface を「あなたがデザインするインターフェイス」とするのなら、ここでもそろえる必要があります。
 setupをどう訳すか、どうconfigurationと訳し分けるか。設定と構成?
@@ -17237,6 +17549,14 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T074151Z" creationid="okamoto_jun" creationdate="20170627T074151Z">
         <seg>あなたは正直、少しほっとしています。なぜなら、得意げに「デザイナー」を名乗るタイプの人は、たいてい、ちょっと自尊心が高くて面倒な人だからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zach Leatherman of Filament Group writes that sometimes &lt;g1&gt;&lt;g2&gt;operating systems &lt;g3&gt;do&lt;/g3&gt; use Unicode’s private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, but for their own purposes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170812T161528Z" creationid="rikiha" creationdate="20170812T161528Z">
+        <seg>また、Filament Groupのザック・レザーマン（Zach Leatherman）によると、？？中にはUnicodeのPUA（私用領域）（脚注107）を勝手に使ってしまうオペレーティングシステムもあるようです。？？【コメント：多少意訳しています。原文「sometimes operating systems do use Unicode’s private use area,107 but for their own purposes.」】</seg>
       </tuv>
     </tu>
     <tu>
