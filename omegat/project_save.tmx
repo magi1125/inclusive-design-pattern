@@ -11862,12 +11862,14 @@ Good!</note>
       <note>(伊原) ちょっと調整。もう少しこなれた感じにしたい気も。
 
 (太田)
-U+2630 TRIGRAM FOR HEAVEN は普通に使っていいのかどうか。</note>
+U+2630 TRIGRAM FOR HEAVEN は普通に使っていいのかどうか。
+
+リストを模しており→リストを表現したものであり、としてみました。</note>
       <tuv lang="EN-US">
         <seg>Since the three-line (☰) hamburger icon or navicon is a co-opted list icon, it is meaningful based on our knowledge of lists and their relationship to navigation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170811T152959Z" creationid="rikiha" creationdate="20170811T133130Z">
-        <seg>3本線（☰）のハンバーガーアイコンやナビコンと呼ばれるものはリストを模しており、リスト自体や、リストとナビゲーションの関係性を知っていることが、このアイコンの意味が分かるためのベースとなっています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170814T094410Z" creationid="rikiha" creationdate="20170811T133130Z">
+        <seg>3本線（☰）のハンバーガーアイコンやナビコンと呼ばれるものはリストを表現したものであり、その意味を理解するためには、リストそのものの存在や、リストとナビゲーションの関係性を知っていること前提なります。</seg>
       </tuv>
     </tu>
     <tu>
