@@ -12055,12 +12055,18 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
     <tu>
       <note>(伊原) 要検討。
 
-(太田) 知られているアイコンとそうでないアイコンがあるという話と思われる。あとで検討。</note>
+(太田)
+知られているアイコンとそうでないアイコンがあるという話と思われます。
+そしてそれが、サインシステム内での位置づけの問題にもなるということなのではないでしょうか。
+調整してみました。
+
+
+</note>
       <tuv lang="EN-US">
         <seg>Some icons are more intelligible than others and that’s a question of their place within a &lt;g1&gt;&lt;g2&gt;sign system&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170811T142729Z" creationid="rikiha" creationdate="20170811T133124Z">
-        <seg>一部のアイコンが他のものより理解しやすいのは、&lt;g1&gt;&lt;g2&gt;サインシステム&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注100）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;内におけるアイコンの位置づけが問われるためです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170814T094013Z" creationid="rikiha" creationdate="20170811T133124Z">
+        <seg>アイコンには、理解しやすいものとそうでないものがあります。そしてそれは、&lt;g1&gt;&lt;g2&gt;サインシステム&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注100）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;内におけるアイコンの位置づけの問題にもつながります。</seg>
       </tuv>
     </tu>
     <tu>
