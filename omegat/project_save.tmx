@@ -3401,12 +3401,16 @@ lay, makeはいずれも命令系で使われているので、「すべき」�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) どんな場合でも同じ、とかは言っていないような。前の段落とのつながりがちょっとわかりにくく、要検討。</note>
+      <note>(伊原) どんな場合でも同じ、とかは言っていないような。前の段落とのつながりがちょっとわかりにくく、要検討。
+
+(太田)
+冒頭そのまま「慣習はインクルージョンの友」としました。これで伝わると思います。
+</note>
       <tuv lang="EN-US">
         <seg>As always, convention is a friend to inclusion, so extrapolating on the the classic three-line symbol by adding lines or changing line orientation is to be avoided.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T123718Z" creationid="rikiha" creationdate="20170811T133146Z">
-        <seg>慣習は、常にインクルージョンの助けとなります。典型的な3本線のシンボルに対して線を足したり向きを変えたりというようなことは避けるべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170814T102017Z" creationid="rikiha" creationdate="20170811T133146Z">
+        <seg>どんなときでも、慣習はインクルージョンの友です。典型的な3本線のシンボルに対して線を足したり向きを変えたりというようなことは避けるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9619,9 +9623,7 @@ manageは管理で良いような。
 (太田)
 "Making list items bear the same shape and background color as the horizontal strips in the icon itself " が主語。ひどいですね。
 英文を素直に読むとリスト項目の見た目をアイコンのほうにそろえる話のように読めます。普通に考えると不自然ですが、まあいわゆるヘイドンフレーズだと思われます。カッコ書きがついているのもこの文全体が皮肉だからでしょう。
-「真の意味でのアイコン」という感じでヘイドン処理してみました。
-
-</note>
+「真の意味でのアイコン」という感じでヘイドン処理してみました。</note>
       <tuv lang="EN-US">
         <seg>Making list items bear the same shape and background color as the horizontal strips in the icon itself makes the icon truly iconic (representative by physical approximation).</seg>
       </tuv>
