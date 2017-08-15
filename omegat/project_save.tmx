@@ -2118,10 +2118,7 @@ font-size: 16px;
     <tu>
       <note>(伊原) このlanguageは言葉というより言語かなと。
 
-(太田) 文末「伝えられる」としました。
-
-(岡本) 画像altがない？
-</note>
+(太田) 文末「伝えられる」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A smiley face says “happy” to more people than any one language can manage.&lt;/g3&gt;</seg>
       </tuv>
@@ -2759,6 +2756,8 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <note>(岡本) 画像altですね？
+</note>
       <tuv lang="EN-US">
         <seg>A smiley face symbol with the word “happy” in lots of different languages.</seg>
       </tuv>
