@@ -16877,12 +16877,15 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ほぼOK,微調整。</note>
+      <note>(伊原) ほぼOK,微調整。
+
+(太田)
+ここの the icon の the は訳出したほうが良いやつかも。「アイコンフォントで実装されたアイコン」を指すので「アイコンフォント」としてみました。</note>
       <tuv lang="EN-US">
         <seg>When high contrast mode inverts the color of the “menu” text, it will also invert the color of the icon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T015246Z" creationid="rikiha" creationdate="20170812T161452Z">
-        <seg>ハイコントラストモードで「メニュー」テキストの色が反転すると、アイコンの色も反転します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T054915Z" creationid="rikiha" creationdate="20170812T161452Z">
+        <seg>ハイコントラストモードで「メニュー」テキストの色が反転すると、アイコンフォントの色も反転します。</seg>
       </tuv>
     </tu>
     <tu>
