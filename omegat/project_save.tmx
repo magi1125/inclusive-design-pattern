@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15331,11 +15331,12 @@ http://pothos.main.jp/setuzokusi.htm</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 対処できるというより、フォールバックでシステムフォントが出るという話かなと。</note>
       <tuv lang="EN-US">
         <seg>This is workable where there are fallback system fonts defined, but icon fonts tend to use esoteric Unicode points which have no equivalent in normal system fonts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T041733Z" creationid="rikiha" creationdate="20170812T161523Z">
-        <seg>フォールバック用のシステムフォントが定義されていれば対処できるのですが、アイコンフォントにはたいてい特殊なUnicode符号位置が使用されており、一般的なシステムフォントには相当するものがありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T060236Z" creationid="rikiha" creationdate="20170812T161523Z">
+        <seg>フォールバック用のシステムフォントが定義されていればそれが使われます。しかし、アイコンフォントは特殊なUnicode符号位置を利用しがちであり、一般的なシステムフォントには同等のものがありません。</seg>
       </tuv>
     </tu>
     <tu>
