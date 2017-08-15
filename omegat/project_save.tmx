@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2376,9 +2376,7 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
 
 (太田)
 原文の問題ですが、PNGであるかどうかと、前景として使われるかどうかは関係ありません。PNGを背景画像として使うこともあるので、だいぶ分かりにくい感じがします。補わないといけないかも。
-ひとまず、「画像を前景に置く場合でも」と補ってみました。
-
-</note>
+ひとまず、「画像を前景に置く場合でも」と補ってみました。</note>
       <tuv lang="EN-US">
         <seg>A &lt;g1&gt;.png&lt;/g1&gt; image which defines three black lines separated by transparent spaces has a similar issue: when the background becomes black, you get three black lines on a black background.</seg>
       </tuv>
@@ -17486,12 +17484,16 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田)
+これも原文の問題ですが、「意図したもの」が何なのか良く分からないですね。黒背景に白線になってほしいということなのだとは思いますが。
+ひとまず「意図した表現」としてみました。</note>
       <tuv lang="EN-US">
         <seg>You can, of course, provide a white, rather than transparent, background for your icon, but on a black background this becomes three black stripes in a white box, which is a slightly different proposition.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161434Z" creationid="rikiha" creationdate="20170812T161434Z">
-        <seg>もちろん、アイコンの背景を透明ではなく白にするという方法も考えられますが、そうすると背景を黒にしたときに、今度は白いボックスの中に3本の黒い横縞が描かれることになり、意図したものと少し違ってきます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T040745Z" creationid="rikiha" creationdate="20170812T161434Z">
+        <seg>もちろん、アイコンの背景を透明ではなく白にするという方法も考えられますが、そうすると背景を黒にしたときに、今度は白いボックスの中に3本の黒い横縞が描かれることになり、意図した表現とは少し違ってきます。</seg>
       </tuv>
     </tu>
     <tu>
