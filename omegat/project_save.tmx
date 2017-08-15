@@ -5643,12 +5643,15 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 動作➞ふるまい</note>
+      <note>(伊原) 動作➞ふるまい
+
+(太田) 「ふるまいます」の「ふるまい」だけが強調されるのに違和感があったので、「ふるまい」を名詞扱いするように調整してみました。
+</note>
       <tuv lang="EN-US">
         <seg>Fortunately, icon fonts are text, so they &lt;g1&gt;behave&lt;/g1&gt; like text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T015159Z" creationid="rikiha" creationdate="20170812T161449Z">
-        <seg>幸い、アイコンフォントはテキストなので、テキストと同じように&lt;g1&gt;ふるまい&lt;/g1&gt;ます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T053737Z" creationid="rikiha" creationdate="20170812T161449Z">
+        <seg>幸い、アイコンフォントはテキストなので、テキストと同じような&lt;g1&gt;ふるまい&lt;/g1&gt;をします。</seg>
       </tuv>
     </tu>
     <tu>
