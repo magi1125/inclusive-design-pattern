@@ -7316,8 +7316,8 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       <tuv lang="EN-US">
         <seg>In fact, since &lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt; elements are not themselves rendered, there would be a blank gap in your design.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T153535Z" creationid="rikiha" creationdate="20170812T161651Z">
-        <seg>しかし、実際には&lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt;要素それ自体はレンダリングされるものではないため、デザインに空白の隙間が生まれてしまいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T153627Z" creationid="rikiha" creationdate="20170812T161651Z">
+        <seg>しかし、実際には&lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt;要素それ自体はレンダリングされるものではないため、デザインに空白の隙間が生まれてしまうのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12999,8 +12999,8 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;symbol&gt;&lt;/g1&gt; can be used within our menu button by referencing its &lt;g2&gt;id&lt;/g2&gt; with a &lt;g3&gt;&lt;use&gt;&lt;/g3&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161655Z" creationid="rikiha" creationdate="20170812T161655Z">
-        <seg>メニューボタンに&lt;symbol&gt;を使用するためには、&lt;use&gt;要素でidを参照します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T155206Z" creationid="rikiha" creationdate="20170812T161655Z">
+        <seg>メニューボタン内でこの&lt;symbol&gt;を使用するには、&lt;use&gt;要素でidを参照します。</seg>
       </tuv>
     </tu>
     <tu>
