@@ -13678,8 +13678,8 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       <tuv lang="EN-US">
         <seg>The first is that not all devices support a Unicode set extensive enough to include this character, the “trigram for heaven.” The second is that, unlike an icon font which is mapped to Unicode points in the &lt;g1&gt;&lt;g2&gt;private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, this character is more likely to be interpreted by assistive technology.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T130659Z" creationid="rikiha" creationdate="20170812T161553Z">
-        <seg>1つめは、すべてのデバイスがこの記号「trigram for heaven」を含むほどUnicode文字集合を広くサポートしているとは限らないということです。2つめは、Unicodeの符号位置として&lt;g1&gt;&lt;g2&gt;私用領域&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注109）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;にマップされるアイコンフォントとは異なり、この文字は支援技術に解釈される可能性が高いということです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T131051Z" creationid="rikiha" creationdate="20170812T161553Z">
+        <seg>1つめは、すべてのデバイスがこの記号「trigram for heaven」を含むほどUnicode文字集合を広くサポートしているとは限らないということです。2つめは、Unicodeの符号位置として&lt;g1&gt;&lt;g2&gt;私用領域&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注109）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;にマップされるアイコンフォントとは異なり、この記号は支援技術に解釈される可能性が高いということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14621,8 +14621,8 @@ convention は他のところでは「慣習」としていたのでここもそ
       <tuv lang="EN-US">
         <seg>Therefore, unless intervention is taken, “Trigram for heaven” could be announced in some screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161556Z" creationid="rikiha" creationdate="20170812T161556Z">
-        <seg>それをやめさせないと、スクリーンリーダーによっては「＃＃Trigram for heaven＃＃」と読み上げられてしまいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T131030Z" creationid="rikiha" creationdate="20170812T161556Z">
+        <seg>そのため、なにも手を入れなければ、一部のスクリーンリーダーが「＃＃Trigram for heaven＃＃」と読み上げる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
