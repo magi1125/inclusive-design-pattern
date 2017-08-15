@@ -2358,8 +2358,8 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       <tuv lang="EN-US">
         <seg>A &lt;g1&gt;.png&lt;/g1&gt; image which defines three black lines separated by transparent spaces has a similar issue: when the background becomes black, you get three black lines on a black background.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T004944Z" creationid="rikiha" creationdate="20170812T161431Z">
-        <seg>黒い3本線を引いた透過PNG画像でも同じような問題が起きます。ハイコントラストモードでブラウザの背景を黒にすると、黒い背景に黒い3本線となります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T005050Z" creationid="rikiha" creationdate="20170812T161431Z">
+        <seg>背景を透過して黒い3本線を引いたPNG画像でも同じような問題が起きます。ハイコントラストモードでブラウザの背景を黒にすると、黒い背景に黒い3本線となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17394,6 +17394,7 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>You can, of course, provide a white, rather than transparent, background for your icon, but on a black background this becomes three black stripes in a white box, which is a slightly different proposition.</seg>
       </tuv>
