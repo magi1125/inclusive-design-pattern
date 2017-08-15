@@ -4032,12 +4032,13 @@ composeは作成でいいのか。あとで検討。
     <tu>
       <note>(伊原) いったん原文に沿ったが no visual presence at all は、単に「まったく見えない」でよさそうな気も。
 
-(太田) スクリーンリーダーだと余裕で読めたりすることがある、という含みを持たせているのだと思います。ですので「視覚的」は残したいです。</note>
+(太田) スクリーンリーダーだと余裕で読めたりすることがある、という含みを持たせているのだと思います。ですので「視覚的」は残したいです。
+「視覚的にはまったく見えなくなります」くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>But without the additional text, the button has no visual presence at all.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161118Z" creationid="rikiha" creationdate="20170811T133441Z">
-        <seg>この追加テキストがなかったら、ボタンは視覚的にはまったく存在しなくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T035902Z" creationid="rikiha" creationdate="20170811T133441Z">
+        <seg>この追加テキストがなかったら、ボタンは視覚的にはまったく見えなくなります。</seg>
       </tuv>
     </tu>
     <tu>
