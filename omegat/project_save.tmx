@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15304,8 +15304,8 @@ http://pothos.main.jp/setuzokusi.htm</note>
       <tuv lang="EN-US">
         <seg>This is workable where there are fallback system fonts defined, but icon fonts tend to use esoteric Unicode points which have no equivalent in normal system fonts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161523Z" creationid="rikiha" creationdate="20170812T161523Z">
-        <seg>フォールバック用のシステムフォントが定義されていれば対処できるのですが、アイコンフォントにはたいてい？？特殊なUnicodeコードポイント（符号位置）？？が使用されており、一般的なシステムフォントには相当するものがありません。【コメント：この解釈で問題ないでしょうか。原文「esoteric Unicode points」】</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T040843Z" creationid="rikiha" creationdate="20170812T161523Z">
+        <seg>フォールバック用のシステムフォントが定義されていれば対処できるのですが、アイコンフォントにはたいてい特殊なUnicodeコードポイントが使用されており、一般的なシステムフォントには相当するものがありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17710,8 +17710,8 @@ spoiled for choice は選択肢があまりに豊富すぎて甘やかされて�
       <tuv lang="EN-US">
         <seg>Zach Leatherman of Filament Group writes that sometimes &lt;g1&gt;&lt;g2&gt;operating systems &lt;g3&gt;do&lt;/g3&gt; use Unicode’s private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, but for their own purposes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161528Z" creationid="rikiha" creationdate="20170812T161528Z">
-        <seg>また、Filament Groupのザック・レザーマン（Zach Leatherman）によると、？？中にはUnicodeのPUA（私用領域）（脚注107）を勝手に使ってしまうオペレーティングシステムもあるようです。？？【コメント：多少意訳しています。原文「sometimes operating systems do use Unicode’s private use area,107 but for their own purposes.」】</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T040852Z" creationid="rikiha" creationdate="20170812T161528Z">
+        <seg>また、Filament Groupのザック・レザーマン（Zach Leatherman）によると、中にはUnicodeのPUA（私用領域）（脚注107）を勝手に使ってしまうオペレーティングシステムもあるようです。</seg>
       </tuv>
     </tu>
     <tu>
