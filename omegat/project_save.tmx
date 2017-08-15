@@ -3143,7 +3143,7 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       <note>(伊原) 多少調整。
 
 (太田)
-Another advantage をもう少し強調してもいいかも。メリットを冒頭に持ってきて見ました。
+Another advantage をもう少し強調してもいいかも。メリットを冒頭に持ってきてみました。
 
 </note>
       <tuv lang="EN-US">
@@ -6376,7 +6376,10 @@ remediation は治療法?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順を多少調整。</note>
+      <note>(伊原) 語順を多少調整。
+
+(太田)
+「独自のフォント」は違和感があります。</note>
       <tuv lang="EN-US">
         <seg>Icon fonts become problematic when users choose their own fonts for web pages, as described by Seren D in “&lt;g1&gt;&lt;g2&gt;Death To Icon Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;8&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” It’s important for inclusion to allow users to choose fonts which they are comfortable reading, especially if they experience difficulty with dyslexia.</seg>
       </tuv>
