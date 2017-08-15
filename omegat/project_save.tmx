@@ -6519,8 +6519,8 @@ a element ではなく elements であることに意味があるように思い
       <tuv lang="EN-US">
         <seg>If it was hidden using CSS, the SVG would be visible to users whose CSS was not loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T153450Z" creationid="rikiha" creationdate="20170812T161648Z">
-        <seg>外部ファイルのCSSを使って非表示にしたとすると、ファイルが読み込めない場合はSVG要素が見える状態になります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T155220Z" creationid="rikiha" creationdate="20170812T161648Z">
+        <seg>外部ファイルのCSSを使って非表示にしたとすると、ファイルが読み込めない場合はこのSVG要素が見える状態になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7794,8 +7794,8 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       <tuv lang="EN-US">
         <seg>In the CSS, we change the icon’s default 20×20px size (set in the referenced SVG’s &lt;g1&gt;viewBox&lt;/g1&gt; definition) to fit and scale along with the “menu” text:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161704Z" creationid="rikiha" creationdate="20170812T161704Z">
-        <seg>CSSで、アイコンのデフォルトのサイズである（参照先のSVGのviewBox定義で設定されている）20 × 20pxを、「メニュー」というテキストに合わせて変更します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T155804Z" creationid="rikiha" creationdate="20170812T161704Z">
+        <seg>CSSで、アイコンのデフォルトのサイズである（参照先のSVGのviewBox定義で設定されている）20 × 20pxを、「メニュー」というテキストに合わせて拡大縮小するように変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12996,6 +12996,7 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 多少調整。Theを訳出。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;symbol&gt;&lt;/g1&gt; can be used within our menu button by referencing its &lt;g2&gt;id&lt;/g2&gt; with a &lt;g3&gt;&lt;use&gt;&lt;/g3&gt; element.</seg>
       </tuv>
