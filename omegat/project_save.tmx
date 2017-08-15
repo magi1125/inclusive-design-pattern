@@ -6061,7 +6061,11 @@ http://www.dictionary.com/browse/radical
       <note>※要訳注
 
 (伊原) 若干調整。edgeだと背景画像が残る件を訳注？
-</note>
+
+(太田) 「はじめに」のハイコントラストモードの記述というのは、
+「また、前景と背景の見分けがつきにくいユーザーは、Windowsのハイコントラストモード（脚注1）をオンにするかもしれません。この場合も、条件によって背景画像が表示されなくなることがあります（脚注2）。」
+というだけなので、忘れている人が多いかもしれません。
+意訳になりますが「少し触れましたが」くらいのほうがいいかも。</note>
       <tuv lang="EN-US">
         <seg>However, as you may recall from the &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; example in the introduction, background images are eliminated when users switch into &lt;g3&gt;&lt;g4&gt;Windows’ high contrast mode&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;7&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
@@ -10493,7 +10497,7 @@ the URLは「このページのURL」としてみました。
       <note>(伊原) viabilityをどう訳すか。実現性的な感じだろうか。使い所が増えた、とも言えそうな。いったんそのまま。
 
 (太田) Now は訳出したほうがいいかも。
-viabilityは「使いやすさ」みたいな砕けた訳でもいいかもしれないですね。</note>
+viabilityは「使いやすさ」みたいな砕けた訳でもいいかもしれないですね。いったんそのままで。</note>
       <tuv lang="EN-US">
         <seg>Now that background images can be scaled using the &lt;g1&gt;background-size&lt;/g1&gt; property, their viability in responsive design has improved.</seg>
       </tuv>
