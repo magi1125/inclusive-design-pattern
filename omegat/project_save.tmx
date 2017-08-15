@@ -7791,11 +7791,12 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整。</note>
       <tuv lang="EN-US">
         <seg>In the CSS, we change the icon’s default 20×20px size (set in the referenced SVG’s &lt;g1&gt;viewBox&lt;/g1&gt; definition) to fit and scale along with the “menu” text:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T155804Z" creationid="rikiha" creationdate="20170812T161704Z">
-        <seg>CSSで、アイコンのデフォルトのサイズである（参照先のSVGのviewBox定義で設定されている）20 × 20pxを、「メニュー」というテキストに合わせて拡大縮小するように変更します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T155901Z" creationid="rikiha" creationdate="20170812T161704Z">
+        <seg>CSSでは、アイコンのデフォルトのサイズである（参照先のSVGのviewBox定義で設定されている）20 × 20pxを「メニュー」というテキストに合わせて拡大縮小するように変更します。</seg>
       </tuv>
     </tu>
     <tu>
