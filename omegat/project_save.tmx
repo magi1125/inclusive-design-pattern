@@ -6515,11 +6515,12 @@ a element ではなく elements であることに意味があるように思い
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) なぜインラインスタイルを使っているのか？という点の説明のはずなので、外部CSSと補足しました。</note>
       <tuv lang="EN-US">
         <seg>If it was hidden using CSS, the SVG would be visible to users whose CSS was not loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161648Z" creationid="rikiha" creationdate="20170812T161648Z">
-        <seg>CSSを使って非表示にすると、CSSが読み込めない場合はSVGが表示されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T152535Z" creationid="rikiha" creationdate="20170812T161648Z">
+        <seg>外部ファイルのCSSを使って非表示にした場合、ファイルが読み込めないと、このSVG要素は表示されるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
