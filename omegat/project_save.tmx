@@ -17691,12 +17691,13 @@ OK</note>
       <note>(伊原) 訳としてはこうなのかなと思いますが、配慮できるのかしら、という疑問が。
 
 (太田) 
-要検討ですが、少なくともshouldは「しなければならない」ではなく「するべき」と訳すべきかと思います。</note>
+要検討ですが、少なくともshouldは「しなければならない」ではなく「するべき」と訳すべきかと思います。
+とりあえず調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Your style sheets should be sensitive to this preference.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170815T060517Z" creationid="rikiha" creationdate="20170812T161503Z">
-        <seg>スタイルシートでも、このような設定ができることを考慮しておくべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T060535Z" creationid="rikiha" creationdate="20170812T161503Z">
+        <seg>スタイルシートも、このような設定ができることを考慮しておくべきです。</seg>
       </tuv>
     </tu>
     <tu>
