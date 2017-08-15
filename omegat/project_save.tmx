@@ -17751,11 +17751,14 @@ spoiled for choice は選択肢があまりに豊富すぎて甘やかされて�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 多少調整。
+https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
+によれば、OSのデフォルトフォントが絵文字を表示するためにPUAを使っている場合がある、という話のようです。</note>
       <tuv lang="EN-US">
         <seg>Zach Leatherman of Filament Group writes that sometimes &lt;g1&gt;&lt;g2&gt;operating systems &lt;g3&gt;do&lt;/g3&gt; use Unicode’s private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, but for their own purposes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T040852Z" creationid="rikiha" creationdate="20170812T161528Z">
-        <seg>また、Filament Groupのザック・レザーマン（Zach Leatherman）によると、中にはUnicodeのPUA（私用領域）（脚注107）を勝手に使ってしまうオペレーティングシステムもあるようです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T065749Z" creationid="rikiha" creationdate="20170812T161528Z">
+        <seg>Filament Groupのザック・レザーマン（Zach Leatherman）によると、&lt;g1&gt;&lt;g2&gt;OSが独自の目的でUnicodeの私用領域を&lt;g3&gt;使う&lt;/g3&gt;こともある&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注107）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;ようです。</seg>
       </tuv>
     </tu>
     <tu>
