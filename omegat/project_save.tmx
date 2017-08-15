@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6610,12 +6610,12 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     <tu>
       <note>(伊原) 問題を回避、とまではいかないかなと。最低限担保できる的なことと思いました。
 
-(太田) 「許しがたい状態」要検討。原文 deal breaker</note>
+(太田) 「許しがたい状態」要検討。原文 deal breaker。「ぶち壊し」とかでもいいかも。</note>
       <tuv lang="EN-US">
         <seg>If we provide the “menu” text (which will have its color inverted by high contrast mode to still be readable against an inverted background color) this isn’t a deal breaker.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T160712Z" creationid="rikiha" creationdate="20170811T133424Z">
-        <seg>「メニュー」というテキストも提供していれば、許しがたい状態にはなりません（ハイコントラストモードにしたとき、背景色とともにテキストの色も反転するため、引き続き読めるのです）。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T035653Z" creationid="rikiha" creationdate="20170811T133424Z">
+        <seg>「メニュー」というテキストも提供していれば、ぶち壊しにはなりません（ハイコントラストモードにしたとき、背景色とともにテキストの色も反転するため、引き続き読めるのです）。</seg>
       </tuv>
     </tu>
     <tu>
