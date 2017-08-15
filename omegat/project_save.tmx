@@ -2174,11 +2174,12 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 黒背景にすると白で囲まれるという話なので、調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Encapsulated in white, on the high contrast mode’s black background, the icon appears differently and seems separate from the text label of “menu.”&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161444Z" creationid="rikiha" creationdate="20170812T161444Z">
-        <seg>ハイコントラストモードの黒背景では白で囲まれたアイコンは別物に見えてしまう上に、「メニュー」というテキストとも分離して見えます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T010112Z" creationid="rikiha" creationdate="20170812T161444Z">
+        <seg>ハイコントラストモードの黒背景では、アイコンは白で囲まれ、別物に見えるうえに、「メニュー」というテキストとも分離して見える。</seg>
       </tuv>
     </tu>
     <tu>
