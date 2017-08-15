@@ -2178,8 +2178,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Encapsulated in white, on the high contrast mode’s black background, the icon appears differently and seems separate from the text label of “menu.”&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T010112Z" creationid="rikiha" creationdate="20170812T161444Z">
-        <seg>ハイコントラストモードの黒背景では、アイコンは白で囲まれ、別物に見えるうえに、「メニュー」というテキストとも分離して見える。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T015127Z" creationid="rikiha" creationdate="20170812T161444Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;ハイコントラストモードの黒背景では、アイコンは白で囲まれ、別物に見えるうえに、「メニュー」というテキストとも分離して見える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2359,8 +2359,8 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       <tuv lang="EN-US">
         <seg>A &lt;g1&gt;.png&lt;/g1&gt; image which defines three black lines separated by transparent spaces has a similar issue: when the background becomes black, you get three black lines on a black background.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T005050Z" creationid="rikiha" creationdate="20170812T161431Z">
-        <seg>背景を透過して黒い3本線を引いたPNG画像でも同じような問題が起きます。ハイコントラストモードでブラウザの背景を黒にすると、黒い背景に黒い3本線となります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T015119Z" creationid="rikiha" creationdate="20170812T161431Z">
+        <seg>背景を透過して黒い3本線を引いた&lt;g1&gt;.png&lt;/g1&gt;画像でも同じような問題が起きます。ハイコントラストモードでブラウザの背景を黒にすると、黒い背景に黒い3本線となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5600,11 +5600,12 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 動作➞ふるまい</note>
       <tuv lang="EN-US">
         <seg>Fortunately, icon fonts are text, so they &lt;g1&gt;behave&lt;/g1&gt; like text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161449Z" creationid="rikiha" creationdate="20170812T161449Z">
-        <seg>幸い、アイコンフォントはテキストなので、テキストと同じように動作します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T015159Z" creationid="rikiha" creationdate="20170812T161449Z">
+        <seg>幸い、アイコンフォントはテキストなので、テキストと同じように&lt;g1&gt;ふるまい&lt;/g1&gt;ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16789,11 +16790,12 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ほぼOK,微調整。</note>
       <tuv lang="EN-US">
         <seg>When high contrast mode inverts the color of the “menu” text, it will also invert the color of the icon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161452Z" creationid="rikiha" creationdate="20170812T161452Z">
-        <seg>ハイコントラストモードで「メニュー」というテキストの色が反転すると、アイコンの色も反転します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T015246Z" creationid="rikiha" creationdate="20170812T161452Z">
+        <seg>ハイコントラストモードで「メニュー」テキストの色が反転すると、アイコンの色も反転します。</seg>
       </tuv>
     </tu>
     <tu>
