@@ -7579,11 +7579,12 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 若干調整。</note>
       <tuv lang="EN-US">
         <seg>In practice, this means our menu icon font could fail to load and fall back to displaying a cat’s face.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161531Z" creationid="rikiha" creationdate="20170812T161531Z">
-        <seg>これはつまり、私たちが作ったメニューのアイコンフォントが正しく読み込まれず、代わりに猫の顔が表示されてしまう可能性もあるということです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T070734Z" creationid="rikiha" creationdate="20170812T161531Z">
+        <seg>これはつまり、メニューのアイコンフォントの読み込みに失敗したら、フォールバックとして猫の顔が表示される可能性もあるということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17767,8 +17768,8 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       <tuv lang="EN-US">
         <seg>Zach Leatherman of Filament Group writes that sometimes &lt;g1&gt;&lt;g2&gt;operating systems &lt;g3&gt;do&lt;/g3&gt; use Unicode’s private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, but for their own purposes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T065749Z" creationid="rikiha" creationdate="20170812T161528Z">
-        <seg>Filament Groupのザック・レザーマン（Zach Leatherman）によると、&lt;g1&gt;&lt;g2&gt;OSが独自の目的でUnicodeの私用領域を&lt;g3&gt;使う&lt;/g3&gt;こともある&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注107）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;ようです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T070142Z" creationid="rikiha" creationdate="20170812T161528Z">
+        <seg>Filament Groupのザック・レザーマン（Zach Leatherman）によれば、&lt;g1&gt;&lt;g2&gt;OSが独自の目的でUnicodeの私用領域を&lt;g3&gt;使う&lt;/g3&gt;こともある&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注107）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;ようです。</seg>
       </tuv>
     </tu>
     <tu>
