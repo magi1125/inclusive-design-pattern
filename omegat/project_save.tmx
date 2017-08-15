@@ -512,6 +512,14 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;Support for SVG is pretty much universal&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;19&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, with the stipulation that IE9–11 cannot reference external files using &lt;g6&gt;xlink:href&lt;/g6&gt; — not a problem with this implementation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160920Z" creationid="rikiha" creationdate="20170815T160920Z">
+        <seg>（脚注116）Internet Explorerのバージョン9～11はxlink:hrefを使って外部ファイルを参照できないとされていますが、SVGの実装には問題ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「BBC」と「広範なガイドラインを提供」が離れていましたが、これらは固まっている必要がある (原文では The BBC provides extensive guidelines がひとつのリンクになっている) ので語順を調整しました。
 
@@ -2957,6 +2965,14 @@ wouldなので語尾を少しやわらかめに。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>All interactive elements should have an accessible name so they can be interpreted and communicated in assistive technologies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160723Z" creationid="rikiha" creationdate="20170815T160723Z">
+        <seg>インタラクティブな要素には、支援技術で解釈したり伝えたりできるように、必ずアクセシブルな名前を付ける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 繰り返しっぽい言い回しになるようにしました。
 
 (太田) ちょっと日本語として硬いかもしれません。「さらに良くなりますね」とか?
@@ -3177,6 +3193,14 @@ proxy elementは力強く削除してしまったほうが分かりやすそう�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another auxiliary method for labeling the icon is to use an &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-label&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;17&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; attribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160808Z" creationid="rikiha" creationdate="20170815T160808Z">
+        <seg>もうひとつ補助的な方法として、aria-label（脚注114）属性を使用する方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another problem is encountered when a user switches off image loading in their mobile browser, to save bandwidth: the button, constituted entirely by a background image, will be invisible.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100541Z" creationid="okamoto_jun" creationdate="20170627T100452Z">
@@ -3268,6 +3292,14 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T083823Z" creationid="yoota" creationdate="20170524T083609Z">
         <seg>確かに、同じページに複数の&lt;g4&gt;&lt;article&gt;&lt;/g4&gt;があり、ユーザーが上から下に向かって要素をひとつずつ読んでいる場合には、これは有益な情報です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Artur Ampilogov &lt;g2&gt;&lt;g3&gt;has a workaround using background images&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;20&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160957Z" creationid="rikiha" creationdate="20170815T160957Z">
+        <seg>これについてはアルトゥール・？？アンピロゴフ？？（Artur Ampilogov）が、背景画像を用いた対処方法を紹介しています。（脚注117）【コメント：人名のカナ表記に問題ないかご確認ください】</seg>
       </tuv>
     </tu>
     <tu>
@@ -3472,6 +3504,14 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T083726Z" creationid="yoota" creationdate="20170511T105438Z">
         <seg>先ほど述べたように、インクルーシブな編集体験とは、編集者がよくわからないことを考えたり作業したりすることを求められないということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As discussed, there are cognitive benefits of including “menu,” not to mention the &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; would remain intelligible even if one of the less reliable icon rendering techniques fails.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160732Z" creationid="rikiha" creationdate="20170815T160732Z">
+        <seg>前述したとおり、「メニュー」というテキストをプラスすることには認知面のメリットがあります。言うまでもなく、確実さに欠けるアイコン表示法の1つにエラーが生じたとしても、&lt;button&gt;の分かりやすさが維持されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5546,6 +5586,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For that, we can harness our trusty &lt;g2&gt;.visibility-hidden&lt;/g2&gt; class (set out in “A Blog Post”).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160753Z" creationid="rikiha" creationdate="20170815T160753Z">
+        <seg>使うのは、頼りになる.visually-hiddenクラス（「ブログ記事」を参照）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 2文に分けつつ調整してみました。
 
@@ -6176,6 +6224,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>However, there are circumstances in which you might provide the icon alone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160734Z" creationid="rikiha" creationdate="20170815T160734Z">
+        <seg>それでもやはり、アイコンだけを使いたい場合もあり得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「読み込み後」は原文もそうなので正しいのですが、この問題のポイントは読み込まれた瞬間に一気に切り替わってしまうことなので、少し補って「読み込まれたタイミングで」としました。
 
 (伊原) LGTM
@@ -6392,6 +6448,14 @@ remediation は治療法?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I wrote &lt;g1&gt;&lt;g2&gt;an article on the UX of &lt;g3&gt;aria-label&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;18&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; for Dev.Opera.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160905Z" creationid="rikiha" creationdate="20170815T160839Z">
+        <seg>Dev.Operaに私が書いたaria-label（脚注115）のUXに関する記事があるので参考にしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 語順を多少調整。
 
 (太田)
@@ -6565,6 +6629,14 @@ poorは貧弱というか、ここでは「ダメな」「望ましくない」�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170601T105437Z" creationid="rikiha" creationdate="20170601T073157Z">
         <seg>インデントが一貫していないなど、望ましくないコーディングスタイルでビルドが止まるというのは、よくあるやり方です。では、製品がユーザーを疎外する危険性がある、という理由でビルドが止まるとしたらどうでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If so, making sure the button is identified as “menu button” to screen reader users is paramount.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160737Z" creationid="rikiha" creationdate="20170815T160737Z">
+        <seg>その場合は、スクリーンリーダーユーザーにも「メニューボタン」であることが確実に分かるようにすることが大切です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7920,6 +7992,14 @@ robustlyは「堅牢な方法で」としてみました。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the example above, the SVG renders via the &lt;g1&gt;&lt;use&gt;&lt;/g1&gt; element if supported, but &lt;g2&gt;switches&lt;/g2&gt; to rendering the fallback PNG if not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160936Z" creationid="rikiha" creationdate="20170815T160936Z">
+        <seg>上の例では、SVGがサポートされていれば&lt;use&gt;要素を介してSVGで表示されますが、サポートされていない場合はフォールバックのPNGが使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the example below, the &lt;c0&gt;line-height&lt;/c0&gt; and &lt;c1&gt;margin&lt;/c1&gt; of the &lt;c2&gt;p&lt;/c2&gt; will scale proportionately, because they are both set relative to the &lt;c3&gt;font-size&lt;/c3&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T083627Z" creationid="yoota" creationdate="20170425T083627Z">
@@ -8369,6 +8449,14 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170501T035957Z" creationid="yoota" creationdate="20170426T060919Z">
         <seg>それよりも、最初から完全に柔軟なデザインを作り、コンテンツのレイアウトが切り替わるところだけにブレイクポイントを挿入すべきです――すなわち、&lt;g1&gt;コンテンツブレイクポイント&lt;/g1&gt;、あるいは&lt;g2&gt;トゥイークポイント&lt;/g2&gt;ということになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internet Explorer preceding version 9 and other older browsers need a fallback for inline SVG.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160926Z" creationid="rikiha" creationdate="20170815T160926Z">
+        <seg>しかし、バージョン9より前のInternet Explorerやその他の古いブラウザでは、インラインSVGのフォールバックが必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9391,6 +9479,15 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>※ここから確認中</note>
+      <tuv lang="EN-US">
+        <seg>Labeling</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160720Z" creationid="rikiha" creationdate="20170815T160720Z">
+        <seg>ラベル付け</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 ラベル付けで良いのか。
 「ラベルを付ける」としました。
@@ -9763,6 +9860,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Many lessons in this book are transferable between patterns and to new patterns in this way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160743Z" creationid="rikiha" creationdate="20170815T160743Z">
+        <seg>本書の多くのレッスンはさまざまなパターンに応用でき、このように新しいパターンにも生かすことも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 多少補足。
 
 土屋さんは以下のように書かれていますが
@@ -10009,6 +10114,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170515T015551Z" creationid="yoota" creationdate="20170510T072042Z">
         <seg>平均的ユーザーのようなユーザーなど存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nonetheless, because of the described benefits, use SVG to render all your icons if you are able to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160833Z" creationid="rikiha" creationdate="20170815T160833Z">
+        <seg>とは言え、SVGのメリットを考えると、アイコンにはできる限りSVGを使用することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10452,6 +10565,14 @@ resulting inも落ちているような。「結果として」くらいでし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note the empty or null value of the &lt;g3&gt;alt&lt;/g3&gt; attribute on the fallback image: this tells screen readers not to acknowledge the image.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160939Z" creationid="rikiha" creationdate="20170815T160939Z">
+        <seg>フォールバック画像のalt属性の値が空（null値）であることに注目してください。これは、スクリーンリーダーで画像が認識されないようにするためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注
 
  (伊原) こういうこと？
@@ -10777,6 +10898,22 @@ To come before and after, or at both sides of.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Older Browsers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160849Z" creationid="rikiha" creationdate="20170815T160849Z">
+        <seg>古いブラウザ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Omitting the &lt;g6&gt;alt&lt;/g6&gt; attribute altogether will mean some screen readers will announce the image’s file name which is irrelevant and, frankly, irritating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160945Z" creationid="rikiha" creationdate="20170815T160945Z">
+        <seg>しかし、alt属性を完全に削除してしまうと、スクリーンリーダーによっては画像の無意味なファイル名が読み上げられてしまい、ユーザーが不快な思いをすることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文強調のandの訳出が必要
 「見て、かつトークも聞きたい」などか。
@@ -10907,6 +11044,22 @@ WCAGに従うことは、伝えるよりも良いのです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>One issue with the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; fallback is that the resource will almost certainly download, whether or not the browser supports SVG, affecting a needless performance hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160954Z" creationid="rikiha" creationdate="20170815T160954Z">
+        <seg>&lt;img/&gt;フォールバックの1つの問題は、ブラウザがSVGをサポートしているかどうかに関係なく、リソースはほぼ間違いなくダウンロードされるため、不要にパフォーマンスが低下してしまうことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the advantages of &lt;g1&gt;aria-label&lt;/g1&gt; is that is overrides the text node of the element, if present.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160820Z" creationid="rikiha" creationdate="20170815T160820Z">
+        <seg>aria-labelのメリットの1つは、要素にテキストノードがある場合はオーバーライドされるということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 原文に沿いつつちょっと補いました。
 
 (岡本)　1人→ひとり
@@ -10973,6 +11126,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T063836Z" creationid="yoota" creationdate="20170510T054950Z">
         <seg>よく支持されている意見のひとつは、セリフ書体よりサンセリフ書体の方が読みやすいというものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only &lt;g7&gt;alt=""&lt;/g7&gt; is reliable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160950Z" creationid="rikiha" creationdate="20170815T160950Z">
+        <seg>したがって、alt=""とするのが唯一確実な方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12023,6 +12184,14 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Since the label of “menu” is provided via &lt;g4&gt;aria-label&lt;/g4&gt;, the &lt;g5&gt;alt&lt;/g5&gt; is not needed here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160942Z" creationid="rikiha" creationdate="20170815T160942Z">
+        <seg>「メニュー」というラベルがaria-labelで定義されているため、altは不要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ちょっと調整。もう少しこなれた感じにしたい気も。
 
 (太田)
@@ -12049,6 +12218,14 @@ U+2630 TRIGRAM FOR HEAVEN は普通に使っていいのかどうか。特に電
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170803T081403Z" creationid="rikiha" creationdate="20170730T124402Z">
         <seg>ユーザビリティの慣習に従うなら、ロゴ画像はホームページへのリンクも兼ねるべきで、ロゴがナビゲーションの役割を持つことになります。これは、ナビゲーションランドマーク内のひとつめのリンクと同じ役割です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since ► is read as “black right-pointing triangle” and &lt;g1&gt;×&lt;/g1&gt; as “times” (multiplication), the same &lt;g2&gt;aria-label&lt;/g2&gt; method could fix the labeling of your play and close buttons, among others.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160830Z" creationid="rikiha" creationdate="20170815T160830Z">
+        <seg>たとえば、▶は「＃＃black right-pointing triangle＃＃」、×は「＃＃times＃＃」（乗算）と読み上げられますが、この場合もaria-labelを使ってボタンのラベルを「再生」や「閉じる」に修正できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12188,6 +12365,14 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T135201Z" creationid="yoota" creationdate="20170426T071108Z">
         <seg>つまり、この&lt;g5&gt;100%&lt;/g5&gt;は「デフォルトサイズまたはユーザーが選択したサイズの100%」を意味します。一方、ルート要素でフォントサイズを明示的に16pxに設定した場合は、ユーザー側でフォントサイズを自由に調整できなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, if I were to use the Unicode rendering method, I could replace the potential “Trigram for heaven” read out with “menu”:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160823Z" creationid="rikiha" creationdate="20170815T160823Z">
+        <seg>したがって、たとえばUnicodeの表示方法を使用する場合に、本来の「＃＃Trigram for heaven＃＃」の代わりに「＃＃メニュー＃＃」と読み上げられるようにすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13046,6 +13231,14 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;aria-label&lt;/g1&gt; Attribute</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160806Z" creationid="rikiha" creationdate="20170815T160806Z">
+        <seg>ARIA-LABEL属性</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注あり
 
 (太田)
@@ -13321,6 +13514,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T054914Z" creationid="yoota" creationdate="20170510T054914Z">
         <seg>書体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Visually Hidden &lt;g1&gt;&lt;span&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160747Z" creationid="rikiha" creationdate="20170815T160747Z">
+        <seg>非表示の&lt;SPAN&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14252,6 +14453,14 @@ shortcomings「欠陥」だと不具合っぽいニュアンスがあるよう�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The simplest labels are both visible and parsable, based on textual content such as our “menu” text node.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160729Z" creationid="rikiha" creationdate="20170815T160729Z">
+        <seg>最もシンプルなラベルは、「メニュー」テキストノードのようなテキストコンテンツに基づいて表示、解析されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注
 
 (太田)
@@ -14331,6 +14540,14 @@ sound semantic structureとは。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170803T100624Z" creationid="rikiha" creationdate="20170731T135914Z">
         <seg>そこから展開するサブメニューは絶対配置する必要があるため、ビューポートの状況によってはレイアウト上の問題が生じます。JavaScript、CSS、あるいはその両方が使えないときのグレイスフルデグラデーションも面倒です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The techniques expounded here are applicable to any kind of iconic control, such as a play or stop button in a media player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160739Z" creationid="rikiha" creationdate="20170815T160739Z">
+        <seg>ここで紹介する方法は、たとえばメディアプレイヤーの再生ボタンや停止ボタンなど、あらゆるタイプのアイコンコントロールに使えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15053,6 +15270,14 @@ marginは「マージン」で良いかと。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This global property attaches alternative text to elements much like the &lt;g7&gt;alt&lt;/g7&gt; attribute, but isn’t just applicable to &lt;g8&gt;&lt;img&gt;&lt;/g8&gt; tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160811Z" creationid="rikiha" creationdate="20170815T160811Z">
+        <seg>このグローバルプロパティはalt属性同様、要素に代替テキストをアタッチしますが、&lt;img&gt;タグ以外にも使えるところがポイントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>This greatly reduces the complexity of your media queries.</seg>
@@ -15351,6 +15576,14 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This is where you can use the &lt;g7&gt;&lt;switch&gt;&lt;/g7&gt; and &lt;g8&gt;&lt;foreignObject&gt;&lt;/g8&gt; elements:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160929Z" creationid="rikiha" creationdate="20170815T160929Z">
+        <seg>これは&lt;switch&gt;要素と&lt;foreignObject&gt;要素を使って対処できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK...ですがここも現在位置のカッコを取りました。
 
 (太田) OK</note>
@@ -15416,6 +15649,14 @@ http://pothos.main.jp/setuzokusi.htm</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This method uses a CSS hack on a &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; to hide the “menu” text label without it becoming unavailable to screen readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160750Z" creationid="rikiha" creationdate="20170815T160750Z">
+        <seg>この方法では&lt;span&gt;にCSSハックを用いて、「メニュー」というテキストラベルを、スクリーンリーダーには拾われるようしつつ、非表示にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) いったん反転させずに原語のまま訳してみました。「コード」は補いました。
 
 (太田) OK</note>
@@ -15462,6 +15703,14 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170808T092738Z" creationid="rikiha" creationdate="20170805T163312Z">
         <seg>これで標準のふるまいが復活すると同時に、ユーザーはいつもどおり、ドキュメントのサブセクションをブックマークしたり共有したりできるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This relates to &lt;g1&gt;&lt;g2&gt;WCAG’s 4.1.2 criterion, &lt;g3&gt;Name, Role, Value&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;16&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160726Z" creationid="rikiha" creationdate="20170815T160726Z">
+        <seg>これはWCAGの達成基準4.1.2「名前（name）・役割（role）及び値（value）」（脚注113）に関連します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16395,6 +16644,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Used within our SVG implementation, the code would look like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160756Z" creationid="rikiha" creationdate="20170815T160756Z">
+        <seg>SVGの実装例で使用する場合は次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Users having trouble differentiating foreground and background imagery may turn on Windows’ &lt;g1&gt;&lt;g2&gt;high contrast mode&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100620Z" creationid="okamoto_jun" creationdate="20170627T100620Z">
@@ -16602,6 +16859,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170809T084050Z" creationid="yoota" creationdate="20170808T093831Z">
         <seg>この章では最初に、サイト内共通のナビゲーションランドマークを設置しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can attach an &lt;g9&gt;aria-label&lt;/g9&gt; directly to the &lt;g10&gt;&lt;button&gt;&lt;/g10&gt; element:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160814Z" creationid="rikiha" creationdate="20170815T160814Z">
+        <seg>ここでは&lt;button&gt;要素に直接、aria-labelをアタッチします。</seg>
       </tuv>
     </tu>
     <tu>
