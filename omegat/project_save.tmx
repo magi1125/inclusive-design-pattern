@@ -16022,11 +16022,12 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順等調整、ダッシュを活かしました。</note>
       <tuv lang="EN-US">
         <seg>To make the icon adopt the color of the button element’s font — both with high contrast mode on or off — we can use CSS’s &lt;g1&gt;currentColor&lt;/g1&gt; value and set it on the &lt;g2&gt;&lt;path&gt;&lt;/g2&gt;’s &lt;g3&gt;fill&lt;/g3&gt; property.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161710Z" creationid="rikiha" creationdate="20170812T161710Z">
-        <seg>アイコンの色を（ハイコントラストモードのオン／オフに関係なく）ボタン要素のフォントの色と同じにするためには、CSSのcurrentColor値を&lt;path&gt;のfillプロパティに設定します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160320Z" creationid="rikiha" creationdate="20170812T161710Z">
+        <seg>アイコンに――ハイコントラストモードのオンオフに関係なく――button要素のフォントカラーを適用するには、&lt;path&gt;のfillプロパティにCSSのcurrentColor値を設定します。</seg>
       </tuv>
     </tu>
     <tu>
