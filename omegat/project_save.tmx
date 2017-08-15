@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6609,7 +6609,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     <tu>
       <note>(伊原) 問題を回避、とまではいかないかなと。最低限担保できる的なことと思いました。
 
-(太田) 「許しがたい状態」要検討。</note>
+(太田) 「許しがたい状態」要検討。原文 deal breaker</note>
       <tuv lang="EN-US">
         <seg>If we provide the “menu” text (which will have its color inverted by high contrast mode to still be readable against an inverted background color) this isn’t a deal breaker.</seg>
       </tuv>
