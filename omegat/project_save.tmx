@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10941,11 +10941,12 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 多少調整。なぜそうなるのか訳注が必要ぽい。</note>
       <tuv lang="EN-US">
         <seg>Opera Mini doesn’t load web fonts as a matter of course.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161521Z" creationid="rikiha" creationdate="20170812T161521Z">
-        <seg>当然ながら、Opera MiniではWebフォントは読み込まれません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T040601Z" creationid="rikiha" creationdate="20170812T161521Z">
+        <seg>Opera MiniはもちろんWebフォントを読み込みません。</seg>
       </tuv>
     </tu>
     <tu>
