@@ -3111,11 +3111,12 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 多少調整。</note>
       <tuv lang="EN-US">
         <seg>Another advantage is that icon fonts scale without degradation, much like SVG.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161455Z" creationid="rikiha" creationdate="20170812T161455Z">
-        <seg>また、SVG同様、拡大／縮小しても画質が劣化しないというメリットもあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T015610Z" creationid="rikiha" creationdate="20170812T161455Z">
+        <seg>SVGと同様、画質の劣化なく拡大縮小できるのもメリットです。</seg>
       </tuv>
     </tu>
     <tu>
