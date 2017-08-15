@@ -73,6 +73,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>(Note the &lt;g1&gt;tabindex="-1"&lt;/g1&gt; attribute which fixes sequential focus navigation as discussed in “Navigation Regions”).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161211Z" creationid="rikiha" creationdate="20170815T161211Z">
+        <seg>（「ナビゲーション領域」で説明したように、tabindex="-1"属性でシーケンシャルフォーカスナビゲーションを調整していることに注目してください。）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 前に出たワザなので、テクニックで通じるかなと。
 
 (太田) JAWS日本語版の読みを反映。括弧もいらないかと。
@@ -928,6 +936,14 @@ forego は「先に行く」のような感じですが、他動詞として使�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;In the example above, we imagine that JavaScript has run, meaning it’s safe to hide the menu and reveal the button (hence the &lt;g2&gt;hidden&lt;/g2&gt; attribute that JavaScript has added to the menu &lt;g3&gt;&lt;ul&gt;&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161133Z" creationid="rikiha" creationdate="20170815T161133Z">
+        <seg>• ？？上の例ではJavaScriptが実行されたことを想定しています。つまり、JavaScriptによってメニューの&lt;ul&gt;にhidden属性が追加されたため、メニューは安全に非表示になり、ボタンだけが表示されます。？？【コメント：この解釈で問題ないでしょうか。原文「In the example above, we imagine that JavaScript has run, meaning it’s safe to hide the menu and reveal the button (hence the hidden attribute that JavaScript has added to the menu &lt;ul&gt;).」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「スクリーンリーダーの」はなくてもいいかも。
 「ランドマーク要素リスト」は原文がそうなっていますが、NVDAではダイアログの名前は単に「要素リスト」で、ダイアログの中に「ランドマーク」というラジオボタンがある構造です。「要素リストでランドマークを表示」としました。
@@ -1188,6 +1204,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; is placed &lt;g3&gt;inside&lt;/g3&gt; the navigation landmark, meaning it will be available to screen reader users who go to the landmark via a shortcut.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161136Z" creationid="rikiha" creationdate="20170815T161136Z">
+        <seg>• &lt;button&gt;はナビゲーションランドマークの中に配置されているため、ショートカットを使ってランドマークに移動するスクリーンリーダーユーザーでも利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 多少調整。
 
 (太田) すこし調整。
@@ -1225,6 +1249,14 @@ should be なので「なければならない」「必要がある」は強す�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T062838Z" creationid="yoota" creationdate="20170426T062722Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt; 開発者のレスポンシブデザインの作りかたがまずいと、ページを利用するために拡大縮小が必要になる（これがよくあるのです!）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The menu is placed directly &lt;g2&gt;after&lt;/g2&gt; the &lt;g3&gt;&lt;button&gt;&lt;/g3&gt; in the source order, meaning the first menu item will be the next focusable element after the menu is opened.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161142Z" creationid="rikiha" creationdate="20170815T161142Z">
+        <seg>• ソースの順序では、メニューは&lt;button&gt;の直後に配置されます。したがって、メニューが開いた後、次にフォーカスできる要素は最初のメニュー項目になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3344,6 +3376,14 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As I wrote in “&lt;g2&gt;&lt;g3&gt;Aria-controls Is Poop&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;21&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;,” this should be avoided.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161155Z" creationid="rikiha" creationdate="20170815T161155Z">
+        <seg>しかし、「Aria-controls Is Poop」（脚注118）にも書いたように、この方法はお勧めしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) user or readerはまとめてユーザーで良さそうと思いました。
 また、インクルーシブデザイン対策というのがちょっと違和感がありました。デザインしている時点で準備や対応というニュアンスを含んでいるので、対策を外してみました。
 
@@ -3823,6 +3863,14 @@ the previous implementation は div で実装されたボタン、the inclusive 
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170718T095133Z" creationid="yoota" creationdate="20170714T082734Z">
         <seg>インクルーシブな賛成ボタンが古い実装にとって代わった結果、コンサルタントは組織のパターンライブラリの改善を支援することもできたのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because the menu is hidden with &lt;g4&gt;hidden&lt;/g4&gt;, its contents are not focusable when it is closed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161145Z" creationid="rikiha" creationdate="20170815T161145Z">
+        <seg>メニューはhiddenで隠されているため、メニューが閉じているときはメニュー項目にはフォーカスできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5165,6 +5213,14 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>First of all, to create an inclusive UX, we need to take care with the placement of the &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; and the menu it discloses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161116Z" creationid="rikiha" creationdate="20170815T161116Z">
+        <seg>まず、インクルーシブなUXを作り出すためには、&lt;button&gt;と、それを押したときに表示されるメニューの配置に気をつける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文は一文で、tooを訳出する都合で2文に分けたのだと思いますが、tooはなくても通じるのでシンプルにしてみました。
 リスナー→イベントリスナーと補いました。
@@ -5562,6 +5618,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T033759Z" creationid="yoota" creationdate="20170512T033759Z">
         <seg>ここではまず、&lt;g6&gt;コンテンツ以外のすべては補強である&lt;/g6&gt;、ということを覚えておいてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For one thing it lets the user close, as well as open, the menu at will.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161233Z" creationid="rikiha" creationdate="20170815T161233Z">
+        <seg>ユーザーは、ボタンを使って自由にメニューを閉じたり開いたりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5966,6 +6030,14 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170526T181648Z" creationid="yoota" creationdate="20170524T102309Z">
         <seg>たとえば、見出しは太字テキストで表示され、セクションの深さを示すフォントサイズになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence I’ve removed the &lt;g2&gt;hidden&lt;/g2&gt; attribute and would supply this CSS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161218Z" creationid="rikiha" creationdate="20170815T161218Z">
+        <seg>ここではhidden属性をやめて、CSSを使います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6640,6 +6712,14 @@ poorは貧弱というか、ここでは「ダメな」「望ましくない」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If the button were outside, users would arrive at an empty landmark with no way to populate it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161139Z" creationid="rikiha" creationdate="20170815T161139Z">
+        <seg>ボタンがナビゲーションランドマークの外にあると、？？ユーザーはメニューを表示する手段がないため、空っぽのランドマークにジャンプすることになります。？？【コメント：意訳しています。原文「users would arrive at an empty landmark with no way to populate it.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 割と原文ママな感じに修正。
 
 (太田) OK</note>
@@ -6872,6 +6952,14 @@ by name は「バイネームで」でも良いのかもしれないですね。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T034006Z" creationid="yoota" creationdate="20170512T034006Z">
         <seg>根本から正しいものを作ろうとするのであれば、タイポグラフィでもレイアウトでもカラースキームでも&lt;g8&gt;なく&lt;/g8&gt;、しっかりとしたコンテンツを作ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you’re looking for a way to &lt;g1&gt;transport&lt;/g1&gt; a user to a menu (or any other remote element in the page), a link is your best bet:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161204Z" creationid="rikiha" creationdate="20170815T161204Z">
+        <seg>ユーザーをメニュー（あるいはページ内の離れた場所にある他の要素）に移動させる方法としては、リンクが一番確実です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7272,6 +7360,14 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094902Z" creationid="okamoto_jun" creationdate="20170627T094806Z">
         <seg>ともあれ、このようにデータの構造を考え、最適解を導き出すための試行錯誤をすることがデザインなのです。Adobeのライセンスを買ったり、Sketchをコピーしたりしなくてもデザインはできるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In cases where it is impossible (due to design constraints, company politics or whatever’s standing in your way) to place the subject menu directly after the menu button as prescribed, you can associate the two elements with &lt;g1&gt;aria-controls&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161152Z" creationid="rikiha" creationdate="20170815T161152Z">
+        <seg>デザインの制約や社内の問題など、何らかの理由でメニューボタンの直後にメニューを配置できない場合は、2つの要素をaria-controlsで関連付けるという方法も考えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8468,6 +8564,14 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Invisible elements are not for operation, so they should never be focusable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161148Z" creationid="rikiha" creationdate="20170815T161148Z">
+        <seg>表示されていない要素は操作できないため、フォーカスできてはいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 日本語として違和感あり。要検討。
 usableは「使用は可能」で良いのか。accssesibleではなくusableと言っているので、使いやすさも求めている気がする。
@@ -8500,6 +8604,14 @@ stillは無理に訳さなくても良い気がします。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T055007Z" creationid="yoota" creationdate="20170426T055007Z">
         <seg>また、ユーザーがページの言語で&lt;g6&gt;入力&lt;/g6&gt;する際にも役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It announces, “press JAWS key plus Alt plus M to go to controlled element” and offers no way to traverse back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161200Z" creationid="rikiha" creationdate="20170815T161200Z">
+        <seg>「＃＃press JAWS key plus Alt plus M to go to con- trolled element＃＃」とアナウンスされますが、後戻りする方法はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9572,6 +9684,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170815T033322Z" creationid="rikiha" creationdate="20170811T133410Z">
         <seg>では、それぞれの是非を見ていきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s put that to one side and go back to discussing our button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161227Z" creationid="rikiha" creationdate="20170815T161227Z">
+        <seg>さて、この話はいったん置いておき、ボタンの話に戻りましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10680,6 +10800,14 @@ the URLは「このページのURL」としてみました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Now let’s talk about actually using the button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161111Z" creationid="rikiha" creationdate="20170815T161111Z">
+        <seg>次は、実際にボタンを使用するときの話です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) viabilityをどう訳すか。実現性的な感じだろうか。使い所が増えた、とも言えそうな。いったんそのまま。
 
 (太田) Now は訳出したほうがいいかも。
@@ -11163,6 +11291,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170815T040601Z" creationid="rikiha" creationdate="20170812T161521Z">
         <seg>Opera MiniはもちろんWebフォントを読み込みません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161106Z" creationid="rikiha" creationdate="20170815T161106Z">
+        <seg>操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -11958,6 +12094,14 @@ roleをどうするかは要検討 (全体で統一する必要アリ)。いっ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Should you want to hide the menu until the user arrives at the the landmark, you can use the &lt;g1&gt;:target&lt;/g1&gt; pseudo-class.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161214Z" creationid="rikiha" creationdate="20170815T161214Z">
+        <seg>ユーザーがランドマークにたどり着くまでメニューを隠しておきたい場合は、:target疑似クラスを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Should you wish ... は If you should wish の If が省略された形です。
 be my guest は「どうぞご自由に」の意味の慣用句です。
 
@@ -12160,6 +12304,14 @@ Good!</note>
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170721T083307Z" creationid="yoota" creationdate="20170719T091618Z">
         <seg>このトグルボタンをオフの（押されていない）状態で初期化するため、&lt;g1&gt;aria-pressed="false"&lt;/g1&gt;も追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since proximity isn’t an issue in our case, the button is really a better fit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161230Z" creationid="rikiha" creationdate="20170815T161230Z">
+        <seg>？？この例の場合はボタンとメニューの近さは問題ないため、なおさらボタンを使うのに適していると言えます。？？【コメント：多少意訳しています。原文「Since proximity isn’t an issue in our case, the button is really a better fit.」】</seg>
       </tuv>
     </tu>
     <tu>
@@ -13657,6 +13809,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T071415Z" creationid="yoota" creationdate="20170510T072818Z">
         <seg>この記事では、もうひとつの例として帯域幅を取り上げ、最も信頼性が低いモバイルネットワーク上で高い性能を発揮できるWebアプリケーションは、どこでも高い性能を発揮できるとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attribute is only exposed in JAWS and JAW’s implementation is incomplete and unsatisfactory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161157Z" creationid="rikiha" creationdate="20170815T161157Z">
+        <seg>この属性はJAWSでしかサポートされていない上に、JAWSでの実装も不完全で不十分です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16699,6 +16859,14 @@ http://www.w3.org/TR/wai-aria-1.1/#article
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using JavaScript and WAI-ARIA we can communicate this change in state non-visually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161237Z" creationid="rikiha" creationdate="20170815T161237Z">
+        <seg>JavaScriptとWAI-ARIAを使用すれば、この状態の変化を視覚的な方法以外のやり方で伝えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using a hugely international set of addresses, you’ll find they vary so much that prescribing an unbending set of properties is just not tenable.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094608Z" creationid="okamoto_jun" creationdate="20170627T094608Z">
@@ -17328,6 +17496,14 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170803T072829Z" creationid="rikiha" creationdate="20170728T142656Z">
         <seg>新しくページ全体を読み込む動作をエミュレートしている場合、「ページ内リンク」という読み上げは結果としてウソになってしまい、ユーザーの混乱を招きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you click the &lt;g1&gt;href="#nav-menu"&lt;/g1&gt; link, the URL for the page is appended with the &lt;g2&gt;#nav-menu&lt;/g2&gt; fragment identifier and the landmark becomes the target, making &lt;g3&gt;display: block;&lt;/g3&gt; applicable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T161223Z" creationid="rikiha" creationdate="20170815T161223Z">
+        <seg>href="#nav-menu"リンクをクリックすると、ページのURLにフラグメント識別子#nav-menuが付いてランドマークがターゲットになり、display: block;が適用されます。</seg>
       </tuv>
     </tu>
     <tu>
