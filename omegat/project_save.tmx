@@ -2769,12 +2769,13 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
     </tu>
     <tu>
       <note>(岡本) 画像altですね？
-</note>
+
+(伊原) はい、そうです。</note>
       <tuv lang="EN-US">
         <seg>A smiley face symbol with the word “happy” in lots of different languages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170811T140358Z" creationid="rikiha" creationdate="20170811T133114Z">
-        <seg>スマイリーの顔文字の横に、さまざまな言語による「うれしい」という意味の言葉が並んでいる。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T032620Z" creationid="rikiha" creationdate="20170811T133114Z">
+        <seg>スマイリーの顔文字の横に、さまざまな言語による「ハッピー」という意味の言葉が並んでいる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13972,8 +13973,8 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
       <tuv lang="EN-US">
         <seg>The problem comes when the user-defined font does not support the characters used for the icons, and leaves generic “Glyph not defined” boxes in their place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161506Z" creationid="rikiha" creationdate="20170812T161506Z">
-        <seg>ユーザーが指定したフォントが、アイコンに使われている文字をサポートしていない場合は、代わりに「グリフが定義されていない」ことを意味する例のボックスが表示されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T034504Z" creationid="rikiha" creationdate="20170812T161506Z">
+        <seg>ユーザーga指定したフォントがアイコンに使われている文字をサポートしていない場合は、代わりに「グリフが定義されていない」ことを意味する例のボックスが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
