@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2185,8 +2185,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Encapsulated in white, on the high contrast mode’s black background, the icon appears differently and seems separate from the text label of “menu.”&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T015127Z" creationid="rikiha" creationdate="20170812T161444Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;ハイコントラストモードの黒背景では、アイコンは白で囲まれ、別物に見えるうえに、「メニュー」というテキストとも分離して見える。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T040941Z" creationid="rikiha" creationdate="20170812T161444Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;ハイコントラストモードの黒背景では、アイコンは白で囲まれ、別物に見えるうえに、「メニュー」というテキストとも分離して見える。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
