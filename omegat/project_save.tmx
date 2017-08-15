@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2118,7 +2118,9 @@ font-size: 16px;
     <tu>
       <note>(伊原) このlanguageは言葉というより言語かなと。
 
-(太田) 文末「伝えられる」としました。</note>
+(太田) 文末「伝えられる」としました。
+
+(岡本)　ハッピーはうれしい気持ちでなくてよい？</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A smiley face says “happy” to more people than any one language can manage.&lt;/g3&gt;</seg>
       </tuv>
