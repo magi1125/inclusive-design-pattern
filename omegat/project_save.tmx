@@ -6601,7 +6601,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 問題を回避、とまではいかないかなと。最低限担保できる的なことと思いました。</note>
+      <note>(伊原) 問題を回避、とまではいかないかなと。最低限担保できる的なことと思いました。
+
+(太田) 「許しがたい状態」要検討。</note>
       <tuv lang="EN-US">
         <seg>If we provide the “menu” text (which will have its color inverted by high contrast mode to still be readable against an inverted background color) this isn’t a deal breaker.</seg>
       </tuv>
