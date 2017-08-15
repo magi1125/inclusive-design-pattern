@@ -2296,7 +2296,7 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
 
 (伊原) こちらがキャプションです。いわゆってないので調整。
 
-(太田) 日本語では一般に「豆腐」と呼ばれますね。</note>
+</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The familiar rectangular box indicates a glyph that is not supported and constitutes a fallback.&lt;/g3&gt;</seg>
       </tuv>
@@ -14021,7 +14021,9 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
 (太田)
 The problem comes のニュアンスが失われているような (代替に置き換わるので問題ない、とも読める)。
 元訳の「例の」はどこから来たのか……。genericはそのまま「汎用の」ということでしょう。
-調整してみました。</note>
+調整してみました。
+
+ちなみに日本語では一般に「豆腐」と呼ばれるので、そのことを書いても良いのかもしれません。訳注?</note>
       <tuv lang="EN-US">
         <seg>The problem comes when the user-defined font does not support the characters used for the icons, and leaves generic “Glyph not defined” boxes in their place.</seg>
       </tuv>
