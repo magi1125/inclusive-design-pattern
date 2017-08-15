@@ -6379,7 +6379,8 @@ remediation は治療法?
       <note>(伊原) 語順を多少調整。
 
 (太田)
-「独自のフォント」は違和感があります。</note>
+「Webページ用に独自のフォントを選択」は違和感があります。コンテンツ側で游ゴシックが指定されているとロービジョンの人が読みにくいのでMSゴシックに変える、みたいな話のはず。
+</note>
       <tuv lang="EN-US">
         <seg>Icon fonts become problematic when users choose their own fonts for web pages, as described by Seren D in “&lt;g1&gt;&lt;g2&gt;Death To Icon Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;8&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” It’s important for inclusion to allow users to choose fonts which they are comfortable reading, especially if they experience difficulty with dyslexia.</seg>
       </tuv>
