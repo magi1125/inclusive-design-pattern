@@ -3117,8 +3117,8 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       <tuv lang="EN-US">
         <seg>Another advantage is that icon fonts scale without degradation, much like SVG.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T015610Z" creationid="rikiha" creationdate="20170812T161455Z">
-        <seg>SVGと同様、画質の劣化なく拡大縮小できるのもメリットです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T015645Z" creationid="rikiha" creationdate="20170812T161455Z">
+        <seg>SVGと同様、画質の劣化なく拡大縮小できるのもアイコンフォントのメリットです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6324,11 +6324,12 @@ remediation は治療法?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順を多少調整。</note>
       <tuv lang="EN-US">
         <seg>Icon fonts become problematic when users choose their own fonts for web pages, as described by Seren D in “&lt;g1&gt;&lt;g2&gt;Death To Icon Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;8&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” It’s important for inclusion to allow users to choose fonts which they are comfortable reading, especially if they experience difficulty with dyslexia.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161457Z" creationid="rikiha" creationdate="20170812T161457Z">
-        <seg>ただし、セレン・D（Seren D）の「Death To Icon Fonts」（脚注105）にも書かれているように、アイコンフォントは、Webページのフォントをユーザーが自分で選んだ場合に問題が生じます。インクルーシブデザインを目指すなら、それぞれのユーザー（特にディスレクシアのような識字障害を持つユーザー）が読みやすいフォントを選べるようにすることが重要です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T021052Z" creationid="rikiha" creationdate="20170812T161457Z">
+        <seg>ただし、セレン・D（Seren D）の&lt;g1&gt;&lt;g2&gt;「Death To Icon Fonts」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注105）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;にも書かれているように、ユーザーがWebページ用に独自のフォントを選択するとアイコンフォントは問題を起こします。ユーザーが読みやすいフォントを選べるようにすることは、インクルージョンにおいて重要です。特にディスレクシアによる読字障害がある場合などはなおさらです。</seg>
       </tuv>
     </tu>
     <tu>
