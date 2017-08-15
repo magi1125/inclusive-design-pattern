@@ -7700,11 +7700,13 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) bahaviorを訳出。「パフォーマンスやフォントスタッキングのふるまい」だと、ふるまいがパフォーマンスに掛かってる感じもあったので語順入れ替え（しかし、「フォントスタックのふるまい」で意味がわかるのかという話は別途あり）。
+ダッシュを活かした形に調整。</note>
       <tuv lang="EN-US">
         <seg>In terms of performance and font stacking behavior, this is an improvement — and there is indeed an approximate Unicode symbol: &lt;g1&gt;&lt;g2&gt;U+2630&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;11&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161548Z" creationid="rikiha" creationdate="20170812T161548Z">
-        <seg>パフォーマンスとフォントスタックの動作という点では、むしろその方が良いと言えます。しかも、Unicode絵文字にもハンバーガーアイコンそっくりのU+2630があります。（脚注108）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T123919Z" creationid="rikiha" creationdate="20170812T161548Z">
+        <seg>フォントスタックのふるまいやパフォーマンスという点では、そのほうが改善されます――メニューアイコンにいかにもよく似たUnicode記号、&lt;g1&gt;&lt;g2&gt;U+2630&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注108）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;もあることですし。</seg>
       </tuv>
     </tu>
     <tu>
