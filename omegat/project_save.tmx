@@ -3891,12 +3891,12 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 多少調整。</note>
+      <note>(伊原) 多少調整。本文とそこまで関係なさそうなので「ちなみに」と補足。</note>
       <tuv lang="EN-US">
         <seg>Bruce Lawson of Opera has a great article on “&lt;g1&gt;&lt;g2&gt;Making websites that work well on Opera Mini&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;9&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” Successful Opera Mini support is a good litmus test of high performance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T064501Z" creationid="rikiha" creationdate="20170812T161525Z">
-        <seg>Operaのブルース・ローソン（Bruce Lawson）による&lt;g1&gt;&lt;g2&gt;「Making websites that work well on Opera Mini」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注106）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;という素晴らしい記事があります。WebサイトがOpera Miniをサポートできていることは、ハイパフォーマンスであることを示す良い基準となります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T070128Z" creationid="rikiha" creationdate="20170812T161525Z">
+        <seg>ちなみに、Operaのブルース・ローソン（Bruce Lawson）による&lt;g1&gt;&lt;g2&gt;「Making websites that work well on Opera Mini」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注106）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;という素晴らしい記事があります。WebサイトがOpera Miniをサポートできていることは、ハイパフォーマンスであることを示す良い基準となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10967,7 +10967,17 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 多少調整。なぜそうなるのか訳注が必要ぽい。</note>
+      <note>(伊原) 多少調整。なぜそうなるのか訳注が必要ぽい。
+ちなみに、ここからの流れがなんか不自然な感じがしています。
+
+・Opera MiniはWebフォントが読み込めない
+・システムフォントでフォールバックするが、アイコンフォントは出ないかも
+・Opera Miniサポートはハイパフォーマンスの良い基準だ
+
+・OSがUnicodeのPUAを使うことがある
+・代わりに猫の顔が出るかもしれない
+
+</note>
       <tuv lang="EN-US">
         <seg>Opera Mini doesn’t load web fonts as a matter of course.</seg>
       </tuv>
