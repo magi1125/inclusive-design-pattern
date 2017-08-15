@@ -3274,8 +3274,8 @@ hueは正確には色相ですが、まあ色で良いかなと。
       <tuv lang="EN-US">
         <seg>As Google’s &lt;g1&gt;&lt;g2&gt;305-byte logo implementation&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;14&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; attests, they can make very small assets.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161621Z" creationid="rikiha" creationdate="20170812T161621Z">
-        <seg>Googleのロゴが305バイトになった（脚注111）ことで実証されたように、SVGスプライトを使えばアセットをかなり小さくできます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T145211Z" creationid="rikiha" creationdate="20170812T161621Z">
+        <seg>Googleによる&lt;g1&gt;&lt;g2&gt;305バイトのロゴ実装&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注111）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;が証明したように、アセットを非常に小さくできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14779,11 +14779,12 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ベクターである、劣化せず、と補いました。ほか微調整。</note>
       <tuv lang="EN-US">
         <seg>They are scalable by nature and can even change color in accordance with changes to font color.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161627Z" creationid="rikiha" creationdate="20170812T161627Z">
-        <seg>しかも、その性質上、拡大／縮小が可能なだけでなく、フォントカラーの変更に合わせて色を変えられるというメリットもあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T145648Z" creationid="rikiha" creationdate="20170812T161627Z">
+        <seg>ベクターである性質上、劣化せずに拡大縮小でき、フォントカラーの変更に合わせて色を変えることもできます。</seg>
       </tuv>
     </tu>
     <tu>
