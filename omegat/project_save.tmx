@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17690,12 +17690,13 @@ OK</note>
     <tu>
       <note>(伊原) 訳としてはこうなのかなと思いますが、配慮できるのかしら、という疑問が。
 
-(太田) 要検討。</note>
+(太田) 
+要検討ですが、少なくともshouldは「しなければならない」ではなく「するべき」と訳すべきかと思います。</note>
       <tuv lang="EN-US">
         <seg>Your style sheets should be sensitive to this preference.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T022552Z" creationid="rikiha" creationdate="20170812T161503Z">
-        <seg>この選択に配慮したスタイルシートでなければなりません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T060517Z" creationid="rikiha" creationdate="20170812T161503Z">
+        <seg>スタイルシートでも、このような設定ができることを考慮しておくべきです。</seg>
       </tuv>
     </tu>
     <tu>
