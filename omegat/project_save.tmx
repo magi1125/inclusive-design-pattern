@@ -2376,13 +2376,14 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
 
 (太田)
 原文の問題ですが、PNGであるかどうかと、前景として使われるかどうかは関係なく、PNGを背景画像として使うこともあるので、だいぶ分かりにくい感じがします。補わないといけないかも。
+ひとまず、語順を少し変えつつ「&lt;g1&gt;.png&lt;/g1&gt;画像を前景に置く場合でも」と補ってみました。
 
-語順を微調整</note>
+</note>
       <tuv lang="EN-US">
         <seg>A &lt;g1&gt;.png&lt;/g1&gt; image which defines three black lines separated by transparent spaces has a similar issue: when the background becomes black, you get three black lines on a black background.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170815T040031Z" creationid="rikiha" creationdate="20170812T161431Z">
-        <seg>&lt;g1&gt;.png&lt;/g1&gt;画像でも、背景を透過して黒い3本線を引いていれば同じような問題が起きます。ハイコントラストモードでブラウザの背景を黒にすると、黒い背景に黒い3本線となります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T040358Z" creationid="rikiha" creationdate="20170812T161431Z">
+        <seg>&lt;g1&gt;.png&lt;/g1&gt;画像を前景に置く場合でも、背景を透過して黒い3本線を引いていれば同じような問題が起きます。ハイコントラストモードでブラウザの背景を黒にすると、黒い背景に黒い3本線となります。</seg>
       </tuv>
     </tu>
     <tu>
