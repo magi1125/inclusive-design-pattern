@@ -6519,8 +6519,8 @@ a element ではなく elements であることに意味があるように思い
       <tuv lang="EN-US">
         <seg>If it was hidden using CSS, the SVG would be visible to users whose CSS was not loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T152739Z" creationid="rikiha" creationdate="20170812T161648Z">
-        <seg>外部ファイルのCSSを使って非表示にした場合、ファイルが読み込めないと、このSVG要素はユーザーに表示されるでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T153450Z" creationid="rikiha" creationdate="20170812T161648Z">
+        <seg>外部ファイルのCSSを使って非表示にしたとすると、ファイルが読み込めない場合はSVG要素が見える状態になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7315,8 +7315,8 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       <tuv lang="EN-US">
         <seg>In fact, since &lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt; elements are not themselves rendered, there would be a blank gap in your design.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T153249Z" creationid="rikiha" creationdate="20170812T161651Z">
-        <seg>しかし&lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt;要素それ自体はレンダリングされるものではないため、デザインに空白の隙間が生まれてしまいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T153535Z" creationid="rikiha" creationdate="20170812T161651Z">
+        <seg>しかし、実際には&lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt;要素それ自体はレンダリングされるものではないため、デザインに空白の隙間が生まれてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
