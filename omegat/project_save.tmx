@@ -6026,9 +6026,15 @@ http://www.dictionary.com/browse/radical
       <note>(伊原) 微調整
 
 (太田)  away from users のニュアンスがが落ちているような。遠ざけるというのも変なので「ユーザーから隠す」としてみました。
-「常に最後の手段」は直訳としては正しいですが日本語的な言い方ではないかも。「どうしようもないときの最終手段と考えてください」? もうちょいスマートに言えないものか。</note>
+「常に最後の手段」は直訳としては正しいですが日本語的な言い方ではないかも。「どうしようもないときの最終手段と考えてください」? もうちょいスマートに言えないものか。
+
+(伊原) 訳が消えてたのでひとまず復活
+https://github.com/rikiha/inclusive-design-pattern/commit/b3de996369b41d914699d3667cf6c98b67b9146f</note>
       <tuv lang="EN-US">
         <seg>Hiding functionality away from users and requiring them to perform an additional action to reveal that functionality is always a last resort.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T125257Z">
+        <seg>機能をユーザーから隠し、わざわざ操作しないと表示されないようにするのは、どうしようもないときの最終手段と考えてください。</seg>
       </tuv>
     </tu>
     <tu>
