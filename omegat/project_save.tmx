@@ -14025,8 +14025,8 @@ The problem comes のニュアンスが失われているような (代替に置
       <tuv lang="EN-US">
         <seg>The problem comes when the user-defined font does not support the characters used for the icons, and leaves generic “Glyph not defined” boxes in their place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170815T061602Z" creationid="rikiha" creationdate="20170812T161506Z">
-        <seg>問題が起きるのは、ユーザー指定のフォントがアイコンに使われている文字をサポートしていない場合です。その場合、汎用的な「グリフ未定義」ボックスに置き換わって表示されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T061613Z" creationid="rikiha" creationdate="20170812T161506Z">
+        <seg>問題が起きるのは、ユーザー指定のフォントがアイコンに使われている文字をサポートしていない場合です。その場合、汎用的な「グリフ未定義」のボックスに置き換えられます。</seg>
       </tuv>
     </tu>
     <tu>
