@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2287,9 +2287,14 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
     </tu>
     <tu>
-      <note>(岡本)　キャプション監訳漏れ？</note>
+      <note>(岡本)　キャプション監訳漏れ？
+
+(伊原) こちらがキャプションです。いわゆってないので調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The familiar rectangular box indicates a glyph that is not supported and constitutes a fallback.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T035233Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;よく見かける長方形のボックスは、対象のグリフがサポートされていないことを示すフォールバックである。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13854,9 +13859,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
-      <note>(岡本)　altですかね？　です→である調に。</note>
+      <note>(岡本)　altですかね？　です→である調に。
+
+(伊原) こちらがaltです。</note>
       <tuv lang="EN-US">
         <seg>The menu button with the rectangular glyph-not-defined icon in place of the three bar menu icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T035115Z">
+        <seg>三本線のメニューアイコンの代わりに、グリフ未定義を示す長方形アイコンが表示されたメニューボタン。</seg>
       </tuv>
     </tu>
     <tu>
