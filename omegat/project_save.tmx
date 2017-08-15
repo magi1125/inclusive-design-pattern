@@ -11553,11 +11553,12 @@ SIMONは上で「サイモン」としていたのでここも訳すべきかと
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) クロスブラウザと直接言っていいかなと。</note>
       <tuv lang="EN-US">
         <seg>SVG sprites work best cross-browser when they’re embedded in the page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161630Z" creationid="rikiha" creationdate="20170812T161630Z">
-        <seg>SVGスプライトは、ページに埋め込んでしまえば、ブラウザを選ばず最も効果を発揮します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T145838Z" creationid="rikiha" creationdate="20170812T161630Z">
+        <seg>SVGスプライトは、ページに埋め込むことで最良のクロスブラウザブラウザ対応となります。</seg>
       </tuv>
     </tu>
     <tu>
