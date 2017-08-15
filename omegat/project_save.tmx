@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14018,7 +14018,8 @@ In Seven Simple Steps.の訳は要検討。「セクションの見出しとし�
     <tu>
       <note>(伊原) 冗長感あったので調整。
 
-(太田) The problem comes のニュアンスが失われているような。</note>
+(太田)
+The problem comes のニュアンスが失われているような (代替に置き換わるので問題ない、とも読める)。</note>
       <tuv lang="EN-US">
         <seg>The problem comes when the user-defined font does not support the characters used for the icons, and leaves generic “Glyph not defined” boxes in their place.</seg>
       </tuv>
