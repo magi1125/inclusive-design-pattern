@@ -10366,8 +10366,8 @@ OK
       <tuv lang="EN-US">
         <seg>Note that it is hidden with an inline &lt;g3&gt;display: none;&lt;/g3&gt; style.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161643Z" creationid="rikiha" creationdate="20170812T161643Z">
-        <seg>非表示にするのにインラインのdisplay: none;スタイルが使われていることに注目してください。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T151542Z" creationid="rikiha" creationdate="20170812T161643Z">
+        <seg>非表示にするのにdisplay: none;をインラインスタイルで使っていることに注目してください。</seg>
       </tuv>
     </tu>
     <tu>
