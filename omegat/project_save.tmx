@@ -13757,11 +13757,12 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ちょっと調整。</note>
       <tuv lang="EN-US">
         <seg>The following should appear directly inside the &lt;g1&gt;&lt;body&gt;&lt;/g1&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161637Z" creationid="rikiha" creationdate="20170812T161637Z">
-        <seg>その場合は&lt;body&gt;の中に直接、次のように記述します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T150110Z" creationid="rikiha" creationdate="20170812T161637Z">
+        <seg>以下のように&lt;body&gt;内に直接記述します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15080,8 +15081,8 @@ marginは「マージン」で良いかと。
       <tuv lang="EN-US">
         <seg>This hidden &lt;g1&gt;&lt;svg&gt;&lt;/g1&gt; is for reference and defines the menu icon as a &lt;g2&gt;&lt;symbol&gt;&lt;/g2&gt; containing the path that forms the icon’s shape.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161641Z" creationid="rikiha" creationdate="20170812T161641Z">
-        <seg>この非表示の&lt;svg&gt;は参照用で、メニューアイコンは、アイコンを形作るパスを含む&lt;symbol&gt;として定義します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T151309Z" creationid="rikiha" creationdate="20170812T161641Z">
+        <seg>この非表示の&lt;svg&gt;は参照用で、メニューアイコンとして定義した&lt;symbol&gt;にアイコンを形作るパスを含めます。</seg>
       </tuv>
     </tu>
     <tu>
