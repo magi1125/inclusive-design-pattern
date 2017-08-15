@@ -11543,8 +11543,8 @@ SIMONは上で「サイモン」としていたのでここも訳すべきかと
       <tuv lang="EN-US">
         <seg>SVG is clearly the most robust solution and already has &lt;g1&gt;&lt;g2&gt;very good support&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;15&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T161713Z" creationid="rikiha" creationdate="20170812T161713Z">
-        <seg>SVGは間違いなく最も堅牢な方法であり、すでに広くサポートされています。（脚注112）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160455Z" creationid="rikiha" creationdate="20170812T161713Z">
+        <seg>SVGは明らかに最も堅牢なソリューションであり、&lt;g1&gt;&lt;g2&gt;すでに広くサポートされています&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注112）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16026,8 +16026,8 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       <tuv lang="EN-US">
         <seg>To make the icon adopt the color of the button element’s font — both with high contrast mode on or off — we can use CSS’s &lt;g1&gt;currentColor&lt;/g1&gt; value and set it on the &lt;g2&gt;&lt;path&gt;&lt;/g2&gt;’s &lt;g3&gt;fill&lt;/g3&gt; property.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T160320Z" creationid="rikiha" creationdate="20170812T161710Z">
-        <seg>アイコンに――ハイコントラストモードのオンオフに関係なく――button要素のフォントカラーを適用するには、&lt;path&gt;のfillプロパティにCSSのcurrentColor値を設定します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170815T160439Z" creationid="rikiha" creationdate="20170812T161710Z">
+        <seg>アイコンに――ハイコントラストモードのオンオフに関係なく――button要素のフォントカラーを適用するには、&lt;g2&gt;&lt;path&gt;&lt;/g2&gt;の&lt;g3&gt;fill&lt;/g3&gt;プロパティにCSSの&lt;g1&gt;currentColor&lt;/g1&gt;値を設定します。</seg>
       </tuv>
     </tu>
     <tu>
