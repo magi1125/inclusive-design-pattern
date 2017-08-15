@@ -6380,12 +6380,12 @@ remediation は治療法?
 
 (太田)
 「Webページ用に独自のフォントを選択」は違和感があります。コンテンツ側で游ゴシックが指定されているとロービジョンの人が読みにくいのでMSゴシックに変える、みたいな話のはず。
-</note>
+「Webページで使うフォントを独自に選択」くらい?</note>
       <tuv lang="EN-US">
         <seg>Icon fonts become problematic when users choose their own fonts for web pages, as described by Seren D in “&lt;g1&gt;&lt;g2&gt;Death To Icon Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;8&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” It’s important for inclusion to allow users to choose fonts which they are comfortable reading, especially if they experience difficulty with dyslexia.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T021052Z" creationid="rikiha" creationdate="20170812T161457Z">
-        <seg>ただし、セレン・D（Seren D）の&lt;g1&gt;&lt;g2&gt;「Death To Icon Fonts」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注105）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;にも書かれているように、ユーザーがWebページ用に独自のフォントを選択するとアイコンフォントは問題を起こします。ユーザーが読みやすいフォントを選べるようにすることは、インクルージョンにおいて重要です。特にディスレクシアによる読字障害がある場合などはなおさらです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T055604Z" creationid="rikiha" creationdate="20170812T161457Z">
+        <seg>ただし、セレン・D（Seren D）の&lt;g1&gt;&lt;g2&gt;「Death To Icon Fonts」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注105）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;にも書かれているように、ユーザーがWebページで使うフォントを独自に選択している場合、アイコンフォントは問題を起こします。ユーザーが読みやすいフォントを選べるようにすることは、インクルージョンにおいて重要です。特にディスレクシアによる読字障害がある場合などはなおさらです。</seg>
       </tuv>
     </tu>
     <tu>
