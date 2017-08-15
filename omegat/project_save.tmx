@@ -9396,12 +9396,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) プロコンなので、メリットデメリットというより賛否両論かなと。</note>
+      <note>(伊原) プロコンなので、メリットデメリットというより賛否両論かなと。
+
+(太田) 日本語としてやや違和感が。「是非」とするのが自然かもしれません。</note>
       <tuv lang="EN-US">
         <seg>Let’s look at some of the pros and cons for each.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170812T141910Z" creationid="rikiha" creationdate="20170811T133410Z">
-        <seg>では、それぞれの賛否両論を見ていきましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170815T033322Z" creationid="rikiha" creationdate="20170811T133410Z">
+        <seg>では、それぞれの是非を見ていきましょう。</seg>
       </tuv>
     </tu>
     <tu>
