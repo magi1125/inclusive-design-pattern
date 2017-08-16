@@ -16587,7 +16587,9 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 多少意訳入っていますが、こういう感じでしょうか。</note>
+      <note>(伊原) 多少意訳入っていますが、こういう感じでしょうか。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>To silence readout, you’d have to place the icon in an element with &lt;g1&gt;aria-hidden="true"&lt;/g1&gt; specified, which precludes the use of CSS pseudo-content for rendering it.</seg>
       </tuv>
