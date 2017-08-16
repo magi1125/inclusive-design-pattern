@@ -6686,6 +6686,9 @@ a element ではなく elements であることに意味があるように思い
     </tu>
     <tu>
       <note>(伊原) なぜインラインスタイルを使っているのか？という点の説明のはずなので、外部CSSと補足しました。
+
+(太田)
+外部CSSファイルが読めない時点で多少の空白などどうでも良い状態になっているような気がしなくもない。
 </note>
       <tuv lang="EN-US">
         <seg>If it was hidden using CSS, the SVG would be visible to users whose CSS was not loaded.</seg>
