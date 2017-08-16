@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16076,12 +16076,14 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
 (太田)
 ハイフンつなぎ部分はひとつのエフェクトの名称として読めるように書いているのだと思います。そういうテイストのデザイン効果がおきるよ、という皮肉っぽい書き方ですね。
 日本語でどうするべきかは恐ろしく難しいです。
-皮肉っぽさが伝わるように「素敵なデザインになります」と補ってみましたがどうですかね。難しいです。</note>
+皮肉っぽさが伝わるように「素敵なデザインになります」と補ってみましたがどうですかね。難しいです。
+
+(岡本)　素敵→ステキ　　でしょうか</note>
       <tuv lang="EN-US">
         <seg>This will result in the generic-boxes-all-over-the-place effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170816T034346Z" creationid="rikiha" creationdate="20170812T161518Z">
-        <seg>そうなると、そこらじゅう汎用ボックスだらけ、という素敵なデザインになります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170816T071116Z" creationid="rikiha" creationdate="20170812T161518Z">
+        <seg>そうなると、そこらじゅう汎用ボックスだらけ、というステキなデザインになります。</seg>
       </tuv>
     </tu>
     <tu>
