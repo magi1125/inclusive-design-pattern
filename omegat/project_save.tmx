@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6479,7 +6479,10 @@ remediation は治療法?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) そこまで確信的なニュアンスではないかなと。</note>
+      <note>(伊原) そこまで確信的なニュアンスではないかなと。
+
+(太田)
+imagine と might で二重に推定している形ですが、こんなに弱く言っているのは皮肉かもしれないですね。</note>
       <tuv lang="EN-US">
         <seg>I imagine this might have a negative impact on cognition.</seg>
       </tuv>
