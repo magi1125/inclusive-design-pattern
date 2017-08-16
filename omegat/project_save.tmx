@@ -3990,12 +3990,15 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 多少調整。本文とそこまで関係なさそうなので「ちなみに」と補足。</note>
+      <note>(伊原) 多少調整。本文とそこまで関係なさそうなので「ちなみに」と補足。
+
+(太田)
+litmus test はリトマス試験ですが、日本語としては「試金石」とでも訳したいところ。</note>
       <tuv lang="EN-US">
         <seg>Bruce Lawson of Opera has a great article on “&lt;g1&gt;&lt;g2&gt;Making websites that work well on Opera Mini&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;9&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” Successful Opera Mini support is a good litmus test of high performance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T070128Z" creationid="rikiha" creationdate="20170812T161525Z">
-        <seg>ちなみに、Operaのブルース・ローソン（Bruce Lawson）による&lt;g1&gt;&lt;g2&gt;「Making websites that work well on Opera Mini」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注106）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;という素晴らしい記事があります。WebサイトがOpera Miniをサポートできていることは、ハイパフォーマンスであることを示す良い基準となります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170816T035951Z" creationid="rikiha" creationdate="20170812T161525Z">
+        <seg>ちなみに、Operaのブルース・ローソン（Bruce Lawson）による&lt;g1&gt;&lt;g2&gt;「Making websites that work well on Opera Mini」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注106）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;という素晴らしい記事があります。WebサイトがOpera Miniをサポートできていることは、ハイパフォーマンスであることを示す良い試金石となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15785,8 +15788,8 @@ esotericは特殊というより、他で使われていないというニュア
       <tuv lang="EN-US">
         <seg>This is workable where there are fallback system fonts defined, but icon fonts tend to use esoteric Unicode points which have no equivalent in normal system fonts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170816T035806Z" creationid="rikiha" creationdate="20170812T161523Z">
-        <seg>フォールバック用のシステムフォントが定義されているなら、それが表示されるはずです。しかし、アイコンフォントは通常のシステムフォントが定義されていない、独自のUnicode符号位置を利用していることがほとんどです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170816T035846Z" creationid="rikiha" creationdate="20170812T161523Z">
+        <seg>フォールバック用のシステムフォントが定義されているなら、それが表示されるはずです。しかし、アイコンフォントは通常のシステムフォントが定義していない、独自のUnicode符号位置を利用していることがほとんどです。</seg>
       </tuv>
     </tu>
     <tu>
