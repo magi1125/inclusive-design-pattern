@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4535,13 +4535,14 @@ http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#speaking-props
 CSS2.1 A.4 Speaking properties: 'speak'
 http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
 
-ということで、1998年から仕様はあったと言えばあったわけです。
-面倒ですが訳注?</note>
+ということで、1998年から仕様はあったと言えばあったわけです。「仕様策定は進んでいます」というのは微妙なので、単に「進んではいます」としてみました。
+
+いろいろ面倒ですがこのへん訳注?</note>
       <tuv lang="EN-US">
         <seg>CSS pseudo-content is, typically, announced by screen readers and there’s no “Don’t say this” property that’s supported well (although &lt;g2&gt;&lt;g3&gt;work is underway&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;13&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170816T065945Z" creationid="rikiha" creationdate="20170812T161604Z">
-        <seg>CSSの疑似要素は通常、スクリーンリーダーで読み上げられます。「読み上げないで」というプロパティはまだほとんどサポートされていません（ただし&lt;g2&gt;&lt;g3&gt;仕様策定は進んでいます&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注110）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;）。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170816T071502Z" creationid="rikiha" creationdate="20170812T161604Z">
+        <seg>CSSの疑似要素は通常、スクリーンリーダーで読み上げられます。「読み上げないで」というプロパティはまだほとんどサポートされていません（ただし&lt;g2&gt;&lt;g3&gt;進んではいます&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注110）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
