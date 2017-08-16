@@ -15779,7 +15779,7 @@ http://pothos.main.jp/setuzokusi.htm</note>
       <note>(伊原) 対処できるというより、フォールバックでシステムフォントが出るという話かなと。
 
 (太田)
-esotericは特殊というより、他で使われていないというニュアンスだと思います。</note>
+esotericは特殊というより、他で使われていないというニュアンスだと思います。独自の、としてみました。</note>
       <tuv lang="EN-US">
         <seg>This is workable where there are fallback system fonts defined, but icon fonts tend to use esoteric Unicode points which have no equivalent in normal system fonts.</seg>
       </tuv>
