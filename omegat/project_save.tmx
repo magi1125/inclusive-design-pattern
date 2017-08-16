@@ -4527,8 +4527,8 @@ rudimentaryは原始的のほうがいいかも。
       <tuv lang="EN-US">
         <seg>CSS pseudo-content is, typically, announced by screen readers and there’s no “Don’t say this” property that’s supported well (although &lt;g2&gt;&lt;g3&gt;work is underway&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;13&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T140758Z" creationid="rikiha" creationdate="20170812T161604Z">
-        <seg>CSS疑似要素は通常、スクリーンリーダーで読み上げられます。「読み上げないで」というプロパティはまだほとんどサポートされていません（ただし&lt;g2&gt;&lt;g3&gt;仕様策定は進んでいます&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注110）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;）。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170816T065945Z" creationid="rikiha" creationdate="20170812T161604Z">
+        <seg>CSSの疑似要素は通常、スクリーンリーダーで読み上げられます。「読み上げないで」というプロパティはまだほとんどサポートされていません（ただし&lt;g2&gt;&lt;g3&gt;仕様策定は進んでいます&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注110）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16593,8 +16593,8 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       <tuv lang="EN-US">
         <seg>To silence readout, you’d have to place the icon in an element with &lt;g1&gt;aria-hidden="true"&lt;/g1&gt; specified, which precludes the use of CSS pseudo-content for rendering it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T135437Z" creationid="rikiha" creationdate="20170812T161601Z">
-        <seg>読み上げられないようにするには、&lt;g1&gt;aria-hidden="true"&lt;/g1&gt;を指定した要素内にアイコンを配置する必要があります。しかし、CSS疑似要素でアイコンを表示する場合、この方法は使えません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170816T065941Z" creationid="rikiha" creationdate="20170812T161601Z">
+        <seg>読み上げられないようにするには、&lt;g1&gt;aria-hidden="true"&lt;/g1&gt;を指定した要素内にアイコンを配置する必要があります。しかし、CSSの疑似要素でアイコンを表示する場合、この方法は使えません。</seg>
       </tuv>
     </tu>
     <tu>
