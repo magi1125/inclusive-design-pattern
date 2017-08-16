@@ -15783,8 +15783,8 @@ esotericは特殊というより、他で使われていないというニュア
       <tuv lang="EN-US">
         <seg>This is workable where there are fallback system fonts defined, but icon fonts tend to use esoteric Unicode points which have no equivalent in normal system fonts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170816T035646Z" creationid="rikiha" creationdate="20170812T161523Z">
-        <seg>フォールバック用のシステムフォントが定義されていれば、それで表示されます。しかし、アイコンフォントは一般的なシステムフォントが定義されていない、独自のUnicode符号位置を利用することがほとんどです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170816T035722Z" creationid="rikiha" creationdate="20170812T161523Z">
+        <seg>フォールバック用のシステムフォントが定義されているなら、それで表示されるはずです。しかし、アイコンフォントは一般的なシステムフォントが定義されていない、独自のUnicode符号位置を利用することがほとんどです。</seg>
       </tuv>
     </tu>
     <tu>
