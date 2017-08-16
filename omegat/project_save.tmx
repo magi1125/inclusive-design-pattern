@@ -14196,12 +14196,12 @@ http://www.unicode.org/charts/PDF/U2600.pdf</note>
       <note>(伊原) ちょっと調整。
 
 (太田)
-ここは「以下のように書け」ということではなく「以下の例をbodyに直接入れろ」と言っているように読めます。</note>
+ここは「以下のように書け」ということではなく「以下の例をbodyに直接入れろ」と言っているように読めます。少しだけ調整してみました。</note>
       <tuv lang="EN-US">
         <seg>The following should appear directly inside the &lt;g1&gt;&lt;body&gt;&lt;/g1&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170816T074121Z" creationid="rikiha" creationdate="20170812T161637Z">
-        <seg>以下を、&lt;g1&gt;&lt;body&gt;&lt;/g1&gt;内に直接記述します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170816T074201Z" creationid="rikiha" creationdate="20170812T161637Z">
+        <seg>以下のようなものを&lt;g1&gt;&lt;body&gt;&lt;/g1&gt;内に直接記述します。</seg>
       </tuv>
     </tu>
     <tu>
