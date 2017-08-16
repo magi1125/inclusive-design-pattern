@@ -4527,7 +4527,7 @@ rudimentaryは原始的のほうがいいかも。
 
 (太田)
 面倒なの来ましたねー。
-実はspeakプロパティはCSS2からあったのですが、CSS2.1でAppendixに移されたという非常に微妙な位置づけだったはず。
+実はspeakプロパティの仕様はCSS2からあったのですが実装がなく、CSS2.1でAppendixに移されたという非常に微妙な位置づけだったはず。
 
 CSS2 19.3 Speaking properties: 'speak'
 http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#speaking-props
@@ -4536,8 +4536,7 @@ CSS2.1 A.4 Speaking properties: 'speak'
 http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
 
 ということで、1998年から仕様はあったと言えばあったわけです。
-面倒ですが訳注?
-</note>
+面倒ですが訳注?</note>
       <tuv lang="EN-US">
         <seg>CSS pseudo-content is, typically, announced by screen readers and there’s no “Don’t say this” property that’s supported well (although &lt;g2&gt;&lt;g3&gt;work is underway&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;13&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;).</seg>
       </tuv>
