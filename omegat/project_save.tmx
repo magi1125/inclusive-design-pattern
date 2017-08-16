@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10036,6 +10036,13 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)　このMenuはメニューでしょうかね。</note>
+      <tuv lang="EN-US">
+        <seg>Menu
+&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;/&lt;/g19&gt;button&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g17&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>More on that shortly.</seg>
       </tuv>
@@ -15018,12 +15025,14 @@ convention は他のところでは「慣習」としていたのでここもそ
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) この記号を、と補いつつ調整。</note>
+      <note>(伊原) この記号を、と補いつつ調整。
+
+(岡本)　なにも→何も</note>
       <tuv lang="EN-US">
         <seg>Therefore, unless intervention is taken, “Trigram for heaven” could be announced in some screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T131100Z" creationid="rikiha" creationdate="20170812T161556Z">
-        <seg>なにも手を入れなければ、一部のスクリーンリーダーがこの記号を「＃＃Trigram for heaven＃＃」と読み上げる可能性があります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170816T040121Z" creationid="rikiha" creationdate="20170812T161556Z">
+        <seg>何も手を入れなければ、一部のスクリーンリーダーがこの記号を「＃＃Trigram for heaven＃＃」と読み上げる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
