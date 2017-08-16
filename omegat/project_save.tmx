@@ -4523,7 +4523,9 @@ rudimentaryは原始的のほうがいいかも。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) Operaで接頭辞付きでしかサポートされていないので「ほとんどサポートされていません」としました。work is underwayとしてW3C仕様にリンクしているので、意訳になりますが「仕様策定は進んでいます」としました。
+      <note>※要訳注?
+
+(伊原) Operaで接頭辞付きでしかサポートされていないので「ほとんどサポートされていません」としました。work is underwayとしてW3C仕様にリンクしているので、意訳になりますが「仕様策定は進んでいます」としました。
 
 (太田)
 面倒なの来ましたねー。
@@ -4536,7 +4538,6 @@ CSS2.1 A.4 Speaking properties: 'speak'
 http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
 
 ということで、1998年から仕様はあったと言えばあったわけです。「仕様策定は進んでいます」というのは微妙なので、単に「進んではいます」としてみました。
-
 いろいろ面倒ですがこのへん訳注?</note>
       <tuv lang="EN-US">
         <seg>CSS pseudo-content is, typically, announced by screen readers and there’s no “Don’t say this” property that’s supported well (although &lt;g2&gt;&lt;g3&gt;work is underway&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;13&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;).</seg>
