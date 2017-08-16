@@ -15061,7 +15061,8 @@ convention は他のところでは「慣習」としていたのでここもそ
 
 (太田)
 NVDA2017.2jaは何も読まず (一瞬間は空く)。詳細読みでも何も読みません。
-VoiceOverは! なんと!! しれっと「トリグラムフォーヘブン」などと読みました!</note>
+VoiceOverは! なんと!! しれっと「トリグラムフォーヘブン」などと読みました!
+訳注ですね。</note>
       <tuv lang="EN-US">
         <seg>Therefore, unless intervention is taken, “Trigram for heaven” could be announced in some screen readers.</seg>
       </tuv>
@@ -16363,7 +16364,9 @@ SVGを使ってアイコンを表す→アイコンにSVGを使う、としま�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 要検討。訳としてはこうだが、下訳のとおり、どの言語でも混乱する。訳注？</note>
+      <note>(伊原) 要検討。訳としてはこうだが、下訳のとおり、どの言語でも混乱する。訳注？
+
+(太田) 誤訳かも?</note>
       <tuv lang="EN-US">
         <seg>To either English or Chinese screen reader users, this would be rather confusing.</seg>
       </tuv>
