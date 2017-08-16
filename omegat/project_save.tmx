@@ -14073,7 +14073,12 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) もう少しいい感じにできそうな気はするが、ひとまず調整。</note>
+      <note>(伊原) もう少しいい感じにできそうな気はするが、ひとまず調整。
+
+(太田)
+trigram for heavenについて訳注が必要か。
+
+</note>
       <tuv lang="EN-US">
         <seg>The first is that not all devices support a Unicode set extensive enough to include this character, the “trigram for heaven.” The second is that, unlike an icon font which is mapped to Unicode points in the &lt;g1&gt;&lt;g2&gt;private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, this character is more likely to be interpreted by assistive technology.</seg>
       </tuv>
