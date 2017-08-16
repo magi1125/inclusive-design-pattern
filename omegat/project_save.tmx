@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18267,12 +18267,13 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
 によれば、OSのデフォルトフォントが絵文字を表示するためにPUAを使っている場合がある、という話のようです。
 
 (太田)
-強調箇所をどうするか。do use の do が強調されているのは日本語で表現するのが難しいですね。</note>
+強調箇所をどうするか。do use の動詞を強調するdo が強調されているのは日本語で表現するのが難しいですね。「ホントに使ってしまう」のようなニュアンスだと思いますので、「本当に」を補ってみましたが……。
+</note>
       <tuv lang="EN-US">
         <seg>Zach Leatherman of Filament Group writes that sometimes &lt;g1&gt;&lt;g2&gt;operating systems &lt;g3&gt;do&lt;/g3&gt; use Unicode’s private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, but for their own purposes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T070142Z" creationid="rikiha" creationdate="20170812T161528Z">
-        <seg>Filament Groupのザック・レザーマン（Zach Leatherman）によれば、&lt;g1&gt;&lt;g2&gt;OSが独自の目的でUnicodeの私用領域を&lt;g3&gt;使う&lt;/g3&gt;こともある&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注107）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;ようです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170816T040558Z" creationid="rikiha" creationdate="20170812T161528Z">
+        <seg>Filament Groupのザック・レザーマン（Zach Leatherman）によれば、&lt;g1&gt;&lt;g2&gt;OSが独自の目的でUnicodeの私用領域を&lt;g3&gt;本当に&lt;/g3&gt;使うこともある&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注107）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;ようです。</seg>
       </tuv>
     </tu>
     <tu>
