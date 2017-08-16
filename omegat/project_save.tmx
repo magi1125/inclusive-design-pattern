@@ -4527,7 +4527,7 @@ rudimentaryは原始的のほうがいいかも。
 
 (太田)
 微妙なの来たなー。
-</note>
+もともとspeakプロパティはCSS2からあったのですが、CSS2.1でAppendixに移されたという非常に微妙な位置づけだったはず。</note>
       <tuv lang="EN-US">
         <seg>CSS pseudo-content is, typically, announced by screen readers and there’s no “Don’t say this” property that’s supported well (although &lt;g2&gt;&lt;g3&gt;work is underway&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;13&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;).</seg>
       </tuv>
