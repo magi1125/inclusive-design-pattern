@@ -11905,7 +11905,13 @@ de facto solution が「事実上の解決策」となっていますが「事�
     <tu>
       <note>(伊原) クロスブラウザと直接言っていいかなと。
 
-(岡本)　書き出しが「SVGスプライトは、」と連続するので、変えたいです。</note>
+(岡本)　書き出しが「SVGスプライトは、」と連続するので、変えたいです。
+
+(太田)
+何が言いたいのかわかりにくいですね。
+img のsrcに指定したりCSSにBase64で書いたりするのではなく直接HTMLに書くのが良い、ということでしょうね。それがわかるようにしたいです。
+
+</note>
       <tuv lang="EN-US">
         <seg>SVG sprites work best cross-browser when they’re embedded in the page.</seg>
       </tuv>
