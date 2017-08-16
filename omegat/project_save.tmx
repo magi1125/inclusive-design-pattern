@@ -10647,14 +10647,16 @@ OK
       <note>(伊原) 語順を調整
 
 (太田)
-「インラインスタイル」という言い方は一般的なのかどうか。
-「インラインのstyle属性」としたほうがわかりやすそうではあります。
-まあでも、言わなくもないようなのでこのままでも良いか。</note>
+「インラインスタイル」という言い方は一般的なのかどうか。「インラインのstyle属性」としたほうがわかりやすそうではあります。
+原文に沿って訳すと「インラインの&lt;g3&gt;display: none;&lt;/g3&gt;のスタイル」となりそうなので、調整してみました。
+
+
+</note>
       <tuv lang="EN-US">
         <seg>Note that it is hidden with an inline &lt;g3&gt;display: none;&lt;/g3&gt; style.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170816T074742Z" creationid="rikiha" creationdate="20170812T161643Z">
-        <seg>非表示にするために、&lt;g3&gt;display: none;&lt;/g3&gt;をインラインスタイルで使っていることに注目してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170816T074938Z" creationid="rikiha" creationdate="20170812T161643Z">
+        <seg>非表示にするために、インラインで&lt;g3&gt;display: none;&lt;/g3&gt;のスタイルを指定していることに注目してください。</seg>
       </tuv>
     </tu>
     <tu>
