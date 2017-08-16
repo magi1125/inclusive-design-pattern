@@ -11910,7 +11910,7 @@ de facto solution が「事実上の解決策」となっていますが「事�
 (太田)
 何が言いたいのかわかりにくいですね。
 img のsrcに指定したりCSSにBase64で書いたりするのではなく直接HTMLに書くのが良い、ということでしょうね。それがわかるようにしたいです。
-ということで少し補いつつ大幅に調整してみました。どうでしょう。
+ということで少し補いつつ大幅に調整してみました。どうでしょう。岡本さんのニーズも満たせたかと。
 </note>
       <tuv lang="EN-US">
         <seg>SVG sprites work best cross-browser when they’re embedded in the page.</seg>
