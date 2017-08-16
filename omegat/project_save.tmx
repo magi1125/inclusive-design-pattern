@@ -18255,7 +18255,10 @@ spoiled for choice は選択肢があまりに豊富すぎて甘やかされて�
     <tu>
       <note>(伊原) 多少調整。
 https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
-によれば、OSのデフォルトフォントが絵文字を表示するためにPUAを使っている場合がある、という話のようです。</note>
+によれば、OSのデフォルトフォントが絵文字を表示するためにPUAを使っている場合がある、という話のようです。
+
+(太田)
+強調箇所をどうするか。do use の do が強調されているのは日本語で表現するのが難しいですね。</note>
       <tuv lang="EN-US">
         <seg>Zach Leatherman of Filament Group writes that sometimes &lt;g1&gt;&lt;g2&gt;operating systems &lt;g3&gt;do&lt;/g3&gt; use Unicode’s private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, but for their own purposes.</seg>
       </tuv>
