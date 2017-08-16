@@ -2341,12 +2341,14 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
 
 (伊原) こちらがキャプションです。いわゆってないので調整。
 
+(太田)
+微妙に違うような気がしたので調整。
 </note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The familiar rectangular box indicates a glyph that is not supported and constitutes a fallback.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T035320Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;よく見かける長方形のボックスは、そのグリフがサポートされていないことを示すフォールバックである。&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170816T032824Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;よく見かける長方形のボックスは、そのグリフがサポートされておらず、フォールバックが使われていることを示している。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
