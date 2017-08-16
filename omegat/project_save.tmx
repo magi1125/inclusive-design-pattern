@@ -10644,12 +10644,16 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順を調整</note>
+      <note>(伊原) 語順を調整
+
+(太田)
+「インラインスタイル」という言い方は一般的なのかどうか。
+「インラインのstyle属性」としたほうがわかりやすそうではあります。</note>
       <tuv lang="EN-US">
         <seg>Note that it is hidden with an inline &lt;g3&gt;display: none;&lt;/g3&gt; style.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T151653Z" creationid="rikiha" creationdate="20170812T161643Z">
-        <seg>非表示にするのに&lt;g3&gt;display: none;&lt;/g3&gt;をインラインスタイルで使っていることに注目してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170816T074742Z" creationid="rikiha" creationdate="20170812T161643Z">
+        <seg>非表示にするために、&lt;g3&gt;display: none;&lt;/g3&gt;をインラインスタイルで使っていることに注目してください。</seg>
       </tuv>
     </tu>
     <tu>
