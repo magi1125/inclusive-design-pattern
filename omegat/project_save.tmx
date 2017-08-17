@@ -6821,7 +6821,8 @@ poorは貧弱というか、ここでは「ダメな」「望ましくない」�
 making sure is paramount という構造。
 カッコつきの「メニューボタン」は実際にそのように読みあげられるようにするという含みを持たせている感じだと思います。
 調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>If so, making sure the button is identified as “menu button” to screen reader users is paramount.</seg>
       </tuv>
@@ -14987,12 +14988,13 @@ sound semantic structureとは。
 「再生ボタンや停止ボタン」と書かれるとふたつのボタンに読めますが、実際はひとつの「再生・停止ボタン」でしょうね。再生・停止ボタンにはラベルがつかないスタイルが一般的なので、たいていaria-labelに頼ることになります。
 
 「アイコンコントロール」がわかりにくい気がしますがどうしたものか。
-</note>
+
+(伊原) そうですね、▶と||がトグルするやつですね。アイコンコントロールは、以降も押せるものの話をしているので、アイコンボタンと言い切っていいように思いました。</note>
       <tuv lang="EN-US">
         <seg>The techniques expounded here are applicable to any kind of iconic control, such as a play or stop button in a media player.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T073905Z" creationid="rikiha" creationdate="20170815T160739Z">
-        <seg>ここで紹介する方法は、他にもメディアプレイヤーの再生・停止ボタンなど、あらゆるタイプのアイコンコントロールに使えます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T140235Z" creationid="rikiha" creationdate="20170815T160739Z">
+        <seg>ここで紹介する方法は、他にもメディアプレイヤーの再生・停止ボタンなど、あらゆるタイプのアイコンボタンに使えます。</seg>
       </tuv>
     </tu>
     <tu>
