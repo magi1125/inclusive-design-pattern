@@ -13468,7 +13468,6 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
 IEとChromeで見た感じでは、xmlnsの定義なしで動きますし、名前空間接頭辞なしの href="#navicon" でも何事もなく動くっぽいですね。
 仕様的にはhref属性はなくてxlink:hrefということになっていますが。
 http://www.w3.org/TR/SVG/struct.html#UseElement
-
 逆に &lt;use xmlns:foo="http://www.w3.org/1999/xlink" foo:href="#navicon"&gt; と書いても動かないので名前空間を処理しているわけではない模様。
 </note>
       <tuv lang="EN-US">
