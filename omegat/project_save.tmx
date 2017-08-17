@@ -520,11 +520,12 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) この実装ならインラインSVGだから問題ない、と補いました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;Support for SVG is pretty much universal&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;19&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, with the stipulation that IE9–11 cannot reference external files using &lt;g6&gt;xlink:href&lt;/g6&gt; — not a problem with this implementation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170817T145540Z" creationid="rikiha" creationdate="20170815T160920Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;SVGは広く一般的にサポートされています&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注116）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;。Internet Explorer 9～11は&lt;g6&gt;xlink:href&lt;/g6&gt;を使って外部ファイルを参照できないとされていますが、SVGの実装には問題ありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T151327Z" creationid="rikiha" creationdate="20170815T160920Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;SVGは広く一般的にサポートされています&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注116）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;。Internet Explorer 9～11は&lt;g6&gt;xlink:href&lt;/g6&gt;を使って外部ファイルを参照できないとされていますが――この実装はインラインSVGなので問題ありません。</seg>
       </tuv>
     </tu>
     <tu>
