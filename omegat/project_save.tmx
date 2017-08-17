@@ -3550,7 +3550,9 @@ lay, makeはいずれも命令系で使われているので、「すべき」�
 冒頭そのまま「慣習はインクルージョンの友」としました。As alwaysは冒頭だけにかかっているのではないかと思います。
 
 extrapolatingが謎。
-extrapolate は「外挿(がいそう)法によって推定する、既知の事柄から推定する」ということらしいです。ここでは「延長する」「横展開する」というような意味かも。</note>
+extrapolate は「外挿(がいそう)法によって推定する、既知の事柄から推定する」ということらしいです。ここでは「延長する」「横展開する」というような意味かも。
+
+(伊原) 似て非なるものを編み出す、みたいな感じですね。とはいえ今のままでも意味は通じるのでOKかと思いました。</note>
       <tuv lang="EN-US">
         <seg>As always, convention is a friend to inclusion, so extrapolating on the the classic three-line symbol by adding lines or changing line orientation is to be avoided.</seg>
       </tuv>
@@ -7602,6 +7604,8 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
 「知覚されたアフォーダンス」と言っているのでこれはこれで良いのではないでしょうか。どちらかというと、前の訳注の中に「知覚されたアフォーダンス」という言い方を追加するべきかもしません。
 「そうでないと」がやや砕けすぎかも。「そうでなければ」としてみました。
 文の区切りを原文にそろえました。
+
+(伊原) OK。そうですね、前の訳注にその点追加ですね（知覚されたアフォーダンスと言い直して、さらにシグニファイアと言い直したという経緯）。
 </note>
       <tuv lang="EN-US">
         <seg>In general, all the buttons in your interface should &lt;g1&gt;look&lt;/g1&gt; like buttons, otherwise they lose &lt;g2&gt;&lt;g3&gt;perceived affordance&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;6&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;: the appearance that they can be used.</seg>
