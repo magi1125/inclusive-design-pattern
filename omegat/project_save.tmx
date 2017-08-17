@@ -12507,8 +12507,8 @@ NVDA2017.2jaでは、▶は「さんかくけい」と読みます。
       <tuv lang="EN-US">
         <seg>Since ► is read as “black right-pointing triangle” and &lt;g1&gt;×&lt;/g1&gt; as “times” (multiplication), the same &lt;g2&gt;aria-label&lt;/g2&gt; method could fix the labeling of your play and close buttons, among others.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T095813Z" creationid="rikiha" creationdate="20170815T160830Z">
-        <seg>たとえば、▶は「さんかくけい」、×は「かける」と読み上げられますが、この場合もaria-labelを使ってボタンのラベルを「再生」や「閉じる」に修正できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T095838Z" creationid="rikiha" creationdate="20170815T160830Z">
+        <seg>たとえば、▶は「さんかくけい」、&lt;g1&gt;×&lt;/g1&gt;は「かける」と読み上げられますが、この場合もaria-labelを使ってボタンのラベルを「再生」や「閉じる」に修正できます。</seg>
       </tuv>
     </tu>
     <tu>
