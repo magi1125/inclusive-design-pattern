@@ -3002,12 +3002,14 @@ wouldなので語尾を少しやわらかめに。
     </tu>
     <tu>
       <note>(太田)
-Allのニュアンスを盛り込むべきか。</note>
+Allのニュアンスを盛り込むべきかも。
+語順変えつつ調整。
+</note>
       <tuv lang="EN-US">
         <seg>All interactive elements should have an accessible name so they can be interpreted and communicated in assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T160723Z" creationid="rikiha" creationdate="20170815T160723Z">
-        <seg>インタラクティブな要素には、支援技術で解釈したり伝えたりできるように、必ずアクセシブルな名前を付ける必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T053003Z" creationid="rikiha" creationdate="20170815T160723Z">
+        <seg>インタラクティブな要素は全て、アクセシブルな名前を付けて、支援技術で解釈したり伝えたりできるようにするべきです。</seg>
       </tuv>
     </tu>
     <tu>
