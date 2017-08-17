@@ -11905,6 +11905,8 @@ SIMONは上で「サイモン」としていたのでここも訳すべきかと
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+急に何を言い出したのか。</note>
       <tuv lang="EN-US">
         <seg>SVG is clearly the most robust solution and already has &lt;g1&gt;&lt;g2&gt;very good support&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;15&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
@@ -16581,7 +16583,7 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
 
 (太田)
 「オンオフに関係なく」だとオンオフを切り替えても文字色が変わらないようにも読めます。「オンオフいずれの場合でも」としつつ、位置を少し調整しました。
-後半が微妙に誤訳風味かもしれません。2文に分けつつ調整してみましたがどうでしょうか。</note>
+後半が微妙にわかりにくいかもしれません。2文に分けつつ調整してみましたがどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>To make the icon adopt the color of the button element’s font — both with high contrast mode on or off — we can use CSS’s &lt;g1&gt;currentColor&lt;/g1&gt; value and set it on the &lt;g2&gt;&lt;path&gt;&lt;/g2&gt;’s &lt;g3&gt;fill&lt;/g3&gt; property.</seg>
       </tuv>
