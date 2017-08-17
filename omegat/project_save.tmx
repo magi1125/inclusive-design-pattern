@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11950,6 +11950,10 @@ SIMONは上で「サイモン」としていたのでここも訳すべきかと
 急に何を言い出したのか。
 先の文の後にすぐコードサンプルが来るほうが自然ですし、この文は、この節全体の締めの言葉のように読めます。本来末尾にあるべきものが、編集上のミスでコードサンプルの上に移動してしまったのではないでしょうか。特に問題なければ末尾に移動したいです。
 結論めいた形になるように少し調整しました。
+
+(岡本)
+Docではいったん末尾に移動します。
+
 </note>
       <tuv lang="EN-US">
         <seg>SVG is clearly the most robust solution and already has &lt;g1&gt;&lt;g2&gt;very good support&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;15&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
