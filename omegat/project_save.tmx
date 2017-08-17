@@ -6693,12 +6693,13 @@ a element ではなく elements であることに意味があるように思い
 (太田)
 外部CSSファイルが読めない時点で多少の空白などどうでも良い状態になっているような気がしなくもない。
 ちなみにstyle要素で指定すると当然ながら普通に消せるので、外部と補うのは正しいように思います。
+would be なので全体を少し弱めに調整しました。
 </note>
       <tuv lang="EN-US">
         <seg>If it was hidden using CSS, the SVG would be visible to users whose CSS was not loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T155220Z" creationid="rikiha" creationdate="20170812T161648Z">
-        <seg>外部ファイルのCSSを使って非表示にしたとすると、ファイルが読み込めない場合はこのSVG要素が見える状態になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T033414Z" creationid="rikiha" creationdate="20170812T161648Z">
+        <seg>外部CSSを使って非表示にすると、CSSファイルが読み込めない場合に、このSVG要素が見えてしまうかもしません。</seg>
       </tuv>
     </tu>
     <tu>
