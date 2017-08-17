@@ -3220,7 +3220,7 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
 (太田)
 Another advantage をもう少し強調してもいいかも。メリットを冒頭に持ってきてみました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Another advantage is that icon fonts scale without degradation, much like SVG.</seg>
       </tuv>
@@ -5845,7 +5845,8 @@ For thatは「その実現」としてみました。
       <note>(伊原) 動作➞ふるまい
 
 (太田) 「ふるまいます」の「ふるまい」だけが強調されるのに違和感があったので、「ふるまい」を名詞扱いするように調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Fortunately, icon fonts are text, so they &lt;g1&gt;behave&lt;/g1&gt; like text.</seg>
       </tuv>
@@ -6620,7 +6621,7 @@ imagine と might で二重に推定している形ですが、むしろ何故�
 コンテンツ側で游ゴシックが指定されているとロービジョンの人が読みにくいのでMSゴシックに変える、みたいな話のはず。
 「Webページで使われているフォントをユーザーが独自に変更している場合」くらい?
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Icon fonts become problematic when users choose their own fonts for web pages, as described by Seren D in “&lt;g1&gt;&lt;g2&gt;Death To Icon Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;8&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” It’s important for inclusion to allow users to choose fonts which they are comfortable reading, especially if they experience difficulty with dyslexia.</seg>
       </tuv>
@@ -17699,7 +17700,9 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       <note>(伊原) ほぼOK,微調整。
 
 (太田)
-ここの the icon の the は訳出したほうが良いやつかも。「アイコンフォントで実装されたアイコン」を指すのですが、単に「アイコンフォント」としてみました。</note>
+ここの the icon の the は訳出したほうが良いやつかも。「アイコンフォントで実装されたアイコン」を指すのですが、単に「アイコンフォント」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>When high contrast mode inverts the color of the “menu” text, it will also invert the color of the icon.</seg>
       </tuv>
@@ -18505,7 +18508,9 @@ OK</note>
 
 (太田) 
 要検討ですが、少なくともshouldは「しなければならない」ではなく「するべき」と訳すべきかと思います。
-とりあえず調整してみました。</note>
+とりあえず調整してみました。
+
+(伊原) 訳OK. CSSでトーフが出ないようにできるわけではないので、訳注でしょうか。</note>
       <tuv lang="EN-US">
         <seg>Your style sheets should be sensitive to this preference.</seg>
       </tuv>
