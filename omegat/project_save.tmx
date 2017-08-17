@@ -6698,8 +6698,8 @@ would be なので全体を少し弱めに調整しました。
       <tuv lang="EN-US">
         <seg>If it was hidden using CSS, the SVG would be visible to users whose CSS was not loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T033414Z" creationid="rikiha" creationdate="20170812T161648Z">
-        <seg>外部CSSを使って非表示にすると、CSSファイルが読み込めない場合に、このSVG要素が見えてしまうかもしません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T033434Z" creationid="rikiha" creationdate="20170812T161648Z">
+        <seg>外部CSSを使って非表示にすると、CSSファイルが読み込めなかった場合に、このSVGが見えてしまうかもしません。</seg>
       </tuv>
     </tu>
     <tu>
