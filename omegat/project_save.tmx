@@ -13466,7 +13466,8 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
 (太田) OK
 下のサンプルの xlink:href の名前空間接頭辞の扱いはどうなっているのだろうという素朴な疑問が。外側のどこかで xmlns:xlink="http://www.w3.org/1999/xlink"  が定義されている想定のような気もしつつ、ブラウザの実装としては特になくても動きそうな気もしつつ。
 IEとChromeで見た感じでは、どちらも名前空間接頭辞なしの href="#navicon" で何事もなく動くっぽいですね。
-</note>
+仕様的にはhref属性はなくてxlink:href
+http://www.w3.org/TR/SVG/struct.html#UseElement</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;symbol&gt;&lt;/g1&gt; can be used within our menu button by referencing its &lt;g2&gt;id&lt;/g2&gt; with a &lt;g3&gt;&lt;use&gt;&lt;/g3&gt; element.</seg>
       </tuv>
