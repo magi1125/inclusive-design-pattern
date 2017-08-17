@@ -13465,7 +13465,6 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
 
 (太田) OK
 下のサンプルの xlink:href の名前空間接頭辞の扱いはどうなっているのだろうという素朴な疑問が。外側のどこかで xmlns:xlink="http://www.w3.org/1999/xlink"  が定義されている想定のような気もしつつ、ブラウザの実装としては特になくても動きそうな気もしつつ。
-
 IEとChromeで見た感じでは、どちらも名前空間接頭辞なしの href="#navicon" で何事もなく動くっぽいですね。
 </note>
       <tuv lang="EN-US">
