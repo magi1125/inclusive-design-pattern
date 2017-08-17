@@ -3016,7 +3016,8 @@ wouldなので語尾を少しやわらかめに。
       <note>(太田)
 Allのニュアンスを盛り込むべきかも。
 語順変えつつ調整。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>All interactive elements should have an accessible name so they can be interpreted and communicated in assistive technologies.</seg>
       </tuv>
@@ -14886,12 +14887,13 @@ shortcomings「欠陥」だと不具合っぽいニュアンスがあるよう�
 誤訳ですね。
 わかりにくいのでちょっと意訳しつつ調整。こういうことかと。
 もしかすると2文に分けたほうがいいかも。
-</note>
+
+(伊原) OK. 解析は構文解析としたほうがいいかも？してみました。</note>
       <tuv lang="EN-US">
         <seg>The simplest labels are both visible and parsable, based on textual content such as our “menu” text node.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170817T102935Z" creationid="rikiha" creationdate="20170815T160729Z">
-        <seg>最もシンプルなラベルは、見えていると同時に解析も可能なもので、先の例の「メニュー」というテキストノードのようなテキストコンテンツが基本となります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T135442Z" creationid="rikiha" creationdate="20170815T160729Z">
+        <seg>最もシンプルなラベルは、見えていると同時に構文解析も可能なもので、先の例の「メニュー」というテキストノードのようなテキストコンテンツが基本となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16194,7 +16196,9 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
     </tu>
     <tu>
       <note>(太田)
-訳は原文どおりですが、WCAG 2.0 と補ったほうが良いかも。</note>
+訳は原文どおりですが、WCAG 2.0 と補ったほうが良いかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This relates to &lt;g1&gt;&lt;g2&gt;WCAG’s 4.1.2 criterion, &lt;g3&gt;Name, Role, Value&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;16&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
