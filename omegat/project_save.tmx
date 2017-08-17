@@ -10415,11 +10415,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 命令形なので強めに。</note>
       <tuv lang="EN-US">
         <seg>Nonetheless, because of the described benefits, use SVG to render all your icons if you are able to.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T160833Z" creationid="rikiha" creationdate="20170815T160833Z">
-        <seg>とは言え、SVGのメリットを考えると、アイコンにはできる限りSVGを使用することをお勧めします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T144140Z" creationid="rikiha" creationdate="20170815T160833Z">
+        <seg>とはいえ、これまでのメリットの解説のとおり、できればすべてのアイコンの表示にSVGを使ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12608,7 +12609,7 @@ VoiceOverでは「×」かける、▶はなんと「メディアの再生マー
 
 日本語の場合は「(乗算)」はなくても分かりますね。
 
-(伊原) OK</note>
+(伊原) OK. メディアの再生マークはやり過ぎですね。</note>
       <tuv lang="EN-US">
         <seg>Since ► is read as “black right-pointing triangle” and &lt;g1&gt;×&lt;/g1&gt; as “times” (multiplication), the same &lt;g2&gt;aria-label&lt;/g2&gt; method could fix the labeling of your play and close buttons, among others.</seg>
       </tuv>
