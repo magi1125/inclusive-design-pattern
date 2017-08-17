@@ -3001,6 +3001,8 @@ wouldなので語尾を少しやわらかめに。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+Allのニュアンスを盛り込むべきか。</note>
       <tuv lang="EN-US">
         <seg>All interactive elements should have an accessible name so they can be interpreted and communicated in assistive technologies.</seg>
       </tuv>
@@ -11907,7 +11909,7 @@ SIMONは上で「サイモン」としていたのでここも訳すべきかと
     <tu>
       <note>(太田)
 急に何を言い出したのか。
-先の文の後にすぐコードサンプルが来るほうが自然ですし、この文は、この節全体の締めの言葉のように読めます。本来末尾にあるべきものが、編集上のミスで移動してしまったのではないでしょうか。特に問題なければ末尾に移動したいです。
+先の文の後にすぐコードサンプルが来るほうが自然ですし、この文は、この節全体の締めの言葉のように読めます。本来末尾にあるべきものが、編集上のミスでコードサンプルの上に移動してしまったのではないでしょうか。特に問題なければ末尾に移動したいです。
 結論めいた形になるように少し調整しました。
 </note>
       <tuv lang="EN-US">
