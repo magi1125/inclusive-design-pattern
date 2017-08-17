@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3568,12 +3568,15 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       <note>(太田)
 おおむね合っていますが分かりにくいですね。
 後半は大雑把に「何らかの理由でアイコンが表示されなかった場合」とかで良いのでは。
-調整してみました。</note>
+調整してみました。
+
+(岡本)
+分かり→わかり</note>
       <tuv lang="EN-US">
         <seg>As discussed, there are cognitive benefits of including “menu,” not to mention the &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; would remain intelligible even if one of the less reliable icon rendering techniques fails.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T055008Z" creationid="rikiha" creationdate="20170815T160732Z">
-        <seg>前述したとおり、ボタンに「メニュー」というテキストを含めることには認知面のメリットがあります。また、何らかの理由でアイコンが表示されなかった場合でも、&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;の分かりやすさが保たれます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170817T103031Z" creationid="rikiha" creationdate="20170815T160732Z">
+        <seg>前述したとおり、ボタンに「メニュー」というテキストを含めることには認知面のメリットがあります。また、何らかの理由でアイコンが表示されなかった場合でも、&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;のわかりやすさが保たれます。</seg>
       </tuv>
     </tu>
     <tu>
