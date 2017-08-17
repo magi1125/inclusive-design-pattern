@@ -3357,8 +3357,8 @@ hueは正確には色相ですが、まあ色で良いかなと。
       <tuv lang="EN-US">
         <seg>Artur Ampilogov &lt;g2&gt;&lt;g3&gt;has a workaround using background images&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;20&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T160957Z" creationid="rikiha" creationdate="20170815T160957Z">
-        <seg>これについてはアルトゥール・？？アンピロゴフ？？（Artur Ampilogov）が、背景画像を用いた対処方法を紹介しています。（脚注117）【コメント：人名のカナ表記に問題ないかご確認ください】</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T155652Z" creationid="rikiha" creationdate="20170815T160957Z">
+        <seg>これについてはアルトゥール・アンピロゴフ（Artur Ampilogov）が、背景画像を用いた対処方法を紹介しています（脚注117）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11368,11 +11368,12 @@ WCAGに従うことは、伝えるよりも良いのです。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) needless performance hit とは。こういうことかなと補足してみました。</note>
       <tuv lang="EN-US">
         <seg>One issue with the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; fallback is that the resource will almost certainly download, whether or not the browser supports SVG, affecting a needless performance hit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T160954Z" creationid="rikiha" creationdate="20170815T160954Z">
-        <seg>&lt;img/&gt;フォールバックの1つの問題は、ブラウザがSVGをサポートしているかどうかに関係なく、リソースはほぼ間違いなくダウンロードされるため、不要にパフォーマンスが低下してしまうことです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T160021Z" creationid="rikiha" creationdate="20170815T160954Z">
+        <seg>&lt;g1&gt;&lt;img/&gt;&lt;/g1&gt;フォールバックに1つ問題があるとすれば、ブラウザがSVGをサポートしているかどうかに関係なく、そのリソースはほぼ確実にダウンロードされるため、不要なリクエストによるパフォーマンス低下が起こることです。</seg>
       </tuv>
     </tu>
     <tu>
