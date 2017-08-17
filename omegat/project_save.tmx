@@ -2236,7 +2236,9 @@ font-size: 16px;
 (太田)
 &lt;/g3&gt; を追加。
 「別物に見える」はちょっといいすぎな気がしたので「異なる見え方になる」としてみました。
-アイコンが角丸処理されていることもあって、反転しても普通に成立しているように見えますが、訳注とか要りますかね?</note>
+アイコンが角丸処理されていることもあって、反転しても普通に成立しているように見えますが、訳注とか要りますかね?
+
+(伊原) 意図した表現とは違ってくるとは言っていても、それじゃダメとまでは言ってないので、このままでも良いかもですね。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Encapsulated in white, on the high contrast mode’s black background, the icon appears differently and seems separate from the text label of “menu.”&lt;/g3&gt;</seg>
       </tuv>
@@ -18333,7 +18335,9 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
 
 (太田)
 これも原文の問題ですが、「意図したもの」が何なのか良く分からないですね。黒背景に白線になってほしいということなのだとは思いますが。
-ひとまず「意図した表現」としてみました。</note>
+ひとまず「意図した表現」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>You can, of course, provide a white, rather than transparent, background for your icon, but on a black background this becomes three black stripes in a white box, which is a slightly different proposition.</seg>
       </tuv>
