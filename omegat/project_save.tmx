@@ -6626,11 +6626,12 @@ imagine と might で二重に推定している形ですが、むしろ何故�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 脚注表示の位置が違っていたので修正。</note>
       <tuv lang="EN-US">
         <seg>I wrote &lt;g1&gt;&lt;g2&gt;an article on the UX of &lt;g3&gt;aria-label&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;18&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; for Dev.Opera.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T160905Z" creationid="rikiha" creationdate="20170815T160839Z">
-        <seg>Dev.Operaに私が書いたaria-label（脚注115）のUXに関する記事があるので参考にしてください。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T144411Z" creationid="rikiha" creationdate="20170815T160839Z">
+        <seg>Dev.Operaに私が書いた&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-label&lt;/g3&gt;のUXに関する記事&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注115）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;があるので参考にしてください。</seg>
       </tuv>
     </tu>
     <tu>
