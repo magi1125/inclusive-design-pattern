@@ -8010,7 +8010,10 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田) 
+&lt;g1&gt;viewBox&lt;/g1&gt; definition は単に「viewBoxで定義されている」でわかると思います。</note>
       <tuv lang="EN-US">
         <seg>In the CSS, we change the icon’s default 20×20px size (set in the referenced SVG’s &lt;g1&gt;viewBox&lt;/g1&gt; definition) to fit and scale along with the “menu” text:</seg>
       </tuv>
