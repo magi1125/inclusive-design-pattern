@@ -937,11 +937,12 @@ forego は「先に行く」のような感じですが、他動詞として使�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 原文の構造に倣いました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;In the example above, we imagine that JavaScript has run, meaning it’s safe to hide the menu and reveal the button (hence the &lt;g2&gt;hidden&lt;/g2&gt; attribute that JavaScript has added to the menu &lt;g3&gt;&lt;ul&gt;&lt;/g3&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T161133Z" creationid="rikiha" creationdate="20170815T161133Z">
-        <seg>• ？？上の例ではJavaScriptが実行されたことを想定しています。つまり、JavaScriptによってメニューの&lt;ul&gt;にhidden属性が追加されたため、メニューは安全に非表示になり、ボタンだけが表示されます。？？【コメント：この解釈で問題ないでしょうか。原文「In the example above, we imagine that JavaScript has run, meaning it’s safe to hide the menu and reveal the button (hence the hidden attribute that JavaScript has added to the menu &lt;ul&gt;).」】</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T173037Z" creationid="rikiha" creationdate="20170815T161133Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;上の例ではJavaScriptが実行されたと想定してください。メニューは無事に非表示となり、ボタンは表示されています（JavaScriptによってメニューの&lt;g3&gt;&lt;ul&gt;&lt;/g3&gt;に&lt;g2&gt;hidden属性&lt;/g2&gt;が追加されたからです）。</seg>
       </tuv>
     </tu>
     <tu>
