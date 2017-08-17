@@ -14851,6 +14851,7 @@ sound semantic structureとは。
       <note>(太田)
 急にメディアプレイヤーが出てくる感があったので「他にも」と補ってみました。
 「再生ボタンや停止ボタン」と書かれるとふたつのボタンに読めますが、実際はひとつの「再生・停止ボタン」でしょうね。再生・停止ボタンにはラベルがつかないスタイルが一般的なので、たいていaria-labelに頼ることになります。
+「アイコンコントロール」がわかりにくい気がしますがどうしたものか。
 </note>
       <tuv lang="EN-US">
         <seg>The techniques expounded here are applicable to any kind of iconic control, such as a play or stop button in a media player.</seg>
