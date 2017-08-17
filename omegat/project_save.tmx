@@ -2218,7 +2218,9 @@ font-size: 16px;
     <tu>
       <note>(太田) 
 読点を追加。
-&lt;/g3&gt; が抜けていて大変なことになっていたので補った。</note>
+&lt;/g3&gt; が抜けていて大変なことになっていたので補った。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;By drawing a perimeter line around the icon and text of the control it appears as a button.&lt;/g3&gt;</seg>
       </tuv>
@@ -4184,7 +4186,9 @@ composeは作成でいいのか。あとで検討。
 
 (太田)
 スクリーンリーダーだと余裕で読めたりすることがある、という含みを持たせているのだと思います。ですので「視覚的」は残したいです。
-「視覚的にはまったく見えなくなります」くらいでしょうか。</note>
+「視覚的にはまったく見えなくなります」くらいでしょうか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>But without the additional text, the button has no visual presence at all.</seg>
       </tuv>
@@ -4370,7 +4374,9 @@ contentsとOur historyは訳す感じですかね。だとするとソースコ�
 
 (太田)
 ベテランと言われると使用歴が長いというイメージがあります。原文はveteranとは言っておらずwell-versed で、精通している、熟練しているという意味であって長さの意味はないはずです。
-「モバイルインターフェイスに精通したユーザー」としてみました。</note>
+「モバイルインターフェイスに精通したユーザー」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>By having the icon and the “menu” text present, we accelerate the comprehension of well-versed mobile interface users, without alienating relative newcomers: a win for usability and a win for inclusivity.</seg>
       </tuv>
@@ -6292,7 +6298,9 @@ https://github.com/rikiha/inclusive-design-pattern/commit/b3de996369b41d914699d3
 (太田) 「はじめに」のハイコントラストモードの記述というのは、
 「また、前景と背景の見分けがつきにくいユーザーは、Windowsのハイコントラストモード（脚注1）をオンにするかもしれません。この場合も、条件によって背景画像が表示されなくなることがあります（脚注2）。」
 というだけなので、忘れている人が多いかもしれません。
-意訳になりますが「少し触れましたが」くらいのほうがいいかも。</note>
+意訳になりますが「少し触れましたが」くらいのほうがいいかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>However, as you may recall from the &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; example in the introduction, background images are eliminated when users switch into &lt;g3&gt;&lt;g4&gt;Windows’ high contrast mode&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;7&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
@@ -6895,7 +6903,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     <tu>
       <note>(伊原) 問題を回避、とまではいかないかなと。最低限担保できる的なことと思いました。
 
-(太田) 「許しがたい状態」要検討。原文 deal breaker。「ぶち壊し」とかでもいいかも。</note>
+(太田) 「許しがたい状態」要検討。原文 deal breaker。「ぶち壊し」とかでもいいかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>If we provide the “menu” text (which will have its color inverted by high contrast mode to still be readable against an inverted background color) this isn’t a deal breaker.</seg>
       </tuv>
@@ -7082,7 +7092,10 @@ actionableは「実用的でない」のではなく、実行できない、動�
 
 (伊原) 意味としては正しいのですが「前景画像」という表現が一般に理解されやすいかどうか、ちょっと検討したいところです。
 
-(太田) 「フツーの画像」?</note>
+(太田) 「フツーの画像」?
+
+(伊原) 確かに会話では「フツーに画像で」とか言いそうですねw
+見出しはこのままで、直後の段落で「img要素によって」とか補えばいいのかも。</note>
       <tuv lang="EN-US">
         <seg>Image</seg>
       </tuv>
@@ -9792,7 +9805,9 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <note>(伊原) プロコンなので、メリットデメリットというより賛否両論かなと。
 
 (太田)
-日本語としてやや違和感が。「是非」とするのが自然かもしれません。</note>
+日本語としてやや違和感が。「是非」とするのが自然かもしれません。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Let’s look at some of the pros and cons for each.</seg>
       </tuv>
@@ -10473,7 +10488,8 @@ a handful ofは片手でつかめる程度、の意味ですが、前にメニ�
 
 (太田) not all なので、「全てがインクルーシブというわけではない」というニュアンスであり、中にはインクルーシブなものもあるというニュアンスにする必要がありそうです。
 調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Not all of these options are as robust and inclusive as you might suppose.</seg>
       </tuv>
@@ -10946,7 +10962,9 @@ the URLは「このページのURL」としてみました。
       <note>(伊原) viabilityをどう訳すか。実現性的な感じだろうか。使い所が増えた、とも言えそうな。いったんそのまま。
 
 (太田) Now は訳出したほうがいいかも。
-viabilityは「使いやすさ」みたいな砕けた訳でもいいかもしれないですね。いったんそのままで。</note>
+viabilityは「使いやすさ」みたいな砕けた訳でもいいかもしれないですね。いったんそのままで。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Now that background images can be scaled using the &lt;g1&gt;background-size&lt;/g1&gt; property, their viability in responsive design has improved.</seg>
       </tuv>
@@ -11850,7 +11868,9 @@ Good!</note>
     <tu>
       <note>(伊原) 「方法」を追加しました。
 
-(太田) そのまま「アイコンをレンダリングする」というのもありかも。</note>
+(太田) そのまま「アイコンをレンダリングする」というのもありかも。
+
+(伊原) renderingがけっこう出てくるので、全体見て検討ですかね。</note>
       <tuv lang="EN-US">
         <seg>Rendering The Icon</seg>
       </tuv>
@@ -18507,8 +18527,7 @@ setupをどう訳すか、どうconfigurationと訳し分けるか。設定と�
 
 (太田)
 なかなかひどい文で意味がとりにくいですね。
-spoiled for choice は選択肢があまりに豊富すぎて甘やかされている (そして選びきれない) というイメージのようです。
-</note>
+spoiled for choice は選択肢があまりに豊富すぎて甘やかされている (そして選びきれない) というイメージのようです。</note>
       <tuv lang="EN-US">
         <seg>You’d be forgiven for thinking you were spoiled for choice when it comes to rendering the icon: image tag; background image; Unicode character; icon font character; SVG — take your pick!</seg>
       </tuv>
