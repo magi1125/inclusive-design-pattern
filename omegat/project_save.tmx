@@ -1256,11 +1256,12 @@ should be なので「なければならない」「必要がある」は強す�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ほぼOK。微調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The menu is placed directly &lt;g2&gt;after&lt;/g2&gt; the &lt;g3&gt;&lt;button&gt;&lt;/g3&gt; in the source order, meaning the first menu item will be the next focusable element after the menu is opened.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T161142Z" creationid="rikiha" creationdate="20170815T161142Z">
-        <seg>• ソースの順序では、メニューは&lt;button&gt;の直後に配置されます。したがって、メニューが開いた後、次にフォーカスできる要素は最初のメニュー項目になります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T174500Z" creationid="rikiha" creationdate="20170815T161142Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ソースの順序では、メニューは&lt;button&gt;の直後に配置されます。したがって、メニューを開いた後、次にフォーカスできる要素はメニューの最初の項目になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6844,8 +6845,8 @@ making sure is paramount という構造。
       <tuv lang="EN-US">
         <seg>If the button were outside, users would arrive at an empty landmark with no way to populate it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170817T174021Z" creationid="rikiha" creationdate="20170815T161139Z">
-        <seg>ボタンがナビゲーションランドマークの外にあると、ユーザーはメニューを表示する手立てのない空のランドマークに到着することになるでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T174243Z" creationid="rikiha" creationdate="20170815T161139Z">
+        <seg>もしボタンがナビゲーションランドマークの外にあると、ユーザーはメニューを表示する手立てのない空のランドマークに到着することになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
