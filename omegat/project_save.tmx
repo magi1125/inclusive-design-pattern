@@ -15202,7 +15202,8 @@ convention は他のところでは「慣習」としていたのでここもそ
 (太田)
 NVDA2017.2jaは何も読まず (一瞬間は空く)。詳細読みでも何も読みません。
 VoiceOverは! なんと!! しれっと「トリグラムフォーヘブン」などと読みました!
-訳注ですね。</note>
+なお、「☰MENU」のように連続している場合は☰部分は読みません。
+訳注だと思いますがこれは大変ですね。</note>
       <tuv lang="EN-US">
         <seg>Therefore, unless intervention is taken, “Trigram for heaven” could be announced in some screen readers.</seg>
       </tuv>
