@@ -11356,7 +11356,9 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 多少調整。なぜそうなるのか訳注が必要ぽい（OperaMiniのことを知っている人はあんまりいないと思われるため）。
+      <note>※要訳注
+
+(伊原) 多少調整。なぜそうなるのか訳注が必要ぽい（OperaMiniのことを知っている人はあんまりいないと思われるため）。
 
 なお、ここからの流れがなんか不自然な感じがしています。
 
@@ -11364,7 +11366,10 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
 ・システムフォントでフォールバックするが、アイコンフォントは出ないかも
 ・Opera Miniサポートはハイパフォーマンスの良い基準だ
 ・OSがUnicodeのPUAを使うことがある
-・代わりに猫の顔が出るかもしれない</note>
+・代わりに猫の顔が出るかもしれない
+
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Opera Mini doesn’t load web fonts as a matter of course.</seg>
       </tuv>
