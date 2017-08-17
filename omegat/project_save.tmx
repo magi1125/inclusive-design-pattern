@@ -5695,8 +5695,8 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       <tuv lang="EN-US">
         <seg>For that, we can harness our trusty &lt;g2&gt;.visibility-hidden&lt;/g2&gt; class (set out in “A Blog Post”).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T160753Z" creationid="rikiha" creationdate="20170815T160753Z">
-        <seg>使うのは、頼りになる.visually-hiddenクラス（「ブログ記事」を参照）です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T080434Z" creationid="rikiha" creationdate="20170815T160753Z">
+        <seg>使うのは、頼りになる&lt;g2&gt;.visually-hidden&lt;/g2&gt;クラス（「ブログ記事」を参照）です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15999,6 +15999,8 @@ esotericは特殊というより、他で使われていないというニュア
     </tu>
     <tu>
       <note>(太田)
+微調整。
+
 </note>
       <tuv lang="EN-US">
         <seg>This method uses a CSS hack on a &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; to hide the “menu” text label without it becoming unavailable to screen readers.</seg>
