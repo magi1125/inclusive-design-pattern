@@ -10143,7 +10143,9 @@ manageは管理で良いような。
 とりあえず文末「なのです」としてみました。
 
 (岡本)
-笑</note>
+笑
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Many lessons in this book are transferable between patterns and to new patterns in this way.</seg>
       </tuv>
@@ -13917,7 +13919,9 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
     <tu>
       <note>(太田)
 spanを小文字に。
-Visually Hidden はもちろん .visually-hidden に対応した表現ですが、どうしたものか。「visually-hiddenのspan」とするのもあり?</note>
+Visually Hidden はもちろん .visually-hidden に対応した表現ですが、どうしたものか。「visually-hiddenのspan」とするのもあり?
+
+(伊原) visibility: hidden と取り違えそうなので、非表示の、がいいと思いました。</note>
       <tuv lang="EN-US">
         <seg>The Visually Hidden &lt;g1&gt;&lt;span&gt;&lt;/g1&gt;</seg>
       </tuv>
