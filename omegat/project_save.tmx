@@ -15998,11 +15998,13 @@ esotericは特殊というより、他で使われていないというニュア
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+</note>
       <tuv lang="EN-US">
         <seg>This method uses a CSS hack on a &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; to hide the “menu” text label without it becoming unavailable to screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T080250Z" creationid="rikiha" creationdate="20170815T160750Z">
-        <seg>この方法では&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;にCSSハックを用いて、「メニュー」というテキストラベルを、スクリーンリーダーには拾われるようしつつ、非表示にします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T080407Z" creationid="rikiha" creationdate="20170815T160750Z">
+        <seg>この方法では&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;にCSSハックを用いて、「メニュー」というテキストラベルを隠しつつ、スクリーンリーダーには拾われるようにします。</seg>
       </tuv>
     </tu>
     <tu>
