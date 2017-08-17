@@ -7528,13 +7528,13 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
 
 (太田) 「しかし」で受けるのは少し違和感があります。表示されてしまうから空白ができてしまうと言っているので。
 「デザインに」がちょっと謎。空白ができてしまってデザインが崩れるという話だと思います。
-
+意訳しつつ調整してみましたがどうでしょうか。
 </note>
       <tuv lang="EN-US">
         <seg>In fact, since &lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt; elements are not themselves rendered, there would be a blank gap in your design.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T034040Z" creationid="rikiha" creationdate="20170812T161651Z">
-        <seg>実際には、&lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt;要素自体はレンダリングされないため、そこには謎の空白ができて、デザインが崩れてしまうことになるでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T034051Z" creationid="rikiha" creationdate="20170812T161651Z">
+        <seg>実際には、&lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt;要素自体はレンダリングされないため、そこに謎の空白ができて、デザインが崩れてしまうことになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
