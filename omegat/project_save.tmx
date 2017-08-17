@@ -11369,11 +11369,12 @@ WCAGに従うことは、伝えるよりも良いのです。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) オーバーライド➞上書き</note>
       <tuv lang="EN-US">
         <seg>One of the advantages of &lt;g1&gt;aria-label&lt;/g1&gt; is that is overrides the text node of the element, if present.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T095259Z" creationid="rikiha" creationdate="20170815T160820Z">
-        <seg>&lt;g1&gt;aria-label&lt;/g1&gt;のメリットの1つは、要素にテキストノードがある場合はオーバーライドされるということです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T142824Z" creationid="rikiha" creationdate="20170815T160820Z">
+        <seg>&lt;g1&gt;aria-label&lt;/g1&gt;のメリットの1つは、要素にテキストノードがある場合はそれを上書きするということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17415,6 +17416,7 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We can attach an &lt;g9&gt;aria-label&lt;/g9&gt; directly to the &lt;g10&gt;&lt;button&gt;&lt;/g10&gt; element:</seg>
       </tuv>
