@@ -12499,6 +12499,12 @@ U+2630 TRIGRAM FOR HEAVEN は普通に使っていいのかどうか。特に電
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+NVDA2017.2jaでは、▶は「さんかくけい」と読みます。
+「×」はそのままでは何も読みませんが、詳細を読ませると「かける」と読みます。
+
+
+</note>
       <tuv lang="EN-US">
         <seg>Since ► is read as “black right-pointing triangle” and &lt;g1&gt;×&lt;/g1&gt; as “times” (multiplication), the same &lt;g2&gt;aria-label&lt;/g2&gt; method could fix the labeling of your play and close buttons, among others.</seg>
       </tuv>
