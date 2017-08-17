@@ -12569,11 +12569,12 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 訳は良いとして、古いブラウザでaria-labelが有効なのかどうか。</note>
       <tuv lang="EN-US">
         <seg>Since the label of “menu” is provided via &lt;g4&gt;aria-label&lt;/g4&gt;, the &lt;g5&gt;alt&lt;/g5&gt; is not needed here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T160942Z" creationid="rikiha" creationdate="20170815T160942Z">
-        <seg>「メニュー」というラベルがaria-labelで定義されているため、altは不要です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T152532Z" creationid="rikiha" creationdate="20170815T160942Z">
+        <seg>aria-labelで「メニュー」というラベルが提供されているため、altは不要です。</seg>
       </tuv>
     </tu>
     <tu>
