@@ -6693,15 +6693,14 @@ a element ではなく elements であることに意味があるように思い
 (太田)
 外部CSSファイルが読めない時点で多少の空白などどうでも良い状態になっているような気がしなくもない。
 ちなみにstyle要素で指定すると当然ながら普通に消せるので、外部と補うのは正しいように思います。
-would be なので全体を少し弱めに調整しました。
 「見える」といいつつレンダリングされるSVGにはsymbolしか入っていないわけですから、「見える (見えない)」となってしまいます。ここはやはり「表示」のほうが良いかと思いました。
 
 </note>
       <tuv lang="EN-US">
         <seg>If it was hidden using CSS, the SVG would be visible to users whose CSS was not loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T033646Z" creationid="rikiha" creationdate="20170812T161648Z">
-        <seg>外部CSSを使って非表示にすると、CSSファイルが読み込めなかった場合に、このSVGが表示されることになるでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T034029Z" creationid="rikiha" creationdate="20170812T161648Z">
+        <seg>外部CSSを使って非表示にすると、CSSファイルが読み込めなかった場合に、このSVGが表示されることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7528,15 +7527,14 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       <note>(伊原) 上の文を受けるように調整。
 
 (太田) 「しかし」で受けるのは少し違和感があります。表示されてしまうから空白ができてしまうと言っているので。
-
 「デザインに」がちょっと謎。空白ができてしまってデザインが崩れるという話だと思います。
 
 </note>
       <tuv lang="EN-US">
         <seg>In fact, since &lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt; elements are not themselves rendered, there would be a blank gap in your design.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T033951Z" creationid="rikiha" creationdate="20170812T161651Z">
-        <seg>実際には、&lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt;要素自体はレンダリングされないため、そこに謎の空白ができてしまい、デザインが崩れてしまうことがあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T034016Z" creationid="rikiha" creationdate="20170812T161651Z">
+        <seg>実際には、&lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt;要素自体はレンダリングされないため、そこに謎の空白ができて、デザインが崩れてしまうことになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
