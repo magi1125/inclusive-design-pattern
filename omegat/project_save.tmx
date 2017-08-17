@@ -2350,7 +2350,9 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
 (伊原) こちらがキャプションです。いわゆってないので調整。
 
 (太田)
-豆腐がフォールバックなのではなく、フォールバックになっていることを示しているということだと思いますので、少し調整しました。</note>
+豆腐がフォールバックなのではなく、フォールバックになっていることを示しているということだと思いますので、少し調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The familiar rectangular box indicates a glyph that is not supported and constitutes a fallback.&lt;/g3&gt;</seg>
       </tuv>
@@ -3709,12 +3711,14 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
 (太田)
 ここで念頭においているのは主にダウンロードをブロックされる話だと思いますので、「表示を」を補うのは違和感があります。ブロックされるで良いのではないかと思いますが、分かりにくければ「読み込みに失敗する」のような表現でも良いかと思います。なおchapter-13には「JavaScriptがブロックされる」というような表現があります。
 
-普通はアイコンフォントもWebフォントなので、「Webフォント同様」と言われるとおかしいです。As anyを「他のあらゆる」と訳出しました。</note>
+普通はアイコンフォントもWebフォントなので、「Webフォント同様」と言われるとおかしいです。As anyを「他のあらゆる」と訳出しました。
+
+(伊原) 読み込みに失敗する、に置き換えました。OKと思います。</note>
       <tuv lang="EN-US">
         <seg>As with any web font, an icon font is a resource which may be blocked.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170816T033553Z" creationid="rikiha" creationdate="20170812T161515Z">
-        <seg>他のあらゆるWebフォントと同様、アイコンフォントもブロックされる可能性があるリソースです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T125712Z" creationid="rikiha" creationdate="20170812T161515Z">
+        <seg>他のあらゆるWebフォントと同様、アイコンフォントも読み込みに失敗する可能性があるリソースです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14659,7 +14663,10 @@ The problem comes のニュアンスが失われているような (代替に置
 
 ちなみに「グリフ未定義のボックス」は日本では一般に「豆腐」と呼ばれるので、そのことを書いても良いのかもしれません。訳注か、あるいは「ボックス」を「豆腐」としてしまうか。
 
-(岡本)　訳注にて豆腐を扱う感じで。</note>
+(岡本)　訳注にて豆腐を扱う感じで。
+
+(伊原) 訳注でこれを入れるとkotarokが喜ぶと思います。
+https://www.google.com/get/noto/</note>
       <tuv lang="EN-US">
         <seg>The problem comes when the user-defined font does not support the characters used for the icons, and leaves generic “Glyph not defined” boxes in their place.</seg>
       </tuv>
