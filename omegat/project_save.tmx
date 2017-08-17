@@ -3924,11 +3924,12 @@ the previous implementation は div で実装されたボタン、the inclusive 
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 訳としては合っているが前の段落と繋がらない。なんらか接続詞を補う？</note>
       <tuv lang="EN-US">
         <seg>Because the menu is hidden with &lt;g4&gt;hidden&lt;/g4&gt;, its contents are not focusable when it is closed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T161145Z" creationid="rikiha" creationdate="20170815T161145Z">
-        <seg>メニューはhiddenで隠されているため、メニューが閉じているときはメニュー項目にはフォーカスできません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T175145Z" creationid="rikiha" creationdate="20170815T161145Z">
+        <seg>メニューは&lt;g4&gt;hidden&lt;/g4&gt;で隠されているため、メニューが閉じているときはメニュー項目にはフォーカスできません。</seg>
       </tuv>
     </tu>
     <tu>
