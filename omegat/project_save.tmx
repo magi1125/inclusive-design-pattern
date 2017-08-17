@@ -6692,6 +6692,7 @@ a element ではなく elements であることに意味があるように思い
 
 (太田)
 外部CSSファイルが読めない時点で多少の空白などどうでも良い状態になっているような気がしなくもない。
+ちなみにstyle要素で指定すると当然ながら普通に消せるので、外部と補うのは正しいように思います。
 </note>
       <tuv lang="EN-US">
         <seg>If it was hidden using CSS, the SVG would be visible to users whose CSS was not loaded.</seg>
