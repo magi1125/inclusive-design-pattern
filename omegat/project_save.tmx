@@ -10877,11 +10877,12 @@ resulting inも落ちているような。「結果として」くらいでし�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ちょっと調整。empty or null valueは普通に空でいいのでは。</note>
       <tuv lang="EN-US">
         <seg>Note the empty or null value of the &lt;g3&gt;alt&lt;/g3&gt; attribute on the fallback image: this tells screen readers not to acknowledge the image.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T160939Z" creationid="rikiha" creationdate="20170815T160939Z">
-        <seg>フォールバック画像のalt属性の値が空（null値）であることに注目してください。これは、スクリーンリーダーで画像が認識されないようにするためです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T152414Z" creationid="rikiha" creationdate="20170815T160939Z">
+        <seg>フォールバック画像のalt属性の値が空であることに注目してください。これはスクリーンリーダーが画像を認識しないようにするためです。</seg>
       </tuv>
     </tu>
     <tu>
