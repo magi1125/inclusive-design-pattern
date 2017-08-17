@@ -8014,8 +8014,8 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       <tuv lang="EN-US">
         <seg>In the CSS, we change the icon’s default 20×20px size (set in the referenced SVG’s &lt;g1&gt;viewBox&lt;/g1&gt; definition) to fit and scale along with the “menu” text:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T155901Z" creationid="rikiha" creationdate="20170812T161704Z">
-        <seg>CSSでは、アイコンのデフォルトのサイズである（参照先のSVGのviewBox定義で設定されている）20 × 20pxを「メニュー」というテキストに合わせて拡大縮小するように変更します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T034250Z" creationid="rikiha" creationdate="20170812T161704Z">
+        <seg>CSSでは、アイコンのデフォルトのサイズである（参照先のSVGの&lt;g1&gt;viewBox&lt;/g1&gt;で定義されている）20 × 20pxを「メニュー」というテキストに合わせて拡大縮小するように変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13412,8 +13412,8 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;symbol&gt;&lt;/g1&gt; can be used within our menu button by referencing its &lt;g2&gt;id&lt;/g2&gt; with a &lt;g3&gt;&lt;use&gt;&lt;/g3&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T034144Z" creationid="rikiha" creationdate="20170812T161655Z">
-        <seg>メニューボタン内でこの&lt;g1&gt;&lt;symbol&gt;&lt;/g1&gt;を使用するには、&lt;g3&gt;&lt;use&gt;&lt;/g3&gt;要素で&lt;g2&gt;id&lt;/g2&gt;を参照します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T034227Z" creationid="rikiha" creationdate="20170812T161655Z">
+        <seg>メニューボタン内でこの&lt;g1&gt;&lt;symbol&gt;&lt;/g1&gt;を使用するには、&lt;g3&gt;&lt;use&gt;&lt;/g3&gt;要素でその&lt;g2&gt;id&lt;/g2&gt;を参照します。</seg>
       </tuv>
     </tu>
     <tu>
