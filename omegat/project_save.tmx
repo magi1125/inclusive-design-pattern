@@ -7527,9 +7527,7 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       <note>(伊原) 上の文を受けるように調整。
 
 (太田) 「しかし」で受けるのは少し違和感があります。表示されてしまうから空白ができてしまうと言っているので。
-「デザインに」がちょっと謎。空白ができてしまってデザインが崩れるという話だと思います。
-意訳しつつ調整してみましたがどうでしょうか。
-</note>
+「デザインに」がちょっと謎。空白ができてしまってデザインが崩れるという話だと思います。意訳しつつ調整してみましたがどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>In fact, since &lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt; elements are not themselves rendered, there would be a blank gap in your design.</seg>
       </tuv>
@@ -13414,8 +13412,8 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;symbol&gt;&lt;/g1&gt; can be used within our menu button by referencing its &lt;g2&gt;id&lt;/g2&gt; with a &lt;g3&gt;&lt;use&gt;&lt;/g3&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T155206Z" creationid="rikiha" creationdate="20170812T161655Z">
-        <seg>メニューボタン内でこの&lt;symbol&gt;を使用するには、&lt;use&gt;要素でidを参照します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T034144Z" creationid="rikiha" creationdate="20170812T161655Z">
+        <seg>メニューボタン内でこの&lt;g1&gt;&lt;symbol&gt;&lt;/g1&gt;を使用するには、&lt;g3&gt;&lt;use&gt;&lt;/g3&gt;要素で&lt;g2&gt;id&lt;/g2&gt;を参照します。</seg>
       </tuv>
     </tu>
     <tu>
