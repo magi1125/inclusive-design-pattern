@@ -13921,7 +13921,8 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
 spanを小文字に。
 Visually Hidden はもちろん .visually-hidden に対応した表現ですが、どうしたものか。「visually-hiddenのspan」とするのもあり?
 
-(伊原) visibility: hidden と取り違えそうなので、非表示の、がいいと思いました。</note>
+(伊原) visibility: hidden と取り違えそうなので、非表示の、がいいと思いました。
+※見出しにタグが来てるので電子版で気をつけるやつ。</note>
       <tuv lang="EN-US">
         <seg>The Visually Hidden &lt;g1&gt;&lt;span&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -16144,7 +16145,7 @@ esotericは特殊というより、他で使われていないというニュア
       <note>(太田)
 微調整。
 
-</note>
+(伊原) CSSハックというと、スターハックとかアンダースコアハックとかそれ系を連想しますが、ママでよいかどうか。</note>
       <tuv lang="EN-US">
         <seg>This method uses a CSS hack on a &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; to hide the “menu” text label without it becoming unavailable to screen readers.</seg>
       </tuv>
