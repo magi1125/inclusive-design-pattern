@@ -2230,7 +2230,8 @@ font-size: 16px;
 
 (太田)
 &lt;/g3&gt; を追加。
-「別物に見える」はちょっといいすぎな気がしたので「異なる見え方になる」としてみました。</note>
+「別物に見える」はちょっといいすぎな気がしたので「異なる見え方になる」としてみました。
+アイコンが角丸処理されていることもあって、反転しても普通に成立しているように見えますが、訳注とか要りますかね?</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Encapsulated in white, on the high contrast mode’s black background, the icon appears differently and seems separate from the text label of “menu.”&lt;/g3&gt;</seg>
       </tuv>
