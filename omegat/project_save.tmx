@@ -6563,7 +6563,9 @@ remediation は治療法?
 (太田)
 imagine と might で二重に推定している形ですが、むしろ何故こんなに弱く言っているのかが謎で、あるいはヘイドンさん流の皮肉なのかもしれません。そうだとすると、あえてめちゃくちゃ弱く訳したほうがいいのかもしれず、たとえば
 「想像してみるに、これはひょっとすると認知に悪影響を与える可能性があるのではないでしょうか。」
-とか。</note>
+とか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>I imagine this might have a negative impact on cognition.</seg>
       </tuv>
@@ -8009,7 +8011,9 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       <note>(伊原) bahaviorを訳出。「パフォーマンスやフォントスタッキングのふるまい」だと、ふるまいがパフォーマンスに掛かってる感じもあったので語順入れ替え（しかし、「フォントスタックのふるまい」で意味がわかるのかという話は別途あり）。
 ダッシュを活かした形に調整。
 
-(太田) そのほうが改善されます→こちらのほうが優れています</note>
+(太田) そのほうが改善されます→こちらのほうが優れています
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In terms of performance and font stacking behavior, this is an improvement — and there is indeed an approximate Unicode symbol: &lt;g1&gt;&lt;g2&gt;U+2630&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;11&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
@@ -14287,7 +14291,9 @@ https://ja.wikipedia.org/wiki/%E5%85%AB%E5%8D%A6
 
 なお、本家のPDFの説明では TRIGRAM FOR HEAVEN と大文字で書かれています (どの文字の名前も大文字ですが)。
 
-http://www.unicode.org/charts/PDF/U2600.pdf</note>
+http://www.unicode.org/charts/PDF/U2600.pdf
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The first is that not all devices support a Unicode set extensive enough to include this character, the “trigram for heaven.” The second is that, unlike an icon font which is mapped to Unicode points in the &lt;g1&gt;&lt;g2&gt;private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, this character is more likely to be interpreted by assistive technology.</seg>
       </tuv>
@@ -15280,7 +15286,9 @@ convention は他のところでは「慣習」としていたのでここもそ
 NVDA2017.2jaは何も読まず (一瞬間は空く)。詳細読みでも何も読みません。
 VoiceOverは! なんと!! しれっと「トリグラムフォーヘブン」などと読みました!
 なお、「☰MENU」のように連続している場合は☰部分は読みません。基本は読まない感じで、リンクの中に単体で存在する場合に仕方なく文字の名前を読んでいるのかもしれません。
-訳注だと思いますがこれは大変ですね。</note>
+訳注だと思いますがこれは大変ですね。
+
+(伊原) OK. ヘイドンさんの主張が正しいということですね……。</note>
       <tuv lang="EN-US">
         <seg>Therefore, unless intervention is taken, “Trigram for heaven” could be announced in some screen readers.</seg>
       </tuv>
@@ -16621,7 +16629,9 @@ SVGを使ってアイコンを表す→アイコンにSVGを使う、としま�
 
 ひとまず調整してみました。訳としてはこうだと思いますが、訳注かと。
 
-lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろうか? と思って試したところ、中国語でも「トリグラムフォーヘブン」でした。ちなみにzh-CNだと▶は「サイション」的な読み方に変わるので、文字に中国語的な読みが定義されている場合にはそれを読むのだと思います。</note>
+lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろうか? と思って試したところ、中国語でも「トリグラムフォーヘブン」でした。ちなみにzh-CNだと▶は「サイション」的な読み方に変わるので、文字に中国語的な読みが定義されている場合にはそれを読むのだと思います。
+
+(伊原) OK. 勉強になります。</note>
       <tuv lang="EN-US">
         <seg>To either English or Chinese screen reader users, this would be rather confusing.</seg>
       </tuv>
@@ -18583,6 +18593,8 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
 
 (太田)
 強調箇所をどうするか。do use の動詞を強調するdo が強調されているのは日本語で表現するのが難しいですね。「ホントに使ってしまう」のようなニュアンスだと思いますので、「本当に」を補ってみましたが……。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Zach Leatherman of Filament Group writes that sometimes &lt;g1&gt;&lt;g2&gt;operating systems &lt;g3&gt;do&lt;/g3&gt; use Unicode’s private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, but for their own purposes.</seg>
