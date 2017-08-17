@@ -8013,12 +8013,15 @@ http://coliss.com/articles/build-websites/operation/css/web-safe-css-font-stacks
       <note>(伊原) 微調整。
 
 (太田) 
-&lt;g1&gt;viewBox&lt;/g1&gt; definition は単に「viewBoxで定義されている」でわかると思います。</note>
+&lt;g1&gt;viewBox&lt;/g1&gt; definition は単に「viewBoxで定義されている」でわかると思います。
+
+button svg とはまた乱暴なセレクタですが、まあいいか……。
+</note>
       <tuv lang="EN-US">
         <seg>In the CSS, we change the icon’s default 20×20px size (set in the referenced SVG’s &lt;g1&gt;viewBox&lt;/g1&gt; definition) to fit and scale along with the “menu” text:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T034250Z" creationid="rikiha" creationdate="20170812T161704Z">
-        <seg>CSSでは、アイコンのデフォルトのサイズである（参照先のSVGの&lt;g1&gt;viewBox&lt;/g1&gt;で定義されている）20 × 20pxを「メニュー」というテキストに合わせて拡大縮小するように変更します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170817T034507Z" creationid="rikiha" creationdate="20170812T161704Z">
+        <seg>CSSでは、アイコンのデフォルトのサイズである（参照先SVGの&lt;g1&gt;viewBox&lt;/g1&gt;で定義されている）20 × 20pxを「メニュー」というテキストに合わせて拡大縮小するように変更します。</seg>
       </tuv>
     </tu>
     <tu>
