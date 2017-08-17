@@ -4034,12 +4034,15 @@ heading level oneは「見出しレベル1」ですね。
       <note>(伊原) 多少調整。本文とそこまで関係なさそうなので「ちなみに」と補足。
 
 (太田)
-litmus test はそのままリトマス試験ですが、日本語としては「試金石」とするほうが一般的でしょうか。</note>
+litmus test はそのままリトマス試験ですが、日本語としては「試金石」とするほうが一般的でしょうか。
+
+(伊原) 試金石、ちょっと馴染みが薄いです。物差しではどうでしょうか。
+http://thesaurus.weblio.jp/content/試金石</note>
       <tuv lang="EN-US">
         <seg>Bruce Lawson of Opera has a great article on “&lt;g1&gt;&lt;g2&gt;Making websites that work well on Opera Mini&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;9&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” Successful Opera Mini support is a good litmus test of high performance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170816T035951Z" creationid="rikiha" creationdate="20170812T161525Z">
-        <seg>ちなみに、Operaのブルース・ローソン（Bruce Lawson）による&lt;g1&gt;&lt;g2&gt;「Making websites that work well on Opera Mini」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注106）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;という素晴らしい記事があります。WebサイトがOpera Miniをサポートできていることは、ハイパフォーマンスであることを示す良い試金石となります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170817T125939Z" creationid="rikiha" creationdate="20170812T161525Z">
+        <seg>ちなみに、Operaのブルース・ローソン（Bruce Lawson）による&lt;g1&gt;&lt;g2&gt;「Making websites that work well on Opera Mini」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注106）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;という素晴らしい記事があります。WebサイトがOpera Miniをサポートできていることは、ハイパフォーマンスであることを示す良い物差しとなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16059,6 +16062,8 @@ http://pothos.main.jp/setuzokusi.htm</note>
 (太田)
 esotericは特殊というより、他で使われていないというニュアンスだと思います。独自の、としてみました。
 全体少し調整。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>This is workable where there are fallback system fonts defined, but icon fonts tend to use esoteric Unicode points which have no equivalent in normal system fonts.</seg>
@@ -16303,7 +16308,9 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
 日本語でどうするべきかは恐ろしく難しいです。
 皮肉っぽさが伝わるように「素敵なデザインになります」と補ってみましたがどうですかね。難しいです。
 
-(岡本)　素敵→ステキ　　でしょうか</note>
+(岡本)　素敵→ステキ　　でしょうか
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This will result in the generic-boxes-all-over-the-place effect.</seg>
       </tuv>
