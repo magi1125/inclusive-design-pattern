@@ -2765,7 +2765,8 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
 
 (太田) 「識字率の低い人」はおかしいです (識字率というのは字が読める人の割合。「識字率の低い国」はOKだが「識字率の低い人」はおかしい)。「あまり字が読めない」くらいでしょうか。
 「国際化を促す」というのはちょっと謎です。国際化しようという動機を強めるということではなく、国際化しやすいということだと思います。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>A non-textual mode of communication also crosses language barriers, helping to internationalize an interface, and assists those with poor literacy.</seg>
       </tuv>
@@ -3029,7 +3030,9 @@ Allのニュアンスを盛り込むべきかも。
     </tu>
     <tu>
       <note>(太田)
-これらすべてのこと→これらすべて、としました。</note>
+これらすべてのこと→これらすべて、としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>All these things have to be taken into account.</seg>
       </tuv>
@@ -3290,8 +3293,7 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK
-※この節確認中</note>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Appearance</seg>
       </tuv>
@@ -3490,7 +3492,9 @@ hueは正確には色相ですが、まあ色で良いかなと。
 
 (太田) fewer than 5は5以下ではなく5未満の意味ですが、ヘイドンさんがそこまで厳密に意識して書いているのかどうかは不明。いちおう未満としましたが、以下でいいのかも。
 lay, makeはいずれも命令系で使われているので、「すべき」というより「しなさい」と言っているように読めますね。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK. スマホ幅だと確かに5つは並べにくいので、5未満がよいかなと。</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, if the menu has fewer than five items, just lay them out; make them available to the user at all times.</seg>
       </tuv>
@@ -6211,7 +6215,8 @@ http://www.dictionary.com/browse/radical
 「常に最後の手段」は直訳としては正しいですが日本語的な言い方ではないかも。「どうしようもないときの最終手段と考えてください」? もうちょいスマートに言えないものか。
 
 (伊原) 訳が消えてたのでひとまず復活
-https://github.com/rikiha/inclusive-design-pattern/commit/b3de996369b41d914699d3667cf6c98b67b9146f</note>
+https://github.com/rikiha/inclusive-design-pattern/commit/b3de996369b41d914699d3667cf6c98b67b9146f
+そしてOKです。</note>
       <tuv lang="EN-US">
         <seg>Hiding functionality away from users and requiring them to perform an additional action to reveal that functionality is always a last resort.</seg>
       </tuv>
@@ -6748,7 +6753,8 @@ a element ではなく elements であることに意味があるように思い
 
 (岡本)
 「何の問題も解決しません」案に一票。
-</note>
+
+(伊原) 上記でOK</note>
       <tuv lang="EN-US">
         <seg>If only a few menu items are needed, the menu button is a solution to a problem that does not exist.</seg>
       </tuv>
@@ -7501,7 +7507,9 @@ cognitive cacheは経験キャッシュとしてみました。
       <note>(伊原) 訳としてはこうなのですが、それが何故かが書かれていないのがちょっともやもや。
 
 (太田) 画面がでかいしスクロールできるんだからたたまなくてもいいだろ、という乱暴な話なのでしょうね。「項目の数にかかわらず」がもうすこし強調されると少しわかりやすくなるかも? 語順を原文にそろえてみましたがどうでしょうか。
-anyの強調をどう処理するか微妙ですが「ありません」部分に反映してみました。</note>
+anyの強調をどう処理するか微妙ですが「ありません」部分に反映してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In desktop viewports, there’s rarely &lt;g1&gt;any&lt;/g1&gt; reason to hide a navigation menu away, regardless of the number of items it contains.</seg>
       </tuv>
@@ -8846,7 +8854,9 @@ Windowsのテーマなどがブラウザ側に反映されるのかどうかは�
 元訳の「良く知られている」で良いような。
 もしくは「評価が定着している」みたいなのでも良いかと。
 いや、むしろトリでもいいのか。
-いったんトリにしてみました。</note>
+いったんトリにしてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It is well established that iconography can improve and accelerate comprehension for sighted users.</seg>
       </tuv>
@@ -10403,7 +10413,9 @@ http://eigo-kobako.blog.so-net.ne.jp/2015-07-14
 (太田) view や action がそのままで伝わるのかどうか。
 a handful ofは片手でつかめる程度、の意味ですが、前にメニューは5項目なら隠さなくてよいという話があるので、ここでは「片手で数えられる程度」の意味だと思います。
 
-「考案する」はやはり違和感があります……。「考えておく」くらいでどうでしょうか。shouldなので語尾少し弱くしました。</note>
+「考案する」はやはり違和感があります……。「考えておく」くらいでどうでしょうか。shouldなので語尾少し弱くしました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Nonetheless, not all applications are reducible to only a handful of views or actions and, since menu buttons are close to ubiquitous, we should formulate an inclusive implementation.</seg>
       </tuv>
@@ -11899,7 +11911,9 @@ Good!</note>
     </tu>
     <tu>
       <note>(太田) 少しだけ調整。
-時間的なタイミングが重要になる話ではないので、「任意のタイミング」は「好きなとき」で良いように思います。</note>
+時間的なタイミングが重要になる話ではないので、「任意のタイミング」は「好きなとき」で良いように思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Revealing the menu should be at the user’s discretion, so we provide a button.</seg>
       </tuv>
@@ -12850,7 +12864,7 @@ impactは次の文に合わせて「効果」としました。
 前章では隠す話はあまりしていなかったように思いますので変ではありますが……。
 いったん原文に即した形で調整してみました。
 
-(伊原) 飛ばす話はしてましたが、隠す話はしてなかったですね……。とはいえまあ何となくでも読んでも良い箇所なので、OKかと。</note>
+(伊原) 飛ばす話はしてましたが、隠す話はしてなかったですね……。とはいえまあ何となくで読んでも良い箇所なので、OKかと。</note>
       <tuv lang="EN-US">
         <seg>Sometimes we hide menus away (like the navigation regions of the last chapter), putting the content center stage.</seg>
       </tuv>
