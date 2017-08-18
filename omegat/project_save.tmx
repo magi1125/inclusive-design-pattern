@@ -8268,8 +8268,8 @@ robustlyは「堅牢な方法で」としてみました。
       <tuv lang="EN-US">
         <seg>In the example above, the SVG renders via the &lt;g1&gt;&lt;use&gt;&lt;/g1&gt; element if supported, but &lt;g2&gt;switches&lt;/g2&gt; to rendering the fallback PNG if not.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170817T152209Z" creationid="rikiha" creationdate="20170815T160936Z">
-        <seg>上の例では、SVGがサポートされていれば&lt;use&gt;要素で表示し、サポートされていない場合はフォールバックPNGを表示するように&lt;g2&gt;切り替え&lt;/g2&gt;ます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170818T073125Z" creationid="rikiha" creationdate="20170815T160936Z">
+        <seg>上の例では、SVGがサポートされていれば&lt;g1&gt;&lt;use&gt;&lt;/g1&gt;要素で表示し、サポートされていない場合はフォールバックPNGを表示するように&lt;g2&gt;切り替え&lt;/g2&gt;ます。</seg>
       </tuv>
     </tu>
     <tu>
