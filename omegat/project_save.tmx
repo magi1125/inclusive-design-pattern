@@ -12647,8 +12647,8 @@ VoiceOverでは「×」かける、▶はなんと「メディアの再生マー
       <tuv lang="EN-US">
         <seg>Since ► is read as “black right-pointing triangle” and &lt;g1&gt;×&lt;/g1&gt; as “times” (multiplication), the same &lt;g2&gt;aria-label&lt;/g2&gt; method could fix the labeling of your play and close buttons, among others.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T095902Z" creationid="rikiha" creationdate="20170815T160830Z">
-        <seg>たとえば、▶は「さんかくけい」、&lt;g1&gt;×&lt;/g1&gt;は「かける」と読み上げられますが、この場合も&lt;g2&gt;aria-label&lt;/g2&gt;を使ってボタンのラベルを「再生」や「閉じる」に修正できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170818T053612Z" creationid="rikiha" creationdate="20170815T160830Z">
+        <seg>たとえば、▶は「さんかくけい」、&lt;g1&gt;×&lt;/g1&gt;は「かける」と読み上げられますが、この場合も同様に&lt;g2&gt;aria-label&lt;/g2&gt;を使ってボタンのラベルを「再生」や「閉じる」に修正できます。</seg>
       </tuv>
     </tu>
     <tu>
