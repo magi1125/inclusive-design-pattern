@@ -16136,12 +16136,17 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田)
+SVGの要素であることを補いたいかも。
+対処→実現としました。
+</note>
       <tuv lang="EN-US">
         <seg>This is where you can use the &lt;g7&gt;&lt;switch&gt;&lt;/g7&gt; and &lt;g8&gt;&lt;foreignObject&gt;&lt;/g8&gt; elements:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T160929Z" creationid="rikiha" creationdate="20170815T160929Z">
-        <seg>これは&lt;switch&gt;要素と&lt;foreignObject&gt;要素を使って対処できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170818T072308Z" creationid="rikiha" creationdate="20170815T160929Z">
+        <seg>これはSVGの&lt;g7&gt;&lt;switch&gt;&lt;/g7&gt;要素と&lt;g8&gt;&lt;foreignObject&gt;&lt;/g8&gt;要素を使って実現できます。</seg>
       </tuv>
     </tu>
     <tu>
