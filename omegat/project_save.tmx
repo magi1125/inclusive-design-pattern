@@ -73,11 +73,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 多少調整。</note>
       <tuv lang="EN-US">
         <seg>(Note the &lt;g1&gt;tabindex="-1"&lt;/g1&gt; attribute which fixes sequential focus navigation as discussed in “Navigation Regions”).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170818T141617Z" creationid="rikiha" creationdate="20170815T161211Z">
-        <seg>（「ナビゲーション領域」で説明した、シーケンシャルフォーカスナビゲーションの問題を修正するためのtabindex="-1"に注目してください。）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170818T141645Z" creationid="rikiha" creationdate="20170815T161211Z">
+        <seg>（「ナビゲーション領域」でも説明した、シーケンシャルフォーカスナビゲーションの問題を修正するためのtabindex="-1"に注目してください）</seg>
       </tuv>
     </tu>
     <tu>
