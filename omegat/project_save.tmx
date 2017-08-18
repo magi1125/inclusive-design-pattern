@@ -11410,8 +11410,7 @@ WCAGに従うことは、伝えるよりも良いのです。
 上書きのアルゴリズムについて、本書のほかの箇所に説明がなければ訳注を入れたほうがいいかも。
 http://www.w3.org/TR/html-aapi/#accessible-name-and-description-calculation
 http://www.w3.org/TR/wai-aria/roles#namecalculation
-aria-labelledbyがあるとそっちが優先だったり、細かいルールがいろいろあります。
-</note>
+aria-labelledbyがあるとそっちが優先だったり、細かいルールがいろいろあります。</note>
       <tuv lang="EN-US">
         <seg>One of the advantages of &lt;g1&gt;aria-label&lt;/g1&gt; is that is overrides the text node of the element, if present.</seg>
       </tuv>
