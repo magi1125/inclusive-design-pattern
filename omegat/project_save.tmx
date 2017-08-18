@@ -11411,7 +11411,6 @@ WCAGに従うことは、伝えるよりも良いのです。
 http://www.w3.org/TR/html-aapi/#accessible-name-and-description-calculation
 http://www.w3.org/TR/wai-aria/roles#namecalculation
 aria-labelledbyがあるとそっちが優先だったり、細かいルールがいろいろあります。
-また、上書きではなく追記したい場合は aria-description が使えます。
 </note>
       <tuv lang="EN-US">
         <seg>One of the advantages of &lt;g1&gt;aria-label&lt;/g1&gt; is that is overrides the text node of the element, if present.</seg>
