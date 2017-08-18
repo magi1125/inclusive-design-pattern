@@ -8264,7 +8264,9 @@ robustlyは「堅牢な方法で」としてみました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) switchesを訳出。</note>
+      <note>(伊原) switchesを訳出。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>In the example above, the SVG renders via the &lt;g1&gt;&lt;use&gt;&lt;/g1&gt; element if supported, but &lt;g2&gt;switches&lt;/g2&gt; to rendering the fallback PNG if not.</seg>
       </tuv>
