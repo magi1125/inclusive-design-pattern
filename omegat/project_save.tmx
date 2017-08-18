@@ -15788,7 +15788,8 @@ marginは「マージン」で良いかと。
     <tu>
       <note>(伊原) OK. ポイントです、は無くてもよさそうですが。
 
-(太田) ポイントですはいらないですね。「altに似ているがimg以外にも使える」という話が分かりやすいように、語順を変えてみました。</note>
+(太田)
+ポイントですはいらないですね。「altに似ているがimg以外にも使える」という話が分かりやすいように、語順を変えてみました。</note>
       <tuv lang="EN-US">
         <seg>This global property attaches alternative text to elements much like the &lt;g7&gt;alt&lt;/g7&gt; attribute, but isn’t just applicable to &lt;g8&gt;&lt;img&gt;&lt;/g8&gt; tags.</seg>
       </tuv>
@@ -17455,12 +17456,13 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>We can attach an &lt;g9&gt;aria-label&lt;/g9&gt; directly to the &lt;g10&gt;&lt;button&gt;&lt;/g10&gt; element:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T095233Z" creationid="rikiha" creationdate="20170815T160814Z">
-        <seg>ここでは&lt;g10&gt;&lt;button&gt;&lt;/g10&gt;要素に直接、&lt;g9&gt;aria-label&lt;/g9&gt;をアタッチします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170818T052904Z" creationid="rikiha" creationdate="20170815T160814Z">
+        <seg>&lt;g10&gt;&lt;button&gt;&lt;/g10&gt;要素に直接、&lt;g9&gt;aria-label&lt;/g9&gt;をアタッチすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
