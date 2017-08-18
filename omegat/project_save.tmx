@@ -520,7 +520,13 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) この実装ならインラインSVGだから問題ない、と補いました。</note>
+      <note>(伊原) この実装ならインラインSVGだから問題ない、と補いました。
+
+(太田)
+以下のようなものがChromeで動作しIE11で動作しないことを確認。
+&lt;svg&gt;&lt;use xlink:href="chap18.svg#navicon"&gt;&lt;/use&gt;&lt;/svg&gt;
+
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;Support for SVG is pretty much universal&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;19&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, with the stipulation that IE9–11 cannot reference external files using &lt;g6&gt;xlink:href&lt;/g6&gt; — not a problem with this implementation.</seg>
       </tuv>
