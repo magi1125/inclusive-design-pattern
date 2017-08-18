@@ -12397,8 +12397,8 @@ roleをどうするかは要検討 (全体で統一する必要アリ)。いっ�
       <tuv lang="EN-US">
         <seg>Should you want to hide the menu until the user arrives at the the landmark, you can use the &lt;g1&gt;:target&lt;/g1&gt; pseudo-class.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T161214Z" creationid="rikiha" creationdate="20170815T161214Z">
-        <seg>ユーザーがランドマークにたどり着くまでメニューを隠しておきたい場合は、:target疑似クラスを使用します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170818T141843Z" creationid="rikiha" creationdate="20170815T161214Z">
+        <seg>ユーザーがランドマークに到着するまでメニューを非表示にしておきたい場合は、:target疑似クラスを使用します。</seg>
       </tuv>
     </tu>
     <tu>
