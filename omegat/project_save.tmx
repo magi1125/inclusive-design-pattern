@@ -8731,7 +8731,9 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
       <note>(伊原) バージョン9より前、がわかりにくかったので調整。
 
 (太田) 
-これ今考慮する必要あるんですかね、という疑問はありますね。</note>
+これ今考慮する必要あるんですかね、という疑問はありますね。
+「8以前」という表現は8を含むのか含まないのか判然としないかも。
+</note>
       <tuv lang="EN-US">
         <seg>Internet Explorer preceding version 9 and other older browsers need a fallback for inline SVG.</seg>
       </tuv>
