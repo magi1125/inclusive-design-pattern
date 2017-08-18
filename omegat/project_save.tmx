@@ -10917,7 +10917,9 @@ resulting inも落ちているような。「結果として」くらいでし�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ちょっと調整。empty or null valueは普通に空でいいのでは。</note>
+      <note>(伊原) ちょっと調整。empty or null valueは普通に空でいいのでは。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Note the empty or null value of the &lt;g3&gt;alt&lt;/g3&gt; attribute on the fallback image: this tells screen readers not to acknowledge the image.</seg>
       </tuv>
