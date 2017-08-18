@@ -11386,12 +11386,14 @@ WCAGに従うことは、伝えるよりも良いのです。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) オーバーライド➞上書き</note>
+      <note>(伊原) オーバーライド➞上書き
+
+(岡本)　1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>One of the advantages of &lt;g1&gt;aria-label&lt;/g1&gt; is that is overrides the text node of the element, if present.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170817T142824Z" creationid="rikiha" creationdate="20170815T160820Z">
-        <seg>&lt;g1&gt;aria-label&lt;/g1&gt;のメリットの1つは、要素にテキストノードがある場合はそれを上書きするということです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170818T013528Z" creationid="rikiha" creationdate="20170815T160820Z">
+        <seg>&lt;g1&gt;aria-label&lt;/g1&gt;のメリットのひとつは、要素にテキストノードがある場合はそれを上書きするということです。</seg>
       </tuv>
     </tu>
     <tu>
