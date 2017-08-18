@@ -77,8 +77,8 @@
       <tuv lang="EN-US">
         <seg>(Note the &lt;g1&gt;tabindex="-1"&lt;/g1&gt; attribute which fixes sequential focus navigation as discussed in “Navigation Regions”).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170818T141645Z" creationid="rikiha" creationdate="20170815T161211Z">
-        <seg>（「ナビゲーション領域」でも説明した、シーケンシャルフォーカスナビゲーションの問題を修正するためのtabindex="-1"に注目してください）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170818T145130Z" creationid="rikiha" creationdate="20170815T161211Z">
+        <seg>（「ナビゲーション領域」でも説明した、シーケンシャルフォーカスナビゲーションの問題を修正するための&lt;g1&gt;tabindex="-1"&lt;/g1&gt;に注目してください）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6151,8 +6151,8 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       <tuv lang="EN-US">
         <seg>Hence I’ve removed the &lt;g2&gt;hidden&lt;/g2&gt; attribute and would supply this CSS:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170818T142129Z" creationid="rikiha" creationdate="20170815T161218Z">
-        <seg>そのため、hidden属性は取り除かれ、以下のCSSが代わりとなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170818T145113Z" creationid="rikiha" creationdate="20170815T161218Z">
+        <seg>そのため、&lt;g2&gt;hidden&lt;/g2&gt;属性は取り除かれ、以下のCSSが代わりとなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17995,11 +17995,12 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 手順的な説明になるように調整</note>
       <tuv lang="EN-US">
         <seg>When you click the &lt;g1&gt;href="#nav-menu"&lt;/g1&gt; link, the URL for the page is appended with the &lt;g2&gt;#nav-menu&lt;/g2&gt; fragment identifier and the landmark becomes the target, making &lt;g3&gt;display: block;&lt;/g3&gt; applicable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T161223Z" creationid="rikiha" creationdate="20170815T161223Z">
-        <seg>href="#nav-menu"リンクをクリックすると、ページのURLにフラグメント識別子#nav-menuが付いてランドマークがターゲットになり、display: block;が適用されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170818T145508Z" creationid="rikiha" creationdate="20170815T161223Z">
+        <seg>&lt;g1&gt;href="#nav-menu"&lt;/g1&gt;リンクをクリックすると、ページのURLに &lt;g2&gt;#nav-menu&lt;/g2&gt;フラグメント識別子が追加され、ランドマークがターゲットとなり、display: block;が適用されます。</seg>
       </tuv>
     </tu>
     <tu>
