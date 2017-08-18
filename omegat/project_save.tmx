@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7521,8 +7521,8 @@ it = トランスクリプトと補わないと分かりにくいかも。
       <tuv lang="EN-US">
         <seg>In cases where it is impossible (due to design constraints, company politics or whatever’s standing in your way) to place the subject menu directly after the menu button as prescribed, you can associate the two elements with &lt;g1&gt;aria-controls&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T161152Z" creationid="rikiha" creationdate="20170815T161152Z">
-        <seg>デザインの制約や社内の問題など、何らかの理由でメニューボタンの直後にメニューを配置できない場合は、2つの要素をaria-controlsで関連付けるという方法も考えられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170818T125705Z" creationid="rikiha" creationdate="20170815T161152Z">
+        <seg>メニューボタンの直後にメニューを（デザイン上の制約、企業の政治的な問題、その他に立ちふさがるなんらかの事情で）配置できない場合は、その2つの要素を&lt;g1&gt;aria-controls&lt;/g1&gt;で関連付けることもできます。</seg>
       </tuv>
     </tu>
     <tu>
