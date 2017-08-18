@@ -17346,11 +17346,12 @@ ourを「先の」などとしつつ調整。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 状態の変化＝メニューの開閉なので、前の段落を受けるように語順を調整。</note>
       <tuv lang="EN-US">
         <seg>Using JavaScript and WAI-ARIA we can communicate this change in state non-visually.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170818T153129Z" creationid="rikiha" creationdate="20170815T161237Z">
-        <seg>JavaScriptとWAI-ARIAを使用すれば、視覚的ではない方法でこの状態の変化を伝えられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170818T153315Z" creationid="rikiha" creationdate="20170815T161237Z">
+        <seg>この状態の変化を、JavaScriptとWAI-ARIAを使って視覚的ではない方法で伝えることができます。</seg>
       </tuv>
     </tu>
     <tu>
