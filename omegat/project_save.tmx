@@ -12628,11 +12628,13 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 訳は良いとして、古いブラウザでaria-labelが有効なのかどうか。
+      <note>※要訳注
 
-(太田) そうですよねwww
+(伊原) 訳は良いとして、古いブラウザでaria-labelが有効なのかどうか。
 
-</note>
+(太田)
+そうですよねw
+訳注でしょうがどう書くのかなぁ。</note>
       <tuv lang="EN-US">
         <seg>Since the label of “menu” is provided via &lt;g4&gt;aria-label&lt;/g4&gt;, the &lt;g5&gt;alt&lt;/g5&gt; is not needed here.</seg>
       </tuv>
