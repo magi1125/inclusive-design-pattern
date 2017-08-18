@@ -523,6 +523,7 @@ Do not put everything in the same bag! のような意味のようです。
       <note>(伊原) この実装ならインラインSVGだから問題ない、と補いました。
 
 (太田)
+OK
 以下のようなものがChromeで動作しIE11で動作しないことを確認しました。
 &lt;svg&gt;&lt;use xlink:href="chap18.svg#navicon"&gt;&lt;/use&gt;&lt;/svg&gt;
 
