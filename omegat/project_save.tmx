@@ -11400,11 +11400,15 @@ WCAGに従うことは、伝えるよりも良いのです。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) オーバーライド➞上書き
+      <note>※要訳注?
+
+(伊原) オーバーライド➞上書き
 
 (岡本)　1つ→ひとつ
 
-(太田) OK</note>
+(太田) OK
+上書きのアルゴリズムについて、本書のほかの箇所に説明がなければ訳注を入れたほうがいいかも。
+http://www.w3.org/TR/html-aapi/#accessible-name-and-description-calculation</note>
       <tuv lang="EN-US">
         <seg>One of the advantages of &lt;g1&gt;aria-label&lt;/g1&gt; is that is overrides the text node of the element, if present.</seg>
       </tuv>
