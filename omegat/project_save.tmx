@@ -12293,11 +12293,12 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順としてはこうなのでは。DOMの一種としてよいかどうか。roleとかstateはそのままのほうがよいか。</note>
       <tuv lang="EN-US">
         <seg>Remember, the accessibility tree is a version of the DOM that exposes the role, property, value and state information the author provides to assistive technology software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005214Z" creationid="rikiha" creationdate="20170819T005214Z">
-        <seg>前述のとおり、アクセシビリティツリーはDOMの一種で、非視覚的なユーザーのために、マークアップ内のアクセシブルな役割（ロール）、プロパティ、値、状態情報が表示されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T235159Z" creationid="rikiha" creationdate="20170819T005214Z">
+        <seg>前述のとおり、アクセシビリティツリーはDOMの一種で、ページ作成者が支援技術に提供する役割、プロパティ、値および状態の情報を明らかにするものです。</seg>
       </tuv>
     </tu>
     <tu>
