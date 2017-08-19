@@ -778,6 +778,22 @@ JISではbypass block を「ブロックスキップ」としています。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;As previously mentioned, the &lt;g2&gt;hidden&lt;/g2&gt; attribute (like &lt;g3&gt;display: none;&lt;/g3&gt;) on a parent element makes any interactive element children unfocusable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005332Z" creationid="rikiha" creationdate="20170819T005332Z">
+        <seg>• 前述したように、親要素にhidden属性を指定すると、display: none;同様、子のインタラクティブ要素はフォーカスできなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Background images for icon rendering.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005527Z" creationid="rikiha" creationdate="20170819T005527Z">
+        <seg>• アイコンの表示に背景画像を使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 偶発的?
 この incidental sound は、たとえば「(ガラスが割れた音)」のような字幕がつくタイプの音を指しているはずで、かならずしも偶発的ではないと思います。日本語にすることを放棄すれば「インシデント的な音」と言えると思いますが、日本語でどういうべきか。
@@ -884,6 +900,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170601T055531Z" creationid="rikiha" creationdate="20170601T055531Z">
         <seg>• Flesch Reading Easeの得点（100点満点、高いほど読みやすい）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Foregoing accessible state communication.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005544Z" creationid="rikiha" creationdate="20170819T005544Z">
+        <seg>• 状態をアクセシブルに伝えない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1092,6 +1116,14 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Omitting accessible names and labels.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005530Z" creationid="rikiha" creationdate="20170819T005530Z">
+        <seg>• アクセシブルな名前やラベルを付けない。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ジャンプと言わなくても分かるかなと。
 
 (太田) OK
@@ -1193,6 +1225,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T062256Z" creationid="yoota" creationdate="20170426T062256Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt; テキストを大きくすると、コピー&amp;ペーストしたい単語を選択しやすくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Small touch (or hit) areas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005533Z" creationid="rikiha" creationdate="20170819T005533Z">
+        <seg>• タッチ（タップ）領域を小さくする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,6 +2504,14 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;“Aaargh!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005500Z" creationid="rikiha" creationdate="20170819T005500Z">
+        <seg>「あー、もう！</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 透明のスペースからなる、という部分がわかりにくかったので調整。また背景を黒にするくだりを補足。
 
 (太田)
@@ -3008,6 +3056,14 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Accordingly, the menu should be ever present at reasonably wide viewports.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005412Z" creationid="rikiha" creationdate="20170819T005412Z">
+        <seg>したがって、メニューを表示できるように、ビューポートの幅はそれなりに広くなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 日本語のスクリーンリーダーでランドマーク一覧がどう表示されるか要確認。
 NVDAでは「ナビゲーション」でした。
@@ -3359,6 +3415,14 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Any time spent by a user operating an interface, twisting knobs, pulling levers or tapping buttons is time wasted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005401Z" creationid="rikiha" creationdate="20170819T005401Z">
+        <seg>ユーザーがインターフェイスの操作や、つまみをひねったりレバーを引いたりボタンを押したりするのに費やす時間は、すべて無駄な時間というわけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Appearance</seg>
@@ -3376,6 +3440,14 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170725T021450Z" creationid="rikiha" creationdate="20170725T015737Z">
         <seg>外観と配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apple and Android differ in their advice on touch targets with Apple recommending 44 points × 44 points (a density-independent unit of measure related to pixels and unique to Apple) and Android 48px × 48px.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005430Z" creationid="rikiha" creationdate="20170819T005430Z">
+        <seg>タッチターゲットの推奨最小サイズは、Appleが44 × 44ポイント（密度に依存しない、ピクセル対応のApple独自の測定単位）、Androidが48 × 48ピクセルと、AppleとAndroidで異なります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3461,6 +3533,14 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170622T032014Z" creationid="yoota" creationdate="20170622T025334Z">
         <seg>私の場合、いくつかの章を実際に書いてみると、すぐにこの構造に問題があったことがわかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As I wrote in “&lt;g1&gt;&lt;g2&gt;The Precarious X In UX&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;24&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” only &lt;g6&gt;other designers&lt;/g6&gt; tend to be enamored with the finer aesthetic points of the interface itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005345Z" creationid="rikiha" creationdate="20170819T005345Z">
+        <seg>「The Precarious X In UX」（脚注121）にも書きましたが、インターフェイス自体の細部の美しさにこだわるのはWebデザイナーだけと言ってもいいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3704,6 +3784,14 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As stated, hidden content which depends on a user action to be revealed is a last resort.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005409Z" creationid="rikiha" creationdate="20170819T005409Z">
+        <seg>前にも述べたとおり、コンテンツを隠してユーザーが操作しないと表示されないようにするのは、最後の手段です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>As stated, our blog article should begin with an &lt;g1&gt;&lt;h1&gt;&lt;/g1&gt;.</seg>
@@ -3829,6 +3917,14 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>At &lt;g1&gt;around&lt;/g1&gt; this size or larger, the visual focus feedback is not obscured by the user’s finger, which would otherwise force them to use the precarious gestures described in Anthony Thomas’s “&lt;g2&gt;&lt;g3&gt;Finger-Friendly Design: Ideal Mobile Touch Target Sizes&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;26&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;”:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005433Z" creationid="rikiha" creationdate="20170819T005433Z">
+        <seg>だいたいこのくらいのサイズか、これより大きければ、視覚的なフォーカスフィードバックがユーザーの指に邪魔されて見えないということはないでしょう。もし見えない場合は、アンソニー・トーマス（Anthony Thomas）の「Finger-Friendly Design: Ideal Mobile Touch Target Sizes」（脚注123）に書かれているような不安定な指の動かし方をせざるを得なくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 「ヘイドンさんは個別記事ページのことをpermalinkと呼んでいる模様」がコレですね。
 個別記事ページと語を置き換えないと意味不明になりますね…。
 
@@ -3841,6 +3937,14 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T093707Z" creationid="yoota" creationdate="20170512T093627Z">
         <seg>ブログのパーマリンクでは、主要なコンテンツがブログ記事そのものであるため、これを&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;の中に置く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At narrower widths, touch operation is more likely — especially when we encroach on mobile and handheld dimensions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005415Z" creationid="rikiha" creationdate="20170819T005415Z">
+        <seg>とりわけビューポートの幅が狭いモバイル機器（携帯端末）ではタッチ操作が主流です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3877,6 +3981,14 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T033306Z" creationid="yoota" creationdate="20170512T033306Z">
         <seg>繰り返しはやめましょう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid the temptation, though, to add animations — especially ones which depend on CSS positioning — just to impress users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005343Z" creationid="rikiha" creationdate="20170819T005343Z">
+        <seg>ユーザーの目を引くためだけに、むやみにアニメーションを追加するのはやめましょう。特にCSS配置に頼ったアニメーションはお勧めしません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4266,6 +4378,14 @@ composeは作成でいいのか。あとで検討。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>But when users have to reorient their finger, it slows their movement down, and forces them to work harder to hit their target.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005440Z" creationid="rikiha" creationdate="20170819T005440Z">
+        <seg>しかし、このように指の置き方を変えなければならない状況だと、動きが遅くなる上に、ターゲットをタップしづらくなってしまいます」</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのbut は逆接の「しかし」で良いように思います。</note>
       <tuv lang="EN-US">
         <seg>But who’s it for?</seg>
@@ -4307,6 +4427,14 @@ composeは作成でいいのか。あとで検討。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170715T152153Z">
         <seg>左側に親指を立てたアイコン、右側に「賛成！」という文字が配置されたボタン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By being mindful of the need for accessible labels, potential problems with Windows’ high contrast mode and ease of touch operation, we ensured our menu button — as well as the content it reveals — is inclusive of differing user settings, circumstances, devices, and assistive technology software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005523Z" creationid="rikiha" creationdate="20170819T005523Z">
+        <seg>アクセシブルなラベルの必要性、Windowsのハイコントラストモードで起こり得る問題、タッチ操作のしやすさを考慮に入れることで、さまざまなユーザー設定、環境、デバイス、支援技術ソフトウェアに対応できるインクルーシブなメニューボタン（そして、そのボタンを押したときに表示されるメニュー）を作成できることを学びました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4675,6 +4803,14 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170816T071502Z" creationid="rikiha" creationdate="20170812T161604Z">
         <seg>CSSの疑似要素は通常、スクリーンリーダーで読み上げられます。「読み上げないで」というプロパティはまだほとんどサポートされていません（ただし&lt;g2&gt;&lt;g3&gt;進んではいます&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注110）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Catering to them is top priority to an inclusive designer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005351Z" creationid="rikiha" creationdate="20170819T005351Z">
+        <seg>その要求に応えることこそ、インクルーシブデザイナーの最優先課題です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5250,6 +5386,14 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T082141Z" creationid="yoota" creationdate="20170511T100701Z">
         <seg>とはいえ、リンクにフォーカス状態を示すスタイルが適用されていなければ、ユーザーには現在どの要素がフォーカスされているのかわかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ever heard of vertical padding?”&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005506Z" creationid="rikiha" creationdate="20170819T005506Z">
+        <seg>垂直パディングってものを知らないの？」</seg>
       </tuv>
     </tu>
     <tu>
@@ -6699,6 +6843,14 @@ imagine と might で二重に推定している形ですが、むしろ何故�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I keep hitting the wrong one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005503Z" creationid="rikiha" creationdate="20170819T005503Z">
+        <seg>何度やってもうまく押せないよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 前段落とセットで要検討。
 
 (太田) a name の a を訳出しないとダメかも。ひとつの名前に決まっていないところからしてもうダメ、みたいなことですね。そのまま反映してみました。
@@ -6745,6 +6897,14 @@ imagine と might で二重に推定している形ですが、むしろ何故�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170819T005237Z" creationid="rikiha" creationdate="20170819T005237Z">
         <seg>ここで役立つのがaria-expanded（脚注120）です。aria-expandedを使えばスクリーンリーダーに明示的に「＃＃collapsed＃＃」（false）、「＃＃expanded＃＃」（true）とアナウンスさせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I would recommend mobile viewports configure navigation into a single column — one link per line — and provide a generous enough vertical padding to make each link higher than the diameter of an adult finger pad.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005512Z" creationid="rikiha" creationdate="20170819T005512Z">
+        <seg>私のお勧めは、モバイルのビューポートではナビゲーション項目を縦一列に（1行に1リンクずつ）並べることです。その際、縦方向に十分なパディングを設けて、それぞれのリンクに大人の指の腹の直径以上の高さを持たせるのがポイントです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9474,6 +9634,14 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s possible that judicious animation effects can aid comprehension, if designed with care.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005339Z" creationid="rikiha" creationdate="20170819T005339Z">
+        <seg>たしかにアニメーション効果がユーザーの理解を助けることもありますが、それは慎重にデザインされていればの話です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM
 
 (岡本) 2回→二回</note>
@@ -10377,6 +10545,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100946Z" creationid="okamoto_jun" creationdate="20170627T100946Z">
         <seg>また、デスクトップスクリーンリーダーのユーザーのほとんどはキーボードも使用するため、前述した問題も生じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most real users just want to get things done.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005348Z" creationid="rikiha" creationdate="20170819T005348Z">
+        <seg>たいていのユーザーはただ「目的を達成したい」だけなのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11798,6 +11974,14 @@ parityは平均化というより、ここでは等価、価値を等しくす�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Patrick H Lauke has undertaken &lt;g1&gt;&lt;g2&gt;research for The W3C Mobile Accessibility Taskforce into touch/pointer target size&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;27&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005443Z" creationid="rikiha" creationdate="20170819T005443Z">
+        <seg>パトリック・H・ラーク（Patrick H Lauke）は？？W3C Mobile Accessibility Taskforce？？の依頼で、タッチターゲットとポインターターゲットのサイズに関する調査を行いました。（脚注124）【コメント：原文「The W3C Mobile Accessibility Taskforce」冒頭のTheは大文字になっていますが冠詞と判断しました】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) enhance は enhancement の動詞形なので「エンハンスメントする」としたほうが良いのかもしれない。
 
 (伊原) LGTM</note>
@@ -11806,6 +11990,14 @@ parityは平均化というより、ここでは等価、価値を等しくす�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T024100Z" creationid="yoota" creationdate="20170426T024037Z">
         <seg>本書で紹介するパターンは、整形式のセマンティックHTMLの構造をベースにし、CSSとJavaScriptでエンハンスメントしたものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>People are not really into using products.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005358Z" creationid="rikiha" creationdate="20170819T005358Z">
+        <seg>人々は製品を「使う」こと自体にはあまり興味がありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12023,6 +12215,15 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T025352Z" creationid="yoota" creationdate="20170614T025127Z">
         <seg>RUPERT: 「ええと、本当は…」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rather, people are &lt;g1&gt;more interested in the end result&lt;/g1&gt; and in obtaining that result in the quickest, least intrusive and most efficient manner possible.” – Goran Peuc “&lt;g2&gt;&lt;g3&gt;Nobody Wants To Use Your Product&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;25&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005404Z" creationid="rikiha" creationdate="20170819T005404Z">
+        <seg>人々の関心は、最終的な結果と、その結果をいかに早く、いかに簡単に、いかに効率的に得られるかということに向けられているのですから」
+— 「Nobody Wants To Use Your Product」、ゴラン・？？ポイク？？（Goran Peuc）（脚注122）【コメント：人名のカナ表記に問題ないかご確認ください】</seg>
       </tuv>
     </tu>
     <tu>
@@ -12468,6 +12669,14 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Setting &lt;g4&gt;height: 0;&lt;/g4&gt; and animating to full height would not have this effect, meaning keyboard users would have to tab through invisible elements while the menu is closed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005336Z" creationid="rikiha" creationdate="20170819T005336Z">
+        <seg>？？height: 0;と設定して高さいっぱいまでアニメーションするとこの効果はなく、？？キーボードユーザーは、メニューが閉じているときも、見えない（非表示になっている）要素をTabキーで移動しなければならなくなります。【コメント：不安訳です。原文「Setting height:0; and animating to full height would not have this effect, 」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) containingは「含まれる要素」となっていますが、これは祖先の要素を指します。CSSにはcontaining blockという概念があり、昔のCSS2の日本語訳では「包含ブロック」とされていましたが、定訳ではないような気がします。
 参考:
 http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
@@ -12887,6 +13096,14 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T195607Z" creationid="yoota" creationdate="20170501T110123Z">
         <seg>ただし、スキップリンクはデフォルトでは表示されないようにすべきです。マウスユーザーやタッチデバイスのユーザーにとっては非常に使いにくく、混乱を招くだけだからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Small touch targets for interactive elements make operation needlessly challenging, so what is the minimum size we should aim for?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005422Z" creationid="rikiha" creationdate="20170819T005422Z">
+        <seg>インタラクティブ要素に小さいタッチターゲットを用いると、むやみに操作が難しくなります。では、どれくらいのサイズまでなら大丈夫なのでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -13733,6 +13950,14 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;g2&gt;BBC Mobile Accessibility Guidelines&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;28&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; recommend the inclusion of “inactive space” between elements to remedy this issue, but I suggest this would create a somewhat incomprehensible, broken-up appearance when it comes to navigation regions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005510Z" creationid="rikiha" creationdate="20170819T005510Z">
+        <seg>BBCの「Mobile Accessibility Guidelines」（脚注125）では、この問題の対処法として、要素間に「アクティブにならないスペース」を入れることを推奨しています。しかし、ナビゲーション領域の場合は、この方法だと不可解な間が空いた見た目になってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;h1&gt;&lt;/g1&gt; Element</seg>
@@ -14465,6 +14690,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T014206Z" creationid="yoota" creationdate="20170501T053331Z">
         <seg>フォント全体のファイルサイズと、必要な文字、たとえばアンパサンド記号（&amp;）のみをサブセット化した場合のファイルサイズは、それこそ桁違いです！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ease of touch interaction for our hamburger menu needs consideration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005417Z" creationid="rikiha" creationdate="20170819T005417Z">
+        <seg>ハンバーガーメニューのタッチ操作のしやすさは一考の余地があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15351,6 +15584,14 @@ be transported は受動態のままではなく能動態に変えて訳すか�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The vast proliferation of device resolutions makes it near impossible to establish a universal figure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005428Z" creationid="rikiha" creationdate="20170819T005428Z">
+        <seg>デバイスによって解像度が大きく異なるため、すべてのデバイスに当てはまる最小サイズというものはなかなか決められません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「このような方法」とはどのような方法か分かりにくいかも。
 
@@ -16233,6 +16474,14 @@ OKですがやや硬いかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This is not the sort of gamble anyone is interested in taking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005451Z" creationid="rikiha" creationdate="20170819T005451Z">
+        <seg>このような一か八かの賭けを楽しむユーザーはいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原)【要検討】このThisはなんだろう？
 
 This is probably 
@@ -16755,6 +17004,14 @@ compelには強要する、強いるという意味があり、転じて「目�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Though this pattern looked at menu buttons explicitly, it was really an exploration of the use of button controls, with icons, in general.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005519Z" creationid="rikiha" creationdate="20170819T005519Z">
+        <seg>このパターンのテーマはメニューボタンですが、実際にはボタンコントロールとアイコンの使い方について総体的に考察しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (伊原) 下訳を反映</note>
@@ -17161,6 +17418,22 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095421Z" creationid="okamoto_jun" creationdate="20170627T095421Z">
         <seg>彼らにとってボタンは視覚的な成果物であり、Adobe IllustratorやSketchで作るものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Touch Targets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005407Z" creationid="rikiha" creationdate="20170819T005407Z">
+        <seg>タッチターゲット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Touch target size issues are exacerbated in mobile-sized navigation regions because of the links’ proximity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005446Z" creationid="rikiha" creationdate="20170819T005446Z">
+        <seg>タッチターゲットのサイズの問題がより顕著になるのがモバイルサイズのナビゲーション領域です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17714,6 +17987,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>We especially want to be inclusive of users with limited dexterity due to rheumatic issues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005420Z" creationid="rikiha" creationdate="20170819T005420Z">
+        <seg>？？特にインクルーシブデザインを目指す私たちは、リウマチ疾患のせいで手先の動きに制限があるユーザーも考慮に入れたいところです。？？【コメント：意訳しています。原文「We especially want to be inclusive of users with limited dexterity due to rheumatic issues.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 ここのthenは「次に」くらいでしょうか。
 
@@ -18141,6 +18422,14 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T071731Z" creationid="yoota" creationdate="20170512T071731Z">
         <seg>読者が何らかの調整を行った場合でも、破綻することが少なくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the surface of your finger spans more than one element, it could be either element that is activated when pressure is applied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005448Z" creationid="rikiha" creationdate="20170819T005448Z">
+        <seg>原因はリンク同士が近接していることです。ユーザーの指の腹が複数の要素にまたがってしまうと、圧力がかかったいずれかの要素がアクティブになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19021,6 +19310,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>“Here is a little revelation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005354Z" creationid="rikiha" creationdate="20170819T005354Z">
+        <seg>「ちょっとした新事実をお伝えしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) linksなので「リンクがまとまっている」としてみました。
 
 (太田) OK</note>
@@ -19131,6 +19428,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101621Z" creationid="okamoto_jun" creationdate="20170627T101621Z">
         <seg>色を表す16進コードの組み合わせは140,737,479,966,720通りあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Users use the fingertip to hit small touch targets because it gives them the visual feedback they need to know that they’re hitting their target accurately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005438Z" creationid="rikiha" creationdate="20170819T005438Z">
+        <seg>「ユーザーは小さいタッチターゲットを指先でタップします。なぜなら、表示される視覚的なフィードバックを見て、ターゲットを正しくタップできたことを確認する必要があるからです。</seg>
       </tuv>
     </tu>
     <tu>
