@@ -9119,11 +9119,12 @@ stillは無理に訳さなくても良い気がします。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順を調整。</note>
       <tuv lang="EN-US">
         <seg>It is a popular misconception that screen readers are not reactive to JavaScript triggered DOM changes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T235720Z" creationid="rikiha" creationdate="20170819T005217Z">
-        <seg>よく知られている誤解として、JavaScriptによってトリガされたDOMの変更にスクリーンリーダーは反応しないというのはです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T235932Z" creationid="rikiha" creationdate="20170819T005217Z">
+        <seg>JavaScriptによってトリガされたDOMの変更にスクリーンリーダーは反応しないという、よくある誤解があります。</seg>
       </tuv>
     </tu>
     <tu>
