@@ -1264,6 +1264,14 @@ should be なので「なければならない」「必要がある」は強す�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The menu emerges as part of the document flow, meaning a taller-than-viewport menu is still scrollable into view and does not obscure page content beneath it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005323Z" creationid="rikiha" creationdate="20170819T005323Z">
+        <seg>• メニューがドキュメントフローの一部として表示されます。つまり、ビューポートの縦の長さよりメニューの方が長い場合でもスクロールで表示できるため、ページのコンテンツがメニューで隠れるようなこともありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ほぼOK。微調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The menu is placed directly &lt;g2&gt;after&lt;/g2&gt; the &lt;g3&gt;&lt;button&gt;&lt;/g3&gt; in the source order, meaning the first menu item will be the next focusable element after the menu is opened.</seg>
@@ -1336,6 +1344,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T062937Z" creationid="yoota" creationdate="20170426T062833Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt; ブラウザのバグや奇妙なふるまい（これも要するにバグ）のせいで、デフォルトの表示倍率では正しく表示されないことがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;There’s no CSS dependency for the menu system, meaning it will function regardless of a CSS failure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005320Z" creationid="rikiha" creationdate="20170819T005320Z">
+        <seg>• メニューシステムがCSSに依存しません。したがって、CSSに問題があってもメニューは機能します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2573,6 +2589,14 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A Robust Disclosure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005310Z" creationid="rikiha" creationdate="20170819T005310Z">
+        <seg>？？確実な表示？？【コメント：多少意訳しています。原文「A ROBUST DISCLOSURE」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) alt、下訳から反映しつつ調整</note>
       <tuv lang="EN-US">
         <seg>A bullet list of blue, underlined links.</seg>
@@ -2936,6 +2960,14 @@ divergeは分岐する、分かれる、それるの意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Absolute positioning cannot assure us of this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005326Z" creationid="rikiha" creationdate="20170819T005326Z">
+        <seg>？？位置を固定してしまうとそうはいきません。？？【コメント：意訳しています。原文「Absolute positioning cannot assure us of this.」】</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 訳語調を軽減しました。
 
 (太田) ちょっと見直したいです。「実は有効」は日本語として変な印象です。
@@ -3038,6 +3070,14 @@ Allのニュアンスを盛り込むべきかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170817T053003Z" creationid="rikiha" creationdate="20170815T160723Z">
         <seg>インタラクティブな要素は全て、アクセシブルな名前を付けて、支援技術で解釈したり伝えたりできるようにするべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All popular screen readers listen for changes and update their buffers (their interpreted versions of the DOM using the accessibility tree) each time a change takes place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005228Z" creationid="rikiha" creationdate="20170819T005228Z">
+        <seg>一般的なスクリーンリーダーはバッファの変更や更新（アクセシビリティツリーを用いて解釈されたバージョンのDOM）をその都度リッスンします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3588,6 +3628,14 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As described, the menu will be visible and usable where JavaScript fails or is switched off, but this way it’s less likely to fail: if the document itself loads, it’s already there in its entirety — no jQuery or other dependency to wait on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005301Z" creationid="rikiha" creationdate="20170819T005301Z">
+        <seg>前述したように、JavaScriptエラーが生じたりユーザーがJavaScriptをオフにした場合は、最初からメニューが表示され、使用できる状態になります。しかし、この方法ならエラーはほとんど起こりません。ドキュメント自体が読み込まれれば、そこにすでにJavaScriptが書かれており、jQueryなどが読み込まれるのを待つ必要もありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ちょっと語尾を調整。
 
 (岡本) 分からない→わからない</note>
@@ -3942,6 +3990,14 @@ the previous implementation は div で実装されたボタン、the inclusive 
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170817T175145Z" creationid="rikiha" creationdate="20170815T161145Z">
         <seg>メニューは&lt;g4&gt;hidden&lt;/g4&gt;で隠されているため、メニューが閉じているときはメニュー項目にはフォーカスできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because the operation of the menu is a fairly fundamental feature, I’ve written a vanilla JavaScript implementation to embed at the bottom of the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005258Z" creationid="rikiha" creationdate="20170819T005258Z">
+        <seg>メニューの操作はきわめて基本的な機能なので、次のようなVanilla JavaScript（素のJavaScript）を書き、ページの下部に組み込みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4631,6 +4687,14 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Changes to text nodes and attributes update the buffer, as well as adding or removing elements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005230Z" creationid="rikiha" creationdate="20170819T005230Z">
+        <seg>テキストノードや属性が変更されるとバッファが更新され、さらに要素が追加されたり削除されたりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Closed Captions</seg>
@@ -4655,6 +4719,23 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170619T071821Z" creationid="yoota" creationdate="20170613T022127Z">
         <seg>クローズドキャプションは、ビデオとは別のファイルに書かれ、ビデオに関連づけられたキャプション（字幕）です。ビデオ自体に字幕が埋め込まれているわけではないため、ユーザーは字幕のオン・オフを切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>※（伊原）ここから確認中</note>
+      <tuv lang="EN-US">
+        <seg>Communicating State</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005205Z" creationid="rikiha" creationdate="20170819T005205Z">
+        <seg>状態を伝える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Communicating the state of functional elements within web interfaces is an important part of making those interfaces inclusive of anyone using assistive technology and who is therefore dependent on the &lt;g1&gt;&lt;g2&gt;accessibility tree&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;22&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005210Z" creationid="rikiha" creationdate="20170819T005210Z">
+        <seg>Webインターフェイスの機能要素の状態を伝えることは、支援技術を利用するユーザー、ひいてはアクセシビリティツリー（脚注119）に依存しているユーザーにとってインクルーシブなインターフェイスを作る上で重要なことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4777,6 +4858,14 @@ visual designはそのままビジュアルデザインでいいかも。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170729T161218Z" creationid="rikiha" creationdate="20170728T142645Z">
         <seg>この方法を提案してくれた&lt;g1&gt;&lt;g2&gt;ダニエル・ゴランソン（Göransson）&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注93）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の功績を称えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Critical JavaScript</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005253Z" creationid="rikiha" creationdate="20170819T005253Z">
+        <seg>JAVASCRIPTは必須</seg>
       </tuv>
     </tu>
     <tu>
@@ -6648,6 +6737,14 @@ imagine と might で二重に推定している形ですが、むしろ何故�
       <tuv lang="JA" changeid="yoota" changedate="20170628T041118Z" creationid="okamoto_jun" creationdate="20170627T073921Z">
         <seg>私はひとこと「デザイナーです」と答えましたが、あなたが私に「&lt;g1&gt;何の&lt;/g1&gt;デザイナーなの？」と聞く前に、共通の友人が私をヒジで突いています。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I think &lt;g3&gt;&lt;g4&gt;&lt;g5&gt;aria-expanded&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;23&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; is probably the solution here because it prompts screen readers to explicitly announce “collapsed” (&lt;g9&gt;false&lt;/g9&gt;) and “expanded” (&lt;g10&gt;true&lt;/g10&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005237Z" creationid="rikiha" creationdate="20170819T005237Z">
+        <seg>ここで役立つのがaria-expanded（脚注120）です。aria-expandedを使えばスクリーンリーダーに明示的に「＃＃collapsed＃＃」（false）、「＃＃expanded＃＃」（true）とアナウンスさせることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8611,6 +8708,14 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Initially, the menu is not open, so &lt;g11&gt;false&lt;/g11&gt; is applicable:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005240Z" creationid="rikiha" creationdate="20170819T005240Z">
+        <seg>初期状態ではメニューは開いていません（つまりfalseです）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Inline Links</seg>
@@ -8849,6 +8954,14 @@ stillは無理に訳さなくても良い気がします。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T075538Z" creationid="yoota" creationdate="20170511T074903Z">
         <seg>創造力を働かせる自由をくれると同時に、&lt;g1&gt;創造力を働かせる自由をくれるのです&lt;/g1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is a popular misconception that screen readers are not reactive to JavaScript triggered DOM changes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005217Z" creationid="rikiha" creationdate="20170819T005217Z">
+        <seg>スクリーンリーダーはJavaScriptでトリガーされたDOMの変更に気づかないと思っている人も多いですが、それは誤解です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10819,6 +10932,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note that I’ve not done anything fancy with CSS positioning or animation here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005313Z" creationid="rikiha" creationdate="20170819T005313Z">
+        <seg>この例では、CSSで手の込んだ配置やアニメーションは一切定義していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 OK
 
@@ -11966,6 +12087,14 @@ Good!</note>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170616T062914Z" creationid="yoota" creationdate="20170606T101411Z">
         <seg>3章「パラグラフ」の「フォーカスを示す」を思い出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember, the accessibility tree is a version of the DOM that exposes the role, property, value and state information the author provides to assistive technology software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005214Z" creationid="rikiha" creationdate="20170819T005214Z">
+        <seg>前述のとおり、アクセシビリティツリーはDOMの一種で、非視覚的なユーザーのために、マークアップ内のアクセシブルな役割（ロール）、プロパティ、値、状態情報が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13177,6 +13306,14 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T063630Z" creationid="yoota" creationdate="20170426T063630Z">
         <seg>なるほど、そうかもしれません。しかし、フォントサイズが大きめだからと言って、若くて眼力の鋭いユーザーが&lt;g1&gt;気分を害する&lt;/g1&gt;とは思えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switching the state of the menu accessibly requires JavaScript.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005255Z" creationid="rikiha" creationdate="20170819T005255Z">
+        <seg>メニューの状態をアクセシブルに切り替えるためにはJavaScriptが必須です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14674,6 +14811,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The menu just appears and disappears by switching the display state via the &lt;g1&gt;hidden&lt;/g1&gt; attribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005315Z" creationid="rikiha" creationdate="20170819T005315Z">
+        <seg>hidden属性を介して表示の状態を切り替えて、メニューを表示したり隠したりしているだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 画像alt、下訳反映。
 
 (岡本) 付いている→ついている</note>
@@ -15882,6 +16027,14 @@ marginは「マージン」で良いかと。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170425T101305Z" creationid="yoota" creationdate="20170425T100645Z">
         <seg>この方法には、ページの最小フォントサイズを確保できるというメリットもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This has three benefits:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005318Z" creationid="rikiha" creationdate="20170819T005318Z">
+        <seg>これには3つのメリットがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17455,6 +17608,14 @@ ourを「先の」などとしつつ調整。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>WAI-ARIA offers a host of state attributes with &lt;g1&gt;true&lt;/g1&gt; and &lt;g2&gt;false&lt;/g2&gt; values to communicate the presence or absence of the state.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005234Z" creationid="rikiha" creationdate="20170819T005234Z">
+        <seg>WAI-ARIAにはステート属性が多数用意されており、true／false値を用いて状態の有無を伝えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 convention は他のところでは「慣習」としていたのでここもそうするべきか?
 
@@ -17869,6 +18030,14 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170715T145537Z" creationid="yoota" creationdate="20170707T083555Z">
         <seg>開発者が統合されたコンポーネント間の動きに注目しているときに、アプリケーション全体で代替テキストが欠落しているというチケットが100件登録されたとして、一体何の役に立つというのでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When focusing the menu button, screen readers should announce something similar to “Site navigation, menu button, collapsed” — all the pertinent information about the region’s menu system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170819T005249Z" creationid="rikiha" creationdate="20170819T005249Z">
+        <seg>メニューボタンにフォーカスすると、「＃＃Site navigation, menu button, collapsed＃＃」といった具合に、その領域のメニューシステムに関係のあるすべての情報が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
