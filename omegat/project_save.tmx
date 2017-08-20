@@ -4824,11 +4824,12 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) こういうことかなと。</note>
       <tuv lang="EN-US">
         <seg>Changes to text nodes and attributes update the buffer, as well as adding or removing elements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005230Z" creationid="rikiha" creationdate="20170819T005230Z">
-        <seg>テキストノードや属性が変更されるとバッファが更新され、さらに要素が追加されたり削除されたりします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T001521Z" creationid="rikiha" creationdate="20170819T005230Z">
+        <seg>要素の追加や削除と同様、テキストノードや属性の変更でもバッファが更新されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17886,11 +17887,12 @@ ourを「先の」などとしつつ調整。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) presence or absence をどうするか。状態の有無というのは変なので、オンオフとしてみました。</note>
       <tuv lang="EN-US">
         <seg>WAI-ARIA offers a host of state attributes with &lt;g1&gt;true&lt;/g1&gt; and &lt;g2&gt;false&lt;/g2&gt; values to communicate the presence or absence of the state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005234Z" creationid="rikiha" creationdate="20170819T005234Z">
-        <seg>WAI-ARIAにはステート属性が多数用意されており、true／false値を用いて状態の有無を伝えることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T002250Z" creationid="rikiha" creationdate="20170819T005234Z">
+        <seg>WAI-ARIAはtrue／false値を持つstate属性によって状態のオンオフを伝えることができます。</seg>
       </tuv>
     </tu>
     <tu>
