@@ -11124,8 +11124,8 @@ https://eow.alc.co.jp/search?q=not+do+anything+fancy</note>
       <tuv lang="EN-US">
         <seg>Note that I’ve not done anything fancy with CSS positioning or animation here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T143923Z" creationid="rikiha" creationdate="20170819T005313Z">
-        <seg>ここでは、CSSによる配置やアニメーションといった手の込んだことは一切しなかった点に注目してください。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T143958Z" creationid="rikiha" creationdate="20170819T005313Z">
+        <seg>ここでは、CSSによる配置やアニメーションによる手の込んだことは一切しなかった点に注目してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15059,11 +15059,12 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 多少調整。</note>
       <tuv lang="EN-US">
         <seg>The menu just appears and disappears by switching the display state via the &lt;g1&gt;hidden&lt;/g1&gt; attribute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005315Z" creationid="rikiha" creationdate="20170819T005315Z">
-        <seg>hidden属性を介して表示の状態を切り替えて、メニューを表示したり隠したりしているだけです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T144233Z" creationid="rikiha" creationdate="20170819T005315Z">
+        <seg>&lt;g1&gt;hidden&lt;/g1&gt;属性によって表示の状態を切り替え、メニューを表示したり隠したりしているだけです。</seg>
       </tuv>
     </tu>
     <tu>
