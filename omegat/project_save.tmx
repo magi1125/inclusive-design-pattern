@@ -3132,8 +3132,8 @@ Allのニュアンスを盛り込むべきかも。
       <tuv lang="EN-US">
         <seg>All popular screen readers listen for changes and update their buffers (their interpreted versions of the DOM using the accessibility tree) each time a change takes place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005228Z" creationid="rikiha" creationdate="20170819T005228Z">
-        <seg>一般的なスクリーンリーダーはバッファの変更や更新（アクセシビリティツリーを用いて解釈されたバージョンのDOM）をその都度リッスンします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T000536Z" creationid="rikiha" creationdate="20170819T005228Z">
+        <seg>一般的なスクリーンリーダーはバッファ（アクセシビリティツリーを用いて解釈したDOMの一種）の変更や更新をその都度リッスンします。</seg>
       </tuv>
     </tu>
     <tu>
