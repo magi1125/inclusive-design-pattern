@@ -6896,11 +6896,12 @@ imagine と might で二重に推定している形ですが、むしろ何故�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順など調整。</note>
       <tuv lang="EN-US">
         <seg>I think &lt;g3&gt;&lt;g4&gt;&lt;g5&gt;aria-expanded&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;23&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; is probably the solution here because it prompts screen readers to explicitly announce “collapsed” (&lt;g9&gt;false&lt;/g9&gt;) and “expanded” (&lt;g10&gt;true&lt;/g10&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005237Z" creationid="rikiha" creationdate="20170819T005237Z">
-        <seg>ここで役立つのがaria-expanded（脚注120）です。aria-expandedを使えばスクリーンリーダーに明示的に「＃＃collapsed＃＃」（false）、「＃＃expanded＃＃」（true）とアナウンスさせることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T003611Z" creationid="rikiha" creationdate="20170819T005237Z">
+        <seg>ここでは、スクリーンリーダーに「＃＃collapsed＃＃」（false）と「＃＃expanded＃＃」（true）を明示的に読み上げさせる&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;aria-expanded&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注120）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;が解決策となるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17891,8 +17892,8 @@ ourを「先の」などとしつつ調整。
       <tuv lang="EN-US">
         <seg>WAI-ARIA offers a host of state attributes with &lt;g1&gt;true&lt;/g1&gt; and &lt;g2&gt;false&lt;/g2&gt; values to communicate the presence or absence of the state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T002545Z" creationid="rikiha" creationdate="20170819T005234Z">
-        <seg>WAI-ARIAはtrue／false値を持つstate属性によって状態の有効／無効を伝えることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T002759Z" creationid="rikiha" creationdate="20170819T005234Z">
+        <seg>WAI-ARIAは&lt;g1&gt;true&lt;/g1&gt;／&lt;g2&gt;false&lt;/g2&gt;値を持つstate属性によって状態の有効／無効を伝えることができます。</seg>
       </tuv>
     </tu>
     <tu>
