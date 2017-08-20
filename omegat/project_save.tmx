@@ -1390,8 +1390,8 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;There’s no CSS dependency for the menu system, meaning it will function regardless of a CSS failure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005320Z" creationid="rikiha" creationdate="20170819T005320Z">
-        <seg>• メニューシステムがCSSに依存しません。したがって、CSSに問題があってもメニューは機能します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T145816Z" creationid="rikiha" creationdate="20170819T005320Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;メニューシステムとCSSに依存関係はありません。これは、CSSの読み込み失敗とは関係なくメニューは動作するということです。</seg>
       </tuv>
     </tu>
     <tu>
