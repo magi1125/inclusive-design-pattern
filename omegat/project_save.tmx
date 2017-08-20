@@ -8876,8 +8876,8 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       <tuv lang="EN-US">
         <seg>Initially, the menu is not open, so &lt;g11&gt;false&lt;/g11&gt; is applicable:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005240Z" creationid="rikiha" creationdate="20170819T005240Z">
-        <seg>初期状態ではメニューは開いていません（つまりfalseです）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T003652Z" creationid="rikiha" creationdate="20170819T005240Z">
+        <seg>最初はメニューが開いていないので、&lt;g11&gt;false&lt;/g11&gt;が適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18325,8 +18325,8 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       <tuv lang="EN-US">
         <seg>When focusing the menu button, screen readers should announce something similar to “Site navigation, menu button, collapsed” — all the pertinent information about the region’s menu system.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005249Z" creationid="rikiha" creationdate="20170819T005249Z">
-        <seg>メニューボタンにフォーカスすると、「＃＃Site navigation, menu button, collapsed＃＃」といった具合に、その領域のメニューシステムに関係のあるすべての情報が読み上げられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T010110Z" creationid="rikiha" creationdate="20170819T005249Z">
+        <seg>メニューボタンにフォーカスした際、スクリーンリーダーは「＃＃Site navigation, menu button, collapsed＃＃」といった具合に読み上げるはずです――その領域のメニューシステムに関する情報のすべてを。</seg>
       </tuv>
     </tu>
     <tu>
