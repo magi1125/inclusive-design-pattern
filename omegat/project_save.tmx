@@ -11119,11 +11119,13 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) Noteを訳出。not do anything fancyで「手の込んだことは一切しない」とのこと。
+https://eow.alc.co.jp/search?q=not+do+anything+fancy</note>
       <tuv lang="EN-US">
         <seg>Note that I’ve not done anything fancy with CSS positioning or animation here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005313Z" creationid="rikiha" creationdate="20170819T005313Z">
-        <seg>この例では、CSSで手の込んだ配置やアニメーションは一切定義していません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T143923Z" creationid="rikiha" creationdate="20170819T005313Z">
+        <seg>ここでは、CSSによる配置やアニメーションといった手の込んだことは一切しなかった点に注目してください。</seg>
       </tuv>
     </tu>
     <tu>
