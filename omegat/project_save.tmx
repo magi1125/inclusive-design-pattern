@@ -4106,11 +4106,12 @@ the previous implementation は div で実装されたボタン、the inclusive 
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) バニラJSって訳注どこかにあったような。</note>
       <tuv lang="EN-US">
         <seg>Because the operation of the menu is a fairly fundamental feature, I’ve written a vanilla JavaScript implementation to embed at the bottom of the page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005258Z" creationid="rikiha" creationdate="20170819T005258Z">
-        <seg>メニューの操作はきわめて基本的な機能なので、次のようなVanilla JavaScript（素のJavaScript）を書き、ページの下部に組み込みます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T135635Z" creationid="rikiha" creationdate="20170819T005258Z">
+        <seg>メニューの操作はきわめて基本的な機能なので、次のようなバニラJavaScript実装を書き、ページ最下部に組み込みました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13535,11 +13536,12 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ふつうに「必要です」でいいかなと。</note>
       <tuv lang="EN-US">
         <seg>Switching the state of the menu accessibly requires JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005255Z" creationid="rikiha" creationdate="20170819T005255Z">
-        <seg>メニューの状態をアクセシブルに切り替えるためにはJavaScriptが必須です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T135002Z" creationid="rikiha" creationdate="20170819T005255Z">
+        <seg>メニューの状態をアクセシブルに切り替えるためにはJavaScriptが必要です。</seg>
       </tuv>
     </tu>
     <tu>
