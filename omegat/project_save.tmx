@@ -3712,8 +3712,8 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       <tuv lang="EN-US">
         <seg>As described, the menu will be visible and usable where JavaScript fails or is switched off, but this way it’s less likely to fail: if the document itself loads, it’s already there in its entirety — no jQuery or other dependency to wait on.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005301Z" creationid="rikiha" creationdate="20170819T005301Z">
-        <seg>前述したように、JavaScriptエラーが生じたりユーザーがJavaScriptをオフにした場合は、最初からメニューが表示され、使用できる状態になります。しかし、この方法ならエラーはほとんど起こりません。ドキュメント自体が読み込まれれば、そこにすでにJavaScriptが書かれており、jQueryなどが読み込まれるのを待つ必要もありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T140618Z" creationid="rikiha" creationdate="20170819T005301Z">
+        <seg>前述したように、JavaScriptの実行に失敗したり、ユーザーがJavaScriptをオフにした場合でも、メニューは表示され使用できます。しかし、この実装方法なら失敗の可能性はより低くなります。ドキュメント自体が読み込まれれば、すでにJavaScriptも完全に存在しているからです――jQueryなどの他の依存ライブラリwo待たされることはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4110,8 +4110,8 @@ the previous implementation は div で実装されたボタン、the inclusive 
       <tuv lang="EN-US">
         <seg>Because the operation of the menu is a fairly fundamental feature, I’ve written a vanilla JavaScript implementation to embed at the bottom of the page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T135635Z" creationid="rikiha" creationdate="20170819T005258Z">
-        <seg>メニューの操作はきわめて基本的な機能なので、次のようなバニラJavaScript実装を書き、ページ最下部に組み込みました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170820T135743Z" creationid="rikiha" creationdate="20170819T005258Z">
+        <seg>メニューの操作はきわめて基本的な機能なので、次のようにページ最下部に組み込むバニラJavaScript実装を書きました。</seg>
       </tuv>
     </tu>
     <tu>
