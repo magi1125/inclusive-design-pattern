@@ -9142,8 +9142,8 @@ stillは無理に訳さなくても良い気がします。
       <tuv lang="EN-US">
         <seg>It announces, “press JAWS key plus Alt plus M to go to controlled element” and offers no way to traverse back.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170818T140138Z" creationid="rikiha" creationdate="20170815T161200Z">
-        <seg>「＃＃press JAWS key plus Alt plus M to go to controlled element＃＃」とアナウンスされますが、移動したあとに戻ってくる方法はありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170821T110733Z" creationid="rikiha" creationdate="20170815T161200Z">
+        <seg>「press JAWS key plus Alt plus M to go to controlled element」とアナウンスされますが、移動したあとに戻ってくる方法はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14618,7 +14618,10 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここのJAW'sは何か意図がありそうな。jawで長々と話す、饒舌に喋る、小言をいう、説教する、ということなので、そのへん掛けてるのでしょうね。ということで意図を汲んでみました。</note>
+      <note>(伊原) ここのJAW'sは何か意図がありそうな。jawで長々と話す、饒舌に喋る、小言をいう、説教する、ということなので、そのへん掛けてるのでしょうね。ということで意図を汲んでみました。
+
+(太田)
+とはいえ説教はよくわからない感じがしますね。</note>
       <tuv lang="EN-US">
         <seg>The attribute is only exposed in JAWS and JAW’s implementation is incomplete and unsatisfactory.</seg>
       </tuv>
