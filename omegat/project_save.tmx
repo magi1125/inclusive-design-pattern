@@ -7166,12 +7166,15 @@ making sure is paramount という構造。
 ヘイドンフレーズですね。
 訳としてはそれで良いと思います。
 populate X はXに殖民するのような意味で、hiddenになっているulを出現させることをたとえているのだと思います。
-ただ、わかりにくいので語順を変えてみました。</note>
+ただ、わかりにくいので語順を変えてみました。
+populateのニュアンスを少し尊重して「メニューを出現させる」としてみました。
+
+</note>
       <tuv lang="EN-US">
         <seg>If the button were outside, users would arrive at an empty landmark with no way to populate it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170821T104912Z" creationid="rikiha" creationdate="20170815T161139Z">
-        <seg>もしボタンがナビゲーションランドマークの外にあると、ユーザーは空っぽのランドマークにたどり着くことになり、そこにメニューを表示させる手立てもありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170821T104949Z" creationid="rikiha" creationdate="20170815T161139Z">
+        <seg>もしボタンがナビゲーションランドマークの外にあると、ユーザーは空っぽのランドマークにたどり着くことになり、そこにメニューを出現させる手立てもありません。</seg>
       </tuv>
     </tu>
     <tu>
