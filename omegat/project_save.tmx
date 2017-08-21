@@ -969,7 +969,13 @@ forego は「先に行く」のような感じですが、他動詞として使�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 原文の構造に倣いました。</note>
+      <note>(伊原) 原文の構造に倣いました。
+
+(太田)
+ちょっと誤訳っぽいかもしれません。ここでは、上記の例が純粋なHTMLのソースコードではなく、JavaScript実行後のDOMの状態を表現しているということを言っています。
+
+
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;In the example above, we imagine that JavaScript has run, meaning it’s safe to hide the menu and reveal the button (hence the &lt;g2&gt;hidden&lt;/g2&gt; attribute that JavaScript has added to the menu &lt;g3&gt;&lt;ul&gt;&lt;/g3&gt;).</seg>
       </tuv>
