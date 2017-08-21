@@ -11750,6 +11750,7 @@ WCAGに従うことは、伝えるよりも良いのです。
 (太田) imgフォールバックに問題が一つしかないと言っているわけではないので、少しニュアンスが強すぎるかも。
 後に問題2が出てくるわけでもないので、Oneは訳さなくても良いように思います。
 「そのリソース」がSVGなのかPNGなのか分かりにくいように思いましたので、the resourceを「フォールバック用の画像」と補ってみました。
+ブラウザがSVGをサポートしていないときにPNGがダウンロードされるのは当然なので、「ブラウザがSVGをサポートしていたとしても」としてみました。
 </note>
       <tuv lang="EN-US">
         <seg>One issue with the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; fallback is that the resource will almost certainly download, whether or not the browser supports SVG, affecting a needless performance hit.</seg>
