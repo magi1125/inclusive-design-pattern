@@ -9092,17 +9092,12 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
 
 (太田)
 目に見えない→見えない (「目に」とつけるとスクリーンリーダーでは読まれるニュアンス、ここでは実際には読まれない)
-
-前の文からのつながりとして、
-「フォーカスできなくて良いのです」
-的なニュアンスを持てば良いように思います。
-
-</note>
+they should never be focusable はそのまま訳すと「決してフォーカスできるようにしてはなりません」で、これで良いのではないかと思います。</note>
       <tuv lang="EN-US">
         <seg>Invisible elements are not for operation, so they should never be focusable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170821T105854Z" creationid="rikiha" creationdate="20170815T161148Z">
-        <seg>見えない要素は操作対象ではないため、決してフォーカスできないようにしておくべきなのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170821T110151Z" creationid="rikiha" creationdate="20170815T161148Z">
+        <seg>見えない要素は操作対象ではないため、決してフォーカスできるようにしてはなりません。</seg>
       </tuv>
     </tu>
     <tu>
