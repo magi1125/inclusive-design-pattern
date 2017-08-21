@@ -9131,12 +9131,14 @@ stillは無理に訳さなくても良い気がします。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順を調整。</note>
+      <note>(伊原) 語順を調整。
+
+(岡本）トリガ→トリガー　　誤解がです→誤解です</note>
       <tuv lang="EN-US">
         <seg>It is a popular misconception that screen readers are not reactive to JavaScript triggered DOM changes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T001217Z" creationid="rikiha" creationdate="20170819T005217Z">
-        <seg>JavaScriptによってトリガされたDOMの変更にスクリーンリーダーは反応しないというのはよくある誤解がです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170821T020812Z" creationid="rikiha" creationdate="20170819T005217Z">
+        <seg>JavaScriptによってトリガーされたDOMの変更にスクリーンリーダーは反応しないというのはよくある誤解です。</seg>
       </tuv>
     </tu>
     <tu>
