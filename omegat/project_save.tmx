@@ -7845,8 +7845,8 @@ it = トランスクリプトと補わないと分かりにくいかも。
       <tuv lang="EN-US">
         <seg>In cases where it is impossible (due to design constraints, company politics or whatever’s standing in your way) to place the subject menu directly after the menu button as prescribed, you can associate the two elements with &lt;g1&gt;aria-controls&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T130745Z" creationid="rikiha" creationdate="20170815T161152Z">
-        <seg>（デザイン上の制約、企業の政治的な問題、その他に立ちふさがる何らかの事情で）メニューボタンの直後にメニューを配置できない場合は、その2つの要素を&lt;g1&gt;aria-controls&lt;/g1&gt;で関連付けることもできます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170821T110535Z" creationid="rikiha" creationdate="20170815T161152Z">
+        <seg>（デザイン上の制約、企業の政治的な問題、その他、立ちふさがる何らかの事情で）メニューボタンの直後にメニューを配置できない場合は、その2つの要素を&lt;g1&gt;aria-controls&lt;/g1&gt;で関連付けることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9092,7 +9092,7 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
 
 (太田)
 目に見えない→見えない (「目に」とつけるとスクリーンリーダーでは読まれるニュアンス、ここでは実際には読まれない)
-they should never be focusable はそのまま訳すと「決してフォーカスできるようにしてはなりません」で、これで良いのではないかと思います。「フォーカスできないようにしておく」だと前の文とのつながりが変な気がします。</note>
+they should never be focusable はそのまま訳すと「絶対にフォーカスできるようにしてはなりません」で、これで良いのではないかと思います。「フォーカスできないようにしておく」だと前の文とのつながりが変な気がします。</note>
       <tuv lang="EN-US">
         <seg>Invisible elements are not for operation, so they should never be focusable.</seg>
       </tuv>
