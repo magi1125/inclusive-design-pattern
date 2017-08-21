@@ -11754,8 +11754,8 @@ WCAGに従うことは、伝えるよりも良いのです。
       <tuv lang="EN-US">
         <seg>One issue with the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; fallback is that the resource will almost certainly download, whether or not the browser supports SVG, affecting a needless performance hit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170821T101540Z" creationid="rikiha" creationdate="20170815T160954Z">
-        <seg>&lt;g1&gt;&lt;img/&gt;&lt;/g1&gt;によるフォールバックの問題は、ブラウザがSVGをサポートしていたとしても、ほぼ確実にフォールバック用の画像がダウンロードされてしまうということです。無駄にパフォーマンスを低下させてしまうことです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170821T101559Z" creationid="rikiha" creationdate="20170815T160954Z">
+        <seg>&lt;g1&gt;&lt;img/&gt;&lt;/g1&gt;によるフォールバックの問題は、ブラウザがSVGをサポートしていたとしても、ほぼ確実にフォールバック用の画像がダウンロードされてしまい、無駄にパフォーマンスを低下させてしまうことです。</seg>
       </tuv>
     </tu>
     <tu>
