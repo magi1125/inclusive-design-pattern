@@ -11842,12 +11842,17 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) こういうニュアンスかしら、と。</note>
+      <note>(伊原) こういうニュアンスかしら、と。
+
+(太田) 前からのつながりで、ユーザーをいらだたせない方法として頼れるのが alt="" だけ、ということでしょうね。
+「&lt;g7&gt;alt=""&lt;/g7&gt;だけが頼りです」としてみました。
+
+</note>
       <tuv lang="EN-US">
         <seg>Only &lt;g7&gt;alt=""&lt;/g7&gt; is reliable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170821T100951Z" creationid="rikiha" creationdate="20170815T160950Z">
-        <seg>頼りになるのは &lt;g7&gt;alt=""&lt;/g7&gt; のみです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170821T101101Z" creationid="rikiha" creationdate="20170815T160950Z">
+        <seg>&lt;g7&gt;alt=""&lt;/g7&gt;だけが頼りです。</seg>
       </tuv>
     </tu>
     <tu>
