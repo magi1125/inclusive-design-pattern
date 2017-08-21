@@ -3484,6 +3484,11 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+OK
+
+svg要素の中のstyle要素でスタイルを指定するとSVG対応ブラウザのみにスタイル指定できるので、これを利用してフォールバック画像を背景にした要素をbackground-image: none; としておくと、ChromeとSafariでは背景画像がダウンロードされなくなるという話。
+</note>
       <tuv lang="EN-US">
         <seg>Artur Ampilogov &lt;g2&gt;&lt;g3&gt;has a workaround using background images&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;20&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
