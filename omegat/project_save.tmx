@@ -973,10 +973,9 @@ forego は「先に行く」のような感じですが、他動詞として使�
 
 (太田)
 ちょっと誤訳っぽいというか、うまく伝わらない表現になっているかもしれません。
-JavaScript has run は完了形であり、JavaScriptが実行済みということです。
-つまりここでは、上記の例が純粋なHTMLのソースコードではなく、JavaScript実行後の (JSによって改変された) DOMの状態を表現しているということを言っています。
+JavaScript has run は完了形であり、JavaScriptが実行済みということです。つまりここでは、上記の例が純粋なHTMLのソースコードではなく、JavaScript実行後の (JSによって改変された) DOMの状態を表現しているということを言っています。これは重要なので、強く訳したいところです。
 「上の例は、JavaScriptが実行された後の状態だと思ってください。」
-としました。</note>
+としてみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;In the example above, we imagine that JavaScript has run, meaning it’s safe to hide the menu and reveal the button (hence the &lt;g2&gt;hidden&lt;/g2&gt; attribute that JavaScript has added to the menu &lt;g3&gt;&lt;ul&gt;&lt;/g3&gt;).</seg>
       </tuv>
