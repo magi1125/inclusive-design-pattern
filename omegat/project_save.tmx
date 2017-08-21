@@ -1329,12 +1329,13 @@ should be なので「なければならない」「必要がある」は強す�
 
 (太田)
  directly &lt;g2&gt;after&lt;/g2&gt; という強調を再現するために「直後」を「すぐ後」としました。
-したがって→これによって、としました。</note>
+したがって→これによって、としました。
+フォーカスできる→フォーカスがあたる</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The menu is placed directly &lt;g2&gt;after&lt;/g2&gt; the &lt;g3&gt;&lt;button&gt;&lt;/g3&gt; in the source order, meaning the first menu item will be the next focusable element after the menu is opened.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170821T105159Z" creationid="rikiha" creationdate="20170815T161142Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;ソースの順序では、メニューは&lt;g3&gt;&lt;button&gt;&lt;/g3&gt;のすぐ&lt;g2&gt;後&lt;/g2&gt;に配置されます。これによって、メニューを開いた後、次にフォーカスできる要素はメニューの最初の項目になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170821T105229Z" creationid="rikiha" creationdate="20170815T161142Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ソースの順序では、メニューは&lt;g3&gt;&lt;button&gt;&lt;/g3&gt;のすぐ&lt;g2&gt;後&lt;/g2&gt;に配置されます。これによって、メニューを開いた後、次にフォーカスがあたる要素はメニューの最初の項目になります。</seg>
       </tuv>
     </tu>
     <tu>
