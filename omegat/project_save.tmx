@@ -11602,7 +11602,7 @@ To come before and after, or at both sides of.
 なかなかひどい英文。
 file name which is irrelevant and, frankly, irritating なのでこれはファイル名にくっついているはず。
 全体はOmitting will mean some screen readers will announce XX.
-franklyは「ぶっちゃけ」くらいでしょうか。なくてもいいような
+franklyは「ぶっちゃけ」くらいでしょうか。なくてもいいような。
 some screen readers will は「スクリーンリーダーは……ことがあります」くらいにしてしまってもいいかも。
 調整してみました。</note>
       <tuv lang="EN-US">
@@ -11846,8 +11846,8 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       <tuv lang="EN-US">
         <seg>Only &lt;g7&gt;alt=""&lt;/g7&gt; is reliable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170817T153404Z" creationid="rikiha" creationdate="20170815T160950Z">
-        <seg>頼りになるのは alt="" のみです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170821T100951Z" creationid="rikiha" creationdate="20170815T160950Z">
+        <seg>頼りになるのは &lt;g7&gt;alt=""&lt;/g7&gt; のみです。</seg>
       </tuv>
     </tu>
     <tu>
