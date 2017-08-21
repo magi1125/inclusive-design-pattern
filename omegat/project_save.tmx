@@ -9091,12 +9091,18 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
       <note>(伊原) should neverなので強めに。
 
 (太田)
-むしろこちらが</note>
+目に見えない→見えない (「目に」とつけるとスクリーンリーダーでは読まれるニュアンス、ここでは読まれもしない)
+
+前の文からのつながりとして、
+「フォーカスできなくて良いのです」
+的なニュアンスを持てば良いように思います。
+
+</note>
       <tuv lang="EN-US">
         <seg>Invisible elements are not for operation, so they should never be focusable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170817T175601Z" creationid="rikiha" creationdate="20170815T161148Z">
-        <seg>目に見えない要素は操作対象ではないため、決してフォーカスできてはなりません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170821T105745Z" creationid="rikiha" creationdate="20170815T161148Z">
+        <seg>見えない要素は操作対象ではないため、決してフォーカスできてはなりません。</seg>
       </tuv>
     </tu>
     <tu>
