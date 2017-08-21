@@ -4110,7 +4110,9 @@ the previous implementation は div で実装されたボタン、the inclusive 
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) バニラJSって訳注どこかにあったような。</note>
+      <note>(伊原) バニラJSって訳注どこかにあったような。
+
+(岡本) 1章始まってすぐのところに、「バニラ」JavaScriptとして登場します。</note>
       <tuv lang="EN-US">
         <seg>Because the operation of the menu is a fairly fundamental feature, I’ve written a vanilla JavaScript implementation to embed at the bottom of the page.</seg>
       </tuv>
