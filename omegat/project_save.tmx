@@ -4126,7 +4126,9 @@ the previous implementation は div で実装されたボタン、the inclusive 
       <note>(伊原) 訳としては合っているが前の段落と繋がらない。なんらか接続詞を補う？
 
 (太田)
-its contents は「その中身」とかで良いかも。</note>
+次の should never の文を調整するとつながりがよくなるかもしれません。
+its contents は「その中身」とかで良いかも。
+</note>
       <tuv lang="EN-US">
         <seg>Because the menu is hidden with &lt;g4&gt;hidden&lt;/g4&gt;, its contents are not focusable when it is closed.</seg>
       </tuv>
@@ -9088,7 +9090,8 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
     <tu>
       <note>(伊原) should neverなので強めに。
 
-(太田) OK</note>
+(太田)
+むしろこちらが</note>
       <tuv lang="EN-US">
         <seg>Invisible elements are not for operation, so they should never be focusable.</seg>
       </tuv>
