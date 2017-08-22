@@ -3083,8 +3083,9 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) いまいち良くわからない…。直訳だと
-「そのメニューは適度に幅広のビューポートに常に存在する必要がある」</note>
+      <note>(伊原) 【要検討】直訳だと
+「そのメニューは適度に幅広のビューポートに常に存在する必要がある」
+となりますが、いまいち良くわからない…。</note>
       <tuv lang="EN-US">
         <seg>Accordingly, the menu should be ever present at reasonably wide viewports.</seg>
       </tuv>
@@ -3996,8 +3997,8 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       <tuv lang="EN-US">
         <seg>At narrower widths, touch operation is more likely — especially when we encroach on mobile and handheld dimensions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005415Z" creationid="rikiha" creationdate="20170819T005415Z">
-        <seg>とりわけビューポートの幅が狭いモバイル機器（携帯端末）ではタッチ操作が主流です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T114755Z" creationid="rikiha" creationdate="20170819T005415Z">
+        <seg>狭い幅では、タッチ操作である可能性が高いでしょう――特にモバイルやハンドヘルドデバイスの寸法に食い込んでいるときは。</seg>
       </tuv>
     </tu>
     <tu>
