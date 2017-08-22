@@ -12807,8 +12807,8 @@ without the clear hierarchy of grouping related sections under a main heading on
       <tuv lang="EN-US">
         <seg>Setting &lt;g4&gt;height: 0;&lt;/g4&gt; and animating to full height would not have this effect, meaning keyboard users would have to tab through invisible elements while the menu is closed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005336Z" creationid="rikiha" creationdate="20170819T005336Z">
-        <seg>？？height: 0;と設定して高さいっぱいまでアニメーションするとこの効果はなく、？？キーボードユーザーは、メニューが閉じているときも、見えない（非表示になっている）要素をTabキーで移動しなければならなくなります。【コメント：不安訳です。原文「Setting height:0; and animating to full height would not have this effect, 」】</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T065852Z" creationid="rikiha" creationdate="20170819T005336Z">
+        <seg>height: 0;と設定して高さいっぱいまでアニメーションするとこの効果はなく、キーボードユーザーは、メニューが閉じているときも、見えない（非表示になっている）要素をTabキーで移動しなければならなくなります。</seg>
       </tuv>
     </tu>
     <tu>
