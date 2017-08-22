@@ -4889,8 +4889,8 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       <tuv lang="EN-US">
         <seg>Changes to text nodes and attributes update the buffer, as well as adding or removing elements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T001521Z" creationid="rikiha" creationdate="20170819T005230Z">
-        <seg>要素の追加や削除と同様、テキストノードや属性の変更でもバッファが更新されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170822T083538Z" creationid="rikiha" creationdate="20170819T005230Z">
+        <seg>テキストノードや属性の変更でもバッファが更新されます。要素の追加や削除のときも同様です。</seg>
       </tuv>
     </tu>
     <tu>
