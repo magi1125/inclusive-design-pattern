@@ -4448,8 +4448,8 @@ composeは作成でいいのか。あとで検討。
       <tuv lang="EN-US">
         <seg>But when users have to reorient their finger, it slows their movement down, and forces them to work harder to hit their target.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005440Z" creationid="rikiha" creationdate="20170819T005440Z">
-        <seg>しかし、このように指の置き方を変えなければならない状況だと、動きが遅くなる上に、ターゲットをタップしづらくなってしまいます」</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T130622Z" creationid="rikiha" creationdate="20170819T005440Z">
+        <seg>しかし、ユーザーが指の向きを変えねばならないのでは、動きが遅くなる上に、ターゲットをタップしづらくなってしまいます」</seg>
       </tuv>
     </tu>
     <tu>
@@ -19692,12 +19692,13 @@ http://postd.cc/nobody-wants-use-your-product/
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) フィードバックを見るために指で隠れないように先端だけでタップするという話。もう少しわかりやすくできないものか。</note>
+      <note>(伊原) フィードバックを見るために指で隠れないように先端だけでタップするという話。もう少しわかりやすくできないものか。
+➞1文にして語順を入れ替えました。</note>
       <tuv lang="EN-US">
         <seg>“Users use the fingertip to hit small touch targets because it gives them the visual feedback they need to know that they’re hitting their target accurately.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T130316Z" creationid="rikiha" creationdate="20170819T005438Z">
-        <seg>「ユーザーは指の先端を使って小さいタッチターゲットをタップします。目標を正確にタップできているかをタッチターゲットからの視覚的なフィードバックで知る必要があるからです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T130904Z" creationid="rikiha" creationdate="20170819T005438Z">
+        <seg>「ユーザーは、目標を正確にタップできているかをタッチターゲットからの視覚的なフィードバックで知る必要があるため、小さいタッチターゲットのタップには指先を使います。</seg>
       </tuv>
     </tu>
     <tu>
