@@ -12166,11 +12166,12 @@ parityは平均化というより、ここでは等価、価値を等しくす�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) omegaTタグや脚注位置などを調整。</note>
       <tuv lang="EN-US">
         <seg>Patrick H Lauke has undertaken &lt;g1&gt;&lt;g2&gt;research for The W3C Mobile Accessibility Taskforce into touch/pointer target size&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;27&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005443Z" creationid="rikiha" creationdate="20170819T005443Z">
-        <seg>パトリック・H・ラーク（Patrick H Lauke）は？？W3C Mobile Accessibility Taskforce？？の依頼で、タッチターゲットとポインターターゲットのサイズに関する調査を行いました。（脚注124）【コメント：原文「The W3C Mobile Accessibility Taskforce」冒頭のTheは大文字になっていますが冠詞と判断しました】</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T131759Z" creationid="rikiha" creationdate="20170819T005443Z">
+        <seg>パトリック・H・ラーク（Patrick H Lauke）は、&lt;g1&gt;&lt;g2&gt;W3C Mobile Accessibility Taskforceのタッチおよびポインターにおけるターゲットサイズの調査&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注124）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を引き受けました。</seg>
       </tuv>
     </tu>
     <tu>
