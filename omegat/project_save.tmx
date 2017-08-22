@@ -3162,20 +3162,20 @@ Allのニュアンスを盛り込むべきかも。
 このバッファは内部のバッファでしょうね。
 大幅に補ってみましたがどうでしょうか。
 
-「その都度リッスン」は誤訳です。
-リッスンはし続けるものです。
+「その都度リッスン」は誤訳です。リッスンはし続けるものです。
 元訳はこういう解釈だと思いますが、
-listen for (changes and update) their buffers each time
+listen for (changes and update) each time
 そうではなく、
-(listen for changes) and (update their buffers each time)
+(listen for changes) and (update each time)
 という解釈が正しいと思われます。
-
+listenは「監視」としてみました。
+「変更を監視し、変更があればその都度バッファを更新」ですね。
 </note>
       <tuv lang="EN-US">
         <seg>All popular screen readers listen for changes and update their buffers (their interpreted versions of the DOM using the accessibility tree) each time a change takes place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170822T082706Z" creationid="rikiha" creationdate="20170819T005228Z">
-        <seg>一般的なスクリーンリーダーはバッファ（アクセシビリティツリーを用いて、DOMをプログラム内部で処理できるようにしたもの）の変更や更新を、その都度リッスンします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170822T083326Z" creationid="rikiha" creationdate="20170819T005228Z">
+        <seg>一般的なスクリーンリーダーは変更を監視し、変更があればその都度バッファ（アクセシビリティツリーを用いて、DOMをプログラム内部で処理できるようにしたもの）を更新します。</seg>
       </tuv>
     </tu>
     <tu>
