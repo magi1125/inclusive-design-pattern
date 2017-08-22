@@ -18086,7 +18086,8 @@ ourを「先の」などとしつつ調整。
       <note>(伊原) presence or absence をどうするか。状態の有無というのは変なので、有効／無効、オンオフとか真偽とか？true/falseで真偽というのは当たり前すぎますが…。
 
 (太田)
-state属性という属性があるわけではないので「状態(state)属性」としました。</note>
+state属性という属性があるわけではないので「状態(state)属性」としました。
+少し調整。</note>
       <tuv lang="EN-US">
         <seg>WAI-ARIA offers a host of state attributes with &lt;g1&gt;true&lt;/g1&gt; and &lt;g2&gt;false&lt;/g2&gt; values to communicate the presence or absence of the state.</seg>
       </tuv>
