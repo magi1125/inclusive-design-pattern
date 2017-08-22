@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3456,11 +3456,12 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) シンプルに。</note>
       <tuv lang="EN-US">
         <seg>Any time spent by a user operating an interface, twisting knobs, pulling levers or tapping buttons is time wasted.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T090315Z" creationid="rikiha" creationdate="20170819T005401Z">
-        <seg>ユーザーがインターフェイスを操作したり、つまみを回したり、レバーを引いたり、ボタンをタップしたりするのに費やされた時間は無駄なものです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T111835Z" creationid="rikiha" creationdate="20170819T005401Z">
+        <seg>ユーザーがインターフェイスを操作したり、つまみを回したり、レバーを引いたり、ボタンをタップしたりするのに費やされる時間は無駄なものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12175,6 +12176,7 @@ parityは平均化というより、ここでは等価、価値を等しくす�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 原文にない括弧をトリ。</note>
       <tuv lang="EN-US">
         <seg>People are not really into using products.</seg>
       </tuv>
@@ -12400,6 +12402,7 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
       </tuv>
     </tu>
     <tu>
+      <note>(伊原)最後の結果と、結果を得ることは並列かなと。</note>
       <tuv lang="EN-US">
         <seg>Rather, people are &lt;g1&gt;more interested in the end result&lt;/g1&gt; and in obtaining that result in the quickest, least intrusive and most efficient manner possible.” – Goran Peuc “&lt;g2&gt;&lt;g3&gt;Nobody Wants To Use Your Product&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;25&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;”</seg>
       </tuv>
@@ -17636,6 +17639,7 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Touch Targets</seg>
       </tuv>
@@ -19549,7 +19553,9 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここに和訳があります。
+      <note>(伊原) ちょっと調整。
+
+ちなみにここに和訳があります。
 http://postd.cc/nobody-wants-use-your-product/
 
 ここで少し意外な事実をお教えましょう。人々は製品を使用ことにあまり興味はありません。ユーザがインターフェースを操作したり、つまみを回したり、レバーを引いたり、ボタンをタップしたりするのはすべて時間の無駄です。むしろ、人々がより興味を持つのは最終結果であり、できるだけ速く、なるべく邪魔の入らない最も効率的な方法で、その結果を得られることに興味があります。</note>
