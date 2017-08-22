@@ -3163,7 +3163,13 @@ Allのニュアンスを盛り込むべきかも。
 大幅に補ってみましたがどうでしょうか。
 
 「その都度リッスン」は誤訳です。
-リッスンはし続けるもので、「都度の変更をリッスンする」ということですね。
+リッスンはし続けるものです。
+元訳はこういう解釈だと思いますが、
+listen for (changes and update) their buffers each time
+そうではなく、
+(listen for changes) and (update their buffers each time)
+という解釈が正しいと思われます。
+
 </note>
       <tuv lang="EN-US">
         <seg>All popular screen readers listen for changes and update their buffers (their interpreted versions of the DOM using the accessibility tree) each time a change takes place.</seg>
