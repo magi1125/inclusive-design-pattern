@@ -6437,7 +6437,11 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 結果としてこうなった的ニュアンスに。</note>
+      <note>(伊原) 結果としてこうなった的ニュアンスに。
+
+(太田)
+これは元訳のほうが正しいかも。
+hidden属性がついているとCSSでは制御できないので、あらかじめ取り除いておく必要があります。</note>
       <tuv lang="EN-US">
         <seg>Hence I’ve removed the &lt;g2&gt;hidden&lt;/g2&gt; attribute and would supply this CSS:</seg>
       </tuv>
