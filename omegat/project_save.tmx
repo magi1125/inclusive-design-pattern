@@ -6442,7 +6442,8 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
 (太田)
 これは元訳のほうが正しいかも。
 HTML的にhidden属性がついたままだとCSSでは制御できない (hidden属性のほうが強い) ので、あらかじめ取り除いておく必要があるという話ではないでしょうか。
-Henceは「取り除いたのでCSSで制御できます」的なニュアンスで書いているのだと思いますが、そのまま訳すと分かりにくいので意訳しつつ調整してみました。</note>
+Henceは「取り除いたのでCSSで制御できます」的なニュアンスで書いているのだと思いますが、そのまま訳すと分かりにくいので意訳しつつ調整してみました。
+</note>
       <tuv lang="EN-US">
         <seg>Hence I’ve removed the &lt;g2&gt;hidden&lt;/g2&gt; attribute and would supply this CSS:</seg>
       </tuv>
