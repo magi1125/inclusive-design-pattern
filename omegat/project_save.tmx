@@ -792,6 +792,7 @@ JISではbypass block を「ブロックスキップ」としています。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Background images for icon rendering.</seg>
       </tuv>
@@ -1128,11 +1129,12 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここはaccessible nameかなと。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Omitting accessible names and labels.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005530Z" creationid="rikiha" creationdate="20170819T005530Z">
-        <seg>• アクセシブルな名前やラベルを付けない。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T152216Z" creationid="rikiha" creationdate="20170819T005530Z">
+        <seg>• アクセシブルな名前（name）やラベルを省略する。</seg>
       </tuv>
     </tu>
     <tu>
