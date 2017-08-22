@@ -18537,12 +18537,12 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
 
 (太田)
 NVDA2017.2jaで「site ナビゲーション ランドマーク menu  ボタン  折りたたみ」という読みでした。原文は「ランドマーク」の読みが抜けていますね。
-上のソースコード中の"site" と"menu"はそのままカタカナに訳す感じでしょうか。</note>
+上のソースコード中の"site" と"menu"はそのままカタカナに訳す感じと想定してカタカナに。</note>
       <tuv lang="EN-US">
         <seg>When focusing the menu button, screen readers should announce something similar to “Site navigation, menu button, collapsed” — all the pertinent information about the region’s menu system.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T010110Z" creationid="rikiha" creationdate="20170819T005249Z">
-        <seg>メニューボタンにフォーカスした際、スクリーンリーダーは「＃＃Site navigation, menu button, collapsed＃＃」といった具合に読み上げるはずです――その領域のメニューシステムに関する情報のすべてを。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170822T085748Z" creationid="rikiha" creationdate="20170819T005249Z">
+        <seg>メニューボタンにフォーカスした際、スクリーンリーダーは「サイト ナビゲーション ランドマーク メニュー  ボタン  折りたたみ」といった具合に読み上げるはずです――その領域のメニューシステムに関する情報のすべてを。</seg>
       </tuv>
     </tu>
     <tu>
