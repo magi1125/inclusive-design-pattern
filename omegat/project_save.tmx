@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4019,11 +4019,12 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) Avoid the temptationなので、こういうこと？</note>
       <tuv lang="EN-US">
         <seg>Avoid the temptation, though, to add animations — especially ones which depend on CSS positioning — just to impress users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005343Z" creationid="rikiha" creationdate="20170819T005343Z">
-        <seg>ユーザーの目を引くためだけに、むやみにアニメーションを追加するのはやめましょう。特にCSS配置に頼ったアニメーションはお勧めしません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T080151Z" creationid="rikiha" creationdate="20170819T005343Z">
+        <seg>ユーザーに印象づけるためだけの――特にCSSによる配置に頼った――アニメーションを追加したくなる誘惑からは逃れてください。</seg>
       </tuv>
     </tu>
     <tu>
