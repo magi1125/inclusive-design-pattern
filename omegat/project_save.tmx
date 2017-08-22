@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10673,11 +10673,12 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) realを訳出。</note>
       <tuv lang="EN-US">
         <seg>Most real users just want to get things done.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005348Z" creationid="rikiha" creationdate="20170819T005348Z">
-        <seg>たいていのユーザーはただ「目的を達成したい」だけなのです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T082228Z" creationid="rikiha" creationdate="20170819T005348Z">
+        <seg>しかし実在するほとんどのユーザーはただ目的を達成したいだけなのです。</seg>
       </tuv>
     </tu>
     <tu>
