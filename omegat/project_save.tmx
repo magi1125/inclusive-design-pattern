@@ -3491,8 +3491,8 @@ hueは正確には色相ですが、まあ色で良いかなと。
       <tuv lang="EN-US">
         <seg>Apple and Android differ in their advice on touch targets with Apple recommending 44 points × 44 points (a density-independent unit of measure related to pixels and unique to Apple) and Android 48px × 48px.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005430Z" creationid="rikiha" creationdate="20170819T005430Z">
-        <seg>タッチターゲットの推奨最小サイズは、Appleが44 × 44ポイント（密度に依存しない、ピクセル対応のApple独自の測定単位）、Androidが48 × 48ピクセルと、AppleとAndroidで異なります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T124121Z" creationid="rikiha" creationdate="20170819T005430Z">
+        <seg>AppleとAndroidでは、タッチターゲットに関するアドバイスが異なります。Appleは44pt × 44pt（ピクセル密度とは独立したApple特有の測定単位）、Androidが48px × 48pxを推奨しています。</seg>
       </tuv>
     </tu>
     <tu>
