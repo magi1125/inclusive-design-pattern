@@ -1410,6 +1410,7 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) メモ消えてる。CSS failureを読み込み失敗としました（記述の失敗だとメニューが機能しないかもしれないため）。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;There’s no CSS dependency for the menu system, meaning it will function regardless of a CSS failure.</seg>
       </tuv>
