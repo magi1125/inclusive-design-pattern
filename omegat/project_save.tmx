@@ -17923,12 +17923,16 @@ ourを「先の」などとしつつ調整。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 状態の変化＝メニューの開閉なので、前の段落を受けるように語順を調整。</note>
+      <note>(伊原) 状態の変化＝メニューの開閉なので、前の段落を受けるように語順を調整。
+
+(太田)
+いずれにしても「この状態の変化」だけでは伝わりきらないような気がします。「メニューの開閉状態の変化」としつつ、語順戻すのが良いのではないでしょうか。
+視覚以外→視覚に頼らない、としました。</note>
       <tuv lang="EN-US">
         <seg>Using JavaScript and WAI-ARIA we can communicate this change in state non-visually.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170818T153315Z" creationid="rikiha" creationdate="20170815T161237Z">
-        <seg>この状態の変化を、JavaScriptとWAI-ARIAを使って視覚的ではない方法で伝えることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170822T054230Z" creationid="rikiha" creationdate="20170815T161237Z">
+        <seg>JavaScriptとWAI-ARIAを使えば、メニューの開閉状態の変化を、視覚に頼らない方法で伝えることができます。</seg>
       </tuv>
     </tu>
     <tu>
