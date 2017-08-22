@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12822,11 +12822,12 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) わかりにくいのでひとまず2文に分割。それでもあまり分かりやすくは無いような。</note>
       <tuv lang="EN-US">
         <seg>Setting &lt;g4&gt;height: 0;&lt;/g4&gt; and animating to full height would not have this effect, meaning keyboard users would have to tab through invisible elements while the menu is closed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T065852Z" creationid="rikiha" creationdate="20170819T005336Z">
-        <seg>height: 0;と設定して高さいっぱいまでアニメーションするとこの効果はなく、キーボードユーザーは、メニューが閉じているときも、見えない（非表示になっている）要素をTabキーで移動しなければならなくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T074002Z" creationid="rikiha" creationdate="20170819T005336Z">
+        <seg>&lt;g4&gt;height: 0;&lt;/g4&gt;の指定からメニューの高さ分までアニメーションしつつ表示するという方法だと、この効果は得られません。キーボードユーザーは、メニューが閉じているときも、目に見えない要素をTabキーで移動しなければならなくなります。</seg>
       </tuv>
     </tu>
     <tu>
