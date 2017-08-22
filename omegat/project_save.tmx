@@ -17661,11 +17661,12 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 1文にしました。</note>
       <tuv lang="EN-US">
         <seg>Touch target size issues are exacerbated in mobile-sized navigation regions because of the links’ proximity.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005446Z" creationid="rikiha" creationdate="20170819T005446Z">
-        <seg>タッチターゲットのサイズの問題がより顕著になるのがモバイルサイズのナビゲーション領域です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T132104Z" creationid="rikiha" creationdate="20170819T005446Z">
+        <seg>モバイルサイズのナビゲーション領域ではリンク同士が近接するため、タッチターゲットサイズの問題がより悪化します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18673,11 +18674,12 @@ shouldを「はずです」はちょっと強い感じなので「でしょう�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) activatedがアクティブでよいかどうか。</note>
       <tuv lang="EN-US">
         <seg>When the surface of your finger spans more than one element, it could be either element that is activated when pressure is applied.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005448Z" creationid="rikiha" creationdate="20170819T005448Z">
-        <seg>原因はリンク同士が近接していることです。ユーザーの指の腹が複数の要素にまたがってしまうと、圧力がかかったいずれかの要素がアクティブになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T133047Z" creationid="rikiha" creationdate="20170819T005448Z">
+        <seg>指の腹が複数の要素にまたがると、圧力が加わったどちらの要素もアクティブになり得ます。</seg>
       </tuv>
     </tu>
     <tu>
