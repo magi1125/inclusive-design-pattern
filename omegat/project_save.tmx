@@ -12432,7 +12432,9 @@ Good!</note>
     </tu>
     <tu>
       <note>(伊原)
-語順としてはこうなのでは。DOMの一種としてよいかどうか。roleとかstateはそのままのほうがよいか。</note>
+語順としてはこうなのでは。DOMの一種としてよいかどうか。roleとかstateはそのままのほうがよいか。
+
+(太田) DOMの変種、でしょうね。</note>
       <tuv lang="EN-US">
         <seg>Remember, the accessibility tree is a version of the DOM that exposes the role, property, value and state information the author provides to assistive technology software.</seg>
       </tuv>
