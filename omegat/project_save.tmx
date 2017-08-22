@@ -3083,11 +3083,13 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) いまいち良くわからない…。直訳だと
+「そのメニューは適度に幅広のビューポートに常に存在する必要がある」</note>
       <tuv lang="EN-US">
         <seg>Accordingly, the menu should be ever present at reasonably wide viewports.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005412Z" creationid="rikiha" creationdate="20170819T005412Z">
-        <seg>したがって、メニューを表示できるように、ビューポートの幅はそれなりに広くなければなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T114035Z" creationid="rikiha" creationdate="20170819T005412Z">
+        <seg>したがって、メニューは常に適度な幅のビューポートに存在するはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3834,6 +3836,7 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>As stated, hidden content which depends on a user action to be revealed is a last resort.</seg>
       </tuv>
