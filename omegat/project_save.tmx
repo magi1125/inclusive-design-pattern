@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3459,8 +3459,8 @@ hueは正確には色相ですが、まあ色で良いかなと。
       <tuv lang="EN-US">
         <seg>Any time spent by a user operating an interface, twisting knobs, pulling levers or tapping buttons is time wasted.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005401Z" creationid="rikiha" creationdate="20170819T005401Z">
-        <seg>ユーザーがインターフェイスの操作や、つまみをひねったりレバーを引いたりボタンを押したりするのに費やす時間は、すべて無駄な時間というわけです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T090315Z" creationid="rikiha" creationdate="20170819T005401Z">
+        <seg>ユーザーがインターフェイスを操作したり、つまみを回したり、レバーを引いたり、ボタンをタップしたりするのに費やされた時間は無駄なものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12178,8 +12178,8 @@ parityは平均化というより、ここでは等価、価値を等しくす�
       <tuv lang="EN-US">
         <seg>People are not really into using products.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005358Z" creationid="rikiha" creationdate="20170819T005358Z">
-        <seg>人々は製品を「使う」こと自体にはあまり興味がありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T085845Z" creationid="rikiha" creationdate="20170819T005358Z">
+        <seg>人々は製品を使いたいわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12403,9 +12403,9 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
       <tuv lang="EN-US">
         <seg>Rather, people are &lt;g1&gt;more interested in the end result&lt;/g1&gt; and in obtaining that result in the quickest, least intrusive and most efficient manner possible.” – Goran Peuc “&lt;g2&gt;&lt;g3&gt;Nobody Wants To Use Your Product&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;25&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005404Z" creationid="rikiha" creationdate="20170819T005404Z">
-        <seg>人々の関心は、最終的な結果と、その結果をいかに早く、いかに簡単に、いかに効率的に得られるかということに向けられているのですから」
-— 「Nobody Wants To Use Your Product」、ゴラン・？？ポイク？？（Goran Peuc）（脚注122）【コメント：人名のカナ表記に問題ないかご確認ください】</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T091230Z" creationid="rikiha" creationdate="20170819T005404Z">
+        <seg>むしろ、人々が&lt;g1&gt;より関心があるのは最後の結果&lt;/g1&gt;であり、迅速で、手間がかからず、可能な限り最も効率的な方法でその結果を得ることです。」
+— ゴラン・ポイク（Goran Peuc）&lt;g2&gt;&lt;g3&gt;「Nobody Wants To Use Your Product」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注122）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19549,11 +19549,15 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここに和訳があります。
+http://postd.cc/nobody-wants-use-your-product/
+
+ここで少し意外な事実をお教えましょう。人々は製品を使用ことにあまり興味はありません。ユーザがインターフェースを操作したり、つまみを回したり、レバーを引いたり、ボタンをタップしたりするのはすべて時間の無駄です。むしろ、人々がより興味を持つのは最終結果であり、できるだけ速く、なるべく邪魔の入らない最も効率的な方法で、その結果を得られることに興味があります。</note>
       <tuv lang="EN-US">
         <seg>“Here is a little revelation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005354Z" creationid="rikiha" creationdate="20170819T005354Z">
-        <seg>「ちょっとした新事実をお伝えしましょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T083308Z" creationid="rikiha" creationdate="20170819T005354Z">
+        <seg>「少し意外な事実をお伝えしましょう。</seg>
       </tuv>
     </tu>
     <tu>
