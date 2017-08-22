@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -783,11 +783,12 @@ JISではbypass block を「ブロックスキップ」としています。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順調整、カッコの位置調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;As previously mentioned, the &lt;g2&gt;hidden&lt;/g2&gt; attribute (like &lt;g3&gt;display: none;&lt;/g3&gt;) on a parent element makes any interactive element children unfocusable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005332Z" creationid="rikiha" creationdate="20170819T005332Z">
-        <seg>• 前述したように、親要素にhidden属性を指定すると、display: none;同様、子のインタラクティブ要素はフォーカスできなくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T065550Z" creationid="rikiha" creationdate="20170819T005332Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;前述したように、&lt;g2&gt;hidden&lt;/g2&gt;属性（&lt;g3&gt;display: none;&lt;/g3&gt;も同様）を親要素に指定すると、インタラクティブな子要素にはフォーカスできなくなります。</seg>
       </tuv>
     </tu>
     <tu>
