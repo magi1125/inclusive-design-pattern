@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14621,9 +14621,9 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       <note>(伊原) ここのJAW'sは何か意図がありそうな。jawで長々と話す、饒舌に喋る、小言をいう、説教する、ということなので、そのへん掛けてるのでしょうね。ということで意図を汲んでみました。
 
 (太田)
-jaw はスラングで Impudent or abusive talk. 
+jaw は動詞だとスラングで Impudent or abusive talk. 
 意図は了解ですが、とはいえ説教というのはよくわからない感じがしますね。
-</note>
+ここでは名詞なので単に「アゴ」の意味かも。</note>
       <tuv lang="EN-US">
         <seg>The attribute is only exposed in JAWS and JAW’s implementation is incomplete and unsatisfactory.</seg>
       </tuv>
