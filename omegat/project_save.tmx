@@ -796,8 +796,8 @@ JISではbypass block を「ブロックスキップ」としています。
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Background images for icon rendering.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005527Z" creationid="rikiha" creationdate="20170819T005527Z">
-        <seg>• アイコンの表示に背景画像を使用する。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T152301Z" creationid="rikiha" creationdate="20170819T005527Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;アイコンの表示に背景画像を使用する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,11 +910,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) foregoを訳出。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Foregoing accessible state communication.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005544Z" creationid="rikiha" creationdate="20170819T005544Z">
-        <seg>• 状態をアクセシブルに伝えない。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T153027Z" creationid="rikiha" creationdate="20170819T005544Z">
+        <seg>• 状態をアクセシブルに伝えることを放棄する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1133,8 +1134,8 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Omitting accessible names and labels.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T152216Z" creationid="rikiha" creationdate="20170819T005530Z">
-        <seg>• アクセシブルな名前（name）やラベルを省略する。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T152308Z" creationid="rikiha" creationdate="20170819T005530Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;アクセシブルな名前（name）やラベルを省略する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1245,8 +1246,8 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Small touch (or hit) areas.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005533Z" creationid="rikiha" creationdate="20170819T005533Z">
-        <seg>• タッチ（タップ）領域を小さくする。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T152313Z" creationid="rikiha" creationdate="20170819T005533Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;小さなタッチ（またはヒット）領域。</seg>
       </tuv>
     </tu>
     <tu>
