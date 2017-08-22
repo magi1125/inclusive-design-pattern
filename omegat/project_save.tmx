@@ -9139,7 +9139,10 @@ stillは無理に訳さなくても良い気がします。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+aria-controlsの読み上げは緑本の時点で確認していますが、最新版でどうなっているか確認できれば確認したい。
+
+</note>
       <tuv lang="EN-US">
         <seg>It announces, “press JAWS key plus Alt plus M to go to controlled element” and offers no way to traverse back.</seg>
       </tuv>
