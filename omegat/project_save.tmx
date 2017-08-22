@@ -787,8 +787,8 @@ JISではbypass block を「ブロックスキップ」としています。
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;As previously mentioned, the &lt;g2&gt;hidden&lt;/g2&gt; attribute (like &lt;g3&gt;display: none;&lt;/g3&gt;) on a parent element makes any interactive element children unfocusable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T065550Z" creationid="rikiha" creationdate="20170819T005332Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;前述したように、&lt;g2&gt;hidden&lt;/g2&gt;属性（&lt;g3&gt;display: none;&lt;/g3&gt;も同様）を親要素に指定すると、インタラクティブな子要素にはフォーカスできなくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T070016Z" creationid="rikiha" creationdate="20170819T005332Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;前述したように、親要素に&lt;g2&gt;hidden&lt;/g2&gt;属性（&lt;g3&gt;display: none;&lt;/g3&gt;も同様）を指定すると、インタラクティブな子要素にはフォーカスできなくなります。</seg>
       </tuv>
     </tu>
     <tu>
