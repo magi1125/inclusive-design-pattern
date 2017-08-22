@@ -4882,7 +4882,10 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) こういうことかなと。</note>
+      <note>(伊原) こういうことかなと。
+
+(太田) そういうことですね。
+要素の話をしていないのにいきなり「要素と同様」と言われると面食らうので、語順含め調整しました。</note>
       <tuv lang="EN-US">
         <seg>Changes to text nodes and attributes update the buffer, as well as adding or removing elements.</seg>
       </tuv>
