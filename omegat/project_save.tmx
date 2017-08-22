@@ -12445,8 +12445,8 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
       <tuv lang="EN-US">
         <seg>Remember, the accessibility tree is a version of the DOM that exposes the role, property, value and state information the author provides to assistive technology software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T235159Z" creationid="rikiha" creationdate="20170819T005214Z">
-        <seg>前述のとおり、アクセシビリティツリーはDOMの一種で、ページ作成者が支援技術に提供する役割、プロパティ、値および状態の情報を明らかにするものです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170822T073658Z" creationid="rikiha" creationdate="20170819T005214Z">
+        <seg>前述のとおり、アクセシビリティツリーはDOMに役割(role)、プロパティ、値、状態(state)、などの情報を加え、支援技術に提供できるようにしたものです。</seg>
       </tuv>
     </tu>
     <tu>
