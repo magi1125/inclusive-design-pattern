@@ -7859,12 +7859,13 @@ it = トランスクリプトと補わないと分かりにくいかも。
 
 (岡本)　関連付ける→関連づける
 
-(太田) impossibleという強い言葉が使われているので「配置することが不可能」としてみました。</note>
+(太田) impossibleという強い言葉が使われているので「配置することが不可能」としてみました。
+後のほうで「話を戻す」という話が出てくるので、ここではいったん脱線する形になっています。そのことがわかりやすくなるように「ちなみに」と補ってみました。</note>
       <tuv lang="EN-US">
         <seg>In cases where it is impossible (due to design constraints, company politics or whatever’s standing in your way) to place the subject menu directly after the menu button as prescribed, you can associate the two elements with &lt;g1&gt;aria-controls&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170821T111250Z" creationid="rikiha" creationdate="20170815T161152Z">
-        <seg>（デザイン上の制約、企業の政治的な問題、その他、立ちふさがる何らかの事情によって）メニューボタンの直後にメニューを配置することが不可能な場合は、その2つの要素を&lt;g1&gt;aria-controls&lt;/g1&gt;で関連づけることもできます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170822T052705Z" creationid="rikiha" creationdate="20170815T161152Z">
+        <seg>ちなみに、（デザイン上の制約、企業の政治的な問題、その他、立ちふさがる何らかの事情によって）メニューボタンの直後にメニューを配置することが不可能な場合は、その2つの要素を&lt;g1&gt;aria-controls&lt;/g1&gt;で関連づけることもできます。</seg>
       </tuv>
     </tu>
     <tu>
