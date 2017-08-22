@@ -6441,7 +6441,7 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
 
 (太田)
 これは元訳のほうが正しいかも。
-HTML的にhidden属性がついているとCSSでは制御できないので、あらかじめ取り除いておく必要があるという話ではないでしょうか。
+HTML的にhidden属性がついたままだとCSSでは制御できないので、あらかじめ取り除いておく必要があるという話ではないでしょうか。
 調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Hence I’ve removed the &lt;g2&gt;hidden&lt;/g2&gt; attribute and would supply this CSS:</seg>
