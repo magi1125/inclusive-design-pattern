@@ -18083,12 +18083,15 @@ ourを「先の」などとしつつ調整。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) presence or absence をどうするか。状態の有無というのは変なので、有効／無効、オンオフとか真偽とか？true/falseで真偽というのは当たり前すぎますが…。</note>
+      <note>(伊原) presence or absence をどうするか。状態の有無というのは変なので、有効／無効、オンオフとか真偽とか？true/falseで真偽というのは当たり前すぎますが…。
+
+(太田)
+state属性という属性があるわけではないので「状態(state)属性」としました。</note>
       <tuv lang="EN-US">
         <seg>WAI-ARIA offers a host of state attributes with &lt;g1&gt;true&lt;/g1&gt; and &lt;g2&gt;false&lt;/g2&gt; values to communicate the presence or absence of the state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T002759Z" creationid="rikiha" creationdate="20170819T005234Z">
-        <seg>WAI-ARIAは&lt;g1&gt;true&lt;/g1&gt;／&lt;g2&gt;false&lt;/g2&gt;値を持つstate属性によって状態の有効／無効を伝えることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170822T083905Z" creationid="rikiha" creationdate="20170819T005234Z">
+        <seg>WAI-ARIAは&lt;g1&gt;true&lt;/g1&gt;と&lt;g2&gt;false&lt;/g2&gt;の値を持つ状態(state)属性を提供しており、これによって状態の有効／無効を伝えることができます。</seg>
       </tuv>
     </tu>
     <tu>
