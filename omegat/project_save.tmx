@@ -9140,14 +9140,17 @@ stillは無理に訳さなくても良い気がします。
     </tu>
     <tu>
       <note>(太田) OK
-aria-controlsの読み上げは緑本の時点で確認していますが、最新版でどうなっているか確認できれば確認したい。
+aria-controlsの読み上げは緑本の時点で確認していて
+"use JAWS key + ALT + M to move to controlled element"
+と英語で読み上げられるとのことでした (原文で press となっているのは最近のJAWSで変化したのか?)
+最新の日本語版でどうなっているか確認できれば確認したい。
 
 </note>
       <tuv lang="EN-US">
         <seg>It announces, “press JAWS key plus Alt plus M to go to controlled element” and offers no way to traverse back.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170821T110733Z" creationid="rikiha" creationdate="20170815T161200Z">
-        <seg>「press JAWS key plus Alt plus M to go to controlled element」とアナウンスされますが、移動したあとに戻ってくる方法はありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170822T025038Z" creationid="rikiha" creationdate="20170815T161200Z">
+        <seg>「use JAWS key + ALT + M to move to controlled element」とアナウンスされますが、移動したあとに戻ってくる方法はありません。</seg>
       </tuv>
     </tu>
     <tu>
