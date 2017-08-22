@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3569,11 +3569,12 @@ svg要素の中のstyle要素でスタイルを指定するとSVG対応ブラウ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) other designerは、つまりインクルーシブデザイナー以外のデザイナーということかなと。意訳ですが「多くのデザイナー」としてみました。</note>
       <tuv lang="EN-US">
         <seg>As I wrote in “&lt;g1&gt;&lt;g2&gt;The Precarious X In UX&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;24&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” only &lt;g6&gt;other designers&lt;/g6&gt; tend to be enamored with the finer aesthetic points of the interface itself.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005345Z" creationid="rikiha" creationdate="20170819T005345Z">
-        <seg>「The Precarious X In UX」（脚注121）にも書きましたが、インターフェイス自体の細部の美しさにこだわるのはWebデザイナーだけと言ってもいいでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T082027Z" creationid="rikiha" creationdate="20170819T005345Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;「The Precarious X In UX」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注121）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;にも書きましたが、多くのデザイナーはインターフェイス自体の細部の美しさに夢中になりがちです。</seg>
       </tuv>
     </tu>
     <tu>
