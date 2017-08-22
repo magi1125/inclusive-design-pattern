@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4856,11 +4856,12 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 多くのデザイナーは細部に夢中になりがち　➞　インクルーシブデザイナーは目的達成に応える　ということで、語順を調整しました。</note>
       <tuv lang="EN-US">
         <seg>Catering to them is top priority to an inclusive designer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005351Z" creationid="rikiha" creationdate="20170819T005351Z">
-        <seg>その要求に応えることこそ、インクルーシブデザイナーの最優先課題です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T082602Z" creationid="rikiha" creationdate="20170819T005351Z">
+        <seg>インクルーシブデザイナーの最優先課題は、それに応えることです。</seg>
       </tuv>
     </tu>
     <tu>
