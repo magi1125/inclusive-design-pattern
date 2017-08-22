@@ -2529,6 +2529,7 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;“Aaargh!</seg>
       </tuv>
@@ -5477,6 +5478,7 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Ever heard of vertical padding?”&lt;/g3&gt;</seg>
       </tuv>
@@ -6949,11 +6951,12 @@ imagine と might で二重に推定している形ですが、むしろ何故�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) うまく押せないというか、選び間違えるということなのかなと。</note>
       <tuv lang="EN-US">
         <seg>I keep hitting the wrong one.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T134040Z" creationid="rikiha" creationdate="20170819T005503Z">
-        <seg>何度やってもうまく押せない！</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T134338Z" creationid="rikiha" creationdate="20170819T005503Z">
+        <seg>また押し間違った！</seg>
       </tuv>
     </tu>
     <tu>
