@@ -2532,8 +2532,8 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;“Aaargh!</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005500Z" creationid="rikiha" creationdate="20170819T005500Z">
-        <seg>「あー、もう！</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T133957Z" creationid="rikiha" creationdate="20170819T005500Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;「あー、もう！</seg>
       </tuv>
     </tu>
     <tu>
@@ -6952,8 +6952,8 @@ imagine と might で二重に推定している形ですが、むしろ何故�
       <tuv lang="EN-US">
         <seg>I keep hitting the wrong one.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T005503Z" creationid="rikiha" creationdate="20170819T005503Z">
-        <seg>何度やってもうまく押せないよ！</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T134040Z" creationid="rikiha" creationdate="20170819T005503Z">
+        <seg>何度やってもうまく押せない！</seg>
       </tuv>
     </tu>
     <tu>
@@ -10701,11 +10701,12 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) alt下訳から反映しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>Menu items which are not tall enough under a finger for accurate targeting.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T133916Z" creationid="rikiha" creationdate="20170822T133916Z">
-        <seg>指で正確に狙うには高さが不十分なメニュー項目群。.</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T133942Z" creationid="rikiha" creationdate="20170822T133916Z">
+        <seg>指で正確に狙うには高さが不十分なメニュー項目群。</seg>
       </tuv>
     </tu>
     <tu>
