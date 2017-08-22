@@ -10273,8 +10273,8 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <tuv lang="EN-US">
         <seg>Let’s put that to one side and go back to discussing our button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170818T151903Z" creationid="rikiha" creationdate="20170815T161227Z">
-        <seg>この話はいったん置いておき、ボタンの議論に戻りましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170822T051102Z" creationid="rikiha" creationdate="20170815T161227Z">
+        <seg>さて、ボタンの議論に戻りましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13069,6 +13069,8 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「近接性」はちょっとひっかかりますね。</note>
       <tuv lang="EN-US">
         <seg>Since proximity isn’t an issue in our case, the button is really a better fit.</seg>
       </tuv>
