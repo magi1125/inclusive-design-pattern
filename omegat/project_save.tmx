@@ -4914,12 +4914,16 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
     </tu>
     <tu>
       <note>(伊原) インターフェイスという時点でfunctional element感があるので省略。
-1文が長いので「アクセシビリティツリーを頼りにする支援技術のユーザー」とまとめてしまってもいいような。</note>
+1文が長いので「アクセシビリティツリーを頼りにする支援技術のユーザー」とまとめてしまってもいいような。
+
+(太田) 2文にしてもいいかも。
+
+</note>
       <tuv lang="EN-US">
         <seg>Communicating the state of functional elements within web interfaces is an important part of making those interfaces inclusive of anyone using assistive technology and who is therefore dependent on the &lt;g1&gt;&lt;g2&gt;accessibility tree&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;22&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170819T233953Z" creationid="rikiha" creationdate="20170819T005210Z">
-        <seg>Webインターフェイスの状態を伝えることは、支援技術のユーザー、すなわち&lt;g1&gt;&lt;g2&gt;アクセシビリティツリー&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注119）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を頼りにするユーザーに対してインクルーシブにするうえで重要なことです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170822T071836Z" creationid="rikiha" creationdate="20170819T005210Z">
+        <seg>支援技術のユーザーにWebインターフェイスの状態を伝えることは、インターフェイスをインクルーシブにするうえで重要なことです。すなわち&lt;g1&gt;&lt;g2&gt;アクセシビリティツリー&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注119）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を頼りにするユーザー</seg>
       </tuv>
     </tu>
     <tu>
