@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -787,8 +787,8 @@ JISではbypass block を「ブロックスキップ」としています。
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;As previously mentioned, the &lt;g2&gt;hidden&lt;/g2&gt; attribute (like &lt;g3&gt;display: none;&lt;/g3&gt;) on a parent element makes any interactive element children unfocusable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T070016Z" creationid="rikiha" creationdate="20170819T005332Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;前述したように、親要素に&lt;g2&gt;hidden&lt;/g2&gt;属性（&lt;g3&gt;display: none;&lt;/g3&gt;も同様）を指定すると、インタラクティブな子要素にはフォーカスできなくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170822T073036Z" creationid="rikiha" creationdate="20170819T005332Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;前述したように、親要素に&lt;g2&gt;hidden&lt;/g2&gt;属性（&lt;g3&gt;display: none;&lt;/g3&gt;も同様）を指定することで、インタラクティブな子要素にフォーカスできなくなります。</seg>
       </tuv>
     </tu>
     <tu>
