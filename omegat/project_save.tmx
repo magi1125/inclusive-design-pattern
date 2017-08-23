@@ -3051,13 +3051,13 @@ divergeは分岐する、分かれる、それるの意味。
 (太田)
 「ただし」は変です。もとよりCSSを使わない場合のメリットの話ですから、この方法を採用しつつ絶対配置するということはありえません。
 CSSを使って絶対配置した場合との対比なので、「ただし」ではないかなと。
-ただしをトリつつ調整してみました。
+ただしをトリつつすこし補いつつ調整してみました。
 </note>
       <tuv lang="EN-US">
         <seg>Absolute positioning cannot assure us of this.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170823T033526Z" creationid="rikiha" creationdate="20170819T005326Z">
-        <seg>CSSを使って絶対配置した場合には、このような保証はありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T033601Z" creationid="rikiha" creationdate="20170819T005326Z">
+        <seg>CSSを使って絶対配置した場合には、このような保証はできません。</seg>
       </tuv>
     </tu>
     <tu>
