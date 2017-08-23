@@ -5116,7 +5116,8 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
 
 (太田)
 ヘイドンさん的にはニンジャの首はねを想定している可能性すらある。
-むしろJSがクリティカルパスにならないように実装しろという話かもですね。
+重要な処理を行うJSはクリティカルパスになるのでできるだけ実行されない可能性を低くしようという話ですね。
+
 </note>
       <tuv lang="EN-US">
         <seg>Critical JavaScript</seg>
