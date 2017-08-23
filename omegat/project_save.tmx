@@ -3771,6 +3771,7 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
 
 (太田) OK
 しかしなかなかのクソコードで button.addEventListener の中で何をやっているのか異常にわかりにくいですね。わかりにくすぎてヘイドンさん自身が間違っていたので正誤表が出ています。
+menu.hidden = !expanded; → menu.hidden = expanded;
 正誤表反映済みです。
 </note>
       <tuv lang="EN-US">
