@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -689,12 +689,36 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;It’s easy to iterate.&lt;/g2&gt; Paper prototypes are mostly just pen on paper, held together with sticky tack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082603Z" creationid="rikiha" creationdate="20170823T082603Z">
+        <seg>• イテレーションが容易。ペーパープロトタイプの多くは、ペンで紙に描いたものを？？粘着ラバー？？で1つにまとめてあるだけです。【コメント：訳語に問題ないかご確認ください。複数あります。初出のみ？？を付けました。原文「sticky tack」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;It’s not polished.&lt;/g2&gt; The trouble with high-fidelity mockups and prototypes is that they tend to look finished.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082614Z" creationid="rikiha" creationdate="20170823T082614Z">
+        <seg>• 完成度が低い。忠実度の高いモックアップやプロトタイプの問題点は、完成したように見えることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Main&lt;/g2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170725T011633Z" creationid="rikiha" creationdate="20170722T233953Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;メイン&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Most anyone can work with paper.&lt;/g2&gt; Coded prototypes require some skill in front-end development.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082557Z" creationid="rikiha" creationdate="20170823T082557Z">
+        <seg>• 何よりも、紙ならだれでも扱える。コード化されたプロトタイプには、フロントエンド開発のスキルがいくらか必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -717,6 +741,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170728T032750Z" creationid="rikiha" creationdate="20170727T134705Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-describedby&lt;/g2&gt;は&lt;g3&gt;リレーションシップ属性&lt;/g3&gt;であり、説明される側の要素と説明する側の要素を&lt;g4&gt;id&lt;/g4&gt;で関連づけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;A dry-wipe (whiteboard-style) pen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082631Z" creationid="rikiha" creationdate="20170823T082631Z">
+        <seg>• ？？ホワイトボード用のペン？？【コメント：訳語に問題ないかご確認ください。複数あります。初出のみ？？を付けました。原文「A dry-wipe (whiteboard-style) pen」または「dry-wipe pen」】</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1086,14 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Large pieces of paper (preferably A2)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082626Z" creationid="rikiha" creationdate="20170823T082626Z">
+        <seg>• 大判の紙（A2を推奨）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本）・リンクテキスト　を削除</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Link text</seg>
@@ -1142,6 +1182,14 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170822T152308Z" creationid="rikiha" creationdate="20170819T005530Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;アクセシブルな名前（name）やラベルを省略する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Permanent marker pens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082629Z" creationid="rikiha" creationdate="20170823T082629Z">
+        <seg>• 耐水性マーカー</seg>
       </tuv>
     </tu>
     <tu>
@@ -1237,6 +1285,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Scissors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082627Z" creationid="rikiha" creationdate="20170823T082627Z">
+        <seg>• ハサミ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) テキストが大きい→テキストを大きくする、としました (ユーザーによるズームの話ですので)。
 コピー／ペーストは日本では一般的に「コピー&amp;ペースト」と言われるように思います。
 
@@ -1250,10 +1306,26 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Sheets of acetate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082630Z" creationid="rikiha" creationdate="20170823T082630Z">
+        <seg>• ？？アセテートフィルム？？【コメント：訳語に問題ないかご確認ください。複数あります。初出のみ？？を付けました。原文「Sheets of acetate」または「acetate」】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Small touch (or hit) areas.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170822T152313Z" creationid="rikiha" creationdate="20170819T005533Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;小さなタッチ（またはヒット）領域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Sticky tack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082628Z" creationid="rikiha" creationdate="20170823T082628Z">
+        <seg>• 粘着ラバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -2288,6 +2360,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;After adhering sticky tack to each corner of your component (1), you can place it on a larger, parent component (2).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082750Z" creationid="rikiha" creationdate="20170823T082750Z">
+        <seg>コンポーネントの四隅に粘着ラバーを貼り付けたら（1）、それを大きい親コンポーネントの上に配置します（2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
@@ -2612,6 +2692,14 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A Dry-Wipe Pen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082736Z" creationid="rikiha" creationdate="20170823T082736Z">
+        <seg>ホワイトボード用のペン</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) カッコ補足をトリ。
 
 グリフは字体でもいいかも？　でもグリフのままでも通じそう。
@@ -2808,6 +2896,14 @@ heading shortcutは「見出しジャンプ」としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170809T091826Z" creationid="yoota" creationdate="20170808T095437Z">
         <seg>前の例では「目次」という&lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;を取り上げましたが、このような見出しがあると、ユーザーが見出しジャンプの機能を使ってナビゲートする際に役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A large viewport (paper sheet to which smaller parts of the paper app are adhered) means more people in your test environment can simultaneously see it as it is being used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082634Z" creationid="rikiha" creationdate="20170823T082634Z">
+        <seg>大きいビューポート（紙製アプリケーションの小さいパーツを貼り付ける紙面）なら、テストの場にいる多くの人が、アプリケーションが使用されている様子を同時に見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3133,6 +3229,14 @@ wouldなので語尾を少しやわらかめに。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Acetate is great when it comes to prototyping input fields because it allows the user tester to write on the paper prototype non-permanently.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082734Z" creationid="rikiha" creationdate="20170823T082734Z">
+        <seg>アセテートフィルムはユーザーテスターがペーパープロトタイプに一時的に描き込むことができるので、入力フィールドのプロトタイプを作るのに最適です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Acknowledging the importance of good copy design will form a part of many patterns in this book.</seg>
@@ -3251,6 +3355,14 @@ listenは「監視」としてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170421T032051Z" creationid="yoota" creationdate="20170421T032051Z">
         <seg>ピンチによる拡大縮小を可能にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Almost all of the successful projects I’ve worked on as a designer and developer have included interactive paper prototyping in the early stages of the design process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082546Z" creationid="rikiha" creationdate="20170823T082546Z">
+        <seg>私がこれまでデザイナーおよび開発者として取り組んで良い結果を収めたほぼすべてのプロジェクトでは、デザインプロセスの早い段階でインタラクティブなペーパープロトタイピングを行いました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4875,6 +4987,14 @@ rudimentaryは原始的のほうがいいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By using sticky tack to piece components together, it’s easy to move parts around.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082607Z" creationid="rikiha" creationdate="20170823T082607Z">
+        <seg>粘着ラバーを使って各構成要素をつなぎ合わせているので、パーツは簡単に移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) virtue of relativity はヘイドン的フレーズで virtue は「美徳」のような意味ですね。「美しい相対化」のような感じでしょうか。
 
 (伊原) LGTM</note>
@@ -4999,6 +5119,14 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170619T071821Z" creationid="yoota" creationdate="20170613T022127Z">
         <seg>クローズドキャプションは、ビデオとは別のファイルに書かれ、ビデオに関連づけられたキャプション（字幕）です。ビデオ自体に字幕が埋め込まれているわけではないため、ユーザーは字幕のオン・オフを切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committing to work with paper means other team members, including back-end developers and others not confident in their design skills, can have a try.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082600Z" creationid="rikiha" creationdate="20170823T082600Z">
+        <seg>紙を使えば、バックエンド開発者やデザインスキルに自身のない人といった他のチームメンバーも試すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5780,6 +5908,14 @@ http://waic.jp/docs/WCAG20/Overview.html#images-of-textdef
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>First, we’ll take care of what you need in terms of equipment and why.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082625Z" creationid="rikiha" creationdate="20170823T082625Z">
+        <seg>まずは、必要な道具と、その理由について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 読み上げ要確認。ジャンプできることがわかります➞辿ることができます
 
 (岡本)　辿る→たどる　分かり→わかり
@@ -5826,6 +5962,14 @@ the を訳出すべきか?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170719T094049Z" creationid="yoota" creationdate="20170719T094049Z">
         <seg>理にかなったキーボード操作のためには、フォーカス順序はソースの順序に従うべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus remains on whether the idea solves the problem well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082620Z" creationid="rikiha" creationdate="20170823T082620Z">
+        <seg>焦点が、そのアイデアで問題がうまく解決できるかどうかからずれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5950,6 +6094,14 @@ massiveは「大きくて重い、大規模な」というような意味です�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T103817Z" creationid="yoota" creationdate="20170512T102756Z">
         <seg>たとえば、私がテストをしていたときに、スクリーンリーダーが複雑なDOMの解析に苦労し、誤った出力をしたことがありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the &lt;g1&gt;&lt;g2&gt;Great British Public Toilet Map&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;2&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; started out with me drawing and cutting out pictures of toilets in the offices of &lt;g6&gt;&lt;g7&gt;Neontribe&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;3&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082548Z" creationid="rikiha" creationdate="20170823T082548Z">
+        <seg>たとえば、Great British Public Toilet Map（脚注127）のプロジェクトでは、まずNeontribe社（脚注128）のオフィスにあるトイレの絵を描いて切り抜くことから始めました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6888,6 +7040,14 @@ this has led で「これが導いた」と言っているので、「報告し�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>However, try to limit yourself to just a few colors — this isn’t an art project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082730Z" creationid="rikiha" creationdate="20170823T082730Z">
+        <seg>ただし、使う色は絞り込みましょう。これはアートプロジェクトではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 長いコンテンツを非同期読み込みして速度を改善する話などもありますが……。
 
@@ -7098,6 +7258,14 @@ VoiceOverは変な読みをするので訳注入れたいかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170822T085110Z" creationid="rikiha" creationdate="20170819T005237Z">
         <seg>ここでは、&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;aria-expanded&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注120）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;が解決策となるでしょう。スクリーンリーダーに、明示的に「折りたたみ」（false）もしくは「展開」（true）と読み上げさせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I usually make sure I have a couple of black pens, then choose a red for errors, green for success messages, and blue for links and buttons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082731Z" creationid="rikiha" creationdate="20170823T082731Z">
+        <seg>私はたいてい、黒のペンを数本用意し、あとはエラー用に赤、成功のメッセージ用に緑、リンクやボタン用に青を使います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7492,6 +7660,22 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If you have a guillotine handy all the better, but don’t worry too much about all the lines being parallel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082720Z" creationid="rikiha" creationdate="20170823T082712Z">
+        <seg>裁断機が手元にあればさらに良いですが、すべての線がきっちり平行でなくても大丈夫です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want new parts, just get out some spare bits of paper and your marker pens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082610Z" creationid="rikiha" creationdate="20170823T082610Z">
+        <seg>新しいパーツが必要になったら、小さな紙とペンを取り出すだけ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) no doubt や familiar with をそのまま訳出してみましたが、元の訳でもいいような気もします。
 
 (太田) 微妙に違和感があるというか、何をいっているのか分かりにくいというか。「誰が」フロントエンドエンジニアであれば、と言っているのが分からないのが違和感の原因なのかも。もしかするとyouを訳出しても良いのかも知れません。
@@ -7590,6 +7774,14 @@ by name は「バイネームで」でも良いのかもしれないですね。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you’re making an app, there are probably going to be some input fields.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082733Z" creationid="rikiha" creationdate="20170823T082733Z">
+        <seg>アプリケーションを作っている場合は、何らかの入力フィールドがあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you’re more a consumer of the web than a producer &lt;g1&gt;for&lt;/g1&gt; the web, &lt;g2&gt;web designer&lt;/g2&gt; is probably sufficient: “OK, so they design web stuff.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170628T042952Z" creationid="okamoto_jun" creationdate="20170627T084257Z">
@@ -7661,6 +7853,14 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170731T135715Z" creationid="rikiha" creationdate="20170730T124430Z">
         <seg>ホームページに&lt;g1&gt;いる&lt;/g1&gt;状態を想定して、ロゴのリンクの遷移先を&lt;g2&gt;#main&lt;/g2&gt;にしています。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importantly, it also means stakeholders and test users can be included in iteration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082602Z" creationid="rikiha" creationdate="20170823T082602Z">
+        <seg>重要なのは、関係者やテストユーザーもイテレーションに参加できる点です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10246,6 +10446,14 @@ implementationを例→実装としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Just like a real app, the viewport will be divided into smaller sections or components.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082707Z" creationid="rikiha" creationdate="20170823T082707Z">
+        <seg>本物のアプリケーションと同じように、ビューポートを小さいセクションやコンポーネントに分けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ちょっと何言ってるか分からない訳になっていますが、Cmd + Option + M はレスポンシブデザインモードへの切り替えのトグルで、これを押すとレスポンシブデザインモードになるもののはずです (と思いますがMacで確認していないので伊原さん確認お願いします。WinだとCtrl+Shift+Mです)。
 頭の Just は命令形を和らげるjustで「ちょっと」くらいでしょうか。
 resizeを「大きくしていく」と訳していますが、これは逆で小さくなりますね。ビューポートが小さくなるからコンテンツが重なるわけです。
@@ -10376,6 +10584,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Large Pieces of Paper</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082632Z" creationid="rikiha" creationdate="20170823T082632Z">
+        <seg>大判の紙</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) レイアウトのエラーというのは日本語として変な感じがします。直訳すると、「レイアウトとインタラクションが誤りやすい予測できない状態になりうる」ということで、ひっくるめて「不安定になる」くらいかなと思います。
 
 (伊原) LGTM. 「の動作」はトリでもいいかも？とは思いました。
@@ -10425,6 +10641,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170727T113609Z" creationid="rikiha" creationdate="20170722T233750Z">
         <seg>まずは最も一般的なタイプのnavigationランドマークを見ていきつつ、すべてのnavigationランドマークに共通するいくつかの特徴を確かめてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s imagine you’re embarking on a paper prototype.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082624Z" creationid="rikiha" creationdate="20170823T082624Z">
+        <seg>ペーパープロトタイピングに着手することになったとしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10688,6 +10912,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the one you take to the test session has some ink in it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082739Z" creationid="rikiha" creationdate="20170823T082739Z">
+        <seg>テストセッションの前にインクが残っていることを確認しましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 命令系なので「確認してください」くらいかなと。
 
 (伊原) OK</note>
@@ -10916,6 +11148,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170706T091648Z" creationid="yoota" creationdate="20170622T030355Z">
         <seg>基本的には、私自身のデザインプロセスを文章にすれば良いわけですから、すらすらと筆が進み始めました。インクルーシブなコンテンツや機能を考え、実現するという作業を書いていったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naturally, you’ll need one of these for use with the acetate (see above).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082736Z" creationid="rikiha" creationdate="20170823T082736Z">
+        <seg>アセテートフィルムに書き込むときに使います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11389,6 +11629,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Not to be confused with sketching, paper prototyping is about creating an &lt;g1&gt;interactive&lt;/g1&gt; prototype from paper, which — with the help of someone to manually operate it — allows user testers to play with a rough-and-ready demo version of the candidate app.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082550Z" creationid="rikiha" creationdate="20170823T082550Z">
+        <seg>スケッチと混同しないように説明しますが、ペーパープロトタイピングでは、紙を使ってインタラクティブなプロトタイプを作成します。これを手で操作することで、ユーザーテスターにテスト対象のアプリケーションの即席デモをあれこれと試してもらうのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 誤訳かなと。プログレッシブエンハンスメントで対応できるのではなく、上の例そのものがプログレッシブエンハンスメントになっているので問題ないと言っています(対応はされません)。</note>
       <tuv lang="EN-US">
         <seg>Not to worry: &lt;c0&gt;font-size: calc(1em + 1vw);&lt;/c0&gt; is a progressive enhancement.</seg>
@@ -11798,6 +12046,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Obviously, you’ll need a table big enough to sit the prototype on!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082642Z" creationid="rikiha" creationdate="20170823T082642Z">
+        <seg>当然ながら、プロトタイプを置く広いテーブルも必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) それでも〜のあとにしかし〜と来るので、ここは「時には」としておきました。
 そして、if only to be intensive with the available space は、空きスペースの有効利用というより、徹底的に詰め込もう的な話のような気がします。</note>
       <tuv lang="EN-US">
@@ -11833,6 +12089,14 @@ the buttonを「このボタン」としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170612T105712Z" creationid="yoota" creationdate="20170606T103547Z">
         <seg>もちろん、このボタンが実際に、&lt;g1&gt;押すと再生が始まる&lt;/g1&gt;状態から、&lt;g2&gt;押すと一時停止する&lt;/g2&gt;状態に切り替わるかどうかも確認しなくてはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of course, you’ll need to write labels, draw borders around buttons and make various other markings, so some pens are essential.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082729Z" creationid="rikiha" creationdate="20170823T082729Z">
+        <seg>当然ですが、ラベルを書いたり、ボタンの輪郭線を引いたり、さまざまな線や印などを描き込む必要があるので、ペンが何本か必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12287,6 +12551,14 @@ contributeを「寄与」とするのがどうも硬いので「構成する」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Paper Prototyping</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082545Z" creationid="rikiha" creationdate="20170823T082545Z">
+        <seg>ペーパープロトタイピング</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 parityは平均化というより、ここでは等価、価値を等しくするという意味と思われます。
 
@@ -12330,6 +12602,14 @@ parityは平均化というより、ここでは等価、価値を等しくす�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>People are polite and you won’t get honest feedback about something that looks like it’s had a lot of work put into it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082616Z" creationid="rikiha" creationdate="20170823T082616Z">
+        <seg>人は礼儀をわきまえているので、多大な労力をかけたように見えるものに対する率直な感想を聞き出すのは難しいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 押せるものは押せそうにせよ、は要というより基礎かなと。
 
 (太田) cornerstoneはそのまま「要石」と訳しても良いような気もします。意訳するならbasisよりも強いニュアンスを出したいので、「基礎概念」「根本理念」とかのほうがいいかもしれません。
@@ -12364,6 +12644,14 @@ parityは平均化というより、ここでは等価、価値を等しくす�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012439Z" creationid="yoota" creationdate="20170419T102025Z">
         <seg>おそらく最もわかりやすいのは、言語が明示されていないページ――あるいは間違った言語が指定されているページ――では、スクリーンリーダーを使用したときに適切な合成音声プロファイルが選択されないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permanent Marker Pens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082727Z" creationid="rikiha" creationdate="20170823T082727Z">
+        <seg>耐水性マーカー</seg>
       </tuv>
     </tu>
     <tu>
@@ -12889,6 +13177,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Scissors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082706Z" creationid="rikiha" creationdate="20170823T082706Z">
+        <seg>ハサミ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Score</seg>
@@ -13064,6 +13360,14 @@ Shadow DOMは「影DOM」とは訳されないので、少なくともShadowは�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T051933Z" creationid="yoota" creationdate="20170719T093202Z">
         <seg>Shadow Boundary問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sheets of Acetate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082732Z" creationid="rikiha" creationdate="20170823T082732Z">
+        <seg>アセテートフィルム</seg>
       </tuv>
     </tu>
     <tu>
@@ -13763,6 +14067,22 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Sticky Tack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082724Z" creationid="rikiha" creationdate="20170823T082724Z">
+        <seg>粘着ラバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sticky tack is what makes the paper app modular and lets you quickly move components around, either as part of the app’s operation or as part of layout iteration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082725Z" creationid="rikiha" creationdate="20170823T082725Z">
+        <seg>粘着ラバーを使えば、紙のアプリケーションがモジュール式になるので、コンポーネントをすばやく移動して、アプリケーションの操作を検討したり、レイアウトのイテレーションを行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 壊れた→破綻した、か
 
@@ -14139,12 +14459,28 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That it’s made of paper at all means it’s clearly only an allegory of the real app, so feedback about aesthetic particulars is kept to a minimum.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082617Z" creationid="rikiha" creationdate="20170823T082617Z">
+        <seg>また、紙で作られていれば、本物のアプリケーションの例示品にすぎないことが明らかなので、見た目の美しさに関するフィードバックを最小限に抑えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 微調整。</note>
       <tuv lang="EN-US">
         <seg>That just leaves adding some hidden text to also inform screen reader users that the link is external.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T024602Z" creationid="yoota" creationdate="20170512T024602Z">
         <seg>あとは、リンクが外部であることをスクリーンリーダーのユーザーに知らせる、隠しテキストを追加するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That means everyone can feel involved, and more and better notes can be taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082637Z" creationid="rikiha" creationdate="20170823T082637Z">
+        <seg>全員が参加しているように感じることができ、より多くのことにじっくりと注意を払うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15988,6 +16324,14 @@ be transported は受動態のままではなく能動態に変えて訳すか�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The wonkier the prototype looks (within reason!), the less intimidating and more approachable it is.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082723Z" creationid="rikiha" creationdate="20170823T082723Z">
+        <seg>少しいびつなプロトタイプほど（ただし妥当な範囲内で！）、敷居が低くてとっつきやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their files never have a resolution lower than 300dpi and they have a working knowledge of color theory.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095356Z" creationid="okamoto_jun" creationdate="20170627T095356Z">
@@ -16080,6 +16424,14 @@ JAWS日本語版では「ページ内リンク」らしいです。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170812T161551Z" creationid="rikiha" creationdate="20170812T161551Z">
         <seg>ただし、いくつか問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are a number of advantages to paper prototyping over high fidelity and code-based demos.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082553Z" creationid="rikiha" creationdate="20170823T082553Z">
+        <seg>ペーパープロトタイピングには、忠実度の高いコードベースのデモよりも優れている点がいくつもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16349,6 +16701,14 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>They can correct their mistakes and the writing can be quickly removed ready for the next test session.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082735Z" creationid="rikiha" creationdate="20170823T082735Z">
+        <seg>間違いを修正したり、書いたものをすばやく消して次のテストセッションの準備をすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「置き換える」でも問題ありませんが、ライティングの話なので「書き換える」としました。
 
 (伊原) LGTM</note>
@@ -16449,6 +16809,14 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Thinking about aesthetics and delight is far too high-level at this stage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082543Z" creationid="rikiha" creationdate="20170823T082543Z">
+        <seg>見た目の美しさや楽しみについて考えるのは、この段階ではまだレベルが高すぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注
 
 (伊原) 直前の文で同じことを行っているので、省略しつつ調整。
@@ -16530,6 +16898,14 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170823T082450Z" creationid="rikiha" creationdate="20170823T082450Z">
         <seg>本書では、特定の問題に対する、インクルージョンを念頭に置いた既存の解決策を数多く紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be done during test sessions and can involve everyone present — infinitely preferable to sitting around twiddling thumbs while a front-end dev fiddles anxiously with their laptop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082613Z" creationid="rikiha" creationdate="20170823T082613Z">
+        <seg>これならテストセッション中に作業でき、その場にいる誰もが手伝えます。フロントエンド開発者がノートPCを気遣わしげに操作する様子を手持ち無沙汰で待っているよりずっとましです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16880,6 +17256,14 @@ OKですがやや硬いかも。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170822T133409Z" creationid="rikiha" creationdate="20170819T005451Z">
         <seg>この種のギャンブルに興じたい人はいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is not used in the construction of the prototype, but is needed in the testing described below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082737Z" creationid="rikiha" creationdate="20170823T082737Z">
+        <seg>プロトタイプの作成では使用しませんが、次に説明するテストで必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18417,6 +18801,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>We need to prototype for usability, and the more inclusive the prototyping experience, the more people will find the product usable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082544Z" creationid="rikiha" creationdate="20170823T082544Z">
+        <seg>ユーザビリティに焦点を当てたプロトタイプ制作を行う必要があり、プロトタイプの体験がインクルーシブなほど、より多くの人がプロダクトを使いやすいと感じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 ここのthenは「次に」くらいでしょうか。
 
@@ -18564,6 +18956,14 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084518Z" creationid="okamoto_jun" creationdate="20170627T084518Z">
         <seg>Webというメディアを誤解して不適切に扱った結果、自ら苦労を増やして、ユーザーにも損害を与えてきたのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What You Will Need</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082623Z" creationid="rikiha" creationdate="20170823T082623Z">
+        <seg>必要なもの</seg>
       </tuv>
     </tu>
     <tu>
@@ -18903,6 +19303,14 @@ http://www.w3.org/TR/css3-selectors/#target-pseudo
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever a part of a component is liable to be moved or replaced, use a separate piece of paper and stick it in place with tack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082726Z" creationid="rikiha" creationdate="20170823T082726Z">
+        <seg>コンポーネントの一部を動かしたり置き換えたりする可能性がある場合は、個別の紙片を使って、粘着ラバーで適所に貼り付けましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 書くようにしましょう➞書くべきです。
 
 (太田) 画像でリンクする→画像をリンクにする、のほうがしっくりくるかなと。
@@ -19017,6 +19425,14 @@ shouldなので「すべき」くらいかなと。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170802T084512Z" creationid="rikiha" creationdate="20170727T134641Z">
         <seg>このテキストが「現在のページ」で良いのか、「このページ」や「現在位置」とした方が良いのかは議論の余地がありますが、いずれにしても、かなり簡潔なものにするべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether your prototype is intended to demo an app for small handheld devices or large installation screens, it’s better to begin large.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082633Z" creationid="rikiha" creationdate="20170823T082633Z">
+        <seg>プロトタイプでデモを行おうとしているアプリケーションが、小さい携帯端末用でも、大型の設置型スクリーン用でも、最初は大きく作ることをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19356,6 +19772,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>You can always unstick it and move it later.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082752Z" creationid="rikiha" creationdate="20170823T082752Z">
+        <seg>後からいつでもはがして移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 分かりにくかったので語順を調整しました。
 
@@ -19624,6 +20048,14 @@ spoiled for choice は選択肢があまりに豊富すぎて甘やかされて�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094750Z" creationid="okamoto_jun" creationdate="20170627T094750Z">
         <seg>国の抽出はできなくなりますが、それはそういうものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ll need to cut some of your larger sheets into smaller ones to be placed on top of the base sheet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082710Z" creationid="rikiha" creationdate="20170823T082710Z">
+        <seg>何枚かの大判の紙を小さく切って、台紙の上に配置する必要が出てくるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
