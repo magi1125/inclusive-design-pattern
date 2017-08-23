@@ -4095,12 +4095,13 @@ JS中の初期化処理で
 thoughをどう扱うか。
 やりたくなるのはわかるけど、というニュアンスがありそう。
 
+
 </note>
       <tuv lang="EN-US">
         <seg>Avoid the temptation, though, to add animations — especially ones which depend on CSS positioning — just to impress users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T080151Z" creationid="rikiha" creationdate="20170819T005343Z">
-        <seg>ユーザーに印象づけるためだけの――特にCSSによる配置に頼った――アニメーションを追加したくなる誘惑からは逃れてください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T035457Z" creationid="rikiha" creationdate="20170819T005343Z">
+        <seg>単にユーザーに印象づけるためのアニメーション――特にCSSによる配置に頼ったもの――を追加したくなる誘惑からは逃れてください。</seg>
       </tuv>
     </tu>
     <tu>
