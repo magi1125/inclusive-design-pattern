@@ -786,16 +786,13 @@ JISではbypass block を「ブロックスキップ」としています。
       <note>(伊原) 語順調整、カッコの位置調整。
 
 (太田)
-カッコ内は属性の性質が display: none に似通っていることを言っている印象。
-調整してみましたが、括弧書き自体がいらないかも。
-
-
-</note>
+カッコ内はhidden属性の性質が display: none に似通っていると言っている印象。
+調整してみましたが、括弧書き自体がいらないかも。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;As previously mentioned, the &lt;g2&gt;hidden&lt;/g2&gt; attribute (like &lt;g3&gt;display: none;&lt;/g3&gt;) on a parent element makes any interactive element children unfocusable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170823T033945Z" creationid="rikiha" creationdate="20170819T005332Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;前述したように、親要素に&lt;g2&gt;hidden&lt;/g2&gt;属性（&lt;g3&gt;display: none;&lt;/g3&gt;に似ています）を指定することで、インタラクティブな子要素にフォーカスできなくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T034052Z" creationid="rikiha" creationdate="20170819T005332Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;前述したように、&lt;g2&gt;hidden&lt;/g2&gt;属性（&lt;g3&gt;display: none;&lt;/g3&gt;に似ています）を親要素に指定することで、インタラクティブな子要素にフォーカスできなくなります。</seg>
       </tuv>
     </tu>
     <tu>
