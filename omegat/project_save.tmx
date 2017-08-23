@@ -15330,12 +15330,16 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 多少調整。</note>
+      <note>(伊原) 多少調整。
+
+(太田) 少しシンプルに。
+
+</note>
       <tuv lang="EN-US">
         <seg>The menu just appears and disappears by switching the display state via the &lt;g1&gt;hidden&lt;/g1&gt; attribute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T144233Z" creationid="rikiha" creationdate="20170819T005315Z">
-        <seg>&lt;g1&gt;hidden&lt;/g1&gt;属性によって表示の状態を切り替え、メニューを表示したり隠したりしているだけです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T032656Z" creationid="rikiha" creationdate="20170819T005315Z">
+        <seg>このメニューは、&lt;g1&gt;hidden&lt;/g1&gt;属性の切り替えによって、単に表示されたり隠されたりしているだけです。</seg>
       </tuv>
     </tu>
     <tu>
