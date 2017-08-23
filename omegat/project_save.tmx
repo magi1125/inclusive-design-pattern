@@ -3779,7 +3779,7 @@ https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
 Page174.
 menu.hidden = !expanded; → menu.hidden = expanded;
 
-正誤表反映済みですが、以下のように書いてあり、
+正誤表反映済みですが、正誤表には以下のように書いてあり、
 
 Otherwise this would require two clicks to open the menu from its default closed state.
 
