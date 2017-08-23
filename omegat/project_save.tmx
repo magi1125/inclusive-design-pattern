@@ -4175,7 +4175,10 @@ its contents は「その中身」とかで良いかも。
     <tu>
       <note>(伊原) バニラJSって訳注どこかにあったような。
 
-(岡本) 1章始まってすぐのところに、「バニラ」JavaScriptとして登場します。</note>
+(岡本) 1章始まってすぐのところに、「バニラ」JavaScriptとして登場します。
+
+(太田)
+なにがBecauseなのかイマイチわからない感。</note>
       <tuv lang="EN-US">
         <seg>Because the operation of the menu is a fairly fundamental feature, I’ve written a vanilla JavaScript implementation to embed at the bottom of the page.</seg>
       </tuv>
