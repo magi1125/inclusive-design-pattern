@@ -3784,6 +3784,7 @@ menu.hidden = !expanded; → menu.hidden = expanded;
 Otherwise this would require two clicks to open the menu from its default closed state.
 
 これが事実ならは訳注に入れないといけないのですが、どうも事実ではないような気がします。普通に動作しますね。
+# ヘイドンさん、もろもろ試してから書いてほしい。
 </note>
       <tuv lang="EN-US">
         <seg>As described, the menu will be visible and usable where JavaScript fails or is switched off, but this way it’s less likely to fail: if the document itself loads, it’s already there in its entirety — no jQuery or other dependency to wait on.</seg>
