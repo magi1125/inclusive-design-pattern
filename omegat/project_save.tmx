@@ -1329,8 +1329,8 @@ should be なので「なければならない」「必要がある」は強す�
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The menu emerges as part of the document flow, meaning a taller-than-viewport menu is still scrollable into view and does not obscure page content beneath it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T150641Z" creationid="rikiha" creationdate="20170819T005323Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;メニューはドキュメントフローの一部として表示されます。ビューポートの高さを超えるメニューであってもスクロールすれば表示できますし、メニューが上からコンテンツを覆い隠してしまうこともありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T033228Z" creationid="rikiha" creationdate="20170819T005323Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;メニューはドキュメントのフローの一部として表示されます。そのため、メニューの高さがビューポートの高さを超えていてもスクロールできますし、メニューがコンテンツを覆い隠してしまうこともありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1423,8 +1423,8 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;There’s no CSS dependency for the menu system, meaning it will function regardless of a CSS failure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170823T033010Z" creationid="rikiha" creationdate="20170819T005320Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;このメニューの仕組みは、CSSにまったく依存しません。つまり、CSSの読み込みに失敗しても機能するということです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T033143Z" creationid="rikiha" creationdate="20170819T005320Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;このメニューの仕組みは、CSSにまったく依存しません。そのため、CSSの読み込みに失敗しても機能します。</seg>
       </tuv>
     </tu>
     <tu>
