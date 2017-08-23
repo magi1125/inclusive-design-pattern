@@ -788,7 +788,8 @@ JISではbypass block を「ブロックスキップ」としています。
 (太田)
 カッコ内はhidden属性の性質が display: none に似通っていると言っている印象。
 調整してみましたが、括弧書き自体がいらないかも。
-anyを訳出しました。</note>
+anyを訳出しました。
+厳密には「子要素」ではなく「子孫要素」ですが、まあいいか。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;As previously mentioned, the &lt;g2&gt;hidden&lt;/g2&gt; attribute (like &lt;g3&gt;display: none;&lt;/g3&gt;) on a parent element makes any interactive element children unfocusable.</seg>
       </tuv>
