@@ -1419,12 +1419,12 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
 (太田)
 「メニューシステム」は「メニューの仕組み」とかで良いかも。
 メニューとCSSが相互に依存しないという話ではなく、単にメニューがCSSに依存しないという話だと思います。
-</note>
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;There’s no CSS dependency for the menu system, meaning it will function regardless of a CSS failure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170823T032952Z" creationid="rikiha" creationdate="20170819T005320Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;このメニューの仕組みは、CSSにまったく依存しません。これは、CSSの読み込み失敗とは関係なく機能するということです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T033010Z" creationid="rikiha" creationdate="20170819T005320Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;このメニューの仕組みは、CSSにまったく依存しません。つまり、CSSの読み込みに失敗しても機能するということです。</seg>
       </tuv>
     </tu>
     <tu>
