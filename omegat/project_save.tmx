@@ -4209,8 +4209,8 @@ its contents は「その中身」とかで良いかも。
       <tuv lang="EN-US">
         <seg>Because the operation of the menu is a fairly fundamental feature, I’ve written a vanilla JavaScript implementation to embed at the bottom of the page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170823T032242Z" creationid="rikiha" creationdate="20170819T005258Z">
-        <seg>メニューの操作はきわめて重要な機能なので、私はバニラJavaScriptで実装してページ最下部に直接埋め込むようにしています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T032312Z" creationid="rikiha" creationdate="20170819T005258Z">
+        <seg>メニューの操作はきわめて重要な機能なので、私はバニラJavaScriptで実装してページ最下部に直接書くようにしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11333,8 +11333,8 @@ https://eow.alc.co.jp/search?q=not+do+anything+fancy</note>
       <tuv lang="EN-US">
         <seg>Note that I’ve not done anything fancy with CSS positioning or animation here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T145457Z" creationid="rikiha" creationdate="20170819T005313Z">
-        <seg>ここでは、CSSによる配置やアニメーションで手の込んだことは一切しなかった点に注目してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T032400Z" creationid="rikiha" creationdate="20170819T005313Z">
+        <seg>ここでは、CSSによる配置やアニメーションなど、手の込んだことは一切しなかった点に注目してください。</seg>
       </tuv>
     </tu>
     <tu>
