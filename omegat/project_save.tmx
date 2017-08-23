@@ -13762,7 +13762,11 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ふつうに「必要です」でいいかなと。</note>
+      <note>(伊原) ふつうに「必要です」でいいかなと。
+
+(太田)
+accessiblyの意味が謎。「メニューの状態を切り替えるためにはJavaScriptが必要」であり「アクセシブルに」が意味不明な感じがします。
+</note>
       <tuv lang="EN-US">
         <seg>Switching the state of the menu accessibly requires JavaScript.</seg>
       </tuv>
