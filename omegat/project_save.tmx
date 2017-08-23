@@ -1414,12 +1414,17 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) メモ消えてる。CSS failureを読み込み失敗としました（記述の失敗だとメニューが機能しないかもしれないため）。</note>
+      <note>(伊原) メモ消えてる。CSS failureを読み込み失敗としました（記述の失敗だとメニューが機能しないかもしれないため）。
+
+(太田)
+「メニューシステム」は「メニューの仕組み」とかで良いかも。
+メニューとCSSが相互に依存しないという話ではなく、単にメニューがCSSに依存しないという話だと思います。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;There’s no CSS dependency for the menu system, meaning it will function regardless of a CSS failure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T145816Z" creationid="rikiha" creationdate="20170819T005320Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;メニューシステムとCSSに依存関係はありません。これは、CSSの読み込み失敗とは関係なくメニューは動作するということです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T032935Z" creationid="rikiha" creationdate="20170819T005320Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;このメニューの仕組みは、CSSにまったく依存しません。これは、CSSの読み込み失敗とは関係なくメニューは動作するということです。</seg>
       </tuv>
     </tu>
     <tu>
