@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5389,6 +5389,14 @@ https://momdo.github.io/html/interaction.html#sequential-focus-navigation
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing on what we learn about our potential audience in the &lt;g1&gt;&lt;g2&gt;discovery phase&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; of our project, we begin to think about what tasks our app will allow users to perform.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082508Z" creationid="rikiha" creationdate="20170823T082508Z">
+        <seg>プロジェクトの発見の段階（脚注126）で潜在的な閲覧者について学んだことを利用して、ユーザーがどのようなことを実行できるアプリケーションにするかを考え始めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ひとまず原文っぽい訳に。
 
 (太田) 問題の解決を試みます、はもうちょっとこなれた感じにしたい。
@@ -8068,6 +8076,14 @@ anyの強調をどう処理するか微妙ですが「ありません」部分�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In essence, we begin to stockpile verbs: create, sort, edit, buy, read, respond, move, capture, draw, upload.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082528Z" creationid="rikiha" creationdate="20170823T082528Z">
+        <seg>要するに、作成する、ソートする、編集する、購入する、読む、答える、動かす、キャプチャーする、描く、アップロードするといった動詞を蓄積していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注
 
 (伊原) 少しだけ調整。
@@ -9018,6 +9034,15 @@ easiliy digestible は消化しやすいということのようで、もう少�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) </note>
+      <tuv lang="EN-US">
+        <seg>Inclusive Prototyping</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082445Z" creationid="rikiha" creationdate="20170823T082445Z">
+        <seg>インクルーシブなプロトタイプ制作</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) not just で「だけでなく」なのでそのようにしました。また、実際の使い方という言い方に直しました。
 
 (太田) appreciateは「評価する」くらいかも。
@@ -9774,6 +9799,14 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s imperative we think first about how these actions might be taken rather than how the experience might look and feel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082531Z" creationid="rikiha" creationdate="20170823T082531Z">
+        <seg>まずは、ルックアンドフィールなどよりも、こうしたアクションがどのように行われるかについて考えることが必要不可欠です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 原文に沿った訳に調整。
 
 (太田) OK。中根さん的には異論がありそう。中根さん警察を入れるならこちらかと。
@@ -9815,6 +9848,14 @@ http://eow.alc.co.jp/search?q=right%20way
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T024822Z" creationid="yoota" creationdate="20170510T070456Z">
         <seg>ディスレクシアなどの読字障害を持つ人にとって&lt;g1&gt;読みやすい&lt;/g1&gt;テキストは、読むのに問題がない人にとっても&lt;g2&gt;好ましい&lt;/g2&gt;テキストです。このことに注目するのは重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s investing this thought in the early stages of the design process that leads to a robust product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082503Z" creationid="rikiha" creationdate="20170823T082503Z">
+        <seg>そうした考え方をデザインプロセスの早い段階から持つことが、堅牢な結果につながるのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16364,6 +16405,14 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>They’re here to help you practice &lt;g2&gt;thinking inclusively&lt;/g2&gt; as you formulate your own patterns to solve your own design problems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082457Z" creationid="rikiha" creationdate="20170823T082457Z">
+        <seg>ここで紹介する解決策は、皆さんがデザインの問題に直面し、それを解決する独自のパターンを考案する際に、インクルージョンを意識して考える訓練をするためのものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>They’re sitting at a table in a pub.</seg>
@@ -16464,6 +16513,14 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T051503Z" creationid="yoota" creationdate="20170420T091812Z">
         <seg>本書ではレスポンシブデザインについて詳述はしませんが、ぜひ知っておきたい、インクルーシブデザインを支えるレスポンシブデザインの原則をいくつか紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This book offers a number of preconceived solutions to certain problems, approached with inclusion in mind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082450Z" creationid="rikiha" creationdate="20170823T082450Z">
+        <seg>本書では、特定の問題に対する、インクルージョンを念頭に置いた既存の解決策を数多く紹介します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17345,6 +17402,14 @@ compelには強要する、強いるという意味があり、転じて「目�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170822T150504Z" creationid="rikiha" creationdate="20170819T005519Z">
         <seg>このパターンでは明確にメニューボタンを見てきましたが、実際にはアイコンとボタンコントロールの使い方についての全般的な探求でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though you’re likely to use some as presented (like the &lt;g1&gt;navigation region&lt;/g1&gt; pattern) across many of your projects, they’re really just examples.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170823T082454Z" creationid="rikiha" creationdate="20170823T082454Z">
+        <seg>皆さんはそのうちのいくつか（ナビゲーション領域のパターンなど）を実際のプロジェクトの多くで使う可能性が高いでしょうが、それらはただの例にすぎません。</seg>
       </tuv>
     </tu>
     <tu>
