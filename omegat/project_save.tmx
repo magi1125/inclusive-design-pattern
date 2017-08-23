@@ -783,12 +783,16 @@ JISではbypass block を「ブロックスキップ」としています。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順調整、カッコの位置調整。</note>
+      <note>(伊原) 語順調整、カッコの位置調整。
+
+(太田)
+カッコの位置を調整。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;As previously mentioned, the &lt;g2&gt;hidden&lt;/g2&gt; attribute (like &lt;g3&gt;display: none;&lt;/g3&gt;) on a parent element makes any interactive element children unfocusable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170823T033652Z" creationid="rikiha" creationdate="20170819T005332Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;前述したように、親要素に&lt;g2&gt;hidden&lt;/g2&gt;属性を指定することで、（&lt;g3&gt;display: none;&lt;/g3&gt;の場合と同様に）インタラクティブな子要素にフォーカスできなくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T033900Z" creationid="rikiha" creationdate="20170819T005332Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;前述したように、親要素に&lt;g2&gt;hidden&lt;/g2&gt;属性を指定することで、（&lt;g3&gt;display: none;&lt;/g3&gt;と同様に）インタラクティブな子要素にフォーカスできなくなります。</seg>
       </tuv>
     </tu>
     <tu>
