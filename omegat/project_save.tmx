@@ -786,7 +786,10 @@ JISではbypass block を「ブロックスキップ」としています。
       <note>(伊原) 語順調整、カッコの位置調整。
 
 (太田)
-カッコの位置を調整。
+カッコ内は属性の性質が display: none に似通っていることを言っている印象。
+調整してみましたが、括弧書き自体がいらないかも。
+
+
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;As previously mentioned, the &lt;g2&gt;hidden&lt;/g2&gt; attribute (like &lt;g3&gt;display: none;&lt;/g3&gt;) on a parent element makes any interactive element children unfocusable.</seg>
