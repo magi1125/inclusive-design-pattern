@@ -12958,8 +12958,8 @@ animateをアニメーションと訳さなくても良いのかもしれませ�
       <tuv lang="EN-US">
         <seg>Setting &lt;g4&gt;height: 0;&lt;/g4&gt; and animating to full height would not have this effect, meaning keyboard users would have to tab through invisible elements while the menu is closed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170823T034523Z" creationid="rikiha" creationdate="20170819T005336Z">
-        <seg>&lt;g4&gt;height: 0;&lt;/g4&gt;を指定しておいてメニューの高さを広げて表示するという方法では、この効果は得られません。つまり、キーボードユーザーは、メニューが閉じているときも、目に見えない要素をTabキーで移動しなければならなくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T034613Z" creationid="rikiha" creationdate="20170819T005336Z">
+        <seg>&lt;g4&gt;height: 0;&lt;/g4&gt;を指定しておいてメニューの高さを広げて表示するという方法では、この効果は得られません。つまり、キーボードユーザーは、メニューが閉じているときも、目に見えない要素にTabキーで移動させられる羽目になることがあります。</seg>
       </tuv>
     </tu>
     <tu>
