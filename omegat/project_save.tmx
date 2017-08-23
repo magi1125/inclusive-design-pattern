@@ -1325,7 +1325,10 @@ should be なので「なければならない」「必要がある」は強す�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) このandは同格っぽいなと。</note>
+      <note>(伊原) このandは同格っぽいなと。
+
+(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The menu emerges as part of the document flow, meaning a taller-than-viewport menu is still scrollable into view and does not obscure page content beneath it.</seg>
       </tuv>
@@ -3043,12 +3046,18 @@ divergeは分岐する、分かれる、それるの意味。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) assureを訳しました。</note>
+      <note>(伊原) assureを訳しました。
+
+(太田)
+「ただし」は変です。もとよりCSSを使わない場合のメリットの話ですから、この方法を採用しつつ絶対配置するということはありえません。
+CSSを使って絶対配置した場合との対比なので、「ただし」ではないかなと。
+ただしをトリつつ調整してみました。
+</note>
       <tuv lang="EN-US">
         <seg>Absolute positioning cannot assure us of this.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T150838Z" creationid="rikiha" creationdate="20170819T005326Z">
-        <seg>ただし、絶対配置の場合はこの点を保証できません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170823T033454Z" creationid="rikiha" creationdate="20170819T005326Z">
+        <seg>絶対配置の場合は、このような保証はありません。</seg>
       </tuv>
     </tu>
     <tu>
