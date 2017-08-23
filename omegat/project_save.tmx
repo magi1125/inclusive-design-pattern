@@ -3770,6 +3770,7 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       <note>(伊原) failsがキーになるので、実行の失敗としてみました。
 
 (太田) OK
+
 しかし下のJSがなかなかのクソコードで、処理が乱暴な上に menu.hidden = expanded が何をやっているのか異常にわかりにくいですね。わかりにくすぎてヘイドンさん自身が間違っていたので正誤表が出ています。
 menu.hidden = !expanded; → menu.hidden = expanded;
 正誤表反映済みです。
