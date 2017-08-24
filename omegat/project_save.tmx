@@ -4698,12 +4698,18 @@ composeは作成でいいのか。あとで検討。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 学びました、は居ない気が。</note>
+      <note>(伊原) 学びました、は居ない気が。
+
+(太田)
+「Windowsのハイコントラストモードでの潜在的な問題」は厳密にはおかしいです。「ハイコントラストモードではじめて顕在する、潜在的な問題」というのが実際のところです。
+「潜在的」はトリでも通じるのでとってしまいました。
+
+</note>
       <tuv lang="EN-US">
         <seg>By being mindful of the need for accessible labels, potential problems with Windows’ high contrast mode and ease of touch operation, we ensured our menu button — as well as the content it reveals — is inclusive of differing user settings, circumstances, devices, and assistive technology software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T152027Z" creationid="rikiha" creationdate="20170819T005523Z">
-        <seg>アクセシブルなラベルの必要性、Windowsのハイコントラストモードでの潜在的な問題、タッチ操作のしやすさを心に留めておくことで、さまざまなユーザー設定、環境、デバイス、支援技術に対してインクルーシブなメニューボタン――同様に、そのボタンによって表示されるメニュー――を確保しました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170824T102154Z" creationid="rikiha" creationdate="20170819T005523Z">
+        <seg>アクセシブルなラベルの必要性、Windowsのハイコントラストモードでの問題、タッチ操作のしやすさを心に留めておくことで、さまざまなユーザー設定、環境、デバイス、支援技術に対してインクルーシブなメニューボタン――同様に、そのボタンによって表示されるメニュー――を確保しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17852,8 +17858,8 @@ in general は use にかかっているようにも見えますね。「ボタ�
       <tuv lang="EN-US">
         <seg>Though this pattern looked at menu buttons explicitly, it was really an exploration of the use of button controls, with icons, in general.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170824T101950Z" creationid="rikiha" creationdate="20170819T005519Z">
-        <seg>このパターンでは明示的な例としてメニューボタンをとりあげましたが、これは実際、アイコンを伴ったボタンコントロール全般に応用することができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170824T102015Z" creationid="rikiha" creationdate="20170819T005519Z">
+        <seg>このパターンでは明示的な例としてメニューボタンをとりあげましたが、これは実際に、アイコンを伴ったボタンコントロール全般に応用することができます。</seg>
       </tuv>
     </tu>
     <tu>
