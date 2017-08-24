@@ -7293,13 +7293,13 @@ VoiceOverは変な読みをするので訳注入れたいかも。
       <note>(伊原) いったん原文どおりに。
 
 (太田) 「大人の指の腹の直径」は訳としては合っていますが日本語としては違和感がありますね。「大人の指の腹よりも大きな」としてみました。
-generous enough を「十分なゆとりを持って」としてみました。
+generous enough を「十分なゆとりを持った」としてみました。
 vertical padding は2文前で「垂直パディング」としているので合わせました。</note>
       <tuv lang="EN-US">
         <seg>I would recommend mobile viewports configure navigation into a single column — one link per line — and provide a generous enough vertical padding to make each link higher than the diameter of an adult finger pad.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170824T101100Z" creationid="rikiha" creationdate="20170819T005512Z">
-        <seg>モバイルビューポートではナビゲーションを1列に――1行に1つのリンクで――設定し、それぞれのリンクが大人の指の腹よりも大きな高さとなるよう、十分なゆとりを持って垂直パディングを設定することをお勧めします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170824T101138Z" creationid="rikiha" creationdate="20170819T005512Z">
+        <seg>モバイルビューポートではナビゲーションを1列に――1行に1つのリンクで――設定し、それぞれのリンクが大人の指の腹よりも大きな高さとなるよう、十分なゆとりを持った垂直パディングを設定することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14200,7 +14200,9 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Summary</seg>
       </tuv>
@@ -17839,7 +17841,11 @@ compelには強要する、強いるという意味があり、転じて「目�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) アイコン➞ボタンコントロールの順に。総体的を全般的に。考察を探求に。</note>
+      <note>(伊原) アイコン➞ボタンコントロールの順に。総体的を全般的に。考察を探求に。
+
+(太田) 「明確に」はおかしいかも。
+
+</note>
       <tuv lang="EN-US">
         <seg>Though this pattern looked at menu buttons explicitly, it was really an exploration of the use of button controls, with icons, in general.</seg>
       </tuv>
