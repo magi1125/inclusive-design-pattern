@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4146,6 +4146,9 @@ JS中の初期化処理で
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。
+</note>
       <tuv lang="EN-US">
         <seg>At &lt;g1&gt;around&lt;/g1&gt; this size or larger, the visual focus feedback is not obscured by the user’s finger, which would otherwise force them to use the precarious gestures described in Anthony Thomas’s “&lt;g2&gt;&lt;g3&gt;Finger-Friendly Design: Ideal Mobile Touch Target Sizes&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;26&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;”:</seg>
       </tuv>
@@ -20353,8 +20356,8 @@ http://postd.cc/nobody-wants-use-your-product/
       <tuv lang="EN-US">
         <seg>“Users use the fingertip to hit small touch targets because it gives them the visual feedback they need to know that they’re hitting their target accurately.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T130904Z" creationid="rikiha" creationdate="20170819T005438Z">
-        <seg>「ユーザーは、目標を正確にタップできているかをタッチターゲットからの視覚的なフィードバックで知る必要があるため、小さいタッチターゲットのタップには指先を使います。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170824T085418Z" creationid="rikiha" creationdate="20170819T005438Z">
+        <seg>「ユーザーは、小さなターゲットを指の先端でタップします。目標を正確にタップできているかをタッチターゲットからの視覚的なフィードバックで知る必要があるため、</seg>
       </tuv>
     </tu>
     <tu>
