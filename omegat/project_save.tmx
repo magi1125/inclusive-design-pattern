@@ -14681,12 +14681,14 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) broken-up appearanceを訳出。“inactive space” が「アクティブにならないスペース」でよいかどうか。</note>
+      <note>(伊原) broken-up appearanceを訳出。“inactive space” が「アクティブにならないスペース」でよいかどうか。
+
+(太田) 「反応しないスペース」としたほうが分かりやすいかも。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;g2&gt;BBC Mobile Accessibility Guidelines&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;28&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; recommend the inclusion of “inactive space” between elements to remedy this issue, but I suggest this would create a somewhat incomprehensible, broken-up appearance when it comes to navigation regions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T135040Z" creationid="rikiha" creationdate="20170819T005510Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;「BBC Mobile Accessibility Guidelines」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注125）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;では、この問題の改善方法として、要素間に「アクティブにならないスペース」を入れることを推奨しています。しかし、ナビゲーション領域の場合は、この方法だといささか不可解な、壊れたような見た目になってしまうでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170824T100528Z" creationid="rikiha" creationdate="20170819T005510Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;「BBC Mobile Accessibility Guidelines」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注125）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;では、この問題の改善方法として、要素間に「反応しないスペース」を入れることを推奨しています。しかし、ナビゲーション領域の場合は、この方法だといささか不可解な、壊れたような見た目になってしまうでしょう。</seg>
       </tuv>
     </tu>
     <tu>
