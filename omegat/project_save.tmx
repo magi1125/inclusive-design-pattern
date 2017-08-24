@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16807,8 +16807,8 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
       <tuv lang="EN-US">
         <seg>They’re here to help you practice &lt;g2&gt;thinking inclusively&lt;/g2&gt; as you formulate your own patterns to solve your own design problems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170823T082457Z" creationid="rikiha" creationdate="20170823T082457Z">
-        <seg>ここで紹介する解決策は、皆さんがデザインの問題に直面し、それを解決する独自のパターンを考案する際に、インクルージョンを意識して考える訓練をするためのものです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170824T085121Z" creationid="rikiha" creationdate="20170823T082457Z">
+        <seg>その例は、デザインの問題を解決するためのパターンを編みだすときに、&lt;g2&gt;インクルーシブ思考&lt;/g2&gt;no訓練のためのものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17836,8 +17836,8 @@ compelには強要する、強いるという意味があり、転じて「目�
       <tuv lang="EN-US">
         <seg>Though you’re likely to use some as presented (like the &lt;g1&gt;navigation region&lt;/g1&gt; pattern) across many of your projects, they’re really just examples.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170824T083408Z" creationid="rikiha" creationdate="20170823T082454Z">
-        <seg>その中には（ナビゲーション領域のパターンのように）多くプロジェクトで使えそうなものもあるでしょうが、それらはただの例にすぎません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170824T085000Z" creationid="rikiha" creationdate="20170823T082454Z">
+        <seg>その中には（ナビゲーション領域のパターンのように）多くプロジェクトで使えそうなものもあるでしょうが、実際には単なる例にすぎません。</seg>
       </tuv>
     </tu>
     <tu>
