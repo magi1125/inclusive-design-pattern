@@ -13781,7 +13781,7 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
     <tu>
       <note>(伊原) 原文に沿ってみました。
 
-(太田) 翻訳っぽさを軽減しつつ少し調整。</note>
+(太田) 翻訳っぽさを軽減しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>Small touch targets for interactive elements make operation needlessly challenging, so what is the minimum size we should aim for?</seg>
       </tuv>
@@ -16321,12 +16321,14 @@ be transported は受動態のままではなく能動態に変えて訳すか�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) vast proliferation をもう少し短くしたい。</note>
+      <note>(伊原) vast proliferation をもう少し短くしたい。
+
+(太田) 拡散はちょっと変ですね。</note>
       <tuv lang="EN-US">
         <seg>The vast proliferation of device resolutions makes it near impossible to establish a universal figure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T121953Z" creationid="rikiha" creationdate="20170819T005428Z">
-        <seg>デバイス解像度のパターンが非常に広い範囲にわたって急激に拡散しているため、あらゆる状況で使えるサイズを規定するのは不可能に近いことです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170824T031326Z" creationid="rikiha" creationdate="20170819T005428Z">
+        <seg>デバイスの解像度のパターンが非常に広い範囲にわたって急激に拡散しているため、あらゆる状況で使えるサイズを規定するのは不可能に近いことです。</seg>
       </tuv>
     </tu>
     <tu>
