@@ -3630,9 +3630,13 @@ hueは正確には色相ですが、まあ色で良いかなと。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) Androidもいわゆるdp指定なので、要訳注な気が。
+      <note>※要訳注
+
+(伊原) Androidもいわゆるdp指定なので、要訳注な気が。
 https://material.io/guidelines/usability/accessibility.html#accessibility-style
-"Touch targets should be at least 48 x 48 dp."</note>
+"Touch targets should be at least 48 x 48 dp."
+
+</note>
       <tuv lang="EN-US">
         <seg>Apple and Android differ in their advice on touch targets with Apple recommending 44 points × 44 points (a density-independent unit of measure related to pixels and unique to Apple) and Android 48px × 48px.</seg>
       </tuv>
@@ -16330,8 +16334,8 @@ be transported は受動態のままではなく能動態に変えて訳すか�
       <tuv lang="EN-US">
         <seg>The vast proliferation of device resolutions makes it near impossible to establish a universal figure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170824T032225Z" creationid="rikiha" creationdate="20170819T005428Z">
-        <seg>デバイス解像度の種類は爆発的に増えているため、あらゆる状況で使えるサイズを規定するのはほとんど不可能です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170824T032229Z" creationid="rikiha" creationdate="20170819T005428Z">
+        <seg>デバイス解像度の種類は爆発的に増えているため、あらゆる状況で使えるサイズを規定することはほとんど不可能です。</seg>
       </tuv>
     </tu>
     <tu>
