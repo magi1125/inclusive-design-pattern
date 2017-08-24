@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16807,12 +16807,12 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
       </tuv>
     </tu>
     <tu>
-      <note>(伊原)</note>
+      <note>(伊原)ここのyouは訳してみました。ほか、全体調整。</note>
       <tuv lang="EN-US">
         <seg>They’re here to help you practice &lt;g2&gt;thinking inclusively&lt;/g2&gt; as you formulate your own patterns to solve your own design problems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170824T085334Z" creationid="rikiha" creationdate="20170823T082457Z">
-        <seg>こういった例は、デザインの問題を解決するためのパターンを編みだすときに、&lt;g2&gt;インクルーシブに思考&lt;/g2&gt;する訓練を促すためのものです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170824T085831Z" creationid="rikiha" creationdate="20170823T082457Z">
+        <seg>こういった例は、あなたがデザインの問題を解決するパターンを編みだそうとするときに、&lt;g2&gt;インクルーシブに思考&lt;/g2&gt;する訓練を促すためのものです。</seg>
       </tuv>
     </tu>
     <tu>
