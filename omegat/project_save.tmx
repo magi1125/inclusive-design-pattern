@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4149,8 +4149,8 @@ JS中の初期化処理で
       <tuv lang="EN-US">
         <seg>At &lt;g1&gt;around&lt;/g1&gt; this size or larger, the visual focus feedback is not obscured by the user’s finger, which would otherwise force them to use the precarious gestures described in Anthony Thomas’s “&lt;g2&gt;&lt;g3&gt;Finger-Friendly Design: Ideal Mobile Touch Target Sizes&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;26&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;”:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170822T125145Z" creationid="rikiha" creationdate="20170819T005433Z">
-        <seg>&lt;g1&gt;だいたい&lt;/g1&gt;このくらいか、これより大きければ、視覚的なフォーカスフィードバックがユーザーの指によって隠れることはありません。そうでなければ、アンソニー・トーマス（Anthony Thomas）の&lt;g2&gt;&lt;g3&gt;「Finger-Friendly Design: Ideal Mobile Touch Target Sizes」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注123）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;に書かれているような不安定なジェスチャーを強いられることになるでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170824T083051Z" creationid="rikiha" creationdate="20170819T005433Z">
+        <seg>&lt;g1&gt;おおよそ&lt;/g1&gt;これ以上のサイズであれば、視覚的なフォーカスフィードバックがユーザーの指によって隠れることはありません。そうでなければ、アンソニー・トーマス（Anthony Thomas）の&lt;g2&gt;&lt;g3&gt;「Finger-Friendly Design: Ideal Mobile Touch Target Sizes」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注123）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;に書かれているような不安定なジェスチャーを強いられることになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
