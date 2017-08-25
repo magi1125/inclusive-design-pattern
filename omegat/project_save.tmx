@@ -690,11 +690,16 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) こちらのiterateはプロトタイプを修正しやすいということ言っているので、作り直しとしました。
+sticky tackはググると粘着ラバーっぽいのが出てきますが、これを紙に使うというのはちょっと想像しにくいです。
+https://www.google.co.jp/search?q=sticky+tack&amp;client=safari&amp;rls=en&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwj_j_TLyPPVAhWDVrwKHftZA4cQ_AUICigB&amp;biw=968&amp;bih=539#imgrc=ebFVZnXC0iOKNM:
+
+日本では付箋を切って使ったりするケースが一般的なので、糊付けされて繰り返し貼って剥がしてができればよいということかなと。なのでここは「両面テープ」でいいと思います。あとで出て来る、四隅に貼って〜のくだりも両面テープでいけそうですし。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;It’s easy to iterate.&lt;/g2&gt; Paper prototypes are mostly just pen on paper, held together with sticky tack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170825T234652Z" creationid="rikiha" creationdate="20170823T082603Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;イテレーションが容易&lt;/g2&gt;。ペーパープロトタイプの多くは、ペンで紙に描いたものを？？粘着ラバー？？で1つにまとめてあるだけです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170825T235536Z" creationid="rikiha" creationdate="20170823T082603Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;作り直しが簡単&lt;/g2&gt;。ペーパープロトタイプはたいてい、紙にペンで描いたものを両面テープで1つにまとめてあるだけです。</seg>
       </tuv>
     </tu>
     <tu>
