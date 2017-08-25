@@ -12230,7 +12230,9 @@ file name which is irrelevant and, frankly, irritating なのでこれはファ�
 全体はOmitting will mean some screen readers will announce XX.
 franklyは「ぶっちゃけ」くらいでしょうか。なくてもいいような。
 some screen readers will は「スクリーンリーダーは……ことがあります」くらいにしてしまってもいいかも。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Omitting the &lt;g6&gt;alt&lt;/g6&gt; attribute altogether will mean some screen readers will announce the image’s file name which is irrelevant and, frankly, irritating.</seg>
       </tuv>
@@ -12377,7 +12379,8 @@ WCAGに従うことは、伝えるよりも良いのです。
 後に問題2が出てくるわけでもないので、Oneは訳さなくても良いように思います。
 「そのリソース」がSVGなのかPNGなのか分かりにくいように思いましたので、the resourceを「フォールバック用の画像」と補ってみました。
 ブラウザがSVGをサポートしていないときにPNGがダウンロードされるのは当然なので、「ブラウザがSVGをサポートしていても」としてみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>One issue with the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; fallback is that the resource will almost certainly download, whether or not the browser supports SVG, affecting a needless performance hit.</seg>
       </tuv>
@@ -12479,7 +12482,7 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
 (太田) 前からのつながりで、ユーザーをいらだたせない方法として頼れるのが alt="" だけ、ということでしょうね。
 「&lt;g7&gt;alt=""&lt;/g7&gt;だけが頼りです」としてみました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Only &lt;g7&gt;alt=""&lt;/g7&gt; is reliable.</seg>
       </tuv>
@@ -12525,7 +12528,9 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
 
 (太田)
 訳としてはOKですがわかるのだろうかという疑問が。
-「ユーザーの操作」を受けつける的な話ですよね。</note>
+「ユーザーの操作」を受けつける的な話ですよね。
+
+(伊原) ですね、いったんママで通しで読んで検討かなと。</note>
       <tuv lang="EN-US">
         <seg>Operation</seg>
       </tuv>
