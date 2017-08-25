@@ -3571,7 +3571,9 @@ proxy elementは力強く削除してしまったほうが分かりやすそう�
       <note>(太田)
 「補助的」要検討。予備的?
 
-(伊原) あとのほうで「できるだけSVGで」と言っており、ARIAはできれば使わずに、の原則から考えても、予備的、予備の、といったほうが良さそうな感はありました。</note>
+(伊原) あとのほうで「できるだけSVGで」と言っており、ARIAはできれば使わずに、の原則から考えても、予備的、予備の、といったほうが良さそうな感はありました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Another auxiliary method for labeling the icon is to use an &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-label&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;17&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; attribute.</seg>
       </tuv>
@@ -17619,7 +17621,7 @@ esotericは特殊というより、他で使われていないというニュア
 
 (伊原) CSSハックというと、スターハックとかアンダースコアハックとかそれ系を連想しますが、ママでよいかどうか。
 
-(太田) いったんママで。</note>
+(太田) まあわかると思うのでいったんママで。</note>
       <tuv lang="EN-US">
         <seg>This method uses a CSS hack on a &lt;g1&gt;&lt;span&gt;&lt;/g1&gt; to hide the “menu” text label without it becoming unavailable to screen readers.</seg>
       </tuv>
