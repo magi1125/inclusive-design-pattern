@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6374,7 +6374,9 @@ For thatは「その実現」としてみました。
 
 (伊原) OK. おなじみかな…
 
-(太田) 「いつもの」とか?</note>
+(太田) 「いつもの」とか?
+
+(伊原) いえ、ひとまずおなじみで。</note>
       <tuv lang="EN-US">
         <seg>For that, we can harness our trusty &lt;g2&gt;.visibility-hidden&lt;/g2&gt; class (set out in “A Blog Post”).</seg>
       </tuv>
@@ -9016,7 +9018,8 @@ robustlyは「堅牢な方法で」としてみました。
 if supported は SVG ではなく &lt;use&gt; にくっついているのでは。
 原理的に、SVGがサポートされていない場合はそもそもswitch要素が認識されません。
 調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the example above, the SVG renders via the &lt;g1&gt;&lt;use&gt;&lt;/g1&gt; element if supported, but &lt;g2&gt;switches&lt;/g2&gt; to rendering the fallback PNG if not.</seg>
       </tuv>
@@ -9505,7 +9508,8 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
 (太田) 
 これ今考慮する必要あるんですかね、という疑問はありますね。
 「8以前」という表現は8を含むのか含まないのか判然としないかも。むしろ「9未満」で良いような。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Internet Explorer preceding version 9 and other older browsers need a fallback for inline SVG.</seg>
       </tuv>
@@ -17463,7 +17467,8 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
 (太田)
 SVGの要素であることを補いたいかも。
 対処→実現としました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This is where you can use the &lt;g7&gt;&lt;switch&gt;&lt;/g7&gt; and &lt;g8&gt;&lt;foreignObject&gt;&lt;/g8&gt; elements:</seg>
       </tuv>
