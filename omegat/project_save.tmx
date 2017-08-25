@@ -3228,7 +3228,9 @@ accordinglyは「すなわち」ではないかも。文意を分かりにくく
 
 (太田) 
 「十分に幅の広いビューポートにメニューを常に存在させておくべき」というのは、ビューポートの幅が広ければメニューは表示しっぱなしでいいでしょ、という話だと思います。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK, ありがとうございます。</note>
       <tuv lang="EN-US">
         <seg>Accordingly, the menu should be ever present at reasonably wide viewports.</seg>
       </tuv>
@@ -3623,7 +3625,9 @@ hueは正確には色相ですが、まあ色で良いかなと。
     <tu>
       <note>(伊原) シンプルに。
 
-(太田) 結果を得るために必要な時間なので、無駄というのは少し違うかも。浪費でしかない、という感じなのではないかと思います。</note>
+(太田) 結果を得るために必要な時間なので、無駄というのは少し違うかも。浪費でしかない、という感じなのではないかと思います。
+
+(伊原) </note>
       <tuv lang="EN-US">
         <seg>Any time spent by a user operating an interface, twisting knobs, pulling levers or tapping buttons is time wasted.</seg>
       </tuv>
@@ -3658,7 +3662,9 @@ hueは正確には色相ですが、まあ色で良いかなと。
 https://material.io/guidelines/usability/accessibility.html#accessibility-style
 "Touch targets should be at least 48 x 48 dp."
 
-(太田) 少し調整</note>
+(太田) 少し調整
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Apple and Android differ in their advice on touch targets with Apple recommending 44 points × 44 points (a density-independent unit of measure related to pixels and unique to Apple) and Android 48px × 48px.</seg>
       </tuv>
@@ -4172,7 +4178,8 @@ JS中の初期化処理で
     <tu>
       <note>(太田)
 微調整。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>At &lt;g1&gt;around&lt;/g1&gt; this size or larger, the visual focus feedback is not obscured by the user’s finger, which would otherwise force them to use the precarious gestures described in Anthony Thomas’s “&lt;g2&gt;&lt;g3&gt;Finger-Friendly Design: Ideal Mobile Touch Target Sizes&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;26&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;”:</seg>
       </tuv>
@@ -4200,7 +4207,8 @@ JS中の初期化処理で
 
 (太田)
 ひとまず調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>At narrower widths, touch operation is more likely — especially when we encroach on mobile and handheld dimensions.</seg>
       </tuv>
@@ -5118,7 +5126,9 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       <note>(伊原) 多くのデザイナーは細部に夢中になりがち　➞　インクルーシブデザイナーは目的達成に応える　ということで、語順を調整しました。
 
 (太田)
-ちょっと調整。「課題」はとりました。</note>
+ちょっと調整。「課題」はとりました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Catering to them is top priority to an inclusive designer.</seg>
       </tuv>
@@ -12706,7 +12716,9 @@ parityは平均化というより、ここでは等価、価値を等しくす�
     <tu>
       <note>(伊原) 原文にない括弧をトリ。
 
-(太田) 「実は」と補ってみました。</note>
+(太田) 「実は」と補ってみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>People are not really into using products.</seg>
       </tuv>
@@ -12953,6 +12965,7 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
 (太田)
 すこし調整。
 
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Rather, people are &lt;g1&gt;more interested in the end result&lt;/g1&gt; and in obtaining that result in the quickest, least intrusive and most efficient manner possible.” – Goran Peuc “&lt;g2&gt;&lt;g3&gt;Nobody Wants To Use Your Product&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;25&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;”</seg>
@@ -13882,7 +13895,9 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
     <tu>
       <note>(伊原) 原文に沿ってみました。
 
-(太田) 翻訳っぽさを軽減しつつ調整。</note>
+(太田) 翻訳っぽさを軽減しつつ調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Small touch targets for interactive elements make operation needlessly challenging, so what is the minimum size we should aim for?</seg>
       </tuv>
@@ -15531,7 +15546,9 @@ jaw は動詞だとスラングで Impudent or abusive talk.
     <tu>
       <note>(伊原) ちょっと開いて分かりやすく。
 
-(太田) 急にハンバーガーの話が出てくる感があったので「採用するなら」と補ってみました。</note>
+(太田) 急にハンバーガーの話が出てくる感があったので「採用するなら」と補ってみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The ease of touch interaction for our hamburger menu needs consideration.</seg>
       </tuv>
@@ -16433,7 +16450,8 @@ be transported は受動態のままではなく能動態に変えて訳すか�
 (太田)
 拡散はちょっと変ですね。
 「デバイス解像度の種類が爆発的に増えている」くらいでしょうか。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The vast proliferation of device resolutions makes it near impossible to establish a universal figure.</seg>
       </tuv>
@@ -18379,7 +18397,9 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
     <tu>
       <note>(伊原) OK
 
-(太田) 「タッチ操作のターゲット」くらいに補うのもありか。</note>
+(太田) 「タッチ操作のターゲット」くらいに補うのもありか。
+
+(伊原) そうですね、でもこの仕事をしてるならわかりそうな感じもあるので、いったんママで。</note>
       <tuv lang="EN-US">
         <seg>Touch Targets</seg>
       </tuv>
@@ -18968,7 +18988,9 @@ divに小細工するのではなく既存のbutton要素を使う、という�
 考慮は原文に無いですね。考慮トリにすればWeを訳さなくてよくなるような。
 「器用さに制限」はどうにも直訳っぽいですね。
 dexterityは他の箇所には無い模様。
-「especially」は無理に訳さなくても良いような気がしました。</note>
+「especially」は無理に訳さなくても良いような気がしました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We especially want to be inclusive of users with limited dexterity due to rheumatic issues.</seg>
       </tuv>
