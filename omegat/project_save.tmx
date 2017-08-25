@@ -78,7 +78,8 @@
 (太田)
 tabindexを指定することはここでは本題ではなく、このNoteは注目してほしいという感じではないと思います。
 theを「上記の」としつつ調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>(Note the &lt;g1&gt;tabindex="-1"&lt;/g1&gt; attribute which fixes sequential focus navigation as discussed in “Navigation Regions”).</seg>
       </tuv>
@@ -1026,7 +1027,9 @@ forego は「先に行く」のような感じですが、他動詞として使�
 ちょっと誤訳っぽいというか、うまく伝わらない表現になっているかもしれません。
 JavaScript has run は完了形であり、JavaScriptが実行済みということです。つまりここでは、上記の例が純粋なHTMLのソースコードではなく、JavaScript実行後の、JSによって改変されたDOMノードの状態を表現しているということを言っています。これは重要なので、強く訳したいところです。
 「上の例は、JavaScriptが実行された後の状態だと思ってください。」
-としてみました。</note>
+としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;In the example above, we imagine that JavaScript has run, meaning it’s safe to hide the menu and reveal the button (hence the &lt;g2&gt;hidden&lt;/g2&gt; attribute that JavaScript has added to the menu &lt;g3&gt;&lt;ul&gt;&lt;/g3&gt;).</seg>
       </tuv>
@@ -1361,8 +1364,7 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
 (太田)
 そうですね。「スクリーンリーダーユーザーがショートカットでランドマークに移動」を採用しつつ微調整してみました。
 
-
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; is placed &lt;g3&gt;inside&lt;/g3&gt; the navigation landmark, meaning it will be available to screen reader users who go to the landmark via a shortcut.</seg>
       </tuv>
@@ -1428,7 +1430,9 @@ should be なので「なければならない」「必要がある」は強す�
 (太田)
  directly &lt;g2&gt;after&lt;/g2&gt; という強調を再現するために「直後」を「すぐ後」としました。
 したがって→これによって、としました。
-フォーカスできる→フォーカスがあたる</note>
+フォーカスできる→フォーカスがあたる
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The menu is placed directly &lt;g2&gt;after&lt;/g2&gt; the &lt;g3&gt;&lt;button&gt;&lt;/g3&gt; in the source order, meaning the first menu item will be the next focusable element after the menu is opened.</seg>
       </tuv>
@@ -4359,7 +4363,8 @@ the previous implementation は div で実装されたボタン、the inclusive 
 (太田)
 次の should never の文を調整するとつながりがよくなるかもしれません。
 its contents は「その中身」とかで良いかも。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Because the menu is hidden with &lt;g4&gt;hidden&lt;/g4&gt;, its contents are not focusable when it is closed.</seg>
       </tuv>
@@ -6767,7 +6772,8 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
 これは元訳のほうが正しいかも。
 HTML的にulにhidden属性がついたままだとCSSでは制御できない (hidden属性のほうが強い) ので、あらかじめ取り除いておく必要があるという話ではないでしょうか。
 Henceは「取り除いたのでCSSで制御できます」的なニュアンスで書いているのだと思いますが、そのまま訳すと分かりにくいので意訳しつつ調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Hence I’ve removed the &lt;g2&gt;hidden&lt;/g2&gt; attribute and would supply this CSS:</seg>
       </tuv>
@@ -7547,7 +7553,7 @@ populate X はXに殖民するのような意味で、hiddenになっているul
 ただ、わかりにくいので語順を変えてみました。
 populateのニュアンスを少し尊重して「メニューを出現させる」としてみました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>If the button were outside, users would arrive at an empty landmark with no way to populate it.</seg>
       </tuv>
@@ -7813,7 +7819,8 @@ by name は「バイネームで」でも良いのかもしれないですね。
 
 (太田) 訳としては合っていますが、「リンク」と言われても分かりにくい印象はありますね。「ページ内リンクを使う」くらい補ってもいいかもしれません。
 「探している」は訳としては正しいですが、どうも翻訳調になっている印象があったので調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>If you’re looking for a way to &lt;g1&gt;transport&lt;/g1&gt; a user to a menu (or any other remote element in the page), a link is your best bet:</seg>
       </tuv>
@@ -8248,7 +8255,9 @@ it = トランスクリプトと補わないと分かりにくいかも。
 (岡本)　関連付ける→関連づける
 
 (太田) impossibleという強い言葉が使われているので「配置することが不可能」としてみました。
-後のほうで「話を戻す」という話が出てくるので、ここではいったん脱線する形になっています。そのことがわかりやすくなるように「ちなみに」と補ってみました。</note>
+後のほうで「話を戻す」という話が出てくるので、ここではいったん脱線する形になっています。そのことがわかりやすくなるように「ちなみに」と補ってみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In cases where it is impossible (due to design constraints, company politics or whatever’s standing in your way) to place the subject menu directly after the menu button as prescribed, you can associate the two elements with &lt;g1&gt;aria-controls&lt;/g1&gt;.</seg>
       </tuv>
@@ -9530,7 +9539,9 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
 
 (太田)
 目に見えない→見えない (「目に」とつけるとスクリーンリーダーでは読まれるニュアンス、ここでは実際には読まれない)
-they should never be focusable はそのまま訳すと「絶対にフォーカスできるようにしてはなりません」で、これで良いのではないかと思います。「フォーカスできないようにしておく」だと前の文とのつながりが変な気がします。</note>
+they should never be focusable はそのまま訳すと「絶対にフォーカスできるようにしてはなりません」で、これで良いのではないかと思います。「フォーカスできないようにしておく」だと前の文とのつながりが変な気がします。
+
+(伊原) そうですね、OKです。ありがとうございます。</note>
       <tuv lang="EN-US">
         <seg>Invisible elements are not for operation, so they should never be focusable.</seg>
       </tuv>
@@ -9581,7 +9592,8 @@ JAWSでのaria-controlsの読み上げは、緑本の時点で中根さんのJAW
 原文で press となっているのは最近のJAWSで変化した?
 最新の日本語版でどうなっているか確認できれば確認したいところです。
 2017年の8月にJAWS18日本語版がでているっぽい。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It announces, “press JAWS key plus Alt plus M to go to controlled element” and offers no way to traverse back.</seg>
       </tuv>
@@ -15325,7 +15337,8 @@ jaw は動詞だとスラングで Impudent or abusive talk.
 意図は了解ですが、とはいえ説教というのはよくわからない感じがしますね。
 ここでは名詞なので単に「アゴ」の意味かも。
 いったんトリにしてみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The attribute is only exposed in JAWS and JAW’s implementation is incomplete and unsatisfactory.</seg>
       </tuv>
@@ -19444,7 +19457,8 @@ becomes the targetで :target の対象になるということもあわせて�
 
 参考:
 http://www.w3.org/TR/css3-selectors/#target-pseudo
-</note>
+
+(伊原) :target擬似クラス自体の説明になっちゃうので、このままで訳注なしでもいいと思いました。</note>
       <tuv lang="EN-US">
         <seg>When you click the &lt;g1&gt;href="#nav-menu"&lt;/g1&gt; link, the URL for the page is appended with the &lt;g2&gt;#nav-menu&lt;/g2&gt; fragment identifier and the landmark becomes the target, making &lt;g3&gt;display: block;&lt;/g3&gt; applicable.</seg>
       </tuv>
