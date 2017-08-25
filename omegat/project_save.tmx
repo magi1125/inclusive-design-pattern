@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3316,7 +3316,9 @@ listen for (changes and update) each time
 (listen for changes) and (update each time)
 という解釈が正しいと思われます。
 listenは「監視」としてみました。
-「変更を監視し、変更があればその都度バッファを更新」ですね。</note>
+「変更を監視し、変更があればその都度バッファを更新」ですね。
+
+(伊原) 確かに。OKです。</note>
       <tuv lang="EN-US">
         <seg>All popular screen readers listen for changes and update their buffers (their interpreted versions of the DOM using the accessibility tree) each time a change takes place.</seg>
       </tuv>
@@ -5127,7 +5129,9 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       <note>(伊原) こういうことかなと。
 
 (太田) そういうことですね。
-要素の話をしていないのにいきなり「要素と同様」と言われると面食らうので、語順含め調整しました。</note>
+要素の話をしていないのにいきなり「要素と同様」と言われると面食らうので、語順含め調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Changes to text nodes and attributes update the buffer, as well as adding or removing elements.</seg>
       </tuv>
@@ -5171,9 +5175,7 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
     </tu>
     <tu>
-      <note>※（伊原）ここから確認中
-
-(太田) OK</note>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Communicating State</seg>
       </tuv>
@@ -5187,7 +5189,8 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
 
 (太田) 
 順番調整しつつまとめてみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Communicating the state of functional elements within web interfaces is an important part of making those interfaces inclusive of anyone using assistive technology and who is therefore dependent on the &lt;g1&gt;&lt;g2&gt;accessibility tree&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;22&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
@@ -5327,7 +5330,9 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
 重要な処理を行うJSはクリティカルパスのようなネックになるので、実行されない可能性をできるだけ低くしようという話ですね。
 言いたいこととしては「重要な処理をするJavaScriptを極力堅牢にする」とかです。
 ママでも良いといえば良いですが、わかるかどうか。
-「重要な機能を実現するJavaScript」とかのほうが良い?</note>
+「重要な機能を実現するJavaScript」とかのほうが良い?
+
+(伊原) ググって裸忍者について学びました。重要なJavaScript、いいと思います。</note>
       <tuv lang="EN-US">
         <seg>Critical JavaScript</seg>
       </tuv>
@@ -7303,6 +7308,8 @@ NVDA2017.2jaにて「折りたたみ」「展開」と読むことを確認。
 調整してみました。
 
 VoiceOverは変な読みをするので訳注入れたいかも。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>I think &lt;g3&gt;&lt;g4&gt;&lt;g5&gt;aria-expanded&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;23&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; is probably the solution here because it prompts screen readers to explicitly announce “collapsed” (&lt;g9&gt;false&lt;/g9&gt;) and “expanded” (&lt;g10&gt;true&lt;/g10&gt;).</seg>
@@ -9647,7 +9654,9 @@ JAWSでのaria-controlsの読み上げは、緑本の時点で中根さんのJAW
 
 (太田)
 ここのtriggerは日本語にしていいやつなのでは。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It is a popular misconception that screen readers are not reactive to JavaScript triggered DOM changes.</seg>
       </tuv>
@@ -13019,8 +13028,7 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
 
 これに沿って調整しました。
 
-
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Remember, the accessibility tree is a version of the DOM that exposes the role, property, value and state information the author provides to assistive technology software.</seg>
       </tuv>
@@ -13710,7 +13718,8 @@ the button is really a better fit. が何を言っているのか正直良くわ
 
 「近接性」はひっかかりますね。
 こういうこと?
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Since proximity isn’t an issue in our case, the button is really a better fit.</seg>
       </tuv>
@@ -18718,7 +18727,9 @@ ourを「先の」などとしつつ調整。
 
 (太田)
 いずれにしても「この状態の変化」だけでは伝わりきらないような気がします。「メニューの開閉状態の変化」としつつ、語順戻すのが良いのではないでしょうか。
-視覚以外→視覚に頼らない、としました。</note>
+視覚以外→視覚に頼らない、としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Using JavaScript and WAI-ARIA we can communicate this change in state non-visually.</seg>
       </tuv>
@@ -18831,7 +18842,9 @@ ourを「先の」などとしつつ調整。
 
 (太田)
 state属性という属性があるわけではないので「状態(state)属性」としました。
-少し調整。</note>
+少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>WAI-ARIA offers a host of state attributes with &lt;g1&gt;true&lt;/g1&gt; and &lt;g2&gt;false&lt;/g2&gt; values to communicate the presence or absence of the state.</seg>
       </tuv>
@@ -19299,7 +19312,9 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
 (太田)
 NVDA2017.2jaで「site ナビゲーション ランドマーク menu  ボタン  折りたたみ」という読みでした。原文は「ランドマーク」の読みが抜けていますね。
 上のソースコード中の"site" と"menu"はそのままカタカナに訳す感じと想定してカタカナに。
-shouldを「はずです」はちょっと強い感じなので「でしょう」くらいに。</note>
+shouldを「はずです」はちょっと強い感じなので「でしょう」くらいに。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>When focusing the menu button, screen readers should announce something similar to “Site navigation, menu button, collapsed” — all the pertinent information about the region’s menu system.</seg>
       </tuv>
