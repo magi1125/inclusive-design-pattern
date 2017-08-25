@@ -822,7 +822,9 @@ JISではbypass block を「ブロックスキップ」としています。
 カッコ内はhidden属性の性質が display: none に似通っていると言っている印象。
 調整してみましたが、括弧書き自体がいらないかも。
 anyを訳出しました。
-厳密には「子要素」ではなく「子孫要素」ですが、まあいいか。</note>
+厳密には「子要素」ではなく「子孫要素」ですが、まあいいか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;As previously mentioned, the &lt;g2&gt;hidden&lt;/g2&gt; attribute (like &lt;g3&gt;display: none;&lt;/g3&gt;) on a parent element makes any interactive element children unfocusable.</seg>
       </tuv>
@@ -1416,7 +1418,9 @@ should be なので「なければならない」「必要がある」は強す�
       <note>(伊原) このandは同格っぽいなと。
 
 (太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The menu emerges as part of the document flow, meaning a taller-than-viewport menu is still scrollable into view and does not obscure page content beneath it.</seg>
       </tuv>
@@ -1512,7 +1516,9 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
 (太田)
 「メニューシステム」は「メニューの仕組み」とかで良いかも。
 メニューとCSSが相互に依存しないという話ではなく、単にメニューがCSSに依存しないという話だと思います。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;There’s no CSS dependency for the menu system, meaning it will function regardless of a CSS failure.</seg>
       </tuv>
@@ -3166,7 +3172,8 @@ divergeは分岐する、分かれる、それるの意味。
 「ただし」は変です。もとよりCSSを使わない場合のメリットの話ですから、この方法を採用しつつ絶対配置するということはありえません。
 CSSを使って絶対配置した場合との対比なので、「ただし」ではないかなと。
 ただしをトリつつすこし補いつつ調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Absolute positioning cannot assure us of this.</seg>
       </tuv>
@@ -3948,7 +3955,9 @@ JS中の初期化処理で
 と明示的に指定しているので理論的にも大丈夫なはずです。
 # ヘイドンさん、ちゃんと確認してから書いてほしい。
 
-正誤表のコメントが間違っている旨の訳注を入れる? 必要?</note>
+正誤表のコメントが間違っている旨の訳注を入れる? 必要?
+
+(伊原) 英語版の正誤表まで見に行く人はそんなにいないと思うので、訳注なしでよさそうです。</note>
       <tuv lang="EN-US">
         <seg>As described, the menu will be visible and usable where JavaScript fails or is switched off, but this way it’s less likely to fail: if the document itself loads, it’s already there in its entirety — no jQuery or other dependency to wait on.</seg>
       </tuv>
@@ -4246,7 +4255,7 @@ thoughをどう扱うか。
 誘惑を避ける、とすると、誘惑するのを避けるとも取れるので難しい。
 &lt;ruby&gt;魔の誘惑&lt;&lt;rt&gt;テンプテーション&lt;/rt&gt;&lt;/ruby&gt;を冷静に見切る?
 
-
+(伊原) OK. MTGなのですね。
 </note>
       <tuv lang="EN-US">
         <seg>Avoid the temptation, though, to add animations — especially ones which depend on CSS positioning — just to impress users.</seg>
@@ -4385,7 +4394,8 @@ its contents は「その中身」とかで良いかも。
 ここのfundamentalは「なくてはならない」「必須」に近い意味だと思います。
 
 調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Because the operation of the menu is a fairly fundamental feature, I’ve written a vanilla JavaScript implementation to embed at the bottom of the page.</seg>
       </tuv>
@@ -13421,7 +13431,7 @@ without the clear hierarchy of grouping related sections under a main heading on
 animateをアニメーションと訳さなくても良いのかもしれませんね。
 調整してみましたがどうでしょうか。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Setting &lt;g4&gt;height: 0;&lt;/g4&gt; and animating to full height would not have this effect, meaning keyboard users would have to tab through invisible elements while the menu is closed.</seg>
       </tuv>
@@ -14323,7 +14333,8 @@ impactは次の文に合わせて「効果」としました。
 (太田)
 「メニューの状態を切り替えるためにはJavaScriptが必要」であり「アクセシブルに」が意味不明な感じがします。accessiblyの意味が謎です。
 いったんママで。
-</note>
+
+(伊原) CSSだけでできるホゲホゲ、みたいなのじゃないよという意味で「アクセシブルに」なのかなと。ママでよいと思いました。</note>
       <tuv lang="EN-US">
         <seg>Switching the state of the menu accessibly requires JavaScript.</seg>
       </tuv>
@@ -15876,7 +15887,7 @@ updateはここでは「付け加える」くらいの意味かと思います�
 
 (太田) 少しシンプルに。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The menu just appears and disappears by switching the display state via the &lt;g1&gt;hidden&lt;/g1&gt; attribute.</seg>
       </tuv>
