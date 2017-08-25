@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17324,16 +17324,15 @@ OKですがやや硬いかも。
     <tu>
       <note>(伊原) 原文に沿った感じに。
 
-(太田) 厳密には not anyone なので「いるかもしれない」というニュアンスはありますね。直訳すると、
-「これは誰もが乗ることに興味を持つような種類のギャンブルではありません」
+(太田)　
 まあ、いずれにしてもヘイドンフレーズなのでざっくりな訳で良いとは思います。いったん、
 「こんなギャンブルには関わりたくないという人も多いでしょう」
 としてみました。</note>
       <tuv lang="EN-US">
         <seg>This is not the sort of gamble anyone is interested in taking.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170824T094006Z" creationid="rikiha" creationdate="20170819T005451Z">
-        <seg>こんなギャンブルには関わりたくないという人も多いでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170825T013047Z" creationid="rikiha" creationdate="20170819T005451Z">
+        <seg>こんなギャンブルには誰も関わりたくないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
