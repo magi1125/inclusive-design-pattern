@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5897,7 +5897,7 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
 the placement of (the &lt;button&gt; and the menu it discloses.)
 とも読めてあいまいですが後者なんですかね。placementが何を指すのかが謎気味で、配置するための実装方法なのか、配置する場所なのかが分かりにくいです。
 
-</note>
+(伊原) button要素はランドマーク内に入れないとダメよというのと、ボタンのあとにメニューにフォーカスされるべきと後ろで書いているので、後者という理解でした。</note>
       <tuv lang="EN-US">
         <seg>First of all, to create an inclusive UX, we need to take care with the placement of the &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; and the menu it discloses.</seg>
       </tuv>
