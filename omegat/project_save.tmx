@@ -7948,11 +7948,12 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) includeすることができる、なので「巻き込める」としてみました。イテレーションはそのままでわかるかどうか。次の段落でもイテレーションとでてくるし、大丈夫かな。</note>
       <tuv lang="EN-US">
         <seg>Importantly, it also means stakeholders and test users can be included in iteration.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170823T082602Z" creationid="rikiha" creationdate="20170823T082602Z">
-        <seg>重要なのは、関係者やテストユーザーもイテレーションに参加できる点です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170825T234205Z" creationid="rikiha" creationdate="20170823T082602Z">
+        <seg>関係者やテストユーザーをイテレーションに巻き込めるという点でも重要です。</seg>
       </tuv>
     </tu>
     <tu>
