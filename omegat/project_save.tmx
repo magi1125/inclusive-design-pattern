@@ -7364,6 +7364,7 @@ VoiceOverは変な読みをするので訳注入れたいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>I usually make sure I have a couple of black pens, then choose a red for errors, green for success messages, and blue for links and buttons.</seg>
       </tuv>
@@ -7885,11 +7886,12 @@ by name は「バイネームで」でも良いのかもしれないですね。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) probablyを訳出。</note>
       <tuv lang="EN-US">
         <seg>If you’re making an app, there are probably going to be some input fields.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170823T082733Z" creationid="rikiha" creationdate="20170823T082733Z">
-        <seg>アプリケーションを作っている場合は、何らかの入力フィールドがあるでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T015841Z" creationid="rikiha" creationdate="20170823T082733Z">
+        <seg>アプリケーションを作っている場合、たぶん何らかの入力フィールドがあるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13531,6 +13533,7 @@ Shadow DOMは「影DOM」とは訳されないので、少なくともShadowは�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Sheets of Acetate</seg>
       </tuv>
