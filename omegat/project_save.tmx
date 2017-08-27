@@ -2938,11 +2938,12 @@ heading shortcutは「見出しジャンプ」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) カッコ内を多少調整。</note>
       <tuv lang="EN-US">
         <seg>A large viewport (paper sheet to which smaller parts of the paper app are adhered) means more people in your test environment can simultaneously see it as it is being used.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170823T082634Z" creationid="rikiha" creationdate="20170823T082634Z">
-        <seg>大きいビューポート（紙製アプリケーションの小さいパーツを貼り付ける紙面）なら、テストの場にいる多くの人が、アプリケーションが使用されている様子を同時に見ることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T003100Z" creationid="rikiha" creationdate="20170823T082634Z">
+        <seg>大きいビューポート（紙製アプリケーションの各パーツが貼り付けられる紙面）なら、テストの場にいる多くの人が、アプリケーションが使用されている様子を同時に見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19696,7 +19697,7 @@ shouldなので「すべき」くらいかなと。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順を調整、表現を揃えました。</note>
+      <note>(伊原) 語順を調整、表現を揃えました。しかし面白い主張ですね。アクティングアウト的な雰囲気を重視しているのかも。</note>
       <tuv lang="EN-US">
         <seg>Whether your prototype is intended to demo an app for small handheld devices or large installation screens, it’s better to begin large.</seg>
       </tuv>
