@@ -213,8 +213,8 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Give clear instructions.&lt;/g2&gt; Tell the user tester they can touch any items in the interface they think are interactive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T115927Z" creationid="rikiha" creationdate="20170827T115927Z">
-        <seg>明確な指示を与える。ユーザーテスターに、インターフェイス内のインタラクティブだと思ったアイテムはどれでも触ってかまわないと伝えます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T150052Z" creationid="rikiha" creationdate="20170827T115927Z">
+        <seg>&lt;/g1&gt;&lt;g2&gt;明確な指示を与える。&lt;/g2&gt;テストユーザーに、このインターフェイス内でインタラクティブだと思える項目はどれでも触ることができると伝えてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7821,6 +7821,7 @@ making sure is paramount という構造。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) would感を出したいものの、〜でしょうだと前とカブるので、こんな感じで。</note>
       <tuv lang="EN-US">
         <seg>If the button deletes something this would mean unsticking the paper component and putting it to one side.</seg>
       </tuv>
