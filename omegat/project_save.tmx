@@ -692,11 +692,9 @@ OK
     <tu>
       <note>(伊原) こちらのiterateはプロトタイプを修正しやすいということ言っているので、作り直しとしました。
 
-sticky tackはググると接着粘土っぽいのが出てきますが、日本ではあんまり馴染みがないものです。
-https://www.google.co.jp/search?q=sticky+tack&amp;client=safari&amp;rls=en&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwj_j_TLyPPVAhWDVrwKHftZA4cQ_AUICigB&amp;biw=968&amp;bih=539#imgrc=ebFVZnXC0iOKNM:
-
-糊付けされて繰り返し貼って剥がしてができればよいということかなと。なのでここは「両面テープ」でいいと思います。あとで出てくる、四隅に貼って〜のくだりも両面テープでいけそうですし。
-貼ってはがせるタイプのほうがいいので、そのあたりは補足でしょうか。</note>
+sticky tackは、日本だとコクヨのひっつきむしが相当するようです。
+https://www.amazon.co.jp/コクヨ-KOKUYO-タ-380N-粘着剤-ひっつき虫/dp/B0012R4RPY
+粘着ラバーというと卓球方面の用語っぽいので、ひとまず粘着剤としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;It’s easy to iterate.&lt;/g2&gt; Paper prototypes are mostly just pen on paper, held together with sticky tack.</seg>
       </tuv>
@@ -1354,12 +1352,12 @@ http://www.syakourental.com/product/sheet.html</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 両面テープとしました</note>
+      <note>(伊原) 粘着剤としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Sticky tack</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170826T231826Z" creationid="rikiha" creationdate="20170823T082628Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;両面テープ</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T012633Z" creationid="rikiha" creationdate="20170823T082628Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;粘着剤</seg>
       </tuv>
     </tu>
     <tu>
