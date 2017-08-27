@@ -233,6 +233,54 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;A collection of prototype bits and pieces (other screens, yet-to-be-revealed functionality, etc.).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120015Z" creationid="rikiha" creationdate="20170827T120015Z">
+        <seg>プロトタイプのこまごまとしたパーツ（別の画面、まだ見えていない機能など）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;A note taker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120021Z" creationid="rikiha" creationdate="20170827T120021Z">
+        <seg>記録係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;It’s often beneficial to have a passive second tester, sat with the user tester for moral support and to encourage dialogue.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120019Z" creationid="rikiha" creationdate="20170827T120019Z">
+        <seg>操作には参加しないもう一人のテスターがいると効果的です。一緒に座っているだけでユーザーテスターは心強く感じ、会話が促されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The app.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120017Z" creationid="rikiha" creationdate="20170827T120017Z">
+        <seg>アプリケーション。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The person playing the computer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120014Z" creationid="rikiha" creationdate="20170827T120014Z">
+        <seg>コンピュータ役をする人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The user tester, operating the prototype.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120018Z" creationid="rikiha" creationdate="20170827T120018Z">
+        <seg>プロトタイプを操作するユーザーテスター。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;div&lt;/g11&gt; &lt;g13&gt;class&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"meta"&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g10&gt;Published on &lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;time&lt;/g18&gt; &lt;g20&gt;datetime&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"2017-12-12"&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g17&gt;12/12/2017&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;/&lt;/g26&gt;time&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;&lt;g28&gt;&lt;g29&gt;&lt;g30&gt;&lt;/&lt;/g30&gt;div&lt;/g29&gt;&lt;g31&gt;&gt;&lt;/g31&gt;&lt;/g28&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T101754Z" creationid="yoota" creationdate="20170515T101754Z">
@@ -949,6 +997,22 @@ OK
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Code it up in HTML and CSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120034Z" creationid="rikiha" creationdate="20170827T120034Z">
+        <seg>• それをHTMLとCSSでコード化する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Compare and discuss your code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120038Z" creationid="rikiha" creationdate="20170827T120038Z">
+        <seg>• 作成したコードを比較し、検討する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Content — what we &lt;g2&gt;write&lt;/g2&gt; or otherwise &lt;g3&gt;express&lt;/g3&gt; via the web — must be subject to design thinking and, in fact, all other design decisions should facilitate that.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091500Z" creationid="okamoto_jun" creationdate="20170627T091500Z">
@@ -989,6 +1053,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T050346Z" creationid="yoota" creationdate="20170512T050346Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;outline:none;&lt;/g2&gt;を使用してフォーカススタイルを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Everyone grab a component.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120033Z" creationid="rikiha" creationdate="20170827T120033Z">
+        <seg>• 各自が1つのコンポーネントを手に取る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,6 +1402,14 @@ strategyを「方策」としているのは少し大げさかもしれません
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170612T104107Z" creationid="yoota" creationdate="20170606T102057Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;目が見えているユーザーによるスクリーンリーダーの体験は、視覚障害者の体験とは劇的に異なる場合があることに注意する。一口に視覚障害者と言っても、使い方は人によって大きく異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Repeat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120039Z" creationid="rikiha" creationdate="20170827T120039Z">
+        <seg>• この作業を繰り返す。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2404,6 +2484,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A T-shirt design I made for usability expert &lt;g4&gt;&lt;g5&gt;Lily Dart&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;4&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; during her time consulting my former employer, &lt;g9&gt;&lt;g10&gt;Neontribe&lt;/g10&gt;&lt;/g9&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;5&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115942Z" creationid="rikiha" creationdate="20170827T115942Z">
+        <seg>ユーザビリティのエキスパート、リリー・ダート（Lily Dart、http://lilydart.com/）のために私が作ったTシャツのデザイン。彼女が私の以前の勤め先であるNeontribe社（脚注129）のコンサルタントをしていたときのことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 塗りつぶされたボックスが作られる➞ボックスが塗りつぶされる、としました。
 
 (岡本) 分かり→わかり
@@ -3087,6 +3175,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A note taker sits at the bottom center.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120011Z" creationid="rikiha" creationdate="20170827T120011Z">
+        <seg>記録係。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「同等のキー」はなじみが無い表現のように思いましたので「それに相当するキー」としました。
 
 (伊原) LGTM</note>
@@ -3351,10 +3447,26 @@ wouldなので語尾を少しやわらかめに。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a few sessions of paper prototype testing, you should have a lot of torn-up paper and a better idea of the app you should be building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120027Z" creationid="rikiha" creationdate="20170827T120027Z">
+        <seg>ペーパープロトタイプでのテストを数セッション行った後は、はがされた紙片が山積みとなり、作るべきアプリケーションに対する理解が深まっているはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a moment, you recall.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T081316Z" creationid="okamoto_jun" creationdate="20170627T081316Z">
         <seg>あなたは、しばらく考えてから思い出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After all, you can’t even &lt;g1&gt;have&lt;/g1&gt; CSS or JavaScript without some HTML on which to stick them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120053Z" creationid="rikiha" creationdate="20170827T120053Z">
+        <seg>結局のところ、ベースとなるHTMLがなければ、そこに付加させるCSSやJavaScriptを使用することはできないのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4962,6 +5074,14 @@ contentsとOur historyは訳す感じですかね。だとするとソースコ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By going straight from paper to HTML, we lay the foundations for efficient code and inclusive experiences.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120049Z" creationid="rikiha" creationdate="20170827T120049Z">
+        <seg>紙からHTMLへ一直線に進めれば、効率的なコードとインクルーシブな体験のための基礎を築くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ユーザビリティ➞インクルーシビリティなので、ベテラン➞初心者の順（原文どおり）に直しました。
 
 (太田)
@@ -5046,6 +5166,14 @@ segregateは隔離というより分離としたほうがしっくりくるか�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085613Z" creationid="okamoto_jun" creationdate="20170627T085613Z">
         <seg>それが「見た目の美しさ」という範囲だけでデザインをとらえることで、Webの大半は本来の意図から外れてしまっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By sitting here, between the two parties at either end, the testers should feel less scrutinized.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120025Z" creationid="rikiha" creationdate="20170827T120025Z">
+        <seg>両者の間に座ることで、テスターは観察されていることをあまり意識しなくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5220,6 +5348,14 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170822T083635Z" creationid="rikiha" creationdate="20170819T005230Z">
         <seg>要素の追加や削除があれば、バッファは更新されます。テキストノードや属性に変更があったときも同様です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charlotte sets it out simply, like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120032Z" creationid="rikiha" creationdate="20170827T120032Z">
+        <seg>シャーロットの提唱する方法は次のようにシンプルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6013,6 +6149,14 @@ the placement of (the &lt;button&gt; and the menu it discloses.)
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>First, I’d recommend several individuals (or teams) work on the same component so there are different solutions to compare.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120041Z" creationid="rikiha" creationdate="20170827T120041Z">
+        <seg>まず、さまざまな解決策を比較できるよう、数人（またはチーム）で同じコンポーネントに取り組むことをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 隠されるのはnavigational contentなので、こういうことかなと。
 
 (太田) 誤訳のような。hide nav from view, within a menu ということで、「視界から隠し、メニューの中に入れる」ということなのではないかと思います。調整してみました。
@@ -6646,6 +6790,14 @@ For thatは「その実現」としてみました。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T080004Z" creationid="yoota" creationdate="20170511T071951Z">
         <seg>これには、フリーツールの&lt;g1&gt;&lt;g2&gt;Contrast-A&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注25）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;（Flashが必要）や&lt;g6&gt;&lt;g7&gt;Color Safe&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注26）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;などが役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From Paper To Code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120026Z" creationid="rikiha" creationdate="20170827T120026Z">
+        <seg>紙からコードへ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7438,6 +7590,14 @@ vertical padding は2文前で「垂直パディング」としているので�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I would suggest a couple of stipulations to really make the most of this in terms of inclusive design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120040Z" creationid="rikiha" creationdate="20170827T120040Z">
+        <seg>インクルーシブという観点でこの作業を最も効果的に行うために、ここで2つの事を提案します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 脚注表示の位置が違っていたので修正。
 
 (太田) OK</note>
@@ -7556,6 +7716,14 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
       <tuv lang="JA" changeid="rikiha" changedate="20170811T151104Z" creationid="rikiha" creationdate="20170811T133159Z">
         <seg>慣習があるならば、それを使います。」
 — マーク・ボルトン（Mark Boulton）&lt;g1&gt;&lt;g2&gt;「Icons, Symbols and a semiotic Web」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注101）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a solution isn’t keyboard-accessible, uses a poor structure or is not explicable by screen reader, it’s out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120044Z" creationid="rikiha" creationdate="20170827T120044Z">
+        <seg>キーボードでアクセスできない解決策や、不適切な構造している、スクリーンリーダーが理解できない、といった解決策ではいけません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8171,6 +8339,14 @@ http://www.w3.org/TR/CSS1/#length-units
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In a large team, this can be a collaborative effort with some friendly competition to reach the best solutions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120029Z" creationid="rikiha" creationdate="20170827T120029Z">
+        <seg>大規模なチームでは、他のメンバーと協力し、切磋琢磨しながらより良い解決策を導き出す作業になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「これが分かりません」→「このことは分かりません」としました。
 トラバースは訳していいやつですね。「移り変わる」としました。
@@ -8599,6 +8775,14 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170616T113819Z" creationid="yoota" creationdate="20170616T020535Z">
         <seg>一般論としては、&lt;g1&gt;&lt;g2&gt;Markdown&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注67）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;や&lt;g6&gt;&lt;g7&gt;Textile&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注68）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;のような構文を使用して、セマンティックで十分に構造化されたコンテンツを作成できるなら、それがベストではあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In her article, “&lt;g1&gt;&lt;g2&gt;From Pages To Patterns: An Exercise For Everyone&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;7&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” Charlotte Jackson recommends that after agreeing on which components are which and what they should be named, you should get straight into coding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120030Z" creationid="rikiha" creationdate="20170827T120030Z">
+        <seg>シャーロット・ジャクソン（Charlotte Jackson）は記事「From Pages To Patterns: An Exercise For Everyone」（脚注131）の中で、どのコンポーネントにどんな名前を付ければよいかが決まったら、コード化を始めるべきだと勧めています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9735,6 +9919,14 @@ JAWSでのaria-controlsの読み上げは、緑本の時点で中根さんのJAW
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It bears her mantra, “Test usability, not users.”&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115944Z" creationid="rikiha" creationdate="20170827T115944Z">
+        <seg>「Test usability, not users.（ユーザーではなく、ユーザビリティをテストする）」というのは彼女のモットーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 
 訳としてはOKと思いますが、何を言っているのかはわかりにくいかもしれません。特に「インクルーシブ」はこのままでいいのかどうか。先の文節の「インクルーシブ」についてのコメントを参照してください。
 
@@ -9801,6 +9993,14 @@ JAWSでのaria-controlsの読み上げは、緑本の時点で中根さんのJAW
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T080239Z" creationid="yoota" creationdate="20170511T073103Z">
         <seg>パラグラフのテキストと背景の色のコントラストは、少し控えめにすることをおすすめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is based on this foundation that we can enrich the experience with CSS and JavaScript.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120051Z" creationid="rikiha" creationdate="20170827T120051Z">
+        <seg>この基礎をベースにし、CSSやJavaScriptを使って体験を向上させていきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10181,6 +10381,14 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s fine to throw away the code if the designs change.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120036Z" creationid="rikiha" creationdate="20170827T120036Z">
+        <seg>デザインが変更されたらコードを破棄してもかまわない。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 1人➞ひとり、基礎➞原則
 
 (太田) ここの「考えています」は他人の頭の中をのぞいているようで違和感があります。「主張しています」くらいでしょうか。</note>
@@ -10272,6 +10480,14 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T024822Z" creationid="yoota" creationdate="20170510T070456Z">
         <seg>ディスレクシアなどの読字障害を持つ人にとって&lt;g1&gt;読みやすい&lt;/g1&gt;テキストは、読むのに問題がない人にとっても&lt;g2&gt;好ましい&lt;/g2&gt;テキストです。このことに注目するのは重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s in the creation of your &lt;g1&gt;&lt;g2&gt;living styleguide&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;6&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; that you should be drawing on the inclusive coding practices you’ve been learning in this book.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120029Z" creationid="rikiha" creationdate="20170827T120029Z">
+        <seg>本書で学んできたインクルーシブなコーディング手法を活用して、生きたスタイルガイド（Living Style Guide）（脚注130）を作らなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10421,6 +10637,14 @@ investは投資で良いのか? インクルーシブ思考に時間を費やす
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085556Z" creationid="okamoto_jun" creationdate="20170627T085556Z">
         <seg>そして、問題に対するベストな解決策を追求することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s usually only when we begin overengineering custom components that we encounter issues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120048Z" creationid="rikiha" creationdate="20170827T120048Z">
+        <seg>問題に直面するのはたいてい、カスタムのコンポーネントのオーバーエンジニアリングを行い始めたときです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12121,6 +12345,14 @@ the URLは「このページのURL」としてみました。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notice the neutral seating position between the computer and testers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120022Z" creationid="rikiha" creationdate="20170827T120022Z">
+        <seg>コンピュータとテスターの間という、中立的な位置に座っていることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now I can access the country simply with &lt;g1&gt;address.country&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094519Z" creationid="okamoto_jun" creationdate="20170627T094519Z">
@@ -12671,6 +12903,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Only one is operating the prototype.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120009Z" creationid="rikiha" creationdate="20170827T120009Z">
+        <seg>プロトタイプを操作するユーザーテスター。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 読点の位置など微調整。
 
 (太田) OK</note>
@@ -12821,11 +13061,12 @@ contributeを「寄与」とするのがどうも硬いので「構成する」�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 以降に数え上げリストが来るので、こういうことかなと。</note>
       <tuv lang="EN-US">
         <seg>Paper prototype testing is a slightly unusual ritual with a few things to remember and set up.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T115912Z" creationid="rikiha" creationdate="20170827T115912Z">
-        <seg>ペーパープロトタイプのテストはやり方が少し独特で、いくつか覚えておくべきことがあり、セットアップも必要です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120851Z" creationid="rikiha" creationdate="20170827T115912Z">
+        <seg>ペーパープロトタイプによるテストは少し独特な儀式であり、いくつかの覚えておくべきことに沿って組み立てることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13526,6 +13767,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Second, accessibility should be a prerequisite for consideration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120042Z" creationid="rikiha" creationdate="20170827T120042Z">
+        <seg>次に、アクセシビリティを検討や判断の前提条件にすべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注?
 
 (伊原) 要検討というか、上手い訳が思いつかず。「セクション分けして目次を置けばいいところを、ドロップダウンメニューがあることで、IAが無駄にページを分けてしまう」ということがいいたいのだとは思います。が、後ろの段落に上手く繋がらない気もする。
@@ -13593,6 +13842,14 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170805T124721Z" creationid="rikiha" creationdate="20170805T124721Z">
         <seg>シーケンシャルフォーカスナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set a time limit and resist the temptation to perfect things.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120035Z" creationid="rikiha" creationdate="20170827T120035Z">
+        <seg>制限時間を設け、完璧を目指さないようにする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14166,6 +14423,14 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170619T144245Z" creationid="yoota" creationdate="20170614T091216Z">
         <seg>つまり、段落の&lt;g6&gt;line-height&lt;/g6&gt;が&lt;g7&gt;1.5&lt;/g7&gt;の場合、縦の空白の1単位を&lt;g8&gt;1.5rem&lt;/g8&gt;にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, you might as well get the HTML right first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120102Z" creationid="rikiha" creationdate="20170827T120102Z">
+        <seg>ですから、まずはHTMLにしっかりと取り組みましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15349,6 +15614,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The Layout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120000Z" creationid="rikiha" creationdate="20170827T120000Z">
+        <seg>配置</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本）書体が違うのが謎ですが、見出しレベルは2ですね。</note>
       <tuv lang="EN-US">
         <seg>The Navigation Landmark</seg>
@@ -16287,6 +16560,14 @@ Good!
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The quickest way to prototype in code is to use standard HTML elements such as &lt;g1&gt;&lt;input&gt;&lt;/g1&gt;, &lt;g2&gt;&lt;select&gt;&lt;/g2&gt;, &lt;g3&gt;&lt;a&gt;&lt;/g3&gt; and &lt;g4&gt;&lt;button&gt;&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120046Z" creationid="rikiha" creationdate="20170827T120046Z">
+        <seg>プロトタイプを最も手早くコード化するには、&lt;input&gt;、&lt;select&gt;、&lt;a&gt;、&lt;button&gt;といった標準的なHTML要素を使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) やや補いつつ調整。
 
 (太田)
@@ -16654,6 +16935,14 @@ be transported は受動態のままではなく能動態に変えて訳すか�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170715T155813Z" creationid="yoota" creationdate="20170714T072644Z">
         <seg>達成基準ごとに断片化して欠陥を報告し、開発者に作業を割り当てると、どうしてもすでに存在するものにパッチを当てるだけになってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The way you translate the surviving bits of paper into coded modules is critical for an inclusive end product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120028Z" creationid="rikiha" creationdate="20170827T120028Z">
+        <seg>生き残った紙片をコード化されたモジュールに変える方法は、インクルーシブな最終プロダクトにとって重要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17057,6 +17346,14 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T033127Z" creationid="yoota" creationdate="20170512T033127Z">
         <seg>多くの場合、より直接的な表現に書き換えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They give you the behaviors you need to make your component functional.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120047Z" creationid="rikiha" creationdate="20170827T120047Z">
+        <seg>コンポーネントを機能させるために必要な動作が得られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18392,6 +18689,14 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170616T003742Z" creationid="yoota" creationdate="20170606T101736Z">
         <seg>スクリーンリーダーによるテストを始めてみるときは、以下をおすすめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To give you a better picture of the testing setup, here’s an annotated sketch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T120001Z" creationid="rikiha" creationdate="20170827T120001Z">
+        <seg>テストのセットアップをイメージしやすくするために、注釈つきのイラストを用意しました。</seg>
       </tuv>
     </tu>
     <tu>
