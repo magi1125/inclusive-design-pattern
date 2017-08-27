@@ -225,11 +225,12 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) amount toを訳してみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Write a scenario.&lt;/g2&gt; Putting a user tester in front of your prototype cold will amount to stunned inaction.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T124205Z" creationid="rikiha" creationdate="20170827T115919Z">
-        <seg>&lt;/g1&gt;&lt;g2&gt;シナリオを書く。&lt;/g2&gt;テストユーザーの前に突然プロトタイプを置いても、ぼう然として何もできないままでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T124424Z" creationid="rikiha" creationdate="20170827T115919Z">
+        <seg>&lt;/g1&gt;&lt;g2&gt;シナリオを書く。&lt;/g2&gt;テストユーザーの前に突然プロトタイプを置いても、ぼう然として動けなくなるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6871,11 +6872,12 @@ For thatは「その実現」としてみました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 一文にしました。</note>
       <tuv lang="EN-US">
         <seg>Give them a scenario to work through, something the app should be able to solve for them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T115920Z" creationid="rikiha" creationdate="20170827T115920Z">
-        <seg>彼らにこなすべきシナリオを与えましょう。アプリケーションを使って解決できるはずのことをやってもらうのです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T125320Z" creationid="rikiha" creationdate="20170827T115920Z">
+        <seg>そのアプリケーションが解決するはずのことをやってもらうためのシナリオを与えてください。</seg>
       </tuv>
     </tu>
     <tu>
