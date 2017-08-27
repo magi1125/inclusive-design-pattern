@@ -2394,11 +2394,12 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 粘着ラバー➞固形粘着剤。ほかOK</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;After adhering sticky tack to each corner of your component (1), you can place it on a larger, parent component (2).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170823T082750Z" creationid="rikiha" creationdate="20170823T082750Z">
-        <seg>コンポーネントの四隅に粘着ラバーを貼り付けたら（1）、それを大きい親コンポーネントの上に配置します（2）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T021059Z" creationid="rikiha" creationdate="20170823T082750Z">
+        <seg>コンポーネントの四隅に固形粘着剤を貼り付けたら（1）、それを大きい親コンポーネントの上に配置します（2）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10776,6 +10777,15 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) alt下訳を反映。</note>
+      <tuv lang="EN-US">
+        <seg>Left diagram shows sticky tack being adhered to four corners of paper rectangle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T020935Z" creationid="rikiha" creationdate="20170827T020935Z">
+        <seg>左：四隅に固形粘着剤が貼り付けられた長方形の紙。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) みていきながら作りましょう、ということなのかなと。確立だとちょっとわかりにくいか。要検討。
 
 (伊原) 組み立てていきましょう、としました。
@@ -13196,6 +13206,15 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170817T064033Z" creationid="rikiha" creationdate="20170809T152156Z">
         <seg>その場合、ユーザーが好きなときにメニューを表示できるように、ボタンを用意します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) alt下訳を反映。</note>
+      <tuv lang="EN-US">
+        <seg>Right diagram shows this paper rectangle being stuck to a larger piece of paper.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T020944Z" creationid="rikiha" creationdate="20170827T020944Z">
+        <seg>右：それを大きい紙に貼り付けている様子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20054,6 +20073,7 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>You can always unstick it and move it later.&lt;/g3&gt;</seg>
       </tuv>
