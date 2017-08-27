@@ -15066,12 +15066,12 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) </note>
+      <note>(伊原) ロールプレイを訳しました。</note>
       <tuv lang="EN-US">
         <seg>That means reacting to (role-played) input by the user tester.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T142053Z" creationid="rikiha" creationdate="20170827T115924Z">
-        <seg>テストユーザーによる（役割に沿って演じた）入力に反応するということです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T142303Z" creationid="rikiha" creationdate="20170827T115924Z">
+        <seg>つまり、テストユーザーによる（役を演じた）入力に反応するということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19994,11 +19994,12 @@ shouldを「はずです」はちょっと強い感じなので「でしょう�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) アプリケーションを再編成するというのは変なので、状態を組み立て直すとしました。</note>
       <tuv lang="EN-US">
         <seg>When the tester presses a button, for instance, the computer will have to reorganize the app in response.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T115924Z" creationid="rikiha" creationdate="20170827T115924Z">
-        <seg>たとえば、テスターがボタンを押したら、コンピュータはそれに応じてアプリケーションを再編成する必要があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T142736Z" creationid="rikiha" creationdate="20170827T115924Z">
+        <seg>たとえば、テスターがボタンを押したら、コンピュータはそれに反応してアプリケーションの状態を組み立て直さなければならないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
