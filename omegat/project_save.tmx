@@ -14238,7 +14238,7 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 固形粘着剤</note>
+      <note>(伊原) 固形粘着剤としました。</note>
       <tuv lang="EN-US">
         <seg>Sticky Tack</seg>
       </tuv>
@@ -14247,11 +14247,12 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) part of the app’s operation は、アプリ操作の結果（ボタンを押してダイアログを閉じたとか）ということだと思われます。</note>
       <tuv lang="EN-US">
         <seg>Sticky tack is what makes the paper app modular and lets you quickly move components around, either as part of the app’s operation or as part of layout iteration.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T014118Z" creationid="rikiha" creationdate="20170823T082725Z">
-        <seg>固形粘着剤を使えば、紙のアプリケーションがモジュール式になるので、コンポーネントをすばやく移動して、アプリケーションの操作を検討したり、レイアウトのイテレーションを行えます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T014919Z" creationid="rikiha" creationdate="20170823T082725Z">
+        <seg>固形粘着剤で紙製アプリケーションをモジュール化できます。アプリの操作結果を示すときや、レイアウトを修正するときに、コンポーネントをすばやく動かすことができます。</seg>
       </tuv>
     </tu>
     <tu>
