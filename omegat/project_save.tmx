@@ -193,6 +193,46 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;&lt;g2&gt;Appoint a &lt;g3&gt;computer&lt;/g3&gt;.&lt;/g2&gt; Someone who built the prototype will have to operate it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115923Z" creationid="rikiha" creationdate="20170827T115923Z">
+        <seg>コンピュータ役を任命する。プロトタイプを作った人が、それを稼働させなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;&lt;g2&gt;Bring plenty of spares.&lt;/g2&gt; A good session leads to fevered iteration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115916Z" creationid="rikiha" creationdate="20170827T115916Z">
+        <seg>予備を十分に用意する。良いテストセッションでは盛んなイテレーションが行われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;&lt;g2&gt;Give clear instructions.&lt;/g2&gt; Tell the user tester they can touch any items in the interface they think are interactive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115927Z" creationid="rikiha" creationdate="20170827T115927Z">
+        <seg>明確な指示を与える。ユーザーテスターに、インターフェイス内のインタラクティブだと思ったアイテムはどれでも触ってかまわないと伝えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;&lt;g2&gt;Instill calm.&lt;/g2&gt; It’s easy for the user to feel tested, so make it clear that you are not testing them but the app itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115931Z" creationid="rikiha" creationdate="20170827T115931Z">
+        <seg>ユーザーテスターを落ち着かせる。ユーザーは、自分が試されていると感じてしまいがちなので、これは彼らをテストしているのではなく、アプリケーションのテストだということをはっきりと伝えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;&lt;g2&gt;Write a scenario.&lt;/g2&gt; Putting a user tester in front of your prototype cold will amount to stunned inaction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115919Z" creationid="rikiha" creationdate="20170827T115919Z">
+        <seg>シナリオを書く。ユーザーテスターをいきなりプロトタイプの前に連れてきても、途方に暮れて何もできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;div&lt;/g11&gt; &lt;g13&gt;class&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"meta"&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g10&gt;Published on &lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;time&lt;/g18&gt; &lt;g20&gt;datetime&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"2017-12-12"&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g17&gt;12/12/2017&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;/&lt;/g26&gt;time&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;&lt;g28&gt;&lt;g29&gt;&lt;g30&gt;&lt;/&lt;/g30&gt;div&lt;/g29&gt;&lt;g31&gt;&gt;&lt;/g31&gt;&lt;/g28&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T101754Z" creationid="yoota" creationdate="20170515T101754Z">
@@ -6678,6 +6718,14 @@ For thatは「その実現」としてみました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Give them a scenario to work through, something the app should be able to solve for them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115920Z" creationid="rikiha" creationdate="20170827T115920Z">
+        <seg>彼らにこなすべきシナリオを与えましょう。アプリケーションを使って解決できるはずのことをやってもらうのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 works wellは「正しく機能」ではないかも。「よく機能」「うまく機能」?
 「適切に扱うことができます」くらいか。
@@ -7601,6 +7649,14 @@ making sure is paramount という構造。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If the button deletes something this would mean unsticking the paper component and putting it to one side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115925Z" creationid="rikiha" creationdate="20170827T115925Z">
+        <seg>ボタンが何かを消去したのなら、その紙のコンポーネントをはがして脇にどけるといった具合です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) もう少し調整できそうだが、いったん原文に沿った訳に。といいつつ、populate it はこれでいいのかどうか。
 
 (太田)
@@ -7689,6 +7745,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T143802Z" creationid="yoota" creationdate="20170426T082856Z">
         <seg>ユーザーがFirefoxの&lt;g3&gt;[環境設定（またはオプション）]→[コンテンツ]&lt;/g3&gt;でデフォルトのフォントサイズを20pxに設定している場合、&lt;g4&gt;2rem&lt;/g4&gt;は20×2、つまり40pxを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If they don’t know how to operate it, make it clear in advance that it’s not their fault, but yours as the designer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115932Z" creationid="rikiha" creationdate="20170827T115932Z">
+        <seg>操作方法が分からなくても、それは彼らの落ち度ではなく、デザイナーのミスだと事前に言っておきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7978,6 +8042,14 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170825T234205Z" creationid="rikiha" creationdate="20170823T082602Z">
         <seg>関係者やテストユーザーをイテレーションに巻き込めるという点でも重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importantly, tell them to speak out loud what they are thinking as they use the prototype.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115927Z" creationid="rikiha" creationdate="20170827T115927Z">
+        <seg>重要なのは、プロトタイプの使用中に考えていることを声に出して言うように指示することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10177,6 +10249,14 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s important this scenario is fictional, and not drawn from the individual’s real experiences for the sake of privacy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115921Z" creationid="rikiha" creationdate="20170827T115921Z">
+        <seg>このシナリオは架空のものであることが大切です。プライバシーに配慮して、個人の実体験を題材にしたものは避けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 留意→注意としました。
 
 (伊原) importantが訳出されてないかも？また、注意というとちょっとネガティブな印象を受けました。〜に気付く、〜を気に留める、〜に気を配る、といったほうが近いかもしれません。そのあたりを調整してみました。
@@ -11047,6 +11127,14 @@ manageは管理で良いような。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T061035Z" creationid="yoota" creationdate="20170426T061035Z">
         <seg>コンテンツブレイクポイントを検討する際は、Firefoxの&lt;g1&gt;&lt;g2&gt;レスポンシブデザインモード&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注6）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;が便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lots of spare paper and plenty of pens and scissors to go around are vital.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115917Z" creationid="rikiha" creationdate="20170827T115917Z">
+        <seg>大量の予備の紙と、十分な量のペン、ハサミが欠かせません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14707,6 +14795,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That means reacting to (role-played) input by the user tester.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115924Z" creationid="rikiha" creationdate="20170827T115924Z">
+        <seg>つまり、ユーザーテスターによる（ロールプレイの）入力に反応するのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 ブラウザでの適正な要素とされていますが→ブラウザでは適切な要素として扱われますが
 
@@ -17447,6 +17543,14 @@ http://www.w3.org/TR/wai-aria-1.1/#banner
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This is important for understanding where there are usability failures and what needs to be overcome.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115928Z" creationid="rikiha" creationdate="20170827T115928Z">
+        <seg>これは、どこにユーザビリティの不具合があるかや、どんな問題を取り除く必要があるかを理解するうえで重要なことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 2文に分けました。
 
 (太田) OK</note>
@@ -19575,6 +19679,14 @@ shouldを「はずです」はちょっと強い感じなので「でしょう�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170824T093453Z" creationid="rikiha" creationdate="20170819T005448Z">
         <seg>指の腹が複数の要素にまたがると、どちらの要素がアクティブになるかわかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the tester presses a button, for instance, the computer will have to reorganize the app in response.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170827T115924Z" creationid="rikiha" creationdate="20170827T115924Z">
+        <seg>たとえば、テスターがボタンを押したら、コンピュータはそれに応じてアプリケーションを再編成する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
