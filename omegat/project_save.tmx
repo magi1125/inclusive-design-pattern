@@ -2488,11 +2488,12 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順など調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A T-shirt design I made for usability expert &lt;g4&gt;&lt;g5&gt;Lily Dart&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;4&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; during her time consulting my former employer, &lt;g9&gt;&lt;g10&gt;Neontribe&lt;/g10&gt;&lt;/g9&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;5&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T004308Z" creationid="rikiha" creationdate="20170827T115942Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;ユーザビリティのエキスパート、リリー・ダート（Lily Dart）&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注128）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;のために作ったTシャツのデザイン。彼女が、私の元勤務先&lt;g9&gt;&lt;g10&gt;Neontribe社&lt;/g10&gt;&lt;/g9&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;（脚注129）&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;のコンサルタントだったときのことだ。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T004501Z" creationid="rikiha" creationdate="20170827T115942Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;ユーザビリティのエキスパート、リリー・ダート（Lily Dart）&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注128）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;のために私が作ったTシャツのデザイン。彼女が、私の元勤務先&lt;g9&gt;&lt;g10&gt;Neontribe社&lt;/g10&gt;&lt;/g9&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;（脚注129）&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;のコンサルタントだったときのことだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9927,11 +9928,12 @@ JAWSでのaria-controlsの読み上げは、緑本の時点で中根さんのJAW
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK。モットー通じるかどうか。理念とかスローガンとかのほうがいい？</note>
       <tuv lang="EN-US">
         <seg>It bears her mantra, “Test usability, not users.”&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T154718Z" creationid="rikiha" creationdate="20170827T115944Z">
-        <seg>「Test usability, not users.（ユーザーではなく、ユーザビリティをテストする）」というのは彼女のモットーだ。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T004340Z" creationid="rikiha" creationdate="20170827T115944Z">
+        <seg>「Test usability, not users.（ユーザーではなく、ユーザビリティをテストする）」というのは彼女のモットーである。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
