@@ -3071,12 +3071,14 @@ heading shortcutは「見出しジャンプ」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) カッコ内を多少調整。</note>
+      <note>(伊原) カッコ内を多少調整。
+
+(岡本)　付け→つけ</note>
       <tuv lang="EN-US">
         <seg>A large viewport (paper sheet to which smaller parts of the paper app are adhered) means more people in your test environment can simultaneously see it as it is being used.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T003100Z" creationid="rikiha" creationdate="20170823T082634Z">
-        <seg>大きいビューポート（紙製アプリケーションの各パーツが貼り付けられる紙面）なら、テストの場にいる多くの人が、アプリケーションが使用されている様子を同時に見ることができます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T033248Z" creationid="rikiha" creationdate="20170823T082634Z">
+        <seg>大きいビューポート（紙製アプリケーションの各パーツが貼りつけられる紙面）なら、テストの場にいる多くの人が、アプリケーションが使用されている様子を同時に見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
