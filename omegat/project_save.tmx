@@ -221,6 +221,14 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;&lt;g2&gt;Give users choice.&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141758Z" creationid="rikiha" creationdate="20170828T141758Z">
+        <seg>1.ユーザーに選択肢を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 2文に分けました。はっきり伝えましょう➞明確にしてください。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Instill calm.&lt;/g2&gt; It’s easy for the user to feel tested, so make it clear that you are not testing them but the app itself.</seg>
@@ -257,6 +265,14 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Design with familiarity in mind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141803Z" creationid="rikiha" creationdate="20170828T141803Z">
+        <seg>3.なじみやすさを念頭に置いてデザインする。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 「操作には参加しない、」読点追加。oftenを訳すかどうか。
 
 (岡本)　一人→ひとり　一緒→いっしょ</note>
@@ -265,6 +281,22 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T101150Z" creationid="rikiha" creationdate="20170827T120019Z">
         <seg>操作には参加しない、もうひとりのテストユーザーがいると効果的です。いっしょに座わると心強く感じ、会話が促されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Prioritize features that add value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141804Z" creationid="rikiha" creationdate="20170828T141804Z">
+        <seg>4.価値を付加する機能を優先する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Put users in control.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141801Z" creationid="rikiha" creationdate="20170828T141801Z">
+        <seg>2.ユーザーに主導権を握らせる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -635,6 +667,14 @@ Do not put everything in the same bag! のような意味のようです。
       <tuv lang="JA" changeid="yoota" changedate="20170426T044355Z" creationid="yoota" creationdate="20170426T044355Z">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;script&lt;/g4&gt;&lt;g6&gt;&gt;&lt;/g6&gt;&lt;/g3&gt;&lt;g7&gt;// TODO：エンハンスメント&lt;/g7&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;&lt;/&lt;/g10&gt;script&lt;/g9&gt;&lt;g11&gt;&gt;&lt;/g11&gt;&lt;/g8&gt;&lt;/g2&gt;
 &lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;/&lt;/g14&gt;body&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g12&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;Separating content and presentation&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;5&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; like this also makes it easier for users to apply their own &lt;g6&gt;&lt;g7&gt;user styles&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;6&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; should they wish to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141811Z" creationid="rikiha" creationdate="20170828T141811Z">
+        <seg>また、このようにコンテンツとプレゼンテーションを分離（脚注135）すると、ユーザーが希望に応じて独自のユーザースタイル（脚注136）を適用しやすくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1271,6 +1311,14 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Like an unordered list (&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;), the definitions list (&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;) has its items enumerated by screen readers so users know how many to expect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141915Z" creationid="rikiha" creationdate="20170828T141915Z">
+        <seg>•番号なしリスト（&lt;ul&gt;）と同様、定義リスト（&lt;dl&gt;）はスクリーンリーダーが項目を数え上げるので、ユーザーは項目がいくつあるか分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本）・リンクテキスト　を削除</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Link text</seg>
@@ -1724,6 +1772,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;To be more precise, the “Size” label should arguably be “Dimensions.” However, size is a simpler and more widely understood word and concept which — practically speaking, given the context — means the same thing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141934Z" creationid="rikiha" creationdate="20170828T141934Z">
+        <seg>•より正確な表記にするには、「サイズ」のラベルは「寸法」とすべきでしょう。しかし、サイズの方がシンプルで広く理解されている言葉であり、特にこのコンテキストの場合、概念としては同じものを意味しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) やや調整。
 
 (太田) OK
@@ -1733,6 +1789,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T145959Z" creationid="yoota" creationdate="20170809T102543Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;型破りだったり、探しにくかったりするメニューシステム。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;User agents style definition lists by indenting the &lt;g2&gt;&lt;dd&gt;&lt;/g2&gt; elements, meaning a visual hierarchy is present in the absence of author CSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141917Z" creationid="rikiha" creationdate="20170828T141917Z">
+        <seg>•ユーザーエージェントのスタイル定義は、&lt;dd&gt;要素をインデントしてリスト化します。つまり、オーサーCSSがない場合は視覚的な階層が示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1768,6 +1832,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091512Z" creationid="okamoto_jun" creationdate="20170627T091512Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Webページは不変の成果物ではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;We’re using the well-established convention of displaying stars to denote the customer rating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141927Z" creationid="rikiha" creationdate="20170828T141927Z">
+        <seg>•顧客の評価には、星印で示すという定着した方法を用いています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1841,6 +1913,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170612T110143Z" creationid="yoota" creationdate="20170612T110143Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;YouTubeの埋め込みプレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;“90cm × 30cm” is written using the correct (multiplication) Unicode character, so that “Thirty C M &lt;g2&gt;times&lt;/g2&gt; ninety C M” is announced in screen readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141918Z" creationid="rikiha" creationdate="20170828T141918Z">
+        <seg>•「90cm × 30cm」は正しいUnicode文字（乗算記号）を使って書かれているので、スクリーンリーダーでは「＃＃Thirty CM times ninety CM＃＃」と読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3094,14 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A description of the rating in place of the image &lt;g4&gt;and&lt;/g4&gt; next to the image would mean a tedious duplication for screen reader users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141934Z" creationid="rikiha" creationdate="20170828T141934Z">
+        <seg>画像の横に添えた評価の説明に加え、画像に代わる説明もあると、スクリーンリーダーのユーザーにとってくどい繰り返しになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) コロンのニュアンスが出ていないがまあ良いか。
@@ -3248,6 +3336,14 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170828T034026Z" creationid="rikiha" creationdate="20170827T120011Z">
         <seg>下部中央にメモ係が座っている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A null &lt;g2&gt;alt&lt;/g2&gt; value (&lt;g3&gt;alt=""&lt;/g3&gt;) omits the image from screen readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141933Z" creationid="rikiha" creationdate="20170828T141933Z">
+        <seg>alt属性の値がnull（alt=""）だと、スクリーンリーダーは画像を無視します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4451,6 +4547,22 @@ JS中の初期化処理で
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As “&lt;g2&gt;&lt;g3&gt;A Web For Everyone&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;7&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;” implores:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141815Z" creationid="rikiha" creationdate="20170828T141815Z">
+        <seg>「A Web For Everyone」（脚注137）では次のように求めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ashley Bischoff’s presentation, “&lt;g2&gt;&lt;g3&gt;Embracing Plain Language for Better Accessibility&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;” offers some excellent advice on substituting the pretentious and robotic for the simple and human when choosing words.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141946Z" creationid="rikiha" creationdate="20170828T141946Z">
+        <seg>アシュリー・ビショフ（Ashley Bischoff）のプレゼンテーション「Embracing Plain Language for Better Accessibility」（脚注138）では、言葉選びについて素晴らしいアドバイスをしています。言葉を選ぶ際は、大げさでロボットのような言葉の代わりに、シンプルで人間らしい言葉を選ぶよう勧めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 たとえば&lt;button&gt;などのネイティブ要素を使うことで、
 ・フォーカスを受け取るなどのインタラクティブな動作が勝手に実現される
@@ -4738,6 +4850,14 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170530T095537Z" creationid="rikiha" creationdate="20170530T095537Z">
         <seg>最も理解できるのは大学卒業者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Better to show that a product is featured or recommended using some descriptive text, highlighted with CSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141735Z" creationid="rikiha" creationdate="20170828T141735Z">
+        <seg>目玉商品やお勧めの商品であることを示したい場合は、CSSでハイライト表示した説明文などを使いましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5995,6 +6115,14 @@ draw onは経験を活かすような意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Each product should have a heading of the same (third) level because they are equal in hierarchy as members of the same list.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141731Z" creationid="rikiha" creationdate="20170828T141731Z">
+        <seg>各商品は同じリストの一員として階層が同等なので、同じレベル（第3レベル）の見出しを付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Easily understood by 13- to 15-year-old students.</seg>
@@ -6685,6 +6813,14 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, JAWS offers the &lt;g4&gt;I&lt;/g4&gt; (for &lt;g5&gt;item&lt;/g5&gt;) shortcut key to move from one list item to the next.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141752Z" creationid="rikiha" creationdate="20170828T141752Z">
+        <seg>たとえば、JAWSではショートカットキーのI（item、項目）を使って、あるリスト項目から次のリスト項目へと移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>For instance, if the font size was 16px, the leading should be &lt;g7&gt;at least&lt;/g7&gt; 24px.</seg>
@@ -7073,6 +7209,14 @@ For thatは「その実現」としてみました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170827T135322Z" creationid="rikiha" creationdate="20170827T115920Z">
         <seg>そのアプリケーションが解決するはずのことを実行してもらうシナリオを与えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Giving users choice is the first of &lt;g6&gt;&lt;g7&gt;Henny Swan’s&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;3&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; accessible UX principles, as developed &lt;g11&gt;&lt;g12&gt;during the redesign of the BBC iPlayer website&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;4&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141754Z" creationid="rikiha" creationdate="20170828T141754Z">
+        <seg>ユーザーに選択肢を与えるというのは、ヘニー・スワン（Henny Swan）（脚注134）がBBCで考案した、アクセシブルなUXに関する原則の最初の項目です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8126,6 +8270,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T143802Z" creationid="yoota" creationdate="20170426T082856Z">
         <seg>ユーザーがFirefoxの&lt;g3&gt;[環境設定（またはオプション）]→[コンテンツ]&lt;/g3&gt;でデフォルトのフォントサイズを20pxに設定している場合、&lt;g4&gt;2rem&lt;/g4&gt;は20×2、つまり40pxを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the user were to follow the link inside the heading to the photographer’s own page, the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location should be similarly marked up and presented.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141813Z" creationid="rikiha" creationdate="20170828T141813Z">
+        <seg>ユーザーが見出し内のリンクから写真家のページへ移動できるようにする場合は、その場所にリストされている写真プリントも同じようにマークアップし、提示すべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9475,6 +9627,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T075338Z" creationid="yoota" creationdate="20170511T063102Z">
         <seg>W3CのWCAG 2.0アクセシビリティガイドライン&lt;g1&gt;&lt;g2&gt;1.4.8「視覚的提示」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注24）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;では、パラグラフに「1.5文字分」の行送りを適用することを推奨しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the absence of author CSS, the browser will display each list item with a bullet point and render the heading text in a large, bold font.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141805Z" creationid="rikiha" creationdate="20170828T141805Z">
+        <seg>オーサーCSSがない場合、ブラウザは各リスト項目を箇条書きで、見出しテキストを大きい太字フォントで表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11271,6 +11431,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Key Information</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141900Z" creationid="rikiha" creationdate="20170828T141900Z">
+        <seg>重要な情報</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 困ります➞動けなくなります。
 
 (太田) 「まともに」は補いすぎかも (まともでなければ動けるのか、という疑問)。
@@ -12406,6 +12574,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Not only would it be announced as “ex,” but it would also be visually unclear — especially when rendered with a serif font.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141923Z" creationid="rikiha" creationdate="20170828T141923Z">
+        <seg>「＃＃ex＃＃」と読み上げられるだけでなく、視覚的にも不明瞭です（特にセリフフォントで表示された場合）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) with the help of someone to manually operate it はオズの魔法使いのことを指していると思うので、そのように訳しました。訳注？
 http://www.usablog.jp/2005/06/wizard-of-oz.html
 ユーザーテスターだとテストのモデレータのようにも読めるので、テストユーザーとしました。</note>
@@ -13195,6 +13371,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>One way to help users find their way around a site is to be consistent in how elements of the site are presented and labeled, which doesn’t mean that the site must be boring with no variation or texture.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141819Z" creationid="rikiha" creationdate="20170828T141819Z">
+        <seg>ユーザーがサイト内を見て回りやすくする1つの方法は、サイトの要素の提示方法と分類方法に一貫性を持たせることです。これは、変化やテクスチャが乏しい退屈なサイトにしろという意味ではありません」</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのsupportedは裏付けがあるのではなく、支持されているという意味かと思います。
 「セリフフォント」「サンセリフフォント」は字面が見づらいので「セリフ書体」「サンセリフ書体」としたほうが読みやすいかも。
 
@@ -13277,6 +13461,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170815T161106Z" creationid="rikiha" creationdate="20170815T161106Z">
         <seg>操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other screen reader users might traverse the list using direct list navigation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141751Z" creationid="rikiha" creationdate="20170828T141751Z">
+        <seg>また、直接的なリストナビゲーションを使ってリスト内を移動するスクリーンリーダーユーザーもいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14694,6 +14886,14 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So far, our product only has a title.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141901Z" creationid="rikiha" creationdate="20170828T141901Z">
+        <seg>この時点では、商品にはタイトルしかありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So far, we’ve only included text and inline elements (links) to make terse list items, but it’s perfectly acceptable to define more complex structures.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170828T141659Z" creationid="rikiha" creationdate="20170828T141659Z">
@@ -14893,6 +15093,14 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T051704Z" creationid="yoota" creationdate="20170510T045951Z">
         <seg>「一枚の絵は千の言葉に値する」と言う人もいますが、私はその反対の「絵に言葉の仕事をさせてはならない」という表現の方が好きです。テキストは、情報を伝えるのに最も直接的で効果的な方法であり――ただし、学習障害のある人や読み書きが困難な人にとっては、画像やその他の媒体にはテキストにない価値がありますが――、第一の手段として扱うべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some screen reader users will explore the product list by heading.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141745Z" creationid="rikiha" creationdate="20170828T141745Z">
+        <seg>スクリーンリーダーのユーザーの中には、見出しを使って商品を見て回る人もいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16615,6 +16823,14 @@ http://www.unicode.org/charts/PDF/U2600.pdf
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The highlight style makes featured items easy to identify visually while scanning and the “Featured” text provides the information non-visually to assistive technologies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141743Z" creationid="rikiha" creationdate="20170828T141743Z">
+        <seg>ハイライトスタイルを使うと、ページに目を通しているときに目玉商品を視覚的に特定しやすくなり、「注目の商品」というテキストが非視覚的に支援技術へ情報を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 訳はあってると思いますがちょっと整理しました。
 
 (太田) パターンによって→パターンを用いて、で良いかと。
@@ -17358,6 +17574,14 @@ be transported は受動態のままではなく能動態に変えて訳すか�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The user will no doubt be interested in information such as size, price and customer rating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141902Z" creationid="rikiha" creationdate="20170828T141902Z">
+        <seg>ユーザーはきっと、サイズや価格、顧客の評価といった情報に興味を持つでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) vast proliferation をもう少し短くしたい。
 
 (太田)
@@ -17370,6 +17594,14 @@ be transported は受動態のままではなく能動態に変えて訳すか�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170824T032229Z" creationid="rikiha" creationdate="20170819T005428Z">
         <seg>デバイス解像度の種類は爆発的に増えているため、あらゆる状況で使えるサイズを規定することはほとんど不可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The visual structure is therefore clear, even where CSS is (temporarily or permanently) unavailable or overriden with a user syle sheet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141806Z" creationid="rikiha" creationdate="20170828T141806Z">
+        <seg>そのため、CSSが（一時的または永続的に）使用できない、または、ユーザーのスタイルシートでオーバーライドされた場合でも、視覚的な構造は明確です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18912,6 +19144,14 @@ compelには強要する、強いるという意味があり、転じて「目�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Though it’s tempting to use a higher heading level like &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; to pick out featured products, this should be avoided as it would make for a nonsensical structure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141732Z" creationid="rikiha" creationdate="20170828T141732Z">
+        <seg>目玉商品を際立たせるために、などの高いレベルの見出しを使いたくなりますが、合理性を欠く構造になってしまうので、そのような設定は避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) そこまで補わなくてもわかりそうなので割と原文ママに。
 
 (太田) OK</note>
@@ -19362,6 +19602,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To reinforce what the stars represent, we’re also spelling out the rating adjacently.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141929Z" creationid="rikiha" creationdate="20170828T141929Z">
+        <seg>星印が意味するものを補強するために、隣に説明を添えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save money, you are going to want to make just the one interface, not a different one for each imagined user group.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170828T141631Z" creationid="rikiha" creationdate="20170828T141631Z">
@@ -19789,6 +20037,14 @@ ourを「先の」などとしつつ調整。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using a lowercase &lt;g3&gt;x&lt;/g3&gt; would be a poor substitution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141922Z" creationid="rikiha" creationdate="20170828T141922Z">
+        <seg>代わりに小文字のxを使うのは不適切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using an &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt; element, let’s give our product a title.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170828T141705Z" creationid="rikiha" creationdate="20170828T141705Z">
@@ -19987,6 +20243,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170616T020150Z" creationid="yoota" creationdate="20170616T020150Z">
         <seg>ここでは防御的なコーディングを採用して、フローから空の要素を取り除きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can group and label these key pieces of information clearly, using a definition list:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141903Z" creationid="rikiha" creationdate="20170828T141903Z">
+        <seg>定義リストを使用して、こうした個々の重要な情報を1箇所にまとめ、明確にラベル付けすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20367,6 +20631,14 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170715T145537Z" creationid="yoota" creationdate="20170707T083555Z">
         <seg>開発者が統合されたコンポーネント間の動きに注目しているときに、アプリケーション全体で代替テキストが欠落しているというチケットが100件登録されたとして、一体何の役に立つというのでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When first encountered, screen readers like VoiceOver will announce “Definition list,” letting users know that they should expect key/value pairs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141916Z" creationid="rikiha" creationdate="20170828T141916Z">
+        <seg>最初に出くわすと、VoiceOverなどのスクリーンリーダーは「＃＃Definition list＃＃」と読み上げ、その後にキーと値のペアが続くことをユーザーに知らせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20868,6 +21140,14 @@ Wikipediaの目次まわりはこんなマークアップでした。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170814T100003Z" creationid="rikiha" creationdate="20170811T133133Z">
         <seg>そう考えると、このアイコンはかなり幅広く理解されるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;s in place, they can move from product to product using either the &lt;g2&gt;H&lt;/g2&gt; key (next heading) or &lt;g3&gt;3&lt;/g3&gt; (next third-level heading).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141748Z" creationid="rikiha" creationdate="20170828T141748Z">
+        <seg>が所定の場所にあれば、ユーザーはHキー（次の見出し）または数字の「3」のキー（次の第3レベルの見出し）を使って商品から商品へと移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21576,6 +21856,14 @@ http://postd.cc/nobody-wants-use-your-product/
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T081456Z" creationid="okamoto_jun" creationdate="20170627T081349Z">
         <seg>あなた「ああ、デザイナーの彼ね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Present things that are the same in the same way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141816Z" creationid="rikiha" creationdate="20170828T141816Z">
+        <seg>「同じものは同じように提示してください。</seg>
       </tuv>
     </tu>
     <tu>
