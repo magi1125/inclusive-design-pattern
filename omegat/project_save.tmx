@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8401,11 +8401,12 @@ http://www.w3.org/TR/CSS1/#length-units
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 後ろから掛かっていくとこういう感じかなと。</note>
       <tuv lang="EN-US">
         <seg>In a large team, this can be a collaborative effort with some friendly competition to reach the best solutions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120029Z" creationid="rikiha" creationdate="20170827T120029Z">
-        <seg>大規模なチームでは、他のメンバーと協力し、切磋琢磨しながらより良い解決策を導き出す作業になります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T050829Z" creationid="rikiha" creationdate="20170827T120029Z">
+        <seg>大規模なチームでは、最善案に到達すべく切磋琢磨し合うコラボレーションとなる場合もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10547,11 +10548,12 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 前の段落を受けて、方法を示す形にしました。</note>
       <tuv lang="EN-US">
         <seg>It’s in the creation of your &lt;g1&gt;&lt;g2&gt;living styleguide&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;6&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; that you should be drawing on the inclusive coding practices you’ve been learning in this book.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T045648Z" creationid="rikiha" creationdate="20170827T120029Z">
-        <seg>それは&lt;g1&gt;&lt;g2&gt;生きたスタイルガイド（Living Style Guide）&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注130）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を作り出すために、本書で学んできたインクルーシブなコーディングの実践手法を用いるべし、ということです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T050059Z" creationid="rikiha" creationdate="20170827T120029Z">
+        <seg>それは、本書で学んできたインクルーシブなコーディングの実践手法を用いて&lt;g1&gt;&lt;g2&gt;生きたスタイルガイド（Living Style Guide）&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注130）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を作り出すべし、ということです。</seg>
       </tuv>
     </tu>
     <tu>
