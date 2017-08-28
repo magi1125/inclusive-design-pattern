@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3664,6 +3664,14 @@ listenは「監視」としてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T082529Z" creationid="yoota" creationdate="20170426T082529Z">
         <seg>たとえば&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; に&lt;g2&gt;font-size:2rem;&lt;/g2&gt;が指定されていると、ルートで設定されているサイズの2倍の大きさになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An aerial view of the testing session.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T033543Z" creationid="rikiha" creationdate="20170828T033543Z">
+        <seg>テストセッションを上から見た図。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13107,8 +13115,8 @@ contributeを「寄与」とするのがどうも硬いので「構成する」�
       <tuv lang="EN-US">
         <seg>Paper prototype testing is a slightly unusual ritual with a few things to remember and set up.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120851Z" creationid="rikiha" creationdate="20170827T115912Z">
-        <seg>ペーパープロトタイプによるテストは少し独特な儀式であり、いくつかの覚えておくべきことに沿って組み立てることになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T031530Z" creationid="rikiha" creationdate="20170827T115912Z">
+        <seg>ペーパープロトタイプによるテストは少し独特な儀式であり、その準備に際していくつか覚えておくべきことがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18752,11 +18760,12 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) セットアップ➞準備としました。</note>
       <tuv lang="EN-US">
         <seg>To give you a better picture of the testing setup, here’s an annotated sketch.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120001Z" creationid="rikiha" creationdate="20170827T120001Z">
-        <seg>テストのセットアップをイメージしやすくするために、注釈つきのイラストを用意しました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T033443Z" creationid="rikiha" creationdate="20170827T120001Z">
+        <seg>テストの準備をイメージしやすくするために、注釈つきのイラストを用意しました。</seg>
       </tuv>
     </tu>
     <tu>
