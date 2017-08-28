@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2531,12 +2531,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 粘着ラバー➞固形粘着剤。ほかOK</note>
+      <note>(伊原) 粘着ラバー➞固形粘着剤。ほかOK
+
+(岡本)　付け→つけ</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;After adhering sticky tack to each corner of your component (1), you can place it on a larger, parent component (2).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T115003Z" creationid="rikiha" creationdate="20170823T082750Z">
-        <seg>コンポーネントの四隅に固形粘着剤を貼り付けたら（1）、より大きな親コンポーネントの上に配置します（2）。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T034238Z" creationid="rikiha" creationdate="20170823T082750Z">
+        <seg>コンポーネントの四隅に固形粘着剤を貼りつけたら（1）、より大きな親コンポーネントの上に配置します（2）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11115,12 +11117,14 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) alt下訳を反映。</note>
+      <note>(伊原) alt下訳を反映。
+
+(岡本)　付け→つけ</note>
       <tuv lang="EN-US">
         <seg>Left diagram shows sticky tack being adhered to four corners of paper rectangle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T020935Z" creationid="rikiha" creationdate="20170827T020935Z">
-        <seg>左：四隅に固形粘着剤が貼り付けられた長方形の紙。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T034057Z" creationid="rikiha" creationdate="20170827T020935Z">
+        <seg>左：四隅に固形粘着剤が貼りつけられた長方形の紙。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13605,12 +13609,14 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) alt下訳を反映。</note>
+      <note>(伊原) alt下訳を反映。
+
+(岡本)　付け→つけ</note>
       <tuv lang="EN-US">
         <seg>Right diagram shows this paper rectangle being stuck to a larger piece of paper.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T020944Z" creationid="rikiha" creationdate="20170827T020944Z">
-        <seg>右：それを大きい紙に貼り付けている様子。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T034041Z" creationid="rikiha" creationdate="20170827T020944Z">
+        <seg>右：それを大きい紙に貼りつけている様子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20118,11 +20124,12 @@ http://www.w3.org/TR/css3-selectors/#target-pseudo
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)　付け→つけ</note>
       <tuv lang="EN-US">
         <seg>Whenever a part of a component is liable to be moved or replaced, use a separate piece of paper and stick it in place with tack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T015311Z" creationid="rikiha" creationdate="20170823T082726Z">
-        <seg>コンポーネントの一部を動かしたり置き換えたりする可能性がある場合は、その部分を別の紙に切り分けて、粘着剤で適切な箇所に貼り付けるようにします。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T033315Z" creationid="rikiha" creationdate="20170823T082726Z">
+        <seg>コンポーネントの一部を動かしたり置き換えたりする可能性がある場合は、その部分を別の紙に切り分けて、粘着剤で適切な箇所に貼りつけるようにします。</seg>
       </tuv>
     </tu>
     <tu>
