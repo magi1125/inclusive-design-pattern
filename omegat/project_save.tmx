@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7783,11 +7783,12 @@ ownは無理に訳さなくて良いように思うので「独自の」をと�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) it's outな感じに。</note>
       <tuv lang="EN-US">
         <seg>If a solution isn’t keyboard-accessible, uses a poor structure or is not explicable by screen reader, it’s out.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120044Z" creationid="rikiha" creationdate="20170827T120044Z">
-        <seg>キーボードでアクセスできない解決策や、不適切な構造している、スクリーンリーダーが理解できない、といった解決策ではいけません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T054829Z" creationid="rikiha" creationdate="20170827T120044Z">
+        <seg>キーボードでアクセスできない、構造が不適切である、スクリーンリーダーが理解できない、といった解決策はアウトです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13877,11 +13878,12 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 検討や判断➞検討</note>
       <tuv lang="EN-US">
         <seg>Second, accessibility should be a prerequisite for consideration.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120042Z" creationid="rikiha" creationdate="20170827T120042Z">
-        <seg>次に、アクセシビリティを検討や判断の前提条件にすべきです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T054403Z" creationid="rikiha" creationdate="20170827T120042Z">
+        <seg>次に、アクセシビリティは検討の前提条件にすべきです。</seg>
       </tuv>
     </tu>
     <tu>
