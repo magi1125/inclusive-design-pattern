@@ -7593,12 +7593,14 @@ VoiceOverは変な読みをするので訳注入れたいかも。
 generous enough を「十分なゆとりを持った」としてみました。
 vertical padding は2文前で「垂直パディング」としているので合わせました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　１つ→ひとつ　勧め→すすめ</note>
       <tuv lang="EN-US">
         <seg>I would recommend mobile viewports configure navigation into a single column — one link per line — and provide a generous enough vertical padding to make each link higher than the diameter of an adult finger pad.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170824T101138Z" creationid="rikiha" creationdate="20170819T005512Z">
-        <seg>モバイルビューポートではナビゲーションを1列に――1行に1つのリンクで――設定し、それぞれのリンクが大人の指の腹よりも大きな高さとなるよう、十分なゆとりを持った垂直パディングを設定することをお勧めします。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T021238Z" creationid="rikiha" creationdate="20170819T005512Z">
+        <seg>モバイルビューポートではナビゲーションを1列に――1行にひとつのリンクで――設定し、それぞれのリンクが大人の指の腹よりも大きな高さとなるよう、十分なゆとりを持った垂直パディングを設定することをおすすめします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18513,12 +18515,14 @@ in general は use にかかっているようにも見えますね。「ボタ�
 という感じですが、まあなんというかこのままだと変な文章にはなりますね。
 意訳になりますが「全般に応用することができます」としてしまってもいいかも。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　伴った→ともなった</note>
       <tuv lang="EN-US">
         <seg>Though this pattern looked at menu buttons explicitly, it was really an exploration of the use of button controls, with icons, in general.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170824T102015Z" creationid="rikiha" creationdate="20170819T005519Z">
-        <seg>このパターンでは明示的な例としてメニューボタンをとりあげましたが、これは実際に、アイコンを伴ったボタンコントロール全般に応用することができます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T021306Z" creationid="rikiha" creationdate="20170819T005519Z">
+        <seg>このパターンでは明示的な例としてメニューボタンをとりあげましたが、これは実際に、アイコンをともなったボタンコントロール全般に応用することができます。</seg>
       </tuv>
     </tu>
     <tu>
