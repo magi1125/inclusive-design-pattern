@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10550,8 +10550,8 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
       <tuv lang="EN-US">
         <seg>It’s in the creation of your &lt;g1&gt;&lt;g2&gt;living styleguide&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;6&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; that you should be drawing on the inclusive coding practices you’ve been learning in this book.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120029Z" creationid="rikiha" creationdate="20170827T120029Z">
-        <seg>本書で学んできたインクルーシブなコーディング手法を活用して、生きたスタイルガイド（Living Style Guide）（脚注130）を作らなければなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T045648Z" creationid="rikiha" creationdate="20170827T120029Z">
+        <seg>それは&lt;g1&gt;&lt;g2&gt;生きたスタイルガイド（Living Style Guide）&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注130）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を作り出すために、本書で学んできたインクルーシブなコーディングの実践手法を用いるべし、ということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17050,11 +17050,12 @@ be transported は受動態のままではなく能動態に変えて訳すか�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) インクルーシブな最終プロダクトというのがちょっとわかりにくかったので、そのあたり含めて、見出しの「紙からコードへ」をうけるかたちで語順を調整しました。</note>
       <tuv lang="EN-US">
         <seg>The way you translate the surviving bits of paper into coded modules is critical for an inclusive end product.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120028Z" creationid="rikiha" creationdate="20170827T120028Z">
-        <seg>生き残った紙片をコード化されたモジュールに変える方法は、インクルーシブな最終プロダクトにとって重要です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T044919Z" creationid="rikiha" creationdate="20170827T120028Z">
+        <seg>プロダクトを最終的にインクルーシブにするうえで重要なのは、生き残った紙片をコードのモジュールに変換する方法です。</seg>
       </tuv>
     </tu>
     <tu>
