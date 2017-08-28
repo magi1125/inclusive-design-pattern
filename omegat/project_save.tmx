@@ -238,6 +238,7 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK. yet-to-be-revealedのニュアンスを残すかどうか。「未出現機能」とか？</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;A collection of prototype bits and pieces (other screens, yet-to-be-revealed functionality, etc.).</seg>
       </tuv>
@@ -262,6 +263,7 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The app.</seg>
       </tuv>
@@ -270,6 +272,7 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The person playing the computer.</seg>
       </tuv>
@@ -278,11 +281,12 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ユーザーテスター➞テストユーザー</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The user tester, operating the prototype.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120018Z" creationid="rikiha" creationdate="20170827T120018Z">
-        <seg>プロトタイプを操作するユーザーテスター。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T034436Z" creationid="rikiha" creationdate="20170827T120018Z">
+        <seg>プロトタイプを操作するテストユーザー。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3188,11 +3192,12 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。</note>
       <tuv lang="EN-US">
         <seg>A note taker sits at the bottom center.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T033830Z" creationid="rikiha" creationdate="20170827T120011Z">
-        <seg>記録係が下部中央に座っている。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T034026Z" creationid="rikiha" creationdate="20170827T120011Z">
+        <seg>下部中央にメモ係が座っている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12958,11 +12963,12 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。</note>
       <tuv lang="EN-US">
         <seg>Only one is operating the prototype.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T033810Z" creationid="rikiha" creationdate="20170827T120009Z">
-        <seg>プロトタイプを操作するのは1人のテストユーザーのみ。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T033912Z" creationid="rikiha" creationdate="20170827T120009Z">
+        <seg>プロトタイプを操作するテストユーザーは1人だけ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13137,11 +13143,12 @@ parityは平均化というより、ここでは等価、価値を等しくす�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。</note>
       <tuv lang="EN-US">
         <seg>Participants sit around a table with the person playing the computer on the left and two user testers to the right.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T033845Z" creationid="rikiha" creationdate="20170828T033548Z">
-        <seg>参加者はテーブルを囲んで座っている。コンピュータ役をする人が左に、2人のテストユーザーが右にいる。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T033954Z" creationid="rikiha" creationdate="20170828T033548Z">
+        <seg>参加者はテーブルを囲んで座っている。左にコンピュータ役をする人、右にテストユーザーが2人いる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20077,8 +20084,8 @@ shouldを「はずです」はちょっと強い感じなので「でしょう�
       <tuv lang="EN-US">
         <seg>When the tester presses a button, for instance, the computer will have to reorganize the app in response.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T142736Z" creationid="rikiha" creationdate="20170827T115924Z">
-        <seg>たとえば、テスターがボタンを押したら、コンピュータはそれに反応してアプリケーションの状態を組み立て直さなければならないでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T034443Z" creationid="rikiha" creationdate="20170827T115924Z">
+        <seg>たとえば、テストユーザーがボタンを押したら、コンピュータはそれに反応してアプリケーションの状態を組み立て直さなければならないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
