@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1017,12 +1017,12 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Code it up in HTML and CSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120034Z" creationid="rikiha" creationdate="20170827T120034Z">
-        <seg>• それをHTMLとCSSでコード化する。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T052458Z" creationid="rikiha" creationdate="20170827T120034Z">
+        <seg>• HTMLとCSSでコード化する。</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 複数</note>
+      <note>(伊原) 検討➞議論</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Compare and discuss your code.</seg>
       </tuv>
@@ -1425,11 +1425,12 @@ strategyを「方策」としているのは少し大げさかもしれません
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 議論は作業ではないので、たんに「これを繰り返す」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Repeat.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120039Z" creationid="rikiha" creationdate="20170827T120039Z">
-        <seg>• この作業を繰り返す。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T052548Z" creationid="rikiha" creationdate="20170827T120039Z">
+        <seg>• これを繰り返す。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7651,11 +7652,12 @@ vertical padding は2文前で「垂直パディング」としているので�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) やや調整。ここで本当のインクルーシブデザインの話が出てきましたね。</note>
       <tuv lang="EN-US">
         <seg>I would suggest a couple of stipulations to really make the most of this in terms of inclusive design.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120040Z" creationid="rikiha" creationdate="20170827T120040Z">
-        <seg>インクルーシブという観点でこの作業を最も効果的に行うために、ここで2つの事を提案します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T053918Z" creationid="rikiha" creationdate="20170827T120040Z">
+        <seg>インクルーシブデザインという面から、このやり方を本当に最大限活用するためのふたつの事を提案します。</seg>
       </tuv>
     </tu>
     <tu>
