@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4162,7 +4162,7 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注?
+      <note>※要訳注?→訳注なし
 
 (伊原) failsがキーになるので、実行の失敗としてみました。
 
@@ -4186,7 +4186,9 @@ JS中の初期化処理で
 
 正誤表のコメントが間違っている旨の訳注を入れる? 必要?
 
-(伊原) 英語版の正誤表まで見に行く人はそんなにいないと思うので、訳注なしでよさそうです。</note>
+(伊原) 英語版の正誤表まで見に行く人はそんなにいないと思うので、訳注なしでよさそうです。
+
+(太田) OK、訳注ナシで。</note>
       <tuv lang="EN-US">
         <seg>As described, the menu will be visible and usable where JavaScript fails or is switched off, but this way it’s less likely to fail: if the document itself loads, it’s already there in its entirety — no jQuery or other dependency to wait on.</seg>
       </tuv>
