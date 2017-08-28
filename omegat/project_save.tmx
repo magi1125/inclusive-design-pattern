@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -79,12 +79,14 @@
 tabindexを指定することはここでは本題ではなく、このNoteは注目してほしいという感じではないと思います。
 theを「上記の」としつつ調整してみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　かっこ書き→頭にMEMO</note>
       <tuv lang="EN-US">
         <seg>(Note the &lt;g1&gt;tabindex="-1"&lt;/g1&gt; attribute which fixes sequential focus navigation as discussed in “Navigation Regions”).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170822T033453Z" creationid="rikiha" creationdate="20170815T161211Z">
-        <seg>（上記の&lt;g1&gt;tabindex="-1"&lt;/g1&gt;属性は、シーケンシャルフォーカスナビゲーションの問題への対策です。詳しくは「ナビゲーション領域」を参照してください。）</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T021105Z" creationid="rikiha" creationdate="20170815T161211Z">
+        <seg>MEMO 上記の&lt;g1&gt;tabindex="-1"&lt;/g1&gt;属性は、シーケンシャルフォーカスナビゲーションの問題への対策です。詳しくは「ナビゲーション領域」を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3479,12 +3481,14 @@ wouldなので語尾を少しやわらかめに。
 Allのニュアンスを盛り込むべきかも。
 語順変えつつ調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　付け→つけ</note>
       <tuv lang="EN-US">
         <seg>All interactive elements should have an accessible name so they can be interpreted and communicated in assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170817T053003Z" creationid="rikiha" creationdate="20170815T160723Z">
-        <seg>インタラクティブな要素は全て、アクセシブルな名前を付けて、支援技術で解釈したり伝えたりできるようにするべきです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T020956Z" creationid="rikiha" creationdate="20170815T160723Z">
+        <seg>インタラクティブな要素は全て、アクセシブルな名前をつけて、支援技術で解釈したり伝えたりできるようにするべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18964,12 +18968,14 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
 
 (太田) 「より悪化する」が微妙にしっくり来なかったので「より深刻です」としてみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　同士→どうし</note>
       <tuv lang="EN-US">
         <seg>Touch target size issues are exacerbated in mobile-sized navigation regions because of the links’ proximity.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170824T093313Z" creationid="rikiha" creationdate="20170819T005446Z">
-        <seg>モバイルサイズのナビゲーション領域ではリンク同士が近接するため、タッチターゲットサイズの問題はより深刻です。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T021147Z" creationid="rikiha" creationdate="20170819T005446Z">
+        <seg>モバイルサイズのナビゲーション領域ではリンクどうしが近接するため、タッチターゲットサイズの問題はより深刻です。</seg>
       </tuv>
     </tu>
     <tu>
