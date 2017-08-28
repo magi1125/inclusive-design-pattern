@@ -3189,8 +3189,8 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       <tuv lang="EN-US">
         <seg>A note taker sits at the bottom center.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120011Z" creationid="rikiha" creationdate="20170827T120011Z">
-        <seg>記録係。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T033830Z" creationid="rikiha" creationdate="20170827T120011Z">
+        <seg>記録係が下部中央に座っている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,6 +3667,7 @@ listenは「監視」としてみました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) alt、下訳を反映。</note>
       <tuv lang="EN-US">
         <seg>An aerial view of the testing session.</seg>
       </tuv>
@@ -12956,8 +12957,8 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       <tuv lang="EN-US">
         <seg>Only one is operating the prototype.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120009Z" creationid="rikiha" creationdate="20170827T120009Z">
-        <seg>プロトタイプを操作するユーザーテスター。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T033810Z" creationid="rikiha" creationdate="20170827T120009Z">
+        <seg>プロトタイプを操作するのは1人のテストユーザーのみ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13129,6 +13130,14 @@ parityは平均化というより、ここでは等価、価値を等しくす�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T080333Z" creationid="yoota" creationdate="20170522T101448Z">
         <seg>インクルージョンの役割のひとつは、多様なユーザーニーズ全体を通して、体験を等価なものにすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Participants sit around a table with the person playing the computer on the left and two user testers to the right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T033845Z" creationid="rikiha" creationdate="20170828T033548Z">
+        <seg>参加者はテーブルを囲んで座っている。コンピュータ役をする人が左に、2人のテストユーザーが右にいる。</seg>
       </tuv>
     </tu>
     <tu>
