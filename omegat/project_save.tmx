@@ -481,6 +481,14 @@ p {</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- life is too short!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141646Z" creationid="rikiha" creationdate="20170828T141646Z">
+        <seg>&lt;!-- 人生はとても短い！--&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本) 以下のコードのコメントは和訳する必要はない？</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!DOCTYPE html&gt;&lt;/g2&gt;
@@ -709,6 +717,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170601T174303Z" creationid="rikiha" creationdate="20170601T174142Z">
         <seg>&lt;g1&gt;何が&lt;/g1&gt;無料なのでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;“What [religion are] you?”&lt;x2/&gt;“Well if you’re going to reduce my identity to my religion, then I’m Sikh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141531Z" creationid="rikiha" creationdate="20170828T141531Z">
+        <seg>「僕のアイデンティティを宗教で片付けようと言うのなら、シーク教徒ですよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1195,6 +1211,14 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Including these features does not alienate other types of user in favor of people like Sandra.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141624Z" creationid="rikiha" creationdate="20170828T141624Z">
+        <seg>•そうした機能を含めても、サンドラのような人々を優遇して他のタイプのユーザーを疎外することにはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「無償のNVDAスクリーンリーダー」が若干違和感ありだったので、「無償のスクリーンリーダーNVDA」としました。
 
@@ -1280,6 +1304,14 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T050557Z" creationid="yoota" creationdate="20170511T100302Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;フォーカス可能な要素を見えるようにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Making these features accessible to blind and low-vision users has benefits for other types of user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141625Z" creationid="rikiha" creationdate="20170828T141625Z">
+        <seg>•盲目や低視力の人がこれらの機能を利用できるようにすることは、他のタイプのユーザーにとってもメリットがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1569,6 +1601,14 @@ should be なので「なければならない」「必要がある」は強す�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T062838Z" creationid="yoota" creationdate="20170426T062722Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt; 開発者のレスポンシブデザインの作りかたがまずいと、ページを利用するために拡大縮小が必要になる（これがよくあるのです!）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The features Sandra wants (a social dimension and text descriptions) are not exclusive to her or other blind users for reasons of &lt;g2&gt;being&lt;/g2&gt; blind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141623Z" creationid="rikiha" creationdate="20170828T141623Z">
+        <seg>•サンドラが求める機能（社会的側面およびテキストによる説明）は、彼女や他の視覚障害者のように目の不自由な人たち専用ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3737,10 +3777,26 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And I’m restoring a 1967 Corvette in my spare time.”&lt;x3/&gt;“Okay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141534Z" creationid="rikiha" creationdate="20170828T141534Z">
+        <seg>それに暇なときは1967年式コルベットの修理をしていますよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And it doesn’t stop there.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100658Z" creationid="okamoto_jun" creationdate="20170627T100658Z">
         <seg>問題はこれだけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And that doesn’t begin to cover all of the folks who use the keyboard when browsing — clinical condition or no.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141628Z" creationid="rikiha" creationdate="20170828T141628Z">
+        <seg>病態の有無に関わらず、これらはブラウジングにキーボードを使う人々のほんの一例にすぎません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3762,6 +3818,14 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T075043Z" creationid="yoota" creationdate="20170511T075043Z">
         <seg>そして実用性は認知に依存しており、認知は慣習に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And while second guessing who might &lt;g1&gt;want&lt;/g1&gt; to use our products is a game we have to play, making assumptions about &lt;g2&gt;how&lt;/g2&gt; folks use them can only alienate potential fans and customers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141605Z" creationid="rikiha" creationdate="20170828T141605Z">
+        <seg>また、自分たちの商品を誰が使いたいと思うかを先読みすることは必要ですが、彼らがどのようにそれを使うかを決めてかかると、潜在的なファンや顧客を疎外してしまうだけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4781,6 +4845,22 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Business tends to concern itself with targeting and communicating to a receptive audience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141541Z" creationid="rikiha" creationdate="20170828T141541Z">
+        <seg>ビジネスでは、反応の良い閲覧者にターゲットを絞り、彼らに伝えることに関心を寄せる傾向があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But I also like hiphop and NPR.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141533Z" creationid="rikiha" creationdate="20170828T141533Z">
+        <seg>でも僕はヒップポップやナショナル・パブリック・ラジオも好きです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 文章を書くだけでなく動画で表現する、という話の導入部分です。となると、「ライター」→「書き手」としたほうが明確かもしれません。
 
@@ -4803,6 +4883,14 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084401Z" creationid="okamoto_jun" creationdate="20170627T084401Z">
         <seg>しかし、この本を読んでいるあなたは、きっとそうではないはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But also consider the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141621Z" creationid="rikiha" creationdate="20170828T141621Z">
+        <seg>また、以下の点についても考慮しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6406,6 +6494,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For example, &lt;g2&gt;alt&lt;/g2&gt; text describes images in text-only browsers or where image requests return a 403, 404, 500 or 503 status.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141626Z" creationid="rikiha" creationdate="20170828T141626Z">
+        <seg>たとえば、altテキストは、テキストのみのブラウザや、画像リクエストに403、404、500、503ステータスが返された場合に画像を説明してくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「思い」→「判断し」、としました。
 
@@ -6415,6 +6511,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T060426Z" creationid="yoota" creationdate="20170522T100645Z">
         <seg>たとえば、そのセクションが重要ではないと判断し、&lt;g3&gt;font-size&lt;/g3&gt;を小さくしたいと考えて、&lt;g2&gt;&lt;h2&gt;&lt;/g2&gt;ではなく&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;を選択することがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, devising an inaccessible, custom-authored &lt;g1&gt;&lt;div class="heading-3"&gt;&lt;/g1&gt; is actually &lt;g2&gt;more&lt;/g2&gt; typing than using a standard &lt;g3&gt;&lt;h3&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141639Z" creationid="rikiha" creationdate="20170828T141639Z">
+        <seg>たとえば、アクセシブルではないカスタムの&lt;div class="heading-3"&gt;を考案すると、標準のを使うより入力の量が多くなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6629,6 +6733,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For most marketers, research doesn’t stop there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141552Z" creationid="rikiha" creationdate="20170828T141552Z">
+        <seg>ほとんどのマーケティング担当者にとって、調査はそこで終わりではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) enhancementは補強でいいのか。
 
 (伊原) いったん補強で。</note>
@@ -6750,6 +6862,14 @@ For thatは「その実現」としてみました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For this particular pattern, I want you to imagine a hypothetical photography app has a built in shop, selling photographic prints.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141653Z" creationid="rikiha" creationdate="20170828T141653Z">
+        <seg>ここで例示するパターンでは、架空の写真アプリケーションに、写真プリントを販売するショップが組み込まれていると想像してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 訳語調な部分を調整。progressively enhanced は「段階的に強化」と訳すより、プログレッシブ・エンハンスメントと言ったほうがいいのではと考えました。
 
 (岡本)　1つ→ひとつ
@@ -6802,6 +6922,14 @@ For thatは「その実現」としてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T033749Z" creationid="yoota" creationdate="20170427T033749Z">
         <seg>そのためには、フォントはBase64でエンコードし、当該のスタイルシートに埋め込む必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fortunately for you — the inclusive designer — the precarious and error-prone art of marketing is none of your concern because abilities, preferences and circumstances have little to do with interests, tastes or lifestyle choices.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141604Z" creationid="rikiha" creationdate="20170828T141604Z">
+        <seg>幸いなことに、不確かで間違いを起こしやすいマーケティング術は、インクルーシブデザイナーが首を突っ込む問題ではありません。能力、優先度、環境や状況は、興味関心、好み、ライフスタイルの選択とはほとんど関係ないからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7100,6 +7228,14 @@ Henceは「取り除いたのでCSSで制御できます」的なニュアンス
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170822T034605Z" creationid="rikiha" creationdate="20170815T161218Z">
         <seg>あらかじめ&lt;g2&gt;hidden&lt;/g2&gt;属性を取り除いた上で、かわりに以下のCSSを適用しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Her interest in photography never really diminished, though.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141618Z" creationid="rikiha" creationdate="20170828T141618Z">
+        <seg>それでも写真に対する興味が薄れることはありませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8318,6 +8454,14 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;g1&gt;&lt;g2&gt;OXO’s own words&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141611Z" creationid="rikiha" creationdate="20170828T141611Z">
+        <seg>OXO社は次のように述べています。（脚注132）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM
 
 (岡本) 19→20</note>
@@ -8745,6 +8889,14 @@ captureは「取り込む」としてみました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In fact, doing so can only reduce the quality of the product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141631Z" creationid="rikiha" creationdate="20170828T141631Z">
+        <seg>そんなことをしてもプロダクトの質が低下するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注
 
 (伊原) 少しだけ調整。
@@ -8794,6 +8946,14 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170817T063000Z" creationid="rikiha" creationdate="20170812T161651Z">
         <seg>実際には、&lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt;要素自体はレンダリングされませんが、そこには謎の空白ができて、デザインが崩れてしまうことになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In fact, using standard technologies in expected ways often means less work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141636Z" creationid="rikiha" creationdate="20170828T141636Z">
+        <seg>実際、標準的なテクノロジーをしかるべき方法で使うと、たいていの場合は手間が減ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9382,6 +9542,14 @@ robustlyは「堅牢な方法で」としてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170602T091800Z" creationid="rikiha" creationdate="20170601T173603Z">
         <seg>前後の段落の文脈を見れば、見出しが何を指しているか推測することは間違いなく可能でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the design of the hypothetical photography site, it’s tempting for the business to try to write off support for users they don’t think will be interested in it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141614Z" creationid="rikiha" creationdate="20170828T141614Z">
+        <seg>架空の写真サイトをデザインする場合、ビジネス的には、サイトに興味を持ちそうにないユーザーに対するサポートを切り捨てたくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10037,6 +10205,14 @@ JAWSでのaria-controlsの読み上げは、緑本の時点で中根さんのJAW
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170626T140624Z" creationid="yoota" creationdate="20170622T030319Z">
         <seg>何かをインクルーシブにする方法について、あるひとつの点についてのみ詳しく説明し、害になる可能性がある他の問題について何も説明しないのは適切でないと感じました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It gets even more verbose when you’re wedded to using a &lt;g4&gt;&lt;div&gt;&lt;/g4&gt; and have to fix the heading accessibility &lt;g5&gt;after the fact&lt;/g5&gt; with ARIA attributes:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141641Z" creationid="rikiha" creationdate="20170828T141641Z">
+        <seg>&lt;div&gt;を使用することに固執するとさらに冗長になり、後からARIA属性を使って見出しのアクセシビリティを修正しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10943,6 +11119,14 @@ undesiredは「不要」よりもう少し強いかも。直訳すると望ま�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve expounded the virtues of lists in previous patterns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141657Z" creationid="rikiha" creationdate="20170828T141657Z">
+        <seg>リストの長所については以前のパターンで詳しく説明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>I’ve had a blog for several years and it’s been through four to five design iterations.</seg>
@@ -11273,6 +11457,14 @@ https://docs.google.com/document/d/1ju_rDbIrde0lHKJF84ZkgqfO3YNc8JyuPBA6EaIEGUI/
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170613T062612Z" creationid="yoota" creationdate="20170613T062612Z">
         <seg>ビデオにサイモン（Simon）とルパート（Rupert）という2人の男性が登場するとしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s start a list of products and use the contents of the first list item as the product template.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141702Z" creationid="rikiha" creationdate="20170828T141702Z">
+        <seg>では、商品リストの作成を開始し、最初のリスト項目のコンテンツを商品テンプレートとして使用しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11611,6 +11803,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Meet Sandra.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141617Z" creationid="rikiha" creationdate="20170828T141617Z">
+        <seg>サンドラを紹介しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)　このMenuはメニューでしょうかね。
 
 (伊原) この話の一連の図版の"MENU"を訳さないのであれば、このままかなと。</note>
@@ -11834,6 +12034,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T055007Z" creationid="yoota" creationdate="20170524T055007Z">
         <seg>害もありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No matter what the content or the commercial offer, there is no reason to second-guess how the user might operate the interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141630Z" creationid="rikiha" creationdate="20170828T141630Z">
+        <seg>コンテンツ（販売する商品やサービスなど）が何であれ、ユーザーがどのようにインターフェイスを操作するかを先読みする理由はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13859,6 +14067,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen reader accessibility also requires keyboard accessibility, which helps folks with a range of rheumatic complaints, as well as conditions that cause inaccuracy with a mouse, such as Parkinson’s disease or dyspraxia.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141627Z" creationid="rikiha" creationdate="20170828T141627Z">
+        <seg>スクリーンリーダーのアクセシビリティには、キーボードのアクセシビリティも求められます。これは、さまざまなリウマチ症状を持つ人や、パーキンソン病や統合運動障害によってマウスを正確に操作できない人に役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen reader users include those with severe vision impairments, and others who find that having a web page read out to them using a synthetic voice aids their comprehension.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100918Z" creationid="okamoto_jun" creationdate="20170627T100918Z">
@@ -14033,6 +14249,22 @@ Shadow DOMは「影DOM」とは訳されないので、少なくともShadowは�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T051933Z" creationid="yoota" creationdate="20170719T093202Z">
         <seg>Shadow Boundary問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She enjoys being an active member of the online photography community where she can trade the technical know-how she’s picked up over the years for detailed descriptions of photographs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141619Z" creationid="rikiha" creationdate="20170828T141619Z">
+        <seg>オンラインの写真コミュニティのメンバーとして活動することを楽しみ、写真の詳細な説明と引き換えに、長年にわたって培った技術的なノウハウを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She was a photographer until the age of thirty-seven, when she lost her sight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141617Z" creationid="rikiha" creationdate="20170828T141617Z">
+        <seg>彼女は37歳で視力を失うまで写真家でした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14461,6 +14693,14 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>So far, we’ve only included text and inline elements (links) to make terse list items, but it’s perfectly acceptable to define more complex structures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141659Z" creationid="rikiha" creationdate="20170828T141659Z">
+        <seg>これまではテキストとインライン要素（リンク）のみを含めて簡潔なリスト項目を作るだけでしたが、もっと複雑な構造を定義してもまったく問題ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) OK</note>
@@ -14551,6 +14791,22 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170619T144245Z" creationid="yoota" creationdate="20170614T091216Z">
         <seg>つまり、段落の&lt;g6&gt;line-height&lt;/g6&gt;が&lt;g7&gt;1.5&lt;/g7&gt;の場合、縦の空白の1単位を&lt;g8&gt;1.5rem&lt;/g8&gt;にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, one Sikh, and…”&lt;x4/&gt;– The Office, Season 4,&lt;/g1&gt; Fun Run</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141536Z" creationid="rikiha" creationdate="20170828T141536Z">
+        <seg>—「The Office」シーズン4、「Fun Run」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, you make it inclusive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141632Z" creationid="rikiha" creationdate="20170828T141632Z">
+        <seg>そこでインクルーシブなインターフェイスにするのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14970,6 +15226,14 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Targeting a so-called average user is a disastrous interface design strategy, because average users do not exist — except for the handful of people teetering on the apex of your bell curve.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141607Z" creationid="rikiha" creationdate="20170828T141607Z">
+        <seg>いわゆる平均的ユーザーをターゲットにするのは、インターフェイスデザインの戦略としては破滅的です。なぜなら、正規分布曲線の頂点に立っているほんの一握りの人々を除き、平均的ユーザーは存在しないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「無駄足」要検討。無駄が多すぎるくらい?
 target はそのままカタカナだと意味がとりにくいように思いましたので、「想定する」としてみました (特定端末のビューポートを想定してデザインする、という意味)。
 
@@ -15222,6 +15486,14 @@ yourを「コンテンツ側で」として補いました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170612T072620Z" creationid="yoota" creationdate="20170606T101534Z">
         <seg>とはいえ、そのプレイヤーを構成するコントロールがHTMLとCSSで実装されていれば、コンテンツ側で&lt;g1&gt;独自の&lt;/g1&gt;フォーカススタイルを提供することで、そのプレイヤーを救うことができるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That way, maybe they can save money.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141615Z" creationid="rikiha" creationdate="20170828T141615Z">
+        <seg>そうすれば、おそらくコストが削減できるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15803,6 +16075,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The Virtue Of Lists</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141652Z" creationid="rikiha" creationdate="20170828T141652Z">
+        <seg>リストの長所</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 spanを小文字に。
 Visually Hidden はもちろん .visually-hidden に対応した表現ですが、どうしたものか。「visually-hiddenのspan」とするのもあり?
@@ -16091,6 +16371,14 @@ jaw は動詞だとスラングで Impudent or abusive talk.
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T093537Z" creationid="yoota" creationdate="20170501T092434Z">
         <seg>メインコンテンツという考え方自体は新しくはありませんが、メインコンテンツをヘッダー、ナビゲーション領域、フッターなどからインクルーシブに切り離せるようになったのは、つい最近のことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The creators of a photography website, for example, would seek to identify and target people who like photography and, well, websites.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141551Z" creationid="rikiha" creationdate="20170828T141551Z">
+        <seg>たとえば、写真サイトの制作者は、写真、そしてWebサイトを好きな人々を特定し、ターゲットにしようとするでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16581,6 +16869,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The popular utensil firm OXO knows this well and by catering to extreme situations and disabilities first, they’ve produced highly ergonomic products with mainstream appeal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141609Z" creationid="rikiha" creationdate="20170828T141609Z">
+        <seg>家庭用品などで有名なOXO社はこれをよく理解しており、まず極端な状況や身体的な障害を持つ人々向けにすることで、人間工学的に優れた製品を生み出し、一般の消費者を引き付けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 前の例にはサブタイトルに相当するものは無かったので唐突な感はありますね。rewrittenを訳出して「前の例を書き直して」的にするほうがいいかもしれません。
 In Seven Simple Steps.の訳は要検討。「セクションの見出しとしては奇妙で断片的であり、目次が生成されてもほとんど意味を成さない」ものになっているべきです。
@@ -16659,6 +16955,14 @@ Good!
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170720T132131Z" creationid="yoota" creationdate="20170714T072619Z">
         <seg>&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;をボタンコントロールとして使うような、単純に&lt;g1&gt;まずいアイデア&lt;/g1&gt;を指摘したり避けたりする機会がないと、不自然かつ断片化された方法でインターフェイスを評価することになってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product list is the set of prints returned after the user has entered a product search term.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141653Z" creationid="rikiha" creationdate="20170828T141653Z">
+        <seg>商品リストは、ユーザーが商品検索の語句を入力すると表示される一連のプリント写真です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17365,6 +17669,14 @@ VoiceOverは! なんと!! しれっと「トリグラムフォーヘブン」な
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>There’s always a Sandra, and she deserves an experience just as good as the Ryans, Barbaras and Xaviers of this world.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141621Z" creationid="rikiha" creationdate="20170828T141621Z">
+        <seg>サンドラのような人は必ずいます。そして、世界中のライアンやバーバラやザビエルたちと同じように体験できて然るべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>There’s no need to say the convoluted, “a pork pie was eaten by Harry” when you can just as well say, “Harry ate a pork pie.”</seg>
@@ -17513,6 +17825,14 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>They itemize their contents accessibly, group content thematically, and break up otherwise structureless, undifferentiated runs of prose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141658Z" creationid="rikiha" creationdate="20170828T141658Z">
+        <seg>リストは、コンテンツをアクセシブルな形で項目別に並べ、テーマごとにグループ化して、構造化も区別もされていないダラダラとした文章を分割します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 良いデザインが作れないのではなく、プアな製品ができてしまうといっていますね。</note>
       <tuv lang="EN-US">
         <seg>They lead you to build poor products.</seg>
@@ -17556,6 +17876,14 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T055733Z" creationid="yoota" creationdate="20170511T055733Z">
         <seg>彼らはコンテンツから情報を得るのに忙しいはずですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They’ll look into age groups, related interests, competing websites, income, aspirations and even gender.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141553Z" creationid="rikiha" creationdate="20170828T141553Z">
+        <seg>彼らは、年齢層、関連する興味関心、競合サイト、収入、願望、性別なども詳しく調べます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18609,6 +18937,14 @@ compelには強要する、強いるという意味があり、転じて「目�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Though the pattern as documented in your pattern library is likely only to define the structure of one product item, it’s important to acknowledge context and belonging first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141700Z" creationid="rikiha" creationdate="20170828T141700Z">
+        <seg>皆さんのパターンライブラリに記録されているパターンは、おそらく1つの商品の構造を定義するだけのものでしょうが、まずはコンテキストおよび付属するものを認識することが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) アイコン➞ボタンコントロールの順に。総体的を全般的に。考察を探求に。
 
 (太田) 「明確に」はおかしいかも。若干補いつつ「明示的な例として」としてみました。トリでもいいのかも。
@@ -19022,6 +19358,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170719T102453Z" creationid="yoota" creationdate="20170719T055430Z">
         <seg>言い換えれば、&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;HTMLButtonElement&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;（脚注79）&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt;プロトタイプのインスタンスではないということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To save money, you are going to want to make just the one interface, not a different one for each imagined user group.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141631Z" creationid="rikiha" creationdate="20170828T141631Z">
+        <seg>コストを節約するには、想定したユーザーグループごとに異なるインターフェイスを作るのではなく、1つだけにする必要が出てきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19445,6 +19789,14 @@ ourを「先の」などとしつつ調整。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using an &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt; element, let’s give our product a title.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141705Z" creationid="rikiha" creationdate="20170828T141705Z">
+        <seg>まず、要素を使って商品にタイトルを付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Web API (“vanilla” JavaScript), it might look a bit like this:</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095849Z" creationid="okamoto_jun" creationdate="20170627T095849Z">
@@ -19663,6 +20015,14 @@ dexterityは他の箇所には無い模様。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170824T030846Z" creationid="rikiha" creationdate="20170819T005420Z">
         <seg>リウマチのせいで手先を器用に動かせないユーザーにも使える、インクルーシブなものにしたいところです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We need to look at how individual products might be marked up and presented, including illustrations and calls to action — the aim is to get users to buy things, after all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141655Z" creationid="rikiha" creationdate="20170828T141655Z">
+        <seg>個々の商品がどのようにマークアップされ、表示されるかに注目する必要があり、これには図表や行動喚起（コールトゥアクション）も含まれます。結局のところ、目標はユーザーに商品を購入してもらうことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20048,6 +20408,14 @@ shouldを「はずです」はちょっと強い感じなので「でしょう�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T064657Z" creationid="yoota" creationdate="20170501T053623Z">
         <seg>&lt;g1&gt;&lt;g2&gt;Google Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注11）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用する場合は、URIにtextパラメータを付けて、必要な文字のリストを指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When inclusion is integrated into the design process in this way, it’s very little more work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141634Z" creationid="rikiha" creationdate="20170828T141634Z">
+        <seg>このようにしてインクルージョンをデザインプロセスに組み込めば、増える作業はごくわずかです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20805,6 +21173,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>You make inclusivity a &lt;g1&gt;quality&lt;/g1&gt; of the product — not an expensive additional feature.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141633Z" creationid="rikiha" creationdate="20170828T141633Z">
+        <seg>インクルーシビティを、コストのかかる追加機能ではなく、プロダクトの本質的な特性にしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 微妙に誤訳っぽいです。原文を直訳すると、あなたは既にパーセンテージ指定に慣れているかもしれない、という感じです。</note>
       <tuv lang="EN-US">
         <seg>You may already be accustomed to the convention of setting font size using a percentage, on the root (&lt;c0&gt;&lt;html&gt;&lt;/c0&gt;) element like so:</seg>
@@ -21038,6 +21414,14 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>“Blind users aren’t likely to be interested in photography, so why bother making the site screen reader accessible?” they might think.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141616Z" creationid="rikiha" creationdate="20170828T141616Z">
+        <seg>「目の不自由なユーザーが写真に興味を持つ可能性は低いから、スクリーンリーダーでアクセスできるようにする必要はない」と思うかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) I hear you say. を訳出しました。
 
 (伊原) 「私のページの閲覧者」というのが感覚的に引っかかりました。ページ単位というよりも「私のサイトのユーザー」みたいな感じかなと。
@@ -21074,6 +21458,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170801T095024Z" creationid="rikiha" creationdate="20170727T122314Z">
         <seg>色が、情報を伝える、動作を示す、反応を促す、又は視覚的な要素を判別するための唯一の視覚的手段になっていない。――&lt;g1&gt;&lt;g2&gt;WCAG2.0 1.4.1 色の使用&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;6&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Everybody is a keyboard user when eating with their mouse hand.” – &lt;g1&gt;&lt;g2&gt;Adrian Roselli&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;2&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141629Z" creationid="rikiha" creationdate="20170828T141629Z">
+        <seg>「マウスを操作する方の手で何かを食べているときは誰でもキーボードユーザーだ」— エイドリアン・ロゼリー（Adrian Roselli）（脚注133）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21221,6 +21613,14 @@ http://postd.cc/nobody-wants-use-your-product/
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170824T090108Z" creationid="rikiha" creationdate="20170819T005438Z">
         <seg>「ユーザーは、小さなターゲットを指の先端でタップします。タッチターゲットには、目標を正確にタップできているかどうかがわかる視覚的なフィードバックがあるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“When all users’ needs are taken into consideration in the initial design process, the result is a product that can be used by the broadest spectrum of users.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T141613Z" creationid="rikiha" creationdate="20170828T141613Z">
+        <seg>「初期のデザインプロセスですべてのユーザーのニーズを考慮すれば、非常に幅広いユーザーが使える製品になる」</seg>
       </tuv>
     </tu>
     <tu>
