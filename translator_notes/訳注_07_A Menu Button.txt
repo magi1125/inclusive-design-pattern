@@ -51,6 +51,12 @@ http://www.w3.org/TR/accname-aam-1.1/
 
 
 
+>ここでは、<g3><g4><g5>aria-expanded</g5></g4></g3><g6><g7><g8>（脚注120）</g8></g7></g6>が解決策となるでしょう。スクリーンリーダーに、明示的に「折りたたみ」（false）もしくは「展開」（true）と読み上げさせることができます。
+
+訳注:
+2017年8月現在、iOSのVoiceOverはexpanded="false" の状態を「隠されました」、aria-expanded="true" の状態を「拡大」と読みます。
+
+
 
 
 
