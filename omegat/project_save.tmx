@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -259,12 +259,12 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
     <tu>
       <note>(伊原) 「操作には参加しない、」読点追加。oftenを訳すかどうか。
 
-(岡本)　一人→ひとり</note>
+(岡本)　一人→ひとり　一緒→いっしょ</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;It’s often beneficial to have a passive second tester, sat with the user tester for moral support and to encourage dialogue.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T042207Z" creationid="rikiha" creationdate="20170827T120019Z">
-        <seg>操作には参加しない、もう1人のテストユーザーがいると効果的です。一緒に座わると心強く感じ、会話が促されます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T101150Z" creationid="rikiha" creationdate="20170827T120019Z">
+        <seg>操作には参加しない、もうひとりのテストユーザーがいると効果的です。いっしょに座わると心強く感じ、会話が促されます。</seg>
       </tuv>
     </tu>
     <tu>
