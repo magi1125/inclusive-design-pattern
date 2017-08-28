@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8841,11 +8841,12 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) (which and what) they should be named ということでいいのでしょうか。</note>
       <tuv lang="EN-US">
         <seg>In her article, “&lt;g1&gt;&lt;g2&gt;From Pages To Patterns: An Exercise For Everyone&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;7&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” Charlotte Jackson recommends that after agreeing on which components are which and what they should be named, you should get straight into coding.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120030Z" creationid="rikiha" creationdate="20170827T120030Z">
-        <seg>シャーロット・ジャクソン（Charlotte Jackson）は記事「From Pages To Patterns: An Exercise For Everyone」（脚注131）の中で、どのコンポーネントにどんな名前を付ければよいかが決まったら、コード化を始めるべきだと勧めています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T052058Z" creationid="rikiha" creationdate="20170827T120030Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;「From Pages To Patterns: An Exercise For Everyone」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注131）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;という記事の中で、シャーロット・ジャクソン（Charlotte Jackson）は、コンポーネントがどんな名前であるべきなのかを合意したら、一直線にコーディングに移るべきだと勧めています。</seg>
       </tuv>
     </tu>
     <tu>
