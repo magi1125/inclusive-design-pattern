@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3491,12 +3491,14 @@ wouldなので語尾を少しやわらかめに。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) もう少しイケてる訳にできそうな感じもありつつ、いったんこんな感じで。</note>
+      <note>(伊原) もう少しイケてる訳にできそうな感じもありつつ、いったんこんな感じで。
+
+(岡本)　付け→つけ</note>
       <tuv lang="EN-US">
         <seg>After all, you can’t even &lt;g1&gt;have&lt;/g1&gt; CSS or JavaScript without some HTML on which to stick them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T061505Z" creationid="rikiha" creationdate="20170827T120053Z">
-        <seg>結局のところ、HTMLがなければ、そこに貼り付けるCSSやJavaScriptを&lt;g1&gt;使うことさえ&lt;/g1&gt;できません。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T064303Z" creationid="rikiha" creationdate="20170827T120053Z">
+        <seg>結局のところ、HTMLがなければ、そこに貼りつけるCSSやJavaScriptを&lt;g1&gt;使うことさえ&lt;/g1&gt;できません。</seg>
       </tuv>
     </tu>
     <tu>
