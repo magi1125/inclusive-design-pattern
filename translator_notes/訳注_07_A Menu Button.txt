@@ -58,9 +58,16 @@ http://www.w3.org/TR/accname-aam-1.1/
 
 
 
+>AppleとAndroidは、タッチターゲットの大きさについて異なるアドバイスをしています。Appleは44pt × 44pt（ピクセル密度とは独立したApple特有の測定単位）、Androidは48px × 48pxを推奨しています
 
+訳注: 実際にはAndroidのタッチターゲットの推奨値は48×48dpとされており、dp(Density-independent Pixels) という解像度非依存の単位で指定されています。
 
+参考:
+Accessibility - Usability - Material design guidelines
+https://material.io/guidelines/usability/accessibility.html#accessibility-style
 
+More Resource Types | Android Developers
+https://developer.android.com/guide/topics/resources/more-resources.html?hl=ja#Dimension
 
 
 
