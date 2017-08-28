@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -247,19 +247,21 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ラフな感じなので、記録➞メモ。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;A note taker.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120021Z" creationid="rikiha" creationdate="20170827T120021Z">
-        <seg>記録係。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T035418Z" creationid="rikiha" creationdate="20170827T120021Z">
+        <seg>メモ係。</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 「操作には参加しない、」読点追加。oftenを訳すかどうか。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;It’s often beneficial to have a passive second tester, sat with the user tester for moral support and to encourage dialogue.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120019Z" creationid="rikiha" creationdate="20170827T120019Z">
-        <seg>操作には参加しないもう一人のテスターがいると効果的です。一緒に座っているだけでユーザーテスターは心強く感じ、会話が促されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170828T035351Z" creationid="rikiha" creationdate="20170827T120019Z">
+        <seg>操作には参加しない、もう一人のテストユーザーがいると効果的です。一緒に座わると心強く感じ、会話が促されます。</seg>
       </tuv>
     </tu>
     <tu>
