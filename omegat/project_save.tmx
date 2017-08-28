@@ -12723,16 +12723,17 @@ some screen readers will は「スクリーンリーダーは……ことがあ�
       <tuv lang="EN-US">
         <seg>On left, a smartphone with a heavy weight hung precariously over it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T154510Z" creationid="rikiha" creationdate="20170827T154103Z">
-        <seg>左側は、スマートフォンの上に重いおもりが不安定に吊るされている。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T035113Z" creationid="rikiha" creationdate="20170827T154103Z">
+        <seg>左：スマートフォンの上に重いおもりが不安定に吊るされている。</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(岡本) 左側は、→左：　　右側は、→右：</note>
       <tuv lang="EN-US">
         <seg>On right, a person with a heavy weight hung precariously over them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T002940Z" creationid="rikiha" creationdate="20170827T154113Z">
-        <seg>右側は、ユーザーの上に重いおもりが不安定に吊るされている。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T035238Z" creationid="rikiha" creationdate="20170827T154113Z">
+        <seg>右：ユーザーの上に重いおもりが不安定に吊るされている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16887,7 +16888,9 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+</note>
       <tuv lang="EN-US">
         <seg>The text underneath reads ‘Test usability, not users.’</seg>
       </tuv>
