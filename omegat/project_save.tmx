@@ -18747,12 +18747,15 @@ http://www.w3.org/TR/wai-aria-1.1/#banner
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) need to be overcomeを調整。語尾を調整。</note>
+      <note>(伊原) need to be overcomeを調整。語尾を調整。
+
+(太田) 
+「ユーザビリティの不具合」は違和感があるので「ユーザビリティの問題」としました。</note>
       <tuv lang="EN-US">
         <seg>This is important for understanding where there are usability failures and what needs to be overcome.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T151431Z" creationid="rikiha" creationdate="20170827T115928Z">
-        <seg>これは、どこにユーザビリティの不具合があり、何を乗り越えねばならないかを理解するうえで大切なのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170829T105130Z" creationid="rikiha" creationdate="20170827T115928Z">
+        <seg>これは、どこにユーザビリティの問題があり、何を乗り越えねばならないかを理解するうえで大切なのです。</seg>
       </tuv>
     </tu>
     <tu>
