@@ -17754,16 +17754,16 @@ JAWS日本語版では「ページ内リンク」らしいです。
 
 (太田)
 前者だと思います。"advantages over  high fidelity." で終わってその後に名詞が来ないとおかしいので、high fidelity は demoにくっつくはずです。
-「忠実度の高い」はイマイチわかりにくい気がしたので「本物そっくりの」としてみました。
-「コードベース」もイマイチわかりにくいですが、うーん。
+「忠実度の高い」「コードベース」はどちらもイマイチわかりにくい気がしたので、思い切って「コードで実装された本物そっくりのデモ」としてました。
+
 
 
 </note>
       <tuv lang="EN-US">
         <seg>There are a number of advantages to paper prototyping over high fidelity and code-based demos.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170829T030402Z" creationid="rikiha" creationdate="20170823T082553Z">
-        <seg>ペーパープロトタイピングには、本物そっくりのコードベースのデモよりも優れている点がいくつもあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170829T030545Z" creationid="rikiha" creationdate="20170823T082553Z">
+        <seg>ペーパープロトタイピングには、コードで実装された本物そっくりのデモよりも優れている点がいくつもあります。</seg>
       </tuv>
     </tu>
     <tu>
