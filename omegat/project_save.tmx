@@ -5668,7 +5668,8 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
 
 (岡本)　自身→自信
 
-(太田) have a try を「挑戦」は少し大げさかも。「やってみる」としてみました。</note>
+(太田) have a try を「挑戦」は少し大げさかも。「やってみる」としてみました。
+meansをどうにかしたい。</note>
       <tuv lang="EN-US">
         <seg>Committing to work with paper means other team members, including back-end developers and others not confident in their design skills, can have a try.</seg>
       </tuv>
@@ -8584,12 +8585,14 @@ actionableは「実用的でない」のではなく、実行できない、動�
     <tu>
       <note>(伊原) includeすることができる、なので「巻き込める」としてみました。イテレーションはそのままでわかるかどうか。
 
-(太田) イテレーションは訳したほうが良いかもしれません。</note>
+(太田) イテレーションは訳したほうが良いかもしれません。
+
+</note>
       <tuv lang="EN-US">
         <seg>Importantly, it also means stakeholders and test users can be included in iteration.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170825T234205Z" creationid="rikiha" creationdate="20170823T082602Z">
-        <seg>関係者やテストユーザーをイテレーションに巻き込めるという点でも重要です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170829T031446Z" creationid="rikiha" creationdate="20170823T082602Z">
+        <seg>重要なのは、関係者やテストユーザーをイテレーションに巻き込むこともできるという点です。</seg>
       </tuv>
     </tu>
     <tu>
