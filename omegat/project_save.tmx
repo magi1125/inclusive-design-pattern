@@ -18303,12 +18303,15 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
     <tu>
       <note>(伊原) ちょっと調整。
 
-(岡本）無沙汰→ぶさた　　　　　開いてもいいですかね。。。</note>
+(岡本）無沙汰→ぶさた　　　　　開いてもいいですかね。。。
+
+(太田) presentは訳出したほうがいいかも?
+involveはこれこそ「巻き込む」という話で、ステークホルダーが参加するような含みも持たせているのだと思います。</note>
       <tuv lang="EN-US">
         <seg>This can be done during test sessions and can involve everyone present — infinitely preferable to sitting around twiddling thumbs while a front-end dev fiddles anxiously with their laptop.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T033130Z" creationid="rikiha" creationdate="20170823T082613Z">
-        <seg>これならテストセッション中に作業でき、誰もが手伝えます。フロントエンド開発者がノートPCを落ち着きなくいじっているあいだ、手持ちぶさたで待っているよりずっとましです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170829T032722Z" creationid="rikiha" creationdate="20170823T082613Z">
+        <seg>これならテストセッション中に作業でき、その場に居合わせる全ての人を巻き込むことができます――フロントエンド開発者がノートPCを落ち着きなくいじっているあいだ、手持ちぶさたで待っているよりずっとましです。</seg>
       </tuv>
     </tu>
     <tu>
