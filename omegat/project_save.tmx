@@ -20975,12 +20975,15 @@ shouldを「はずです」はちょっと強い感じなので「でしょう�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) アプリケーションを再編成するというのは変なので、状態を組み立て直すとしました。</note>
+      <note>(伊原) アプリケーションを再編成するというのは変なので、状態を組み立て直すとしました。
+
+(太田)
+reorganize難しいですね。「状態を変える」か、超訳ですが「表示を変える」とかでもいいのかもしれません。</note>
       <tuv lang="EN-US">
         <seg>When the tester presses a button, for instance, the computer will have to reorganize the app in response.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T034443Z" creationid="rikiha" creationdate="20170827T115924Z">
-        <seg>たとえば、テストユーザーがボタンを押したら、コンピュータはそれに反応してアプリケーションの状態を組み立て直さなければならないでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170829T104455Z" creationid="rikiha" creationdate="20170827T115924Z">
+        <seg>たとえば、テストユーザーがボタンを押したら、コンピュータはそれに反応してアプリケーションの状態を変えなければならないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
