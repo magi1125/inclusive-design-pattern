@@ -3248,13 +3248,12 @@ heading shortcutは「見出しジャンプ」としました。
 (岡本)　付け→つけ
 
 (太田)
-括弧書きが冒頭「大きいビューポート」全体にかかっているようにも見えたので、「大きい」を後ろに移動しました。
-</note>
+括弧書きが冒頭「大きいビューポート」全体にかかっているようにも見えたので、「大きい」を後ろに移動しました。</note>
       <tuv lang="EN-US">
         <seg>A large viewport (paper sheet to which smaller parts of the paper app are adhered) means more people in your test environment can simultaneously see it as it is being used.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170829T053931Z" creationid="rikiha" creationdate="20170823T082634Z">
-        <seg>ビューポート（紙製アプリケーションの各パーツが貼りつけられる紙面）が大きければ、テストの場にいる多くの人々が同時に、アプリケーションが使われている様子を、見ることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170829T054109Z" creationid="rikiha" creationdate="20170823T082634Z">
+        <seg>ビューポート（紙製アプリケーションの各パーツが貼りつけられる紙面）が大きければ、テストの場にいる多くの人々が同時に、アプリケーションが使われている様子を見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15723,7 +15722,9 @@ at all はどういうat all なのかやや謎ですが、「そもそも」と
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) notes can be takenなので、ここのnotesはメモやノートなのでは。</note>
+      <note>(伊原) notes can be takenなので、ここのnotesはメモやノートなのでは。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>That means everyone can feel involved, and more and better notes can be taken.</seg>
       </tuv>
