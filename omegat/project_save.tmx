@@ -3248,12 +3248,13 @@ heading shortcutは「見出しジャンプ」としました。
 (岡本)　付け→つけ
 
 (太田)
-括弧書きが冒頭「大きいビューポート」全体にかかっているようにも見えたので、「大きい」を後ろに移動しました。</note>
+括弧書きが冒頭「大きいビューポート」全体にかかっているようにも見えたので、「大きい」を後ろに移動しました。
+後半は厳密には「アプリケーションと、その使われている様子を」ですね。</note>
       <tuv lang="EN-US">
         <seg>A large viewport (paper sheet to which smaller parts of the paper app are adhered) means more people in your test environment can simultaneously see it as it is being used.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170829T053154Z" creationid="rikiha" creationdate="20170823T082634Z">
-        <seg>ビューポート（紙製アプリケーションの各パーツが貼りつけられる紙面）が大きければ、テストの場にいる多くの人が、アプリケーションが使用されている様子を同時に見ることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170829T053421Z" creationid="rikiha" creationdate="20170823T082634Z">
+        <seg>ビューポート（紙製アプリケーションの各パーツが貼りつけられる紙面）が大きければ、テストの場にいる多くの人が、アプリケーションと、その使われている様子を同時に見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13709,8 +13710,8 @@ honestは「正直」としてみました。</note>
       <tuv lang="EN-US">
         <seg>People are polite and you won’t get honest feedback about something that looks like it’s had a lot of work put into it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170829T033945Z" creationid="rikiha" creationdate="20170823T082616Z">
-        <seg>ユーザーには思いやりがあるので、多大な労力をかけたように見えるものに対しては、なかなか正直なフィードバックがもらえないのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170829T053249Z" creationid="rikiha" creationdate="20170823T082616Z">
+        <seg>ユーザーには思いやりがあるので、多大な労力をかけたように見えるものに対しては、正直なフィードバックがなかなかもらえないのです。</seg>
       </tuv>
     </tu>
     <tu>
