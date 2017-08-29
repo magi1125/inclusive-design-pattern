@@ -222,12 +222,15 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順等調整。</note>
+      <note>(伊原) 語順等調整。
+
+(太田)
+触ることができる→触って良い、としました (物理的に触ることができるのは自明なので)</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Give clear instructions.&lt;/g2&gt; Tell the user tester they can touch any items in the interface they think are interactive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T150106Z" creationid="rikiha" creationdate="20170827T115927Z">
-        <seg>&lt;/g1&gt;&lt;g2&gt;明確な指示を与える。&lt;/g2&gt;テストユーザーに、このインターフェイス内のインタラクティブだと思える項目はどれでも触ることができると伝えてください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170829T104914Z" creationid="rikiha" creationdate="20170827T115927Z">
+        <seg>&lt;/g1&gt;&lt;g2&gt;明確な指示を与える。&lt;/g2&gt;テストユーザーに、このインターフェイス内のインタラクティブだと思える項目はどれでも触って良いと伝えてください。</seg>
       </tuv>
     </tu>
     <tu>
