@@ -11384,12 +11384,14 @@ implementationを例→実装としました。
     <tu>
       <note>(伊原) 補いつつ調整。
 
-(太田) OK</note>
+(太田) 
+「さながら」と言われると見た目などが非常に似ていると言われているように感じます。ここでは考え方が共通していると言っているように思うので、単に「同様」などのほうが良いように思いました。
+</note>
       <tuv lang="EN-US">
         <seg>Just like a real app, the viewport will be divided into smaller sections or components.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T010248Z" creationid="rikiha" creationdate="20170823T082707Z">
-        <seg>本物のアプリケーションさながらに、プロトタイプのビューポートは小さなセクションやコンポーネントに分けられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170829T054432Z" creationid="rikiha" creationdate="20170823T082707Z">
+        <seg>本物のアプリケーションと同様、プロトタイプのビューポートは小さなセクションやコンポーネントに分けられます。</seg>
       </tuv>
     </tu>
     <tu>
