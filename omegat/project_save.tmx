@@ -197,7 +197,7 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       <note>(伊原) someoneを訳出。
 
 (太田) OK
-willがあって未来形なので「動かさなければならないことになります」としても良いかと思いましたが、読みにくいのでママで。</note>
+willがあって未来形なので「動かさなければならないことになります」としても良いかと思いましたが、読みにくくなるのでママで。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Appoint a &lt;g3&gt;computer&lt;/g3&gt;.&lt;/g2&gt; Someone who built the prototype will have to operate it.</seg>
       </tuv>
@@ -15821,7 +15821,10 @@ at all はどういうat all なのかやや謎ですが、「そもそも」と
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ロールプレイを訳しました。</note>
+      <note>(伊原) ロールプレイを訳しました。
+
+(太田)
+ロールプレイ部分は難しいですね。言いたいこととしては、シナリオに沿って入力されたものということなのだと思います。</note>
       <tuv lang="EN-US">
         <seg>That means reacting to (role-played) input by the user tester.</seg>
       </tuv>
