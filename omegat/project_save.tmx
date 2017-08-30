@@ -267,12 +267,14 @@ stunはここでは呆然と言うより唖然に近い? 唖然もわかりに�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK. yet-to-be-revealedのニュアンスを残すかどうか。「未出現機能」とか？</note>
+      <note>(伊原) OK. yet-to-be-revealedのニュアンスを残すかどうか。「未出現機能」とか？
+
+(太田) 「まだ見えていない」は「今は表示されていない」くらいのほうが分かりやすいですかね。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;A collection of prototype bits and pieces (other screens, yet-to-be-revealed functionality, etc.).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120015Z" creationid="rikiha" creationdate="20170827T120015Z">
-        <seg>プロトタイプのこまごまとしたパーツ（別の画面、まだ見えていない機能など）。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170830T023212Z" creationid="rikiha" creationdate="20170827T120015Z">
+        <seg>プロトタイプのこまごまとしたパーツ（別の画面や、今は表示されていない機能など）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,7 +331,9 @@ stunはここでは呆然と言うより唖然に近い? 唖然もわかりに�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The person playing the computer.</seg>
       </tuv>
