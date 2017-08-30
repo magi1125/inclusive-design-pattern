@@ -17848,12 +17848,13 @@ be transported は受動態のままではなく能動態に変えて訳すか�
 
 (太田)
 「コードのモジュール」はちょっと謎です。
-surviving bits of paperは「引き裂かれずに済んだいくつかの紙片」としてみました。</note>
+surviving bits of paperは「引き裂かれずに済んだいくつかの紙片」としてみました。
+大幅に補いつつ2文に分けてみましたがどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>The way you translate the surviving bits of paper into coded modules is critical for an inclusive end product.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170830T034809Z" creationid="rikiha" creationdate="20170827T120028Z">
-        <seg>プロダクトを最終的にインクルーシブにするうえで重要なのは、引き裂かれずに済んだいくつかの紙片を、どのようにコード化してモジュールにするのかということです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170830T035040Z" creationid="rikiha" creationdate="20170827T120028Z">
+        <seg>引き裂かれずに済んだいくつかの紙片については、コードを書いて実装し、実際のモジュールへと翻訳することになります。この際のやり方が、プロダクトを最終的にインクルーシブにするうえで重要になります。</seg>
       </tuv>
     </tu>
     <tu>
