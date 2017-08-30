@@ -304,17 +304,12 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
 
 (太田)
 「効果的」とは?
-oftenはbeneficialについているのでしょうが、場合によっては2人目のユーザーを用意しないこともあるという含みををもっている可能性もありそう。
-
-
-
-
-</note>
+oftenはbeneficialについていて、素直に読むと「2人目のユーザーがたまに役に立つ = 役に立たないこともある」と言っているように読めます。しかし、実際に言いたいことは、場合によっては2人目のユーザーをそもそも用意しないことがある、ということなのではという気がします。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;It’s often beneficial to have a passive second tester, sat with the user tester for moral support and to encourage dialogue.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170830T024525Z" creationid="rikiha" creationdate="20170827T120019Z">
-        <seg>操作に参加しない2人目のテストユーザーがいると良いことがあります。誰かがいっしょに座っているだけでユーザーは心強く感じますし、会話が促されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170830T024819Z" creationid="rikiha" creationdate="20170827T120019Z">
+        <seg>操作に参加しない、2人目のテストユーザー。誰かがいっしょに座っているだけでユーザーは心強く感じますし、会話が促されます。</seg>
       </tuv>
     </tu>
     <tu>
