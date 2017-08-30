@@ -1620,12 +1620,16 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) アセテートフィルム、日本では手に入りにくいものです（写真フィルムがアセテートフィルムなんだそうです）。
+      <note>※要訳注
+
+(伊原) アセテートフィルム、日本では手に入りにくいものです（写真フィルムがアセテートフィルムなんだそうです）。
 ホワイトボードシートや、OHPフィルムでも代用できそうですが……。いったんママで。
 
 (太田)
 アセテートフィルムは説明が無いと通じにくいように思います。
-「透明フィルムシート」とかにしますか?</note>
+「透明フィルムシート」とかにしますか?
+→「アセテートフィルム」として訳注に。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Sheets of acetate</seg>
       </tuv>
@@ -2745,8 +2749,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;After adhering sticky tack to each corner of your component (1), you can place it on a larger, parent component (2).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170829T100209Z" creationid="rikiha" creationdate="20170823T082750Z">
-        <seg>&lt;g3&gt;コンポーネントの四隅に固形粘着剤を貼りつけたら（1）、より大きな親コンポーネントの上に配置します（2）。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170830T071535Z" creationid="rikiha" creationdate="20170823T082750Z">
+        <seg>&lt;g3&gt;コンポーネントの四隅にスティッキータックを貼りつけたら（1）、より大きな親コンポーネントの上に配置します（2）。</seg>
       </tuv>
     </tu>
     <tu>
