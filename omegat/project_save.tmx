@@ -327,13 +327,13 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
     <tu>
       <note>(伊原) OK
 
-(太田) OK
+(太田) 
 Theを重視するなら「テスト対象の」と補うのもありか。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The app.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T120017Z" creationid="rikiha" creationdate="20170827T120017Z">
-        <seg>アプリケーション。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170830T023442Z" creationid="rikiha" creationdate="20170827T120017Z">
+        <seg>テスト対象のアプリケーション。</seg>
       </tuv>
     </tu>
     <tu>
