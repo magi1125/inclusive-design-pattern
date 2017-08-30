@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5075,11 +5075,12 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ある程度ひらいてみた。もう少しこなれた訳にしたいところ。</note>
       <tuv lang="EN-US">
         <seg>Business tends to concern itself with targeting and communicating to a receptive audience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141541Z" creationid="rikiha" creationdate="20170828T141541Z">
-        <seg>ビジネスでは、反応の良い閲覧者にターゲットを絞り、彼らに伝えることに関心を寄せる傾向があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170830T135159Z" creationid="rikiha" creationdate="20170828T141541Z">
+        <seg>ビジネスでは、理解してくれそうなユーザーに狙いをつけて伝えることに関心を持つ傾向があります。</seg>
       </tuv>
     </tu>
     <tu>
