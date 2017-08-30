@@ -5439,12 +5439,16 @@ contentsとOur historyは訳す感じですかね。だとするとソースコ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 若干調整。</note>
+      <note>(伊原) 若干調整。
+
+(太田)
+can的なものはないので「築けます」というより「築きます」でしょうか。文脈的にもまずHTMLのみで基礎を作ってからCSS+JSに着手という話のように思います。
+冒頭に「まずは」を補って調整してみました。</note>
       <tuv lang="EN-US">
         <seg>By going straight from paper to HTML, we lay the foundations for efficient code and inclusive experiences.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T060521Z" creationid="rikiha" creationdate="20170827T120049Z">
-        <seg>紙からHTMLへ一直線に進むことで、効率的なコーディングと、インクルーシブな体験の基礎が築けます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170830T064012Z" creationid="rikiha" creationdate="20170827T120049Z">
+        <seg>まずは紙からHTMLへ一直線に進み、効率的なコーディングと、インクルーシブな体験の基礎を築きます。</seg>
       </tuv>
     </tu>
     <tu>
