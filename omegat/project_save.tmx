@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6550,14 +6550,12 @@ the placement of (the &lt;button&gt; and the menu it discloses.)
 
 (太田)
 上で「2つ」と言っているので、ここのfirstは「1つめ」としたいです。
-
-(岡本)
-1つをどう表記してきたかわからないが、ひとつだったような。</note>
+</note>
       <tuv lang="EN-US">
         <seg>First, I’d recommend several individuals (or teams) work on the same component so there are different solutions to compare.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170830T064307Z" creationid="rikiha" creationdate="20170827T120041Z">
-        <seg>ひとつめですが、さまざまな解決策を比較できるよう、複数人（または複数のチーム）で同じコンポーネントに取り組むことをおすすめします。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170830T064417Z" creationid="rikiha" creationdate="20170827T120041Z">
+        <seg>1つめですが、さまざまな解決策を比較できるよう、複数人（または複数のチーム）で同じコンポーネントに取り組むことをおすすめします。</seg>
       </tuv>
     </tu>
     <tu>
