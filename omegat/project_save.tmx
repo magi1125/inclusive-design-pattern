@@ -5521,12 +5521,13 @@ segregateは隔離というより分離としたほうがしっくりくるか�
 
 
 (太田)
-</note>
+ぱっと見「両者」が何を指すのかわかりにくいように思いました。
+よくよく見ると between the two parties at either end を訳したものだと思いますが、これは前の文で言っていることの繰り返しで、無くてもよいように思います。</note>
       <tuv lang="EN-US">
         <seg>By sitting here, between the two parties at either end, the testers should feel less scrutinized.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170830T025726Z" creationid="rikiha" creationdate="20170827T120025Z">
-        <seg>この場所に座ると、両端の二者の中間に位置することになり、テストユーザーは観察されていることをあまり意識しなくなるでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170830T025837Z" creationid="rikiha" creationdate="20170827T120025Z">
+        <seg>この場所に座ると、テストユーザーは観察されていることをあまり意識しなくなるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
