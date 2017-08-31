@@ -6796,11 +6796,12 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※要訳注
+
+(太田)
 ここの text-only browsers はテキストブラウザだけでなくもう少し広い意味のように思いますので、「テキストしか扱えないブラウザ」としました。
 
-
-HTTPステータスコードの説明いります? 訳注?</note>
+それぞれのHTTPステータスコードの説明はあったほうがいいですかね。訳注で。</note>
       <tuv lang="EN-US">
         <seg>For example, &lt;g2&gt;alt&lt;/g2&gt; text describes images in text-only browsers or where image requests return a 403, 404, 500 or 503 status.</seg>
       </tuv>
