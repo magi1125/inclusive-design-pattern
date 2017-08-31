@@ -6796,6 +6796,8 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+HTTPステータスコードの説明いります? 訳注?</note>
       <tuv lang="EN-US">
         <seg>For example, &lt;g2&gt;alt&lt;/g2&gt; text describes images in text-only browsers or where image requests return a 403, 404, 500 or 503 status.</seg>
       </tuv>
