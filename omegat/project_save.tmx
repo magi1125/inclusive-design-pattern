@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17495,12 +17495,15 @@ updateはここでは「付け加える」くらいの意味かと思います�
 ここのcaterは要求を満たすような意味か。
 障害者向けにする、というのだとちょっとニュアンスが違うような気がします。
 ちょっと調整。
+
+(岡本)
+引き付ける→引きつける
 </note>
       <tuv lang="EN-US">
         <seg>The popular utensil firm OXO knows this well and by catering to extreme situations and disabilities first, they’ve produced highly ergonomic products with mainstream appeal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T065002Z" creationid="rikiha" creationdate="20170828T141609Z">
-        <seg>家庭用品などで有名なOXO社はこれをよく理解しており、まず極端な状況や身体的な障害を持つ人々のニーズを満たすことで、人間工学的に優れた、一般消費者を引き付ける製品を生み出しています。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170831T083426Z" creationid="rikiha" creationdate="20170828T141609Z">
+        <seg>家庭用品などで有名なOXO社はこれをよく理解しており、まず極端な状況や身体的な障害を持つ人々のニーズを満たすことで、人間工学的に優れた、一般消費者を引きつける製品を生み出しています。</seg>
       </tuv>
     </tu>
     <tu>
