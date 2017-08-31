@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15506,12 +15506,14 @@ impactは次の文に合わせて「効果」としました。
     <tu>
       <note>(伊原) 固形粘着剤としました。
 
-(太田) OK</note>
+(太田) OK
+
+(岡本) 固形粘着剤→スティッキータック</note>
       <tuv lang="EN-US">
         <seg>Sticky Tack</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T014110Z" creationid="rikiha" creationdate="20170823T082724Z">
-        <seg>固形粘着剤</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170831T032334Z" creationid="rikiha" creationdate="20170823T082724Z">
+        <seg>スティッキータック</seg>
       </tuv>
     </tu>
     <tu>
