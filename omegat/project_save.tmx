@@ -10653,12 +10653,18 @@ OK
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+原文が読みにくいのが悪いのですが、元訳は誤訳っぽいですね。
+例によって and の解釈の問題で、have to fix は and の後半だけにくっついている解釈が正しいと思われます。
+
+×divにこだわると冗長になり、修正を強いられる
+○divにこだわると修正を強いられ、冗長になる
+
+というわけで調整。</note>
       <tuv lang="EN-US">
         <seg>It gets even more verbose when you’re wedded to using a &lt;g4&gt;&lt;div&gt;&lt;/g4&gt; and have to fix the heading accessibility &lt;g5&gt;after the fact&lt;/g5&gt; with ARIA attributes:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T095153Z" creationid="rikiha" creationdate="20170828T141641Z">
-        <seg>&lt;g4&gt;&lt;div&gt;&lt;/g4&gt;を使うことにこだわると、&lt;g5&gt;事後に&lt;/g5&gt;ARIA属性を使って見出しのアクセシビリティを改善しなければならなくなり、コードはさらに冗長になり。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170831T095436Z" creationid="rikiha" creationdate="20170828T141641Z">
+        <seg>&lt;g4&gt;&lt;div&gt;&lt;/g4&gt;を使うことにこだわると、&lt;g5&gt;事後に&lt;/g5&gt;ARIA属性を使って見出しのアクセシビリティを改善しなければならなくなり、コードはさらに冗長になります。</seg>
       </tuv>
     </tu>
     <tu>
