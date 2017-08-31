@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -197,12 +197,14 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
       <note>(伊原) someoneを訳出。
 
 (太田) OK
-willがあって未来形なので「動かさなければならないことになります」としても良いかと思いましたが、読みにくくなるのでママで。</note>
+willがあって未来形なので「動かさなければならないことになります」としても良いかと思いましたが、読みにくくなるのでママで。
+
+(岡本)　コンピュータ→コンピューター</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Appoint a &lt;g3&gt;computer&lt;/g3&gt;.&lt;/g2&gt; Someone who built the prototype will have to operate it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T142141Z" creationid="rikiha" creationdate="20170827T115923Z">
-        <seg>&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;コンピュータ役&lt;/g3&gt;を任命する。&lt;/g2&gt;プロトタイプを作った誰かが、それを動かさなければなりません。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170831T033131Z" creationid="rikiha" creationdate="20170827T115923Z">
+        <seg>&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;コンピューター役&lt;/g3&gt;を任命する。&lt;/g2&gt;プロトタイプを作った誰かが、それを動かさなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
