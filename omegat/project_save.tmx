@@ -209,7 +209,10 @@ https://ja.wikipedia.org/wiki/アメリカ合衆国の教育
 (太田) OK
 willがあって未来形なので「動かさなければならないことになります」としても良いかと思いましたが、読みにくくなるのでママで。
 
-(岡本)　コンピュータ→コンピューター</note>
+(岡本)　コンピュータ→コンピューター
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Appoint a &lt;g3&gt;computer&lt;/g3&gt;.&lt;/g2&gt; Someone who built the prototype will have to operate it.</seg>
       </tuv>
@@ -238,7 +241,10 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
       <note>(伊原) 語順等調整。
 
 (太田)
-触ることができる→触って良い、としました (物理的に触ることができるのは自明なので)</note>
+触ることができる→触って良い、としました (物理的に触ることができるのは自明なので)
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Give clear instructions.&lt;/g2&gt; Tell the user tester they can touch any items in the interface they think are interactive.</seg>
       </tuv>
@@ -271,6 +277,8 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
 (太田)
 cold は口語的に副詞としての用法があって「完全に、準備なしに、突然」のような意味。
 stunはここでは呆然と言うより唖然に近い? 唖然もわかりにくいかもしれないので、「ポカンとするだけで何もできない」としてみましたがどうでしょうか。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Write a scenario.&lt;/g2&gt; Putting a user tester in front of your prototype cold will amount to stunned inaction.</seg>
@@ -7473,7 +7481,10 @@ art of marketing どうするか。
       <note>(伊原) 一文にしました。
 
 (太田) 読点を入れつつ調整。
-throughは「通しで」とかそんなニュアンスでしょうがなかなか難しい。「一連のタスクを実行」とすると補いすぎ?</note>
+throughは「通しで」とかそんなニュアンスでしょうがなかなか難しい。「一連のタスクを実行」とすると補いすぎ?
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Give them a scenario to work through, something the app should be able to solve for them.</seg>
       </tuv>
@@ -8461,7 +8472,10 @@ making sure is paramount という構造。
 (岡本)　剥がして→はがして
 
 (太田)
-むしろ前の文のwillを「変えなければなりません」と言い切って良いように思いました。</note>
+むしろ前の文のwillを「変えなければなりません」と言い切って良いように思いました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>If the button deletes something this would mean unsticking the paper component and putting it to one side.</seg>
       </tuv>
@@ -8897,7 +8911,10 @@ actionableは「実用的でない」のではなく、実行できない、動�
     <tu>
       <note>(伊原) loudなので、そのへんを反映。
 
-(太田) OK。助詞微調整</note>
+(太田) OK。助詞微調整
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Importantly, tell them to speak out loud what they are thinking as they use the prototype.</seg>
       </tuv>
@@ -11246,6 +11263,8 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
 
 (太田)
 「このシナリオはプライバシーのため」はちょっと誤読しそうな印象があります。少し調整してみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>It’s important this scenario is fictional, and not drawn from the individual’s real experiences for the sake of privacy.</seg>
@@ -12202,7 +12221,10 @@ manageは管理で良いような。
 (太田)
 前の文のfeverを受けてのvitalですかね。feverの原義は熱病なので、熱病にかかっても生きられるようにこれらの物資が必要というニュアンスかなと。ある意味ヘイドンフレーズではあります。
 ママでも良いとは思いますが、「その盛り上がりを支えるためには、」と補ってみました。
-Lots of とplentyはてきとうに別の言葉を当てはめてみました。</note>
+Lots of とplentyはてきとうに別の言葉を当てはめてみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Lots of spare paper and plenty of pens and scissors to go around are vital.</seg>
       </tuv>
@@ -13593,8 +13615,8 @@ some screen readers will は「スクリーンリーダーは……ことがあ�
       <tuv lang="EN-US">
         <seg>On left, a smartphone with a heavy weight hung precariously over it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T035113Z" creationid="rikiha" creationdate="20170827T154103Z">
-        <seg>左：スマートフォンの上に重いおもりが不安定に吊るされている。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170831T121531Z" creationid="rikiha" creationdate="20170827T154103Z">
+        <seg>左：スマートフォンの上に、チェックマークが描かれた重いおもりが不安定に吊るされている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16196,6 +16218,8 @@ at all はどういうat all なのかやや謎ですが、「そもそも」と
 言いたいこととしては、これは紙なので実際に「入力」ができるわけではなく、入力の演技、入力のフリということだと思います。
 「入力（入力したフリ）」?
 「（演じられた）入力」?
+
+(伊原) 演じられた入力でOKかと。
 </note>
       <tuv lang="EN-US">
         <seg>That means reacting to (role-played) input by the user tester.</seg>
@@ -19154,6 +19178,8 @@ http://www.w3.org/TR/wai-aria-1.1/#banner
 (太田) 
 「ユーザビリティの不具合」は違和感があるので「ユーザビリティの問題」としました。
 overcomeは「克服」とか?
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>This is important for understanding where there are usability failures and what needs to be overcome.</seg>
@@ -21415,7 +21441,10 @@ in this wayの位置づけが良くわからない。
       <note>(伊原) アプリケーションを再編成するというのは変なので、状態を組み立て直すとしました。
 
 (太田)
-reorganize難しいですね。「状態を変える」か、超訳ですが「表示を変える」とかのほうが分かりやすいかも?</note>
+reorganize難しいですね。「状態を変える」か、超訳ですが「表示を変える」とかのほうが分かりやすいかも?
+
+(伊原) 状態を変えるでOKかと。
+</note>
       <tuv lang="EN-US">
         <seg>When the tester presses a button, for instance, the computer will have to reorganize the app in response.</seg>
       </tuv>
