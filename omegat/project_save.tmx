@@ -6827,12 +6827,14 @@ http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml</note>
     </tu>
     <tu>
       <note>(太田)
-ワロタ。そこかよ。</note>
+ワロタ。そこかよ。
+
+deviseは「ひねり出す」としてみました。</note>
       <tuv lang="EN-US">
         <seg>For example, devising an inaccessible, custom-authored &lt;g1&gt;&lt;div class="heading-3"&gt;&lt;/g1&gt; is actually &lt;g2&gt;more&lt;/g2&gt; typing than using a standard &lt;g3&gt;&lt;h3&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T093054Z" creationid="rikiha" creationdate="20170828T141639Z">
-        <seg>たとえば、アクセシブルではないカスタムの&lt;g1&gt;&lt;div class="heading-3"&gt;&lt;/g1&gt;を考案すると、標準の&lt;g3&gt;&lt;h3&gt;&lt;/g3&gt;を使うより入力の量が&lt;g2&gt;多く&lt;/g2&gt;なります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170831T093328Z" creationid="rikiha" creationdate="20170828T141639Z">
+        <seg>たとえば、アクセシブルでないカスタムの&lt;g1&gt;&lt;div class="heading-3"&gt;&lt;/g1&gt;をひねり出した場合、標準の&lt;g3&gt;&lt;h3&gt;&lt;/g3&gt;を使うより入力の量が&lt;g2&gt;多く&lt;/g2&gt;なります。</seg>
       </tuv>
     </tu>
     <tu>
