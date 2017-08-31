@@ -581,15 +581,15 @@ life is too short to type the long phrase みたいなことでしょう。
 
 Heading textはそのまま「見出しテキスト」ですね。
 
-それはそうと、aria-level はここで初出で、何も説明されていないような気がしますね。訳注があったほうがいいかもしれません。
+それはそうと、aria-level はここで初出で、何も説明されていないような気がしますね。訳注があったほうがいいかもしれません。訳注入れるならコメントも直訳にして訳注でフォローもありですね。
 
 http://www.w3.org/TR/wai-aria-1.1/#aria-level
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- life is too short!</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T100255Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- 人生は短いというのに！</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170831T101731Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- 人生はあまりに短い！</seg>
       </tuv>
     </tu>
     <tu>
