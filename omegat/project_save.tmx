@@ -10654,12 +10654,14 @@ OK
     <tu>
       <note>(太田)
 原文が読みにくいのが悪いのですが、元訳は誤訳っぽいですね。
-例によって and の解釈の問題で、
+例によって and の解釈の問題で、(A when B) and C と解釈されたようですが、意味的に A when (B and C) が正しいはずです。つまり、
 
 ×divにこだわると冗長になり、修正を強いられる
 ○divにこだわると修正を強いられ、冗長になる
 
-というわけで調整しました。</note>
+と思われます。
+というわけで調整しました。
+</note>
       <tuv lang="EN-US">
         <seg>It gets even more verbose when you’re wedded to using a &lt;g4&gt;&lt;div&gt;&lt;/g4&gt; and have to fix the heading accessibility &lt;g5&gt;after the fact&lt;/g5&gt; with ARIA attributes:</seg>
       </tuv>
