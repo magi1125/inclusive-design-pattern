@@ -7681,7 +7681,9 @@ Henceは「取り除いたのでCSSで制御できます」的なニュアンス
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Her interest in photography never really diminished, though.</seg>
       </tuv>
@@ -10090,12 +10092,13 @@ robustlyは「堅牢な方法で」としてみました。
       <note>(太田)
 「架空の写真サイトをデザインする」はちょっと変というか語弊がありますね。写真サイトをデザインするという話を仮定、みたいな感じですかね。
 最後のitはサイトではなく写真かも。
-</note>
+
+(伊原) 場合を仮定➞場合と仮定　としました。</note>
       <tuv lang="EN-US">
         <seg>In the design of the hypothetical photography site, it’s tempting for the business to try to write off support for users they don’t think will be interested in it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T065935Z" creationid="rikiha" creationdate="20170828T141614Z">
-        <seg>写真サイトをデザインする場合を仮定すると、ビジネス的には、写真に興味を持ちそうにないユーザーへのサポートを切り捨てたくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170831T140610Z" creationid="rikiha" creationdate="20170828T141614Z">
+        <seg>写真サイトをデザインする場合と仮定すると、ビジネス的には、写真に興味を持ちそうにないユーザーへのサポートを切り捨てたくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12434,7 +12437,9 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Meet Sandra.</seg>
       </tuv>
@@ -14988,17 +14993,21 @@ Shadow DOMは「影DOM」とは訳されないので、少なくともShadowは�
 descriptionsはテキストによる説明?
 
 (岡本)
-説明ってなんでしょうね。自分の写真の技法に関する説明をする代わりにって感じなんですかね。</note>
+説明ってなんでしょうね。自分の写真の技法に関する説明をする代わりにって感じなんですかね。
+
+(伊原) detailed descriptions of photographs を「写真の細かな描写」と訳すと、「長年培った写真の細かな描写に関する技術的なノウハウを交換しています」となり、意味が通るかも。</note>
       <tuv lang="EN-US">
         <seg>She enjoys being an active member of the online photography community where she can trade the technical know-how she’s picked up over the years for detailed descriptions of photographs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T080637Z" creationid="rikiha" creationdate="20170828T141619Z">
-        <seg>オンラインの写真コミュニティのアクティブなメンバーとして活動することを楽しみ、写真についてテキストで詳しく説明してもらう代わりに、長年培った技術的なノウハウを提供しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170831T143011Z" creationid="rikiha" creationdate="20170828T141619Z">
+        <seg>オンラインの写真コミュニティのアクティブなメンバーとして活動することを楽しみ、長年培った写真の細かな描写に関する技術的なノウハウを交換しています。</seg>
       </tuv>
     </tu>
     <tu>
       <note>(太田)
-後の文とつながりやすいように順番を入れ替え。</note>
+後の文とつながりやすいように順番を入れ替え。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>She was a photographer until the age of thirty-seven, when she lost her sight.</seg>
       </tuv>
@@ -16308,7 +16317,9 @@ yourを「コンテンツ側で」として補いました。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>That way, maybe they can save money.</seg>
       </tuv>
@@ -22448,7 +22459,8 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       <note>(太田)
 原文カッコ内疑問系だったのでそのように調整。
 theyを訳出しないと、読者に対して言っているように読める。「思う」→「考える」とすることで読者に対する呼びかけではない風にしてみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>“Blind users aren’t likely to be interested in photography, so why bother making the site screen reader accessible?” they might think.</seg>
       </tuv>
