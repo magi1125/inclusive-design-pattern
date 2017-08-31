@@ -225,6 +225,7 @@ iterationは「試行錯誤」推しですがどうでしょう。
 leads to は「傾向がある」としてみました。
 feveredは「盛ん」で良いのか、もっと強いニュアンスかもしれません。「大いに盛りあがる」?
 
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Bring plenty of spares.&lt;/g2&gt; A good session leads to fevered iteration.</seg>
@@ -3380,7 +3381,10 @@ heading shortcutは「見出しジャンプ」としました。
 (岡本)　付け→つけ
 
 (太田)
-括弧書きが冒頭「大きいビューポート」全体にかかっているようにも見えたので、「大きい」を後ろに移動しました。</note>
+括弧書きが冒頭「大きいビューポート」全体にかかっているようにも見えたので、「大きい」を後ろに移動しました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>A large viewport (paper sheet to which smaller parts of the paper app are adhered) means more people in your test environment can simultaneously see it as it is being used.</seg>
       </tuv>
@@ -8189,7 +8193,10 @@ VoiceOverは変な読みをするので訳注入れたいかも。
 
 (太田)
 a couple of は2本くらい、まあ2～3本? というようなニュアンスかと思います。数本とするとちょっと多いかもしれません。
-2～3本ほど、としてみました。</note>
+2～3本ほど、としてみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>I usually make sure I have a couple of black pens, then choose a red for errors, green for success messages, and blue for links and buttons.</seg>
       </tuv>
@@ -8661,6 +8668,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 handyは「手元に」なのか。「便利だ」と言っているようにも読める。
 「きっちり」はどこから来たのか。平行にすることを気にし過ぎなくてよい、としか言っていないような。
 ちょっと調整。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>If you have a guillotine handy all the better, but don’t worry too much about all the lines being parallel.</seg>
@@ -8784,6 +8793,8 @@ by name は「バイネームで」でも良いのかもしれないですね。
 (太田)
 going to be なので未来形ですね。
 入力フィールドができることになる、としてみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>If you’re making an app, there are probably going to be some input fields.</seg>
@@ -11703,6 +11714,8 @@ implementationを例→実装としました。
 
 (太田) 
 「さながら」と言われると見た目などが非常に似ていると言われているように感じます。ここでは考え方が共通していると言っているように思うので、単に「同様」などのほうが良いように思いました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Just like a real app, the viewport will be divided into smaller sections or components.</seg>
@@ -12225,6 +12238,8 @@ Lots of とplentyはてきとうに別の言葉を当てはめてみました。
 (太田)
 「テストセッションに持っていく一本には」と言っているように思います。末尾に "!" をつけていますし、ヘイドンフレーズなんですかね。ヘイドンさん自身が過去にやらかした (よりによって持っていった1本だけインクが無かった) という含みがある?
 いったんヘイドンに沿ってみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Make sure the one you take to the test session has some ink in it!</seg>
@@ -12482,7 +12497,10 @@ naturallyやsee aboveを訳すなら、
 
 もちろん、アセテートフィルムに書き込むときに使います (上記参照)。
 
-くらいで、これはこれでも良いように思いますね。</note>
+くらいで、これはこれでも良いように思いますね。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Naturally, you’ll need one of these for use with the acetate (see above).</seg>
       </tuv>
@@ -13480,6 +13498,8 @@ the buttonを「このボタン」としました。
 すくなくとも線は言っていないですね。
 そのまんま「マーキングする」でいいのでは。
 「必要不可欠」は間違っていませんが強すぎるような。ここでは一本ではなく複数のペンが必要だということが言いたいのだと思いますので、「複数のペンが必要になります」としてみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Of course, you’ll need to write labels, draw borders around buttons and make various other markings, so some pens are essential.</seg>
@@ -14003,6 +14023,8 @@ contributeを「寄与」とするのがどうも硬いので「構成する」�
 
 (太田)
 a few things to remember and set up は、素直に読むと「覚えておくべきことや、準備しておくことがいくつかある」ということかと思います。「5. 落ち着かせる」などは準備が必要な事項ではなくテスト中の注意点なので、「準備のために」となると違うかなという印象です。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Paper prototype testing is a slightly unusual ritual with a few things to remember and set up.</seg>
@@ -15696,7 +15718,10 @@ impactは次の文に合わせて「効果」としました。
 
 (太田) OK
 
-(岡本) 固形粘着剤→スティッキータック</note>
+(岡本) 固形粘着剤→スティッキータック
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Sticky Tack</seg>
       </tuv>
@@ -15709,7 +15734,10 @@ impactは次の文に合わせて「効果」としました。
 
 (太田) 
 少し調整。
-iterationは試行錯誤を推したい。</note>
+iterationは試行錯誤を推したい。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Sticky tack is what makes the paper app modular and lets you quickly move components around, either as part of the app’s operation or as part of layout iteration.</seg>
       </tuv>
@@ -16150,12 +16178,14 @@ at all はどういうat all なのかやや謎ですが、「そもそも」と
     <tu>
       <note>(伊原) notes can be takenなので、ここのnotesはメモやノートなのでは。
 
-(太田) OK</note>
+(太田) OK
+
+(伊原) 多く良い➞多くの良い　としました。</note>
       <tuv lang="EN-US">
         <seg>That means everyone can feel involved, and more and better notes can be taken.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170827T003818Z" creationid="rikiha" creationdate="20170823T082637Z">
-        <seg>全員が参加しているように感じることができ、より多く良いメモを取ることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170831T120930Z" creationid="rikiha" creationdate="20170823T082637Z">
+        <seg>全員が参加しているように感じることができ、より多くの良いメモを取ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18164,6 +18194,8 @@ surviving bits of paperは「破られずに生き残ったいくつかの紙片
 
 (太田)
 開幕括弧がやや唐突感があるのと、wonkierは比較級なので、冒頭に「多少」と補ってみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>The wonkier the prototype looks (within reason!), the less intimidating and more approachable it is.</seg>
@@ -18570,7 +18602,10 @@ fill="currentColor" の話は訳注かと思いましたが後に出てきます
 (太田)
 微妙にニュアンスが違うかも。
 ready for the next test session というのは、もう次のセッションをはじめる準備ができている状態で、これから準備をするのではないと思います。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>They can correct their mistakes and the writing can be quickly removed ready for the next test session.</seg>
       </tuv>
@@ -19207,7 +19242,10 @@ OKですがやや硬いかも。
       <note>(伊原) OK
 
 (太田)
-in the testing はテストの最中くらいのニュアンスかも。</note>
+in the testing はテストの最中くらいのニュアンスかも。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>This is not used in the construction of the prototype, but is needed in the testing described below.</seg>
       </tuv>
@@ -21434,6 +21472,8 @@ http://www.w3.org/TR/css3-selectors/#target-pseudo
 
 (太田)
 useが命令形なので末尾「しましょう」としました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Whenever a part of a component is liable to be moved or replaced, use a separate piece of paper and stick it in place with tack.</seg>
@@ -22211,7 +22251,10 @@ spoiled for choice は選択肢があまりに豊富すぎて甘やかされて�
       <note>(伊原) 多少調整。
 
 (太田) 
-「置く」は実際には貼り付けるのではないでしょうか。「配置する」としてみました。</note>
+「置く」は実際には貼り付けるのではないでしょうか。「配置する」としてみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>You’ll need to cut some of your larger sheets into smaller ones to be placed on top of the base sheet.</seg>
       </tuv>
