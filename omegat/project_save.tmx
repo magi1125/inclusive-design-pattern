@@ -10663,8 +10663,8 @@ OK
       <tuv lang="EN-US">
         <seg>It gets even more verbose when you’re wedded to using a &lt;g4&gt;&lt;div&gt;&lt;/g4&gt; and have to fix the heading accessibility &lt;g5&gt;after the fact&lt;/g5&gt; with ARIA attributes:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T095436Z" creationid="rikiha" creationdate="20170828T141641Z">
-        <seg>&lt;g4&gt;&lt;div&gt;&lt;/g4&gt;を使うことにこだわると、&lt;g5&gt;事後に&lt;/g5&gt;ARIA属性を使って見出しのアクセシビリティを改善しなければならなくなり、コードはさらに冗長になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170831T095507Z" creationid="rikiha" creationdate="20170828T141641Z">
+        <seg>&lt;g4&gt;&lt;div&gt;&lt;/g4&gt;を使うことにこだわると、&lt;g5&gt;事後に&lt;/g5&gt;ARIAの属性で見出しのアクセシビリティを改善しなければならなくなり、コードはさらに冗長になります。</seg>
       </tuv>
     </tu>
     <tu>
