@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6272,7 +6272,8 @@ https://momdo.github.io/html/interaction.html#sequential-focus-navigation
 (太田)
 draw onは経験を活かすような意味。
 少し調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Drawing on what we learn about our potential audience in the &lt;g1&gt;&lt;g2&gt;discovery phase&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; of our project, we begin to think about what tasks our app will allow users to perform.</seg>
       </tuv>
@@ -9321,7 +9322,8 @@ anyの強調をどう処理するか微妙ですが「ありません」部分�
 respondは答えるというより「返信する」くらいかと。
 captureは「取り込む」としてみました。
 「要するに」はつながりがイマイチな感じがします。「本質部分に絞って言えば」のような原義なので、やや意訳になりますが「具体的には」としてみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In essence, we begin to stockpile verbs: create, sort, edit, buy, read, respond, move, capture, draw, upload.</seg>
       </tuv>
@@ -11170,7 +11172,9 @@ http://eow.alc.co.jp/search?q=right%20way
       <note>(伊原) ちょっと調整しました。必要不可欠➞絶対必要と強めてみました。
 
 (太田)
-imperativeを冒頭に持ってきて「絶対に守らなければならないこと」としてみました。</note>
+imperativeを冒頭に持ってきて「絶対に守らなければならないこと」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It’s imperative we think first about how these actions might be taken rather than how the experience might look and feel.</seg>
       </tuv>
@@ -11260,8 +11264,7 @@ this thought = thinking inclusivelyは展開したほうが分かりやすいか
 investは投資で良いのか? インクルーシブ思考に時間を費やすという意味のようにも思える。
 調整してみました。
 
-
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It’s investing this thought in the early stages of the design process that leads to a robust product.</seg>
       </tuv>
@@ -18638,7 +18641,8 @@ aspirations は「願望」?
       <note>(伊原)ここのyouは訳してみました。ほか、全体調整。practiceはここでは練習というより実践のように思われました。
 
 (太田) 合っていると思いますが、どうにもわかりにくい印象だったので語順などを調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>They’re here to help you practice &lt;g2&gt;thinking inclusively&lt;/g2&gt; as you formulate your own patterns to solve your own design problems.</seg>
       </tuv>
@@ -19736,7 +19740,9 @@ in general は use にかかっているようにも見えますね。「ボタ�
       <note>(伊原) 使えそうなものもあるだろうが単なる例だから個別に配慮してね、ということかなと。
 
 (太田)
-少しだけ調整。ここのreallyは「いやホントに」みたいな感じで、具体的な意味を持つわけではない、強調っぽい使い方かも。「本当に」としてみました。</note>
+少しだけ調整。ここのreallyは「いやホントに」みたいな感じで、具体的な意味を持つわけではない、強調っぽい使い方かも。「本当に」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Though you’re likely to use some as presented (like the &lt;g1&gt;navigation region&lt;/g1&gt; pattern) across many of your projects, they’re really just examples.</seg>
       </tuv>
@@ -20834,7 +20840,9 @@ the prototyping experience とは。
 「ここでプロトタイピングされた体験」?
 「このプロトタイピングで得られた体験」?
 
-(伊原) そう、experience prototypingじゃないんですよね…。読み進めてから再検討したいところです。</note>
+(伊原) そう、experience prototypingじゃないんですよね…。読み進めてから再検討したいところです。
+
+(伊原) 一通り読み終わって、プロトタイピングとテストのプロセス自体をインクルーシブにやるという、割とインクルーシブデザインぽい流れだったので、「このプロトタイピングで得られた体験」でよさそうです。</note>
       <tuv lang="EN-US">
         <seg>We need to prototype for usability, and the more inclusive the prototyping experience, the more people will find the product usable.</seg>
       </tuv>
