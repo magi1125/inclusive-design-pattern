@@ -600,7 +600,8 @@ Heading textはそのまま「見出しテキスト」ですね。
 それはそうと、aria-level はここで初出で、何も説明されていないような気がしますね。訳注があったほうがいいかもしれません。訳注入れるならコメントも直訳にして訳注でフォローもありですね。
 
 http://www.w3.org/TR/wai-aria-1.1/#aria-level
-</note>
+
+(伊原) 検索するとこの後にも出てこないので、訳注でお願いします! 緑本には結構書いてあった記憶。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- life is too short!</seg>
       </tuv>
@@ -6935,7 +6936,9 @@ http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
 ワロタ。そこかよ。
 
 deviseは「ひねり出す」としてみました。
-typingはそのままタイピングで良いかと思います。</note>
+typingはそのままタイピングで良いかと思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For example, devising an inaccessible, custom-authored &lt;g1&gt;&lt;div class="heading-3"&gt;&lt;/g1&gt; is actually &lt;g2&gt;more&lt;/g2&gt; typing than using a standard &lt;g3&gt;&lt;h3&gt;&lt;/g3&gt;.</seg>
       </tuv>
@@ -9494,7 +9497,7 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
 「しかるべき方法」はやや大げさかも。期待される方法で使うということは、「普通に使う」「そのまま使う」ということですね。
 「テクノロジー」カタカナで良いのかどうか。いったんママとしました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In fact, using standard technologies in expected ways often means less work.</seg>
       </tuv>
@@ -10784,7 +10787,9 @@ OK
 ○divにこだわると修正を強いられ、冗長になる
 
 と思われます。
-というわけで調整しました。</note>
+というわけで調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It gets even more verbose when you’re wedded to using a &lt;g4&gt;&lt;div&gt;&lt;/g4&gt; and have to fix the heading accessibility &lt;g5&gt;after the fact&lt;/g5&gt; with ARIA attributes:</seg>
       </tuv>
