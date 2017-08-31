@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14599,11 +14599,13 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>Screen reader accessibility also requires keyboard accessibility, which helps folks with a range of rheumatic complaints, as well as conditions that cause inaccuracy with a mouse, such as Parkinson’s disease or dyspraxia.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141627Z" creationid="rikiha" creationdate="20170828T141627Z">
-        <seg>スクリーンリーダーのアクセシビリティには、キーボードのアクセシビリティも求められます。これは、さまざまなリウマチ症状を持つ人や、パーキンソン病や統合運動障害によってマウスを正確に操作できない人に役立ちます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170831T084845Z" creationid="rikiha" creationdate="20170828T141627Z">
+        <seg>スクリーンリーダーのアクセシビリティには、キーボードのアクセシビリティも求められます。これは、さまざまなリウマチ症状を持つ人や、パーキンソン病や統合運動障害によってマウスを正確に操作できない人にも役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
