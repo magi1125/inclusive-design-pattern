@@ -943,6 +943,7 @@ iterateは「試行錯誤」推しでいきたいと思いましたがどうで�
 
 議論の結果、「スティッキータック」はカタカナ書きで訳注、iterateは「試行錯誤」とすることにしました。
 
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;It’s easy to iterate.&lt;/g2&gt; Paper prototypes are mostly just pen on paper, held together with sticky tack.</seg>
@@ -976,7 +977,10 @@ iterateは「試行錯誤」推しでいきたいと思いましたがどうで�
 
 (太田)
 「扱う」だと完成したものを操作するような印象ですが、ここのworkは作る、取り組むという意味に近いのかも。
-「取り組むことができる」としてみました。</note>
+「取り組むことができる」としてみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Most anyone can work with paper.&lt;/g2&gt; Coded prototypes require some skill in front-end development.</seg>
       </tuv>
@@ -1680,6 +1684,8 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
 アセテートフィルムは説明が無いと通じにくいように思います。
 「透明フィルムシート」とかにしますか?
 →「アセテートフィルム」として訳注で。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Sheets of acetate</seg>
@@ -3900,7 +3906,9 @@ listenは「監視」としてみました。
       <note>(伊原) 少し調整。
 
 (太田) 前半が長いので読点入れつつ分割するなど調整。
-「デザイナーや開発者として」は冗長感があり取っても良い気がしましたが、いったんのこしました。</note>
+「デザイナーや開発者として」は冗長感があり取っても良い気がしましたが、いったんのこしました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Almost all of the successful projects I’ve worked on as a designer and developer have included interactive paper prototyping in the early stages of the design process.</seg>
       </tuv>
@@ -5710,7 +5718,10 @@ rudimentaryは原始的のほうがいいかも。
       <note>(伊原) 上の段落と表現を合わせました。
 
 (太田) ここも「まとめる」のイメージがしづらいかも。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>By using sticky tack to piece components together, it’s easy to move parts around.</seg>
       </tuv>
@@ -5865,7 +5876,10 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
 
 (岡本)　自身→自信
 
-(太田) have a try を「挑戦」は少し大げさかも。そのまま「トライ」としてみました。</note>
+(太田) have a try を「挑戦」は少し大げさかも。そのまま「トライ」としてみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Committing to work with paper means other team members, including back-end developers and others not confident in their design skills, can have a try.</seg>
       </tuv>
@@ -6685,7 +6699,10 @@ http://waic.jp/docs/WCAG20/Overview.html#images-of-textdef
     <tu>
       <note>(伊原) We'll take care of なので、こんな感じ？
 
-(太田) すこしだけ短く微調整。</note>
+(太田) すこしだけ短く微調整。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>First, we’ll take care of what you need in terms of equipment and why.</seg>
       </tuv>
@@ -6745,7 +6762,10 @@ the を訳出すべきか?
     <tu>
       <note>(伊原) OK
 
-(太田) なんかわかりにくいですね。やや補いつつ調整してみましたがどうでしょうか。</note>
+(太田) なんかわかりにくいですね。やや補いつつ調整してみましたがどうでしょうか。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Focus remains on whether the idea solves the problem well.</seg>
       </tuv>
@@ -8853,6 +8873,8 @@ actionableは「実用的でない」のではなく、実行できない、動�
 (太田) イテレーションは訳したほうが良いかもしれません。
 「反復プロセス」?
 いろいろ考えて、「試行錯誤」とするのが良いような気がしてきました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Importantly, it also means stakeholders and test users can be included in iteration.</seg>
@@ -11904,7 +11926,10 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
     <tu>
       <note>(伊原) あとの段落と語尾がカブるので調整。
 
-(太田) なんか唐突感があるので「さて」を補いつつ調整してみました。</note>
+(太田) なんか唐突感があるので「さて」を補いつつ調整してみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Let’s imagine you’re embarking on a paper prototype.</seg>
       </tuv>
@@ -12967,7 +12992,9 @@ http://www.usablog.jp/2005/06/wizard-of-oz.html
 OK
 candidate の訳が落ちていますがまあ無くても良いのでママで。
 「手動で操作する人の助けを借りて」は、イメージできる人とそうでない人がいるかもしれません。画面遷移などをモデレータが手動で実現するという話だと思いますが、このあたりも含めて訳注?
-と思いましたが、後のほうにコンピュータ役の人がいる的な説明があるので訳注なしで良いように思いました。</note>
+と思いましたが、後のほうにコンピュータ役の人がいる的な説明があるので訳注なしで良いように思いました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Not to be confused with sketching, paper prototyping is about creating an &lt;g1&gt;interactive&lt;/g1&gt; prototype from paper, which — with the help of someone to manually operate it — allows user testers to play with a rough-and-ready demo version of the candidate app.</seg>
       </tuv>
@@ -14045,7 +14072,10 @@ parityは平均化というより、ここでは等価、価値を等しくす�
 
 (太田) politeを「礼儀正しい」とするのが良くないのかも。思いやりがある、くらいのほうが良いかもしれません。
 意訳になりますがPeopleはユーザーとしてみました。
-honestは「正直」としてみました。</note>
+honestは「正直」としてみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>People are polite and you won’t get honest feedback about something that looks like it’s had a lot of work put into it.</seg>
       </tuv>
@@ -16097,7 +16127,10 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
 
 (太田) ここでは「本物ではない」ということが伝わればよいので、allegoryはがんばって訳さなくても良いかも。
 「リアルなアプリケーションでないことが明らか」としてみました。
-at all はどういうat all なのかやや謎ですが、「そもそも」としてみました。</note>
+at all はどういうat all なのかやや謎ですが、「そもそも」としてみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>That it’s made of paper at all means it’s clearly only an allegory of the real app, so feedback about aesthetic particulars is kept to a minimum.</seg>
       </tuv>
@@ -18244,7 +18277,10 @@ JAWS日本語版では「ページ内リンク」らしいです。
 
 (太田)
 前者だと思います。"advantages over  high fidelity." で終わってその後に名詞が来ないとおかしいので、high fidelity は demoにくっつくはずです。
-「忠実度の高い」「コードベース」はどちらもイマイチわかりにくい気がしたので、思い切って「コードで実装された本物そっくりのデモ」としてました。</note>
+「忠実度の高い」「コードベース」はどちらもイマイチわかりにくい気がしたので、思い切って「コードで実装された本物そっくりのデモ」としてました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>There are a number of advantages to paper prototyping over high fidelity and code-based demos.</seg>
       </tuv>
@@ -18785,7 +18821,10 @@ aspirations は「願望」?
 (太田) presentは訳出したほうがいいかも? involveはこれこそ「巻き込む」という話で、ステークホルダーが参加するような含みも持たせているのだと思います。「その場に居合わせる全ての人を巻き込む」としてみました。
 
 sitting around twiddling thumbs は面白訳にしたほうがいいのかどうか。
-いったんママで。</note>
+いったんママで。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>This can be done during test sessions and can involve everyone present — infinitely preferable to sitting around twiddling thumbs while a front-end dev fiddles anxiously with their laptop.</seg>
       </tuv>
