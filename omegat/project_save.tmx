@@ -10659,7 +10659,7 @@ OK
 ×divにこだわると冗長になり、修正を強いられる
 ○divにこだわると修正を強いられ、冗長になる
 
-というわけで調整。</note>
+というわけで調整しました。</note>
       <tuv lang="EN-US">
         <seg>It gets even more verbose when you’re wedded to using a &lt;g4&gt;&lt;div&gt;&lt;/g4&gt; and have to fix the heading accessibility &lt;g5&gt;after the fact&lt;/g5&gt; with ARIA attributes:</seg>
       </tuv>
