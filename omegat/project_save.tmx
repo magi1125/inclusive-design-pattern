@@ -1257,6 +1257,8 @@ OK
 ここでは1人で1つのコンポネを担当するという意味だと思います。シャーロツトさんの主張は1人1つであり、後にヘイドンさんが1つを複数人で担当したほうが良いという提案をするという流れです。
 ですので「ひとつの」は必要かなと思います。
 調整してみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Everyone grab a component.</seg>
@@ -3827,6 +3829,8 @@ wouldなので語尾を少しやわらかめに。
 haveどうするか。
 HTMLがないとCSSやJSだけでは成立しないという話。
 「存在させる」?
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>After all, you can’t even &lt;g1&gt;have&lt;/g1&gt; CSS or JavaScript without some HTML on which to stick them.</seg>
@@ -5564,7 +5568,10 @@ contentsとOur historyは訳す感じですかね。だとするとソースコ�
 
 (太田)
 can的なものはないので「築けます」というより「築きます」でしょうか。文脈的にもまずHTMLのみで基礎を作ってからCSS+JSに着手という話のように思います。
-冒頭に「まずは」を補って調整してみました。</note>
+冒頭に「まずは」を補って調整してみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>By going straight from paper to HTML, we lay the foundations for efficient code and inclusive experiences.</seg>
       </tuv>
@@ -6681,6 +6688,8 @@ the placement of (the &lt;button&gt; and the menu it discloses.)
 
 (太田)
 上で「2つ」と言っているので、ここのfirstは「1つめ」としたいです。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>First, I’d recommend several individuals (or teams) work on the same component so there are different solutions to compare.</seg>
@@ -8248,7 +8257,10 @@ vertical padding は2文前で「垂直パディング」としているので�
       <note>(伊原) やや調整。ここで本当のインクルーシブデザインの話が出てきましたね。
 
 (太田)
-would を生かして「提案したい」としてみました。語順含めて調整。</note>
+would を生かして「提案したい」としてみました。語順含めて調整。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>I would suggest a couple of stipulations to really make the most of this in terms of inclusive design.</seg>
       </tuv>
@@ -9068,6 +9080,8 @@ http://www.w3.org/TR/CSS1/#length-units
 thisは何を指すのか。
 withの前後の関係性が謎ですが、コンペからコラボレーション効果が生まれるという話のようにも思えます。
 friendly competition を切磋琢磨とするのは、ここではあまりしっくり来ないように思います。あるいはここのcompetitionは競争ではなく競争相手かもしれません。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>In a large team, this can be a collaborative effort with some friendly competition to reach the best solutions.</seg>
@@ -10804,7 +10818,10 @@ OK
 
 (太田)
 見ている前でコメントが消えました。w
-canの訳出など。</note>
+canの訳出など。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>It is based on this foundation that we can enrich the experience with CSS and JavaScript.</seg>
       </tuv>
@@ -11312,6 +11329,8 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
 Living Style Guide は実際のコードが動いているスタイルガイドのようなことで、脚注のリンク先ではスタイルガイドドリブン開発をしようというような話をしています。まあBAのコンコレとかですね。
 https://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/
 
+(伊原) OK
+
 </note>
       <tuv lang="EN-US">
         <seg>It’s in the creation of your &lt;g1&gt;&lt;g2&gt;living styleguide&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;6&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; that you should be drawing on the inclusive coding practices you’ve been learning in this book.</seg>
@@ -11474,6 +11493,8 @@ investは投資で良いのか? インクルーシブ思考に時間を費やす
 (太田)
 「強化」だけだと良くわからない印象です。customを訳出したほうが良い気がします。「過剰にカスタマイズ」としてみました。
 全体ざっくり調整。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>It’s usually only when we begin overengineering custom components that we encounter issues.</seg>
@@ -14807,7 +14828,10 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
     <tu>
       <note>(伊原) 検討や判断➞検討
 
-(太田) Second「2つめ」としました。</note>
+(太田) Second「2つめ」としました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Second, accessibility should be a prerequisite for consideration.</seg>
       </tuv>
@@ -15546,6 +15570,7 @@ The Office はイギリスのコメディドラマのようですね。
 might as wellは「どうせなら」「ついでだから」のような意味もあるようです。ここではそちらのほうかも。
 少し補いつつ調整してみました。
 
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>So, you might as well get the HTML right first.</seg>
@@ -17817,7 +17842,10 @@ Good!
       <note>(伊原) 
 
 (太田)
-「手早い」にやや違和感があったので単に「早い」としました。</note>
+「手早い」にやや違和感があったので単に「早い」としました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>The quickest way to prototype in code is to use standard HTML elements such as &lt;g1&gt;&lt;input&gt;&lt;/g1&gt;, &lt;g2&gt;&lt;select&gt;&lt;/g2&gt;, &lt;g3&gt;&lt;a&gt;&lt;/g3&gt; and &lt;g4&gt;&lt;button&gt;&lt;/g4&gt;.</seg>
       </tuv>
@@ -18227,7 +18255,10 @@ be transported は受動態のままではなく能動態に変えて訳すか�
 
 (太田)
 「コードのモジュール」はちょっと謎です。
-surviving bits of paperは「破られずに生き残ったいくつかの紙片」としてみました。</note>
+surviving bits of paperは「破られずに生き残ったいくつかの紙片」としてみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>The way you translate the surviving bits of paper into coded modules is critical for an inclusive end product.</seg>
       </tuv>
