@@ -557,7 +557,12 @@ p {</seg>
     </tu>
     <tu>
       <note>(岡本）
-太田さん、ここのコードはコメントの訳と、Heading textの訳もいただければと思います。</note>
+太田さん、ここのコードはコメントの訳と、Heading textの訳もいただければと思います。
+
+(太田)
+このコメントはwww
+前からの流れで考えると、こんなクソ長い文字列を入力させられることに対して「人生は短い」と言っているのでしょうね。わかりにくいわ!
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- life is too short!</seg>
       </tuv>
@@ -10652,8 +10657,8 @@ OK
       <tuv lang="EN-US">
         <seg>It gets even more verbose when you’re wedded to using a &lt;g4&gt;&lt;div&gt;&lt;/g4&gt; and have to fix the heading accessibility &lt;g5&gt;after the fact&lt;/g5&gt; with ARIA attributes:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T094651Z" creationid="rikiha" creationdate="20170828T141641Z">
-        <seg>&lt;g4&gt;&lt;div&gt;&lt;/g4&gt;を使うことにこだわるとさらに冗長になり、&lt;g5&gt;事後に&lt;/g5&gt;ARIA属性を使って見出しのアクセシビリティを改善しなければならなくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170831T095153Z" creationid="rikiha" creationdate="20170828T141641Z">
+        <seg>&lt;g4&gt;&lt;div&gt;&lt;/g4&gt;を使うことにこだわると、&lt;g5&gt;事後に&lt;/g5&gt;ARIA属性を使って見出しのアクセシビリティを改善しなければならなくなり、コードはさらに冗長になり。</seg>
       </tuv>
     </tu>
     <tu>
