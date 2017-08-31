@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6797,14 +6797,15 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
     </tu>
     <tu>
       <note>(太田)
-テキストのみのブラウザ→テキストブラウザとしました。
+ここの text-only browsers はテキストブラウザだけでなくもう少し広い意味のように思いますので、「テキストしか扱えないブラウザ」としました。
+
 
 HTTPステータスコードの説明いります? 訳注?</note>
       <tuv lang="EN-US">
         <seg>For example, &lt;g2&gt;alt&lt;/g2&gt; text describes images in text-only browsers or where image requests return a 403, 404, 500 or 503 status.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T083444Z" creationid="rikiha" creationdate="20170828T141626Z">
-        <seg>たとえば、&lt;g2&gt;alt&lt;/g2&gt;テキストは、テキストブラウザや、画像リクエストに403、404、500、503ステータスが返された場合に画像を説明してくれます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170831T083610Z" creationid="rikiha" creationdate="20170828T141626Z">
+        <seg>たとえば、&lt;g2&gt;alt&lt;/g2&gt;テキストは、テキストしか扱えないブラウザに対して画像を説明してくれますが、これは画像リクエストに403、404、500、503ステータスが返された場合にも役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
