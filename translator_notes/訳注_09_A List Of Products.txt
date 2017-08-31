@@ -9,5 +9,12 @@ http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
 
 
 
+><g4><div></g4>を使うことにこだわると、<g5>事後に</g5>ARIAの属性で見出しのアクセシビリティを改善しなければならなくなり、コードはさらに冗長になります。
+※この文の下のコードの下に訳注追加
+訳注:
+aria-level属性は階層内のレベルを指定するもので、見出しに適用すると見出しレベルを指定したことになります。aria-level="3"とrole="heading"を指定することで、<h3>と同じセマンティクスを表現することができます。なお本文にあるように、同様のことを表現するにもかかわらず、タイプしなければならない文字列はとても長くなってしまいます。コード冒頭のコメントは、「こんなに長い文字列を入力するには、人生はあまりに短い」という主旨でしょう。
 
+参考:
+Accessible Rich Internet Applications (WAI-ARIA) 1.1 - aria-level (property)
+http://www.w3.org/TR/wai-aria-1.1/#aria-level
 
