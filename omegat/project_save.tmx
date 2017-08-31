@@ -128,6 +128,16 @@ theを「上記の」としつつ調整してみました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>--&gt;&lt;/g2&gt;
+&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;div&lt;/g4&gt; &lt;g6&gt;class&lt;/g6&gt;&lt;g7&gt;&lt;g8&gt;=&lt;/g8&gt;"heading-3"&lt;/g7&gt; &lt;g9&gt;role&lt;/g9&gt;&lt;g10&gt;&lt;g11&gt;=&lt;/g11&gt;"heading"&lt;/g10&gt; &lt;g12&gt;aria-level&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"3"&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g3&gt;Heading text&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;/&lt;/g18&gt;div&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g16&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170831T100413Z" creationid="yoota" creationdate="20170831T100413Z">
+        <seg>--&gt;&lt;/g2&gt;
+&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;div&lt;/g4&gt; &lt;g6&gt;class&lt;/g6&gt;&lt;g7&gt;&lt;g8&gt;=&lt;/g8&gt;"heading-3"&lt;/g7&gt; &lt;g9&gt;role&lt;/g9&gt;&lt;g10&gt;&lt;g11&gt;=&lt;/g11&gt;"heading"&lt;/g10&gt; &lt;g12&gt;aria-level&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"3"&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g3&gt;見出しテキスト&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;/&lt;/g18&gt;div&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g16&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>10th to 12th grade</seg>
@@ -565,7 +575,9 @@ life is too short to type this long phrase みたいなことでしょう。
 「人生は短いというのに！」
 くらいでしょうか。もし補うなら、
 「こんなに長い文字列を入力するには、人生はあまりに短い！」
-とかもありです。</note>
+とかもありです。
+
+Heading textはそのまま「見出しテキスト」ですね。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- life is too short!</seg>
       </tuv>
