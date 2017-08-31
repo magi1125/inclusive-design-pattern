@@ -4130,7 +4130,9 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
 second-guessは後でとやかく言う、後知恵で批判する、のような意味。
 予想、予言、先読みという意味もあり。
 a game we have to play はヘイドンフレーズなので生かしてみたいところ。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>And while second guessing who might &lt;g1&gt;want&lt;/g1&gt; to use our products is a game we have to play, making assumptions about &lt;g2&gt;how&lt;/g2&gt; folks use them can only alienate potential fans and customers.</seg>
       </tuv>
@@ -16016,12 +16018,14 @@ disastrousというのがなにを言いたいのかよくわからないです�
 破綻するといっているのか、悲劇を招くといっているのか。
 いったん破滅のママで。
 
-(岡本)　一握り→ひと握り</note>
+(岡本)　一握り→ひと握り
+
+(伊原) いわゆるゴムのユーザーの話で、そのようにするとユーザーが使えなくなるという話なので、悲劇を招くというほうが近いかもしれません。そちらにしてみました。</note>
       <tuv lang="EN-US">
         <seg>Targeting a so-called average user is a disastrous interface design strategy, because average users do not exist — except for the handful of people teetering on the apex of your bell curve.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170831T082835Z" creationid="rikiha" creationdate="20170828T141607Z">
-        <seg>いわゆる平均的ユーザーをターゲットにすることは、破滅をもたらすインターフェイスデザイン戦略です。なぜなら、平均的ユーザーというものは存在しないからです――正規分布曲線の頂点に立っているほんのひと握りの人々を除いて。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170831T135950Z" creationid="rikiha" creationdate="20170828T141607Z">
+        <seg>いわゆる平均的ユーザーをターゲットにすることは、悲劇を招くインターフェイスデザイン戦略です。なぜなら、平均的ユーザーというものは存在しないからです――正規分布曲線の頂点に立っているほんのひと握りの人々を除いて。</seg>
       </tuv>
     </tu>
     <tu>
