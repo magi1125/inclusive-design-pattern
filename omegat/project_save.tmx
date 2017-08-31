@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -553,6 +553,13 @@ p {</seg>
 
 &lt;g18&gt;&lt;!-- これを使ってください --&gt;&lt;/g18&gt;
 &lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;&lt;/g21&gt;meta&lt;/g20&gt; &lt;g22&gt;name&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"viewport"&lt;/g23&gt; &lt;g25&gt;content&lt;/g25&gt;&lt;g26&gt;&lt;g27&gt;=&lt;/g27&gt;"width&lt;g28&gt;=&lt;/g28&gt;device-width, initial-scale&lt;g29&gt;=&lt;/g29&gt;1.0"&lt;/g26&gt;&lt;g30&gt;&gt;&lt;/g30&gt;&lt;/g19&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本）
+太田さん、ここのコードはコメントの訳と、Heading textの訳もいただければと思います。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- life is too short!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20097,12 +20104,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       <note>(太田)
 going to want to は「必要が出てくる」というほど強くない気がします。
 少し調整。
+
+(岡本)　1つだけ→ひとつだけ
 </note>
       <tuv lang="EN-US">
         <seg>To save money, you are going to want to make just the one interface, not a different one for each imagined user group.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T092038Z" creationid="rikiha" creationdate="20170828T141631Z">
-        <seg>コストを節約するには、想定したユーザーグループごとに異なるインターフェイスを作るよりも、1つだけにしたほうが良いでしょう。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170831T093135Z" creationid="rikiha" creationdate="20170828T141631Z">
+        <seg>コストを節約するには、想定したユーザーグループごとに異なるインターフェイスを作るよりも、ひとつだけにしたほうが良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21176,7 +21185,9 @@ shouldを「はずです」はちょっと強い感じなので「でしょう�
 very little more work は「ほとんど増えない」と訳したほうがいいかも。
 in this wayの位置づけが良くわからない。
 「インクルージョン」は「インクルーシブの考え方」とでもすべき?
-</note>
+
+(岡本)
+インクルージョンは伝わらないですかねー。</note>
       <tuv lang="EN-US">
         <seg>When inclusion is integrated into the design process in this way, it’s very little more work.</seg>
       </tuv>
