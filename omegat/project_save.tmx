@@ -293,6 +293,7 @@ stunはここでは呆然と言うより唖然に近い? 唖然もわかりに�
 (太田) 「まだ見えていない」は「今はまだ表示されていない」くらいのほうが分かりやすいですかね。
 collectionは訳出しなくていいのかどうか。まあわかるか。
 
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;A collection of prototype bits and pieces (other screens, yet-to-be-revealed functionality, etc.).</seg>
@@ -328,7 +329,10 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
 (太田)
 「効果的」とは?
 oftenはbeneficialについていて、素直に読むと「2人目のユーザーがたまに役に立つ = 役に立たないこともある」と言っているように読めます。しかし、実際に言いたいことは、場合によっては2人目のユーザーをそもそも用意しないことがある、ということなのではという気がします。
-図の説明としては「操作に参加しない、2人目のテストユーザー」だけで良いはずですし、後半で benefit の内容を説明しているので、いったん benefit そのものをとってみました。</note>
+図の説明としては「操作に参加しない、2人目のテストユーザー」だけで良いはずですし、後半で benefit の内容を説明しているので、いったん benefit そのものをとってみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;It’s often beneficial to have a passive second tester, sat with the user tester for moral support and to encourage dialogue.</seg>
       </tuv>
@@ -356,7 +360,10 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       <note>(伊原) OK
 
 (太田) 
-Theを重視するなら「テスト対象の」と補うのもありか。</note>
+Theを重視するなら「テスト対象の」と補うのもありか。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The app.</seg>
       </tuv>
@@ -3793,6 +3800,8 @@ wouldなので語尾を少しやわらかめに。
 「数セッション」はわかりますが少し違和感アリ。
 「たくさんのバラバラの紙片」あたりはヘイドンジョークとしてうまく訳したいところ。 torn-up paperは引き裂かれて破棄された (ボツになった) コンポーネントが大量にあるということを言っているのだと思います。
 少し調整してみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>After a few sessions of paper prototype testing, you should have a lot of torn-up paper and a better idea of the app you should be building.</seg>
@@ -5657,7 +5666,10 @@ segregateは隔離というより分離としたほうがしっくりくるか�
 (太田)
 ぱっと見「両者」が何を指すのかわかりにくいように思いました。
 よくよく見ると between the two parties at either end を訳したものだと思いますが、これは前の文で言っていることの繰り返しであり、なくても良いように思います。
-単に「ここに座ると」としてみました。</note>
+単に「ここに座ると」としてみました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>By sitting here, between the two parties at either end, the testers should feel less scrutinized.</seg>
       </tuv>
@@ -13611,7 +13623,9 @@ some screen readers will は「スクリーンリーダーは……ことがあ�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) このaltでは左右のおもりに異なるマークが描かれていることがわからないですね。</note>
+      <note>(太田) このaltでは左右のおもりに異なるマークが描かれていることがわからないですね。
+
+(伊原) マークの表現を追記しました。</note>
       <tuv lang="EN-US">
         <seg>On left, a smartphone with a heavy weight hung precariously over it.</seg>
       </tuv>
@@ -13620,12 +13634,14 @@ some screen readers will は「スクリーンリーダーは……ことがあ�
       </tuv>
     </tu>
     <tu>
-      <note>(岡本) 左側は、→左：　　右側は、→右：</note>
+      <note>(岡本) 左側は、→左：　　右側は、→右：
+
+(伊原) マークについて補いました。</note>
       <tuv lang="EN-US">
         <seg>On right, a person with a heavy weight hung precariously over them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T035238Z" creationid="rikiha" creationdate="20170827T154113Z">
-        <seg>右：ユーザーの上に重いおもりが不安定に吊るされている。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170831T121608Z" creationid="rikiha" creationdate="20170827T154113Z">
+        <seg>右：ユーザーの上に、バツマークが描かれた重いおもりが不安定に吊るされている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14070,7 +14086,10 @@ parityは平均化というより、ここでは等価、価値を等しくす�
     <tu>
       <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。
 
-(岡本)　コンピュータ→コンピューター</note>
+(岡本)　コンピュータ→コンピューター
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Participants sit around a table with the person playing the computer on the left and two user testers to the right.</seg>
       </tuv>
@@ -16787,7 +16806,10 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       <note>(伊原) そのままカタカナで。プロトタイプ内のレイアウトというより机の囲み方なので、そのような言い方にする？（絵を見ればわかるっちゃわかるか）。
 
 (太田)
-アプリ内のコンポーネントのレイアウトではなくて、テスト会場のレイアウトなんですね。「テストセッションの」補う?</note>
+アプリ内のコンポーネントのレイアウトではなくて、テスト会場のレイアウトなんですね。「テストセッションの」補う?
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>The Layout</seg>
       </tuv>
@@ -20061,7 +20083,10 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
     <tu>
       <note>(伊原) セットアップ➞準備としました。
 
-(太田) 準備をイメージしやすくするため→準備している様子がイメージしやすくなるように、としました。</note>
+(太田) 準備をイメージしやすくするため→準備している様子がイメージしやすくなるように、としました。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>To give you a better picture of the testing setup, here’s an annotated sketch.</seg>
       </tuv>
