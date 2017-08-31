@@ -6804,8 +6804,8 @@ HTTPステータスコードの説明いります? 訳注?</note>
       <tuv lang="EN-US">
         <seg>For example, &lt;g2&gt;alt&lt;/g2&gt; text describes images in text-only browsers or where image requests return a 403, 404, 500 or 503 status.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T083622Z" creationid="rikiha" creationdate="20170828T141626Z">
-        <seg>たとえば、&lt;g2&gt;alt&lt;/g2&gt;テキストは、テキストしか扱えないブラウザに対して画像を説明してくれますが、これは画像リクエストにHTTPステータス403、404、500、503が返された場合にも役立ちます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170831T083636Z" creationid="rikiha" creationdate="20170828T141626Z">
+        <seg>たとえば、&lt;g2&gt;alt&lt;/g2&gt;テキストは、テキストしか扱えないブラウザに対して画像を説明してくれますが、これは画像リクエストに対してステータス403、404、500、503が返された場合にも役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
