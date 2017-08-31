@@ -9427,7 +9427,9 @@ captureは「取り込む」としてみました。
     </tu>
     <tu>
       <note>(太田)
-微調整</note>
+微調整
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In fact, doing so can only reduce the quality of the product.</seg>
       </tuv>
@@ -15584,7 +15586,9 @@ The Office はイギリスのコメディドラマのようですね。
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>So, you make it inclusive.</seg>
       </tuv>
@@ -20353,7 +20357,8 @@ going to want to は「必要が出てくる」というほど強くない気が
 少し調整。
 
 (岡本)　1つだけ→ひとつだけ
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>To save money, you are going to want to make just the one interface, not a different one for each imagined user group.</seg>
       </tuv>
@@ -21436,12 +21441,15 @@ in this wayの位置づけが良くわからない。
 「インクルージョン」は「インクルーシブの考え方」とでもすべき?
 
 (岡本)
-インクルージョンは伝わらないですかねー。</note>
+インクルージョンは伝わらないですかねー。
+
+(伊原) この分節から段落がわかれているので、in this way は、前段にかかってるのではなく、後半の段落からなる「標準のものでやる」「最初からやる」みたいなことを指しているのかも。「以下のようにして」としてみました。
+インクルージョンはいままでも結構出てきているので、ひとまずママでいいかなと。</note>
       <tuv lang="EN-US">
         <seg>When inclusion is integrated into the design process in this way, it’s very little more work.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T092630Z" creationid="rikiha" creationdate="20170828T141634Z">
-        <seg>このようにしてインクルージョンをデザインプロセスに組み込めば、作業はほとんど増えません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170831T150052Z" creationid="rikiha" creationdate="20170828T141634Z">
+        <seg>以下のようにしてインクルージョンをデザインプロセスに組み込めば、作業はほとんど増えません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22225,7 +22233,8 @@ OK</note>
 ここのqualityは普通に「品質」で良いように思います。
 インクルーシビティを品質にする、と言っていますが、ここでは「品質としてとらえる」、「品質として考える」、というニュアンスに近いように思います。
 調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>You make inclusivity a &lt;g1&gt;quality&lt;/g1&gt; of the product — not an expensive additional feature.</seg>
       </tuv>
