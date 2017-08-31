@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15806,12 +15806,14 @@ iterationは試行錯誤を推したい。</note>
       <note>(太田)
 disastrousというのがなにを言いたいのかよくわからないですね。
 破綻するといっているのか、悲劇を招くといっているのか。
-いったん破滅のママで。</note>
+いったん破滅のママで。
+
+(岡本)　一握り→ひと握り</note>
       <tuv lang="EN-US">
         <seg>Targeting a so-called average user is a disastrous interface design strategy, because average users do not exist — except for the handful of people teetering on the apex of your bell curve.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T064054Z" creationid="rikiha" creationdate="20170828T141607Z">
-        <seg>いわゆる平均的ユーザーをターゲットにすることは、破滅をもたらすインターフェイスデザイン戦略です。なぜなら、平均的ユーザーというものは存在しないからです――正規分布曲線の頂点に立っているほんの一握りの人々を除いて。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170831T082835Z" creationid="rikiha" creationdate="20170828T141607Z">
+        <seg>いわゆる平均的ユーザーをターゲットにすることは、破滅をもたらすインターフェイスデザイン戦略です。なぜなら、平均的ユーザーというものは存在しないからです――正規分布曲線の頂点に立っているほんのひと握りの人々を除いて。</seg>
       </tuv>
     </tu>
     <tu>
