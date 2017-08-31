@@ -1,0 +1,13 @@
+>たとえば、<g2>alt</g2>テキストは、テキストしか扱えないブラウザに対して画像を説明してくれますが、これは画像リクエストに対してステータス403、404、500、503が返された場合にも役立ちます。
+
+訳注:
+HTTPステータスの番号は403がForbidden、404がNot Found、500がInternal Server Error、503がService Unavailableです。いずれも、期待するリソースが取得できなかったという結果になります。
+
+参考:
+Hypertext Transfer Protocol (HTTP) Status Code Registry
+http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
+
+
+
+
+
