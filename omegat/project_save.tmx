@@ -566,7 +566,9 @@ p {</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(岡本）
+      <note>※要訳注
+
+(岡本）
 太田さん、ここのコードはコメントの訳と、Heading textの訳もいただければと思います。
 
 (太田)
@@ -577,7 +579,11 @@ life is too short to type this long phrase みたいなことでしょう。
 「こんなに長い文字列を入力するには、人生はあまりに短い！」
 とかもありです。
 
-Heading textはそのまま「見出しテキスト」ですね。</note>
+Heading textはそのまま「見出しテキスト」ですね。
+
+それはそうと、aria-level はここで初出で、何も説明されていないような気がしますね。訳注かも。
+訳注入れるならついでにコメントの補足も書きますかね。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- life is too short!</seg>
       </tuv>
