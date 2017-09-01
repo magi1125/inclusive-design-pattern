@@ -422,11 +422,13 @@ by は byのままでいいかもしれません。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+前の文で「注目の商品」ではなく「目玉商品」と言っているのでそろえてみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;strong&lt;/g11&gt; &lt;g13&gt;class&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"highlight"&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g10&gt;Featured:&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;/&lt;/g19&gt;strong&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g17&gt; Naked Man In Garage Forecourt</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170901T030259Z" creationid="yoota" creationdate="20170901T025343Z">
-        <seg>&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;strong&lt;/g11&gt; &lt;g13&gt;class&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"highlight"&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g10&gt;注目の商品:&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;/&lt;/g19&gt;strong&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g17&gt; ガレージの前庭にたたずむ裸の男</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170901T030355Z" creationid="yoota" creationdate="20170901T025343Z">
+        <seg>&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;strong&lt;/g11&gt; &lt;g13&gt;class&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"highlight"&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g10&gt;目玉商品:&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;/&lt;/g19&gt;strong&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g17&gt; ガレージの前庭にたたずむ裸の男</seg>
       </tuv>
     </tu>
     <tu>
@@ -19946,8 +19948,8 @@ compelには強要する、強いるという意味があり、転じて「目�
       <tuv lang="EN-US">
         <seg>Though it’s tempting to use a higher heading level like &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; to pick out featured products, this should be avoided as it would make for a nonsensical structure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170901T025152Z" creationid="rikiha" creationdate="20170828T141732Z">
-        <seg>目玉商品を目立たせるために、&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt;などの高いレベルの見出しを使いたくなるかもれませんが、合理性のない構造になってしまいますので、避けるべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170901T030328Z" creationid="rikiha" creationdate="20170828T141732Z">
+        <seg>目玉商品を目立たせるために、&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt;などの高いレベルの見出しを使いたくなるかもれませんが、合理性のない構造になってしまいますので、避けるべきです。注目の商品</seg>
       </tuv>
     </tu>
     <tu>
