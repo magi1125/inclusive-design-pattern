@@ -5111,12 +5111,16 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(岡本)
+勧め→すすめ
+個人的には、目玉商品でもいい気がします。</note>
       <tuv lang="EN-US">
         <seg>Better to show that a product is featured or recommended using some descriptive text, highlighted with CSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170901T025303Z" creationid="rikiha" creationdate="20170828T141735Z">
-        <seg>目玉商品やお勧め商品であることを示したい場合は、CSSでハイライト表示した説明文を追加すると良いでしょう。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170901T034213Z" creationid="rikiha" creationdate="20170828T141735Z">
+        <seg>目玉商品やおすすめ商品であることを示したい場合は、CSSでハイライト表示した説明文を追加すると良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19975,8 +19979,8 @@ compelには強要する、強いるという意味があり、転じて「目�
       <tuv lang="EN-US">
         <seg>Though it’s tempting to use a higher heading level like &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; to pick out featured products, this should be avoided as it would make for a nonsensical structure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170901T030328Z" creationid="rikiha" creationdate="20170828T141732Z">
-        <seg>目玉商品を目立たせるために、&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt;などの高いレベルの見出しを使いたくなるかもれませんが、合理性のない構造になってしまいますので、避けるべきです。注目の商品</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170901T033808Z" creationid="rikiha" creationdate="20170828T141732Z">
+        <seg>目玉商品を目立たせるために、&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt;などの高いレベルの見出しを使いたくなるかもれませんが、合理性のない構造になってしまいますので、避けるべきです。</seg>
       </tuv>
     </tu>
     <tu>
