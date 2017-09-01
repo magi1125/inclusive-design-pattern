@@ -10081,7 +10081,7 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
     <tu>
       <note>(太田)
 前の箇所では「著者側のCSS」としていました。
-"with a bullet point" を「箇条書きで」は通常は良いのでしょうが、ここでは見た目がどうなるかの話をしているので「点を打つ」のような話にする必要がありそうです。
+"with a bullet point" を「箇条書きで」は通常は良いのでしょうが、ここでは見た目がどうなるかの話をしているので「点が表示される」とわかるようにする必要がありそうです。
 bullet pointはそのまま「ビュレット」と書かれる事もありますがどうするべきなのか。</note>
       <tuv lang="EN-US">
         <seg>In the absence of author CSS, the browser will display each list item with a bullet point and render the heading text in a large, bold font.</seg>
