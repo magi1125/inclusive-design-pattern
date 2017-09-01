@@ -21998,11 +21998,13 @@ Wikipediaの目次まわりはこんなマークアップでした。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+少し補いつつ調整。</note>
       <tuv lang="EN-US">
         <seg>With the &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;s in place, they can move from product to product using either the &lt;g2&gt;H&lt;/g2&gt; key (next heading) or &lt;g3&gt;3&lt;/g3&gt; (next third-level heading).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170901T030920Z" creationid="rikiha" creationdate="20170828T141748Z">
-        <seg>&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;が所定の場所にあれば、ユーザーは&lt;g2&gt;H&lt;/g2&gt;キー（次の見出し）や数字の「&lt;g3&gt;3&lt;/g3&gt;」キー（次のレベル3見出し）を使って、商品から次の商品へと次々に移動できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170901T030947Z" creationid="rikiha" creationdate="20170828T141748Z">
+        <seg>&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;が所定の場所にあれば、ユーザーは&lt;g2&gt;H&lt;/g2&gt;キー（次の見出しに飛ぶ）や数字の「&lt;g3&gt;3&lt;/g3&gt;」キー（次のレベル3見出しに飛ぶ）を使って、商品から次の商品へと次々に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
