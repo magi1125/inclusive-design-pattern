@@ -14047,12 +14047,13 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
     <tu>
       <note>(太田)
 「直接的なリストナビゲーション」要検討。
-NVDAの"I"キーによる移動は単に「1文字ナビゲーション」と呼ばれている。</note>
+NVDAの"I"キーによる移動は単に「1文字ナビゲーション」と呼ばれている。
+「リストを直接ナビゲーションする機能」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Other screen reader users might traverse the list using direct list navigation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141751Z" creationid="rikiha" creationdate="20170828T141751Z">
-        <seg>また、直接的なリストナビゲーションを使ってリスト内を移動するスクリーンリーダーユーザーもいます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170901T031149Z" creationid="rikiha" creationdate="20170828T141751Z">
+        <seg>また、リストを直接ナビゲーションする機能を使ってリスト内を移動するスクリーンリーダーユーザーもいます。</seg>
       </tuv>
     </tu>
     <tu>
