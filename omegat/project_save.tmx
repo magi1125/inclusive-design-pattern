@@ -343,6 +343,7 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Prioritize features that add value.</seg>
       </tuv>
@@ -10074,6 +10075,7 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       </tuv>
     </tu>
     <tu>
+      <note>著者側のCSS</note>
       <tuv lang="EN-US">
         <seg>In the absence of author CSS, the browser will display each list item with a bullet point and render the heading text in a large, bold font.</seg>
       </tuv>
