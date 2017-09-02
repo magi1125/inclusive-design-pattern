@@ -15549,7 +15549,9 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
     </tu>
     <tu>
       <note>(太田)
-分かりにくい感じがしたので語順など含め全体的に調整。</note>
+分かりにくい感じがしたので語順など含め全体的に調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>So far, we’ve only included text and inline elements (links) to make terse list items, but it’s perfectly acceptable to define more complex structures.</seg>
       </tuv>
@@ -20025,7 +20027,10 @@ compelには強要する、強いるという意味があり、転じて「目�
     <tu>
       <note>(太田)
 何を言っているのか。
-いったん保留。</note>
+いったん保留。
+
+(伊原) ざっくりですが「『商品リスト』と言われたら『商品がリストされるもの』とだけ思っているだろうが、まずそのリストが使われるコンテキストや、リスト項目に含まれるものをちゃんと認識するところから始めよう」……みたいなことなのかなと。
+が、意訳せずにそういう雰囲気にする案がパッと思い浮かばないので、こちらも保留。</note>
       <tuv lang="EN-US">
         <seg>Though the pattern as documented in your pattern library is likely only to define the structure of one product item, it’s important to acknowledge context and belonging first.</seg>
       </tuv>
