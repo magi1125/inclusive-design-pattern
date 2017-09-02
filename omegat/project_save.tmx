@@ -317,7 +317,9 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Design with familiarity in mind.</seg>
       </tuv>
@@ -345,7 +347,9 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Prioritize features that add value.</seg>
       </tuv>
@@ -10099,12 +10103,14 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
       <note>(太田)
 前の箇所では「著者側のCSS」としていました。
 "with a bullet point" を「箇条書きで」は通常は良いのでしょうが、ここでは見た目がどうなるかの話をしているので「点が表示される」とわかるようにする必要がありそうです。
-bullet pointはそのまま「ビュレット」と書かれる事もありますがどうするべきなのか。</note>
+bullet pointはそのまま「ビュレット」と書かれる事もありますがどうするべきなのか。
+
+(伊原) ストレートに「箇条書きの点」としてみました。</note>
       <tuv lang="EN-US">
         <seg>In the absence of author CSS, the browser will display each list item with a bullet point and render the heading text in a large, bold font.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170901T043417Z" creationid="rikiha" creationdate="20170828T141805Z">
-        <seg>著者側のCSSがない場合、ブラウザはそれぞれのリスト項目の頭にビュレットを表示し、見出しテキストを大きい太字フォントで表示します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170902T151617Z" creationid="rikiha" creationdate="20170828T141805Z">
+        <seg>著者側のCSSがない場合、ブラウザはそれぞれのリスト項目の頭に箇条書きの点を表示し、見出しテキストを大きい太字フォントで表示します。</seg>
       </tuv>
     </tu>
     <tu>
