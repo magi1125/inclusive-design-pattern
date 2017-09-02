@@ -5115,7 +5115,9 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
 
 (岡本)
 勧め→すすめ
-個人的には、目玉商品でもいい気がします。</note>
+個人的には、目玉商品でもいい気がします。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Better to show that a product is featured or recommended using some descriptive text, highlighted with CSS.</seg>
       </tuv>
@@ -15788,12 +15790,14 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) リストが落ちていたので追加。</note>
       <tuv lang="EN-US">
         <seg>Some screen reader users will explore the product list by heading.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141745Z" creationid="rikiha" creationdate="20170828T141745Z">
-        <seg>スクリーンリーダーのユーザーの中には、見出しを使って商品を見て回る人もいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170902T145655Z" creationid="rikiha" creationdate="20170828T141745Z">
+        <seg>スクリーンリーダーのユーザーの中には、見出しを使って商品リストを見て回る人もいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17584,7 +17588,9 @@ http://www.unicode.org/charts/PDF/U2600.pdf
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The highlight style makes featured items easy to identify visually while scanning and the “Featured” text provides the information non-visually to assistive technologies.</seg>
       </tuv>
@@ -20004,7 +20010,8 @@ compelには強要する、強いるという意味があり、転じて「目�
 日本のECで「目玉商品」というラベルはあまり見ない気がします。楽天市場の商品名には【超目玉商品】などとついているものもありますが……。
 変えるならソースコード中も含めて全部変更。
 
-(伊原) オススメ商品、注目商品とかは見かける気がします。絞り込みでも「オススメ順」とかになってたりしますし（そしてソートとは関係ない、出し手が売り込みたいものが先頭に2つぐらい出てくる。これを最初にやりだしたのはヤフオクの「注目のオークション」だったような……）。</note>
+(伊原) 「注目の商品」とかは見かける気がします。たいていソートとは関係ない、出し手が売り込みたいものが先頭に2つぐらい出てくるという。これを最初にやりだしたのはヤフオクの「注目のオークション」だったような……。
+でも、目玉商品でも伝わるには伝わるかなと。</note>
       <tuv lang="EN-US">
         <seg>Though it’s tempting to use a higher heading level like &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; to pick out featured products, this should be avoided as it would make for a nonsensical structure.</seg>
       </tuv>
@@ -22061,12 +22068,14 @@ Wikipediaの目次まわりはこんなマークアップでした。
     </tu>
     <tu>
       <note>(太田)
-少し補いつつ調整。</note>
+少し補いつつ調整。
+
+(伊原) 「商品から次の商品へと次々に」で若干カブりを感じたので、「次の」を取ってみました。</note>
       <tuv lang="EN-US">
         <seg>With the &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;s in place, they can move from product to product using either the &lt;g2&gt;H&lt;/g2&gt; key (next heading) or &lt;g3&gt;3&lt;/g3&gt; (next third-level heading).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170901T030947Z" creationid="rikiha" creationdate="20170828T141748Z">
-        <seg>&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;が所定の場所にあれば、ユーザーは&lt;g2&gt;H&lt;/g2&gt;キー（次の見出しに飛ぶ）や数字の「&lt;g3&gt;3&lt;/g3&gt;」キー（次のレベル3見出しに飛ぶ）を使って、商品から次の商品へと次々に移動できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170902T145823Z" creationid="rikiha" creationdate="20170828T141748Z">
+        <seg>&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;が所定の場所にあれば、ユーザーは&lt;g2&gt;H&lt;/g2&gt;キー（次の見出しに飛ぶ）や数字の「&lt;g3&gt;3&lt;/g3&gt;」キー（次のレベル3見出しに飛ぶ）を使って、商品から商品へと次々に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
