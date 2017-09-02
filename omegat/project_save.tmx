@@ -7163,7 +7163,7 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
 (太田)
 NVDAでも同じキーで同じ操作ができます。訳注?
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For instance, JAWS offers the &lt;g4&gt;I&lt;/g4&gt; (for &lt;g5&gt;item&lt;/g5&gt;) shortcut key to move from one list item to the next.</seg>
       </tuv>
@@ -14085,12 +14085,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       <note>(太田)
 「直接的なリストナビゲーション」要検討。
 NVDAの"I"キーによる移動は単に「1文字ナビゲーション」と呼ばれている。
-「リストを直接ナビゲーションする機能」としてみました。</note>
+「リストを直接ナビゲーションする機能」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Other screen reader users might traverse the list using direct list navigation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170901T031220Z" creationid="rikiha" creationdate="20170828T141751Z">
-        <seg>また、リストに直接ナビゲーションする機能を使うスクリーンリーダーユーザーもいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170902T145902Z" creationid="rikiha" creationdate="20170828T141751Z">
+        <seg>また、リストを直接ナビゲーションする機能を使うスクリーンリーダーユーザーもいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22070,12 +22072,12 @@ Wikipediaの目次まわりはこんなマークアップでした。
       <note>(太田)
 少し補いつつ調整。
 
-(伊原) 「商品から次の商品へと次々に」で若干カブりを感じたので、「次の」を取ってみました。</note>
+(伊原) 「商品から次の商品へと次々に」で若干カブりを感じたので、あとのリスト項目移動時の表現と揃えてみました。</note>
       <tuv lang="EN-US">
         <seg>With the &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;s in place, they can move from product to product using either the &lt;g2&gt;H&lt;/g2&gt; key (next heading) or &lt;g3&gt;3&lt;/g3&gt; (next third-level heading).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170902T145823Z" creationid="rikiha" creationdate="20170828T141748Z">
-        <seg>&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;が所定の場所にあれば、ユーザーは&lt;g2&gt;H&lt;/g2&gt;キー（次の見出しに飛ぶ）や数字の「&lt;g3&gt;3&lt;/g3&gt;」キー（次のレベル3見出しに飛ぶ）を使って、商品から商品へと次々に移動できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170902T150000Z" creationid="rikiha" creationdate="20170828T141748Z">
+        <seg>&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;が所定の場所にあれば、ユーザーは&lt;g2&gt;H&lt;/g2&gt;キー（次の見出しに飛ぶ）や数字の「&lt;g3&gt;3&lt;/g3&gt;」キー（次のレベル3見出しに飛ぶ）を使って、ある商品から次の商品へと移動できます。</seg>
       </tuv>
     </tu>
     <tu>
