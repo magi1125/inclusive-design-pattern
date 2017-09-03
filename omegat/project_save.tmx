@@ -10105,7 +10105,8 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
 "with a bullet point" を「箇条書きで」は通常は良いのでしょうが、ここでは見た目がどうなるかの話をしているので「点が表示される」とわかるようにする必要がありそうです。
 bullet pointはそのまま「ビュレット」と書かれる事もありますがどうするべきなのか。
 
-(伊原) ストレートに「箇条書きの点」としてみました。</note>
+(伊原) ストレートに「箇条書きの点」としてみました。
+著者側、改めて見るとちょっと違和感ありますね。サイト制作者側、とかのほうがいいのかも。</note>
       <tuv lang="EN-US">
         <seg>In the absence of author CSS, the browser will display each list item with a bullet point and render the heading text in a large, bold font.</seg>
       </tuv>
@@ -18410,7 +18411,7 @@ be transported は受動態のままではなく能動態に変えて訳すか�
 ユーザースタイルシートは基本的に著者側のスタイルを上書きするだけなので、ユーザースタイルシートがあるからと言ってブラウザデフォルトのスタイルに戻るわけでもなく、ここではあまり関係ないような気もしますがどうなのですかね。
 まあスルーでいいか。
 
-(伊原) 訳OK。確かにそうですね。ユーザースタイルで上書きされたら視覚的な構造は明確で無くなる可能性もあるような…w</note>
+(伊原) 訳OK。確かにそうですね。ユーザースタイルで上書きされたら視覚的な構造は明確で無くなる可能性もあるような…w 太田さんのコメントをそのまま訳注にしたほうがいいかも。</note>
       <tuv lang="EN-US">
         <seg>The visual structure is therefore clear, even where CSS is (temporarily or permanently) unavailable or overriden with a user syle sheet.</seg>
       </tuv>
