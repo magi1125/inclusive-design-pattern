@@ -2139,6 +2139,8 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>VoiceOverでは「きゅうじゅっセンチメートルかけるさんじゅっセンチメートル」
+NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さんじゅっセンチメートル」</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;“90cm × 30cm” is written using the correct (multiplication) Unicode character, so that “Thirty C M &lt;g2&gt;times&lt;/g2&gt; ninety C M” is announced in screen readers.</seg>
       </tuv>
