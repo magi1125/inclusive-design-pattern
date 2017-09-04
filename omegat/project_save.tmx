@@ -2017,7 +2017,7 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
     <tu>
       <note>(太田)
 いったん「著者側のCSS」反映。
-視覚的な階層が→視覚的に階層が、としました</note>
+視覚的な階層が→視覚的に階層が、としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;User agents style definition lists by indenting the &lt;g2&gt;&lt;dd&gt;&lt;/g2&gt; elements, meaning a visual hierarchy is present in the absence of author CSS.</seg>
       </tuv>
@@ -2149,8 +2149,8 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;“90cm × 30cm” is written using the correct (multiplication) Unicode character, so that “Thirty C M &lt;g2&gt;times&lt;/g2&gt; ninety C M” is announced in screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141918Z" creationid="rikiha" creationdate="20170828T141918Z">
-        <seg>•「90cm × 30cm」は正しいUnicode文字（乗算記号）を使って書かれているので、スクリーンリーダーでは「＃＃Thirty CM times ninety CM＃＃」と読み上げられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T064946Z" creationid="rikiha" creationdate="20170828T141918Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;「90cm × 30cm」は正しいUnicode文字（乗算記号）を使って書かれているので、スクリーンリーダーでは「＃＃Thirty CM times ninety CM＃＃」と読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
