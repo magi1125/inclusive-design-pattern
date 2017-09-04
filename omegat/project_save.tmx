@@ -8696,12 +8696,13 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     </tu>
     <tu>
       <note>(太田)
-強調thatどうするか。
 「提示」がわかりにくかったのでpresent は表現としてみました (2分節あとにも出てきます)。
 
-それはそれとして、この文の言っていることがイマイチわからないです。
+強調thatどうするか。
+そもそもこの文の言っていることがイマイチわからない感。
  the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location とは?
-ここまでの話では商品リストには
+ここまでの例には全く登場していないけれども、同一サイト内にはこれとは別に「プリント写真の商品リスト」が存在し、そこにも同一の見出しがつくという話をしているのではないか。
+
 </note>
       <tuv lang="EN-US">
         <seg>If the user were to follow the link inside the heading to the photographer’s own page, the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location should be similarly marked up and presented.</seg>
