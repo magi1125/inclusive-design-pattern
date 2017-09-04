@@ -1523,12 +1523,14 @@ http://www.w3.org/TR/wai-aria-1.1/#definition
 
 (岡本)
 分かり→わかり
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Like an unordered list (&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;), the definitions list (&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;) has its items enumerated by screen readers so users know how many to expect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170904T084901Z" creationid="rikiha" creationdate="20170828T141915Z">
-        <seg>•番号なしリスト（&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;）と同様、定義リスト（&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;）はスクリーンリーダーが項目を数え上げるので、ユーザーは項目がいくつあるかわかります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170904T141314Z" creationid="rikiha" creationdate="20170828T141915Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;番号なしリスト（&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;）と同様、定義リスト（&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;）はスクリーンリーダーが項目を数え上げるので、ユーザーは項目がいくつあるかわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2621,7 +2623,9 @@ Price:　→価格：</note>
     </tu>
     <tu>
       <note>(太田)
-本文中で「評価」としているのでそろえました。</note>
+本文中で「評価」としているのでそろえました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;&lt;/g71&gt;dt&lt;/g70&gt;&lt;g72&gt;&gt;&lt;/g72&gt;&lt;/g69&gt;Rating:&lt;g73&gt;&lt;g74&gt;&lt;g75&gt;&lt;/&lt;/g75&gt;dt&lt;/g74&gt;&lt;g76&gt;&gt;&lt;/g76&gt;&lt;/g73&gt;</seg>
       </tuv>
@@ -2678,9 +2682,12 @@ Price:　→価格：</note>
     </tu>
     <tu>
       <note>(岡本)
-4 out of 5 stars →　5つ星のうち 4</note>
+4 out of 5 stars →　5つ星のうち4</note>
       <tuv lang="EN-US">
         <seg>&lt;g77&gt;&lt;g78&gt;&lt;g79&gt;&lt;&lt;/g79&gt;dd&lt;/g78&gt;&lt;g80&gt;&gt;&lt;/g80&gt;&lt;/g77&gt;&lt;g81&gt;&lt;g82&gt;&lt;g83&gt;&lt;&lt;/g83&gt;img&lt;/g82&gt; &lt;g84&gt;src&lt;/g84&gt;&lt;g85&gt;&lt;g86&gt;=&lt;/g86&gt;"/images/rating_4_5.svg"&lt;/g85&gt; &lt;g87&gt;alt&lt;/g87&gt;&lt;g88&gt;&lt;g89&gt;=&lt;/g89&gt;""&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g81&gt;4 out of 5 stars&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;/&lt;/g93&gt;dd&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170904T141232Z">
+        <seg>&lt;g77&gt;&lt;g78&gt;&lt;g79&gt;&lt;&lt;/g79&gt;dd&lt;/g78&gt;&lt;g80&gt;&gt;&lt;/g80&gt;&lt;/g77&gt;&lt;g81&gt;&lt;g82&gt;&lt;g83&gt;&lt;&lt;/g83&gt;img&lt;/g82&gt; &lt;g84&gt;src&lt;/g84&gt;&lt;g85&gt;&lt;g86&gt;=&lt;/g86&gt;"/images/rating_4_5.svg"&lt;/g85&gt; &lt;g87&gt;alt&lt;/g87&gt;&lt;g88&gt;&lt;g89&gt;=&lt;/g89&gt;""&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g81&gt;5つ星のうち 4&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;/&lt;/g93&gt;dd&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21859,7 +21866,9 @@ iPhoneのVoiceOverで試してみましたが、dlは特に読みませんでし
 なおulであれば「リストの開始位置です」と読み上げます。
 NVDAは「リスト6項目」ですね。
 
-この結果からするとこの文自体の意味が通じないのですが、どうしますかね?</note>
+この結果からするとこの文自体の意味が通じないのですが、どうしますかね?
+
+(伊原) MacのVoiceOverだとDescription</note>
       <tuv lang="EN-US">
         <seg>When first encountered, screen readers like VoiceOver will announce “Definition list,” letting users know that they should expect key/value pairs.</seg>
       </tuv>
