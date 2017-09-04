@@ -1491,6 +1491,12 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
     </tu>
     <tu>
+      <note>※要訳注
+
+(太田)
+一部のスクリーンリーダーはdtとddの合計を項目数として読むので、その旨を訳注として追加する必要があります。
+
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Like an unordered list (&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;), the definitions list (&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;) has its items enumerated by screen readers so users know how many to expect.</seg>
       </tuv>
