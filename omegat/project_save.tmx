@@ -2015,11 +2015,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+いったん「著者側のCSS」反映。
+視覚的な階層が→視覚的に階層が、としました</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;User agents style definition lists by indenting the &lt;g2&gt;&lt;dd&gt;&lt;/g2&gt; elements, meaning a visual hierarchy is present in the absence of author CSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170904T064406Z" creationid="rikiha" creationdate="20170828T141917Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;ユーザーエージェントのスタイル定義は、&lt;g2&gt;&lt;dd&gt;&lt;/g2&gt;要素をインデントしてリスト化します。つまり、オーサーCSSがない場合は視覚的な階層が示されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T064920Z" creationid="rikiha" creationdate="20170828T141917Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ユーザーエージェントのスタイル定義は、&lt;g2&gt;&lt;dd&gt;&lt;/g2&gt;要素をインデントしてリスト化します。つまり、著者側のCSSがない場合は視覚的に階層が示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2139,7 +2142,8 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>VoiceOverでは「きゅうじゅっセンチメートルかけるさんじゅっセンチメートル」
+      <note>(太田)
+VoiceOverでは「きゅうじゅっセンチメートルかけるさんじゅっセンチメートル」
 NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さんじゅっセンチメートル」、ただし一文字ずつ読み上げさせると「かける」と読みます。
 </note>
       <tuv lang="EN-US">
