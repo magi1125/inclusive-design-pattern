@@ -2302,6 +2302,16 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+Size:　→サイズ：</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g37&gt;&lt;g38&gt;&lt;g39&gt;&lt;&lt;/g39&gt;dt&lt;/g38&gt;&lt;g40&gt;&gt;&lt;/g40&gt;&lt;/g37&gt;Size:&lt;g41&gt;&lt;g42&gt;&lt;g43&gt;&lt;/&lt;/g43&gt;dt&lt;/g42&gt;&lt;g44&gt;&gt;&lt;/g44&gt;&lt;/g41&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170904T083134Z" creationid="okamoto_jun" creationdate="20170904T083134Z">
+        <seg>&lt;g37&gt;&lt;g38&gt;&lt;g39&gt;&lt;&lt;/g39&gt;dt&lt;/g38&gt;&lt;g40&gt;&gt;&lt;/g40&gt;&lt;/g37&gt;サイズ：&lt;g41&gt;&lt;g42&gt;&lt;g43&gt;&lt;/&lt;/g43&gt;dt&lt;/g42&gt;&lt;g44&gt;&gt;&lt;/g44&gt;&lt;/g41&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ここも訳す感じで。「アイコンの幅」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g37&gt;text-indent&lt;/g37&gt;&lt;g38&gt;:&lt;/g38&gt; 1em&lt;g39&gt;;&lt;/g39&gt; &lt;g40&gt;/* the width of the icon */&lt;/g40&gt;
@@ -2463,6 +2473,16 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+Price:　→価格：</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g53&gt;&lt;g54&gt;&lt;g55&gt;&lt;&lt;/g55&gt;dt&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g53&gt;Price:&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;dt&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170904T083005Z" creationid="okamoto_jun" creationdate="20170904T083005Z">
+        <seg>&lt;g53&gt;&lt;g54&gt;&lt;g55&gt;&lt;&lt;/g55&gt;dt&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g53&gt;価格：&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;dt&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g53&gt;&lt;g54&gt;&lt;g55&gt;&lt;&lt;/g55&gt;h1&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g53&gt;How To Mark Up Inclusive Blog Articles&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;h1&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;</seg>
       </tuv>
@@ -2513,7 +2533,6 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
     </tu>
     <tu>
       <note>(岡本)
-Price:　→価格：
 €35.95　→　35.95ユーロ</note>
       <tuv lang="EN-US">
         <seg>&lt;g61&gt;&lt;g62&gt;&lt;g63&gt;&lt;&lt;/g63&gt;dd&lt;/g62&gt;&lt;g64&gt;&gt;&lt;/g64&gt;&lt;/g61&gt;€35.95&lt;g65&gt;&lt;g66&gt;&lt;g67&gt;&lt;/&lt;/g67&gt;dd&lt;/g66&gt;&lt;g68&gt;&gt;&lt;/g68&gt;&lt;/g65&gt;</seg>
