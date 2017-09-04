@@ -2000,13 +2000,13 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
     <tu>
       <note>(太田)
 ここのcontextは文脈の意味ですので文脈としました。
-
+全体的に調整。
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;To be more precise, the “Size” label should arguably be “Dimensions.” However, size is a simpler and more widely understood word and concept which — practically speaking, given the context — means the same thing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170904T095816Z" creationid="rikiha" creationdate="20170828T141934Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;より正確な表記にするには、「サイズ」のラベルは「寸法」とすべきかもしれません。しかし、サイズの方がシンプルで広く理解されている言葉であり――この文脈では、実際のところ――同じ意味になります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T100709Z" creationid="rikiha" creationdate="20170828T141934Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;より正確な表記にするには、「サイズ」のラベルは「寸法」とすべきかもしれません。しかし、サイズの方がシンプルで広く理解されている言葉であり――実際のところ、この文脈では――同じ意味になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4924,8 +4924,8 @@ JS中の初期化処理で
       <tuv lang="EN-US">
         <seg>Ashley Bischoff’s presentation, “&lt;g2&gt;&lt;g3&gt;Embracing Plain Language for Better Accessibility&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;” offers some excellent advice on substituting the pretentious and robotic for the simple and human when choosing words.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170904T084700Z" creationid="rikiha" creationdate="20170828T141946Z">
-        <seg>アシュリー・ビショフ（Ashley Bischoff）のプレゼンテーション「Embracing Plain Language for Better Accessibility」（脚注138）では、言葉選びについてすばらしいアドバイスをしています。言葉を選ぶ際は、大げさでロボットのような言葉の代わりに、シンプルで人間らしい言葉を選ぶようすすめています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T100731Z" creationid="rikiha" creationdate="20170828T141946Z">
+        <seg>アシュリー・ビショフ（Ashley Bischoff）のプレゼンテーション「&lt;g2&gt;&lt;g3&gt;Embracing Plain Language for Better Accessibility&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注138）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;」では、言葉選びについてすばらしいアドバイスをしています。言葉を選ぶ際は、大げさでロボットのような言葉の代わりに、シンプルで人間らしい言葉を選ぶようすすめています。</seg>
       </tuv>
     </tu>
     <tu>
