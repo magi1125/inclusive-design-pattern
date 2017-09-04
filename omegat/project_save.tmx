@@ -1499,7 +1499,7 @@ NVDAはdlに差し掛かるとdtとddの合計を項目数として「リスト6
 これはおそらくdtとddが両方ともrole="listitem"とみなされていることが原因だと思います。
 なお ARIA in HTML では dd のroleを role=definition としています。
 http://www.w3.org/TR/html-aria/
-
+http://www.w3.org/TR/wai-aria-1.1/#definition
 ちなみにJAWSはなんかちゃんと読むらしいという噂を聞いたことがあります。
 </note>
       <tuv lang="EN-US">
