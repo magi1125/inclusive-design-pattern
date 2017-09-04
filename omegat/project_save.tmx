@@ -8697,7 +8697,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     <tu>
       <note>(太田)
 強調thatどうするか。
-ここの present は表現としてみました。
+「提示」がわかりにくかったのでpresent は表現としてみました (2分節あとにも出てきます)。
+
 </note>
       <tuv lang="EN-US">
         <seg>If the user were to follow the link inside the heading to the photographer’s own page, the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location should be similarly marked up and presented.</seg>
@@ -14024,11 +14025,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+提示→表現としました。
+labeled はそのまま「ラベル」としました。</note>
       <tuv lang="EN-US">
         <seg>One way to help users find their way around a site is to be consistent in how elements of the site are presented and labeled, which doesn’t mean that the site must be boring with no variation or texture.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141819Z" creationid="rikiha" creationdate="20170828T141819Z">
-        <seg>ユーザーがサイト内を見て回りやすくする1つの方法は、サイトの要素の提示方法と分類方法に一貫性を持たせることです。これは、変化やテクスチャが乏しい退屈なサイトにしろという意味ではありません」</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T031724Z" creationid="rikiha" creationdate="20170828T141819Z">
+        <seg>ユーザーがサイト内を見て回りやすくする1つの方法は、サイトの要素の表現方法とラベルに一貫性を持たせることです。これは、変化やテクスチャが乏しい退屈なサイトにしろという意味ではありません」</seg>
       </tuv>
     </tu>
     <tu>
@@ -22862,11 +22866,13 @@ http://postd.cc/nobody-wants-use-your-product/
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+提示→表現としました。</note>
       <tuv lang="EN-US">
         <seg>“Present things that are the same in the same way.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141816Z" creationid="rikiha" creationdate="20170828T141816Z">
-        <seg>「同じものは同じように提示してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T031459Z" creationid="rikiha" creationdate="20170828T141816Z">
+        <seg>「同じものは同じように表現してください。</seg>
       </tuv>
     </tu>
     <tu>
