@@ -18425,14 +18425,15 @@ be transported は受動態のままではなく能動態に変えて訳すか�
     </tu>
     <tu>
       <note>(太田) OK
-customer rating は「顧客の評価」でいいかどうか。
+customer rating は「顧客の評価」でいいかどうか。顧客と言われてもわかりにくいような。
 カスタマーレビューの星的なやつだとは思いますが。
+いったん「他のユーザーの評価」としてみました。
 </note>
       <tuv lang="EN-US">
         <seg>The user will no doubt be interested in information such as size, price and customer rating.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141902Z" creationid="rikiha" creationdate="20170828T141902Z">
-        <seg>ユーザーはきっと、サイズや価格、顧客の評価といった情報に興味を持つでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T034557Z" creationid="rikiha" creationdate="20170828T141902Z">
+        <seg>ユーザーはきっと、サイズや価格、他のユーザーの評価といった情報に興味を持つでしょう。</seg>
       </tuv>
     </tu>
     <tu>
