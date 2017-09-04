@@ -2064,8 +2064,8 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;We’re using the well-established convention of displaying stars to denote the customer rating.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141927Z" creationid="rikiha" creationdate="20170828T141927Z">
-        <seg>•顧客の評価には、星印で示すという定着した方法を用いています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T065723Z" creationid="rikiha" creationdate="20170828T141927Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;顧客の評価には、星印で示すという定着した方法を用いています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13233,7 +13233,7 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
 この読みは普通に「エックス」ですね。
 視覚的にも不明瞭、というのはフォントによっては乗算記号に見えないという話ですね。特にセリフだとひげが強くつくので、どう見てもかけるではなくエックスという見た目になります。
 意訳になりますが「乗算記号に見えない」としてみました。
-
+serif fontは前で「セリフ書体」としていたので合わせました。
 </note>
       <tuv lang="EN-US">
         <seg>Not only would it be announced as “ex,” but it would also be visually unclear — especially when rendered with a serif font.</seg>
