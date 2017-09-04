@@ -802,6 +802,14 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;Art directed, creative product photography&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;9&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; may be evocative, but increases &lt;g6&gt;&lt;g7&gt;cognitive load&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;10&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; for users, forcing them to try to unpick exactly what form the product takes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T102036Z" creationid="yoota" creationdate="20170904T102036Z">
+        <seg>アートディレクションされた独創的な商品写真（脚注139）は刺激的かもしれませんが、ユーザーの認知的負荷（脚注140）が高くなり、商品の正確な形態を読み解くことを強いられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 微調整。</note>
       <tuv lang="EN-US">
@@ -4822,6 +4830,14 @@ JS中の初期化処理で
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T201439Z" creationid="yoota" creationdate="20170501T112742Z">
         <seg>そのため、ユーザー体験をダイレクトに向上させることができるツールにのみ紙面を割いていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As such, it should show the product in its entirety, unobscured and with no distracting artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T102000Z" creationid="yoota" creationdate="20170904T102000Z">
+        <seg>そのため、サムネイルには商品全体が明確に、目障りなアーティファクトなしで示されている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11163,6 +11179,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It should be the preserve of the product’s permalink page, if at all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T102040Z" creationid="yoota" creationdate="20170904T102040Z">
+        <seg>そういった写真を使うのなら、商品のパーマリンクページに留めるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 名前(name)で示されるのはコンテンツ制作者の意図というより、その要素が何なのか、ユーザーにとってどう使えるのかという話ですから、「意図」より「目的」とするほうが良いように思います。「使用目的」?
 must ではなく should なので「べき」としました。
 
@@ -15371,6 +15395,14 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Similar products (such as red and yellow versions of the same T-shirt design) should be presented the same way, from the same angle, denoting equivalency.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T102004Z" creationid="yoota" creationdate="20170904T102004Z">
+        <seg>似たような商品（デザインが同じTシャツの緑と青のバージョンなど）は、同じ方法で提示します。同じアングルから、同等に表示してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 スクリーンリーダーユーザーでも上から下に順に読むならグロナビと目次を区別できるであろうという話。
 少し調整しました。
@@ -17821,6 +17853,7 @@ http://www.unicode.org/charts/PDF/U2600.pdf
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>The intimate relationship between images and advertising hardly needs restating here.</seg>
       </tuv>
