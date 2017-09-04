@@ -3604,11 +3604,13 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+null は「空」としました。</note>
       <tuv lang="EN-US">
         <seg>A null &lt;g2&gt;alt&lt;/g2&gt; value (&lt;g3&gt;alt=""&lt;/g3&gt;) omits the image from screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141933Z" creationid="rikiha" creationdate="20170828T141933Z">
-        <seg>alt属性の値がnull（alt=""）だと、スクリーンリーダーは画像を無視します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T074251Z" creationid="rikiha" creationdate="20170828T141933Z">
+        <seg>&lt;g2&gt;alt&lt;/g2&gt;属性の値が空（alt=""）だと、スクリーンリーダーは画像を無視します。</seg>
       </tuv>
     </tu>
     <tu>
