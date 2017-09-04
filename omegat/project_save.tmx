@@ -1496,7 +1496,8 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
 (太田)
 訳はOK。
 NVDAはdlに差し掛かるとdtとddの合計を項目数として「リスト6項目」と読むので、その旨を訳注として追加する必要があります。
-これはおそらくdtとddがどちらもARIA的にはrole="listitem"でしかないということが原因だと思います。
+これはおそらくdtとddが両方ともrole="listitem"とみなされていることが原因だと思います。
+なお ARIA in HTML では dd のroleを role=definition としています。
 http://www.w3.org/TR/html-aria/
 
 ちなみにJAWSはなんかちゃんと読むらしいという噂を聞いたことがあります。
