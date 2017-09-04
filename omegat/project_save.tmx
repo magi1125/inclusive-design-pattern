@@ -4833,11 +4833,13 @@ JS中の初期化処理で
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+アーティファクト!</note>
       <tuv lang="EN-US">
         <seg>As such, it should show the product in its entirety, unobscured and with no distracting artifacts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170904T102000Z" creationid="yoota" creationdate="20170904T102000Z">
-        <seg>そのため、サムネイルには商品全体が明確に、目障りなアーティファクトなしで示されている必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T102834Z" creationid="yoota" creationdate="20170904T102000Z">
+        <seg>そのため、サムネイルには商品全体が、明確に、目障りなアーティファクトなしで示されている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18200,8 +18202,8 @@ canonicalどうするか。正規の画像としてみました。</note>
       <tuv lang="EN-US">
         <seg>The product thumbnail is essentially the &lt;g1&gt;canonical&lt;/g1&gt; image of the product.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170904T102714Z" creationid="yoota" creationdate="20170904T101945Z">
-        <seg>商品のサムネイルは基本的に、その商品の&lt;g1&gt;正規の&lt;/g1&gt;画像です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T102723Z" creationid="yoota" creationdate="20170904T101945Z">
+        <seg>商品のサムネイルは基本的に、その商品の&lt;g1&gt;正規の&lt;/g1&gt;画像となります。</seg>
       </tuv>
     </tu>
     <tu>
