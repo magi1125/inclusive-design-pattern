@@ -21650,12 +21650,13 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
 iPhoneのVoiceOverで試してみましたが、dlは特に読みませんでした。
 なおulであれば「リストの開始位置です」と読み上げます。
 NVDAは「リスト6項目」ですね。
-</note>
+
+この結果からするとこの文自体の意味が通じないのですが、どうしますかね?</note>
       <tuv lang="EN-US">
         <seg>When first encountered, screen readers like VoiceOver will announce “Definition list,” letting users know that they should expect key/value pairs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141916Z" creationid="rikiha" creationdate="20170828T141916Z">
-        <seg>最初に出くわすと、VoiceOverなどのスクリーンリーダーは「＃＃Definition list＃＃」と読み上げ、その後にキーと値のペアが続くことをユーザーに知らせます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T070951Z" creationid="rikiha" creationdate="20170828T141916Z">
+        <seg>最初に出くわすと、VoiceOverなどのスクリーンリーダーは「リスト」と読み上げ、その後にキーと値のペアが続くことをユーザーに知らせます。</seg>
       </tuv>
     </tu>
     <tu>
