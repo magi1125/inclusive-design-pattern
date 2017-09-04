@@ -259,8 +259,8 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Give users choice.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141758Z" creationid="rikiha" creationdate="20170828T141758Z">
-        <seg>1.ユーザーに選択肢を与える。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170904T131741Z" creationid="rikiha" creationdate="20170828T141758Z">
+        <seg>1.&lt;/g1&gt;&lt;g2&gt;ユーザーに選択肢を与える。&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -323,8 +323,8 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Design with familiarity in mind.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141803Z" creationid="rikiha" creationdate="20170828T141803Z">
-        <seg>3.なじみやすさを念頭に置いてデザインする。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170904T131750Z" creationid="rikiha" creationdate="20170828T141803Z">
+        <seg>&lt;/g1&gt;3.なじみやすさを念頭に置いてデザインする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -353,8 +353,8 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Prioritize features that add value.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141804Z" creationid="rikiha" creationdate="20170828T141804Z">
-        <seg>4.価値を付加する機能を優先する。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170904T131804Z" creationid="rikiha" creationdate="20170828T141804Z">
+        <seg>&lt;/g1&gt;4.価値を付加する機能を優先する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,8 +374,8 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Put users in control.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170902T151153Z" creationid="rikiha" creationdate="20170828T141801Z">
-        <seg>2.ユーザーが調整できるようにする。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170904T131746Z" creationid="rikiha" creationdate="20170828T141801Z">
+        <seg>&lt;/g1&gt;2.ユーザーが調整できるようにする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8838,12 +8838,15 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 
 という解釈でいいのかどうか。
 いいとしてどうするか。
-いったん保留。</note>
+いったん保留。
+
+(伊原) おそらくその解釈であっていると思います。epubを見るとここで段落が分かれているので、つけたしとして一貫性の話をしたかったんだろうなと。
+if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらしいので、そんな風にしてみました。</note>
       <tuv lang="EN-US">
         <seg>If the user were to follow the link inside the heading to the photographer’s own page, the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location should be similarly marked up and presented.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170904T031252Z" creationid="rikiha" creationdate="20170828T141813Z">
-        <seg>ユーザーが見出し内のリンクから写真家のページへ移動できるようにする場合は、&lt;g1&gt;その&lt;/g1&gt;場所にリストされている写真プリントも同じようにマークアップして表現すべきです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170904T134035Z" creationid="rikiha" creationdate="20170828T141813Z">
+        <seg>ユーザーが見出し内の写真家ページへのリンクをたどるのなら、&lt;g1&gt;その&lt;/g1&gt;ページに並んでいる写真プリントも同じようなマークアップで表現すべきです。</seg>
       </tuv>
     </tu>
     <tu>
