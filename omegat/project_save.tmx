@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20384,6 +20384,13 @@ in general は use にかかっているようにも見えますね。「ボタ�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170526T164330Z">
         <seg>セクション/サブセクション構造を示す、ネストされた3つのボックス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+altの訳お願いしますー。</note>
+      <tuv lang="EN-US">
+        <seg>Three of the same T-shirt in different colors.</seg>
       </tuv>
     </tu>
     <tu>
