@@ -4947,12 +4947,14 @@ JS中の初期化処理で
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>As “&lt;g2&gt;&lt;g3&gt;A Web For Everyone&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;7&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;” implores:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141815Z" creationid="rikiha" creationdate="20170828T141815Z">
-        <seg>「A Web For Everyone」（脚注137）では次のように求めています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170904T134054Z" creationid="rikiha" creationdate="20170828T141815Z">
+        <seg>&lt;g2&gt;&lt;g3&gt;「A Web For Everyone」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注137）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;では次のように求めています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12141,7 +12143,9 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
       <note>(太田)
 Keyは重要でいいのか。
 キーとなる情報?
-いったん保留。</note>
+いったん保留。
+
+(伊原) サイズ、値段、レートなので「判断のカギとなる情報」みたいな感じっぽいです。</note>
       <tuv lang="EN-US">
         <seg>Key Information</seg>
       </tuv>
@@ -14198,7 +14202,8 @@ textureをテクスチャと書かれても良くわからない気がします�
 
 (岡本)
 1つ→ひとつ
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>One way to help users find their way around a site is to be consistent in how elements of the site are presented and labeled, which doesn’t mean that the site must be boring with no variation or texture.”</seg>
       </tuv>
@@ -15795,7 +15800,8 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
     </tu>
     <tu>
       <note>(太田) OK
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>So far, our product only has a title.</seg>
       </tuv>
@@ -18643,7 +18649,8 @@ be transported は受動態のままではなく能動態に変えて訳すか�
 customer rating は「顧客の評価」でいいかどうか。顧客と言われてもわかりにくいような。
 カスタマーレビューの星的なやつだとは思いますが。
 いったん「他のユーザーの評価」としてみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The user will no doubt be interested in information such as size, price and customer rating.</seg>
       </tuv>
@@ -23130,7 +23137,9 @@ http://postd.cc/nobody-wants-use-your-product/
     </tu>
     <tu>
       <note>(太田)
-提示→表現としました。</note>
+提示→表現としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>“Present things that are the same in the same way.</seg>
       </tuv>
