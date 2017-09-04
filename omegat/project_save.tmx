@@ -3353,6 +3353,8 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+andの強調をどうするか。</note>
       <tuv lang="EN-US">
         <seg>A description of the rating in place of the image &lt;g4&gt;and&lt;/g4&gt; next to the image would mean a tedious duplication for screen reader users.</seg>
       </tuv>
@@ -3612,8 +3614,8 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       <tuv lang="EN-US">
         <seg>A null &lt;g2&gt;alt&lt;/g2&gt; value (&lt;g3&gt;alt=""&lt;/g3&gt;) omits the image from screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170904T074413Z" creationid="rikiha" creationdate="20170828T141933Z">
-        <seg>&lt;g2&gt;alt&lt;/g2&gt;属性の値が空（&lt;g3&gt;alt=""&lt;/g3&gt;）だと、スクリーンリーダーは画像の読み上げを省略します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T074430Z" creationid="rikiha" creationdate="20170828T141933Z">
+        <seg>&lt;g2&gt;alt&lt;/g2&gt;属性の値を空（&lt;g3&gt;alt=""&lt;/g3&gt;）にする、スクリーンリーダーは画像の読み上げを省略します。</seg>
       </tuv>
     </tu>
     <tu>
