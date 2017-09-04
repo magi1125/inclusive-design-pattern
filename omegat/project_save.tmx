@@ -1494,8 +1494,8 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Like an unordered list (&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;), the definitions list (&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;) has its items enumerated by screen readers so users know how many to expect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141915Z" creationid="rikiha" creationdate="20170828T141915Z">
-        <seg>•番号なしリスト（&lt;ul&gt;）と同様、定義リスト（&lt;dl&gt;）はスクリーンリーダーが項目を数え上げるので、ユーザーは項目がいくつあるか分かります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T035037Z" creationid="rikiha" creationdate="20170828T141915Z">
+        <seg>•番号なしリスト（&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;）と同様、定義リスト（&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;）はスクリーンリーダーが項目を数え上げるので、ユーザーは項目がいくつあるか分かります。</seg>
       </tuv>
     </tu>
     <tu>
