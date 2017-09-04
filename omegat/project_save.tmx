@@ -1496,7 +1496,8 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
 (太田)
 訳はOK。
 NVDAはdlに差し掛かるとdtとddの合計を項目数として「リスト6項目」と読むので、その旨を訳注として追加する必要があります。
-
+(これはおそらくdtとddがどちらもARIA的にはrole="listitem"でしかないということが原因だと思います。)
+ちなみにJAWSはなんかちゃんと読むらしいという噂を聞いたことがあります。
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Like an unordered list (&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;), the definitions list (&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;) has its items enumerated by screen readers so users know how many to expect.</seg>
