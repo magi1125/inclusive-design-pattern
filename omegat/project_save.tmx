@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21264,12 +21264,15 @@ divに小細工するのではなく既存のbutton要素を使う、という�
 定義リスト警察。
 「重要な情報」いったん保留。
 
+(岡本)
+付け→づけ　1箇所→一箇所？（とりあえず）
+
 </note>
       <tuv lang="EN-US">
         <seg>We can group and label these key pieces of information clearly, using a definition list:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141903Z" creationid="rikiha" creationdate="20170828T141903Z">
-        <seg>定義リストを使用して、こうした個々の重要な情報を1箇所にまとめ、明確にラベル付けすることができます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170904T082724Z" creationid="rikiha" creationdate="20170828T141903Z">
+        <seg>定義リストを使用して、こうした個々の重要な情報を一箇所にまとめ、明確にラベルづけすることができます。</seg>
       </tuv>
     </tu>
     <tu>
