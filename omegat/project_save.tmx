@@ -2142,10 +2142,12 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※要訳注
+
+(太田)
 VoiceOverでは「きゅうじゅっセンチメートルかけるさんじゅっセンチメートル」
 NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さんじゅっセンチメートル」、ただし一文字ずつ読み上げさせると「かける」と読みます。
-</note>
+スクリーンリーダーの設定等に依存する旨を訳注ですかね。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;“90cm × 30cm” is written using the correct (multiplication) Unicode character, so that “Thirty C M &lt;g2&gt;times&lt;/g2&gt; ninety C M” is announced in screen readers.</seg>
       </tuv>
