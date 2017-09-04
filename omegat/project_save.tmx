@@ -20081,16 +20081,12 @@ compelには強要する、強いるという意味があり、転じて「目�
 (伊原) ざっくりですが「『商品リスト』と言われたら『商品がリストされるもの』とだけ思っているだろうが、まずそのリストが使われるコンテキストや、リスト項目に含まれるものをちゃんと認識するところから始めよう」……みたいなことなのかなと。
 が、意訳せずにそういう雰囲気にする案がパッと思い浮かばないので、こちらも保留。
 
-(太田)
-何度も読み返してなんとなく見えてきました。
-ここはおそらく、「テンプレは1商品で作るだろうからリストと思わないかもしれないが、文脈を考えると複数並ぶべきなんだからリストを使うべき」という話です。たぶん。
-調整してみました。
-</note>
+(太田)</note>
       <tuv lang="EN-US">
         <seg>Though the pattern as documented in your pattern library is likely only to define the structure of one product item, it’s important to acknowledge context and belonging first.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170904T025616Z" creationid="rikiha" creationdate="20170828T141700Z">
-        <seg>パターンライブラリのドキュメントに記述されているパターンは、商品の項目が1つだけしか入っていない構造で定義されているかもしれませんが、まずはコンテキストおよび付属するものを認識することが重要です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T025704Z" creationid="rikiha" creationdate="20170828T141700Z">
+        <seg>パターンライブラリのドキュメントに記述されているパターンは、商品の項目1つだけしか入っていない構造で定義されているかもしれませんが、まずはコンテキストおよび付属するものを認識することが重要です。</seg>
       </tuv>
     </tu>
     <tu>
