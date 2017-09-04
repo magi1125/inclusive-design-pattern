@@ -8702,8 +8702,10 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 そもそもこの文の言っていることがイマイチわからない感。
  the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location とは?
 ここまでの例には全く登場していないけれども、同一サイト内にはこれとは別に「プリント写真の商品リスト」が存在するはずで、もしそこにも同一の見出しがつくなら、という話をしているのではないかと思います。
+
 という解釈でいいのかどうか。
-いいとしてどうするか。</note>
+いいとしてどうするか。
+いったん保留。</note>
       <tuv lang="EN-US">
         <seg>If the user were to follow the link inside the heading to the photographer’s own page, the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location should be similarly marked up and presented.</seg>
       </tuv>
