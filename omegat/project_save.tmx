@@ -8695,12 +8695,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     </tu>
     <tu>
       <note>(太田)
-強調thatどうするか。</note>
+強調thatどうするか。
+ここの present は表現としてみました。
+</note>
       <tuv lang="EN-US">
         <seg>If the user were to follow the link inside the heading to the photographer’s own page, the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location should be similarly marked up and presented.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170904T031137Z" creationid="rikiha" creationdate="20170828T141813Z">
-        <seg>ユーザーが見出し内のリンクから写真家のページへ移動できるようにする場合は、&lt;g1&gt;その&lt;/g1&gt;場所にリストされている写真プリントも同じようにマークアップし、提示すべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T031252Z" creationid="rikiha" creationdate="20170828T141813Z">
+        <seg>ユーザーが見出し内のリンクから写真家のページへ移動できるようにする場合は、&lt;g1&gt;その&lt;/g1&gt;場所にリストされている写真プリントも同じようにマークアップして表現すべきです。</seg>
       </tuv>
     </tu>
     <tu>
