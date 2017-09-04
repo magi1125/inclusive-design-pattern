@@ -2590,6 +2590,16 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+本文中で「評価」としているのでそろえました。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;&lt;/g71&gt;dt&lt;/g70&gt;&lt;g72&gt;&gt;&lt;/g72&gt;&lt;/g69&gt;Rating:&lt;g73&gt;&lt;g74&gt;&lt;g75&gt;&lt;/&lt;/g75&gt;dt&lt;/g74&gt;&lt;g76&gt;&gt;&lt;/g76&gt;&lt;/g73&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170904T094636Z" creationid="yoota" creationdate="20170904T094636Z">
+        <seg>&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;&lt;/g71&gt;dt&lt;/g70&gt;&lt;g72&gt;&gt;&lt;/g72&gt;&lt;/g69&gt;評価:&lt;g73&gt;&lt;g74&gt;&lt;g75&gt;&lt;/&lt;/g75&gt;dt&lt;/g74&gt;&lt;g76&gt;&gt;&lt;/g76&gt;&lt;/g73&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g6&gt;&lt;!-- first article’s content here --&gt;&lt;/g6&gt;
 &lt;g7&gt;&lt;g8&gt;&lt;g9&gt;&lt;/&lt;/g9&gt;article&lt;/g8&gt;&lt;g10&gt;&gt;&lt;/g10&gt;&lt;/g7&gt;
