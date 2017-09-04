@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1501,12 +1501,15 @@ NVDAはdlに差し掛かるとdtとddの合計を項目数として「リスト6
 http://www.w3.org/TR/html-aria/
 http://www.w3.org/TR/wai-aria-1.1/#definition
 ちなみにJAWSはなんかちゃんと読むらしいという噂を聞いたことがあります。
+
+(岡本)
+分かり→わかり
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Like an unordered list (&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;), the definitions list (&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;) has its items enumerated by screen readers so users know how many to expect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170904T035037Z" creationid="rikiha" creationdate="20170828T141915Z">
-        <seg>•番号なしリスト（&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;）と同様、定義リスト（&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;）はスクリーンリーダーが項目を数え上げるので、ユーザーは項目がいくつあるか分かります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170904T084901Z" creationid="rikiha" creationdate="20170828T141915Z">
+        <seg>•番号なしリスト（&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;）と同様、定義リスト（&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;）はスクリーンリーダーが項目を数え上げるので、ユーザーは項目がいくつあるかわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4899,11 +4902,14 @@ JS中の初期化処理で
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+素晴らしい→すばらしい
+勧め→すすめ</note>
       <tuv lang="EN-US">
         <seg>Ashley Bischoff’s presentation, “&lt;g2&gt;&lt;g3&gt;Embracing Plain Language for Better Accessibility&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;” offers some excellent advice on substituting the pretentious and robotic for the simple and human when choosing words.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170828T141946Z" creationid="rikiha" creationdate="20170828T141946Z">
-        <seg>アシュリー・ビショフ（Ashley Bischoff）のプレゼンテーション「Embracing Plain Language for Better Accessibility」（脚注138）では、言葉選びについて素晴らしいアドバイスをしています。言葉を選ぶ際は、大げさでロボットのような言葉の代わりに、シンプルで人間らしい言葉を選ぶよう勧めています。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170904T084700Z" creationid="rikiha" creationdate="20170828T141946Z">
+        <seg>アシュリー・ビショフ（Ashley Bischoff）のプレゼンテーション「Embracing Plain Language for Better Accessibility」（脚注138）では、言葉選びについてすばらしいアドバイスをしています。言葉を選ぶ際は、大げさでロボットのような言葉の代わりに、シンプルで人間らしい言葉を選ぶようすすめています。</seg>
       </tuv>
     </tu>
     <tu>
