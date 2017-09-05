@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21318,7 +21318,7 @@ shouldなので「しなければならない」は強すぎるかもしれな�
 
 (太田)
 explicitlyを訳出したいかも。「明示的に」としました。
-「一見すると直観に反している」はもう少し何とかしたい。そもそも代替テキストを空にすることが「直感に反している」というのはどうもよくわからない気がします。ここでは「もしかすると意外だったかもしれない」くらいのニュアンスでしょうか。
+「一見すると直観に反している」はもう少し何とかしたい。そもそも代替テキストを空にすることが「一見、直感に反している」というのはどうもよくわからない気がします。ここでは「もしかすると意外だったかもしれない」くらいのニュアンスでしょうか。
 </note>
       <tuv lang="EN-US">
         <seg>To avoid duplication in the last example, the correct answer was — perhaps counterintuitively at first glance — explicitly &lt;g3&gt;no&lt;/g3&gt; alternative text.</seg>
