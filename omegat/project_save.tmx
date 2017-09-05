@@ -11164,7 +11164,9 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
-      <note>「＄＄A Menu Button＄＄」→7章「メニューボタン」
+      <note>(太田)
+「＄＄A Menu Button＄＄」→7章「メニューボタン」
+
 </note>
       <tuv lang="EN-US">
         <seg>In “A Menu Button” we looked at the many ways to render the simple, three-lined navicon.</seg>
@@ -14807,8 +14809,8 @@ aria-labelledbyがあるとそっちが優先だったり、細かいルール�
       <tuv lang="EN-US">
         <seg>One of the advantages of using SVG is that its file size can be extremely small, especially when using repeated geometric shapes like rectangles, by way of the &lt;g1&gt;&lt;rect&gt;&lt;/g1&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T003642Z" creationid="rikiha" creationdate="20170905T003642Z">
-        <seg>SVGを使用する利点の1つは、特に矩形（&lt;rect&gt;要素）などの繰り返される幾何学形状を使った場合に、ファイルサイズが非常に小さくなることです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T095650Z" creationid="rikiha" creationdate="20170905T003642Z">
+        <seg>SVGを使用する利点の1つは、特に矩形（&lt;g1&gt;&lt;rect&gt;&lt;/g1&gt;要素）などの繰り返される幾何学形状を使った場合に、ファイルサイズが非常に小さくなることです。</seg>
       </tuv>
     </tu>
     <tu>
