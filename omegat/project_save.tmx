@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -302,8 +302,8 @@ tailorは単に「合わせる」というよりももう少し細やかな調�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;The &lt;g3&gt;&lt;picture&gt;&lt;/g3&gt; element:&lt;/g2&gt; This allows you to tailor images to viewports.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T105931Z" creationid="rikiha" creationdate="20170905T003725Z">
-        <seg>&lt;/g1&gt;&lt;g2&gt;&lt;picture&gt;&lt;/g3&gt;要素：画像をビューポートに合わせて調整ことができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T105950Z" creationid="rikiha" creationdate="20170905T003725Z">
+        <seg>&lt;/g1&gt;&lt;g2&gt;&lt;picture&gt;&lt;/g3&gt;要素：画像をビューポートに合わせて調整することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16348,11 +16348,15 @@ the button is really a better fit. が何を言っているのか正直良くわ
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ちょっとニュアンスが違うかも。
+ネットワークの種類に合わせて調整できるのではなく、ビューポートに合わせて調整できるという話です。
+</note>
       <tuv lang="EN-US">
         <seg>Since smaller viewports are more likely to be used with mobile devices and networks, you can benefit from prescribing physically smaller — therefore less weighty and costly — images.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T003727Z" creationid="rikiha" creationdate="20170905T003727Z">
-        <seg>モバイルデバイスやモバイルネットワークでは小さいビューポートが使われることが多いので、物理的に小さい画像（軽くて費用もかからない）を指定すると有効です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T110142Z" creationid="rikiha" creationdate="20170905T003727Z">
+        <seg>小さいビューポートは、モバイルデバイスやモバイルネットワークで使われていることが多いので、物理的に小さい画像――軽くて費用もかからないもの――を指定すると良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
