@@ -240,7 +240,9 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
     <tu>
       <note>(太田)
 「他のことはともかく」は「何はともあれ」くらいにしたいですね。
-少し調整。</note>
+少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Compression:&lt;/g2&gt; If you do nothing else, make sure your images are compressed.</seg>
       </tuv>
@@ -288,12 +290,14 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
     <tu>
       <note>(太田)
 訳はOK。
-ただ、このあたりの話はヘイドンさんの「JS無効の場合でも読めるほうがインクルーシブ」という主張とは相容れない気がします。訳注?</note>
+ただ、このあたりの話はヘイドンさんの「JS無効の場合でも読めるほうがインクルーシブ」という主張とは相容れない気がします。訳注?
+
+(伊原) 見ることになるまで➞見えるようになるまで としました. 訳注ですね。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Lazy loading:&lt;/g2&gt; There’s no need to load images unless they are to be seen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T105033Z" creationid="rikiha" creationdate="20170905T003709Z">
-        <seg>&lt;/g1&gt;&lt;g2&gt;遅延読み込み&lt;/g2&gt;：画像は見ることになるまで読み込む必要はありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T152359Z" creationid="rikiha" creationdate="20170905T003709Z">
+        <seg>&lt;/g1&gt;&lt;g2&gt;遅延読み込み&lt;/g2&gt;：画像は、見えるようになるまで読み込む必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6529,7 +6533,9 @@ http://qiita.com/Hexa/items/c3d864bc4ac5be0c9d2b を見ると昔はそういう�
     </tu>
     <tu>
       <note>(太田)
-少し調整。長くも無いので原文どおり一文にしました。</note>
+少し調整。長くも無いので原文どおり一文にしました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Compressing images needn’t be the arduous, manual task it once was, now that we can make use of automation tools like &lt;g3&gt;&lt;g4&gt;ImageOptim&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;13&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
@@ -20316,7 +20322,9 @@ aspirations は「願望」?
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This book is not the place to discuss the ins and outs of handling image assets for performance but, briefly, let’s consider some important techniques.</seg>
       </tuv>
