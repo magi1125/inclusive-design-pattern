@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4300,6 +4300,12 @@ listenは「監視」としてみました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+inclusive and exclusiveどうするか。
+単に排他的と訳すと対になっている感が出ない問題。
+元訳のようにする?
+
+</note>
       <tuv lang="EN-US">
         <seg>Always including &lt;g1&gt;alt&lt;/g1&gt; text is one of the first lessons we learn when embarking on accessible interface design, but it’s precisely &lt;g2&gt;what&lt;/g2&gt; text we include that makes the difference between accessible and inaccessible, inclusive and exclusive.</seg>
       </tuv>
