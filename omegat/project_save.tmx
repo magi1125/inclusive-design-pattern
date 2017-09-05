@@ -21558,12 +21558,13 @@ explicitlyを訳出したいかも。「明示的に」としました。
       <note>(太田)
 元訳は誤訳です。chargesをchangesに空目したというあるあるですね。
 調整してみました。
-</note>
+
+(伊原) もともと予算が少なくギガが減りきってしまった状態の回線を使うしかない、あるいは巨額なローミング料が掛かってしまうため（現地の）低質な回線を使うしかないケース、ということなのかなと。なのでそのような感じになるようにちょっと調整しました。</note>
       <tuv lang="EN-US">
         <seg>To be inclusive of those on poor networks, with smaller budgets or being subject to huge roaming charges, we need to mitigate the impact that loading all of these images is likely to have.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T104443Z" creationid="rikiha" creationdate="20170905T003701Z">
-        <seg>予算が少ない、あるいは巨額のローミング料金をかかえるような低質な回線を利用しているユーザーにとってもインクルーシブなサイトにするには、大量の画像を全て読み込むことによる影響を軽減する必要があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T151855Z" creationid="rikiha" creationdate="20170905T003701Z">
+        <seg>回線に掛ける予算が少ない、あるいは巨額のローミング料金を課されるがゆえに低質な回線を利用するユーザーにとってもインクルーシブなサイトにするには、大量の画像を全て読み込むことによる影響を軽減する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
