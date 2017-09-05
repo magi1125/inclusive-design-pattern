@@ -18092,14 +18092,17 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
     </tu>
     <tu>
       <note>(太田)
-いやー難しい。
-ここの「画像のタイトル」は商品の見出しを指します。タイトルというといろいろ混乱するので見出しとしてしまいたい。
-</note>
+いろいろな意味で難しいですね。
+ここの「画像のタイトル」はおそらく写真の見出し「ガソリンスタンドにたたずむ裸の男」を指します。タイトルというといろいろ混乱するので見出しとしてしまいたいですね。
+
+https://www.w3.org/WAI/tutorials/images/informative/#images-conveying-an-impression-or-emotion
+
+https://www.w3.org/WAI/tutorials/images/complex/#description-containing-textual-information</note>
       <tuv lang="EN-US">
         <seg>The answer is: it can, if we provide information which isn’t already in the image’s title.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T082230Z" creationid="rikiha" creationdate="20170905T033403Z">
-        <seg>答えは、「商品の見出しで既に提供されている以外の情報を提供するなら、意味を提供できることになる」です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T082738Z" creationid="rikiha" creationdate="20170905T033403Z">
+        <seg>答えは、「見出しで既に提供されている以外の情報を提供するなら、意味を提供できることになる」です。</seg>
       </tuv>
     </tu>
     <tu>
