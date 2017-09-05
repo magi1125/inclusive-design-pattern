@@ -7802,11 +7802,13 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+文中にコード出現。原文の雰囲気に沿って調整しましたが文の外に出すべきなのかも。とはいえここはリストの中なので、外に出す処理は難しいかもしれません。</note>
       <tuv lang="EN-US">
         <seg>For our product list, each image’s markup might look like &lt;g6&gt;&lt;img src="dummy.jpg" data-src="/images/naked-forecourt-man.jpg" width="400" height="300"&gt;&lt;/g6&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T003722Z" creationid="rikiha" creationdate="20170905T003722Z">
-        <seg>今回の商品リストの場合、各画像のマークアップはだいたい以下のようになります。&lt;img src="dummy.jpg" width="400" height="300" data-src="/images/naked-forecourt-man.jpg"&gt;</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T105805Z" creationid="rikiha" creationdate="20170905T003722Z">
+        <seg>今回の商品リストの場合、各画像のマークアップは &lt;g6&gt;&lt;img src="dummy.jpg" width="400" height="300" data-src="/images/naked-forecourt-man.jpg"&gt;&lt;/g6&gt; のようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19745,8 +19747,8 @@ JAWS日本語版では「ページ内リンク」らしいです。
       <tuv lang="EN-US">
         <seg>There are a number of scripts and plugins available, each working by replacing a dummy &lt;g4&gt;src&lt;/g4&gt; value with a real one contained in a &lt;g5&gt;data-&lt;/g5&gt; attribute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T105619Z" creationid="rikiha" creationdate="20170905T003720Z">
-        <seg>利用できるスクリプトやプラグインがいくつもありますが、いずれも、あらかじめダミーの&lt;g4&gt;src&lt;/g4&gt;の値を指定しておき、それを&lt;g5&gt;data-&lt;/g5&gt;属性に指定した本当の画像のパスに置き換えるという動作をします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T105642Z" creationid="rikiha" creationdate="20170905T003720Z">
+        <seg>利用できるスクリプトやプラグインがいくつもありますが、いずれも、あらかじめダミーの&lt;g4&gt;src&lt;/g4&gt;値を指定しておき、それを&lt;g5&gt;data-&lt;/g5&gt;属性に指定した本当の画像のパスに置き換えるという動作をします。</seg>
       </tuv>
     </tu>
     <tu>
