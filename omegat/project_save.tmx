@@ -5263,6 +5263,14 @@ thoughをどう扱うか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Aware that the design of &lt;g1&gt;alt&lt;/g1&gt; text — like the design of anything else — should be informed by context, the WAI (Web Accessibility Initiative) offers the &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;alt&lt;/g4&gt; decision tree&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;11&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T031322Z" creationid="yoota" creationdate="20170905T031322Z">
+        <seg>altテキストのデザインには、他のあらゆるもののデザインと同様、コンテキストからの情報が必要で、WAI（Web Accessibility Initiative）はaltの決定木（ディシジョンツリー）を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 上で「ショット」→「フレーム」としたのでこちらも「フレーム」に。
 
@@ -21269,6 +21277,14 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T125713Z" creationid="yoota" creationdate="20170424T061836Z">
         <seg>インクルーシブデザインを実現するためには、デザイナーは世話役に徹し、提供するコンテンツの表示やインタラクションをユーザーが設定することを許すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To avoid duplication in the last example, the correct answer was — perhaps counterintuitively at first glance — explicitly &lt;g3&gt;no&lt;/g3&gt; alternative text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T031329Z" creationid="yoota" creationdate="20170905T031316Z">
+        <seg>前の例では、繰り返しを避けるために、一見すると直観に反しているかもしれませんが、代替テキストは&lt;g3&gt;なし&lt;/g3&gt;というのが正解でした。</seg>
       </tuv>
     </tu>
     <tu>
