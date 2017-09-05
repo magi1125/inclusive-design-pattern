@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4308,12 +4308,14 @@ inclusive and exclusiveどうするか。
 (岡本)
 1つ→ひとつ
 
-(伊原) 一文が長いので分けました。エクスクルーシブは括弧書きにする感じだと思います。</note>
+(伊原) 一文が長いので分けました。エクスクルーシブは括弧書きにする感じだと思います。
+
+(太田) altを含める、というのがどうもしっくり来ないので調整。</note>
       <tuv lang="EN-US">
         <seg>Always including &lt;g1&gt;alt&lt;/g1&gt; text is one of the first lessons we learn when embarking on accessible interface design, but it’s precisely &lt;g2&gt;what&lt;/g2&gt; text we include that makes the difference between accessible and inaccessible, inclusive and exclusive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T042916Z" creationid="yoota" creationdate="20170905T031110Z">
-        <seg>常に&lt;g1&gt;alt&lt;/g1&gt;テキストを含めるというのは、アクセシブルなインターフェイスデザインに取り組み始めたときに最初の学ぶことのひとつです。それが&lt;g2&gt;どんな&lt;/g2&gt;テキストであるかが、アクセシブルと非アクセシブル、インクルーシブとエクスクルーシブ（排他的）の違いを生みます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T073333Z" creationid="yoota" creationdate="20170905T031110Z">
+        <seg>常に&lt;g1&gt;alt&lt;/g1&gt;テキストを指定するというのは、アクセシブルなインターフェイスデザインに取り組み始めたときに最初の学ぶことのひとつです。それが&lt;g2&gt;どんな&lt;/g2&gt;テキストであるかが、アクセシブルと非アクセシブル、インクルーシブとエクスクルーシブ（排他的）の違いを生みます。</seg>
       </tuv>
     </tu>
     <tu>
