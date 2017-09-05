@@ -18095,13 +18095,18 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
 いろいろな意味で難しいですね。
 ここの「画像のタイトル」はおそらく写真の見出し「ガソリンスタンドにたたずむ裸の男」を指します。単にタイトルというといろいろ混乱するので「商品のタイトル」としてしまいたいです。
 
-なお実際にAlt Decision Treeで見ていくと、以下のどちらかになると思います。
+なお実際にAlt Decision Treeで見ていくと、以下になると思います。
 
 Example 4: Images conveying an impression or emotion
 https://www.w3.org/WAI/tutorials/images/informative/#images-conveying-an-impression-or-emotion
 
+もっとも個人的にはこの例では以下のようなアプローチを取りたいと思いますけども。
+
 Example 2: Description containing textual information
-https://www.w3.org/WAI/tutorials/images/complex/#description-containing-textual-information</note>
+https://www.w3.org/WAI/tutorials/images/complex/#description-containing-textual-information
+
+この例でaltに入れようとしている情報は、画像が見える人にも有益だからです。
+</note>
       <tuv lang="EN-US">
         <seg>The answer is: it can, if we provide information which isn’t already in the image’s title.</seg>
       </tuv>
