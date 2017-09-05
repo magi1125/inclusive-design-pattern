@@ -4883,6 +4883,8 @@ lay, makeはいずれも命令系で使われているので、「すべき」�
 
 (太田)
 user訳出。
+次の文を読むと「見ることができます」というより「見ることになります」という感じかもしれません。
+
 Safariでは画像オフで代替テキストが見られなかったはず。
 2014年版のAS情報ではChrome25とSafari6が対応していませんでした。
 http://waic.jp/docs/as/info/201406/H37-1.html
@@ -4897,8 +4899,8 @@ http://waic.jp/docs/as/info/201406/H37-1.html
       <tuv lang="EN-US">
         <seg>As a user on a slow network who has turned off images, or they’ve failed to load, the alternative text is visible to me.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T095239Z" creationid="rikiha" creationdate="20170905T003635Z">
-        <seg>ネットワークの速度が遅いので画像をオフにしているユーザーや、画像の読み込みに失敗した場合も、この代替テキストを見ることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T095339Z" creationid="rikiha" creationdate="20170905T003635Z">
+        <seg>ネットワークの速度が遅いので画像をオフにしているユーザーや、画像の読み込みに失敗した場合も、この代替テキストを見ることになります。</seg>
       </tuv>
     </tu>
     <tu>
