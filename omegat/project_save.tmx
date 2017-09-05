@@ -4369,7 +4369,9 @@ inclusive and exclusiveどうするか。
 
 (伊原) 一文が長いので分けました。エクスクルーシブは括弧書きにする感じだと思います。
 
-(太田) altを含める、というのがどうもしっくり来ないので調整。</note>
+(太田) altを含める、というのがどうもしっくり来ないので調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Always including &lt;g1&gt;alt&lt;/g1&gt; text is one of the first lessons we learn when embarking on accessible interface design, but it’s precisely &lt;g2&gt;what&lt;/g2&gt; text we include that makes the difference between accessible and inaccessible, inclusive and exclusive.</seg>
       </tuv>
@@ -5353,7 +5355,7 @@ decision treeはいったん決定木としました。決定ツリーとかで�
 決定木わかりにくいかもですね。
 リンク先タイトルが An alt Decision Tree なので英語のままでもいいのかもしれません。「An alt Decision Tree という文書」としてみました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Aware that the design of &lt;g1&gt;alt&lt;/g1&gt; text — like the design of anything else — should be informed by context, the WAI (Web Accessibility Initiative) offers the &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;alt&lt;/g4&gt; decision tree&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;11&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
@@ -7833,7 +7835,8 @@ An alt Decision Tree のフローで
 となり、次に
 問3: Does the image contribute meaning to the current page or context?
 に答える必要があるという話です。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For our thumbnail, which does not contain text or describe an action, we have to ask: “Does the image contribute meaning to the current page or context?”</seg>
       </tuv>
@@ -18250,7 +18253,7 @@ https://www.w3.org/WAI/tutorials/images/complex/#description-containing-textual-
 
 この例でaltに入れようとしている情報は、画像が見える人にとっても有益な商品情報となるため、画像が見える人から隠す必要がないと考えます。
 
-</note>
+(伊原) OK. 上記コメントは訳注でしょうか。</note>
       <tuv lang="EN-US">
         <seg>The answer is: it can, if we provide information which isn’t already in the image’s title.</seg>
       </tuv>
@@ -21503,7 +21506,8 @@ shouldなので「しなければならない」は強すぎるかもしれな�
 (太田)
 explicitlyを訳出したいかも。「明示的に」としました。
 「一見すると直観に反している」はもう少し何とかしたい。そもそも代替テキストを空にすることが「一見、直感に反している」というのはどうもよくわからない気がします。ここでは「もしかすると意外だったかもしれない」くらいのニュアンスでしょうか。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>To avoid duplication in the last example, the correct answer was — perhaps counterintuitively at first glance — explicitly &lt;g3&gt;no&lt;/g3&gt; alternative text.</seg>
       </tuv>
