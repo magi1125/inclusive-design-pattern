@@ -1168,6 +1168,14 @@ JISではbypass block を「ブロックスキップ」としています。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Another way that &lt;g2&gt;&lt;button&gt;&lt;/g2&gt;s are differentiated from links is that they don’t have a &lt;g3&gt;pointer&lt;/g3&gt; cursor style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004230Z" creationid="rikiha" creationdate="20170905T004230Z">
+        <seg>•&lt;button&gt;はpointerカーソルスタイルを持たないこともリンクと区別される点の1つです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文は一文なので一文にしました。distinctは識別できるというより区別できるという感じでしょうか。
 
 (伊原) LGTM</note>
@@ -1429,6 +1437,22 @@ forego は「先に行く」のような感じですが、他動詞として使�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T095358Z" creationid="yoota" creationdate="20170523T095358Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;ブログ記事のマークアップ方法 ～シンプルな7つのステップで～</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;I have qualified the &lt;g2&gt;.call-to-action&lt;/g2&gt; class with the element name &lt;g3&gt;a&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004220Z" creationid="rikiha" creationdate="20170905T004220Z">
+        <seg>•.call-to-actionクラスをaという要素名に限定しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;I highly recommend that, although each of these elements are treated differently, they share a common color — a color which denotes the shared &lt;g2&gt;interactive&lt;/g2&gt; quality of the three elements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004218Z" creationid="rikiha" creationdate="20170905T004218Z">
+        <seg>•これらの要素はそれぞれ異なる扱われ方をしますが、同じ色を使うことを強くお勧めします。3つの要素に共通する、インタラクティブという性質を示す色です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3781,6 +3805,14 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A second pitfall can be laid out much more succinctly: if the behavior is to link, use a link’s behavior to do it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004234Z" creationid="rikiha" creationdate="20170905T004234Z">
+        <seg>2つ目の落とし穴の説明はもっと簡潔です。動作がリンクの場合は、リンクの動作を使ってそれを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
@@ -5681,6 +5713,14 @@ composeは作成でいいのか。あとで検討。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Buttons versus &lt;g1&gt;Buttons&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004154Z" creationid="rikiha" creationdate="20170905T004154Z">
+        <seg>ボタンと&lt;BUTTON&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 学びました、は居ない気が。
 
 (太田)
@@ -6002,6 +6042,14 @@ rely on には「信頼できる」までの意味はないかも (認知心理�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By using &lt;g6&gt;.call-to-action&lt;/g6&gt; on a &lt;g7&gt;&lt;button&gt;&lt;/g7&gt;, or an inaccessibly interactive &lt;g8&gt;&lt;div&gt;&lt;/g8&gt; element, the style will not be invoked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004224Z" creationid="rikiha" creationdate="20170905T004224Z">
+        <seg>&lt;button&gt;またはアクセシブルではないインタラクティブな&lt;div&gt;要素に.call-to-actionを使用しても、スタイルは呼び出されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Basic Latin Unicode blockは「Unicodeの基本ラテン文字のブロック」としました。
 your web font は「独自の」ではないかもしれません。
 roll backは「引き下げる」のような意味で、ここでは「限定する」くらいでしょうか。
@@ -6167,6 +6215,14 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170905T003650Z" creationid="rikiha" creationdate="20170905T003650Z">
         <seg>メニューから［Show throttling］を選び、［Regular 3G］を選択します（最も遅いまたは速い接続ではありません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Client-side JavaScript frameworks especially have a habit of supplanting standard link behavior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004236Z" creationid="rikiha" creationdate="20170905T004236Z">
+        <seg>特にクライアント側のJavaScriptフレームワークは、標準のリンク動作を置き換える傾向があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6491,6 +6547,14 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Despite so-called “Buy Now” buttons having the appearance of a button, their behavior links to a resource — they are hyperlinks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004156Z" creationid="rikiha" creationdate="20170905T004156Z">
+        <seg>いわゆる「今すぐ購入」ボタンは、見た目はボタンですが、その動作はリソースにリンクしています。つまりハイパーリンクです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 深さ→階層の深さ、と補いました。
 
 (伊原) LGTM</note>
@@ -6718,6 +6782,14 @@ draw onは経験を活かすような意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Embrace Standard Behavior</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004233Z" creationid="rikiha" creationdate="20170905T004233Z">
+        <seg>標準の動作を利用する</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 括弧は原文にありませんし不要かと。
 例によってヘイドンさんがこの図で何を伝えたいのか良く分かりません。</note>
       <tuv lang="EN-US">
@@ -6795,6 +6867,14 @@ Essentially, this means you can employ implicitly responsive text without the ne
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T082141Z" creationid="yoota" creationdate="20170511T100701Z">
         <seg>とはいえ、リンクにフォーカス状態を示すスタイルが適用されていなければ、ユーザーには現在どの要素がフォーカスされているのかわかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even so, there are some pitfalls to avoid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004154Z" creationid="rikiha" creationdate="20170905T004154Z">
+        <seg>とは言え、避けるべき落とし穴がいくつかあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7597,6 +7677,14 @@ For thatは「その実現」としてみました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170601T172708Z" creationid="rikiha" creationdate="20170601T172708Z">
         <seg>インクルーシブデザインでは、テキストにある程度の自律性が求められる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the sake of easy cognition, if links should be blue, so should buttons: blue comes to mean clickable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004219Z" creationid="rikiha" creationdate="20170905T004219Z">
+        <seg>認識しやすくするために、リンクが青であれば、ボタンも青にします。これで青はクリックできると分かります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8531,6 +8619,14 @@ imagine と might で二重に推定している形ですが、むしろ何故�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I suggest you maintain a separate call-to-action style for links which has more visual purchase than a standard link but which does not resemble a button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004208Z" creationid="rikiha" creationdate="20170905T004208Z">
+        <seg>これは標準のリンクよりも視覚的な手掛かりが多いですが、ボタンのようには見えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注あり
 
 (伊原) 語順など調整。
@@ -9443,6 +9539,14 @@ friendly competition を切磋琢磨とするのは、ここではあまりし�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170830T053706Z" creationid="rikiha" creationdate="20170827T120029Z">
         <seg>大規模なチームでは、最善案を模索するための建設的な競争から、コラボレーション効果が生まれることもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a noble attempt to create a more accessible experience, this leads some developers to mistakenly provide the &lt;g1&gt;role="button"&lt;/g1&gt; attribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004159Z" creationid="rikiha" creationdate="20170905T004159Z">
+        <seg>よりアクセシブルな体験を作り出そうとして、role="button"属性を使うというミスをする開発者がいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10531,6 +10635,14 @@ if supported は SVG ではなく &lt;use&gt; にくっついているのでは�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In the excellent article “&lt;g9&gt;&lt;g10&gt;How Our CSS Framework Helps Enforce Accessibility&lt;/g10&gt;&lt;/g9&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;14&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;,” Ian McBurnie details a number of similar provisions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004228Z" creationid="rikiha" creationdate="20170905T004228Z">
+        <seg>イアン・マクバーニー（Ian McBurnie）は「How Our CSS Framework Helps Enforce Accessibility」（脚注145）という素晴らしい記事の中で、いくつかの同様の対策について詳しく説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (岡本）キャプションでもありますね。下の方でキャプションを和訳していただいているようなので、これもお願いできればと思います。ただ、これまでキャプションとaltについては不徹底なので、初稿出たら改めて見直す必要があるかも。
@@ -10764,6 +10876,14 @@ becauseを訳出しました。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In “&lt;g4&gt;&lt;g5&gt;Buttons shouldn’t have a hand cursor&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;15&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;,” Adam Silver explains why manually adding &lt;g9&gt;cursor: pointer&lt;/g9&gt; to &lt;g10&gt;&lt;button&gt;&lt;/g10&gt; elements is a usability mistake.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004231Z" creationid="rikiha" creationdate="20170905T004231Z">
+        <seg>アダム・シルバー（Adam Silver）は「Buttons shouldn’t have a hand cursor」（脚注146）の中で、&lt;button&gt;要素に手動でcursor: pointerを追加するのがユーザビリティ上のミスである理由を説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In “A Menu Button” we looked at the many ways to render the simple, three-lined navicon.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170905T003638Z" creationid="rikiha" creationdate="20170905T003638Z">
@@ -10779,6 +10899,14 @@ easiliy digestible は消化しやすいということのようで、もう少�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170530T082727Z" creationid="rikiha" creationdate="20170529T032749Z">
         <seg>3章「パラグラフ」では、わかりやすい本文の書き方について基本的なガイダンスを提供しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Including a “Buy Now” button is perhaps the most straightforward way to go about this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004153Z" creationid="rikiha" creationdate="20170905T004153Z">
+        <seg>そのためには、おそらく「今すぐ購入」ボタンを加えるのが最も簡単な方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11205,6 +11333,14 @@ canの訳出など。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It is not standard behavior to invoke this cursor style on &lt;g11&gt;&lt;button&gt;&lt;/g11&gt;s, and it’s risky to break with long-held convention.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004232Z" creationid="rikiha" creationdate="20170905T004232Z">
+        <seg>&lt;button&gt;でこのカーソルスタイルを呼び出すのは標準の動作ではなく、長年続いてきた慣習を破るのは危険を伴います。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 子属性とは!?
 body内のの子要素にlang属性を、ですね。</note>
       <tuv lang="EN-US">
@@ -11354,6 +11490,14 @@ must ではなく should なので「べき」としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T103822Z" creationid="yoota" creationdate="20170511T103822Z">
         <seg>そうすれば、編集者は何かを壊すのではないかと恐れることなく、自分の得意とする作業を進めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It sounds simple when put like that, but we tend to overengineer interfaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004235Z" creationid="rikiha" creationdate="20170905T004235Z">
+        <seg>このように言うと単純に聞こえますが、私たちはインターフェイスに過剰な機能を持たせがちです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15855,6 +15999,14 @@ the button is really a better fit. が何を言っているのか正直良くわ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Since the linking &lt;g4&gt;behavior&lt;/g4&gt; of loading a new page is still intact, this is deceptive and confusing for blind screen reader users and should be avoided.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004202Z" creationid="rikiha" creationdate="20170905T004202Z">
+        <seg>新しいページを読み込むというリンクの動作は損なわれないので、目の不自由なスクリーンリーダーユーザーにとって紛らわしく、混乱を招くため、この方法は避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ちょっと調整。もう少しこなれた感じにしたい気も。
 
 (太田)
@@ -15868,6 +16020,14 @@ U+2630 TRIGRAM FOR HEAVEN は普通に使っていいのかどうか。特に電
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170814T095009Z" creationid="rikiha" creationdate="20170811T133130Z">
         <seg>3本線（☰）のハンバーガーアイコン、あるいはナビコンと呼ばれるものは、リストを表現した形です。リストそのものの存在や、ナビゲーションとの関係性を知っているからこそ、その意味を理解することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the visual appearance of a button suggests button-like behavior, it is recommended to preserve that aesthetic for actual &lt;g1&gt;&lt;button&gt;&lt;/g1&gt;s.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004207Z" creationid="rikiha" creationdate="20170905T004207Z">
+        <seg>ボタンの外観はボタンらしい動作を示唆するので、そうした見た目を&lt;button&gt;でも維持することが推奨されます。リンクには独立したcall-to-actionスタイルを保持することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17952,6 +18112,14 @@ http://www.unicode.org/charts/PDF/U2600.pdf
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The first pitfall regards the concept of buttons and their expected behavior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004155Z" creationid="rikiha" creationdate="20170905T004155Z">
+        <seg>最初の落とし穴は、ボタンの考え方および期待される動作に関するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (伊原) 下訳を反映
@@ -19682,6 +19850,14 @@ percievedは「知覚される」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This effectively prevents a developer from using the wrong element for the job.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004226Z" creationid="rikiha" creationdate="20170905T004226Z">
+        <seg>これで開発者が間違った要素を使うのを効果的に防ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 wouldなので「できるようになるでしょう」くらいかと。
 breakは破綻としました。
@@ -20210,6 +20386,14 @@ esotericは特殊というより、他で使われていないというニュア
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This overrides the implicit accessible role of &lt;g2&gt;"link"&lt;/g2&gt; with an explicit role of &lt;g3&gt;"button"&lt;/g3&gt;, meaning the link will be announced as a button in screen reader software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004201Z" creationid="rikiha" creationdate="20170905T004201Z">
+        <seg>これを行うと、「リンク」の暗黙のアクセシブルなロールが、"button"の明示的なロールでオーバーライドされ、スクリーンリーダーでリンクがボタンとして読み上げられてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) いったん反転させずに原語のまま訳してみました。「コード」は補いました。
 
 (太田) OK</note>
@@ -20628,6 +20812,17 @@ in general は use にかかっているようにも見えますね。「ボタ�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170515T145147Z">
         <seg>均等割り付けされた3段組みのテキストの中で、単語間のスペースが大きい2箇所がハイライトされている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Three controls: a basic link with underline; an action link with a border; and a button with a blue background.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004216Z" creationid="rikiha" creationdate="20170905T004216Z">
+        <seg>基本的なリンク
+アクション
+ボタン
+3つのコントロール：下線付きの基本的なリンク、囲み線があるアクションリンク、青い背景のボタン。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21333,6 +21528,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170715T154657Z" creationid="yoota" creationdate="20170714T070953Z">
         <seg>この開発者が知らぬうちに、別の開発者には「賛成ボタンがキーボードでアクセスできない」というチケットが割り当てられています。このチケットには、&lt;g2&gt;tabindex&lt;/g2&gt;を使って&lt;g1&gt;&lt;div&gt;&lt;/g1&gt;にキーボードでアクセスできるようにする方法と、キーボードでクリックイベントをトリガーするJavaScriptについて、アクセシビリティコンサルタントからのアドバイスが添えられています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless we’re &lt;g1&gt;entirely&lt;/g1&gt; lacking in business acumen, we’re going to want to facilitate the user’s purchase of the print.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004152Z" creationid="rikiha" creationdate="20170905T004152Z">
+        <seg>ビジネス感覚が完全に欠落していない限り、写真プリントの購入を促したいと考えるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23065,6 +23268,14 @@ OK</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170605T032432Z" creationid="yoota" creationdate="20170605T032145Z">
         <seg>以下のように、インラインリンクを連続で使う癖のあるブロガーを見たことがあるのではないでしょうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may have read elsewhere that this is redundant, but it serves an important purpose: it restricts the use of &lt;g4&gt;.call-to-action&lt;/g4&gt; styles to the &lt;g5&gt;a&lt;/g5&gt; element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004221Z" creationid="rikiha" creationdate="20170905T004221Z">
+        <seg>これは不必要だという意見をどこかで目にしたことがあるかもしれませんが、.call-to-actionスタイルの使用をa要素に限定するという重要な目的を果たします。</seg>
       </tuv>
     </tu>
     <tu>
