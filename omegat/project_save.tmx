@@ -7728,6 +7728,18 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+元訳は誤訳かも、というかここは少し補わないとわかりにくいかも。
+An alt Decision Tree のフローで
+
+問1: Does the image contain text?
+→No. 画素にテキストは含まれていない
+
+問2: Is the image used in a link or a button, and would it be hard or impossible to understand what the link or the button does, if the image wasn’t there?
+→No. アクションを説明する画像ではない
+
+となることを言っています。
+</note>
       <tuv lang="EN-US">
         <seg>For our thumbnail, which does not contain text or describe an action, we have to ask: “Does the image contribute meaning to the current page or context?”</seg>
       </tuv>
