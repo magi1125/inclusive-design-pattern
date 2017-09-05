@@ -7738,13 +7738,18 @@ An alt Decision Tree のフローで
 問2: Is the image used in a link or a button, and would it be hard or impossible to understand what the link or the button does, if the image wasn’t there?
 →No. アクションを説明する画像ではない
 
-となることを言っています。
+となり、次に
+問3: Does the image contribute meaning to the current page or context?
+に答える必要があるという話です。
+
+
+
 </note>
       <tuv lang="EN-US">
         <seg>For our thumbnail, which does not contain text or describe an action, we have to ask: “Does the image contribute meaning to the current page or context?”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T073334Z" creationid="rikiha" creationdate="20170905T033402Z">
-        <seg>今回のサムネイルの場合は、テキストは含まれておらず、アクションの説明もないので、「この画像は現在のページやコンテキストに意味を提供しているか？」と自問する必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T081648Z" creationid="rikiha" creationdate="20170905T033402Z">
+        <seg>今回のサムネイルの場合は、画像にテキストは含まれておらず、アクションを説明するものでもないので、「この画像は現在のページやコンテキストに意味を提供しているか？」という問いに答える必要があります。</seg>
       </tuv>
     </tu>
     <tu>
