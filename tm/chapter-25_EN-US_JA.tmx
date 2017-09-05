@@ -1,0 +1,2406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Registration Form | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>10章：登録フォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>My first forays into web design at the turn of the century revolved around images, image maps to link parts of those images to other pages of images, and nested &lt;table&gt; elements to hold the whole debacle together.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>私がWebデザインの世界に入った世紀の変わり目の頃、主な仕事は画像や、画像の一部分を他のページにリンクするイメージマップ、総崩れを回避するためのネストされた&lt;table&gt;要素にまつわることでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Underperforming, unresponsive, not cross-browser compatible: just some of the things you could condemn my early handiwork for.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>不十分なパフォーマンス、レスポンシブ性の欠如、ブラウザ間の非互換性など、当時の私の仕事ぶりには至らない点が多々ありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>My current output is hardly perfect, but it has benefited from a change in mindset, an acknowledgement that web pages aren’t merely pinboards for images.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>今もとても完璧とは言えませんが、考え方を改め、Webページは画像を貼り付ける単なるコルクボードではないと認識するようになったことが良かったようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Really, web pages are terminals: they accept information (input) and display information (output).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>実のところ、Webページはターミナルです。情報を受け取り（入力）、情報を表示します（出力）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Web forms take care of the input part.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>Webフォームは、入力の部分を担います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Making sure forms are inclusive is paramount, because all people should be able to contribute to and not just consume the web.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>一番重要なのは、インクルーシブなフォームにすることです。すべての人々がWebを利用するだけではなく、Webに寄与できなければならないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So, what are we dealing with?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>では、どのようなことに対応する必要があるのでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s a mixed bag: form elements piggyback OS functionality and are keyboard and screen reader accessible as standard — at least when marked up correctly. So that’s good.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>まず、OS機能を利用したフォーム要素が必要です。加えて、少なくとも正確にマークアップされている場合には、キーボードとスクリーンリーダーに標準としてアクセスできることが大切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On the other hand, forms are a 10,000-volt electromagnet for attracting usability problems.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>その一方で、フォームはユーザビリティの問題を引き寄せる1万ボルトの電磁石でもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For this simple registration form pattern, we shall embrace standards while attempting to tiptoe nimbly around potential usability failures.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>このシンプルな登録フォームパターンのためには、標準を取り入れながらも、潜在的なユーザビリティの不具合を機敏に回避しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The relationship between standards and usability is where we find inclusion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>標準とユーザビリティの関係の中で、インクルージョンを模索する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Form In Context</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>コンテキストに応じたフォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Before diving into constructing the registration form itself, it’s worth acknowledging the context in which we are likely to find it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>登録フォームを構築し始める前に、そのコンテキストを理解しておくことが大切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Despite the virtues of modularity, it can’t be helped that some patterns are informed by context and are better designed where context is considered first.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>モジュール性という利点はあるものの、パターンの中にはコンテキストによって決まるものや、コンテキストを一番に考慮した場合に最良のデザインとなるものがあるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Conventionally, registration forms are counterparts to login forms provided for users who already have accounts.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>一般的に、登録フォームは、アカウントを保有するユーザー向けのログインフォームと対をなします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In fact, it’s usually the login form that you would encounter first, with an option to register instead.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>たいていログインフォームが最初に表示され、オプションで登録フォームにアクセスできるようになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This registration option usually takes the form of some tiny link text reading “Don’t have an account?” and placed after the login form’s submit button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>この登録オプションは、通常は「アカウントをお持ちでない方」などと小さく書かれたリンクで、ログインフォームのsubmit（送信）ボタンの後に配置されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ログイン
+アカウントをお持ちでない方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At the bottom of the form, the login button with small register text link underneath it. </seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>多くの場合、アカウントオプションは大げさに表示する必要はないとされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The thinking here is often that the no account option doesn’t need to be a big deal because most new users will have gone directly to the homepage, read the entire sales pitch for the application and pressed the sign-up call to action there.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>なぜなら、大半のユーザーはホームページに直接アクセスし、アプリケーションのセールスポイントをすべて読んだうえでサインアップへのコールトゥアクションリンクを押したと考えられるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Making assumptions about the way visitors enter and move through your app is dangerous territory anyway, but for certain users the usability here is even more aggravating.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ユーザーがアプリケーション内にどのように入って移動するかを仮定するのは何にせよ危険な領域ですが、特定のユーザーにとっては、ここでのユーザビリティがさらなるストレスの原因となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Screen reader operators traversing the page from top to bottom methodically will not realize the option to register is present unless they go past the login form.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>スクリーンリーダーを使ってページを上から下に順に読むユーザーは、ログインフォームを通過しない限り登録オプションの存在を知ることができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition, by linking to the registration form on a separate page, they’d have to make their way down to the form from the top of that newly loaded page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>また、登録フォームは別のページにあるので、新たにロードされたページをまた上から読み進める必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is one of the reasons we create the ability to bypass blocks of content using skip links, headings and landmark regions, as discussed in “A Blog Post.” This comes under WCAG’s 2.4.1 Bypass Blocks success criterion.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これが、「ブログ記事」で述べたスキップリンク、見出し、ランドマーク領域を使ってコンテンツブロックのバイパス機能を作成する理由の1つです。バイパス機能については、WCAGの達成基準2.4.1「ブロックスキップ」（脚注172）に明記されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, a clearer solution for all users would be to present them with a choice of login or registration at the outset.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>しかし、すべてのユーザーにとってより分かりやすいのは、ログインと登録の両方を表示して、最初にいずれかを選択できるようにする方法でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the illustration below, “Login” is selected by default but in a clear relationship with the unselected register option.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>下の図では、「ログイン」がデフォルトで選択されていますが、未選択の登録オプションとの関係性は一目瞭然です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ログイン
+登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At the top of the form, a selected login tab with an unselected register tab to its right.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Login/Register Toolbar</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ログイン／登録ツールバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s important the choice being presented to the user is clear both visually and non-visually.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>選択肢は、視覚的にも非視覚的にもユーザーに分かりやすく表示することが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But despite what certain vocal accessibility pundits might have you believe, there’s really no right or wrong way to achieve this kind of thing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>しかし、音声によるアクセシビリティの専門家がどのような意見を述べようとも、実はこの種のことに正しいも間違っているもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s down to your discretion as a designer to find the most effective solution.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>何が最も効果的なソリューションなのかは、皆さんのデザイナーとしての判断にかかっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One option would be to design the login and register options as tabs in a fully-fledged WAI-ARIA tab interface.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>一例として考えらるのは、本格的なWAI-ARIAのタブインターフェイスを使って、ログインオプションと登録オプションをタブとしてデザインすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I talk about such interfaces at length in the book “Apps For All: Coding Accessible Web Applications.” Also available is an accompanying demo.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>こうしたインターフェイスについては、私の著書『Apps For All: Coding Accessible Web Applications』（日本語版：『コーディングWebアクセシビリティ - WAI-ARIAで実現するマルチデバイス環境のWebアプリケーション』ボーンデジタル刊）（脚注173）で詳しく説明しています。また、付随のデモも利用できます。（脚注174）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since we are only dealing with two options (tabs), I think this complex widget is overkill.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ここではオプション（タブ）が2つだけなので、この複雑なウィジェットではやり過ぎのように思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A simpler way to communicate the choice and the current selection would be to construct a little toolbar, like the following.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>もっと簡単にオプションと現在の選択状況を伝えるには、以下のようなちょっとしたツールバー（toolbar）（脚注175）を作るとよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Welcome
+&lt;div role="toolbar" aria-label="Login or register"&gt;
+　&lt;button aria-pressed="true"&gt;Login&lt;/button&gt;
+　&lt;button aria-pressed="false"&gt;Register&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;div id="forms"&gt;
+　&lt;div id="login"&gt;
+　　&lt;form&gt;
+	&lt;!-- the login form --&gt;
+　　&lt;/form&gt;
+　&lt;/div&gt;
+　&lt;div id="register"&gt;
+　　&lt;form&gt;
+	&lt;!-- the registration form --&gt;
+　　&lt;/form&gt;
+　&lt;/div&gt;
+&lt;/div&gt; </seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ようこそ
+&lt;div role="toolbar" aria-label="ログインまたは登録"&gt;
+　&lt;button aria-pressed="true"&gt;ログイン&lt;/button&gt;
+　&lt;button aria-pressed="false"&gt;登録&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;div id="forms"&gt;
+　&lt;div id="login"&gt;
+　　&lt;form&gt;
+	&lt;!-- ログインフォーム --&gt;
+　　&lt;/form&gt;
+　&lt;/div&gt;
+　&lt;div id="register"&gt;
+　　&lt;form&gt;
+	&lt;!-- 登録フォーム --&gt;
+　　&lt;/form&gt;
+　&lt;/div&gt;
+&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>注記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Pressing a button changes that button to aria-pressed="true" and reveals the corresponding form.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>•ボタンを押すと、そのボタンがaria-pressed="true"（脚注176）に変更され、対応するフォームが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A CSS style should be provided to show that this button is the selected one, possibly with the [aria-pressed="true"] attribute selector.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>このボタンが選択されていることを示すために、CSSスタイルを提供する必要があります。[aria-pressed="true"]などの属性セレクタを使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•When screen reader users focus the first button, “Login or register toolbar, login toggle button, selected” (or similar, depending on the screen reader) is announced.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>•スクリーンリーダーユーザーが最初のボタンにフォーカスを合わせると、「＃＃Login or register toolbar, login toggle button, selected＃＃」などと読み上げられます（内容はスクリーンリーダーによって若干異なります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This informs users that they are interacting with a toolbar widget presenting them with a choice of “Login or register” and that the “login” option is currently activated.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これによりユーザーは、自分が「＃＃ログインまたは登録＃＃」という選択肢を提示するツールバーウィジェットとやり取りしていて、現在は「＃＃ログイン＃＃」オプションがアクティブになっていると知ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•The relationship between the toolbar and the subject #forms container is also communicated via aria-controls to supporting software, like the JAWS screen reader.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>•表示されるフォーム（ログインまたは登録）は、ツールバーの下にフォーカス順序で配置されるので、キーボードやスクリーンリーダーのコントロールを使って容易にアクセスできます。このため、ツールバーとフォーム領域の間に明示的な関連付けは必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is only an enhancement: the reveal of the corresponding form will place it next in focus order, making it easy to reach by keyboard anyway.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>前述のように、aria-controlsは明示的な関連付けを提供しますが、あまり広くサポートされていないため使用しないことをお勧めします。こうした状況で役に立つのはソースの順序です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Basic Form</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>基本のフォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now let’s shift our focus to just the registration form itself.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>登録フォームそのものに焦点を移しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We’ve already touched on harnessing form controls in “A Filter Widget.” This form takes a more familiar, well, form, facilitating text input by the user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>フォームコントロールの使用についてはすでに「フィルタウィジェット」で取り上げました。このフォームはより見慣れた形を取ることで、ユーザーによるテキスト入力を容易にしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;form id="register"&gt;
+　&lt;label for="email"&gt;Your email address&lt;/label&gt;
+　&lt;input type="text" id="email" name="email"&gt;
+　&lt;label for="username"&gt;Choose a username&lt;/label&gt;
+　&lt;input type="text" id="username" name="username" placeholder="e.g.HotStuff666"&gt;
+　&lt;label for="password"&gt;Choose a password&lt;/label&gt;
+　&lt;input type="password" id="password" name="password"&gt;
+　&lt;button type="submit"&gt;Register&lt;/button&gt;
+&lt;/form&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;form id="register"&gt;
+　&lt;label for="email"&gt;メールアドレス&lt;/label&gt;
+　&lt;input type="text" id="email" name="email"&gt;
+　&lt;label for="username"&gt;ユーザー名を選択&lt;/label&gt;
+　&lt;input type="text" id="username" name="username" placeholder="e.g.HotStuff666"&gt;
+　&lt;label for="password"&gt;パスワードを選択&lt;/label&gt;
+　&lt;input type="password" id="password" name="password"&gt;
+　&lt;button type="submit"&gt;登録&lt;/button&gt;
+&lt;/form&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Labeling</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ラベル付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In Inclusive Forms 101, we must ensure that all interactive elements have an accessible label associated with them.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>インクルーシブなフォームの基本として、すべてのインタラクティブ要素にアクセシブルなラベルを関連付ける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the case of the submit button, the text node is the accessible label.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>submitボタンの場合は、テキストノードがアクセシブルなラベルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, when you focus the button, “Register” is announced as the label.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>つまり、そのボタンにフォーカスを合わせると、ラベルとして「＃＃登録＃＃」と読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For elements that accept user input like text inputs, an auxiliary label must be associated with it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>テキスト入力などのユーザー入力を受け取る要素の場合、補助的なラベルを関連付ける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The standard way to achieve this is by using a &lt;label&gt; element, which takes a for attribute.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>このための標準的な方法は、for属性を指定する&lt;label&gt;要素を使用することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The for attribute associates the label with an input using its id value.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>for属性は、そのid値を使ってラベルを入力と関連付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is one of the reasons you should ensure ids are unique.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これが、idが一意の値でなければならない理由の1つです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When they are not, you would fail WCAG’s 4.1.1 Parsing rule.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>一意でないと、WCAGの4.1.1「構文解析」（脚注177）のルールを破ることになってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the case of the password input, the agreed cipher — the matching content of the for and id values — is simply “password”:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>パスワード入力の場合、合意された暗号（forおよびid値の一致している内容）は「password」です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;label for="password"&gt;Choose a password&lt;/label&gt;
+&lt;input type="password" id="password" name="password"&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;label for="password"&gt;パスワードを選択&lt;/label&gt;
+&lt;input type="password" id="password" name="password"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To appreciate why labels have to be explicitly associated with controls in this way, you have to appreciate how screen reader operators traverse forms.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>このようにラベルとコントロールを明示的に関連付ける理由をよく理解するには、スクリーンリーダーユーザーがどのようにフォーム内を移動するかを理解しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlike prose content, where users may use the down arrow to go from element to element, forms are operated by moving directly between one field and the next.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>下矢印キーを使って要素間を移動できる散文的なコンテンツと異なり、フォームではあるフィールドから次のフィールドへ直接移動する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Label elements, therefore, are jumped over: if they weren’t explicitly connected to the interactive elements they were describing, they’d be missed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>つまり、ラベル要素を飛び越えることになるので、ラベル要素とそれが説明しているインタラクティブ要素が明示的に関連付けられていないと、そのラベル要素は読み上げられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In my example, when a screen reader user focuses the password field, “Choose a password, secure input” (or similar) would be announced.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>この例では、スクリーンリーダーユーザーがパスワードフィールドにフォーカスを合わせると、「＃＃パスワードを選択、secure input＃＃」などと読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Senior accessibility engineer Léonie Watson notes that a role of password is being mooted for the WAI-ARIA (2.0) specification. This would enable developers to communicate the security of a custom field without necessarily ensuring that security (masking the inputed characters) is actually present.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>シニアアクセシビリティエンジニアのレオニー・ワトソン（Léonie Watson）は、passwordのロールをWAI-ARIA（2.0）の仕様に追加することが議論されていることに注目しています。（脚注178）これが実現すれば、開発者はセキュリティ（入力された文字列のマスキング）が実際に存在することを必ずしも保証しなくても、カスタムフィールドの安全性を伝達できるようになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>WAI-ARIA only affects semantics, not general behavior.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>WAI-ARIAが影響するのはセマンティクスのみで、一般動作には影響しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is why standard elements and attributes such as type="password" are a safer choice where available.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これが、type="password"のような標準的な要素や属性の方が無難な選択である理由です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They pair semantics with standard behaviors automatically.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>セマンティクスが、標準的な動作に自動的に組み合わされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The placeholder Attribute</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>PLACEHOLDER属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The placeholder attribute is a relatively new addition to the HTML specification.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>placeholder属性は、比較的新しくHTML仕様に追加されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It was created in response to developers wanting to give hints for the type of content the user should provide.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>「ユーザーが入力する必要のあるコンテンツのタイプについてヒントを与えたい」という開発者の要望に応えて作成された属性です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The key word here is hints: the placeholder is not a labeling method by itself and should only be used to provide supplemental information.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ここでのキーワードは「ヒント」です。placeholderは、単独でラベル付けをする手段ではなく、補助的な情報を提供する手段として使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the #username example, “Choose a username” is the (accessible) label and “e.g. HotStuff666” is provided just to get the user’s imagination kick-started.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>#usernameの例では、「ユーザー名を選択」が（アクセシブルな）ラベルで、「例：HotStuff666」がユーザーの想像力を刺激するためのヒントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;label for="username"&gt;Choose a username&lt;/label&gt;
+&lt;input type="text" id="username" name="username" placeholder="e.g. HotStuff666"&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;label for="username"&gt;ユーザー名を選択&lt;/label&gt;
+&lt;input type="text" id="username" name="username" placeholder="例：HotStuff666"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By default, the placeholder attribute is shown as gray text, which can cause contrast issues, especially where the input uses a background color.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>デフォルトでは、placeholder属性はグレーのテキストで表示されますが、コントラストの問題が起きることがあります。入力に背景色が使用されている場合は特にそうです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead of differentiating the placeholder by diminishing its contrast, I suggest using a different method, such as italicization.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>プレースホルダーを区別できるようにするには、コントラストを抑える代わりに、イタリック（斜字体）の使用といった他の方法を用いることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ユーザー名を選択
+例：HotStuff666
+悪い例
+
+ユーザー名を選択
+例：HotStuff666
+良い例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The left example shows the placeholder text in default gray.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>左の例は、プレースホルダーテキストをデフォルトのグレーで表示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The right uses a custom italic style with a darker color. </seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>右の例では、カスタムのイタリックスタイルが使用され、色も濃くなっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Styling the placeholder is possible in most browsers with the help of some standard and proprietary properties:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>プレースホルダーのスタイル設定は、標準および独自のプロパティを使用して、ほとんどのブラウザで行うことが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>::placeholder { 
+　color: #000;
+　font-style: italic;
+}
+
+::-webkit-input-placeholder { 
+　color: #000;
+　font-style: italic;
+}
+
+::-moz-placeholder { 
+　color: #000;
+　font-style: italic;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>::placeholder { 
+　color: #000;
+　font-style: italic;
+}
+
+::-webkit-input-placeholder { 
+　color: #000;
+　font-style: italic;
+}
+
+::-moz-placeholder { 
+　color: #000;
+　font-style: italic;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note: Each rule is in a separate declaration block rather than a comma-delimited list.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>（注：各ルールは、コンマで区切られたリストではなく、個別の宣言ブロックに含めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Browsers will not parse a combined block if it contains unrecognized, proprietary selectors.) Some screen readers and browsers do not support placeholder, so using it to supplant a proper label will result in missing information.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ブラウザは、結合されたブロックに認識されていない独自のセレクタが含まれている場合、そのブロックを解析しません。）
+スクリーンリーダーやブラウザの中には、placeholderをサポートしないものもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But that’s not the only problem: any sighted users interacting with the input will find the surrogate label disappears as soon as they start typing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>そのため、プレースホルダーで適切なラベルを代用しようとすると、情報が失われてしまいます。問題はそれだけではありません。晴眼のユーザーであれば、入力を開始した途端にその代用ラベルが消えてしまうことに気づくでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This produces cognitive accessibility issues and is broadly uninclusive as an interface pattern.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これは、認知障害に関するアクセシビリティの問題の原因となるうえ、インターフェイスパターンとしても明らかにインクルーシブとは言えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The browser’s autocompletion routine could also populate multiple fields, of course.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>当然ながら、ブラウザのオートコンプリート機能が複数のフィールドを埋めてしまうこともあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This too would eradicate visible labels and make it difficult for the user to check the automatic values against what the fields intended.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>この場合もラベルが表示されないため、自動入力の値がフィールドの意図に沿ったものであるかどうかをチェックするのが困難になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Using placeholder as a label is esp. bad when combined with autofill. Just had a whole form autofilled and I have no clue what anything is.” – Lea Verou, on Twitter</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>プレースホルダーをラベルの代わりとして使い、そこに自動入力が合わさると、特に厄介です。フォーム全体が自動入力され、何を入力すればよいのか皆目見当が付かないのですからね。— リア・ヴェロウ（Lea Verou）、Twitter（脚注179）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sometimes it’s tempting to remove visible labels and rely on placeholder attributes to save space (or screen estate if you prefer) but that’s hardly a good reason to diminish the usability of a form.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>スペースの節約（画面サイズの制限）のため、ラベルを表示せずにplaceholder属性で代用したくなることがありますが、それはフォームのユーザビリティを低下させる正当な理由にはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ユーザー名を選択
+フォーカス
+「よし、ユーザー名の入力だな！」
+「えーと、何をすればいいんだっけ？」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left unfocused text field shows placeholder.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>左では、テキストフィールドがフォーカスされておらず、プレースホルダーが表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right focused text field does not, leaving the user to ponder what it was for. </seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>右では、テキストフィールドにフォーカスを合わせた結果プレースホルダーが消え、何のためのフィールドなのか分かりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You should prioritize making room for the label from the outset, in mockups and prototypes.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>モックアップやプロトタイプの作成段階から、ラベル用のスペース確保を優先するようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, there exists an innovative solution which uses the label as the placeholder.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>しかし、ラベルをプレースホルダーのように使用するという革新的なソリューションも存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The float label pattern by Matt D Smith animates the label out of the way of the user’s cursor on focus.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>マット・D・スミス（Matt D.Smith）（脚注181）によるフロートラベルパターン（脚注180）では、フォーカスを合わせるとユーザーのカーソルの邪魔にならないようにラベルがアニメーションされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Be aware, though, that since it treats the label and placeholder as one and the same, there is no opportunity to supply a hint or example.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ただし、ラベルとプレースホルダーが同一のものとして扱われるため、ヒントや見本を表示することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Note on Grouping</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>グループ化について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The &lt;fieldset&gt; element is proffered for grouping related form fields under a common label: a &lt;legend&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;fieldset&gt;は、共通のラベルの&lt;legend&gt;の下で関連するフォームフィールドをグループ化する要素です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In some screen readers, this results in the &lt;legend&gt;’s content being concatenated with each field’s &lt;label&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>グループ化すると、ほとんどのスクリーンリーダーでは、&lt;legend&gt;の内容が各フィールドの&lt;label&gt;に連結されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We could adapt our form to include this grouping mechanism like so:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ここでのフォームには、以下のようにこのグループ化構造を含めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;form id="register"&gt;
+    &lt;fieldset&gt;
+        &lt;legend&gt;Registration&lt;/legend&gt;
+        &lt;label for="email"&gt;Your email address&lt;/label&gt;
+        &lt;input type="text" id="email" name="email"&gt;       
+        &lt;label for="username"&gt;Choose a username&lt;/label&gt;
+        &lt;input type="text" id="username" name="username" placeholder="e.g. HotStuff666"&gt;
+        &lt;label for="password"&gt;Choose a password&lt;/label&gt;
+        &lt;input type="password" id="password" name="password"&gt;
+        &lt;button type="submit"&gt;Register&lt;/button&gt;
+    &lt;/fieldset&gt;
+&lt;/form&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;form id="register"&gt;
+    &lt;fieldset&gt;
+        &lt;legend&gt;登録&lt;/legend&gt;
+        &lt;label for="email"&gt;メールアドレス&lt;/label&gt;
+        &lt;input type="text" id="email" name="email"&gt;       
+        &lt;label for="username"&gt;ユーザー名を選択&lt;/label&gt;
+        &lt;input type="text" id="username" name="username" placeholder="例：HotStuff666"&gt;
+　　&lt;label for="password"&gt;パスワードを選択&lt;/label&gt;
+　　&lt;input type="password" id="password" name="password"&gt;
+　　&lt;button type="submit"&gt;登録&lt;/button&gt;
+　&lt;/fieldset&gt;
+&lt;/form&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is technically valid, but it creates a lot of unnecessary noise; that is, focusing each input in turn would announce the extended labels of “Registration: Your email address,” “Registration: Choose a username,” and so on.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これは技術的には有効ですが、不要なノイズが大量に作成されます。つまり、各入力に順番にフォーカスを合わせると、「＃＃登録：メールアドレス＃＃」、「＃＃登録：ユーザー名を選択＃＃」といった長いラベルが読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When programming code day in and day out, we habituate ourselves to thinking of things as right or wrong, true or false.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>来る日も来る日もコードをプログラミングしていると、正しいか間違っているか、真実か偽りかで物事を考えるのに慣れてしまします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That a &lt;fieldset&gt; in this context is not technically invalid or nonconforming might lead us to think it is the opposite: virtuous, correct — mandatory even.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>今回の&lt;fieldset&gt;についても、技術的に無効でも不適合でもないなら、きちんとしていて正しい、さらには必須であるとさえ思う可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>HTML does not hold fast to the clear, procedural logic of imperative programming languages, so it’s better not to think of them as similar.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>HTMLは、命令型プログラミング言語の明快な手続き型ロジックを固守していないため、同じようには考えない方がよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Structures of HTML, like the structures of natural language it annotates, should be judged in similarly nuanced terms: what helps or hinders; what’s too little or too much.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>HTMLの構造は、HTMLがタグによって意味づけをしている自然言語の構造と同じように、何が役立ち何が邪魔なのか、何が足らず何が過剰なのかといった、微妙な観点で判断する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In the current context, the &lt;fieldset&gt; and &lt;legend&gt; create too much verbosity for little to no gain, so probably shouldn’t be there.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>現在のコンテキストでは、&lt;fieldset&gt;と&lt;legend&gt;によって余計な情報まで読み上げられ、メリットがほとんどないので、おそらく使用すべきではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bearing in mind that &lt;fieldset&gt;s are pointless without &lt;legend&gt;s, you can use the following three rules of thumb to decide if a &lt;fieldset&gt; is appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;fieldset&gt;は&lt;legend&gt;なしでは無意味であることを念頭に置き、次の3つの原則をもとに&lt;fieldset&gt;を使用した方がよいかどうかを判断します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1. Is there more than one distinct set of fields in total, in the same form or context? Yes? Use &lt;fieldset&gt;s. No? Don’t use &lt;fieldset&gt;s.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>1.同じフォームやコンテキスト内に、はっきりと区別できるフィールドセットが合計で2つ以上ありますか？ある場合は&lt;fieldset&gt;を使用し、ない場合は&lt;fieldset&gt;を使用しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2. Does a set actually only have one field in it? Yes? You don’t need a &lt;fieldset&gt;. No? Use a &lt;fieldset&gt; if (1) applies.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>2.セットに実際に含まれるフィールドは1つだけですか？1つの場合は&lt;fieldset&gt;は不要です。1つより多く、かつ(1)に該当する場合は&lt;fieldset&gt;を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3. Can you think of a &lt;legend&gt; that would make sense or aid comprehension if used with each of the &lt;fieldset&gt;’s field labels? Yes? Use a &lt;fieldset&gt;. No? Don’t use a &lt;fieldset&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>3.&lt;fieldset&gt;の各フィールドラベルで&lt;legend&gt;を使用すると、合理的であったり理解が促されたりすると思いますか？そう思う場合は&lt;fieldset&gt;を使用します。そう思わない場合は&lt;fieldset&gt;を使用しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Required Fields</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>必須フィールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Our register form has some required fields, which cannot be left blank.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>この登録フォームには、空欄のままにすることができない必須フィールドがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In fact, all the fields are required: for the sake of a simple UX we’re not asking anything which isn’t completely critical to signing up the user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>実際のところ、すべてのフィールドが必須です。シンプルなユーザー体験のため、ユーザーのサインアップにさほど重要でない情報は問いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Denoting required fields inclusively is a mixture of standards and convention.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>必須フィールドをインクルーシブに示すことは、標準的でも一般的でもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For many people, an asterisk (*) character suffixing the field label is familiar.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>フィールドラベルの末尾にあるアスタリスク（&amp;#x002a;）は、多くの人々にお馴染みの記号です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I can place it in a &lt;strong&gt; element for the purposes of making it red, if I think that will increase its comprehensibility:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>赤で表示した方が分かりやすい場合には、アスタリスクを&lt;strong&gt;要素に配置して赤にすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;label for="email"&gt;Your email address&lt;strong class="red"&gt;*&lt;/ strong&gt;&lt;/label&gt;
+&lt;input type="text" id="email" name="email"&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;label for="email"&gt;メールアドレス&lt;strong class="red"&gt;*&lt;/ strong&gt;&lt;/label&gt;
+&lt;input type="text" id="email" name="email"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For screen reader users, the label is announced as usual, including the asterisk, as “Your email address asterisk.” The term “asterisk” in this context is well enough understood by screen reader users to mean “required,” but it’s not exactly robust.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>スクリーンリーダーは、「＃＃メールアドレスアスタリスク＃＃」などのように、アスタリスクを含めて通常通りラベルを読み上げます。このコンテキストにおける「＃＃アスタリスク＃＃」という言葉が「必須」を意味することは、多くのスクリーンリーダーユーザーが理解しています。しかし、必ずしも問題が起きないわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Imagine we were marking up a quiz question about a certain Gaulish cartoon character:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>あるガリア漫画のキャラクター（脚注182）に関するクイズ問題をマークアップすることを想像してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;label for="quiz-question"&gt;What is the name of Goscinny and Uderzo’s famous cartoon Gaul? &lt;strong class="red"&gt;*&lt;/strong&gt;
+&lt;/label&gt;
+&lt;input type="text" id="quiz-question" name="quiz-question"&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;label for="quiz-question"&gt;ゴシニ（Goscinny）とユデルゾ（Uderzo）が描いた有名なガリア漫画のタイトルは？&lt;strong class="red"&gt;*&lt;/strong&gt;
+&lt;/label&gt;
+&lt;input type="text" id="quiz-question" name="quiz-question"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>More correctly, placing aria-required="true" on the input itself will announced “Required” in the set language of the page.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>より正確にするなら、inputそのものにaria-required="true"（脚注183）を置き、ページに設定した言語で「＃＃必須＃＃」と読み上げられるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This just leaves us the job of silencing the asterisk, for which we can use aria-hidden.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ただし、このままでは「＃＃アスタリスク＃＃」も読み上げられてしまうので、aria-hiddenを追加しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can think of aria-hidden="true" as the aural equivalent of display: none;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>aria-hidden="true"は、display: none;の読み上げ版と考えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;label for="email"&gt;Your email address &lt;strong class="red" aria-hidden="true"&gt;*&lt;/strong&gt;&lt;/label&gt;
+&lt;input type="text" id="email" name="email" aria- required="true"&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;label for="email"&gt;メールアドレス&lt;strong class="red" aria-hidden="true"&gt;*&lt;/strong&gt;&lt;/label&gt;
+&lt;input type="text" id="email" name="email" aria- required="true"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note: Both aria-hidden="true" and aria-required="true" have explicit values rather than being written in the Boolean form that is possible with certain HTML5 attributes. This is correct for ARIA attributes and significantly more reliable.)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>（注：aria-hidden="true"とaria-required="true"は、いずれも明示的な値を持っています。特定のHTML5の属性で可能なブール型で書かれているのではありません。（脚注184）これらは正確なARIA属性であり、信頼性は非常に高くなります。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Note on the required Attribute</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>REQUIRED属性について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You may be aware that there is an HTML5 required attribute.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ご存知かもしれませんが、HTML5にはrequired属性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Why aren’t we using this?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>なぜこれを使用しないのでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Usually it is better to use the HTML5 base semantics rather than the WAI-ARIA extension, but only if vendor (read: browser and screen reader) support is acceptable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>通常は、WAI-ARIAで拡張するよりもHTML5ベースのセマンティクスを使用することをお勧めしますが、これはベンダー（HTMLを読み取るブラウザとスクリーンリーダー）のサポートが得られる場合に限ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The required attribute is not implemented uniformly across browsers. It also tends to invoke an undesirable feature: marking empty required fields as invalid from the outset.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>required属性は、すべてのブラウザで実装されているわけではありません。（脚注185）また、空の必須フィールドを最初から無効としてマークするといった望ましくない機能をもたらす傾向もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For our purposes this is rather verbose and aggressive.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>今回の用途には、required属性はやや冗長であるうえに攻撃的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Showing The Password</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>パスワードの表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You’ll recall the discussion on the cognitive stress of disappearing placeholder attributes, especially when they are unaccompanied by proper labels.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>先ほど、placeholder属性が消えてしまうと、認知ストレスが生じると述べました（特に適切なラベルが表示されていない場合）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Having to type a password without being able to see if you’ve hit the right keys is a matter of similar discomfort.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>正しいキーを叩いているかどうか不確かなままパスワードを入力しなければならない場合も、同じような不安感を呼び起こします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some interfaces provide an auxiliary field, similar in all respects but its id, and implore you to type your proposed password a second time, so the system can compare the two.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>インターフェイスの中には、id以外はすべて類似の補助フィールドを提供するものがあります。最初に入力したパスワードを再度入力するためのフィールドで、システムがその2つのパスワードを比較することが目的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bothersome and off-putting.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>しかし、再入力は面倒で気乗りしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To preserve security but give users the option to check their entered password, instead we shall provide a checkbox to reveal the password at will.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>セキュリティを維持しつつ、入力したパスワードをチェックするオプションは、任意でパスワードを表示できるチェックボックスによって提供することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;label for="password"&gt;Choose a password&lt;/label&gt;
+&lt;input type="text" id="password" name="password"&gt;
+&lt;label&gt;&lt;input type="checkbox" id="showPassword"&gt; show password&lt;/label&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;label for="password"&gt;パスワードを選択&lt;/label&gt;
+&lt;input type="text" id="password" name="password"&gt;
+&lt;label&gt;&lt;input type="checkbox" id="showPassword"&gt;パスワードを表示&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>パスワードを選択
+パスワードを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Completed password field with show password checkbox to its bottom-right. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>右下に「パスワードを表示」チェックボックスが追加されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A short script simply toggles the field type from password to text and back again:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>短いスクリプトによって、フィールドの型をpasswordからtextに切り替え、再び戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>var password = document.getElementById('password');
+var showPassword = document.getElementById('showPassword');
+
+showPassword.addEventListener('change', function() { 
+　var type = this.checked ?'text' : 'password'; 
+　password.setAttribute('type', type);
+});</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>var password = document.getElementById('password');
+var showPassword = document.getElementById('showPassword');
+
+showPassword.addEventListener('change', function() { 
+　var type = this.checked ?'text' : 'password'; 
+　password.setAttribute('type', type);
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that Internet Explorer and Microsoft Edge provide this functionality natively, using an interactive eye icon associated with the ::ms-reveal pseudo-class.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>Internet ExplorerとMicrosoft Edgeは、::ms-reveal疑似クラス（脚注186）と関連付けられているインタラクティブな目のアイコンを使って、この機能をネイティブで提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since we’ve provided our own (cross-browser) solution, it would be wise to suppress this feature:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ここでは独自（クロスブラウザ）のソリューションを用いたので、この機能は抑制した方が賢明でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>input[type=password]::-ms-reveal { 
+　display: none;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>input[type=password]::-ms-reveal { 
+　display: none;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At this stage, it’s become a habit of ours, as inclusive designers, to not only improve an interface’s UX but to do so in a way that supports users in unusual circumstances or using auxiliary software.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ここまでで、インクルーシブデザイナーとして、インターフェイスのユーザー体験をただ向上するだけでなく、例外的な状況にいるユーザーや補助ソフトウェアを使用しているユーザーをサポートする習慣を身に付けることができました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This little, screen reader accessible show-password provision is another reusable micropattern.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>このスクリーンリーダーでアクセス可能なちょっとしたパスワード表示機能も、再利用可能なマイクロパターンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We only have to think about and work on the accessibility aspect once.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>アクセシビリティの側面について一度は考え、取り組むようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Validation</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Our biggest challenge is to provide an inclusive form validation experience.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>最大の課題は、インクルーシブなフォーム検証体験を提供することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This involves a lot of moving parts and, without care, can produce a jarring and unusable experience for some users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これには多くの要素が関係してくるので、注意しないとユーザーに不快感や使いにくさを感じさせてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The trick is in communicating two key messages during validation as separate concerns:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ポイントは、検証時に2つのキーメッセージを個別の問題として伝えることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1. Something is broken (the form has errors).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>1.何かが破損している（フォームにエラーがある）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2. What needs fixing (what will make the form valid).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>2.修正の必要な箇所がある（どうすれば有効なフォームになるか）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As with the HTML5 required attribute, there are concerns about the support and uniformity of HTML5 form validation based on browsers’ interpretation of input types like url.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>HTML5のrequired属性と同様、ブラウザによる入力タイプ（urlなど）の解釈をベースとしたHTML5のフォーム検証は、サポートと一貫性に問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There is also no functionality within HTML5 to validate a password field.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>また、HTML5にはパスワードフィールドを検証できる機能はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In which case, we are going to rely on WAI-ARIA to indicate invalidity, with JavaScript for the actual validation (pattern matching).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>そのため、無効性の提示にはWAI-ARIAを使用する一方、実際の検証はJavaScriptで行うことになります（パターンマッチング）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Something Is Broken</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>何かが破損している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When the user tries to submit the form, we need to check if there are any errors.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ユーザーがフォームを送信しようとするとき、エラーの有無をチェックする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If there are, we need to suppress form submission temporarily.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>エラーがある場合は、フォームの送信を一時的にやめさせなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that we are suppressing the submission of the form itself rather than merely the click handler on the submit button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>submitボタンのクリック操作を抑制しているのではなく、フォームの送信そのものを食い止めている点に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>var form = document.getElementById('register'); 
+form.addEventListener('submit', function(event) {
+　if (errors) {
+	event.preventDefault(); // do not submit
+　}
+});
+</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>var form = document.getElementById('register'); 
+form.addEventListener('submit', function(event) {
+　if (errors) {
+	event.preventDefault(); // 送信しない
+　}
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg> This is all well and good, but literally nothing currently happens when the user tries to submit (where form errors are present).</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>この処置には問題ありませんが、（フォームエラーがある場合に）ユーザーが送信しようとしても、現時点では文字通り何も起きません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is our cue to provide some feedback in the form of an error message.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これをきっかけとして、エラーメッセージという形でフィードバックを提供することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At this point, all we want to communicate is the presence of errors and that they need attention.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>この時点でユーザー伝えたいのは、エラーがあるので注意を向けてほしいということだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A simple live region that is populated by the error message on an attempted submission will suffice.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>シンプルなライブリージョンに、試行された送信に対するエラーメッセージを含めれば十分でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Below is the initial markup.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>以下は最初のマークアップです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that I am placing the region directly above the submit button.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>submitボタンのすぐ上にリージョンを配置している点に注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Since the submit button is where the user is looking and working, this does the best job of bringing the error to their attention.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>submitボタンはユーザーが見て操作するところなので、エラーに注意を促すにはこの場所が最適です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Remember that users can (and will!) zoom their content.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ユーザーはコンテンツを拡大／縮小できます（きっとするでしょう！）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Therefore, an error which appears above the form may not even appear within the current viewport.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>そのため、エラーがフォームの上に表示されると、現在のビューポート内に表示されない可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div id="error" aria-live="assertive" role="alert"&gt;&lt;/div&gt;
+&lt;button type="submit"&gt;Register&lt;/button&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;div id="error" aria-live="assertive" role="alert"&gt;&lt;/div&gt;
+&lt;button type="submit"&gt;登録&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here’s how we populate the live region using our script:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>以下のようなスクリプトでライブリージョンにエラーメッセージを含めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>var form = document.getElementById('register');
+form.addEventListener('submit ', function(event) {
+　if (errors) {
+　　event.preventDefault(); // do not submit
+　　document.getElementById('error').textContent = 'Please make sure all your registration information is correct.'
+　}
+});</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>var form = document.getElementById('register');
+form.addEventListener('submit ', function(event) {
+　if (errors) {
+　　event.preventDefault(); // 送信しない
+　　document.getElementById('error').textContent = '登録情報が正確であることを確認してください。'
+　}
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Visual Design</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>視覚デザイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The #error live region should only be visible when it is populated.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>#errorライブリージョンは、エラーメッセージを含んだ場合にのみ表示されるようにする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To ensure that the empty box is not visible in its initial state (and does not otherwise affect the form’s layout) you can employ the :empty pseudo-class:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>初期状態では空のボックスが表示されない（またはフォームのレイアウトに影響を与えない）ようにするには、:empty疑似クラスを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>#error:empty { 
+　display: none;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>#error:empty { 
+　display: none;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Conventionally, errors are displayed in red, so it’s advisable to give the message box a red border or background.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>一般的にエラーは赤色で表示されるので、メッセージボックスを赤の枠で囲むか、背景を赤にするとよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, you should be wary of red being the only visual characteristic that classifies the message as an error.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ただし、赤という色が、そのメッセージがエラーであることを示す唯一の視覚的特長にならないよう注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To support at the same time screen reader users and people who cannot see color, we can prepend a warning icon containing alternative text.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>スクリーンリーダーユーザーや色覚障害を持つ人々も同時にサポートするために、代替テキストを含んだ警告アイコンを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;div id="error" aria-live="assertive" role="alert"&gt;
+　&lt;p&gt;
+　　&lt;svg role="img" aria-label="error："&gt;
+　　　&lt;use xlink:href="#error"&gt;&lt;/use&gt;
+　　&lt;/svg&gt;
+　　Please make sure all your registration information is correct.
+　&lt;/p&gt;
+&lt;/div&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;div id="error" aria-live="assertive" role="alert"&gt;
+　&lt;p&gt;
+　　&lt;svg role="img" aria-label="エラー："&gt;
+　　　&lt;use xlink:href="#error"&gt;&lt;/use&gt;
+　　&lt;/svg&gt;
+　　登録情報が正確であることを確認してください。
+　&lt;/p&gt;
+&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>登録情報が正確であることを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A red error message with white text prefixed with a triangular warning sign containing an exclamation mark.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>赤のエラーメッセージ。感嘆符を三角形で囲んだ警告アイコンに続いて、白いテキストのエラーメッセージが表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When the form’s submission event is suppressed, the live region is populated, switching its display state from none to block thanks to the :empty pseudo-class becoming inapplicable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>フォームの送信イベントが止められると、ライブリージョンにエラーメッセージが投入され、:empty疑似クラスが不適合となり、表示状態がnoneからblockに切り替わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This population of DOM content simultaneously triggers screen readers to announce the content, including the prepended alternative text: “error: Please make sure all your registration information is correct.” Note that the role of img and aria-label force the &lt;svg&gt; element to behave like a standard &lt;img/&gt; element carrying an alt attribute with the content “error:”.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>こうしたDOMコンテンツの包含は同時に、スクリーンリーダーが「＃＃エラー：登録情報が正確であることを確認してください＃＃」という追加された代替テキストなどのコンテンツを読み上げるトリガーにもなります。img（脚注187）というARIAロールとaria-labelにより、&lt;svg&gt;要素が「エラー：」というコンテンツが定義されたalt属性を持つ標準の&lt;img/&gt;要素のようにを動作しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The advantage of declaring the presence of errors using a live region is that we don’t have to move the user to bring this information to their attention.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ライブリージョンを使ってエラーの存在を宣言するメリットは、ユーザーに移動してもらわなくてもエラー情報に注意を促せる点です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Typically, form errors alert users by focusing the first invalid form field.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>通常は、最初の無効なフォームフィールドにフォーカスすることで、フォームエラーをユーザーに警告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This unexpected and unsolicited shift of position within the application risks disorientating users.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>しかし、このお節介とも言える唐突なアプリケーション内での位置移動は、ユーザーを混乱させる恐れがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In our case, the user remains focused on the submit button and is free to move back into the form to fix the errors when ready.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>今回のようにライブリージョンを利用すると、ユーザーはsubmitボタンにフォーカスを合わせた状態を維持でき、自分のペースで自由にフォームに戻ってエラーを修正することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What Needs Fixing</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>修正が必要な箇所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now we can safely move on to handling the invalid fields.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これで安心して無効フィールドの処理へと進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each one needs two pieces of information, available to all users (within reason):</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>各フィールドには、以下の2つの情報が目に見える形と見えない形で必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1. That the field is invalid.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>1.フィールドが無効である</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2. What would make the field valid.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>2.どうすれば有効なフィールドになるか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Except for the wording of error descriptions, the pattern will be the same for each invalid input, so we’ll just use the password field as an exemplar.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>エラーを説明する言葉を除き、パターンはそれぞれの無効な入力と同じです。パスワードフィールドを例にしてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For (1) we can deploy the well-supported aria-invalid attribute.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>(1)については、広くサポートされているaria-invalid属性（脚注188）を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;label for="password"&gt;Choose a password&lt;/label&gt;
+&lt;input type="text" id="password" name="password" aria-invalid="true"&gt;
+&lt;label&gt;&lt;input type="checkbox" id="showPassword"&gt; 
+ show password&lt;/label&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;label for="password"&gt;パスワードを選択&lt;/label&gt;
+&lt;input type="text" id="password" name="password" aria-invalid="true"&gt;
+&lt;label&gt;&lt;input type="checkbox" id="showPassword"&gt; 
+パスワードを表示&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That’s about it, really.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When the user moves back into the form and focuses the input it will now announce “Invalid” (or similar) in screen readers.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ユーザーがフォームに戻ってパスワード入力にフォーカスを合わせると、スクリーンリーダーが「＃＃無効＃＃」などと読み上げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can harness the aria-invalid attribute to provide a visual indication too.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>aria-invalid属性を使って視覚表示を提供することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By linking the parsable state of aria-invalid="true" to a visual style, you save yourself the bother of managing style and state as separate concerns.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>aria-invalid="true"という構文解析可能な状態を視覚的なスタイルにリンクすることで、スタイルと状態を個別に管理する手間を省けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Usually a separation of concerns is beneficial, but whenever a field is marked as invalid, that’s when it should look invalid.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>多くの場合、問題の分離は有益なことですが、フィールドが無効とマークされる場合は常に無効であるように見えなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using the attribute selector for the state makes sure the form and underlying function of your interface don’t get out of sync.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>状態の属性セレクタを使用すると、インターフェイスの基礎を成す関数とフォームの間の不一致を防ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>[aria-invalid="true"] { 
+　border-color: red;
+　background: url () center right;
+}</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>[aria-invalid="true"] { 
+　border-color: red;
+　background: url () center right;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note the inclusion of a background icon for color-blind users who cannot perceive the red border-color change.)</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>（赤色のborder-colorへの変化を知覚できない色覚異常のユーザーのために、背景アイコンを含めています。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Just knowing that the field is invalid is little use unless the user knows how to fix it too. For this purpose we can provide an accompanying description.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>フィールドが無効であると知っても、その修正方法が分からなければ意味がありません。これを回避するために説明を付け加えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In this case, the password is not acceptable because it is fewer than six characters long.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>このケースでは、パスワードが6文字に満たないために無効とされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>&lt;label for="password"&gt;Choose a password&lt;/label&gt;
+&lt;input type="text" id="password" aria-invalid="true" aria- describedby="password-hint"&gt;
+&lt;div id="password-hint"&gt;Your password must be at least 6 characters long&lt;/div&gt;
+&lt;label&gt;&lt;input type="checkbox" id="showPassword"&gt; show password&lt;/label&gt;</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>&lt;label for="password"&gt;パスワードを選択&lt;/label&gt;
+&lt;input type="text" id="password" aria-invalid="true" aria- describedby="password-hint"&gt;
+&lt;div id="password-hint"&gt;6文字以上のパスワードを設定してください&lt;/div&gt;
+&lt;label&gt;&lt;input type="checkbox" id="showPassword"&gt;パスワードを表示&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>パスワードを選択
+6文字以上のパスワードを設定してください
+パスワードを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The password input with error message directly below in red text, prefixed by a warning symbol. </seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>入力したパスワードのすぐ下に、警告マークと赤色のエラーメッセージが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The #password-hint element is connected to the input using the aria-describedby attribute and the password-hint id as a cipher.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>#password-hint要素が、aria-describedby（脚注189）属性とpassword-hint idを暗号として使用して、入力に接続されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That is, the description is connected much like the label.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>つまり、説明はラベルと同じように接続されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The only difference is in terms of order: the description is read last.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>唯一の違いは順序で、説明が最後に読まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now, when a screen reader user focuses the input, this accessible description will be read out after the label, current value, input type and (invalid) state information.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これで、スクリーンリーダーユーザーが入力にフォーカスを合わせると、ラベルの後にこのアクセシブルな説明が読み上げられるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All the pieces are in place.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>すべてのピースがしかるべき場所に収まっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rerunning the Routine</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ルーチンを再実行する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some fancy form validation scripts give you live feedback as you type your text entries, letting you know whether what you type is valid as you type it.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>手の込んだフォーム検証スクリプトの中には、テキストを入力している最中にフィードバックを提供し、入力内容が有効かどうかを知らせてくれるものもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This can become very difficult to manage.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>しかし、こうしたスクリプトは管理が非常に難しくなることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For entries requiring a certain number of characters, the first few keystrokes are always going to constitute an invalid entry.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>特定の文字数が必要なエントリーでは、最初の何回かのキーストロークが必ず無効なエントリーとみなされてしまうからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So, when do we send feedback to the user and how frequently?</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>では、どのようなタイミングと頻度でユーザーにフィードバックを提供すればよいのでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not wanting to be the overbearing waiter continually interrupting customers to check in with them, we didn’t flag errors on first run.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ここでは、ひっきりなしにお客様の元に行き邪魔をする横暴なウェイターにならないように、入力時点ではエラー信号を出さないようにしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead, only when errors are present after attempted submission do we begin informing the user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>送信時にエラーが存在した場合にのみ、ユーザーに知らせるようにしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Once the user is actively engaged in correcting errors, I think it helpful to reward their efforts as they work.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ユーザーが積極的にエラーの修正に取り組んだら、その行動に報いるのが良いと私は思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For fields now marked invalid, we could run our validation routine on each input event, switching aria-invalid from false to true where applicable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>無効とマークされたフィールドについて、inputイベントごとに検証ルーチンを実行し、aria-invalidを適宜falseからtrueに切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>var password = document.getElementById('password');
+password.addEventListener('input', function() {
+　alidate(this);
+});</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>var password = document.getElementById('password');
+password.addEventListener('input', function() {
+　alidate(this);
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Debouncing</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>デバウンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For users who type quickly, the above validate() function will fire very frequently.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>タイピングの速いユーザーの場合、先ほどのvalidate()関数が頻繁に実行されることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only will this produce some performance issues, but in implementations where a live region is populated and repopulated to declare invalidity, you put screen readers into ’80s remix mode: “Y-your-y-your pass-your password must be at least 6 characters long.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これはパフォーマンスの問題を引き起こすだけでなく、ライブリージョンが無効を宣言するエラーメッセージで繰り返し更新されるような場合、スクリーンリーダーが80年代のリミックスモードに入り、「＃＃6—6文字—6—6文字以上—6文字以上のパスワードを設定してください＃＃」などと読み上げられることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We want to make sure the validate() function is only called when the user is idle.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>validate()関数は、ユーザーがアイドル状態にあるときのみ呼び出されるようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By debouncing, we divide clusters of keypress events into blocks and only execute validate() once per block.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>デバウンスにより、キーストロークイベントの塊をブロックに分割して、ブロックごとにvalidate()を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lodash’s _.debounce utility accepts a wait parameter.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>Lodashの.debounce（脚注190）ユーティリティは、waitパラメーターを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In our case, we need to set this to be slightly shorter than what we imagine is the average interval between keystrokes.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>今回は、平均的なキーストロークの間隔と思われる時間よりもわずかに短くなるように設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When debouncing, the single function execution can take place at the beginning (leading) or end (trailing) of the block.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>デバウンスでは、単一の関数がブロックの開始（leading）または終了時（trailing）に実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We need the validation to happen only when the user has stopped typing. Accordingly, in the options object, options.leading should be false and options.trailing true.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ここではユーザーが入力をやめたときにのみ検証が行われるようにしたいので、optionsオブジェクトではoptions.leadingがfalse、options.trailingがtrueでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>var password = document.getElementById('password');
+var handleInput = _.debounce(validate.bind(null, this), 150,
+{
+　leading: false,
+　trailing: true,
+});
+password.addEventListener('input', handleInput);</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>var password = document.getElementById('password');
+var handleInput = _.debounce(validate.bind(null, this), 150,
+{
+　leading: false,
+　trailing: true,
+});
+password.addEventListener('input', handleInput);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Whether you actually want to implement a live region per field for feedback is up to you.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>フィールドごとにライブリージョンを実装してフィードバックを提供するかどうかは、開発者の自由です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Certainly, without one it won’t be immediately obvious when the field has become valid or invalid.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>確かに、フィードバックがなければ、フィールドが有効または無効になったことを即座に知ることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, since the aria-invalid attribute will have been set to true regardless, when the user blurs and refocuses the field, they will be told it is valid.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>しかし、それに関係なくaria-invalid属性はtrueに設定されるので、ユーザーがフィールドから離れて再度フォーカスを合わせたとき、有効であることが知らされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Most screen readers also provide shortcuts to reannounce element information.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>また、大半のスクリーンリーダーには要素情報を再度読み上げるためのショートカットが用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>NVDA, for example, will speak the focused password input when pressing Insert + Tab.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>たとえばNVDAでは、Insert + Tabキーを押すとフォーカスを合わせたパスワード入力が読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Microcopy</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>マイクロコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As ever, we need to be mindful not just of the code and the visual design but our choice of words.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>これまでと同様、コードと視覚デザインだけでなく言葉の選択にも注意を払う必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In forms, where labels and instructions mean the difference between succeeding to complete a form and failing, we need to take extra care — especially if the site we’re developing provides a crucial service, such as registering to vote.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>フォームを最後まで入力してもらえるかどうかはラベルと指示で決まるので、特に開発中のサイトが投票用の登録といった重要なサービスを提供している場合は、十分に注意しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The article “Five Ways To Prevent Bad Microcopy” by Bill Beard offers some key pointers:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ビル・ビアード（Bill Beard）による記事「Five Ways To Prevent Bad Microcopy」（脚注191）に記されたキーポイントを紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1. Get out your own head and get to know the user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>1.自分の考え方から抜け出して、ユーザーを理解するようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2. The user is a person. Talk to them like one.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>2.ユーザーは人間です。それを念頭に彼らと話をしてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>3. Use copy as a guide, not a crutch.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>3.コピーをガイドとして使用し、頼りすぎないようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>4. Treat every moment like a branding moment, even when it’s not.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>4.あらゆる瞬間をブランディングの瞬間のように扱いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>5. If content is king, then treat context like a queen.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>5.コンテンツが王であるなら、コンテキストは女王として扱いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All good advice, and I recommend you read the article in full. But I’d like to emphasize Bill’s stipulation regarding point four:</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>どれも優れたアドバイスで、この記事の全文を読むことをお勧めしますが、中でも私が強調したいのはビルが唱える4つ目のポイントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“Your brand’s tone and voice are essential to consider when writing all of your copy, but it should not get in the way of a user who is trying to take action.”</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>ブランドのトーンや声は、コピーを書くときは必ず考慮する必要がありますが、行動を起こそうとしているユーザーの邪魔になってはいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In other words, don’t put your brand before your usability.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>言い換えれば、ユーザビリティよりもブランドを優先させてはいけないということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In an official capacity, WCAG echoes Bill’s sentiments with the 2.4.6 Headings and Labels success criterion, imploring that “headings and labels describe topic or purpose.” Branding whimsy in your copy can diverge too much from transparent wording, confusing and infuriating the user.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>WCAGは、達成基準2.4.6「Headings and Labels」（脚注192）で「見出しとラベルはトピックまたは目的を説明するものである」と訴えることで、公式にビルの意見に同調しています。コピーによる奇抜なブランディングは、率直で分かりやすい言い回しからかけ離れ、ユーザーを混乱させたり憤慨させることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Take the password label in our registration form, for example.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>たとえば、登録フォームのパスワードラベルを考えてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If our form is for an online fantasy role-playing game, it might be tempting to relabel the field “Secret incantation,” “Spell of entry,” or maybe “Cryptic charm”; all more evocative than “Password” but in danger of leaving the user wondering what they’re really being asked for.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>オンラインのファンタジーロールプレイングゲーム用のフォームであれば、このフィールドを「秘密の呪文」「扉を開く魔法の言葉」「謎のおまじない」などとラベル付けしたくなるかもしれません。どれも「パスワード」より示唆に富んだラベルですが、ユーザーは「いったい何をすればいいんだろう？」と戸惑う思う恐れがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>まとめ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By exploring a specific form pattern, this chapter has given you most everything you need to develop inclusive forms in general.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>この章では、特定のフォームパターンを検討することで、インクルーシブなフォームを開発するのに通常必要になることを説明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s by using standard form elements, effective labeling, and facilitating the correction of errors that a maximal number of users are able to access and contribute to your websites and apps.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>できるだけ多くのユーザーがWebサイトやアプリケーションにアクセスおよび関与できるようにするには、標準的なフォーム要素を使用し、効果的なラベル付けを行い、エラーを修正しやすくする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But by keeping the form simple and avoiding irritating experiences — like disappearing labels, and passwords that you cannot check — we’ve made sure using the form isn’t just possible but somewhat agreeable.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>しかし、フォームをシンプルに保ち、ラベルが消えたりパスワードをチェックできないといった不快な体験を回避することで、多少なりとも気持ち良く入力できるフォームにすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Well, not entirely disagreeable anyway!</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>少なくとも、不愉快しか感じられないフォームになることはないでしょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Things to Avoid</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>避けるべきこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Putting content that needs to be read first last in the source.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>•最初に読む必要のあるコンテンツをソースの最後に配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Input focus styles that are too subtle.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>•非常に分かりにくい入力フォーカススタイル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Missing, invisible or unassociated labels and descriptions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>•欠けていたり、非表示になっていたり、関連付けされていないラベルや説明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>•Uninteractive content in a &lt;form&gt; context that isn’t associated with form fields.</seg>
+      </tuv>
+      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170809T100923Z">
+        <seg>•フォームフィールドと関連付けられていない、&lt;form&gt;コンテキストの非インタラクティブなコンテンツ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>— 1.https://www.w3.org/TR/WCAG20/#navigation-mechanisms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2.https://shop.smashingmagazine.com/products/apps-for-all 3.http://heydonworks.com/practical_aria_examples/#tab-interface</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>4.http://w3c.github.io/aria/aria/aria.html#toolbar 5.https://www.w3.org/TR/wai-aria-1.1/#aria-pressed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>6.https://www.w3.org/TR/WCAG20/#ensure-compat 7.http://tink.uk/proposed-aria-password-role/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>8.https://twitter.com/LeaVerou/status/758386597012185088 9.http://bradfrost.com/blog/post/float-label-pattern/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>10.https://twitter.com/mds 11.https://en.wikipedia.org/wiki/Asterix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>12.http://w3c.github.io/aria/aria/aria.html#aria-required 13.http://html5doctor.com/html5-forms-introduction-and-new-attributes/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>14.http://caniuse.com/#feat=form-validation 15.https://developer.mozilla.org/en-US/docs/Web/CSS/::-ms-reveal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>16.https://www.w3.org/TR/wai-aria-1.1/#img 17.https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-invalid_attribute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>18.https://www.w3.org/TR/wai-aria-1.1/#aria-describedby 19.https://lodash.com/docs#debounce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>20.https://www.smashingmagazine.com/2013/06/five-ways-prevent-bad-microcopy/ 21.https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
