@@ -4879,15 +4879,18 @@ lay, makeはいずれも命令系で使われているので、「すべき」�
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※要訳注
+
+(太田)
 user訳出。
+Safariでは画像オフで代替テキストが見られないはず。
 
 </note>
       <tuv lang="EN-US">
         <seg>As a user on a slow network who has turned off images, or they’ve failed to load, the alternative text is visible to me.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T094429Z" creationid="rikiha" creationdate="20170905T003635Z">
-        <seg>ネットワークの速度が遅いので画像をオフにしているユーザーや、あるいは画像の読み込みに失敗した場合も、代替テキストは見ることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T094511Z" creationid="rikiha" creationdate="20170905T003635Z">
+        <seg>ネットワークの速度が遅いので画像をオフにしているユーザーや、画像の読み込みに失敗した場合でも、この代替テキストは見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
