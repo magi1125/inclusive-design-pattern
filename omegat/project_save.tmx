@@ -289,8 +289,8 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Lazy loading:&lt;/g2&gt; There’s no need to load images unless they are to be seen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T003709Z" creationid="rikiha" creationdate="20170905T003709Z">
-        <seg>2.遅延読み込み：画像は見ることになるまで読み込む必要はありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T105033Z" creationid="rikiha" creationdate="20170905T003709Z">
+        <seg>&lt;/g1&gt;&lt;g2&gt;遅延読み込み&lt;/g2&gt;：画像は見ることになるまで読み込む必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6506,8 +6506,8 @@ http://qiita.com/Hexa/items/c3d864bc4ac5be0c9d2b を見ると昔はそういう�
       <tuv lang="EN-US">
         <seg>Compressing images needn’t be the arduous, manual task it once was, now that we can make use of automation tools like &lt;g3&gt;&lt;g4&gt;ImageOptim&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;13&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T105004Z" creationid="rikiha" creationdate="20170905T003707Z">
-        <seg>画像の圧縮は、かつてのように面倒な手動の作業ではなくなり、現在では&lt;g3&gt;&lt;g4&gt;ImageOptim&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注144）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;といった自動化ツールが利用できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T105022Z" creationid="rikiha" creationdate="20170905T003707Z">
+        <seg>画像の圧縮は、かつてのように面倒な手動の作業ではなくなり、現在では&lt;g3&gt;&lt;g4&gt;ImageOptim&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注144）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;といった自動化ツールが利用できるようになりました。</seg>
       </tuv>
     </tu>
     <tu>
