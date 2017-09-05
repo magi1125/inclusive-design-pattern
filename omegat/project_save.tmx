@@ -616,7 +616,9 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
     </tu>
     <tu>
       <note>(岡本)
-このaltを訳す必要あり。</note>
+このaltを訳す必要あり。
+
+(伊原) alt訳OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;img&lt;/g17&gt; &lt;g19&gt;src&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"/images/naked-forecourt-man_small.jpg"&lt;/g20&gt; &lt;g22&gt;alt&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"High-contrast black and white image of a naked man nonchalantly leaning against a petrol pump."&lt;/g23&gt;&lt;g25&gt;&gt;&lt;/g25&gt;&lt;/g16&gt;
 &lt;g26&gt;&lt;g27&gt;&lt;g28&gt;&lt;/&lt;/g28&gt;picture&lt;/g27&gt;&lt;g29&gt;&gt;&lt;/g29&gt;&lt;/g26&gt;&lt;/g1&gt;</seg>
@@ -5428,12 +5430,17 @@ decision treeはいったん決定木としました。決定ツリーとかで�
       <note>(太田)
 精密科学とは?
 正確でないと言うのはわかりますが、scienceをもってくる意味が不明でHP/HJと思われます。どう訳したものか。
-「精密科学の分野で求められるような厳密な話」としてみましたがどうでしょうか。</note>
+「精密科学の分野で求められるような厳密な話」としてみましたがどうでしょうか。
+
+(伊原) HP/HJ w
+https://ja.wikipedia.org/wiki/精密科学
+測定されたデータからなる厳密な理論構成ではない、ということですね。ふわっとした仮説であると。
+なので「精密科学のような裏付けがある理論ではありません」とかでもいいかもしれません。</note>
       <tuv lang="EN-US">
         <seg>Be aware that this is not an exact science.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T111438Z" creationid="rikiha" creationdate="20170905T003733Z">
-        <seg>なお、これは精密科学の分野で求められるような厳密な話ではありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T162759Z" creationid="rikiha" creationdate="20170905T003733Z">
+        <seg>なお、これは精密科学のような裏付けがある理論ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14163,7 +14170,9 @@ OK
     <tu>
       <note>(太田)
 細かいですが more than は以上ではなく「超える」。
-Noteが訳出されていませんが、まあいいかという気も。</note>
+Noteが訳出されていませんが、まあいいかという気も。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Note that the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; element, included last, will have its &lt;g2&gt;src&lt;/g2&gt; attribute automatically switched to that defined in the &lt;g3&gt;&lt;source&gt;&lt;/g3&gt; element &lt;g4&gt;only&lt;/g4&gt; if the viewport is more than 800px wide.</seg>
       </tuv>
