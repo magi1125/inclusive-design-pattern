@@ -14838,12 +14838,15 @@ aria-labelledbyがあるとそっちが優先だったり、細かいルール�
     <tu>
       <note>(太田)
 少し調整。
-原文に語順をあわせつつ2文にしました。</note>
+原文に語順をあわせつつ2文にしました。
+
+(岡本)
+1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>One of the advantages of using SVG is that its file size can be extremely small, especially when using repeated geometric shapes like rectangles, by way of the &lt;g1&gt;&lt;rect&gt;&lt;/g1&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T095929Z" creationid="rikiha" creationdate="20170905T003642Z">
-        <seg>SVGを使用する利点の1つは、ファイルサイズが非常に小さくなることです。特に、矩形の幾何学模様の繰り返しに&lt;g1&gt;&lt;rect&gt;&lt;/g1&gt;要素を使ったような場合には顕著です。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170905T103440Z" creationid="rikiha" creationdate="20170905T003642Z">
+        <seg>SVGを使用する利点のひとつは、ファイルサイズが非常に小さくなることです。特に、矩形の幾何学模様の繰り返しに&lt;g1&gt;&lt;rect&gt;&lt;/g1&gt;要素を使ったような場合には顕著です。</seg>
       </tuv>
     </tu>
     <tu>
