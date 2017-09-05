@@ -22360,12 +22360,14 @@ poor を不適切とするのがいいのかどうか。
     </tu>
     <tu>
       <note>(太田)
-unless or until は厳密に訳さなくても良いように思います。</note>
+unless or until は厳密に訳さなくても良いように思います。
+
+(伊原) ブラウザで挙動で画像が表示されるのは自発的なダウンロードではない感じなので、受身にしました。</note>
       <tuv lang="EN-US">
         <seg>Using lazy loading means not downloading the image resource unless or until the &lt;g3&gt;&lt;img/&gt;&lt;/g3&gt; element enters the viewport.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T105340Z" creationid="rikiha" creationdate="20170905T003714Z">
-        <seg>遅延読み込みを使うと、&lt;g3&gt;&lt;img/&gt;&lt;/g3&gt;要素がビューポートに入るまで画像リソースをダウンロードしません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T152614Z" creationid="rikiha" creationdate="20170905T003714Z">
+        <seg>遅延読み込みを使うと、&lt;g3&gt;&lt;img/&gt;&lt;/g3&gt;要素がビューポートに入るまで画像リソースはダウンロードされません。</seg>
       </tuv>
     </tu>
     <tu>
