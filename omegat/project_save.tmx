@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21323,8 +21323,8 @@ explicitlyを訳出したいかも。「明示的に」としました。
       <tuv lang="EN-US">
         <seg>To avoid duplication in the last example, the correct answer was — perhaps counterintuitively at first glance — explicitly &lt;g3&gt;no&lt;/g3&gt; alternative text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T074014Z" creationid="yoota" creationdate="20170905T031316Z">
-        <seg>さきほどのユーザー評価の星印画像の例では、繰り返しを避けるため――もしかすると意外だったかもしれませんが――代替テキストを明示的に&lt;g3&gt;なし&lt;/g3&gt;にするのが正解でした。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170905T074922Z" creationid="yoota" creationdate="20170905T031316Z">
+        <seg>.さきほどのユーザー評価の星印画像の例では、繰り返しを避けるため――もしかすると意外だったかもしれませんが――代替テキストを明示的に&lt;g3&gt;なし&lt;/g3&gt;にするのが正解でした。</seg>
       </tuv>
     </tu>
     <tu>
