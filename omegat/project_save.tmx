@@ -2433,7 +2433,9 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       <note>(岡本)
 ここのaltの訳お願いします。
 
-(太田) 元訳そのまま反映。これでOKかと。</note>
+(太田) 元訳そのまま反映。これでOKかと。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g33&gt;&lt;g34&gt;&lt;g35&gt;&lt;&lt;/g35&gt;img&lt;/g34&gt; &lt;g36&gt;src&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"/images/naked-forecourt-man.jpg"&lt;/g37&gt; &lt;g39&gt;alt&lt;/g39&gt;&lt;g40&gt;&lt;g41&gt;=&lt;/g41&gt;"High-contrast black and white image of a naked man nonchalantly leaning against a gas pump."&lt;/g40&gt; &lt;g42&gt;/&gt;&lt;/g42&gt;&lt;/g33&gt;</seg>
       </tuv>
@@ -2799,6 +2801,9 @@ Price:　→価格：</note>
 でなくてもいいですか？</note>
       <tuv lang="EN-US">
         <seg>&lt;g71&gt;&lt;g72&gt;&lt;g73&gt;&lt;&lt;/g73&gt;dd&lt;/g72&gt;&lt;g74&gt;&gt;&lt;/g74&gt;&lt;/g71&gt;€35.95&lt;g75&gt;&lt;g76&gt;&lt;g77&gt;&lt;/&lt;/g77&gt;dd&lt;/g76&gt;&lt;g78&gt;&gt;&lt;/g78&gt;&lt;/g75&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T131054Z">
+        <seg>&lt;g71&gt;&lt;g72&gt;&lt;g73&gt;&lt;&lt;/g73&gt;dd&lt;/g72&gt;&lt;g74&gt;&gt;&lt;/g74&gt;&lt;/g71&gt;35.95ユーロ&lt;g75&gt;&lt;g76&gt;&lt;g77&gt;&lt;/&lt;/g77&gt;dd&lt;/g76&gt;&lt;g78&gt;&gt;&lt;/g78&gt;&lt;/g75&gt;</seg>
       </tuv>
     </tu>
     <tu>
