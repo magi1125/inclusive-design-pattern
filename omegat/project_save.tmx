@@ -1619,8 +1619,8 @@ http://www.w3.org/TR/wai-aria-1.1/#definition
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Like an unordered list (&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;), the definitions list (&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;) has its items enumerated by screen readers so users know how many to expect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170904T141314Z" creationid="rikiha" creationdate="20170828T141915Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;番号なしリスト（&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;）と同様、定義リスト（&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;）はスクリーンリーダーが項目を数え上げるので、ユーザーは項目がいくつあるかわかります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T022616Z" creationid="rikiha" creationdate="20170828T141915Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;番号なしリスト（&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;）と同様、記述リスト（&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;）はスクリーンリーダーが項目を数え上げるので、ユーザーは項目がいくつあるかわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9151,7 +9151,10 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 いったん保留。
 
 (伊原) おそらくその解釈であっていると思います。epubを見るとここで段落が分かれているので、つけたしとして一貫性の話をしたかったんだろうなと。
-if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらしいので、そんな風にしてみました。</note>
+if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらしいので、そんな風にしてみました。
+
+(太田) ありがとうございます。OKです。
+</note>
       <tuv lang="EN-US">
         <seg>If the user were to follow the link inside the heading to the photographer’s own page, the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location should be similarly marked up and presented.</seg>
       </tuv>
@@ -22664,7 +22667,9 @@ NVDAは「リスト6項目」ですね。
 (伊原) 自分が使っているOSX（英語設定）のVoiceOverだとDescription List 6 itemsと読みました。Definitionとは言わないのですが、ともあれ読むは読むようです。確かにiOSでは読まないですね。
 
 (太田)
-ありがとうございます。訳注ですね。</note>
+ありがとうございます。訳注ですね。
+ここが Description List となるのであれば、前分節の「定義リスト」は「記述リスト」に変えてしまってもいいですね。
+</note>
       <tuv lang="EN-US">
         <seg>When first encountered, screen readers like VoiceOver will announce “Definition list,” letting users know that they should expect key/value pairs.</seg>
       </tuv>
