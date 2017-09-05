@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5269,8 +5269,8 @@ thoughをどう扱うか。
       <tuv lang="EN-US">
         <seg>Aware that the design of &lt;g1&gt;alt&lt;/g1&gt; text — like the design of anything else — should be informed by context, the WAI (Web Accessibility Initiative) offers the &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;alt&lt;/g4&gt; decision tree&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;11&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T031322Z" creationid="yoota" creationdate="20170905T031322Z">
-        <seg>altテキストのデザインには、他のあらゆるもののデザインと同様、コンテキストからの情報が必要で、WAI（Web Accessibility Initiative）はaltの決定木（ディシジョンツリー）を提供しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T073330Z" creationid="yoota" creationdate="20170905T031322Z">
+        <seg>&lt;g1&gt;alt&lt;/g1&gt;テキストのデザインには――他のあらゆるもののデザインと同様――コンテキストからの情報が必要で、WAI（Web Accessibility Initiative）は&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;alt&lt;/g4&gt;の決定木（ディシジョンツリー）&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21310,7 +21310,7 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 前の例が直前ではなく、何のことかわかりにくかったので、補いました。また、ダッシュを活かしました（ただ、「――一見すると」をどうしたものか）。</note>
+      <note>(伊原) 前の例が直前ではなく、何のことかわかりにくかったので、補いました。また、ダッシュを活かしました（ただ、「――一見すると」でダッシュとイチがカブってしまうのはどうしたものか）。</note>
       <tuv lang="EN-US">
         <seg>To avoid duplication in the last example, the correct answer was — perhaps counterintuitively at first glance — explicitly &lt;g3&gt;no&lt;/g3&gt; alternative text.</seg>
       </tuv>
