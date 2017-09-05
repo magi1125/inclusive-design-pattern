@@ -14126,8 +14126,8 @@ OK
       <tuv lang="EN-US">
         <seg>Note that the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; element, included last, will have its &lt;g2&gt;src&lt;/g2&gt; attribute automatically switched to that defined in the &lt;g3&gt;&lt;source&gt;&lt;/g3&gt; element &lt;g4&gt;only&lt;/g4&gt; if the viewport is more than 800px wide.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T110702Z" creationid="yoota" creationdate="20170905T083214Z">
-        <seg>最後にある&lt;g1&gt;&lt;img/&gt;&lt;/g1&gt;要素は、ビューポートの幅が800px以上の場合にのみ、そのsrc属性を&lt;source&gt;要素で定義されているものに自動的に切り替えます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T110726Z" creationid="yoota" creationdate="20170905T083214Z">
+        <seg>最後にある&lt;g1&gt;&lt;img/&gt;&lt;/g1&gt;要素は、ビューポートの幅が800px以上の場合にのみ、その&lt;g2&gt;src&lt;/g2&gt;属性を&lt;g3&gt;&lt;source&gt;&lt;/g3&gt;要素で定義されているものに自動的に切り替えます。</seg>
       </tuv>
     </tu>
     <tu>
