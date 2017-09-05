@@ -22294,8 +22294,8 @@ unless or until は厳密に訳さなくても良いように思います。</no
       <tuv lang="EN-US">
         <seg>Using lazy loading means not downloading the image resource unless or until the &lt;g3&gt;&lt;img/&gt;&lt;/g3&gt; element enters the viewport.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T105303Z" creationid="rikiha" creationdate="20170905T003714Z">
-        <seg>遅延読み込みを使うと、&lt;g3&gt;&lt;img/&gt;&lt;/g3&gt;要素がビューポートに入るまで画像リソースをダウンロードしません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T105330Z" creationid="rikiha" creationdate="20170905T003714Z">
+        <seg>遅延読み込みを使うと、&lt;g3&gt;&lt;img/&gt;&lt;/g3&gt;要素がビューポートに入らない限り画像リソースをダウンロードしません。</seg>
       </tuv>
     </tu>
     <tu>
