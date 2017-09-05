@@ -352,6 +352,14 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;In all assistive technologies, focusing the link is liable to trigger the readout of all its textual contents, which is rather verbose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004356Z" creationid="rikiha" creationdate="20170905T004356Z">
+        <seg>3.すべての支援技術では、リンクをフォーカスするとそのテキストコンテンツすべての読み上げをトリガーする傾向があり、かなり冗長です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 「操作には参加しない、」読点追加。oftenを訳すかどうか。
 
 (岡本)　一人→ひとり　一緒→いっしょ
@@ -368,6 +376,14 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170830T024819Z" creationid="rikiha" creationdate="20170827T120019Z">
         <seg>操作に参加しない、2人目のテストユーザー。誰かがいっしょに座っているだけでユーザーは心強く感じますし、会話が促されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Operators of touch devices will undoubtedly find themselves accidentally following the link while pressing a part of the screen which &lt;g2&gt;appears&lt;/g2&gt; to be uninteractive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004357Z" creationid="rikiha" creationdate="20170905T004357Z">
+        <seg>4.タッチデバイスを操作する人はまず間違いなく、画面内のインタラクティブに見えない部分をうっかり押して、リンクをたどることになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +434,14 @@ Theを重視するなら「テスト対象の」と補うのもありか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The link doesn’t have a dedicated label, either visually or determinable by assistive technologies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004348Z" creationid="rikiha" creationdate="20170905T004348Z">
+        <seg>1.このリンクには、視覚的な専用ラベルも、支援技術によって特定できる専用ラベルもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) OK
@@ -439,6 +463,14 @@ Theを重視するなら「テスト対象の」と補うのもありか。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170828T034436Z" creationid="rikiha" creationdate="20170827T120018Z">
         <seg>プロトタイプを操作するテストユーザー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;This structure produces unexpected behaviors in some screen readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004351Z" creationid="rikiha" creationdate="20170905T004351Z">
+        <seg>2.この構造は一部のスクリーンリーダーで予期せぬ動作を引き起こします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2772,6 +2804,14 @@ Price:　→価格：</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g7&gt;&lt;g8&gt;Google recommends using descriptive link text&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;17&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; because its crawler can see that (where link text and the destination page’s &lt;g12&gt;&lt;title&gt;&lt;/g12&gt; or &lt;g13&gt;&lt;h1&gt;&lt;/g13&gt; are similar) relevance is likely to be high.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004309Z" creationid="rikiha" creationdate="20170905T004309Z">
+        <seg>Googleは説明的なリンクテキスト（脚注148）の使用を推奨しています。Googleのクローラーは、（リンクテキストとリンク先ページの&lt;title&gt;やが類似している場合）適合性が高い可能性があると確認できるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g81&gt;&lt;g82&gt;&lt;g83&gt;&lt;&lt;/g83&gt;li&lt;/g82&gt;&lt;g84&gt;&gt;&lt;/g84&gt;&lt;/g81&gt;&lt;g85&gt;&lt;g86&gt;&lt;g87&gt;&lt;&lt;/g87&gt;a&lt;/g86&gt; &lt;g88&gt;href&lt;/g88&gt;&lt;g89&gt;&lt;g90&gt;=&lt;/g90&gt;"#endorsements"&lt;/g89&gt;&lt;g91&gt;&gt;&lt;/g91&gt;&lt;/g85&gt;Endorsements&lt;g92&gt;&lt;g93&gt;&lt;g94&gt;&lt;/&lt;/g94&gt;a&lt;/g93&gt;&lt;g95&gt;&gt;&lt;/g95&gt;&lt;/g92&gt;&lt;g96&gt;&lt;g97&gt;&lt;g98&gt;&lt;/&lt;/g98&gt;li&lt;/g97&gt;&lt;g99&gt;&gt;&lt;/g99&gt;&lt;/g96&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134507Z" creationid="rikiha" creationdate="20170809T134507Z">
@@ -3484,6 +3524,14 @@ Note を訳出しました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170820T141615Z" creationid="rikiha" creationdate="20170819T005310Z">
         <seg>堅牢な表示方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A browser only knows to provide these things if you use the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; element in an expected way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004249Z" creationid="rikiha" creationdate="20170905T004249Z">
+        <seg>ブラウザは、予期される方法で&lt;a&gt;要素を使っている場合だけ、これらの機能を提供すると理解します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4982,6 +5030,14 @@ https://www.noupe.com/design/10-beginner-tips-for-unique-product-photography-790
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As well as basic linking behavior breaking when JavaScript is not available, even where it &lt;g1&gt;is&lt;/g1&gt; available the experience is lacking: URLs only reveal “javascript:;” on hover and the link cannot be dragged into the browser tab list.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004244Z" creationid="rikiha" creationdate="20170905T004244Z">
+        <seg>JavaScriptが利用できないと基本的なリンク動作が機能せず、利用できる場合も体験に不足があります。カーソルを合わせてもURLは“javascript:;”とだけ表示され、リンクをブラウザのタブリストにドラッグすることもできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ページを移動するのではなくページ内を移動するので、調整しました。
 
 (太田) OK
@@ -5281,6 +5337,14 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Because so many accessibility errors relating to assistive technologies are markup errors, and because markup errors are so easy to identify, we’ve grown up in an accessibility remediation culture that is assistive technology obsessed and focused on discrete code errors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004409Z" creationid="rikiha" creationdate="20170905T004409Z">
+        <seg>支援技術に関連した非常に多くのアクセシビリティのエラーは、マークアップのエラーです。そしてマークアップのエラーはとても簡単に特定できるので、私たちは個々のコードエラーに神経を尖らせた支援技術という、アクセシビリティ修復文化の中で育ってきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) このone-for-oneは、前述の「原則ごとの修正」を指しているのではないでしょうか。そのように補いつつ調整してみました。
 
 (太田)
@@ -5378,6 +5442,14 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170901T034213Z" creationid="rikiha" creationdate="20170828T141735Z">
         <seg>目玉商品やおすすめ商品であることを示したい場合は、CSSでハイライト表示した説明文を追加すると良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block-Level Links</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004334Z" creationid="rikiha" creationdate="20170905T004334Z">
+        <seg>ブロックレベルのリンク</seg>
       </tuv>
     </tu>
     <tu>
@@ -6028,6 +6100,14 @@ segregateは隔離というより分離としたほうがしっくりくるか�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By the same token, an interface with the odd superficial error may be so simple, well structured and clear that it’s still a pleasure to use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004408Z" creationid="rikiha" creationdate="20170905T004408Z">
+        <seg>同様に、変則的なケアレスミスのあるインターフェイスでも、とてもシンプルで十分に構造化された分かりやすいものであれば快適に使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) By the same token で「同様に」なのですが、ちょっとそれだと変ですね。こちらを「一方」としました。その他もろもろ調整。
 
 (太田) 「同じ理屈で」、というようなことでしょうね。「逆に」とかのほうがいいかも。
@@ -6290,6 +6370,14 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170822T072030Z" creationid="rikiha" creationdate="20170819T005210Z">
         <seg>&lt;g1&gt;&lt;g2&gt;アクセシビリティツリー&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注119）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;に頼らざるを得ない支援技術のユーザーにWebインターフェイスの状態を伝えることは、インターフェイスをインクルーシブにするうえで重要なことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complaints toward online services are almost always from people unable to actually &lt;g6&gt;use&lt;/g6&gt; an interface, but a 100%-compliant interface can still be entirely unusable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004407Z" creationid="rikiha" creationdate="20170905T004407Z">
+        <seg>オンラインサービスに対する苦情は、必ずと言っていいほどインターフェイスを実際に使うことができない人々から寄せられますが、100％準拠しているインターフェイスでもまったく使いものにならないことはあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7334,6 +7422,14 @@ typingはそのままタイピングで良いかと思います。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For example, in VoiceOver, when I try to navigate to a product heading using &lt;g2&gt;Ctrl&lt;/g2&gt; + &lt;g3&gt;Alt&lt;/g3&gt; + &lt;g4&gt;Cmd&lt;/g4&gt; + &lt;g5&gt;H&lt;/g5&gt;, the surrounding link is focused and the heading semantics (“Third-level heading”) are not announced.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004354Z" creationid="rikiha" creationdate="20170905T004354Z">
+        <seg>たとえば、VoiceOverでは、Ctrl + Alt + Cmd + Hを使用して商品の見出しへ移動しようとすると、周囲のリンクがフォーカスされ、見出しのセマンティクス（「＃＃Third-level heading＃＃」）は読み上げられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 解析できないということはないのでは……。
 厳密に言うとスクリーンリーダーはDOMを解析しているわけではないのですが訳注いりますかね?
 massiveは「大きくて重い、大規模な」というような意味ですが、データサイズの肥大については前の文で述べているので、ここでは「複雑な」としました。
@@ -8177,6 +8273,14 @@ blog post as found at its permalinkは、パーマリンクをたどった先で
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170730T131321Z" creationid="rikiha" creationdate="20170730T124337Z">
         <seg>そのときの考え方の例を紹介しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here’s how the overall layout is shaping up:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004312Z" creationid="rikiha" creationdate="20170905T004312Z">
+        <seg>全体的なレイアウトはこのようになっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9512,6 +9616,14 @@ http://www.w3.org/TR/CSS1/#length-units
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In HTML5, it has been made acceptable to &lt;g1&gt;&lt;g2&gt;place block-level content inside link (&lt;g3&gt;&lt;a&gt;&lt;/g3&gt;) elements&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;18&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004335Z" creationid="rikiha" creationdate="20170905T004335Z">
+        <seg>HTML5では、リンク（&lt;a&gt;）要素内にブロックレベルのコンテンツを配置することが可能になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注アリ
 
 (伊原) 【要訳注】日本語の場合にどうしたらいいのかを訳注したほうがいいかも？
@@ -10007,6 +10119,14 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In general, it’s better to avoid block-level links like this one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004401Z" creationid="rikiha" creationdate="20170905T004401Z">
+        <seg>一般に、この例のようなブロックレベルのリンクは避けた方が良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) (which and what) they should be named ということでいいのでしょうか。straightを訳出。
 
 (岡本)　勧め→すすめ
@@ -10031,6 +10151,14 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T090200Z" creationid="yoota" creationdate="20170524T090135Z">
         <seg>アリス・バートレット（Alice Bartlett）は、「&lt;g1&gt;&lt;g2&gt;Burn Your Select Tags&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注43）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」（ビデオ）の中で、&lt;g6&gt;&lt;g7&gt;UK Government Digital Service&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注44）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;で彼女が行った&lt;g11&gt;&lt;select&gt;&lt;/g11&gt;要素のユーザービリティの調査について話しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In his article “&lt;g1&gt;&lt;g2&gt;To Hell With Compliance&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;19&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” accessibility consultant and trainer Karl Groves sets out why the bureaucratic box-ticking of compliance testing gains us little ground towards successful inclusion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004404Z" creationid="rikiha" creationdate="20170905T004404Z">
+        <seg>アクセシビリティコンサルタント兼指導者のカール・グローブス（Karl Groves）は、記事「To Hell With Compliance」（脚注150）の中で、準拠性テストのお役所仕事的な確認手続きでは、優れたインクルージョンを達成する助けにはほとんどならない理由を詳しく述べています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10188,6 +10316,14 @@ metaについては補足が必要か?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170803T083146Z" creationid="rikiha" creationdate="20170730T124437Z">
         <seg>つまり、「プロジェクトのロゴ」では不十分です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In our case, this comes at the cost of removing the child link to the photographer’s page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004338Z" creationid="rikiha" creationdate="20170905T004338Z">
+        <seg>今回の例では、写真家のページへの子リンクを削除するという代償が伴います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10927,6 +11063,14 @@ easiliy digestible は消化しやすいということのようで、もう少�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Inclusive design has a different take.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004410Z" creationid="rikiha" creationdate="20170905T004410Z">
+        <seg>インクルーシブデザインはそれとは異なる見方や考え方をします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) not just で「だけでなく」なのでそのようにしました。また、実際の使い方という言い方に直しました。
 
 (太田) appreciateは「評価する」くらいかも。
@@ -11174,6 +11318,14 @@ stillは無理に訳さなくても良い気がします。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170529T062609Z" creationid="yoota" creationdate="20170524T102835Z">
         <seg>ナビゲートでき、使い物になっていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It acknowledges the importance of markup in making semantic, robust interfaces, but it is the user’s ability to &lt;g1&gt;actually get things done&lt;/g1&gt; that it makes the object.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004413Z" creationid="rikiha" creationdate="20170905T004413Z">
+        <seg>セマンティックで堅牢なインターフェイスの作成におけるマークアップの重要性は認識しながらも、目標はあくまでもユーザーが実際に目的を実行できるようにすることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12007,6 +12159,14 @@ investは投資で良いのか? インクルーシブ思考に時間を費やす
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s the bare minimum we can offer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004406Z" creationid="rikiha" creationdate="20170905T004406Z">
+        <seg>それでは最低限のことを満たしているにすぎないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 冗長だったので多少調整しました。
 
 (太田) 言っていることが少し違うような。
@@ -12278,6 +12438,14 @@ implementationを例→実装としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T093742Z" creationid="yoota" creationdate="20170523T093706Z">
         <seg>以下のように、別の見出し要素にサブタイトルを入れている実装を多数見たことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just because the specification mandates that something is technically valid markup doesn’t mean it produces an agreeable user experience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004403Z" creationid="rikiha" creationdate="20170905T004403Z">
+        <seg>仕様上は技術的に正当なマークアップだからといって、快適なユーザー体験をもたらすとは限りません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12572,6 +12740,14 @@ Keyは重要でいいのか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170815T033322Z" creationid="rikiha" creationdate="20170811T133410Z">
         <seg>では、それぞれの是非を見ていきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s not forget that each link for each product currently has an identical “Buy Now” label, meaning screen reader aggregated link lists will take the following unhelpful form:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004253Z" creationid="rikiha" creationdate="20170905T004253Z">
+        <seg>現状では各商品のリンクに同じ「今すぐ購入」というラベルが付いています。つまり、スクリーンリーダーが集約したリンクリストは次のようになり、役に立ちません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14014,6 +14190,14 @@ emulateはそのままエミュレートでも良いのかも。少し上で「�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Now that the markup is not technically &lt;g1&gt;nonconforming&lt;/g1&gt;, there are a number of more important UX concerns to address:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004346Z" creationid="rikiha" creationdate="20170905T004346Z">
+        <seg>マークアップは技術的に不適合ではなくなりましたが、UXに関する重要な懸案事項がいくつかあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) もう少しこなれた訳にしたい。ちょっと調整してみました。
 
 (太田) ちょっと何を言っているのかわからない感がありますね。以下のどちらがいいたいのか。
@@ -14042,6 +14226,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170529T055929Z" creationid="yoota" creationdate="20170523T093931Z">
         <seg>ここまでに見出しの構造的な役割を学習してきた皆さんには、何が問題かおわかりでしょう。それは、&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt;がすぐ下に「～シンプルな7つのステップで～」というサブセクションを作るということです。これはセクションの見出しとしては奇妙で断片的であり、以下のような、ほとんど意味を成さない目次ができることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now the link text makes sense independent of context.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004302Z" creationid="rikiha" creationdate="20170905T004302Z">
+        <seg>これでコンテキストから独立してリンクテキストが意味をなすようになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16024,6 +16216,14 @@ U+2630 TRIGRAM FOR HEAVEN は普通に使っていいのかどうか。特に電
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the title of the product is already present visually and in context via the &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;, we should remedy this with some visually hidden text, placed within the link.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004256Z" creationid="rikiha" creationdate="20170905T004256Z">
+        <seg>商品のタイトルはすでにを用いて視覚的にコンテキスト内に提示されているので、リンク内に非表示のテキストを配置し、この問題を修正します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the visual appearance of a button suggests button-like behavior, it is recommended to preserve that aesthetic for actual &lt;g1&gt;&lt;button&gt;&lt;/g1&gt;s.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170905T004207Z" creationid="rikiha" creationdate="20170905T004207Z">
@@ -16886,6 +17086,14 @@ It is to be expected that WCAG is organized by principle.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That is, I could wrap my entire product item’s contents in a link.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004336Z" creationid="rikiha" creationdate="20170905T004336Z">
+        <seg>（脚注149）つまり、商品のコンテンツ全体をリンクでラップできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 誤訳っぽいような。
 調整してみました。
@@ -17387,6 +17595,14 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T061632Z" creationid="yoota" creationdate="20170426T061632Z">
         <seg>&lt;g1&gt;viewport&lt;/g1&gt;メタタグを置くことで、魔法のようにレスポンシブデザインが有効になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;visually-hidden&lt;/g1&gt; class should, of course, correspond to a &lt;g2&gt;&lt;g3&gt;screen reader accessible hiding technique&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;16&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, as introduced in “A Blog Post.” Note that having the product name in the link text has an added advantage: it is a well-known technique for improving search engine visibility.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004305Z" creationid="rikiha" creationdate="20170905T004305Z">
+        <seg>「ブログ記事」で説明したように、もちろんvisually-hiddenクラスはスクリーンリーダーでアクセスできる非表示テクニック（脚注147）に対応しています。リンクテキスト内に商品名を入れる利点は他にもあり、検索エンジンの認知度を向上させる周知のテクニックです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18492,6 +18708,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The outcome is that users will not know they can interact with the item until they &lt;g2&gt;interact with it&lt;/g2&gt; (by hovering the cursor over it to produce a pointer, say, or by invoking a focus style).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004349Z" creationid="rikiha" creationdate="20170905T004349Z">
+        <seg>その結果、ユーザーはその項目に触れてみるまで（その上にカーソルを合わせてポインターを表示させたり、フォーカス状態にするなど）、インタラクションを行えることが分かりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The patterns described in this book are reusable as exemplars, but mostly they’re for practice.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T102111Z" creationid="okamoto_jun" creationdate="20170627T102111Z">
@@ -18599,6 +18823,19 @@ Good!
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The product layout with the image on the left and the details and buy button on the right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004330Z" creationid="rikiha" creationdate="20170905T004330Z">
+        <seg>給油場の裸の男
+ケニー・マルバートン作
+サイズ：90cm × 30cm
+価格：€35.95
+評価：★★★★☆（5つ星中4つ星）
+今すぐ購入</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 わかりにくいので語順含め調整してみました。
 
@@ -18651,6 +18888,14 @@ canonicalどうするか。正規の画像としてみました。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095322Z" creationid="okamoto_jun" creationdate="20170627T095322Z">
         <seg>Webというメディアに対する少しの知識が、よりシンプルかつインクルーシブな解決策を導き出すことに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The quality of the markup is measured by what it can offer in terms of UX.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004417Z" creationid="rikiha" creationdate="20170905T004417Z">
+        <seg>マークアップの品質は、UXの観点で何が提供できるかによって判断されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18742,6 +18987,14 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T010859Z">
         <seg>右は、行の高さは同じだが文字が大きいため、各行が重なってしまっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The right-click context menu intended for links is not invoked either.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004246Z" creationid="rikiha" creationdate="20170905T004246Z">
+        <seg>リンク用の右クリックのコンテキストメニューも呼び出されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19949,6 +20202,14 @@ marginは「マージン」で良いかと。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This has the advantage of increasing the clickable area of the item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004337Z" creationid="rikiha" creationdate="20170905T004337Z">
+        <seg>こうすれば項目のクリックできる領域が増えるというメリットがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) OK</note>
@@ -20383,6 +20644,14 @@ esotericは特殊というより、他で使われていないというニュア
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170817T080407Z" creationid="rikiha" creationdate="20170815T160750Z">
         <seg>この方法では&lt;g1&gt;&lt;span&gt;&lt;/g1&gt;にCSSハックを用いて、「メニュー」というテキストラベルを隠しつつ、スクリーンリーダーには拾われるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This might help the framework developers because they like to work exclusively within the realm of JavaScript.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004238Z" creationid="rikiha" creationdate="20170905T004238Z">
+        <seg>これは、JavaScriptの世界の中だけで作業することを好むフレームワーク開発者にとっては便利かもしれませんが、ユーザーの役には立ちません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21507,6 +21776,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Unique, Descriptive Link Text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004252Z" creationid="rikiha" creationdate="20170905T004252Z">
+        <seg>固有の説明的なリンクテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Universally implemented and semantic though it is, there’s compelling evidence that you should avoid using the &lt;g12&gt;&lt;select&gt;&lt;/g12&gt; element wherever possible.</seg>
@@ -21744,6 +22021,14 @@ poor を不適切とするのがいいのかどうか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095849Z" creationid="okamoto_jun" creationdate="20170627T095849Z">
         <seg>Web API （「バニラ」JavaScript）で書くと、おおむね以下のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very annoying.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004400Z" creationid="rikiha" creationdate="20170905T004400Z">
+        <seg>とてもイライラします。</seg>
       </tuv>
     </tu>
     <tu>
