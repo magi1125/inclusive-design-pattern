@@ -21536,11 +21536,15 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+実感するために→実感したければ、としてみました。
+
+</note>
       <tuv lang="EN-US">
         <seg>To get an impression of how slow loading a page full of raster thumbnails can be, find an existing site with the kind of content we’re discussing, then open Chrome’s developer tools.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T003648Z" creationid="rikiha" creationdate="20170905T003648Z">
-        <seg>ラスター形式のサムネイルでいっぱいのページを読み込むのにどれだけ時間がかかるか実感するために、そのようなコンテンツを扱っているサイトを見つけ、Chromeのデベロッパーツールを開きましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T100914Z" creationid="rikiha" creationdate="20170905T003648Z">
+        <seg>ラスター形式のサムネイルでいっぱいのページを読み込むのにどれだけ時間がかかるか実感したければ、そのようなコンテンツを扱っているサイトを見つけ、Chromeのデベロッパーツールを開きましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22666,7 +22670,8 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
     </tu>
     <tu>
       <note>(太田)
-accurateは「的確な表現ができる」としてみました。</note>
+accurateは「的確な表現ができる」としてみました。
+ちょっと調整。</note>
       <tuv lang="EN-US">
         <seg>We’ll have to defer to a weightier but more accurate raster format such as PNG or JPG.</seg>
       </tuv>
