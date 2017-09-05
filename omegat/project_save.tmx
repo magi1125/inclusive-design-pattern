@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5268,11 +5268,13 @@ thoughをどう扱うか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) コンテキストの情報が必要です➞文脈に基づいて（デザインが）行われるべきです。と修正。
+decision treeはいったん決定木としました。決定ツリーとかでもいいかも？</note>
       <tuv lang="EN-US">
         <seg>Aware that the design of &lt;g1&gt;alt&lt;/g1&gt; text — like the design of anything else — should be informed by context, the WAI (Web Accessibility Initiative) offers the &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;alt&lt;/g4&gt; decision tree&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;11&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T073330Z" creationid="yoota" creationdate="20170905T031322Z">
-        <seg>&lt;g1&gt;alt&lt;/g1&gt;テキストのデザインには――他のあらゆるもののデザインと同様――コンテキストからの情報が必要で、WAI（Web Accessibility Initiative）は&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;alt&lt;/g4&gt;の決定木（ディシジョンツリー）&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;を提供しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T074039Z" creationid="yoota" creationdate="20170905T031322Z">
+        <seg>&lt;g1&gt;alt&lt;/g1&gt;テキストのデザインは――他のあらゆるデザインと同様――文脈に基づいて行われるべきです。WAI（Web Accessibility Initiative）は&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;alt&lt;/g4&gt;の決定木&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注142）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7723,8 +7725,8 @@ OK</note>
       <tuv lang="EN-US">
         <seg>For our thumbnail, which does not contain text or describe an action, we have to ask: “Does the image contribute meaning to the current page or context?”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T033402Z" creationid="rikiha" creationdate="20170905T033402Z">
-        <seg>（脚注142）今回のサムネイルの場合は、テキストは含まれておらず、アクションの説明もないので、「この画像は現在のページやコンテキストに意味を提供しているか？」と自問する必要があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T073334Z" creationid="rikiha" creationdate="20170905T033402Z">
+        <seg>今回のサムネイルの場合は、テキストは含まれておらず、アクションの説明もないので、「この画像は現在のページやコンテキストに意味を提供しているか？」と自問する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
