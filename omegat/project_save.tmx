@@ -238,6 +238,14 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;&lt;g2&gt;Compression:&lt;/g2&gt; If you do nothing else, make sure your images are compressed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003706Z" creationid="rikiha" creationdate="20170905T003706Z">
+        <seg>1.圧縮：他のことはともかく、画像の圧縮は必ず行いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 語順等調整。
 
 (太田)
@@ -272,6 +280,22 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170827T153721Z" creationid="rikiha" creationdate="20170827T115931Z">
         <seg>&lt;/g1&gt;&lt;g2&gt;落ち着かせる。&lt;/g2&gt;ユーザーは自分が試されていると感じてしまいがちです。ユーザーをテストしているのではなく、このアプリケーションをテストしているのだと明確にしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;&lt;g2&gt;Lazy loading:&lt;/g2&gt; There’s no need to load images unless they are to be seen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003709Z" creationid="rikiha" creationdate="20170905T003709Z">
+        <seg>2.遅延読み込み：画像は見ることになるまで読み込む必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;&lt;g2&gt;The &lt;g3&gt;&lt;picture&gt;&lt;/g3&gt; element:&lt;/g2&gt; This allows you to tailor images to viewports.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003725Z" creationid="rikiha" creationdate="20170905T003725Z">
+        <seg>3.&lt;picture&gt;要素：画像をビューポートに合わせることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4307,6 +4331,14 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>And then wait some more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003653Z" creationid="rikiha" creationdate="20170905T003653Z">
+        <seg>さらにもう少し待ちましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>And utility depends on cognition, which depends on convention.</seg>
@@ -4690,6 +4722,14 @@ lay, makeはいずれも命令系で使われているので、「すべき」�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T013150Z" creationid="yoota" creationdate="20170420T110743Z">
         <seg>大ざっぱに言ってしまえば、どんな要素も幅や高さを固定すべきではありません。ボックスに柔軟性があれば、同じコンテンツでさまざまなスペースに対応できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a user on a slow network who has turned off images, or they’ve failed to load, the alternative text is visible to me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003635Z" creationid="rikiha" creationdate="20170905T003635Z">
+        <seg>ネットワークの速度が遅いので画像をオフにしている場合、あるいは画像の読み込みに失敗した場合も、代替テキストは見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5160,6 +5200,14 @@ thoughをどう扱うか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Be aware that this is not an exact science.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003733Z" creationid="rikiha" creationdate="20170905T003733Z">
+        <seg>これは精密科学ではない点に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Be wary, though, of older browsers that do not support gradient backgrounds.</seg>
@@ -5462,6 +5510,14 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170828T141621Z" creationid="rikiha" creationdate="20170828T141621Z">
         <seg>また、以下の点についても考慮しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But boredom isn’t the only issue.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003654Z" creationid="rikiha" creationdate="20170905T003654Z">
+        <seg>しかし問題は退屈だけではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6106,6 +6162,14 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;g5&gt;Show throttling&lt;/g5&gt; from the menu and select “Regular 3G” — not the slowest or fastest connection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003650Z" creationid="rikiha" creationdate="20170905T003650Z">
+        <seg>メニューから［Show throttling］を選び、［Regular 3G］を選択します（最も遅いまたは速い接続ではありません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Closed Captions</seg>
@@ -6170,6 +6234,14 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170822T072030Z" creationid="rikiha" creationdate="20170819T005210Z">
         <seg>&lt;g1&gt;&lt;g2&gt;アクセシビリティツリー&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注119）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;に頼らざるを得ない支援技術のユーザーにWebインターフェイスの状態を伝えることは、インターフェイスをインクルーシブにするうえで重要なことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compressing images needn’t be the arduous, manual task it once was, now that we can make use of automation tools like &lt;g3&gt;&lt;g4&gt;ImageOptim&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;13&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003707Z" creationid="rikiha" creationdate="20170905T003707Z">
+        <seg>画像の圧縮は難しい作業とは限りません。以前は手動で行っていましたが、現在はImageOptim（脚注144）といった自動化ツールが利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7426,6 +7498,14 @@ OK</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170818T152916Z" creationid="rikiha" creationdate="20170815T161233Z">
         <seg>ユーザーは、それを使って思うがままにメニューを閉開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For our product list, each image’s markup might look like &lt;g6&gt;&lt;img src="dummy.jpg" data-src="/images/naked-forecourt-man.jpg" width="400" height="300"&gt;&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003722Z" creationid="rikiha" creationdate="20170905T003722Z">
+        <seg>今回の商品リストの場合、各画像のマークアップはだいたい以下のようになります。&lt;img src="dummy.jpg" width="400" height="300" data-src="/images/naked-forecourt-man.jpg"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9150,6 +9230,14 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Image Performance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003637Z" creationid="rikiha" creationdate="20170905T003637Z">
+        <seg>画像のパフォーマンス</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK...ですが、この話要る？という素朴な疑問が。
 
 (太田) この話要る？は同感です。
@@ -10675,6 +10763,14 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In “A Menu Button” we looked at the many ways to render the simple, three-lined navicon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003638Z" creationid="rikiha" creationdate="20170905T003638Z">
+        <seg>「＃＃A Menu Button＃＃」では、シンプルな三本線のナビコンを表示するさまざまな方法を紹介しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ガイダンスを説明したというより提供したという感じかなと。
 easiliy digestible は消化しやすいということのようで、もう少し砕けたかんじで「わかりやすい」としました。
 またbody textは本文でいいかなと。</note>
@@ -11484,6 +11580,14 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T060748Z" creationid="yoota" creationdate="20170426T060748Z">
         <seg>&lt;g2&gt;lang&lt;/g2&gt;属性を指定するのは簡単なことですので、ぜひ使ってみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s entirely possible that some of your users will be connected via a slow mobile network on a device featuring a viewport greater than 800px in width.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003734Z" creationid="rikiha" creationdate="20170905T003734Z">
+        <seg>ユーザーが800pxより幅の広いビューポートを搭載したデバイスを使い、低速のモバイルネットワーク経由で接続しているケースも十分考えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12537,6 +12641,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Loading this many images over a mobile network is costly too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003655Z" creationid="rikiha" creationdate="20170905T003655Z">
+        <seg>こうした多くの画像をモバイルネットワークで読み込むのは費用もかかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「ブレイクポイントを配置する」は日本語としてちょっと違和感があります。ここの locate は場所を決めるくらいの意味と思われ、「設計する」「検討する」くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>Locating content breakpoints is easy using Firefox’s &lt;a0&gt;&lt;s1&gt;responsive design mode&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;&lt;a3&gt;&lt;s4&gt;3&lt;/s4&gt;&lt;/a3&gt;&lt;/s2&gt;.</seg>
@@ -12962,6 +13074,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Neither piece of information is available elsewhere to blind users or users for whom images are otherwise unavailable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003634Z" creationid="rikiha" creationdate="20170905T003634Z">
+        <seg>目の不自由なユーザーや別の理由で画像を見ることができないユーザーが利用できる情報は他にありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 微調整。
 グローバルなは「グローバル属性」と補いました。
@@ -12996,6 +13116,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T053141Z" creationid="yoota" creationdate="20170501T052355Z">
         <seg>しかし、必要な文字のサブセットだけを含めるようにしないと、ユーザー側にパフォーマンスの問題が生じかねません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next, press the &lt;g1&gt;Toggle device toolbar&lt;/g1&gt; button (&lt;g2&gt;Cmd&lt;/g2&gt; + &lt;g3&gt;Shift&lt;/g3&gt; + &lt;g4&gt;M&lt;/g4&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003649Z" creationid="rikiha" creationdate="20170905T003649Z">
+        <seg>次に、［Toggle device toolbar］ボタン（Cmd + Shift + M）を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13439,6 +13567,14 @@ candidate の訳が落ちていますがまあ無くても良いのでママで�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note that I’ve communicated an important category of the image (black and white photography) and also tried to capture the &lt;g1&gt;mood&lt;/g1&gt; of the image (“nonchalantly leaning”).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003633Z" creationid="rikiha" creationdate="20170905T003633Z">
+        <seg>画像の重要なカテゴリー（白黒写真）を伝え、画像の雰囲気（何食わぬ顔でもたれかかっている）もとらえようとしている点に注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) Noteを訳出。not do anything fancyで「手の込んだことは一切しない」とのこと。
 https://eow.alc.co.jp/search?q=not+do+anything+fancy
 
@@ -13694,6 +13830,14 @@ the URLは「このページのURL」としてみました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170817T161009Z" creationid="rikiha" creationdate="20170815T161111Z">
         <seg>さて、実際にボタンを使うときの話をしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now reload the page and wait.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003651Z" creationid="rikiha" creationdate="20170905T003651Z">
+        <seg>ではページをリロードして待ちましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14158,6 +14302,14 @@ aria-labelledbyがあるとそっちが優先だったり、細かいルール�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170818T053236Z" creationid="rikiha" creationdate="20170815T160820Z">
         <seg>&lt;g1&gt;aria-label&lt;/g1&gt;のメリットのひとつは、要素にテキストノードがある場合、それを上書きするということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the advantages of using SVG is that its file size can be extremely small, especially when using repeated geometric shapes like rectangles, by way of the &lt;g1&gt;&lt;rect&gt;&lt;/g1&gt; element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003642Z" creationid="rikiha" creationdate="20170905T003642Z">
+        <seg>SVGを使用する利点の1つは、特に矩形（&lt;rect&gt;要素）などの繰り返される幾何学形状を使った場合に、ファイルサイズが非常に小さくなることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15656,6 +15808,14 @@ the button is really a better fit. が何を言っているのか正直良くわ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170828T033817Z" creationid="rikiha" creationdate="20170815T161230Z">
         <seg>さきほどの例は、ボタンとメニュー項目がくっついていて、ボタンを使うのにふさわしいケースでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since smaller viewports are more likely to be used with mobile devices and networks, you can benefit from prescribing physically smaller — therefore less weighty and costly — images.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003727Z" creationid="rikiha" creationdate="20170905T003727Z">
+        <seg>モバイルデバイスやモバイルネットワークでは小さいビューポートが使われることが多いので、物理的に小さい画像（軽くて費用もかからない）を指定すると有効です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17721,6 +17881,14 @@ breakは単に「離れる」的なことだと思いますが、いったん元
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The experience is both a privileged and an unrepresentative one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003700Z" creationid="rikiha" creationdate="20170905T003700Z">
+        <seg>彼らの体験は特権階級のもので、典型的な体験ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「使用にふさわしい」は違和感あり。
 worthly of your use は直訳すると「あなたの用途にふさわしい」という感じですが。とりあえず「用途」としました。
 「最も迅速」が少し硬い印象だったので「手っ取り早い」としてみました。「最も」は訳出しなくても良いように思います。
@@ -18775,6 +18943,14 @@ surviving bits of paperは「破られずに生き残ったいくつかの紙片
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The “Buy Now” Action</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T004151Z" creationid="rikiha" creationdate="20170905T004151Z">
+        <seg>「今すぐ購入」アクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their files never have a resolution lower than 300dpi and they have a working knowledge of color theory.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095356Z" creationid="okamoto_jun" creationdate="20170627T095356Z">
@@ -18887,6 +19063,14 @@ JAWS日本語版では「ページ内リンク」らしいです。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170829T030545Z" creationid="rikiha" creationdate="20170823T082553Z">
         <seg>ペーパープロトタイピングには、コードで実装された本物そっくりのデモよりも優れている点がいくつもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are a number of scripts and plugins available, each working by replacing a dummy &lt;g4&gt;src&lt;/g4&gt; value with a real one contained in a &lt;g5&gt;data-&lt;/g5&gt; attribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003720Z" creationid="rikiha" creationdate="20170905T003720Z">
+        <seg>利用できるスクリプトやプラグインがいくつもあり、どれもダミーのsrc値を、data-属性に指定した本当の値で置き換えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19398,6 +19582,14 @@ aspirations は「願望」?
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T063723Z" creationid="yoota" creationdate="20170510T052442Z">
         <seg>これは、美辞麗句の多い長文を公開する場合にも、アプリケーションが出す個々の説明やメッセージを各所に記述する場合にも当てはまります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This book is not the place to discuss the ins and outs of handling image assets for performance but, briefly, let’s consider some important techniques.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003704Z" creationid="rikiha" creationdate="20170905T003704Z">
+        <seg>本書ではパフォーマンスを意識した画像アセットの扱いについて詳述はしませんが、いくつかの重要なテクニックについて少し考えてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20573,6 +20765,14 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To be inclusive of those on poor networks, with smaller budgets or being subject to huge roaming charges, we need to mitigate the impact that loading all of these images is likely to have.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003701Z" creationid="rikiha" creationdate="20170905T003701Z">
+        <seg>予算が少ない、あるいはローミング料金が大幅に変わることになる、低質なネットワークを利用しているユーザーにとってインクルーシブなサイトにするには、大量の画像を読み込むことによって予想される影響を軽減する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 突然SVGの話が出てきた感。さらに高める的な話かなと思うので、調整してみました。
 
 (太田)
@@ -20633,6 +20833,14 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To get an impression of how slow loading a page full of raster thumbnails can be, find an existing site with the kind of content we’re discussing, then open Chrome’s developer tools.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003648Z" creationid="rikiha" creationdate="20170905T003648Z">
+        <seg>ラスター形式のサムネイルでいっぱいのページを読み込むのにどれだけ時間がかかるか実感するために、そのようなコンテンツを扱っているサイトを見つけ、Chromeのデベロッパーツールを開きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)
 お勧め→おすすめ
 
@@ -20656,6 +20864,14 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170830T022918Z" creationid="rikiha" creationdate="20170827T120001Z">
         <seg>テストを準備している様子がイメージしやすくなるように、注釈つきのイラストを用意しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To give you an impression, take the URL of the site you were just testing and head over to &lt;g1&gt;&lt;g2&gt;What Does My Site Cost&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; to find out how many cents it’ll cost in data to retrieve just that one page, replete with all the images.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003657Z" creationid="rikiha" creationdate="20170905T003657Z">
+        <seg>イメージをつかむために、What Does My Site Cost（脚注143）に行き、先ほどテストしたサイトのURLを使って、画像がたっぷり含まれるたった1ページを取得するために、データ転送にどれだけ費用がかかるか確認してみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21067,6 +21283,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately, emblematic impressions of the photographs we have for sale, reimagined using rectangles and circles, are not going to cut it here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003645Z" creationid="rikiha" creationdate="20170905T003645Z">
+        <seg>残念ながら、矩形や円を使って、このサイトで販売する写真の印象を象徴的に表しても効果的ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ちょっと調整。
 
 (岡本)　癖→くせ
@@ -21301,6 +21525,14 @@ poor を不適切とするのがいいのかどうか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170901T033242Z" creationid="rikiha" creationdate="20170828T141705Z">
         <seg>&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;要素を使って、商品のタイトルをつけましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using lazy loading means not downloading the image resource unless or until the &lt;g3&gt;&lt;img/&gt;&lt;/g3&gt; element enters the viewport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003714Z" creationid="rikiha" creationdate="20170905T003714Z">
+        <seg>遅延読み込みを使うと、&lt;img/&gt;要素がビューポートに入るまで（入らない限り）画像リソースをダウンロードしません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21542,6 +21774,14 @@ dexterityは他の箇所には無い模様。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>We might, accordingly, incorporate markup similar to that in the following illustration:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003728Z" creationid="rikiha" creationdate="20170905T003728Z">
+        <seg>これを行うには、以下の例のようなマークアップを組み込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 少し調整。
 コールトゥアクションは前にカタカナで使用しているのでそのままに。
@@ -21609,6 +21849,14 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170630T081609Z" creationid="yoota" creationdate="20170622T030341Z">
         <seg>作りたいのは、&lt;g1&gt;すべての&lt;/g1&gt;良い特性を備え、当然、悪い特性をまったくもたないパターンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web developers tend to have expensive data contracts and spend most of their working day connected to lightning-fast broadband.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003659Z" creationid="rikiha" creationdate="20170905T003659Z">
+        <seg>Web開発者は高額のデータ契約を結んでいることが多く、勤務日の大半は超高速のブロードバンドに接続しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21683,6 +21931,14 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094936Z" creationid="okamoto_jun" creationdate="20170627T094936Z">
         <seg>一貫性のある、統一された形で住所を扱うことができれば良いのですが、それは現実的ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’ll have to defer to a weightier but more accurate raster format such as PNG or JPG.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003646Z" creationid="rikiha" creationdate="20170905T003646Z">
+        <seg>ここは、PNGやJPGといった、ファイルサイズは重くても、より正確なラスター形式を用いる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22409,6 +22665,14 @@ Wikipediaの目次まわりはこんなマークアップでした。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T034136Z" creationid="yoota" creationdate="20170511T082011Z">
         <seg>カスタムCSSを使用すれば、アンダーラインの象徴的な役割はそのままに、より優れた方法で実装できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With descriptive alternative text in place, I might still be convinced to bookmark the photographic print to have a look when I’m on a Wi-Fi connection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T003636Z" creationid="rikiha" creationdate="20170905T003636Z">
+        <seg>説明的な代替テキストがあれば、Wi-Fi接続したときに確認できるよう、写真プリントをブックマークする気になるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
