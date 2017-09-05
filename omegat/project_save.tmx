@@ -6398,11 +6398,9 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
     <tu>
       <note>(太田)
 手元のChrome60では、Show throttling ではなくAdd network throttling という名前になっています。また、デフォルトでは Regular 3Gという選択肢が無く、Slow 3G と Fast 3Gしかないようです。
-「メニュー」とだけ言われるとわからないので「画面右上の」を補ってみました。
 http://qiita.com/Hexa/items/c3d864bc4ac5be0c9d2b を見ると昔はそういう選択肢があった模様。訳注?
-ダッシュ以後は意訳してみました。
-
-</note>
+「メニュー」とだけ言われるとわからないので「画面右上の」を補ってみました (ちなみに Network タブのthrottling設定でも設定可能で連動します)。
+ダッシュ以後は意訳してみました。</note>
       <tuv lang="EN-US">
         <seg>Choose &lt;g5&gt;Show throttling&lt;/g5&gt; from the menu and select “Regular 3G” — not the slowest or fastest connection.</seg>
       </tuv>
