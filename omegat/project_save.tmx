@@ -302,7 +302,9 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
     </tu>
     <tu>
       <note>(太田)
-tailorは単に「合わせる」というよりも「しつらえる」とかもう少し細やかな調整をするニュアンスかも。「しつらえる」もわかりにくい気がしたので、いったん「合わせて調整」としてみました。</note>
+tailorは単に「合わせる」というよりも「しつらえる」とかもう少し細やかな調整をするニュアンスかも。「しつらえる」もわかりにくい気がしたので、いったん「合わせて調整」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;The &lt;g3&gt;&lt;picture&gt;&lt;/g3&gt; element:&lt;/g2&gt; This allows you to tailor images to viewports.</seg>
       </tuv>
@@ -7833,7 +7835,9 @@ OK</note>
     </tu>
     <tu>
       <note>(太田)
-文中にコード出現。原文の雰囲気に沿って調整しましたが文の外に出すべきなのかも。とはいえここはリストの中なので、外に出す処理は難しいかもしれません。</note>
+文中にコード出現。原文の雰囲気に沿って調整しましたが文の外に出すべきなのかも。とはいえここはリストの中なので、外に出す処理は難しいかもしれません。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For our product list, each image’s markup might look like &lt;g6&gt;&lt;img src="dummy.jpg" data-src="/images/naked-forecourt-man.jpg" width="400" height="300"&gt;&lt;/g6&gt;.</seg>
       </tuv>
@@ -16396,7 +16400,9 @@ the button is really a better fit. が何を言っているのか正直良くわ
       <note>(太田)
 ちょっとニュアンスが違うかも。
 ネットワークの種類に合わせて調整できるのではなく、ビューポートに合わせて調整できるという話です。
-can benefit は「良いでしょう」くらいで。</note>
+can benefit は「良いでしょう」くらいで。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Since smaller viewports are more likely to be used with mobile devices and networks, you can benefit from prescribing physically smaller — therefore less weighty and costly — images.</seg>
       </tuv>
@@ -19802,7 +19808,9 @@ JAWS日本語版では「ページ内リンク」らしいです。
     </tu>
     <tu>
       <note>(太田)
-少し補いつつ調整。</note>
+少し補いつつ調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>There are a number of scripts and plugins available, each working by replacing a dummy &lt;g4&gt;src&lt;/g4&gt; value with a real one contained in a &lt;g5&gt;data-&lt;/g5&gt; attribute.</seg>
       </tuv>
@@ -22618,7 +22626,9 @@ dexterityは他の箇所には無い模様。
     </tu>
     <tu>
       <note>(太田)
-mightなのでもうちょっと弱いイメージかも。</note>
+mightなのでもうちょっと弱いイメージかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We might, accordingly, incorporate markup similar to that in the following illustration:</seg>
       </tuv>
