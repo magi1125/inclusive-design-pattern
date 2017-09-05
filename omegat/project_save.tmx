@@ -19745,8 +19745,8 @@ JAWS日本語版では「ページ内リンク」らしいです。
       <tuv lang="EN-US">
         <seg>There are a number of scripts and plugins available, each working by replacing a dummy &lt;g4&gt;src&lt;/g4&gt; value with a real one contained in a &lt;g5&gt;data-&lt;/g5&gt; attribute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T105503Z" creationid="rikiha" creationdate="20170905T003720Z">
-        <seg>利用できるスクリプトやプラグインがいくつもありますが、いずれも、ダミーの&lt;g4&gt;src&lt;/g4&gt;値をあらかじめ指定しておき、それを&lt;g5&gt;data-&lt;/g5&gt;属性に指定した値で置き換えるという動作をします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T105521Z" creationid="rikiha" creationdate="20170905T003720Z">
+        <seg>利用できるスクリプトやプラグインがいくつもありますが、いずれも、&lt;g4&gt;src&lt;/g4&gt;の値をあらかじめダミーの値にしておき、それを&lt;g5&gt;data-&lt;/g5&gt;属性に指定した値で置き換えるという動作をします。</seg>
       </tuv>
     </tu>
     <tu>
