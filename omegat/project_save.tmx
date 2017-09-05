@@ -13594,12 +13594,13 @@ Neither piece is available elsewhereなので「他の場所ではどちらも�
     </tu>
     <tu>
       <note>(太田)
-訳文の [　] は必要?</note>
+訳文の [　] は必要?
+括弧内は or の関係で、Toggle device toolbarボタンをクリックするか、あるいはキーボードで Ctrl+Shift+M を押すか、いずれも同じ挙動になります。</note>
       <tuv lang="EN-US">
         <seg>Next, press the &lt;g1&gt;Toggle device toolbar&lt;/g1&gt; button (&lt;g2&gt;Cmd&lt;/g2&gt; + &lt;g3&gt;Shift&lt;/g3&gt; + &lt;g4&gt;M&lt;/g4&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T101211Z" creationid="rikiha" creationdate="20170905T003649Z">
-        <seg>次に、&lt;g1&gt;［Toggle device toolbar］&lt;/g1&gt;ボタンを押します（&lt;g2&gt;Cmd&lt;/g2&gt; + &lt;g3&gt;Shift&lt;/g3&gt; + &lt;g4&gt;M&lt;/g4&gt;）。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170905T101345Z" creationid="rikiha" creationdate="20170905T003649Z">
+        <seg>次に、&lt;g1&gt;［Toggle device toolbar］&lt;/g1&gt;ボタンを押します（キーボードなら&lt;g2&gt;Cmd&lt;/g2&gt; + &lt;g3&gt;Shift&lt;/g3&gt; + &lt;g4&gt;M&lt;/g4&gt;です）。</seg>
       </tuv>
     </tu>
     <tu>
