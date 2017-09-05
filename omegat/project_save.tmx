@@ -4508,7 +4508,9 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
     <tu>
       <note>(太田)
 OK
-冒頭に三点リーダつけたほうがそれっぽい?</note>
+冒頭に三点リーダつけたほうがそれっぽい?
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>And then wait some more.</seg>
       </tuv>
@@ -5752,7 +5754,9 @@ http://thesaurus.weblio.jp/content/試金石
     <tu>
       <note>(太田)
 間違ってはいないものの、もうちょっと練りたいかも。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>But boredom isn’t the only issue.</seg>
       </tuv>
@@ -6430,7 +6434,9 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
 手元のChrome60では、Show throttling ではなくAdd network throttling という名前になっています。また、デフォルトでは Regular 3Gという選択肢が無く、Slow 3G と Fast 3Gしかないようです。
 http://qiita.com/Hexa/items/c3d864bc4ac5be0c9d2b を見ると昔はそういう選択肢があった模様。訳注?
 「メニュー」とだけ言われるとわからないので「画面右上の」を補ってみました (ちなみに Network タブのthrottling設定でも設定可能で連動します)。
-ダッシュ以後は意訳してみました。</note>
+ダッシュ以後は意訳してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Choose &lt;g5&gt;Show throttling&lt;/g5&gt; from the menu and select “Regular 3G” — not the slowest or fastest connection.</seg>
       </tuv>
@@ -13153,7 +13159,9 @@ manageは管理で良いような。
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Loading this many images over a mobile network is costly too.</seg>
       </tuv>
@@ -14374,7 +14382,9 @@ the URLは「このページのURL」としてみました。
     </tu>
     <tu>
       <note>(太田)
-Now→さて、としました。</note>
+Now→さて、としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Now reload the page and wait.</seg>
       </tuv>
@@ -18552,12 +18562,14 @@ breakは単に「離れる」的なことだと思いますが、いったん元
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(伊原) 特権階級のみに許された特権➞特権階級のみに許されたもの、としました</note>
       <tuv lang="EN-US">
         <seg>The experience is both a privileged and an unrepresentative one.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T111905Z" creationid="rikiha" creationdate="20170905T003700Z">
-        <seg>この体験は一部の特権階級のみに許された特権であって、一般的なものではありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170905T150124Z" creationid="rikiha" creationdate="20170905T003700Z">
+        <seg>この体験は一部の特権階級のみに許されたものであって、一般的なものではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21653,7 +21665,9 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>To give you an impression, take the URL of the site you were just testing and head over to &lt;g1&gt;&lt;g2&gt;What Does My Site Cost&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; to find out how many cents it’ll cost in data to retrieve just that one page, replete with all the images.</seg>
       </tuv>
@@ -22673,7 +22687,9 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
     </tu>
     <tu>
       <note>(太田)
-高額のデータ契約を結んでいる→高額の回線を契約、ブロードバンドに→ブロードバンドで、としました。</note>
+高額のデータ契約を結んでいる→高額の回線を契約、ブロードバンドに→ブロードバンドで、としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Web developers tend to have expensive data contracts and spend most of their working day connected to lightning-fast broadband.</seg>
       </tuv>
