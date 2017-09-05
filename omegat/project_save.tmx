@@ -288,7 +288,7 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
     <tu>
       <note>(太田)
 訳はOK。
-ただ、このあたりの話はヘイドンさんの「JS無効の場合でも読めるほうがインクルーシブ」という主張とは相容れない気がします。</note>
+ただ、このあたりの話はヘイドンさんの「JS無効の場合でも読めるほうがインクルーシブ」という主張とは相容れない気がします。訳注?</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Lazy loading:&lt;/g2&gt; There’s no need to load images unless they are to be seen.</seg>
       </tuv>
@@ -12059,6 +12059,8 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+語順を少し調整。</note>
       <tuv lang="EN-US">
         <seg>It’s entirely possible that some of your users will be connected via a slow mobile network on a device featuring a viewport greater than 800px in width.</seg>
       </tuv>
