@@ -5271,7 +5271,10 @@ thoughをどう扱うか。
       <note>(伊原) コンテキストの情報が必要です➞文脈に基づいて（デザインが）行われるべきです。と修正。
 decision treeはいったん決定木としました。決定ツリーとかでもいいかも？
 
-(太田) リンク先タイトルが An alt Decision Tree なので英語のままでもいいのかもしれません。
+(太田)
+決定木わかりにくいかもですね。
+リンク先タイトルが An alt Decision Tree なので英語のままでもいいのかもしれません。「An alt Decision Tree という文書」としてみました。
+
 </note>
       <tuv lang="EN-US">
         <seg>Aware that the design of &lt;g1&gt;alt&lt;/g1&gt; text — like the design of anything else — should be informed by context, the WAI (Web Accessibility Initiative) offers the &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;alt&lt;/g4&gt; decision tree&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;11&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
