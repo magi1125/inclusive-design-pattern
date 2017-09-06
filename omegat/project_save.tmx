@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21770,15 +21770,17 @@ in general は use にかかっているようにも見えますね。「ボタ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 画像ラベルと画像altですね。少しだけ調整しました。</note>
+      <note>(伊原) 画像ラベルと画像altですね。少しだけ調整しました。
+
+(岡本)　付き→つき</note>
       <tuv lang="EN-US">
         <seg>Three controls: a basic link with underline; an action link with a border; and a button with a blue background.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170906T075044Z" creationid="rikiha" creationdate="20170905T004216Z">
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170906T095518Z" creationid="rikiha" creationdate="20170905T004216Z">
         <seg>基本的なリンク
 アクション
 ボタン
-3つのコントロール：下線付きの基本的なリンク、囲み線付きのアクションリンク、青い背景のボタン。</seg>
+3つのコントロール：下線つきの基本的なリンク、囲み線つきのアクションリンク、青い背景のボタン。</seg>
       </tuv>
     </tu>
     <tu>
