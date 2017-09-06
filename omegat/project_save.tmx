@@ -16823,6 +16823,11 @@ aria-labelledbyのAS状況がよろしくないという話なのでしょうか
 
 ここの in context は「Link Purpose (In Context)」の in context でしょう。
 JISでは「コンテキスト内」としましたが、「リンクの目的」としてしまってよいかも。「リンクの目的を示すものになっています」としてみました。
+
+(伊原) OK. 確かにここは2回書かないようにしたいところですよね。
+以下ではaria-labelledbyを普通につかっているようです。
+http://heydonworks.com/practical_aria_examples/
+https://inclusive-components.design/#components
 </note>
       <tuv lang="EN-US">
         <seg>Since the title of the product is already present visually and in context via the &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;, we should remedy this with some visually hidden text, placed within the link.</seg>
