@@ -4059,8 +4059,8 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       <tuv lang="EN-US">
         <seg>A second pitfall can be laid out much more succinctly: if the behavior is to link, use a link’s behavior to do it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170906T100320Z" creationid="rikiha" creationdate="20170905T004234Z">
-        <seg>2つめの落とし穴の説明はもっと簡潔です。リンクするというふるまいが必要な場合、リンクのふるまいをそのまま利用すれば実現できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T110002Z" creationid="rikiha" creationdate="20170905T004234Z">
+        <seg>2つめの落とし穴はもっとかんたんに説明できます。リンクするというふるまいが必要な場合、リンクのふるまいをそのまま利用すれば実現できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6089,7 +6089,8 @@ versus はそのまま vs としてもいいかも。
 
 (岡本）
 見た目だけのボタンとふるまいも伴ったボタン、みたいな意味なのかしら。
-</note>
+
+(伊原) ボタン対決とか。ボタン対ボタン風　とか。</note>
       <tuv lang="EN-US">
         <seg>Buttons versus &lt;g1&gt;Buttons&lt;/g1&gt;</seg>
       </tuv>
@@ -21352,7 +21353,7 @@ accessible roleはどうしたものか。英語だとroleという語に多様�
 (太田)
 「もともとリンクが持っていたはずの暗黙の&lt;g2&gt;"link"&lt;/g2&gt;というロール」としてみました。
 
-</note>
+(伊原) OK!</note>
       <tuv lang="EN-US">
         <seg>This overrides the implicit accessible role of &lt;g2&gt;"link"&lt;/g2&gt; with an explicit role of &lt;g3&gt;"button"&lt;/g3&gt;, meaning the link will be announced as a button in screen reader software.</seg>
       </tuv>
@@ -24353,7 +24354,9 @@ OK</note>
 
 (太田)
 OK
-ここで「要素名」と言うのであれば、前の文でも「aという要素名」としたほうがいいですね。そのようにしました。</note>
+ここで「要素名」と言うのであれば、前の文でも「aという要素名」としたほうがいいですね。そのようにしました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>You may have read elsewhere that this is redundant, but it serves an important purpose: it restricts the use of &lt;g4&gt;.call-to-action&lt;/g4&gt; styles to the &lt;g5&gt;a&lt;/g5&gt; element.</seg>
       </tuv>
