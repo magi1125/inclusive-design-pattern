@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1546,7 +1546,7 @@ forego は「先に行く」のような感じですが、他動詞として使�
 (伊原) OK
 
 (太田)
-次の文に合わせて「aという要素名」</note>
+次の文に合わせて「aという要素名」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;I have qualified the &lt;g2&gt;.call-to-action&lt;/g2&gt; class with the element name &lt;g3&gt;a&lt;/g3&gt;.</seg>
       </tuv>
@@ -11437,7 +11437,9 @@ easiliy digestible は消化しやすいということのようで、もう少�
       <note>(太田)
 straightforward は簡単というより単純、直接的、単刀直入という感じでしょうか。
 
-(伊原) 前の段落とのつながりを考え、語順を入れ替えました。</note>
+(伊原) 前の段落とのつながりを考え、語順を入れ替えました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Including a “Buy Now” button is perhaps the most straightforward way to go about this.</seg>
       </tuv>
