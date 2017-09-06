@@ -4913,7 +4913,7 @@ lay, makeはいずれも命令系で使われているので、「すべき」�
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注?
+      <note>※要訳注
 
 (太田)
 次の文を読むと「見ることができます」というより「見ることになります」という感じかもしれません。
@@ -6450,7 +6450,9 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※要訳注?
+
+(太田)
 手元のChrome60では、Show throttling ではなくAdd network throttling という名前になっています。また、デフォルトでは Regular 3Gという選択肢が無く、Slow 3G と Fast 3Gしかないようです。
 http://qiita.com/Hexa/items/c3d864bc4ac5be0c9d2b を見ると昔はそういう選択肢があった模様。訳注?
 「メニュー」とだけ言われるとわからないので「画面右上の」を補ってみました (ちなみに Network タブのthrottling設定でも設定可能で連動します)。
