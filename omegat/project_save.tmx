@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16790,13 +16790,14 @@ http://waic.jp/docs/WCAG-TECHS/ARIA7.html
 aria-labelledbyのAS状況がよろしくないという話なのでしょうかね。
 訳注ですかね。
 
-in context はおそらくこのタイトルをそのまま「リンクの文脈」として使えるということでしょう。「文脈を示すものになっています」としてみました。
+in context は「Link Purpose (In Context)」の in context でしょう。
+JISでは「コンテキスト内」としましたが、「リンクの目的」としてしまってよいかも。「リンクの目的を示すものになっています」としてみました。
 </note>
       <tuv lang="EN-US">
         <seg>Since the title of the product is already present visually and in context via the &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;, we should remedy this with some visually hidden text, placed within the link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T095214Z" creationid="rikiha" creationdate="20170905T004256Z">
-        <seg>この商品のタイトルは、既に&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;で視覚的に表示されており、文脈を示すものになっています。これをリンク内に非表示のテキストとして配置しましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T095525Z" creationid="rikiha" creationdate="20170905T004256Z">
+        <seg>この商品のタイトルは、既に&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;で視覚的に表示されており、リンクの目的を示すものになっています。これをリンク内に非表示のテキストとして配置しましょう。</seg>
       </tuv>
     </tu>
     <tu>
