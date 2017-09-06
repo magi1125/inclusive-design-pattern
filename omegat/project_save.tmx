@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1281,12 +1281,14 @@ JISではbypass block を「ブロックスキップ」としています。
       <note>(太田)
 すこし調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　一つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Another way that &lt;g2&gt;&lt;button&gt;&lt;/g2&gt;s are differentiated from links is that they don’t have a &lt;g3&gt;pointer&lt;/g3&gt; cursor style.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T073402Z" creationid="rikiha" creationdate="20170905T004230Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;&lt;button&gt;&lt;/g2&gt;がリンクと異なっているもう一つの点は、&lt;g3&gt;pointer&lt;/g3&gt;カーソルスタイルを持たないことです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170906T100119Z" creationid="rikiha" creationdate="20170905T004230Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;&lt;button&gt;&lt;/g2&gt;がリンクと異なっているもうひとつの点は、&lt;g3&gt;pointer&lt;/g3&gt;カーソルスタイルを持たないことです。</seg>
       </tuv>
     </tu>
     <tu>
