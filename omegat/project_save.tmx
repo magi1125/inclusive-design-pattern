@@ -14811,11 +14811,12 @@ emulateはそのままエミュレートでも良いのかも。少し上で「�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) more importantなので、適合不適合よりもっと重要な、ということかなと。あと、このUXの使い方はUX警察沙汰な気はします。単にユーザビリティだろうと。</note>
       <tuv lang="EN-US">
         <seg>Now that the markup is not technically &lt;g1&gt;nonconforming&lt;/g1&gt;, there are a number of more important UX concerns to address:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004346Z" creationid="rikiha" creationdate="20170905T004346Z">
-        <seg>マークアップは技術的に不適合ではなくなりましたが、UXに関する重要な懸案事項がいくつかあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T155259Z" creationid="rikiha" creationdate="20170905T004346Z">
+        <seg>現在、このマークアップは技術的には&lt;g1&gt;不適合&lt;/g1&gt;でなくなりました。しかしもっと重要な、UXに関する懸案事項が多数あります。</seg>
       </tuv>
     </tu>
     <tu>
