@@ -6032,7 +6032,10 @@ composeは作成でいいのか。あとで検討。
 versus はそのまま vs としてもいいかも。
 
 (伊原) OK
-※見出し内にタグ。電子版のときに気をつけなきゃいけない。</note>
+※見出し内にタグ。電子版のときに気をつけなきゃいけない。
+
+(太田)
+よく見ると原文はButtons versus Buttonsでマークアップは入ってないですね。</note>
       <tuv lang="EN-US">
         <seg>Buttons versus &lt;g1&gt;Buttons&lt;/g1&gt;</seg>
       </tuv>
@@ -7148,8 +7151,8 @@ Embraceは利用するで良いのか?
       <tuv lang="EN-US">
         <seg>Embrace Standard Behavior</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004233Z" creationid="rikiha" creationdate="20170905T004233Z">
-        <seg>標準の動作を利用する</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T080951Z" creationid="rikiha" creationdate="20170905T004233Z">
+        <seg>標準の動作を取り入れる</seg>
       </tuv>
     </tu>
     <tu>
