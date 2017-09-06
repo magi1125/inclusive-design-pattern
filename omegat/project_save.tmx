@@ -14760,11 +14760,13 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>Now the link text makes sense independent of context.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004302Z" creationid="rikiha" creationdate="20170905T004302Z">
-        <seg>これでコンテキストから独立してリンクテキストが意味をなすようになりました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T095651Z" creationid="rikiha" creationdate="20170905T004302Z">
+        <seg>これで、リンクテキストが文脈から外れても単独で意味をなすようになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16790,7 +16792,7 @@ http://waic.jp/docs/WCAG-TECHS/ARIA7.html
 aria-labelledbyのAS状況がよろしくないという話なのでしょうかね。
 訳注ですかね。
 
-in context は「Link Purpose (In Context)」の in context でしょう。
+ここの in context は「Link Purpose (In Context)」の in context でしょう。
 JISでは「コンテキスト内」としましたが、「リンクの目的」としてしまってよいかも。「リンクの目的を示すものになっています」としてみました。
 </note>
       <tuv lang="EN-US">
