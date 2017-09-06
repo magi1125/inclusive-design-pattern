@@ -8994,15 +8994,15 @@ imagine と might で二重に推定している形ですが、むしろ何故�
 
 (太田)
 こちらはsuggestなので提案とかでしょうか。
-全体としてstyle for linksをmaintainすることを提案する、という文ですので、「こういうスタイルを用意しておけ」ということだと思います。
+全体としてstyle for linksをmaintainすることを提案する、という文ですので、「こういうスタイルを用意しておけ」ということだと思います。下のコードもセレクタの列挙だけですね。
 
 ここの purchase は購入と手がかりのダブルミーニング? より視覚的な手ががりが多いという話ではありますが、よりユーザーを購入に導きやすい、ということを暗に含んでいるように思います。
-「購買意欲を強く刺激」などとしてみましたがどうでしょうか。</note>
+「購買意欲を刺激」などとしてみましたがどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>I suggest you maintain a separate call-to-action style for links which has more visual purchase than a standard link but which does not resemble a button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T053427Z" creationid="rikiha" creationdate="20170905T004208Z">
-        <seg>ボタンのスタイルとは別に、標準のリンクよりもユーザーの購買意欲を強く刺激し、しかしボタンには見えないような、独自のcall-to-actionリンクのスタイルを用意しておくと良いでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T053452Z" creationid="rikiha" creationdate="20170905T004208Z">
+        <seg>ボタンのスタイルとは別に、標準のリンクよりもユーザーの購買意欲を刺激し、しかしボタンには見えないような、独自のcall-to-actionリンクのスタイルを用意しておくと良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
