@@ -16534,6 +16534,9 @@ can benefit は「良いでしょう」くらいで。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+
+</note>
       <tuv lang="EN-US">
         <seg>Since the linking &lt;g4&gt;behavior&lt;/g4&gt; of loading a new page is still intact, this is deceptive and confusing for blind screen reader users and should be avoided.</seg>
       </tuv>
@@ -21089,8 +21092,8 @@ accessible roleはどうしたものか。英語だとroleという語に多様�
       <tuv lang="EN-US">
         <seg>This overrides the implicit accessible role of &lt;g2&gt;"link"&lt;/g2&gt; with an explicit role of &lt;g3&gt;"button"&lt;/g3&gt;, meaning the link will be announced as a button in screen reader software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T033620Z" creationid="rikiha" creationdate="20170905T004201Z">
-        <seg>これは暗黙の&lt;g2&gt;"link"&lt;/g2&gt;というロールを、明示的に指定された&lt;g3&gt;"button"&lt;/g3&gt;ロールで上書きするため、スクリーンリーダーはこのリンクをボタンとして読み上げてることになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T033627Z" creationid="rikiha" creationdate="20170905T004201Z">
+        <seg>これは暗黙の&lt;g2&gt;"link"&lt;/g2&gt;というロールを、明示的に指定された&lt;g3&gt;"button"&lt;/g3&gt;ロールで上書きするため、スクリーンリーダーはこのリンクをボタンとして読み上げることになります。</seg>
       </tuv>
     </tu>
     <tu>
