@@ -6332,8 +6332,8 @@ rely on には「信頼できる」までの意味はないかも (認知心理�
       <tuv lang="EN-US">
         <seg>By using &lt;g6&gt;.call-to-action&lt;/g6&gt; on a &lt;g7&gt;&lt;button&gt;&lt;/g7&gt;, or an inaccessibly interactive &lt;g8&gt;&lt;div&gt;&lt;/g8&gt; element, the style will not be invoked.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004224Z" creationid="rikiha" creationdate="20170905T004224Z">
-        <seg>&lt;button&gt;またはアクセシブルではないインタラクティブな&lt;div&gt;要素に.call-to-actionを使用しても、スタイルは呼び出されません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T065459Z" creationid="rikiha" creationdate="20170905T004224Z">
+        <seg>&lt;g6&gt;.call-to-action&lt;/g6&gt;を&lt;g7&gt;&lt;button&gt;&lt;/g7&gt;や、アクセシブルでないインタラクティブな&lt;g8&gt;&lt;div&gt;&lt;/g8&gt;要素に指定しても、スタイルは反映されません。</seg>
       </tuv>
     </tu>
     <tu>
