@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1265,7 +1265,9 @@ JISではbypass block を「ブロックスキップ」としています。
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Another way that &lt;g2&gt;&lt;button&gt;&lt;/g2&gt;s are differentiated from links is that they don’t have a &lt;g3&gt;pointer&lt;/g3&gt; cursor style.</seg>
       </tuv>
@@ -11149,7 +11151,9 @@ if supported は SVG ではなく &lt;use&gt; にくっついているのでは�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the excellent article “&lt;g9&gt;&lt;g10&gt;How Our CSS Framework Helps Enforce Accessibility&lt;/g10&gt;&lt;/g9&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;14&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;,” Ian McBurnie details a number of similar provisions.</seg>
       </tuv>
@@ -11396,7 +11400,9 @@ mistakeはミスでいいのか。
 
 脚注のリンク先サイト、ボタンにhoverするとことごとくcursor: pointerになっているのはいったい何のギャグなのか (ボタンではなくリンクだということなのか)。
 https://medium.com/simple-human/buttons-shouldnt-have-a-hand-cursor-b11e99ca374b
-</note>
+
+(伊原) OK. コメント欄で突っ込まれてますね。
+https://medium.com/@iamdavidng/nice-one-but-oh-the-is-a-hand-cursor-78ef03a99f45</note>
       <tuv lang="EN-US">
         <seg>In “&lt;g4&gt;&lt;g5&gt;Buttons shouldn’t have a hand cursor&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;15&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;,” Adam Silver explains why manually adding &lt;g9&gt;cursor: pointer&lt;/g9&gt; to &lt;g10&gt;&lt;button&gt;&lt;/g10&gt; elements is a usability mistake.</seg>
       </tuv>
@@ -11881,7 +11887,9 @@ canの訳出など。
     <tu>
       <note>(太田)
 スタイルを呼び出すと言うのがしっくりこないので調整。
-危険を伴う、というのはちょっとイメージしづらかったので、そのまま「リスクがある」としました。</note>
+危険を伴う、というのはちょっとイメージしづらかったので、そのまま「リスクがある」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It is not standard behavior to invoke this cursor style on &lt;g11&gt;&lt;button&gt;&lt;/g11&gt;s, and it’s risky to break with long-held convention.</seg>
       </tuv>
@@ -20663,6 +20671,7 @@ percievedは「知覚される」としました。
       <note>(太田)
 すこし調整。
 
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>This effectively prevents a developer from using the wrong element for the job.</seg>
