@@ -19582,7 +19582,8 @@ Equal to the computed value of font-size on the root element. When specified on 
       <note>(太田)
 そんなことはないような。
 メニュー自体は出ますし、「新しいタブで開く」なども出ますが、ただそれを実行しても意図通りにはならない、ということかと。
-</note>
+
+IE11では「新しいタブで開く」などがグレーアウトしますね。</note>
       <tuv lang="EN-US">
         <seg>The right-click context menu intended for links is not invoked either.</seg>
       </tuv>
