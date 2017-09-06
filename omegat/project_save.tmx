@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6083,6 +6083,9 @@ versus はそのまま vs としてもいいかも。
 よく見ると原文はButtons versus Buttonsでマークアップは入ってないですね。
 ここではbutton要素の話はしていなくて、aをボタンのような見せ方にする是非の話なので、そもそも&lt;button&gt;とするのは不適切なのでは。
 とはいえ「ボタン」としたところで、この見出しの意味は良くわからないですね。w
+
+(岡本）
+見た目だけのボタンとふるまいも伴ったボタン、みたいな意味なのかしら。
 </note>
       <tuv lang="EN-US">
         <seg>Buttons versus &lt;g1&gt;Buttons&lt;/g1&gt;</seg>
