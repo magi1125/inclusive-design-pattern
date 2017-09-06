@@ -5438,7 +5438,9 @@ https://ja.wikipedia.org/wiki/精密科学
 なので「精密科学のような裏付けがある理論ではありません」とかでもいいかもしれません。
 
 (岡本)
-付け→づけ</note>
+付け→づけ
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Be aware that this is not an exact science.</seg>
       </tuv>
@@ -7855,8 +7857,8 @@ OK</note>
       <tuv lang="EN-US">
         <seg>For our product list, each image’s markup might look like &lt;g6&gt;&lt;img src="dummy.jpg" data-src="/images/naked-forecourt-man.jpg" width="400" height="300"&gt;&lt;/g6&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T015445Z" creationid="rikiha" creationdate="20170905T003722Z">
-        <seg>今回の商品リストの場合、各画像のマークアップは以下のような感じになります。 &lt;g6&gt;&lt;img src="dummy.jpg" width="400" height="300" data-src="/images/naked-forecourt-man.jpg"&gt;&lt;/g6&gt; </seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T015545Z" creationid="rikiha" creationdate="20170905T003722Z">
+        <seg>今回の商品リストの場合、各画像のマークアップは以下のようになります。 &lt;g6&gt;&lt;img src="dummy.jpg" width="400" height="300" data-src="/images/naked-forecourt-man.jpg"&gt;&lt;/g6&gt; </seg>
       </tuv>
     </tu>
     <tu>
