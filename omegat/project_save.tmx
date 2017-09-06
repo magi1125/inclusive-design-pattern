@@ -1532,8 +1532,8 @@ forego は「先に行く」のような感じですが、他動詞として使�
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;I have qualified the &lt;g2&gt;.call-to-action&lt;/g2&gt; class with the element name &lt;g3&gt;a&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T065101Z" creationid="rikiha" creationdate="20170905T004220Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;ここでは、&lt;g2&gt;.call-to-action&lt;/g2&gt;クラスを&lt;g3&gt;a&lt;/g3&gt;要素に指定された場合のみに限定しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T065249Z" creationid="rikiha" creationdate="20170905T004220Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ここでは、&lt;g2&gt;.call-to-action&lt;/g2&gt;クラスを&lt;g3&gt;a&lt;/g3&gt;要素と一緒に指定しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24125,11 +24125,13 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>You may have read elsewhere that this is redundant, but it serves an important purpose: it restricts the use of &lt;g4&gt;.call-to-action&lt;/g4&gt; styles to the &lt;g5&gt;a&lt;/g5&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T065204Z" creationid="rikiha" creationdate="20170905T004221Z">
-        <seg>これは不必要だという意見をどこかで目にしたことがあるかもしれませんが、重要な意味があります。&lt;g4&gt;.call-to-action&lt;/g4&gt;スタイルの使用を&lt;g5&gt;a&lt;/g5&gt;要素に限定するという</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T065339Z" creationid="rikiha" creationdate="20170905T004221Z">
+        <seg>これは不要だという意見をどこかで目にしたことがあるかもしれませんが、重要な意味があります。&lt;g4&gt;.call-to-action&lt;/g4&gt;のスタイルを&lt;g5&gt;a&lt;/g5&gt;要素にしか適用できないようにしているのです。</seg>
       </tuv>
     </tu>
     <tu>
