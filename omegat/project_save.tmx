@@ -6035,7 +6035,9 @@ versus はそのまま vs としてもいいかも。
 ※見出し内にタグ。電子版のときに気をつけなきゃいけない。
 
 (太田)
-よく見ると原文はButtons versus Buttonsでマークアップは入ってないですね。</note>
+よく見ると原文はButtons versus Buttonsでマークアップは入ってないですね。
+ここではbutton要素の話はしていなくて、aをボタンのような見せ方にする是非の話なので、そもそも不適切なのでは。
+</note>
       <tuv lang="EN-US">
         <seg>Buttons versus &lt;g1&gt;Buttons&lt;/g1&gt;</seg>
       </tuv>
