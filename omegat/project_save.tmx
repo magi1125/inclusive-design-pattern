@@ -18241,12 +18241,15 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
     </tu>
     <tu>
       <note>(岡本)
-「ブログ記事」→4章「ブログ記事」</note>
+「ブログ記事」→4章「ブログ記事」
+
+(伊原) アクセスできる➞アクセシブル、対応している➞準じている、として調整しました。
+また「検索エンジンの認知度を向上」がわかりにくかったので、補って調整しました。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;visually-hidden&lt;/g1&gt; class should, of course, correspond to a &lt;g2&gt;&lt;g3&gt;screen reader accessible hiding technique&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;16&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, as introduced in “A Blog Post.” Note that having the product name in the link text has an added advantage: it is a well-known technique for improving search engine visibility.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T094831Z" creationid="rikiha" creationdate="20170905T004305Z">
-        <seg>4章「ブログ記事」で説明したように、もちろんvisually-hiddenクラスはスクリーンリーダーでアクセスできる非表示テクニック（脚注147）に対応しています。リンクテキスト内に商品名を入れる利点は他にもあり、検索エンジンの認知度を向上させる周知のテクニックです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T133508Z" creationid="rikiha" creationdate="20170905T004305Z">
+        <seg>4章「ブログ記事」で説明したように、&lt;g1&gt;visually-hidden&lt;/g1&gt;クラスはもちろん&lt;g2&gt;&lt;g3&gt;スクリーンリーダーでもアクセシブルな非表示テクニック&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注147）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;に準じています。リンクテキスト内に商品名を入れる利点は他にもあります。検索エンジンにページをより理解させるための周知のテクニックだということです。</seg>
       </tuv>
     </tu>
     <tu>
