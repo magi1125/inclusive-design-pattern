@@ -4055,12 +4055,14 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
 調整してみましたがわかりやすくなっていますかね?
 
 (岡本)
-2つ目→2つめ</note>
+2つ目→2つめ
+
+(伊原) 1つ目を動作、2つ目をふるまいとしてみました。</note>
       <tuv lang="EN-US">
         <seg>A second pitfall can be laid out much more succinctly: if the behavior is to link, use a link’s behavior to do it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170906T110002Z" creationid="rikiha" creationdate="20170905T004234Z">
-        <seg>2つめの落とし穴はもっとかんたんに説明できます。リンクするというふるまいが必要な場合、リンクのふるまいをそのまま利用すれば実現できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T110423Z" creationid="rikiha" creationdate="20170905T004234Z">
+        <seg>2つめの落とし穴はもっとかんたんに説明できます。リンクするという動作が必要な場合、リンクのふるまいをそのまま利用します。</seg>
       </tuv>
     </tu>
     <tu>
