@@ -9003,7 +9003,10 @@ imagine と might で二重に推定している形ですが、むしろ何故�
 こちらはsuggestなので提案とかでしょうか。
 全体としてstyle for linksをmaintainすることを提案する、という文ですので、「こういうスタイルを用意しておけ」ということだと思います。下のコードもセレクタの列挙だけですね。
 
-ここの purchase は購入と手がかりのダブルミーニング? より視覚的な手ががりが多いという話ではありますが、よりユーザーを購入に導きやすい、ということを暗に含んでいるように思います。「購買意欲を刺激」などとしてみましたがどうでしょうか。やりすぎ?</note>
+does not resemble a button はボタンに似ていない、ですが、下の画像を見ると、まあぶっちゃけボタンのように見えます。ここでは、このサイト上の一般的なボタンのスタイルと異なる、という意味なのでしょう。ということで「ボタンとは異なる」としました。
+
+ここの purchase は購入と手がかりのダブルミーニング? より視覚的な手ががりが多いという話ではありますが、よりユーザーを購入に導きやすい、ということを暗に含んでいるように思います。「購買意欲を刺激」などとしてみましたがどうでしょうか。やりすぎ?
+</note>
       <tuv lang="EN-US">
         <seg>I suggest you maintain a separate call-to-action style for links which has more visual purchase than a standard link but which does not resemble a button.</seg>
       </tuv>
