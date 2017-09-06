@@ -16566,7 +16566,8 @@ can benefit は「良いでしょう」くらいで。
       <note>(太田)
 動作→ふるまいとしつつ調整。
 「目の不自由な」はここでは特に意味が無いのでトリでいいかも。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Since the linking &lt;g4&gt;behavior&lt;/g4&gt; of loading a new page is still intact, this is deceptive and confusing for blind screen reader users and should be avoided.</seg>
       </tuv>
@@ -21125,7 +21126,7 @@ http://www.w3.org/TR/wai-aria-1.1/#link
 
 accessible roleはどうしたものか。英語だとroleという語に多様な意味があるので限定する必要がありますが、日本語だと「ロール」と書くだけでaccessible roleとわかるように思いますので、単に「ロール」としてみました。
 
-</note>
+(伊原) OK。ただ「リンクが持つ暗黙の」とか「a要素が持つ暗黙の」とか補わないで分かるかな？とちょっとだけ思いました。</note>
       <tuv lang="EN-US">
         <seg>This overrides the implicit accessible role of &lt;g2&gt;"link"&lt;/g2&gt; with an explicit role of &lt;g3&gt;"button"&lt;/g3&gt;, meaning the link will be announced as a button in screen reader software.</seg>
       </tuv>
