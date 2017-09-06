@@ -19669,7 +19669,9 @@ Equal to the computed value of font-size on the root element. When specified on 
 と、思いましたが、IE11ではjavascriptスキームのリンクを右クリックすると「新しいタブで開く」などがグレーアウトしますね。
 Forefox55では「リンクを新しいタブで開く」などが現れません。ヘイドンさんが見ているのはこの挙動かも。
 Chrome60では普通に「新しいタブで開く」が選択できてabout:blankが開きます。
-いったん汎用的な書き方にしてみましたが、まあ訳注ですかね。</note>
+いったん汎用的な書き方にしてみましたが、まあ訳注ですかね。
+
+(伊原) OK. 訳注お願いします。ちなみにctrl押しながらリンクをクリックするというのもよくやるのですが、JS製のものだと同様にabout:blankが開いて残念な思いをします。</note>
       <tuv lang="EN-US">
         <seg>The right-click context menu intended for links is not invoked either.</seg>
       </tuv>
