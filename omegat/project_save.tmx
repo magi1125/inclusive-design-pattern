@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18202,8 +18202,8 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;visually-hidden&lt;/g1&gt; class should, of course, correspond to a &lt;g2&gt;&lt;g3&gt;screen reader accessible hiding technique&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;16&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, as introduced in “A Blog Post.” Note that having the product name in the link text has an added advantage: it is a well-known technique for improving search engine visibility.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004305Z" creationid="rikiha" creationdate="20170905T004305Z">
-        <seg>「ブログ記事」で説明したように、もちろんvisually-hiddenクラスはスクリーンリーダーでアクセスできる非表示テクニック（脚注147）に対応しています。リンクテキスト内に商品名を入れる利点は他にもあり、検索エンジンの認知度を向上させる周知のテクニックです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T094831Z" creationid="rikiha" creationdate="20170905T004305Z">
+        <seg>4章「ブログ記事」で説明したように、もちろんvisually-hiddenクラスはスクリーンリーダーでアクセスできる非表示テクニック（脚注147）に対応しています。リンクテキスト内に商品名を入れる利点は他にもあり、検索エンジンの認知度を向上させる周知のテクニックです。</seg>
       </tuv>
     </tu>
     <tu>
