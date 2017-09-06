@@ -299,15 +299,15 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
 (太田)
 「見えるようになるまで」とすると、時間の経過を言っているようにも読めて、「(ローディングが終わって)見えるようになるまでロードする必要はない」と理解されるおそれがありそうです。
 unless を if の反対語として訳す感じにするといいのかも。
-
+「画像がまだ見られていないのであれば、」としてみましたがどうでしょうか。
 
 
 </note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Lazy loading:&lt;/g2&gt; There’s no need to load images unless they are to be seen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T024029Z" creationid="rikiha" creationdate="20170905T003709Z">
-        <seg>&lt;/g1&gt;&lt;g2&gt;遅延読み込み&lt;/g2&gt;：画像が見られないのであれば、読み込む必要はありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T024059Z" creationid="rikiha" creationdate="20170905T003709Z">
+        <seg>&lt;/g1&gt;&lt;g2&gt;遅延読み込み&lt;/g2&gt;：画像がまだ見られていないのであれば、読み込む必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
