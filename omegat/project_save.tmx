@@ -1526,11 +1526,14 @@ forego は「先に行く」のような感じですが、他動詞として使�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;I have qualified the &lt;g2&gt;.call-to-action&lt;/g2&gt; class with the element name &lt;g3&gt;a&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T065041Z" creationid="rikiha" creationdate="20170905T004220Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;ここでは、&lt;g2&gt;.call-to-action&lt;/g2&gt;クラスが&lt;g3&gt;a&lt;/g3&gt;という要素に指定された場合のみに限定しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T065101Z" creationid="rikiha" creationdate="20170905T004220Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ここでは、&lt;g2&gt;.call-to-action&lt;/g2&gt;クラスを&lt;g3&gt;a&lt;/g3&gt;要素に指定された場合のみに限定しています。</seg>
       </tuv>
     </tu>
     <tu>
