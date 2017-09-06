@@ -21080,12 +21080,17 @@ esotericは特殊というより、他で使われていないというニュア
     </tu>
     <tu>
       <note>(太田)
-ここのlinkはroleの値です。</note>
+ここのlinkはroleの値です。
+http://www.w3.org/TR/wai-aria-1.1/#link
+
+accessible roleはどうしたものか。
+日本語だと逆に「ロール」と書くだけでaccessible roleとわかるように思うので、単に「ロール」としてみました。
+</note>
       <tuv lang="EN-US">
         <seg>This overrides the implicit accessible role of &lt;g2&gt;"link"&lt;/g2&gt; with an explicit role of &lt;g3&gt;"button"&lt;/g3&gt;, meaning the link will be announced as a button in screen reader software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T033107Z" creationid="rikiha" creationdate="20170905T004201Z">
-        <seg>これを行うと、&lt;g2&gt;"link"&lt;/g2&gt;の暗黙のアクセシブルなロールが、"button"の明示的なロールでオーバーライドされ、スクリーンリーダーでリンクがボタンとして読み上げられてしまいます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T033302Z" creationid="rikiha" creationdate="20170905T004201Z">
+        <seg>これを行うと、暗黙のロールとして&lt;g2&gt;"link"&lt;/g2&gt;が、"button"の明示的なロールでオーバーライドされ、スクリーンリーダーでリンクがボタンとして読み上げられてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
