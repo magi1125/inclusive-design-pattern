@@ -8994,12 +8994,14 @@ imagine と might で二重に推定している形ですが、むしろ何故�
 
 (太田)
 こちらはsuggestなので提案とかでしょうか。
-ここの purchase は購入と手がかりのダブルミーニング? </note>
+全体としてstyle for linksをmaintainすることを提案する、という文「こういうスタイルを用意しておけ」ということだと思います。
+ここの purchase は購入と手がかりのダブルミーニング? 
+</note>
       <tuv lang="EN-US">
         <seg>I suggest you maintain a separate call-to-action style for links which has more visual purchase than a standard link but which does not resemble a button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T052936Z" creationid="rikiha" creationdate="20170905T004208Z">
-        <seg>リンクには、標準のリンクよりも目立ち、しかしながらボタンのようには見えない独自のcall-to-actionスタイルを適用すると良いでしょう</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T053029Z" creationid="rikiha" creationdate="20170905T004208Z">
+        <seg>標準のリンクよりも目立ち、しかしながらボタンのようには見えない独自のcall-to-actionスタイルを用意しておくと良いでしょう</seg>
       </tuv>
     </tu>
     <tu>
