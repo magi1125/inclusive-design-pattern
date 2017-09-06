@@ -21219,14 +21219,14 @@ accessible roleはどうしたものか。英語だとroleという語に多様�
 (伊原) OK。ただ「リンクが持つ暗黙の」とか「a要素が持つ暗黙の」とか補わないで分かるかな？とちょっとだけ思いました。
 
 (太田)
-「もともとa要素が持っていた暗黙の&lt;g2&gt;"link"&lt;/g2&gt;というロール」としてみました。
+「もともとリンクが持っていたはずの暗黙の&lt;g2&gt;"link"&lt;/g2&gt;というロール」としてみました。
 
 </note>
       <tuv lang="EN-US">
         <seg>This overrides the implicit accessible role of &lt;g2&gt;"link"&lt;/g2&gt; with an explicit role of &lt;g3&gt;"button"&lt;/g3&gt;, meaning the link will be announced as a button in screen reader software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T081502Z" creationid="rikiha" creationdate="20170905T004201Z">
-        <seg>これは、もともとa要素が持っていた暗黙の&lt;g2&gt;"link"&lt;/g2&gt;というロールを、明示的に指定された&lt;g3&gt;"button"&lt;/g3&gt;ロールで上書きするため、スクリーンリーダーはこのリンクをボタンとして読み上げることになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T081608Z" creationid="rikiha" creationdate="20170905T004201Z">
+        <seg>これは、もともとリンクが持っていたはずの暗黙の&lt;g2&gt;"link"&lt;/g2&gt;というロールを、明示的に指定された&lt;g3&gt;"button"&lt;/g3&gt;ロールで上書きするため、スクリーンリーダーはこのリンクをボタンとして読み上げることになります。</seg>
       </tuv>
     </tu>
     <tu>
