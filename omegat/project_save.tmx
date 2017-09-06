@@ -463,8 +463,8 @@ dedicated labelとは。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The link doesn’t have a dedicated label, either visually or determinable by assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170906T161542Z" creationid="rikiha" creationdate="20170905T004348Z">
-        <seg>1.このリンクには、視覚的な専用ラベルも、支援技術によって特定できる専用ラベルもありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T162828Z" creationid="rikiha" creationdate="20170905T004348Z">
+        <seg>&lt;/g1&gt;このリンクには、視覚的な専用ラベルも、支援技術によって特定できる専用ラベルもありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -492,11 +492,12 @@ dedicated labelとは。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;This structure produces unexpected behaviors in some screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004351Z" creationid="rikiha" creationdate="20170905T004351Z">
-        <seg>2.この構造は一部のスクリーンリーダーで予期せぬ動作を引き起こします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T162943Z" creationid="rikiha" creationdate="20170905T004351Z">
+        <seg>&lt;/g1&gt;この構造は一部のスクリーンリーダーで予期せぬ動作を引き起こします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7850,11 +7851,12 @@ typingはそのままタイピングで良いかと思います。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 周囲のリンク➞見出しを囲むリンクとしました。</note>
       <tuv lang="EN-US">
         <seg>For example, in VoiceOver, when I try to navigate to a product heading using &lt;g2&gt;Ctrl&lt;/g2&gt; + &lt;g3&gt;Alt&lt;/g3&gt; + &lt;g4&gt;Cmd&lt;/g4&gt; + &lt;g5&gt;H&lt;/g5&gt;, the surrounding link is focused and the heading semantics (“Third-level heading”) are not announced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004354Z" creationid="rikiha" creationdate="20170905T004354Z">
-        <seg>たとえば、VoiceOverでは、Ctrl + Alt + Cmd + Hを使用して商品の見出しへ移動しようとすると、周囲のリンクがフォーカスされ、見出しのセマンティクス（「＃＃Third-level heading＃＃」）は読み上げられません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T163710Z" creationid="rikiha" creationdate="20170905T004354Z">
+        <seg>たとえばVoiceOverの場合、&lt;g2&gt;Ctrl&lt;/g2&gt; + &lt;g3&gt;Alt&lt;/g3&gt; + &lt;g4&gt;Cmd&lt;/g4&gt; + &lt;g5&gt;H&lt;/g5&gt;を使用して商品の見出しへ移動しようとすると、見出しを囲むリンクにフォーカスされ、見出しのセマンティクス（「見出しレベル3」）は読み上げられません。</seg>
       </tuv>
     </tu>
     <tu>
