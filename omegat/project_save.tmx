@@ -7844,15 +7844,19 @@ OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※コードは外に出す。
+
+(太田)
 文中にコード出現。原文の雰囲気に沿って調整しましたが文の外に出すべきなのかも。とはいえここはリストの中なので、外に出す処理は難しいかもしれません。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田) コードを文の外に出す想定で調整。</note>
       <tuv lang="EN-US">
         <seg>For our product list, each image’s markup might look like &lt;g6&gt;&lt;img src="dummy.jpg" data-src="/images/naked-forecourt-man.jpg" width="400" height="300"&gt;&lt;/g6&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T105805Z" creationid="rikiha" creationdate="20170905T003722Z">
-        <seg>今回の商品リストの場合、各画像のマークアップは &lt;g6&gt;&lt;img src="dummy.jpg" width="400" height="300" data-src="/images/naked-forecourt-man.jpg"&gt;&lt;/g6&gt; のようになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T015445Z" creationid="rikiha" creationdate="20170905T003722Z">
+        <seg>今回の商品リストの場合、各画像のマークアップは以下のような感じになります。 &lt;g6&gt;&lt;img src="dummy.jpg" width="400" height="300" data-src="/images/naked-forecourt-man.jpg"&gt;&lt;/g6&gt; </seg>
       </tuv>
     </tu>
     <tu>
