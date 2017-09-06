@@ -11858,11 +11858,13 @@ canの訳出など。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+スタイルを呼び出すと言うのがしっくりこないので調整。</note>
       <tuv lang="EN-US">
         <seg>It is not standard behavior to invoke this cursor style on &lt;g11&gt;&lt;button&gt;&lt;/g11&gt;s, and it’s risky to break with long-held convention.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T073810Z" creationid="rikiha" creationdate="20170905T004232Z">
-        <seg>&lt;g11&gt;&lt;button&gt;&lt;/g11&gt;でこのカーソルスタイルを呼び出すのは標準の動作ではなく、長年続いてきた慣習を破るのは危険を伴います。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T075655Z" creationid="rikiha" creationdate="20170905T004232Z">
+        <seg>&lt;g11&gt;&lt;button&gt;&lt;/g11&gt;にこのカーソルスタイルを適用するのは標準の動作ではなく、長年続いてきた慣習を破るのは危険を伴います。</seg>
       </tuv>
     </tu>
     <tu>
