@@ -16594,13 +16594,13 @@ seize an opportunity で好機を捉える、seize the opportunity to do でこ�
     </tu>
     <tu>
       <note>(太田)
-
+元訳は誤訳っぽいですね。ボタンの見た目はボタンだけに使えという主張です。
 </note>
       <tuv lang="EN-US">
         <seg>Since the visual appearance of a button suggests button-like behavior, it is recommended to preserve that aesthetic for actual &lt;g1&gt;&lt;button&gt;&lt;/g1&gt;s.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004207Z" creationid="rikiha" creationdate="20170905T004207Z">
-        <seg>ボタンの外観はボタンらしい動作を示唆するので、そうした見た目を&lt;button&gt;でも維持することが推奨されます。リンクには独立したcall-to-actionスタイルを保持することをお勧めします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T034432Z" creationid="rikiha" creationdate="20170905T004207Z">
+        <seg>視覚的な見た目をボタンのようにすると、ボタンのような動作を連想させるので、そのような装飾は実際の&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;だけに適用することをお勧めします。リンクには独立したcall-to-actionスタイルを保持することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
