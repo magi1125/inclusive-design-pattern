@@ -456,12 +456,15 @@ Theを重視するなら「テスト対象の」と補うのもありか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) dedicated labelとは。専用のラベルということですが、文脈的に「リンク専用のレッテル」的なことなのかなと。</note>
+      <note>(伊原) 保留。
+dedicated labelとは。
+文脈的に「リンク専用のレッテル」的なこと？しかしそうだとすると、リンクであることがわからないのは単にスタイルの問題だし、支援技術でもリンクであることはわかると思うので、ちょっと謎です。
+あるいは、リンクに対するラベルが（いろいろ書かれているので）一意に定まらない、ということですかね。こっちのような気もする。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The link doesn’t have a dedicated label, either visually or determinable by assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170906T160919Z" creationid="rikiha" creationdate="20170905T004348Z">
-        <seg>1.このリンクには、視覚的にも、支援技術で特定できる専用ラベルもありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T161542Z" creationid="rikiha" creationdate="20170905T004348Z">
+        <seg>1.このリンクには、視覚的な専用ラベルも、支援技術によって特定できる専用ラベルもありません。</seg>
       </tuv>
     </tu>
     <tu>
