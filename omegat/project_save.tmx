@@ -16829,6 +16829,7 @@ JISでは「コンテキスト内」としましたが、「リンクの目的�
 以下ではaria-labelledbyを普通につかっているようです。
 http://heydonworks.com/practical_aria_examples/
 https://inclusive-components.design/#components
+…と、後ろの段落を見ると "it is a well-known technique for improving search engine visibility." とのことで、SEO目的でこの手段を取っているということのようですね。
 </note>
       <tuv lang="EN-US">
         <seg>Since the title of the product is already present visually and in context via the &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;, we should remedy this with some visually hidden text, placed within the link.</seg>
