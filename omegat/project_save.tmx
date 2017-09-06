@@ -19461,11 +19461,12 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) itを補いました。</note>
       <tuv lang="EN-US">
         <seg>The outcome is that users will not know they can interact with the item until they &lt;g2&gt;interact with it&lt;/g2&gt; (by hovering the cursor over it to produce a pointer, say, or by invoking a focus style).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004349Z" creationid="rikiha" creationdate="20170905T004349Z">
-        <seg>その結果、ユーザーはその項目に触れてみるまで（その上にカーソルを合わせてポインターを表示させたり、フォーカス状態にするなど）、インタラクションを行えることが分かりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T162731Z" creationid="rikiha" creationdate="20170905T004349Z">
+        <seg>その結果、ユーザーは&lt;g2&gt;リンクに触れる&lt;/g2&gt;（マウスカーソルを載せてポインターが表示される、またはフォーカススタイルが適用される）まで、インタラクションがあることが分かりません。</seg>
       </tuv>
     </tu>
     <tu>
