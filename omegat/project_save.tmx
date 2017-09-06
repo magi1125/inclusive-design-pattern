@@ -14770,9 +14770,7 @@ familiarを「十分に学習してきた」としていますが、「十分に
     <tu>
       <note>(太田)
 すこし調整。
-
-(岡本)
-「ブログ記事」→4章「ブログ記事」</note>
+</note>
       <tuv lang="EN-US">
         <seg>Now the link text makes sense independent of context.</seg>
       </tuv>
@@ -18215,6 +18213,8 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+「ブログ記事」→4章「ブログ記事」</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;visually-hidden&lt;/g1&gt; class should, of course, correspond to a &lt;g2&gt;&lt;g3&gt;screen reader accessible hiding technique&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;16&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, as introduced in “A Blog Post.” Note that having the product name in the link text has an added advantage: it is a well-known technique for improving search engine visibility.</seg>
       </tuv>
