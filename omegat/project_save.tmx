@@ -306,8 +306,8 @@ unless を if の反対語として訳す感じにするといいのかも。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Lazy loading:&lt;/g2&gt; There’s no need to load images unless they are to be seen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T023912Z" creationid="rikiha" creationdate="20170905T003709Z">
-        <seg>&lt;/g1&gt;&lt;g2&gt;遅延読み込み&lt;/g2&gt;：見られていない画像を読み込む必要はありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T024029Z" creationid="rikiha" creationdate="20170905T003709Z">
+        <seg>&lt;/g1&gt;&lt;g2&gt;遅延読み込み&lt;/g2&gt;：画像が見られないのであれば、読み込む必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
