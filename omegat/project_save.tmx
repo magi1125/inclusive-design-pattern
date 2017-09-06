@@ -3722,7 +3722,9 @@ Note を訳出しました。
     </tu>
     <tu>
       <note>(太田)
-調整。</note>
+調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>A browser only knows to provide these things if you use the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; element in an expected way.</seg>
       </tuv>
@@ -22537,12 +22539,13 @@ not cut it はうまくできない、くらいの意味。
     <tu>
       <note>(太田)
 ユニークはユニークでも良いか?
-</note>
+
+(伊原) ユニークで良さそうです。そうしてみました。</note>
       <tuv lang="EN-US">
         <seg>Unique, Descriptive Link Text</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004252Z" creationid="rikiha" creationdate="20170905T004252Z">
-        <seg>固有の説明的なリンクテキスト</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T112714Z" creationid="rikiha" creationdate="20170905T004252Z">
+        <seg>ユニークで説明的なリンクテキスト</seg>
       </tuv>
     </tu>
     <tu>
