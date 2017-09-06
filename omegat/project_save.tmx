@@ -3697,11 +3697,13 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+</note>
       <tuv lang="EN-US">
         <seg>A browser only knows to provide these things if you use the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; element in an expected way.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T090536Z" creationid="rikiha" creationdate="20170905T004249Z">
-        <seg>ブラウザは、予期される方法で&lt;g2&gt;&lt;a&gt;&lt;/g2&gt;要素を使っている場合だけ、これらの機能を提供すると理解します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T091945Z" creationid="rikiha" creationdate="20170905T004249Z">
+        <seg>ブラウザは、&lt;g2&gt;&lt;a&gt;&lt;/g2&gt;要素を普通に使っている場合にだけ、これらの機能を提供します。</seg>
       </tuv>
     </tu>
     <tu>
