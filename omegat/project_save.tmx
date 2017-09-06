@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2593,6 +2593,16 @@ Size:　→サイズ：</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T104537Z" creationid="yoota" creationdate="20170614T104537Z">
         <seg>&lt;g4&gt;/* 今度はremではなくem */&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+コメントの訳をお願いします。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g4&gt;/* standard link styles */&lt;/g4&gt;
+&lt;g5&gt;}&lt;/g5&gt;
+
+&lt;g6&gt;a.call-to-action &lt;/g6&gt;&lt;g7&gt;{&lt;/g7&gt;</seg>
       </tuv>
     </tu>
     <tu>
