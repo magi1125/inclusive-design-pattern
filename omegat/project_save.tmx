@@ -11821,6 +11821,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It does not help users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T083612Z" creationid="yoota" creationdate="20170906T083612Z">
+        <seg>が、ユーザーの役には立ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文が読みにくいのが悪いのですが、元訳は誤訳っぽいですね。
 例によって and の解釈の問題で、(A when B) and C と解釈されたようですが、意味的に A when (B and C) が正しいはずです。つまり、
@@ -21234,7 +21242,7 @@ esotericは特殊というより、他で使われていないというニュア
     </tu>
     <tu>
       <note>(太田)
-HP。</note>
+力強いHP。</note>
       <tuv lang="EN-US">
         <seg>This might help the framework developers because they like to work exclusively within the realm of JavaScript.</seg>
       </tuv>
