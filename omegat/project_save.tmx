@@ -1541,12 +1541,15 @@ forego は「先に行く」のような感じですが、他動詞として使�
       <note>(太田)
 すこし調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+次の文に合わせて「aという要素名」</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;I have qualified the &lt;g2&gt;.call-to-action&lt;/g2&gt; class with the element name &lt;g3&gt;a&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T065249Z" creationid="rikiha" creationdate="20170905T004220Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;ここでは、&lt;g2&gt;.call-to-action&lt;/g2&gt;クラスを&lt;g3&gt;a&lt;/g3&gt;要素と一緒に指定しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T081919Z" creationid="rikiha" creationdate="20170905T004220Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ここでは、&lt;g2&gt;.call-to-action&lt;/g2&gt;クラスを&lt;g3&gt;a&lt;/g3&gt;という要素名と一緒に指定しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24216,7 +24219,11 @@ OK</note>
       <note>(太田)
 すこし調整。
 
-(伊原) 「これは不要」を少し補い「要素名の指定は冗長」としました。いわゆるCSS設計の話ですね。</note>
+(伊原) 「これは不要」を少し補い「要素名の指定は冗長」としました。いわゆるCSS設計の話ですね。
+
+(太田)
+OK
+ここで「要素名」と言うのであれば、前の文でも「aという要素名」としたほうがいいですね。そのようにしました。</note>
       <tuv lang="EN-US">
         <seg>You may have read elsewhere that this is redundant, but it serves an important purpose: it restricts the use of &lt;g4&gt;.call-to-action&lt;/g4&gt; styles to the &lt;g5&gt;a&lt;/g5&gt; element.</seg>
       </tuv>
