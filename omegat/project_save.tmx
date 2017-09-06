@@ -16776,7 +16776,13 @@ seize an opportunity で好機を捉える、seize the opportunity to do でこ�
     </tu>
     <tu>
       <note>(太田)
-aria-describedbyじゃないんかい!!
+aria-labelledbyじゃないんかい!!
+
+ARIA7: リンクの目的を示すために aria-labelledby を使用する
+http://waic.jp/docs/WCAG-TECHS/ARIA7.html
+
+見出しがあるのだからそれをそのまま参照するという話になると思いきや。
+aria-labelledbyのAS状況がよろしくないという話なのでしょうかね。
 </note>
       <tuv lang="EN-US">
         <seg>Since the title of the product is already present visually and in context via the &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;, we should remedy this with some visually hidden text, placed within the link.</seg>
