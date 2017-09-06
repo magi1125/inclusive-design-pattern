@@ -10828,12 +10828,19 @@ http://waic.jp/docs/WCAG20/Overview.html#visual-audio-contrast-visual-presentati
 bullet pointはそのまま「ビュレット」と書かれる事もありますがどうするべきなのか。
 
 (伊原) ストレートに「箇条書きの点」としてみました。
-著者側、改めて見るとちょっと違和感ありますね。サイト制作者側、とかのほうがいいのかも。</note>
+著者側、改めて見るとちょっと違和感ありますね。サイト制作者側、とかのほうがいいのかも。
+
+(太田)
+「箇条書きの点」OKです。
+著者側は変えますかね。
+
+
+</note>
       <tuv lang="EN-US">
         <seg>In the absence of author CSS, the browser will display each list item with a bullet point and render the heading text in a large, bold font.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170902T151617Z" creationid="rikiha" creationdate="20170828T141805Z">
-        <seg>著者側のCSSがない場合、ブラウザはそれぞれのリスト項目の頭に箇条書きの点を表示し、見出しテキストを大きい太字フォントで表示します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T020400Z" creationid="rikiha" creationdate="20170828T141805Z">
+        <seg>サイト制作者側のCSSがない場合、ブラウザはそれぞれのリスト項目の頭に箇条書きの点を表示し、見出しテキストを大きい太字フォントで表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21342,7 +21349,9 @@ compelには強要する、強いるという意味があり、転じて「目�
 (伊原) 「注目の商品」とかは見かける気がします。たいていソートとは関係ない、出し手が売り込みたいものが先頭に2つぐらい出てくるという。これを最初にやりだしたのはヤフオクの「注目のオークション」だったような……。
 でも、目玉商品でも伝わるには伝わるかなと。
 
-(太田) 岡本さん的に目玉商品で良いという意見なので、ママで。</note>
+(太田)
+OK
+岡本さん的に目玉商品で良いという意見なので、ママで。</note>
       <tuv lang="EN-US">
         <seg>Though it’s tempting to use a higher heading level like &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; to pick out featured products, this should be avoided as it would make for a nonsensical structure.</seg>
       </tuv>
