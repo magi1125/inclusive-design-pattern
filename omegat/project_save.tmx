@@ -5287,6 +5287,8 @@ the experience is lackingどうするか。
 
 「リンクをブラウザのタブリストにドラッグ」は知らない人が多いと思うので訳注ですかね。すくなくともIE11とChromeとFirefoxでは可能でした。
 
+(伊原) OK. 訳注ですかね。やってみればわかる感もありますがw
+
 </note>
       <tuv lang="EN-US">
         <seg>As well as basic linking behavior breaking when JavaScript is not available, even where it &lt;g1&gt;is&lt;/g1&gt; available the experience is lacking: URLs only reveal “javascript:;” on hover and the link cannot be dragged into the browser tab list.</seg>
@@ -11884,7 +11886,9 @@ OK
     </tu>
     <tu>
       <note>(太田)
-前の文にくっついていたのをそのまま持ってきました。</note>
+前の文にくっついていたのをそのまま持ってきました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It does not help users.</seg>
       </tuv>
