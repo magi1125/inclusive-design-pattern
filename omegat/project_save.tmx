@@ -5256,7 +5256,8 @@ isの強調の意味がよくわかりませんが、is not ではないこと�
 the experience is lackingどうするか。
 不満が残るくらい?
 
-「リンクをブラウザのタブリストにドラッグ」は知らない人が多いと思うので訳注ですかね。
+「リンクをブラウザのタブリストにドラッグ」は知らない人が多いと思うので訳注ですかね。すくなくともIE11とChromeでは可能でした。
+
 </note>
       <tuv lang="EN-US">
         <seg>As well as basic linking behavior breaking when JavaScript is not available, even where it &lt;g1&gt;is&lt;/g1&gt; available the experience is lacking: URLs only reveal “javascript:;” on hover and the link cannot be dragged into the browser tab list.</seg>
