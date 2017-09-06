@@ -4061,8 +4061,8 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       <tuv lang="EN-US">
         <seg>A second pitfall can be laid out much more succinctly: if the behavior is to link, use a link’s behavior to do it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170906T110423Z" creationid="rikiha" creationdate="20170905T004234Z">
-        <seg>2つめの落とし穴はもっとかんたんに説明できます。リンクするという動作が必要な場合、リンクのふるまいをそのまま利用します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T110527Z" creationid="rikiha" creationdate="20170905T004234Z">
+        <seg>2つめの落とし穴の説明はもっと簡潔です。リンクするという動作が必要な場合、リンクのふるまいをそのまま利用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6638,6 +6638,8 @@ http://qiita.com/Hexa/items/c3d864bc4ac5be0c9d2b を見ると昔はそういう�
 Client-sideは前の箇所では「クライアントサイド」としていました。
 
 supplantは強引に置き換える、取って代わるというようなネガティブイメージの言葉でHPですね。「乗っ取る」としつつ、「乗っ取る習慣があるようです。」として皮肉っぽくしてみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Client-side JavaScript frameworks especially have a habit of supplanting standard link behavior.</seg>
@@ -12135,12 +12137,14 @@ must ではなく should なので「べき」としました。
     <tu>
       <note>(太田)
 「過剰な機能をもたせる」というか、持たせようとしている機能は単なるリンクであり、その機能を持たせるために過剰な細工をしてしまいがち、という話かと思います。
-「過剰な細工をしてしまいがち」としてみました。</note>
+「過剰な細工をしてしまいがち」としてみました。
+
+(伊原) OK、加えて落とし穴の説明はこの分節側なので、前の分節と1文に読めるような感じにしてみました。</note>
       <tuv lang="EN-US">
         <seg>It sounds simple when put like that, but we tend to overengineer interfaces.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T082933Z" creationid="rikiha" creationdate="20170905T004235Z">
-        <seg>このように言うと単純に聞こえますが、私たちはインターフェイスに過剰な細工をしてしまいがちです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T110536Z" creationid="rikiha" creationdate="20170905T004235Z">
+        <seg>というと単純に聞こえますが、私たちはインターフェイスに過剰な細工をしてしまいがちです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21338,12 +21342,14 @@ esotericは特殊というより、他で使われていないというニュア
     <tu>
       <note>(太田)
 力強いHP。
-原文にそろえて「ユーザーの役に立たない」を次の文に。</note>
+原文にそろえて「ユーザーの役に立たない」を次の文に。
+
+(伊原) framework developers はフレームワーク開発者でよいかどうか。フレームワークを開発するというより、フレームワークを利用する開発者かも。「フレームワーク利用者」としてみました。JSの世界の中だけで〜という時点で暗黙に開発者を指しているので、利用者と言ってもエンドユーザーとは誤認されないかなと。</note>
       <tuv lang="EN-US">
         <seg>This might help the framework developers because they like to work exclusively within the realm of JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T084739Z" creationid="rikiha" creationdate="20170905T004238Z">
-        <seg>これは、JavaScriptの世界の中だけで作業したいというフレームワーク開発者にとっては便利かもしれません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T111137Z" creationid="rikiha" creationdate="20170905T004238Z">
+        <seg>これは、JavaScriptの世界の中だけで作業したいというフレームワーク利用者にとっては便利かもしれません。</seg>
       </tuv>
     </tu>
     <tu>
