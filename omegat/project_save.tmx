@@ -22440,7 +22440,9 @@ poor を不適切とするのがいいのかどうか。
       <note>(太田)
 unless or until は厳密に訳さなくても良いように思います。
 
-(伊原) ブラウザで挙動で画像が表示されるのは自発的なダウンロードではない感じなので、受身にしました。</note>
+(伊原) ブラウザで挙動で画像が表示されるのは自発的なダウンロードではない感じなので、受身にしました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Using lazy loading means not downloading the image resource unless or until the &lt;g3&gt;&lt;img/&gt;&lt;/g3&gt; element enters the viewport.</seg>
       </tuv>
