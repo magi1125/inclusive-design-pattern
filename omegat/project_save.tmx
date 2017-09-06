@@ -1373,6 +1373,14 @@ https://www.soundsnap.com/tags/incidental
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Buy Now</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T093043Z" creationid="yoota" creationdate="20170906T093043Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;今すぐ購入</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 余白→マージン
 「敏感で、寛容ではない」は少し違和感あり。
@@ -13213,8 +13221,8 @@ Keyは重要でいいのか。
       <tuv lang="EN-US">
         <seg>Let’s not forget that each link for each product currently has an identical “Buy Now” label, meaning screen reader aggregated link lists will take the following unhelpful form:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T093024Z" creationid="rikiha" creationdate="20170905T004253Z">
-        <seg>現状では、各商品のリンクに全て同じ「今すぐ購入」というラベルが付いていることを忘れないようにしましょう。この状態では、スクリーンリーダーでリンクリストを表示しても、以下のような役に立たないものになってしまいます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T093034Z" creationid="rikiha" creationdate="20170905T004253Z">
+        <seg>現状では、各商品のリンクに全て同じ「今すぐ購入」というラベルが付いていることを忘れないようにしましょう。この状態では、スクリーンリーダーでリンクのリストを表示しても、以下のような役に立たないものになってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16760,8 +16768,8 @@ seize an opportunity で好機を捉える、seize the opportunity to do でこ�
       <tuv lang="EN-US">
         <seg>Since the title of the product is already present visually and in context via the &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;, we should remedy this with some visually hidden text, placed within the link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004256Z" creationid="rikiha" creationdate="20170905T004256Z">
-        <seg>商品のタイトルはすでにを用いて視覚的にコンテキスト内に提示されているので、リンク内に非表示のテキストを配置し、この問題を修正します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T093101Z" creationid="rikiha" creationdate="20170905T004256Z">
+        <seg>商品のタイトルはすでに&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;を用いて視覚的にコンテキスト内に提示されているので、リンク内に非表示のテキストを配置し、この問題を修正します。</seg>
       </tuv>
     </tu>
     <tu>
