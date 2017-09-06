@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6371,7 +6371,9 @@ rely on には「信頼できる」までの意味はないかも (認知心理�
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>By using &lt;g6&gt;.call-to-action&lt;/g6&gt; on a &lt;g7&gt;&lt;button&gt;&lt;/g7&gt;, or an inaccessibly interactive &lt;g8&gt;&lt;div&gt;&lt;/g8&gt; element, the style will not be invoked.</seg>
       </tuv>
@@ -24191,12 +24193,14 @@ OK</note>
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(伊原) 「これは不要」を少し補い「要素名の指定は冗長」としました。いわゆるCSS設計の話ですね。</note>
       <tuv lang="EN-US">
         <seg>You may have read elsewhere that this is redundant, but it serves an important purpose: it restricts the use of &lt;g4&gt;.call-to-action&lt;/g4&gt; styles to the &lt;g5&gt;a&lt;/g5&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T065339Z" creationid="rikiha" creationdate="20170905T004221Z">
-        <seg>これは不要だという意見をどこかで目にしたことがあるかもしれませんが、重要な意味があります。&lt;g4&gt;.call-to-action&lt;/g4&gt;のスタイルを&lt;g5&gt;a&lt;/g5&gt;要素にしか適用できないようにしているのです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T075734Z" creationid="rikiha" creationdate="20170905T004221Z">
+        <seg>要素名の指定は冗長だという意見をどこかで目にしたことがあるかもしれませんが、重要な意味があります。&lt;g4&gt;.call-to-action&lt;/g4&gt;のスタイルを&lt;g5&gt;a&lt;/g5&gt;要素にしか適用できないようにしているのです。</seg>
       </tuv>
     </tu>
     <tu>
