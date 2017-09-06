@@ -4025,7 +4025,10 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
     <tu>
       <note>(太田)
 後半わかりにくいですね。
-ふつうにa要素で実装するべき的な話でしょうね。</note>
+ふつうにa要素で実装するべき的な話でしょうね。
+調整してみましたがわかりやすくなっていますかね?
+
+</note>
       <tuv lang="EN-US">
         <seg>A second pitfall can be laid out much more succinctly: if the behavior is to link, use a link’s behavior to do it.</seg>
       </tuv>
