@@ -19579,13 +19579,16 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
-そんなことはないような。
-メニュー自体は出ますし、「新しいタブで開く」なども出ますが、ただそれを実行しても意図通りにはならない、ということかと。
+      <note>※要訳注
 
+(太田)
+そんなことはないような。
 と、思いましたが、IE11ではjavascriptスキームのリンクを右クリックすると「新しいタブで開く」などがグレーアウトしますね。
 Forefox55では「リンクを新しいタブで開く」などが現れません。ヘイドンさんが見ているのはこの挙動かも。
-Chrome60では普通に「新しいタブで開く」が選択できてabout:blankが開きます。</note>
+Chrome60では普通に「新しいタブで開く」が選択できてabout:blankが開きます。
+訳注ですね。
+
+</note>
       <tuv lang="EN-US">
         <seg>The right-click context menu intended for links is not invoked either.</seg>
       </tuv>
