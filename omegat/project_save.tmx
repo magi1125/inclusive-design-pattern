@@ -16535,13 +16535,14 @@ can benefit は「良いでしょう」くらいで。
     </tu>
     <tu>
       <note>(太田)
-
+動作→ふるまいとしつつ調整。
+「目の不自由な」はここでは特に意味が無いのでトリでいいかも。
 </note>
       <tuv lang="EN-US">
         <seg>Since the linking &lt;g4&gt;behavior&lt;/g4&gt; of loading a new page is still intact, this is deceptive and confusing for blind screen reader users and should be avoided.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T033810Z" creationid="rikiha" creationdate="20170905T004202Z">
-        <seg>このリンクの&lt;g4&gt;ふるまい&lt;/g4&gt;は新しいページを読み込むという動作のまま変わらないので、目の不自由なスクリーンリーダーユーザーにとって紛らわしく、混乱を招くため、この方法は避けるべきです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T034013Z" creationid="rikiha" creationdate="20170905T004202Z">
+        <seg>このリンクの&lt;g4&gt;ふるまい&lt;/g4&gt;は新しいページを読み込むという動作のまま変わらないため、これはスクリーンリーダーユーザーを欺き、混乱させことになり、避けるべきです。</seg>
       </tuv>
     </tu>
     <tu>
