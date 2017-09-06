@@ -586,6 +586,16 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g12&gt;/* &lt;button&gt; element styles */&lt;/g12&gt;
+&lt;g13&gt;}&lt;/g13&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T074907Z" creationid="rikiha" creationdate="20170906T074907Z">
+        <seg>&lt;g12&gt;/* &lt;button&gt;要素のスタイル */&lt;/g12&gt;
+&lt;g13&gt;}&lt;/g13&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;&lt;/g14&gt;h2&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g12&gt;Contents&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;/&lt;/g18&gt;h2&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g16&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134359Z" creationid="rikiha" creationdate="20170809T134359Z">
@@ -2623,9 +2633,21 @@ Size:　→サイズ：</note>
     </tu>
     <tu>
       <note>(岡本)
-コメントの訳をお願いします。</note>
+コメントの訳をお願いします。
+
+(伊原) 
+・標準のリンクのスタイル
+・強調されたリンクのスタイル
+・&lt;button&gt;要素のスタイル
+かなと。</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;/* standard link styles */&lt;/g4&gt;
+&lt;g5&gt;}&lt;/g5&gt;
+
+&lt;g6&gt;a.call-to-action &lt;/g6&gt;&lt;g7&gt;{&lt;/g7&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T074848Z">
+        <seg>&lt;g4&gt;/* 標準のリンクのスタイル */&lt;/g4&gt;
 &lt;g5&gt;}&lt;/g5&gt;
 
 &lt;g6&gt;a.call-to-action &lt;/g6&gt;&lt;g7&gt;{&lt;/g7&gt;</seg>
@@ -2976,6 +2998,20 @@ Amazonの表記だと、「5つ星のうち 4」となっていました。参�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134145Z" creationid="rikiha" creationdate="20170809T134145Z">
         <seg>&lt;g89&gt;&lt;g90&gt;&lt;g91&gt;&lt;&lt;/g91&gt;li&lt;/g90&gt;&lt;g92&gt;&gt;&lt;/g92&gt;&lt;/g89&gt;&lt;g93&gt;&lt;g94&gt;&lt;g95&gt;&lt;&lt;/g95&gt;a&lt;/g94&gt; &lt;g96&gt;href&lt;/g96&gt;&lt;g97&gt;&lt;g98&gt;=&lt;/g98&gt;"/login"&lt;/g97&gt;&lt;g99&gt;&gt;&lt;/g99&gt;&lt;/g93&gt;ログイン&lt;g100&gt;&lt;g101&gt;&lt;g102&gt;&lt;/&lt;/g102&gt;a&lt;/g101&gt;&lt;g103&gt;&gt;&lt;/g103&gt;&lt;/g100&gt;&lt;g104&gt;&lt;g105&gt;&lt;g106&gt;&lt;/&lt;/g106&gt;li&lt;/g105&gt;&lt;g107&gt;&gt;&lt;/g107&gt;&lt;/g104&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g8&gt;/* emphatic link styles */&lt;/g8&gt;
+&lt;g9&gt;}&lt;/g9&gt;
+
+&lt;g10&gt;button &lt;/g10&gt;&lt;g11&gt;{&lt;/g11&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T074856Z" creationid="rikiha" creationdate="20170906T074856Z">
+        <seg>&lt;g8&gt;/* 強調されたリンクのスタイル */&lt;/g8&gt;
+&lt;g9&gt;}&lt;/g9&gt;
+
+&lt;g10&gt;button &lt;/g10&gt;&lt;g11&gt;{&lt;/g11&gt;</seg>
       </tuv>
     </tu>
     <tu>
