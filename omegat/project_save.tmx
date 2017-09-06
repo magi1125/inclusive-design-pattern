@@ -3700,8 +3700,8 @@ Note を訳出しました。
       <tuv lang="EN-US">
         <seg>A browser only knows to provide these things if you use the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; element in an expected way.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004249Z" creationid="rikiha" creationdate="20170905T004249Z">
-        <seg>ブラウザは、予期される方法で&lt;a&gt;要素を使っている場合だけ、これらの機能を提供すると理解します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T090536Z" creationid="rikiha" creationdate="20170905T004249Z">
+        <seg>ブラウザは、予期される方法で&lt;g2&gt;&lt;a&gt;&lt;/g2&gt;要素を使っている場合だけ、これらの機能を提供すると理解します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19586,9 +19586,7 @@ Equal to the computed value of font-size on the root element. When specified on 
 と、思いましたが、IE11ではjavascriptスキームのリンクを右クリックすると「新しいタブで開く」などがグレーアウトしますね。
 Forefox55では「リンクを新しいタブで開く」などが現れません。ヘイドンさんが見ているのはこの挙動かも。
 Chrome60では普通に「新しいタブで開く」が選択できてabout:blankが開きます。
-いったん汎用的な書き方にしてみましたが、まあ訳注ですかね。
-
-</note>
+いったん汎用的な書き方にしてみましたが、まあ訳注ですかね。</note>
       <tuv lang="EN-US">
         <seg>The right-click context menu intended for links is not invoked either.</seg>
       </tuv>
