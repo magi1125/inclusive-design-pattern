@@ -4054,12 +4054,13 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
 ふつうにa要素で実装するべき的な話でしょうね。
 調整してみましたがわかりやすくなっていますかね?
 
-</note>
+(岡本)
+2つ目→2つめ</note>
       <tuv lang="EN-US">
         <seg>A second pitfall can be laid out much more succinctly: if the behavior is to link, use a link’s behavior to do it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T082632Z" creationid="rikiha" creationdate="20170905T004234Z">
-        <seg>2つ目の落とし穴の説明はもっと簡潔です。リンクするというふるまいが必要な場合、リンクのふるまいをそのまま利用すれば実現できます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170906T100320Z" creationid="rikiha" creationdate="20170905T004234Z">
+        <seg>2つめの落とし穴の説明はもっと簡潔です。リンクするというふるまいが必要な場合、リンクのふるまいをそのまま利用すれば実現できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11213,12 +11214,14 @@ if supported は SVG ではなく &lt;use&gt; にくっついているのでは�
     <tu>
       <note>(太田) OK
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　素晴らしい→すばらしい</note>
       <tuv lang="EN-US">
         <seg>In the excellent article “&lt;g9&gt;&lt;g10&gt;How Our CSS Framework Helps Enforce Accessibility&lt;/g10&gt;&lt;/g9&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;14&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;,” Ian McBurnie details a number of similar provisions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T071237Z" creationid="rikiha" creationdate="20170905T004228Z">
-        <seg>イアン・マクバーニー（Ian McBurnie）は「&lt;g9&gt;&lt;g10&gt;How Our CSS Framework Helps Enforce Accessibility&lt;/g10&gt;&lt;/g9&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;（脚注145）&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;」という素晴らしい記事の中で、いくつかの同様の対策について詳しく説明しています。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170906T100225Z" creationid="rikiha" creationdate="20170905T004228Z">
+        <seg>イアン・マクバーニー（Ian McBurnie）は「&lt;g9&gt;&lt;g10&gt;How Our CSS Framework Helps Enforce Accessibility&lt;/g10&gt;&lt;/g9&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;（脚注145）&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;」というすばらしい記事の中で、いくつかの同様の対策について詳しく説明しています。</seg>
       </tuv>
     </tu>
     <tu>
