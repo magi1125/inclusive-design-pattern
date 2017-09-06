@@ -1540,7 +1540,8 @@ forego は「先に行く」のような感じですが、他動詞として使�
     <tu>
       <note>(太田)
 すこし調整。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;I have qualified the &lt;g2&gt;.call-to-action&lt;/g2&gt; class with the element name &lt;g3&gt;a&lt;/g3&gt;.</seg>
       </tuv>
@@ -1551,7 +1552,9 @@ forego は「先に行く」のような感じですが、他動詞として使�
     <tu>
       <note>(太田)
 common color は「同じ色」というより「共通の色」としたほうが良いと思います (全く同じ色でなくとも同系統であれば良いかもしれない)。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;I highly recommend that, although each of these elements are treated differently, they share a common color — a color which denotes the shared &lt;g2&gt;interactive&lt;/g2&gt; quality of the three elements.</seg>
       </tuv>
@@ -8079,7 +8082,9 @@ For thatは「その実現」としてみました。
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For the sake of easy cognition, if links should be blue, so should buttons: blue comes to mean clickable.</seg>
       </tuv>
@@ -21627,14 +21632,15 @@ in general は use にかかっているようにも見えますね。「ボタ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 画像ラベルと画像altですね。少しだけ調整しました。</note>
       <tuv lang="EN-US">
         <seg>Three controls: a basic link with underline; an action link with a border; and a button with a blue background.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004216Z" creationid="rikiha" creationdate="20170905T004216Z">
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T075044Z" creationid="rikiha" creationdate="20170905T004216Z">
         <seg>基本的なリンク
 アクション
 ボタン
-3つのコントロール：下線付きの基本的なリンク、囲み線があるアクションリンク、青い背景のボタン。</seg>
+3つのコントロール：下線付きの基本的なリンク、囲み線付きのアクションリンク、青い背景のボタン。</seg>
       </tuv>
     </tu>
     <tu>
