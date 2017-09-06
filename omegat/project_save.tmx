@@ -16789,12 +16789,14 @@ http://waic.jp/docs/WCAG-TECHS/ARIA7.html
 見出しがあるのだからそれをそのまま参照するという話になると思いきや。
 aria-labelledbyのAS状況がよろしくないという話なのでしょうかね。
 訳注ですかね。
+
+in context は「リンクの文脈を示すものとして」みたいなことか。
 </note>
       <tuv lang="EN-US">
         <seg>Since the title of the product is already present visually and in context via the &lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;, we should remedy this with some visually hidden text, placed within the link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T094624Z" creationid="rikiha" creationdate="20170905T004256Z">
-        <seg>この商品のタイトルは、既に視覚的かつ文脈的に&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;で表示されているので、これをリンク内に非表示のテキストとして配置しましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T095119Z" creationid="rikiha" creationdate="20170905T004256Z">
+        <seg>この商品のタイトルは、既に&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;で視覚的に表示されており、文脈を示しています。これをリンク内に非表示のテキストとして配置しましょう。</seg>
       </tuv>
     </tu>
     <tu>
