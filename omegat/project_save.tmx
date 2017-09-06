@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9018,6 +9018,8 @@ imagine と might で二重に推定している形ですが、むしろ何故�
 does not resemble a button はボタンに似ていない、ですが、下の画像を見ると、まあぶっちゃけボタンのように見えます。ここでは、このサイト上の一般的なボタンのスタイルと異なる、という意味なのでしょう。
 
 ここの purchase は購入と手がかりのダブルミーニング? より視覚的な手ががりが多いという話ではありますが、よりユーザーを購入に導きやすい、ということを暗に含んでいるように思います。「購買意欲を刺激」などとしてみましたがどうでしょうか。やりすぎ?
+
+(伊原) OK, 良いと思います。「これを押せば買えると分かる独自のスタイル」を用意せよという話ですね。
 </note>
       <tuv lang="EN-US">
         <seg>I suggest you maintain a separate call-to-action style for links which has more visual purchase than a standard link but which does not resemble a button.</seg>
@@ -16641,6 +16643,8 @@ seize an opportunity で好機を捉える、seize the opportunity to do でこ�
 
 (岡本)
 お勧め→おすすめ
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Since the visual appearance of a button suggests button-like behavior, it is recommended to preserve that aesthetic for actual &lt;g1&gt;&lt;button&gt;&lt;/g1&gt;s.</seg>
