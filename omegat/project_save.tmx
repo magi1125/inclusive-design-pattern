@@ -456,11 +456,12 @@ Theを重視するなら「テスト対象の」と補うのもありか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) dedicated labelとは。専用のラベルということですが、文脈的に「リンク専用のレッテル」的なことなのかなと。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The link doesn’t have a dedicated label, either visually or determinable by assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004348Z" creationid="rikiha" creationdate="20170905T004348Z">
-        <seg>1.このリンクには、視覚的な専用ラベルも、支援技術によって特定できる専用ラベルもありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T160919Z" creationid="rikiha" creationdate="20170905T004348Z">
+        <seg>1.このリンクには、視覚的にも、支援技術で特定できる専用ラベルもありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14815,8 +14816,8 @@ emulateはそのままエミュレートでも良いのかも。少し上で「�
       <tuv lang="EN-US">
         <seg>Now that the markup is not technically &lt;g1&gt;nonconforming&lt;/g1&gt;, there are a number of more important UX concerns to address:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170906T155259Z" creationid="rikiha" creationdate="20170905T004346Z">
-        <seg>現在、このマークアップは技術的には&lt;g1&gt;不適合&lt;/g1&gt;でなくなりました。しかしもっと重要な、UXに関する懸案事項が多数あります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T155859Z" creationid="rikiha" creationdate="20170905T004346Z">
+        <seg>現在、このマークアップは技術的には&lt;g1&gt;不適合&lt;/g1&gt;でなくなりました。しかしもっと重要な、UXに関する懸案事項が数多くあります。</seg>
       </tuv>
     </tu>
     <tu>
