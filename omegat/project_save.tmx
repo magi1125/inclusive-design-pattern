@@ -11859,12 +11859,13 @@ canの訳出など。
     </tu>
     <tu>
       <note>(太田)
-スタイルを呼び出すと言うのがしっくりこないので調整。</note>
+スタイルを呼び出すと言うのがしっくりこないので調整。
+危険を伴う、というのはちょっとイメージしづらかったので、そのまま「リスクがある」としました。</note>
       <tuv lang="EN-US">
         <seg>It is not standard behavior to invoke this cursor style on &lt;g11&gt;&lt;button&gt;&lt;/g11&gt;s, and it’s risky to break with long-held convention.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T075707Z" creationid="rikiha" creationdate="20170905T004232Z">
-        <seg>&lt;g11&gt;&lt;button&gt;&lt;/g11&gt;にこのカーソルスタイルを適用するのは標準の動作ではなく、長年続いてきた慣習を破ることは危険を伴います。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170906T075736Z" creationid="rikiha" creationdate="20170905T004232Z">
+        <seg>&lt;g11&gt;&lt;button&gt;&lt;/g11&gt;にこのカーソルスタイルを適用するのは標準の動作ではなく、長年続いてきた慣習を破ることにはリスクがあります。</seg>
       </tuv>
     </tu>
     <tu>
