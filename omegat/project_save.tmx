@@ -10057,11 +10057,12 @@ http://www.w3.org/TR/CSS1/#length-units
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ちょっと調整。</note>
       <tuv lang="EN-US">
         <seg>In HTML5, it has been made acceptable to &lt;g1&gt;&lt;g2&gt;place block-level content inside link (&lt;g3&gt;&lt;a&gt;&lt;/g3&gt;) elements&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;18&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004335Z" creationid="rikiha" creationdate="20170905T004335Z">
-        <seg>HTML5では、リンク（&lt;a&gt;）要素内にブロックレベルのコンテンツを配置することが可能になりました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170906T144835Z" creationid="rikiha" creationdate="20170905T004335Z">
+        <seg>HTML5では、リンク（&lt;a&gt;）要素内にブロックレベルのコンテンツを含められるようになりました。</seg>
       </tuv>
     </tu>
     <tu>
