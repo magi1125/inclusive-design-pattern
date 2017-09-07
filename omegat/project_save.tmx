@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23009,12 +23009,15 @@ unless or until は厳密に訳さなくても良いように思います。
       <note>(伊原) OK
 
 (太田)
-前の文が「ユーザーは」なので、「イライラします」は少しおかしいかも。</note>
+前の文が「ユーザーは」なので、「イライラします」は少しおかしいかも。
+
+(岡本)
+たいへん忌々しい→たいへん、いまいましい　　　※開くとの声多数なので。</note>
       <tuv lang="EN-US">
         <seg>Very annoying.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170907T095602Z" creationid="rikiha" creationdate="20170905T004400Z">
-        <seg>たいへん忌々しい体験をすることになります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170907T100826Z" creationid="rikiha" creationdate="20170905T004400Z">
+        <seg>たいへん、いまいましい体験をすることになります。</seg>
       </tuv>
     </tu>
     <tu>
