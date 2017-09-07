@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6796,11 +6796,12 @@ supplantは強引に置き換える、取って代わるというようなネガ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 100%準拠でも使えないことはあるし、ケアレスミスがあっても快適に使えることもある、と。次の段落にそのように繋がるよう調整。</note>
       <tuv lang="EN-US">
         <seg>Complaints toward online services are almost always from people unable to actually &lt;g6&gt;use&lt;/g6&gt; an interface, but a 100%-compliant interface can still be entirely unusable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004407Z" creationid="rikiha" creationdate="20170905T004407Z">
-        <seg>オンラインサービスに対する苦情は、必ずと言っていいほどインターフェイスを実際に使うことができない人々から寄せられますが、100％準拠しているインターフェイスでもまったく使いものにならないことはあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170907T074815Z" creationid="rikiha" creationdate="20170905T004407Z">
+        <seg>オンラインサービスに対する苦情は、たいてい実際にインターフェイスを&lt;g6&gt;使うこと&lt;/g6&gt;ができない人々によるものです。仕様に100％準拠しているインターフェイスでもまったく使いものにならない可能性はあります。</seg>
       </tuv>
     </tu>
     <tu>
