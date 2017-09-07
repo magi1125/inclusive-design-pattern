@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10689,12 +10689,14 @@ box-ticking：〈軽蔑的〉〔価値判断を伴わない〕官僚主義的確
 すなわちお役所仕事ということかなと。
 
 compliance testing：コンプライアンステスト、準拠性テスト
-ちょっと長くなりますが、仕様に準拠しているかのテスト、かなと。</note>
+ちょっと長くなりますが、仕様に準拠しているかのテスト、かなと。
+
+というわけでちょっと整理しました。</note>
       <tuv lang="EN-US">
         <seg>In his article “&lt;g1&gt;&lt;g2&gt;To Hell With Compliance&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;19&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” accessibility consultant and trainer Karl Groves sets out why the bureaucratic box-ticking of compliance testing gains us little ground towards successful inclusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170907T065901Z" creationid="rikiha" creationdate="20170905T004404Z">
-        <seg>アクセシビリティコンサルタント兼トレーナーであるカール・グローブス（Karl Groves）は、記事&lt;g1&gt;&lt;g2&gt;「To Hell With Compliance」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注150）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の中で、お役所仕事的に行われる仕様準拠テストではインクルージョンの達成にはほとんどつながらない理由を述べています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170907T072611Z" creationid="rikiha" creationdate="20170905T004404Z">
+        <seg>アクセシビリティコンサルタント兼トレーナーであるカール・グローブス（Karl Groves）は、記事&lt;g1&gt;&lt;g2&gt;「To Hell With Compliance」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注150）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の中で、お役所仕事的に行われる仕様準拠テストはインクルージョンの達成にほとんどつながらない理由を述べています。</seg>
       </tuv>
     </tu>
     <tu>
