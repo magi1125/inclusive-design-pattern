@@ -10870,7 +10870,10 @@ metaについては補足が必要か?
 
 (太田)
 OK
-機能を一つ削っているので代償でも良いようには思いますが。</note>
+機能を一つ削っているので代償でも良いようには思いますが。
+削除しなければならない理由は「a要素の中にa要素を入れられないから」ということなのですが、それは説明不要? 訳注?
+
+</note>
       <tuv lang="EN-US">
         <seg>In our case, this comes at the cost of removing the child link to the photographer’s page.</seg>
       </tuv>
