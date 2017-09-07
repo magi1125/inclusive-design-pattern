@@ -11739,7 +11739,9 @@ straightforward は簡単というより単純、直接的、単刀直入とい�
     </tu>
     <tu>
       <note>(太田)
-少し簡潔に。</note>
+少し簡潔に。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Inclusive design has a different take.</seg>
       </tuv>
@@ -11999,7 +12001,9 @@ stillは無理に訳さなくても良い気がします。
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It acknowledges the importance of markup in making semantic, robust interfaces, but it is the user’s ability to &lt;g1&gt;actually get things done&lt;/g1&gt; that it makes the object.</seg>
       </tuv>
@@ -19823,7 +19827,9 @@ canonicalどうするか。正規の画像としてみました。
 合ってはいるもののわかりにくいかも。
 validatorを通るかどうかではなく、ユーザーに実害があるかどうかで判断する、というようなことだとは思います。
 ちょっと調整。
-とはいえわかりにくいかも。</note>
+とはいえわかりにくいかも。
+
+(伊原) OK. わかりにくさは感じませんでした。</note>
       <tuv lang="EN-US">
         <seg>The quality of the markup is measured by what it can offer in terms of UX.</seg>
       </tuv>
