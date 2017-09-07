@@ -14861,15 +14861,14 @@ emulateはそのままエミュレートでも良いのかも。少し上で「�
 先頭の Now は「現在」とすべきなのかどうか。
 意味的にはそうとれますが、HTML5で可能になったという話は前でしているので、ここで改めて言われるのも変ではあります。
 
-a number of は「数多く」というとちょっと多すぎな気もします。「いくつもある」くらいでしょうか。
+a number of は「数多く」というとちょっと多すぎな気もします。多いか少ないかを問題にしているわけでもないので、「いくつもある」くらいでしょうか。
 
-UXは「ユーザー体験」とする?
-</note>
+UXは「ユーザー体験」とする?</note>
       <tuv lang="EN-US">
         <seg>Now that the markup is not technically &lt;g1&gt;nonconforming&lt;/g1&gt;, there are a number of more important UX concerns to address:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170907T084317Z" creationid="rikiha" creationdate="20170905T004346Z">
-        <seg>今となっては、このマークアップが技術的に&lt;g1&gt;不適合&lt;/g1&gt;ということはなくなりましたが、もっと重要な、UXに関する懸案事項がいくつもあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170907T084349Z" creationid="rikiha" creationdate="20170905T004346Z">
+        <seg>今となっては、このマークアップが技術的に&lt;g1&gt;不適合&lt;/g1&gt;ということはなくなりましたが、もっと重要な、UXに関する懸念がいくつもあります。</seg>
       </tuv>
     </tu>
     <tu>
