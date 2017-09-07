@@ -466,7 +466,12 @@ dedicated labelとは。
 (太田)
 ARIA16などに"dedicated label"の語が使われていますね。
 
-http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html</note>
+http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
+
+ここでは「いかにもリンクらしいリンクテキスト」のようなニュアンスだと思います。
+
+
+</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The link doesn’t have a dedicated label, either visually or determinable by assistive technologies.</seg>
       </tuv>
