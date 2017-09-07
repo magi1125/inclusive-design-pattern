@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10136,12 +10136,15 @@ http://www.w3.org/TR/CSS1/#length-units
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ちょっと調整。</note>
+      <note>(伊原) ちょっと調整。
+
+(太田)
+ヘイドンさん、別のところでは「フロー」と言ってたりして一貫していないですね。「いわゆる」ブロックレベル、としました。</note>
       <tuv lang="EN-US">
         <seg>In HTML5, it has been made acceptable to &lt;g1&gt;&lt;g2&gt;place block-level content inside link (&lt;g3&gt;&lt;a&gt;&lt;/g3&gt;) elements&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;18&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170906T144934Z" creationid="rikiha" creationdate="20170905T004335Z">
-        <seg>HTML5では、&lt;g1&gt;&lt;g2&gt;リンク（&lt;g3&gt;&lt;a&gt;&lt;/g3&gt;要素）内にブロックレベルのコンテンツを含められるようになりました&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注149）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170907T074845Z" creationid="rikiha" creationdate="20170905T004335Z">
+        <seg>HTML5では、&lt;g1&gt;&lt;g2&gt;リンク（&lt;g3&gt;&lt;a&gt;&lt;/g3&gt;要素）内にいわゆるブロックレベルのコンテンツを含められるようになりました&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注149）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
