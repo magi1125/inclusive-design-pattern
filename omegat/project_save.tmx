@@ -3036,7 +3036,12 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 「適合性が高い可能性があると確認できるからです。」をもう少し開きました。</note>
+      <note>(伊原) 「適合性が高い可能性があると確認できるからです。」をもう少し開きました。
+
+(太田)
+脚注リンクのテキストの範囲には「推奨しています」まで含む必要がありそう。少し調整しました。
+
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g7&gt;&lt;g8&gt;Google recommends using descriptive link text&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;17&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; because its crawler can see that (where link text and the destination page’s &lt;g12&gt;&lt;title&gt;&lt;/g12&gt; or &lt;g13&gt;&lt;h1&gt;&lt;/g13&gt; are similar) relevance is likely to be high.</seg>
       </tuv>
