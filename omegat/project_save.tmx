@@ -18318,7 +18318,9 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
 「ブログ記事」→4章「ブログ記事」
 
 (伊原) アクセスできる➞アクセシブル、対応している➞準じている、として調整しました。
-また「検索エンジンの認知度を向上」がわかりにくかったので、補って調整しました。</note>
+また「検索エンジンの認知度を向上」がわかりにくかったので、補って調整しました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;visually-hidden&lt;/g1&gt; class should, of course, correspond to a &lt;g2&gt;&lt;g3&gt;screen reader accessible hiding technique&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;16&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, as introduced in “A Blog Post.” Note that having the product name in the link text has an added advantage: it is a well-known technique for improving search engine visibility.</seg>
       </tuv>
@@ -21444,7 +21446,9 @@ esotericは特殊というより、他で使われていないというニュア
 
 (伊原) framework developers はフレームワーク開発者でよいかどうか。フレームワークを開発するというより、フレームワークを利用する開発者かも。「フレームワーク利用者」としてみました。JSの世界の中だけで〜という時点で暗黙に開発者を指しているので、利用者と言ってもエンドユーザーとは誤認されないかなと。
 
-(太田) フレームワークを利用する開発者ですね。</note>
+(太田)
+フレームワークを利用する開発者ですね。
+OKかと。</note>
       <tuv lang="EN-US">
         <seg>This might help the framework developers because they like to work exclusively within the realm of JavaScript.</seg>
       </tuv>
