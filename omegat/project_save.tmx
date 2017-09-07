@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10682,11 +10682,19 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) bureaucratic box-ticking of compliance testing をどうするか。
+
+bureaucratic：官僚的な、お役所仕事の
+box-ticking：〈軽蔑的〉〔価値判断を伴わない〕官僚主義的確認手続き
+すなわちお役所仕事ということかなと。
+
+compliance testing：コンプライアンステスト、準拠性テスト
+ちょっと長くなりますが、仕様に準拠しているかのテスト、かなと。</note>
       <tuv lang="EN-US">
         <seg>In his article “&lt;g1&gt;&lt;g2&gt;To Hell With Compliance&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;19&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” accessibility consultant and trainer Karl Groves sets out why the bureaucratic box-ticking of compliance testing gains us little ground towards successful inclusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004404Z" creationid="rikiha" creationdate="20170905T004404Z">
-        <seg>アクセシビリティコンサルタント兼指導者のカール・グローブス（Karl Groves）は、記事「To Hell With Compliance」（脚注150）の中で、準拠性テストのお役所仕事的な確認手続きでは、優れたインクルージョンを達成する助けにはほとんどならない理由を詳しく述べています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170907T065901Z" creationid="rikiha" creationdate="20170905T004404Z">
+        <seg>アクセシビリティコンサルタント兼トレーナーであるカール・グローブス（Karl Groves）は、記事&lt;g1&gt;&lt;g2&gt;「To Hell With Compliance」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注150）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の中で、お役所仕事的に行われる仕様準拠テストではインクルージョンの達成にはほとんどつながらない理由を述べています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13031,8 +13039,8 @@ implementationを例→実装としました。
       <tuv lang="EN-US">
         <seg>Just because the specification mandates that something is technically valid markup doesn’t mean it produces an agreeable user experience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170906T170651Z" creationid="rikiha" creationdate="20170905T004403Z">
-        <seg>仕様に沿った、技術的には妥当にマークアップされたものだからといって、それが快適なユーザー体験をもたらすわけではありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170907T064236Z" creationid="rikiha" creationdate="20170905T004403Z">
+        <seg>仕様に沿った、技術的には妥当にマークアップされたものだからといって、それ自体が快適なユーザー体験をもたらすことを意味するものではありません。</seg>
       </tuv>
     </tu>
     <tu>
