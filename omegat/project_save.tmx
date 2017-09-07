@@ -5727,12 +5727,17 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
     </tu>
     <tu>
       <note>(太田)
-言っていることはわかりますが練りたいですね。</note>
+言っていることはわかりますが練りたいですね。
+
+obsessは悪霊などがとりつく、とりついて悩ませるの意味。
+(そういえばスターフォースに登場する、自機に近づいてくる敵が「オブセス」という名前だった)
+
+</note>
       <tuv lang="EN-US">
         <seg>Because so many accessibility errors relating to assistive technologies are markup errors, and because markup errors are so easy to identify, we’ve grown up in an accessibility remediation culture that is assistive technology obsessed and focused on discrete code errors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170907T103020Z" creationid="rikiha" creationdate="20170905T004409Z">
-        <seg>支援技術に関連するアクセシビリティ上のエラーの大半は、マークアップエラーです。そしてマークアップエラーは簡単に発見できるので、私たちは個々のコードエラーに神経を尖らせた支援技術という、アクセシビリティ修復文化の中で育ってきました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170907T103438Z" creationid="rikiha" creationdate="20170905T004409Z">
+        <seg>支援技術に関連するアクセシビリティ上のエラーの大半は、マークアップエラーです。そしてマークアップエラーは簡単に発見できるので、支援技術は個々のコードのエラーに着目すれば良い、アクセシビリティ修復文化の中で育ってきました。</seg>
       </tuv>
     </tu>
     <tu>
