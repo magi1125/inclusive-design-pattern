@@ -383,7 +383,8 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
 この問題の本質は、なかなか「リンク」と言ってもらえないということのように思います。長いというだけなら途中で止めればよいのですが、多くのスクリーンリーダーはリンクテキストを読み上げてから「リンク」と言うので、長いとリンクであることがわかるまでに時間がかかります。
 
 ちなみにiOSのVoiceOverは1行ずつしか読みません。リンク読みモードで飛んでも「ガソリンスタンドにたたずむ裸の男、見出しレベル3、リンク」でいったん切れます。ですので少なくとも all assistive technologies は言いすぎですね。
-</note>
+
+(伊原) なるほど。OKです。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;In all assistive technologies, focusing the link is liable to trigger the readout of all its textual contents, which is rather verbose.</seg>
       </tuv>
@@ -414,7 +415,9 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       <note>(伊原) 少し調整
 
 (太田)
-物理的にはどこも触れるので、「押せそうに見えない」くらいのほうが良いかもしれません。</note>
+物理的にはどこも触れるので、「押せそうに見えない」くらいのほうが良いかもしれません。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Operators of touch devices will undoubtedly find themselves accidentally following the link while pressing a part of the screen which &lt;g2&gt;appears&lt;/g2&gt; to be uninteractive.</seg>
       </tuv>
@@ -483,7 +486,8 @@ dedicated labelとは。
 
 あまり関係ありませんがARIA16などに"dedicated label"の語が使われていますね。
 http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
-</note>
+
+(伊原) なるほど、ありがとうございます。OKです。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The link doesn’t have a dedicated label, either visually or determinable by assistive technologies.</seg>
       </tuv>
@@ -10729,7 +10733,9 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
 (太田)
 OK
 主張については訳注?
-といっても結構長い文になりそうですね。</note>
+といっても結構長い文になりそうですね。
+
+(伊原) 1と4はデザインで</note>
       <tuv lang="EN-US">
         <seg>In general, it’s better to avoid block-level links like this one.</seg>
       </tuv>
@@ -10949,7 +10955,9 @@ metaについては補足が必要か?
 (太田)
 OK
 機能を一つ削っているので代償でも良いようには思いますが。
-削除しなければならない理由は「a要素の中にa要素を入れられないから」ということなのですが、それは説明不要? 訳注?</note>
+削除しなければならない理由は「a要素の中にa要素を入れられないから」ということなのですが、それは説明不要? 訳注?
+
+(伊原) そういえばそうですね、当たり前すぎてスルーしていました。訳注したほうがいいですね。</note>
       <tuv lang="EN-US">
         <seg>In our case, this comes at the cost of removing the child link to the photographer’s page.</seg>
       </tuv>
@@ -14950,7 +14958,9 @@ emulateはそのままエミュレートでも良いのかも。少し上で「�
 a number of は「数多く」というとちょっと多すぎな気もします。多いか少ないかを問題にしているわけでもないので、「いくつもある」くらいでしょうか。
 
 UXは「ユーザー体験」とする?
-まあ広義のUXの一部ではあるのではないでしょうか。</note>
+まあ広義のUXの一部ではあるのではないでしょうか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Now that the markup is not technically &lt;g1&gt;nonconforming&lt;/g1&gt;, there are a number of more important UX concerns to address:</seg>
       </tuv>
@@ -19608,7 +19618,9 @@ updateはここでは「付け加える」くらいの意味かと思います�
 (岡本)　分かりません→わかりません
 
 (太田)
-カッコ内がちょっと硬かったので砕いてみました。</note>
+カッコ内がちょっと硬かったので砕いてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The outcome is that users will not know they can interact with the item until they &lt;g2&gt;interact with it&lt;/g2&gt; (by hovering the cursor over it to produce a pointer, say, or by invoking a focus style).</seg>
       </tuv>
@@ -23055,7 +23067,9 @@ unless or until は厳密に訳さなくても良いように思います。
 前の文が「ユーザーは」なので、「イライラします」は少しおかしいかも。
 
 (岡本)
-たいへん忌々しい→たいへん、いまいましい　　　※開くとの声多数なので。</note>
+たいへん忌々しい→たいへん、いまいましい　　　※開くとの声多数なので。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Very annoying.</seg>
       </tuv>
