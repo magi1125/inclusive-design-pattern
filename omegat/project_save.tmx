@@ -6534,12 +6534,19 @@ the odd superficial error は複数ではない気がします。
 ケアレスは言っていないような。直訳すると「奇妙で表面的なエラー」ですが、重篤なエラーではない、というニュアンスだと思います。
 「軽微なエラー」くらいでしょうか。
 simpleが落ちているようなので補いました。
-全体すこし調整。</note>
+
+that以下がどこについているのか分かりにくいですね。前のandで結合されているもの全体?
+
+この文全体は 、
+an interface  may be so simple that it’s a pleasure to use.
+というような構造で、「インターフェイスは使いやすいシンプルなものになっているかもしれない」と言っています。
+調整してみました。
+</note>
       <tuv lang="EN-US">
         <seg>By the same token, an interface with the odd superficial error may be so simple, well structured and clear that it’s still a pleasure to use.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170907T102103Z" creationid="rikiha" creationdate="20170905T004408Z">
-        <seg>逆に、軽微なエラーがあるインターフェイスでも、シンプルで構造のしっかりした明快なものであれば、快適に使えるでしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170907T102524Z" creationid="rikiha" creationdate="20170905T004408Z">
+        <seg>逆に、軽微なエラーがあるインターフェイスでも、シンプルで構造のしっかりした、明快で快適に使えるものになっているかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
