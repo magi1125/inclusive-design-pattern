@@ -380,7 +380,7 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
 なかなか微妙なところ。
 この問題の本質は、なかなか「リンク」と言ってもらえないということのように思います。長いというだけなら途中で止めればよいのですが、多くのスクリーンリーダーはリンクテキストを読み上げてから「リンク」と言うので、長いとリンクであることがわかるまでに時間がかかります。
 
-ちなみにiOSのVoiceOverは1行ずつしか読みません。リンク読みモードで飛んでも「ガソリンスタンドにたたずむ裸の男、見出しレベル3、リンク」でいったん切れます。
+ちなみにiOSのVoiceOverは1行ずつしか読みません。リンク読みモードで飛んでも「ガソリンスタンドにたたずむ裸の男、見出しレベル3、リンク」でいったん切れます。ですので少なくとも all assistive technologies は言いすぎですね。
 </note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;In all assistive technologies, focusing the link is liable to trigger the readout of all its textual contents, which is rather verbose.</seg>
