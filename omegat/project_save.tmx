@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3001,8 +3001,8 @@ Price:　→価格：</note>
       <tuv lang="EN-US">
         <seg>&lt;g77&gt;&lt;g78&gt;&lt;g79&gt;&lt;&lt;/g79&gt;dd&lt;/g78&gt;&lt;g80&gt;&gt;&lt;/g80&gt;&lt;/g77&gt;&lt;g81&gt;&lt;g82&gt;&lt;g83&gt;&lt;&lt;/g83&gt;img&lt;/g82&gt; &lt;g84&gt;src&lt;/g84&gt;&lt;g85&gt;&lt;g86&gt;=&lt;/g86&gt;"/images/rating_4_5.svg"&lt;/g85&gt; &lt;g87&gt;alt&lt;/g87&gt;&lt;g88&gt;&lt;g89&gt;=&lt;/g89&gt;""&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g81&gt;4 out of 5 stars&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;/&lt;/g93&gt;dd&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T131142Z">
-        <seg>&lt;g77&gt;&lt;g78&gt;&lt;g79&gt;&lt;&lt;/g79&gt;dd&lt;/g78&gt;&lt;g80&gt;&gt;&lt;/g80&gt;&lt;/g77&gt;&lt;g81&gt;&lt;g82&gt;&lt;g83&gt;&lt;&lt;/g83&gt;img&lt;/g82&gt; &lt;g84&gt;src&lt;/g84&gt;&lt;g85&gt;&lt;g86&gt;=&lt;/g86&gt;"/images/rating_4_5.svg"&lt;/g85&gt; &lt;g87&gt;alt&lt;/g87&gt;&lt;g88&gt;&lt;g89&gt;=&lt;/g89&gt;""&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g81&gt;5つ星中4つ星&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;/&lt;/g93&gt;dd&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170907T084601Z">
+        <seg>&lt;g77&gt;&lt;g78&gt;&lt;g79&gt;&lt;&lt;/g79&gt;dd&lt;/g78&gt;&lt;g80&gt;&gt;&lt;/g80&gt;&lt;/g77&gt;&lt;g81&gt;&lt;g82&gt;&lt;g83&gt;&lt;&lt;/g83&gt;img&lt;/g82&gt; &lt;g84&gt;src&lt;/g84&gt;&lt;g85&gt;&lt;g86&gt;=&lt;/g86&gt;"/images/rating_4_5.svg"&lt;/g85&gt; &lt;g87&gt;alt&lt;/g87&gt;&lt;g88&gt;&lt;g89&gt;=&lt;/g89&gt;""&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g81&gt;5つ星のうち4&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;/&lt;/g93&gt;dd&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3087,12 +3087,12 @@ Price:　→価格：</note>
     </tu>
     <tu>
       <note>(岡本)
-Amazonの表記だと、「5つ星のうち 4」となっていました。参考まで。</note>
+5つ星のうち4つ星→5つ星のうち 4</note>
       <tuv lang="EN-US">
         <seg>&lt;g87&gt;&lt;g88&gt;&lt;g89&gt;&lt;&lt;/g89&gt;dd&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g87&gt;&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;&lt;/g93&gt;img&lt;/g92&gt; &lt;g94&gt;src&lt;/g94&gt;&lt;g95&gt;&lt;g96&gt;=&lt;/g96&gt;"/images/rating_4_5.svg"&lt;/g95&gt; &lt;g97&gt;alt&lt;/g97&gt;&lt;g98&gt;&lt;g99&gt;=&lt;/g99&gt;""&lt;/g98&gt;&lt;g100&gt;&gt;&lt;/g100&gt;&lt;/g91&gt;4 out of 5 stars&lt;g101&gt;&lt;g102&gt;&lt;g103&gt;&lt;/&lt;/g103&gt;dd&lt;/g102&gt;&lt;g104&gt;&gt;&lt;/g104&gt;&lt;/g101&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T091120Z" creationid="yoota" creationdate="20170905T091120Z">
-        <seg>&lt;g87&gt;&lt;g88&gt;&lt;g89&gt;&lt;&lt;/g89&gt;dd&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g87&gt;&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;&lt;/g93&gt;img&lt;/g92&gt; &lt;g94&gt;src&lt;/g94&gt;&lt;g95&gt;&lt;g96&gt;=&lt;/g96&gt;"/images/rating_4_5.svg"&lt;/g95&gt; &lt;g97&gt;alt&lt;/g97&gt;&lt;g98&gt;&lt;g99&gt;=&lt;/g99&gt;""&lt;/g98&gt;&lt;g100&gt;&gt;&lt;/g100&gt;&lt;/g91&gt;5つ星中4つ星&lt;g101&gt;&lt;g102&gt;&lt;g103&gt;&lt;/&lt;/g103&gt;dd&lt;/g102&gt;&lt;g104&gt;&gt;&lt;/g104&gt;&lt;/g101&gt;</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170907T084659Z" creationid="yoota" creationdate="20170905T091120Z">
+        <seg>&lt;g87&gt;&lt;g88&gt;&lt;g89&gt;&lt;&lt;/g89&gt;dd&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g87&gt;&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;&lt;/g93&gt;img&lt;/g92&gt; &lt;g94&gt;src&lt;/g94&gt;&lt;g95&gt;&lt;g96&gt;=&lt;/g96&gt;"/images/rating_4_5.svg"&lt;/g95&gt; &lt;g97&gt;alt&lt;/g97&gt;&lt;g98&gt;&lt;g99&gt;=&lt;/g99&gt;""&lt;/g98&gt;&lt;g100&gt;&gt;&lt;/g100&gt;&lt;/g91&gt;5つ星のうち4&lt;g101&gt;&lt;g102&gt;&lt;g103&gt;&lt;/&lt;/g103&gt;dd&lt;/g102&gt;&lt;g104&gt;&gt;&lt;/g104&gt;&lt;/g101&gt;</seg>
       </tuv>
     </tu>
     <tu>
