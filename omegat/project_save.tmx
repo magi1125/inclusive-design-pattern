@@ -10748,8 +10748,8 @@ compliance testing：コンプライアンステスト、準拠性テスト
       <tuv lang="EN-US">
         <seg>In his article “&lt;g1&gt;&lt;g2&gt;To Hell With Compliance&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;19&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” accessibility consultant and trainer Karl Groves sets out why the bureaucratic box-ticking of compliance testing gains us little ground towards successful inclusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170907T072735Z" creationid="rikiha" creationdate="20170905T004404Z">
-        <seg>アクセシビリティコンサルタント兼トレーナーであるカール・グローブス（Karl Groves）は、記事&lt;g1&gt;&lt;g2&gt;「To Hell With Compliance」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注150）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の中で、お役所仕事的に行われる仕様準拠テストがインクルージョンの達成にほとんど役に立たない理由を述べています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170907T100739Z" creationid="rikiha" creationdate="20170905T004404Z">
+        <seg>アクセシビリティコンサルタント兼トレーナーであるカール・グローブス（Karl Groves）は、記事&lt;g1&gt;&lt;g2&gt;「To Hell With Compliance」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注150）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の中で、お役所仕事的な仕様準拠テストがインクルージョンの達成にほとんど役に立たない理由を述べています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13098,12 +13098,13 @@ implementationを例→実装としました。
       <note>(伊原) 原文にもう少し沿わせました。
 
 (太田)
+少し簡潔にしました。
 validはvalidでも良いのかも。</note>
       <tuv lang="EN-US">
         <seg>Just because the specification mandates that something is technically valid markup doesn’t mean it produces an agreeable user experience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170907T100430Z" creationid="rikiha" creationdate="20170905T004403Z">
-        <seg>仕様に沿った、技術的には妥当なマークアップだからといって、それ自体が快適なユーザー体験をもたらすことを意味するものではありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170907T100636Z" creationid="rikiha" creationdate="20170905T004403Z">
+        <seg>仕様に沿った、技術的には妥当なマークアップだからといって、快適なユーザー体験をもたらすということにはなりません。</seg>
       </tuv>
     </tu>
     <tu>
