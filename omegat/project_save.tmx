@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2976,11 +2976,13 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+5つ星のうち4つ星→5つ星のうち 4</note>
       <tuv lang="EN-US">
         <seg>&lt;g75&gt;&lt;g76&gt;&lt;g77&gt;&lt;&lt;/g77&gt;dd&lt;/g76&gt;&lt;g78&gt;&gt;&lt;/g78&gt;&lt;/g75&gt;&lt;g79&gt;&lt;g80&gt;&lt;g81&gt;&lt;&lt;/g81&gt;img&lt;/g80&gt; &lt;g82&gt;src&lt;/g82&gt;&lt;g83&gt;&lt;g84&gt;=&lt;/g84&gt;"/images/rating_4_5.svg"&lt;/g83&gt; &lt;g85&gt;alt&lt;/g85&gt;&lt;g86&gt;&lt;g87&gt;=&lt;/g87&gt;""&lt;/g86&gt;&lt;g88&gt;&gt;&lt;/g88&gt;&lt;/g79&gt;4 out of 5 stars&lt;g89&gt;&lt;g90&gt;&lt;g91&gt;&lt;/&lt;/g91&gt;dd&lt;/g90&gt;&lt;g92&gt;&gt;&lt;/g92&gt;&lt;/g89&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170906T153832Z" creationid="rikiha" creationdate="20170906T153832Z">
-        <seg>&lt;g75&gt;&lt;g76&gt;&lt;g77&gt;&lt;&lt;/g77&gt;dd&lt;/g76&gt;&lt;g78&gt;&gt;&lt;/g78&gt;&lt;/g75&gt;&lt;g79&gt;&lt;g80&gt;&lt;g81&gt;&lt;&lt;/g81&gt;img&lt;/g80&gt; &lt;g82&gt;src&lt;/g82&gt;&lt;g83&gt;&lt;g84&gt;=&lt;/g84&gt;"/images/rating_4_5.svg"&lt;/g83&gt; &lt;g85&gt;alt&lt;/g85&gt;&lt;g86&gt;&lt;g87&gt;=&lt;/g87&gt;""&lt;/g86&gt;&lt;g88&gt;&gt;&lt;/g88&gt;&lt;/g79&gt;5つ星中4つ星 stars&lt;g89&gt;&lt;g90&gt;&lt;g91&gt;&lt;/&lt;/g91&gt;dd&lt;/g90&gt;&lt;g92&gt;&gt;&lt;/g92&gt;&lt;/g89&gt;</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170907T023131Z" creationid="rikiha" creationdate="20170906T153832Z">
+        <seg>&lt;g75&gt;&lt;g76&gt;&lt;g77&gt;&lt;&lt;/g77&gt;dd&lt;/g76&gt;&lt;g78&gt;&gt;&lt;/g78&gt;&lt;/g75&gt;&lt;g79&gt;&lt;g80&gt;&lt;g81&gt;&lt;&lt;/g81&gt;img&lt;/g80&gt; &lt;g82&gt;src&lt;/g82&gt;&lt;g83&gt;&lt;g84&gt;=&lt;/g84&gt;"/images/rating_4_5.svg"&lt;/g83&gt; &lt;g85&gt;alt&lt;/g85&gt;&lt;g86&gt;&lt;g87&gt;=&lt;/g87&gt;""&lt;/g86&gt;&lt;g88&gt;&gt;&lt;/g88&gt;&lt;/g79&gt;5つ星のうち 4&lt;g89&gt;&lt;g90&gt;&lt;g91&gt;&lt;/&lt;/g91&gt;dd&lt;/g90&gt;&lt;g92&gt;&gt;&lt;/g92&gt;&lt;/g89&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19594,17 +19596,21 @@ Good!
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) alt下訳から反映しつつ補足。</note>
+      <note>(伊原) alt下訳から反映しつつ補足。
+
+(岡本)
+給油場の裸の男→ガソリンスタンドにたたずむ裸の男
+5つ星中4つ星→5つ星のうち 4</note>
       <tuv lang="EN-US">
         <seg>The product layout with the image on the left and the details and buy button on the right.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170906T135703Z" creationid="rikiha" creationdate="20170905T004330Z">
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170907T014509Z" creationid="rikiha" creationdate="20170905T004330Z">
         <seg>商品リスト項目のレイアウト。上部にタイトルと写真家ページへのリンク、下部の左にサムネイル画像、右に商品の詳細と購入ボタンが配置されている。
 
-給油場の裸の男 by ケニー・マルバートン
+ガソリンスタンドにたたずむ裸の男 by ケニー・マルバートン
 サイズ：90cm × 30cm
 価格：35.95ユーロ
-評価：★★★★☆（5つ星中4つ星）
+評価：★★★★☆（5つ星のうち 4）
 今すぐ購入</seg>
       </tuv>
     </tu>
