@@ -378,9 +378,7 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
 
 (太田)
 なかなか微妙なところ。
-長いだけなら途中で止めればよいのですが、この問題の本質は、なかなか「リンク」と言ってもらえないということのように思います。多くのスクリーンリーダーはリンクテキストを読み上げてから「リンク」と言うので、長いとリンクであることがわかるまでに時間がかかります。
-
-
+この問題の本質は、なかなか「リンク」と言ってもらえないということのように思います。長いというだけなら途中で止めればよいのですが、多くのスクリーンリーダーはリンクテキストを読み上げてから「リンク」と言うので、長いとリンクであることがわかるまでに時間がかかります。
 </note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;In all assistive technologies, focusing the link is liable to trigger the readout of all its textual contents, which is rather verbose.</seg>
