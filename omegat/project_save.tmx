@@ -5737,7 +5737,7 @@ obsessは悪霊などがとりつく、とりついて悩ませるの意味 (そ
 assistive technology obsessed and focused on discrete code errors. は直訳すると「個々のコードエラーに着目され取り付かれた支援技術」
 後半大幅に意訳してみましたがどうでしょう。
 
-</note>
+(伊原) OK. マークアップ警察になるのはなぜか、ということですね。</note>
       <tuv lang="EN-US">
         <seg>Because so many accessibility errors relating to assistive technologies are markup errors, and because markup errors are so easy to identify, we’ve grown up in an accessibility remediation culture that is assistive technology obsessed and focused on discrete code errors.</seg>
       </tuv>
@@ -6553,7 +6553,8 @@ that以下がどこについているのか分かりにくいですね。前のa
 an interface  may be so simple that it’s a pleasure to use.
 というような構造で、「インターフェイスは使いやすいシンプルなものになっているかもしれない」と言っています。
 調整してみました。
-</note>
+
+(伊原) OK. </note>
       <tuv lang="EN-US">
         <seg>By the same token, an interface with the odd superficial error may be so simple, well structured and clear that it’s still a pleasure to use.</seg>
       </tuv>
@@ -6853,7 +6854,9 @@ supplantは強引に置き換える、取って代わるというようなネガ
 
 (太田)
 almost alwaysは「ほとんど常に」くらい?
-少しだけ調整。</note>
+少しだけ調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Complaints toward online services are almost always from people unable to actually &lt;g6&gt;use&lt;/g6&gt; an interface, but a 100%-compliant interface can still be entirely unusable.</seg>
       </tuv>
@@ -10784,7 +10787,9 @@ compliance testing：コンプライアンステスト、準拠性テスト
 
 (太田)
 OK
-少しだけ短く。</note>
+少しだけ短く。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In his article “&lt;g1&gt;&lt;g2&gt;To Hell With Compliance&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;19&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” accessibility consultant and trainer Karl Groves sets out why the bureaucratic box-ticking of compliance testing gains us little ground towards successful inclusion.</seg>
       </tuv>
@@ -12859,6 +12864,7 @@ investは投資で良いのか? インクルーシブ思考に時間を費やす
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) コメント消滅？</note>
       <tuv lang="EN-US">
         <seg>It’s the bare minimum we can offer.</seg>
       </tuv>
