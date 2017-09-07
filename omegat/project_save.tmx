@@ -7890,7 +7890,7 @@ typingはそのままタイピングで良いかと思います。
 NVDAでは見出しジャンプを使うと普通に「ガソリンスタンドにたたずむ裸の男、見出しレベル3、リンク」のように読みますね。
 
 iOSのVoiceOverで見出し読みモードにした場合も、「ガソリンスタンドにたたずむ裸の男、見出しレベル3、リンク」でした。
-行読みモードにすると、a要素の中の各行を読むときにいちいち最初から読んでしまうようです。
+ちなみに行読みモードにすると、a要素の中の各行を読むときにいちいち最初から読んでしまうようです。
 </note>
       <tuv lang="EN-US">
         <seg>For example, in VoiceOver, when I try to navigate to a product heading using &lt;g2&gt;Ctrl&lt;/g2&gt; + &lt;g3&gt;Alt&lt;/g3&gt; + &lt;g4&gt;Cmd&lt;/g4&gt; + &lt;g5&gt;H&lt;/g5&gt;, the surrounding link is focused and the heading semantics (“Third-level heading”) are not announced.</seg>
