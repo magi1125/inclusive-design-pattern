@@ -10735,7 +10735,7 @@ OK
 主張については訳注?
 といっても結構長い文になりそうですね。
 
-(伊原) 1と4はデザインで</note>
+(伊原) 1と4はデザインでカバーでき、2はそもそも問題がおきない。実質的には3が課題だが、それもパネル的なリンクが複数まとまっていれば、同じ構造が連続することでリンクだと分かる…みたいな感じでしょうか。</note>
       <tuv lang="EN-US">
         <seg>In general, it’s better to avoid block-level links like this one.</seg>
       </tuv>
@@ -13145,12 +13145,14 @@ implementationを例→実装としました。
 
 (太田)
 少し簡潔にしました。
-validはvalidでも良いのかも。</note>
+validはvalidでも良いのかも。
+
+(伊原) OK. validとしました。</note>
       <tuv lang="EN-US">
         <seg>Just because the specification mandates that something is technically valid markup doesn’t mean it produces an agreeable user experience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170907T100636Z" creationid="rikiha" creationdate="20170905T004403Z">
-        <seg>仕様に沿った、技術的には妥当なマークアップだからといって、快適なユーザー体験をもたらすということにはなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170907T163518Z" creationid="rikiha" creationdate="20170905T004403Z">
+        <seg>仕様に沿った、技術的にはvalidなマークアップだからといって、快適なユーザー体験をもたらすということにはなりません。</seg>
       </tuv>
     </tu>
     <tu>
