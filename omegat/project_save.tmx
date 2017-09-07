@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14858,9 +14858,8 @@ emulateはそのままエミュレートでも良いのかも。少し上で「�
       <note>(伊原) more importantなので、適合不適合よりもっと重要な、ということかなと。あと、このUXの使い方はUX警察沙汰な気はします。単にユーザビリティだろうと。他の箇所も概ねそうですが……。
 
 (太田)
-先頭の Now は「現在」とすべきなのかどうか。
-意味的にはそうとれますが、HTML5で可能になったという話は前でしているので、ここで改めて言われるのも変ではあります。
-単純に「現在」という表現がちょっと強すぎるのかも。いったん、「今となっては」としてみました。
+前半と後半のつながりがわかりにくいですね。
+全体として、「(昔はこれはinvalidだったが) 今ではinvalidでは無いものの、他の問題がある」という話をしていると思うので、前半を「&lt;g1&gt;不適合&lt;/g1&gt;であるという問題」と補ってみました。
 
 a number of は「数多く」というとちょっと多すぎな気もします。多いか少ないかを問題にしているわけでもないので、「いくつもある」くらいでしょうか。
 
@@ -14869,8 +14868,8 @@ UXは「ユーザー体験」とする?
       <tuv lang="EN-US">
         <seg>Now that the markup is not technically &lt;g1&gt;nonconforming&lt;/g1&gt;, there are a number of more important UX concerns to address:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170907T084349Z" creationid="rikiha" creationdate="20170905T004346Z">
-        <seg>今となっては、このマークアップが技術的に&lt;g1&gt;不適合&lt;/g1&gt;ということはなくなりましたが、もっと重要な、UXに関する懸念がいくつもあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170907T084709Z" creationid="rikiha" creationdate="20170905T004346Z">
+        <seg>今では、このマークアップが技術的に&lt;g1&gt;不適合&lt;/g1&gt;であるという問題はなくなりましたが、もっと重要な、UXに関する懸念がいくつもあります。</seg>
       </tuv>
     </tu>
     <tu>
