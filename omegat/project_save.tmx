@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3069,7 +3069,7 @@ Price:　→価格：</note>
 (太田)
 脚注リンクのテキストに「推奨しています」まで含む必要がありそう。少し調整しました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g7&gt;&lt;g8&gt;Google recommends using descriptive link text&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;17&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; because its crawler can see that (where link text and the destination page’s &lt;g12&gt;&lt;title&gt;&lt;/g12&gt; or &lt;g13&gt;&lt;h1&gt;&lt;/g13&gt; are similar) relevance is likely to be high.</seg>
       </tuv>
@@ -8839,7 +8839,9 @@ blog post as found at its permalinkは、パーマリンクをたどった先で
 
 (太田)
 shape up のニュアンスを出したいかも?
-「整いました」としてみました。</note>
+「整いました」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Here’s how the overall layout is shaping up:</seg>
       </tuv>
@@ -10203,7 +10205,9 @@ http://www.w3.org/TR/CSS1/#length-units
       <note>(伊原) ちょっと調整。
 
 (太田)
-ヘイドンさん、別のところでは「フロー」と言ってたりして一貫していないですね。「いわゆる」ブロックレベル、としました。</note>
+ヘイドンさん、別のところでは「フロー」と言ってたりして一貫していないですね。「いわゆる」ブロックレベル、としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In HTML5, it has been made acceptable to &lt;g1&gt;&lt;g2&gt;place block-level content inside link (&lt;g3&gt;&lt;a&gt;&lt;/g3&gt;) elements&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;18&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
