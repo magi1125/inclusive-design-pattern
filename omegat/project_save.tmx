@@ -374,7 +374,11 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) liable toを訳しつつ調整しました。</note>
+      <note>(伊原) liable toを訳しつつ調整しました。
+
+(太田)
+どちらかというと、なかなか「リンク」と言ってもらえない (多くのスクリーンリーダーは読み上げてから「リンク」と言うので、長いとリンクであることがわかるまでに時間がかかる) ということが問題のような気もします。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;In all assistive technologies, focusing the link is liable to trigger the readout of all its textual contents, which is rather verbose.</seg>
       </tuv>
