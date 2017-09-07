@@ -13095,12 +13095,15 @@ implementationを例→実装としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 原文にもう少し沿わせました。</note>
+      <note>(伊原) 原文にもう少し沿わせました。
+
+(太田)
+validはvalidでも良いのかも。</note>
       <tuv lang="EN-US">
         <seg>Just because the specification mandates that something is technically valid markup doesn’t mean it produces an agreeable user experience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170907T064236Z" creationid="rikiha" creationdate="20170905T004403Z">
-        <seg>仕様に沿った、技術的には妥当にマークアップされたものだからといって、それ自体が快適なユーザー体験をもたらすことを意味するものではありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170907T100430Z" creationid="rikiha" creationdate="20170905T004403Z">
+        <seg>仕様に沿った、技術的には妥当なマークアップだからといって、それ自体が快適なユーザー体験をもたらすことを意味するものではありません。</seg>
       </tuv>
     </tu>
     <tu>
