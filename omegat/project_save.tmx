@@ -10871,9 +10871,7 @@ metaについては補足が必要か?
 (太田)
 OK
 機能を一つ削っているので代償でも良いようには思いますが。
-削除しなければならない理由は「a要素の中にa要素を入れられないから」ということなのですが、それは説明不要? 訳注?
-
-</note>
+削除しなければならない理由は「a要素の中にa要素を入れられないから」ということなのですが、それは説明不要? 訳注?</note>
       <tuv lang="EN-US">
         <seg>In our case, this comes at the cost of removing the child link to the photographer’s page.</seg>
       </tuv>
@@ -14857,7 +14855,12 @@ emulateはそのままエミュレートでも良いのかも。少し上で「�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) more importantなので、適合不適合よりもっと重要な、ということかなと。あと、このUXの使い方はUX警察沙汰な気はします。単にユーザビリティだろうと。他の箇所も概ねそうですが……。</note>
+      <note>(伊原) more importantなので、適合不適合よりもっと重要な、ということかなと。あと、このUXの使い方はUX警察沙汰な気はします。単にユーザビリティだろうと。他の箇所も概ねそうですが……。
+
+(太田)
+先頭の Now は「現在」なのかどうか。
+そうともとれますが、HTML5で可能になったという話は前でしているので、ここで改めて言われるのも変ではあります。
+</note>
       <tuv lang="EN-US">
         <seg>Now that the markup is not technically &lt;g1&gt;nonconforming&lt;/g1&gt;, there are a number of more important UX concerns to address:</seg>
       </tuv>
