@@ -5726,6 +5726,8 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+言っていることはわかりますが練りたいですね。</note>
       <tuv lang="EN-US">
         <seg>Because so many accessibility errors relating to assistive technologies are markup errors, and because markup errors are so easy to identify, we’ve grown up in an accessibility remediation culture that is assistive technology obsessed and focused on discrete code errors.</seg>
       </tuv>
@@ -6535,7 +6537,7 @@ the odd superficial error は複数ではない気がします。
 「軽微なエラー」くらいでしょうか。
 simpleが落ちているようなので補いました。
 
-that以下がどこについているのか分かりにくいですね。前のandで結合されているもの全体?
+that以下がどこについているのか分かりにくいですね。前のandで結合されているもの全体? clearのみ?
 
 この文全体は 、
 an interface  may be so simple that it’s a pleasure to use.
