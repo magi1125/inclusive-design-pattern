@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -615,7 +615,7 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
     </tu>
     <tu>
       <note>(岡本)
-支払い方法の選択</note>
+下訳：支払い方法の選択</note>
       <tuv lang="EN-US">
         <seg>&lt;g112&gt;&lt;g113&gt;&lt;g114&gt;&lt;&lt;/g114&gt;h2&lt;/g113&gt;&lt;g115&gt;&gt;&lt;/g115&gt;&lt;/g112&gt;Choose a payment method&lt;g116&gt;&lt;g117&gt;&lt;g118&gt;&lt;/&lt;/g118&gt;h2&lt;/g117&gt;&lt;g119&gt;&gt;&lt;/g119&gt;&lt;/g116&gt;</seg>
       </tuv>
@@ -626,6 +626,14 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134314Z" creationid="rikiha" creationdate="20170809T134314Z">
         <seg>&lt;g114&gt;&lt;g115&gt;&lt;g116&gt;&lt;&lt;/g116&gt;li&lt;/g115&gt;&lt;g117&gt;&gt;&lt;/g117&gt;&lt;/g114&gt;&lt;g118&gt;&lt;g119&gt;&lt;g120&gt;&lt;&lt;/g120&gt;a&lt;/g119&gt; &lt;g121&gt;href&lt;/g121&gt;&lt;g122&gt;&lt;g123&gt;=&lt;/g123&gt;"/login"&lt;/g122&gt;&lt;g124&gt;&gt;&lt;/g124&gt;&lt;/g118&gt;ログイン&lt;g125&gt;&lt;g126&gt;&lt;g127&gt;&lt;/&lt;/g127&gt;a&lt;/g126&gt;&lt;g128&gt;&gt;&lt;/g128&gt;&lt;/g125&gt;&lt;g129&gt;&lt;g130&gt;&lt;g131&gt;&lt;/&lt;/g131&gt;li&lt;/g130&gt;&lt;g132&gt;&gt;&lt;/g132&gt;&lt;/g129&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+下訳：&lt;!-- ここに購買ウィジェット --&gt;</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g120&gt;&lt;!-- purchasing widget here --&gt;&lt;/g120&gt;
+&lt;g121&gt;&lt;g122&gt;&lt;g123&gt;&lt;/&lt;/g123&gt;main&lt;/g122&gt;&lt;g124&gt;&gt;&lt;/g124&gt;&lt;/g121&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +690,15 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       <tuv lang="JA" changeid="yoota" changedate="20170523T095647Z" creationid="yoota" creationdate="20170523T095647Z">
         <seg>&lt;g15&gt;&lt;g16&gt;&lt;g17&gt;&lt;&lt;/g17&gt;h2&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g15&gt;～シンプルな7つのステップで～&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;/&lt;/g21&gt;h2&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;
 &lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;hgroup&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+下訳：&lt;span itemprop="ratingValue"&gt;4&lt;/span&gt;つ星、レビュー数&lt;span itemprop="reviewCount"&gt;13&lt;/span&gt;
+
+でよい？</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g169&gt;&lt;g170&gt;&lt;g171&gt;&lt;&lt;/g171&gt;span&lt;/g170&gt; &lt;g172&gt;itemprop&lt;/g172&gt;&lt;g173&gt;&lt;g174&gt;=&lt;/g174&gt;"ratingValue"&lt;/g173&gt;&lt;g175&gt;&gt;&lt;/g175&gt;&lt;/g169&gt;4&lt;g176&gt;&lt;g177&gt;&lt;g178&gt;&lt;/&lt;/g178&gt;span&lt;/g177&gt;&lt;g179&gt;&gt;&lt;/g179&gt;&lt;/g176&gt; stars, based on &lt;g180&gt;&lt;g181&gt;&lt;g182&gt;&lt;&lt;/g182&gt;span&lt;/g181&gt; &lt;g183&gt;itemprop&lt;/g183&gt;&lt;g184&gt;&lt;g185&gt;=&lt;/g185&gt;"reviewCount"&lt;/g184&gt;&lt;g186&gt;&gt;&lt;/g186&gt;&lt;/g180&gt;13&lt;g187&gt;&lt;g188&gt;&lt;g189&gt;&lt;/&lt;/g189&gt;span&lt;/g188&gt;&lt;g190&gt;&gt;&lt;/g190&gt;&lt;/g187&gt; reviews</seg>
       </tuv>
     </tu>
     <tu>
@@ -2428,6 +2445,13 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170904T065009Z" creationid="rikiha" creationdate="20170828T141918Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;「90cm × 30cm」は正しいUnicode文字（乗算記号）を使って書かれているので、スクリーンリーダーでは「きゅうじゅっセンチメートルかけるさんじゅっセンチメートル」と読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g203&gt;&lt;g204&gt;&lt;g205&gt;&lt;&lt;/g205&gt;h2&lt;/g204&gt;&lt;g206&gt;&gt;&lt;/g206&gt;&lt;/g203&gt;Choose a payment method&lt;g207&gt;&lt;g208&gt;&lt;g209&gt;&lt;/&lt;/g209&gt;h2&lt;/g208&gt;&lt;g210&gt;&gt;&lt;/g210&gt;&lt;/g207&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25132,6 +25156,13 @@ http://postd.cc/nobody-wants-use-your-product/
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170727T114140Z">
         <seg>現在位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+35.95ユーロ　　と単位を後にする表記にするにはどうする？</note>
+      <tuv lang="EN-US">
+        <seg>€&lt;g117&gt;&lt;g118&gt;&lt;g119&gt;&lt;&lt;/g119&gt;span&lt;/g118&gt; &lt;g120&gt;itemprop&lt;/g120&gt;&lt;g121&gt;&lt;g122&gt;=&lt;/g122&gt;"price"&lt;/g121&gt;&lt;g123&gt;&gt;&lt;/g123&gt;&lt;/g117&gt;35.95&lt;g124&gt;&lt;g125&gt;&lt;g126&gt;&lt;/&lt;/g126&gt;span&lt;/g125&gt;&lt;g127&gt;&gt;&lt;/g127&gt;&lt;/g124&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
