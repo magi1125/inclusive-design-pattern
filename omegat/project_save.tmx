@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2116,8 +2116,8 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Some properties are not based on displayed content (text nodes), such as the three-letter ISO currency of “EUR.” Instead, we supply this information using a &lt;g2&gt;&lt;meta&gt;&lt;/g2&gt; tag.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T083856Z" creationid="yoota" creationdate="20170908T083856Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;「EUR」という3文字のISO通貨コードなど、一部のプロパティは表示されるコンテンツ（テキストノード）に基づいていません。代わりに、&lt;meta&gt;タグを使ってこの情報を提供します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T083910Z" creationid="yoota" creationdate="20170908T083856Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;「EUR」という3文字のISO通貨コードなど、一部のプロパティは表示されるコンテンツ（テキストノード）に基づいていません。代わりに、&lt;g2&gt;&lt;meta&gt;&lt;/g2&gt;タグを使ってこの情報を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4108,6 +4108,14 @@ andの強調をどうするか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170801T094552Z" creationid="rikiha" creationdate="20170725T155654Z">
         <seg>同様に、親切なナビゲーションは、現在のページをハイライト表示します。つまり、今ユーザーが開いているページです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A full &lt;g3&gt;&lt;g4&gt;list of ISO currency codes is available on Wikipedia&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;24&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T084059Z" creationid="yoota" creationdate="20170908T084059Z">
+        <seg>&lt;g4&gt;&lt;/g4&gt;ISO通貨コードの完全なリストはWikipedia&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注154）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;で確認できます。</seg>
       </tuv>
     </tu>
     <tu>
