@@ -6489,12 +6489,14 @@ composeは作成でいいのか。あとで検討。
     <tu>
       <note>(太田)
 類似度の高い別のフレーズの訳が出ていた模様。
-wordingはそのまま「ワーディング」もあり?</note>
+wordingはそのまま「ワーディング」もあり?
+
+(伊原) ワーディングがよさそう。置き換えました。</note>
       <tuv lang="EN-US">
         <seg>But we do have control of the wording.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T035049Z" creationid="yoota" creationdate="20170908T021816Z">
-        <seg>しかし、言葉はコントロールできます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170908T153516Z" creationid="yoota" creationdate="20170908T021816Z">
+        <seg>しかし、ワーディングはコントロールできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8344,6 +8346,7 @@ massiveは「大きくて重い、大規模な」というような意味です�
 googleのSERP内において、検索結果のページタイトルはh3でマークアップされています。これがリンク先のtitle要素と同じになるという話ですね。
 補いつつ調整してみましたが、分かりにくいかも。
 
+(伊原) 「googleのSERP内において、検索結果のページタイトルはh3でマークアップされています。」が訳注かもですね。知ってる人そんなにいなさそう。
 
 </note>
       <tuv lang="EN-US">
@@ -23939,7 +23942,9 @@ divに小細工するのではなく既存のbutton要素を使う、という�
     <tu>
       <note>(太田)
 少し調整。
-「言葉はできます」は次のフレーズに。</note>
+「言葉はできます」は次のフレーズに。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We don’t have control over the aesthetic with which Google lists our content.</seg>
       </tuv>
