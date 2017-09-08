@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2143,6 +2143,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170821T104309Z" creationid="rikiha" creationdate="20170815T161136Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;この&lt;g2&gt;&lt;button&gt;&lt;/g2&gt;はナビゲーションランドマークの&lt;g3&gt;中&lt;/g3&gt;に配置されているため、スクリーンリーダーのユーザーはショートカットでランドマークに移動できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;itemscope&lt;/g2&gt; Boolean attribute and &lt;g3&gt;itemtype&lt;/g3&gt; reference are placed on the wrapping &lt;g4&gt;&lt;main&gt;&lt;/g4&gt; element to define the context for our product data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T083629Z" creationid="yoota" creationdate="20170908T083629Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;itemscope&lt;/g2&gt; Boolean属性および&lt;g3&gt;itemtype&lt;/g3&gt;の参照は&lt;g4&gt;&lt;main&gt;&lt;/g4&gt;要素でラップして配置し、商品データのコンテキストを定義します。</seg>
       </tuv>
     </tu>
     <tu>
