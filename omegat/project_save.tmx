@@ -4793,6 +4793,7 @@ listenは「監視」としてみました。
       <note>(太田)
 2章ではSERPの話はしていないので元訳だと変かも。
 
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>All the more reason to write descriptive, easily understood &lt;g3&gt;&lt;title&gt;&lt;/g3&gt; text as described in “The Document.” In fact, well-written &lt;g4&gt;&lt;title&gt;&lt;/g4&gt; text can elevate your search rankings, but &lt;g5&gt;&lt;g6&gt;avoid spammy &lt;g7&gt;&lt;title&gt;&lt;/g7&gt;s&lt;/g6&gt;&lt;/g5&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;20&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
@@ -15068,7 +15069,8 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       <note>(太田)
 微妙に違うような。
 ちょっと調整しました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Not only will Google penalize you, but such &lt;g11&gt;&lt;title&gt;&lt;/g11&gt;s tend to constitute unreadable, and therefore uninclusive, content.</seg>
       </tuv>
@@ -17631,12 +17633,14 @@ https://inclusive-components.design/#components
     <tu>
       <note>(太田)
 リスティングはカタカナでわかるかどうか。
-リスティング広告を連想されそうですが少し意味が違うはず。</note>
+リスティング広告を連想されそうですが少し意味が違うはず。
+
+(伊原) 感覚的にはリスティング＝リスティング広告なので、別の語に変えたい感じです。リストアップを強化としてみましたが、ちょっと違う？</note>
       <tuv lang="EN-US">
         <seg>Since we are dealing with products, we have an opportunity to enhance our product listing using &lt;g1&gt;&lt;g2&gt;structured data&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;21&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T063418Z" creationid="yoota" creationdate="20170908T022736Z">
-        <seg>このサイトでは商品を扱っているので、&lt;g1&gt;&lt;g2&gt;構造化データ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注152）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用して商品のリスティングを向上できる可能性があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170908T155505Z" creationid="yoota" creationdate="20170908T022736Z">
+        <seg>このサイトでは商品を扱っているので、&lt;g1&gt;&lt;g2&gt;構造化データ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注152）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用して商品のリストアップを強化できる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
