@@ -8270,6 +8270,14 @@ googleのSERP内において、検索結果のページタイトルはh3でマ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For example, they use a custom &lt;g1&gt;&lt;g-review-stars&gt;&lt;/g1&gt; element which incorporates an &lt;g2&gt;aria-label&lt;/g2&gt; to spell out the rating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T084233Z" creationid="yoota" creationdate="20170908T084233Z">
+        <seg>たとえば、aria-labelを組み込むカスタムの&lt;g1&gt;&lt;g-review-stars&gt;&lt;/g1&gt;要素を使い、評価を言葉で表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注アリ。訳注はCSSのコードの下に挿入
 
 (太田) 括弧をダッシュにしつつ調整しました。
@@ -8727,6 +8735,14 @@ art of marketing どうするか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170831T055147Z" creationid="rikiha" creationdate="20170828T141604Z">
         <seg>幸いなことに、インクルーシブデザイナーは、間違いが多くあてにならないマーケティングの芸当に首を突っ込む必要はありません。ユーザーの能力、設定、環境といった要素は、興味関心、好み、ライフスタイルの選択などとはほとんど関係ないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fortunately, Google has ensured that the additional structured information is accessible to our potential visitors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T084224Z" creationid="yoota" creationdate="20170908T084224Z">
+        <seg>幸いなことに、Googleは、追加の構造化された情報を、潜在的な閲覧者にとって利用しやすいものにしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10521,6 +10537,14 @@ http://www.w3.org/TR/CSS1/#length-units
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T033803Z" creationid="yoota" creationdate="20170510T090902Z">
         <seg>CSSでは、1remが書体の小文字&lt;g2&gt;m&lt;/g2&gt;の幅にほぼ該当します。このため、幅が60remのパラグラフはカラム幅が60字分であると言うことができ、ちょうど読みやすい幅に収まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Google’s results pages, the final product (no pun intended) will look something like the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T084204Z" creationid="yoota" creationdate="20170908T084204Z">
+        <seg>Googleの結果ページでは、最終生成物は次のような感じになります。</seg>
       </tuv>
     </tu>
     <tu>
