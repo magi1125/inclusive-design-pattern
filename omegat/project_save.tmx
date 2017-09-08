@@ -1497,6 +1497,14 @@ https://www.soundsnap.com/tags/incidental
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Block-level links containing lots of text content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T104503Z" creationid="yoota" creationdate="20170908T104503Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;多くのテキストコンテンツを含むブロックレベルのリンク。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Buy Now</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170906T093043Z" creationid="yoota" creationdate="20170906T093043Z">
@@ -1763,6 +1771,14 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Inconsistently composed or unoptimized product images.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T104454Z" creationid="yoota" creationdate="20170908T104454Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;構成が一貫していない、または最適化されていない商品画像。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「無償のNVDAスクリーンリーダー」が若干違和感ありだったので、「無償のスクリーンリーダーNVDA」としました。
 
@@ -1847,6 +1863,14 @@ http://www.w3.org/TR/wai-aria-1.1/#definition
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T095316Z" creationid="yoota" creationdate="20170523T095316Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;リンクテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Links to product permalinks without the product name in the link text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T104512Z" creationid="yoota" creationdate="20170908T104512Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;リンクテキスト内に製品名がない、商品のパーマリンクへのリンク</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2402,14 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T145959Z" creationid="yoota" creationdate="20170809T102543Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;型破りだったり、探しにくかったりするメニューシステム。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Unhelpful or misleading alternative text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T104459Z" creationid="yoota" creationdate="20170908T104459Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;役に立たない、または誤解を与える代替テキスト。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10911,6 +10943,8 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>In catering to blind consumers, those who cannot afford generous data contracts, and anyone accessing your content from &lt;g1&gt;outside&lt;/g1&gt; your interface, it was a chance to really push the limits of inclusive design.</seg>
       </tuv>
