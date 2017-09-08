@@ -2481,6 +2481,14 @@ contextual informationをどう訳すか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;You can &lt;g2&gt;&lt;g3&gt;test your structured data&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;25&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; with Google’s tool to make sure the properties are valid and applicable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T084152Z" creationid="yoota" creationdate="20170908T084152Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Googleのツールで&lt;g2&gt;&lt;g3&gt;構造化データをテスト&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注155）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;し、プロパティが有効および適切であることを確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) 設定できる→あってもよい、としました (原文 have)
