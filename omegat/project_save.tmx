@@ -1118,6 +1118,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;site:shop.the-photography-site.com [search term] &lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021809Z" creationid="yoota" creationdate="20170908T021809Z">
+        <seg>site:shop.the-photography-site.com [検索語句]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 言う➞いう
 参考：http://dai.ly/x58vuv2?start=680
 
@@ -3882,6 +3890,14 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A common tactic is to use the &lt;g1&gt;site:&lt;/g1&gt; prefix to return results confined to a chosen website:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021805Z" creationid="yoota" creationdate="20170908T021805Z">
+        <seg>一般的な方法では、site:という接頭辞を使い、選択したWebサイトに限定して検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 andの強調をどうするか。
 「かつ」として、全体を調整してみました。
@@ -4306,6 +4322,14 @@ divergeは分岐する、分かれる、それるの意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A well-indexed site will also expose products in search engine results pages, or SERPs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021756Z" creationid="yoota" creationdate="20170908T021756Z">
+        <seg>また、適切にインデックス化されたサイトは、SERP（検索エンジンの検索結果ページ）に商品が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) assureを訳しました。
 
 (太田)
@@ -4527,6 +4551,14 @@ listenは「監視」としてみました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170601T134950Z" creationid="rikiha" creationdate="20170601T073539Z">
         <seg>さらに良くなりますね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All the more reason to write descriptive, easily understood &lt;g3&gt;&lt;title&gt;&lt;/g3&gt; text as described in “The Document.” In fact, well-written &lt;g4&gt;&lt;title&gt;&lt;/g4&gt; text can elevate your search rankings, but &lt;g5&gt;&lt;g6&gt;avoid spammy &lt;g7&gt;&lt;title&gt;&lt;/g7&gt;s&lt;/g6&gt;&lt;/g5&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;20&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021824Z" creationid="yoota" creationdate="20170908T021824Z">
+        <seg>「ドキュメント」の章で説明したように、説明的で分かりやすい&lt;title&gt;テキストを書くべき理由はここにもあります。実際、よく練られた&lt;title&gt;テキストは検索順位を上げることができますが、スパムのような&lt;title&gt;は避けましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6180,6 +6212,14 @@ composeは作成でいいのか。あとで検討。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>But we do have control of the wording.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021816Z" creationid="yoota" creationdate="20170908T021816Z">
+        <seg>これは言い換えると、ユーザーに考えさせないということです。（脚注88）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 少しだけ調整。
 
 (太田) OK</note>
@@ -6284,6 +6324,14 @@ versus はそのまま vs としてもいいかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170824T104156Z" creationid="rikiha" creationdate="20170819T005523Z">
         <seg>アクセシブルなラベルの必要性、Windowsのハイコントラストモードでの問題、タッチ操作のしやすさを心に留めておくことで、メニューボタンを――そして、そのボタンによって表示されるメニューも――さまざまなユーザー設定、環境、デバイス、支援技術に対してインクルーシブなものにすることができました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By bringing this information to search engine results, we enhance the experience of those who choose to browse our content in this context.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021848Z" creationid="yoota" creationdate="20170908T021848Z">
+        <seg>これらの情報を検索エンジンの結果に盛り込めば、こうした環境でコンテンツを閲覧するユーザーの体験を向上させることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8007,6 +8055,14 @@ massiveは「大きくて重い、大規模な」というような意味です�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170824T150854Z" creationid="rikiha" creationdate="20170823T082548Z">
         <seg>たとえば、&lt;g1&gt;&lt;g2&gt;Great British Public Toilet Map&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注127）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;のプロジェクトでは、まず&lt;g6&gt;&lt;g7&gt;Neontribe社&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注128）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;のオフィスにあるトイレの絵を描いて切り抜くことから始めました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the listed page’s &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; doubles as the linked &lt;g2&gt;&lt;h3&gt;&lt;/g2&gt; element of an individual search result.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021819Z" creationid="yoota" creationdate="20170908T021819Z">
+        <seg>たとえば、リストされたページの&lt;title&gt;は、個々の検索結果のリンクされた要素を兼ねます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10523,6 +10579,14 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In brief, structured data increases the meta information parsable by machines like Googlebot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021832Z" creationid="yoota" creationdate="20170908T021832Z">
+        <seg>簡単に言うと、構造化データを使用すると、Googlebotなどのマシンが構文解析できるメタ情報が増えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) whatever's standing in your way を訳してみました。
 
 (岡本)　関連付ける→関連づける
@@ -12481,6 +12545,14 @@ poorlyを「正しくない」とするのは強すぎるかもしれません�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T083902Z" creationid="yoota" creationdate="20170512T025847Z">
         <seg>&lt;g1&gt;&lt;g2&gt;疑似コンテンツ（ここでは「(外部リンク)」）はスクリーンリーダーで読み上げられないというのは、よくある誤解です。&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注33）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s a little like WAI-ARIA, but for archiving rather than assistive technology support.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021836Z" creationid="yoota" creationdate="20170908T021836Z">
+        <seg>少しWAI-ARIAに似ていますが、支援技術のサポートではなく、アーカイブのためのものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14619,6 +14691,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Not only will Google penalize you, but such &lt;g11&gt;&lt;title&gt;&lt;/g11&gt;s tend to constitute unreadable, and therefore uninclusive, content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021827Z" creationid="yoota" creationdate="20170908T021827Z">
+        <seg>（脚注151）Googleにペナルティを科せられるだけでなく、そうした&lt;title&gt;は読みにくいコンテンツを構成する傾向があるので、インクルーシブとは言えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 この読みは普通に「エックス」ですね。
 視覚的にも不明瞭、というのはフォントによっては乗算記号に見えないという話ですね。特にセリフだとひげが強くつくので、どう見てもかけるではなくエックスという見た目になります。
@@ -14672,6 +14752,14 @@ candidate の訳が落ちていますがまあ無くても良いのでママで�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T093121Z" creationid="yoota" creationdate="20170426T093121Z">
         <seg>ご心配なく。&lt;g1&gt;font-size: calc(1em+1vw);&lt;/g1&gt; という記述はプログレッシブエンハンスメントになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notably, some assistive technology users rely heavily on Google Search because it is a prelearned interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021802Z" creationid="yoota" creationdate="20170908T021802Z">
+        <seg>特に支援技術ユーザーの中には、使い慣れたインターフェイスだという理由で、Google検索に大きく依存している人もいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17653,6 +17741,14 @@ iterationは試行錯誤を推したい。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Structured data affects the user directly since the search listing will be enhanced to include more detailed information, such as the price and rating of the product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021839Z" creationid="yoota" creationdate="20170908T021839Z">
+        <seg>検索結果表示が強化されて、より詳細な情報（商品の価格や評価など）が含まれるようになるため、構造化データはユーザーに直接的な影響を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Subsections</seg>
@@ -18883,6 +18979,14 @@ has met them and helped them なので過去完了形ですね。文末を「手
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170721T085251Z" creationid="yoota" creationdate="20170719T092031Z">
         <seg>このように、要素の定義の中に属性やふるまいの指定を追加することで、コードがすっきりと見やすいものになります――制作者はただ、&lt;g1&gt;&lt;toggle-button&gt;&lt;/g1&gt;のインスタンスを作るだけでよいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The advantage of using SERPs like Google’s is that no matter the content you are searching, the interface remains the same.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021759Z" creationid="yoota" creationdate="20170908T021759Z">
+        <seg>GoogleなどのSERPを使うメリットは、どんなコンテンツを検索していても、インターフェイスが同じだということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23357,6 +23461,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T101534Z" creationid="yoota" creationdate="20170511T101356Z">
         <seg>&lt;g3&gt;background-color&lt;/g3&gt;を使用することで、パラグラフのリンクのフォーカススタイルを強調すると同時に、各ブラウザでの見た目をそろえることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We don’t have control over the aesthetic with which Google lists our content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T021812Z" creationid="yoota" creationdate="20170908T021812Z">
+        <seg>Googleがこのサイトのコンテンツをリストするときの見た目の美しさをコントロールすることはできませんが、言葉はできます。</seg>
       </tuv>
     </tu>
     <tu>
