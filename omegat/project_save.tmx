@@ -10601,11 +10601,15 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+マシンでいいのかどうか。
+なおmachineという単語はここにしかない模様。
+</note>
       <tuv lang="EN-US">
         <seg>In brief, structured data increases the meta information parsable by machines like Googlebot.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T021832Z" creationid="yoota" creationdate="20170908T021832Z">
-        <seg>簡単に言うと、構造化データを使用すると、Googlebotなどのマシンが構文解析できるメタ情報が増えます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T065252Z" creationid="yoota" creationdate="20170908T021832Z">
+        <seg>簡単に言うと、構造化データは、Googlebotなどのマシンが構文解析できるメタ情報が増えます。</seg>
       </tuv>
     </tu>
     <tu>
