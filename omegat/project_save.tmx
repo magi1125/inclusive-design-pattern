@@ -17228,6 +17228,14 @@ https://inclusive-components.design/#components
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Since we are dealing with products, we have an opportunity to enhance our product listing using &lt;g1&gt;&lt;g2&gt;structured data&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;21&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T022736Z" creationid="yoota" creationdate="20170908T022736Z">
+        <seg>このサイトでは商品を扱っているので、構造化データ（脚注152）を使用して商品のリスティングを向上できる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注
 
 (太田)
@@ -23223,6 +23231,14 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170905T152614Z" creationid="rikiha" creationdate="20170905T003714Z">
         <seg>遅延読み込みを使うと、&lt;g3&gt;&lt;img/&gt;&lt;/g3&gt;要素がビューポートに入るまで画像リソースはダウンロードされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Product Vocabulary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T022701Z" creationid="yoota" creationdate="20170908T022701Z">
+        <seg>Productボキャブラリーの使用</seg>
       </tuv>
     </tu>
     <tu>
