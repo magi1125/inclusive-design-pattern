@@ -16415,9 +16415,13 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
     <tu>
       <note>(太田)
 これはこのままでOKかと思いますが、sをとるかどうか微妙ですね。
-どちらの表記もアリ。</note>
+どちらの表記もアリ。
+いったんsとりました。</note>
       <tuv lang="EN-US">
         <seg>SERPs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T024302Z">
+        <seg>SERP</seg>
       </tuv>
     </tu>
     <tu>
