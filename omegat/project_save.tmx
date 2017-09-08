@@ -2110,6 +2110,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Some properties are not based on displayed content (text nodes), such as the three-letter ISO currency of “EUR.” Instead, we supply this information using a &lt;g2&gt;&lt;meta&gt;&lt;/g2&gt; tag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T083856Z" creationid="yoota" creationdate="20170908T083856Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;「EUR」という3文字のISO通貨コードなど、一部のプロパティは表示されるコンテンツ（テキストノード）に基づいていません。代わりに、&lt;meta&gt;タグを使ってこの情報を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 固形粘着剤としました。
 
 (太田) OK</note>
