@@ -2644,6 +2644,14 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g36&gt;&lt;g37&gt;&lt;g38&gt;&lt;&lt;/g38&gt;img&lt;/g37&gt; &lt;g39&gt;src&lt;/g39&gt;&lt;g40&gt;&lt;g41&gt;=&lt;/g41&gt;"/images/naked-forecourt-man.jpg"&lt;/g40&gt; &lt;g42&gt;alt&lt;/g42&gt;&lt;g43&gt;&lt;g44&gt;=&lt;/g44&gt;"High-contrast black and white image of a naked man nonchalantly leaning against a petrol pump."&lt;/g43&gt; &lt;g45&gt;/&gt;&lt;/g45&gt;&lt;/g36&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T080043Z" creationid="yoota" creationdate="20170908T080043Z">
+        <seg>&lt;g36&gt;&lt;g37&gt;&lt;g38&gt;&lt;&lt;/g38&gt;img&lt;/g37&gt; &lt;g39&gt;src&lt;/g39&gt;&lt;g40&gt;&lt;g41&gt;=&lt;/g41&gt;"/images/naked-forecourt-man.jpg"&lt;/g40&gt; &lt;g42&gt;alt&lt;/g42&gt;&lt;g43&gt;&lt;g44&gt;=&lt;/g44&gt;"裸の男性が何食わぬ顔で給油ポンプにもたれかかっている、ハイコントラストの白黒写真"&lt;/g43&gt; &lt;g45&gt;/&gt;&lt;/g45&gt;&lt;/g36&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)
 Size:　→サイズ：</note>
       <tuv lang="EN-US">
@@ -5649,6 +5657,14 @@ the experience is lackingどうするか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>At this page, the markup will use a template which might look like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T080008Z" creationid="yoota" creationdate="20170908T080008Z">
+        <seg>このページで、マークアップにだいたい以下のようなテンプレートを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Automated Icons</seg>
@@ -8330,8 +8346,8 @@ OK</note>
       <tuv lang="EN-US">
         <seg>For our purposes there is a &lt;g2&gt;product vocabulary&lt;/g2&gt;, defining product-specific properties, to be found at &lt;g3&gt;&lt;g4&gt;http://schema.org/Product&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;22&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T075524Z" creationid="yoota" creationdate="20170908T075503Z">
-        <seg>今回のサイト用には、製品固有のプロパティを定義する&lt;g2&gt;Productボキャブラリー&lt;/g2&gt;があり、&lt;g3&gt;&lt;g4&gt;http://schema.org/Product&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;で確認できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T075941Z" creationid="yoota" creationdate="20170908T075503Z">
+        <seg>今回のサイト用には、製品固有のプロパティを定義する&lt;g2&gt;Productボキャブラリー&lt;/g2&gt;があり、&lt;g3&gt;&lt;g4&gt;http://schema.org/Product&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;()&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;で確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19228,6 +19244,14 @@ jaw は動詞だとスラングで Impudent or abusive talk.
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095106Z" creationid="okamoto_jun" creationdate="20170627T095106Z">
         <seg>インクルーシブなインターフェイスをデザインすることは、堅牢なデータスキーマをデザインすることと似ています。排他的だったり、時代遅れで廃れたインターフェイスを作ることに比べ、難しかったり複雑だったりするわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The best place to include structured data for an individual product is at its permalink page: the page “Buy Now” will take the user to see greater detail about the product and choose purchasing options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T075951Z" creationid="yoota" creationdate="20170908T075951Z">
+        <seg>個々の商品の構造化データを含めるのに最適な場所は、パーマリンクページ、すなわち購入ボタンを押したときに移動し、ユーザーが商品の詳細を確認したり、購入方法を選択できるページです。</seg>
       </tuv>
     </tu>
     <tu>
