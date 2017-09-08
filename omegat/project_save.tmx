@@ -1496,11 +1496,13 @@ https://www.soundsnap.com/tags/incidental
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「多くの」→「大量の」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Block-level links containing lots of text content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T104503Z" creationid="yoota" creationdate="20170908T104503Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;多くのテキストコンテンツを含むブロックレベルのリンク。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T104812Z" creationid="yoota" creationdate="20170908T104503Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;大量のテキストコンテンツを含むブロックレベルのリンク。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1777,8 +1779,8 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Inconsistently composed or unoptimized product images.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T104649Z" creationid="yoota" creationdate="20170908T104454Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;一貫性のない使われ方をしていたり、最適化されていないような商品画像。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T104655Z" creationid="yoota" creationdate="20170908T104454Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;一貫性のない使われ方をしていたり、最適化されていない商品画像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1869,11 +1871,13 @@ http://www.w3.org/TR/wai-aria-1.1/#definition
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+製品名→商品名</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Links to product permalinks without the product name in the link text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T104512Z" creationid="yoota" creationdate="20170908T104512Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;リンクテキスト内に製品名がない、商品のパーマリンクへのリンク</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T104835Z" creationid="yoota" creationdate="20170908T104512Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;リンクテキスト内に商品名がない、商品のパーマリンクへのリンク</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,6 +2412,9 @@ quirkはネガティブイメージの言葉ですが、後方互換としてし
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+OK
+しかしこの章でこんな話してましたっけ?</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Unhelpful or misleading alternative text.</seg>
       </tuv>
