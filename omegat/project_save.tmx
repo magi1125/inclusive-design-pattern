@@ -8519,8 +8519,8 @@ OK</note>
       <tuv lang="EN-US">
         <seg>For our purposes there is a &lt;g2&gt;product vocabulary&lt;/g2&gt;, defining product-specific properties, to be found at &lt;g3&gt;&lt;g4&gt;http://schema.org/Product&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;22&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T092038Z" creationid="yoota" creationdate="20170908T075503Z">
-        <seg>今回の用途には、製品に固有のプロパティを定義する&lt;g2&gt;Productボキャブラリー&lt;/g2&gt;があり、&lt;g3&gt;&lt;g4&gt;http://schema.org/Product&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;()&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;で確認できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T093112Z" creationid="yoota" creationdate="20170908T075503Z">
+        <seg>今回の用途には、商品に固有のプロパティを定義する&lt;g2&gt;Productボキャブラリー&lt;/g2&gt;があり、&lt;g3&gt;&lt;g4&gt;http://schema.org/Product&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;()&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;で確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19454,11 +19454,13 @@ jaw は動詞だとスラングで Impudent or abusive talk.
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+コロン前後を2文にしつつすこし調整。</note>
       <tuv lang="EN-US">
         <seg>The best place to include structured data for an individual product is at its permalink page: the page “Buy Now” will take the user to see greater detail about the product and choose purchasing options.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T075951Z" creationid="yoota" creationdate="20170908T075951Z">
-        <seg>個々の商品の構造化データを含めるのに最適な場所は、パーマリンクページ、すなわち購入ボタンを押したときに移動し、ユーザーが商品の詳細を確認したり、購入方法を選択できるページです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T093241Z" creationid="yoota" creationdate="20170908T075951Z">
+        <seg>個々の商品の構造化データを含めるのに最適な場所は、商品のパーマリンクページです。すなわち、「今すぐ購入」ボタンを押したときに移動し、ユーザーが商品の詳細を確認したり、購入方法を選択できるページです。</seg>
       </tuv>
     </tu>
     <tu>
