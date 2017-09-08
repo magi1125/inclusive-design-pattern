@@ -2165,11 +2165,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+元訳は微妙に誤訳かも。
+調整しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;itemscope&lt;/g2&gt; Boolean attribute and &lt;g3&gt;itemtype&lt;/g3&gt; reference are placed on the wrapping &lt;g4&gt;&lt;main&gt;&lt;/g4&gt; element to define the context for our product data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T083629Z" creationid="yoota" creationdate="20170908T083629Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;itemscope&lt;/g2&gt; Boolean属性および&lt;g3&gt;itemtype&lt;/g3&gt;の参照は&lt;g4&gt;&lt;main&gt;&lt;/g4&gt;要素でラップして配置し、商品データのコンテキストを定義します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T100043Z" creationid="yoota" creationdate="20170908T083629Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;全体をラップする&lt;g4&gt;&lt;main&gt;&lt;/g4&gt;要素に対して&lt;g2&gt;itemscope&lt;/g2&gt; Boolean属性と、&lt;g3&gt;itemtype&lt;/g3&gt;の参照を指定して、商品データのコンテキストを定義します。</seg>
       </tuv>
     </tu>
     <tu>
