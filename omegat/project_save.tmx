@@ -5548,6 +5548,14 @@ JS中の初期化処理で
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As in previous patterns, the organization and structure of content is paramount.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T103308Z" creationid="yoota" creationdate="20170908T103308Z">
+        <seg>これまでに紹介したパターンもそうでしたが、最も重要なのはコンテンツの編成と構造です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 受動態を調整。keyboard-inclusiveがキーボード対応でよいかどうか。
 
 (太田) 語順を入れ替えました。
@@ -5674,6 +5682,14 @@ the experience is lackingどうするか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170801T104217Z" creationid="rikiha" creationdate="20170725T074159Z">
         <seg>前述したように、キーボードユーザーはインタラクティブな要素をひとつずつ順番にたどってページ内を移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As with all the patterns herein, it’s really just an excuse to hone our inclusive design chops.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T103305Z" creationid="yoota" creationdate="20170908T103305Z">
+        <seg>本書で取り上げるすべてのパターンと同様、インクルーシブデザインのセンスに磨きをかけるための単なる一例です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8287,8 +8303,8 @@ googleのSERP内において、検索結果のページタイトルはh3でマ�
       <tuv lang="EN-US">
         <seg>For example, they use a custom &lt;g1&gt;&lt;g-review-stars&gt;&lt;/g1&gt; element which incorporates an &lt;g2&gt;aria-label&lt;/g2&gt; to spell out the rating.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T103226Z" creationid="yoota" creationdate="20170908T084233Z">
-        <seg>たとえば、カスタムの&lt;g1&gt;&lt;g-review-stars&gt;&lt;/g1&gt;要素では&lt;g2&gt;aria-label&lt;/g2&gt;を使用し、評価が読み上げられるようにしています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T103252Z" creationid="yoota" creationdate="20170908T084233Z">
+        <seg>たとえば、カスタムの&lt;g1&gt;&lt;g-review-stars&gt;&lt;/g1&gt;要素に&lt;g2&gt;aria-label&lt;/g2&gt;を使用して、評価が読み上げられるようにしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9430,6 +9446,14 @@ this has led で「これが導いた」と言っているので、「報告し�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170714T134436Z" creationid="rikiha" creationdate="20170703T012241Z">
         <seg>しかしその結果、手動で評価を行うエキスパートも、自動化されたテストツールも、結果を原則に照らしあわせて&lt;g5&gt;レポート&lt;/g5&gt;するようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, this was the first time we looked deeply into image accessibility, from both the perspectives of alternative text composition and performance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T103310Z" creationid="yoota" creationdate="20170908T103310Z">
+        <seg>しかし、本書で代替テキストの構成およびパフォーマンスという観点から画像のアクセシビリティをじっくり検討したのはこれが初めてです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10875,6 +10899,14 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170822T052705Z" creationid="rikiha" creationdate="20170815T161152Z">
         <seg>ちなみに、（デザイン上の制約、企業の政治的な問題、その他、立ちふさがる何らかの事情によって）メニューボタンの直後にメニューを配置することが不可能な場合は、その2つの要素を&lt;g1&gt;aria-controls&lt;/g1&gt;で関連づけることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In catering to blind consumers, those who cannot afford generous data contracts, and anyone accessing your content from &lt;g1&gt;outside&lt;/g1&gt; your interface, it was a chance to really push the limits of inclusive design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T103314Z" creationid="yoota" creationdate="20170908T103314Z">
+        <seg>目の不自由な購入者、高額のデータ契約を結べない人、サイトの外からコンテンツにアクセスする人のニーズに応えつつ、インクルーシブデザインの限界を押し広げる良い機会でした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22153,6 +22185,16 @@ accessible roleはどうしたものか。英語だとroleという語に多様�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170906T081608Z" creationid="rikiha" creationdate="20170905T004201Z">
         <seg>これは、もともとリンクが持っていたはずの暗黙の&lt;g2&gt;"link"&lt;/g2&gt;というロールを、明示的に指定された&lt;g3&gt;"button"&lt;/g3&gt;ロールで上書きするため、スクリーンリーダーはこのリンクをボタンとして読み上げることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+調整。</note>
+      <tuv lang="EN-US">
+        <seg>This pattern constitutes just one way to go about designing and coding a product list for a maximally inclusive experience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T103449Z" creationid="yoota" creationdate="20170908T103256Z">
+        <seg>このパターンは、インクルーシブな体験を最大化するように商品リストのデザインとコーディングを行っていますが、これは方法の1つにすぎません。</seg>
       </tuv>
     </tu>
     <tu>
