@@ -2449,9 +2449,17 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
     </tu>
     <tu>
       <note>(岡本)
-</note>
+下訳：支払い方法の選択</note>
       <tuv lang="EN-US">
         <seg>&lt;g203&gt;&lt;g204&gt;&lt;g205&gt;&lt;&lt;/g205&gt;h2&lt;/g204&gt;&lt;g206&gt;&gt;&lt;/g206&gt;&lt;/g203&gt;Choose a payment method&lt;g207&gt;&lt;g208&gt;&lt;g209&gt;&lt;/&lt;/g209&gt;h2&lt;/g208&gt;&lt;g210&gt;&gt;&lt;/g210&gt;&lt;/g207&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+下訳：&lt;!-- ここに購買ウィジェット --&gt;</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g211&gt;&lt;!-- purchasing widget here --&gt;&lt;/g211&gt;
+&lt;g212&gt;&lt;g213&gt;&lt;g214&gt;&lt;/&lt;/g214&gt;main&lt;/g213&gt;&lt;g215&gt;&gt;&lt;/g215&gt;&lt;/g212&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
