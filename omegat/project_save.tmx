@@ -8070,7 +8070,9 @@ massiveは「大きくて重い、大規模な」というような意味です�
     </tu>
     <tu>
       <note>(太田)
-元訳がなかなかシュールですね。</note>
+元訳がなかなかシュールですね。
+googleのSERP内において、検索結果のページタイトルはh3でマークアップされています。
+</note>
       <tuv lang="EN-US">
         <seg>For example, the listed page’s &lt;g1&gt;&lt;title&gt;&lt;/g1&gt; doubles as the linked &lt;g2&gt;&lt;h3&gt;&lt;/g2&gt; element of an individual search result.</seg>
       </tuv>
