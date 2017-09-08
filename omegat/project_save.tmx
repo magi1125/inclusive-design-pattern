@@ -17794,11 +17794,15 @@ iterationは試行錯誤を推したい。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+原文の語順に合わせて2文にしました。
+enhanced を「強化」とするのがどうもしっくり来ず、なくても意味が通じるのでとりました。
+</note>
       <tuv lang="EN-US">
         <seg>Structured data affects the user directly since the search listing will be enhanced to include more detailed information, such as the price and rating of the product.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T021839Z" creationid="yoota" creationdate="20170908T021839Z">
-        <seg>検索結果表示が強化されて、より詳細な情報（商品の価格や評価など）が含まれるようになるため、構造化データはユーザーに直接的な影響を与えます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T070109Z" creationid="yoota" creationdate="20170908T021839Z">
+        <seg>構造化データは、ユーザーに直接的な影響を与えます。検索結果に商品の価格や評価といった詳細な情報が含まれるようになるからです。</seg>
       </tuv>
     </tu>
     <tu>
