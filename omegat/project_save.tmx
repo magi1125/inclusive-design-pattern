@@ -2271,11 +2271,14 @@ social dimension どうするか。定訳としては社会的側面ですがわ
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ネストの意味がわかりにくいですね。
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The rating and price (‘offer’) are defined using the nested “Offer” and “Aggregate Rating” vocabularies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T083833Z" creationid="yoota" creationdate="20170908T083833Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;評価と価格は、それぞれネストされたボキャブラリー「AggregateRating」と「Offer」を使って定義します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T101522Z" creationid="yoota" creationdate="20170908T083833Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;評価と価格は、それぞれ「AggregateRating」「Offer」ボキャブラリーを使って定義し、内容をネストして表現します。</seg>
       </tuv>
     </tu>
     <tu>
