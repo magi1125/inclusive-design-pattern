@@ -1771,11 +1771,14 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「構成が一貫していない」は少しわかりにくいですね。
+一貫性のない使われ方、としてみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Inconsistently composed or unoptimized product images.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T104454Z" creationid="yoota" creationdate="20170908T104454Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;構成が一貫していない、または最適化されていない商品画像。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170908T104649Z" creationid="yoota" creationdate="20170908T104454Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;一貫性のない使われ方をしていたり、最適化されていないような商品画像。</seg>
       </tuv>
     </tu>
     <tu>
