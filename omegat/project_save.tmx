@@ -2149,6 +2149,7 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 太田さん調整済み？ 訳OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Some properties are not based on displayed content (text nodes), such as the three-letter ISO currency of “EUR.” Instead, we supply this information using a &lt;g2&gt;&lt;meta&gt;&lt;/g2&gt; tag.</seg>
       </tuv>
@@ -2316,12 +2317,12 @@ social dimension どうするか。定訳としては社会的側面ですがわ
 (伊原)
 https://developers.google.com/search/docs/data-types/products#single-product-page
 を見るに、Product内にさらにoffersとaggregateRatingをネストしている、という事を言いたいのかなと思いました。
-が、ネスト＝入れ子と読むと違う意味にも読めそうなため、</note>
+が、ネスト＝入れ子と読むと違う意味にも読めそうであり、ソースの例示もあるので、単に「加えて」としてみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The rating and price (‘offer’) are defined using the nested “Offer” and “Aggregate Rating” vocabularies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T131742Z" creationid="yoota" creationdate="20170908T083833Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;評価と価格（オファー）は、それぞれ「AggregateRating」および「Offer」ボキャブラリーで定義しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T131834Z" creationid="yoota" creationdate="20170908T083833Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;評価と価格（オファー）は、それぞれ「AggregateRating」および「Offer」ボキャブラリーを加えて定義しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2541,7 +2542,9 @@ contextual informationをどう訳すか。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;You can &lt;g2&gt;&lt;g3&gt;test your structured data&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;25&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; with Google’s tool to make sure the properties are valid and applicable.</seg>
       </tuv>
@@ -4187,7 +4190,9 @@ andの強調をどうするか。
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>A full &lt;g3&gt;&lt;g4&gt;list of ISO currency codes is available on Wikipedia&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;24&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
@@ -10673,7 +10678,8 @@ http://www.w3.org/TR/CSS1/#length-units
 product の情報を表示する final product ですね。
 どうしたものか。
 原文と違いますが、結果と結果でだじゃれにしてみました。
-</note>
+
+(伊原) 結果ページは検索結果ページとしなくてよいでしょうか。だじゃれ感が減る？</note>
       <tuv lang="EN-US">
         <seg>In Google’s results pages, the final product (no pun intended) will look something like the following:</seg>
       </tuv>
