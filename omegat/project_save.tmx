@@ -1395,6 +1395,7 @@ JISではbypass block を「ブロックスキップ」としています。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 太田さん調整済み？OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Additional &lt;g2&gt;&lt;span&gt;&lt;/g2&gt;s are used to define the properties where necessary.</seg>
       </tuv>
@@ -20206,12 +20207,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(伊原) タイトルを正式なもの（謎）に修正。ラップして➞くくって</note>
       <tuv lang="EN-US">
         <seg>The name of the product is defined by wrapping the product’s title, “Naked Man In Garage Forecourt,” in a &lt;g3&gt;&lt;span&gt;&lt;/g3&gt; bearing &lt;g4&gt;itemprop="name"&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T100800Z" creationid="yoota" creationdate="20170908T083737Z">
-        <seg>商品名を定義するために、商品のタイトル「給油場の裸の男」を、&lt;g4&gt;itemprop="name"&lt;/g4&gt;を持つ&lt;g3&gt;&lt;span&gt;&lt;/g3&gt;でラップしています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T125903Z" creationid="yoota" creationdate="20170908T083737Z">
+        <seg>商品名を定義するために、商品のタイトル「ガソリンスタンドにたたずむ裸の男」を、&lt;g4&gt;itemprop="name"&lt;/g4&gt;を持つ&lt;g3&gt;&lt;span&gt;&lt;/g3&gt;でくくっています。</seg>
       </tuv>
     </tu>
     <tu>
