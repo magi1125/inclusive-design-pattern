@@ -10357,7 +10357,7 @@ https://github.com/rikiha/inclusive-design-pattern/commit/b3de996369b41d914699d3
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) pertinent を「即する」でいいか。どちらかというと「深く関係している」みたいな感じなのではないかと。調整しました。
+      <note>(伊原) pertinent を「即する」でいいか。どちらかというと「深く関係している」みたいな感じなのではないかと（語の意味の「適切」は、適切な取り上げ方というニュアンスっぽい）。調整しました。
 http://ejje.weblio.jp/content/pertinent+to</note>
       <tuv lang="EN-US">
         <seg>How we marked up individual product components and how we grouped them together were both pertinent to inclusive design.</seg>
@@ -26453,11 +26453,12 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 提供を取り上げていないというのは変なので、取り組んでいないとしました。</note>
       <tuv lang="EN-US">
         <seg>What we’ve yet to address is providing the tools for users to reorganize and sort lists of content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223226Z" creationid="rikiha" creationdate="20170909T223226Z">
-        <seg>まだ取り上げていないのは、ユーザーがコンテンツリストの再編成や並び替えを行えるようにするツールの提供です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T235534Z" creationid="rikiha" creationdate="20170909T223226Z">
+        <seg>まだ取り組んでいないのは、ユーザーがコンテンツリストの再編成や並び替えを行えるようにするツールの提供です。</seg>
       </tuv>
     </tu>
     <tu>
