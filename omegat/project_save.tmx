@@ -16,6 +16,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>(&lt;g1&gt;Note:&lt;/g1&gt; IE10 and IE11 have an unpleasant bug whereby the children of focusable items within a flex container can become focusable themselves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224113Z" creationid="rikiha" creationdate="20170909T224108Z">
+        <seg>（注：IE10とIE11には不快なバグがあり、flexコンテナ内のフォーカス可能な項目の子自体がフォーカス可能になる場合があります。これは便利なa11y.jsライブラリで修正できます。）（脚注170）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 語順を調整。
 
 (岡本)
@@ -362,6 +370,14 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;A hidden live region announces, “Loading more products.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223941Z" creationid="rikiha" creationdate="20170909T223941Z">
+        <seg>3.非表示のライブリージョンが「＃＃商品をさらに読み込み中＃＃」と読み上げる。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ラフな感じなので、記録➞メモ。
 
 (太田) OK</note>
@@ -381,6 +397,14 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T223234Z" creationid="rikiha" creationdate="20170828T141803Z">
         <seg>3.なじみやすさを念頭に置いてデザインする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Focus is moved from the button to the first of the newly loaded product items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223945Z" creationid="rikiha" creationdate="20170909T223945Z">
+        <seg>7.フォーカスがボタンから新たに読み込まれた1番目の商品に移動する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +454,30 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Just don’t implement infinite scrolling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223832Z" creationid="rikiha" creationdate="20170909T223832Z">
+        <seg>1.無限スクロールを実装しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;No, really, just don’t implement infinite scrolling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223838Z" creationid="rikiha" creationdate="20170909T223838Z">
+        <seg>3.とにかく無限スクロールを実装しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;On success, the content is rendered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223943Z" creationid="rikiha" creationdate="20170909T223943Z">
+        <seg>5.成功すると、コンテンツが表示される。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 少し調整
 
 (太田)
@@ -476,6 +524,22 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Replace automatic infinite scrolling with a “Load more results…” button or link that explicitly invites the user to add more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223833Z" creationid="rikiha" creationdate="20170909T223833Z">
+        <seg>2.自動の無限スクロールの代わりに、「結果をもっと読み込む…」ボタン、または、もっと表示するようユーザーに明示的に勧めるリンクを実装する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The XHR is handled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223942Z" creationid="rikiha" creationdate="20170909T223942Z">
+        <seg>4.XHRが処理される。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) 
@@ -488,6 +552,14 @@ Theを重視するなら「テスト対象の」と補うのもありか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170830T023442Z" creationid="rikiha" creationdate="20170827T120017Z">
         <seg>テスト対象のアプリケーション。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The button’s text is changed to “Loading:” and is set to handle no further clicks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223939Z" creationid="rikiha" creationdate="20170909T223939Z">
+        <seg>2.ボタンのテキストが「読み込み中」に代わり、それ以上クリックを受け付けないよう設定される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,6 +586,14 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The live region announces, “Products loaded.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223944Z" creationid="rikiha" creationdate="20170909T223944Z">
+        <seg>6.ライブリージョンが「＃＃商品が読み込まれました＃＃」と読み上げる。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) OK
@@ -524,6 +604,14 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170831T033709Z" creationid="rikiha" creationdate="20170827T120014Z">
         <seg>コンピューター役をする人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The user clicks the “Load more” button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223938Z" creationid="rikiha" creationdate="20170909T223938Z">
+        <seg>1.ユーザーが「もっと読み込む」ボタンをクリックする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +626,14 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The “Load more” button has its original text node reinstated and &lt;g2&gt;click&lt;/g2&gt; events are handled again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223946Z" creationid="rikiha" creationdate="20170909T223946Z">
+        <seg>8.「もっと読み込む」ボタンが元のテキストノードに戻り、clickイベントがまた処理される。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田)
@@ -548,6 +644,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170906T162943Z" creationid="rikiha" creationdate="20170905T004351Z">
         <seg>&lt;/g1&gt;この構造は一部のスクリーンリーダーで予期せぬ動作を引き起こします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g109&gt;&lt;g110&gt;&lt;g111&gt;&lt;/&lt;/g111&gt;dl&lt;/g110&gt;&lt;g112&gt;&gt;&lt;/g112&gt;&lt;/g109&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223930Z" creationid="rikiha" creationdate="20170909T223930Z">
+        <seg>&lt;dl&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -652,6 +756,14 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;&lt;&lt;/g13&gt;li&lt;/g12&gt;&lt;g14&gt;&gt;&lt;/g14&gt;&lt;/g11&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223841Z" creationid="rikiha" creationdate="20170909T223841Z">
+        <seg>&lt;li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)
 下訳：&lt;!-- ここに購買ウィジェット --&gt;</note>
       <tuv lang="EN-US">
@@ -713,6 +825,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170906T153732Z" creationid="rikiha" creationdate="20170906T153732Z">
         <seg>&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;&lt;/g15&gt;h3&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g13&gt;ガソリンスタンドにたたずむ裸の男&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;/&lt;/g19&gt;h3&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;&lt;&lt;/g16&gt;a&lt;/g15&gt; &lt;g17&gt;href&lt;/g17&gt;&lt;g18&gt;&lt;g19&gt;=&lt;/g19&gt;"/artist/kenny-mulbarton"&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g14&gt;by &lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;&lt;/g23&gt;cite&lt;/g22&gt;&lt;g24&gt;&gt;&lt;/g24&gt;&lt;/g21&gt;Kenny Mulbarton&lt;g25&gt;&lt;g26&gt;&lt;g27&gt;&lt;/&lt;/g27&gt;cite&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g25&gt;&lt;g29&gt;&lt;g30&gt;&lt;g31&gt;&lt;/&lt;/g31&gt;a&lt;/g30&gt;&lt;g32&gt;&gt;&lt;/g32&gt;&lt;/g29&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223921Z" creationid="rikiha" creationdate="20170909T223921Z">
+        <seg>&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;&lt;/g15&gt;a&lt;/g14&gt; &lt;g16&gt;href&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"/artist/kenny-mulbarton"&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g13&gt;by &lt;g20&gt;&lt;g21&gt;&lt;g22&gt;&lt;&lt;/g22&gt;cite&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g20&gt;ケニー・マルバートン&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;/&lt;/g26&gt;cite&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;&lt;g28&gt;&lt;g29&gt;&lt;g30&gt;&lt;/&lt;/g30&gt;a&lt;/g29&gt;&lt;g31&gt;&gt;&lt;/g31&gt;&lt;/g28&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -784,6 +904,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g178&gt;&lt;g179&gt;&lt;g180&gt;&lt;/&lt;/g180&gt;label&lt;/g179&gt;&lt;g181&gt;&gt;&lt;/g181&gt;&lt;/g178&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224019Z" creationid="rikiha" creationdate="20170909T224019Z">
+        <seg>ラベルづけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;h2&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g17&gt;In Seven Simple Steps&lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;/&lt;/g23&gt;h2&lt;/g22&gt;&lt;g24&gt;&gt;&lt;/g24&gt;&lt;/g21&gt; &lt;g25&gt;&lt;!-- this should not be a heading --&gt;&lt;/g25&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T100838Z" creationid="yoota" creationdate="20170523T093820Z">
@@ -800,10 +928,26 @@ Kenny Mulbarton→ケニー・マルバートン</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223941Z" creationid="rikiha" creationdate="20170909T223941Z">
+        <seg>クリックをキャッチし、読み込みステートが検知されているかどうかreturnする（たとえば、ボタンのtextContent内の「読み込み中」を探す）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;37.&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip.html&lt;/g3&gt;&lt;/g2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170613T075142Z" creationid="yoota" creationdate="20170613T075142Z">
         <seg>n&lt;g1&gt;37.&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip.html&lt;/g3&gt;&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;.content &lt;/g2&gt;&lt;g3&gt;{&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224124Z" creationid="rikiha" creationdate="20170909T224124Z">
+        <seg>&lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;&lt;/g14&gt;h2&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g12&gt;目次&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;/&lt;/g18&gt;h2&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1009,6 +1153,14 @@ https://en.wikipedia.org/wiki/Flapjack_(oat_bar)
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;html&lt;/g3&gt; &lt;g5&gt;lang&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"ar"&lt;/g6&gt; &lt;g8&gt;dir&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"rtl"&lt;/g9&gt;&lt;g11&gt;&gt;&lt;/g11&gt;&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224122Z" creationid="rikiha" creationdate="20170909T224122Z">
+        <seg>&lt;html lang="ar" dir="rtl"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 (伊原) LGTM</note>
       <tuv lang="EN-US">
@@ -1016,6 +1168,14 @@ https://en.wikipedia.org/wiki/Flapjack_(oat_bar)
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T054452Z" creationid="yoota" creationdate="20170426T054452Z">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;html&lt;/g3&gt; &lt;g5&gt;lang&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"en"&lt;/g6&gt;&lt;/g2&gt; &lt;g8&gt;&lt;!-- 言語を英語に設定 --&gt;&lt;/g8&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;li&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223840Z" creationid="rikiha" creationdate="20170909T223840Z">
+        <seg>&lt;li&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,6 +1454,22 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Choice&lt;/g2&gt;: Allowing the user to decide how they want to consume something.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224004Z" creationid="rikiha" creationdate="20170909T224004Z">
+        <seg>•選択：何かをどのように利用したいかをユーザーに決めさせる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Convention&lt;/g2&gt;: Using widely adopted patterns, motifs or language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224002Z" creationid="rikiha" creationdate="20170909T224002Z">
+        <seg>•慣習：広く採用されているパターン、モチーフ、言葉を使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Footer&lt;/g2&gt;</seg>
@@ -1384,6 +1560,14 @@ iterateは「試行錯誤」推しでいきたいと思いましたがどうで�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170728T032750Z" creationid="rikiha" creationdate="20170727T134705Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-describedby&lt;/g2&gt;は&lt;g3&gt;リレーションシップ属性&lt;/g3&gt;であり、説明される側の要素と説明する側の要素を&lt;g4&gt;id&lt;/g4&gt;で関連づけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-wrap&lt;/g2&gt; is switched on so items will wrap to the next row when there is not enough room to fit them alongside other items greater than 10em in width.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224043Z" creationid="rikiha" creationdate="20170909T224043Z">
+        <seg>•幅が10emより大きい他の項目の横に並べて収める十分なスペースがない場合に、項目が次の行に折り返すよう、flex-wrapをオンにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1697,6 +1881,14 @@ OK
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Focusing the selected display option radio button would announce the &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; first, then the &lt;g3&gt;&lt;label&gt;&lt;/g3&gt; and additional information in screen readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224022Z" creationid="rikiha" creationdate="20170909T224022Z">
+        <seg>•選択した表示オプションのradioボタンをフォーカスすると、スクリーンリーダーでは、まず&lt;legend&gt;が読み上げられ、次に&lt;label&gt;とその他の情報が読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;For app notifications, you would need to style and display the live region’s contents so that it doubled as a visual message.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T223737Z" creationid="rikiha" creationdate="20170909T223737Z">
@@ -1909,6 +2101,14 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T104021Z" creationid="yoota" creationdate="20170511T104021Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;アクセシブルな情報をユーザーに提供する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;I’ve changed the submit button label from “sort” to “apply” so that it &lt;g2&gt;applies&lt;/g2&gt; to both settings, if you’ll excuse the wordplay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224023Z" creationid="rikiha" creationdate="20170909T224023Z">
+        <seg>•並び替えと表示設定の両方に当てはまるよう、submitボタンのラベルを「並び替え」から「適用」に変更しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2300,6 +2500,38 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-basis&lt;/g2&gt; value is key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224039Z" creationid="rikiha" creationdate="20170909T224039Z">
+        <seg>•flex-basis値が重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-basis&lt;/g2&gt; value is set in ems so that it is relative to font size.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224040Z" creationid="rikiha" creationdate="20170909T224040Z">
+        <seg>•フォントサイズと相対的になるよう、flex-basis値はemsで設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-grow&lt;/g2&gt; value of &lt;g3&gt;1&lt;/g3&gt; means items will grow beyond the 10em width to fill the available space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224042Z" creationid="rikiha" creationdate="20170909T224042Z">
+        <seg>•flex-grow値が1というのは、項目の幅が10em以上になって利用可能なスペースを埋めることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-shrink&lt;/g2&gt; value of &lt;g3&gt;1&lt;/g3&gt; (can be omitted, in fact, because it’s the default) ensures items will shrink if needed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224042Z" creationid="rikiha" creationdate="20170909T224042Z">
+        <seg>•flex-shrink値が1（デフォルトなので省略可能）というのは、必要に応じて項目の幅が狭くなることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 元訳は微妙に誤訳かも。
 調整しました。
@@ -2383,6 +2615,14 @@ social dimension どうするか。定訳としては社会的側面ですがわ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170906T094246Z" creationid="rikiha" creationdate="20170828T141623Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;サンドラが求めている機能（社会的側面およびテキストによる説明）は、目が不自由&lt;g2&gt;である&lt;/g2&gt;という理由で彼女や他の視覚障害者を排除するようなものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The list and grid icons are provided as inline SVGs, with visually hidden &lt;g2&gt;&lt;text&gt;&lt;/g2&gt; elements providing each radio button’s screen reader accessible label text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224021Z" creationid="rikiha" creationdate="20170909T224021Z">
+        <seg>•リストとグリッドのアイコンはインラインSVGとして提供され、非表示の&lt;text&gt;要素が、スクリーンリーダーでアクセスできる、各radioボタンのラベルテキストを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2493,6 +2733,14 @@ http://adrianroselli.com/2015/10/dont-disable-zoom.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The “Display as” functionality is in its own &lt;g2&gt;&lt;fieldset&gt;&lt;/g2&gt; to demarcate it from the principal filtering options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224021Z" creationid="rikiha" creationdate="20170909T224021Z">
+        <seg>•「表示方法」の機能は、主要なフィルタオブションと区別するために、独立した&lt;fieldset&gt;の中にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) こちらの括弧は引用元にも存在します。
 quirkはネガティブイメージの言葉ですが、後方互換としてしまうとネガティブな感じがしません。引用元を見ると iOS9 でズームがおかしくなる話のようで、ブラウザのQuirksモードを指しているわけでもないようです。ということで、ここは「奇妙なふるまい」くらいで良いように思います。
 「(つまりはバグ) 」の意味がわかりにくいですが、Quirk もバグだと言っているので、「これも要するにバグ」くらいでしょうか。
@@ -2570,6 +2818,22 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170904T064920Z" creationid="rikiha" creationdate="20170828T141917Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;ユーザーエージェントのスタイル定義は、&lt;g2&gt;&lt;dd&gt;&lt;/g2&gt;要素をインデントしてリスト化します。つまり、著者側のCSSがない場合は視覚的に階層が示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Users encountering different circumstances.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223957Z" creationid="rikiha" creationdate="20170909T223957Z">
+        <seg>•ユーザーはさまざまな環境や状況に直面する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Users having different preferences.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223957Z" creationid="rikiha" creationdate="20170909T223957Z">
+        <seg>•ユーザーの好みはさまざまである。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2794,6 +3058,14 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g237&gt;&lt;g238&gt;&lt;g239&gt;&lt;/&lt;/g239&gt;label&lt;/g238&gt;&lt;g240&gt;&gt;&lt;/g240&gt;&lt;/g237&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224020Z" creationid="rikiha" creationdate="20170909T224020Z">
+        <seg>ラベルづけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g24&gt;&lt;!-- third article’s content here --&gt;&lt;/g24&gt;
 &lt;g25&gt;&lt;g26&gt;&lt;g27&gt;&lt;/&lt;/g27&gt;article&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g25&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -2959,6 +3231,14 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g37&gt;&lt;g38&gt;&lt;g39&gt;&lt;&lt;/g39&gt;img&lt;/g38&gt; &lt;g40&gt;src&lt;/g40&gt;&lt;g41&gt;&lt;g42&gt;=&lt;/g42&gt;"/images/naked-forecourt-man.jpg"&lt;/g41&gt; &lt;g43&gt;alt&lt;/g43&gt;&lt;g44&gt;&lt;g45&gt;=&lt;/g45&gt;"high contrast black and white image of a naked man nonchalantly leaning against a petrol pump."&lt;/g44&gt; &lt;g46&gt;/&gt;&lt;/g46&gt;&lt;/g37&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223924Z" creationid="rikiha" creationdate="20170909T223924Z">
+        <seg>&lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;&lt;/g23&gt;img&lt;/g22&gt; &lt;g24&gt;src&lt;/g24&gt;&lt;g25&gt;&lt;g26&gt;=&lt;/g26&gt;"/images/naked-forecourt-man.jpg"&lt;/g25&gt; &lt;g27&gt;alt&lt;/g27&gt;&lt;g28&gt;&lt;g29&gt;=&lt;/g29&gt;"裸の男性が何食わぬ顔で給油ポンプにもたれかかっている、ハイコントラストの白黒写真。"&lt;/g28&gt; &lt;g30&gt;/&gt;&lt;/g30&gt;&lt;/g21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ここも訳す感じで。「アイコンの幅」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g37&gt;text-indent&lt;/g37&gt;&lt;g38&gt;:&lt;/g38&gt; 1em&lt;g39&gt;;&lt;/g39&gt; &lt;g40&gt;/* the width of the icon */&lt;/g40&gt;
@@ -3023,6 +3303,14 @@ Size:　→サイズ：</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134623Z" creationid="rikiha" creationdate="20170809T134623Z">
         <seg>&lt;g46&gt;&lt;g47&gt;&lt;g48&gt;&lt;&lt;/g48&gt;li&lt;/g47&gt;&lt;g49&gt;&gt;&lt;/g49&gt;&lt;/g46&gt;&lt;g50&gt;&lt;g51&gt;&lt;g52&gt;&lt;&lt;/g52&gt;a&lt;/g51&gt; &lt;g53&gt;href&lt;/g53&gt;&lt;g54&gt;&lt;g55&gt;=&lt;/g55&gt;"#services"&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g50&gt;業務内容&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;a&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;&lt;g61&gt;&lt;g62&gt;&lt;g63&gt;&lt;/&lt;/g63&gt;li&lt;/g62&gt;&lt;g64&gt;&gt;&lt;/g64&gt;&lt;/g61&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g47&gt;&lt;g48&gt;&lt;g49&gt;&lt;&lt;/g49&gt;dl&lt;/g48&gt;&lt;g50&gt;&gt;&lt;/g50&gt;&lt;/g47&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223925Z" creationid="rikiha" creationdate="20170909T223925Z">
+        <seg>&lt;dl&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3159,6 +3447,14 @@ Size:　→サイズ：</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g51&gt;&lt;g52&gt;&lt;g53&gt;&lt;&lt;/g53&gt;dt&lt;/g52&gt;&lt;g54&gt;&gt;&lt;/g54&gt;&lt;/g51&gt;Size:&lt;g55&gt;&lt;g56&gt;&lt;g57&gt;&lt;/&lt;/g57&gt;dt&lt;/g56&gt;&lt;g58&gt;&gt;&lt;/g58&gt;&lt;/g55&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223926Z" creationid="rikiha" creationdate="20170909T223926Z">
+        <seg>&lt;g50&gt;&lt;g51&gt;&lt;g52&gt;&lt;&lt;/g52&gt;dt&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g50&gt;サイズ:&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;/&lt;/g56&gt;dt&lt;/g55&gt;&lt;g57&gt;&gt;&lt;/g57&gt;&lt;/g54&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g51&gt;&lt;g52&gt;&lt;g53&gt;&lt;&lt;/g53&gt;img&lt;/g52&gt; &lt;g54&gt;itemprop&lt;/g54&gt;&lt;g55&gt;&lt;g56&gt;=&lt;/g56&gt;"image"&lt;/g55&gt; &lt;g57&gt;src&lt;/g57&gt;&lt;g58&gt;&lt;g59&gt;=&lt;/g59&gt;"/images/naked-forecourt-man.jpg"&lt;/g58&gt; &lt;g60&gt;alt&lt;/g60&gt;&lt;g61&gt;&lt;g62&gt;=&lt;/g62&gt;"High-contrast black and white image of a naked man nonchalantly leaning against a petrol pump."&lt;/g61&gt; &lt;g63&gt;/&gt;&lt;/g63&gt;&lt;/g51&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T083313Z" creationid="yoota" creationdate="20170908T083313Z">
@@ -3214,6 +3510,14 @@ Price:　→価格：</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134335Z" creationid="rikiha" creationdate="20170809T134335Z">
         <seg>&lt;g58&gt;&lt;g59&gt;&lt;g60&gt;&lt;&lt;/g60&gt;li&lt;/g59&gt;&lt;g61&gt;&gt;&lt;/g61&gt;&lt;/g58&gt;&lt;g62&gt;&lt;g63&gt;&lt;g64&gt;&lt;&lt;/g64&gt;a&lt;/g63&gt; &lt;g65&gt;href&lt;/g65&gt;&lt;g66&gt;&lt;g67&gt;=&lt;/g67&gt;"/products"&lt;/g66&gt;&lt;g68&gt;&gt;&lt;/g68&gt;&lt;/g62&gt;製品情報&lt;g69&gt;&lt;g70&gt;&lt;g71&gt;&lt;/&lt;/g71&gt;a&lt;/g70&gt;&lt;g72&gt;&gt;&lt;/g72&gt;&lt;/g69&gt;&lt;g73&gt;&lt;g74&gt;&lt;g75&gt;&lt;/&lt;/g75&gt;li&lt;/g74&gt;&lt;g76&gt;&gt;&lt;/g76&gt;&lt;/g73&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g59&gt;&lt;g60&gt;&lt;g61&gt;&lt;&lt;/g61&gt;dd&lt;/g60&gt;&lt;g62&gt;&gt;&lt;/g62&gt;&lt;/g59&gt;30cm × 90cm&lt;g63&gt;&lt;g64&gt;&lt;g65&gt;&lt;/&lt;/g65&gt;dd&lt;/g64&gt;&lt;g66&gt;&gt;&lt;/g66&gt;&lt;/g63&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223926Z" creationid="rikiha" creationdate="20170909T223926Z">
+        <seg>&lt;g59&gt;&lt;g60&gt;&lt;g61&gt;&lt;&lt;/g61&gt;dd&lt;/g60&gt;&lt;g62&gt;&gt;&lt;/g62&gt;&lt;/g59&gt;35.95ユーロ&lt;g63&gt;&lt;g64&gt;&lt;g65&gt;&lt;/&lt;/g65&gt;dd&lt;/g64&gt;&lt;g66&gt;&gt;&lt;/g66&gt;&lt;/g63&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3292,6 +3596,14 @@ Price:　→価格：</note>
         <seg>&lt;g66&gt;&lt;g67&gt;&lt;g68&gt;&lt;&lt;/g68&gt;dt&lt;/g67&gt;&lt;g69&gt;&gt;&lt;/g69&gt;&lt;/g66&gt;Price:&lt;g70&gt;&lt;g71&gt;&lt;g72&gt;&lt;/&lt;/g72&gt;dt&lt;/g71&gt;&lt;g73&gt;&gt;&lt;/g73&gt;&lt;/g70&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T081244Z" creationid="yoota" creationdate="20170908T081244Z">
+        <seg>&lt;g66&gt;&lt;g67&gt;&lt;g68&gt;&lt;&lt;/g68&gt;dt&lt;/g67&gt;&lt;g69&gt;&gt;&lt;/g69&gt;&lt;/g66&gt;価格:&lt;g70&gt;&lt;g71&gt;&lt;g72&gt;&lt;/&lt;/g72&gt;dt&lt;/g71&gt;&lt;g73&gt;&gt;&lt;/g73&gt;&lt;/g70&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g67&gt;&lt;g68&gt;&lt;g69&gt;&lt;&lt;/g69&gt;dt&lt;/g68&gt;&lt;g70&gt;&gt;&lt;/g70&gt;&lt;/g67&gt;Price:&lt;g71&gt;&lt;g72&gt;&lt;g73&gt;&lt;/&lt;/g73&gt;dt&lt;/g72&gt;&lt;g74&gt;&gt;&lt;/g74&gt;&lt;/g71&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223927Z" creationid="rikiha" creationdate="20170909T223927Z">
         <seg>&lt;g66&gt;&lt;g67&gt;&lt;g68&gt;&lt;&lt;/g68&gt;dt&lt;/g67&gt;&lt;g69&gt;&gt;&lt;/g69&gt;&lt;/g66&gt;価格:&lt;g70&gt;&lt;g71&gt;&lt;g72&gt;&lt;/&lt;/g72&gt;dt&lt;/g71&gt;&lt;g73&gt;&gt;&lt;/g73&gt;&lt;/g70&gt;</seg>
       </tuv>
     </tu>
@@ -3409,6 +3721,14 @@ Price:　→価格：</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g75&gt;&lt;g76&gt;&lt;g77&gt;&lt;&lt;/g77&gt;dd&lt;/g76&gt;&lt;g78&gt;&gt;&lt;/g78&gt;&lt;/g75&gt;€35.95&lt;g79&gt;&lt;g80&gt;&lt;g81&gt;&lt;/&lt;/g81&gt;dd&lt;/g80&gt;&lt;g82&gt;&gt;&lt;/g82&gt;&lt;/g79&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223927Z" creationid="rikiha" creationdate="20170909T223927Z">
+        <seg>&lt;g59&gt;&lt;g60&gt;&lt;g61&gt;&lt;&lt;/g61&gt;dd&lt;/g60&gt;&lt;g62&gt;&gt;&lt;/g62&gt;&lt;/g59&gt;35.95ユーロ&lt;g63&gt;&lt;g64&gt;&lt;g65&gt;&lt;/&lt;/g65&gt;dd&lt;/g64&gt;&lt;g66&gt;&gt;&lt;/g66&gt;&lt;/g63&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g76&gt;&lt;g77&gt;&lt;g78&gt;&lt;&lt;/g78&gt;li&lt;/g77&gt;&lt;g79&gt;&gt;&lt;/g79&gt;&lt;/g76&gt;&lt;g80&gt;&lt;g81&gt;&lt;g82&gt;&lt;&lt;/g82&gt;a&lt;/g81&gt; &lt;g83&gt;href&lt;/g83&gt;&lt;g84&gt;&lt;g85&gt;=&lt;/g85&gt;"/products"&lt;/g84&gt;&lt;g86&gt;&gt;&lt;/g86&gt;&lt;/g80&gt;products&lt;g87&gt;&lt;g88&gt;&lt;g89&gt;&lt;/&lt;/g89&gt;a&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g87&gt;&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;/&lt;/g93&gt;li&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134304Z" creationid="rikiha" creationdate="20170809T134304Z">
@@ -3449,6 +3769,14 @@ Price:　→価格：</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170905T091108Z" creationid="yoota" creationdate="20170905T091108Z">
         <seg>&lt;g79&gt;&lt;g80&gt;&lt;g81&gt;&lt;&lt;/g81&gt;dt&lt;/g80&gt;&lt;g82&gt;&gt;&lt;/g82&gt;&lt;/g79&gt;評価:&lt;g83&gt;&lt;g84&gt;&lt;g85&gt;&lt;/&lt;/g85&gt;dt&lt;/g84&gt;&lt;g86&gt;&gt;&lt;/g86&gt;&lt;/g83&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;&lt;/&lt;/g9&gt;li&lt;/g8&gt;&lt;g10&gt;&gt;&lt;/g10&gt;&lt;/g7&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223841Z" creationid="rikiha" creationdate="20170909T223841Z">
+        <seg>&lt;li&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3497,6 +3825,14 @@ Price:　→価格：</note>
       <tuv lang="JA" changeid="yoota" changedate="20170515T101705Z" creationid="yoota" creationdate="20170515T101705Z">
         <seg>&lt;g83&gt;&lt;!-- ここに記事のコンテンツ --&gt;&lt;/g83&gt;
 &lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;/&lt;/g86&gt;main&lt;/g85&gt;&lt;g87&gt;&gt;&lt;/g87&gt;&lt;/g84&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g83&gt;&lt;g84&gt;&lt;g85&gt;&lt;&lt;/g85&gt;dt&lt;/g84&gt;&lt;g86&gt;&gt;&lt;/g86&gt;&lt;/g83&gt;Rating:&lt;g87&gt;&lt;g88&gt;&lt;g89&gt;&lt;/&lt;/g89&gt;dt&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g87&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223928Z" creationid="rikiha" creationdate="20170909T223928Z">
+        <seg>&lt;g82&gt;&lt;g83&gt;&lt;g84&gt;&lt;&lt;/g84&gt;dt&lt;/g83&gt;&lt;g85&gt;&gt;&lt;/g85&gt;&lt;/g82&gt;評価:&lt;g86&gt;&lt;g87&gt;&lt;g88&gt;&lt;/&lt;/g88&gt;dt&lt;/g87&gt;&lt;g89&gt;&gt;&lt;/g89&gt;&lt;/g86&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3560,6 +3896,14 @@ Price:　→価格：</note>
         <seg>&lt;g90&gt;&lt;g91&gt;&lt;g92&gt;&lt;&lt;/g92&gt;dd&lt;/g91&gt;&lt;g93&gt;&gt;&lt;/g93&gt;&lt;/g90&gt;&lt;g94&gt;&lt;g95&gt;&lt;g96&gt;&lt;&lt;/g96&gt;img&lt;/g95&gt; &lt;g97&gt;src&lt;/g97&gt;&lt;g98&gt;&lt;g99&gt;=&lt;/g99&gt;"/images/rating_4_5.svg"&lt;/g98&gt; &lt;g100&gt;alt&lt;/g100&gt;&lt;g101&gt;&lt;g102&gt;=&lt;/g102&gt;""&lt;/g101&gt;&lt;g103&gt;&gt;&lt;/g103&gt;&lt;/g94&gt;4 out of 5 stars&lt;g104&gt;&lt;g105&gt;&lt;g106&gt;&lt;/&lt;/g106&gt;dd&lt;/g105&gt;&lt;g107&gt;&gt;&lt;/g107&gt;&lt;/g104&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T081326Z" creationid="yoota" creationdate="20170908T081326Z">
+        <seg>&lt;g90&gt;&lt;g91&gt;&lt;g92&gt;&lt;&lt;/g92&gt;dd&lt;/g91&gt;&lt;g93&gt;&gt;&lt;/g93&gt;&lt;/g90&gt;&lt;g94&gt;&lt;g95&gt;&lt;g96&gt;&lt;&lt;/g96&gt;img&lt;/g95&gt; &lt;g97&gt;src&lt;/g97&gt;&lt;g98&gt;&lt;g99&gt;=&lt;/g99&gt;"/images/rating_4_5.svg"&lt;/g98&gt; &lt;g100&gt;alt&lt;/g100&gt;&lt;g101&gt;&lt;g102&gt;=&lt;/g102&gt;""&lt;/g101&gt;&lt;g103&gt;&gt;&lt;/g103&gt;&lt;/g94&gt;5つ星のうち 4&lt;g104&gt;&lt;g105&gt;&lt;g106&gt;&lt;/&lt;/g106&gt;dd&lt;/g105&gt;&lt;g107&gt;&gt;&lt;/g107&gt;&lt;/g104&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;&lt;/g93&gt;dd&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;&lt;g95&gt;&lt;g96&gt;&lt;g97&gt;&lt;&lt;/g97&gt;img&lt;/g96&gt; &lt;g98&gt;src&lt;/g98&gt;&lt;g99&gt;&lt;g100&gt;=&lt;/g100&gt;"/images/rating_4_5.svg"&lt;/g99&gt; &lt;g101&gt;alt&lt;/g101&gt;&lt;g102&gt;&lt;g103&gt;=&lt;/g103&gt;""&lt;/g102&gt;&lt;g104&gt;&gt;&lt;/g104&gt;&lt;/g95&gt;4 out of 5 stars&lt;g105&gt;&lt;g106&gt;&lt;g107&gt;&lt;/&lt;/g107&gt;dd&lt;/g106&gt;&lt;g108&gt;&gt;&lt;/g108&gt;&lt;/g105&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223928Z" creationid="rikiha" creationdate="20170909T223928Z">
         <seg>&lt;g90&gt;&lt;g91&gt;&lt;g92&gt;&lt;&lt;/g92&gt;dd&lt;/g91&gt;&lt;g93&gt;&gt;&lt;/g93&gt;&lt;/g90&gt;&lt;g94&gt;&lt;g95&gt;&lt;g96&gt;&lt;&lt;/g96&gt;img&lt;/g95&gt; &lt;g97&gt;src&lt;/g97&gt;&lt;g98&gt;&lt;g99&gt;=&lt;/g99&gt;"/images/rating_4_5.svg"&lt;/g98&gt; &lt;g100&gt;alt&lt;/g100&gt;&lt;g101&gt;&lt;g102&gt;=&lt;/g102&gt;""&lt;/g101&gt;&lt;g103&gt;&gt;&lt;/g103&gt;&lt;/g94&gt;5つ星のうち 4&lt;g104&gt;&lt;g105&gt;&lt;g106&gt;&lt;/&lt;/g106&gt;dd&lt;/g105&gt;&lt;g107&gt;&gt;&lt;/g107&gt;&lt;/g104&gt;</seg>
       </tuv>
     </tu>
@@ -3996,6 +4340,22 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170816T033029Z">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;よく見かける長方形のボックスは、そのグリフがサポートされておらず、フォールバックになっていることを示している。&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The submit button now reads “apply”: a broader action which relates to both the sorting and display settings.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224012Z" creationid="rikiha" creationdate="20170909T224012Z">
+        <seg>表示方法submitボタンは、並び替えにも表示設定にも当てはまる、広義のアクション「適用」にしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The “Load more” button in its initial state (left) and after being pressed (right).&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223950Z" creationid="rikiha" creationdate="20170909T223950Z">
+        <seg>「もっと読み込む」ボタンの初期状態（左）と押された後の状態（右）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4448,6 +4808,14 @@ heading shortcutは「見出しジャンプ」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A list is a simple format, but necessarily longer vertically; a grid gives a better overview but compresses more information into the viewport at once.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224007Z" creationid="rikiha" creationdate="20170909T224007Z">
+        <seg>リスト形式はシンプルですが、どうしても縦に長くなります。グリッドはリストよりも全体を見渡すことができますが、一度により多くの情報をビューポートに詰め込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (伊原) 画像に書かれているテキストを補いつつ調整。
@@ -4598,6 +4966,14 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A press of the &lt;g7&gt;Tab&lt;/g7&gt; key will take them to the artist link, and another press to the “Buy now” link.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223917Z" creationid="rikiha" creationdate="20170909T223917Z">
+        <seg>Tabキーを押すとアーティストのリンクに移動し、もう一回押すと「今すぐ購入」リンクに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A print designer’s domain is purely visual, confined to predictable and predetermined spaces, using agreed materials and consistently reproducible resolutions and colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085206Z" creationid="okamoto_jun" creationdate="20170627T085206Z">
@@ -4661,6 +5037,14 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170815T032620Z" creationid="rikiha" creationdate="20170811T133114Z">
         <seg>スマイリーの顔文字の横に、さまざまな言語による「ハッピー」という意味の言葉が並んでいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A smooth scrolling action could be used here, as described in “Navigation Regions.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223945Z" creationid="rikiha" creationdate="20170909T223945Z">
+        <seg>「＃＃Navigation Regions＃＃」で説明したように、ここでスムーズスクロールアクションを使用することもできる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4915,6 +5299,14 @@ HTMLがないとCSSやJSだけでは成立しないという話。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the new content is rendered, it’s important that keyboard focus is moved from the &lt;g1&gt;data-load-more&lt;/g1&gt; button to the first of the newly loaded items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223842Z" creationid="rikiha" creationdate="20170909T223842Z">
+        <seg>新しいコンテンツが表示された後は、キーボードフォーカスがdata-load-moreボタンから、新たに読み込まれた最初の項目に移動することが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the sort button is pressed, we can populate a live region with the message, “Please wait.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T223708Z" creationid="rikiha" creationdate="20170909T223708Z">
@@ -4958,6 +5350,14 @@ listenは「監視」としてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170822T083354Z" creationid="rikiha" creationdate="20170819T005228Z">
         <seg>一般的なスクリーンリーダーは変更を監視し、変更があればその都度バッファ（アクセシビリティツリーを元に、DOMをプログラム内部で処理できるようにしたもの）を更新します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All that’s left is to ensure the content remains readable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224046Z" creationid="rikiha" creationdate="20170909T224046Z">
+        <seg>後は、コンテンツの読みやすさを確保するだけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5175,6 +5575,14 @@ App by (c)heydonworks＝まま</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>An audacious act, and foolhardy given the inevitable diversity of your audience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224000Z" creationid="rikiha" creationdate="20170909T224000Z">
+        <seg>これは厚かましい行為で、閲覧者の必然的な多様性を考えると無謀とも言えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 Custom Elements v1を使えるならもっと簡単に書ける、という話をしているはず。わかりにくいので2文に分けてみました。
 
@@ -5189,6 +5597,14 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>An effective course here is to switch focus to the title (&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;) of the first newly returned product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223907Z" creationid="rikiha" creationdate="20170909T223907Z">
+        <seg>ここでの効果的な方法は、新たに表示された最初の商品のタイトル（）にフォーカスを切り替えることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「コードやフォーマットについて考えさせたり、作業させたり」は若干不正確になりますが「フォーマットを考えたり、コードを書いたり」としました。
 
 (伊原) LGTM</note>
@@ -5197,6 +5613,14 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T103639Z" creationid="yoota" creationdate="20170511T103143Z">
         <seg>インクルーシブな編集システムを整備して、編集者がフォーマットを考えたり、コードを書いたりしないで済むようにする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An international audience is a big step for inclusion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224121Z" creationid="rikiha" creationdate="20170909T224121Z">
+        <seg>海外の閲覧者はインクルージョンにとって大きな一歩です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5460,6 +5884,14 @@ svg要素の中のstyle要素でスタイルを指定するとSVG対応ブラウ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As &lt;g1&gt;&lt;g2&gt;Derek Featherstone writes&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;14&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, infinite scrolling is also a frustrating experience for keyboard users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223829Z" creationid="rikiha" creationdate="20170909T223829Z">
+        <seg>デレク・フェザーストン（Derek Featherstone）が書いているように（脚注169）、無限スクロールはキーボードユーザーにとってもストレスのたまる体験です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 若干調整。アセットでわかるかな、どうかなといったところ。
 
 (太田)
@@ -5565,6 +5997,14 @@ svg要素の中のstyle要素でスタイルを指定するとSVG対応ブラウ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T053621Z" creationid="yoota" creationdate="20170719T093344Z">
         <seg>スティーブ・フォルクナーが「&lt;g1&gt;&lt;g2&gt;Some stuff that doesn’t work between the DOM and Shadow DOM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注84）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」で書いているように、Shadow Boundaryは、&lt;g6&gt;aria-labelledby&lt;/g6&gt;、&lt;g7&gt;aria-describedby&lt;/g7&gt;、&lt;g8&gt;aria-controls&lt;/g8&gt;などの属性で指定されたリレーションシップを分断してしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a mouse user, I might scroll the page by dragging the scrollbar’s handle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223827Z" creationid="rikiha" creationdate="20170909T223827Z">
+        <seg>マウスユーザーは、スクロールバーのハンドルをドラッグしてページをスクロールする場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5897,6 +6337,14 @@ https://www.noupe.com/design/10-beginner-tips-for-unique-product-photography-790
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As we established in the chapter “The Document,” it’s important to declare the language of a web page because this gets the most out of assistive technologies and translation tools.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224119Z" creationid="rikiha" creationdate="20170909T224119Z">
+        <seg>「ドキュメント」の章で確認したように、Webページの言語を宣言することが重要です。そうすれば支援技術と翻訳ツールを最大限に活用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注?
 
 (太田)
@@ -5969,6 +6417,14 @@ hone は砥石でとぐような意味。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170817T125712Z" creationid="rikiha" creationdate="20170812T161515Z">
         <seg>他のあらゆるWebフォントと同様、アイコンフォントも読み込みに失敗する可能性があるリソースです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As with choosing a filtering option, an XHR has to be handled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223935Z" creationid="rikiha" creationdate="20170909T223935Z">
+        <seg>フィルタオプションの選択と同様、XHRが処理されなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6730,6 +7186,14 @@ wordingはそのまま「ワーディング」もあり?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>But when we do, we can increase our confidence by deferring to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224001Z" creationid="rikiha" creationdate="20170909T224001Z">
+        <seg>しかしその場合も、以下の考え方に従えば、下す判断に対する自信を高めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ここのbut は逆接の「しかし」で良いように思います。</note>
       <tuv lang="EN-US">
         <seg>But who’s it for?</seg>
@@ -6797,6 +7261,15 @@ versus はそのまま vs としてもいいかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170906T081206Z" creationid="rikiha" creationdate="20170905T004154Z">
         <seg>ボタン vs &lt;g1&gt;ボタン&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buy &lt;g123&gt;&lt;g124&gt;&lt;g125&gt;&lt;&lt;/g125&gt;span&lt;/g124&gt; &lt;g126&gt;class&lt;/g126&gt;&lt;g127&gt;&lt;g128&gt;=&lt;/g128&gt;"visually-hidden"&lt;/g127&gt;&lt;g129&gt;&gt;&lt;/g129&gt;&lt;/g123&gt;Naked Man In Garage Forecourt&lt;g130&gt;&lt;g131&gt;&lt;g132&gt;&lt;/&lt;/g132&gt;span&lt;/g131&gt;&lt;g133&gt;&gt;&lt;/g133&gt;&lt;/g130&gt; Now</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223933Z" creationid="rikiha" creationdate="20170909T223933Z">
+        <seg>&lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;&lt;/g14&gt;span&lt;/g13&gt; &lt;g15&gt;class&lt;/g15&gt;&lt;g16&gt;&lt;g17&gt;=&lt;/g17&gt;"visually-hidden"&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g12&gt;ガソリンスタンドにたたずむ裸の男を&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;/&lt;/g21&gt;span&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;今すぐ購入
+&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;a&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7134,6 +7607,14 @@ segregateは隔離というより分離としたほうがしっくりくるか�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170830T025900Z" creationid="rikiha" creationdate="20170827T120025Z">
         <seg>ここに座ると、テストユーザーは観察されていることをあまり意識しなくなるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By switching on &lt;g2&gt;flex-grow&lt;/g2&gt; and &lt;g3&gt;flex-shrink&lt;/g3&gt;, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224034Z" creationid="rikiha" creationdate="20170909T224034Z">
+        <seg>flex-growとflex-shrinkをオンにすることによって、グリッド要素を展開したり折りたたむことができ、無限の範囲のビューポートで、この理想的で完全かつ順序正しいグリッドを維持することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7694,6 +8175,14 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Derek offers two solutions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223831Z" creationid="rikiha" creationdate="20170909T223831Z">
+        <seg>デレクは2つの解決策を提示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 前の書き方と合わせて、上を通る➞横切るとしました。</note>
       <tuv lang="EN-US">
         <seg>Descenders are not crossed thanks to a text shadow which protects the letterforms like a moat protects a castle.</seg>
@@ -7855,6 +8344,14 @@ https://momdo.github.io/html/interaction.html#sequential-focus-navigation
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Display Options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223952Z" creationid="rikiha" creationdate="20170909T223952Z">
+        <seg>表示オプション</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) theoretical は論理的というような意味ですが、まあなくても分かるのでとってしまってもいいかも。
 
 (伊原) LGTM</note>
@@ -7937,6 +8434,14 @@ draw onは経験を活かすような意味。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T223805Z" creationid="rikiha" creationdate="20170909T223805Z">
         <seg>矢印キーを押すと、隣接するradioボタンがフォーカスされるだけでなく、選択もされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each item will try to be 10em wide but will &lt;g3&gt;flex&lt;/g3&gt; to share the available space completely (see &lt;g4&gt;flex-grow&lt;/g4&gt; and &lt;g5&gt;flex-shrink&lt;/g5&gt; below).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224040Z" creationid="rikiha" creationdate="20170909T224040Z">
+        <seg>各項目は幅10emになろうとしますが、利用可能なスペースを余すことなく分かち合うよう伸縮します（下のflex-growとflex-shrinkの説明を参照）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8030,6 +8535,14 @@ Embraceは利用するで良いのか?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T035702Z" creationid="yoota" creationdate="20170426T035650Z">
         <seg>エンハンスメントは確かにすばらしいですが、それはその機能が本当に必要な場合の話です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensuring Acceptable Measure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224043Z" creationid="rikiha" creationdate="20170909T224043Z">
+        <seg>許容できるカラム幅を確保する</seg>
       </tuv>
     </tu>
     <tu>
@@ -8184,6 +8697,14 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170530T095154Z" creationid="rikiha" creationdate="20170530T095154Z">
         <seg>わりと読みやすい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Far better to load a smaller set of results, then retrieve more as and when the user needs them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223822Z" creationid="rikiha" creationdate="20170909T223822Z">
+        <seg>少なめの結果を読み込んで、ユーザーが必要とするときにもっと表示する方がはるかに優れています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8418,6 +8939,22 @@ the を訳出すべきか?
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170529T032458Z" creationid="rikiha" creationdate="20170529T032458Z">
         <seg>Flesch-Kincaid リーダビリティテスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flexbox works algorithmically, which is what makes it so powerful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224101Z" creationid="rikiha" creationdate="20170909T224101Z">
+        <seg>Flexboxはアルゴリズムで機能するので非常に強力です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Float-based CSS layouts are unaffected by this provision.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224123Z" creationid="rikiha" creationdate="20170909T224123Z">
+        <seg>FloatベースのCSSレイアウトは、この設定に影響を受けません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9609,6 +10146,14 @@ shape up のニュアンスを出したいかも?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Here’s the extended markup:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224014Z" creationid="rikiha" creationdate="20170909T224014Z">
+        <seg>こちらが拡張したマークアップです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) Here’s the thing: が訳から落ちています。
 utility is radical と言っているので逆かも。
 ここの radical はどういう意味か。急進的なのか、根本なのか。
@@ -9639,6 +10184,14 @@ http://www.dictionary.com/browse/radical
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170228T015024Z" creationid="rikiha" creationdate="20170228T015024Z">
         <seg>Heydo¥n clearly and comprehensively shows you how to use the web &lt;g1&gt;properly&lt;/g1&gt;; that is, how to take advantage of its built-in powers of reach, inclusivity and accessibility, so you don’t lock out any potential customer or visitor, regardless of how they choose to (or need to) access your content.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He’s so fond of one that he lists it twice:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223831Z" creationid="rikiha" creationdate="20170909T223831Z">
+        <seg>彼はその1つをとても気に入っていて、2回も記載しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9972,6 +10525,14 @@ https://challenges.openideo.com/challenge/voting/inspiration
       <tuv lang="JA" changeid="rikiha" changedate="20170801T125251Z" creationid="rikiha" creationdate="20170731T135827Z">
         <seg>そのページに何が書かれているかひと目で見当がつきます」
 — Lea（&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;「A Web For Everyone」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注94）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;/g1&gt;の登場人物）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can think of a few different ways to do this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223823Z" creationid="rikiha" creationdate="20170909T223823Z">
+        <seg>これを行う方法はいくつか思い当たります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10605,6 +11166,14 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If we have a large inventory of products, some search terms and filtering options are likely to match a considerable number of items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223820Z" creationid="rikiha" creationdate="20170909T223820Z">
+        <seg>扱っている商品数が多い場合、検索語句やフィルタオプションによっては、かなり大量の項目が一致するでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 問題を回避、とまではいかないかなと。最低限担保できる的なことと思いました。
 
 (太田) 「許しがたい状態」要検討。原文 deal breaker。「ぶち壊し」とかでもいいかも。
@@ -10695,6 +11264,14 @@ handyは「手元に」なのか。「便利だ」と言っているようにも
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170829T055454Z" creationid="rikiha" creationdate="20170823T082712Z">
         <seg>裁断機があれば便利ですが、すべての辺が平行でなくても大丈夫です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you remember from “A Paragraph,” we shouldn’t allow the measure to get too wide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224047Z" creationid="rikiha" creationdate="20170909T224047Z">
+        <seg>「パラグラフ」の章でも説明しましたが、カラム幅が広くなりすぎないようにすべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12205,6 +12782,14 @@ CSSには「カスケード」と呼ばれる仕組みがあり、著者(Author,
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In the adapted code example to follow, items are restricted to having a &lt;g1&gt;max-width&lt;/g1&gt; of 20em.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224056Z" creationid="rikiha" creationdate="20170909T224056Z">
+        <seg>次に紹介する、調整を加えたコードの例では、項目のmax-width（最大幅）が20emになるように制限されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) Lucida書体➞Lucidaフォント</note>
       <tuv lang="EN-US">
         <seg>In the article “&lt;g7&gt;&lt;g8&gt;A Typeface For Dyslexics?</seg>
@@ -12558,6 +13143,30 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, user focus is not desirable because the &lt;g5&gt;&lt;h3&gt;&lt;/g5&gt; is not an actionable (interactive) element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223912Z" creationid="rikiha" creationdate="20170909T223912Z">
+        <seg>は実行可能（インタラクティブ）な要素ではないので、このケースではユーザーのフォーカスは望ましくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, we can replace the “Load more” button’s text node with that graphic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223936Z" creationid="rikiha" creationdate="20170909T223936Z">
+        <seg>このケースでは、「もっと読み込む」ボタンのテキストノードをグラフィックで置き換えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this final enhancement to our filtering interface, we’ll give the user the choice between displaying results in list or grid format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224005Z" creationid="rikiha" creationdate="20170909T224005Z">
+        <seg>このフィルタインターフェイスに対する最後の改善では、結果をリスト形式とグリッド形式のどちらで表示するかをユーザーが選べるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>In this implementation, a &lt;g1&gt;linear-gradient&lt;/g1&gt; background with a height of just 0.05em forms the underline.</seg>
@@ -12772,6 +13381,22 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T095716Z" creationid="yoota" creationdate="20170511T095716Z">
         <seg>フォーカスを示す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infinite Scroll</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223824Z" creationid="rikiha" creationdate="20170909T223824Z">
+        <seg>無限スクロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infinite scroll hijacks the user’s scrolling action to perform an unexpected behavior, commandeering user control and diminishing the user experience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223950Z" creationid="rikiha" creationdate="20170909T223950Z">
+        <seg>無限スクロールは、ユーザーのスクロールアクションを乗っ取って予期せぬ動作をします。ユーザーのコントロールは奪われ、ユーザー体験が損なわれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14732,6 +15357,14 @@ manageは管理で良いような。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List or Grid?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224005Z" creationid="rikiha" creationdate="20170909T224005Z">
+        <seg>リストとグリッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading More Results</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T223820Z" creationid="rikiha" creationdate="20170909T223820Z">
@@ -15053,6 +15686,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170802T095147Z" creationid="rikiha" creationdate="20170728T142617Z">
         <seg>私のお気に入りのやりかたは、現在のページのリンクの遷移先を、そのページのメイン領域にするというものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My preference, for symmetry, is to group the content around the center line, hence the &lt;g2&gt;justify-content: center;&lt;/g2&gt; declaration on the flex container.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224056Z" creationid="rikiha" creationdate="20170909T224056Z">
+        <seg>対称性に関しては、センターラインにコンテンツをまとめるのが私の好みなので、flexコンテナでjustify-content: center;と宣言しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15658,6 +16299,14 @@ serif fontは前で「セリフ書体」としていたので合わせました�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Not realizing the handle has moved away from reach, I may click the scroll track instead and make the page lurch downwards from my current location: a hugely counterintuitive and annoying experience, wherein I’m liable to skip over unread content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223829Z" creationid="rikiha" creationdate="20170909T223829Z">
+        <seg>ハンドルが離れた所に移動したことに気付かず、スクロールバーのトラック部分をクリックしてしまうと、ページが現在位置から急に下に飛びます。これはかなり直観に反する不快な体験で、まだ見ていないコンテンツを見逃してしまう恐れがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注?→訳注なし
 
 (伊原) with the help of someone to manually operate it はオズの魔法使いのことを指していると思うので、そのように訳しました。訳注？
@@ -15713,6 +16362,14 @@ prelearnedは使い慣れたということでいいのか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note that &lt;g1&gt;tabindex="-1"&lt;/g1&gt; has to be applied to the first item’s &lt;g2&gt;&lt;h3&gt;&lt;/g2&gt; to make it focusable with JavaScript’s &lt;g3&gt;focus()&lt;/g3&gt; method.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223909Z" creationid="rikiha" creationdate="20170909T223909Z">
+        <seg>JavaScriptのfocus()メソッドでフォーカス可能になるよう、最初の項目のにtabindex="-1"が適用される必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 微調整。
 captureはとらえるで合っていますが、イマイチわかりにくい感があったので「伝えようとしている」としてみました。
@@ -15762,6 +16419,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170816T074938Z" creationid="rikiha" creationdate="20170812T161643Z">
         <seg>非表示にするために、インラインで&lt;g3&gt;display: none;&lt;/g3&gt;のスタイルを指定していることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that most implementations &lt;g1&gt;only&lt;/g1&gt; remove focus from the button, and don’t move it elsewhere.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223843Z" creationid="rikiha" creationdate="20170909T223843Z">
+        <seg>たいていの実装では、ボタンからフォーカスが外れるだけで、別のところに移動しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16121,6 +16786,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Now the grid items are organized around the vertical center line and cannot become more than 20em wide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224100Z" creationid="rikiha" creationdate="20170909T224100Z">
+        <seg>これでグリッド項目が縦のセンターラインにまとまり、幅が20emを超えることはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 すこし調整。
 
@@ -16466,6 +17139,14 @@ WCAGに従うことは、伝えるよりも良いのです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Once they do a few times, prompt them to ask if they’d like to turn auto-loading of more results on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223834Z" creationid="rikiha" creationdate="20170909T223834Z">
+        <seg>ユーザーが何度か読み込みを繰り返したら、さらなる結果の自動読み込みをオンにするか尋ねるプロンプトを表示する。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) cipherは暗号とかカギとかそういうニュアンスのようなので、符号➞手がかりとしてみました。
 
 (太田) ここの One はひとつめ?
@@ -16503,6 +17184,14 @@ WCAGに従うことは、伝えるよりも良いのです。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170714T100223Z" creationid="yoota" creationdate="20170714T070855Z">
         <seg>ある開発者には、無作為に「賛成ボタンのラベル欠如」というチケットが割り当てられました。開発者はチケットを開き、誇りある開発者ならだれでもそうするように、修正を行ってチケットをクローズするべく努力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One example of making a decision on users’ behalf is to disable zoom, using &lt;g1&gt;user-scalable=no&lt;/g1&gt; on the viewport &lt;g2&gt;&lt;meta&gt;&lt;/g2&gt; tag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223958Z" creationid="rikiha" creationdate="20170909T223958Z">
+        <seg>ユーザーのためを思って下す判断の一例は、&lt;meta&gt;タグのviewportでuser-scalable=noを使い、ズームを無効にすることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16606,6 +17295,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T074705Z" creationid="yoota" creationdate="20170511T053950Z">
         <seg>最も普及しているブラウザのひとつであるChromeは、ハイフネーションをまったくサポートしていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of them — infinite scroll — has some serious problems regarding inclusivity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223823Z" creationid="rikiha" creationdate="20170909T223823Z">
+        <seg>その1つが無限スクロールですが、これにはインクルーシビティに関する重大な問題があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16823,6 +17520,14 @@ modular, often dynamic content は直訳すると「組み立て式の、しば�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise, the user’s view will not change and focus will remain on the &lt;g2&gt;data-load-more&lt;/g2&gt; button which has now been pushed off-screen by the added content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223842Z" creationid="rikiha" creationdate="20170909T223842Z">
+        <seg>そうでないと、ユーザーが目にするものは変わらず、追加されたコンテンツによって画面から押し出されたdata-load-moreボタンがフォーカスされたままになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our most persistent error as an industry has been to apply the largely incompatible principles of &lt;g1&gt;printed&lt;/g1&gt; graphical communication design to the web.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170628T043043Z" creationid="okamoto_jun" creationdate="20170627T085148Z">
@@ -16990,6 +17695,14 @@ honestは「正直」としてみました。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012439Z" creationid="yoota" creationdate="20170419T102025Z">
         <seg>おそらく最もわかりやすいのは、言語が明示されていないページ――あるいは間違った言語が指定されているページ――では、スクリーンリーダーを使用したときに適切な合成音声プロファイルが選択されないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perhaps, but we have to contend with:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223956Z" creationid="rikiha" creationdate="20170909T223956Z">
+        <seg>その考え方はもっともでしょうが、次のような問題に取り組む必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17400,6 +18113,14 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieving and rendering all of them at once would cause a serious performance bottleneck, as well as producing an intimidating and unwieldy page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223821Z" creationid="rikiha" creationdate="20170909T223821Z">
+        <seg>それを一度にすべて読み出して表示すると、深刻なパフォーマンスボトルネックを引き起こすことが多く、威圧感を与える扱いにくいページになってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 少しだけ調整。
 時間的なタイミングが重要になる話ではないので、「任意のタイミング」は「好きなとき」で良いように思います。
 
@@ -17420,6 +18141,14 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T034041Z" creationid="rikiha" creationdate="20170827T020944Z">
         <seg>右：それを大きい紙に貼りつけている様子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-to-Left Grids</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224117Z" creationid="rikiha" creationdate="20170909T224117Z">
+        <seg>右寄せのグリッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -17786,6 +18515,14 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170516T093743Z" creationid="yoota" creationdate="20170510T092748Z">
         <seg>パラグラフのカラム幅を直接設定するのは賢い方法ではありません。レスポンシブなモジュール式のレイアウトでは、コンテナ要素の幅に応じて改行されるようにする必要があるためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting the text direction for the document is possible by including the &lt;g1&gt;dir&lt;/g1&gt; attribute (alongside the &lt;g2&gt;lang&lt;/g2&gt; attribute) on the HTML element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224122Z" creationid="rikiha" creationdate="20170909T224122Z">
+        <seg>ドキュメントのテキスト方向は、HTML要素に（lang属性と並べて）dir属性を含めることで設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18529,6 +19266,14 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>So, if the list item is focused (and selected) it would read, “Display as a list, radio button, selected” or similar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224022Z" creationid="rikiha" creationdate="20170909T224022Z">
+        <seg>したがって、リスト項目がフォーカス（および選択）されると、「＃＃表示方法、リスト、radio button, selected＃＃」などと読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (岡本)　1人→ひとり
@@ -18639,6 +19384,14 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170806T220232Z" creationid="rikiha" creationdate="20170805T163203Z">
         <seg>ページ内リンクでターゲットセクションに移動する際、JavaScriptでスムーズスクロールするものを見かけることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some languages, like Arabic, are supposed to be read right to left, unlike languages like English that are read left to right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224121Z" creationid="rikiha" creationdate="20170909T224121Z">
+        <seg>アラビア語などの一部の言語は、左から右に読む英語などの言語とは違い、右から左に読みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19326,6 +20079,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That is, you have to manually reverse the layout of floated content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224124Z" creationid="rikiha" creationdate="20170909T224124Z">
+        <seg>つまり、フロート化されたコンテンツのレイアウトは手動で向きを変える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) allegoryをもう少し上手く訳せないものか。
 ➞模型としてみました。
 
@@ -19442,6 +20203,22 @@ yourを「コンテンツ側で」として補いました。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That way, they can select a visual display that best suits their cognitive needs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224006Z" creationid="rikiha" creationdate="20170909T224006Z">
+        <seg>そうすれば、ユーザーは自分の認知的ニーズに最適の視覚表示を選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s a highly inclusive layout strategy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224045Z" creationid="rikiha" creationdate="20170909T224045Z">
+        <seg>これは非常にインクルーシブなレイアウト方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That’s a lot of people missing out!</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101058Z" creationid="okamoto_jun" creationdate="20170627T101058Z">
@@ -19455,6 +20232,14 @@ yourを「コンテンツ側で」として補いました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T073222Z" creationid="yoota" creationdate="20170511T073222Z">
         <seg>私は明るい光を見ると片頭痛になるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s currently a danger at wider viewports, especially when the wrapping algorithm places the final item on a single line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224050Z" creationid="rikiha" creationdate="20170909T224050Z">
+        <seg>現状では、幅の広いビューポートでそれが起こる危険があります（特に、折り返しのアルゴリズムによって最後の項目が単独で配置された場合）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19515,6 +20300,14 @@ yourを「コンテンツ側で」として補いました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170526T153924Z" creationid="yoota" creationdate="20170522T100431Z">
         <seg>HTMLの最終的な目的は、要素の識別を通じて構造化することですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s what design is, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223955Z" creationid="rikiha" creationdate="20170909T223955Z">
+        <seg>それがデザインというものですよね？</seg>
       </tuv>
     </tu>
     <tu>
@@ -19592,6 +20385,14 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170824T100528Z" creationid="rikiha" creationdate="20170819T005510Z">
         <seg>&lt;g1&gt;&lt;g2&gt;「BBC Mobile Accessibility Guidelines」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注125）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;では、この問題の改善方法として、要素間に「反応しないスペース」を入れることを推奨しています。しかし、ナビゲーション領域の場合は、この方法だといささか不可解な、壊れたような見た目になってしまうでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;g2&gt;infinite scroll&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; pattern harnesses the user’s scroll behavior to automatically load new content at the point that they reach the current content’s end.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223825Z" creationid="rikiha" creationdate="20170909T223825Z">
+        <seg>無限スクロール（脚注168）のパターンは、ユーザーのスクロール動作を利用して、現在のコンテンツの最後に達した時点で新しいコンテンツを自動的に読み込みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20135,6 +20936,14 @@ has met them and helped them なので過去完了形ですね。文末を「手
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The adapted filter widget might look like the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224010Z" creationid="rikiha" creationdate="20170909T224010Z">
+        <seg>調整を加えたフィルタウィジェットは以下の例のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ここのcolorは単に色ではなく特色という感じだと思います。または　が直訳感があったので調整。
 
 (太田) OK</note>
@@ -20192,6 +21001,14 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T084336Z" creationid="yoota" creationdate="20170418T080431Z">
         <seg>この章の目的は、究極のひな形を探し求めることではなく、インクルーシブなインターフェイスの親となるWebページを適切な設定にすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The aim is to provide a stream of new content to the user without necessitating an action on their part.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223826Z" creationid="rikiha" creationdate="20170909T223826Z">
+        <seg>ユーザー側のアクションを必要とせずに、新しいコンテンツを流れるように提供することが狙いです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20565,6 +21382,19 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170424T062047Z" creationid="yoota" creationdate="20170424T062047Z">
         <seg>デザイナーが決めることが少ないほど、ユーザーが決められることが多くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The filtering form now shows a new row for the display options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224011Z" creationid="rikiha" creationdate="20170909T224011Z">
+        <seg>並び替え順
+新着順
+人気順
+価格の安い順
+価格の高い順
+適用</seg>
       </tuv>
     </tu>
     <tu>
@@ -21021,6 +21851,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The order of events should be as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223937Z" creationid="rikiha" creationdate="20170909T223937Z">
+        <seg>イベントの順序は次の通りです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) itを補いました。
 
 (岡本)　分かりません→わかりません
@@ -21247,6 +22085,14 @@ validatorを通るかどうかではなく、ユーザーに実害があるか�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170907T105421Z" creationid="rikiha" creationdate="20170905T004417Z">
         <seg>マークアップの品質は、UXの観点からどんな体験を提供できるかで評価されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The question is: “How many columns is the right number?” In responsive design, the answer depends on how much space there is.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224028Z" creationid="rikiha" creationdate="20170909T224028Z">
+        <seg>問題は、「カラムはいくつが適切か」ということです。レスポンシブデザインでは、スペースがどれだけあるかによって答えは変わります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21742,6 +22588,30 @@ Theを訳出する必要があるのかどうか若干悩ましいですがマ�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170905T004151Z" creationid="rikiha" creationdate="20170905T004151Z">
         <seg>「今すぐ購入」アクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The “Load More” Button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223838Z" creationid="rikiha" creationdate="20170909T223838Z">
+        <seg>「もっと読み込む」ボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The “Load more” button invites the user to take an explicit, labeled action at their convenience and therefore conforms to the second of Henny Swan’s UX principles, to &lt;g1&gt;give users control&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223951Z" creationid="rikiha" creationdate="20170909T223951Z">
+        <seg>「もっと読み込む」ボタンなら、ユーザーはラベルの付いた明示的なアクションを自分の都合の良いときに行えるので、ヘニー・スワンが提唱する2つ目の原則、ユーザーに主導権を握らせるにも適合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The “Load more” button — and it &lt;g1&gt;should&lt;/g1&gt; be a &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; — resides at the end of the current crop of results and clicking it sends an XHR request to load the next set.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223839Z" creationid="rikiha" creationdate="20170909T223839Z">
+        <seg>現在表示されている結果の最後にある「もっと読み込む」ボタン（&lt;button&gt;でなければなりません）をクリックすると、次のセットを読み込むためにXHRリクエストが送信されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22394,6 +23264,14 @@ aspirations は「願望」?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This also saves on client-side DOM manipulation: all we should need to change is a class on the parent &lt;g3&gt;&lt;ul&gt;&lt;/g3&gt; item: &lt;g4&gt;.list-display&lt;/g4&gt; for a single-column layout or &lt;g5&gt;.grid-display&lt;/g5&gt; for multiple columns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224026Z" creationid="rikiha" creationdate="20170909T224026Z">
+        <seg>また、クライアント側のDOM操作も軽減します。親の&lt;ul&gt;項目のクラスを変える必要があるだけです（レイアウトがシングルカラムの場合は.list-display、マルチカラムの場合は.grid-display）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)  around an applicationが訳から落ちているように思いましたので「アプリケーションの」を補いました。
 「点々と記述する」はちょっとイメージがわきませんでした。原文では「孤立したものを点在させる」と言っているように思います。いったん「ばらばらに記述する」としてみましたが、もっと良い訳があれば。
 
@@ -22952,6 +23830,14 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the width the Flexbox algorithm considers ideal for individual items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224039Z" creationid="rikiha" creationdate="20170909T224039Z">
+        <seg>Flexboxのアルゴリズムは、これを個々の項目にとって理想的な幅と見なします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is what some might refer to as &lt;g1&gt;hacky&lt;/g1&gt;: a fragile and unfortunately complex workaround.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T093900Z" creationid="okamoto_jun" creationdate="20170627T093900Z">
@@ -23078,6 +23964,14 @@ esotericは特殊というより、他で使われていないというニュア
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This means that the automatic reflow of columns that we’ve established is sensitive to font size.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224041Z" creationid="rikiha" creationdate="20170909T224041Z">
+        <seg>つまり、構築したカラムの自動的なリフローが、フォントサイズの影響を受けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 微調整。
 
@@ -23106,6 +24000,14 @@ OKかと。</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170906T111137Z" creationid="rikiha" creationdate="20170905T004238Z">
         <seg>これは、JavaScriptの世界の中だけで作業したいというフレームワーク利用者にとっては便利かもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This necessitates a lot of manual media query writing and an ever-watchful eye for layout problems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224032Z" creationid="rikiha" creationdate="20170909T224032Z">
+        <seg>これを行うには多くのメディアクエリを手書きする必要があり、レイアウトの問題に常に気を配る必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23210,6 +24112,14 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170515T152023Z" creationid="yoota" creationdate="20170511T055712Z">
         <seg>この結果、パラグラフの右側は不揃いになりますが、ユーザーは気にしないでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This results in what’s sometimes called &lt;g2&gt;freak out mode&lt;/g2&gt; whereby the browser doesn’t know what to focus and defaults to focusing the document body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223901Z" creationid="rikiha" creationdate="20170909T223901Z">
+        <seg>するとブラウザは何をフォーカスしていいか分からず、ドキュメントの本文をフォーカスします（「フリークアウトモード」とも呼ばれる状態）。その結果、キーボードユーザー（スクリーンリーダーユーザーも含む）は、ページコンテンツの冒頭に送られることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23326,6 +24236,14 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170722T121238Z" creationid="yoota" creationdate="20170720T070840Z">
         <seg>構造化されたマークアップ、明確なラベル、堅牢なCSSの書き方についても触れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will place that product at the top of the viewport (which benefits all kinds of sighted users) and trigger the announcement of the &lt;g2&gt;&lt;h3&gt;&lt;/g2&gt;’s text in screen readers, naming the first instance of the new content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223908Z" creationid="rikiha" creationdate="20170909T223908Z">
+        <seg>こうすると、その商品がビューポートの一番上に配置されます（これはあらゆるタイプの晴眼ユーザーに役立ちます）。また、スクリーンリーダーではのテキストの読み上げがトリガーされ、新しいコンテンツの最初のインスタンスの名前を読み上げます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23769,6 +24687,14 @@ explicitlyを訳出したいかも。「明示的に」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To complete our filtering widget pattern, we’re going to give our users a choice over the way the filtered content is displayed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224004Z" creationid="rikiha" creationdate="20170909T224004Z">
+        <seg>フィルタウィジェットのパターンを完成させるために、フィルタが適用されたコンテンツの表示方法をユーザーが選択できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 突然SVGの話が出てきた感。さらに高める的な話かなと思うので、調整してみました。
 
 (太田)
@@ -23838,6 +24764,14 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170905T100914Z" creationid="rikiha" creationdate="20170905T003648Z">
         <seg>ラスター形式のサムネイルでいっぱいのページを読み込むのにどれだけ時間がかかるか実感したければ、そのようなコンテンツを扱っているサイトを見つけ、Chromeのデベロッパーツールを開きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To get the best results for your own content, you’ll need to tweak the 10em and 20em values.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224109Z" creationid="rikiha" creationdate="20170909T224109Z">
+        <seg>扱うコンテンツにとって最高の結果を得るには、この例で10emと20emとした値を調節する必要があるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24239,6 +25173,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Typically, designers see it as their job to foresee their users’ needs and make intelligent decisions on their behalf.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223953Z" creationid="rikiha" creationdate="20170909T223953Z">
+        <seg>概してデザイナーは、ユーザーのニーズを予見して彼らのために賢い判断をすることが自分の仕事だと考えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ちょっと補いつつ調整。
 
 (太田) 典型例の使い方が日本語として変かも少し調整。
@@ -24364,6 +25306,14 @@ not cut it はうまくできない、くらいの意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Unless implemented very carefully, infinite scroll tends to result in a frustrating experience for a number of different input modes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223826Z" creationid="rikiha" creationdate="20170909T223826Z">
+        <seg>ただし、無限スクロールは非常に慎重に実装しないと、さまざまな入力モードでストレスのたまる体験をもたらす傾向があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 微調整。
 
@@ -24382,6 +25332,14 @@ not cut it はうまくできない、くらいの意味。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170420T101254Z" creationid="yoota" creationdate="20170420T101021Z">
         <seg>あなたに予知能力があって、全てのユーザーの端末の設定を予測できるのでない限り、これが唯一の方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike &lt;g4&gt;tabindex="0"&lt;/g4&gt;, elements are not focusable by keyboard users directly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223910Z" creationid="rikiha" creationdate="20170909T223910Z">
+        <seg>tabindex="0"とは違い、要素はキーボードユーザーによって直接フォーカスされません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24478,6 +25436,14 @@ ourを「先の」などとしつつ調整。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Users not actually &lt;g2&gt;seeing&lt;/g2&gt; a list benefit from list semantics regardless.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224029Z" creationid="rikiha" creationdate="20170909T224029Z">
+        <seg>実際にリストを見ないユーザーは、レイアウトに関係なくリストのセマンティクスのメリットを享受します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文のダッシュを生かす方向で調整。
 元訳では原文のandの強調がうまく反映できなかったので「両方で」を補って強調する形にしてみました。
@@ -24514,6 +25480,14 @@ ourを「先の」などとしつつ調整。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T033141Z" creationid="yoota" creationdate="20170719T092713Z">
         <seg>ES2015/ES6構文でCustom Elements v1を使用すると、以下のように書くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using Flexbox, we can instead use &lt;g1&gt;flex-basis&lt;/g1&gt; to define an ideal width at an element level.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224033Z" creationid="rikiha" creationdate="20170909T224033Z">
+        <seg>Flexboxを使用すれば、代わりにflex-basisを使って要素レベルで理想的な幅を定義できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24788,6 +25762,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>We are only focusing the &lt;g6&gt;&lt;h3&gt;&lt;/g6&gt; to place the user in the correct context and to trigger announcement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223914Z" creationid="rikiha" creationdate="20170909T223914Z">
+        <seg>ユーザーを適切なコンテキストに配置し、読み上げをトリガーするためだけににフォーカスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 話の流れ的に「考察した」のではなく「設置した」という話だと思います。
 
@@ -24948,6 +25930,22 @@ the prototyping experience とは。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>We should, therefore, supply a loading graphic and live region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223936Z" creationid="rikiha" creationdate="20170909T223936Z">
+        <seg>そのため、読み込みのグラフィックとライブリージョンを供給する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We still have to make some decisions in isolation, of course, because not every part of a design can be informed directly by user research.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224001Z" creationid="rikiha" creationdate="20170909T224001Z">
+        <seg>当然ながら、デザインのあらゆる部分に関してユーザーリサーチから直接情報を得ることはできないので、自分で判断を下さなくてはならないものもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 ここのthenは「次に」くらいでしょうか。
 
@@ -24957,6 +25955,14 @@ the prototyping experience とは。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170619T030529Z" creationid="yoota" creationdate="20170619T021918Z">
         <seg>その次に、ビデオなどのメディアを追加して、この堅牢な構造を補完する方法も説明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We typically proceed to match column numbers to viewport widths — the wider the viewport, the greater the number of columns we can afford.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224031Z" creationid="rikiha" creationdate="20170909T224031Z">
+        <seg>一般に、コラムの数をビューポートの幅に合わせることが多く、ビューポートの幅が広いほどカラムを多くできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25175,6 +26181,14 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T072212Z" creationid="yoota" creationdate="20170510T071945Z">
         <seg>実際に出会うユーザーとはまったく異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What we’ve established is a self-governing grid system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224044Z" creationid="rikiha" creationdate="20170909T224044Z">
+        <seg>ここで構築してきたのは、自律型のグリッドシステムです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25434,6 +26448,14 @@ in this way を取っても意味は通じるので、単にトリで良いよ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>When items within the stream have interactive elements (such as our “Buy Now” buttons), focusable elements are added to the stream ad infinitum, making it impossible to tab past the main content to interactive elements that reside below it in the footer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223830Z" creationid="rikiha" creationdate="20170909T223830Z">
+        <seg>ストリームの中の項目にインタラクティブな要素（「今すぐ購入」ボタンなど）があると、フォーカス可能な要素がストリームに際限なく追加されます。その結果、Tabキーでメインコンテンツを超えて、下のフッター内にあるインタラクティブな要素に移動することができなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) リンクを開く→リンクをたどる としました。
 外に移動する→外れる としました。
 
@@ -25451,6 +26473,14 @@ in this way を取っても意味は通じるので、単にトリで良いよ�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T102129Z" creationid="okamoto_jun" creationdate="20170627T102129Z">
         <seg>新たな問題が生じれば、新たなパターンを確立する必要がありますが、本書を読んだあなたは、パターンを確立する方法を身に着けていることでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When new results load, this handle will move upwards in accordance with the greater amount of content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223828Z" creationid="rikiha" creationdate="20170909T223828Z">
+        <seg>新しい結果が読み込まれると、コンテンツの量が増えるのに伴い、ハンドルが上に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25695,6 +26725,14 @@ integratedは統合された?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T030023Z" creationid="yoota" creationdate="20170426T030009Z">
         <seg>JavaScriptが使えるかどうかに関係なく、セマンティックHTMLは支援技術のユーザーにインクルーシブな体験を保証し、インタラクションの動作をより予測可能で効率的なものにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether grid or list in terms of layout, the products should always be formed as a list (&lt;g1&gt;&lt;ul&gt;&lt;/g1&gt;) in the markup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224025Z" creationid="rikiha" creationdate="20170909T224025Z">
+        <seg>レイアウト的にグリッドとリストのどちらであろうと、マークアップでは商品を常にリスト（&lt;ul&gt;）として形成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25962,6 +27000,14 @@ descriptive説明的でいいのか。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T155314Z" creationid="yoota" creationdate="20170425T101620Z">
         <seg>このアルゴリズムでは、すべてのテキストがビューポートに対して相対的に拡大縮小していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With very little code, we are able to ensure our content remains unbroken across an &lt;g1&gt;infinite&lt;/g1&gt; range of viewport widths.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224045Z" creationid="rikiha" creationdate="20170909T224045Z">
+        <seg>ごく少ないコードで、無限の範囲のビューポート幅にわたって、コンテンツを崩さず表示することができます。</seg>
       </tuv>
     </tu>
     <tu>
