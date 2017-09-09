@@ -1861,7 +1861,7 @@ http://www.w3.org/TR/wai-aria-1.1/#definition
 (岡本)
 分かり→わかり
 
-(伊原) OK
+(伊原) OK, 記述リストの件もOK
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Like an unordered list (&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;), the definitions list (&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;) has its items enumerated by screen readers so users know how many to expect.</seg>
@@ -4916,8 +4916,7 @@ listenは「監視」としてみました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM
-※以下確認中</note>
+      <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Alternative Text</seg>
       </tuv>
@@ -12219,7 +12218,7 @@ https://medium.com/@iamdavidng/nice-one-but-oh-the-is-a-hand-cursor-78ef03a99f45
       <note>(太田)
 「＄＄A Menu Button＄＄」→7章「メニューボタン」
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In “A Menu Button” we looked at the many ways to render the simple, three-lined navicon.</seg>
       </tuv>
@@ -23736,7 +23735,8 @@ poor を不適切とするのがいいのかどうか。
 
 (太田)
 悪手のほうがいいかも。悪手を採用してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Using a lowercase &lt;g3&gt;x&lt;/g3&gt; would be a poor substitution.</seg>
       </tuv>
