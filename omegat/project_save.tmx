@@ -2311,12 +2311,17 @@ social dimension どうするか。定訳としては社会的側面ですがわ
     <tu>
       <note>(太田)
 ネストの意味がわかりにくいですね。
-調整してみました。こういうこと?</note>
+調整してみました。こういうこと?
+
+(伊原)
+https://developers.google.com/search/docs/data-types/products#single-product-page
+を見るに、Product内にさらにoffersとaggregateRatingをネストしている、という事を言いたいのかなと思いました。
+が、ネスト＝入れ子と読むと違う意味にも読めそうなため、</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The rating and price (‘offer’) are defined using the nested “Offer” and “Aggregate Rating” vocabularies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T101611Z" creationid="yoota" creationdate="20170908T083833Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;評価と価格は、それぞれ「AggregateRating」「Offer」ボキャブラリーを使って定義し、それぞれ内容をネストします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T131742Z" creationid="yoota" creationdate="20170908T083833Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;評価と価格（オファー）は、それぞれ「AggregateRating」および「Offer」ボキャブラリーで定義しています。</seg>
       </tuv>
     </tu>
     <tu>
