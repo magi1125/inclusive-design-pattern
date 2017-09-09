@@ -4551,6 +4551,14 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A Filter Widget | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T232627Z" creationid="rikiha" creationdate="20170909T232627Z">
+        <seg>9章：フィルターウィジェット</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) カッコ補足をトリ。
 
 グリフは字体でもいいかも？　でもグリフのままでも通じそう。
@@ -10349,11 +10357,13 @@ https://github.com/rikiha/inclusive-design-pattern/commit/b3de996369b41d914699d3
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) pertinent を「即する」でいいか。どちらかというと「深く関係している」みたいな感じなのではないかと。調整しました。
+http://ejje.weblio.jp/content/pertinent+to</note>
       <tuv lang="EN-US">
         <seg>How we marked up individual product components and how we grouped them together were both pertinent to inclusive design.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223224Z" creationid="rikiha" creationdate="20170909T223224Z">
-        <seg>個々の商品コンテンツのマークアップ方法と、それらをグループ化する方法は、どちらもインクルーシブデザインに即するものでした。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T233355Z" creationid="rikiha" creationdate="20170909T223224Z">
+        <seg>個々の商品コンポーネントのマークアップ方法と、それらをグループ化する方法は、どちらもインクルーシブデザインに深く関係するものでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13177,7 +13187,7 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原)</note>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the previous chapter we went commercial and looked at a pattern for displaying products.</seg>
       </tuv>
