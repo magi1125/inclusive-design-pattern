@@ -615,7 +615,9 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
     </tu>
     <tu>
       <note>(岡本)
-下訳：支払い方法の選択</note>
+下訳：支払い方法の選択
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g112&gt;&lt;g113&gt;&lt;g114&gt;&lt;&lt;/g114&gt;h2&lt;/g113&gt;&lt;g115&gt;&gt;&lt;/g115&gt;&lt;/g112&gt;Choose a payment method&lt;g116&gt;&lt;g117&gt;&lt;g118&gt;&lt;/&lt;/g118&gt;h2&lt;/g117&gt;&lt;g119&gt;&gt;&lt;/g119&gt;&lt;/g116&gt;</seg>
       </tuv>
@@ -5904,7 +5906,9 @@ hone は砥石でとぐような意味。
     </tu>
     <tu>
       <note>(太田)
-弱めのニュアンスで調整。</note>
+弱めのニュアンスで調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>At this page, the markup will use a template which might look like this:</seg>
       </tuv>
@@ -9553,7 +9557,9 @@ this has led で「これが導いた」と言っているので、「報告し�
     </tu>
     <tu>
       <note>(太田)
-OK</note>
+OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>I am basing this on an &lt;g1&gt;&lt;g2&gt;example provided by Google itself&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;23&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; using microdata (one version of structured data).</seg>
       </tuv>
@@ -15585,7 +15591,8 @@ familiarを「十分に学習してきた」としていますが、「十分に
     <tu>
       <note>(太田)
 微調整。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Now, let’s adapt the plain markup to include the structured data.</seg>
       </tuv>
