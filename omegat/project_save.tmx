@@ -8608,7 +8608,9 @@ OK</note>
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For our purposes there is a &lt;g2&gt;product vocabulary&lt;/g2&gt;, defining product-specific properties, to be found at &lt;g3&gt;&lt;g4&gt;http://schema.org/Product&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;22&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
@@ -17644,12 +17646,12 @@ https://inclusive-components.design/#components
 リスティングはカタカナでわかるかどうか。
 リスティング広告を連想されそうですが少し意味が違うはず。
 
-(伊原) 感覚的にはリスティング＝検索連動型広告なので、別の語に変えたい感じです。少し補って、商品リストの情報を増やせる可能性、としてみました。</note>
+(伊原) 感覚的にはリスティング＝検索連動型広告なので、別の語に変えたい感じです。少し補って、検索結果に出る商品の情報を追加できる可能性、としてみました。</note>
       <tuv lang="EN-US">
         <seg>Since we are dealing with products, we have an opportunity to enhance our product listing using &lt;g1&gt;&lt;g2&gt;structured data&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;21&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T122712Z" creationid="yoota" creationdate="20170908T022736Z">
-        <seg>このサイトでは商品を扱っているので、&lt;g1&gt;&lt;g2&gt;構造化データ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注152）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用して商品リストの情報を増やせる可能性があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T124217Z" creationid="yoota" creationdate="20170908T022736Z">
+        <seg>このサイトでは商品を扱っているので、&lt;g1&gt;&lt;g2&gt;構造化データ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注152）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用して検索結果に出る商品の情報を追加できる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18183,7 +18185,9 @@ enhanced を「強化」とするのがどうもしっくり来ず、なくて�
 調整。
 
 (岡本)
-ボキャブラリー分けられており→ボキャブリーに分けられており</note>
+ボキャブラリー分けられており→ボキャブリーに分けられており
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Structured data is divided into &lt;g1&gt;vocabularies&lt;/g1&gt; which apply to different varieties of content.</seg>
       </tuv>
@@ -19601,7 +19605,9 @@ jaw は動詞だとスラングで Impudent or abusive talk.
     </tu>
     <tu>
       <note>(太田)
-コロン前後を2文にしつつすこし調整。</note>
+コロン前後を2文にしつつすこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The best place to include structured data for an individual product is at its permalink page: the page “Buy Now” will take the user to see greater detail about the product and choose purchasing options.</seg>
       </tuv>
@@ -23708,6 +23714,7 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Using the Product Vocabulary</seg>
       </tuv>
