@@ -47,6 +47,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>(&lt;g1&gt;Note&lt;/g1&gt;: This automatic reversal is also true of &lt;g2&gt;&lt;table&gt;&lt;/g2&gt; elements which switch their column order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224211Z" creationid="rikiha" creationdate="20170909T224211Z">
+        <seg>（注：この自動的な方向の逆転は&lt;table&gt;要素にも当てはまり、カラムの順序が入れ替わります。&lt;table&gt;要素は支援技術に誤ったセマンティック情報を提供するので、レイアウトには使用しません。）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 以下の例で@media (max-width: 60em)としてemを使っていることの説明であって、読者に推奨しているものではないと思います。</note>
       <tuv lang="EN-US">
         <seg>(&lt;s0&gt;Note:&lt;/s0&gt; To ensure the media query triggers at the correct point relative to user-defined font size, we are using the em unit there, too.</seg>
@@ -943,14 +951,6 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;g1&gt;&lt;g2&gt;.content &lt;/g2&gt;&lt;g3&gt;{&lt;/g3&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224124Z" creationid="rikiha" creationdate="20170909T224124Z">
-        <seg>&lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;&lt;/g14&gt;h2&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g12&gt;目次&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;/&lt;/g18&gt;h2&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g16&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>(太田) ヘイドンジョークの life is too short をどうするのか。いったん元訳をそのまま反映しています。
 
 (伊原) LGTM. ジョークの意味があまりわかっていません。</note>
@@ -1811,6 +1811,14 @@ OK
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Creating behaviors in JavaScript that HTML already offers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224325Z" creationid="rikiha" creationdate="20170909T224325Z">
+        <seg>•HTMLがすでに提供している動作をJavaScriptで作る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Deque offers a &lt;g2&gt;&lt;g3&gt;live region playground&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;11&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; for exploring a number of settings.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T223741Z" creationid="rikiha" creationdate="20170909T223741Z">
@@ -1922,6 +1930,14 @@ forego は「先に行く」のような感じですが、他動詞として使�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T150754Z" creationid="yoota" creationdate="20170809T102600Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;複数の&lt;g2&gt;&lt;nav&gt;&lt;/g2&gt;が存在するが一意のラベルがついていない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Grid systems which don’t allow right-to-left language support.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224326Z" creationid="rikiha" creationdate="20170909T224326Z">
+        <seg>•右から左に読む言語をサポートできないグリッドシステム。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2058,6 +2074,14 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T104655Z" creationid="yoota" creationdate="20170908T104454Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;一貫性のない使われ方をしていたり、最適化されていない商品画像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Infinite scrolling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224327Z" creationid="rikiha" creationdate="20170909T224327Z">
+        <seg>•無限スクロール。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2273,6 +2297,14 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170826T231851Z" creationid="rikiha" creationdate="20170823T082629Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;耐水性マーカーペン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Prototyping with idealized content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224330Z" creationid="rikiha" creationdate="20170909T224330Z">
+        <seg>•理想的なコンテンツを使用したプロトタイプ制作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5755,6 +5787,14 @@ proxy elementは力強く削除してしまったほうが分かりやすそう�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Any flex container inside a document with &lt;g1&gt;dir&lt;/g1&gt; set to &lt;g2&gt;rtl&lt;/g2&gt; will display each row of content from right to left as expected: it switches the &lt;g3&gt;row&lt;/g3&gt; and &lt;g4&gt;row-reverse&lt;/g4&gt; values of the &lt;g5&gt;flex-direction&lt;/g5&gt; property.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224201Z" creationid="rikiha" creationdate="20170909T224201Z">
+        <seg>dirがrtlに設定されたドキュメント内のflexコンテナはすべて、コンテンツの各行を期待通り右から左に表示します。flex-directionプロパティのrow値とrow-reverse値を置き換えるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文で強調されている and は訳出する必要がありそうです。
 passes muster は「検閲をパスする」というヘイドンフレーズです。ひとまず「対象になります」としておきました。
 
@@ -6212,6 +6252,14 @@ JS中の初期化処理で
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As ever, we should be mindful of the content that our proposed structure is designed for.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224219Z" creationid="rikiha" creationdate="20170909T224219Z">
+        <seg>これまで同様、コンテンツに注目しましょう。本書で提案する構造は、そのコンテンツのためにデザインされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「参照」は違和感があります。
 調整してみました。
@@ -6375,6 +6423,14 @@ the experience is lackingどうするか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170801T104217Z" creationid="rikiha" creationdate="20170725T074159Z">
         <seg>前述したように、キーボードユーザーはインタラクティブな要素をひとつずつ順番にたどってページ内を移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As we’ve been discussing throughout the book, inclusive design also means a visual design which is not too strict about the nature of the content imparted to it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224324Z" creationid="rikiha" creationdate="20170909T224324Z">
+        <seg>本書を通して説明してきたように、インクルーシブデザインとは、そこに含められるコンテンツの性質について融通が利く視覚デザインということでもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6840,6 +6896,14 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170901T034213Z" creationid="rikiha" creationdate="20170828T141735Z">
         <seg>目玉商品やおすすめ商品であることを示したい場合は、CSSでハイライト表示した説明文を追加すると良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Between one and ten words is the kind of variability we can expect for the titles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224309Z" creationid="rikiha" creationdate="20170909T224309Z">
+        <seg>1～10個の単語という変動幅は作品のタイトルとして妥当でしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8859,6 +8923,14 @@ the placement of (the &lt;button&gt; and the menu it discloses.)
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>First, sometimes HTML already provides the behaviors we often find ourselves needlessly and flimsily recreating in JavaScript.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224319Z" creationid="rikiha" creationdate="20170909T224319Z">
+        <seg>1つ目は、私たちがしばしば大した根拠もなく不必要にJavaScriptで作り直している動作の中には、HTMLが既に提供しているものがあるということ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 隠されるのはnavigational contentなので、こういうことかなと。
 
 (太田) 誤訳のような。hide nav from view, within a menu ということで、「視界から隠し、メニューの中に入れる」ということなのではないかと思います。調整してみました。
@@ -8947,6 +9019,14 @@ the を訳出すべきか?
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T224101Z" creationid="rikiha" creationdate="20170909T224101Z">
         <seg>Flexboxはアルゴリズムで機能するので非常に強力です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flexbox, rather beautifully, handles direction automatically.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224150Z" creationid="rikiha" creationdate="20170909T224150Z">
+        <seg>Flexboxは、かなり見事に方向を自動的に処理します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9212,6 +9292,14 @@ googleのSERP内において、検索結果のページタイトルはh3でマ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T103252Z" creationid="yoota" creationdate="20170908T084233Z">
         <seg>たとえば、カスタムの&lt;g1&gt;&lt;g-review-stars&gt;&lt;/g1&gt;要素に&lt;g2&gt;aria-label&lt;/g2&gt;を使用して、評価が読み上げられるようにしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, to test the interface’s tolerance of different names, I might add the following forceFeed.js &lt;g1&gt;data-forcefeed&lt;/g1&gt; attribute to the artist link’s &lt;g2&gt;&lt;cite&gt;&lt;/g2&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224233Z" creationid="rikiha" creationdate="20170909T224233Z">
+        <seg>たとえば、インターフェイスがさまざまな長さの名前を許容できるかテストするには、以下のようにアーティストのリンクの&lt;cite&gt;にforceFeed.jsのdata-forcefeed属性を加えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11868,6 +11956,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, we explored the importance of giving users &lt;g1&gt;choice&lt;/g1&gt; and &lt;g2&gt;control&lt;/g2&gt; over how their content is arranged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224322Z" creationid="rikiha" creationdate="20170909T224322Z">
+        <seg>加えて、コンテンツをどのように並べるかについて、ユーザーに選択肢と主導権を与えることの重要性についても検討しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (岡本) 私はそのやり方で恩恵を受けるのは誰かを必ず考えます。</note>
@@ -13173,6 +13269,14 @@ becauseを訳出しました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T092132Z" creationid="yoota" creationdate="20170511T092051Z">
         <seg>この実装では、高さがわずか0.05emの&lt;g1&gt;linear-gradient&lt;/g1&gt;の背景がアンダーラインを形成しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this pattern we discovered two things.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224318Z" creationid="rikiha" creationdate="20170909T224318Z">
+        <seg>このパターンでは、2つのことが分かりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16370,6 +16474,14 @@ prelearnedは使い慣れたということでいいのか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note that I’m using a short set of &lt;g4&gt;lorem ipsum&lt;/g4&gt; words just for brevity, but you can populate your array how you like.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224244Z" creationid="rikiha" creationdate="20170909T224244Z">
+        <seg>ここでは簡略のために、少量のlorem ipsum（ロレム・イプサム：ダミーテキストの意）を使っていますが、自分の好きな単語を入れてかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 微調整。
 captureはとらえるで合っていますが、イマイチわかりにくい感があったので「伝えようとしている」としてみました。
@@ -16392,6 +16504,14 @@ https://eow.alc.co.jp/search?q=not+do+anything+fancy
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170823T032500Z" creationid="rikiha" creationdate="20170819T005313Z">
         <seg>ここでは、CSSによる配置やアニメーションといった、手の込んだことは一切しなかった点に注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that forceFeed.js needs a wrapper element to work, so let’s pretend we’ve used a script to place a &lt;g4&gt;&lt;span&gt;&lt;/g4&gt; around the title before the link.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224300Z" creationid="rikiha" creationdate="20170909T224300Z">
+        <seg>forceFeed.jsを機能させるにはラッパー要素が必要なので、リンクの前にあるタイトルを&lt;span&gt;で囲んでいたことにしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16664,6 +16784,14 @@ the URLは「このページのURL」としてみました。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170718T094203Z" creationid="yoota" creationdate="20170714T053527Z">
         <seg>さて、アクセシビリティコンサルタントが、これらの問題すべてを原則と達成基準ごとに整理してスプレッドシートにまとめ、レポートしたとしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now it’s back to refreshing the page and adapting the grid to tolerate any visual breakages better.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224312Z" creationid="rikiha" creationdate="20170909T224312Z">
+        <seg>後はページをリフレッシュし、グリッドに調整を加えて、視覚的な崩れに対する耐性を高めます。通常、問題は折り返しによって項目間の高さに違いが生じたことによって生じます。または、折り返しの不具合によってコンテンツが枠からはみ出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17272,6 +17400,14 @@ aria-labelledbyがあるとそっちが優先だったり、細かいルール�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170726T035858Z" creationid="rikiha" creationdate="20170725T074219Z">
         <seg>そのときの参加者のひとりがレオニーに相談を持ちかけました。あるプロトタイプのサイトナビゲーションにフォーカスが当てられず、その理由がわからないというのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the main reasons static mockups of interface components are defunct is that they tend to represent idealized content: people’s names of a particular length, and descriptions all exactly five lines high, for instance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224221Z" creationid="rikiha" creationdate="20170909T224221Z">
+        <seg>インターフェイスコンポーネントの静的なモックアップが廃れた主な理由の1つは、それが理想的なコンテンツを表しがちだからです（特定の長さの人名、すべてぴったり5行に収まる説明文など）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18451,6 +18587,14 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Second, when using semantic HTML, CSS can be used as a form of progressive enhancement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224320Z" creationid="rikiha" creationdate="20170909T224320Z">
+        <seg>そして2つ目は、セマンティックHTMLを使用するときに、CSSをプログレッシブエンハンスメントという形で使用できるということ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 訳としては合っているように思いますが前後とのつながりがなんか変ですね。接続詞などを補ったほうがいいかも。
 # ヘイドンさんすぐ前で「無用な受動態やめよう」とか書いてるのに……。
 
@@ -18633,6 +18777,14 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T112611Z" creationid="yoota" creationdate="20170501T112552Z">
         <seg>もし、フレームワークやプリプロセッサを利用して開発プロセスのスピードアップを図りたいと思う方がいらっしゃれば、それはご自由にどうぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should you, despite the right-to-left direction setting, want your grid to be laid out in a left-to-right configuration, you can force this using the CSS &lt;g1&gt;direction&lt;/g1&gt; property on the flex container:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224152Z" creationid="rikiha" creationdate="20170909T224152Z">
+        <seg>右から左の方向設定に反して、グリッドを左寄せで配置したい場合は、flexコンテナにCSSのdirectionプロパティを使用して強制的に左寄せにできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18826,6 +18978,14 @@ Good!</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170720T133202Z" creationid="rikiha" creationdate="20170717T120857Z">
         <seg>多くの組織がパターンの構成に&lt;g1&gt;&lt;g2&gt;Web Componentsの仕様&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注75）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を取り入れ始めています。今までと何が違い、追加で何をしなければならなくなったのか、インクルーシブデザインの観点から検討していきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since most names are composed of two words — a forename and surname — two seems reasonable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224243Z" creationid="rikiha" creationdate="20170909T224243Z">
+        <seg>ほとんどの人名は2つの単語（苗字と名前）で構成されているので、2が妥当でしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19039,6 +19199,14 @@ https://inclusive-components.design/#components
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T124217Z" creationid="yoota" creationdate="20170908T022736Z">
         <seg>このサイトでは商品を扱っているので、&lt;g1&gt;&lt;g2&gt;構造化データ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注152）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用して検索結果に出る商品の情報を追加できる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since we’ve covered wording and tone in previous chapters, let’s take some time to consider fluctuating quantity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224220Z" creationid="rikiha" creationdate="20170909T224220Z">
+        <seg>言葉遣いやトーンについては以前の章で説明したので、ここでは少し時間をかけて、変動する量について考えていきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19888,6 +20056,14 @@ target はそのままカタカナだと意味がとりにくいように思い�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Testing the tolerance of these word combinations is a simple case of reloading the page repeatedly to see whether any randomized combinations of words appear to break the layout, by causing an ugly wrapping behavior, for example.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224248Z" creationid="rikiha" creationdate="20170909T224248Z">
+        <seg>これらの単語の組み合わせに対する許容度のテストはシンプルです。ページを何度もリロードし、ランダムな組み合わせの単語が、見苦しい折り返しなどによってレイアウトを崩していないか確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T073253Z" creationid="yoota" creationdate="20170511T073253Z">
@@ -20590,12 +20766,28 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;words&lt;/g1&gt; parameter refers to an array of words of different lengths.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224234Z" creationid="rikiha" creationdate="20170909T224234Z">
+        <seg>wordsパラメータは、さまざまな長さの一連の単語を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)  1つ下がった→ひとつ下がった</note>
       <tuv lang="EN-US">
         <seg>The &lt;g2&gt;2&lt;/g2&gt; in &lt;g3&gt;&lt;h2&gt;&lt;/g3&gt; says “two levels deep,” or “one down from the first level.” Visually, headings are conventionally differentiated by font size: the deeper the level, the smaller the &lt;g4&gt;font-size&lt;/g4&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T103951Z" creationid="yoota" creationdate="20170522T100511Z">
         <seg>&lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;の&lt;g2&gt;2&lt;/g2&gt;が意味しているのは、「レベル2の深さ」、つまり「第1レベルからひとつ下がったレベル」ということです。視覚的には、見出しはフォントサイズで区別されるのが慣習となっており、レベルが深いほど &lt;g4&gt;font-size&lt;/g4&gt;は小さくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g2&gt;2&lt;/g2&gt; parameter refers to the number of randomized words I want to include.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224242Z" creationid="rikiha" creationdate="20170909T224242Z">
+        <seg>パラメータの2は、2つのランダムな単語を含めたいという意味です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20833,6 +21025,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170702T145535Z" creationid="yoota" creationdate="20170622T030404Z">
         <seg>原則ごとの評価における問題点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Product Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224249Z" creationid="rikiha" creationdate="20170909T224249Z">
+        <seg>商品のタイトル</seg>
       </tuv>
     </tu>
     <tu>
@@ -22206,6 +22406,14 @@ Chrome60では普通に「新しいタブで開く」が選択できてabout:bla
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The script also allows you to add &lt;g1&gt;between&lt;/g1&gt; &lt;g2&gt;x&lt;/g2&gt; and &lt;g3&gt;n&lt;/g3&gt; numbers of array items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224257Z" creationid="rikiha" creationdate="20170909T224257Z">
+        <seg>forceFeed.jsにはもう1つの特徴があり、並べる項目数の範囲をスクリプトに加えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second designer has many of the same skills exhibited by the first, but differs in one important aspect: they have enough knowledge of HTML, CSS and JavaScript to make their button appear inside a web page, and attach a JavaScript event listener to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095747Z" creationid="okamoto_jun" creationdate="20170627T095747Z">
@@ -23525,6 +23733,14 @@ marginは「マージン」で良いかと。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170819T005318Z" creationid="rikiha" creationdate="20170819T005318Z">
         <seg>これには3つのメリットがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This helps to test dynamic content for the title of the print.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224258Z" creationid="rikiha" creationdate="20170909T224258Z">
+        <seg>これは、写真プリントのタイトルについて、動的なコンテンツをテストするのに役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24915,6 +25131,14 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To make sure our products grid interface can tolerate fluctuating content length at the prototyping stage, we can make use of a tool like &lt;g1&gt;&lt;g2&gt;forceFeed.js&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;16&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224230Z" creationid="rikiha" creationdate="20170909T224230Z">
+        <seg>プロトタイプの段階で、プロダクトのグリッドインターフェイスが変動するコンテンツの長さを許容できることを確認するためには、forceFeed.jsなどのツールを利用します。（脚注171）このスクリプトを使うと、レイアウト案の特定のパラメータ内にランダムな分量のコンテンツが供給されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 語順等調整、ダッシュを活かしました。
 
 (太田)
@@ -25003,6 +25227,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To run this over all of the artist &lt;g3&gt;&lt;cite&gt;&lt;/g3&gt;s in a page, I first include forceFeed.js, then script the following.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224244Z" creationid="rikiha" creationdate="20170909T224244Z">
+        <seg>これをページ内の全アーティストの&lt;cite&gt;に実行するには、まずforceFeed.jsを含めてから、以下のようにスクリプトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 going to want to は「必要が出てくる」というほど強くない気がします。
 少し調整。
@@ -25048,6 +25280,14 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095421Z" creationid="okamoto_jun" creationdate="20170627T095421Z">
         <seg>彼らにとってボタンは視覚的な成果物であり、Adobe IllustratorやSketchで作るものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tolerating Dynamic Content</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224219Z" creationid="rikiha" creationdate="20170909T224219Z">
+        <seg>動的なコンテンツに対応する</seg>
       </tuv>
     </tu>
     <tu>
@@ -25746,6 +25986,14 @@ encounterは見つけようとして見つかるというより、たまたま�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T223433Z" creationid="rikiha" creationdate="20170909T223433Z">
         <seg>待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We also used some techniques to make sure our design was tolerant of dynamic and fluctuating content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224323Z" creationid="rikiha" creationdate="20170909T224323Z">
+        <seg>また、動的な変動するコンテンツにも対応できるデザインであることを確認するテクニックも使用しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26510,6 +26758,14 @@ in this way を取っても意味は通じるので、単にトリで良いよ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>When the front-end is built, problems can occur where variable content has an unexpected effect on layout.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224222Z" creationid="rikiha" creationdate="20170909T224222Z">
+        <seg>そしてフロントエンドが作られると、変動するコンテンツがレイアウトに予期せぬ影響を与えて問題が発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ヘイドンbreak。破綻としてみました。
 
 (伊原) LGTM</note>
@@ -26547,6 +26803,14 @@ reorganize難しいですね。「状態を変える」か、超訳ですが「�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170829T104606Z" creationid="rikiha" creationdate="20170827T115924Z">
         <seg>たとえば、テストユーザーがボタンを押したら、コンピュータはそれに反応してアプリケーションの状態を変えなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When two numbers are provided, as in &lt;g1&gt;words|1|10&lt;/g1&gt;, the script will place &lt;g2&gt;between&lt;/g2&gt; the first number and second number of array items as the text node.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T224305Z" creationid="rikiha" creationdate="20170909T224305Z">
+        <seg>words|1|10のように2つの数字を指定すると、スクリプトは1個（1つ目の数字）から10個（2つ目の数字）の項目をテキストノードとして配置します。</seg>
       </tuv>
     </tu>
     <tu>
