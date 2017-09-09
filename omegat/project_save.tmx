@@ -11790,7 +11790,9 @@ bullet pointはそのまま「ビュレット」と書かれる事もありま�
 著者側については、前回出現箇所に以下の訳注を入れています。直すなら訳注の位置づけも見直す感じです。
 
 訳注: 
-CSSには「カスケード」と呼ばれる仕組みがあり、著者(Author, コンテンツ制作者)、ユーザー、ユーザーエージェントの三者がそれぞれスタイルを定義することができます。コンテンツ制作者がCSSを用意していない場合、ブラウザ側が用意しているスタイルがそのまま使われます。また、それらに加えて、ユーザーが独自のスタイルを定義することもできます。</note>
+CSSには「カスケード」と呼ばれる仕組みがあり、著者(Author, コンテンツ制作者)、ユーザー、ユーザーエージェントの三者がそれぞれスタイルを定義することができます。コンテンツ制作者がCSSを用意していない場合、ブラウザ側が用意しているスタイルがそのまま使われます。また、それらに加えて、ユーザーが独自のスタイルを定義することもできます。
+
+(伊原) なるほど、OKです</note>
       <tuv lang="EN-US">
         <seg>In the absence of author CSS, the browser will display each list item with a bullet point and render the heading text in a large, bold font.</seg>
       </tuv>
@@ -13851,7 +13853,8 @@ Keyは重要でいいのか。
 
 (太田)
 「カギとなる情報」としました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Key Information</seg>
       </tuv>
@@ -22669,7 +22672,9 @@ compelには強要する、強いるという意味があり、転じて「目�
 
 (太田)
 OK
-岡本さん的に目玉商品で良いという意見なので、ママで。</note>
+岡本さん的に目玉商品で良いという意見なので、ママで。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Though it’s tempting to use a higher heading level like &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; to pick out featured products, this should be avoided as it would make for a nonsensical structure.</seg>
       </tuv>
