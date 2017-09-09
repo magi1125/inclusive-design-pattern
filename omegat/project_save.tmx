@@ -12925,12 +12925,16 @@ poorlyを「正しくない」とするのは強すぎるかもしれません�
 「ではなく」は強すぎ。
 調整しました。
 
-(伊原) 「アーカイブに利用されるもの」のアーカイブとは何かなと思いました。Webサイトにストックされるページ、ということでしょうか。</note>
+(伊原) 「アーカイブに利用されるもの」のアーカイブとは何かなと思いました。
+A・Googleなどがクロールして保管する情報のこと
+B・Googleなどがクロールする対象である、Webサイトの静的ページのこと
+C・Googleなどがクロールする対象である、Webサイトの静的ページの、メタデータ実体のこと（そこに書き記しておく的な意味で）
+とりあえず「データの保管」としてみましたが、イマイチな感じもします。</note>
       <tuv lang="EN-US">
         <seg>It’s a little like WAI-ARIA, but for archiving rather than assistive technology support.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T065453Z" creationid="yoota" creationdate="20170908T021836Z">
-        <seg>WAI-ARIAに少し似ていますが、支援技術をサポートするものというより、アーカイブに利用されるものです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T122148Z" creationid="yoota" creationdate="20170908T021836Z">
+        <seg>WAI-ARIAに少し似ていますが、支援技術をサポートするものというより、データの保管に利用されるものです。</seg>
       </tuv>
     </tu>
     <tu>
