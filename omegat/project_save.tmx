@@ -723,12 +723,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       <note>(岡本)
 下訳：&lt;span itemprop="ratingValue"&gt;4&lt;/span&gt;つ星、レビュー数&lt;span itemprop="reviewCount"&gt;13&lt;/span&gt;
 
-でよい？ 13のレビューの平均みたいなこと？</note>
+でよい？ 13のレビューの平均みたいなこと？
+
+(伊原) よいと思います。反映しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g169&gt;&lt;g170&gt;&lt;g171&gt;&lt;&lt;/g171&gt;span&lt;/g170&gt; &lt;g172&gt;itemprop&lt;/g172&gt;&lt;g173&gt;&lt;g174&gt;=&lt;/g174&gt;"ratingValue"&lt;/g173&gt;&lt;g175&gt;&gt;&lt;/g175&gt;&lt;/g169&gt;4&lt;g176&gt;&lt;g177&gt;&lt;g178&gt;&lt;/&lt;/g178&gt;span&lt;/g177&gt;&lt;g179&gt;&gt;&lt;/g179&gt;&lt;/g176&gt; stars, based on &lt;g180&gt;&lt;g181&gt;&lt;g182&gt;&lt;&lt;/g182&gt;span&lt;/g181&gt; &lt;g183&gt;itemprop&lt;/g183&gt;&lt;g184&gt;&lt;g185&gt;=&lt;/g185&gt;"reviewCount"&lt;/g184&gt;&lt;g186&gt;&gt;&lt;/g186&gt;&lt;/g180&gt;13&lt;g187&gt;&lt;g188&gt;&lt;g189&gt;&lt;/&lt;/g189&gt;span&lt;/g188&gt;&lt;g190&gt;&gt;&lt;/g190&gt;&lt;/g187&gt; reviews</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170908T084016Z">
-        <seg>&lt;g169&gt;&lt;g170&gt;&lt;g171&gt;&lt;&lt;/g171&gt;span&lt;/g170&gt; &lt;g172&gt;itemprop&lt;/g172&gt;&lt;g173&gt;&lt;g174&gt;=&lt;/g174&gt;"ratingValue"&lt;/g173&gt;&lt;g175&gt;&gt;&lt;/g175&gt;&lt;/g169&gt;4&lt;g176&gt;&lt;g177&gt;&lt;g178&gt;&lt;/&lt;/g178&gt;span&lt;/g177&gt;&lt;g179&gt;&gt;&lt;/g179&gt;&lt;/g176&gt; つ星、based on &lt;g180&gt;&lt;g181&gt;&lt;g182&gt;&lt;&lt;/g182&gt;span&lt;/g181&gt; &lt;g183&gt;itemprop&lt;/g183&gt;&lt;g184&gt;&lt;g185&gt;=&lt;/g185&gt;"reviewCount"&lt;/g184&gt;&lt;g186&gt;&gt;&lt;/g186&gt;&lt;/g180&gt;13&lt;g187&gt;&lt;g188&gt;&lt;g189&gt;&lt;/&lt;/g189&gt;span&lt;/g188&gt;&lt;g190&gt;&gt;&lt;/g190&gt;&lt;/g187&gt; レビュー</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T124906Z">
+        <seg>&lt;g169&gt;&lt;g170&gt;&lt;g171&gt;&lt;&lt;/g171&gt;span&lt;/g170&gt; &lt;g172&gt;itemprop&lt;/g172&gt;&lt;g173&gt;&lt;g174&gt;=&lt;/g174&gt;"ratingValue"&lt;/g173&gt;&lt;g175&gt;&gt;&lt;/g175&gt;&lt;/g169&gt;4&lt;g176&gt;&lt;g177&gt;&lt;g178&gt;&lt;/&lt;/g178&gt;span&lt;/g177&gt;&lt;g179&gt;&gt;&lt;/g179&gt;&lt;/g176&gt; つ星、レビュー数&lt;g180&gt;&lt;g181&gt;&lt;g182&gt;&lt;&lt;/g182&gt;span&lt;/g181&gt; &lt;g183&gt;itemprop&lt;/g183&gt;&lt;g184&gt;&lt;g185&gt;=&lt;/g185&gt;"reviewCount"&lt;/g184&gt;&lt;g186&gt;&gt;&lt;/g186&gt;&lt;/g180&gt;13&lt;g187&gt;&lt;g188&gt;&lt;g189&gt;&lt;/&lt;/g189&gt;span&lt;/g188&gt;&lt;g190&gt;&gt;&lt;/g190&gt;&lt;/g187&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25805,9 +25807,14 @@ http://postd.cc/nobody-wants-use-your-product/
     </tu>
     <tu>
       <note>(岡本)
-35.95ユーロ　　と単位を後にする表記にするにはどうする？</note>
+35.95ユーロ　　と単位を後にする表記にするにはどうする？
+
+(伊原) 単位を後ろにしました。</note>
       <tuv lang="EN-US">
         <seg>€&lt;g117&gt;&lt;g118&gt;&lt;g119&gt;&lt;&lt;/g119&gt;span&lt;/g118&gt; &lt;g120&gt;itemprop&lt;/g120&gt;&lt;g121&gt;&lt;g122&gt;=&lt;/g122&gt;"price"&lt;/g121&gt;&lt;g123&gt;&gt;&lt;/g123&gt;&lt;/g117&gt;35.95&lt;g124&gt;&lt;g125&gt;&lt;g126&gt;&lt;/&lt;/g126&gt;span&lt;/g125&gt;&lt;g127&gt;&gt;&lt;/g127&gt;&lt;/g124&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T124726Z">
+        <seg>&lt;g117&gt;&lt;g118&gt;&lt;g119&gt;&lt;&lt;/g119&gt;span&lt;/g118&gt; &lt;g120&gt;itemprop&lt;/g120&gt;&lt;g121&gt;&lt;g122&gt;=&lt;/g122&gt;"price"&lt;/g121&gt;&lt;g123&gt;&gt;&lt;/g123&gt;&lt;/g117&gt;35.95&lt;g124&gt;&lt;g125&gt;&lt;g126&gt;&lt;/&lt;/g126&gt;span&lt;/g125&gt;&lt;g127&gt;&gt;&lt;/g127&gt;&lt;/g124&gt;ユーロ</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
