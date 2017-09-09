@@ -311,6 +311,14 @@ unless を if の反対語として訳す感じにするといいのかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;&lt;g2&gt;Put users in control.&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223232Z" creationid="rikiha" creationdate="20170909T223232Z">
+        <seg>&lt;/g1&gt;2.ユーザーが調整できるようにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 tailorは単に「合わせる」というよりも「しつらえる」とかもう少し細やかな調整をするニュアンスかも。「しつらえる」もわかりにくい気がしたので、いったん「合わせて調整」としてみました。
 
@@ -371,8 +379,16 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Design with familiarity in mind.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170904T131750Z" creationid="rikiha" creationdate="20170828T141803Z">
-        <seg>&lt;/g1&gt;3.なじみやすさを念頭に置いてデザインする。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223234Z" creationid="rikiha" creationdate="20170828T141803Z">
+        <seg>3.なじみやすさを念頭に置いてデザインする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Give users choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223230Z" creationid="rikiha" creationdate="20170909T223230Z">
+        <seg>1.&lt;/g1&gt;&lt;g2&gt;ユーザーに選択肢を与える。&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,6 +1158,14 @@ OK
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;Put users in control&lt;/g1&gt; is the second of Henny Swan’s principles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223228Z" creationid="rikiha" creationdate="20170909T223228Z">
+        <seg>ユーザーに主導権を握らせる、というのはヘニー・スワンが提唱する原則の2つ目の項目です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;To my wife, Fan, who has the power to make me smile, in spite of the world.&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170202T002233Z" creationid="rikiha" creationdate="20170202T002233Z">
@@ -1165,6 +1189,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T021809Z" creationid="yoota" creationdate="20170908T021809Z">
         <seg>site:shop.the-photography-site.com [検索語句]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;“If you&lt;/g1&gt; can &lt;g2&gt;use a native HTML element or attribute with the semantics and behaviour you require &lt;g3&gt;already built in&lt;/g3&gt;, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, &lt;g4&gt;then do so&lt;/g4&gt;.”&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223302Z" creationid="rikiha" creationdate="20170909T223302Z">
+        <seg>必要なセマンティクスや動作が組み込まれたネイティブのHTML要素や属性が存在する場合は、要素の転用とARIAのロール、ステート、プロパティの追加でアクセシブルにする代わりに、ネイティブのものを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,6 +1698,14 @@ forego は「先に行く」のような感じですが、他動詞として使�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T150754Z" creationid="yoota" creationdate="20170809T102600Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;複数の&lt;g2&gt;&lt;nav&gt;&lt;/g2&gt;が存在するが一意のラベルがついていない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Having the ARIA role of &lt;g2&gt;form&lt;/g2&gt; on a &lt;g3&gt;&lt;form&gt;&lt;/g3&gt; seems counterintuitive, but it turns the widget into a region, making it navigable in screen readers using shortcuts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223320Z" creationid="rikiha" creationdate="20170909T223320Z">
+        <seg>•&lt;form&gt;にformというARIAロールがあるのは直観に反するようですが、それがウィジェットを領域にし、スクリーンリーダーでのショートカットを用いたナビゲーションを可能にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2212,6 +2252,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; contains a single &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt; which is used to group the radio options under the label “Sort by,” followed by a submit button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223327Z" creationid="rikiha" creationdate="20170909T223327Z">
+        <seg>•&lt;form&gt;には1つの&lt;fieldset&gt;が含まれ、これを使って「並び替え順」ラベル下のradioオプションをグループ化し、その後にsubmit（送信）ボタンが続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 元訳は微妙に誤訳かも。
 調整しました。
@@ -2235,6 +2283,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170802T091736Z" creationid="rikiha" creationdate="20170727T134711Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;HTML5の&lt;g2&gt;hidden&lt;/g2&gt;属性を使い、視覚とスクリーンリーダーの両方から説明を隠しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The browser delegates arrow keys (left and right, up and down) for selecting different options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223332Z" creationid="rikiha" creationdate="20170909T223332Z">
+        <seg>•ブラウザでは、矢印キー（左矢印、右矢印、上矢印、下矢印）を使って異なるオプションを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2493,6 +2549,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091512Z" creationid="okamoto_jun" creationdate="20170627T091512Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Webページは不変の成果物ではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;We’re using the &lt;g2&gt;get&lt;/g2&gt; method on the form to rebuild the page from the server without relying on client-side JavaScript, at this stage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223337Z" creationid="rikiha" creationdate="20170909T223337Z">
+        <seg>•この段階では、formでgetメソッドを使い、サーバーからページを再構築しています。クライアント側のJavaScriptには依存していません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4019,6 +4083,14 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170823T082736Z" creationid="rikiha" creationdate="20170823T082736Z">
         <seg>ホワイトボード用のペン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Filter Widget</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223220Z" creationid="rikiha" creationdate="20170909T223220Z">
+        <seg>9章：フィルターウィジェット</seg>
       </tuv>
     </tu>
     <tu>
@@ -6456,6 +6528,14 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>But just because JavaScript is available, doesn’t mean we should get carried away tearing everything up and rewriting it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223424Z" creationid="rikiha" creationdate="20170909T223424Z">
+        <seg>ただし、JavaScriptが利用できるからといって、調子に乗ってすべてを破棄し、書き直すべきではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 括弧書きは不要かと。
 調整してみました。
@@ -6744,6 +6824,14 @@ Tabの件は了解です、ありがとうございます。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By designing our sorting widget with conventional, well-supported markup, we’ve already ensured it is accessible to keyboard and screen reader users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223342Z" creationid="rikiha" creationdate="20170909T223342Z">
+        <seg>この並び替えウィジェットは、慣習的で十分な裏付けのあるマークアップでデザインしたので、すでにキーボードユーザーとスクリーンリーダーユーザーにとってアクセシブルになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>By differentiating inline links by color alone, some readers will not be able to pick them out from the surrounding text, so there should be another means.</seg>
@@ -6892,6 +6980,14 @@ segregateは隔離というより分離としたほうがしっくりくるか�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T081010Z" creationid="yoota" creationdate="20170522T101509Z">
         <seg>コンテンツを視覚的に扱う一方で、非視覚的には別の方法でコンテンツを処理するということは、見えているユーザーと見えていないユーザーを分離し始めているということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By now, you’ll know what this means for screen reader and keyboard users: having to hear all the page information again or having to traverse through all the document’s preamble to get to the content they were just interacting with.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223428Z" creationid="rikiha" creationdate="20170909T223428Z">
+        <seg>これがスクリーンリーダーユーザーとキーボードユーザーにとって何を意味するか、もうお分かりでしょう。それまでインタラクションを行っていたコンテンツにたどり着くには、すべてのページ情報をもう一度聞かなければならない、または、ドキュメントの前置きをすべてたどらなければならないということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7067,6 +7163,14 @@ rudimentaryは原始的のほうがいいかも。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170526T165857Z" creationid="yoota" creationdate="20170523T095528Z">
         <seg>以下のように、&lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; と&lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;を &lt;g4&gt;&lt;hgroup&gt;&lt;/g4&gt;でラップすることで、理論上はアウトラインから&lt;g5&gt;&lt;h2&gt;&lt;/g5&gt;を取り除き、サブ見出しが作られることを防げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS Enhancement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223341Z" creationid="rikiha" creationdate="20170909T223341Z">
+        <seg>CSSによる改善</seg>
       </tuv>
     </tu>
     <tu>
@@ -7562,6 +7666,14 @@ they are hyperlinks は当たり前のことを繰り返しているように見
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Despite the inclusive nature of standard radio buttons, they offer limited styling opportunities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223344Z" creationid="rikiha" creationdate="20170909T223344Z">
+        <seg>標準のradioボタンはインクルーシブな性質を備えていますが、スタイルの面でできることは限られています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 係り受けとしてはこうなのでは。訳はもう少し洗練できる気がします。
 
 (太田) たしかに微妙に語弊がある気がします。
@@ -7737,6 +7849,14 @@ draw onは経験を活かすような意味。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170902T145111Z" creationid="rikiha" creationdate="20170828T141731Z">
         <seg>各商品の見出しは同じレベル（レベル3）にしましょう。同じリストを構成するものであり、階層が同等だからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each time a user chooses a new filtering option and hits the sort button, there’s currently a page refresh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223427Z" creationid="rikiha" creationdate="20170909T223427Z">
+        <seg>現状では、ユーザーが新しいフィルタオプションを選択し、並び替えボタンを押すたびにページがリフレッシュされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7952,6 +8072,14 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101153Z" creationid="okamoto_jun" creationdate="20170627T101153Z">
         <seg>しかし、恐れたり面倒に思ったりすることは全くありません。彼らは、一般的な慣習を利用すれば、わずかな労力で問題を解決できることを知っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filtering tools are important because they offer an additional dimension of control over search, facilitating users’ ability to prioritize the information they’re viewing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223227Z" creationid="rikiha" creationdate="20170909T223227Z">
+        <seg>フィルタツールは、検索のコントロールという新たな側面を提供し、ユーザーは見ている情報に優先順位をつけられるようになるので重要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8198,6 +8326,14 @@ the を訳出すべきか?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Focusing it would trigger the announcement of “Sort by most recent, selected, radio button, one of four.” “Sort by” is the group label; “most recent” is the element label; “selected” is the element state; “radio button” is the element role.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223331Z" creationid="rikiha" creationdate="20170909T223331Z">
+        <seg>フォーカスすると、「＃＃並び替え順、新着順、selected, radio button, one of four.＃＃」という読み上げをトリガーします。「並び替え順」はグループラベル、「新着順」は要素ラベル、「＃＃selected＃＃」は要素ステート、「＃＃radio button＃＃」は要素ロールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) その時点で→フォーカスがあたると (原文 Focusing the skip link)
 
 (伊原) LGTM</note>
@@ -8372,6 +8508,14 @@ massiveは「大きくて重い、大規模な」というような意味です�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T103817Z" creationid="yoota" creationdate="20170512T102756Z">
         <seg>たとえば、私がテストをしていたときに、スクリーンリーダーが複雑なDOMの解析に苦労し、誤った出力をしたことがありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, submitting the form with the popularity option selected will build a page with &lt;g3&gt;?sort-method=popularity&lt;/g3&gt; as the query parameter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223338Z" creationid="rikiha" creationdate="20170909T223338Z">
+        <seg>たとえば、人気順オプションを選択してフォームを送信すると、クエリパラメータとして?sort-method=popularityを使用しページが構築されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9379,6 +9523,19 @@ https://github.com/rikiha/inclusive-design-pattern/commit/b3de996369b41d914699d3
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How It Might Look</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223242Z" creationid="rikiha" creationdate="20170909T223242Z">
+        <seg>見た目の一例並び替え順
+新着順
+人気順
+価格の安い順
+価格の高い順
+並び替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How To Mark Up Blog Articles &lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;&lt;/g8&gt;span&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;In Seven Easy Steps&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;/&lt;/g12&gt;span&lt;/g11&gt;&lt;g13&gt;&gt;&lt;/g13&gt;&lt;/g10&gt;
 &lt;g14&gt;&lt;g15&gt;&lt;g16&gt;&lt;/&lt;/g16&gt;h1&lt;/g15&gt;&lt;g17&gt;&gt;&lt;/g17&gt;&lt;/g14&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -9414,6 +9571,14 @@ https://github.com/rikiha/inclusive-design-pattern/commit/b3de996369b41d914699d3
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>How we marked up individual product components and how we grouped them together were both pertinent to inclusive design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223224Z" creationid="rikiha" creationdate="20170909T223224Z">
+        <seg>個々の商品コンテンツのマークアップ方法と、それらをグループ化する方法は、どちらもインクルーシブデザインに即するものでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM
 </note>
       <tuv lang="EN-US">
@@ -9421,6 +9586,14 @@ https://github.com/rikiha/inclusive-design-pattern/commit/b3de996369b41d914699d3
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T104044Z" creationid="yoota" creationdate="20170512T103930Z">
         <seg>しかし、&lt;g1&gt;非常に複雑なレイアウトは構築すべきでないのです&lt;/g1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, as I wrote in “&lt;g1&gt;&lt;g2&gt;Replacing Radio Buttons Without Replacing Radio Buttons&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;4&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” you don’t actually &lt;g6&gt;have&lt;/g6&gt; to style the &lt;g7&gt;&lt;input type="radio"&gt;&lt;/g7&gt; element directly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223346Z" creationid="rikiha" creationdate="20170909T223346Z">
+        <seg>•しかし、「Replacing Radio Buttons Without Replacing Radio Buttons」（脚注159）でも書いているように、&lt;input type="radio"&gt;要素を直接スタイル付けする必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9509,6 +9682,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170730T144345Z" creationid="rikiha" creationdate="20170730T124412Z">
         <seg>しかし、ナビゲーションランドマークにはキーボードショートカットを使って直接アクセスできるため、それ単体で完結していなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the &lt;g6&gt;&lt;g7&gt;first rule of ARIA use&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;2&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; states:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223301Z" creationid="rikiha" creationdate="20170909T223301Z">
+        <seg>ただし、ARIA使用の1番目のルール（脚注157）には、次のように書かれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10298,6 +10479,14 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If you can use it, you should, so it’s worth investigating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223303Z" creationid="rikiha" creationdate="20170909T223303Z">
+        <seg>前者が使える場合は、そちらの方が研究する価値があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) unfortunate を訳出しました
 
 (岡本) 26→27</note>
@@ -10555,6 +10744,14 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170731T135715Z" creationid="rikiha" creationdate="20170730T124430Z">
         <seg>ホームページに&lt;g1&gt;いる&lt;/g1&gt;状態を想定して、ロゴのリンクの遷移先を&lt;g2&gt;#main&lt;/g2&gt;にしています。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Imagining we’re still dealing in products, this is how the widget might look:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223312Z" creationid="rikiha" creationdate="20170909T223312Z">
+        <seg>引き続き商品を扱っているという想定で、ウィジェットは以下の例のようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10983,6 +11180,14 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T071407Z" creationid="yoota" creationdate="20170511T071407Z">
         <seg>どちらにしても、テキストと背景の色のコントラストを低くするのは避けるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In any case, our sorting widget consists of a set of mutually exclusive options each with their own unique label, and grouped under a common label.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223308Z" creationid="rikiha" creationdate="20170909T223308Z">
+        <seg>ここで説明する並び替えウィジェットは、相互に排他的な一連のオプションで構成されています。各オプションは固有のラベルを持ち、共通のラベルに分類されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11662,6 +11867,14 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In summary: never fix with JavaScript and WAI-ARIA what can be achieved with HTML and CSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223413Z" creationid="rikiha" creationdate="20170909T223413Z">
+        <seg>要約すると、HTMLとCSSで達成できることを、JavaScriptとWAI-ARIAを使って修正してはいけない、ということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) critical は大切というよりもう少し強いニュアンスかも。いったん「重要」としてみました。
 
 (伊原) LGTM</note>
@@ -12078,6 +12291,14 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In the following structure, the &lt;g1&gt;for&lt;/g1&gt;/&lt;g2&gt;id&lt;/g2&gt; relationship means that clicking (or pressing) the &lt;g3&gt;&lt;label&gt;&lt;/g3&gt; operates the associated &lt;g4&gt;&lt;input&gt;&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223348Z" creationid="rikiha" creationdate="20170909T223348Z">
+        <seg>以下の構造では、forとidの関係は、&lt;label&gt;をクリックすると（または押すと）、関連付けられた&lt;input&gt;が作動することを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 画像のaltです。
 
 (伊原) 下訳の反映。
@@ -12087,6 +12308,14 @@ becauseを訳出しました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T172811Z">
         <seg>読み込みのプロセスにおいて、まずHTMLとそのコンテンツを取得する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the previous chapter we went commercial and looked at a pattern for displaying products.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223221Z" creationid="rikiha" creationdate="20170909T223221Z">
+        <seg>前章では商業的な面に目を向け、商品を提示するパターンを学びました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12600,6 +12829,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170831T043713Z" creationid="rikiha" creationdate="20170827T115944Z">
         <seg>「Test usability, not users.（ユーザーではなく、ユーザビリティをテストする）」というのは彼女のモットーです。&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can also be manipulated without a dependence on JavaScript and assumes a familiar form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223344Z" creationid="rikiha" creationdate="20170909T223344Z">
+        <seg>また、JavaScriptに依存せずに操作でき、なじみのある形式になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13165,6 +13402,14 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s fair to say it’s a bit &lt;g1&gt;clunky&lt;/g1&gt;, though.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223420Z" creationid="rikiha" creationdate="20170909T223420Z">
+        <seg>しかし、少しばかり使い勝手が悪いと言えるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) OK</note>
@@ -13258,6 +13503,14 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170829T103413Z" creationid="rikiha" creationdate="20170827T115921Z">
         <seg>プライバシーへの配慮のため、このシナリオは、個人の実体験に基づかない架空のものにすることが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s important to communicate that content is being fetched to screen reader users as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223456Z" creationid="rikiha" creationdate="20170909T223456Z">
+        <seg>コンテンツが画面に表示されたことをスクリーンリーダーユーザーにも伝えることが重要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13704,6 +13957,22 @@ implementationを例→実装としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T093742Z" creationid="yoota" creationdate="20170523T093706Z">
         <seg>以下のように、別の見出し要素にサブタイトルを入れている実装を多数見たことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JavaScript Enhancement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223417Z" creationid="rikiha" creationdate="20170909T223417Z">
+        <seg>JavaScriptによる改善</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just because JavaScript is (well, might be) available doesn’t mean you should use it to &lt;g1&gt;&lt;g2&gt;reinvent the wheel&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223307Z" creationid="rikiha" creationdate="20170909T223307Z">
+        <seg>JavaScriptが利用できる（かもしれない）からといって、一から作り直す必要はないのです。（脚注158）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14172,6 +14441,14 @@ manageは管理で良いような。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170522T093656Z" creationid="yoota" creationdate="20170515T084556Z">
         <seg>&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;要素と同じく、&lt;g2&gt;&lt;h1&gt;&lt;/g2&gt;は、支援技術のユーザーにナビゲーション用のショートカットを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like the navigation regions we covered earlier in the book, filtering widgets are &lt;g1&gt;meta&lt;/g1&gt; content, provided as a tool to change the content of the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223239Z" creationid="rikiha" creationdate="20170909T223239Z">
+        <seg>本書で前述したナビゲーション領域と同様、フィルタウィジェットはメタコンテンツであり、ページのコンテンツを変更するツールとして提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15319,6 +15596,14 @@ Note を訳出したほうが良いかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note that the selected control is highlighted in a color-independent fashion so that our color-blind and low vision users can determine the selected option.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223258Z" creationid="rikiha" creationdate="20170909T223258Z">
+        <seg>選択したコントロールは色に依存しない方法でハイライト表示されているので、色覚異常や低視力のユーザーも選択されたオプションを見分けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 Noteが落ちていますね。他に合わせて「注目してください」としました。
 supersedeはここでは上書きして置き換えるくらいの強めの意味のように思います。「上書きされ」としました。
@@ -15513,6 +15798,14 @@ Now→さて、としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170905T102848Z" creationid="rikiha" creationdate="20170905T003651Z">
         <seg>さて、ページをリロードして待ちましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now that all the interaction and visual feedback is attached to the label, we can safely hide the obstinately ugly radio button from view.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223404Z" creationid="rikiha" creationdate="20170909T223404Z">
+        <seg>これですべてのインタラクションと視覚的なフィードバックがラベルに指定されたので、安心して融通の利かない見苦しいボタンを非表示にできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16199,6 +16492,14 @@ textureをテクスチャと書かれても良くわからない気がします�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Or both.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223430Z" creationid="rikiha" creationdate="20170909T223430Z">
+        <seg>その両方ということもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「直接的なリストナビゲーション」要検討。
 NVDAの"I"キーによる移動は単に「1文字ナビゲーション」と呼ばれている。
@@ -16484,6 +16785,14 @@ https://ja.wikipedia.org/wiki/プレイン・イングリッシュ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T085053Z" creationid="yoota" creationdate="20170515T085044Z">
         <seg>実質的に、&lt;g1&gt;&lt;main&gt;&lt;/g1&gt;と&lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; は似たような機能を提供していますが、両方を採用するのはなぜでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressing the right arrow key, for instance, will focus and select the next radio button with the &lt;g2&gt;name="sort-method"&lt;/g2&gt; attribute - “popularity.” In screen readers this will announce something similar to “Sort by popularity, selected, radio button, two of four.” Note that “Sort by” is read whichever radio button is selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223333Z" creationid="rikiha" creationdate="20170909T223333Z">
+        <seg>たとえば、右矢印キーを押すと、name="sort-method"属性を持つ次のradioボタン、「人気順」をフォーカスおよび選択します。スクリーンリーダーでは、「＃＃並び替え順、人気順、selected, radio button, two of four.＃＃」などと読み上げられます。「並び替え順」は、どのradioボタンが選択されても読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17580,6 +17889,14 @@ can benefit は「良いでしょう」くらいで。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the basic functionality works without JavaScript and triggers a page refresh, this helps users navigate back to the form from the top of the document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223326Z" creationid="rikiha" creationdate="20170909T223326Z">
+        <seg>基本的な機能はJavaScriptがなくても機能し、ページリフレッシュをトリガーするので、ドキュメントのトップからフォームに戻るのに便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the button’s label of “Start” is in a background image as part of CSS’s presentation layer, this too is unavailable to assistive technologies.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101018Z" creationid="okamoto_jun" creationdate="20170627T101018Z">
@@ -17979,6 +18296,22 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Solutions usually rely on harnessing the behavior of standard HTML form elements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223305Z" creationid="rikiha" creationdate="20170909T223305Z">
+        <seg>たいていの解決策は、標準HTML形式の要素の動作を利用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some complex JavaScript widgets, like &lt;g1&gt;&lt;g2&gt;tab interfaces&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, depend on WAI-ARIA semantics and custom (JavaScript) keyboard bindings to be made fully accessible by keyboard and to screen readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223300Z" creationid="rikiha" creationdate="20170909T223300Z">
+        <seg>タブインターフェイス（脚注156）など、一部の複雑なJavaScriptウィジェットは、キーボードやスクリーンリーダーで十分にアクセスできるようにするために、WAI-ARIAセマンティクスおよびカスタム（JavaScript）のキーボードバインディングに依存しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「別に」要検討。分離とかそのあたりか。
 
 (伊原) LGTM</note>
@@ -18179,6 +18512,22 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170616T114623Z" creationid="yoota" creationdate="20170613T051653Z">
         <seg>話し手の特定と効果音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard behavior is that only this checked &lt;g8&gt;&lt;input&gt;&lt;/g8&gt; is focusable by &lt;g9&gt;Tab&lt;/g9&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223330Z" creationid="rikiha" creationdate="20170909T223330Z">
+        <seg>標準動作では、このチェックされた&lt;input&gt;のみがTabキーでフォーカス可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard browser-enabled interactivity is more performant and robust than that facilitated by custom JavaScript.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223303Z" creationid="rikiha" creationdate="20170909T223303Z">
+        <seg>標準のブラウザ対応のインタラクティブ性の方が、カスタムJavaScriptの助けをかりたものよりもパフォーマンスに優れ堅牢です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18486,6 +18835,14 @@ target はそのままカタカナだと意味がとりにくいように思い�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Telling users that content is pending and will arrive in a matter of time is the preserve of the ubiquitous loading symbol, which looks a bit like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223436Z" creationid="rikiha" creationdate="20170909T223436Z">
+        <seg>コンテンツの処理中で、もうすぐ表示されるということをユーザーに伝えるのは、よく目にする読み込み中のマークです。この図のような見た目をしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) の➞による
 
 (太田) OK</note>
@@ -18670,6 +19027,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That is, the &lt;g5&gt;&lt;label&gt;&lt;/g5&gt; extends the click area of the &lt;g6&gt;&lt;input&gt;&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223349Z" creationid="rikiha" creationdate="20170909T223349Z">
+        <seg>つまり、&lt;label&gt;は&lt;input&gt;のクリック領域を拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) semanticallyはセマンティック的に訳す必要があるかも。
 
 (伊原) LGTM</note>
@@ -18785,6 +19150,14 @@ yourを「コンテンツ側で」として補いました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170828T141615Z" creationid="rikiha" creationdate="20170828T141615Z">
         <seg>そうすれば、おそらくコストが削減できるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That way, new content can be added without reloading the page and the keyboard-dependent user can progress directly from the widget (where focus will remain) into the content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223432Z" creationid="rikiha" creationdate="20170909T223432Z">
+        <seg>そうすれば、ページをリロードせずに新しいコンテンツを加えることができ、キーボードに頼っているユーザーは、ウィジェット（フォーカスされたままになっている）からそのままコンテンツの操作を続けることできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19337,6 +19710,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The Markup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223259Z" creationid="rikiha" creationdate="20170909T223259Z">
+        <seg>マークアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本）書体が違うのが謎ですが、見出しレベルは2ですね。</note>
       <tuv lang="EN-US">
         <seg>The Navigation Landmark</seg>
@@ -19714,6 +20095,14 @@ jaw は動詞だとスラングで Impudent or abusive talk.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The circular loading graphic with the text ‘Loading products…’</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223440Z" creationid="rikiha" creationdate="20170909T223440Z">
+        <seg>商品の読み込み中…</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文で括弧でくくられている "DOC" を意訳で取り除くのは抵抗があります。Webページはドキュメントですよ、と言ったあとに、DOCTYPEの先頭にDOCと書いてあるでしょ、といっている感じですね。これはジョークに近いかもしれません。clueは手がかり、糸口のような意味ですが「その証拠に」としてみました。もう少し砕いた訳でもいいかもしれません。</note>
       <tuv lang="EN-US">
         <seg>The clue is in the “DOC” part which should appear in the first line of code: &lt;c0&gt;&lt;!DOCTYPE html&gt;&lt;/c0&gt;.</seg>
@@ -20009,6 +20398,14 @@ conceptはそのままコンセプトでもいいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The foundation is solid; there’s no need to recreate in JavaScript the parts that already work without it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223426Z" creationid="rikiha" creationdate="20170909T223426Z">
+        <seg>しっかりした土台ができているので、JavaScriptなしですでに問題なく機能している部分はJavaScriptで作り直す必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (伊原) 下訳を反映</note>
@@ -20277,6 +20674,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number four is the total number of radio buttons which share a common &lt;g10&gt;name="sort-method"&lt;/g10&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223331Z" creationid="rikiha" creationdate="20170909T223331Z">
+        <seg>数字の4は、同じname="sort-method"を共有するradioボタンの総数です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of people contributing to the web at any given moment is unfathomable, and so is the variety of their talents and skills.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084434Z" creationid="okamoto_jun" creationdate="20170627T084434Z">
@@ -20325,6 +20730,22 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170907T091111Z" creationid="rikiha" creationdate="20170905T004349Z">
         <seg>その結果、ユーザーは&lt;g2&gt;リンクに触れる&lt;/g2&gt;（マウスカーソルを載せて手の形になるか、キーボードフォーカスが表示される）まで、インタラクションがあることがわかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pattern we’ve devised is already fully functional and robust.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223419Z" creationid="rikiha" creationdate="20170909T223419Z">
+        <seg>ここまで考案してきたパターンはすでに十分機能し、堅牢です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pattern will be founded on progressive enhancement and will work in the absence of both CSS and JavaScript, though we shall improve the experience inclusively with a careful application of those two technologies respectively.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223241Z" creationid="rikiha" creationdate="20170909T223241Z">
+        <seg>このパターンは、プログレッシブエンハンスメントに基づいて構築します。CSSとJavaScriptがなくても機能しますが、ここではこの2つのテクノロジーもそれぞれ慎重に用いて、インクルーシブな方法で体験を向上させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20872,6 +21293,14 @@ would formなので、形作られたものになるでしょう、とか、そ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The trouble is, this is only determinable by sighted users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223443Z" creationid="rikiha" creationdate="20170909T223443Z">
+        <seg>問題は、これを確認できるのは晴眼のユーザーだけだという点です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 bite my tongue のようなヘイドンフレーズを生かすべきか。
 
@@ -21345,6 +21774,14 @@ NVDA2017.2jaでは、 aria-current="page" を「現在のページ」、 aria-cu
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>These have idiosyncratic semantics, key bindings and behaviors built in for our convenience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223306Z" creationid="rikiha" creationdate="20170909T223306Z">
+        <seg>利便性のために、これらの要素には特異なセマンティクス、キーバインディング、動作が組み込まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 便利というほどではないかなと。また、ナビゲーションランドマークを移動するのではなく、ナビゲーションランドマーク内のリンクを辿るのだと思われます。
 
 (岡本)　辿り→たどり
@@ -21777,6 +22214,14 @@ breakは破綻としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This ensures that if I were to leave the widget and begin focusing other page elements and then return to it, I’d be reminded of the sorting function no matter which option is currently selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223335Z" creationid="rikiha" creationdate="20170909T223335Z">
+        <seg>これにより、ウィジェットをいったん離れ、別のページ要素をフォーカスした後にまた戻っても、現在どのオプションが選択されているかに関わらず、並び替え機能だと思い出させてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 marginは「マージン」で良いかと。
 「発生」は少し違和感がありますね。日本語では「マージンをつける」のような言い方が多いでしょうか。
@@ -22167,6 +22612,14 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091453Z" creationid="okamoto_jun" creationdate="20170627T091453Z">
         <seg>これこそが最善策である。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the main reason why we dispense with them in favor of either completely inaccessible &lt;g1&gt;&lt;div&gt;&lt;/g1&gt;- and &lt;g2&gt;&lt;span&gt;&lt;/g2&gt;-based solutions, or comparatively fragile and complex WAI-ARIA implementations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223345Z" creationid="rikiha" creationdate="20170909T223345Z">
+        <seg>まったくアクセシブルではない&lt;div&gt;ベースや&lt;span&gt;ベースの解決策や、比較的脆弱で複雑なWAI-ARIAの実装を選んでしまう主な理由はそこにあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22972,6 +23425,14 @@ explicitlyを訳出したいかも。「明示的に」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To begin with, the first option (“most recent”) is checked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223329Z" creationid="rikiha" creationdate="20170909T223329Z">
+        <seg>まず、最初のオプション（「新着順」）にチェックを入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 突然SVGの話が出てきた感。さらに高める的な話かなと思うので、調整してみました。
 
 (太田)
@@ -23123,6 +23584,14 @@ https://github.com/mnater/Hyphenator
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170517T071817Z" creationid="yoota" creationdate="20170511T054145Z">
         <seg>さらに悪いことに、ハイフネーションを行う&lt;g7&gt;&lt;g8&gt;JavaScriptのポリフィル&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注23）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;は、膨大なハイフネーションパターンの定義を参照する必要があるため、極度に重くなりがちです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make ours inclusive, we need to consider blind and keyboard users, potential performance issues and visual clarity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223240Z" creationid="rikiha" creationdate="20170909T223240Z">
+        <seg>これをインクルーシブなものにするためには、目の不自由なユーザーやキーボードユーザー、潜在的なパフォーマンスの問題、視覚的な明瞭さについて考慮する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23954,6 +24423,14 @@ encounterは見つけようとして見つかるというより、たまたま�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Waiting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223433Z" creationid="rikiha" creationdate="20170909T223433Z">
+        <seg>待機</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 divに小細工するのではなく既存のbutton要素を使う、というのと同様に既にあるものを使うのだという話。
 調整してみましたがどうでしょうか。
@@ -23990,6 +24467,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170818T052904Z" creationid="rikiha" creationdate="20170815T160814Z">
         <seg>&lt;g10&gt;&lt;button&gt;&lt;/g10&gt;要素に直接、&lt;g9&gt;aria-label&lt;/g9&gt;をアタッチすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can create this structure using a &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;, &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; and radio buttons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223309Z" creationid="rikiha" creationdate="20170909T223309Z">
+        <seg>この構造は、&lt;fieldset&gt;、&lt;legend&gt;、radio（ラジオ）ボタンを使って作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24056,6 +24541,14 @@ dexterityは他の箇所には無い模様。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170824T030846Z" creationid="rikiha" creationdate="20170819T005420Z">
         <seg>リウマチのせいで手先を器用に動かせないユーザーにも使える、インクルーシブなものにしたいところです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We even made sure they would be rich with accessible information &lt;g1&gt;outside&lt;/g1&gt; of our own interface, as search engine results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223225Z" creationid="rikiha" creationdate="20170909T223225Z">
+        <seg>さらに、検索エンジンの検索結果といった、自身のサイトのインターフェイス以外でもアクセシブルな情報が十分に含まれるよう配慮しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24227,6 +24720,14 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>We’ll enhance the experience with JavaScript in the “JavaScript Enhancement” section to come.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223340Z" creationid="rikiha" creationdate="20170909T223340Z">
+        <seg>JavaScriptを用いた体験の改善については、後ほど「JavaScriptによる改善」セクションで説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 accurateは「的確な表現ができる」としてみました。
 ちょっと調整。
@@ -24325,6 +24826,14 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>What we’ve yet to address is providing the tools for users to reorganize and sort lists of content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223226Z" creationid="rikiha" creationdate="20170909T223226Z">
+        <seg>まだ取り上げていないのは、ユーザーがコンテンツリストの再編成や並び替えを行えるようにするツールの提供です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 肥大化するものが何なのかを足しました。
 
 (太田) OK</note>
@@ -24395,6 +24904,14 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T070000Z" creationid="yoota" creationdate="20170511T065922Z">
         <seg>行の高さをピクセルベースで指定していた場合、結果は以下のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a radio &lt;g4&gt;&lt;input&gt;&lt;/g4&gt; is focused, the &lt;g5&gt;&lt;legend&gt;&lt;/g5&gt; content is announced followed by the &lt;g6&gt;&lt;input&gt;&lt;/g6&gt;’s &lt;g7&gt;&lt;label&gt;&lt;/g7&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223328Z" creationid="rikiha" creationdate="20170909T223328Z">
+        <seg>radioの&lt;input&gt;がフォーカスされると、&lt;legend&gt;コンテンツが読み上げられ、&lt;input&gt;の&lt;label&gt;がその後に続きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24710,6 +25227,14 @@ useが命令形なので末尾「しましょう」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Where JavaScript is available to the user, we ought to enhance the experience where we can.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223423Z" creationid="rikiha" creationdate="20170909T223423Z">
+        <seg>ユーザーがJavaScriptを利用できる場合は、可能な限り体験を改善すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 書くようにしましょう➞書くべきです。
 
 (太田) 画像でリンクする→画像をリンクにする、のほうがしっくりくるかなと。
@@ -24790,6 +25315,14 @@ integratedは統合された?
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T172042Z" creationid="yoota" creationdate="20170426T025617Z">
         <seg>可能であれば、統合されたJavaScriptウィジェットを、きちんと構造化された静的なコンテンツとインタラクティブなフォーム要素に分解します。そうすることで、JavaScriptやCSSを――一時的に、あるいは常時――利用しないユーザーでも、コンテンツをたどったり利用したりできるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where possible, we should aim to repopulate our list with &lt;g1&gt;&lt;g2&gt;XHR&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;6&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223431Z" creationid="rikiha" creationdate="20170909T223431Z">
+        <seg>可能な限り、XHR（脚注161）を利用してリストを再表示することを目指すべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25211,6 +25744,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>You can hide it and style the &lt;g8&gt;&lt;label&gt;&lt;/g8&gt; as a proxy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223347Z" creationid="rikiha" creationdate="20170909T223347Z">
+        <seg>それを隠して、&lt;label&gt;をプロキシとしてスタイル付けすれば良いのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 分かりにくかったので語順を調整しました。
 
@@ -25608,6 +26149,14 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170722T131138Z" creationid="rikiha" creationdate="20170722T130831Z">
         <seg>についても説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“&lt;g1&gt;&lt;g2&gt;WTF, forms?&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;5&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;” by Mark Otto provides similar CSS enhancement solutions for checkboxes, &lt;g6&gt;&lt;select&gt;&lt;/g6&gt; elements, and file inputs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223416Z" creationid="rikiha" creationdate="20170909T223416Z">
+        <seg>マーク・オットー（Mark Otto）の「WTF, forms?」（脚注160）では、同様のCSSによる改善方法（チェックボックス、&lt;select&gt;要素、ファイルの入力用）を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
