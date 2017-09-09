@@ -925,6 +925,14 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;button&lt;/g3&gt; &lt;g5&gt;type&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"submit"&lt;/g6&gt; &lt;g8&gt;class&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"visually-hidden"&lt;/g9&gt; &lt;g11&gt;tabindex&lt;/g11&gt;&lt;g12&gt;&lt;g13&gt;=&lt;/g13&gt;"-1"&lt;/g12&gt;&lt;g14&gt;&gt;&lt;/g14&gt;&lt;/g2&gt;sort&lt;g15&gt;&lt;g16&gt;&lt;g17&gt;&lt;/&lt;/g17&gt;button&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g15&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223815Z" creationid="rikiha" creationdate="20170909T223815Z">
+        <seg>&lt;button type="submit" class="visually-hidden" tabindex="-1"&gt;並び替え&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;button&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;</seg>
       </tuv>
     </tu>
@@ -1438,6 +1446,14 @@ JISではbypass block を「ブロックスキップ」としています。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;An element is focused either by the user or programmatically.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223645Z" creationid="rikiha" creationdate="20170909T223645Z">
+        <seg>•要素がユーザーまたはプログラムによってフォーカスされているとき。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 すこし調整。
 
@@ -1610,6 +1626,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Deque offers a &lt;g2&gt;&lt;g3&gt;live region playground&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;11&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; for exploring a number of settings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223741Z" creationid="rikiha" creationdate="20170909T223741Z">
+        <seg>•Dequeは、いくつもの設定を検討できるLive Region Playground（脚注166）を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Does it have any ornamentation that gets in the way of comprehension?</seg>
@@ -1669,6 +1693,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170601T055531Z" creationid="rikiha" creationdate="20170601T055531Z">
         <seg>• Flesch Reading Easeの得点（100点満点、高いほど読みやすい）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;For app notifications, you would need to style and display the live region’s contents so that it doubled as a visual message.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223737Z" creationid="rikiha" creationdate="20170909T223737Z">
+        <seg>•アプリケーションの通知の場合は、視覚的なメッセージの役割も果たすよう、ライブリージョンにスタイルを付け、表示する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2260,6 +2292,14 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-live="polite"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;8&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; property and the &lt;g8&gt;&lt;g9&gt;&lt;g10&gt;status&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;9&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt; role are equivalent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223731Z" creationid="rikiha" creationdate="20170909T223731Z">
+        <seg>•aria-live="polite"（脚注163）プロパティとstatus（脚注164）ロールは同等です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 元訳は微妙に誤訳かも。
 調整しました。
@@ -2318,6 +2358,14 @@ should be なので「なければならない」「必要がある」は強す�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T062838Z" creationid="yoota" creationdate="20170426T062722Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt; 開発者のレスポンシブデザインの作りかたがまずいと、ページを利用するために拡大縮小が必要になる（これがよくあるのです!）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The equivalent &lt;g2&gt;assertive&lt;/g2&gt; and &lt;g3&gt;alert&lt;/g3&gt; values mean the current readout of the screen reader will be interrupted to announce the live region’s new message.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223734Z" creationid="rikiha" creationdate="20170909T223734Z">
+        <seg>•同等であるassertive値とalert値は、スクリーンリーダーの現在の読み上げが中断され、ライブリージョンの新しいメッセージが読み上げられることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2409,6 +2457,14 @@ https://developers.google.com/search/docs/data-types/products#single-product-pag
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170426T062230Z" creationid="yoota" creationdate="20170426T062230Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt; 画像の細部を見たいユーザーがいるかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The user navigates to an element using their screen reader’s own navigation commands (such as pressing &lt;g2&gt;9&lt;/g2&gt; in NVDA to announce the following line).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223646Z" creationid="rikiha" creationdate="20170909T223646Z">
+        <seg>•ユーザーがスクリーンリーダーのナビゲーションコマンドを使って要素に移動するとき（NVDAで数字の「9」のキーを押して次の行を読み上げるなど）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2541,6 +2597,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170616T004317Z" creationid="yoota" creationdate="20170606T101950Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;Deque Systemsの、この素晴らしいビデオ&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注52）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を見る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;We would populate the live region with the message using simple JavaScript DOM manipulation: &lt;g2&gt;liveElement.textContent = '[message]'&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223733Z" creationid="rikiha" creationdate="20170909T223733Z">
+        <seg>•ライブリージョンには、JavaScriptでの単純なDOM操作（liveElement.textContent = 'message'）を使ってメッセージを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4850,6 +4914,14 @@ HTMLがないとCSSやJSだけでは成立しないという話。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>After the sort button is pressed, we can populate a live region with the message, “Please wait.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223708Z" creationid="rikiha" creationdate="20170909T223708Z">
+        <seg>並び替えボタンを押した後、ライブリージョンに「少々お待ちください。商品を読み込んでいます。」というメッセージを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 Allのニュアンスを盛り込むべきかも。
 語順変えつつ調整。
@@ -4989,6 +5061,14 @@ listenは「監視」としてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170801T072200Z" creationid="rikiha" creationdate="20170722T233944Z">
         <seg>また、NVDA、JAWS、VoiceOverでは、ランドマークを一覧表示することができ、それぞれの領域に直接行き来することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternative &lt;g4&gt;polite&lt;/g4&gt; and &lt;g5&gt;status&lt;/g5&gt; values would mean the live region contents are announced only after the screen reader has finished announcing the content it is currently set to announce.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223736Z" creationid="rikiha" creationdate="20170909T223736Z">
+        <seg>代替手段のpolite値とstatus値では、スクリーンリーダーが現在読み上げているコンテンツが終了した後に、ライブリージョンのコンテンツが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6343,6 +6423,14 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Both are provided to maximize compatibility across platforms and screen readers (in some setups, only one or the other is recognized).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223732Z" creationid="rikiha" creationdate="20170909T223732Z">
+        <seg>両者はプラットフォームやスクリーンリーダー間の互換性を最大限にするために提供されています（一部のセットアップでは、どちらか一方が認識されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 微調整。
 
@@ -6533,6 +6621,14 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T223424Z" creationid="rikiha" creationdate="20170909T223424Z">
         <seg>ただし、JavaScriptが利用できるからといって、調子に乗ってすべてを破棄し、書き直すべきではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But live regions announce their content simply when that content changes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223651Z" creationid="rikiha" creationdate="20170909T223651Z">
+        <seg>しかしライブリージョンは、コンテンツが変更されたときにそのコンテンツを読み上げます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7012,6 +7108,14 @@ segregateは隔離というより分離としたほうがしっくりくるか�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085613Z" creationid="okamoto_jun" creationdate="20170627T085613Z">
         <seg>それが「見た目の美しさ」という範囲だけでデザインをとらえることで、Webの大半は本来の意図から外れてしまっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By removing an explicit submission action, it’s possible that triggering the XHR will be unexpected to some users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223759Z" creationid="rikiha" creationdate="20170909T223759Z">
+        <seg>明確な送信アクションを取り除くと、XHRのトリガーを予期しないユーザーがいる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7828,6 +7932,14 @@ draw onは経験を活かすような意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Each arrow keypress not only focuses adjacent radio buttons but &lt;g1&gt;selects them&lt;/g1&gt; as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223805Z" creationid="rikiha" creationdate="20170909T223805Z">
+        <seg>矢印キーを押すと、隣接するradioボタンがフォーカスされるだけでなく、選択もされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 ポイント先→遷移先としました。
 
@@ -8000,6 +8112,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170905T004154Z" creationid="rikiha" creationdate="20170905T004154Z">
         <seg>とは言え、避けるべき落とし穴がいくつかあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even with these measures in place, whether users actually understand or &lt;g1&gt;like&lt;/g1&gt; this enhancement is a question for user testing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223815Z" creationid="rikiha" creationdate="20170909T223815Z">
+        <seg>これらの対策を行っても、ユーザーが実際にこうした改善を理解する、または、好むかどうかは、ユーザーテストで確認すべき問題です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8852,6 +8972,14 @@ An alt Decision Tree のフローで
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For smaller budgets and timeframes, diverse users should be made part of the main test group.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223819Z" creationid="rikiha" creationdate="20170909T223819Z">
+        <seg>予算が少なく、時間が限られている場合は、さまざまなユーザーをメインのテストグループに含めましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 括弧の位置を調整。
 ここのcanは普通に「使える、使ってよい」という意味のような気がします。
@@ -9007,6 +9135,14 @@ For thatは「その実現」としてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T033749Z" creationid="yoota" creationdate="20170427T033749Z">
         <seg>そのためには、フォントはBase64でエンコードし、当該のスタイルシートに埋め込む必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Foregoing the Submit Button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223743Z" creationid="rikiha" creationdate="20170909T223743Z">
+        <seg>submitボタンに先んずる</seg>
       </tuv>
     </tu>
     <tu>
@@ -9693,6 +9829,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>However, the loading symbol (and its eventual removal) already say what needs to be said.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223738Z" creationid="rikiha" creationdate="20170909T223738Z">
+        <seg>ただし、読み込み中のマーク（読み込みが完了すると消える）は、すでに必要な情報を伝えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 訳としてはあっているように思いますが、「アイコンだけ」という表現がやや弱くわかりにくいように思ったので、「アイコン単体で」としてみました。
 might なので「あるでしょう」くらいか。
@@ -9753,6 +9897,14 @@ this has led で「これが導いた」と言っているので、「報告し�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>However, this would mean hiding the now redundant submit button and trusting that keyboard users would know to press &lt;g1&gt;Enter&lt;/g1&gt; to submit the form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223812Z" creationid="rikiha" creationdate="20170909T223812Z">
+        <seg>ただし、この方法では冗長になったsubmitボタンが非表示になるので、Enterを押してフォームを送信する仕組みをキーボードユーザーが知っていると願うことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ダッシュを活かし、アートプロジェクトをアートに。
 
 (太田) OK</note>
@@ -9761,6 +9913,14 @@ this has led で「これが導いた」と言っているので、「報告し�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170827T015642Z" creationid="rikiha" creationdate="20170823T082730Z">
         <seg>ただし、使う色は数色に絞りましょう――これはアートではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, we must be mindful of the &lt;g1&gt;give users control&lt;/g1&gt; principle mentioned at the beginning of this chapter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223758Z" creationid="rikiha" creationdate="20170909T223758Z">
+        <seg>しかし、本章の冒頭でも触れた、ユーザーに主導権を握らせるという原則を忘れてはいけません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10601,6 +10761,14 @@ work as が訳出されていないのはOK? いったん訳出してみまし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If you’re a Mac user, the quickest way to get started testing with this is to open it in Safari and turn on VoiceOver (&lt;g7&gt;Cmd&lt;/g7&gt; + &lt;g8&gt;F5&lt;/g8&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223742Z" creationid="rikiha" creationdate="20170909T223742Z">
+        <seg>Macユーザーの場合は、SafariでLive Region Playgroundを開き、VoiceOverをオン（Cmd + F5）にすれば簡単にテストを開始できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>If you’re building a highly complex layout, a grid system may help you.</seg>
@@ -11067,6 +11235,14 @@ separateは「分割されている」くらいに強く訳したほうが分か
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170609T030802Z" creationid="yoota" creationdate="20170606T021450Z">
         <seg>加えて視覚的にも、リンクが分割されていることがわからない可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, note that keyboard users operating the widget must use their arrow keys to move through the radio options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223804Z" creationid="rikiha" creationdate="20170909T223804Z">
+        <seg>加えて、ウィジェットを操作するキーボードユーザーは、radioオプション間を移動するのに矢印キーを使わなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11780,6 +11956,14 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In practice, this means we can provide commentary to screen reader users without asking them to leave their location in the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223655Z" creationid="rikiha" creationdate="20170909T223655Z">
+        <seg>これは、スクリーンリーダーユーザーがページ内の現在の位置にとどまったままの状態で、状況についての説明を提供できることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) grid elements はグリッドに沿った要素としました。一貫していて信頼というより並列なので、信頼性と一貫性としました。
 また、贅沢なことができないというより、「（相対位置に信頼性と一貫性があるという）贅沢がない」ということなので、そのようにしました。
 
@@ -12404,12 +12588,28 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In which case, we can hide our live region from view, so that it is only available non-visually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223739Z" creationid="rikiha" creationdate="20170909T223739Z">
+        <seg>こうしたケースでは、ライブリージョンを非表示にして、非視覚的にのみ利用されるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) それを実現するには➞その場合、イメージ➞画像としました</note>
       <tuv lang="EN-US">
         <seg>In which case, we don’t want to ask editors to have to upload and link icon images or — worse still — edit the source to add a &lt;g1&gt;class&lt;/g1&gt; attribute to each external link.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T052921Z" creationid="yoota" creationdate="20170511T105625Z">
         <seg>その場合、編集者にアイコン画像をアップロードしてリンクするよう頼むのは避けたいですし、ましてや、ソースを編集して各外部リンクに&lt;g1&gt;class&lt;/g1&gt;属性を追加してもらうことなど頼めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In which case, we’d have to use our special &lt;g3&gt;.visually-hidden&lt;/g3&gt; class, plus &lt;g4&gt;tabindex="-1"&lt;/g4&gt; to make sure the button isn’t user-focusable:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223814Z" creationid="rikiha" creationdate="20170909T223814Z">
+        <seg>その場合、特別な.visually-hiddenクラスに加え、tabindex="-1"を使用して、ユーザーがボタンをフォーカスできないようにする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13623,6 +13823,14 @@ investは投資で良いのか? インクルーシブ思考に時間を費やす
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s possible to limit this enhanced XHR-on-choosing-filter-option functionality to mouse and touch users by switching from using the &lt;g1&gt;change&lt;/g1&gt; event to using &lt;g2&gt;click&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223807Z" creationid="rikiha" creationdate="20170909T223807Z">
+        <seg>changeイベントではなくclickを使用するように置き換えることで、フィルタオプションの選択に関する改善されたXHR機能をマウスユーザーとタッチユーザーに限定することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM
 
 (岡本) 2回→二回</note>
@@ -14520,6 +14728,14 @@ manageは管理で良いような。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T103526Z" creationid="yoota" creationdate="20170614T102402Z">
         <seg>リスト項目（&lt;g1&gt;&lt;li&gt;&lt;/g1&gt;）にはマージンがまったくないため、結果としてグループ化されているように見えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading More Results</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223820Z" creationid="rikiha" creationdate="20170909T223820Z">
+        <seg>結果をさらに読み込む</seg>
       </tuv>
     </tu>
     <tu>
@@ -15630,6 +15846,14 @@ resulting inも落ちているような。「結果として」くらいでし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note that you can’t simply &lt;g2&gt;remove&lt;/g2&gt; the submit button because some platforms (notably iOS) will not submit forms where a submit button isn’t present.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223813Z" creationid="rikiha" creationdate="20170909T223813Z">
+        <seg>また、一部のプラットフォーム（特にiOS）では、submitボタンが存在しないとフォームを送信しないので、submitボタンをただ単に取り除くことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 括弧内は「これも…」ではなく「“The Document” でも議論しています」ということと思われます。要するに「詳しくは “The Document” を見てね」という意味と思われるので、「詳しくは「ドキュメント全体」で説明しています」としました。
 
 (伊原) ちなみに的ニュアンスになるように若干調整。
@@ -15855,6 +16079,14 @@ UXは「ユーザー体験」とする?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170907T084709Z" creationid="rikiha" creationdate="20170905T004346Z">
         <seg>今では、このマークアップが技術的に&lt;g1&gt;不適合&lt;/g1&gt;であるという問題はなくなりましたが、もっと重要な、UXに関する懸念がいくつもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now that we’re not making use of our &lt;g1&gt;get&lt;/g1&gt; functionality, we’ll need to prevent the page refreshing by suppressing the submit button’s default form submission functionality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223744Z" creationid="rikiha" creationdate="20170909T223744Z">
+        <seg>get機能を使用しないので、submitボタンのデフォルトのフォーム送信機能を抑止して、ページがリフレッシュされるのを防ぐ必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16226,6 +16458,14 @@ WCAGに従うことは、伝えるよりも良いのです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Once again, we’d call on a &lt;g2&gt;&lt;g3&gt;screen reader accessible hiding method&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223740Z" creationid="rikiha" creationdate="20170909T223740Z">
+        <seg>ここでも、スクリーンリーダーのアクセシブルな非表示方法（脚注165）を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) cipherは暗号とかカギとかそういうニュアンスのようなので、符号➞手がかりとしてみました。
 
 (太田) ここの One はひとつめ?
@@ -16563,6 +16803,14 @@ modular, often dynamic content は直訳すると「組み立て式の、しば�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise they might be left wondering if hitting the sort button did anything at all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223638Z" creationid="rikiha" creationdate="20170909T223638Z">
+        <seg>そうしないと、並び替えボタンを押したことで何か実行されたのか分からないままになりかねません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM
 
 (伊原) LGTM</note>
@@ -16742,6 +16990,14 @@ honestは「正直」としてみました。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012439Z" creationid="yoota" creationdate="20170419T102025Z">
         <seg>おそらく最もわかりやすいのは、言語が明示されていないページ――あるいは間違った言語が指定されているページ――では、スクリーンリーダーを使用したときに適切な合成音声プロファイルが選択されないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223748Z" creationid="rikiha" creationdate="20170909T223748Z">
+        <seg>おそらく手っ取り早いのは、JavaScriptでsubmitボタンを取り除き、XHR機能を指定してイベントを変更する方法でしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16994,6 +17250,14 @@ OK</note>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T085140Z" creationid="okamoto_jun" creationdate="20170627T085140Z">
         <seg>Webデザインを考え直す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recruiting a diverse test group is the best way to properly confirm inclusive design decisions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223816Z" creationid="rikiha" creationdate="20170909T223816Z">
+        <seg>多様なテストグループを募集するのが、インクルーシブデザインの決定を正確に裏付ける最良の方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17990,6 +18254,14 @@ https://inclusive-components.design/#components
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Since the user might move away from the widget to read some other content, this means they will be told that the products are ready immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223736Z" creationid="rikiha" creationdate="20170909T223736Z">
+        <seg>つまり、ユーザーがウィジェットから離れて別のコンテンツを読んでいても、商品の読み込みが完了したことが即座に知らされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 元訳は誤訳っぽいですね。ボタンの見た目はボタンだけに使えという主張です。
 
@@ -18030,6 +18302,14 @@ https://inclusive-components.design/#components
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T124217Z" creationid="yoota" creationdate="20170908T022736Z">
         <seg>このサイトでは商品を扱っているので、&lt;g1&gt;&lt;g2&gt;構造化データ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注152）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用して検索結果に出る商品の情報を追加できる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since we’ve styled our radio controls to look like buttons and provided clear feedback via our loading symbol and live region, this seems like a fairly safe course of action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223753Z" creationid="rikiha" creationdate="20170909T223753Z">
+        <seg>radioコントロールにスタイルを付けてボタンのような見た目にし、読み込み中マークで明確なフィードバックを提供しているので、この方針でもかなり安全に思えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19609,6 +19889,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Government Service Design Manual has an informative section on &lt;g1&gt;&lt;g2&gt;accessibility testing&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; as a complement to standard user testing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223818Z" creationid="rikiha" creationdate="20170909T223818Z">
+        <seg>Government Service Design Manualには、標準的なユーザーテストの補完として、アクセシビリティテスト（脚注167）の参考になるセクションがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Graphic Designer</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095335Z" creationid="okamoto_jun" creationdate="20170627T095335Z">
@@ -19808,6 +20096,14 @@ commonは「共通する」というより「一般的」と訳すほうが分�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170726T085204Z" creationid="rikiha" creationdate="20170722T131821Z">
         <seg>WAI-ARIAの仕様では、&lt;g9&gt;role="main"&lt;/g9&gt;などいくつかの&lt;g4&gt;&lt;g5&gt;ランドマークロール&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注86）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;が用意されており、Webサイトで一般的に使われる領域に対して、支援技術でアクセシブルにするためのセマンティクスとふるまいを定義することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The WAI-ARIA specification provides &lt;g1&gt;&lt;g2&gt;live regions&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;7&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; for just this kind of thing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223641Z" creationid="rikiha" creationdate="20170909T223641Z">
+        <seg>WAI-ARIA仕様は、このような問題用にライブリージョン（脚注162）を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20689,6 +20985,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The numbers will be small, but aim to capture a range of disabilities and assistive technologies.” – Government Digital Services (UK)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223818Z" creationid="rikiha" creationdate="20170909T223818Z">
+        <seg>数は少なくても、さまざまな障害や支援技術を含めることを目指す。— Government Digital Services（イギリス）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文にない括弧を補うのはできるだけ避けたいです。語順を変えて調整しました。
 
 (伊原) LGTM</note>
@@ -21514,6 +21818,14 @@ JAWS日本語版では「ページ内リンク」らしいです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Then, when the products are loaded, we can change the live region content to inform the user:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223727Z" creationid="rikiha" creationdate="20170909T223727Z">
+        <seg>その後、商品が読み込まれたら、ライブリージョンのコンテンツを変えて、ユーザーに次のように知らせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文で強調されているshouldが訳から落ちているようです。
 
@@ -21932,6 +22244,14 @@ break up は分割というより解消、解体に近い意味かも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>They may feel their control has been usurped and this may diminish their trust in the interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223801Z" creationid="rikiha" creationdate="20170909T223801Z">
+        <seg>ユーザーはコントロールを奪われたように感じ、インターフェイスに対する信頼が損なわれる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「構文を提供」が翻訳調でこなれていない印象があったので調整しました。
 
@@ -22085,6 +22405,14 @@ aspirations は「願望」?
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T063723Z" creationid="yoota" creationdate="20170510T052442Z">
         <seg>これは、美辞麗句の多い長文を公開する場合にも、アプリケーションが出す個々の説明やメッセージを各所に記述する場合にも当てはまります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This begs the question whether we need the submit button at all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223747Z" creationid="rikiha" creationdate="20170909T223747Z">
+        <seg>これは、そもそもsubmitボタンが必要なのかという疑問を投げかけます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22739,6 +23067,14 @@ esotericは特殊というより、他で使われていないというニュア
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170526T144433Z" creationid="yoota" creationdate="20170512T100247Z">
         <seg>これはページの視覚的な構造をくくるのに役立つかもしれませんが、&lt;g2&gt;セマンティック&lt;/g2&gt;な構造にはなんの効果もありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means moving through the options in either direction would fire the &lt;g2&gt;change&lt;/g2&gt; event three times in total.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223806Z" creationid="rikiha" creationdate="20170909T223806Z">
+        <seg>これは、オプション間をどの方向に移動してもchangeイベントが合計3回発火することを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24268,6 +24604,14 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Usually, content is only announced in screen readers when either:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223644Z" creationid="rikiha" creationdate="20170909T223644Z">
+        <seg>通常、コンテンツがスクリーンリーダーで読み上げられるのは次の場合のみです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田)
@@ -24511,6 +24855,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T101534Z" creationid="yoota" creationdate="20170511T101356Z">
         <seg>&lt;g3&gt;background-color&lt;/g3&gt;を使用することで、パラグラフのリンクのフォーカススタイルを強調すると同時に、各ブラウザでの見た目をそろえることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We do this by catching the &lt;g2&gt;submit&lt;/g2&gt; event.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223744Z" creationid="rikiha" creationdate="20170909T223744Z">
+        <seg>これを行うには、submitイベントをキャッチします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26270,6 +26622,14 @@ http://postd.cc/nobody-wants-use-your-product/
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170529T065041Z" creationid="rikiha" creationdate="20170527T135336Z">
         <seg>「curlできなければ、Web上にはない」— タンテック・チェリック「&lt;g1&gt;&lt;g2&gt;js;dr = JavaScript required; Didn’t Read&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注47）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Include disabled participants as part of a wider user testing recruitment process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T223817Z" creationid="rikiha" creationdate="20170909T223817Z">
+        <seg>ユーザーテストの人員を幅広く募集する中に、障害を持つ参加者を含めること。</seg>
       </tuv>
     </tu>
     <tu>
