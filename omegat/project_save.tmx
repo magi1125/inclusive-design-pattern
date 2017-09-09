@@ -300,7 +300,9 @@ feveredは「盛ん」で良いのか、もっと強いニュアンスかもし�
 「見えるようになるまで」とすると、時間の経過を言っているようにも読めて、「(ローディングが終わって)見えるようになるまでロードする必要はない」と理解されるおそれがありそうです。
 ビューポートに入るまで、という感が出ると良いのですが。
 unless を if の反対語として訳す感じにするといいのかも。
-「画像がまだ見えていないのであれば、」としてみましたがどうでしょうか。</note>
+「画像がまだ見えていないのであれば、」としてみましたがどうでしょうか。
+
+(伊原) なるほど、OKです</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Lazy loading:&lt;/g2&gt; There’s no need to load images unless they are to be seen.</seg>
       </tuv>
@@ -1708,7 +1710,9 @@ forego は「先に行く」のような感じですが、他動詞として使�
 (伊原) OK
 
 (太田)
-次の文に合わせて「aという要素名」としました。</note>
+次の文に合わせて「aという要素名」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;I have qualified the &lt;g2&gt;.call-to-action&lt;/g2&gt; class with the element name &lt;g3&gt;a&lt;/g3&gt;.</seg>
       </tuv>
@@ -8637,7 +8641,9 @@ OK</note>
 
 (伊原) OK
 
-(太田) コードを文の外に出す想定で調整。</note>
+(太田) コードを文の外に出す想定で調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For our product list, each image’s markup might look like &lt;g6&gt;&lt;img src="dummy.jpg" data-src="/images/naked-forecourt-man.jpg" width="400" height="300"&gt;&lt;/g6&gt;.</seg>
       </tuv>
@@ -9798,6 +9804,8 @@ does not resemble a button はボタンに似ていない、ですが、下の�
 
 (太田)
 コールトゥアクション、カタカナにするの忘れてました。のでカタカナに。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>I suggest you maintain a separate call-to-action style for links which has more visual purchase than a standard link but which does not resemble a button.</seg>
