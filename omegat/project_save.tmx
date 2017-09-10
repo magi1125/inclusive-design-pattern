@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2643,7 +2643,8 @@ social dimension どうするか。定訳としては社会的側面ですがわ
 
 (太田)
 どちらかというと「機能」という言葉とマッチしないという問題のような気がしてきました。「もの」としつつ、括弧内を砕いてみました。また、末尾を「排除されることはなくなります」としてみました。これで少し分かりやすくなったように思いますがどうでしょう。
-</note>
+
+(伊原) 確かに。ありがとうございます。OKです</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The features Sandra wants (a social dimension and text descriptions) are not exclusive to her or other blind users for reasons of &lt;g2&gt;being&lt;/g2&gt; blind.</seg>
       </tuv>
@@ -4587,6 +4588,14 @@ http://www.morisawa.co.jp/culture/dictionary/1913
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170828T143529Z" creationid="rikiha" creationdate="20170828T143529Z">
         <seg>商品リスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A List Of Products | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170910T123556Z" creationid="rikiha" creationdate="20170910T123556Z">
+        <seg>8章：商品リスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -13014,7 +13023,9 @@ robustlyは「堅牢な方法で」としてみました。
 (伊原) 場合を仮定➞場合と仮定　としました。
 
 (太田) なんか変な感じがしますね。
-「場合であれば」とかで良いような。</note>
+「場合であれば」とかで良いような。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the design of the hypothetical photography site, it’s tempting for the business to try to write off support for users they don’t think will be interested in it.</seg>
       </tuv>
@@ -20090,8 +20101,7 @@ disastrousというのがなにを言いたいのかよくわからないです�
 
 (伊原) いわゆるゴムのユーザーの話で、そのようにするとユーザーが使えなくなるという話なので、悲劇を招くというほうが近いかもしれません。そちらにしてみました。
 
-(太田) OK
-</note>
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Targeting a so-called average user is a disastrous interface design strategy, because average users do not exist — except for the handful of people teetering on the apex of your bell curve.</seg>
       </tuv>
@@ -23456,7 +23466,9 @@ aspirations は「願望」?
 
 (伊原) OK. 「やりたいこと」とかでもいいかもですが。
 
-(太田) やりたいこと、としました。</note>
+(太田) やりたいこと、としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>They’ll look into age groups, related interests, competing websites, income, aspirations and even gender.</seg>
       </tuv>
