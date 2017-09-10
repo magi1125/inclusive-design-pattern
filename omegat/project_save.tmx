@@ -4693,6 +4693,8 @@ A common tactic はなにがcommonなのか。
 
 (太田)
 あー、「裏技」とするのがいいかもしれませんね。あまり知られていないテクニック、ということでしょうから。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>A common tactic is to use the &lt;g1&gt;site:&lt;/g1&gt; prefix to return results confined to a chosen website:</seg>
@@ -12114,7 +12116,9 @@ it = トランスクリプトと補わないと分かりにくいかも。
 
 (伊原) OK. プログラム、でもいいかもしれません。
 
-(太田) プログラムとしました。</note>
+(太田) プログラムとしました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In brief, structured data increases the meta information parsable by machines like Googlebot.</seg>
       </tuv>
@@ -14234,7 +14238,9 @@ C・Googleなどがクロールする対象である、Webサイトの静的ペ�
 
 (太田)
 おそらくA.で、イメージ的にはWeb Archiveのアーカイブ、Googleにおけるいわゆる「キャッシュ」を指しているのだと思います。データをアーカイブするときにメタデータとセットにして保管される、みたいなイメージかと。
-「データをアーカイブする際に」とするのはどうでしょうか。</note>
+「データをアーカイブする際に」とするのはどうでしょうか。
+
+(伊原) なるほど、OKです。</note>
       <tuv lang="EN-US">
         <seg>It’s a little like WAI-ARIA, but for archiving rather than assistive technology support.</seg>
       </tuv>
@@ -19278,7 +19284,9 @@ https://inclusive-components.design/#components
 (伊原) 感覚的にはリスティング＝検索連動型広告なので、別の語に変えたい感じです。少し補って、検索結果に出る商品の情報を追加できる可能性、としてみました。
 
 (太田)
-OK、微調整しました。</note>
+OK、微調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Since we are dealing with products, we have an opportunity to enhance our product listing using &lt;g1&gt;&lt;g2&gt;structured data&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;21&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
@@ -24726,7 +24734,9 @@ OK
 (伊原) OK. 商品のパターンが、一瞬商品の種類的に読めなくもないかなとは思いました。商品アイテムパターンとか？
 
 (太田)
-語順を入れ替えて、「商品について、十分に満足できるパターンを作ることができました」としてみました。若干話の流れがわかりにくい気がしたので、2文にしてみました。</note>
+語順を入れ替えて、「商品について、十分に満足できるパターンを作ることができました」としてみました。若干話の流れがわかりにくい気がしたので、2文にしてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Though our product pattern is now more than satisfactory, we need to accept that our own interface is not the only way our customers will find and consume our product information.</seg>
       </tuv>
