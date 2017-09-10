@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20029,7 +20029,9 @@ disastrousというのがなにを言いたいのかよくわからないです�
 
 (岡本)　一握り→ひと握り
 
-(伊原) いわゆるゴムのユーザーの話で、そのようにするとユーザーが使えなくなるという話なので、悲劇を招くというほうが近いかもしれません。そちらにしてみました。</note>
+(伊原) いわゆるゴムのユーザーの話で、そのようにするとユーザーが使えなくなるという話なので、悲劇を招くというほうが近いかもしれません。そちらにしてみました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Targeting a so-called average user is a disastrous interface design strategy, because average users do not exist — except for the handful of people teetering on the apex of your bell curve.</seg>
       </tuv>
@@ -23388,12 +23390,14 @@ break up は分割というより解消、解体に近い意味かも。
 aspirations は「願望」?
 ここでは「ほしいもの」くらいでしょうか。
 
-(伊原) OK. 「やりたいこと」とかでもいいかもですが。</note>
+(伊原) OK. 「やりたいこと」とかでもいいかもですが。
+
+(太田) やりたいこと、としました。</note>
       <tuv lang="EN-US">
         <seg>They’ll look into age groups, related interests, competing websites, income, aspirations and even gender.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170831T054243Z" creationid="rikiha" creationdate="20170828T141553Z">
-        <seg>彼らは、年齢層、関連する興味関心、競合サイト、収入、ほしいもの、性別なども詳しく調べます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170910T103555Z" creationid="rikiha" creationdate="20170828T141553Z">
+        <seg>彼らは、年齢層、関連する興味関心、競合サイト、収入、やりたいこと、性別なども詳しく調べます。</seg>
       </tuv>
     </tu>
     <tu>
