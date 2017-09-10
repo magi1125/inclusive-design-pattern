@@ -4672,12 +4672,15 @@ A common tactic はなにがcommonなのか。
 「よく使われる作戦」くらい?
 調整してみました。
 
-(伊原) OK. ワザとかでもいいかも。</note>
+(伊原) OK. ワザとかでもいいかも。
+
+(太田)
+あー、裏技がいいかもしれませんね。</note>
       <tuv lang="EN-US">
         <seg>A common tactic is to use the &lt;g1&gt;site:&lt;/g1&gt; prefix to return results confined to a chosen website:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T034819Z" creationid="yoota" creationdate="20170908T021805Z">
-        <seg>よく使われるのは、以下のように&lt;g1&gt;site:&lt;/g1&gt;という接頭辞をつけることで、選んだWebサイトに限定して検索するという作戦です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170910T111442Z" creationid="yoota" creationdate="20170908T021805Z">
+        <seg>よく使われるのは、以下のように&lt;g1&gt;site:&lt;/g1&gt;という接頭辞をつけることで、選んだWebサイトに限定して検索するという裏技です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16481,13 +16484,13 @@ candidate の訳が落ちていますがまあ無くても良いのでママで�
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>K(太田)
 prelearnedは使い慣れたということでいいのか。
 直訳すると事前に学習済み的なことだと思いますが。
 
 (伊原) 既知の、とかでもいいかもしれません。でも使い慣れたでもそんなに変ではなさそうです。
 
-(太田) Ok</note>
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Notably, some assistive technology users rely heavily on Google Search because it is a prelearned interface.</seg>
       </tuv>
