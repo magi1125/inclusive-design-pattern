@@ -1616,7 +1616,9 @@ JISではbypass block を「ブロックスキップ」としています。
     <tu>
       <note>(伊原) 太田さん調整済み？OK
 
-(太田) 調整済みです。コメント消えたのかも。</note>
+(太田) 調整済みです。コメント消えたのかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Additional &lt;g2&gt;&lt;span&gt;&lt;/g2&gt;s are used to define the properties where necessary.</seg>
       </tuv>
@@ -2460,7 +2462,9 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
     <tu>
       <note>(伊原) 太田さん調整済み？ 訳OK
 
-(太田) 調整済みです。コメント消えたのかも。</note>
+(太田) 調整済みです。コメント消えたのかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Some properties are not based on displayed content (text nodes), such as the three-letter ISO currency of “EUR.” Instead, we supply this information using a &lt;g2&gt;&lt;meta&gt;&lt;/g2&gt; tag.</seg>
       </tuv>
@@ -10588,7 +10592,8 @@ this has led で「これが導いた」と言っているので、「報告し�
       <note>(伊原) 太田さん調整済み？訳OK
 
 (太田) 調整済みです。コメント消えたのかも。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>However, this was the first time we looked deeply into image accessibility, from both the perspectives of alternative text composition and performance.</seg>
       </tuv>
@@ -11802,7 +11807,9 @@ product の情報を表示する final product ですね。
 (伊原) 結果ページは検索結果ページとしなくてよいでしょうか。だじゃれ感が減る？
 
 (太田)
-検索結果ページで良いように思います。</note>
+検索結果ページで良いように思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In Google’s results pages, the final product (no pun intended) will look something like the following:</seg>
       </tuv>
