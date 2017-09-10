@@ -12967,12 +12967,15 @@ robustlyは「堅牢な方法で」としてみました。
 「架空の写真サイトをデザインする」はちょっと変というか語弊がありますね。写真サイトをデザインするという話を仮定、みたいな感じですかね。
 最後のitはサイトではなく写真かも。
 
-(伊原) 場合を仮定➞場合と仮定　としました。</note>
+(伊原) 場合を仮定➞場合と仮定　としました。
+
+(太田) なんか変な感じがしますね。
+「場合であれば」とかで良いような。</note>
       <tuv lang="EN-US">
         <seg>In the design of the hypothetical photography site, it’s tempting for the business to try to write off support for users they don’t think will be interested in it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170831T140610Z" creationid="rikiha" creationdate="20170828T141614Z">
-        <seg>写真サイトをデザインする場合と仮定すると、ビジネス的には、写真に興味を持ちそうにないユーザーへのサポートを切り捨てたくなります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170910T103839Z" creationid="rikiha" creationdate="20170828T141614Z">
+        <seg>写真サイトをデザインする場合であれば、ビジネス的には、写真に興味を持ちそうにないユーザーへのサポートを切り捨てたくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20031,7 +20034,8 @@ disastrousというのがなにを言いたいのかよくわからないです�
 
 (伊原) いわゆるゴムのユーザーの話で、そのようにするとユーザーが使えなくなるという話なので、悲劇を招くというほうが近いかもしれません。そちらにしてみました。
 
-(太田) OK</note>
+(太田) OK
+</note>
       <tuv lang="EN-US">
         <seg>Targeting a so-called average user is a disastrous interface design strategy, because average users do not exist — except for the handful of people teetering on the apex of your bell curve.</seg>
       </tuv>
