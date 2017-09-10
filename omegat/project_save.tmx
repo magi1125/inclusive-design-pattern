@@ -8782,6 +8782,15 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 下訳から反映して調整。</note>
+      <tuv lang="EN-US">
+        <seg>Filter options displayed inline within a gray bar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170910T010158Z" creationid="rikiha" creationdate="20170910T010047Z">
+        <seg>フィルタオプション（並び替え順、新着順、人気順、価格の安い順、価格の高い順、および並び替えボタン）がグレーのバー内にインライン表示されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 2文に分けつつ調整。ここのcontrolは制御としました。またfacilitatingが落ちているようなので含めつつ調整。</note>
       <tuv lang="EN-US">
         <seg>Filtering tools are important because they offer an additional dimension of control over search, facilitating users’ ability to prioritize the information they’re viewing.</seg>
@@ -16600,11 +16609,12 @@ Note を訳出したほうが良いかも。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) determine the selected optionを「選んだオプションで決定」としました。</note>
       <tuv lang="EN-US">
         <seg>Note that the selected control is highlighted in a color-independent fashion so that our color-blind and low vision users can determine the selected option.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223258Z" creationid="rikiha" creationdate="20170909T223258Z">
-        <seg>選択したコントロールは色に依存しない方法でハイライト表示されているので、色覚異常や低視力のユーザーも選択されたオプションを見分けることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170910T012811Z" creationid="rikiha" creationdate="20170909T223258Z">
+        <seg>選択済みのコントロールは色に依存しない方法でハイライトされ、色覚障害やロービジョンのユーザーも選んだオプションで決定できることに注目してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22443,6 +22453,15 @@ Chrome60では普通に「新しいタブで開く」が選択できてabout:bla
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T072022Z">
         <seg>2つめのベン図は、ディスレクシアの人は、読みやすいフォントのメリットを享受する人の部分集合であることを示している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) 下訳から反映</note>
+      <tuv lang="EN-US">
+        <seg>The selected filter has a blue ring around it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170910T010059Z" creationid="rikiha" creationdate="20170910T010059Z">
+        <seg>選択されたフィルタは青の枠で囲まれている。</seg>
       </tuv>
     </tu>
     <tu>
