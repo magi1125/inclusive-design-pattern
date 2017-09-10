@@ -2703,7 +2703,9 @@ social dimension どうするか。定訳としては社会的側面ですがわ
 (伊原)
 https://developers.google.com/search/docs/data-types/products#single-product-page
 を見るに、Product内にさらにoffersとaggregateRatingをネストしている、という事を言いたいのかなと思いました。
-が、ネスト＝入れ子と読むと違う意味にも読めそうであり、ソースの例示もあるので、単に「加えて」としてみました。</note>
+が、ネスト＝入れ子と読むと違う意味にも読めそうであり、ソースの例示もあるので、単に「加えて」としてみました。
+
+(太田) Ok</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The rating and price (‘offer’) are defined using the nested “Offer” and “Aggregate Rating” vocabularies.</seg>
       </tuv>
