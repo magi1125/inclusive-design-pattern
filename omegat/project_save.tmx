@@ -19235,12 +19235,15 @@ https://inclusive-components.design/#components
 リスティングはカタカナでわかるかどうか。
 リスティング広告を連想されそうですが少し意味が違うはず。
 
-(伊原) 感覚的にはリスティング＝検索連動型広告なので、別の語に変えたい感じです。少し補って、検索結果に出る商品の情報を追加できる可能性、としてみました。</note>
+(伊原) 感覚的にはリスティング＝検索連動型広告なので、別の語に変えたい感じです。少し補って、検索結果に出る商品の情報を追加できる可能性、としてみました。
+
+(太田)
+OK、微調整しました。</note>
       <tuv lang="EN-US">
         <seg>Since we are dealing with products, we have an opportunity to enhance our product listing using &lt;g1&gt;&lt;g2&gt;structured data&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;21&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T124217Z" creationid="yoota" creationdate="20170908T022736Z">
-        <seg>このサイトでは商品を扱っているので、&lt;g1&gt;&lt;g2&gt;構造化データ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注152）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用して検索結果に出る商品の情報を追加できる可能性があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170910T111730Z" creationid="yoota" creationdate="20170908T022736Z">
+        <seg>このサイトでは商品を扱っていますので、&lt;g1&gt;&lt;g2&gt;構造化データ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注152）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用することで、検索結果に商品の情報を追加できる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
