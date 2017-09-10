@@ -12082,12 +12082,14 @@ it = トランスクリプトと補わないと分かりにくいかも。
 マシンでいいのかどうか。
 なおmachineという単語はここにしかない模様。
 
-(伊原) OK. プログラム、でもいいかもしれません。</note>
+(伊原) OK. プログラム、でもいいかもしれません。
+
+(太田) プログラムとしました。</note>
       <tuv lang="EN-US">
         <seg>In brief, structured data increases the meta information parsable by machines like Googlebot.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T065341Z" creationid="yoota" creationdate="20170908T021832Z">
-        <seg>簡単に言うと、構造化データは、Googlebotなどのマシンによって構文解析できるメタ情報を増やします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170910T111805Z" creationid="yoota" creationdate="20170908T021832Z">
+        <seg>簡単に言うと、構造化データは、Googlebotなどのプログラムによって構文解析できるメタ情報を増やします。</seg>
       </tuv>
     </tu>
     <tu>
