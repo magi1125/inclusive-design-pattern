@@ -4546,16 +4546,16 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       <tuv lang="EN-US">
         <seg>A Filter Widget</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T231859Z" creationid="rikiha" creationdate="20170909T223220Z">
-        <seg>フィルターウィジェット</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T235606Z" creationid="rikiha" creationdate="20170909T223220Z">
+        <seg>フィルタウィジェット</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A Filter Widget | Inclusive Design Patterns</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T232627Z" creationid="rikiha" creationdate="20170909T232627Z">
-        <seg>9章：フィルターウィジェット</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170909T235559Z" creationid="rikiha" creationdate="20170909T232627Z">
+        <seg>9章：フィルタウィジェット</seg>
       </tuv>
     </tu>
     <tu>
@@ -8789,11 +8789,12 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 2文に分けつつ調整。ここのcontrolは制御としました。またfacilitatingが落ちているようなので含めつつ調整。</note>
       <tuv lang="EN-US">
         <seg>Filtering tools are important because they offer an additional dimension of control over search, facilitating users’ ability to prioritize the information they’re viewing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223227Z" creationid="rikiha" creationdate="20170909T223227Z">
-        <seg>フィルタツールは、検索のコントロールという新たな側面を提供し、ユーザーは見ている情報に優先順位をつけられるようになるので重要です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170910T000451Z" creationid="rikiha" creationdate="20170909T223227Z">
+        <seg>検索の制御という新たな側面を提供するという点でフィルタツールは重要です。ユーザーは、見ている情報に優先順位をつけやすくなります。</seg>
       </tuv>
     </tu>
     <tu>
