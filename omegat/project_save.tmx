@@ -14196,12 +14196,16 @@ poorlyを「正しくない」とするのは強すぎるかもしれません�
 A・Googleなどがクロールして保管する情報のこと
 B・Googleなどがクロールする対象である、Webサイトの静的ページのこと
 C・Googleなどがクロールする対象である、Webサイトの静的ページの、メタデータ実体のこと（そこに書き記しておく的な意味で）
-とりあえず「データの保管」としてみましたが、イマイチな感じもします。</note>
+とりあえず「データの保管」としてみましたが、イマイチな感じもします。
+
+(太田)
+おそらくA.で、イメージ的にはWeb Archiveのアーカイブ、Googleにおけるいわゆる「キャッシュ」を指しているのだと思います。データをアーカイブするときにメタデータとセットにして保管される、みたいなイメージかと。
+「データをアーカイブする際に」とするのはどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>It’s a little like WAI-ARIA, but for archiving rather than assistive technology support.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T122148Z" creationid="yoota" creationdate="20170908T021836Z">
-        <seg>WAI-ARIAに少し似ていますが、支援技術をサポートするものというより、データの保管に利用されるものです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170910T112345Z" creationid="yoota" creationdate="20170908T021836Z">
+        <seg>WAI-ARIAに少し似ていますが、支援技術をサポートするものというより、データをアーカイブする際に利用されるものです。</seg>
       </tuv>
     </tu>
     <tu>
