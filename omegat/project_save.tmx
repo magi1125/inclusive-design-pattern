@@ -1614,7 +1614,9 @@ JISではbypass block を「ブロックスキップ」としています。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 太田さん調整済み？OK</note>
+      <note>(伊原) 太田さん調整済み？OK
+
+(太田) 調整済みです。コメント消えたのかも。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Additional &lt;g2&gt;&lt;span&gt;&lt;/g2&gt;s are used to define the properties where necessary.</seg>
       </tuv>
@@ -22040,7 +22042,9 @@ updateはここでは「付け加える」くらいの意味かと思います�
       <note>(太田)
 すこし調整。
 
-(伊原) タイトルを正式なもの（謎）に修正。ラップして➞くくって</note>
+(伊原) タイトルを正式なもの（謎）に修正。ラップして➞くくって
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>The name of the product is defined by wrapping the product’s title, “Naked Man In Garage Forecourt,” in a &lt;g3&gt;&lt;span&gt;&lt;/g3&gt; bearing &lt;g4&gt;itemprop="name"&lt;/g4&gt;.</seg>
       </tuv>
