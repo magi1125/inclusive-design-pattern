@@ -15387,11 +15387,12 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Like the navigation regions we covered earlier in the book, filtering widgets are &lt;g1&gt;meta&lt;/g1&gt; content, provided as a tool to change the content of the page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223239Z" creationid="rikiha" creationdate="20170909T223239Z">
-        <seg>本書で前述したナビゲーション領域と同様、フィルタウィジェットはメタコンテンツであり、ページのコンテンツを変更するツールとして提供されています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170910T003850Z" creationid="rikiha" creationdate="20170909T223239Z">
+        <seg>本書で前述したナビゲーション領域と同様、フィルタウィジェットは&lt;g1&gt;メタ&lt;/g1&gt;コンテンツであり、ページのコンテンツを変更するツールとして提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25082,8 +25083,8 @@ https://github.com/mnater/Hyphenator
       <tuv lang="EN-US">
         <seg>To make ours inclusive, we need to consider blind and keyboard users, potential performance issues and visual clarity.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223240Z" creationid="rikiha" creationdate="20170909T223240Z">
-        <seg>これをインクルーシブなものにするためには、目の不自由なユーザーやキーボードユーザー、潜在的なパフォーマンスの問題、視覚的な明瞭さについて考慮する必要があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170910T004027Z" creationid="rikiha" creationdate="20170909T223240Z">
+        <seg>これをインクルーシブにするためには、目の不自由なユーザーやキーボードユーザー、潜在的なパフォーマンスの問題、視覚的な明瞭さについて考慮する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
