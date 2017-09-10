@@ -330,8 +330,8 @@ unless を if の反対語として訳す感じにするといいのかも。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;&lt;g2&gt;Put users in control.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223232Z" creationid="rikiha" creationdate="20170909T223232Z">
-        <seg>&lt;/g1&gt;2.ユーザーが調整できるようにする。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170910T000551Z" creationid="rikiha" creationdate="20170909T223232Z">
+        <seg>&lt;/g1&gt;&lt;g2&gt;ユーザーが調整できるようにする。&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,8 +419,8 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Give users choice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223230Z" creationid="rikiha" creationdate="20170909T223230Z">
-        <seg>1.&lt;/g1&gt;&lt;g2&gt;ユーザーに選択肢を与える。&lt;/g2&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170910T000537Z" creationid="rikiha" creationdate="20170909T223230Z">
+        <seg>&lt;/g1&gt;ユーザーに選択肢を与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1325,11 +1325,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 2番の訳文に合わせて調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;Put users in control&lt;/g1&gt; is the second of Henny Swan’s principles.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223228Z" creationid="rikiha" creationdate="20170909T223228Z">
-        <seg>ユーザーに主導権を握らせる、というのはヘニー・スワンが提唱する原則の2つ目の項目です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170910T000524Z" creationid="rikiha" creationdate="20170909T223228Z">
+        <seg>ユーザーが調整できるようにする、というのはヘニー・スワンが提唱する原則の2つ目です。</seg>
       </tuv>
     </tu>
     <tu>
