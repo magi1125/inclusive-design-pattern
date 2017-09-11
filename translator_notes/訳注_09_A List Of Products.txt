@@ -18,3 +18,16 @@ aria-level属性は階層内のレベルを指定するもので、見出しに�
 Accessible Rich Internet Applications (WAI-ARIA) 1.1 - aria-level (property)
 http://www.w3.org/TR/wai-aria-1.1/#aria-level
 
+
+
+<分節 2473>
+>たとえば、JAWSではショートカットキーの<g4>I</g4>（<g5>item</g5>、項目の意味）を使って、あるリスト項目から次のリスト項目へと移動できます。
+
+訳注:
+NVDAでも同様のキー操作で次のリスト項目へ移動することができます。
+
+
+
+
+
+
