@@ -22514,7 +22514,12 @@ Forefox55では「リンクを新しいタブで開く」などが現れませ�
 Chrome60では普通に「新しいタブで開く」が選択できてabout:blankが開きます。
 いったん汎用的な書き方にしてみましたが、まあ訳注ですかね。
 
-(伊原) OK. 訳注お願いします。ちなみにctrl押しながらリンクをクリックするというのもよくやるのですが、JS製のものだと同様にabout:blankが開いて残念な思いをします。</note>
+(伊原) OK. 訳注お願いします。ちなみにctrl押しながらリンクをクリックするというのもよくやるのですが、JS製のものだと同様にabout:blankが開いて残念な思いをします。
+
+(太田)
+Ctrl押しながら、については、ChromeとIEは何もおきず、Firefoxではアドレスバーに javascript:void(0) と入った状態で開く (中身は空白) という挙動でした。
+
+</note>
       <tuv lang="EN-US">
         <seg>The right-click context menu intended for links is not invoked either.</seg>
       </tuv>
