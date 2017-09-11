@@ -78,6 +78,10 @@ https://www.w3.org/WAI/tutorials/images/informative/
 2017年9月現在、OS XのSafari10.1.2では、画像をオフにしても代替テキストが表示されません。
 
 
+<分節 2565>
+>画面右上のメニューから<g5>Show throttling</g5>を選び、「Regular 3G」を選択します――これは最速でもなければ最遅でもない、標準の速度です。
 
+訳注:
+2017年9月現在、Chrome60では「Show throttling」ではなく「Add network throttling」という名前になっています。また、デフォルトでは「Regular 3G」という選択肢がなくなり、「Slow 3G」と「Fast 3G」しか選べなくなっているようです。
 
 
