@@ -85,3 +85,10 @@ https://www.w3.org/WAI/tutorials/images/informative/
 2017年9月現在、Chrome60では「Show throttling」ではなく「Add network throttling」という名前になっています。また、デフォルトでは「Regular 3G」という選択肢がなくなり、「Slow 3G」と「Fast 3G」しか選べなくなっているようです。
 
 
+<分節 2579>
+></g1><g2>遅延読み込み</g2>：画像がまだ見えていないのであれば、読み込む必要はありません。
+
+訳注:
+なお、この方法では、何らかの理由でJavaScriptが動作しなかった場合にdummy.jpgがそのまま表示されることになります。JavaScript無効時も想定するなら、本来の画像と無関係のダミーではなく、極低解像度にした画像を置いておくようにする手もあります。
+
+
