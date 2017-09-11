@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4559,16 +4559,16 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       <tuv lang="EN-US">
         <seg>A Filter Widget</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T235606Z" creationid="rikiha" creationdate="20170909T223220Z">
-        <seg>フィルタウィジェット</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170911T132810Z" creationid="rikiha" creationdate="20170909T223220Z">
+        <seg>フィルターウィジェット</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A Filter Widget | Inclusive Design Patterns</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T235559Z" creationid="rikiha" creationdate="20170909T232627Z">
-        <seg>9章：フィルタウィジェット</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170911T132808Z" creationid="rikiha" creationdate="20170909T232627Z">
+        <seg>9章：フィルターウィジェット</seg>
       </tuv>
     </tu>
     <tu>
@@ -8839,8 +8839,8 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       <tuv lang="EN-US">
         <seg>Filter options displayed inline within a gray bar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170910T010158Z" creationid="rikiha" creationdate="20170910T010047Z">
-        <seg>フィルタオプション（並び替え順、新着順、人気順、価格の安い順、価格の高い順、および並び替えボタン）がグレーのバー内にインライン表示されている。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170911T132848Z" creationid="rikiha" creationdate="20170910T010047Z">
+        <seg>フィルターオプション（並び替え順、新着順、人気順、価格の安い順、価格の高い順、および並び替えボタン）がグレーのバー内にインライン表示されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15489,8 +15489,8 @@ manageは管理で良いような。
       <tuv lang="EN-US">
         <seg>Like the navigation regions we covered earlier in the book, filtering widgets are &lt;g1&gt;meta&lt;/g1&gt; content, provided as a tool to change the content of the page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170910T003850Z" creationid="rikiha" creationdate="20170909T223239Z">
-        <seg>本書で前述したナビゲーション領域と同様、フィルタウィジェットは&lt;g1&gt;メタ&lt;/g1&gt;コンテンツであり、ページのコンテンツを変更するツールとして提供されています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170911T132837Z" creationid="rikiha" creationdate="20170909T223239Z">
+        <seg>本書で前述したナビゲーション領域と同様、フィルターウィジェットは&lt;g1&gt;メタ&lt;/g1&gt;コンテンツであり、ページのコンテンツを変更するツールとして提供されています。</seg>
       </tuv>
     </tu>
     <tu>
