@@ -63,10 +63,12 @@ iOS10のVoiceOverはdlを特に読まないようです (ulの場合は「リス
 <分節 2538>
 >答えは、「商品のタイトルで既に提供されている以外にも情報を提供するなら、意味を提供できることになる」です。
 
-(ここは訳注なしにしました)
+訳注:
+この例を "An alt Decision Tree" に沿って見ていくと、「画像にテキストが含まれているか?」→No、「画像がリンクやボタンで使われていて、取り除くと意味が通じなくなるか?」→No、「この画像は現在のページやコンテキストに意味を提供しているか？」→Yes、「シンプルなグラフィックや写真か?」→Yes、となって「Informative Images」に該当し、この中の「Example 4: Images conveying an impression or emotion」にあてはまります。ここでは写真の印象などを表す簡潔な代替テキストを指定すれば良いことになっています。
 
-
-
+参考:
+Informative Images 
+https://www.w3.org/WAI/tutorials/images/informative/
 
 
 
