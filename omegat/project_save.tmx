@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12409,7 +12409,11 @@ OK
 主張については訳注?
 といっても結構長い文になりそうですね。
 
-(伊原) 1と4はデザインでカバーでき、2はそもそも問題がおきない。実質的には3が課題だが、それもパネル的なリンクが複数まとまっていれば、同じ構造が連続することでリンクだと分かる…みたいな感じでしょうか。</note>
+(伊原) 1と4はデザインでカバーでき、2はそもそも問題がおきない。実質的には3が課題だが、それもパネル的なリンクが複数まとまっていれば、同じ構造が連続することでリンクだと分かる…みたいな感じでしょうか。
+
+(太田)
+上二つの訳注で個別の観点については割とフォローできている気もしており、全体を見て批判するような訳注がいるのかどうか微妙に思いつつあります。ここの訳注はいったん保留で……。
+</note>
       <tuv lang="EN-US">
         <seg>In general, it’s better to avoid block-level links like this one.</seg>
       </tuv>
