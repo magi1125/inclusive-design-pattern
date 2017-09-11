@@ -116,3 +116,18 @@ https://www.w3.org/WAI/tutorials/images/informative/
 ARIA7: リンクの目的を示すために aria-labelledby を使用する
 http://waic.jp/docs/WCAG-TECHS/ARIA7.html
 
+
+<分節 2654>
+>その代わり、今回の例では写真家ページへの子リンクは削除することになります。
+
+訳注:
+HTML5ではa要素にさまざまな要素を入れることができるようになりましたが、a要素の子孫にa要素を入れることはできません。そのため、商品全体をa要素に入れると、その子孫要素となる写真家の名前部分をa要素にすることができなくなります。
+
+参考:
+HTML Living Standard - 4.5.1 The a element
+https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-a-element
+
+
+
+
+
