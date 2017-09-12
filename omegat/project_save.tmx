@@ -19915,15 +19915,13 @@ impactは次の文に合わせて「効果」としました。
 
 (太田)
 browser-enabled interactivity でひとかたまりで、「標準の、ブラウザが有効にしているインタラクティビティ」。
-インタラクティブを裸で使うのは違和感がありますね。インタラクティブな要素、インタラクティブな機能とするか、あるいはそのままインタラクティビティとしてしまっても良いか。
-
-
-</note>
+インタラクティブを裸で使うのは違和感がありますね。インタラクティブな要素、インタラクティブな機能とするか、あるいはそのままインタラクティビティとしてしまっても良いか?
+facilitated by custom JavaScriptはざっくり「JavaScriptによって作られたもの」くらいでも良いように思いました。</note>
       <tuv lang="EN-US">
         <seg>Standard browser-enabled interactivity is more performant and robust than that facilitated by custom JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170912T103524Z" creationid="rikiha" creationdate="20170909T223303Z">
-        <seg>ブラウザによって実現されている標準のインタラクティビティの方が、JavaScriptで作られたものよりもパフォーマンスに優れ、堅牢です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170912T103626Z" creationid="rikiha" creationdate="20170909T223303Z">
+        <seg>ブラウザによって実現されている標準のインタラクティビティの方が、JavaScriptによって作られたものよりもパフォーマンスに優れ、堅牢です。</seg>
       </tuv>
     </tu>
     <tu>
