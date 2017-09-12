@@ -16752,7 +16752,14 @@ Note を訳出したほうが良いかも。
     </tu>
     <tu>
       <note>(伊原) determine the selected optionを「選んだオプションで決定」としました。
-しかし、本当はfocusのスタイルとselectedのスタイルがあるのだと思いますが、この絵だと分かりませんね。</note>
+しかし、本当はfocusのスタイルとselectedのスタイルがあるのだと思いますが、この絵だと分かりませんね。
+
+(太田)
+ここの determine は「確認する」「判断する」「解釈する」というような意味です。ここでの selected option は、ユーザーが選んだフィルターオプションではなく、現在選ばれているフィルターオプションを指します (ステイ表示みたいなもの)。現在の選択状態がわかる、ということです。
+
+# ちなみにJIS では "Programmatically Determined"を「プログラムによる解釈」としています。
+
+</note>
       <tuv lang="EN-US">
         <seg>Note that the selected control is highlighted in a color-independent fashion so that our color-blind and low vision users can determine the selected option.</seg>
       </tuv>
