@@ -15066,11 +15066,14 @@ implementationを例→実装としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 車輪の再発明を訳しました。
+「車輪を再発明するためにそれを使う必要があるという意味ではない」
+という感じなので、別のところで使えというニュアンスもあるため、そんな感じにしてみました。</note>
       <tuv lang="EN-US">
         <seg>Just because JavaScript is (well, might be) available doesn’t mean you should use it to &lt;g1&gt;&lt;g2&gt;reinvent the wheel&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223307Z" creationid="rikiha" creationdate="20170909T223307Z">
-        <seg>JavaScriptが利用できる（かもしれない）からといって、一から作り直す必要はないのです。（脚注158）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170912T223014Z" creationid="rikiha" creationdate="20170909T223307Z">
+        <seg>JavaScriptが利用できる（かもしれない）からといって、&lt;g1&gt;&lt;g2&gt;車輪の再発明&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注158）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;に使うべきというわけではないのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19681,7 +19684,8 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       <note>(太田)
 ここのformは形式ではなくフォームのほうですね。とはいえform要素ではなく、フォーム関連の要素 (inputやselectなど) を指しているのだと思います。
 動詞 harness は馬にハーネスをつける意味。御する、ということですが、「うまく利用する」としてみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Solutions usually rely on harnessing the behavior of standard HTML form elements.</seg>
       </tuv>
@@ -23410,7 +23414,9 @@ NVDA2017.2jaでは、 aria-current="page" を「現在のページ」、 aria-cu
       <note>(太田)
 for our convenienceはour がついているので一般論ではないと思います。
 「(私たちにとって) 都合の良いことに」くらいでしょうか。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>These have idiosyncratic semantics, key bindings and behaviors built in for our convenience.</seg>
       </tuv>
