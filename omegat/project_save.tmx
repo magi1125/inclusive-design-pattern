@@ -19671,8 +19671,7 @@ might as wellは「どうせなら」「ついでだから」のような意味�
     </tu>
     <tu>
       <note>(太田)
-ここのformは形式ではなくフォームのほうですね。
-とはいえform要素ではなく、フォーム関連の要素 (inputやselectなど) をさしているのだと思います。
+ここのformは形式ではなくフォームのほうですね。とはいえform要素ではなく、フォーム関連の要素 (inputやselectなど) をさしているのだと思います。
 Solutionsは言わなくてもわかるので無理に訳さない方向にしてみました。</note>
       <tuv lang="EN-US">
         <seg>Solutions usually rely on harnessing the behavior of standard HTML form elements.</seg>
@@ -23399,11 +23398,14 @@ NVDA2017.2jaでは、 aria-current="page" を「現在のページ」、 aria-cu
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+for our convenienceは「都合の良いことに」くらいでしょうか。
+</note>
       <tuv lang="EN-US">
         <seg>These have idiosyncratic semantics, key bindings and behaviors built in for our convenience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223306Z" creationid="rikiha" creationdate="20170909T223306Z">
-        <seg>利便性のために、これらの要素には特異なセマンティクス、キーバインディング、動作が組み込まれています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170912T105347Z" creationid="rikiha" creationdate="20170909T223306Z">
+        <seg>都合の良いことに、これらの要素には特有のセマンティクス、キーバインディング、ふるまいが最初から組み込まれています。</seg>
       </tuv>
     </tu>
     <tu>
