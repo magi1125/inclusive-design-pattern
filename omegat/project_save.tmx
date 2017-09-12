@@ -12160,13 +12160,13 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 抽象的でわかりづらい。要はラジオボタンなのですが。
+      <note>(伊原) 抽象的でわかりづらい。直後にfieldset, legend, ラジオボタンという話があるので、その出現順に揃えてみました。
 In any case, は「さて」ぐらいにしてみました。</note>
       <tuv lang="EN-US">
         <seg>In any case, our sorting widget consists of a set of mutually exclusive options each with their own unique label, and grouped under a common label.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170912T235157Z" creationid="rikiha" creationdate="20170909T223308Z">
-        <seg>さて、この並び替えウィジェットは、固有のラベルを持つ相互排他のオプション群からなり、共通のラベルでグルーピングされています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170912T235524Z" creationid="rikiha" creationdate="20170909T223308Z">
+        <seg>さて、この並び替えウィジェットは、共通のラベルでグルーピングされた、固有のラベルを持つ相互排他のオプション群からなるものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26316,7 +26316,7 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) </note>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We can create this structure using a &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;, &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; and radio buttons.</seg>
       </tuv>
