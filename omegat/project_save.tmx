@@ -12160,11 +12160,13 @@ it = トランスクリプトと補わないと分かりにくいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 抽象的でわかりづらい。要はラジオボタンなのですが。
+In any case, は「さて」ぐらいにしてみました。</note>
       <tuv lang="EN-US">
         <seg>In any case, our sorting widget consists of a set of mutually exclusive options each with their own unique label, and grouped under a common label.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223308Z" creationid="rikiha" creationdate="20170909T223308Z">
-        <seg>ここで説明する並び替えウィジェットは、相互に排他的な一連のオプションで構成されています。各オプションは固有のラベルを持ち、共通のラベルに分類されています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170912T235157Z" creationid="rikiha" creationdate="20170909T223308Z">
+        <seg>さて、この並び替えウィジェットは、固有のラベルを持つ相互排他のオプション群からなり、共通のラベルでグルーピングされています。</seg>
       </tuv>
     </tu>
     <tu>
