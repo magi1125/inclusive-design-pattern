@@ -4555,7 +4555,9 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
     <tu>
       <note>(伊原) いったんカタカナに。和訳して「絞り込み検索」とかでもいいかも？
 
-(岡本)　フォルターと音引きしない？　ユーザー、コンピューターと使っているので音引きでいいかも。</note>
+(岡本)　フォルターと音引きしない？　ユーザー、コンピューターと使っているので音引きでいいかも。
+
+(伊原) 音引きにしました。</note>
       <tuv lang="EN-US">
         <seg>A Filter Widget</seg>
       </tuv>
@@ -19612,11 +19614,12 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 以降でタブの話が続くわけではないので語順を入れ替え。1文が長い気もするが……。</note>
       <tuv lang="EN-US">
         <seg>Some complex JavaScript widgets, like &lt;g1&gt;&lt;g2&gt;tab interfaces&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, depend on WAI-ARIA semantics and custom (JavaScript) keyboard bindings to be made fully accessible by keyboard and to screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170912T031807Z" creationid="rikiha" creationdate="20170909T223300Z">
-        <seg>一部の複雑なJavaScriptウィジェット、例えば&lt;g1&gt;&lt;g2&gt;タブインターフェイス&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注156）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などは、キーボードやスクリーンリーダーで十分アクセシブルにするため、WAI-ARIAセマンティクスおよび（JavaScriptによる）カスタムキーボードバインディングに頼っています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170912T053422Z" creationid="rikiha" creationdate="20170909T223300Z">
+        <seg>一部の複雑なJavaScriptウィジェット、例えば&lt;g1&gt;&lt;g2&gt;タブインターフェイス&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注156）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などは、キーボードやスクリーンリーダーに対してアクセシブルにするために、WAI-ARIAセマンティクスおよび（JavaScriptによる）カスタムキーボードバインディングに頼っています。</seg>
       </tuv>
     </tu>
     <tu>
