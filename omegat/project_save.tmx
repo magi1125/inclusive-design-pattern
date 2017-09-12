@@ -16756,9 +16756,8 @@ Note を訳出したほうが良いかも。
 
 (太田)
 この determine はWCAGで"Programmatically Determined" として使われているのと同様のニュアンスで、「判断する」「判別する」「解釈する」というような意味だと思います。selected option は、ユーザーが選んだフィルターオプションではなく、現在選ばれているフィルターオプションを指します (ステイ表示みたいなもの)。現在の選択状態がわかる、ということです。
-# ちなみにWCAGの "Programmatically Determined" は「プログラムによる解釈」という訳にしています。
 「判別」としつつ調整しました。
-</note>
+# ちなみにWCAGの "Programmatically Determined" は「プログラムによる解釈」という訳にしていますが、ここは無理にあわせなくても良いかと。</note>
       <tuv lang="EN-US">
         <seg>Note that the selected control is highlighted in a color-independent fashion so that our color-blind and low vision users can determine the selected option.</seg>
       </tuv>
