@@ -22574,12 +22574,14 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳から反映</note>
+      <note>(伊原) 下訳から反映
+
+(岡本)　フィルタ→フィルター</note>
       <tuv lang="EN-US">
         <seg>The selected filter has a blue ring around it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170910T010059Z" creationid="rikiha" creationdate="20170910T010059Z">
-        <seg>選択されたフィルタは青の枠で囲まれている。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170912T022656Z" creationid="rikiha" creationdate="20170910T010059Z">
+        <seg>選択されたフィルターは青の枠で囲まれている。</seg>
       </tuv>
     </tu>
     <tu>
