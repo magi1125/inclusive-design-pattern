@@ -22254,12 +22254,15 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 調整しました。原文と文の切り方は違いますが、このほうがしっくりくる気がしたので、ママで。</note>
+      <note>(伊原) 調整しました。原文と文の切り方は違いますが、このほうがしっくりくる気がしたので、ママで。
+
+(太田)
+切り方OK。</note>
       <tuv lang="EN-US">
         <seg>The pattern will be founded on progressive enhancement and will work in the absence of both CSS and JavaScript, though we shall improve the experience inclusively with a careful application of those two technologies respectively.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170910T005849Z" creationid="rikiha" creationdate="20170909T223241Z">
-        <seg>このパターンではプログレッシブエンハンスメントを基礎としていきます。CSSとJavaScriptなしでも機能するようにしつつ、これらの技術をそれぞれ慎重に適用し、インクルーシブに体験を改善していきます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170912T095340Z" creationid="rikiha" creationdate="20170909T223241Z">
+        <seg>このパターンではプログレッシブエンハンスメントを基礎としていきます。CSSとJavaScriptなしでも機能するようにしつつ、この2つの技術をそれぞれ慎重に適用し、インクルーシブに体験を改善していきます。</seg>
       </tuv>
     </tu>
     <tu>
