@@ -11410,13 +11410,12 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
       <note>(伊原) you shouldを訳出。
 
 (太田)
-so it’s worth investigating.は、「(標準の機能が使えないかどうか) 調査する価値がある」ということですね。
-補いつつ調整してみました。</note>
+so it’s worth investigating.は、「(標準の機能が使えないかどうか) 調査する価値がある」ということですね。補いつつ調整してみました。</note>
       <tuv lang="EN-US">
         <seg>If you can use it, you should, so it’s worth investigating.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170912T104641Z" creationid="rikiha" creationdate="20170909T223303Z">
-        <seg>標準の機能が使えるならそれを使うべきで、使えるかどうかを調査する価値はあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170912T104706Z" creationid="rikiha" creationdate="20170909T223303Z">
+        <seg>標準の機能が使えるならそれを使うべきで、使えるかどうか調査する価値はあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19671,11 +19670,14 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ここのformは形式ではなくフォームのほうですね (form要素のform)。
+</note>
       <tuv lang="EN-US">
         <seg>Solutions usually rely on harnessing the behavior of standard HTML form elements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223305Z" creationid="rikiha" creationdate="20170909T223305Z">
-        <seg>たいていの解決策は、標準HTML形式の要素の動作を利用します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170912T104835Z" creationid="rikiha" creationdate="20170909T223305Z">
+        <seg>たいていの解決策は、標準HTMLのフォーム要素の動作を利用します。</seg>
       </tuv>
     </tu>
     <tu>
