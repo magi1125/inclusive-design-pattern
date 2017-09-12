@@ -15518,12 +15518,20 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田)
+ナビゲーション領域の該当の記述は以下のとおり。
+
+&gt; &lt;1544&gt; In other words, they’re a bit &lt;g1&gt;meta&lt;/g1&gt;: they’re content that helps with content.
+&gt; つまり、ナビゲーションランドマークは&lt;g1&gt;メタ&lt;/g1&gt;的な、コンテンツを補助するコンテンツと言えます。
+
+コンテンツのコンテンツ、という表現になるように補ったほうが分かりやすいかもしれません。</note>
       <tuv lang="EN-US">
         <seg>Like the navigation regions we covered earlier in the book, filtering widgets are &lt;g1&gt;meta&lt;/g1&gt; content, provided as a tool to change the content of the page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170911T132837Z" creationid="rikiha" creationdate="20170909T223239Z">
-        <seg>本書で前述したナビゲーション領域と同様、フィルターウィジェットは&lt;g1&gt;メタ&lt;/g1&gt;コンテンツであり、ページのコンテンツを変更するツールとして提供されています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170912T090734Z" creationid="rikiha" creationdate="20170909T223239Z">
+        <seg>前述したナビゲーション領域と同様、フィルターウィジェットも&lt;g1&gt;メタ&lt;/g1&gt;的なコンテンツであり、ページのコンテンツを変更するためのツールを提供するコンテンツとなります。</seg>
       </tuv>
     </tu>
     <tu>
