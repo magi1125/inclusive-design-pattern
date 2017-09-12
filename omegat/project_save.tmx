@@ -16758,7 +16758,8 @@ Note を訳出したほうが良いかも。
 この determine はWCAGで"Programmatically Determined" として使われているのと同様のニュアンスで、「判断する」「判別する」「解釈する」というような意味だと思います。
 selected optionは、ユーザーが選んだフィルターオプションではなく、現在選ばれているフィルターオプションを指します (ステイ表示みたいなもの)。現在の選択状態がわかる、ということです。
 「判別」としつつ調整しました。
-# ちなみにWCAGの "Programmatically Determined" は「プログラムによる解釈」という訳にしていますが、ここは無理にあわせなくても良いかと。</note>
+# ちなみにWCAGの "Programmatically Determined" は「プログラムによる解釈」という訳にしていますが、ここは無理にあわせなくても良いかと。
+</note>
       <tuv lang="EN-US">
         <seg>Note that the selected control is highlighted in a color-independent fashion so that our color-blind and low vision users can determine the selected option.</seg>
       </tuv>
@@ -19666,7 +19667,12 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 以降でタブの話が続くわけではないので語順を入れ替え。1文が長い気もするが……。</note>
+      <note>(伊原) 以降でタブの話が続くわけではないので語順を入れ替え。1文が長い気もするが……。
+
+(太田)
+カスタムキーボードバインディングはカタカナで良いか。
+カスタムは日本語でも良いような気がする。
+</note>
       <tuv lang="EN-US">
         <seg>Some complex JavaScript widgets, like &lt;g1&gt;&lt;g2&gt;tab interfaces&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, depend on WAI-ARIA semantics and custom (JavaScript) keyboard bindings to be made fully accessible by keyboard and to screen readers.</seg>
       </tuv>
