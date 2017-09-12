@@ -19671,7 +19671,7 @@ might as wellは「どうせなら」「ついでだから」のような意味�
     </tu>
     <tu>
       <note>(太田)
-ここのformは形式ではなくフォームのほうですね。とはいえform要素ではなく、フォーム関連の要素 (inputやselectなど) をさしているのだと思います。
+ここのformは形式ではなくフォームのほうですね。とはいえform要素ではなく、フォーム関連の要素 (inputやselectなど) を指しているのだと思います。
 動詞 harness は馬にハーネスをつける意味。御する、ということですが、「うまく利用する」としてみました。
 </note>
       <tuv lang="EN-US">
@@ -23400,10 +23400,10 @@ NVDA2017.2jaでは、 aria-current="page" を「現在のページ」、 aria-cu
     </tu>
     <tu>
       <note>(太田)
-for our convenienceは「都合の良いことに」くらいでしょうか。
+for our convenienceはour がついているので一般論ではないと思います。
+「(私たちにとって)都合の良いことに」くらいでしょうか。
 behaviorsはどうするか微妙ですが、前節で「ふるまい」としたのでこちらを「動作」としてみました。
-調整してみました。
-</note>
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>These have idiosyncratic semantics, key bindings and behaviors built in for our convenience.</seg>
       </tuv>
