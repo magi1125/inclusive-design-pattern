@@ -8839,8 +8839,8 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       <tuv lang="EN-US">
         <seg>Filter options displayed inline within a gray bar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170911T132848Z" creationid="rikiha" creationdate="20170910T010047Z">
-        <seg>フィルターオプション（並び替え順、新着順、人気順、価格の安い順、価格の高い順、および並び替えボタン）がグレーのバー内にインライン表示されている。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170911T132915Z" creationid="rikiha" creationdate="20170910T010047Z">
+        <seg>フィルターオプション（並び替え順、新着順、人気順、価格の安い順、価格の高い順、および並び替えボタン）がグレーのバー内に横並びで表示されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19615,8 +19615,8 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       <tuv lang="EN-US">
         <seg>Some complex JavaScript widgets, like &lt;g1&gt;&lt;g2&gt;tab interfaces&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, depend on WAI-ARIA semantics and custom (JavaScript) keyboard bindings to be made fully accessible by keyboard and to screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223300Z" creationid="rikiha" creationdate="20170909T223300Z">
-        <seg>タブインターフェイス（脚注156）など、一部の複雑なJavaScriptウィジェットは、キーボードやスクリーンリーダーで十分にアクセスできるようにするために、WAI-ARIAセマンティクスおよびカスタム（JavaScript）のキーボードバインディングに依存しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170912T031807Z" creationid="rikiha" creationdate="20170909T223300Z">
+        <seg>一部の複雑なJavaScriptウィジェット、例えば&lt;g1&gt;&lt;g2&gt;タブインターフェイス&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注156）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などは、キーボードやスクリーンリーダーで十分アクセシブルにするため、WAI-ARIAセマンティクスおよび（JavaScriptによる）カスタムキーボードバインディングに頼っています。</seg>
       </tuv>
     </tu>
     <tu>
