@@ -1363,7 +1363,8 @@ OK
       <note>(伊原) コーディングWebアクセシビリティと同一文であることを確認。ママですかね。
 もとのepubのマークアップが変っぽいので、そこも修正。
 
-(太田)</note>
+(太田)
+OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;“If you&lt;/g1&gt; can &lt;g2&gt;use a native HTML element or attribute with the semantics and behaviour you require &lt;g3&gt;already built in&lt;/g3&gt;, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, &lt;g4&gt;then do so&lt;/g4&gt;.”&lt;/g2&gt;</seg>
       </tuv>
