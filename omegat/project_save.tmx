@@ -22259,12 +22259,13 @@ updateはここでは「付け加える」くらいの意味かと思います�
 (太田)
 切り方OK。
 プログレッシブエンハンスメントなので、後半は「無くても機能するようにする」というより、「無しで動くように作って、後から足す」という感じになると良いかと思います。
-carefulは慎重?</note>
+carefulは慎重?
+ここでは「少しずつ」くらいのニュアンスか?</note>
       <tuv lang="EN-US">
         <seg>The pattern will be founded on progressive enhancement and will work in the absence of both CSS and JavaScript, though we shall improve the experience inclusively with a careful application of those two technologies respectively.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170912T095837Z" creationid="rikiha" creationdate="20170909T223241Z">
-        <seg>このパターンではプログレッシブエンハンスメントを基礎としていきます。CSSとJavaScriptなしでも機能するように作ってから、これら2つの技術をそれぞれ慎重に適用して、インクルーシブに体験を改善していきます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170912T095948Z" creationid="rikiha" creationdate="20170909T223241Z">
+        <seg>このパターンではプログレッシブエンハンスメントを基礎としていきます。CSSとJavaScriptなしでも機能するように作ってから、これら2つの技術をそれぞれ少しずつ適用して、インクルーシブに体験を改善していきます。</seg>
       </tuv>
     </tu>
     <tu>
