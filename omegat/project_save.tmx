@@ -19671,14 +19671,14 @@ might as wellは「どうせなら」「ついでだから」のような意味�
 
 (太田)
 カスタムキーボードバインディングはカタカナで良いか。
-カスタムは日本語でも良いような気がする。
+カスタムは日本語でも良いような気がする。いや（JavaScriptによる）とあるのでこれはむしろトリでいいかも。
 頼っている、は依存のほうが分かりやすいと思いました。
 </note>
       <tuv lang="EN-US">
         <seg>Some complex JavaScript widgets, like &lt;g1&gt;&lt;g2&gt;tab interfaces&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, depend on WAI-ARIA semantics and custom (JavaScript) keyboard bindings to be made fully accessible by keyboard and to screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170912T102148Z" creationid="rikiha" creationdate="20170909T223300Z">
-        <seg>一部の複雑なJavaScriptウィジェット、例えば&lt;g1&gt;&lt;g2&gt;タブインターフェイス&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注156）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などは、キーボードやスクリーンリーダーに対してアクセシブルにするために、WAI-ARIAセマンティクスと、（JavaScriptによる）独自のキーボードバインディングに依存しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170912T102305Z" creationid="rikiha" creationdate="20170909T223300Z">
+        <seg>一部の複雑なJavaScriptウィジェット、例えば&lt;g1&gt;&lt;g2&gt;タブインターフェイス&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注156）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などは、キーボードやスクリーンリーダーに対してアクセシブルにするために、WAI-ARIAによるセマンティクスと、（JavaScriptによる）キーボードバインディングに依存しています。</seg>
       </tuv>
     </tu>
     <tu>
