@@ -1361,7 +1361,9 @@ OK
     </tu>
     <tu>
       <note>(伊原) コーディングWebアクセシビリティと同一文であることを確認。ママですかね。
-もとのepubのマークアップが変っぽいので、そこも修正。</note>
+もとのepubのマークアップが変っぽいので、そこも修正。
+
+(太田)</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;“If you&lt;/g1&gt; can &lt;g2&gt;use a native HTML element or attribute with the semantics and behaviour you require &lt;g3&gt;already built in&lt;/g3&gt;, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, &lt;g4&gt;then do so&lt;/g4&gt;.”&lt;/g2&gt;</seg>
       </tuv>
@@ -10563,7 +10565,8 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
 (岡本)　目→め
 
 (太田)
-First rule of ARIA useはリンク先文書の見出しなので、そのままでも良いように思います。「Using ARIAのFirst rule of ARIA use」としてしまって良いのではないでしょうか。
+コーディングWebアクセシビリティでは「ARIA使用の1番目のルール」という見出し表記を使っています。
+ただ、ここではリンクになっていて、First rule of ARIA useはリンク先文書の見出しなので、英語のままにするのもアリなように思います。文書名を補って「Using ARIAのFirst rule of ARIA use」としてしまっても良いのではないでしょうか。
 </note>
       <tuv lang="EN-US">
         <seg>However, the &lt;g6&gt;&lt;g7&gt;first rule of ARIA use&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;2&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; states:</seg>
