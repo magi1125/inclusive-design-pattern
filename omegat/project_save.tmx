@@ -19844,11 +19844,12 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 前半を調整。</note>
       <tuv lang="EN-US">
         <seg>Standard browser-enabled interactivity is more performant and robust than that facilitated by custom JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223303Z" creationid="rikiha" creationdate="20170909T223303Z">
-        <seg>標準のブラウザ対応のインタラクティブ性の方が、カスタムJavaScriptの助けをかりたものよりもパフォーマンスに優れ堅牢です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170912T055022Z" creationid="rikiha" creationdate="20170909T223303Z">
+        <seg>ブラウザが標準で対応しているインタラクティブの方が、カスタムJavaScriptの助けを借りたものよりもパフォーマンスに優れ堅牢です。</seg>
       </tuv>
     </tu>
     <tu>
