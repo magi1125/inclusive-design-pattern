@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4559,7 +4559,9 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
 
 (岡本)　フォルターと音引きしない？　ユーザー、コンピューターと使っているので音引きでいいかも。
 
-(伊原) 音引きにしました。</note>
+(伊原) 音引きにしました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>A Filter Widget</seg>
       </tuv>
@@ -13277,7 +13279,10 @@ becauseを訳出しました。
     <tu>
       <note>(伊原) OK
 
-(岡本)　前章→9章</note>
+(岡本)　前章→9章
+
+(太田)
+displayは提示?</note>
       <tuv lang="EN-US">
         <seg>In the previous chapter we went commercial and looked at a pattern for displaying products.</seg>
       </tuv>
