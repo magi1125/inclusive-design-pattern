@@ -1357,8 +1357,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;“If you&lt;/g1&gt; can &lt;g2&gt;use a native HTML element or attribute with the semantics and behaviour you require &lt;g3&gt;already built in&lt;/g3&gt;, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, &lt;g4&gt;then do so&lt;/g4&gt;.”&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223302Z" creationid="rikiha" creationdate="20170909T223302Z">
-        <seg>必要なセマンティクスや動作が組み込まれたネイティブのHTML要素や属性が存在する場合は、要素の転用とARIAのロール、ステート、プロパティの追加でアクセシブルにする代わりに、ネイティブのものを使用します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170912T055253Z" creationid="rikiha" creationdate="20170909T223302Z">
+        <seg>必要なセマンティクスや動作が&lt;g3&gt;組み込まれた&lt;/g3&gt;ネイティブのHTML要素や属性が存在する場合は、要素の転用とARIAのロール、ステート、プロパティの追加でアクセシブルにする代わりに、&lt;g4&gt;ネイティブのものを使用します&lt;/g4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
