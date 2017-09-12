@@ -19671,13 +19671,14 @@ might as wellは「どうせなら」「ついでだから」のような意味�
     </tu>
     <tu>
       <note>(太田)
-ここのformは形式ではなくフォームのほうですね (form要素のform)。
-</note>
+ここのformは形式ではなくフォームのほうですね。
+とはいえform要素ではなく、フォーム関連の要素 (inputやselectなど) をさしているのだと思います。
+Solutionsは無理に訳さない方向にしてみました。</note>
       <tuv lang="EN-US">
         <seg>Solutions usually rely on harnessing the behavior of standard HTML form elements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170912T104835Z" creationid="rikiha" creationdate="20170909T223305Z">
-        <seg>たいていの解決策は、標準HTMLのフォーム要素の動作を利用します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170912T105050Z" creationid="rikiha" creationdate="20170909T223305Z">
+        <seg>たいていの場合は、HTMLの標準フォーム関連要素のふるまいが利用できます。</seg>
       </tuv>
     </tu>
     <tu>
