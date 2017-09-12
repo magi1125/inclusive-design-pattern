@@ -26316,11 +26316,12 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) </note>
       <tuv lang="EN-US">
         <seg>We can create this structure using a &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;, &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; and radio buttons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223309Z" creationid="rikiha" creationdate="20170909T223309Z">
-        <seg>この構造は、&lt;fieldset&gt;、&lt;legend&gt;、radio（ラジオ）ボタンを使って作成できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170912T235303Z" creationid="rikiha" creationdate="20170909T223309Z">
+        <seg>この構造は、&lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;、&lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;、ラジオボタンを使って作成できます。</seg>
       </tuv>
     </tu>
     <tu>
