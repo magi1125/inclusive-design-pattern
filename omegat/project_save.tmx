@@ -16755,15 +16755,15 @@ Note を訳出したほうが良いかも。
 しかし、本当はfocusのスタイルとselectedのスタイルがあるのだと思いますが、この絵だと分かりませんね。
 
 (太田)
-ここの determine は「確認する」「判断する」「解釈する」というような意味です。selected option は、ユーザーが選んだフィルターオプションではなく、現在選ばれているフィルターオプションを指します (ステイ表示みたいなもの)。現在の選択状態がわかる、ということです。
+ここの determine は「確認する」「判別する」「解釈する」というような意味です。selected option は、ユーザーが選んだフィルターオプションではなく、現在選ばれているフィルターオプションを指します (ステイ表示みたいなもの)。現在の選択状態がわかる、ということです。
 # ちなみにJIS では "Programmatically Determined"を「プログラムによる解釈」としています。
 
 </note>
       <tuv lang="EN-US">
         <seg>Note that the selected control is highlighted in a color-independent fashion so that our color-blind and low vision users can determine the selected option.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170910T014107Z" creationid="rikiha" creationdate="20170909T223258Z">
-        <seg>選択されたコントロールは色に依存しない方法でハイライトされ、色覚障害やロービジョンのユーザーも選んだオプションで決定できることに注目してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170912T101244Z" creationid="rikiha" creationdate="20170909T223258Z">
+        <seg>選択されたコントロールは色に依存しない方法でハイライトされ、色覚障害やロービジョンのユーザーにもどのオプションが選択されているか判別できることに注目してください。</seg>
       </tuv>
     </tu>
     <tu>
