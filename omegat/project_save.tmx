@@ -19323,7 +19323,8 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 (太田)
 スクリプト無効時は "sort" ボタンを押すとGETリクエストが走り、その結果としてこのページ自体がリフレッシュされます。するとユーザーはページの先頭に戻されてしまいます。そこからこの場所に戻ってくるのに便利、という話です。
 意訳しつつ2文に分けつつ調整してみましたが、なぜリフレッシュされるのかは訳注がないと分からないかもですね。
-</note>
+
+再読込は「再読み込み」? 岡本さん確認お願いします。</note>
       <tuv lang="EN-US">
         <seg>Since the basic functionality works without JavaScript and triggers a page refresh, this helps users navigate back to the form from the top of the document.</seg>
       </tuv>
