@@ -785,6 +785,14 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g125&gt;&lt;g126&gt;&lt;g127&gt;&lt;&lt;/g127&gt;label&lt;/g126&gt; &lt;g128&gt;for&lt;/g128&gt;&lt;g129&gt;&lt;g130&gt;=&lt;/g130&gt;"price-high-low"&lt;/g129&gt;&lt;g131&gt;&gt;&lt;/g131&gt;&lt;/g125&gt;price (high to low)&lt;g132&gt;&lt;g133&gt;&lt;g134&gt;&lt;/&lt;/g134&gt;label&lt;/g133&gt;&lt;g135&gt;&gt;&lt;/g135&gt;&lt;/g132&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T000811Z" creationid="rikiha" creationdate="20170913T000811Z">
+        <seg>&lt;g125&gt;&lt;g126&gt;&lt;g127&gt;&lt;&lt;/g127&gt;label&lt;/g126&gt; &lt;g128&gt;for&lt;/g128&gt;&lt;g129&gt;&lt;g130&gt;=&lt;/g130&gt;"price-high-low"&lt;/g129&gt;&lt;g131&gt;&gt;&lt;/g131&gt;&lt;/g125&gt;価格の高い順&lt;g132&gt;&lt;g133&gt;&lt;g134&gt;&lt;/&lt;/g134&gt;label&lt;/g133&gt;&lt;g135&gt;&gt;&lt;/g135&gt;&lt;/g132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g12&gt;/* &lt;button&gt; element styles */&lt;/g12&gt;
 &lt;g13&gt;}&lt;/g13&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -932,6 +940,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T083205Z" creationid="yoota" creationdate="20170908T083156Z">
         <seg>&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;span&lt;/g18&gt; &lt;g20&gt;itemprop&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"name"&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g17&gt;ガソリンスタンドにたたずむ裸の男&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;/&lt;/g26&gt;span&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;&lt;/g21&gt;legend&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;Sort by&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;legend&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T000619Z" creationid="rikiha" creationdate="20170913T000619Z">
+        <seg>&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;&lt;/g21&gt;legend&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;並び替え順&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;legend&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3362,6 +3378,14 @@ Size:　→サイズ：</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g44&gt;&lt;g45&gt;&lt;g46&gt;&lt;&lt;/g46&gt;label&lt;/g45&gt; &lt;g47&gt;for&lt;/g47&gt;&lt;g48&gt;&lt;g49&gt;=&lt;/g49&gt;"most-recent"&lt;/g48&gt;&lt;g50&gt;&gt;&lt;/g50&gt;&lt;/g44&gt;most recent&lt;g51&gt;&lt;g52&gt;&lt;g53&gt;&lt;/&lt;/g53&gt;label&lt;/g52&gt;&lt;g54&gt;&gt;&lt;/g54&gt;&lt;/g51&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T000709Z" creationid="rikiha" creationdate="20170913T000709Z">
+        <seg>&lt;g44&gt;&lt;g45&gt;&lt;g46&gt;&lt;&lt;/g46&gt;label&lt;/g45&gt; &lt;g47&gt;for&lt;/g47&gt;&lt;g48&gt;&lt;g49&gt;=&lt;/g49&gt;"most-recent"&lt;/g48&gt;&lt;g50&gt;&gt;&lt;/g50&gt;&lt;/g44&gt;新着順&lt;g51&gt;&lt;g52&gt;&lt;g53&gt;&lt;/&lt;/g53&gt;label&lt;/g52&gt;&lt;g54&gt;&gt;&lt;/g54&gt;&lt;/g51&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g46&gt;&lt;g47&gt;&lt;g48&gt;&lt;&lt;/g48&gt;li&lt;/g47&gt;&lt;g49&gt;&gt;&lt;/g49&gt;&lt;/g46&gt;&lt;g50&gt;&lt;g51&gt;&lt;g52&gt;&lt;&lt;/g52&gt;a&lt;/g51&gt; &lt;g53&gt;href&lt;/g53&gt;&lt;g54&gt;&lt;g55&gt;=&lt;/g55&gt;"#services"&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g50&gt;The services we offer&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;a&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;&lt;g61&gt;&lt;g62&gt;&lt;g63&gt;&lt;/&lt;/g63&gt;li&lt;/g62&gt;&lt;g64&gt;&gt;&lt;/g64&gt;&lt;/g61&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134623Z" creationid="rikiha" creationdate="20170809T134623Z">
@@ -3758,6 +3782,14 @@ Price:　→価格：</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g71&gt;&lt;g72&gt;&lt;g73&gt;&lt;&lt;/g73&gt;label&lt;/g72&gt; &lt;g74&gt;for&lt;/g74&gt;&lt;g75&gt;&lt;g76&gt;=&lt;/g76&gt;"popularity"&lt;/g75&gt;&lt;g77&gt;&gt;&lt;/g77&gt;&lt;/g71&gt;popularity&lt;g78&gt;&lt;g79&gt;&lt;g80&gt;&lt;/&lt;/g80&gt;label&lt;/g79&gt;&lt;g81&gt;&gt;&lt;/g81&gt;&lt;/g78&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T000724Z" creationid="rikiha" creationdate="20170913T000724Z">
+        <seg>&lt;g71&gt;&lt;g72&gt;&lt;g73&gt;&lt;&lt;/g73&gt;label&lt;/g72&gt; &lt;g74&gt;for&lt;/g74&gt;&lt;g75&gt;&lt;g76&gt;=&lt;/g76&gt;"popularity"&lt;/g75&gt;&lt;g77&gt;&gt;&lt;/g77&gt;&lt;/g71&gt;人気順&lt;g78&gt;&lt;g79&gt;&lt;g80&gt;&lt;/&lt;/g80&gt;label&lt;/g79&gt;&lt;g81&gt;&gt;&lt;/g81&gt;&lt;/g78&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g73&gt;&lt;g74&gt;&lt;g75&gt;&lt;&lt;/g75&gt;li&lt;/g74&gt;&lt;g76&gt;&gt;&lt;/g76&gt;&lt;/g73&gt;&lt;g77&gt;&lt;g78&gt;&lt;g79&gt;&lt;&lt;/g79&gt;a&lt;/g78&gt; &lt;g80&gt;href&lt;/g80&gt;&lt;g81&gt;&lt;g82&gt;=&lt;/g82&gt;"#endorsements"&lt;/g81&gt;&lt;g83&gt;&gt;&lt;/g83&gt;&lt;/g77&gt;Endorsements&lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;/&lt;/g86&gt;a&lt;/g85&gt;&lt;g87&gt;&gt;&lt;/g87&gt;&lt;/g84&gt;&lt;g88&gt;&lt;g89&gt;&lt;g90&gt;&lt;/&lt;/g90&gt;li&lt;/g89&gt;&lt;g91&gt;&gt;&lt;/g91&gt;&lt;/g88&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134702Z" creationid="rikiha" creationdate="20170809T134702Z">
@@ -3992,6 +4024,14 @@ Price:　→価格：</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134040Z" creationid="rikiha" creationdate="20170809T134040Z">
         <seg>&lt;g97&gt;&lt;g98&gt;&lt;g99&gt;&lt;&lt;/g99&gt;li&lt;/g98&gt;&lt;g100&gt;&gt;&lt;/g100&gt;&lt;/g97&gt;&lt;g101&gt;&lt;g102&gt;&lt;g103&gt;&lt;&lt;/g103&gt;a&lt;/g102&gt; &lt;g104&gt;href&lt;/g104&gt;&lt;g105&gt;&lt;g106&gt;=&lt;/g106&gt;"/login"&lt;/g105&gt;&lt;g107&gt;&gt;&lt;/g107&gt;&lt;/g101&gt;ログイン&lt;g108&gt;&lt;g109&gt;&lt;g110&gt;&lt;/&lt;/g110&gt;a&lt;/g109&gt;&lt;g111&gt;&gt;&lt;/g111&gt;&lt;/g108&gt;&lt;g112&gt;&lt;g113&gt;&lt;g114&gt;&lt;/&lt;/g114&gt;li&lt;/g113&gt;&lt;g115&gt;&gt;&lt;/g115&gt;&lt;/g112&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g98&gt;&lt;g99&gt;&lt;g100&gt;&lt;&lt;/g100&gt;label&lt;/g99&gt; &lt;g101&gt;for&lt;/g101&gt;&lt;g102&gt;&lt;g103&gt;=&lt;/g103&gt;"price-low-high"&lt;/g102&gt;&lt;g104&gt;&gt;&lt;/g104&gt;&lt;/g98&gt;price (low to high)&lt;g105&gt;&lt;g106&gt;&lt;g107&gt;&lt;/&lt;/g107&gt;label&lt;/g106&gt;&lt;g108&gt;&gt;&lt;/g108&gt;&lt;/g105&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T000740Z" creationid="rikiha" creationdate="20170913T000740Z">
+        <seg>&lt;g98&gt;&lt;g99&gt;&lt;g100&gt;&lt;&lt;/g100&gt;label&lt;/g99&gt; &lt;g101&gt;for&lt;/g101&gt;&lt;g102&gt;&lt;g103&gt;=&lt;/g103&gt;"price-low-high"&lt;/g102&gt;&lt;g104&gt;&gt;&lt;/g104&gt;&lt;/g98&gt;価格の安い順&lt;g105&gt;&lt;g106&gt;&lt;g107&gt;&lt;/&lt;/g107&gt;label&lt;/g106&gt;&lt;g108&gt;&gt;&lt;/g108&gt;&lt;/g105&gt;</seg>
       </tuv>
     </tu>
     <tu>
