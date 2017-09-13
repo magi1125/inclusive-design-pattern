@@ -7607,12 +7607,13 @@ Tabの件は了解です、ありがとうございます。</note>
     </tu>
     <tu>
       <note>(太田)
-well-supportedは広くサポートされているということかと。</note>
+well-supportedは広くサポートされているということかと。
+少し調整。</note>
       <tuv lang="EN-US">
         <seg>By designing our sorting widget with conventional, well-supported markup, we’ve already ensured it is accessible to keyboard and screen reader users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T075829Z" creationid="rikiha" creationdate="20170909T223342Z">
-        <seg>この並び替えウィジェットは、慣習的で広くサポートされているマークアップでデザインしたので、すでにキーボードユーザーとスクリーンリーダーユーザーにとってアクセシブルになっています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T075858Z" creationid="rikiha" creationdate="20170909T223342Z">
+        <seg>この並び替えウィジェットは、慣習的で広くサポートされているマークアップによってデザインされているため、すでにキーボードユーザーとスクリーンリーダーユーザーにとってアクセシブルになっています。</seg>
       </tuv>
     </tu>
     <tu>
