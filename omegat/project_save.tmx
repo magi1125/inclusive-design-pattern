@@ -13075,7 +13075,8 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       <note>(太田)
 少し調整。
 ここでは修正する話はしていないので、fixを修正とするのは良くないかもしれません。埋め合わせる、としてみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In summary: never fix with JavaScript and WAI-ARIA what can be achieved with HTML and CSS.</seg>
       </tuv>
@@ -17284,12 +17285,14 @@ attacheは帰属させるくらいの意味でしょうが良い表現は無い�
 
 下のコードの !important は必要なのか。基本的に !important は悪手なので、たぶん「ラジオボタンめ、こうしてやる」みたいなニュアンスのジョークだと思うのですが。訳注?
 
-(伊原) 担わせる、引き受けてもらう、任せるとかでしょうか。いったん引き受けにしてみました。!importantはジョークですね、説明しないほうが面白そうですが、CSS初心者も手に取るかもしれないし、訳注ですね。</note>
+(伊原) 担わせる、引き受けてもらう、任せるとかでしょうか。いったん引き受けにしてみました。
+また、前のほうでラジオボタンを隠すという表現だったので、合わせました（非表示というとvisibility:hidden感やdisplay:none感があるかなと）。
+!importantはジョークですね、説明しないほうが面白そうですが、CSS初心者も手に取るかもしれないし、訳注ですね。</note>
       <tuv lang="EN-US">
         <seg>Now that all the interaction and visual feedback is attached to the label, we can safely hide the obstinately ugly radio button from view.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170913T133141Z" creationid="rikiha" creationdate="20170909T223404Z">
-        <seg>これで、インタラクションや視覚的なフィードバックをすべてラベルに引き受けてもらうことができたので、融通の利かない見苦しいラジオボタンは安心して非表示にできます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T133409Z" creationid="rikiha" creationdate="20170909T223404Z">
+        <seg>これで、インタラクションや視覚的なフィードバックをすべてラベルに引き受けてもらうことができたので、融通の利かない見苦しいラジオボタンを安心して隠すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28498,7 +28501,9 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
     <tu>
       <note>(太田)
 調整。
-ファイル入力というのは input type="file" のことですが、言われても分からないと思うので「ファイル入力 (input type="file") 」としてカッコを補いました。</note>
+ファイル入力というのは input type="file" のことですが、言われても分からないと思うので「ファイル入力 (input type="file") 」としてカッコを補いました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>“&lt;g1&gt;&lt;g2&gt;WTF, forms?&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;5&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;” by Mark Otto provides similar CSS enhancement solutions for checkboxes, &lt;g6&gt;&lt;select&gt;&lt;/g6&gt; elements, and file inputs.</seg>
       </tuv>
