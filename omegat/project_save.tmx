@@ -15124,7 +15124,12 @@ implementationを例→実装としました。
     <tu>
       <note>(伊原) 車輪の再発明を訳しました。
 「車輪を再発明するためにそれを使う必要があるという意味ではない」
-という感じなので、別のところで使えというニュアンスもあるため、そんな感じにしてみました。</note>
+という感じなので、別のところで使えというニュアンスもあるため、そんな感じにしてみました。
+
+(太田)
+ここで車輪の再発明と言っているのは、HTMLで既にある機能をわざわざJSで作り直すことを指しています。
+
+</note>
       <tuv lang="EN-US">
         <seg>Just because JavaScript is (well, might be) available doesn’t mean you should use it to &lt;g1&gt;&lt;g2&gt;reinvent the wheel&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
