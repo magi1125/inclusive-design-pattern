@@ -24459,8 +24459,9 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
     <tu>
       <note>(太田)
 fragileに脆弱という言葉を使うのは避けたいです (プログラミング業界では脆弱という言葉は vulnerable の訳語として定着しているため)。壊れやすいということですが、ここでは「問題が起こりやすい」くらいでしょうか。
-
-dispense with X でXなしで済ます、というような意味。</note>
+dispense with X でXなしで済ます、というような意味。
+調整してみました。
+</note>
       <tuv lang="EN-US">
         <seg>This is the main reason why we dispense with them in favor of either completely inaccessible &lt;g1&gt;&lt;div&gt;&lt;/g1&gt;- and &lt;g2&gt;&lt;span&gt;&lt;/g2&gt;-based solutions, or comparatively fragile and complex WAI-ARIA implementations.</seg>
       </tuv>
