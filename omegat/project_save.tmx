@@ -10753,7 +10753,8 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
 (太田)
 コーディングWebアクセシビリティでは「ARIA使用の1番目のルール」という見出し表記を使っています。
 ただ、ここではリンクになっていて、First rule of ARIA useはリンク先文書の見出しなので、英語のままにするのもアリなように思います。文書名を補って「Using ARIAのFirst rule of ARIA use」としてしまっても良いのではないでしょうか。
-</note>
+
+(伊原) そうですね、外部参照の文書は基本的に英語のままなので、こちらが良いと思います。OK.</note>
       <tuv lang="EN-US">
         <seg>However, the &lt;g6&gt;&lt;g7&gt;first rule of ARIA use&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;2&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; states:</seg>
       </tuv>
@@ -17008,7 +17009,8 @@ Note を訳出したほうが良いかも。
 selected optionは、ユーザーが選んだフィルターオプションではなく、現在選ばれているフィルターオプションを指します (ステイ表示みたいなもの)。現在の選択状態がわかる、ということです。
 「判別」としつつ調整しました。
 # ちなみにWCAGの "Programmatically Determined" は「プログラムによる解釈」という訳にしていますが、ここは無理にあわせなくても良いかと。
-</note>
+
+(伊原) おおなるほど、ありがとうございます。OKです。</note>
       <tuv lang="EN-US">
         <seg>Note that the selected control is highlighted in a color-independent fashion so that our color-blind and low vision users can determine the selected option.</seg>
       </tuv>
@@ -19972,7 +19974,7 @@ might as wellは「どうせなら」「ついでだから」のような意味�
 頼っている、は「必要とする」とかのほうが分かりやすいかも。
 少し補いつつ調整してみました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Some complex JavaScript widgets, like &lt;g1&gt;&lt;g2&gt;tab interfaces&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, depend on WAI-ARIA semantics and custom (JavaScript) keyboard bindings to be made fully accessible by keyboard and to screen readers.</seg>
       </tuv>
