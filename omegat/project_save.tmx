@@ -15193,7 +15193,8 @@ implementationを例→実装としました。
       </tuv>
     </tu>
     <tu>
-      <note>(太田)</note>
+      <note>(太田)
+</note>
       <tuv lang="EN-US">
         <seg>JavaScript Enhancement</seg>
       </tuv>
@@ -22504,11 +22505,16 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「考案してきた」と言われると複数のものを考案したような印象。
+重要ではないので、トリにして「このパターン」としてしまっても良いかも。
+
+</note>
       <tuv lang="EN-US">
         <seg>The pattern we’ve devised is already fully functional and robust.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223419Z" creationid="rikiha" creationdate="20170909T223419Z">
-        <seg>ここまで考案してきたパターンはすでに十分機能し、堅牢です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T095453Z" creationid="rikiha" creationdate="20170909T223419Z">
+        <seg>このパターンはすでに十分機能し、堅牢です。</seg>
       </tuv>
     </tu>
     <tu>
