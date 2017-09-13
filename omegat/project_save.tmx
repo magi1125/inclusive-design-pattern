@@ -7781,15 +7781,13 @@ segregateは隔離というより分離としたほうがしっくりくるか�
     </tu>
     <tu>
       <note>(太田)
-
-
-
+the page information が何をさすのか良くわからない。
 </note>
       <tuv lang="EN-US">
         <seg>By now, you’ll know what this means for screen reader and keyboard users: having to hear all the page information again or having to traverse through all the document’s preamble to get to the content they were just interacting with.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223428Z" creationid="rikiha" creationdate="20170909T223428Z">
-        <seg>これがスクリーンリーダーユーザーとキーボードユーザーにとって何を意味するか、もうお分かりでしょう。それまでインタラクションを行っていたコンテンツにたどり着くには、すべてのページ情報をもう一度聞かなければならない、または、ドキュメントの前置きをすべてたどらなければならないということです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T101426Z" creationid="rikiha" creationdate="20170909T223428Z">
+        <seg>これがスクリーンリーダーユーザーとキーボードユーザーにとって何を意味するか、もうお分かりでしょう。操作していた箇所にたどり着くために、このページ情報をもう一度聞かされる、あるいは、ドキュメントの前置きをすべてたどらなければならないということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19445,7 +19443,7 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 ちなみに「そこからこの場所に戻ってくるのに便利」が、便利なのか？というピュアな疑問があり、ハマりました。リスト最下部にこのバーがあるとかなら便利なのかも？うーむ、という感じです。もしかしてHJ？
 
 (太田)
-後ろのほうにこの解説ありましたね(&lt;分節 2914&gt;)。HJではないと思います (賛同できるかどうかはともかく)。</note>
+後ろのほうにこの解説ありましたね(&lt;分節 2914&gt;)。HJではないと思います 。賛同できるかどうかはともかく。</note>
       <tuv lang="EN-US">
         <seg>Since the basic functionality works without JavaScript and triggers a page refresh, this helps users navigate back to the form from the top of the document.</seg>
       </tuv>
