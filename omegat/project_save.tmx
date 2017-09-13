@@ -18183,8 +18183,8 @@ https://ja.wikipedia.org/wiki/プレイン・イングリッシュ
       <tuv lang="EN-US">
         <seg>Pressing the right arrow key, for instance, will focus and select the next radio button with the &lt;g2&gt;name="sort-method"&lt;/g2&gt; attribute - “popularity.” In screen readers this will announce something similar to “Sort by popularity, selected, radio button, two of four.” Note that “Sort by” is read whichever radio button is selected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170913T043407Z" creationid="rikiha" creationdate="20170909T223333Z">
-        <seg>たとえば右矢印キーを押すと、次のname="sort-method"属性を持つラジオボタン――「人気順」にフォーカスが移り、選択されます。スクリーンリーダーでは「＃＃並べ替え、人気順、selected, radio button, two of four.＃＃」のように読み上げられるでしょう。ちなみに、「並べ替え」はどのラジオボタンを選択しても読み上げられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T065148Z" creationid="rikiha" creationdate="20170909T223333Z">
+        <seg>たとえば右矢印キーを押すと、次のname="sort-method"属性を持つラジオボタン――「人気順」にフォーカスが移り、選択されます。スクリーンリーダーでは「並べ替え グループ、人気順 ラジオボタン、チェックされています、全4個中1個」のように読み上げられるでしょう。ちなみに、「並べ替え」はどのラジオボタンを選択しても読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
