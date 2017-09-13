@@ -17284,12 +17284,12 @@ attacheは帰属させるくらいの意味でしょうが良い表現は無い�
 
 下のコードの !important は必要なのか。基本的に !important は悪手なので、たぶん「ラジオボタンめ、こうしてやる」みたいなニュアンスのジョークだと思うのですが。訳注?
 
-</note>
+(伊原) 担わせる、引き受けてもらう、任せるとかでしょうか。いったん引き受けにしてみました。!importantはジョークですね、説明しないほうが面白そうですが、CSS初心者も手に取るかもしれないし、訳注ですね。</note>
       <tuv lang="EN-US">
         <seg>Now that all the interaction and visual feedback is attached to the label, we can safely hide the obstinately ugly radio button from view.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T093006Z" creationid="rikiha" creationdate="20170909T223404Z">
-        <seg>これで、インタラクションや視覚的なフィードバックをすべてラベルに担わせることができたので、融通の利かない見苦しいラジオボタンは安心して非表示にできます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T133141Z" creationid="rikiha" creationdate="20170909T223404Z">
+        <seg>これで、インタラクションや視覚的なフィードバックをすべてラベルに引き受けてもらうことができたので、融通の利かない見苦しいラジオボタンは安心して非表示にできます。</seg>
       </tuv>
     </tu>
     <tu>
