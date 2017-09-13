@@ -8554,7 +8554,8 @@ they are hyperlinks は当たり前のことを繰り返しているように見
     <tu>
       <note>(太田)
 いかにも翻訳ぽい感じだったので少し意訳気味に調整。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Despite the inclusive nature of standard radio buttons, they offer limited styling opportunities.</seg>
       </tuv>
@@ -14126,7 +14127,9 @@ OK
     <tu>
       <note>(太田)
 ここのformもフォームですね。
-調整しました。</note>
+調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It can also be manipulated without a dependence on JavaScript and assumes a familiar form.</seg>
       </tuv>
@@ -24628,7 +24631,8 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
 fragileに脆弱という言葉を使うのは避けたいです (プログラミング業界では脆弱という言葉は vulnerable の訳語として定着しているため)。壊れやすいということですが、ここでは「問題が起こりやすい」くらいでしょうか。
 dispense with X でXなしで済ます、というような意味。
 調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This is the main reason why we dispense with them in favor of either completely inaccessible &lt;g1&gt;&lt;div&gt;&lt;/g1&gt;- and &lt;g2&gt;&lt;span&gt;&lt;/g2&gt;-based solutions, or comparatively fragile and complex WAI-ARIA implementations.</seg>
       </tuv>
