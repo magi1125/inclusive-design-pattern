@@ -16648,8 +16648,8 @@ focus や hover は ARIA のステートではありません。</note>
       <tuv lang="EN-US">
         <seg>Not only does this help provide a larger, more ergonomic hit area for touch users, but we can use CSS to indicate the &lt;g1&gt;&lt;input&gt;&lt;/g1&gt;’s &lt;g2&gt;:focus&lt;/g2&gt; and &lt;g3&gt;:checked&lt;/g3&gt; states in CSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T091115Z" creationid="yoota" creationdate="20170913T090559Z">
-        <seg>こうすることで、タッチユーザーに対して、より大きく、より人間工学的に優れたヒットエリアを提供できるうえに、CSSを使えば、&lt;g1&gt;&lt;input&gt;&lt;/g1&gt;の&lt;g2&gt;:focus&lt;/g2&gt;と&lt;g3&gt;:checked&lt;/g3&gt;の状態に応じてCSSの表現を変えることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T091214Z" creationid="yoota" creationdate="20170913T090559Z">
+        <seg>こうすることで、タッチユーザーに対して、より大きく、より人間工学的に優れたヒットエリアを提供できます。さらに、CSSを使って、&lt;g1&gt;&lt;input&gt;&lt;/g1&gt;の&lt;g2&gt;:focus&lt;/g2&gt;と&lt;g3&gt;:checked&lt;/g3&gt;の状態に応じて表現を変えることもできます。</seg>
       </tuv>
     </tu>
     <tu>
