@@ -13416,7 +13416,7 @@ becauseを訳出しました。
     <tu>
       <note>(太田)
 間違ってはいないけれどいかにも翻訳ぽい印象。
-</note>
+少し砕いてみました。</note>
       <tuv lang="EN-US">
         <seg>In the following structure, the &lt;g1&gt;for&lt;/g1&gt;/&lt;g2&gt;id&lt;/g2&gt; relationship means that clicking (or pressing) the &lt;g3&gt;&lt;label&gt;&lt;/g3&gt; operates the associated &lt;g4&gt;&lt;input&gt;&lt;/g4&gt;.</seg>
       </tuv>
@@ -20604,8 +20604,8 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       <tuv lang="EN-US">
         <seg>That is, the &lt;g5&gt;&lt;label&gt;&lt;/g5&gt; extends the click area of the &lt;g6&gt;&lt;input&gt;&lt;/g6&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223349Z" creationid="rikiha" creationdate="20170909T223349Z">
-        <seg>つまり、&lt;label&gt;は&lt;input&gt;のクリック領域を拡張します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T090443Z" creationid="rikiha" creationdate="20170909T223349Z">
+        <seg>つまり、&lt;g5&gt;&lt;label&gt;&lt;/g5&gt;は&lt;g6&gt;&lt;input&gt;&lt;/g6&gt;のクリック領域を拡張します。</seg>
       </tuv>
     </tu>
     <tu>
