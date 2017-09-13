@@ -7780,6 +7780,13 @@ segregateは隔離というより分離としたほうがしっくりくるか�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「すべてのページ情報」は誤訳で、all the document’s preamble なので「ページの前口上を全部」ということですね。
+
+
+
+
+</note>
       <tuv lang="EN-US">
         <seg>By now, you’ll know what this means for screen reader and keyboard users: having to hear all the page information again or having to traverse through all the document’s preamble to get to the content they were just interacting with.</seg>
       </tuv>
@@ -19440,10 +19447,7 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 ちなみに「そこからこの場所に戻ってくるのに便利」が、便利なのか？というピュアな疑問があり、ハマりました。リスト最下部にこのバーがあるとかなら便利なのかも？うーむ、という感じです。もしかしてHJ？
 
 (太田)
-後ろのほうにこの解説ありましたね。HJではないと思います (賛同できるかどうかはともかく)。
-
-
-</note>
+後ろのほうにこの解説ありましたね。HJではないと思います (賛同できるかどうかはともかく)。</note>
       <tuv lang="EN-US">
         <seg>Since the basic functionality works without JavaScript and triggers a page refresh, this helps users navigate back to the form from the top of the document.</seg>
       </tuv>
