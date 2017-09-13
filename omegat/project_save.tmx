@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19338,7 +19338,10 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 再読込は「再読み込み」? 岡本さん確認お願いします。
 
 (岡本)
-読み込みで。</note>
+読み込みで。
+
+(伊原) ありがとうございます。訳OKと思います＆訳注要りますね。
+ちなみに「そこからこの場所に戻ってくるのに便利」が、便利なのか？というピュアな疑問があり、ハマりました。リスト最下部にこのバーがあるとかなら便利なのかも？うーむ、という感じです。</note>
       <tuv lang="EN-US">
         <seg>Since the basic functionality works without JavaScript and triggers a page refresh, this helps users navigate back to the form from the top of the document.</seg>
       </tuv>
