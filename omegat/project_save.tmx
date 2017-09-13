@@ -7343,7 +7343,9 @@ http://thesaurus.weblio.jp/content/試金石
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>But just because JavaScript is available, doesn’t mean we should get carried away tearing everything up and rewriting it.</seg>
       </tuv>
@@ -22271,7 +22273,8 @@ conceptはそのままコンセプトでもいいかも。
       <note>(太田)
 原文にあわせて2文に。
 there’s no need はどこにもないというような強い印象なので、「全くありません」としました。
-</note>
+
+(伊原) OK, しかしこの主張しつこいですねw</note>
       <tuv lang="EN-US">
         <seg>The foundation is solid; there’s no need to recreate in JavaScript the parts that already work without it.</seg>
       </tuv>
