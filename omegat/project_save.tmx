@@ -1198,6 +1198,16 @@ https://en.wikipedia.org/wiki/Flapjack_(oat_bar)
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;input&lt;/g3&gt; &lt;g5&gt;type&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"radio"&lt;/g6&gt; &lt;g8&gt;name&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"sort-method"&lt;/g9&gt; &lt;g11&gt;id&lt;/g11&gt;&lt;g12&gt;&lt;g13&gt;=&lt;/g13&gt;"most-recent"&lt;/g12&gt; &lt;g14&gt;checked&lt;/g14&gt; &lt;g15&gt;/&gt;&lt;/g15&gt;&lt;/g2&gt;
+&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;label&lt;/g17&gt; &lt;g19&gt;for&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"most-recent"&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g16&gt;most recent&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;label&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T090540Z" creationid="yoota" creationdate="20170913T090540Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;input&lt;/g3&gt; &lt;g5&gt;type&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"radio"&lt;/g6&gt; &lt;g8&gt;name&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"sort-method"&lt;/g9&gt; &lt;g11&gt;id&lt;/g11&gt;&lt;g12&gt;&lt;g13&gt;=&lt;/g13&gt;"most-recent"&lt;/g12&gt; &lt;g14&gt;checked&lt;/g14&gt; &lt;g15&gt;/&gt;&lt;/g15&gt;&lt;/g2&gt;
+&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;label&lt;/g17&gt; &lt;g19&gt;for&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"most-recent"&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g16&gt;新着順&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;label&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;li&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T223840Z" creationid="rikiha" creationdate="20170909T223840Z">
@@ -16630,6 +16640,14 @@ http://www.w3.org/TR/css-position-3/#abs-pos
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170803T081744Z" creationid="rikiha" creationdate="20170730T124405Z">
         <seg>この重複は無用な混乱を招きますし、同じ機能なのに&lt;g1&gt;見た目&lt;/g1&gt;が異なるものがふたつあるということは、基本的なユーザビリティ原則に反しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not only does this help provide a larger, more ergonomic hit area for touch users, but we can use CSS to indicate the &lt;g1&gt;&lt;input&gt;&lt;/g1&gt;’s &lt;g2&gt;:focus&lt;/g2&gt; and &lt;g3&gt;:checked&lt;/g3&gt; states in CSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T090559Z" creationid="yoota" creationdate="20170913T090559Z">
+        <seg>•これにより、タッチユーザーに対して、より大きい人間工学的に優れたヒット領域を提供できるだけでなく、CSSを使って&lt;input&gt;の:focusステートと:checkedステートを示すことができます。</seg>
       </tuv>
     </tu>
     <tu>
