@@ -19327,8 +19327,8 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
       <tuv lang="EN-US">
         <seg>Since the basic functionality works without JavaScript and triggers a page refresh, this helps users navigate back to the form from the top of the document.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T025109Z" creationid="rikiha" creationdate="20170909T223326Z">
-        <seg>このウィジェットの基本機能はJavaScriptなしでも動作しますが、その場合はページが再読込されます。ユーザーはページの先頭に戻されますが、この機能があればフォームにすぐに戻ってくることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T025154Z" creationid="rikiha" creationdate="20170909T223326Z">
+        <seg>このウィジェットの基本機能はJavaScriptなしでも動作しますが、その場合はページが再読込され、ユーザーはページの先頭に戻されてしまいます。この機能があればフォームにすぐに戻ってくることができます。</seg>
       </tuv>
     </tu>
     <tu>
