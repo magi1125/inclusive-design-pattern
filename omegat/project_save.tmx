@@ -9442,8 +9442,8 @@ massiveは「大きくて重い、大規模な」というような意味です�
       <tuv lang="EN-US">
         <seg>For example, submitting the form with the popularity option selected will build a page with &lt;g3&gt;?sort-method=popularity&lt;/g3&gt; as the query parameter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T072722Z" creationid="rikiha" creationdate="20170909T223338Z">
-        <seg>たとえば、人気順オプションを選択してフォームを送信すると、クエリパラメータとして&lt;g3&gt;?sort-method=popularity&lt;/g3&gt;がついた状態でページが表示されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T072740Z" creationid="rikiha" creationdate="20170909T223338Z">
+        <seg>たとえば、人気順オプションを選択してフォームを送信すると、&lt;g3&gt;?sort-method=popularity&lt;/g3&gt;というクエリパラメータがついた状態でページが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
