@@ -12215,7 +12215,12 @@ it = トランスクリプトと補わないと分かりにくいかも。
     </tu>
     <tu>
       <note>(伊原) 抽象的でわかりづらい。直後にfieldset, legend, ラジオボタンという話があるので、その出現順に揃えてみました。
-In any case, は「さて」ぐらいにしてみました。</note>
+In any case, は「さて」ぐらいにしてみました。
+
+(太田)
+わかりにくすぎワロタ。単なるラジオボタンとfieldsetの話なのに、こんなにわかりにくく説明できるんですね。
+
+</note>
       <tuv lang="EN-US">
         <seg>In any case, our sorting widget consists of a set of mutually exclusive options each with their own unique label, and grouped under a common label.</seg>
       </tuv>
