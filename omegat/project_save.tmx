@@ -22343,7 +22343,10 @@ updateはここでは「付け加える」くらいの意味かと思います�
       <note>(伊原) 数字の4➞4という数字 と多少調整。
 
 (太田)
-厳密に言うと同一のform要素内でという限定つきです。別のform要素に同じnameのラジオボタンかあってもカウントされません。</note>
+訳はOK。
+厳密に言うと同一のform要素内でという限定つきです。別のform要素に同じnameのラジオボタンかあってもカウントされません。
+とはいえ訳注を入れるほどでもないか。
+</note>
       <tuv lang="EN-US">
         <seg>The number four is the total number of radio buttons which share a common &lt;g10&gt;name="sort-method"&lt;/g10&gt;.</seg>
       </tuv>
