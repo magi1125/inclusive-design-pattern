@@ -26631,12 +26631,13 @@ encounterは見つけようとして見つかるというより、たまたま�
     <tu>
       <note>(太田)
 要検討。ローディング表示の話。待機とは言わない気がしますね。
-</note>
+
+(伊原) ストレートに「読み込み待ち」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Waiting</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223433Z" creationid="rikiha" creationdate="20170909T223433Z">
-        <seg>待機</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T144350Z" creationid="rikiha" creationdate="20170909T223433Z">
+        <seg>読み込み待ち</seg>
       </tuv>
     </tu>
     <tu>
