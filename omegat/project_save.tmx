@@ -848,8 +848,8 @@ Kenny Mulbarton→ケニー・マルバートン</note>
         <seg>&lt;g140&gt;&lt;g141&gt;&lt;g142&gt;&lt;&lt;/g142&gt;button&lt;/g141&gt; &lt;g143&gt;type&lt;/g143&gt;&lt;g144&gt;&lt;g145&gt;=&lt;/g145&gt;"submit"&lt;/g144&gt;&lt;g146&gt;&gt;&lt;/g146&gt;&lt;/g140&gt;sort&lt;g147&gt;&lt;g148&gt;&lt;g149&gt;&lt;/&lt;/g149&gt;button&lt;/g148&gt;&lt;g150&gt;&gt;&lt;/g150&gt;&lt;/g147&gt;
 &lt;g151&gt;&lt;g152&gt;&lt;g153&gt;&lt;/&lt;/g153&gt;form&lt;/g152&gt;&lt;g154&gt;&gt;&lt;/g154&gt;&lt;/g151&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170913T002925Z" creationid="rikiha" creationdate="20170913T002925Z">
-        <seg>&lt;g140&gt;&lt;g141&gt;&lt;g142&gt;&lt;&lt;/g142&gt;button&lt;/g141&gt; &lt;g143&gt;type&lt;/g143&gt;&lt;g144&gt;&lt;g145&gt;=&lt;/g145&gt;"submit"&lt;/g144&gt;&lt;g146&gt;&gt;&lt;/g146&gt;&lt;/g140&gt;並び替え&lt;g147&gt;&lt;g148&gt;&lt;g149&gt;&lt;/&lt;/g149&gt;button&lt;/g148&gt;&lt;g150&gt;&gt;&lt;/g150&gt;&lt;/g147&gt;
+      <tuv lang="JA" changeid="yoota" changedate="20170913T031054Z" creationid="rikiha" creationdate="20170913T002925Z">
+        <seg>&lt;g140&gt;&lt;g141&gt;&lt;g142&gt;&lt;&lt;/g142&gt;button&lt;/g141&gt; &lt;g143&gt;type&lt;/g143&gt;&lt;g144&gt;&lt;g145&gt;=&lt;/g145&gt;"submit"&lt;/g144&gt;&lt;g146&gt;&gt;&lt;/g146&gt;&lt;/g140&gt;並べ替える&lt;g147&gt;&lt;g148&gt;&lt;g149&gt;&lt;/&lt;/g149&gt;button&lt;/g148&gt;&lt;g150&gt;&gt;&lt;/g150&gt;&lt;/g147&gt;
 &lt;g151&gt;&lt;g152&gt;&lt;g153&gt;&lt;/&lt;/g153&gt;form&lt;/g152&gt;&lt;g154&gt;&gt;&lt;/g154&gt;&lt;/g151&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
@@ -956,8 +956,8 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       <tuv lang="EN-US">
         <seg>&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;&lt;/g21&gt;legend&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;Sort by&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;legend&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170913T000619Z" creationid="rikiha" creationdate="20170913T000619Z">
-        <seg>&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;&lt;/g21&gt;legend&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;並び替え順&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;legend&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T031044Z" creationid="rikiha" creationdate="20170913T000619Z">
+        <seg>&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;&lt;/g21&gt;legend&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;並べ替え&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;legend&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8932,12 +8932,18 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
 画像は別にグレーじゃないですね。白背景に黒枠です。
 ヘイドンさん、altつけてから画像変えたんでしょうか。
 
-「並び替え順」というラベルはあまり見ないかも。「並び順」?</note>
+「並び替え順」というラベルはあまり見ないかも。「並び順」?
+
+Amazon: 並べ替え
+楽天市場: 並び替え
+Yahoo!ショッピング: (全体のラベルナシ)
+
+ラベルは「並べ替え」、ボタンは「並べ替える」とするのが良いかもしれません。</note>
       <tuv lang="EN-US">
         <seg>Filter options displayed inline within a gray bar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170913T000552Z" creationid="rikiha" creationdate="20170910T010047Z">
-        <seg>並び替え順というラベル、オプション（新着順、人気順、価格の安い順、価格の高い順）、および並び替えボタンが黒い枠の中に横並びで表示されている。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T031038Z" creationid="rikiha" creationdate="20170910T010047Z">
+        <seg>並べ替えというラベル、オプション（新着順、人気順、価格の安い順、価格の高い順）、および並べ替えるボタンが黒い枠の中に横並びで表示されているべ</seg>
       </tuv>
     </tu>
     <tu>
