@@ -16644,7 +16644,8 @@ http://www.w3.org/TR/css-position-3/#abs-pos
     </tu>
     <tu>
       <note>(太田)
-focus や hover は ARIA のステートではありません。</note>
+focus や hover は ARIA のステートではありません。
+調整してみました。2文にしてもいいのかも。</note>
       <tuv lang="EN-US">
         <seg>Not only does this help provide a larger, more ergonomic hit area for touch users, but we can use CSS to indicate the &lt;g1&gt;&lt;input&gt;&lt;/g1&gt;’s &lt;g2&gt;:focus&lt;/g2&gt; and &lt;g3&gt;:checked&lt;/g3&gt; states in CSS.</seg>
       </tuv>
