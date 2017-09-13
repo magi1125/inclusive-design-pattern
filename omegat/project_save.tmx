@@ -12987,11 +12987,15 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+少し調整。
+ここでは修正する話はしていないので、fixを修正とするのは良くないかもしれません。埋め合わせる、としてみました。
+</note>
       <tuv lang="EN-US">
         <seg>In summary: never fix with JavaScript and WAI-ARIA what can be achieved with HTML and CSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223413Z" creationid="rikiha" creationdate="20170909T223413Z">
-        <seg>要約すると、HTMLとCSSで達成できることを、JavaScriptとWAI-ARIAを使って修正してはいけない、ということです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T093911Z" creationid="rikiha" creationdate="20170909T223413Z">
+        <seg>要約すると、HTMLとCSSで実現できることを、JavaScriptとWAI-ARIAで埋め合わせてはいけない、ということです。</seg>
       </tuv>
     </tu>
     <tu>
