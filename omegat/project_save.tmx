@@ -26922,12 +26922,18 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) フォーカスを能動に、読み上げは受身のままに。読み上げがlegend➞labelとなる点がわかるように調整。こちらもradioはラジオボタンとしました。</note>
+      <note>(伊原) フォーカスを能動に、読み上げは受身のままに。読み上げがlegend➞labelとなる点がわかるように調整。こちらもradioはラジオボタンとしました。
+
+(太田)
+inputのlabelはinputに対応するlabelとしました。
+その他微調整。
+
+</note>
       <tuv lang="EN-US">
         <seg>When a radio &lt;g4&gt;&lt;input&gt;&lt;/g4&gt; is focused, the &lt;g5&gt;&lt;legend&gt;&lt;/g5&gt; content is announced followed by the &lt;g6&gt;&lt;input&gt;&lt;/g6&gt;’s &lt;g7&gt;&lt;label&gt;&lt;/g7&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170913T023309Z" creationid="rikiha" creationdate="20170909T223328Z">
-        <seg>ラジオボタンである&lt;g4&gt;&lt;input&gt;&lt;/g4&gt;にフォーカスすると、&lt;g5&gt;&lt;legend&gt;&lt;/g5&gt;の内容に続いて&lt;g6&gt;&lt;input&gt;&lt;/g6&gt;の&lt;g7&gt;&lt;label&gt;&lt;/g7&gt;が読み上げられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T032905Z" creationid="rikiha" creationdate="20170909T223328Z">
+        <seg>ラジオボタンの&lt;g4&gt;&lt;input&gt;&lt;/g4&gt;にフォーカスがあたると、&lt;g5&gt;&lt;legend&gt;&lt;/g5&gt;の内容が読まれ、続いて&lt;g6&gt;&lt;input&gt;&lt;/g6&gt;に対応する&lt;g7&gt;&lt;label&gt;&lt;/g7&gt;が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
