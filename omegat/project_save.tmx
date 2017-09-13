@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1984,12 +1984,14 @@ forego は「先に行く」のような感じですが、他動詞として使�
       </tuv>
     </tu>
     <tu>
-      <note>https://www.w3.org/TR/html-aria/</note>
+      <note>(伊原) わかりにくいので補足。直観に反するというのもちょっと微妙ではありますが（ARIAを知らない人なら違和感ないかもしれない）、いったんそのまま。role警察案件ですね。
+https://momdo.github.io/html-aria/
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Having the ARIA role of &lt;g2&gt;form&lt;/g2&gt; on a &lt;g3&gt;&lt;form&gt;&lt;/g3&gt; seems counterintuitive, but it turns the widget into a region, making it navigable in screen readers using shortcuts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170913T004725Z" creationid="rikiha" creationdate="20170909T223320Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g3&gt;&lt;form&gt;&lt;/g3&gt;に&lt;g2&gt;form&lt;/g2&gt;というARIA roleがあるのは直観に反するようですが、それがウィジェットを領域に変換し、スクリーンリーダーでナビゲーションショートカットできるようになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T012717Z" creationid="rikiha" creationdate="20170909T223320Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g3&gt;&lt;form&gt;&lt;/g3&gt;に&lt;g2&gt;form&lt;/g2&gt;というARIA roleがあるのは直観に反するようですが、このroleがウィジェットをフォーム領域に変換することで、スクリーンリーダーでショートカットを使ってナビゲーションできるようになります。</seg>
       </tuv>
     </tu>
     <tu>
