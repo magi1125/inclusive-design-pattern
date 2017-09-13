@@ -19512,12 +19512,14 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 ちなみに「そこからこの場所に戻ってくるのに便利」が、便利なのか？というピュアな疑問があり、ハマりました。リスト最下部にこのバーがあるとかなら便利なのかも？うーむ、という感じです。もしかしてHJ？
 
 (太田)
-後ろのほうにこの解説ありましたね(&lt;分節 2914&gt;)。HJではないと思います 。賛同できるかどうかはともかく。</note>
+後ろのほうにこの解説ありましたね(&lt;分節 2914&gt;)。HJではないと思います 。賛同できるかどうかはともかく。
+
+(伊原) 理解できました。この機能＝このroleの指定、ですね。そこを誤読していました。機能➞指定としました。</note>
       <tuv lang="EN-US">
         <seg>Since the basic functionality works without JavaScript and triggers a page refresh, this helps users navigate back to the form from the top of the document.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T025246Z" creationid="rikiha" creationdate="20170909T223326Z">
-        <seg>このウィジェットの基本機能はJavaScriptなしでも動作しますが、その場合はページが再読み込みされ、ユーザーはページの先頭に戻されてしまいます。この機能があれば、フォームにすぐに戻ってくることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T124832Z" creationid="rikiha" creationdate="20170909T223326Z">
+        <seg>このウィジェットの基本機能はJavaScriptなしでも動作しますが、その場合はページが再読み込みされ、ユーザーはページの先頭に戻されてしまいます。この指定があれば、フォームにすぐに戻ってくることができます。</seg>
       </tuv>
     </tu>
     <tu>
