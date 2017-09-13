@@ -25270,12 +25270,16 @@ explicitlyを訳出したいかも。「明示的に」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) オプション➞ラジオボタンとすべきか。いったんそのまま。「チェックを入れる」もチェックボックスっぽいニュアンスですが、いったんそのまま。</note>
+      <note>(伊原) オプション➞ラジオボタンとすべきか。いったんそのまま。「チェックを入れる」もチェックボックスっぽいニュアンスですが、いったんそのまま。
+
+(太田)
+これは誤訳で、ここは初期値の話だと思います。
+</note>
       <tuv lang="EN-US">
         <seg>To begin with, the first option (“most recent”) is checked.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223329Z" creationid="rikiha" creationdate="20170909T223329Z">
-        <seg>まず、最初のオプション（「新着順」）にチェックを入れます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T033015Z" creationid="rikiha" creationdate="20170909T223329Z">
+        <seg>初期状態では、先頭のオプション（「新着順」）がチェックされた状態になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26925,7 +26929,7 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       <note>(伊原) フォーカスを能動に、読み上げは受身のままに。読み上げがlegend➞labelとなる点がわかるように調整。こちらもradioはラジオボタンとしました。
 
 (太田)
-inputのlabelはinputに対応するlabelとしました。
+「inputのlabel」は「inputに対応するlabel」としました。
 その他微調整。
 
 </note>
