@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9237,11 +9237,12 @@ the を訳出すべきか?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 多少調整。stateとroleは、ユーザー側の視点では状態と役割なので、そのようにしました。</note>
       <tuv lang="EN-US">
         <seg>Focusing it would trigger the announcement of “Sort by most recent, selected, radio button, one of four.” “Sort by” is the group label; “most recent” is the element label; “selected” is the element state; “radio button” is the element role.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223331Z" creationid="rikiha" creationdate="20170909T223331Z">
-        <seg>フォーカスすると、「＃＃並び替え順、新着順、selected, radio button, one of four.＃＃」という読み上げをトリガーします。「並び替え順」はグループラベル、「新着順」は要素ラベル、「＃＃selected＃＃」は要素ステート、「＃＃radio button＃＃」は要素ロールです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T031541Z" creationid="rikiha" creationdate="20170909T223331Z">
+        <seg>フォーカスすると、「＃＃並び替え順、新着順、selected, radio button, one of four.＃＃」と読み上げられるでしょう。「並び替え順」はグループのラベル、「新着順」は要素のラベル、「＃＃selected＃＃」は要素の状態、「＃＃radio button＃＃」は要素の役割です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20026,11 +20027,12 @@ impactは次の文に合わせて「効果」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ブラウザの、と補足。</note>
       <tuv lang="EN-US">
         <seg>Standard behavior is that only this checked &lt;g8&gt;&lt;input&gt;&lt;/g8&gt; is focusable by &lt;g9&gt;Tab&lt;/g9&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223330Z" creationid="rikiha" creationdate="20170909T223330Z">
-        <seg>標準動作では、このチェックされた&lt;input&gt;のみがTabキーでフォーカス可能です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T031213Z" creationid="rikiha" creationdate="20170909T223330Z">
+        <seg>ブラウザの標準動作では、このチェックされた&lt;input&gt;のみがTabキーでフォーカス可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25263,6 +25265,7 @@ explicitlyを訳出したいかも。「明示的に」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) オプション➞ラジオボタンとすべきか。いったんそのまま。「チェックを入れる」もチェックボックスっぽいニュアンスですが、いったんそのまま。</note>
       <tuv lang="EN-US">
         <seg>To begin with, the first option (“most recent”) is checked.</seg>
       </tuv>
@@ -26914,11 +26917,12 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) フォーカスを能動に、読み上げは受身のままに。読み上げがlegend➞labelとなる点がわかるように調整。こちらもradioはラジオボタンとしました。</note>
       <tuv lang="EN-US">
         <seg>When a radio &lt;g4&gt;&lt;input&gt;&lt;/g4&gt; is focused, the &lt;g5&gt;&lt;legend&gt;&lt;/g5&gt; content is announced followed by the &lt;g6&gt;&lt;input&gt;&lt;/g6&gt;’s &lt;g7&gt;&lt;label&gt;&lt;/g7&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170913T023148Z" creationid="rikiha" creationdate="20170909T223328Z">
-        <seg>ラジオボタンである&lt;g4&gt;&lt;input&gt;&lt;/g4&gt;niフォーカスされると、&lt;g5&gt;&lt;legend&gt;&lt;/g5&gt;の内容に続いて&lt;g6&gt;&lt;input&gt;&lt;/g6&gt;の&lt;g7&gt;&lt;label&gt;&lt;/g7&gt;が読み上げられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T023309Z" creationid="rikiha" creationdate="20170909T223328Z">
+        <seg>ラジオボタンである&lt;g4&gt;&lt;input&gt;&lt;/g4&gt;にフォーカスすると、&lt;g5&gt;&lt;legend&gt;&lt;/g5&gt;の内容に続いて&lt;g6&gt;&lt;input&gt;&lt;/g6&gt;の&lt;g7&gt;&lt;label&gt;&lt;/g7&gt;が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
