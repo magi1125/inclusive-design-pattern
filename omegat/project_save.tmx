@@ -10659,12 +10659,14 @@ http://ejje.weblio.jp/content/pertinent+to
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>However, as I wrote in “&lt;g1&gt;&lt;g2&gt;Replacing Radio Buttons Without Replacing Radio Buttons&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;4&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” you don’t actually &lt;g6&gt;have&lt;/g6&gt; to style the &lt;g7&gt;&lt;input type="radio"&gt;&lt;/g7&gt; element directly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T085156Z" creationid="rikiha" creationdate="20170909T223346Z">
-        <seg>•しかし、「&lt;g1&gt;&lt;g2&gt;Replacing Radio Buttons Without Replacing Radio Buttons&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注159）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」にも書きましたが、実際に&lt;g7&gt;&lt;input type="radio"&gt;&lt;/g7&gt;要素に直接スタイルを適用&lt;g6&gt;しなければならない&lt;/g6&gt;わけではありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T132126Z" creationid="rikiha" creationdate="20170909T223346Z">
+        <seg>しかし、「&lt;g1&gt;&lt;g2&gt;Replacing Radio Buttons Without Replacing Radio Buttons&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注159）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」にも書きましたが、実際に&lt;g7&gt;&lt;input type="radio"&gt;&lt;/g7&gt;要素に直接スタイルを適用&lt;g6&gt;しなければならない&lt;/g6&gt;わけではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13509,7 +13511,9 @@ becauseを訳出しました。
 間違ってはいないけれどいかにも翻訳ぽい印象。
 少し砕いてみました。
 
-(岡本)　付け→づけ</note>
+(岡本)　付け→づけ
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the following structure, the &lt;g1&gt;for&lt;/g1&gt;/&lt;g2&gt;id&lt;/g2&gt; relationship means that clicking (or pressing) the &lt;g3&gt;&lt;label&gt;&lt;/g3&gt; operates the associated &lt;g4&gt;&lt;input&gt;&lt;/g4&gt;.</seg>
       </tuv>
@@ -16741,12 +16745,14 @@ http://www.w3.org/TR/css-position-3/#abs-pos
     <tu>
       <note>(太田)
 focus や hover は ARIA のステートではありません。
-調整してみました。2文にしてもいいのかも。</note>
+調整してみました。2文にしてもいいのかも。
+
+(伊原) 2文にしてみました。押しにくいことを理由にdiv化するケースが多いので、メリットがハッキリしたと思います。</note>
       <tuv lang="EN-US">
         <seg>Not only does this help provide a larger, more ergonomic hit area for touch users, but we can use CSS to indicate the &lt;g1&gt;&lt;input&gt;&lt;/g1&gt;’s &lt;g2&gt;:focus&lt;/g2&gt; and &lt;g3&gt;:checked&lt;/g3&gt; states in CSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T091248Z" creationid="yoota" creationdate="20170913T090559Z">
-        <seg>こうすることで、タッチユーザーに対して、より大きく、より人間工学的に優れたヒットエリアを提供できるだけでなく、CSSを使って、&lt;g1&gt;&lt;input&gt;&lt;/g1&gt;の&lt;g2&gt;:focus&lt;/g2&gt;と&lt;g3&gt;:checked&lt;/g3&gt;の状態を表現することもできます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T132430Z" creationid="yoota" creationdate="20170913T090559Z">
+        <seg>こうすることで、タッチユーザーに対して、より大きく、より人間工学的に優れたヒットエリアを提供できます。それだけでなく、CSSを使って&lt;g1&gt;&lt;input&gt;&lt;/g1&gt;の&lt;g2&gt;:focus&lt;/g2&gt;と&lt;g3&gt;:checked&lt;/g3&gt;の状態を表現することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28071,7 +28077,8 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
 「影武者」とするのを思いつきましたが穏やかな方向で。
 
 (岡本)　付け→つけ
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>You can hide it and style the &lt;g8&gt;&lt;label&gt;&lt;/g8&gt; as a proxy.</seg>
       </tuv>
