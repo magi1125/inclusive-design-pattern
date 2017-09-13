@@ -2990,12 +2990,14 @@ OK
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+少し調整。
+ここのbuildはもう表示とかで良いような。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;We’re using the &lt;g2&gt;get&lt;/g2&gt; method on the form to rebuild the page from the server without relying on client-side JavaScript, at this stage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T072539Z" creationid="rikiha" creationdate="20170909T223337Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;この段階では、&lt;g2&gt;get&lt;/g2&gt;メソッドでフォームを送信してサーバー側でページを再出力しています。クライアント側のJavaScriptには依存していません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T072716Z" creationid="rikiha" creationdate="20170909T223337Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;この段階では、&lt;g2&gt;get&lt;/g2&gt;メソッドでフォームを送信してサーバー側でページを再表示しています。クライアント側のJavaScriptには依存していません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9440,7 +9442,7 @@ massiveは「大きくて重い、大規模な」というような意味です�
       <tuv lang="EN-US">
         <seg>For example, submitting the form with the popularity option selected will build a page with &lt;g3&gt;?sort-method=popularity&lt;/g3&gt; as the query parameter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T072640Z" creationid="rikiha" creationdate="20170909T223338Z">
+      <tuv lang="JA" changeid="yoota" changedate="20170913T072722Z" creationid="rikiha" creationdate="20170909T223338Z">
         <seg>たとえば、人気順オプションを選択してフォームを送信すると、クエリパラメータとして&lt;g3&gt;?sort-method=popularity&lt;/g3&gt;がついた状態でページが表示されます。</seg>
       </tuv>
     </tu>
