@@ -19315,13 +19315,20 @@ can benefit は「良いでしょう」くらいで。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) いまいち「ドキュメントの先頭からフォームに戻るのに便利」の主張がわからない。
-without JavaScript and triggers a page refreshの解釈が間違っている？（withoutがrefreshにもかかっている？）だとしても、「基本的な機能はJSや再読込なしでも動作します、ドキュメント先頭からフォームに戻るのに便利です」では、やはり謎。</note>
+      <note>※要訳注
+
+(伊原) いまいち「ドキュメントの先頭からフォームに戻るのに便利」の主張がわからない。
+without JavaScript and triggers a page refreshの解釈が間違っている？（withoutがrefreshにもかかっている？）だとしても、「基本的な機能はJSや再読込なしでも動作します、ドキュメント先頭からフォームに戻るのに便利です」では、やはり謎。
+
+(太田)
+スクリプト無効時は "sort" ボタンを押すとGETリクエストが走り、その結果としてこのページ自体がリフレッシュされます。するとユーザーはページの先頭に戻されます。そこからこの場所に戻ってくるのに便利、という話です。
+意訳しつつ2文に分けつつ調整してみましたが、なぜリフレッシュされるのかは訳注がないと分からないかもですね。
+</note>
       <tuv lang="EN-US">
         <seg>Since the basic functionality works without JavaScript and triggers a page refresh, this helps users navigate back to the form from the top of the document.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170913T020420Z" creationid="rikiha" creationdate="20170909T223326Z">
-        <seg>基本的な機能はJavaScriptなしでも動作します。その場合はページが再読込されるので、ドキュメントの先頭からフォームに戻るのに便利です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T025109Z" creationid="rikiha" creationdate="20170909T223326Z">
+        <seg>このウィジェットの基本機能はJavaScriptなしでも動作しますが、その場合はページが再読込されます。ユーザーはページの先頭に戻されますが、この機能があればフォームにすぐに戻ってくることができます。</seg>
       </tuv>
     </tu>
     <tu>
