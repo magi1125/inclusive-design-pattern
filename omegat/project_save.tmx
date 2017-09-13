@@ -8776,12 +8776,13 @@ draw onは経験を活かすような意味。
     <tu>
       <note>(太田)
 ここのnewは新しいというか今と異なるくらいの意味でしょう。「別の」としました。
-</note>
+
+(伊原) リフレッシュを再読み込みにして前と合わせました。</note>
       <tuv lang="EN-US">
         <seg>Each time a user chooses a new filtering option and hits the sort button, there’s currently a page refresh.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T100539Z" creationid="rikiha" creationdate="20170909T223427Z">
-        <seg>現状では、ユーザーが別のフィルタオプションを選択して並べ替えボタンを押すと、そのたびにページがリフレッシュされます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T142048Z" creationid="rikiha" creationdate="20170909T223427Z">
+        <seg>現状では、ユーザーが別のフィルタオプションを選択して並べ替えボタンを押すと、そのたびにページが再読み込みされます。</seg>
       </tuv>
     </tu>
     <tu>
