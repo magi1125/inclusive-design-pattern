@@ -28344,11 +28344,14 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+調整。
+ファイル入力というのは input type="file" のことですが、言われても分からないと思うので「ファイル入力 (input type="file") 」としてカッコを補いました。</note>
       <tuv lang="EN-US">
         <seg>“&lt;g1&gt;&lt;g2&gt;WTF, forms?&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;5&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;” by Mark Otto provides similar CSS enhancement solutions for checkboxes, &lt;g6&gt;&lt;select&gt;&lt;/g6&gt; elements, and file inputs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T094413Z" creationid="rikiha" creationdate="20170909T223416Z">
-        <seg>マーク・オットー（Mark Otto）の「&lt;g1&gt;&lt;g2&gt;WTF, forms?&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注160）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」では、このようなCSSによる拡張を、チェックボックス、&lt;g6&gt;&lt;select&gt;&lt;/g6&gt;要素、ファイル入力に対して行う方法を紹介しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T094537Z" creationid="rikiha" creationdate="20170909T223416Z">
+        <seg>マーク・オットー（Mark Otto）の「&lt;g1&gt;&lt;g2&gt;WTF, forms?&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注160）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」では、このようなCSSによる拡張を、チェックボックス、&lt;g6&gt;&lt;select&gt;&lt;/g6&gt;要素、ファイル入力 (input type="file") に対して行う方法を紹介しています。</seg>
       </tuv>
     </tu>
     <tu>
