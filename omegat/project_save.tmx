@@ -772,6 +772,12 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
 
 &lt;g13&gt;[type="radio"]:checked + label &lt;/g13&gt;&lt;g14&gt;{&lt;/g14&gt;</seg>
       </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170913T103008Z">
+        <seg>&lt;g11&gt;/* fフォーカススタイル*/&lt;/g11&gt;
+&lt;g12&gt;}&lt;/g12&gt;
+
+&lt;g13&gt;[type="radio"]:checked + label &lt;/g13&gt;&lt;g14&gt;{&lt;/g14&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -3937,6 +3943,12 @@ Price:　→価格：</note>
 下訳：その他の基本スタイル</note>
       <tuv lang="EN-US">
         <seg>&lt;g7&gt;/* other basic styles */&lt;/g7&gt;
+&lt;g8&gt;}&lt;/g8&gt;
+
+&lt;g9&gt;[type="radio"]:focus + label &lt;/g9&gt;&lt;g10&gt;{&lt;/g10&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170913T103023Z">
+        <seg>&lt;g7&gt;/* その他の基本スタイル */&lt;/g7&gt;
 &lt;g8&gt;}&lt;/g8&gt;
 
 &lt;g9&gt;[type="radio"]:focus + label &lt;/g9&gt;&lt;g10&gt;{&lt;/g10&gt;</seg>
