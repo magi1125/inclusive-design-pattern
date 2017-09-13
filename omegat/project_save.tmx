@@ -12347,7 +12347,9 @@ In any case, は「さて」ぐらいにしてみました。
 
 (太田)
 わかりにくすぎワロタ。単なるラジオボタンとfieldsetの話なのに、こんなにわかりにくく説明できるんですね。
-大胆に砕いて意訳しつつ3文に分けてみましたがどうでしょうか。</note>
+大胆に砕いて意訳しつつ3文に分けてみましたがどうでしょうか。
+
+(伊原) ありがとうございます。OKです。</note>
       <tuv lang="EN-US">
         <seg>In any case, our sorting widget consists of a set of mutually exclusive options each with their own unique label, and grouped under a common label.</seg>
       </tuv>
@@ -15283,6 +15285,7 @@ implementationを例→実装としました。
 括弧内はHJで、wellのニュアンスを活かしたいですが難しいですね。「まあ、できるかもしれない、という程度ですが」とするのはどうかと思いましたが、逆に全体の意味がとりにくくなりそう。
 すこし調整しました。
 
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Just because JavaScript is (well, might be) available doesn’t mean you should use it to &lt;g1&gt;&lt;g2&gt;reinvent the wheel&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
