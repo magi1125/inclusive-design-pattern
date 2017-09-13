@@ -24018,15 +24018,19 @@ breakは破綻としました。
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※要訳注?
+
+(太田)
 だいたい合っているがわかりにくいですね。
 legendが読まれることの意義を説明しているので少し補ったほうがいいかも。
-補ってみましたがわかりにくい気がしてならない。</note>
+「現在選択されているオプションがどれであっても」というのは、legendが無いと現在の選択肢によって読まれ方が違う、ということなのですが、それが伝わるかどうか。補ってみましたがわかりにくい気がしてなりません。
+訳注?
+</note>
       <tuv lang="EN-US">
         <seg>This ensures that if I were to leave the widget and begin focusing other page elements and then return to it, I’d be reminded of the sorting function no matter which option is currently selected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T071411Z" creationid="rikiha" creationdate="20170909T223335Z">
-        <seg>このウィジェットからいったん離れて他の要素を見てから戻った場合でも、これが読まれることで、現在選択されているオプションがどれであっても、並べ替え機能であることがすぐにわかります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T071619Z" creationid="rikiha" creationdate="20170909T223335Z">
+        <seg>このウィジェットからいったん離れて他の要素を見てまわっても、ここに戻れば「並べ替え」と読まれます。これにより、現在選択されているオプションがどれであっても、これが並べ替え機能であることがすぐにわかります。</seg>
       </tuv>
     </tu>
     <tu>
