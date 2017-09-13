@@ -26383,7 +26383,9 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>We can create this structure using a &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;, &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; and radio buttons.</seg>
       </tuv>
