@@ -9236,16 +9236,18 @@ the を訳出すべきか?
       </tuv>
     </tu>
     <tu>
-      <note>	(伊原) 多少調整。stateとroleは、ユーザー側の視点では状態と役割なので、そのようにしました。
+      <note>(伊原) 多少調整。stateとroleは、ユーザー側の視点では状態と役割なので、そのようにしました。
 
 (太田)
 NVDA2017.3jaでは「並べ替え グループ 新着順 ラジオボタン チェック」となり、legendを読みますが個数は読みません。
-iOSのVoiceOverでは「新着順 ラジオボタン チェックマークがつきました 全4個中1個」となり、個数を読みますがlegendを読みません。</note>
+iOSのVoiceOverでは「新着順 ラジオボタン チェックマークがつきました 全4個中1個」となり、個数を読みますがlegendを読みません。
+stateとroleはそのまんまARIAのstateとroleが読まれるという説明なのではないでしょうか。例の用語をあてておきました。
+</note>
       <tuv lang="EN-US">
         <seg>Focusing it would trigger the announcement of “Sort by most recent, selected, radio button, one of four.” “Sort by” is the group label; “most recent” is the element label; “selected” is the element state; “radio button” is the element role.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T062404Z" creationid="rikiha" creationdate="20170909T223331Z">
-        <seg>フォーカスすると、「並べ替え グループ、新着順 ラジオボタン、チェックされています、全4個中1個」のように読み上げられるでしょう。「並べ替え」はグループのラベル、「新着順」は要素のラベル、「チェックされています」は要素の状態、「ラジオボタン」は要素の役割を表しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T062520Z" creationid="rikiha" creationdate="20170909T223331Z">
+        <seg>フォーカスすると、「並べ替え グループ、新着順 ラジオボタン、チェックされています、全4個中1個」のように読み上げられるでしょう。「並べ替え」はグループのラベル、「新着順」は要素のラベル、「チェックされています」は要素の状態（state）、「ラジオボタン」は要素の役割（role）を表しています。</seg>
       </tuv>
     </tu>
     <tu>
