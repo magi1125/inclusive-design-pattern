@@ -22516,14 +22516,15 @@ updateはここでは「付け加える」くらいの意味かと思います�
 (太田)
 切り方OK。
 プログレッシブエンハンスメントなので、後半は「無くても機能するようにする」というより、「無しで動くように作って、後から足す」という感じになるとわかりやすいかと思います。
+enhanceは拡張としました。
 carefulは慎重? ここでは「少しずつ」くらいのニュアンスか?
 調整してみました。
 </note>
       <tuv lang="EN-US">
         <seg>The pattern will be founded on progressive enhancement and will work in the absence of both CSS and JavaScript, though we shall improve the experience inclusively with a careful application of those two technologies respectively.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170912T100026Z" creationid="rikiha" creationdate="20170909T223241Z">
-        <seg>このパターンではプログレッシブエンハンスメントを基礎としています。CSSとJavaScriptなしでも機能するように作ってから、これら2つの技術をそれぞれ少しずつ適用して、体験がよりインクルーシブになるように改善していきます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T094101Z" creationid="rikiha" creationdate="20170909T223241Z">
+        <seg>このパターンではプログレッシブエンハンスメントを基礎としています。CSSとJavaScriptなしでも機能するように作ってから、これら2つの技術をそれぞれ少しずつ適用して、体験がよりインクルーシブになるように拡張していきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26833,12 +26834,13 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
     </tu>
     <tu>
       <note>(太田)
-改善します、と言っているのでそういうニュアンスにしたい。</note>
+enhanceします、と言っているのでそういうニュアンスにしたい。
+enhanceは拡張としました。</note>
       <tuv lang="EN-US">
         <seg>We’ll enhance the experience with JavaScript in the “JavaScript Enhancement” section to come.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T074137Z" creationid="rikiha" creationdate="20170909T223340Z">
-        <seg>後の「JavaScriptによる改善」セクションで、JavaScriptを用いて体験を改善していきます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T094048Z" creationid="rikiha" creationdate="20170909T223340Z">
+        <seg>後の「JavaScriptによる改善」セクションで、JavaScriptを用いて体験を拡張していきます。</seg>
       </tuv>
     </tu>
     <tu>
