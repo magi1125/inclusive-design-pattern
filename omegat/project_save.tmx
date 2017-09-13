@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15135,8 +15135,8 @@ implementationを例→実装としました。
       <tuv lang="EN-US">
         <seg>Just because JavaScript is (well, might be) available doesn’t mean you should use it to &lt;g1&gt;&lt;g2&gt;reinvent the wheel&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T014558Z" creationid="rikiha" creationdate="20170909T223307Z">
-        <seg>JavaScriptが利用できる（できるかもしれない）からといって、それを使って&lt;g1&gt;&lt;g2&gt;車輪の再発明&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注158）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;をすべきということではありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T020131Z" creationid="rikiha" creationdate="20170909T223307Z">
+        <seg>JavaScriptが利用できる（できるかもしれない）からといって、それを使って&lt;g1&gt;&lt;g2&gt;車輪の再発明&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注158）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;をすべきということではないのです。</seg>
       </tuv>
     </tu>
     <tu>
