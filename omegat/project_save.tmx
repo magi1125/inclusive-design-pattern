@@ -24020,12 +24020,13 @@ breakは破綻としました。
     <tu>
       <note>(太田)
 だいたい合っているがわかりにくいですね。
-legendが読まれることの意義を説明しているので少し補ったほうがいいかも。</note>
+legendが読まれることの意義を説明しているので少し補ったほうがいいかも。
+補ってみましたがわかりにくい気がしてならない。</note>
       <tuv lang="EN-US">
         <seg>This ensures that if I were to leave the widget and begin focusing other page elements and then return to it, I’d be reminded of the sorting function no matter which option is currently selected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223335Z" creationid="rikiha" creationdate="20170909T223335Z">
-        <seg>これにより、ウィジェットをいったん離れ、別のページ要素をフォーカスした後にまた戻っても、現在どのオプションが選択されているかに関わらず、並び替え機能だと思い出させてくれます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T071411Z" creationid="rikiha" creationdate="20170909T223335Z">
+        <seg>このウィジェットからいったん離れて他の要素を見てから戻った場合でも、これが読まれることで、現在選択されているオプションがどれであっても、並べ替え機能であることがすぐにわかります。</seg>
       </tuv>
     </tu>
     <tu>
