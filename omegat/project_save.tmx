@@ -1986,6 +1986,9 @@ forego は「先に行く」のような感じですが、他動詞として使�
     <tu>
       <note>(伊原) わかりにくいので補足。直観に反するというのもちょっと微妙ではありますが（ARIAを知らない人なら違和感ないかもしれない）、いったんそのまま。role警察案件ですね。
 https://momdo.github.io/html-aria/
+
+(太田)
+いったん保留
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Having the ARIA role of &lt;g2&gt;form&lt;/g2&gt; on a &lt;g3&gt;&lt;form&gt;&lt;/g3&gt; seems counterintuitive, but it turns the widget into a region, making it navigable in screen readers using shortcuts.</seg>
