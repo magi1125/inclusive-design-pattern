@@ -9239,7 +9239,10 @@ the を訳出すべきか?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 多少調整。stateとroleは、ユーザー側の視点では状態と役割なので、そのようにしました。</note>
+      <note>(伊原) 多少調整。stateとroleは、ユーザー側の視点では状態と役割なので、そのようにしました。
+
+(太田)
+NVDA2017.3jaでは「並べ替え グループ 新着順 ラジオボタン チェック」</note>
       <tuv lang="EN-US">
         <seg>Focusing it would trigger the announcement of “Sort by most recent, selected, radio button, one of four.” “Sort by” is the group label; “most recent” is the element label; “selected” is the element state; “radio button” is the element role.</seg>
       </tuv>
