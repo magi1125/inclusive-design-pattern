@@ -22340,7 +22340,10 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 数字の4➞4という数字 と多少調整。</note>
+      <note>(伊原) 数字の4➞4という数字 と多少調整。
+
+(太田)
+厳密に言うと同一のform要素内でという限定つきです。</note>
       <tuv lang="EN-US">
         <seg>The number four is the total number of radio buttons which share a common &lt;g10&gt;name="sort-method"&lt;/g10&gt;.</seg>
       </tuv>
