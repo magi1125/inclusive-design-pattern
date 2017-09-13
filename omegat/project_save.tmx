@@ -9024,7 +9024,9 @@ Amazon: 並べ替え
 楽天市場: 並び替え
 Yahoo!ショッピング: (全体のラベルナシ)
 
-ラベルは「並べ替え」、ボタンは「並べ替える」とするのが良いかもしれません。</note>
+ラベルは「並べ替え」、ボタンは「並べ替える」とするのが良いかもしれません。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Filter options displayed inline within a gray bar.</seg>
       </tuv>
@@ -22604,6 +22606,8 @@ fully functionalは「必要な機能を全て備えている」くらい強く�
 enhanceは拡張としました。
 carefulは慎重? ここでは「少しずつ」くらいのニュアンスか?
 調整してみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>The pattern will be founded on progressive enhancement and will work in the absence of both CSS and JavaScript, though we shall improve the experience inclusively with a careful application of those two technologies respectively.</seg>
@@ -22971,7 +22975,8 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
     <tu>
       <note>(伊原) 下訳から反映
 
-(岡本)　フィルタ→フィルター</note>
+(岡本)　フィルタ→フィルター
+</note>
       <tuv lang="EN-US">
         <seg>The selected filter has a blue ring around it.</seg>
       </tuv>
@@ -25651,7 +25656,8 @@ https://github.com/mnater/Hyphenator
 (太田)
 OK
 oursが何を指すのかがイマイチ謎。フィルターウィジェットを指すという解釈でいいのかどうか。
-</note>
+
+(伊原) 確かに。でも他に該当しそうなものもなさそうです。</note>
       <tuv lang="EN-US">
         <seg>To make ours inclusive, we need to consider blind and keyboard users, potential performance issues and visual clarity.</seg>
       </tuv>
