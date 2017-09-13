@@ -22523,8 +22523,8 @@ carefulは慎重? ここでは「少しずつ」くらいのニュアンスか?
       <tuv lang="EN-US">
         <seg>The pattern will be founded on progressive enhancement and will work in the absence of both CSS and JavaScript, though we shall improve the experience inclusively with a careful application of those two technologies respectively.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T094101Z" creationid="rikiha" creationdate="20170909T223241Z">
-        <seg>このパターンではプログレッシブエンハンスメントを基礎としています。CSSとJavaScriptなしでも機能するように作ってから、これら2つの技術をそれぞれ少しずつ適用して、体験がよりインクルーシブになるように拡張していきます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T094106Z" creationid="rikiha" creationdate="20170909T223241Z">
+        <seg>このパターンではプログレッシブエンハンスメントを基礎としています。CSSとJavaScriptなしでも機能するように作ってから、これら2つの技術をそれぞれ少しずつ適用して、体験がさらにインクルーシブになるように拡張していきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28347,8 +28347,8 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       <tuv lang="EN-US">
         <seg>“&lt;g1&gt;&lt;g2&gt;WTF, forms?&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;5&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;” by Mark Otto provides similar CSS enhancement solutions for checkboxes, &lt;g6&gt;&lt;select&gt;&lt;/g6&gt; elements, and file inputs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T094014Z" creationid="rikiha" creationdate="20170909T223416Z">
-        <seg>マーク・オットー（Mark Otto）の「&lt;g1&gt;&lt;g2&gt;WTF, forms?&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注160）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」では、同様のCSSによる拡張方法（チェックボックス、&lt;select&gt;要素、ファイルの入力用）を提供しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T094234Z" creationid="rikiha" creationdate="20170909T223416Z">
+        <seg>マーク・オットー（Mark Otto）の「&lt;g1&gt;&lt;g2&gt;WTF, forms?&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注160）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」では、チェックボックス、&lt;g6&gt;&lt;select&gt;&lt;/g6&gt;要素、ファイル入力について、同じようなCSSによる拡張方法を紹介しています。</seg>
       </tuv>
     </tu>
     <tu>
