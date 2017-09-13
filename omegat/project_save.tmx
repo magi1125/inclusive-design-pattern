@@ -1993,7 +1993,9 @@ https://momdo.github.io/html-aria/
 少し調整。
 しかし、これ事実なんでしょうか?
 フォームに飛ぶのは昔からほとんどのスクリーンリーダーが備えている基本機能で、role属性がなくても普通に動くと思いますが。
+そうでないとしてもform要素に暗黙のrole=formがあると思いますし。
 訳注かもしれませんがいったん保留。
+
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Having the ARIA role of &lt;g2&gt;form&lt;/g2&gt; on a &lt;g3&gt;&lt;form&gt;&lt;/g3&gt; seems counterintuitive, but it turns the widget into a region, making it navigable in screen readers using shortcuts.</seg>
