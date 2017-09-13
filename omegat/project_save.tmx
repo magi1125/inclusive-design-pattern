@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2571,11 +2571,12 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 受身や語順がわかりにくかったので調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; contains a single &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt; which is used to group the radio options under the label “Sort by,” followed by a submit button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223327Z" creationid="rikiha" creationdate="20170909T223327Z">
-        <seg>•&lt;form&gt;には1つの&lt;fieldset&gt;が含まれ、これを使って「並び替え順」ラベル下のradioオプションをグループ化し、その後にsubmit（送信）ボタンが続きます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T022822Z" creationid="rikiha" creationdate="20170909T223327Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;この&lt;g2&gt;&lt;form&gt;&lt;/g2&gt;は「並び替え順」ラベル以下のラジオボタンをグループ化する&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;をひとつ含み、その後に送信ボタンが続きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19307,11 +19308,13 @@ can benefit は「良いでしょう」くらいで。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) いまいち「ドキュメントの先頭からフォームに戻るのに便利」の主張がわからない。
+without JavaScript and triggers a page refreshの解釈が間違っている？（withoutがrefreshにもかかっている？）だとしても、「基本的な機能はJSや再読込なしでも動作します、ドキュメント先頭からフォームに戻るのに便利です」では、やはり謎。</note>
       <tuv lang="EN-US">
         <seg>Since the basic functionality works without JavaScript and triggers a page refresh, this helps users navigate back to the form from the top of the document.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223326Z" creationid="rikiha" creationdate="20170909T223326Z">
-        <seg>基本的な機能はJavaScriptがなくても機能し、ページリフレッシュをトリガーするので、ドキュメントのトップからフォームに戻るのに便利です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T020420Z" creationid="rikiha" creationdate="20170909T223326Z">
+        <seg>基本的な機能はJavaScriptなしでも動作します。その場合はページが再読込されるので、ドキュメントの先頭からフォームに戻るのに便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26886,8 +26889,8 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       <tuv lang="EN-US">
         <seg>When a radio &lt;g4&gt;&lt;input&gt;&lt;/g4&gt; is focused, the &lt;g5&gt;&lt;legend&gt;&lt;/g5&gt; content is announced followed by the &lt;g6&gt;&lt;input&gt;&lt;/g6&gt;’s &lt;g7&gt;&lt;label&gt;&lt;/g7&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223328Z" creationid="rikiha" creationdate="20170909T223328Z">
-        <seg>radioの&lt;input&gt;がフォーカスされると、&lt;legend&gt;コンテンツが読み上げられ、&lt;input&gt;の&lt;label&gt;がその後に続きます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T023148Z" creationid="rikiha" creationdate="20170909T223328Z">
+        <seg>ラジオボタンである&lt;g4&gt;&lt;input&gt;&lt;/g4&gt;niフォーカスされると、&lt;g5&gt;&lt;legend&gt;&lt;/g5&gt;の内容に続いて&lt;g6&gt;&lt;input&gt;&lt;/g6&gt;の&lt;g7&gt;&lt;label&gt;&lt;/g7&gt;が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
