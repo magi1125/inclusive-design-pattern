@@ -8035,12 +8035,12 @@ Enhancementは改善でいいのか。
 強化に近いニュアンスだとは思いますが。
 いったん保留。
 
-</note>
+(伊原) プログレッシブ・エンハンスメントのEnhancementなので、強化にしました。</note>
       <tuv lang="EN-US">
         <seg>CSS Enhancement</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223341Z" creationid="rikiha" creationdate="20170909T223341Z">
-        <seg>CSSによる改善</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T114457Z" creationid="rikiha" creationdate="20170909T223341Z">
+        <seg>CSSによる強化</seg>
       </tuv>
     </tu>
     <tu>
@@ -9521,8 +9521,8 @@ massiveは「大きくて重い、大規模な」というような意味です�
       <tuv lang="EN-US">
         <seg>For example, submitting the form with the popularity option selected will build a page with &lt;g3&gt;?sort-method=popularity&lt;/g3&gt; as the query parameter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T072740Z" creationid="rikiha" creationdate="20170909T223338Z">
-        <seg>たとえば、人気順オプションを選択してフォームを送信すると、&lt;g3&gt;?sort-method=popularity&lt;/g3&gt;というクエリパラメータがついた状態でページが表示されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T114354Z" creationid="rikiha" creationdate="20170909T223338Z">
+        <seg>たとえば、人気順のオプションを選択してフォームを送信すると、&lt;g3&gt;?sort-method=popularity&lt;/g3&gt;というクエリパラメータがついた状態でページが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26916,7 +26916,9 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
     <tu>
       <note>(太田)
 enhanceします、と言っているのでそういうニュアンスにしたい。
-enhanceは拡張としました。</note>
+enhanceは拡張としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We’ll enhance the experience with JavaScript in the “JavaScript Enhancement” section to come.</seg>
       </tuv>
