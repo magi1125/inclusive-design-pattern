@@ -24460,8 +24460,8 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
       <tuv lang="EN-US">
         <seg>This is the main reason why we dispense with them in favor of either completely inaccessible &lt;g1&gt;&lt;div&gt;&lt;/g1&gt;- and &lt;g2&gt;&lt;span&gt;&lt;/g2&gt;-based solutions, or comparatively fragile and complex WAI-ARIA implementations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223345Z" creationid="rikiha" creationdate="20170909T223345Z">
-        <seg>まったくアクセシブルではない&lt;div&gt;ベースや&lt;span&gt;ベースの解決策や、比較的脆弱で複雑なWAI-ARIAの実装を選んでしまう主な理由はそこにあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T082751Z" creationid="rikiha" creationdate="20170909T223345Z">
+        <seg>まったくアクセシブルではない&lt;g1&gt;&lt;div&gt;&lt;/g1&gt;ベースや&lt;g2&gt;&lt;span&gt;&lt;/g2&gt;ベースの解決策や、比較的脆弱で複雑なWAI-ARIAの実装を選んでしまう主な理由はそこにあります。</seg>
       </tuv>
     </tu>
     <tu>
