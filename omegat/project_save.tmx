@@ -10576,11 +10576,13 @@ http://ejje.weblio.jp/content/pertinent+to
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>However, as I wrote in “&lt;g1&gt;&lt;g2&gt;Replacing Radio Buttons Without Replacing Radio Buttons&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;4&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” you don’t actually &lt;g6&gt;have&lt;/g6&gt; to style the &lt;g7&gt;&lt;input type="radio"&gt;&lt;/g7&gt; element directly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T085058Z" creationid="rikiha" creationdate="20170909T223346Z">
-        <seg>•しかし、「&lt;g1&gt;&lt;g2&gt;Replacing Radio Buttons Without Replacing Radio Buttons&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注159）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」にも書きましたが、実際には、&lt;g7&gt;&lt;input type="radio"&gt;&lt;/g7&gt;要素に直接スタイルを適用することは&lt;g6&gt;必須ではありません&lt;/g6&gt;。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170913T085142Z" creationid="rikiha" creationdate="20170909T223346Z">
+        <seg>•しかし、「&lt;g1&gt;&lt;g2&gt;Replacing Radio Buttons Without Replacing Radio Buttons&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注159）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」にも書きましたが、実際には、&lt;g7&gt;&lt;input type="radio"&gt;&lt;/g7&gt;要素に直接スタイルを適用&lt;g6&gt;しなければならない&lt;/g6&gt;わけではありません。</seg>
       </tuv>
     </tu>
     <tu>
