@@ -2702,7 +2702,9 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
 
 (太田)
 OK、そういうことで良いかと。
-HPを尊重するなら「担わせている」とか?</note>
+HPを尊重するなら「担わせている」とか?
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The browser delegates arrow keys (left and right, up and down) for selecting different options.</seg>
       </tuv>
@@ -9336,6 +9338,8 @@ the を訳出すべきか?
 NVDA2017.3jaでは「並べ替え グループ 新着順 ラジオボタン チェック」となり、legendを読みますが個数は読みません。
 iOSのVoiceOverでは「新着順 ラジオボタン チェックマークがつきました 全4個中1個」となり、個数を読みますがlegendを読みません。
 stateとroleはそのまんまARIAのstateとroleが読まれるという説明なのではないでしょうか。例の用語をあてておきました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Focusing it would trigger the announcement of “Sort by most recent, selected, radio button, one of four.” “Sort by” is the group label; “most recent” is the element label; “selected” is the element state; “radio button” is the element role.</seg>
@@ -22525,7 +22529,8 @@ updateはここでは「付け加える」くらいの意味かと思います�
 訳はOK。
 厳密に言うと同一のform要素内でという限定つきです。別のform要素に同じnameのラジオボタンかあってもカウントされません。
 とはいえ訳注を入れるほどでもないか。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The number four is the total number of radio buttons which share a common &lt;g10&gt;name="sort-method"&lt;/g10&gt;.</seg>
       </tuv>
@@ -24206,7 +24211,8 @@ breakは破綻としました。
 legendが読まれることの意義を説明しているので少し補ったほうがいいかも。
 「現在選択されているオプションがどれであっても」というのは、legendが無いと現在の選択肢によって読まれ方が違う、ということなのですが、それが伝わるかどうか。補ってみましたがわかりにくい気がしてなりません。
 訳注?
-</note>
+
+(伊原) OK. ここは訳注なしでも分かると思います。</note>
       <tuv lang="EN-US">
         <seg>This ensures that if I were to leave the widget and begin focusing other page elements and then return to it, I’d be reminded of the sorting function no matter which option is currently selected.</seg>
       </tuv>
