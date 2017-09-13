@@ -14724,12 +14724,14 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
       <note>(太田)
 使い勝手が悪いというのは言い過ぎかも。
 clunkyは優雅でない、ドスドス音を立てる、のような意味。
-洒落ていない、くらい?</note>
+洒落ていない、くらい?
+
+(伊原) 魅力のない、格好悪い、ださい、ぎこちない、無骨。インタラクションの話なので、ぎこちないとしてみました。</note>
       <tuv lang="EN-US">
         <seg>It’s fair to say it’s a bit &lt;g1&gt;clunky&lt;/g1&gt;, though.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T095859Z" creationid="rikiha" creationdate="20170909T223420Z">
-        <seg>ただ、少しばかり&lt;g1&gt;洒落ていない&lt;/g1&gt;と言えるでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170913T135739Z" creationid="rikiha" creationdate="20170909T223420Z">
+        <seg>ただ、少しばかり&lt;g1&gt;ぎこちない&lt;/g1&gt;と言えるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15292,7 +15294,8 @@ implementationを例→実装としました。
     </tu>
     <tu>
       <note>(太田)
-</note>
+
+(伊原) 調整済み？訳OK</note>
       <tuv lang="EN-US">
         <seg>JavaScript Enhancement</seg>
       </tuv>
@@ -22633,7 +22636,9 @@ updateはここでは「付け加える」くらいの意味かと思います�
       <note>(太田)
 「考案してきた」と言われると複数のものを考案したような印象。
 重要ではないので、トリにして「このパターン」としてしまっても良いかも。
-fully functionalは「必要な機能を全て備えている」くらい強くして良いのではないでしょうか。</note>
+fully functionalは「必要な機能を全て備えている」くらい強くして良いのではないでしょうか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The pattern we’ve devised is already fully functional and robust.</seg>
       </tuv>
