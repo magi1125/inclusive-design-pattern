@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -764,6 +764,16 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+下訳：フォーカススタイル</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g11&gt;/* focus styles */&lt;/g11&gt;
+&lt;g12&gt;}&lt;/g12&gt;
+
+&lt;g13&gt;[type="radio"]:checked + label &lt;/g13&gt;&lt;g14&gt;{&lt;/g14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;&lt;&lt;/g13&gt;li&lt;/g12&gt;&lt;g14&gt;&gt;&lt;/g14&gt;&lt;/g11&gt;</seg>
       </tuv>
@@ -859,6 +869,18 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T223921Z" creationid="rikiha" creationdate="20170909T223921Z">
         <seg>&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;&lt;/g15&gt;a&lt;/g14&gt; &lt;g16&gt;href&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"/artist/kenny-mulbarton"&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g13&gt;by &lt;g20&gt;&lt;g21&gt;&lt;g22&gt;&lt;&lt;/g22&gt;cite&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g20&gt;ケニー・マルバートン&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;/&lt;/g26&gt;cite&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;&lt;g28&gt;&lt;g29&gt;&lt;g30&gt;&lt;/&lt;/g30&gt;a&lt;/g29&gt;&lt;g31&gt;&gt;&lt;/g31&gt;&lt;/g28&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+下訳：選択時のスタイル</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g15&gt;/* selected styles */&lt;/g15&gt;
+&lt;g16&gt;}&lt;/g16&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170913T102958Z" creationid="okamoto_jun" creationdate="20170913T102958Z">
+        <seg>&lt;g15&gt;/* 選択時のスタイル */&lt;/g15&gt;
+&lt;g16&gt;}&lt;/g16&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3908,6 +3930,16 @@ Price:　→価格：</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170905T091108Z" creationid="yoota" creationdate="20170905T091108Z">
         <seg>&lt;g79&gt;&lt;g80&gt;&lt;g81&gt;&lt;&lt;/g81&gt;dt&lt;/g80&gt;&lt;g82&gt;&gt;&lt;/g82&gt;&lt;/g79&gt;評価:&lt;g83&gt;&lt;g84&gt;&lt;g85&gt;&lt;/&lt;/g85&gt;dt&lt;/g84&gt;&lt;g86&gt;&gt;&lt;/g86&gt;&lt;/g83&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+下訳：その他の基本スタイル</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g7&gt;/* other basic styles */&lt;/g7&gt;
+&lt;g8&gt;}&lt;/g8&gt;
+
+&lt;g9&gt;[type="radio"]:focus + label &lt;/g9&gt;&lt;g10&gt;{&lt;/g10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13438,12 +13470,14 @@ becauseを訳出しました。
     <tu>
       <note>(太田)
 間違ってはいないけれどいかにも翻訳ぽい印象。
-少し砕いてみました。</note>
+少し砕いてみました。
+
+(岡本)　付け→づけ</note>
       <tuv lang="EN-US">
         <seg>In the following structure, the &lt;g1&gt;for&lt;/g1&gt;/&lt;g2&gt;id&lt;/g2&gt; relationship means that clicking (or pressing) the &lt;g3&gt;&lt;label&gt;&lt;/g3&gt; operates the associated &lt;g4&gt;&lt;input&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T090401Z" creationid="rikiha" creationdate="20170909T223348Z">
-        <seg>以下の構造では、&lt;g1&gt;for&lt;/g1&gt;と&lt;g2&gt;id&lt;/g2&gt;によって関連付けが行われており、&lt;g3&gt;&lt;label&gt;&lt;/g3&gt;をクリックする（もしくは押す）と、関連付けられた&lt;g4&gt;&lt;input&gt;&lt;/g4&gt;を操作したことになります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170913T102842Z" creationid="rikiha" creationdate="20170909T223348Z">
+        <seg>以下の構造では、&lt;g1&gt;for&lt;/g1&gt;と&lt;g2&gt;id&lt;/g2&gt;によって関連づけが行われており、&lt;g3&gt;&lt;label&gt;&lt;/g3&gt;をクリックする（もしくは押す）と、関連づけられた&lt;g4&gt;&lt;input&gt;&lt;/g4&gt;を操作したことになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27971,12 +28005,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
 それが何を指すのかややわかりにくいので展開。
 ここのproxyは日本語にしたほうがいいやつかも。代理の人とかですね。
 「影武者」とするのを思いつきましたが穏やかな方向で。
+
+(岡本)　付け→つけ
 </note>
       <tuv lang="EN-US">
         <seg>You can hide it and style the &lt;g8&gt;&lt;label&gt;&lt;/g8&gt; as a proxy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T085522Z" creationid="rikiha" creationdate="20170909T223347Z">
-        <seg>ラジオボタンを隠し、代わりに&lt;g8&gt;&lt;label&gt;&lt;/g8&gt;にスタイルを付ければ良いのです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170913T102533Z" creationid="rikiha" creationdate="20170909T223347Z">
+        <seg>ラジオボタンを隠し、代わりに&lt;g8&gt;&lt;label&gt;&lt;/g8&gt;にスタイルをつければ良いのです。</seg>
       </tuv>
     </tu>
     <tu>
