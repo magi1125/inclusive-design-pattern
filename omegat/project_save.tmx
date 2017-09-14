@@ -26936,11 +26936,15 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+うーん、微妙。
+例外でないものをキャッチするのか。
+</note>
       <tuv lang="EN-US">
         <seg>We do this by catching the &lt;g2&gt;submit&lt;/g2&gt; event.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223744Z" creationid="rikiha" creationdate="20170909T223744Z">
-        <seg>これを行うには、submitイベントをキャッチします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T095356Z" creationid="rikiha" creationdate="20170909T223744Z">
+        <seg>これを行うには、&lt;g2&gt;submit&lt;/g2&gt;イベントをキャッチします。</seg>
       </tuv>
     </tu>
     <tu>
