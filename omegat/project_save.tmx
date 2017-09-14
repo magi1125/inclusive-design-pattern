@@ -9992,12 +9992,12 @@ An alt Decision Tree のフローで
       <note>(太田)
 元訳は意味が通らないような。
 予算と時間があればdiverse user用のテストをし、そうでない場合はメインのテストと同じメニューで単にテスターの一部にdiverse userを入れる、ということなのかも。
-「さまざまなユーザー」と言われると人数が多いような印象があるので、diverse userをどう訳すか工夫が必要かもしれません。</note>
+「さまざまなユーザー」と言われると人数が多いような印象になるので、diverse userをどう訳すか工夫が必要かもしれません。</note>
       <tuv lang="EN-US">
         <seg>For smaller budgets and timeframes, diverse users should be made part of the main test group.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223819Z" creationid="rikiha" creationdate="20170909T223819Z">
-        <seg>予算が少なく、時間が限られている場合は、さまざまなユーザーをメインのテストグループに含めましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T112113Z" creationid="rikiha" creationdate="20170909T223819Z">
+        <seg>予算が少なく、時間が限られている場合は、さまざまなユーザーをメインのテストグループに含めてしまいましょう。</seg>
       </tuv>
     </tu>
     <tu>
