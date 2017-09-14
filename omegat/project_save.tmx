@@ -18179,7 +18179,7 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       <tuv lang="EN-US">
         <seg>Otherwise they might be left wondering if hitting the sort button did anything at all.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T070720Z" creationid="rikiha" creationdate="20170909T223638Z">
+      <tuv lang="JA" changeid="yoota" changedate="20170914T070947Z" creationid="rikiha" creationdate="20170909T223638Z">
         <seg>そうしないと、ユーザーは並べ替えボタンを押しても何も起きなかったのかと思い、迷ったまま放置されることになりかねません。</seg>
       </tuv>
     </tu>
@@ -21733,7 +21733,9 @@ commonは「共通する」というより「一般的」と訳すほうが分�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整</note>
+      <note>(伊原) 微調整
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>The WAI-ARIA specification provides &lt;g1&gt;&lt;g2&gt;live regions&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;7&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; for just this kind of thing.</seg>
       </tuv>
