@@ -3047,8 +3047,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;We would populate the live region with the message using simple JavaScript DOM manipulation: &lt;g2&gt;liveElement.textContent = '[message]'&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223733Z" creationid="rikiha" creationdate="20170909T223733Z">
-        <seg>•ライブリージョンには、JavaScriptでの単純なDOM操作（liveElement.textContent = 'message'）を使ってメッセージを表示します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T082935Z" creationid="rikiha" creationdate="20170909T223733Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ライブリージョンには、JavaScriptでの単純なDOM操作（&lt;g2&gt;liveElement.textContent = 'message'&lt;/g2&gt;）を使ってメッセージを表示します。</seg>
       </tuv>
     </tu>
     <tu>
