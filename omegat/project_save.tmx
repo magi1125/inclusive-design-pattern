@@ -17326,7 +17326,8 @@ the URLは「このページのURL」としてみました。
 ここはlabel要素を指しているので、labelとした方がいいかも？
 
 (太田) 原文が &lt;label&gt; ではないのでカタカナにするのが正しいとは思いますが、とはいえ変えてしまっても良いですね。いったんママで。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Note the use of adjacent sibling combinators to &lt;g4&gt;pass&lt;/g4&gt; state to the label:</seg>
       </tuv>
