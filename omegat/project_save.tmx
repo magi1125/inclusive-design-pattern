@@ -2769,8 +2769,8 @@ should be なので「なければならない」「必要がある」は強す�
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The equivalent &lt;g2&gt;assertive&lt;/g2&gt; and &lt;g3&gt;alert&lt;/g3&gt; values mean the current readout of the screen reader will be interrupted to announce the live region’s new message.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T085518Z" creationid="rikiha" creationdate="20170909T223734Z">
-        <seg>•&lt;g2&gt;aria-live="assertive"&lt;/g2&gt;は&lt;g3&gt;alert&lt;/g3&gt;ロールと同じ機能を提供します。スクリーンリーダーの現在の読み上げが中断され、ライブリージョンの新しいメッセージが読み上げられることを意味します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T085558Z" creationid="rikiha" creationdate="20170909T223734Z">
+        <seg>•&lt;g2&gt;aria-live="assertive"&lt;/g2&gt;と&lt;g3&gt;alert&lt;/g3&gt;ロールは同じ機能を提供します。スクリーンリーダーの現在の読み上げが中断され、ライブリージョンの新しいメッセージが読み上げられることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
