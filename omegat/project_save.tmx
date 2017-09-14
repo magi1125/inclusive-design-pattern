@@ -8823,11 +8823,13 @@ draw onは経験を活かすような意味。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>Each arrow keypress not only focuses adjacent radio buttons but &lt;g1&gt;selects them&lt;/g1&gt; as well.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T103512Z" creationid="rikiha" creationdate="20170909T223805Z">
-        <seg>矢印キーを押すと、隣接するradioボタンがフォーカスされるだけでなく、&lt;g1&gt;選択される&lt;/g1&gt;ことになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T103525Z" creationid="rikiha" creationdate="20170909T223805Z">
+        <seg>矢印キーを押すと、隣接するラジオボタンがフォーカスされるだけでなく、&lt;g1&gt;選択される&lt;/g1&gt;ことになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25034,6 +25036,10 @@ esotericは特殊というより、他で使われていないというニュア
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ちょっと誤訳っぽいですね。選択肢が4つあるので、端から端まで移動する間に3回イベントが発生するという話です。
+
+</note>
       <tuv lang="EN-US">
         <seg>This means moving through the options in either direction would fire the &lt;g2&gt;change&lt;/g2&gt; event three times in total.</seg>
       </tuv>
