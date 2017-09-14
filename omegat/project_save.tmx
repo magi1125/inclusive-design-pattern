@@ -2767,8 +2767,9 @@ should be なので「なければならない」「必要がある」は強す�
     </tu>
     <tu>
       <note>(太田)
-なぜこちらはプロパティとも属性とも言わずに投げっぱなしなのか。補いました。
+なぜこちらはプロパティとも属性とも言わずに投げっぱなしなのか。補いました。いろいろ調整。
 
+参考:
 http://www.w3.org/TR/wai-aria-1.1/#alert
 Elements with the role alert have an implicit aria-live value of assertive, and an implicit aria-atomic value of true.
 </note>
