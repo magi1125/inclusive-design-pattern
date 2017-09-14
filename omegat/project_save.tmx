@@ -18480,7 +18480,9 @@ honestは「正直」としてみました。
     <tu>
       <note>(太田)
 誤訳ですね。the change event は「changeイベント」です。
-前からのつながりもふまえて調整。</note>
+for greater immediacy は、実装が手っ取り早いのか、それともユーザーにとって手っ取り早いのか (ボタンを押すアクションが不要になるという意味で)。原文はどちらとも取れるので、あいまいなまま対応。
+前からのつながりもふまえて調整しました。
+</note>
       <tuv lang="EN-US">
         <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
       </tuv>
