@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17478,11 +17478,13 @@ UXは「ユーザー体験」とする?
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+大幅に補いつつ調整。</note>
       <tuv lang="EN-US">
         <seg>Now that we’re not making use of our &lt;g1&gt;get&lt;/g1&gt; functionality, we’ll need to prevent the page refreshing by suppressing the submit button’s default form submission functionality.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T095114Z" creationid="rikiha" creationdate="20170909T223744Z">
-        <seg>もはやフォームを&lt;g1&gt;get&lt;/g1&gt;で送信する機能は使いませんので、submitボタンのデフォルトのフォーム送信機能を抑止して、ページがリフレッシュされるのを防ぐ必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T095251Z" creationid="rikiha" creationdate="20170909T223744Z">
+        <seg>JavaScriptで商品リストを表示する場合、フォームを&lt;g1&gt;get&lt;/g1&gt;で送信する機能は使いませんので、submitボタンのデフォルトのフォーム送信機能を抑止して、ページが再読み込みされることを防ぐ必要があります。</seg>
       </tuv>
     </tu>
     <tu>
