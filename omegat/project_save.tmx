@@ -2648,6 +2648,8 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
 訳としては合っていますが言っていることが分かりにくいですね。
 statusロールは暗黙のaria-live="polite"を持つことになっているので機能が同じという話ですが、プロパティとロールが同等と言われてもわかりにくいような。「同じ機能を提供します」と補ってみました。
 
+というか例には polite  出てこなくないですか?
+
 参考:
 http://www.w3.org/TR/wai-aria-1.1/#status
 Elements with the role status have an implicit aria-live value of polite and an implicit aria-atomic value of true.
