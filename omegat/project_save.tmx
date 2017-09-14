@@ -16058,12 +16058,14 @@ manageは管理で良いような。
 商品リストに。
 
 (岡本)
-商品の読み込み、としました。</note>
+商品の読み込み、としました。
+
+(伊原) 商品リストにしました。</note>
       <tuv lang="EN-US">
         <seg>Loading complete.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170914T081359Z" creationid="rikiha" creationdate="20170914T024922Z">
-        <seg>商品の読み込みが完了しました。23点の商品が一覧されています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170914T143812Z" creationid="rikiha" creationdate="20170914T024922Z">
+        <seg>商品リストの読み込みが完了しました。23点の商品が一覧されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23774,12 +23776,14 @@ JAWS日本語版では「ページ内リンク」らしいです。
 
 (太田) 微調整
 
-(岡本)　商品が読み込まれたら、ですかね。</note>
+(岡本)　商品が読み込まれたら、ですかね。
+
+(伊原) 商品リストとしました。</note>
       <tuv lang="EN-US">
         <seg>Then, when the products are loaded, we can change the live region content to inform the user:</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170914T081229Z" creationid="rikiha" creationdate="20170909T223727Z">
-        <seg>そして、商品が読み込まれたら、ライブリージョンのコンテンツを変更して、ユーザーに以下のように知らせます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170914T143800Z" creationid="rikiha" creationdate="20170909T223727Z">
+        <seg>そして、商品リストが読み込まれたら、ライブリージョンのコンテンツを変更して、ユーザーに以下のように知らせます。</seg>
       </tuv>
     </tu>
     <tu>
