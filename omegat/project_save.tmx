@@ -18179,8 +18179,8 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       <tuv lang="EN-US">
         <seg>Otherwise they might be left wondering if hitting the sort button did anything at all.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T070947Z" creationid="rikiha" creationdate="20170909T223638Z">
-        <seg>そうしないと、ユーザーは並べ替えボタンを押しても何も起きなかったのかと思い、迷ったまま放置されることになりかねません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T071841Z" creationid="rikiha" creationdate="20170909T223638Z">
+        <seg>そうしないと、ユーザーは並べ替えボタンを押しても何も起きなかったのかと思い、さまよい続けることになりかねません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26564,7 +26564,10 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順調整。</note>
+      <note>(伊原) 語順調整。
+
+(太田) OK
+</note>
       <tuv lang="EN-US">
         <seg>Usually, content is only announced in screen readers when either:</seg>
       </tuv>
