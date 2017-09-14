@@ -7182,11 +7182,13 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+セットアップ→環境としました。</note>
       <tuv lang="EN-US">
         <seg>Both are provided to maximize compatibility across platforms and screen readers (in some setups, only one or the other is recognized).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223732Z" creationid="rikiha" creationdate="20170909T223732Z">
-        <seg>両者はプラットフォームやスクリーンリーダー間の互換性を最大限にするために提供されています（一部のセットアップでは、どちらか一方が認識されます）。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T082719Z" creationid="rikiha" creationdate="20170909T223732Z">
+        <seg>両者はプラットフォームやスクリーンリーダー間の互換性を最大限にするために提供されています（一部の環境では、どちらか一方が認識されます）。</seg>
       </tuv>
     </tu>
     <tu>
