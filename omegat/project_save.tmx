@@ -18482,7 +18482,10 @@ honestは「正直」としてみました。
 誤訳ですね。the change event は「changeイベント」です。
 for greater immediacy は、実装が手っ取り早いのか、それともユーザーにとって手っ取り早いのか (ボタンを押すアクションが不要になるという意味で)。原文はどちらとも取れるので、あいまいなまま対応。
 前からのつながりもふまえて調整しました。
-</note>
+
+というか下のコード間違ってませんか?
+this.submit(); するのではなく // XHR request handling here とならないと意味がおかしいと思いますが。
+先の submit イベントでXHRして preventDefault() する</note>
       <tuv lang="EN-US">
         <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
       </tuv>
@@ -26968,7 +26971,10 @@ divに小細工するのではなく既存のbutton要素を使う、という�
     <tu>
       <note>(太田)
 訳としては合っていると思いますが、例外でないものをキャッチするという言い方をするかどうか。イベントを握りつぶす、みたいな言い方はするかもしれない。
-というか普通に「submit イベントの中でpreventDefault() を呼びます」みたいな説明があるべきなのではないですかね。力強く補いました。</note>
+というか普通に「submit イベントの中でpreventDefault() を呼びます」みたいな説明があるべきなのではないですかね。力強く補いました。
+
+あと細かいですが、下のコード、preventDefault() は XHRの前に呼ばないほうが良いと思います。何らかの理由でXHRに失敗したときにsubmitの動作をさせたいことがあるので。とはいえまあ、これはサンプルなのでこだわらない方向で。
+</note>
       <tuv lang="EN-US">
         <seg>We do this by catching the &lt;g2&gt;submit&lt;/g2&gt; event.</seg>
       </tuv>
