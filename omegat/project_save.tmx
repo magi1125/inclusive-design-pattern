@@ -14854,7 +14854,11 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田)
+ここの being fetched はロードが完了したニュアンス。
+</note>
       <tuv lang="EN-US">
         <seg>It’s important to communicate that content is being fetched to screen reader users as well.</seg>
       </tuv>
