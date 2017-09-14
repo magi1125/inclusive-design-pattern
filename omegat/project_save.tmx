@@ -21648,11 +21648,12 @@ commonは「共通する」というより「一般的」と訳すほうが分�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整</note>
       <tuv lang="EN-US">
         <seg>The WAI-ARIA specification provides &lt;g1&gt;&lt;g2&gt;live regions&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;7&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; for just this kind of thing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223641Z" creationid="rikiha" creationdate="20170909T223641Z">
-        <seg>WAI-ARIA仕様は、このような問題用にライブリージョン（脚注162）を提供しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170914T020655Z" creationid="rikiha" creationdate="20170909T223641Z">
+        <seg>WAI-ARIAの仕様は、このような状況のために&lt;g1&gt;&lt;g2&gt;ライブリージョン&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注162）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
