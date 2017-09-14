@@ -3279,6 +3279,15 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+下訳：
+ // ここでXHRリクエスト処理</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g23&gt;// XHR request handling here
+&lt;/g23&gt;&lt;g24&gt;}&lt;/g24&gt;&lt;g25&gt;)&lt;/g25&gt;&lt;g26&gt;;&lt;/g26&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g24&gt;&lt;!-- third article’s content here --&gt;&lt;/g24&gt;
 &lt;g25&gt;&lt;g26&gt;&lt;g27&gt;&lt;/&lt;/g27&gt;article&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g25&gt;&lt;/g1&gt;</seg>
