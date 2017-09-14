@@ -19595,7 +19595,9 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 (太田)
 後ろのほうにこの解説ありましたね(&lt;分節 2914&gt;)。HJではないと思います 。賛同できるかどうかはともかく。
 
-(伊原) 理解できました。この機能＝このroleの指定、ですね。そこを誤読していました。機能➞指定としました。</note>
+(伊原) 理解できました。この機能＝このroleの指定、ですね。そこを誤読していました。機能➞指定としました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Since the basic functionality works without JavaScript and triggers a page refresh, this helps users navigate back to the form from the top of the document.</seg>
       </tuv>
@@ -20305,7 +20307,9 @@ browser-enabled interactivity でひとかたまりで、「標準の、ブラ�
 インタラクティブを裸で使うのは違和感がありますね。インタラクティブな要素、インタラクティブな機能とするか、あるいはそのままインタラクティビティとしてしまっても良いか?
 facilitated by custom JavaScriptはざっくり「JavaScriptによって作られたもの」くらいでも良いように思いました。
 
-(伊原) わかりやすさを取ってインタラクティブ機能を採用してみました。</note>
+(伊原) わかりやすさを取ってインタラクティブ機能を採用してみました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Standard browser-enabled interactivity is more performant and robust than that facilitated by custom JavaScript.</seg>
       </tuv>
