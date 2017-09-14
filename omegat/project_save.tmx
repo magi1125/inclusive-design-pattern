@@ -14857,13 +14857,14 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
       <note>(伊原) 微調整。
 
 (太田)
-ここの being fetched はロードが完了したニュアンス。
+ここの being fetched はロードが完了したニュアンスだと思います。
+「コンテンツの読み込みが完了」としました。
 </note>
       <tuv lang="EN-US">
         <seg>It’s important to communicate that content is being fetched to screen reader users as well.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170914T020032Z" creationid="rikiha" creationdate="20170909T223456Z">
-        <seg>コンテンツが画面に表示されたことをスクリーンリーダーユーザーにも伝えるのは重要なことです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T064547Z" creationid="rikiha" creationdate="20170909T223456Z">
+        <seg>コンテンツの読み込みが完了したことをスクリーンリーダーユーザーにも伝えるのは重要なことです。</seg>
       </tuv>
     </tu>
     <tu>
