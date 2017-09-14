@@ -2871,8 +2871,8 @@ https://developers.google.com/search/docs/data-types/products#single-product-pag
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The user navigates to an element using their screen reader’s own navigation commands (such as pressing &lt;g2&gt;9&lt;/g2&gt; in NVDA to announce the following line).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170914T021610Z" creationid="rikiha" creationdate="20170909T223646Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;ユーザーがスクリーンリーダーのナビゲーションコマンドを使って要素に移動するとき（NVDAで数字の「9」のキーを押して次の行を読み上げるなど）。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T072718Z" creationid="rikiha" creationdate="20170909T223646Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ユーザーがスクリーンリーダーのナビゲーションコマンドを使って要素に移動したとき（NVDAで数字の「9」のキーを押して次の行を読み上げるなど）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26576,8 +26576,8 @@ unless or until は厳密に訳さなくても良いように思います。
       <tuv lang="EN-US">
         <seg>Usually, content is only announced in screen readers when either:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T072655Z" creationid="rikiha" creationdate="20170909T223644Z">
-        <seg>通常、コンテンツがスクリーンリーダーで読み上げられるのは以下の場合のみです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T072700Z" creationid="rikiha" creationdate="20170909T223644Z">
+        <seg>通常、コンテンツがスクリーンリーダーで読み上げられるのは、以下の場合のみです。</seg>
       </tuv>
     </tu>
     <tu>
