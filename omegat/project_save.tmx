@@ -25038,13 +25038,13 @@ esotericは特殊というより、他で使われていないというニュア
     <tu>
       <note>(太田)
 ちょっと誤訳っぽいですね。選択肢が4つあるので、端から端まで移動する間に3回イベントが発生するという話です。
-
+in either direction は無くても分かりますし、逆に混乱しそうなのでトリでいいかも。
 </note>
       <tuv lang="EN-US">
         <seg>This means moving through the options in either direction would fire the &lt;g2&gt;change&lt;/g2&gt; event three times in total.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223806Z" creationid="rikiha" creationdate="20170909T223806Z">
-        <seg>これは、オプション間をどの方向に移動してもchangeイベントが合計3回発火することを意味します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T103756Z" creationid="rikiha" creationdate="20170909T223806Z">
+        <seg>つまり、オプションの端から端まで移動すると、それだけで&lt;g2&gt;change&lt;/g2&gt;イベントが合計3回発火することを意味します。</seg>
       </tuv>
     </tu>
     <tu>
