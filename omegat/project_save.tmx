@@ -2867,7 +2867,9 @@ https://developers.google.com/search/docs/data-types/products#single-product-pag
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) 少し調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The user navigates to an element using their screen reader’s own navigation commands (such as pressing &lt;g2&gt;9&lt;/g2&gt; in NVDA to announce the following line).</seg>
       </tuv>
@@ -7368,12 +7370,14 @@ http://thesaurus.weblio.jp/content/試金石
     <tu>
       <note>(伊原) simplyを入れてみたものの、ちょっと変な気がします。
 操作を伴わなずとも、とか補わないとわからなさそう。
-</note>
+
+(太田)
+英語のregionには領域の意味があるので、 their contentで「その中身のコンテンツ」と明確に伝わるのですが、日本語だと補わないとわかりにくいかも。</note>
       <tuv lang="EN-US">
         <seg>But live regions announce their content simply when that content changes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170914T022251Z" creationid="rikiha" creationdate="20170909T223651Z">
-        <seg>しかしライブリージョンは、コンテンツが変更されたときに単にそのコンテンツを読み上げます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T073119Z" creationid="rikiha" creationdate="20170909T223651Z">
+        <seg>しかしライブリージョンを使った場合、単純に、その中身のコンテンツが変更されたときに読み上げるようになります。</seg>
       </tuv>
     </tu>
     <tu>
