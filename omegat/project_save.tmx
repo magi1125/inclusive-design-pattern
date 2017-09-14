@@ -20643,7 +20643,6 @@ target はそのままカタカナだと意味がとりにくいように思い�
 (太田)
 ちょっとニュアンスが違うような?
 the preserve が落ちてしまっているように思います。ここの preserve は「禁猟区」「その人だけの領分」のような意味で、その役割を独占しているということを言っています。
-ubiquitousは「よく見かける」よりももう少し強くてもいいのかも。
 
 とはいえ日本語でどう表現したものか。直訳すると、
 「コンテンツが処理中であり、しばらくした後に表示されるということをユーザーに伝えることは、遍在しているローディングシンボルに独占されたものです」
@@ -20653,8 +20652,8 @@ ubiquitousは「よく見かける」よりももう少し強くてもいいの�
       <tuv lang="EN-US">
         <seg>Telling users that content is pending and will arrive in a matter of time is the preserve of the ubiquitous loading symbol, which looks a bit like this:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T060230Z" creationid="rikiha" creationdate="20170909T223436Z">
-        <seg>コンテンツが処理中であり、表示に時間がかかることをユーザーに伝えるのは、以下のような見た目の、どこにでもあるローディングアイコンの専売特許です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T060328Z" creationid="rikiha" creationdate="20170909T223436Z">
+        <seg>コンテンツが処理中であり、表示に時間がかかることをユーザーに伝えるのは、以下のような、どこでも使われているローディングアイコンの専売特許です。</seg>
       </tuv>
     </tu>
     <tu>
