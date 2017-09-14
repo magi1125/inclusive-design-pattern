@@ -10959,6 +10959,7 @@ this has led で「これが導いた」と言っているので、「報告し�
     </tu>
     <tu>
       <note>(太田)
+ここのA and Bは、AならばBでもあるという意味。
 調整してみましたがわかりにくいかも。もう少し練りたい。</note>
       <tuv lang="EN-US">
         <seg>However, this would mean hiding the now redundant submit button and trusting that keyboard users would know to press &lt;g1&gt;Enter&lt;/g1&gt; to submit the form.</seg>
@@ -13819,8 +13820,8 @@ look at は学びましたというか考察しましたというか。
       <tuv lang="EN-US">
         <seg>In which case, we’d have to use our special &lt;g3&gt;.visually-hidden&lt;/g3&gt; class, plus &lt;g4&gt;tabindex="-1"&lt;/g4&gt; to make sure the button isn’t user-focusable:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223814Z" creationid="rikiha" creationdate="20170909T223814Z">
-        <seg>その場合、特別な.visually-hiddenクラスに加え、tabindex="-1"を使用して、ユーザーがボタンをフォーカスできないようにする必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T105057Z" creationid="rikiha" creationdate="20170909T223814Z">
+        <seg>その場合、特別な&lt;g3&gt;.visually-hidden&lt;/g3&gt;クラスに加え、tabindex="-1"を使用して、ユーザーがボタンをフォーカスできないようにする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
