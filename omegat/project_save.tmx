@@ -24294,15 +24294,15 @@ breakは破綻としました。
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注?
-
-(太田)
+      <note>(太田)
 だいたい合っているがわかりにくいですね。
 legendが読まれることの意義を説明しているので少し補ったほうがいいかも。
 「現在選択されているオプションがどれであっても」というのは、legendが無いと現在の選択肢によって読まれ方が違う、ということなのですが、それが伝わるかどうか。補ってみましたがわかりにくい気がしてなりません。
 訳注?
 
-(伊原) OK. ここは訳注なしでも分かると思います。</note>
+(伊原) OK. ここは訳注なしでも分かると思います。
+
+(太田) OK、訳注ナシで。</note>
       <tuv lang="EN-US">
         <seg>This ensures that if I were to leave the widget and begin focusing other page elements and then return to it, I’d be reminded of the sorting function no matter which option is currently selected.</seg>
       </tuv>
