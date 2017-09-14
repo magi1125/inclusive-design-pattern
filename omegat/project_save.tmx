@@ -2775,8 +2775,8 @@ Elements with the role alert have an implicit aria-live value of assertive, and 
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The equivalent &lt;g2&gt;assertive&lt;/g2&gt; and &lt;g3&gt;alert&lt;/g3&gt; values mean the current readout of the screen reader will be interrupted to announce the live region’s new message.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T085558Z" creationid="rikiha" creationdate="20170909T223734Z">
-        <seg>•&lt;g2&gt;aria-live="assertive"&lt;/g2&gt;と&lt;g3&gt;alert&lt;/g3&gt;ロールは同じ機能を提供します。スクリーンリーダーの現在の読み上げが中断され、ライブリージョンの新しいメッセージが読み上げられることを意味します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T090117Z" creationid="rikiha" creationdate="20170909T223734Z">
+        <seg>•&lt;g2&gt;aria-live="assertive"&lt;/g2&gt;と&lt;g3&gt;alert&lt;/g3&gt;ロールは同じ機能を提供します。ライブリージョンの新しいメッセージが読み上げられる際、スクリーンリーダーの現在の読み上げが中断されるようになります。</seg>
       </tuv>
     </tu>
     <tu>
