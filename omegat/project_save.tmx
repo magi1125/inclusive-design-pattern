@@ -18483,9 +18483,13 @@ honestは「正直」としてみました。
 for greater immediacy は、実装が手っ取り早いのか、それともユーザーにとって手っ取り早いのか (ボタンを押すアクションが不要になるという意味で)。原文はどちらとも取れるので、あいまいなまま対応。
 前からのつながりもふまえて調整しました。
 
-というか下のコード間違ってませんか?
+というか下のコードおかしくないですか?
 this.submit(); するのではなく // XHR request handling here とならないと意味がおかしいと思いますが。
-先の submit イベントでXHRして preventDefault() する</note>
+erraraには何もなし。
+https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
+
+あるいは、先の submit イベントでXHRして preventDefault() するコードが生きている前提で、this.submit() でそれを呼んでいるということなのでしょうか。一応意味は通りますが、ふつうは両方を実装するということは無いと思いますが……。
+</note>
       <tuv lang="EN-US">
         <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
       </tuv>
@@ -26973,8 +26977,7 @@ divに小細工するのではなく既存のbutton要素を使う、という�
 訳としては合っていると思いますが、例外でないものをキャッチするという言い方をするかどうか。イベントを握りつぶす、みたいな言い方はするかもしれない。
 というか普通に「submit イベントの中でpreventDefault() を呼びます」みたいな説明があるべきなのではないですかね。力強く補いました。
 
-あと細かいですが、下のコード、preventDefault() は XHRの前に呼ばないほうが良いと思います。何らかの理由でXHRに失敗したときにsubmitの動作をさせたいことがあるので。とはいえまあ、これはサンプルなのでこだわらない方向で。
-</note>
+あと細かいですが、下のコード、preventDefault() は XHRの前に呼ばないほうが良いと思います。何らかの理由でXHRに失敗したときにsubmitの動作をさせたいことがあるので。とはいえまあ、これはサンプルなのでこだわらない方向で。</note>
       <tuv lang="EN-US">
         <seg>We do this by catching the &lt;g2&gt;submit&lt;/g2&gt; event.</seg>
       </tuv>
