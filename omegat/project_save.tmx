@@ -7377,8 +7377,8 @@ http://thesaurus.weblio.jp/content/試金石
       <tuv lang="EN-US">
         <seg>But live regions announce their content simply when that content changes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T073139Z" creationid="rikiha" creationdate="20170909T223651Z">
-        <seg>しかしライブリージョンを使った場合、単純に、その中身のコンテンツが変更されたタイミングで読み上げるようになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T073521Z" creationid="rikiha" creationdate="20170909T223651Z">
+        <seg>しかしライブリージョンを使った場合、単純に、その中身のコンテンツが変更されたタイミングで読み上げられるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13007,7 +13007,9 @@ well-matched はよくマッチするということで、システムフォン�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 受身に揃えつつ調整。</note>
+      <note>(伊原) 受身に揃えつつ調整。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>In practice, this means we can provide commentary to screen reader users without asking them to leave their location in the page.</seg>
       </tuv>
