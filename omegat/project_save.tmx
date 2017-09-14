@@ -13821,8 +13821,8 @@ look at は学びましたというか考察しましたというか。
       <tuv lang="EN-US">
         <seg>In which case, we’d have to use our special &lt;g3&gt;.visually-hidden&lt;/g3&gt; class, plus &lt;g4&gt;tabindex="-1"&lt;/g4&gt; to make sure the button isn’t user-focusable:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T110106Z" creationid="rikiha" creationdate="20170909T223814Z">
-        <seg>その場合、特別な&lt;g3&gt;.visually-hidden&lt;/g3&gt;クラスに加え、&lt;g4&gt;tabindex="-1"&lt;/g4&gt;を使用して、ユーザーがボタンをフォーカスできないようにする必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T110123Z" creationid="rikiha" creationdate="20170909T223814Z">
+        <seg>その場合、例の&lt;g3&gt;.visually-hidden&lt;/g3&gt;クラスに加え、&lt;g4&gt;tabindex="-1"&lt;/g4&gt;を指定して、ユーザーがボタンをフォーカスできないようにする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
