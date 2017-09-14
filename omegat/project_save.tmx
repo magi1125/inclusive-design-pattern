@@ -19905,12 +19905,14 @@ OK、微調整しました。
     </tu>
     <tu>
       <note>(太田)
-radioコントロール→ラジオボタン</note>
+radioコントロール→ラジオボタン
+a fairly safe course of action とは。直訳すると「これはかなり安全な行動方針であるように見える」。安全とは、ユーザーに伝わらなくなる危険性が少ない、の意味か?
+ざっくり「問題ない」くらいでもいいのかも。</note>
       <tuv lang="EN-US">
         <seg>Since we’ve styled our radio controls to look like buttons and provided clear feedback via our loading symbol and live region, this seems like a fairly safe course of action.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T101038Z" creationid="rikiha" creationdate="20170909T223753Z">
-        <seg>ラジオボタンにスタイルを付けてボタンのような見た目にし、読み込み中マークで明確なフィードバックを提供しているので、この方針でもかなり安全に思えます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T102902Z" creationid="rikiha" creationdate="20170909T223753Z">
+        <seg>ラジオボタンにスタイルを付けてボタンのような見た目にし、読み込み中マークで明確なフィードバックを提供しているので、この方針でも問題ないように思えます。</seg>
       </tuv>
     </tu>
     <tu>
