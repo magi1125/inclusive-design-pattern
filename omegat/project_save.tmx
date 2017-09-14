@@ -10958,11 +10958,13 @@ this has led で「これが導いた」と言っているので、「報告し�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+調整してみましたがわかりにくいかも。</note>
       <tuv lang="EN-US">
         <seg>However, this would mean hiding the now redundant submit button and trusting that keyboard users would know to press &lt;g1&gt;Enter&lt;/g1&gt; to submit the form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T104256Z" creationid="rikiha" creationdate="20170909T223812Z">
-        <seg>ただし、この方法では冗長になったsubmitボタンが非表示になるので、&lt;g1&gt;Enter&lt;/g1&gt;を押してフォームを送信する仕組みをキーボードユーザーが知っていると願うことになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T104430Z" creationid="rikiha" creationdate="20170909T223812Z">
+        <seg>しかし、この方法では冗長になったsubmitボタンを隠すと同時に、キーボードユーザーが&lt;g1&gt;Enter&lt;/g1&gt;を押してフォームを送信できると知っていることを願うことになります。</seg>
       </tuv>
     </tu>
     <tu>
