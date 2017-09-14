@@ -17241,8 +17241,8 @@ resulting inも落ちているような。「結果として」くらいでし�
       <tuv lang="EN-US">
         <seg>Note that you can’t simply &lt;g2&gt;remove&lt;/g2&gt; the submit button because some platforms (notably iOS) will not submit forms where a submit button isn’t present.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223813Z" creationid="rikiha" creationdate="20170909T223813Z">
-        <seg>また、一部のプラットフォーム（特にiOS）では、submitボタンが存在しないとフォームを送信しないので、submitボタンをただ単に取り除くことはできません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T104528Z" creationid="rikiha" creationdate="20170909T223813Z">
+        <seg>また、一部のプラットフォーム（特にiOS）では、submitボタンが存在しないフォームを送信できないので、submitボタンをただ単に&lt;g2&gt;取り除く&lt;/g2&gt;ことはできません。</seg>
       </tuv>
     </tu>
     <tu>
