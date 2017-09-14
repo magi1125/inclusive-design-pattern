@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26960,9 +26960,8 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       <note>(太田)
 訳としては合っていると思いますが、例外でないものをキャッチするという言い方をするかどうか。
 イベントを握りつぶす、みたいな言い方はするかもしれない。
-いったん保留で。
 
-</note>
+というか普通に submit イベントの中でpreventDefault() を呼びます、みたいな説明で良いのではないか、ヘイドンよ。</note>
       <tuv lang="EN-US">
         <seg>We do this by catching the &lt;g2&gt;submit&lt;/g2&gt; event.</seg>
       </tuv>
