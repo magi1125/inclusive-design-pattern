@@ -10959,12 +10959,12 @@ this has led で「これが導いた」と言っているので、「報告し�
     </tu>
     <tu>
       <note>(太田)
-調整してみましたがわかりにくいかも。</note>
+調整してみましたがわかりにくいかも。もう少し練りたい。</note>
       <tuv lang="EN-US">
         <seg>However, this would mean hiding the now redundant submit button and trusting that keyboard users would know to press &lt;g1&gt;Enter&lt;/g1&gt; to submit the form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T104430Z" creationid="rikiha" creationdate="20170909T223812Z">
-        <seg>しかし、この方法では冗長になったsubmitボタンを隠すと同時に、キーボードユーザーが&lt;g1&gt;Enter&lt;/g1&gt;を押してフォームを送信できると知っていることを願うことになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T104746Z" creationid="rikiha" creationdate="20170909T223812Z">
+        <seg>しかしこの際、冗長になったsubmitボタンを隠すと、キーボードユーザーが&lt;g1&gt;Enter&lt;/g1&gt;でフォームを送信できると知っていることを願うことになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13814,6 +13814,8 @@ look at は学びましたというか考察しましたというか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+</note>
       <tuv lang="EN-US">
         <seg>In which case, we’d have to use our special &lt;g3&gt;.visually-hidden&lt;/g3&gt; class, plus &lt;g4&gt;tabindex="-1"&lt;/g4&gt; to make sure the button isn’t user-focusable:</seg>
       </tuv>
