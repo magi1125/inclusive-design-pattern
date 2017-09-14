@@ -7372,12 +7372,13 @@ http://thesaurus.weblio.jp/content/試金石
 操作を伴わなずとも、とか補わないとわからなさそう。
 
 (太田)
-英語のregionには領域の意味があるので、 their contentで「その中身のコンテンツ」と明確に伝わるのですが、日本語だと補わないとわかりにくいかも。</note>
+英語のregionには領域の意味があるので、 their contentで「その中身のコンテンツ」と明確に伝わるのですが、日本語だと補わないとわかりにくいかも。
+補いつつ意訳しつつ調整してみました。</note>
       <tuv lang="EN-US">
         <seg>But live regions announce their content simply when that content changes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T073119Z" creationid="rikiha" creationdate="20170909T223651Z">
-        <seg>しかしライブリージョンを使った場合、単純に、その中身のコンテンツが変更されたときに読み上げるようになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T073139Z" creationid="rikiha" creationdate="20170909T223651Z">
+        <seg>しかしライブリージョンを使った場合、単純に、その中身のコンテンツが変更されたタイミングで読み上げるようになります。</seg>
       </tuv>
     </tu>
     <tu>
