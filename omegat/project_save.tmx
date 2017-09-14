@@ -19780,11 +19780,13 @@ https://inclusive-components.design/#components
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>Since the user might move away from the widget to read some other content, this means they will be told that the products are ready immediately.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223736Z" creationid="rikiha" creationdate="20170909T223736Z">
-        <seg>つまり、ユーザーがウィジェットから離れて別のコンテンツを読んでいても、商品の読み込みが完了したことが即座に知らされます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T091221Z" creationid="rikiha" creationdate="20170909T223736Z">
+        <seg>つまり、ユーザーがウィジェットから離れて別のコンテンツを読んでいても、商品リストの読み込みが完了したことが即座に通知されます。</seg>
       </tuv>
     </tu>
     <tu>
