@@ -18480,21 +18480,19 @@ honestは「正直」としてみました。
     <tu>
       <note>(太田)
 誤訳ですね。the change event は「changeイベント」です。
-for greater immediacy は、実装が手っ取り早いのか、それともユーザーにとって手っ取り早いのか (ボタンを押すアクションが不要になるという意味で)。原文はどちらとも取れるので、あいまいなまま対応。
-前からのつながりもふまえて調整しました。
+コードを見る感じ、for greater immediacy というのは、実装が手っ取り早いわけではなく、ユーザーにとって手っ取り早い (ボタンを押すアクションが不要になる = 結果が即時に反映される) ということのように思います。
+「操作の結果が即座に反映されて良い」としました。
 
-というか下のコードおかしくないですか?
-this.submit(); するのではなく // XHR request handling here とならないと意味がおかしいと思いますが。
+というか下のコードおかしくないですか? this.submit(); するのではなく // XHR request handling here とならないと意味がおかしいと思いますが。
 erraraには何もなし。
 https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
-
-あるいは、先の submit イベントでXHRして preventDefault() するコードが生きている前提で、this.submit() でそれを呼んでいるということなのでしょうか。一応意味は通りますが、ふつうは両方を実装するということは無いと思いますが……。
+あるいは、ひとつ前のコードが生きている前提で、this.submit() でそれを呼んでいるということなのでしょうか。一応意味は通りますが、ふつうは両方を実装するということは無いと思いますが……。
 </note>
       <tuv lang="EN-US">
         <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T100724Z" creationid="rikiha" creationdate="20170909T223748Z">
-        <seg>おそらく、JavaScriptでsubmitボタンを取り除き、changeイベントにXHRの機能を追加するほうが手っ取り早いと思われるのではないでしょうか。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T102244Z" creationid="rikiha" creationdate="20170909T223748Z">
+        <seg>おそらく、JavaScriptでsubmitボタンを取り除き、changeイベントにXHRの機能を追加するほうが、操作の結果が即座に反映されて良いと思われるのではないでしょうか。</seg>
       </tuv>
     </tu>
     <tu>
