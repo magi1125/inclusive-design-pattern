@@ -5746,8 +5746,8 @@ listenは「監視」としてみました。
       <tuv lang="EN-US">
         <seg>Alternative &lt;g4&gt;polite&lt;/g4&gt; and &lt;g5&gt;status&lt;/g5&gt; values would mean the live region contents are announced only after the screen reader has finished announcing the content it is currently set to announce.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223736Z" creationid="rikiha" creationdate="20170909T223736Z">
-        <seg>代替手段のpolite値とstatus値では、スクリーンリーダーが現在読み上げているコンテンツが終了した後に、ライブリージョンのコンテンツが読み上げられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T091354Z" creationid="rikiha" creationdate="20170909T223736Z">
+        <seg>かわりに&lt;g4&gt;aria-live=polite&lt;/g4&gt;と&lt;g5&gt;status&lt;/g5&gt;ロールを使った場合は、スクリーンリーダーが現在読み上げているコンテンツが終了した後に、ライブリージョンのコンテンツが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
