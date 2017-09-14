@@ -10848,11 +10848,13 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+補いつつ調整。</note>
       <tuv lang="EN-US">
         <seg>However, the loading symbol (and its eventual removal) already say what needs to be said.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223738Z" creationid="rikiha" creationdate="20170909T223738Z">
-        <seg>ただし、読み込み中のマーク（読み込みが完了すると消える）は、すでに必要な情報を伝えています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T093712Z" creationid="rikiha" creationdate="20170909T223738Z">
+        <seg>しかしながら、この例では、読み込み中アイコンが表示されることで（そして、読み込みが完了すると消えることで）、すでに必要な情報を伝えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20723,8 +20725,8 @@ the preserve が落ちてしまっているように思います。ここの pre
       <tuv lang="EN-US">
         <seg>Telling users that content is pending and will arrive in a matter of time is the preserve of the ubiquitous loading symbol, which looks a bit like this:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T062705Z" creationid="rikiha" creationdate="20170909T223436Z">
-        <seg>コンテンツが処理中であり、表示に時間がかかることをユーザーに伝えるのは、以下のような、どこでも見かけるローディングアイコンの専売特許です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T093556Z" creationid="rikiha" creationdate="20170909T223436Z">
+        <seg>コンテンツが処理中であり、表示に時間がかかることをユーザーに伝えるのは、以下のような、どこでも見かける読み込み中アイコンの専売特許です。</seg>
       </tuv>
     </tu>
     <tu>
