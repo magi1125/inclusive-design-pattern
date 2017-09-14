@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5561,12 +5561,14 @@ HTMLがないとCSSやJSだけでは成立しないという話。
 
 複数形のproductsはもしかすると「商品リスト」としたほうが良いかもしれないですね。「商品を読み込んでいます」はちょっと変ですし。
 「少々お待ちください」は「しばらくお待ちください」のほうが一般的かもしれません (主観かもしれませんが)。
-</note>
+
+(岡本)
+「商品リストを読み込み中。」に揃えました。</note>
       <tuv lang="EN-US">
         <seg>After the sort button is pressed, we can populate a live region with the message, “Please wait.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T073957Z" creationid="rikiha" creationdate="20170909T223708Z">
-        <seg>並べ替えボタンを押した後、ライブリージョンに「商品リストを読み込んでいます。しばらくお待ちください。」というメッセージを入れます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170914T081055Z" creationid="rikiha" creationdate="20170909T223708Z">
+        <seg>並べ替えボタンを押した後、ライブリージョンに「商品リストを読み込み中。しばらくお待ちください。」というメッセージを入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22068,12 +22070,14 @@ jaw は動詞だとスラングで Impudent or abusive talk.
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳反映。</note>
+      <note>(伊原) 下訳反映。
+
+(岡本) Loading products...を「商品を読み込み中…」に。</note>
       <tuv lang="EN-US">
         <seg>The circular loading graphic with the text ‘Loading products…’</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170914T080441Z" creationid="rikiha" creationdate="20170909T223440Z">
-        <seg>読み込み中であることを示す円形のグラフィックと、「商品の読み込んでいます…」というテキスト。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170914T081016Z" creationid="rikiha" creationdate="20170909T223440Z">
+        <seg>読み込み中であることを示す円形のグラフィックと、「商品を読み込み中…」というテキスト。</seg>
       </tuv>
     </tu>
     <tu>
