@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11737,7 +11737,9 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
       <note>(伊原) you shouldを訳出。
 
 (太田)
-so it’s worth investigating.は、「(標準の機能が使えないかどうか) 調査する価値がある」ということですね。補いつつ調整してみました。</note>
+so it’s worth investigating.は、「(標準の機能が使えないかどうか) 調査する価値がある」ということですね。補いつつ調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>If you can use it, you should, so it’s worth investigating.</seg>
       </tuv>
