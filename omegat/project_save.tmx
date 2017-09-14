@@ -1725,8 +1725,7 @@ JISではbypass block を「ブロックスキップ」としています。
       <note>(伊原) 語順調整。
 
 (太田)
-ここはスクリーンリーダーではなくコンテンツが主眼の話なのでは。
-「スクリーンリーダーはどんなときにコンテンツを読む?」ではなく、「コンテンツがどんな状態だとスクリーンリーダーに読まれる?」という話かと。</note>
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;An element is focused either by the user or programmatically.</seg>
       </tuv>
@@ -26570,13 +26569,15 @@ unless or until は厳密に訳さなくても良いように思います。
     <tu>
       <note>(伊原) 語順調整。
 
-(太田) OK
-</note>
+(太田)
+ここはスクリーンリーダーではなくコンテンツが主眼の話なのでは。
+「スクリーンリーダーはどんなときにコンテンツを読む?」ではなく、「コンテンツがどんな状態だとスクリーンリーダーに読まれる?」という話かと。
+ですので語順は元のほうが良いように思います。</note>
       <tuv lang="EN-US">
         <seg>Usually, content is only announced in screen readers when either:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170914T021302Z" creationid="rikiha" creationdate="20170909T223644Z">
-        <seg>通常、スクリーンリーダーでコンテンツが読み上げられるのは次の場合のみです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T072655Z" creationid="rikiha" creationdate="20170909T223644Z">
+        <seg>通常、コンテンツがスクリーンリーダーで読み上げられるのは以下の場合のみです。</seg>
       </tuv>
     </tu>
     <tu>
