@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1720,8 +1720,8 @@ JISではbypass block を「ブロックスキップ」としています。
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;An element is focused either by the user or programmatically.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170914T021319Z" creationid="rikiha" creationdate="20170909T223645Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;ユーザーまたはプログラムによって要素がフォーカスされているとき。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170914T021532Z" creationid="rikiha" creationdate="20170909T223645Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ユーザーまたはプログラムによって要素にフォーカスしているとき。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,11 +2858,12 @@ https://developers.google.com/search/docs/data-types/products#single-product-pag
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The user navigates to an element using their screen reader’s own navigation commands (such as pressing &lt;g2&gt;9&lt;/g2&gt; in NVDA to announce the following line).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223646Z" creationid="rikiha" creationdate="20170909T223646Z">
-        <seg>•ユーザーがスクリーンリーダーのナビゲーションコマンドを使って要素に移動するとき（NVDAで数字の「9」のキーを押して次の行を読み上げるなど）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170914T021610Z" creationid="rikiha" creationdate="20170909T223646Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ユーザーがスクリーンリーダーのナビゲーションコマンドを使って要素に移動するとき（NVDAで数字の「9」のキーを押して次の行を読み上げるなど）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7355,11 +7356,13 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) simplyを入れてみたものの、ちょっと変な気がします。
+操作を伴わなずとも、とか補わないとわからなさそう。</note>
       <tuv lang="EN-US">
         <seg>But live regions announce their content simply when that content changes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223651Z" creationid="rikiha" creationdate="20170909T223651Z">
-        <seg>しかしライブリージョンは、コンテンツが変更されたときにそのコンテンツを読み上げます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170914T022251Z" creationid="rikiha" creationdate="20170909T223651Z">
+        <seg>しかしライブリージョンは、コンテンツが変更されたときに単にそのコンテンツを読み上げます。</seg>
       </tuv>
     </tu>
     <tu>
