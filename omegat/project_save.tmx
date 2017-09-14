@@ -15952,12 +15952,15 @@ manageは管理で良いような。
       <note>(伊原) 訳しました。
 
 (太田)
-商品リストに。</note>
+商品リストに。
+
+(岡本)
+商品の読み込み、としました。</note>
       <tuv lang="EN-US">
         <seg>Loading complete.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T074442Z" creationid="rikiha" creationdate="20170914T024922Z">
-        <seg>商品リストの読み込みが完了しました。23点の商品が一覧されています。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170914T081359Z" creationid="rikiha" creationdate="20170914T024922Z">
+        <seg>商品の読み込みが完了しました。23点の商品が一覧されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18432,12 +18435,16 @@ https://ja.wikipedia.org/wiki/プレイン・イングリッシュ
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順を調整。</note>
+      <note>(伊原) 語順を調整。
+
+(岡本)
+「商品を読み込み中。」に揃えました。
+</note>
       <tuv lang="EN-US">
         <seg>Please wait.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T074002Z" creationid="rikiha" creationdate="20170914T024732Z">
-        <seg>商品リストを読み込んでいます。しばらくお待ちください。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170914T081155Z" creationid="rikiha" creationdate="20170914T024732Z">
+        <seg>商品を読み込み中。しばらくお待ちください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23619,12 +23626,14 @@ JAWS日本語版では「ページ内リンク」らしいです。
     <tu>
       <note>(伊原) 微調整
 
-(太田) 微調整</note>
+(太田) 微調整
+
+(岡本)　商品が読み込まれたら、ですかね。</note>
       <tuv lang="EN-US">
         <seg>Then, when the products are loaded, we can change the live region content to inform the user:</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T074425Z" creationid="rikiha" creationdate="20170909T223727Z">
-        <seg>そして、商品リストが読み込まれたら、ライブリージョンのコンテンツを変更して、ユーザーに以下のように知らせます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170914T081229Z" creationid="rikiha" creationdate="20170909T223727Z">
+        <seg>そして、商品が読み込まれたら、ライブリージョンのコンテンツを変更して、ユーザーに以下のように知らせます。</seg>
       </tuv>
     </tu>
     <tu>
