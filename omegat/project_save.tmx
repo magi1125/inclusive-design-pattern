@@ -15073,11 +15073,13 @@ investは投資で良いのか? インクルーシブ思考に時間を費やす
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+調整してみましたがわかりにくいかも。</note>
       <tuv lang="EN-US">
         <seg>It’s possible to limit this enhanced XHR-on-choosing-filter-option functionality to mouse and touch users by switching from using the &lt;g1&gt;change&lt;/g1&gt; event to using &lt;g2&gt;click&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T104139Z" creationid="rikiha" creationdate="20170909T223807Z">
-        <seg>&lt;g1&gt;change&lt;/g1&gt;イベントを&lt;g2&gt;click&lt;/g2&gt;イベントに置き換えることで、フィルタオプションを選んだ際のXHRの動作を、マウスユーザーとタッチユーザーだけに限定することが可能です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T104216Z" creationid="rikiha" creationdate="20170909T223807Z">
+        <seg>&lt;g1&gt;change&lt;/g1&gt;イベントを&lt;g2&gt;click&lt;/g2&gt;イベントに置き換えることで、フィルタオプションを選んだ際のXHRの動作を、マウスユーザーとタッチユーザーだけに限定することができます。</seg>
       </tuv>
     </tu>
     <tu>
