@@ -9032,11 +9032,15 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+少し調整。
+enhancementはここでは「挙動」としました。
+</note>
       <tuv lang="EN-US">
         <seg>Even with these measures in place, whether users actually understand or &lt;g1&gt;like&lt;/g1&gt; this enhancement is a question for user testing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T110208Z" creationid="rikiha" creationdate="20170909T223815Z">
-        <seg>これらの対策を行っても、ユーザーが実際にこうした改善を理解する、または、&lt;g1&gt;好む&lt;/g1&gt;かどうかは、ユーザーテストで確認すべき問題です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T110300Z" creationid="rikiha" creationdate="20170909T223815Z">
+        <seg>これらの対策を行っても、ユーザーが実際にこうした挙動を理解するか、&lt;g1&gt;好む&lt;/g1&gt;のかということは、ユーザーテストで確認すべき問題です。</seg>
       </tuv>
     </tu>
     <tu>
