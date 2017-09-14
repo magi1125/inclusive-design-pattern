@@ -1995,8 +1995,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;For app notifications, you would need to style and display the live region’s contents so that it doubled as a visual message.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223737Z" creationid="rikiha" creationdate="20170909T223737Z">
-        <seg>•アプリケーションの通知の場合は、視覚的なメッセージの役割も果たすよう、ライブリージョンにスタイルを付け、表示する必要があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T092631Z" creationid="rikiha" creationdate="20170909T223737Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;アプリケーションの通知の場合は、視覚的なメッセージの役割も果たすよう、ライブリージョンにスタイルを付け、表示する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2776,8 +2776,8 @@ Elements with the role alert have an implicit aria-live value of assertive, and 
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The equivalent &lt;g2&gt;assertive&lt;/g2&gt; and &lt;g3&gt;alert&lt;/g3&gt; values mean the current readout of the screen reader will be interrupted to announce the live region’s new message.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T091004Z" creationid="rikiha" creationdate="20170909T223734Z">
-        <seg>•&lt;g2&gt;aria-live="assertive"&lt;/g2&gt;と&lt;g3&gt;alert&lt;/g3&gt;ロールは同じ機能を提供します。ライブリージョンに新しいメッセージが入ると、スクリーンリーダーの現在の読み上げが中断されて、メッセージが読み上げられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T092636Z" creationid="rikiha" creationdate="20170909T223734Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-live="assertive"&lt;/g2&gt;と&lt;g3&gt;alert&lt;/g3&gt;ロールは同じ機能を提供します。ライブリージョンに新しいメッセージが入ると、スクリーンリーダーの現在の読み上げが中断されて、メッセージが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
