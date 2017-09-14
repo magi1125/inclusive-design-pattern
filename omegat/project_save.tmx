@@ -5560,13 +5560,14 @@ HTMLがないとCSSやJSだけでは成立しないという話。
 この populate は「突っ込む」くらいの意味だと思います。「ユーザーに出力する」という話ではなく、「ライブリージョンに突っ込む」(すると、勝手にユーザーに通知される) という話かと。
 「入れます」としました。
 
-
+複数形のproductsはもしかすると「商品リスト」としたほうが良いかもしれないですね。「商品を読み込んでいます」はちょっと変ですし。
+「少々お待ちください」は「しばらくお待ちください」のほうが一般的かもしれません (主観かもしれませんが)。
 </note>
       <tuv lang="EN-US">
         <seg>After the sort button is pressed, we can populate a live region with the message, “Please wait.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T073828Z" creationid="rikiha" creationdate="20170909T223708Z">
-        <seg>並べ替えボタンを押した後、ライブリージョンに「商品を読み込んでいます。少々お待ちください。」というメッセージを入れます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T073957Z" creationid="rikiha" creationdate="20170909T223708Z">
+        <seg>並べ替えボタンを押した後、ライブリージョンに「商品リストを読み込んでいます。しばらくお待ちください。」というメッセージを入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18431,8 +18432,8 @@ https://ja.wikipedia.org/wiki/プレイン・イングリッシュ
       <tuv lang="EN-US">
         <seg>Please wait.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170914T024732Z" creationid="rikiha" creationdate="20170914T024732Z">
-        <seg>商品を読み込んでいます。少々お待ちください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T074002Z" creationid="rikiha" creationdate="20170914T024732Z">
+        <seg>商品リストを読み込んでいます。しばらくお待ちください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23614,8 +23615,8 @@ JAWS日本語版では「ページ内リンク」らしいです。
       <tuv lang="EN-US">
         <seg>Then, when the products are loaded, we can change the live region content to inform the user:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170914T024834Z" creationid="rikiha" creationdate="20170909T223727Z">
-        <seg>そして商品が読み込まれたら、ライブリージョンのコンテンツを変えて、ユーザーに以下のように知らせます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T073857Z" creationid="rikiha" creationdate="20170909T223727Z">
+        <seg>そして、商品が読み込まれたら、ライブリージョンのコンテンツを変えて、ユーザーに以下のように知らせます。</seg>
       </tuv>
     </tu>
     <tu>
