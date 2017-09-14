@@ -2646,7 +2646,7 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
     <tu>
       <note>(太田)
 訳としては合っていますが言っていることが分かりにくいですね。
-statusロールは暗黙のaria-live="polite"を持つことになっているので同じ機能という話ですね。
+statusロールは暗黙のaria-live="polite"を持つことになっているので機能して同じという話ですが、プロパティとロールが同等と言われてもわかりにくいような。
 
 http://www.w3.org/TR/wai-aria-1.1/#status
 Elements with the role status have an implicit aria-live value of polite and an implicit aria-atomic value of true.
