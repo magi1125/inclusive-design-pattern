@@ -21657,11 +21657,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+脚注リンク先のタイトルは
+Making your service accessible: an introduction - Service Manual - GOV.UK</note>
       <tuv lang="EN-US">
         <seg>The Government Service Design Manual has an informative section on &lt;g1&gt;&lt;g2&gt;accessibility testing&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; as a complement to standard user testing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223818Z" creationid="rikiha" creationdate="20170909T223818Z">
-        <seg>Government Service Design Manualには、標準的なユーザーテストの補完として、アクセシビリティテスト（脚注167）の参考になるセクションがあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T111157Z" creationid="rikiha" creationdate="20170909T223818Z">
+        <seg>bkGovernment Service Design Manualには、標準的なユーザーテストの補完として、アクセシビリティテスト（脚注167）の参考になるセクションがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22822,8 +22825,8 @@ updateはここでは「付け加える」くらいの意味かと思います�
       <tuv lang="EN-US">
         <seg>The numbers will be small, but aim to capture a range of disabilities and assistive technologies.” – Government Digital Services (UK)</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223818Z" creationid="rikiha" creationdate="20170909T223818Z">
-        <seg>数は少なくても、さまざまな障害や支援技術を含めることを目指す。— Government Digital Services（イギリス）</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T110956Z" creationid="rikiha" creationdate="20170909T223818Z">
+        <seg>数は少なくても、さまざまな障害や支援技術を含めることを目指す。」―― Government Digital Services（イギリス）</seg>
       </tuv>
     </tu>
     <tu>
