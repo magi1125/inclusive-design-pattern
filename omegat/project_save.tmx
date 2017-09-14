@@ -163,6 +163,12 @@ theを「上記の」としつつ調整してみました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) </note>
+      <tuv lang="EN-US">
+        <seg>23 products listed.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM
 
 </note>
@@ -15912,6 +15918,15 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 訳しました。</note>
+      <tuv lang="EN-US">
+        <seg>Loading complete.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170914T025031Z" creationid="rikiha" creationdate="20170914T024922Z">
+        <seg>商品の読み込みが完了しました。23点の商品が一覧されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 上の分節にマージ。</note>
       <tuv lang="EN-US">
         <seg>Loading products.</seg>
@@ -23530,11 +23545,12 @@ JAWS日本語版では「ページ内リンク」らしいです。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整</note>
       <tuv lang="EN-US">
         <seg>Then, when the products are loaded, we can change the live region content to inform the user:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223727Z" creationid="rikiha" creationdate="20170909T223727Z">
-        <seg>その後、商品が読み込まれたら、ライブリージョンのコンテンツを変えて、ユーザーに次のように知らせます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170914T024834Z" creationid="rikiha" creationdate="20170909T223727Z">
+        <seg>そして商品が読み込まれたら、ライブリージョンのコンテンツを変えて、ユーザーに以下のように知らせます。</seg>
       </tuv>
     </tu>
     <tu>
