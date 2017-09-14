@@ -21661,12 +21661,16 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 脚注リンク先のタイトルは
 Making your service accessible: an introduction - Service Manual - GOV.UK
 となっています。
-「Government Service Design Manual」というタイトルではないですね。変わったのかもしれません。</note>
+https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction
+
+informativeを「参考になる」としているのはご愛嬌ですが、リンク先を見てもnormativeなのかinformativeなのか書いていないような。そもそも「Government Service Design Manual」というタイトルではないですし、内容が変わっているのかもしれません。
+
+</note>
       <tuv lang="EN-US">
         <seg>The Government Service Design Manual has an informative section on &lt;g1&gt;&lt;g2&gt;accessibility testing&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; as a complement to standard user testing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T111438Z" creationid="rikiha" creationdate="20170909T223818Z">
-        <seg>このイギリス政府のマニュアルには、標準的なユーザーテストの補完として、&lt;g1&gt;&lt;g2&gt;アクセシビリティテスト&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注167）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の参考になるセクションがあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T111707Z" creationid="rikiha" creationdate="20170909T223818Z">
+        <seg>このイギリス政府のマニュアルには、標準的なユーザーテストの補完として、&lt;g1&gt;&lt;g2&gt;アクセシビリティテスト&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注167）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;のセクションがあります。</seg>
       </tuv>
     </tu>
     <tu>
