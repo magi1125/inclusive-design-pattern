@@ -8828,8 +8828,8 @@ draw onは経験を活かすような意味。
       <tuv lang="EN-US">
         <seg>Each arrow keypress not only focuses adjacent radio buttons but &lt;g1&gt;selects them&lt;/g1&gt; as well.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T103814Z" creationid="rikiha" creationdate="20170909T223805Z">
-        <seg>矢印キーを押すと、隣接するラジオボタンがフォーカスされるだけでなく、&lt;g1&gt;選択&lt;/g1&gt;もされることになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T103831Z" creationid="rikiha" creationdate="20170909T223805Z">
+        <seg>矢印キーを押すと、隣接するラジオボタンがフォーカスされるだけでなく、&lt;g1&gt;選択&lt;/g1&gt;もされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25039,12 +25039,14 @@ esotericは特殊というより、他で使われていないというニュア
       <note>(太田)
 ちょっと誤訳っぽいですね。選択肢が4つあるので、端から端まで移動する間に3回イベントが発生するという話です。
 in either direction は無くても分かりますし、逆に混乱しそうなのでトリでいいかも。
+調整してみました。
+
 </note>
       <tuv lang="EN-US">
         <seg>This means moving through the options in either direction would fire the &lt;g2&gt;change&lt;/g2&gt; event three times in total.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T103756Z" creationid="rikiha" creationdate="20170909T223806Z">
-        <seg>つまり、オプションの端から端まで移動すると、それだけで&lt;g2&gt;change&lt;/g2&gt;イベントが合計3回発火することを意味します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T103845Z" creationid="rikiha" creationdate="20170909T223806Z">
+        <seg>つまり、オプションの端から端まで移動すると、それだけで&lt;g2&gt;change&lt;/g2&gt;イベントが合計3回発火することになります。</seg>
       </tuv>
     </tu>
     <tu>
