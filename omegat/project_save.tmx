@@ -15315,9 +15315,11 @@ implementationを例→実装としました。
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>(伊原) 調整済み？訳OK
 
-(伊原) 調整済み？訳OK</note>
+(太田) OK
+
+</note>
       <tuv lang="EN-US">
         <seg>JavaScript Enhancement</seg>
       </tuv>
@@ -17338,7 +17340,9 @@ attacheは帰属させるくらいの意味でしょうが良い表現は無い�
 
 (伊原) 担わせる、引き受けてもらう、任せるとかでしょうか。いったん引き受けにしてみました。
 また、前のほうでラジオボタンを隠すという表現だったので、合わせました（非表示というとvisibility:hidden感やdisplay:none感があるかなと）。
-!importantはジョークですね、説明しないほうが面白そうですが、CSS初心者も手に取るかもしれないし、訳注ですね。</note>
+!importantはジョークですね、説明しないほうが面白そうですが、CSS初心者も手に取るかもしれないし、訳注ですね。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Now that all the interaction and visual feedback is attached to the label, we can safely hide the obstinately ugly radio button from view.</seg>
       </tuv>
