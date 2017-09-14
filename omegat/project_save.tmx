@@ -21659,12 +21659,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
     <tu>
       <note>(太田)
 脚注リンク先のタイトルは
-Making your service accessible: an introduction - Service Manual - GOV.UK</note>
+Making your service accessible: an introduction - Service Manual - GOV.UK
+となっています。
+「Government Service Design Manual」というタイトルではないですね。変わったのかもしれません。</note>
       <tuv lang="EN-US">
         <seg>The Government Service Design Manual has an informative section on &lt;g1&gt;&lt;g2&gt;accessibility testing&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; as a complement to standard user testing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T111157Z" creationid="rikiha" creationdate="20170909T223818Z">
-        <seg>bkGovernment Service Design Manualには、標準的なユーザーテストの補完として、アクセシビリティテスト（脚注167）の参考になるセクションがあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T111438Z" creationid="rikiha" creationdate="20170909T223818Z">
+        <seg>このイギリス政府のマニュアルには、標準的なユーザーテストの補完として、&lt;g1&gt;&lt;g2&gt;アクセシビリティテスト&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注167）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;の参考になるセクションがあります。</seg>
       </tuv>
     </tu>
     <tu>
