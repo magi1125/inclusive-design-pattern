@@ -18479,12 +18479,13 @@ honestは「正直」としてみました。
     </tu>
     <tu>
       <note>(太田)
-誤訳ですね。the change event は「changeイベント」です。</note>
+誤訳ですね。the change event は「changeイベント」です。
+前からのつながりもふまえて調整。</note>
       <tuv lang="EN-US">
         <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T100447Z" creationid="rikiha" creationdate="20170909T223748Z">
-        <seg>おそらく手っ取り早いのは、JavaScriptでsubmitボタンを取り除き、changeイベントにXHRの機能を追加するという方法でしょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170914T100532Z" creationid="rikiha" creationdate="20170909T223748Z">
+        <seg>おそらく、JavaScriptでsubmitボタンを取り除き、changeイベントにXHRの機能を追加するという方法が手っ取り早いと思われることでしょう。</seg>
       </tuv>
     </tu>
     <tu>
