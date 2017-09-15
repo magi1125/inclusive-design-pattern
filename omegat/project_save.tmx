@@ -19052,11 +19052,12 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) as well as producing an intimidating and unwieldy page をどうすべきか。長すぎてウッとなったり扱いにくい、ということなのだとは思いますが…。</note>
       <tuv lang="EN-US">
         <seg>Retrieving and rendering all of them at once would cause a serious performance bottleneck, as well as producing an intimidating and unwieldy page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223821Z" creationid="rikiha" creationdate="20170909T223821Z">
-        <seg>それを一度にすべて読み出して表示すると、深刻なパフォーマンスボトルネックを引き起こすことが多く、威圧感を与える扱いにくいページになってしまいます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T054808Z" creationid="rikiha" creationdate="20170909T223821Z">
+        <seg>一度ですべて取得して表示すると、パフォーマンスにおける深刻なボトルネックの原因となりやすく、それと同時に威圧感を与える扱いにくいページになってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
