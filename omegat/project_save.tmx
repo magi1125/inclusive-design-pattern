@@ -11885,12 +11885,14 @@ work as が訳出されていないのはOK? いったん訳出してみまし�
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) の場合は➞であれば　と微調整。</note>
       <tuv lang="EN-US">
         <seg>If you’re a Mac user, the quickest way to get started testing with this is to open it in Safari and turn on VoiceOver (&lt;g7&gt;Cmd&lt;/g7&gt; + &lt;g8&gt;F5&lt;/g8&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T094612Z" creationid="rikiha" creationdate="20170909T223742Z">
-        <seg>Macユーザーの場合は、SafariでLive Region Playgroundを開き、VoiceOverをオンにする（&lt;g7&gt;Cmd&lt;/g7&gt; + &lt;g8&gt;F5&lt;/g8&gt;）ことで簡単にテストを開始できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T005603Z" creationid="rikiha" creationdate="20170909T223742Z">
+        <seg>Macユーザーであれば、SafariでLive Region Playgroundを開き、VoiceOverをオンにする（&lt;g7&gt;Cmd&lt;/g7&gt; + &lt;g8&gt;F5&lt;/g8&gt;）ことで簡単にテストを開始できます。</seg>
       </tuv>
     </tu>
     <tu>
