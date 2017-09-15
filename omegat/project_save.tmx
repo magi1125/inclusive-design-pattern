@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10999,7 +10999,9 @@ this has led で「これが導いた」と言っているので、「報告し�
       <note>(太田)
 ここのA and Bは、AならばBでもあるという意味。
 HJなのでもう少し練りたい。もしくは訳注か。
-補いつつ2文に分けつつ調整してみましたがどうでしょうか。</note>
+補いつつ2文に分けつつ調整してみましたがどうでしょうか。
+
+(伊原) OK、わかりやすいです。</note>
       <tuv lang="EN-US">
         <seg>However, this would mean hiding the now redundant submit button and trusting that keyboard users would know to press &lt;g1&gt;Enter&lt;/g1&gt; to submit the form.</seg>
       </tuv>
@@ -15131,7 +15133,10 @@ investは投資で良いのか? インクルーシブ思考に時間を費やす
     </tu>
     <tu>
       <note>(太田)
-調整してみましたがわかりにくいかも。</note>
+調整してみましたがわかりにくいかも。
+
+(伊原) OK. JS書けるなら分かると思います。
+ここのソースも前のやつのコピペで、XHRしてないですね。</note>
       <tuv lang="EN-US">
         <seg>It’s possible to limit this enhanced XHR-on-choosing-filter-option functionality to mouse and touch users by switching from using the &lt;g1&gt;change&lt;/g1&gt; event to using &lt;g2&gt;click&lt;/g2&gt;.</seg>
       </tuv>
@@ -25138,7 +25143,7 @@ esotericは特殊というより、他で使われていないというニュア
 in either direction は無くても分かりますし、逆に混乱しそうなのでトリでいいかも。
 調整してみました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This means moving through the options in either direction would fire the &lt;g2&gt;change&lt;/g2&gt; event three times in total.</seg>
       </tuv>
