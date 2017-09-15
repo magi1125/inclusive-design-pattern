@@ -18198,12 +18198,14 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ダッシュを活かしました</note>
+      <note>(伊原) ダッシュを活かしました
+
+(岡本)　1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>One of them — infinite scroll — has some serious problems regarding inclusivity.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T060433Z" creationid="rikiha" creationdate="20170909T223823Z">
-        <seg>そのうちの1つ――無限スクロール――にはインクルーシビティに関する重大な問題があります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170915T080240Z" creationid="rikiha" creationdate="20170909T223823Z">
+        <seg>そのうちのひとつ――無限スクロール――にはインクルーシビティに関する重大な問題があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21473,7 +21475,10 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       <note>(伊原) harness A to B で「AをBにつける」
 https://eow.alc.co.jp/search?q=harness
 (the user’s scroll behavior) to (automatically load new content at the point that they reach the current content’s end)
-だとすると、こういう感じでしょうか。こなれてないですが。</note>
+だとすると、こういう感じでしょうか。こなれてないですが。
+
+(岡本)
+harnesは取るですかね？</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;g2&gt;infinite scroll&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; pattern harnesses the user’s scroll behavior to automatically load new content at the point that they reach the current content’s end.</seg>
       </tuv>
