@@ -7987,7 +7987,9 @@ the page information が何をさすのか良くわからない。タイトル�
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>By removing an explicit submission action, it’s possible that triggering the XHR will be unexpected to some users.</seg>
       </tuv>
@@ -24256,7 +24258,7 @@ break up は分割というより解消、解体に近い意味かも。
 コントロールを奪われる、だと他の人にコントロールされてしまう感じですが、ここではコントロール権を剥奪されるようなイメージですね。
 まあ、とはいえ事実上コントロールを奪われているわけなので、問題ないといえば問題ないか。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>They may feel their control has been usurped and this may diminish their trust in the interface.</seg>
       </tuv>
