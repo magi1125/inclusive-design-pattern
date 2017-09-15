@@ -528,13 +528,16 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
 -----
 なので、「ユーザーが調整できるようにする」としてみました。
 
-(太田) OK
+(太田) 
+chapter-23の議論で「ユーザーに制御させる」とすることにしました。
+ので反映。
+
 </note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Put users in control.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170904T131746Z" creationid="rikiha" creationdate="20170828T141801Z">
-        <seg>&lt;/g1&gt;2.ユーザーが調整できるようにする。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170915T033901Z" creationid="rikiha" creationdate="20170828T141801Z">
+        <seg>&lt;/g1&gt;2.ユーザーに制御させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23767,8 +23770,8 @@ Theを訳出する必要があるのかどうか若干悩ましいですがマ�
       <tuv lang="EN-US">
         <seg>The “Load more” button invites the user to take an explicit, labeled action at their convenience and therefore conforms to the second of Henny Swan’s UX principles, to &lt;g1&gt;give users control&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170915T033758Z" creationid="rikiha" creationdate="20170909T223951Z">
-        <seg>「もっと読み込む」ボタンなら、ユーザーはラベルの付いた明示的なアクションを自分の都合の良いときに行えるので、ヘニー・スワンが提唱する2つ目の原則、ユーザーに制御させるにも適合します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170915T033812Z" creationid="rikiha" creationdate="20170909T223951Z">
+        <seg>「もっと読み込む」ボタンなら、ユーザーはラベルの付いた明示的なアクションを自分の都合の良いときに行えるので、ヘニー・スワンが提唱する2つ目の原則、ユーザーに制御させる、にも適合します。</seg>
       </tuv>
     </tu>
     <tu>
