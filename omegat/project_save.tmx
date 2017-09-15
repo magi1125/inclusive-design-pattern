@@ -23835,11 +23835,12 @@ Theを訳出する必要があるのかどうか若干悩ましいですがマ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ダッシュを活かしつつ調整。</note>
       <tuv lang="EN-US">
         <seg>The “Load more” button — and it &lt;g1&gt;should&lt;/g1&gt; be a &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; — resides at the end of the current crop of results and clicking it sends an XHR request to load the next set.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T142133Z" creationid="rikiha" creationdate="20170909T223839Z">
-        <seg>現在表示されている結果の最後にある「もっと読み込む」ボタン――それは&lt;button&gt;であるべきです――をクリックすると、次のセットを読み込むためにXHRが送信されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T142246Z" creationid="rikiha" creationdate="20170909T223839Z">
+        <seg>現在表示されている検索結果の最後にある「もっと読み込む」ボタン――それは&lt;button&gt;であるべきです――をクリックすると、次のセットを読み込むためにXHRが送信されます。</seg>
       </tuv>
     </tu>
     <tu>
