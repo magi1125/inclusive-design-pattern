@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11019,7 +11019,11 @@ HJなのでもう少し練りたい。もしくは訳注か。
     <tu>
       <note>(太田)
 前から持ってきましたが、この文脈だと「調整できるようにする」はおかしいかも。
-</note>
+
+(伊原) うーん、そうですね、確かに。
+植木さんと土屋さんはgive controlを「利用者に制御させる」と訳したみたいです。
+http://inclusivedesignprinciples.org/ja/
+「ユーザーに制御させる」のほうがいいですかね。</note>
       <tuv lang="EN-US">
         <seg>However, we must be mindful of the &lt;g1&gt;give users control&lt;/g1&gt; principle mentioned at the beginning of this chapter.</seg>
       </tuv>
