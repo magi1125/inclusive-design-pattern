@@ -468,11 +468,12 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Just don’t implement infinite scrolling.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223832Z" creationid="rikiha" creationdate="20170909T223832Z">
-        <seg>1.無限スクロールを実装しない。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T124732Z" creationid="rikiha" creationdate="20170909T223832Z">
+        <seg>無限スクロールを実装しない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -541,11 +542,12 @@ chapter-23の議論で「ユーザーに制御させる」とすることにし�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ちょっと違うので調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Replace automatic infinite scrolling with a “Load more results…” button or link that explicitly invites the user to add more.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223833Z" creationid="rikiha" creationdate="20170909T223833Z">
-        <seg>2.自動の無限スクロールの代わりに、「結果をもっと読み込む…」ボタン、または、もっと表示するようユーザーに明示的に勧めるリンクを実装する。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T125124Z" creationid="rikiha" creationdate="20170909T223833Z">
+        <seg>自動の無限スクロールの代わりに、ユーザーに対して明示的に追加をうながす「結果をもっと読み込む…」ボタンまたはリンクに置き換える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8603,6 +8605,7 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Derek offers two solutions.</seg>
       </tuv>
@@ -10737,6 +10740,7 @@ http://www.dictionary.com/browse/radical
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>He’s so fond of one that he lists it twice:</seg>
       </tuv>
@@ -27840,8 +27844,8 @@ in this way を取っても意味は通じるので、単にトリで良いよ�
       <tuv lang="EN-US">
         <seg>When items within the stream have interactive elements (such as our “Buy Now” buttons), focusable elements are added to the stream ad infinitum, making it impossible to tab past the main content to interactive elements that reside below it in the footer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T124620Z" creationid="rikiha" creationdate="20170909T223830Z">
-        <seg>ストリームの中の項目にインタラクティブな要素（「今すぐ購入」ボタンなど）があると、フォーカス可能な要素がストリームに際限なく追加されます。その結果、Tabキーでメインコンテンツを超えることができず、下のフッター内にあるインタラクティブな要素に移動できなくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T124652Z" creationid="rikiha" creationdate="20170909T223830Z">
+        <seg>ストリームの中の項目にインタラクティブな要素（「今すぐ購入」ボタンなど）があると、フォーカス可能な要素がストリームに無限に追加されます。その結果、Tabキーでメインコンテンツを超えることができず、下のフッター内にあるインタラクティブな要素に移動できなくなります。</seg>
       </tuv>
     </tu>
     <tu>
