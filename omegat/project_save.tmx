@@ -3074,7 +3074,9 @@ OK
     </tu>
     <tu>
       <note>(太田)
-コードは改行して外だしする感じで。</note>
+コードは改行して外だしする感じで。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;We would populate the live region with the message using simple JavaScript DOM manipulation: &lt;g2&gt;liveElement.textContent = '[message]'&lt;/g2&gt;.</seg>
       </tuv>
