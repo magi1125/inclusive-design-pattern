@@ -9149,8 +9149,8 @@ fauxが訳から落ちているかも。「偽の」「本物でない」「な�
       <tuv lang="EN-US">
         <seg>Far better to load a smaller set of results, then retrieve more as and when the user needs them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T055241Z" creationid="rikiha" creationdate="20170909T223822Z">
-        <seg>少なめの検索結果のセットを読み込み、ユーザーが必要とするときに追加で取得する方がはるかに優れています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T060308Z" creationid="rikiha" creationdate="20170909T223822Z">
+        <seg>少なめの検索結果のセットを読み込み、ユーザーが必要とするときに追加で取得するほうがはるかに優れています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11119,6 +11119,7 @@ https://challenges.openideo.com/challenge/voting/inspiration
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>I can think of a few different ways to do this.</seg>
       </tuv>
@@ -14083,6 +14084,7 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Infinite Scroll</seg>
       </tuv>
@@ -18196,11 +18198,12 @@ https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ダッシュを活かしました</note>
       <tuv lang="EN-US">
         <seg>One of them — infinite scroll — has some serious problems regarding inclusivity.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223823Z" creationid="rikiha" creationdate="20170909T223823Z">
-        <seg>その1つが無限スクロールですが、これにはインクルーシビティに関する重大な問題があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T060433Z" creationid="rikiha" creationdate="20170909T223823Z">
+        <seg>そのうちの1つ――無限スクロール――にはインクルーシビティに関する重大な問題があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21467,11 +21470,15 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) harness A to B で「AをBにつける」
+https://eow.alc.co.jp/search?q=harness
+(the user’s scroll behavior) to (automatically load new content at the point that they reach the current content’s end.)
+だとすると、こういう感じでしょうか。こなれてないですが。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;g2&gt;infinite scroll&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; pattern harnesses the user’s scroll behavior to automatically load new content at the point that they reach the current content’s end.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223825Z" creationid="rikiha" creationdate="20170909T223825Z">
-        <seg>無限スクロール（脚注168）のパターンは、ユーザーのスクロール動作を利用して、現在のコンテンツの最後に達した時点で新しいコンテンツを自動的に読み込みます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T061641Z" creationid="rikiha" creationdate="20170909T223825Z">
+        <seg>harnesこの&lt;g1&gt;&lt;g2&gt;無限スクロール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注168）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;というパターンは、現在のコンテンツの終わりに達した時点で、ユーザーのスクロール動作と、新しいコンテンツを自動的に読み込みとをつなげます。</seg>
       </tuv>
     </tu>
     <tu>
