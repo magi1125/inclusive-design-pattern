@@ -17110,12 +17110,27 @@ serif fontは前で「セリフ書体」としていたので合わせました�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ハンドルとかトラックとかの用語は一般的なのだろうか。</note>
+      <note>(伊原) 訳としてはそうおかしくはないが、かなり状況が想像しにくい。
+
+前の段落での説明：
+・ハンドルをドラッグして下に持っていく
+・読み込みが発動してコンテンツが足される
+・ハンドルを掴んだままのはずが、ハンドルが上に移動する
+
+この段落で話そうとしていること（恐らく）
+・前記に気づいてない状態で、コンテンツを読むために（？）ドラッグを一度解除する
+・再度ハンドルをドラッグするために掴もうとする
+・知らぬ間にハンドルは上に移動しているので、トラックをクリックしたことになり、下にスクロールする
+・残念な思い＆見逃しの恐れ
+
+ということで、instead周りをいろいろ補いました
+
+ハンドルとかトラックとかの用語は一般的なのだろうか。</note>
       <tuv lang="EN-US">
         <seg>Not realizing the handle has moved away from reach, I may click the scroll track instead and make the page lurch downwards from my current location: a hugely counterintuitive and annoying experience, wherein I’m liable to skip over unread content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223829Z" creationid="rikiha" creationdate="20170909T223829Z">
-        <seg>ハンドルが離れた所に移動したことに気付かず、スクロールバーのトラック部分をクリックしてしまうと、ページが現在位置から急に下に飛びます。これはかなり直観に反する不快な体験で、まだ見ていないコンテンツを見逃してしまう恐れがあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T122601Z" creationid="rikiha" creationdate="20170909T223829Z">
+        <seg>ハンドルがマウスカーソルから離れた所に移動したことに気付かなかった場合、再度ハンドルをドラッグしようとしても、代わりにスクロールバーのトラック部分をクリックしてしまい、ページが現在位置から急に下に飛びます。これはかなり直観に反する不快な体験で、まだ見ていないコンテンツを見逃してしまう恐れがあります。</seg>
       </tuv>
     </tu>
     <tu>
