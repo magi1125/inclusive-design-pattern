@@ -17117,15 +17117,16 @@ serif fontは前で「セリフ書体」としていたので合わせました�
 ・読み込みが発動してコンテンツが足される
 ・ハンドルを掴んだままのはずが、ハンドルが上に移動する
 
-この段落で話そうとしていること（恐らく）
+この段落で話そうとしていること
 ・前記に気づいてない状態で、コンテンツを読むために（？）ドラッグを一度解除する
 ・再度ハンドルをドラッグするために掴もうとする
 ・知らぬ間にハンドルは上に移動しているので、トラックをクリックしたことになり、下にスクロールする
 ・残念な思い＆見逃しの恐れ
 
-ということで、instead周りをいろいろ補いました
+ということで、実際の動作を動画で見るとかしないとピンとは来ない感じもしますが、ひとまずinstead周りをいろいろ補いました。
 
-ハンドルとかトラックとかの用語は一般的なのだろうか。</note>
+ところで、ハンドルとかトラックとかの用語は一般的なのだろうか、という疑問も。
+</note>
       <tuv lang="EN-US">
         <seg>Not realizing the handle has moved away from reach, I may click the scroll track instead and make the page lurch downwards from my current location: a hugely counterintuitive and annoying experience, wherein I’m liable to skip over unread content.</seg>
       </tuv>
