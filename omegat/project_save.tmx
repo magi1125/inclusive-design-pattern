@@ -18054,11 +18054,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 「さらなる結果の自動読み込み」がちょっとわかりづらく、more resultsは省略しても伝わりそうなので、単に自動読み込みとしてみました。</note>
       <tuv lang="EN-US">
         <seg>Once they do a few times, prompt them to ask if they’d like to turn auto-loading of more results on.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223834Z" creationid="rikiha" creationdate="20170909T223834Z">
-        <seg>ユーザーが何度か読み込みを繰り返したら、さらなる結果の自動読み込みをオンにするか尋ねるプロンプトを表示する。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T135225Z" creationid="rikiha" creationdate="20170909T223834Z">
+        <seg>ユーザーが何度か読み込みを繰り返したら、自動読み込みをオンにするかを尋ねるプロンプトを表示する。</seg>
       </tuv>
     </tu>
     <tu>
