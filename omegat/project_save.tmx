@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18559,7 +18559,8 @@ honestは「正直」としてみました。
 erraraには何もなし。
 https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
 あるいは、ひとつ前のコードが生きている前提で、this.submit() でそれを呼んでいるということなのでしょうか。一応意味は通りますが、ふつうは両方を実装するということは無いと思いますが……。
-</note>
+
+(伊原) そうですね、単に変更されたら送信してるだけで、attach the XHR functionality to the change event してないですね。ヘイドンさんのミスのような気がします。</note>
       <tuv lang="EN-US">
         <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
       </tuv>
@@ -24427,7 +24428,9 @@ aspirations は「願望」?
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This begs the question whether we need the submit button at all.</seg>
       </tuv>
