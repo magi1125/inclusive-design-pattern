@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9059,7 +9059,8 @@ OK
       <note>(太田)
 少し調整。
 enhancementはここでは「挙動」としました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Even with these measures in place, whether users actually understand or &lt;g1&gt;like&lt;/g1&gt; this enhancement is a question for user testing.</seg>
       </tuv>
@@ -10016,12 +10017,14 @@ An alt Decision Tree のフローで
       <note>(太田)
 元訳は意味が通らないような。
 予算と時間があればdiverse user用のテストをし、そうでない場合はメインのテストと同じメニューで単にテスターの一部にdiverse userを入れる、ということなのかも。
-「さまざまなユーザー」と言われると人数が多いような印象になるので、diverse userをどう訳すか工夫が必要かもしれません。</note>
+「さまざまなユーザー」と言われると人数が多いような印象になるので、diverse userをどう訳すか工夫が必要かもしれません。
+
+(伊原) いろんなタイプの、としてみました。ちょっと砕けすぎ？</note>
       <tuv lang="EN-US">
         <seg>For smaller budgets and timeframes, diverse users should be made part of the main test group.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T112149Z" creationid="rikiha" creationdate="20170909T223819Z">
-        <seg>予算が少なく、時間が限られている場合は、メインのテストの一部にさまざまなユーザーを含めてしまいましょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T031815Z" creationid="rikiha" creationdate="20170909T223819Z">
+        <seg>予算が少なく、時間が限られている場合は、メインのテストの一部にいろんなタイプのユーザーを含めてしまいましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18856,7 +18859,9 @@ OK</note>
     <tu>
       <note>(太田)
 「多様なテストグループを募集」がわかりにくいので「多様なユーザーにテストしてもらう」としました。
-その他少し調整。</note>
+その他少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Recruiting a diverse test group is the best way to properly confirm inclusive design decisions.</seg>
       </tuv>
@@ -21740,7 +21745,7 @@ https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your
 informativeを「参考になる」としているのはご愛嬌ですが、リンク先を見てもnormativeなのかinformativeなのか書いていないような。そもそも「Government Service Design Manual」というタイトルではないですし、内容が変わっているのかもしれません。
 いったん、ふわっとした表現にしました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The Government Service Design Manual has an informative section on &lt;g1&gt;&lt;g2&gt;accessibility testing&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; as a complement to standard user testing.</seg>
       </tuv>
@@ -22903,6 +22908,7 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The numbers will be small, but aim to capture a range of disabilities and assistive technologies.” – Government Digital Services (UK)</seg>
       </tuv>
@@ -29009,7 +29015,9 @@ http://postd.cc/nobody-wants-use-your-product/
     </tu>
     <tu>
       <note>(太田)
-カッコを追加。</note>
+カッコを追加。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>“Include disabled participants as part of a wider user testing recruitment process.</seg>
       </tuv>
