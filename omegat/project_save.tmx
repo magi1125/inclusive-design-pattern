@@ -5776,7 +5776,9 @@ listenは「監視」としてみました。
     </tu>
     <tu>
       <note>(太田)
-調整。</note>
+調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Alternative &lt;g4&gt;polite&lt;/g4&gt; and &lt;g5&gt;status&lt;/g5&gt; values would mean the live region contents are announced only after the screen reader has finished announcing the content it is currently set to announce.</seg>
       </tuv>
@@ -19891,7 +19893,9 @@ https://inclusive-components.design/#components
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Since the user might move away from the widget to read some other content, this means they will be told that the products are ready immediately.</seg>
       </tuv>
