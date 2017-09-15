@@ -2673,7 +2673,8 @@ statusロールは暗黙のaria-live="polite"を持つことになっている�
 http://www.w3.org/TR/wai-aria-1.1/#status
 Elements with the role status have an implicit aria-live value of polite and an implicit aria-atomic value of true.
 
-
+(伊原) OK。polite出てこないですね…。この本でもここと分節2948にしか出てこないようです。
+訳注でコーディング本への参照するとか？
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-live="polite"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;8&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; property and the &lt;g8&gt;&lt;g9&gt;&lt;g10&gt;status&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;9&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt; role are equivalent.</seg>
@@ -7224,7 +7225,9 @@ heading level oneは「見出しレベル1」ですね。
     </tu>
     <tu>
       <note>(太田)
-セットアップ→環境としました。</note>
+セットアップ→環境としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Both are provided to maximize compatibility across platforms and screen readers (in some setups, only one or the other is recognized).</seg>
       </tuv>
