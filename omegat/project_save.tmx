@@ -3291,9 +3291,15 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
     <tu>
       <note>(岡本)
 下訳：
- // ここでXHRリクエスト処理</note>
+ // ここでXHRリクエスト処理
+
+(伊原) XHRリクエストだと重言なので調整しつつ反映</note>
       <tuv lang="EN-US">
         <seg>&lt;g23&gt;// XHR request handling here
+&lt;/g23&gt;&lt;g24&gt;}&lt;/g24&gt;&lt;g25&gt;)&lt;/g25&gt;&lt;g26&gt;;&lt;/g26&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T021551Z">
+        <seg>&lt;g23&gt;// ここでXHR処理
 &lt;/g23&gt;&lt;g24&gt;}&lt;/g24&gt;&lt;g25&gt;)&lt;/g25&gt;&lt;g26&gt;;&lt;/g26&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
