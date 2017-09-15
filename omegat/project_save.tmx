@@ -13869,7 +13869,8 @@ look at は学びましたというか考察しましたというか。
     <tu>
       <note>(太田)
 our special は「例の」としました。
-</note>
+
+(伊原) ほぼOKなのですが、「押せないsubmitボタンでもform内に存在していれば送信できる」ということがパッとわかりませんでした。「フォーカスできないようにしたボタンを残す必要があります」とか補うのはどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>In which case, we’d have to use our special &lt;g3&gt;.visually-hidden&lt;/g3&gt; class, plus &lt;g4&gt;tabindex="-1"&lt;/g4&gt; to make sure the button isn’t user-focusable:</seg>
       </tuv>
@@ -17301,7 +17302,10 @@ resulting inも落ちているような。「結果として」くらいでし�
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>Note that you can’t simply &lt;g2&gt;remove&lt;/g2&gt; the submit button because some platforms (notably iOS) will not submit forms where a submit button isn’t present.</seg>
       </tuv>
