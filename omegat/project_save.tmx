@@ -27835,12 +27835,12 @@ in this way を取っても意味は通じるので、単にトリで良いよ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 要検討。streamを名詞として使っている。</note>
+      <note>(伊原) 要検討。streamを名詞として使っている。ストリームと訳すなら分節2999も合わせる必要ありだが、ストリームとだけ言っても多分わからないので、どうしたものか。</note>
       <tuv lang="EN-US">
         <seg>When items within the stream have interactive elements (such as our “Buy Now” buttons), focusable elements are added to the stream ad infinitum, making it impossible to tab past the main content to interactive elements that reside below it in the footer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223830Z" creationid="rikiha" creationdate="20170909T223830Z">
-        <seg>ストリームの中の項目にインタラクティブな要素（「今すぐ購入」ボタンなど）があると、フォーカス可能な要素がストリームに際限なく追加されます。その結果、Tabキーでメインコンテンツを超えて、下のフッター内にあるインタラクティブな要素に移動することができなくなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T124620Z" creationid="rikiha" creationdate="20170909T223830Z">
+        <seg>ストリームの中の項目にインタラクティブな要素（「今すぐ購入」ボタンなど）があると、フォーカス可能な要素がストリームに際限なく追加されます。その結果、Tabキーでメインコンテンツを超えることができず、下のフッター内にあるインタラクティブな要素に移動できなくなります。</seg>
       </tuv>
     </tu>
     <tu>
