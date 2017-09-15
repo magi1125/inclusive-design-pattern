@@ -22128,11 +22128,12 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) a streamをprovideしているので、流れるようにというのはちょっと変な気が。調整してみました。</note>
       <tuv lang="EN-US">
         <seg>The aim is to provide a stream of new content to the user without necessitating an action on their part.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223826Z" creationid="rikiha" creationdate="20170909T223826Z">
-        <seg>ユーザー側のアクションを必要とせずに、新しいコンテンツを流れるように提供することが狙いです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170915T071122Z" creationid="rikiha" creationdate="20170909T223826Z">
+        <seg>ユーザー側のアクションなしに新しいコンテンツが読み込まれる流れをもたらすことが狙いです。</seg>
       </tuv>
     </tu>
     <tu>
