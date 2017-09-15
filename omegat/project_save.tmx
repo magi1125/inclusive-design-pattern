@@ -10032,12 +10032,17 @@ An alt Decision Tree のフローで
 予算と時間があればdiverse user用のテストをし、そうでない場合はメインのテストと同じメニューで単にテスターの一部にdiverse userを入れる、ということなのかも。
 「さまざまなユーザー」と言われると人数が多いような印象になるので、diverse userをどう訳すか工夫が必要かもしれません。
 
-(伊原) いろいろなタイプの、としてみました。ちょっと砕けすぎ？</note>
+(伊原) いろいろなタイプの、としてみました。ちょっと砕けすぎ？
+
+(太田)
+「タイプ」を補う発想は良いですね。
+前で使っている「さまざま」はそのまま継承したいので、「さまざまな特性のユーザー」くらいにするのはどうでしょうか。
+</note>
       <tuv lang="EN-US">
         <seg>For smaller budgets and timeframes, diverse users should be made part of the main test group.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T031843Z" creationid="rikiha" creationdate="20170909T223819Z">
-        <seg>予算が少なく、時間が限られている場合は、メインのテストの一部にいろいろなタイプのユーザーを含めてしまいましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170915T034623Z" creationid="rikiha" creationdate="20170909T223819Z">
+        <seg>予算が少なく、時間が限られている場合は、メインのテストの一部にさまざまな特性のユーザーを含めてしまいましょう。</seg>
       </tuv>
     </tu>
     <tu>
