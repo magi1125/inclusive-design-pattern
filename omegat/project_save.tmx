@@ -17605,7 +17605,9 @@ UXは「ユーザー体験」とする?
       <note>(太田)
 大幅に補いつつ調整。
 
-(伊原) ちょっと長いので、原文に沿って2文に分けてみました。</note>
+(伊原) ちょっと長いので、原文に沿って2文に分けてみました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Now that we’re not making use of our &lt;g1&gt;get&lt;/g1&gt; functionality, we’ll need to prevent the page refreshing by suppressing the submit button’s default form submission functionality.</seg>
       </tuv>
