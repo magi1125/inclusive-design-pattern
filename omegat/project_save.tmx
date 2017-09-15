@@ -10036,7 +10036,8 @@ An alt Decision Tree のフローで
 (太田)
 「タイプ」を補う発想は良いですね。
 前で使っている「さまざま」はそのまま継承したいので、「さまざまなタイプのユーザー」、あるいは「さまざまな特性のユーザー」あたりでどうでしょうか。特性のほうがイメージが絞られて分かりやすいかも。
-</note>
+
+(伊原) いいですね、OK</note>
       <tuv lang="EN-US">
         <seg>For smaller budgets and timeframes, diverse users should be made part of the main test group.</seg>
       </tuv>
@@ -13907,7 +13908,9 @@ our special は「例の」としました。
 (伊原) ほぼOKなのですが、「押せないsubmitボタンでもform内に存在していれば送信できる」ということがパッとわかりませんでした。「フォーカスできないようにしたボタンを残す必要があります」とか補うのはどうでしょうか。
 
 (太田)
-「ボタンが存在しながらも、ユーザーによってフォーカスできない状態にする」としてみました。</note>
+「ボタンが存在しながらも、ユーザーによってフォーカスできない状態にする」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In which case, we’d have to use our special &lt;g3&gt;.visually-hidden&lt;/g3&gt; class, plus &lt;g4&gt;tabindex="-1"&lt;/g4&gt; to make sure the button isn’t user-focusable:</seg>
       </tuv>
