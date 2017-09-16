@@ -575,11 +575,12 @@ Theを重視するなら「テスト対象の」と補うのもありか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The button’s text is changed to “Loading:” and is set to handle no further clicks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223939Z" creationid="rikiha" creationdate="20170909T223939Z">
-        <seg>2.ボタンのテキストが「読み込み中」に代わり、それ以上クリックを受け付けないよう設定される。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T235022Z" creationid="rikiha" creationdate="20170909T223939Z">
+        <seg>ボタンのテキストが「読み込み中」に代わり、それ以上クリックを受け付けないよう設定される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28647,11 +28648,12 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 誤訳っぽいので修正。</note>
       <tuv lang="EN-US">
         <seg>You can catch the click and simply &lt;g2&gt;return&lt;/g2&gt; if the loading state is detected (for instance, by looking for “Loading” in the button’s &lt;g3&gt;textContent&lt;/g3&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T225338Z" creationid="rikiha" creationdate="20170916T225338Z">
-        <seg>クリックをキャッチし、読み込みステートが検知されているかどうかreturnする（たとえば、ボタンのtextContent内の「読み込み中」を探す）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T235939Z" creationid="rikiha" creationdate="20170916T225338Z">
+        <seg>読み込み状態を検出したら（たとえば、ボタンの&lt;g3&gt;textContent&lt;/g3&gt;内の「読み込み中」を探す）、クリックを捕らえて、単に&lt;g2&gt;return&lt;/g2&gt;できる。</seg>
       </tuv>
     </tu>
     <tu>
