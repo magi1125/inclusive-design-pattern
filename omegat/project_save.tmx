@@ -17232,8 +17232,8 @@ prelearnedは使い慣れたということでいいのか。
       <tuv lang="EN-US">
         <seg>Note that &lt;g1&gt;tabindex="-1"&lt;/g1&gt; has to be applied to the first item’s &lt;g2&gt;&lt;h3&gt;&lt;/g2&gt; to make it focusable with JavaScript’s &lt;g3&gt;focus()&lt;/g3&gt; method.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T121948Z" creationid="rikiha" creationdate="20170909T223909Z">
-        <seg>JavaScriptの&lt;g3&gt;&lt;/g3&gt;ocus()メソッドでフォーカス可能になるよう、最初の項目のにtabindex="-1"が適用される必要があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T122128Z" creationid="rikiha" creationdate="20170909T223909Z">
+        <seg>JavaScriptの&lt;g3&gt;focus()&lt;/g3&gt;メソッドでフォーカス可能になるよう、最初の項目に&lt;g1&gt;tabindex="-1"&lt;/g1&gt;を適用しなければならない点に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
