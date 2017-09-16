@@ -23072,6 +23072,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The outcome is that keyboard (including screen reader) users are sent right to the start of the page content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T110036Z" creationid="rikiha" creationdate="20170916T110036Z">
+        <seg>その結果、キーボードユーザー（スクリーンリーダーユーザーも含む）は、ページコンテンツの冒頭に送られることになります。t.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) itを補いました。
 
 (岡本)　分かりません→わかりません
@@ -25434,11 +25442,12 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) defaultsを訳出。</note>
       <tuv lang="EN-US">
         <seg>This results in what’s sometimes called &lt;g2&gt;freak out mode&lt;/g2&gt; whereby the browser doesn’t know what to focus and defaults to focusing the document body.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223901Z" creationid="rikiha" creationdate="20170909T223901Z">
-        <seg>するとブラウザは何をフォーカスしていいか分からず、ドキュメントの本文をフォーカスします（「フリークアウトモード」とも呼ばれる状態）。その結果、キーボードユーザー（スクリーンリーダーユーザーも含む）は、ページコンテンツの冒頭に送られることになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T110832Z" creationid="rikiha" creationdate="20170909T223901Z">
+        <seg>その結果、ブラウザは「&lt;g2&gt;フリークアウトモード&lt;/g2&gt;」とも呼ばれる、何をフォーカスしていいか分からない状態となり、ドキュメント本文へのフォーカスがデフォルトとなります。</seg>
       </tuv>
     </tu>
     <tu>
