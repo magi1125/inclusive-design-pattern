@@ -13864,8 +13864,8 @@ look at は学びましたというか考察しましたというか。
       <tuv lang="EN-US">
         <seg>In this case, user focus is not desirable because the &lt;g5&gt;&lt;h3&gt;&lt;/g5&gt; is not an actionable (interactive) element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223912Z" creationid="rikiha" creationdate="20170909T223912Z">
-        <seg>は実行可能（インタラクティブ）な要素ではないので、このケースではユーザーのフォーカスは望ましくありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T122156Z" creationid="rikiha" creationdate="20170909T223912Z">
+        <seg>&lt;g5&gt;&lt;h3&gt;&lt;/g5&gt;は実行可能（インタラクティブ）な要素ではないので、このケースではユーザーのフォーカスは望ましくありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26715,8 +26715,8 @@ not cut it はうまくできない、くらいの意味。
       <tuv lang="EN-US">
         <seg>Unlike &lt;g4&gt;tabindex="0"&lt;/g4&gt;, elements are not focusable by keyboard users directly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223910Z" creationid="rikiha" creationdate="20170909T223910Z">
-        <seg>tabindex="0"とは違い、要素はキーボードユーザーによって直接フォーカスされません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T122152Z" creationid="rikiha" creationdate="20170909T223910Z">
+        <seg>&lt;g4&gt;tabindex="0"&lt;/g4&gt;とは違い、要素はキーボードユーザーによって直接フォーカスされません。</seg>
       </tuv>
     </tu>
     <tu>
