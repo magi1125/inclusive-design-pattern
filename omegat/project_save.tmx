@@ -1292,8 +1292,8 @@ https://en.wikipedia.org/wiki/Flapjack_(oat_bar)
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;li&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223840Z" creationid="rikiha" creationdate="20170909T223840Z">
-        <seg>&lt;li&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124447Z" creationid="rikiha" creationdate="20170909T223840Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;li&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3964,6 +3964,15 @@ Price:　→価格：</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170727T114030Z">
         <seg>&lt;g6&gt;&lt;!-- このページ内で最後のインタラクティブな要素 --&gt;&lt;/g6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) 訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;&lt;/g8&gt;h3&lt;/g7&gt; &lt;g9&gt;tabindex&lt;/g9&gt;&lt;g10&gt;&lt;g11&gt;=&lt;/g11&gt;"-1"&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g6&gt; &lt;g13&gt;&lt;!-- make the title focusable --&gt;&lt;/g13&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124524Z" creationid="rikiha" creationdate="20170916T124524Z">
+        <seg>&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;&lt;/g8&gt;h3&lt;/g7&gt; &lt;g9&gt;tabindex&lt;/g9&gt;&lt;g10&gt;&lt;g11&gt;=&lt;/g11&gt;"-1"&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g6&gt; &lt;g13&gt;&lt;!-- タイトルをフォーカス可能にする --&gt;&lt;/g13&gt;</seg>
       </tuv>
     </tu>
     <tu>
