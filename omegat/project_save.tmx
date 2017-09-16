@@ -17304,11 +17304,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) この実装はブラウザの話なので補足。</note>
       <tuv lang="EN-US">
         <seg>Note that most implementations &lt;g1&gt;only&lt;/g1&gt; remove focus from the button, and don’t move it elsewhere.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223843Z" creationid="rikiha" creationdate="20170909T223843Z">
-        <seg>たいていの実装では、ボタンからフォーカスが外れるだけで、別のところに移動しません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T105315Z" creationid="rikiha" creationdate="20170909T223843Z">
+        <seg>その場合、たいていのブラウザの実装では、ボタンからフォーカスが外れる&lt;g1&gt;だけ&lt;/g1&gt;で、別のところに移動しないことに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
