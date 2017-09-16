@@ -13861,11 +13861,12 @@ look at は学びましたというか考察しましたというか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整</note>
       <tuv lang="EN-US">
         <seg>In this case, user focus is not desirable because the &lt;g5&gt;&lt;h3&gt;&lt;/g5&gt; is not an actionable (interactive) element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T122156Z" creationid="rikiha" creationdate="20170909T223912Z">
-        <seg>&lt;g5&gt;&lt;h3&gt;&lt;/g5&gt;は実行可能（インタラクティブ）な要素ではないので、このケースではユーザーのフォーカスは望ましくありません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T123617Z" creationid="rikiha" creationdate="20170909T223912Z">
+        <seg>この場合、&lt;g5&gt;&lt;h3&gt;&lt;/g5&gt;はアクションできる（インタラクティブな）要素ではないので、ユーザーによるフォーカスは望ましくありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27163,11 +27164,12 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) タグが抜けていたので修正。</note>
       <tuv lang="EN-US">
         <seg>We are only focusing the &lt;g6&gt;&lt;h3&gt;&lt;/g6&gt; to place the user in the correct context and to trigger announcement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223914Z" creationid="rikiha" creationdate="20170909T223914Z">
-        <seg>ユーザーを適切なコンテキストに配置し、読み上げをトリガーするためだけににフォーカスします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T123700Z" creationid="rikiha" creationdate="20170909T223914Z">
+        <seg>ユーザーを適切なコンテキストに配置し、読み上げをトリガーするためだけに&lt;g6&gt;&lt;h3&gt;&lt;/g6&gt;にフォーカスします。</seg>
       </tuv>
     </tu>
     <tu>
