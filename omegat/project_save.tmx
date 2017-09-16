@@ -27164,12 +27164,12 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) タグが抜けていたので修正。</note>
+      <note>(伊原) タグが抜けていたので修正。トリガー➞行わせる</note>
       <tuv lang="EN-US">
         <seg>We are only focusing the &lt;g6&gt;&lt;h3&gt;&lt;/g6&gt; to place the user in the correct context and to trigger announcement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T123700Z" creationid="rikiha" creationdate="20170909T223914Z">
-        <seg>ユーザーを適切なコンテキストに配置し、読み上げをトリガーするためだけに&lt;g6&gt;&lt;h3&gt;&lt;/g6&gt;にフォーカスします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124305Z" creationid="rikiha" creationdate="20170909T223914Z">
+        <seg>ユーザーを適切なコンテキストに置き、読み上げを行わせるためだけに&lt;g6&gt;&lt;h3&gt;&lt;/g6&gt;にフォーカスします。</seg>
       </tuv>
     </tu>
     <tu>
