@@ -670,8 +670,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g109&gt;&lt;g110&gt;&lt;g111&gt;&lt;/&lt;/g111&gt;dl&lt;/g110&gt;&lt;g112&gt;&gt;&lt;/g112&gt;&lt;/g109&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223930Z" creationid="rikiha" creationdate="20170909T223930Z">
-        <seg>&lt;dl&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124854Z" creationid="rikiha" creationdate="20170909T223930Z">
+        <seg>&lt;g109&gt;&lt;g110&gt;&lt;g111&gt;&lt;/&lt;/g111&gt;dl&lt;/g110&gt;&lt;g112&gt;&gt;&lt;/g112&gt;&lt;/g109&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -765,6 +765,14 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T081410Z">
         <seg>&lt;g112&gt;&lt;g113&gt;&lt;g114&gt;&lt;&lt;/g114&gt;h2&lt;/g113&gt;&lt;g115&gt;&gt;&lt;/g115&gt;&lt;/g112&gt;支払い方法の選択&lt;g116&gt;&lt;g117&gt;&lt;g118&gt;&lt;/&lt;/g118&gt;h2&lt;/g117&gt;&lt;g119&gt;&gt;&lt;/g119&gt;&lt;/g116&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g113&gt;&lt;g114&gt;&lt;g115&gt;&lt;&lt;/g115&gt;a&lt;/g114&gt; &lt;g116&gt;href&lt;/g116&gt;&lt;g117&gt;&lt;g118&gt;=&lt;/g118&gt;"/product/naked-man-in-garage"&lt;/g117&gt; &lt;g119&gt;class&lt;/g119&gt;&lt;g120&gt;&lt;g121&gt;=&lt;/g121&gt;"call-to-action"&lt;/g120&gt;&lt;g122&gt;&gt;&lt;/g122&gt;&lt;/g113&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124858Z" creationid="rikiha" creationdate="20170916T124858Z">
+        <seg>&lt;g113&gt;&lt;g114&gt;&lt;g115&gt;&lt;&lt;/g115&gt;a&lt;/g114&gt; &lt;g116&gt;href&lt;/g116&gt;&lt;g117&gt;&lt;g118&gt;=&lt;/g118&gt;"/product/naked-man-in-garage"&lt;/g117&gt; &lt;g119&gt;class&lt;/g119&gt;&lt;g120&gt;&lt;g121&gt;=&lt;/g121&gt;"call-to-action"&lt;/g120&gt;&lt;g122&gt;&gt;&lt;/g122&gt;&lt;/g113&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -881,6 +889,18 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       <tuv lang="JA" changeid="yoota" changedate="20170913T031054Z" creationid="rikiha" creationdate="20170913T002925Z">
         <seg>&lt;g140&gt;&lt;g141&gt;&lt;g142&gt;&lt;&lt;/g142&gt;button&lt;/g141&gt; &lt;g143&gt;type&lt;/g143&gt;&lt;g144&gt;&lt;g145&gt;=&lt;/g145&gt;"submit"&lt;/g144&gt;&lt;g146&gt;&gt;&lt;/g146&gt;&lt;/g140&gt;並べ替える&lt;g147&gt;&lt;g148&gt;&lt;g149&gt;&lt;/&lt;/g149&gt;button&lt;/g148&gt;&lt;g150&gt;&gt;&lt;/g150&gt;&lt;/g147&gt;
 &lt;g151&gt;&lt;g152&gt;&lt;g153&gt;&lt;/&lt;/g153&gt;form&lt;/g152&gt;&lt;g154&gt;&gt;&lt;/g154&gt;&lt;/g151&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g146&gt;&lt;!-- second newly returned product --&gt;&lt;/g146&gt;
+&lt;g147&gt;&lt;g148&gt;&lt;g149&gt;&lt;/&lt;/g149&gt;li&lt;/g148&gt;&lt;g150&gt;&gt;&lt;/g150&gt;&lt;/g147&gt;
+&lt;g151&gt;&lt;g152&gt;&lt;g153&gt;&lt;&lt;/g153&gt;li&lt;/g152&gt;&lt;g154&gt;&gt;&lt;/g154&gt;&lt;/g151&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T125039Z" creationid="rikiha" creationdate="20170916T125039Z">
+        <seg>&lt;g146&gt;&lt;!-- 新たに表示された商品の2番目 --&gt;&lt;/g146&gt;
+&lt;g147&gt;&lt;g148&gt;&lt;g149&gt;&lt;/&lt;/g149&gt;li&lt;/g148&gt;&lt;g150&gt;&gt;&lt;/g150&gt;&lt;/g147&gt;
+&lt;g151&gt;&lt;g152&gt;&lt;g153&gt;&lt;&lt;/g153&gt;li&lt;/g152&gt;&lt;g154&gt;&gt;&lt;/g154&gt;&lt;/g151&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3510,8 +3530,8 @@ Size:　→サイズ：</note>
       <tuv lang="EN-US">
         <seg>&lt;g37&gt;&lt;g38&gt;&lt;g39&gt;&lt;&lt;/g39&gt;img&lt;/g38&gt; &lt;g40&gt;src&lt;/g40&gt;&lt;g41&gt;&lt;g42&gt;=&lt;/g42&gt;"/images/naked-forecourt-man.jpg"&lt;/g41&gt; &lt;g43&gt;alt&lt;/g43&gt;&lt;g44&gt;&lt;g45&gt;=&lt;/g45&gt;"high contrast black and white image of a naked man nonchalantly leaning against a petrol pump."&lt;/g44&gt; &lt;g46&gt;/&gt;&lt;/g46&gt;&lt;/g37&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223924Z" creationid="rikiha" creationdate="20170909T223924Z">
-        <seg>&lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;&lt;/g23&gt;img&lt;/g22&gt; &lt;g24&gt;src&lt;/g24&gt;&lt;g25&gt;&lt;g26&gt;=&lt;/g26&gt;"/images/naked-forecourt-man.jpg"&lt;/g25&gt; &lt;g27&gt;alt&lt;/g27&gt;&lt;g28&gt;&lt;g29&gt;=&lt;/g29&gt;"裸の男性が何食わぬ顔で給油ポンプにもたれかかっている、ハイコントラストの白黒写真。"&lt;/g28&gt; &lt;g30&gt;/&gt;&lt;/g30&gt;&lt;/g21&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124745Z" creationid="rikiha" creationdate="20170909T223924Z">
+        <seg>&lt;g37&gt;&lt;g38&gt;&lt;g39&gt;&lt;&lt;/g39&gt;img&lt;/g38&gt; &lt;g40&gt;src&lt;/g40&gt;&lt;g41&gt;&lt;g42&gt;=&lt;/g42&gt;"/images/naked-forecourt-man.jpg"&lt;/g41&gt; &lt;g43&gt;alt&lt;/g43&gt;&lt;g44&gt;&lt;g45&gt;=&lt;/g45&gt;"裸の男性が何食わぬ顔で給油ポンプにもたれかかっている、ハイコントラストの白黒写真。"&lt;/g44&gt; &lt;g46&gt;/&gt;&lt;/g46&gt;&lt;/g37&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3733,8 +3753,8 @@ Size:　→サイズ：</note>
       <tuv lang="EN-US">
         <seg>&lt;g51&gt;&lt;g52&gt;&lt;g53&gt;&lt;&lt;/g53&gt;dt&lt;/g52&gt;&lt;g54&gt;&gt;&lt;/g54&gt;&lt;/g51&gt;Size:&lt;g55&gt;&lt;g56&gt;&lt;g57&gt;&lt;/&lt;/g57&gt;dt&lt;/g56&gt;&lt;g58&gt;&gt;&lt;/g58&gt;&lt;/g55&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223926Z" creationid="rikiha" creationdate="20170909T223926Z">
-        <seg>&lt;g50&gt;&lt;g51&gt;&lt;g52&gt;&lt;&lt;/g52&gt;dt&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g50&gt;サイズ:&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;/&lt;/g56&gt;dt&lt;/g55&gt;&lt;g57&gt;&gt;&lt;/g57&gt;&lt;/g54&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124756Z" creationid="rikiha" creationdate="20170909T223926Z">
+        <seg>&lt;g51&gt;&lt;g52&gt;&lt;g53&gt;&lt;&lt;/g53&gt;dt&lt;/g52&gt;&lt;g54&gt;&gt;&lt;/g54&gt;&lt;/g51&gt;サイズ:&lt;g55&gt;&lt;g56&gt;&lt;g57&gt;&lt;/&lt;/g57&gt;dt&lt;/g56&gt;&lt;g58&gt;&gt;&lt;/g58&gt;&lt;/g55&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3800,8 +3820,8 @@ Price:　→価格：</note>
       <tuv lang="EN-US">
         <seg>&lt;g59&gt;&lt;g60&gt;&lt;g61&gt;&lt;&lt;/g61&gt;dd&lt;/g60&gt;&lt;g62&gt;&gt;&lt;/g62&gt;&lt;/g59&gt;30cm × 90cm&lt;g63&gt;&lt;g64&gt;&lt;g65&gt;&lt;/&lt;/g65&gt;dd&lt;/g64&gt;&lt;g66&gt;&gt;&lt;/g66&gt;&lt;/g63&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223926Z" creationid="rikiha" creationdate="20170909T223926Z">
-        <seg>&lt;g59&gt;&lt;g60&gt;&lt;g61&gt;&lt;&lt;/g61&gt;dd&lt;/g60&gt;&lt;g62&gt;&gt;&lt;/g62&gt;&lt;/g59&gt;35.95ユーロ&lt;g63&gt;&lt;g64&gt;&lt;g65&gt;&lt;/&lt;/g65&gt;dd&lt;/g64&gt;&lt;g66&gt;&gt;&lt;/g66&gt;&lt;/g63&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124759Z" creationid="rikiha" creationdate="20170909T223926Z">
+        <seg>&lt;g59&gt;&lt;g60&gt;&lt;g61&gt;&lt;&lt;/g61&gt;dd&lt;/g60&gt;&lt;g62&gt;&gt;&lt;/g62&gt;&lt;/g59&gt;30cm × 90cm&lt;g63&gt;&lt;g64&gt;&lt;g65&gt;&lt;/&lt;/g65&gt;dd&lt;/g64&gt;&lt;g66&gt;&gt;&lt;/g66&gt;&lt;/g63&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3887,8 +3907,8 @@ Price:　→価格：</note>
       <tuv lang="EN-US">
         <seg>&lt;g67&gt;&lt;g68&gt;&lt;g69&gt;&lt;&lt;/g69&gt;dt&lt;/g68&gt;&lt;g70&gt;&gt;&lt;/g70&gt;&lt;/g67&gt;Price:&lt;g71&gt;&lt;g72&gt;&lt;g73&gt;&lt;/&lt;/g73&gt;dt&lt;/g72&gt;&lt;g74&gt;&gt;&lt;/g74&gt;&lt;/g71&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223927Z" creationid="rikiha" creationdate="20170909T223927Z">
-        <seg>&lt;g66&gt;&lt;g67&gt;&lt;g68&gt;&lt;&lt;/g68&gt;dt&lt;/g67&gt;&lt;g69&gt;&gt;&lt;/g69&gt;&lt;/g66&gt;価格:&lt;g70&gt;&lt;g71&gt;&lt;g72&gt;&lt;/&lt;/g72&gt;dt&lt;/g71&gt;&lt;g73&gt;&gt;&lt;/g73&gt;&lt;/g70&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124809Z" creationid="rikiha" creationdate="20170909T223927Z">
+        <seg>&lt;g67&gt;&lt;g68&gt;&lt;g69&gt;&lt;&lt;/g69&gt;dt&lt;/g68&gt;&lt;g70&gt;&gt;&lt;/g70&gt;&lt;/g67&gt;価格:&lt;g71&gt;&lt;g72&gt;&lt;g73&gt;&lt;/&lt;/g73&gt;dt&lt;/g72&gt;&lt;g74&gt;&gt;&lt;/g74&gt;&lt;/g71&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4032,8 +4052,8 @@ Price:　→価格：</note>
       <tuv lang="EN-US">
         <seg>&lt;g75&gt;&lt;g76&gt;&lt;g77&gt;&lt;&lt;/g77&gt;dd&lt;/g76&gt;&lt;g78&gt;&gt;&lt;/g78&gt;&lt;/g75&gt;€35.95&lt;g79&gt;&lt;g80&gt;&lt;g81&gt;&lt;/&lt;/g81&gt;dd&lt;/g80&gt;&lt;g82&gt;&gt;&lt;/g82&gt;&lt;/g79&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223927Z" creationid="rikiha" creationdate="20170909T223927Z">
-        <seg>&lt;g59&gt;&lt;g60&gt;&lt;g61&gt;&lt;&lt;/g61&gt;dd&lt;/g60&gt;&lt;g62&gt;&gt;&lt;/g62&gt;&lt;/g59&gt;35.95ユーロ&lt;g63&gt;&lt;g64&gt;&lt;g65&gt;&lt;/&lt;/g65&gt;dd&lt;/g64&gt;&lt;g66&gt;&gt;&lt;/g66&gt;&lt;/g63&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124821Z" creationid="rikiha" creationdate="20170909T223927Z">
+        <seg>&lt;g75&gt;&lt;g76&gt;&lt;g77&gt;&lt;&lt;/g77&gt;dd&lt;/g76&gt;&lt;g78&gt;&gt;&lt;/g78&gt;&lt;/g75&gt;35.95ユーロ&lt;g79&gt;&lt;g80&gt;&lt;g81&gt;&lt;/&lt;/g81&gt;dd&lt;/g80&gt;&lt;g82&gt;&gt;&lt;/g82&gt;&lt;/g79&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,8 +4178,8 @@ Price:　→価格：</note>
       <tuv lang="EN-US">
         <seg>&lt;g83&gt;&lt;g84&gt;&lt;g85&gt;&lt;&lt;/g85&gt;dt&lt;/g84&gt;&lt;g86&gt;&gt;&lt;/g86&gt;&lt;/g83&gt;Rating:&lt;g87&gt;&lt;g88&gt;&lt;g89&gt;&lt;/&lt;/g89&gt;dt&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g87&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223928Z" creationid="rikiha" creationdate="20170909T223928Z">
-        <seg>&lt;g82&gt;&lt;g83&gt;&lt;g84&gt;&lt;&lt;/g84&gt;dt&lt;/g83&gt;&lt;g85&gt;&gt;&lt;/g85&gt;&lt;/g82&gt;評価:&lt;g86&gt;&lt;g87&gt;&lt;g88&gt;&lt;/&lt;/g88&gt;dt&lt;/g87&gt;&lt;g89&gt;&gt;&lt;/g89&gt;&lt;/g86&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124833Z" creationid="rikiha" creationdate="20170909T223928Z">
+        <seg>&lt;g83&gt;&lt;g84&gt;&lt;g85&gt;&lt;&lt;/g85&gt;dt&lt;/g84&gt;&lt;g86&gt;&gt;&lt;/g86&gt;&lt;/g83&gt;評価:&lt;g87&gt;&lt;g88&gt;&lt;g89&gt;&lt;/&lt;/g89&gt;dt&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g87&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4230,8 +4250,8 @@ Price:　→価格：</note>
       <tuv lang="EN-US">
         <seg>&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;&lt;/g93&gt;dd&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;&lt;g95&gt;&lt;g96&gt;&lt;g97&gt;&lt;&lt;/g97&gt;img&lt;/g96&gt; &lt;g98&gt;src&lt;/g98&gt;&lt;g99&gt;&lt;g100&gt;=&lt;/g100&gt;"/images/rating_4_5.svg"&lt;/g99&gt; &lt;g101&gt;alt&lt;/g101&gt;&lt;g102&gt;&lt;g103&gt;=&lt;/g103&gt;""&lt;/g102&gt;&lt;g104&gt;&gt;&lt;/g104&gt;&lt;/g95&gt;4 out of 5 stars&lt;g105&gt;&lt;g106&gt;&lt;g107&gt;&lt;/&lt;/g107&gt;dd&lt;/g106&gt;&lt;g108&gt;&gt;&lt;/g108&gt;&lt;/g105&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223928Z" creationid="rikiha" creationdate="20170909T223928Z">
-        <seg>&lt;g90&gt;&lt;g91&gt;&lt;g92&gt;&lt;&lt;/g92&gt;dd&lt;/g91&gt;&lt;g93&gt;&gt;&lt;/g93&gt;&lt;/g90&gt;&lt;g94&gt;&lt;g95&gt;&lt;g96&gt;&lt;&lt;/g96&gt;img&lt;/g95&gt; &lt;g97&gt;src&lt;/g97&gt;&lt;g98&gt;&lt;g99&gt;=&lt;/g99&gt;"/images/rating_4_5.svg"&lt;/g98&gt; &lt;g100&gt;alt&lt;/g100&gt;&lt;g101&gt;&lt;g102&gt;=&lt;/g102&gt;""&lt;/g101&gt;&lt;g103&gt;&gt;&lt;/g103&gt;&lt;/g94&gt;5つ星のうち 4&lt;g104&gt;&lt;g105&gt;&lt;g106&gt;&lt;/&lt;/g106&gt;dd&lt;/g105&gt;&lt;g107&gt;&gt;&lt;/g107&gt;&lt;/g104&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124851Z" creationid="rikiha" creationdate="20170909T223928Z">
+        <seg>&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;&lt;/g93&gt;dd&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;&lt;g95&gt;&lt;g96&gt;&lt;g97&gt;&lt;&lt;/g97&gt;img&lt;/g96&gt; &lt;g98&gt;src&lt;/g98&gt;&lt;g99&gt;&lt;g100&gt;=&lt;/g100&gt;"/images/rating_4_5.svg"&lt;/g99&gt; &lt;g101&gt;alt&lt;/g101&gt;&lt;g102&gt;&lt;g103&gt;=&lt;/g103&gt;""&lt;/g102&gt;&lt;g104&gt;&gt;&lt;/g104&gt;&lt;/g95&gt;5つ星のうち 4&lt;g105&gt;&lt;g106&gt;&lt;g107&gt;&lt;/&lt;/g107&gt;dd&lt;/g106&gt;&lt;g108&gt;&gt;&lt;/g108&gt;&lt;/g105&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7711,9 +7731,8 @@ versus はそのまま vs としてもいいかも。
       <tuv lang="EN-US">
         <seg>Buy &lt;g123&gt;&lt;g124&gt;&lt;g125&gt;&lt;&lt;/g125&gt;span&lt;/g124&gt; &lt;g126&gt;class&lt;/g126&gt;&lt;g127&gt;&lt;g128&gt;=&lt;/g128&gt;"visually-hidden"&lt;/g127&gt;&lt;g129&gt;&gt;&lt;/g129&gt;&lt;/g123&gt;Naked Man In Garage Forecourt&lt;g130&gt;&lt;g131&gt;&lt;g132&gt;&lt;/&lt;/g132&gt;span&lt;/g131&gt;&lt;g133&gt;&gt;&lt;/g133&gt;&lt;/g130&gt; Now</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223933Z" creationid="rikiha" creationdate="20170909T223933Z">
-        <seg>&lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;&lt;/g14&gt;span&lt;/g13&gt; &lt;g15&gt;class&lt;/g15&gt;&lt;g16&gt;&lt;g17&gt;=&lt;/g17&gt;"visually-hidden"&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g12&gt;ガソリンスタンドにたたずむ裸の男を&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;/&lt;/g21&gt;span&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;今すぐ購入
-&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;a&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;&lt;/g1&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T124957Z" creationid="rikiha" creationdate="20170909T223933Z">
+        <seg>&lt;g123&gt;&lt;g124&gt;&lt;g125&gt;&lt;&lt;/g125&gt;span&lt;/g124&gt; &lt;g126&gt;class&lt;/g126&gt;&lt;g127&gt;&lt;g128&gt;=&lt;/g128&gt;"visually-hidden"&lt;/g127&gt;&lt;g129&gt;&gt;&lt;/g129&gt;&lt;/g123&gt;ガソリンスタンドにたたずむ裸の男を&lt;g130&gt;&lt;g131&gt;&lt;g132&gt;&lt;/&lt;/g132&gt;span&lt;/g131&gt;&lt;g133&gt;&gt;&lt;/g133&gt;&lt;/g130&gt;今すぐ購入</seg>
       </tuv>
     </tu>
     <tu>
