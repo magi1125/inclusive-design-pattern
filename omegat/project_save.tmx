@@ -17308,8 +17308,8 @@ OK
       <tuv lang="EN-US">
         <seg>Note that most implementations &lt;g1&gt;only&lt;/g1&gt; remove focus from the button, and don’t move it elsewhere.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T105847Z" creationid="rikiha" creationdate="20170909T223843Z">
-        <seg>その場合、たいていのブラウザの実装では、ボタンからフォーカスが外れる&lt;g1&gt;だけ&lt;/g1&gt;で、別のところにフォーカスを移動しないことに注意してください。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T110935Z" creationid="rikiha" creationdate="20170909T223843Z">
+        <seg>たいていのブラウザの実装では、ボタンからフォーカスが外れる&lt;g1&gt;だけ&lt;/g1&gt;で、別のところにフォーカスを移動しないことに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25446,8 +25446,8 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
       <tuv lang="EN-US">
         <seg>This results in what’s sometimes called &lt;g2&gt;freak out mode&lt;/g2&gt; whereby the browser doesn’t know what to focus and defaults to focusing the document body.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T110832Z" creationid="rikiha" creationdate="20170909T223901Z">
-        <seg>その結果、ブラウザは「&lt;g2&gt;フリークアウトモード&lt;/g2&gt;」とも呼ばれる、何をフォーカスしていいか分からない状態となり、ドキュメント本文へのフォーカスがデフォルトとなります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T111054Z" creationid="rikiha" creationdate="20170909T223901Z">
+        <seg>結果として、ブラウザは「&lt;g2&gt;フリークアウトモード&lt;/g2&gt;」とも呼ばれる、何をフォーカスしていいか分からない状態となり、ドキュメント本文へのフォーカスがデフォルトとなります。</seg>
       </tuv>
     </tu>
     <tu>
