@@ -18487,12 +18487,12 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 要検討。the user’s view とはどの状態を指しているのか。</note>
+      <note>(伊原) フォーカスを持ったままボタンが居なくなって困る、という話なのでそのように修正。</note>
       <tuv lang="EN-US">
         <seg>Otherwise, the user’s view will not change and focus will remain on the &lt;g2&gt;data-load-more&lt;/g2&gt; button which has now been pushed off-screen by the added content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T101740Z" creationid="rikiha" creationdate="20170909T223842Z">
-        <seg>そうでないと、ユーザーが目にするものは変わらず、追加されたコンテンツによって画面から押し出されたdata-load-moreボタンがフォーカスされたままになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170916T105201Z" creationid="rikiha" creationdate="20170909T223842Z">
+        <seg>そうでなければ、フォーカスされたままのdata-load-moreボタンが、表示に変化を起こさずに、追加コンテンツによって画面外に押し出されることになります。</seg>
       </tuv>
     </tu>
     <tu>
