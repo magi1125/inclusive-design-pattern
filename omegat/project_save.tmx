@@ -22932,6 +22932,15 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>The left button says “load more” and the right button says “loading” with the loading symbol.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T002833Z" creationid="rikiha" creationdate="20170917T002732Z">
+        <seg>左のボタンには「もっと読み込む」というテキスト、右のボタンには「読み込み中」というテキストと読み込み中アイコンが表示されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (伊原) 下訳を反映</note>
@@ -23506,6 +23515,15 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T224257Z" creationid="rikiha" creationdate="20170909T224257Z">
         <seg>forceFeed.jsにはもう1つの特徴があり、並べる項目数の範囲をスクリプトに加えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>The second button is disabled so grayed out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T002739Z" creationid="rikiha" creationdate="20170917T002739Z">
+        <seg>右のボタンは無効になっているのでグレーアウトされている。</seg>
       </tuv>
     </tu>
     <tu>
