@@ -388,8 +388,8 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;A hidden live region announces, “Loading more products.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170917T001436Z" creationid="rikiha" creationdate="20170909T223941Z">
-        <seg>目には見えないライブリージョンが「さらに商品を読み込み中」と読み上げる。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T002413Z" creationid="rikiha" creationdate="20170909T223941Z">
+        <seg>&lt;/g1&gt;目には見えないライブリージョンが「さらに商品を読み込み中」と読み上げる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,8 +419,8 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Focus is moved from the button to the first of the newly loaded product items.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170917T001748Z" creationid="rikiha" creationdate="20170909T223945Z">
-        <seg>ボタンから、新たに読み込まれた商品の最初の項目にフォーカスが移動する。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T002426Z" creationid="rikiha" creationdate="20170909T223945Z">
+        <seg>&lt;/g1&gt;ボタンから、新たに読み込まれた商品の最初の項目にフォーカスが移動する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -492,8 +492,8 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;On success, the content is rendered.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170917T001459Z" creationid="rikiha" creationdate="20170909T223943Z">
-        <seg>成功すると、コンテンツが表示される。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T002418Z" creationid="rikiha" creationdate="20170909T223943Z">
+        <seg>&lt;/g1&gt;成功すると、コンテンツが表示される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -559,8 +559,8 @@ chapter-23の議論で「ユーザーに制御させる」とすることにし�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The XHR is handled.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170917T001449Z" creationid="rikiha" creationdate="20170909T223942Z">
-        <seg>XHRが処理される。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T002416Z" creationid="rikiha" creationdate="20170909T223942Z">
+        <seg>&lt;/g1&gt;XHRが処理される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -583,8 +583,8 @@ Theを重視するなら「テスト対象の」と補うのもありか。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The button’s text is changed to “Loading:” and is set to handle no further clicks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T235022Z" creationid="rikiha" creationdate="20170909T223939Z">
-        <seg>ボタンのテキストが「読み込み中」に代わり、それ以上クリックを受け付けないよう設定される。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T002409Z" creationid="rikiha" creationdate="20170909T223939Z">
+        <seg>&lt;/g1&gt;ボタンのテキストが「読み込み中」に代わり、それ以上クリックを受け付けないよう設定される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -615,8 +615,8 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The live region announces, “Products loaded.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170917T001523Z" creationid="rikiha" creationdate="20170909T223944Z">
-        <seg>ライブリージョンが「商品が読み込まれました」と読み上げる。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T002421Z" creationid="rikiha" creationdate="20170909T223944Z">
+        <seg>&lt;/g1&gt;ライブリージョンが「商品が読み込まれました」と読み上げる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -637,8 +637,8 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The user clicks the “Load more” button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T225704Z" creationid="rikiha" creationdate="20170909T223938Z">
-        <seg>ユーザーが「もっと読み込む」ボタンをクリックする。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T002406Z" creationid="rikiha" creationdate="20170909T223938Z">
+        <seg>&lt;/g1&gt;ユーザーが「もっと読み込む」ボタンをクリックする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -653,11 +653,12 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ニュアンスを補足。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The “Load more” button has its original text node reinstated and &lt;g2&gt;click&lt;/g2&gt; events are handled again.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223946Z" creationid="rikiha" creationdate="20170909T223946Z">
-        <seg>8.「もっと読み込む」ボタンが元のテキストノードに戻り、clickイベントがまた処理される。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T002555Z" creationid="rikiha" creationdate="20170909T223946Z">
+        <seg>&lt;/g1&gt;「もっと読み込む」ボタンが元のテキストノードに戻り、&lt;g2&gt;clickイベント&lt;/g2&gt;も再度処理されるようになる。</seg>
       </tuv>
     </tu>
     <tu>
