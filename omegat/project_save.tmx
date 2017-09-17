@@ -487,11 +487,12 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;On success, the content is rendered.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223943Z" creationid="rikiha" creationdate="20170909T223943Z">
-        <seg>5.成功すると、コンテンツが表示される。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T001459Z" creationid="rikiha" creationdate="20170909T223943Z">
+        <seg>成功すると、コンテンツが表示される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -553,11 +554,12 @@ chapter-23の議論で「ユーザーに制御させる」とすることにし�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The XHR is handled.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223942Z" creationid="rikiha" creationdate="20170909T223942Z">
-        <seg>4.XHRが処理される。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T001449Z" creationid="rikiha" creationdate="20170909T223942Z">
+        <seg>XHRが処理される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,11 +610,12 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The live region announces, “Products loaded.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223944Z" creationid="rikiha" creationdate="20170909T223944Z">
-        <seg>6.ライブリージョンが「＃＃商品が読み込まれました＃＃」と読み上げる。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T001523Z" creationid="rikiha" creationdate="20170909T223944Z">
+        <seg>ライブリージョンが「商品が読み込まれました」と読み上げる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1071,6 +1074,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170613T075142Z" creationid="yoota" creationdate="20170613T075142Z">
         <seg>n&lt;g1&gt;37.&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip.html&lt;/g3&gt;&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;6.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T001506Z" creationid="rikiha" creationdate="20170917T001506Z">
+        <seg>&lt;g1&gt;6</seg>
       </tuv>
     </tu>
     <tu>
