@@ -415,11 +415,12 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 誤読しないよう読点と語順など調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Focus is moved from the button to the first of the newly loaded product items.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223945Z" creationid="rikiha" creationdate="20170909T223945Z">
-        <seg>7.フォーカスがボタンから新たに読み込まれた1番目の商品に移動する。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170917T001748Z" creationid="rikiha" creationdate="20170909T223945Z">
+        <seg>ボタンから、新たに読み込まれた商品の最初の項目にフォーカスが移動する。</seg>
       </tuv>
     </tu>
     <tu>
