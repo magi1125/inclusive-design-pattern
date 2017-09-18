@@ -1625,7 +1625,7 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) allowingなのでそのような感じに。somethingは略しました。</note>
+      <note>(伊原) allowingなのでそのような感じに。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Choice&lt;/g2&gt;: Allowing the user to decide how they want to consume something.</seg>
       </tuv>
@@ -6003,8 +6003,8 @@ App by (c)heydonworks＝まま</note>
       <tuv lang="EN-US">
         <seg>An audacious act, and foolhardy given the inevitable diversity of your audience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T015858Z" creationid="rikiha" creationdate="20170909T224000Z">
-        <seg>これは厚かましい行為であり、ユーザーの必然的な多様性を考えると無謀です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T042457Z" creationid="rikiha" creationdate="20170909T224000Z">
+        <seg>ユーザーが多様なのは必然であることを考えると、厚かましく無謀な行いです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26124,8 +26124,8 @@ explicitlyを訳出したいかも。「明示的に」としました。
       <tuv lang="EN-US">
         <seg>To complete our filtering widget pattern, we’re going to give our users a choice over the way the filtered content is displayed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224004Z" creationid="rikiha" creationdate="20170909T224004Z">
-        <seg>フィルタウィジェットのパターンを完成させるために、フィルタが適用されたコンテンツの表示方法をユーザーが選択できるようにします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T042150Z" creationid="rikiha" creationdate="20170909T224004Z">
+        <seg>フィルタウィジェットのパターンを完成させるために、フィルタリングされたコンテンツの表示方法をユーザーが選択できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
