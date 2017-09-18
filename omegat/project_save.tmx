@@ -981,6 +981,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g163&gt;&lt;g164&gt;&lt;g165&gt;&lt;&lt;/g165&gt;text&lt;/g164&gt; &lt;g166&gt;class&lt;/g166&gt;&lt;g167&gt;&lt;g168&gt;=&lt;/g168&gt;"visually-hidden"&lt;/g167&gt;&lt;g169&gt;&gt;&lt;/g169&gt;&lt;/g163&gt;a list&lt;g170&gt;&lt;g171&gt;&lt;g172&gt;&lt;/&lt;/g172&gt;text&lt;/g171&gt;&lt;g173&gt;&gt;&lt;/g173&gt;&lt;/g170&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T045721Z" creationid="rikiha" creationdate="20170918T045721Z">
+        <seg>&lt;g163&gt;&lt;g164&gt;&lt;g165&gt;&lt;&lt;/g165&gt;text&lt;/g164&gt; &lt;g166&gt;class&lt;/g166&gt;&lt;g167&gt;&lt;g168&gt;=&lt;/g168&gt;"visually-hidden"&lt;/g167&gt;&lt;g169&gt;&gt;&lt;/g169&gt;&lt;/g163&gt;リスト&lt;g170&gt;&lt;g171&gt;&lt;g172&gt;&lt;/&lt;/g172&gt;text&lt;/g171&gt;&lt;g173&gt;&gt;&lt;/g173&gt;&lt;/g170&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)
 下訳：&lt;span itemprop="ratingValue"&gt;4&lt;/span&gt;つ星、レビュー数&lt;span itemprop="reviewCount"&gt;13&lt;/span&gt;
 
@@ -1042,8 +1050,8 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       <tuv lang="EN-US">
         <seg>&lt;g178&gt;&lt;g179&gt;&lt;g180&gt;&lt;/&lt;/g180&gt;label&lt;/g179&gt;&lt;g181&gt;&gt;&lt;/g181&gt;&lt;/g178&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224019Z" creationid="rikiha" creationdate="20170909T224019Z">
-        <seg>ラベルづけ</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T045728Z" creationid="rikiha" creationdate="20170909T224019Z">
+        <seg>&lt;g178&gt;&lt;g179&gt;&lt;g180&gt;&lt;/&lt;/g180&gt;label&lt;/g179&gt;&lt;g181&gt;&gt;&lt;/g181&gt;&lt;/g178&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3375,10 +3383,18 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g222&gt;&lt;g223&gt;&lt;g224&gt;&lt;&lt;/g224&gt;text&lt;/g223&gt; &lt;g225&gt;class&lt;/g225&gt;&lt;g226&gt;&lt;g227&gt;=&lt;/g227&gt;"visually-hidden"&lt;/g226&gt;&lt;g228&gt;&gt;&lt;/g228&gt;&lt;/g222&gt;a grid&lt;g229&gt;&lt;g230&gt;&lt;g231&gt;&lt;/&lt;/g231&gt;text&lt;/g230&gt;&lt;g232&gt;&gt;&lt;/g232&gt;&lt;/g229&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T045750Z" creationid="rikiha" creationdate="20170918T045750Z">
+        <seg>&lt;g222&gt;&lt;g223&gt;&lt;g224&gt;&lt;&lt;/g224&gt;text&lt;/g223&gt; &lt;g225&gt;class&lt;/g225&gt;&lt;g226&gt;&lt;g227&gt;=&lt;/g227&gt;"visually-hidden"&lt;/g226&gt;&lt;g228&gt;&gt;&lt;/g228&gt;&lt;/g222&gt;グリッド&lt;g229&gt;&lt;g230&gt;&lt;g231&gt;&lt;/&lt;/g231&gt;text&lt;/g230&gt;&lt;g232&gt;&gt;&lt;/g232&gt;&lt;/g229&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g237&gt;&lt;g238&gt;&lt;g239&gt;&lt;/&lt;/g239&gt;label&lt;/g238&gt;&lt;g240&gt;&gt;&lt;/g240&gt;&lt;/g237&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224020Z" creationid="rikiha" creationdate="20170909T224020Z">
-        <seg>ラベルづけ</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T045753Z" creationid="rikiha" creationdate="20170909T224020Z">
+        <seg>&lt;g237&gt;&lt;g238&gt;&lt;g239&gt;&lt;/&lt;/g239&gt;label&lt;/g238&gt;&lt;g240&gt;&gt;&lt;/g240&gt;&lt;/g237&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3412,6 +3428,16 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134416Z" creationid="rikiha" creationdate="20170809T134416Z">
         <seg>&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;&lt;/g26&gt;li&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;&lt;g28&gt;&lt;g29&gt;&lt;g30&gt;&lt;&lt;/g30&gt;a&lt;/g29&gt; &lt;g31&gt;href&lt;/g31&gt;&lt;g32&gt;&lt;g33&gt;=&lt;/g33&gt;"#history"&lt;/g32&gt;&lt;g34&gt;&gt;&lt;/g34&gt;&lt;/g28&gt;沿革&lt;g35&gt;&lt;g36&gt;&lt;g37&gt;&lt;/&lt;/g37&gt;a&lt;/g36&gt;&lt;g38&gt;&gt;&lt;/g38&gt;&lt;/g35&gt;&lt;g39&gt;&lt;g40&gt;&lt;g41&gt;&lt;/&lt;/g41&gt;li&lt;/g40&gt;&lt;g42&gt;&gt;&lt;/g42&gt;&lt;/g39&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g261&gt;&lt;g262&gt;&lt;g263&gt;&lt;&lt;/g263&gt;button&lt;/g262&gt; &lt;g264&gt;type&lt;/g264&gt;&lt;g265&gt;&lt;g266&gt;=&lt;/g266&gt;"submit"&lt;/g265&gt;&lt;g267&gt;&gt;&lt;/g267&gt;&lt;/g261&gt;apply&lt;g268&gt;&lt;g269&gt;&lt;g270&gt;&lt;/&lt;/g270&gt;button&lt;/g269&gt;&lt;g271&gt;&gt;&lt;/g271&gt;&lt;/g268&gt;
+&lt;g272&gt;&lt;g273&gt;&lt;g274&gt;&lt;/&lt;/g274&gt;form&lt;/g273&gt;&lt;g275&gt;&gt;&lt;/g275&gt;&lt;/g272&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T045811Z" creationid="rikiha" creationdate="20170918T045811Z">
+        <seg>&lt;g261&gt;&lt;g262&gt;&lt;g263&gt;&lt;&lt;/g263&gt;button&lt;/g262&gt; &lt;g264&gt;type&lt;/g264&gt;&lt;g265&gt;&lt;g266&gt;=&lt;/g266&gt;"submit"&lt;/g265&gt;&lt;g267&gt;&gt;&lt;/g267&gt;&lt;/g261&gt;適用&lt;g268&gt;&lt;g269&gt;&lt;g270&gt;&lt;/&lt;/g270&gt;button&lt;/g269&gt;&lt;g271&gt;&gt;&lt;/g271&gt;&lt;/g268&gt;
+&lt;g272&gt;&lt;g273&gt;&lt;g274&gt;&lt;/&lt;/g274&gt;form&lt;/g273&gt;&lt;g275&gt;&gt;&lt;/g275&gt;&lt;/g272&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
