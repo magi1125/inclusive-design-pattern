@@ -9063,8 +9063,8 @@ draw onは経験を活かすような意味。
       <tuv lang="EN-US">
         <seg>Each item will try to be 10em wide but will &lt;g3&gt;flex&lt;/g3&gt; to share the available space completely (see &lt;g4&gt;flex-grow&lt;/g4&gt; and &lt;g5&gt;flex-shrink&lt;/g5&gt; below).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T103641Z" creationid="rikiha" creationdate="20170909T224040Z">
-        <seg>各項目は幅10emになろうとしつつ、しかし利用可能なスペースを余さずに分け合うべく&lt;g3&gt;伸縮（flex）&lt;/g3&gt;するでしょう（後述のflex-growとflex-shrinkの解説を参照）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T103753Z" creationid="rikiha" creationdate="20170909T224040Z">
+        <seg>各項目は幅10emになろうとしつつ、しかし使えるスペースを余さずに分け合うべく&lt;g3&gt;伸縮（flex）&lt;/g3&gt;するでしょう（後述のflex-growとflex-shrinkの解説を参照）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25488,8 +25488,8 @@ in either direction は無くても分かりますし、逆に混乱しそうな
       <tuv lang="EN-US">
         <seg>This means that the automatic reflow of columns that we’ve established is sensitive to font size.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224041Z" creationid="rikiha" creationdate="20170909T224041Z">
-        <seg>つまり、構築したカラムの自動的なリフローが、フォントサイズの影響を受けます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T105229Z" creationid="rikiha" creationdate="20170909T224041Z">
+        <seg>つまり、文字サイズに反応してカラムが自動的にリフローするように構築されます。</seg>
       </tuv>
     </tu>
     <tu>
