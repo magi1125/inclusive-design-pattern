@@ -27046,12 +27046,12 @@ ourを「先の」などとしつつ調整。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここのinsteadはメディア</note>
+      <note>(伊原) ここのinsteadはa lot of manual media query writingに掛かっていると思われるので、「代わりに」を文頭に移しました。</note>
       <tuv lang="EN-US">
         <seg>Using Flexbox, we can instead use &lt;g1&gt;flex-basis&lt;/g1&gt; to define an ideal width at an element level.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T082215Z" creationid="rikiha" creationdate="20170909T224033Z">
-        <seg>代わりにFlexboxを使えば、flex-basisによって要素レベルで理想的な幅を定義できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T082528Z" creationid="rikiha" creationdate="20170909T224033Z">
+        <seg>代わりにFlexboxを使い、flex-basisを指定すれば、要素レベルで理想的な幅を定義できます。</seg>
       </tuv>
     </tu>
     <tu>
