@@ -9667,8 +9667,8 @@ the を訳出すべきか?
       <tuv lang="EN-US">
         <seg>Float-based CSS layouts are unaffected by this provision.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T140825Z" creationid="rikiha" creationdate="20170909T224123Z">
-        <seg>FloatベースのCSSレイアウトは、この設定の影響を受けません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T141045Z" creationid="rikiha" creationdate="20170909T224123Z">
+        <seg>floatベースのCSSレイアウトは、この設定の影響を受けません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21418,8 +21418,8 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       <tuv lang="EN-US">
         <seg>That is, you have to manually reverse the layout of floated content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T141023Z" creationid="rikiha" creationdate="20170909T224124Z">
-        <seg>つまり、フロート化されたコンテンツのレイアウトは手動で向きを反転させなければなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T141327Z" creationid="rikiha" creationdate="20170909T224124Z">
+        <seg>つまり、floatによるコンテンツのレイアウトの向きは、手動で反転させなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
