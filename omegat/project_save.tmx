@@ -2930,8 +2930,8 @@ social dimension どうするか。定訳としては社会的側面ですがわ
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The list and grid icons are provided as inline SVGs, with visually hidden &lt;g2&gt;&lt;text&gt;&lt;/g2&gt; elements providing each radio button’s screen reader accessible label text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224021Z" creationid="rikiha" creationdate="20170909T224021Z">
-        <seg>•リストとグリッドのアイコンはインラインSVGとして提供され、非表示の&lt;text&gt;要素が、スクリーンリーダーでアクセスできる、各radioボタンのラベルテキストを提供します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T052409Z" creationid="rikiha" creationdate="20170909T224021Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;リストとグリッドのアイコンはインラインSVGとして提供されています。それと共に各ラジオボタンni、スクリーンリーダーでアクセスできるのラベルテキストとして、非表示の&lt;text&gt;要素を提供します。</seg>
       </tuv>
     </tu>
     <tu>
