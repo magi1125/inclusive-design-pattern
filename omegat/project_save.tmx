@@ -20,8 +20,8 @@
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; IE10 and IE11 have an unpleasant bug whereby the children of focusable items within a flex container can become focusable themselves.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T134600Z" creationid="rikiha" creationdate="20170909T224108Z">
-        <seg>（注：IE10とIE11には不快なバグがあり、flexコンテナ内にフォーカス可能な項目があると、その項目の子要素のほうにフォーカスできてしまう場合があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T134617Z" creationid="rikiha" creationdate="20170909T224108Z">
+        <seg>（&lt;g1&gt;注：&lt;/g1&gt;IE10とIE11には不快なバグがあり、flexコンテナ内にフォーカス可能な項目があると、その項目の子要素のほうにフォーカスできてしまう場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3545,8 +3545,8 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       <tuv lang="EN-US">
         <seg>&lt;g2&gt;&lt;g3&gt;The handy a11y.js library has a fix for this&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;15&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T133925Z" creationid="rikiha" creationdate="20170918T133925Z">
-        <seg>これは便利なa11y.jsライブラリで修正できます。）（脚注170）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T134735Z" creationid="rikiha" creationdate="20170918T133925Z">
+        <seg>&lt;g2&gt;&lt;g3&gt;便利なa11y.jsライブラリによって、このバグを修正できます&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注170）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;）</seg>
       </tuv>
     </tu>
     <tu>
