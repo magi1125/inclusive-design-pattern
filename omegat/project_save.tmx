@@ -5068,6 +5068,14 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A Registration Form | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T063005Z" creationid="rikiha" creationdate="20170918T063005Z">
+        <seg>10章：登録フォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) CSSだけでできる◯◯みたいなのの批判かなということで、割と直球タイトルで良さそうな気がします。</note>
       <tuv lang="EN-US">
         <seg>A Robust Disclosure</seg>
@@ -20478,11 +20486,12 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 前の読み上げ例をもとに調整。</note>
       <tuv lang="EN-US">
         <seg>So, if the list item is focused (and selected) it would read, “Display as a list, radio button, selected” or similar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224022Z" creationid="rikiha" creationdate="20170909T224022Z">
-        <seg>したがって、リスト項目がフォーカス（および選択）されると、「＃＃表示方法、リスト、radio button, selected＃＃」などと読み上げられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T063119Z" creationid="rikiha" creationdate="20170909T224022Z">
+        <seg>したがって、リスト項目がフォーカス（および選択）されると、「表示方法 グループ、リスト ラジオボタン、チェックされています、全2個中1個」などと読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
