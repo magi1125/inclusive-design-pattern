@@ -9059,11 +9059,12 @@ draw onは経験を活かすような意味。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) flexのところは括弧書きにしました。</note>
       <tuv lang="EN-US">
         <seg>Each item will try to be 10em wide but will &lt;g3&gt;flex&lt;/g3&gt; to share the available space completely (see &lt;g4&gt;flex-grow&lt;/g4&gt; and &lt;g5&gt;flex-shrink&lt;/g5&gt; below).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224040Z" creationid="rikiha" creationdate="20170909T224040Z">
-        <seg>各項目は幅10emになろうとしますが、利用可能なスペースを余すことなく分かち合うよう伸縮します（下のflex-growとflex-shrinkの説明を参照）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T103502Z" creationid="rikiha" creationdate="20170909T224040Z">
+        <seg>各項目は幅10emになろうとしますが、利用可能なスペースを余さずに分け合うべく&lt;g3&gt;伸縮（flex）&lt;/g3&gt;します（後述のflex-growとflex-shrinkの解説を参照）。</seg>
       </tuv>
     </tu>
     <tu>
