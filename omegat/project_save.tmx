@@ -12005,7 +12005,7 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
     <tu>
       <note>(伊原) 微調整
 
-(太田) Ok</note>
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>If we have a large inventory of products, some search terms and filtering options are likely to match a considerable number of items.</seg>
       </tuv>
@@ -19337,12 +19337,16 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) as well as producing an intimidating and unwieldy page をどうすべきか。長すぎてウッとなったり扱いにくい、ということなのだとは思いますが…。</note>
+      <note>(伊原) as well as producing an intimidating and unwieldy page をどうすべきか。長すぎてウッとなったり扱いにくい、ということなのだとは思いますが…。
+
+(太田)
+まあHJなのでざっくり意訳でも良いとは思います。
+</note>
       <tuv lang="EN-US">
         <seg>Retrieving and rendering all of them at once would cause a serious performance bottleneck, as well as producing an intimidating and unwieldy page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T054808Z" creationid="rikiha" creationdate="20170909T223821Z">
-        <seg>一度ですべて取得して表示すると、パフォーマンスにおける深刻なボトルネックの原因となりやすく、それと同時に威圧感を与える扱いにくいページになってしまいます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170918T150237Z" creationid="rikiha" creationdate="20170909T223821Z">
+        <seg>一度ですべて取得して表示すると、深刻なパフォーマンス上のボトルネックの原因になると同時に、威圧感を与える扱いにくいページになってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
