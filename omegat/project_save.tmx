@@ -1096,6 +1096,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g19&gt;flex-shrink&lt;/g19&gt;&lt;g20&gt;:&lt;/g20&gt; 1&lt;g21&gt;;&lt;/g21&gt; &lt;g22&gt;/* the default value, in fact */&lt;/g22&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T101642Z" creationid="rikiha" creationdate="20170918T101642Z">
+        <seg>&lt;g19&gt;flex-shrink&lt;/g19&gt;&lt;g20&gt;:&lt;/g20&gt; 1&lt;g21&gt;;&lt;/g21&gt; &lt;g22&gt;/*実際にはこれはデフォルト値 */&lt;/g22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;37.&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip.html&lt;/g3&gt;&lt;/g2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170613T075142Z" creationid="yoota" creationdate="20170613T075142Z">
