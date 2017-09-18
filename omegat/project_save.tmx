@@ -2103,8 +2103,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Focusing the selected display option radio button would announce the &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; first, then the &lt;g3&gt;&lt;label&gt;&lt;/g3&gt; and additional information in screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T062854Z" creationid="rikiha" creationdate="20170909T224022Z">
-        <seg>•表示オプションの選択済みのラジオボタンにフォーカスすると、スクリーンリーダーでは、まず&lt;legend&gt;が読み上げられ、次に&lt;label&gt;とその他の情報が読み上げられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T071844Z" creationid="rikiha" creationdate="20170909T224022Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;表示オプションの選択済みのラジオボタンにフォーカスすると、スクリーンリーダーでは、まず&lt;legend&gt;が読み上げられ、次に&lt;label&gt;とその他の情報が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5086,11 +5086,12 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 前に出現したときの言い方に合わせました。</note>
       <tuv lang="EN-US">
         <seg>A Self-Governing Grid</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T071701Z" creationid="rikiha" creationdate="20170918T071701Z">
-        <seg>自律型のグリッド</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T071903Z" creationid="rikiha" creationdate="20170918T071701Z">
+        <seg>自己管理型のグリッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -27794,8 +27795,8 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       <tuv lang="EN-US">
         <seg>What we’ve established is a self-governing grid system.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224044Z" creationid="rikiha" creationdate="20170909T224044Z">
-        <seg>ここで構築してきたのは、自律型のグリッドシステムです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T071832Z" creationid="rikiha" creationdate="20170909T224044Z">
+        <seg>ここで構築してきたのは、自己管理型のグリッドシステムです。</seg>
       </tuv>
     </tu>
     <tu>
