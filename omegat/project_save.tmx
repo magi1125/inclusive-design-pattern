@@ -2824,6 +2824,7 @@ Elements with the role status have an implicit aria-live value of polite and an 
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ensures を保証と訳すか。いったん「意味します」のままで。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-shrink&lt;/g2&gt; value of &lt;g3&gt;1&lt;/g3&gt; (can be omitted, in fact, because it’s the default) ensures items will shrink if needed.</seg>
       </tuv>
