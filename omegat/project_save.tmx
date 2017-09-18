@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19896,8 +19896,8 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       <tuv lang="EN-US">
         <seg>Should you, despite the right-to-left direction setting, want your grid to be laid out in a left-to-right configuration, you can force this using the CSS &lt;g1&gt;direction&lt;/g1&gt; property on the flex container:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T143020Z" creationid="rikiha" creationdate="20170909T224152Z">
-        <seg>ドキュメントが右から左の方向設定にもかかわらず、グリッドを左から右の設定で配置したい場合は、flexコンテナに対してCSSのdirectionプロパティを指定し、強制的に左寄せにできます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T223656Z" creationid="rikiha" creationdate="20170909T224152Z">
+        <seg>右から左の方向設定にもかかわらず、グリッドを左から右の設定で配置したい場合は、flexコンテナに対してCSSのdirectionプロパティを指定することで強制的に左寄せにできます。</seg>
       </tuv>
     </tu>
     <tu>
