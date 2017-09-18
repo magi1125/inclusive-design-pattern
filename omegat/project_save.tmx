@@ -6327,8 +6327,8 @@ proxy elementは力強く削除してしまったほうが分かりやすそう�
       <tuv lang="EN-US">
         <seg>Any flex container inside a document with &lt;g1&gt;dir&lt;/g1&gt; set to &lt;g2&gt;rtl&lt;/g2&gt; will display each row of content from right to left as expected: it switches the &lt;g3&gt;row&lt;/g3&gt; and &lt;g4&gt;row-reverse&lt;/g4&gt; values of the &lt;g5&gt;flex-direction&lt;/g5&gt; property.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224201Z" creationid="rikiha" creationdate="20170909T224201Z">
-        <seg>dirがrtlに設定されたドキュメント内のflexコンテナはすべて、コンテンツの各行を期待通り右から左に表示します。flex-directionプロパティのrow値とrow-reverse値を置き換えるのです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T142303Z" creationid="rikiha" creationdate="20170909T224201Z">
+        <seg>&lt;g1&gt;dir&lt;/g1&gt;が&lt;g2&gt;rtl&lt;/g2&gt;に設定されたドキュメント内のすべてのflexコンテナは、コンテンツの各行を、期待通りに右から左に表示します。&lt;g5&gt;flex-directionプロパティ&lt;/g5&gt;で&lt;g3&gt;row&lt;/g3&gt;を&lt;g4&gt;row-reverse&lt;/g4&gt;に置き換えるのです。</seg>
       </tuv>
     </tu>
     <tu>
