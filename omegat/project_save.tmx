@@ -9663,11 +9663,12 @@ the を訳出すべきか?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整</note>
       <tuv lang="EN-US">
         <seg>Float-based CSS layouts are unaffected by this provision.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224123Z" creationid="rikiha" creationdate="20170909T224123Z">
-        <seg>FloatベースのCSSレイアウトは、この設定に影響を受けません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T140825Z" creationid="rikiha" creationdate="20170909T224123Z">
+        <seg>FloatベースのCSSレイアウトは、この設定の影響を受けません。</seg>
       </tuv>
     </tu>
     <tu>
