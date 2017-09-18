@@ -2817,8 +2817,8 @@ Elements with the role status have an implicit aria-live value of polite and an 
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-grow&lt;/g2&gt; value of &lt;g3&gt;1&lt;/g3&gt; means items will grow beyond the 10em width to fill the available space.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224042Z" creationid="rikiha" creationdate="20170909T224042Z">
-        <seg>•flex-grow値が1というのは、項目の幅が10em以上になって利用可能なスペースを埋めることを意味します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T113242Z" creationid="rikiha" creationdate="20170909T224042Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;flex-growno1というのは、項目の幅が10em以上になって利用可能なスペースを埋めることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
