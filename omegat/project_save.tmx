@@ -2827,8 +2827,8 @@ Elements with the role status have an implicit aria-live value of polite and an 
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-shrink&lt;/g2&gt; value of &lt;g3&gt;1&lt;/g3&gt; (can be omitted, in fact, because it’s the default) ensures items will shrink if needed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T113550Z" creationid="rikiha" creationdate="20170909T224042Z">
-        <seg> &lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-shrink&lt;/g2&gt;の&lt;g3&gt;1&lt;/g3&gt;という値（デフォルトなので省略可能）というのは、必要に応じて項目の幅が狭くなることを意味します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T113712Z" creationid="rikiha" creationdate="20170909T224042Z">
+        <seg> &lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-shrink&lt;/g2&gt;の&lt;g3&gt;1&lt;/g3&gt;という値（デフォルトなので実際は省略可能）というのは、必要に応じて項目の幅が狭くなることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
