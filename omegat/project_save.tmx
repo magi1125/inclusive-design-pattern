@@ -8210,8 +8210,8 @@ the page information が何をさすのか良くわからない。タイトル�
       <tuv lang="EN-US">
         <seg>By switching on &lt;g2&gt;flex-grow&lt;/g2&gt; and &lt;g3&gt;flex-shrink&lt;/g3&gt;, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224034Z" creationid="rikiha" creationdate="20170909T224034Z">
-        <seg>flex-growとflex-shrinkをオンにすることによって、グリッド要素を展開したり折りたたむことができ、無限の範囲のビューポートで、この理想的で完全かつ順序正しいグリッドを維持することができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T100539Z" creationid="rikiha" creationdate="20170909T224034Z">
+        <seg>flex-growとflex-shrinkを切り替えることで、理想的な幅を基準にしてグリッドの要素を広げたり縮めたりできます。これにより、どういったビューポートの幅に対しても完全かつ規則的なグリッドを維持できるのです。</seg>
       </tuv>
     </tu>
     <tu>
