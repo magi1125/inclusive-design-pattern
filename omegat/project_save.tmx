@@ -2099,11 +2099,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Focusing the selected display option radio button would announce the &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; first, then the &lt;g3&gt;&lt;label&gt;&lt;/g3&gt; and additional information in screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T052411Z" creationid="rikiha" creationdate="20170909T224022Z">
-        <seg>t•選択した表示オプションのradioボタンをフォーカスすると、スクリーンリーダーでは、まず&lt;legend&gt;が読み上げられ、次に&lt;label&gt;とその他の情報が読み上げられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T062854Z" creationid="rikiha" creationdate="20170909T224022Z">
+        <seg>•表示オプションの選択済みのラジオボタンにフォーカスすると、スクリーンリーダーでは、まず&lt;legend&gt;が読み上げられ、次に&lt;label&gt;とその他の情報が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
