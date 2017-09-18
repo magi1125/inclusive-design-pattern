@@ -8860,6 +8860,7 @@ https://momdo.github.io/html/interaction.html#sequential-focus-navigation
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Display Options</seg>
       </tuv>
@@ -23941,12 +23942,12 @@ Theを訳出する必要があるのかどうか若干悩ましいですがマ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 2文に分けつつ調整。前半がちょっと堅いか。</note>
+      <note>(伊原) 2文に分けつつ調整。</note>
       <tuv lang="EN-US">
         <seg>The “Load more” button invites the user to take an explicit, labeled action at their convenience and therefore conforms to the second of Henny Swan’s UX principles, to &lt;g1&gt;give users control&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T001716Z" creationid="rikiha" creationdate="20170909T223951Z">
-        <seg>「もっと読み込む」ボタンは、ユーザーの都合のよいときに、ラベル付けされたアクションを明示的に実行することを促します。したがって、ヘニー・スワンの原則の2番目の項目である&lt;g1&gt;ユーザーに制御させる&lt;/g1&gt;にも適合します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T002143Z" creationid="rikiha" creationdate="20170909T223951Z">
+        <seg>「もっと読み込む」ボタンは、ユーザーの都合のよいときに、はっきりとラベルがついたアクションを行わせるようにします。したがって、ヘニー・スワンの原則の2番目の項目である&lt;g1&gt;ユーザーに制御させる&lt;/g1&gt;にも一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25229,6 +25230,14 @@ dispense with X でXなしで済ます、というような意味。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T224039Z" creationid="rikiha" creationdate="20170909T224039Z">
         <seg>Flexboxのアルゴリズムは、これを個々の項目にとって理想的な幅と見なします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is to decide &lt;g3&gt;for&lt;/g3&gt; the user what font size and magnification level suits them, and prevents them from adjusting it themselves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T001736Z" creationid="rikiha" creationdate="20170918T001736Z">
+        <seg>どのフォントサイズおよび拡大レベルがユーザーに適しているかを彼らに代わって判断し、自分で調節できないようにするのです。</seg>
       </tuv>
     </tu>
     <tu>
