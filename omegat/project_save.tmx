@@ -867,8 +867,8 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       <tuv lang="EN-US">
         <seg>&lt;g132&gt;&lt;g133&gt;&lt;g134&gt;&lt;&lt;/g134&gt;legend&lt;/g133&gt;&lt;g135&gt;&gt;&lt;/g135&gt;&lt;/g132&gt;Display as&lt;g136&gt;&lt;g137&gt;&lt;g138&gt;&lt;/&lt;/g138&gt;legend&lt;/g137&gt;&lt;g139&gt;&gt;&lt;/g139&gt;&lt;/g136&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T045627Z" creationid="rikiha" creationdate="20170918T045627Z">
-        <seg>&lt;g132&gt;&lt;g133&gt;&lt;g134&gt;&lt;&lt;/g134&gt;legend&lt;/g133&gt;&lt;g135&gt;&gt;&lt;/g135&gt;&lt;/g132&gt;表示&lt;g136&gt;&lt;g137&gt;&lt;g138&gt;&lt;/&lt;/g138&gt;legend&lt;/g137&gt;&lt;g139&gt;&gt;&lt;/g139&gt;&lt;/g136&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T051748Z" creationid="rikiha" creationdate="20170918T045627Z">
+        <seg>&lt;g132&gt;&lt;g133&gt;&lt;g134&gt;&lt;&lt;/g134&gt;legend&lt;/g133&gt;&lt;g135&gt;&gt;&lt;/g135&gt;&lt;/g132&gt;表示方法&lt;g136&gt;&lt;g137&gt;&lt;g138&gt;&lt;/&lt;/g138&gt;legend&lt;/g137&gt;&lt;g139&gt;&gt;&lt;/g139&gt;&lt;/g136&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,8 +3050,8 @@ http://adrianroselli.com/2015/10/dont-disable-zoom.html
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The “Display as” functionality is in its own &lt;g2&gt;&lt;fieldset&gt;&lt;/g2&gt; to demarcate it from the principal filtering options.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T051733Z" creationid="rikiha" creationdate="20170909T224021Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;主要なフィルタオブションと区別するために、「表示」の機能は独立した&lt;fieldset&gt;の中にあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T051853Z" creationid="rikiha" creationdate="20170909T224021Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;、主要なフィルタオブションと区別するため、「表示方法」の機能は独立した&lt;fieldset&gt;の中にあります。</seg>
       </tuv>
     </tu>
     <tu>
