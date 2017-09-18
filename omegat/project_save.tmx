@@ -51,8 +51,8 @@
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note&lt;/g1&gt;: This automatic reversal is also true of &lt;g2&gt;&lt;table&gt;&lt;/g2&gt; elements which switch their column order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224211Z" creationid="rikiha" creationdate="20170909T224211Z">
-        <seg>（注：この自動的な方向の逆転は&lt;table&gt;要素にも当てはまり、カラムの順序が入れ替わります。&lt;table&gt;要素は支援技術に誤ったセマンティック情報を提供するので、レイアウトには使用しません。）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T224815Z" creationid="rikiha" creationdate="20170909T224211Z">
+        <seg>（&lt;g1&gt;注：&lt;/g1&gt;この自動的な方向の逆転は&lt;table&gt;要素にも当てはまり、カラムの順序が入れ替わります。&lt;table&gt;要素は支援技術に誤ったセマンティック情報を提供するので、レイアウトには使用しません。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21472,12 +21472,12 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) reverseを反転として調整。</note>
+      <note>(伊原) reverseを逆転として調整。</note>
       <tuv lang="EN-US">
         <seg>That is, you have to manually reverse the layout of floated content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T141327Z" creationid="rikiha" creationdate="20170909T224124Z">
-        <seg>つまり、floatによるコンテンツのレイアウトの向きは、手動で反転させなければなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T224825Z" creationid="rikiha" creationdate="20170909T224124Z">
+        <seg>つまり、floatによるコンテンツのレイアウトの向きは、手動で逆転させなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
