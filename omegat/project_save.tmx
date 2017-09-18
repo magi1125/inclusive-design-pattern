@@ -9173,11 +9173,12 @@ Embraceは利用するで良いのか?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) Ensuringは適切なとしてみました。</note>
       <tuv lang="EN-US">
         <seg>Ensuring Acceptable Measure</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T115717Z" creationid="rikiha" creationdate="20170909T224043Z">
-        <seg>満足いくカラム幅の確保</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T120525Z" creationid="rikiha" creationdate="20170909T224043Z">
+        <seg>適切なカラム幅の確保</seg>
       </tuv>
     </tu>
     <tu>
@@ -28679,11 +28680,12 @@ descriptive説明的でいいのか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整</note>
       <tuv lang="EN-US">
         <seg>With very little code, we are able to ensure our content remains unbroken across an &lt;g1&gt;infinite&lt;/g1&gt; range of viewport widths.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T120440Z" creationid="rikiha" creationdate="20170909T224045Z">
-        <seg>ごく少ないコードで、&lt;g1&gt;あらゆる&lt;/g1&gt;ビューポートの幅に対して、コンテンツを崩さないまま表示できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T120510Z" creationid="rikiha" creationdate="20170909T224045Z">
+        <seg>ごく少ないコードで、&lt;g1&gt;あらゆる&lt;/g1&gt;ビューポートの幅に対して、コンテンツを崩さずに表示できます。</seg>
       </tuv>
     </tu>
     <tu>
