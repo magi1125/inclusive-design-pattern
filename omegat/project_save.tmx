@@ -1098,8 +1098,8 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       <tuv lang="EN-US">
         <seg>&lt;g19&gt;flex-shrink&lt;/g19&gt;&lt;g20&gt;:&lt;/g20&gt; 1&lt;g21&gt;;&lt;/g21&gt; &lt;g22&gt;/* the default value, in fact */&lt;/g22&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T101642Z" creationid="rikiha" creationdate="20170918T101642Z">
-        <seg>&lt;g19&gt;flex-shrink&lt;/g19&gt;&lt;g20&gt;:&lt;/g20&gt; 1&lt;g21&gt;;&lt;/g21&gt; &lt;g22&gt;/*実際にはこれはデフォルト値 */&lt;/g22&gt;</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T113557Z" creationid="rikiha" creationdate="20170918T101642Z">
+        <seg>&lt;g19&gt;flex-shrink&lt;/g19&gt;&lt;g20&gt;:&lt;/g20&gt; 1&lt;g21&gt;;&lt;/g21&gt; &lt;g22&gt;/* 実際にはデフォルト値 */&lt;/g22&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2826,8 +2826,8 @@ Elements with the role status have an implicit aria-live value of polite and an 
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-shrink&lt;/g2&gt; value of &lt;g3&gt;1&lt;/g3&gt; (can be omitted, in fact, because it’s the default) ensures items will shrink if needed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224042Z" creationid="rikiha" creationdate="20170909T224042Z">
-        <seg>•flex-shrink値が1（デフォルトなので省略可能）というのは、必要に応じて項目の幅が狭くなることを意味します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T113550Z" creationid="rikiha" creationdate="20170909T224042Z">
+        <seg> &lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-shrink&lt;/g2&gt;の&lt;g3&gt;1&lt;/g3&gt;という値（デフォルトなので省略可能）というのは、必要に応じて項目の幅が狭くなることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
