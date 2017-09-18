@@ -684,6 +684,15 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) コメントを翻訳</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g10&gt;/* ltr acts like row-reverse */&lt;/g10&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T224744Z" creationid="rikiha" creationdate="20170918T224744Z">
+        <seg>&lt;g10&gt;/* このltr指定はrow-reverseのように動作する */&lt;/g10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 by は byのままでいいかもしれません。
 
