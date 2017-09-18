@@ -18192,11 +18192,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整</note>
       <tuv lang="EN-US">
         <seg>One example of making a decision on users’ behalf is to disable zoom, using &lt;g1&gt;user-scalable=no&lt;/g1&gt; on the viewport &lt;g2&gt;&lt;meta&gt;&lt;/g2&gt; tag.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T223958Z" creationid="rikiha" creationdate="20170909T223958Z">
-        <seg>ユーザーのためを思って下す判断の一例は、&lt;meta&gt;タグのviewportでuser-scalable=noを使い、ズームを無効にすることです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T011924Z" creationid="rikiha" creationdate="20170909T223958Z">
+        <seg>ユーザーのための判断の例として、&lt;g2&gt;&lt;meta&gt;&lt;/g2&gt;タグのviewportに&lt;g1&gt;user-scalable=no&lt;/g1&gt;を指定してズームを無効にするというものがあります。</seg>
       </tuv>
     </tu>
     <tu>
