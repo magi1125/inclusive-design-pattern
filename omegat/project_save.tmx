@@ -1771,8 +1771,8 @@ iterateは「試行錯誤」推しでいきたいと思いましたがどうで�
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-wrap&lt;/g2&gt; is switched on so items will wrap to the next row when there is not enough room to fit them alongside other items greater than 10em in width.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224043Z" creationid="rikiha" creationdate="20170909T224043Z">
-        <seg>•幅が10emより大きい他の項目の横に並べて収める十分なスペースがない場合に、項目が次の行に折り返すよう、flex-wrapをオンにします。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T114030Z" creationid="rikiha" creationdate="20170909T224043Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;幅が10emより大きい他の項目の横に並べて収める十分なスペースがない場合に、項目が次の行に折り返すよう、flex-wrapをオンにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2828,8 +2828,8 @@ Elements with the role status have an implicit aria-live value of polite and an 
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-shrink&lt;/g2&gt; value of &lt;g3&gt;1&lt;/g3&gt; (can be omitted, in fact, because it’s the default) ensures items will shrink if needed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T113712Z" creationid="rikiha" creationdate="20170909T224042Z">
-        <seg> &lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-shrink&lt;/g2&gt;の&lt;g3&gt;1&lt;/g3&gt;という値（デフォルトなので実際は省略可能）というのは、必要に応じて項目の幅が狭くなることを意味します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T114005Z" creationid="rikiha" creationdate="20170909T224042Z">
+        <seg> &lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-shrink&lt;/g2&gt;の&lt;g3&gt;1&lt;/g3&gt;という値（デフォルトなので実際は省略可能）は、必要に応じて項目の幅が狭くなることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8222,8 +8222,8 @@ the page information が何をさすのか良くわからない。タイトル�
       <tuv lang="EN-US">
         <seg>By switching on &lt;g2&gt;flex-grow&lt;/g2&gt; and &lt;g3&gt;flex-shrink&lt;/g3&gt;, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T101550Z" creationid="rikiha" creationdate="20170909T224034Z">
-        <seg>&lt;g2&gt;flex-grow&lt;/g2&gt;と&lt;g3&gt;flex-shrink&lt;/g3&gt;を切り替えることで、理想的な幅を基準としつつグリッド要素の幅を広げたり縮めたりできます。これにより、およそどういったビューポートの幅に対しても完全かつ規則的なグリッドを維持できるのです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T114103Z" creationid="rikiha" creationdate="20170909T224034Z">
+        <seg>&lt;g2&gt;flex-grow&lt;/g2&gt;と&lt;g3&gt;flex-shrink&lt;/g3&gt;を指定することで、理想的な幅を基準としつつグリッド要素の幅を広げたり縮めたりできます。これにより、およそどういったビューポートの幅に対しても完全かつ規則的なグリッドを維持できるのです。</seg>
       </tuv>
     </tu>
     <tu>
