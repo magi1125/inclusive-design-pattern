@@ -21414,11 +21414,12 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) reverseを反転として調整。</note>
       <tuv lang="EN-US">
         <seg>That is, you have to manually reverse the layout of floated content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224124Z" creationid="rikiha" creationdate="20170909T224124Z">
-        <seg>つまり、フロート化されたコンテンツのレイアウトは手動で向きを変える必要があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T141023Z" creationid="rikiha" creationdate="20170909T224124Z">
+        <seg>つまり、フロート化されたコンテンツのレイアウトは手動で向きを反転させなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
