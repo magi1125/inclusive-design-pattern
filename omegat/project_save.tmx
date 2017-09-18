@@ -19728,8 +19728,8 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
       <tuv lang="EN-US">
         <seg>Setting the text direction for the document is possible by including the &lt;g1&gt;dir&lt;/g1&gt; attribute (alongside the &lt;g2&gt;lang&lt;/g2&gt; attribute) on the HTML element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224122Z" creationid="rikiha" creationdate="20170909T224122Z">
-        <seg>ドキュメントのテキスト方向は、HTML要素に（lang属性と並べて）dir属性を含めることで設定できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T140710Z" creationid="rikiha" creationdate="20170909T224122Z">
+        <seg>ドキュメントのテキスト方向は、HTML要素に（lang属性と共に）dir属性を含めることで設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20675,6 +20675,7 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 対比になるよう語順を調整。</note>
       <tuv lang="EN-US">
         <seg>Some languages, like Arabic, are supposed to be read right to left, unlike languages like English that are read left to right.</seg>
       </tuv>
