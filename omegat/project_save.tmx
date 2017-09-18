@@ -6802,11 +6802,12 @@ JS中の初期化処理で
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここのshouldは助言ぽいものなのでこれでよいかなと。下に繋がりやすいよう語順を入れ替えました。</note>
       <tuv lang="EN-US">
         <seg>As ever, we should be mindful of the content that our proposed structure is designed for.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224219Z" creationid="rikiha" creationdate="20170909T224219Z">
-        <seg>これまで同様、コンテンツに注目しましょう。本書で提案する構造は、そのコンテンツのためにデザインされています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T230929Z" creationid="rikiha" creationdate="20170909T224219Z">
+        <seg>提案してきた構造は、コンテンツのためにデザインされています。これまで同様、コンテンツに注目しましょう。</seg>
       </tuv>
     </tu>
     <tu>
