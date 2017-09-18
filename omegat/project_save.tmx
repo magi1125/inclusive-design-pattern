@@ -19893,6 +19893,7 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) directionとflex-direction</note>
       <tuv lang="EN-US">
         <seg>Should you, despite the right-to-left direction setting, want your grid to be laid out in a left-to-right configuration, you can force this using the CSS &lt;g1&gt;direction&lt;/g1&gt; property on the flex container:</seg>
       </tuv>
