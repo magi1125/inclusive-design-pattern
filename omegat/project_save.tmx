@@ -2809,8 +2809,8 @@ Elements with the role status have an implicit aria-live value of polite and an 
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-basis&lt;/g2&gt; value is set in ems so that it is relative to font size.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224040Z" creationid="rikiha" creationdate="20170909T224040Z">
-        <seg>•フォントサイズと相対的になるよう、flex-basis値はemsで設定します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T103634Z" creationid="rikiha" creationdate="20170909T224040Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-basis&lt;/g2&gt;の値は、文字サイズに比例するようemで設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9063,8 +9063,8 @@ draw onは経験を活かすような意味。
       <tuv lang="EN-US">
         <seg>Each item will try to be 10em wide but will &lt;g3&gt;flex&lt;/g3&gt; to share the available space completely (see &lt;g4&gt;flex-grow&lt;/g4&gt; and &lt;g5&gt;flex-shrink&lt;/g5&gt; below).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T103512Z" creationid="rikiha" creationdate="20170909T224040Z">
-        <seg>各項目は幅10emになろうとしつつ、しかし利用可能なスペースを余さずに分け合うべく&lt;g3&gt;伸縮（flex）&lt;/g3&gt;します（後述のflex-growとflex-shrinkの解説を参照）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T103641Z" creationid="rikiha" creationdate="20170909T224040Z">
+        <seg>各項目は幅10emになろうとしつつ、しかし利用可能なスペースを余さずに分け合うべく&lt;g3&gt;伸縮（flex）&lt;/g3&gt;するでしょう（後述のflex-growとflex-shrinkの解説を参照）。</seg>
       </tuv>
     </tu>
     <tu>
