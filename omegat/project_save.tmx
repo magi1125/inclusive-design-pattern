@@ -19343,15 +19343,15 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
 まあHJなのでざっくり意訳でも良いとは思います。
 unwieldy は「重すぎる」「かさばりすぎる」のような意味もあるのでそちらかなと。「恐ろしく重い」くらいかと思いましたが、パフォーマンスの話は前段でしているので、こちらは「かさばる」ほうかなと。
 intimidatingは「泣く子も黙る」という訳があるようです。w
-「泣く子も黙る恐ろしく長いページ」とかでどうでしょう。
+「泣く子も黙るような恐ろしく長いページ」とかでどうでしょう。
 
 wouldなので語尾を「ことがあります」としました。
 </note>
       <tuv lang="EN-US">
         <seg>Retrieving and rendering all of them at once would cause a serious performance bottleneck, as well as producing an intimidating and unwieldy page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170918T150749Z" creationid="rikiha" creationdate="20170909T223821Z">
-        <seg>一度ですべて取得して表示すると、パフォーマンス上の深刻なボトルネックの原因になると同時に、泣く子も黙る恐ろしく長いページになってしまうことがあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170918T150815Z" creationid="rikiha" creationdate="20170909T223821Z">
+        <seg>一度ですべて取得して表示すると、パフォーマンス上の深刻なボトルネックの原因になると同時に、泣く子も黙るような恐ろしく長いページになることがあります。</seg>
       </tuv>
     </tu>
     <tu>
