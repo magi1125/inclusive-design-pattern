@@ -24730,11 +24730,12 @@ aspirations は「願望」?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 括弧を外して調整。</note>
       <tuv lang="EN-US">
         <seg>This also saves on client-side DOM manipulation: all we should need to change is a class on the parent &lt;g3&gt;&lt;ul&gt;&lt;/g3&gt; item: &lt;g4&gt;.list-display&lt;/g4&gt; for a single-column layout or &lt;g5&gt;.grid-display&lt;/g5&gt; for multiple columns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224026Z" creationid="rikiha" creationdate="20170909T224026Z">
-        <seg>また、クライアント側のDOM操作も軽減します。親の&lt;ul&gt;項目のクラスを変える必要があるだけです（レイアウトがシングルカラムの場合は.list-display、マルチカラムの場合は.grid-display）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T080108Z" creationid="rikiha" creationdate="20170909T224026Z">
+        <seg>また、クライアントサイドのDOM操作も少なくて済みます。変更すべきなのは親の&lt;g3&gt;&lt;ul&gt;&lt;/g3&gt;のクラスだけで、レイアウトがシングルカラムの場合は&lt;g4&gt;.list-display&lt;/g4&gt;、マルチカラムの場合は&lt;g5&gt;.grid-display&lt;/g5&gt;とします。</seg>
       </tuv>
     </tu>
     <tu>
