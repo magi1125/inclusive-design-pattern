@@ -3435,8 +3435,8 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
         <seg>&lt;g261&gt;&lt;g262&gt;&lt;g263&gt;&lt;&lt;/g263&gt;button&lt;/g262&gt; &lt;g264&gt;type&lt;/g264&gt;&lt;g265&gt;&lt;g266&gt;=&lt;/g266&gt;"submit"&lt;/g265&gt;&lt;g267&gt;&gt;&lt;/g267&gt;&lt;/g261&gt;apply&lt;g268&gt;&lt;g269&gt;&lt;g270&gt;&lt;/&lt;/g270&gt;button&lt;/g269&gt;&lt;g271&gt;&gt;&lt;/g271&gt;&lt;/g268&gt;
 &lt;g272&gt;&lt;g273&gt;&lt;g274&gt;&lt;/&lt;/g274&gt;form&lt;/g273&gt;&lt;g275&gt;&gt;&lt;/g275&gt;&lt;/g272&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T045811Z" creationid="rikiha" creationdate="20170918T045811Z">
-        <seg>&lt;g261&gt;&lt;g262&gt;&lt;g263&gt;&lt;&lt;/g263&gt;button&lt;/g262&gt; &lt;g264&gt;type&lt;/g264&gt;&lt;g265&gt;&lt;g266&gt;=&lt;/g266&gt;"submit"&lt;/g265&gt;&lt;g267&gt;&gt;&lt;/g267&gt;&lt;/g261&gt;適用&lt;g268&gt;&lt;g269&gt;&lt;g270&gt;&lt;/&lt;/g270&gt;button&lt;/g269&gt;&lt;g271&gt;&gt;&lt;/g271&gt;&lt;/g268&gt;
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T045827Z" creationid="rikiha" creationdate="20170918T045811Z">
+        <seg>&lt;g261&gt;&lt;g262&gt;&lt;g263&gt;&lt;&lt;/g263&gt;button&lt;/g262&gt; &lt;g264&gt;type&lt;/g264&gt;&lt;g265&gt;&lt;g266&gt;=&lt;/g266&gt;"submit"&lt;/g265&gt;&lt;g267&gt;&gt;&lt;/g267&gt;&lt;/g261&gt;適用する&lt;g268&gt;&lt;g269&gt;&lt;g270&gt;&lt;/&lt;/g270&gt;button&lt;/g269&gt;&lt;g271&gt;&gt;&lt;/g271&gt;&lt;/g268&gt;
 &lt;g272&gt;&lt;g273&gt;&lt;g274&gt;&lt;/&lt;/g274&gt;form&lt;/g273&gt;&lt;g275&gt;&gt;&lt;/g275&gt;&lt;/g272&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
@@ -4784,12 +4784,12 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 原文に倣って調整。</note>
+      <note>(伊原) 原文に倣って調整。前の例が「並べ替える」なので、こちらも「適用する」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The submit button now reads “apply”: a broader action which relates to both the sorting and display settings.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T044703Z" creationid="rikiha" creationdate="20170909T224012Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;submitボタンに「適用」と表示されています。並び替えと表示設定の両方に当てはまる、より広範囲なアクションです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T045853Z" creationid="rikiha" creationdate="20170909T224012Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;submitボタンに「適用する」と表示されています。並び替えと表示設定の両方に当てはまる、より広範囲なアクションです。</seg>
       </tuv>
     </tu>
     <tu>
