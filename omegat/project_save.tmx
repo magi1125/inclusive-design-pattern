@@ -16703,8 +16703,8 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       <tuv lang="EN-US">
         <seg>My preference, for symmetry, is to group the content around the center line, hence the &lt;g2&gt;justify-content: center;&lt;/g2&gt; declaration on the flex container.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T130358Z" creationid="rikiha" creationdate="20170909T224056Z">
-        <seg>シンメトリーのため、センターラインのそばにコンテンツをまとめるのが私の好みです。そのため、flexコンテナで&lt;g2&gt;justify-content: center;&lt;/g2&gt;と宣言しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T130450Z" creationid="rikiha" creationdate="20170909T224056Z">
+        <seg>シンメトリーのため、センターライン上にコンテンツをまとめるのが私の好みです。そのため、flexコンテナで&lt;g2&gt;justify-content: center;&lt;/g2&gt;と宣言しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17912,8 +17912,8 @@ familiarを「十分に学習してきた」としていますが、「十分に
       <tuv lang="EN-US">
         <seg>Now the grid items are organized around the vertical center line and cannot become more than 20em wide.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T130322Z" creationid="rikiha" creationdate="20170909T224100Z">
-        <seg>これでグリッドの項目が縦のセンターラインのそばにまとまり、20em以上の幅にはなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T130453Z" creationid="rikiha" creationdate="20170909T224100Z">
+        <seg>これでグリッドの項目が縦のセンターライン上にまとまり、20em以上の幅にはなりません。</seg>
       </tuv>
     </tu>
     <tu>
