@@ -19,8 +19,8 @@
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; IE10 and IE11 have an unpleasant bug whereby the children of focusable items within a flex container can become focusable themselves.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224113Z" creationid="rikiha" creationdate="20170909T224108Z">
-        <seg>（注：IE10とIE11には不快なバグがあり、flexコンテナ内のフォーカス可能な項目の子自体がフォーカス可能になる場合があります。これは便利なa11y.jsライブラリで修正できます。）（脚注170）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T133857Z" creationid="rikiha" creationdate="20170909T224108Z">
+        <seg>（注：IE10とIE11には不快なバグがあり、flexコンテナ内のフォーカス可能な項目の子自体がフォーカス可能になる場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3538,6 +3538,14 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134205Z" creationid="rikiha" creationdate="20170809T134205Z">
         <seg>&lt;g29&gt;&lt;g30&gt;&lt;g31&gt;&lt;&lt;/g31&gt;li&lt;/g30&gt;&lt;g32&gt;&gt;&lt;/g32&gt;&lt;/g29&gt;&lt;g33&gt;&lt;g34&gt;&lt;g35&gt;&lt;&lt;/g35&gt;a&lt;/g34&gt; &lt;g36&gt;href&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"/products"&lt;/g37&gt;&lt;g39&gt;&gt;&lt;/g39&gt;&lt;/g33&gt;製品情報&lt;g40&gt;&lt;g41&gt;&lt;g42&gt;&lt;/&lt;/g42&gt;a&lt;/g41&gt;&lt;g43&gt;&gt;&lt;/g43&gt;&lt;/g40&gt;&lt;g44&gt;&lt;g45&gt;&lt;g46&gt;&lt;/&lt;/g46&gt;li&lt;/g45&gt;&lt;g47&gt;&gt;&lt;/g47&gt;&lt;/g44&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g2&gt;&lt;g3&gt;The handy a11y.js library has a fix for this&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;15&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T133925Z" creationid="rikiha" creationdate="20170918T133925Z">
+        <seg>これは便利なa11y.jsライブラリで修正できます。）（脚注170）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26327,6 +26335,7 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整。</note>
       <tuv lang="EN-US">
         <seg>To get the best results for your own content, you’ll need to tweak the 10em and 20em values.</seg>
       </tuv>
