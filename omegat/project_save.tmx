@@ -27574,12 +27574,12 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) tableが間違ってるみたいになっているので修正</note>
+      <note>(伊原) tableが間違ってるみたいになっているので修正。</note>
       <tuv lang="EN-US">
         <seg>We don’t use &lt;g3&gt;&lt;table&gt;&lt;/g3&gt; elements for layout because they provide incorrect semantic information to assistive technologies.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T225209Z" creationid="rikiha" creationdate="20170918T224917Z">
-        <seg>支援技術に誤ったセマンティクスを提供することになるため、レイアウトに&lt;table&gt;要素は使用しません。）</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T225546Z" creationid="rikiha" creationdate="20170918T224917Z">
+        <seg>ですが、&lt;g3&gt;&lt;table&gt;&lt;/g3&gt;要素をレイアウトには使用しません。支援技術に誤ったセマンティクスを提供することになるからです。）</seg>
       </tuv>
     </tu>
     <tu>
