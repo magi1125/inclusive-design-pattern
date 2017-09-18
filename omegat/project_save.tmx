@@ -16701,8 +16701,8 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       <tuv lang="EN-US">
         <seg>My preference, for symmetry, is to group the content around the center line, hence the &lt;g2&gt;justify-content: center;&lt;/g2&gt; declaration on the flex container.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224056Z" creationid="rikiha" creationdate="20170909T224056Z">
-        <seg>対称性に関しては、センターラインにコンテンツをまとめるのが私の好みなので、flexコンテナでjustify-content: center;と宣言しています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T125808Z" creationid="rikiha" creationdate="20170909T224056Z">
+        <seg>対称の美しさのため、センターラインを中心にコンテンツをまとめるのが私の好みです。そのため、flexコンテナで&lt;g2&gt;justify-content: center;&lt;/g2&gt;と宣言しています。</seg>
       </tuv>
     </tu>
     <tu>
