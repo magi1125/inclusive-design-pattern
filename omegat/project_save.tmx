@@ -1128,6 +1128,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;.content &lt;/g2&gt;&lt;g3&gt;{&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T141347Z" creationid="rikiha" creationdate="20170918T141347Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;.content &lt;/g2&gt;&lt;g3&gt;{&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) ヘイドンジョークの life is too short をどうするのか。いったん元訳をそのまま反映しています。
 
 (伊原) LGTM. ジョークの意味があまりわかっていません。</note>
@@ -4250,6 +4258,20 @@ Price:　→価格：</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170907T015517Z" creationid="rikiha" creationdate="20170905T004309Z">
         <seg>&lt;g7&gt;&lt;g8&gt;Googleは説明的なリンクテキストの使用を推奨しています&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注148）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;。Googleのクローラーは（リンクテキストと、リンク先ページの&lt;g12&gt;&lt;title&gt;&lt;/g12&gt;または&lt;g13&gt;&lt;h1&gt;&lt;/g13&gt;が似ていると）関連性が高そうだと見なせるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g7&gt;width&lt;/g7&gt;&lt;g8&gt;:&lt;/g8&gt; 60%&lt;g9&gt;;&lt;/g9&gt;
+&lt;g10&gt;}&lt;/g10&gt;
+
+&lt;g11&gt;[dir="rtl"] .content &lt;/g11&gt;&lt;g12&gt;{&lt;/g12&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T141359Z" creationid="rikiha" creationdate="20170918T141359Z">
+        <seg>&lt;g7&gt;width&lt;/g7&gt;&lt;g8&gt;:&lt;/g8&gt; 60%&lt;g9&gt;;&lt;/g9&gt;
+&lt;g10&gt;}&lt;/g10&gt;
+
+&lt;g11&gt;[dir="rtl"] .content &lt;/g11&gt;&lt;g12&gt;{&lt;/g12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9655,11 +9677,12 @@ the を訳出すべきか?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整</note>
       <tuv lang="EN-US">
         <seg>Flexbox, rather beautifully, handles direction automatically.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224150Z" creationid="rikiha" creationdate="20170909T224150Z">
-        <seg>Flexboxは、かなり見事に方向を自動的に処理します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T141553Z" creationid="rikiha" creationdate="20170909T224150Z">
+        <seg>Flexboxであれば、かなり見事に、テキスト方向を自動的に処理します。</seg>
       </tuv>
     </tu>
     <tu>
