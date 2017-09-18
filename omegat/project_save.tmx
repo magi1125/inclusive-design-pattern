@@ -2102,8 +2102,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Focusing the selected display option radio button would announce the &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; first, then the &lt;g3&gt;&lt;label&gt;&lt;/g3&gt; and additional information in screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224022Z" creationid="rikiha" creationdate="20170909T224022Z">
-        <seg>•選択した表示オプションのradioボタンをフォーカスすると、スクリーンリーダーでは、まず&lt;legend&gt;が読み上げられ、次に&lt;label&gt;とその他の情報が読み上げられます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T052411Z" creationid="rikiha" creationdate="20170909T224022Z">
+        <seg>t•選択した表示オプションのradioボタンをフォーカスすると、スクリーンリーダーでは、まず&lt;legend&gt;が読み上げられ、次に&lt;label&gt;とその他の情報が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2927,11 +2927,12 @@ social dimension どうするか。定訳としては社会的側面ですがわ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順など調整</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The list and grid icons are provided as inline SVGs, with visually hidden &lt;g2&gt;&lt;text&gt;&lt;/g2&gt; elements providing each radio button’s screen reader accessible label text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T052409Z" creationid="rikiha" creationdate="20170909T224021Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;リストとグリッドのアイコンはインラインSVGとして提供されています。それと共に各ラジオボタンni、スクリーンリーダーでアクセスできるのラベルテキストとして、非表示の&lt;text&gt;要素を提供します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T052853Z" creationid="rikiha" creationdate="20170909T224021Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;リストとグリッドのアイコンはインラインSVGとして表示しています。それと共に、各ラジオボタンに対し、スクリーンリーダーでアクセスできるテキストラベルとして、視覚的には非表示とした&lt;text&gt;要素を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
