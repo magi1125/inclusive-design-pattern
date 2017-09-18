@@ -25485,6 +25485,7 @@ in either direction は無くても分かりますし、逆に混乱しそうな
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 実装的にはこういう意味かなと。</note>
       <tuv lang="EN-US">
         <seg>This means that the automatic reflow of columns that we’ve established is sensitive to font size.</seg>
       </tuv>
