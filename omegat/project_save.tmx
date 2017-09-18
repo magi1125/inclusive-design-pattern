@@ -19340,11 +19340,12 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 右寄せではなくRtLなので修正。</note>
       <tuv lang="EN-US">
         <seg>Right-to-Left Grids</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224117Z" creationid="rikiha" creationdate="20170909T224117Z">
-        <seg>右寄せのグリッド</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T134844Z" creationid="rikiha" creationdate="20170909T224117Z">
+        <seg>右から左へのグリッド</seg>
       </tuv>
     </tu>
     <tu>
