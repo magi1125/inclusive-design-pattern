@@ -2814,11 +2814,12 @@ Elements with the role status have an implicit aria-live value of polite and an 
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順を調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-grow&lt;/g2&gt; value of &lt;g3&gt;1&lt;/g3&gt; means items will grow beyond the 10em width to fill the available space.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T113242Z" creationid="rikiha" creationdate="20170909T224042Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;flex-growno1というのは、項目の幅が10em以上になって利用可能なスペースを埋めることを意味します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T113507Z" creationid="rikiha" creationdate="20170909T224042Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-grow&lt;/g2&gt;の&lt;g3&gt;1&lt;/g3&gt;という値は、利用可能なスペースを埋めるために項目の幅が10em以上になることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9063,8 +9064,8 @@ draw onは経験を活かすような意味。
       <tuv lang="EN-US">
         <seg>Each item will try to be 10em wide but will &lt;g3&gt;flex&lt;/g3&gt; to share the available space completely (see &lt;g4&gt;flex-grow&lt;/g4&gt; and &lt;g5&gt;flex-shrink&lt;/g5&gt; below).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T103753Z" creationid="rikiha" creationdate="20170909T224040Z">
-        <seg>各項目は幅10emになろうとしつつ、しかし使えるスペースを余さずに分け合うべく&lt;g3&gt;伸縮（flex）&lt;/g3&gt;するでしょう（後述のflex-growとflex-shrinkの解説を参照）。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170918T113318Z" creationid="rikiha" creationdate="20170909T224040Z">
+        <seg>各項目は幅10emになろうとしつつ、しかし利用可能なスペースを余さずに分け合うべく&lt;g3&gt;伸縮（flex）&lt;/g3&gt;するでしょう（後述のflex-growとflex-shrinkの解説を参照）。</seg>
       </tuv>
     </tu>
     <tu>
