@@ -29184,14 +29184,24 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 誤訳っぽいので修正。
+      <note>※要訳注
 
-(岡本)　捕えて→とらえて</note>
+(伊原) 誤訳っぽいので修正。
+
+(岡本)　捕えて→とらえて
+
+(太田)
+「単に&lt;g2&gt;return&lt;/g2&gt;できる」とは……?
+type="button"のボタンなので、単に何もせずにreturnすれば良いという話ですね。
+しかし括弧内の実装方針に賛同するプログラマは少ないかもしれません。これはテキストが変更になったら動かなくなるやつです。訳注でしょうね。
+
+
+</note>
       <tuv lang="EN-US">
         <seg>You can catch the click and simply &lt;g2&gt;return&lt;/g2&gt; if the loading state is detected (for instance, by looking for “Loading” in the button’s &lt;g3&gt;textContent&lt;/g3&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170919T023706Z" creationid="rikiha" creationdate="20170916T225338Z">
-        <seg>読み込み状態を検出したら（たとえば、ボタンの&lt;g3&gt;textContent&lt;/g3&gt;内の「読み込み中」を探す）、クリックをとらえて、単に&lt;g2&gt;return&lt;/g2&gt;できる。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T095112Z" creationid="rikiha" creationdate="20170916T225338Z">
+        <seg>クリックされた際、読み込み中の状態であることを検出したら（たとえば、ボタンの&lt;g3&gt;textContent&lt;/g3&gt;に「読み込み中」が含まれるか見る）、何もせずに&lt;g2&gt;return&lt;/g2&gt;する。</seg>
       </tuv>
     </tu>
     <tu>
