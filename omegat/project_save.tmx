@@ -17658,8 +17658,8 @@ OK
       <tuv lang="EN-US">
         <seg>Note that most implementations &lt;g1&gt;only&lt;/g1&gt; remove focus from the button, and don’t move it elsewhere.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T075846Z" creationid="rikiha" creationdate="20170909T223843Z">
-        <seg>たいていのブラウザの実装では、ボタンからフォーカスが外れた&lt;g1&gt;だけ&lt;/g1&gt;では、別のどこかにフォーカスが移るわけではないことに注意してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T075911Z" creationid="rikiha" creationdate="20170909T223843Z">
+        <seg>ほとんどのブラウザの実装では、ボタンからフォーカスが外れた&lt;g1&gt;だけ&lt;/g1&gt;では、別のどこかにフォーカスが移るわけではないことに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18856,7 +18856,8 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
 
 (太田)
 「表示に変化を起こさずに」の意味が不明。
- the user’s view will not change はユーザーからの見た目が変わらないという意味と思われます。</note>
+ the user’s view will not change はユーザーからの見た目が変わらないという意味と思われます。
+というか次の文を見ると「画面外に押し出された」ではないのかも。</note>
       <tuv lang="EN-US">
         <seg>Otherwise, the user’s view will not change and focus will remain on the &lt;g2&gt;data-load-more&lt;/g2&gt; button which has now been pushed off-screen by the added content.</seg>
       </tuv>
