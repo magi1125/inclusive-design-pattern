@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12827,11 +12827,12 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) インクルーシブ原則に沿って調整。</note>
       <tuv lang="EN-US">
         <seg>In addition, we explored the importance of giving users &lt;g1&gt;choice&lt;/g1&gt; and &lt;g2&gt;control&lt;/g2&gt; over how their content is arranged.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224322Z" creationid="rikiha" creationdate="20170909T224322Z">
-        <seg>加えて、コンテンツをどのように並べるかについて、ユーザーに選択肢と主導権を与えることの重要性についても検討しました。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T040636Z" creationid="rikiha" creationdate="20170909T224322Z">
+        <seg>加えて、コンテンツの配置方法において、ユーザーに選択させ、制御させることの重要性についても検討しました。</seg>
       </tuv>
     </tu>
     <tu>
