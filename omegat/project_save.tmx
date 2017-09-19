@@ -482,12 +482,15 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Just don’t implement infinite scrolling.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T053952Z" creationid="rikiha" creationdate="20170909T223832Z">
-        <seg>無限スクロールは実装しないでください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T054513Z" creationid="rikiha" creationdate="20170909T223832Z">
+        <seg>とにかく無限スクロールは実装しないでください。</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) こういうこと？</note>
+      <note>(伊原) こういうこと？
+
+(太田)
+いや、本当に、くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;No, really, just don’t implement infinite scrolling.</seg>
       </tuv>
