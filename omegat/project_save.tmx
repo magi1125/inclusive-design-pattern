@@ -22021,11 +22021,12 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここはJSの話なのでそのような訳に。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;words&lt;/g1&gt; parameter refers to an array of words of different lengths.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224234Z" creationid="rikiha" creationdate="20170909T224234Z">
-        <seg>wordsパラメータは、さまざまな長さの一連の単語を表します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T022949Z" creationid="rikiha" creationdate="20170909T224234Z">
+        <seg>wordsパラメータは、さまざまな長さの単語の配列を参照します。</seg>
       </tuv>
     </tu>
     <tu>
