@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28968,12 +28968,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 誤訳っぽいので修正。</note>
+      <note>(伊原) 誤訳っぽいので修正。
+
+(岡本)　捕えて→とらえて</note>
       <tuv lang="EN-US">
         <seg>You can catch the click and simply &lt;g2&gt;return&lt;/g2&gt; if the loading state is detected (for instance, by looking for “Loading” in the button’s &lt;g3&gt;textContent&lt;/g3&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T235939Z" creationid="rikiha" creationdate="20170916T225338Z">
-        <seg>読み込み状態を検出したら（たとえば、ボタンの&lt;g3&gt;textContent&lt;/g3&gt;内の「読み込み中」を探す）、クリックを捕らえて、単に&lt;g2&gt;return&lt;/g2&gt;できる。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170919T023706Z" creationid="rikiha" creationdate="20170916T225338Z">
+        <seg>読み込み状態を検出したら（たとえば、ボタンの&lt;g3&gt;textContent&lt;/g3&gt;内の「読み込み中」を探す）、クリックをとらえて、単に&lt;g2&gt;return&lt;/g2&gt;できる。</seg>
       </tuv>
     </tu>
     <tu>
