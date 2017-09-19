@@ -17652,12 +17652,14 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) この実装は、もっと読むのJS実装の話なのか、フォーカスを持ったまま要素が消えたらブラウザがどうなるかの挙動の話なのか。後者の想定で補ってみました。</note>
+      <note>(伊原) この実装は、もっと読むのJS実装の話なのか、フォーカスを持ったまま要素が消えたらブラウザがどうなるかの挙動の話なのか。後者の想定で補ってみました。
+
+(太田) 少し調整</note>
       <tuv lang="EN-US">
         <seg>Note that most implementations &lt;g1&gt;only&lt;/g1&gt; remove focus from the button, and don’t move it elsewhere.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T075826Z" creationid="rikiha" creationdate="20170909T223843Z">
-        <seg>たいていのブラウザの実装では、ボタンからフォーカスが外れた&lt;g1&gt;だけ&lt;/g1&gt;では、別のところにフォーカスが移るわけではないことに注意してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T075846Z" creationid="rikiha" creationdate="20170909T223843Z">
+        <seg>たいていのブラウザの実装では、ボタンからフォーカスが外れた&lt;g1&gt;だけ&lt;/g1&gt;では、別のどこかにフォーカスが移るわけではないことに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
