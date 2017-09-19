@@ -576,7 +576,9 @@ add more は言わなくてもわかるのでトリました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The XHR is handled.</seg>
       </tuv>
@@ -7128,8 +7130,8 @@ hone は砥石でとぐような意味。
       <tuv lang="EN-US">
         <seg>As with choosing a filtering option, an XHR has to be handled.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T093021Z" creationid="rikiha" creationdate="20170909T223935Z">
-        <seg>フィルタオプションを選択する場合と同様、XHRが使われることになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T100002Z" creationid="rikiha" creationdate="20170909T223935Z">
+        <seg>フィルタオプションを選択する場合と同様、XHRで処理されることになります。</seg>
       </tuv>
     </tu>
     <tu>
