@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22025,8 +22025,8 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;words&lt;/g1&gt; parameter refers to an array of words of different lengths.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T022949Z" creationid="rikiha" creationdate="20170909T224234Z">
-        <seg>wordsパラメータは、さまざまな長さの単語の配列を参照します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T023032Z" creationid="rikiha" creationdate="20170909T224234Z">
+        <seg>パラメータの&lt;g1&gt;words&lt;/g1&gt;は、さまざまな長さの単語の配列を参照します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22042,8 +22042,8 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
       <tuv lang="EN-US">
         <seg>The &lt;g2&gt;2&lt;/g2&gt; parameter refers to the number of randomized words I want to include.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224242Z" creationid="rikiha" creationdate="20170909T224242Z">
-        <seg>パラメータの2は、2つのランダムな単語を含めたいという意味です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T023116Z" creationid="rikiha" creationdate="20170909T224242Z">
+        <seg>パラメータの&lt;g2&gt;2&lt;/g2&gt;は、含めたいランダムな単語の数を表します。</seg>
       </tuv>
     </tu>
     <tu>
