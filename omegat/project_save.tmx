@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9671,12 +9671,15 @@ the placement of (the &lt;button&gt; and the menu it discloses.)
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。we often find なので「よく見つける」的な感じかなと。</note>
+      <note>(伊原) 微調整。we often find なので「よく見つける」的な感じかなと。
+
+(岡本)
+1つ目→ひとつめ</note>
       <tuv lang="EN-US">
         <seg>First, sometimes HTML already provides the behaviors we often find ourselves needlessly and flimsily recreating in JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T041413Z" creationid="rikiha" creationdate="20170909T224319Z">
-        <seg>1つ目は、根拠もなく不必要にJavaScriptで作り直しているふるまいの中には、HTMLで既に提供されているものがよくあるということ。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170919T061902Z" creationid="rikiha" creationdate="20170909T224319Z">
+        <seg>ひとつめは、根拠もなく不必要にJavaScriptで作り直しているふるまいの中には、HTMLで既に提供されているものがよくあるということ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19822,12 +19825,15 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 訳はこうだと思うのですが意味がわかりにくい。CSS依存にするなということなのだとは思いますが…。</note>
+      <note>(伊原) 訳はこうだと思うのですが意味がわかりにくい。CSS依存にするなということなのだとは思いますが…。
+
+(岡本)
+2つ目→ふたつめ</note>
       <tuv lang="EN-US">
         <seg>Second, when using semantic HTML, CSS can be used as a form of progressive enhancement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T040322Z" creationid="rikiha" creationdate="20170909T224320Z">
-        <seg>2つ目は、セマンティックHTMLを使用するときに、CSSをプログレッシブエンハンスメントのひとつの形態として使えるということ。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170919T061928Z" creationid="rikiha" creationdate="20170909T224320Z">
+        <seg>ふたつめは、セマンティックHTMLを使用するときに、CSSをプログレッシブエンハンスメントのひとつの形態として使えるということ。</seg>
       </tuv>
     </tu>
     <tu>
