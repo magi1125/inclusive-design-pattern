@@ -477,12 +477,13 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
 (太田)
 否定の命令形で、命令形につくJust。
 元訳ではトリになっていますが、ジョーク的ニュアンスが必要な局面なので活かしたほうがいいかも。「ただ……しないだけで良い」というニュアンスだと思いますがどうするか。
-日本では「たとえば、無限スクロールを避ける」というフレーズが知られているかも?</note>
+日本では「たとえば、無限スクロールを避ける」というフレーズが知られているかも?
+命令形っぽい訳のほうがしっくり来るか?</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Just don’t implement infinite scrolling.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T053602Z" creationid="rikiha" creationdate="20170909T223832Z">
-        <seg>無限スクロールは実装しない。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T053952Z" creationid="rikiha" creationdate="20170909T223832Z">
+        <seg>無限スクロールは実装しないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,8 +491,8 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;No, really, just don’t implement infinite scrolling.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T135658Z" creationid="rikiha" creationdate="20170909T223838Z">
-        <seg>ダメ、やっぱり無限スクロールは実装しない。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T053946Z" creationid="rikiha" creationdate="20170909T223838Z">
+        <seg>いや、本当に、とにかく無限スクロールは実装しないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -559,8 +560,8 @@ chapter-23の議論で「ユーザーに制御させる」とすることにし�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Replace automatic infinite scrolling with a “Load more results…” button or link that explicitly invites the user to add more.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T053750Z" creationid="rikiha" creationdate="20170909T223833Z">
-        <seg>自動の無限スクロールを「検索結果をもっと読み込む……」というボタンやリンクに置き換えて、ユーザーが明示的に追加できるようにする。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T054013Z" creationid="rikiha" creationdate="20170909T223833Z">
+        <seg>自動の無限スクロールを「検索結果をもっと読み込む……」というボタンやリンクに置き換えて、ユーザーが明示的に追加できるようにしましょう。</seg>
       </tuv>
     </tu>
     <tu>
