@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25747,12 +25747,14 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) defaultsを訳出。</note>
+      <note>(伊原) defaultsを訳出。
+
+(岡本)　分からない→わからない</note>
       <tuv lang="EN-US">
         <seg>This results in what’s sometimes called &lt;g2&gt;freak out mode&lt;/g2&gt; whereby the browser doesn’t know what to focus and defaults to focusing the document body.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T111155Z" creationid="rikiha" creationdate="20170909T223901Z">
-        <seg>すると、ブラウザは「&lt;g2&gt;フリークアウトモード&lt;/g2&gt;」とも呼ばれる、何をフォーカスしていいか分からない状態となり、ドキュメント本文へのフォーカスがデフォルトとなります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170919T022344Z" creationid="rikiha" creationdate="20170909T223901Z">
+        <seg>すると、ブラウザは「&lt;g2&gt;フリークアウトモード&lt;/g2&gt;」とも呼ばれる、何をフォーカスしていいかわからない状態となり、ドキュメント本文へのフォーカスがデフォルトとなります。</seg>
       </tuv>
     </tu>
     <tu>
