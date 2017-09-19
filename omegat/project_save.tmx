@@ -14259,12 +14259,16 @@ look at は学びましたというか考察しましたというか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田)
+前の文から「表示方法」を拝借しつつ語順を調整。
+</note>
       <tuv lang="EN-US">
         <seg>In this final enhancement to our filtering interface, we’ll give the user the choice between displaying results in list or grid format.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T042911Z" creationid="rikiha" creationdate="20170909T224005Z">
-        <seg>このフィルタリングインターフェイスに対する最後の拡張として、リスト形式とグリッド形式のどちらで検索結果を表示するかをユーザーが選べるようにします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T111258Z" creationid="rikiha" creationdate="20170909T224005Z">
+        <seg>このフィルタリングインターフェイスに対する最後の拡張として、検索結果の表示方法をリスト形式とグリッド形式のどちらにするか、ユーザーが選べるようにしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26611,7 +26615,7 @@ explicitlyを訳出したいかも。「明示的に」としました。
       <tuv lang="EN-US">
         <seg>To complete our filtering widget pattern, we’re going to give our users a choice over the way the filtered content is displayed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T111030Z" creationid="rikiha" creationdate="20170909T224004Z">
+      <tuv lang="JA" changeid="yoota" changedate="20170919T111137Z" creationid="rikiha" creationdate="20170909T224004Z">
         <seg>このフィルタウィジェットのパターンの仕上げとして、フィルターが適用されたコンテンツの表示方法をユーザーが選択できるようにします。</seg>
       </tuv>
     </tu>
