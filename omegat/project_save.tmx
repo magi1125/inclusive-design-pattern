@@ -639,12 +639,15 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田)
+「商品リスト」に。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The live region announces, “Products loaded.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170917T002421Z" creationid="rikiha" creationdate="20170909T223944Z">
-        <seg>&lt;/g1&gt;ライブリージョンが「商品が読み込まれました」と読み上げる。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T100035Z" creationid="rikiha" creationdate="20170909T223944Z">
+        <seg>&lt;/g1&gt;ライブリージョンが「商品リストが読み込まれました」と読み上げる。</seg>
       </tuv>
     </tu>
     <tu>
