@@ -18855,10 +18855,8 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       <note>(伊原) フォーカスを持ったままボタンが居なくなって困る、という話なのでそのように修正。
 
 (太田)
-「表示に変化を起こさずに」の意味が不明。
- the user’s view will not change は何を言っているのか。
-viewはviewport的な意味で「スクロールしない」という話かも。
-というか次の文を見ると「画面外に押し出された」ではないのかも。</note>
+「表示に変化を起こさずに」の意味が不明。 the user’s view will not change のviewはviewport的な意味で「スクロールしない」という話かも。
+</note>
       <tuv lang="EN-US">
         <seg>Otherwise, the user’s view will not change and focus will remain on the &lt;g2&gt;data-load-more&lt;/g2&gt; button which has now been pushed off-screen by the added content.</seg>
       </tuv>
