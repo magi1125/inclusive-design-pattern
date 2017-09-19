@@ -17656,8 +17656,8 @@ OK
       <tuv lang="EN-US">
         <seg>Note that most implementations &lt;g1&gt;only&lt;/g1&gt; remove focus from the button, and don’t move it elsewhere.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T110935Z" creationid="rikiha" creationdate="20170909T223843Z">
-        <seg>たいていのブラウザの実装では、ボタンからフォーカスが外れる&lt;g1&gt;だけ&lt;/g1&gt;で、別のところにフォーカスを移動しないことに注意してください。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T075826Z" creationid="rikiha" creationdate="20170909T223843Z">
+        <seg>たいていのブラウザの実装では、ボタンからフォーカスが外れた&lt;g1&gt;だけ&lt;/g1&gt;では、別のところにフォーカスが移るわけではないことに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
