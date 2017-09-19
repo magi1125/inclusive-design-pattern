@@ -18850,12 +18850,16 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) フォーカスを持ったままボタンが居なくなって困る、という話なのでそのように修正。</note>
+      <note>(伊原) フォーカスを持ったままボタンが居なくなって困る、という話なのでそのように修正。
+
+(太田)
+「表示に変化を起こさずに」の意味が不明。
+ the user’s view will not change はユーザーからの見た目が変わらないという意味と思われます。</note>
       <tuv lang="EN-US">
         <seg>Otherwise, the user’s view will not change and focus will remain on the &lt;g2&gt;data-load-more&lt;/g2&gt; button which has now been pushed off-screen by the added content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T074855Z" creationid="rikiha" creationdate="20170909T223842Z">
-        <seg>そうしないと、フォーカスされたままのdata-load-moreボタンが、表示に変化を起こさずに、追加コンテンツによって画面外に押し出されることになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T075556Z" creationid="rikiha" creationdate="20170909T223842Z">
+        <seg>そうしないと、ユーザーからの見た目は変わりませんが、フォーカスは追加コンテンツによって画面外に押し出された&lt;g2&gt;data-load-more&lt;/g2&gt;ボタンに残ったままになります。</seg>
       </tuv>
     </tu>
     <tu>
