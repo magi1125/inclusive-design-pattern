@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27395,11 +27395,12 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 結びっぽく調整。</note>
       <tuv lang="EN-US">
         <seg>Usually problems arise due to wrapping causing height differences between items, or failures to wrap meaning content breaks out of its box.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T034014Z" creationid="rikiha" creationdate="20170919T034014Z">
-        <seg>通常、問題は折り返しによって項目間の高さに違いが生じたことによって生じます。または、折り返しの不具合によってコンテンツが枠からはみ出します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T034657Z" creationid="rikiha" creationdate="20170919T034014Z">
+        <seg>よくある問題は、折り返しによって項目間の高さに違いが生じる、折り返しの不具合によってコンテンツが枠からはみ出す、といったことに起因するはずです。</seg>
       </tuv>
     </tu>
     <tu>
