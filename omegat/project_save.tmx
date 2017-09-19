@@ -5232,12 +5232,14 @@ andの強調をどうするか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳を反映しつつ調整。</note>
+      <note>(伊原) 下訳を反映しつつ調整。
+
+(岡本)　1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>A five-column grid with eleven items, meaning the last item takes up a whole row on its own.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T124728Z" creationid="rikiha" creationdate="20170918T124647Z">
-        <seg>5カラムのグリッドに11の項目が表示されている。つまり、最後の項目はそれ1つで行全体を占めている。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170919T032953Z" creationid="rikiha" creationdate="20170918T124647Z">
+        <seg>5カラムのグリッドに11の項目が表示されている。つまり、最後の項目はそれひとつで行全体を占めている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18013,6 +18015,7 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)　この図のaltが抜けているように思います。</note>
       <tuv lang="EN-US">
         <seg>Now the grid items are organized around the vertical center line and cannot become more than 20em wide.</seg>
       </tuv>
