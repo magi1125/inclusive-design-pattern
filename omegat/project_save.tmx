@@ -29192,10 +29192,8 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
 
 (太田)
 「単に&lt;g2&gt;return&lt;/g2&gt;できる」とは……?
-type="button"のボタンなので、単に何もせずにreturnすれば良いという話ですね。ここのcanは「こういう方法もある」的な意味であって「できる」という訳ではないような気がします。
+type="button"のボタンなので、単に何もせずにreturnすれば良いという話ですね。ここのcanは「こういう方法もある」的な意味であって「できる」という訳はよくないような気がします。
 しかし括弧内の実装方針に賛同するプログラマは少ないかもしれません。これはテキストが変更になったら動かなくなるやつです。訳注でしょうね。
-
-
 </note>
       <tuv lang="EN-US">
         <seg>You can catch the click and simply &lt;g2&gt;return&lt;/g2&gt; if the loading state is detected (for instance, by looking for “Loading” in the button’s &lt;g3&gt;textContent&lt;/g3&gt;).</seg>
