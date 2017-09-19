@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25755,11 +25755,12 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 誤訳っぽいので修正。</note>
       <tuv lang="EN-US">
         <seg>This script allows you to feed the proposed layout with randomized arrays of content within certain parameters.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T014906Z" creationid="rikiha" creationdate="20170919T014906Z">
-        <seg>このスクリプトを使うと、レイアウト案の特定のパラメータ内にランダムな分量のコンテンツが供給されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T021324Z" creationid="rikiha" creationdate="20170919T014906Z">
+        <seg>このスクリプトを使うと、いくつかのパラメーターの範囲内でランダムに生成されたコンテンツがレイアウト案に流し込まれます。</seg>
       </tuv>
     </tu>
     <tu>
