@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9656,11 +9656,12 @@ the placement of (the &lt;button&gt; and the menu it discloses.)
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整。we often find なので「よく見つける」的な感じかなと。</note>
       <tuv lang="EN-US">
         <seg>First, sometimes HTML already provides the behaviors we often find ourselves needlessly and flimsily recreating in JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224319Z" creationid="rikiha" creationdate="20170909T224319Z">
-        <seg>1つ目は、私たちがしばしば大した根拠もなく不必要にJavaScriptで作り直している動作の中には、HTMLが既に提供しているものがあるということ。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T040018Z" creationid="rikiha" creationdate="20170909T224319Z">
+        <seg>1つ目は、根拠もなく不必要にJavaScriptで作り直している動作の中には、HTMLが既に提供しているものがよくあるということ。</seg>
       </tuv>
     </tu>
     <tu>
