@@ -5920,14 +5920,12 @@ HTMLがないとCSSやJSだけでは成立しないという話。
       <note>(伊原) 読点の位置など加味し語順調整。
 
 (太田)
-どうも違和感があったので2文にしつつ調整してみました。
-
-</note>
+どうにも日本語に違和感があり、importantを重要と訳すことにこだわる必要がないのではないかと思ったので「しましょう」としました。</note>
       <tuv lang="EN-US">
         <seg>After the new content is rendered, it’s important that keyboard focus is moved from the &lt;g1&gt;data-load-more&lt;/g1&gt; button to the first of the newly loaded items.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T074513Z" creationid="rikiha" creationdate="20170909T223842Z">
-        <seg>新しいコンテンツが表示されたあとにしなければならない、重要なことがあります。それは、&lt;g1&gt;data-load-more&lt;/g1&gt;ボタンにあったキーボードフォーカスを、新たに読み込まれた項目の先頭に移動することです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T074656Z" creationid="rikiha" creationdate="20170909T223842Z">
+        <seg>新しいコンテンツが表示されたあとは、&lt;g1&gt;data-load-more&lt;/g1&gt;ボタンにあったキーボードフォーカスを、新たに読み込まれた項目の先頭に移動しましょう。</seg>
       </tuv>
     </tu>
     <tu>
