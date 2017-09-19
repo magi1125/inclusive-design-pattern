@@ -476,15 +476,16 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
 
 (太田)
 否定の命令形で、命令形につくJust。
-まあいいからとにかくちょっと、みたいなニュアンスですかね。
 元訳ではトリになっていますが、ジョーク的ニュアンスが必要な局面なので活かしたほうがいいかも。
 ひとまず「とにかく」としてみました。
+日本では「たとえば、無限スクロールを避ける」というフレーズが知られているかも?
+
 </note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Just don’t implement infinite scrolling.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T053128Z" creationid="rikiha" creationdate="20170909T223832Z">
-        <seg>とにかく無限スクロールを実装しないこと。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T053416Z" creationid="rikiha" creationdate="20170909T223832Z">
+        <seg>無限スクロールを実装しない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -559,8 +560,8 @@ chapter-23の議論で「ユーザーに制御させる」とすることにし�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Replace automatic infinite scrolling with a “Load more results…” button or link that explicitly invites the user to add more.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T142158Z" creationid="rikiha" creationdate="20170909T223833Z">
-        <seg>自動の無限スクロールの代わりに、明示的にユーザーに追加を求める「検索結果をもっと読み込む…」ボタンまたはリンクに置き換える。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T053146Z" creationid="rikiha" creationdate="20170909T223833Z">
+        <seg>自動の無限スクロールの代わりに、明示的にユーザーに追加を求める「検索結果をもっと読み込む……」ボタンまたはリンクに置き換える。</seg>
       </tuv>
     </tu>
     <tu>
