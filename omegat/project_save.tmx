@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17551,11 +17551,12 @@ https://eow.alc.co.jp/search?q=not+do+anything+fancy
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) used a scriptが落ちていたので追加。</note>
       <tuv lang="EN-US">
         <seg>Note that forceFeed.js needs a wrapper element to work, so let’s pretend we’ve used a script to place a &lt;g4&gt;&lt;span&gt;&lt;/g4&gt; around the title before the link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224300Z" creationid="rikiha" creationdate="20170909T224300Z">
-        <seg>forceFeed.jsを機能させるにはラッパー要素が必要なので、リンクの前にあるタイトルを&lt;span&gt;で囲んでいたことにしましょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T033105Z" creationid="rikiha" creationdate="20170909T224300Z">
+        <seg>forceFeed.jsを機能させるにはラッパー要素が必要なことに注意してください。スクリプトを使うために、リンクの前にあるタイトルを&lt;span&gt;で囲んでいたことにしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25193,11 +25194,12 @@ marginは「マージン」で良いかと。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整。</note>
       <tuv lang="EN-US">
         <seg>This helps to test dynamic content for the title of the print.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224258Z" creationid="rikiha" creationdate="20170909T224258Z">
-        <seg>これは、写真プリントのタイトルについて、動的なコンテンツをテストするのに役立ちます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T032120Z" creationid="rikiha" creationdate="20170909T224258Z">
+        <seg>これは、写真プリントのタイトルを動的なコンテンツとしてテストするのに役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
