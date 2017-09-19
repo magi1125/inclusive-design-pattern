@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7516,8 +7516,8 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
       <tuv lang="EN-US">
         <seg>Between one and ten words is the kind of variability we can expect for the titles.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T033822Z" creationid="rikiha" creationdate="20170909T224309Z">
-        <seg>1～10個の単語という変動幅は作品のタイトルの予想としては妥当でしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T033917Z" creationid="rikiha" creationdate="20170909T224309Z">
+        <seg>1～10個の単語という変動幅は、商品タイトルの予想としては妥当でしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28462,7 +28462,7 @@ reorganize難しいですね。「状態を変える」か、超訳ですが「�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 原文に沿うとこうですが、（1個）（10個）と括弧書きによる補足をするかどうか。</note>
+      <note>(伊原) 原文に沿うとこうですが、（1個）（10個）と括弧書きによる補足をするかどうか。下段落にあるからいいか。</note>
       <tuv lang="EN-US">
         <seg>When two numbers are provided, as in &lt;g1&gt;words|1|10&lt;/g1&gt;, the script will place &lt;g2&gt;between&lt;/g2&gt; the first number and second number of array items as the text node.</seg>
       </tuv>
