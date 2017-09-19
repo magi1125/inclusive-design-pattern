@@ -390,12 +390,13 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
 
 (太田)
 「商品リスト」としました。
-しかし隠さなくてもボタンのテキストをそのままライブリージョンにしておけば伝わるような気がしなくもない。</note>
+しかし隠さなくてもボタンのテキストをそのままライブリージョンにしておけば伝わるような気がしなくもない。
+「さらに」は日本語ではあまり言わない気がしたので「追加の」しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;A hidden live region announces, “Loading more products.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T095850Z" creationid="rikiha" creationdate="20170909T223941Z">
-        <seg>&lt;/g1&gt;目には見えないライブリージョンが「さらに商品リストを読み込み中」と読み上げる。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T103620Z" creationid="rikiha" creationdate="20170909T223941Z">
+        <seg>&lt;/g1&gt;目には見えないライブリージョンが「追加の商品リストを読み込み中」と読み上げる。</seg>
       </tuv>
     </tu>
     <tu>
