@@ -6238,12 +6238,13 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
     <tu>
       <note>(伊原) タグが抜けているので追加。効果的な方法➞有効な対処方法、最初の商品のタイトル➞商品の最初のタイトル
 
-(太田) OK</note>
+(太田) 
+「切り替える」がややわかりにくいので「移す」としました。</note>
       <tuv lang="EN-US">
         <seg>An effective course here is to switch focus to the title (&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;) of the first newly returned product.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T120054Z" creationid="rikiha" creationdate="20170909T223907Z">
-        <seg>ここでの有効な対処方法は、新たに表示された商品の最初のタイトル（&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;）にフォーカスを切り替えることです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T090017Z" creationid="rikiha" creationdate="20170909T223907Z">
+        <seg>ここでの有効な対処方法は、新たに表示された商品の最初のタイトル（&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;）にフォーカスを移すことです。</seg>
       </tuv>
     </tu>
     <tu>
