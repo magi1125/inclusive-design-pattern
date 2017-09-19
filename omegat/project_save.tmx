@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27023,12 +27023,15 @@ not cut it はうまくできない、くらいの意味。
     <tu>
       <note>(伊原) 前の段落とセットになるような感じで調整。
 
+(太田)
+resultを訳出。
+「入力モード」は訳としては正しいですが誤解を招く可能性もありそうです (「かな入力モード」など)。ここではキーボードやマウスといったものを指しているので「操作方法」あたりでしょうか。
 </note>
       <tuv lang="EN-US">
         <seg>Unless implemented very carefully, infinite scroll tends to result in a frustrating experience for a number of different input modes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T024514Z" creationid="rikiha" creationdate="20170909T223826Z">
-        <seg>ただし、きわめて慎重に実装されている場合を除き、無限スクロールはさまざまな入力方法に対してストレスに満ちた体験をもたらす結果になる傾向があります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T024754Z" creationid="rikiha" creationdate="20170909T223826Z">
+        <seg>ただし、きわめて慎重に実装されている場合を除き、無限スクロールは、さまざまな操作方法に対してストレスに満ちた体験をもたらす結果になりがちです。</seg>
       </tuv>
     </tu>
     <tu>
