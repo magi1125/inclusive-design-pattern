@@ -25908,12 +25908,14 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
     <tu>
       <note>(伊原) defaultsを訳出。
 
-(岡本)　分からない→わからない</note>
+(岡本)　分からない→わからない
+
+(太田) 少し調整。</note>
       <tuv lang="EN-US">
         <seg>This results in what’s sometimes called &lt;g2&gt;freak out mode&lt;/g2&gt; whereby the browser doesn’t know what to focus and defaults to focusing the document body.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T083615Z" creationid="rikiha" creationdate="20170909T223901Z">
-        <seg>その結果、ブラウザは「&lt;g2&gt;フリークアウトモード&lt;/g2&gt;」とも呼ばれる状態となり、何をフォーカスしていいかわからず、デフォルトでドキュメント本文にフォーカスが当たることになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T083717Z" creationid="rikiha" creationdate="20170909T223901Z">
+        <seg>その結果、ブラウザは「&lt;g2&gt;フリークアウトモード&lt;/g2&gt;」とも呼ばれる状態となり、何をフォーカスしていいかわからず、デフォルトのフォーカス位置としてドキュメント本体にフォーカスが当たることになります。</seg>
       </tuv>
     </tu>
     <tu>
