@@ -1738,12 +1738,16 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) allowingなのでそのような感じに。</note>
+      <note>(伊原) allowingなのでそのような感じに。
+
+(太田)
+「何を」は言っていないですね。
+somethingを訳すなら「何かを」「あるものを」あたりですが、トリでいいかも。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Choice&lt;/g2&gt;: Allowing the user to decide how they want to consume something.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T041908Z" creationid="rikiha" creationdate="20170909T224004Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;選択&lt;/g2&gt;：何をどのように利用するかをユーザーが決められるようにする。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T110921Z" creationid="rikiha" creationdate="20170909T224004Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;選択&lt;/g2&gt;：どのように利用するか、ユーザーが決められるようにする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26600,12 +26604,15 @@ explicitlyを訳出したいかも。「明示的に」としました。
     <tu>
       <note>(伊原) ourを訳しました。
 
-(岡本)　フィルター→フィルター（？？）</note>
+(岡本)　フィルター→フィルター（？？）
+
+(太田)
+「完成させるため」は大げさな感があるので、「仕上げに」くらいで良いかと。</note>
       <tuv lang="EN-US">
         <seg>To complete our filtering widget pattern, we’re going to give our users a choice over the way the filtered content is displayed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170919T024856Z" creationid="rikiha" creationdate="20170909T224004Z">
-        <seg>このフィルタウィジェットのパターンを完成させるために、フィルターが適用されたコンテンツの表示方法をユーザーが選択できるようにします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T111030Z" creationid="rikiha" creationdate="20170909T224004Z">
+        <seg>このフィルタウィジェットのパターンの仕上げとして、フィルターが適用されたコンテンツの表示方法をユーザーが選択できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
