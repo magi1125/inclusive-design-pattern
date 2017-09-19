@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21301,11 +21301,12 @@ http://thesaurus.weblio.jp/content/役どころ
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) breakを破綻としました。</note>
       <tuv lang="EN-US">
         <seg>Testing the tolerance of these word combinations is a simple case of reloading the page repeatedly to see whether any randomized combinations of words appear to break the layout, by causing an ugly wrapping behavior, for example.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224248Z" creationid="rikiha" creationdate="20170909T224248Z">
-        <seg>これらの単語の組み合わせに対する許容度のテストはシンプルです。ページを何度もリロードし、ランダムな組み合わせの単語が、見苦しい折り返しなどによってレイアウトを崩していないか確認します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T031018Z" creationid="rikiha" creationdate="20170909T224248Z">
+        <seg>これらの単語の組み合わせに対する許容度のテストはシンプルです。ページを何度もリロードし、ランダムな組み合わせの単語が、たとえば見苦しい折り返しなどによってレイアウトを破綻させていないかを確認します。</seg>
       </tuv>
     </tu>
     <tu>
