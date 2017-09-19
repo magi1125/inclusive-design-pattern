@@ -26054,12 +26054,13 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       <note>(伊原) 微調整。「新しいコンテンツの最初のインスタンスの名」でわかるかどうか。
 
 (太田)
-少し調整。</note>
+少し調整。
+インスタンスは急に言われてもわかりにくいので「商品名」としました。</note>
       <tuv lang="EN-US">
         <seg>This will place that product at the top of the viewport (which benefits all kinds of sighted users) and trigger the announcement of the &lt;g2&gt;&lt;h3&gt;&lt;/g2&gt;’s text in screen readers, naming the first instance of the new content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T090246Z" creationid="rikiha" creationdate="20170909T223908Z">
-        <seg>こうすると、その商品がビューポートの一番上に来ます（これはあらゆるタイプの目が見えているユーザーに役立ちます）。また、スクリーンリーダーでは、新しいコンテンツの最初の商品名として&lt;g2&gt;&lt;h3&gt;&lt;/g2&gt;テキストが読み上げられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T090417Z" creationid="rikiha" creationdate="20170909T223908Z">
+        <seg>こうすると、その商品がビューポートの一番上に来ます（これはあらゆるタイプの目が見えているユーザーに役立ちます）。また、スクリーンリーダーでは、新しいコンテンツの最初の商品名である&lt;g2&gt;&lt;h3&gt;&lt;/g2&gt;テキストが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
