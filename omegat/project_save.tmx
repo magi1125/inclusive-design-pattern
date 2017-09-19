@@ -5580,7 +5580,9 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) h3にフォーカスが移動したあとの話なので「そこから」と補いました。</note>
+      <note>(伊原) h3にフォーカスが移動したあとの話なので「そこから」と補いました。
+
+</note>
       <tuv lang="EN-US">
         <seg>A press of the &lt;g7&gt;Tab&lt;/g7&gt; key will take them to the artist link, and another press to the “Buy now” link.</seg>
       </tuv>
@@ -27688,8 +27690,8 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       <tuv lang="EN-US">
         <seg>We are only focusing the &lt;g6&gt;&lt;h3&gt;&lt;/g6&gt; to place the user in the correct context and to trigger announcement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T092118Z" creationid="rikiha" creationdate="20170909T223914Z">
-        <seg>&lt;g6&gt;&lt;h3&gt;&lt;/g6&gt;にフォーカスを移すのは、ユーザーを適切なコンテキストに導き、そこから読み上げをはじめさせるためです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T092522Z" creationid="rikiha" creationdate="20170909T223914Z">
+        <seg>&lt;g6&gt;&lt;h3&gt;&lt;/g6&gt;にフォーカスを移すのは、ユーザーを適切なコンテキストに導き、読み上げをはじめさせるためです。</seg>
       </tuv>
     </tu>
     <tu>
