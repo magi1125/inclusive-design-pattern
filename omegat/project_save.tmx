@@ -481,8 +481,8 @@ oftenはbeneficialについていて、素直に読むと「2人目のユーザ�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Just don’t implement infinite scrolling.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T053416Z" creationid="rikiha" creationdate="20170909T223832Z">
-        <seg>無限スクロールを実装しない。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T053602Z" creationid="rikiha" creationdate="20170909T223832Z">
+        <seg>無限スクロールは実装しない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -557,8 +557,8 @@ chapter-23の議論で「ユーザーに制御させる」とすることにし�
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Replace automatic infinite scrolling with a “Load more results…” button or link that explicitly invites the user to add more.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T053146Z" creationid="rikiha" creationdate="20170909T223833Z">
-        <seg>自動の無限スクロールの代わりに、明示的にユーザーに追加を求める「検索結果をもっと読み込む……」ボタンまたはリンクに置き換える。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T053631Z" creationid="rikiha" creationdate="20170909T223833Z">
+        <seg>自動の無限スクロールの代わりに、「検索結果をもっと読み込む……」ボタンまたはリンクに置き換えて、ユーザーが明示的に追加を求めるようにする。</seg>
       </tuv>
     </tu>
     <tu>
