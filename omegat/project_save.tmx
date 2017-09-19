@@ -6597,7 +6597,9 @@ svg要素の中のstyle要素でスタイルを指定するとSVG対応ブラウ
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 場合➞こと
+      <note>※要訳注?
+
+(伊原) 場合➞こと
 
 (太田)
 マウスユーザーの一般論というよりも、ヘイドンさん自身がマウスユーザーであり、マウスユーザーとして言うとこうだ、というニュアンスで書いてますね。「いっぱしのマウス使いとして言わせていただくなら、私は～」みたいな感じ。
@@ -6605,7 +6607,8 @@ svg要素の中のstyle要素でスタイルを指定するとSVG対応ブラウ
 私はマウスを使っていますが、スクロールバーのハンドルをドラッグしてページをスクロールすることもあります。
 
 とか。
-つながりが唐突なので「たとえば」を補いました。</note>
+つながりが唐突なので「たとえば」を補いました。
+「ハンドル」わかりますかね? 要訳注?</note>
       <tuv lang="EN-US">
         <seg>As a mouse user, I might scroll the page by dragging the scrollbar’s handle.</seg>
       </tuv>
@@ -28295,8 +28298,8 @@ in this way を取っても意味は通じるので、単にトリで良いよ�
       <tuv lang="EN-US">
         <seg>When new results load, this handle will move upwards in accordance with the greater amount of content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T082335Z" creationid="rikiha" creationdate="20170909T223828Z">
-        <seg>新しい検索結果が読み込まれると、コンテンツの量が増え、それに伴ってハンドルが上に移動します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T025927Z" creationid="rikiha" creationdate="20170909T223828Z">
+        <seg>新しい検索結果が読み込まれると、コンテンツの量が増えたことに伴って、ハンドルが上に移動します。</seg>
       </tuv>
     </tu>
     <tu>
