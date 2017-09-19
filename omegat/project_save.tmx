@@ -17409,7 +17409,9 @@ serif fontは前で「セリフ書体」としていたので合わせました�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 訳としてはそうおかしくはないが、かなり状況が想像しにくい。
+      <note>※要訳注?
+
+(伊原) 訳としてはそうおかしくはないが、かなり状況が想像しにくい。
 
 前の段落での説明：
 ・ハンドルをドラッグして下に持っていく
@@ -17433,7 +17435,7 @@ serif fontは前で「セリフ書体」としていたので合わせました�
 普通、スクロールバーのハンドルを動かしてスクロールしたら、マウスから一度手を離します。そして再度スクロールしようと思ったら、そのままmousedownしてポインタを上下に動かせばいいわけです。コンテンツに注目したまま、スクロールバーを見ずにこの操作をすることも多いでしょう。
 しかし、無限スクロールする場合はいつのまにかハンドルがその場所からいなくなっています。スクロールバーを見ないでいつもの感覚で再度スクロールしようとすると、ドラッグのつもりのmousedownがトラック部分をクリックした動作になってしまいます。
 ……ということで、スクロールバーを見ないで操作することがある、ということを言わないと想像しにくいかもしれません。
-</note>
+訳注?</note>
       <tuv lang="EN-US">
         <seg>Not realizing the handle has moved away from reach, I may click the scroll track instead and make the page lurch downwards from my current location: a hugely counterintuitive and annoying experience, wherein I’m liable to skip over unread content.</seg>
       </tuv>
