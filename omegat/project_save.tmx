@@ -14192,8 +14192,8 @@ look at は学びましたというか考察しましたというか。
       <tuv lang="EN-US">
         <seg>In this case, user focus is not desirable because the &lt;g5&gt;&lt;h3&gt;&lt;/g5&gt; is not an actionable (interactive) element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T091221Z" creationid="rikiha" creationdate="20170909T223912Z">
-        <seg>このケースでは、&lt;g5&gt;&lt;h3&gt;&lt;/g5&gt;はアクションの対象になる（インタラクティブな）要素ではないので、ユーザーがフォーカスできるようにすることは望ましくありません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T091235Z" creationid="rikiha" creationdate="20170909T223912Z">
+        <seg>このケースでは、&lt;g5&gt;&lt;h3&gt;&lt;/g5&gt;はアクションの対象になる（インタラクティブな）要素ではないので、ユーザーがフォーカスすることは望ましくありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27218,13 +27218,14 @@ resultを訳出。
     <tu>
       <note>(伊原) 多少補いつつ調整。
 
-(太田) 微調整。
-</note>
+(太田)
+微調整。
+原文にはキーボードユーザーと書いてありますが、別にキーボードユーザーに限らないので単に「ユーザー」としました (マウスで押してもフォーカスされない)。</note>
       <tuv lang="EN-US">
         <seg>Unlike &lt;g4&gt;tabindex="0"&lt;/g4&gt;, elements are not focusable by keyboard users directly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T090832Z" creationid="rikiha" creationdate="20170909T223910Z">
-        <seg>&lt;g4&gt;tabindex="0"&lt;/g4&gt;とは違い、この指定を行った要素は、キーボードユーザーが直接フォーカスすることはできません。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T091326Z" creationid="rikiha" creationdate="20170909T223910Z">
+        <seg>&lt;g4&gt;tabindex="0"&lt;/g4&gt;とは違い、この指定を行った要素は、ユーザーが直接フォーカスすることはできません。</seg>
       </tuv>
     </tu>
     <tu>
