@@ -559,12 +559,16 @@ chapter-23の議論で「ユーザーに制御させる」とすることにし�
     <tu>
       <note>(伊原) ちょっと違うので調整。
 
-(太田) すこし調整。</note>
+(太田)
+すこし調整。
+add more は言わなくてもわかるのでトリました。
+「もっと読み込む」は日本語としてはあまり言わない気がするので「さらに表示」としました。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Replace automatic infinite scrolling with a “Load more results…” button or link that explicitly invites the user to add more.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T054725Z" creationid="rikiha" creationdate="20170909T223833Z">
-        <seg>自動の無限スクロールを、ユーザーが明示的に操作する「検索結果をもっと読み込む……」というボタンやリンクに置き換えましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T054924Z" creationid="rikiha" creationdate="20170909T223833Z">
+        <seg>自動の無限スクロールを、ユーザーが明示的に操作する「検索結果をさらに表示……」というボタンやリンクに置き換えましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18431,8 +18435,8 @@ OK
 
 (太田)
 OK
-しかしめんどくさい実装だなとは思いました。
-</note>
+しかしめんどくさい実装だなと思いました。
+一度オンにしたあとオフに戻せるの? UIは? とかいろいろ検討が必要ですし。</note>
       <tuv lang="EN-US">
         <seg>Once they do a few times, prompt them to ask if they’d like to turn auto-loading of more results on.</seg>
       </tuv>
