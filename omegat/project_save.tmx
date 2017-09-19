@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23774,11 +23774,12 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 訳としてはこんな感じですが、意訳したほうが良さそうな感じがします。</note>
       <tuv lang="EN-US">
         <seg>The script also allows you to add &lt;g1&gt;between&lt;/g1&gt; &lt;g2&gt;x&lt;/g2&gt; and &lt;g3&gt;n&lt;/g3&gt; numbers of array items.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224257Z" creationid="rikiha" creationdate="20170909T224257Z">
-        <seg>forceFeed.jsにはもう1つの特徴があり、並べる項目数の範囲をスクリプトに加えることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T032038Z" creationid="rikiha" creationdate="20170909T224257Z">
+        <seg>このスクリプトでは、配列項目をxからnのあいだの数で追加することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24528,6 +24529,14 @@ VoiceOverは! なんと!! しれっと「トリグラムフォーヘブン」な
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170831T080502Z" creationid="rikiha" creationdate="20170828T141621Z">
         <seg>サンドラのような人は必ずいますし、世の中のライアンたち、バーバラたち、ザビエルたちと同じように体験できて然るべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There’s another dimension to forceFeed.js.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T031520Z" creationid="rikiha" creationdate="20170919T031423Z">
+        <seg>forceFeed.jsにはもう1つの特徴があります。</seg>
       </tuv>
     </tu>
     <tu>
