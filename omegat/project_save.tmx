@@ -14203,12 +14203,13 @@ look at は学びましたというか考察しましたというか。
     <tu>
       <note>(伊原) canっぽく。丸ごと絵に置き換えるわけではないのですが、後を読めばわかるか。
 
-(太田) OK</note>
+(太田) OK
+置き換えることが→置き換えることも、としました。</note>
       <tuv lang="EN-US">
         <seg>In this case, we can replace the “Load more” button’s text node with that graphic.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T225044Z" creationid="rikiha" creationdate="20170909T223936Z">
-        <seg>このケースでは、「もっと読み込む」ボタンのテキストノードを読み込み中アイコンで置き換えることができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T093153Z" creationid="rikiha" creationdate="20170909T223936Z">
+        <seg>このケースでは、「もっと読み込む」ボタンのテキストノードを読み込み中アイコンで置き換えることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23497,7 +23498,11 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) JS的なイベントではないので、成り行きとしてみました。</note>
+      <note>(伊原) JS的なイベントではないので、成り行きとしてみました。
+
+(太田)
+これはイベントでも良いように思います (HTMLのイベントではないが、JS内のイベントではあるはず。実際、コールバック関数を渡して処理するのでしょうし)。
+</note>
       <tuv lang="EN-US">
         <seg>The order of events should be as follows:</seg>
       </tuv>
