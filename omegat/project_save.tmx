@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28331,12 +28331,18 @@ in this way を取っても意味は通じるので、単にトリで良いよ�
     </tu>
     <tu>
       <note>(伊原) 要検討。streamを名詞として使っている。ストリームと訳すなら分節2999も合わせる必要ありだが、ストリームとだけ言っても多分わからないので、どうしたものか。
-それ以外の部分をひとまず微調整。</note>
+それ以外の部分をひとまず微調整。
+
+(太田)
+ストリームで良いと思います。上もストリームとしました。
+pastは超えるというか、通り過ぎる、通り越す、通過するなどのほうが分かりやすいかも、
+impossibleは「不可能になる」くらい強くしたいところ。
+</note>
       <tuv lang="EN-US">
         <seg>When items within the stream have interactive elements (such as our “Buy Now” buttons), focusable elements are added to the stream ad infinitum, making it impossible to tab past the main content to interactive elements that reside below it in the footer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T124652Z" creationid="rikiha" creationdate="20170909T223830Z">
-        <seg>ストリームの中の項目にインタラクティブな要素（「今すぐ購入」ボタンなど）があると、フォーカス可能な要素がストリームに無限に追加されます。その結果、Tabキーでメインコンテンツを超えることができず、下のフッター内にあるインタラクティブな要素に移動できなくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T033530Z" creationid="rikiha" creationdate="20170909T223830Z">
+        <seg>ストリームの中の項目にインタラクティブな要素（「今すぐ購入」ボタンなど）があると、フォーカス可能な要素がストリームに無限に追加されます。その結果、Tabキーでメインコンテンツを通り越すことが不可能になり、下のフッター内のインタラクティブな要素に移動することができなくなります。</seg>
       </tuv>
     </tu>
     <tu>
