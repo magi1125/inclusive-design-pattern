@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17428,15 +17428,17 @@ serif fontは前で「セリフ書体」としていたので合わせました�
 
 
 (太田)
+補いOK。
 これはTwitterとかで普通に発生しますね。
 普通、スクロールバーのハンドルを動かしてスクロールしたら、マウスから一度手を離します。そして再度スクロールしようと思ったら、そのままmousedownしてポインタを上下に動かせばいいわけです。コンテンツに注目したまま、スクロールバーを見ずにこの操作をすることも多いでしょう。
 しかし、無限スクロールする場合はいつのまにかハンドルがその場所からいなくなっています。スクロールバーを見ないでいつもの感覚で再度スクロールしようとすると、ドラッグのつもりのmousedownがトラック部分をクリックした動作になってしまいます。
+……ということで、スクロールバーを見ないで操作することがある、ということを言わないと想像しにくいかもしれません。
 </note>
       <tuv lang="EN-US">
         <seg>Not realizing the handle has moved away from reach, I may click the scroll track instead and make the page lurch downwards from my current location: a hugely counterintuitive and annoying experience, wherein I’m liable to skip over unread content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T122601Z" creationid="rikiha" creationdate="20170909T223829Z">
-        <seg>ハンドルがマウスカーソルから離れた所に移動したことに気付かなかった場合、再度ハンドルをドラッグしようとしても、代わりにスクロールバーのトラック部分をクリックしてしまい、ページが現在位置から急に下に飛びます。これはかなり直観に反する不快な体験で、まだ見ていないコンテンツを見逃してしまう恐れがあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T032100Z" creationid="rikiha" creationdate="20170909T223829Z">
+        <seg>ハンドルがマウスカーソルから離れた所に移動したことに気付かなかった場合、再度ハンドルをドラッグしようとした際、代わりにスクロールバーのトラック部分をクリックしてしまい、ページが現在位置から急に下に飛びます。これはかなり直観に反する不快な体験で、まだ見ていないコンテンツを見逃してしまう恐れがあります。</seg>
       </tuv>
     </tu>
     <tu>
