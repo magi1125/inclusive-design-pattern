@@ -386,12 +386,15 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここでのhiddenは視覚的ではないという意味なので、そのような感じに。</note>
+      <note>(伊原) ここでのhiddenは視覚的ではないという意味なので、そのような感じに。
+
+(太田)
+「商品リスト」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;A hidden live region announces, “Loading more products.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170917T002413Z" creationid="rikiha" creationdate="20170909T223941Z">
-        <seg>&lt;/g1&gt;目には見えないライブリージョンが「さらに商品を読み込み中」と読み上げる。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T095850Z" creationid="rikiha" creationdate="20170909T223941Z">
+        <seg>&lt;/g1&gt;目には見えないライブリージョンが「さらに商品リストを読み込み中」と読み上げる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29196,10 +29199,7 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
 
 しかし括弧内の実装方針に賛同するプログラマは少ないかもしれません。これはテキストが変更になったら動かなくなる設計です。訳注でしょう。
 
-ちなみにこの処理、JS無効時は考慮するのでしょうか。少し前のコードは &lt;button data-load-more&gt;Load more&lt;/button&gt; で type 属性がないのですが、type属性のデフォルトはsubmitなので、このボタンがform内に置かれているとsubmitされます。JS無効時にsubmitする実装とするなら、単にreturnするだけでなくsubmit動作をキャンセルする処理も必要です。JSのコードがないので意図が良くわからないですね。
-
-
-</note>
+ちなみにこの処理、JS無効時は考慮するのでしょうか。少し前のコードは &lt;button data-load-more&gt;Load more&lt;/button&gt; で type 属性がないのですが、type属性のデフォルトはsubmitなので、このボタンがform内に置かれているとsubmitされます。JS無効時にsubmitする実装とするなら、単にreturnするだけでなくsubmit動作をキャンセルする処理も必要です。JSのコードがないので意図が良くわからないですね。</note>
       <tuv lang="EN-US">
         <seg>You can catch the click and simply &lt;g2&gt;return&lt;/g2&gt; if the loading state is detected (for instance, by looking for “Loading” in the button’s &lt;g3&gt;textContent&lt;/g3&gt;).</seg>
       </tuv>
