@@ -389,7 +389,8 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       <note>(伊原) ここでのhiddenは視覚的ではないという意味なので、そのような感じに。
 
 (太田)
-「商品リスト」としました。</note>
+「商品リスト」としました。
+しかし隠さなくてもボタンのテキストをそのまま「読み込み中」に変える実装も考えられますね。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;A hidden live region announces, “Loading more products.”</seg>
       </tuv>
