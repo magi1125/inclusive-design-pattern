@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22477,15 +22477,18 @@ to go in search of the ultimate boilerplate は、おそらくHTML5 Boilerplate�
       <note>(伊原) a streamをprovideしているので、流れるようにというのはちょっと変な気が。調整してみました。
 
 (太田)
-a stream of new content は直訳するとあたらしいコンテンツのストリームで、まあそのままですよね。
+a stream of new content は直訳すると新しいコンテンツのストリームで、まあそのままですよね。「読み込まれる流れ」とするのはちょっとニュアンスが違うように思います。
+カタカナ「ストリーム」でもいいのかも。
+
+
 
 
 </note>
       <tuv lang="EN-US">
         <seg>The aim is to provide a stream of new content to the user without necessitating an action on their part.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T082042Z" creationid="rikiha" creationdate="20170909T223826Z">
-        <seg>ユーザー側のアクションを必要とせずに、新しいコンテンツが読み込まれる流れをもたらすことが狙いです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T023011Z" creationid="rikiha" creationdate="20170909T223826Z">
+        <seg>その狙いは、ユーザー側のアクションを必要とせずに、新しいコンテンツのストリームを提供することです。</seg>
       </tuv>
     </tu>
     <tu>
