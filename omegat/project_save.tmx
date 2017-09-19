@@ -9660,8 +9660,8 @@ the placement of (the &lt;button&gt; and the menu it discloses.)
       <tuv lang="EN-US">
         <seg>First, sometimes HTML already provides the behaviors we often find ourselves needlessly and flimsily recreating in JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T040018Z" creationid="rikiha" creationdate="20170909T224319Z">
-        <seg>1つ目は、根拠もなく不必要にJavaScriptで作り直している動作の中には、HTMLが既に提供しているものがよくあるということ。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T040036Z" creationid="rikiha" creationdate="20170909T224319Z">
+        <seg>1つ目は、根拠もなく不必要にJavaScriptで作り直している動作の中には、HTMLで既に提供されているものがよくあるということ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19798,11 +19798,12 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 訳はこうだと思うのですが意味がわかりにくい。CSS依存にするなということなのだとは思いますが…。</note>
       <tuv lang="EN-US">
         <seg>Second, when using semantic HTML, CSS can be used as a form of progressive enhancement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224320Z" creationid="rikiha" creationdate="20170909T224320Z">
-        <seg>そして2つ目は、セマンティックHTMLを使用するときに、CSSをプログレッシブエンハンスメントという形で使用できるということ。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T040322Z" creationid="rikiha" creationdate="20170909T224320Z">
+        <seg>2つ目は、セマンティックHTMLを使用するときに、CSSをプログレッシブエンハンスメントのひとつの形態として使えるということ。</seg>
       </tuv>
     </tu>
     <tu>
