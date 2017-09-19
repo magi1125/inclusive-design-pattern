@@ -17907,8 +17907,8 @@ the URLは「このページのURL」としてみました。
       <tuv lang="EN-US">
         <seg>Now it’s back to refreshing the page and adapting the grid to tolerate any visual breakages better.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224312Z" creationid="rikiha" creationdate="20170909T224312Z">
-        <seg>後はページをリフレッシュし、グリッドに調整を加えて、視覚的な崩れに対する耐性を高めます。通常、問題は折り返しによって項目間の高さに違いが生じたことによって生じます。または、折り返しの不具合によってコンテンツが枠からはみ出します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T034009Z" creationid="rikiha" creationdate="20170909T224312Z">
+        <seg>後はページを再読み込みし、グリッドに調整を加えて、視覚的な崩れに対する耐性を高めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27388,6 +27388,14 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095849Z" creationid="okamoto_jun" creationdate="20170627T095849Z">
         <seg>Web API （「バニラ」JavaScript）で書くと、おおむね以下のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usually problems arise due to wrapping causing height differences between items, or failures to wrap meaning content breaks out of its box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T034014Z" creationid="rikiha" creationdate="20170919T034014Z">
+        <seg>通常、問題は折り返しによって項目間の高さに違いが生じたことによって生じます。または、折り返しの不具合によってコンテンツが枠からはみ出します。</seg>
       </tuv>
     </tu>
     <tu>
