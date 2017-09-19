@@ -28337,12 +28337,12 @@ in this way を取っても意味は通じるので、単にトリで良いよ�
 ストリームで良いと思います。上もストリームとしました。
 pastは超えるというか、通り過ぎる、通り越す、通過するなどのほうが分かりやすいかも、
 impossibleは「不可能になる」くらい強くしたいところ。
-</note>
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>When items within the stream have interactive elements (such as our “Buy Now” buttons), focusable elements are added to the stream ad infinitum, making it impossible to tab past the main content to interactive elements that reside below it in the footer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T033530Z" creationid="rikiha" creationdate="20170909T223830Z">
-        <seg>ストリームの中の項目にインタラクティブな要素（「今すぐ購入」ボタンなど）があると、フォーカス可能な要素がストリームに無限に追加されます。その結果、Tabキーでメインコンテンツを通り越すことが不可能になり、下のフッター内のインタラクティブな要素に移動することができなくなります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T033554Z" creationid="rikiha" creationdate="20170909T223830Z">
+        <seg>ストリームの中の項目にインタラクティブな要素（「今すぐ購入」ボタンなど）があると、フォーカス可能な要素がストリームに無限に追加されていきます。その結果、Tabキーでメインコンテンツを通り越すことが不可能になり、下のフッター内のインタラクティブな要素に移動することができなくなります。</seg>
       </tuv>
     </tu>
     <tu>
