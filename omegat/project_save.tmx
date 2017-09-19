@@ -28449,8 +28449,8 @@ reorganize難しいですね。「状態を変える」か、超訳ですが「�
       <tuv lang="EN-US">
         <seg>When two numbers are provided, as in &lt;g1&gt;words|1|10&lt;/g1&gt;, the script will place &lt;g2&gt;between&lt;/g2&gt; the first number and second number of array items as the text node.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224305Z" creationid="rikiha" creationdate="20170909T224305Z">
-        <seg>words|1|10のように2つの数字を指定すると、スクリプトは1個（1つ目の数字）から10個（2つ目の数字）の項目をテキストノードとして配置します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T033531Z" creationid="rikiha" creationdate="20170909T224305Z">
+        <seg>&lt;g1&gt;words|1|10&lt;/g1&gt;のように2つの数字を指定すると、スクリプトは1個（1つ目の数字）から10個（2つ目の数字）の項目をテキストノードとして配置します。</seg>
       </tuv>
     </tu>
     <tu>
