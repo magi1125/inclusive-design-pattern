@@ -18464,7 +18464,7 @@ aria-labelledbyがあるとそっちが優先だったり、細かいルール�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 括弧を外しつつ調整。</note>
+      <note>(伊原) 括弧を外しつつ調整。欧米ではカンプはもう廃れたのですかね。</note>
       <tuv lang="EN-US">
         <seg>One of the main reasons static mockups of interface components are defunct is that they tend to represent idealized content: people’s names of a particular length, and descriptions all exactly five lines high, for instance.</seg>
       </tuv>
@@ -28274,11 +28274,12 @@ in this way を取っても意味は通じるので、単にトリで良いよ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整。</note>
       <tuv lang="EN-US">
         <seg>When the front-end is built, problems can occur where variable content has an unexpected effect on layout.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224222Z" creationid="rikiha" creationdate="20170909T224222Z">
-        <seg>そしてフロントエンドが作られると、変動するコンテンツがレイアウトに予期せぬ影響を与えて問題が発生します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170919T011715Z" creationid="rikiha" creationdate="20170909T224222Z">
+        <seg>そしてフロントエンドが実装されたとき、変動するコンテンツがレイアウトに予期せぬ影響を与えて問題が発生します。</seg>
       </tuv>
     </tu>
     <tu>
