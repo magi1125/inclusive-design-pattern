@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27711,12 +27711,14 @@ the prototyping experience とは。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) informedはインフォームド・コンセントのそれっぽいので、調整。</note>
+      <note>(伊原) informedはインフォームド・コンセントのそれっぽいので、調整。
+
+(岡本)　裏付け→裏づけ</note>
       <tuv lang="EN-US">
         <seg>We still have to make some decisions in isolation, of course, because not every part of a design can be informed directly by user research.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T021354Z" creationid="rikiha" creationdate="20170909T224001Z">
-        <seg>もちろん、デザインのすべての部分をユーザーリサーチで直接裏付けられるわけではなく、デザイナーが個別に判断しなければならないものもあります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170919T024742Z" creationid="rikiha" creationdate="20170909T224001Z">
+        <seg>もちろん、デザインのすべての部分をユーザーリサーチで直接裏づけられるわけではなく、デザイナーが個別に判断しなければならないものもあります。</seg>
       </tuv>
     </tu>
     <tu>
