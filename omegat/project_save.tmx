@@ -689,12 +689,16 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ニュアンスを補足。</note>
+      <note>(伊原) ニュアンスを補足。
+
+(太田)
+ボタンがテキストノードに戻るというのは変かも。
+hasだから中身のテキストノードが変わる話ですね。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The “Load more” button has its original text node reinstated and &lt;g2&gt;click&lt;/g2&gt; events are handled again.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170917T002555Z" creationid="rikiha" creationdate="20170909T223946Z">
-        <seg>&lt;/g1&gt;「もっと読み込む」ボタンが元のテキストノードに戻り、&lt;g2&gt;clickイベント&lt;/g2&gt;も再度処理されるようになる。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T103733Z" creationid="rikiha" creationdate="20170909T223946Z">
+        <seg>&lt;/g1&gt;「もっと読み込む」ボタンの中身が元のテキストノードに戻り、&lt;g2&gt;clickイベント&lt;/g2&gt;も再度処理されるようになる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23925,7 +23929,9 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳を反映</note>
+      <note>(伊原) 下訳を反映
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>The second button is disabled so grayed out.</seg>
       </tuv>
