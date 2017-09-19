@@ -5920,12 +5920,12 @@ HTMLがないとCSSやJSだけでは成立しないという話。
       <note>(伊原) 読点の位置など加味し語順調整。
 
 (太田)
-どうにも日本語に違和感があり、importantを重要と訳すことにこだわる必要がないのではないかと思ったので「しましょう」としました。</note>
+どうにも日本語に違和感があり、次とのつながりを考えてもimportantを重要と訳すことにこだわらないほうが良いと思ったので、意訳気味に「しましょう」としました。</note>
       <tuv lang="EN-US">
         <seg>After the new content is rendered, it’s important that keyboard focus is moved from the &lt;g1&gt;data-load-more&lt;/g1&gt; button to the first of the newly loaded items.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170919T074728Z" creationid="rikiha" creationdate="20170909T223842Z">
-        <seg>新しいコンテンツが表示されたあとは、&lt;g1&gt;data-load-more&lt;/g1&gt;ボタンにあるキーボードフォーカスを、新たに読み込まれた項目の先頭へ移動しましょう。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T074757Z" creationid="rikiha" creationdate="20170909T223842Z">
+        <seg>新しいコンテンツが表示されたら、&lt;g1&gt;data-load-more&lt;/g1&gt;ボタンにあるキーボードフォーカスを、新たに読み込まれた項目の先頭へと移動しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18854,8 +18854,8 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       <tuv lang="EN-US">
         <seg>Otherwise, the user’s view will not change and focus will remain on the &lt;g2&gt;data-load-more&lt;/g2&gt; button which has now been pushed off-screen by the added content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T105201Z" creationid="rikiha" creationdate="20170909T223842Z">
-        <seg>そうでなければ、フォーカスされたままのdata-load-moreボタンが、表示に変化を起こさずに、追加コンテンツによって画面外に押し出されることになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T074806Z" creationid="rikiha" creationdate="20170909T223842Z">
+        <seg>そうしなければ、フォーカスされたままのdata-load-moreボタンが、表示に変化を起こさずに、追加コンテンツによって画面外に押し出されることになります。</seg>
       </tuv>
     </tu>
     <tu>
