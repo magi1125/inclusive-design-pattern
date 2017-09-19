@@ -596,12 +596,15 @@ Theを重視するなら「テスト対象の」と補うのもありか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田)
+「それ以上」はなくても良いのでトリました。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The button’s text is changed to “Loading:” and is set to handle no further clicks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170917T002409Z" creationid="rikiha" creationdate="20170909T223939Z">
-        <seg>&lt;/g1&gt;ボタンのテキストが「読み込み中」に代わり、それ以上クリックを受け付けないよう設定される。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T094154Z" creationid="rikiha" creationdate="20170909T223939Z">
+        <seg>&lt;/g1&gt;ボタンのテキストが「読み込み中」に代わり、クリックを受け付けないように設定される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,7 +653,9 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The user clicks the “Load more” button.</seg>
       </tuv>
@@ -23501,13 +23506,15 @@ updateはここでは「付け加える」くらいの意味かと思います�
       <note>(伊原) JS的なイベントではないので、成り行きとしてみました。
 
 (太田)
-これはイベントでも良いように思います (HTMLのイベントではないが、JS内のイベントではあるはず。実際、コールバック関数を渡して処理するのでしょうし)。
+急に成り行きと言われても良くわからない印象です。
+このeventはふつうに「出来事」の意味ですね。
+「イベントが発生する順」でも伝わるようには思いますが、まあ、無理に訳さなくても「以下のような順になるでしょう」くらいでも良いかと。
 </note>
       <tuv lang="EN-US">
         <seg>The order of events should be as follows:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170916T225649Z" creationid="rikiha" creationdate="20170909T223937Z">
-        <seg>成り行きは以下の順の通りです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170919T094054Z" creationid="rikiha" creationdate="20170909T223937Z">
+        <seg>その場合、以下のような順で動作することになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
