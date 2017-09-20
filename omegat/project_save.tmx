@@ -28340,8 +28340,8 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       <tuv lang="EN-US">
         <seg>What we’ve established is a self-governing grid system.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T120111Z" creationid="rikiha" creationdate="20170909T224044Z">
-        <seg>構築してきたのは、自己管理型のグリッドシステムです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T104746Z" creationid="rikiha" creationdate="20170909T224044Z">
+        <seg>構築してきたのは、自律的に構成されるグリッドシステムです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29216,12 +29216,17 @@ descriptive説明的でいいのか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整</note>
+      <note>(伊原) 微調整
+
+(太田)
+強調語句は原文に沿って訳してあげたいという気持ち。
+「無限の」としました。
+</note>
       <tuv lang="EN-US">
         <seg>With very little code, we are able to ensure our content remains unbroken across an &lt;g1&gt;infinite&lt;/g1&gt; range of viewport widths.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T120510Z" creationid="rikiha" creationdate="20170909T224045Z">
-        <seg>ごく少ないコードで、&lt;g1&gt;あらゆる&lt;/g1&gt;ビューポートの幅に対して、コンテンツを崩さずに表示できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T104858Z" creationid="rikiha" creationdate="20170909T224045Z">
+        <seg>ごく少ないコードで、&lt;g1&gt;無限の&lt;/g1&gt;ビューポート範囲に対して、コンテンツを崩さずに表示できます。</seg>
       </tuv>
     </tu>
     <tu>
