@@ -1858,12 +1858,17 @@ iterateは「試行錯誤」推しでいきたいと思いましたがどうで�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 実装に沿って調整。</note>
+      <note>(伊原) 実装に沿って調整。
+
+(太田)
+今の訳だとflexコンテナの幅が10em以下の場合と言っているように読めてしまいますが、それはおかしいような。
+alongside other items なので、他の項目たちの横に10emのスペースが余っていなければ、ということでしょう。
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-wrap&lt;/g2&gt; is switched on so items will wrap to the next row when there is not enough room to fit them alongside other items greater than 10em in width.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170920T102608Z" creationid="rikiha" creationdate="20170909T224043Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-wrap&lt;/g2&gt;を指定しているため、項目を横並びに収めるのに十分な幅10em以上のスペースがないとき、項目が次の行に折り返します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T103317Z" creationid="rikiha" creationdate="20170909T224043Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-wrap&lt;/g2&gt;が有効になっているため、他の項目の横に幅10em以上のスペースがなく、要素が収まらないときは、次の行に折り返して表示されます。</seg>
       </tuv>
     </tu>
     <tu>
