@@ -25908,12 +25908,15 @@ in either direction は無くても分かりますし、逆に混乱しそうな
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 実装的にはこういう意味かなと。</note>
+      <note>(伊原) 実装的にはこういう意味かなと。
+
+(太田)
+少し調整しました。</note>
       <tuv lang="EN-US">
         <seg>This means that the automatic reflow of columns that we’ve established is sensitive to font size.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T105229Z" creationid="rikiha" creationdate="20170909T224041Z">
-        <seg>つまり、文字サイズに反応してカラムが自動的にリフローするように構築されます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T101525Z" creationid="rikiha" creationdate="20170909T224041Z">
+        <seg>つまり、ここで構築したカラムは、文字サイズの変更に応じて反応して自動的にリフローします。</seg>
       </tuv>
     </tu>
     <tu>
