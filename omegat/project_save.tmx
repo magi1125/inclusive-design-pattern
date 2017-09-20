@@ -25911,12 +25911,12 @@ in either direction は無くても分かりますし、逆に混乱しそうな
       <note>(伊原) 実装的にはこういう意味かなと。
 
 (太田)
-少し調整しました。</note>
+少し補いつつ調整しました。</note>
       <tuv lang="EN-US">
         <seg>This means that the automatic reflow of columns that we’ve established is sensitive to font size.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170920T101525Z" creationid="rikiha" creationdate="20170909T224041Z">
-        <seg>つまり、ここで構築したカラムは、文字サイズの変更に応じて反応して自動的にリフローします。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T101644Z" creationid="rikiha" creationdate="20170909T224041Z">
+        <seg>つまり、カラムは自動的にリフローするように構築されており、かつ、文字サイズの変更にも対応して幅が変わるということです。</seg>
       </tuv>
     </tu>
     <tu>
