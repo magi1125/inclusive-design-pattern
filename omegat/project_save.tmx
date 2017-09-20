@@ -4935,12 +4935,14 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 原文に倣って調整。前の例が「並べ替える」なので、こちらも「適用する」としました。</note>
+      <note>(伊原) 原文に倣って調整。前の例が「並べ替える」なので、こちらも「適用する」としました。
+
+(太田) 少し調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The submit button now reads “apply”: a broader action which relates to both the sorting and display settings.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T045853Z" creationid="rikiha" creationdate="20170909T224012Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;submitボタンに「適用する」と表示されています。並び替えと表示設定の両方に当てはまる、より広範囲なアクションです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T054054Z" creationid="rikiha" creationdate="20170909T224012Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;submitボタンは「適用する」としています。並び替えと表示設定の両方に当てはまる、より広範囲なアクションです。</seg>
       </tuv>
     </tu>
     <tu>
