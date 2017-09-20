@@ -8427,7 +8427,7 @@ the page information が何をさすのか良くわからない。タイトル�
       <note>(伊原) 誤訳っぽいので修正。infinite range of viewportは平易な表現にしてみました。
 
 (太田)
-「理想的な幅を基準」とすると語弊がありそう。実際には他のflex-itemとの比率です。
+「理想的な幅を基準」とすると語弊がありそう。実際にはあまったスペースを他のflex-itemと分け合う比率です。
 
 http://www.w3.org/TR/css-flexbox-1/#valdef-flex-flex-grow
 This &lt;number&gt; component sets ‘flex-grow’ longhand and specifies the flex grow factor, which determines how much the flex item will grow relative to the rest of the flex items in the flex container when positive free space is distributed. When omitted, it is set to ‘1’. 
