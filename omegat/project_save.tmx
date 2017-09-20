@@ -1863,7 +1863,8 @@ iterateは「試行錯誤」推しでいきたいと思いましたがどうで�
 (太田)
 今の訳だとflexコンテナの幅が10em以下の場合と言っているように読めてしまいますが、それはおかしいような。
 alongside other items なので、他の項目たちの横に10emのスペースが余っていなければ、ということでしょう。
-調整してみました。</note>
+調整してみました。
+が、実際にはflex-growが有効だから余ったりしないんですけどね。アルゴリズム的にはいったん余って、折り返して、そのあとgrowする感じ。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-wrap&lt;/g2&gt; is switched on so items will wrap to the next row when there is not enough room to fit them alongside other items greater than 10em in width.</seg>
       </tuv>
