@@ -3046,8 +3046,8 @@ text要素はSVGの中に入っている、ということが伝わりやすい�
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The list and grid icons are provided as inline SVGs, with visually hidden &lt;g2&gt;&lt;text&gt;&lt;/g2&gt; elements providing each radio button’s screen reader accessible label text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170920T061414Z" creationid="rikiha" creationdate="20170909T224021Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;リストとグリッドのアイコンにはインラインSVGを使用し、視覚的には非表示とした&lt;g2&gt;&lt;text&gt;&lt;/g2&gt;要素を含めることで、各ラジオボタンに対してスクリーンリーダーでアクセスできるテキストラベルを提供しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T062830Z" creationid="rikiha" creationdate="20170909T224021Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;リストとグリッドのアイコンにはインラインSVGを使用し、視覚的には非表示とした&lt;g2&gt;&lt;text&gt;&lt;/g2&gt;要素を含めることで、各ラジオボタンにスクリーンリーダーでアクセスできるテキストラベルを提供しています。</seg>
       </tuv>
     </tu>
     <tu>
