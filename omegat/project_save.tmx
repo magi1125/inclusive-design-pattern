@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21931,7 +21931,9 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
     <tu>
       <note>(伊原) 絵に合う説明になるように調整
 
-(太田) 訳的には合っているのでしょうか、「1行に配置される」というのはおかしい (どんな項目も複数行にわたって表示されることはない) ので、意味に合わせて調整しました。</note>
+(太田) 訳的には合っているのでしょうか、「1行に配置される」というのはおかしい (どんな項目も複数行にわたって表示されることはない) ので、意味に合わせて調整しました。
+
+(岡本)　１つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>That’s currently a danger at wider viewports, especially when the wrapping algorithm places the final item on a single line.</seg>
       </tuv>
