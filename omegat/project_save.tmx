@@ -8432,6 +8432,7 @@ the page information が何をさすのか良くわからない。タイトル�
 http://www.w3.org/TR/css-flexbox-1/#valdef-flex-flex-grow
 This &lt;number&gt; component sets ‘flex-grow’ longhand and specifies the flex grow factor, which determines how much the flex item will grow relative to the rest of the flex items in the flex container when positive free space is distributed. When omitted, it is set to ‘1’. 
 
+デフォルトでは flex-grow: 0 で、この状態だと要素は伸びないので、これを0以外の値にすることを「switching on」と言っています。
 </note>
       <tuv lang="EN-US">
         <seg>By switching on &lt;g2&gt;flex-grow&lt;/g2&gt; and &lt;g3&gt;flex-shrink&lt;/g3&gt;, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
