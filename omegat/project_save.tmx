@@ -1862,8 +1862,8 @@ iterateは「試行錯誤」推しでいきたいと思いましたがどうで�
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-wrap&lt;/g2&gt; is switched on so items will wrap to the next row when there is not enough room to fit them alongside other items greater than 10em in width.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T115333Z" creationid="rikiha" creationdate="20170909T224043Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;flex-wrapを指定しているため、項目を横並びに収めるのに十分な幅10em以上のスペースがないとき、項目が次の行に折り返します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T102608Z" creationid="rikiha" creationdate="20170909T224043Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-wrap&lt;/g2&gt;を指定しているため、項目を横並びに収めるのに十分な幅10em以上のスペースがないとき、項目が次の行に折り返します。</seg>
       </tuv>
     </tu>
     <tu>
