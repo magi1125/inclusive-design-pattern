@@ -13914,12 +13914,15 @@ CSSには「カスケード」と呼ばれる仕組みがあり、著者(Author,
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 能動形に修正。</note>
+      <note>(伊原) 能動形に修正。
+
+(太田)
+「調整版」に違和感があったので入れ込みつつ。</note>
       <tuv lang="EN-US">
         <seg>In the adapted code example to follow, items are restricted to having a &lt;g1&gt;max-width&lt;/g1&gt; of 20em.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170920T110414Z" creationid="rikiha" creationdate="20170909T224056Z">
-        <seg>以下のコードは、項目の&lt;g1&gt;max-width&lt;/g1&gt;を20emに制限するように調整しました。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T110523Z" creationid="rikiha" creationdate="20170909T224056Z">
+        <seg>以下のコードは、項目の&lt;g1&gt;max-width&lt;/g1&gt;を20emに制限するように調整したものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16980,7 +16983,11 @@ IEはどのバージョンのことを言っているのか要確認。</note>
     </tu>
     <tu>
       <note>(伊原) カタカナでシンメトリーとしました。
-しかし幅を広げて真ん中に置くと、違う意味がでてきてしまうような…。</note>
+しかし幅を広げて真ん中に置くと、違う意味がでてきてしまうような…。
+
+(太田)
+ヘイドンさんの好みw
+そもそも大きさが変わってくる時点で美妙ではありますね。</note>
       <tuv lang="EN-US">
         <seg>My preference, for symmetry, is to group the content around the center line, hence the &lt;g2&gt;justify-content: center;&lt;/g2&gt; declaration on the flex container.</seg>
       </tuv>
