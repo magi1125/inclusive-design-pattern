@@ -20819,12 +20819,15 @@ px指定でフォントサイズ変えられなくなるのはIEくらいです�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 前の読み上げ例をもとに調整。</note>
+      <note>(伊原) 前の読み上げ例をもとに調整。
+
+(太田)
+カッコ内を微調整。</note>
       <tuv lang="EN-US">
         <seg>So, if the list item is focused (and selected) it would read, “Display as a list, radio button, selected” or similar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T063119Z" creationid="rikiha" creationdate="20170909T224022Z">
-        <seg>したがって、リスト項目がフォーカス（および選択）されると、「表示方法 グループ、リスト ラジオボタン、チェックされています、全2個中1個」などと読み上げられます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T063326Z" creationid="rikiha" creationdate="20170909T224022Z">
+        <seg>したがって、リスト項目がフォーカス（そして選択）されると、「表示方法 グループ、リスト ラジオボタン、チェックされています、全2個中1個」などと読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
