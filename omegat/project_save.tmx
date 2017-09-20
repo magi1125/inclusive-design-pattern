@@ -2941,12 +2941,15 @@ key informationを「カギとなる情報」としたので、あわせまし�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ensures を保証と訳すか。いったん「意味します」のままで。</note>
+      <note>(伊原) ensures を保証と訳すか。いったん「意味します」のままで。
+
+(太田)
+この例の場合、縮むという状況は特殊なので、万が一の場合も縮む、というニュアンスで言っているのだと思います。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-shrink&lt;/g2&gt; value of &lt;g3&gt;1&lt;/g3&gt; (can be omitted, in fact, because it’s the default) ensures items will shrink if needed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T114005Z" creationid="rikiha" creationdate="20170909T224042Z">
-        <seg> &lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-shrink&lt;/g2&gt;の&lt;g3&gt;1&lt;/g3&gt;という値（デフォルトなので実際は省略可能）は、必要に応じて項目の幅が狭くなることを意味します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T102350Z" creationid="rikiha" creationdate="20170909T224042Z">
+        <seg> &lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-shrink&lt;/g2&gt;の&lt;g3&gt;1&lt;/g3&gt;という値（実際はこの値がデフォルトなので省略可能）によって、必要なときには項目の幅が狭くなり、レイアウトが維持されます。</seg>
       </tuv>
     </tu>
     <tu>
