@@ -8424,7 +8424,9 @@ the page information が何をさすのか良くわからない。タイトル�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 誤訳っぽいので修正。infinite range of viewportは平易な表現にしてみました。</note>
+      <note>(伊原) 誤訳っぽいので修正。infinite range of viewportは平易な表現にしてみました。
+
+</note>
       <tuv lang="EN-US">
         <seg>By switching on &lt;g2&gt;flex-grow&lt;/g2&gt; and &lt;g3&gt;flex-shrink&lt;/g3&gt;, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
       </tuv>
