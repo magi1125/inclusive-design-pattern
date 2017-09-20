@@ -16986,8 +16986,15 @@ IEはどのバージョンのことを言っているのか要確認。</note>
 しかし幅を広げて真ん中に置くと、違う意味がでてきてしまうような…。
 
 (太田)
-ヘイドンさんの好みw
-そもそも大きさが変わってくる時点で美妙ではありますね。</note>
+これは苦肉の策なのかもしれませんね。
+単に左寄せにすればよさそうですが、そうすると、最終行の項目だけ幅が異なるため、単にそろっていないように見えてしまいます。
+幅をそろえれば、と思いますが、flex-growで伸びるようになっていて、かつ、最終行の項目を他の行の項目の幅に合わせる、というのは簡単には指定できないと思います。
+(JSで非表示の空の項目を追加する、みたいな強引なやり方になるっぽい)
+
+
+
+
+</note>
       <tuv lang="EN-US">
         <seg>My preference, for symmetry, is to group the content around the center line, hence the &lt;g2&gt;justify-content: center;&lt;/g2&gt; declaration on the flex container.</seg>
       </tuv>
