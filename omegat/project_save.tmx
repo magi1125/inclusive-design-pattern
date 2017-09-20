@@ -27519,8 +27519,8 @@ ourを「先の」などとしつつ調整。
       <tuv lang="EN-US">
         <seg>Using Flexbox, we can instead use &lt;g1&gt;flex-basis&lt;/g1&gt; to define an ideal width at an element level.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170920T094518Z" creationid="rikiha" creationdate="20170909T224033Z">
-        <seg>代わりにFlexboxを使えば、&lt;g1&gt;flex-basis&lt;/g1&gt;を指定することで、要素レベルの理想的な幅を定義することができます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T094532Z" creationid="rikiha" creationdate="20170909T224033Z">
+        <seg>代わりにFlexboxを使えば、&lt;g1&gt;flex-basis&lt;/g1&gt;を指定することで、要素ごとに理想的な幅を定義することができます。</seg>
       </tuv>
     </tu>
     <tu>
