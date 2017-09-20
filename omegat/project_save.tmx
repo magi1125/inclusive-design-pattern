@@ -8427,14 +8427,17 @@ the page information が何をさすのか良くわからない。タイトル�
       <note>(伊原) 誤訳っぽいので修正。infinite range of viewportは平易な表現にしてみました。
 
 (太田)
+「理想的な幅を基準」とすると語弊がありそう。実際には他のflex-itemとの比率です。
 
-http://www.w3.org/TR/css-flexbox-1/#propdef-flex-wrap
+http://www.w3.org/TR/css-flexbox-1/#valdef-flex-flex-grow
+This &lt;number&gt; component sets ‘flex-grow’ longhand and specifies the flex grow factor, which determines how much the flex item will grow relative to the rest of the flex items in the flex container when positive free space is distributed. When omitted, it is set to ‘1’. 
+
 </note>
       <tuv lang="EN-US">
         <seg>By switching on &lt;g2&gt;flex-grow&lt;/g2&gt; and &lt;g3&gt;flex-shrink&lt;/g3&gt;, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T120356Z" creationid="rikiha" creationdate="20170909T224034Z">
-        <seg>&lt;g2&gt;flex-grow&lt;/g2&gt;と&lt;g3&gt;flex-shrink&lt;/g3&gt;を指定することで、理想的な幅を基準としつつグリッド要素の幅を広げたり縮めたりできます。これにより、あらゆるビューポートの幅に対して完全かつ規則的なグリッドを維持できるのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T095416Z" creationid="rikiha" creationdate="20170909T224034Z">
+        <seg>&lt;g2&gt;flex-grow&lt;/g2&gt;と&lt;g3&gt;flex-shrink&lt;/g3&gt;を指定することで、理想的な幅を基準としつつ、グリッド要素の幅を広げたり縮めたりできます。これにより、あらゆるビューポートの幅に対して完全かつ規則的なグリッドを維持できるのです。</seg>
       </tuv>
     </tu>
     <tu>
