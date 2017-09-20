@@ -13918,8 +13918,8 @@ CSSには「カスケード」と呼ばれる仕組みがあり、著者(Author,
       <tuv lang="EN-US">
         <seg>In the adapted code example to follow, items are restricted to having a &lt;g1&gt;max-width&lt;/g1&gt; of 20em.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T125018Z" creationid="rikiha" creationdate="20170909T224056Z">
-        <seg>以下の調整版コードの例では、項目のmax-widthを20emに制限しています。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T110414Z" creationid="rikiha" creationdate="20170909T224056Z">
+        <seg>以下のコードは、項目の&lt;g1&gt;max-width&lt;/g1&gt;を20emに制限するように調整しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21916,12 +21916,14 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 絵に合う説明になるように調整</note>
+      <note>(伊原) 絵に合う説明になるように調整
+
+(太田) 訳的には合っているのでしょうか、「1行に配置される」というのはおかしい (どんな項目も複数行にわたって表示されることはない) ので、意味に合わせて調整しました。</note>
       <tuv lang="EN-US">
         <seg>That’s currently a danger at wider viewports, especially when the wrapping algorithm places the final item on a single line.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T124505Z" creationid="rikiha" creationdate="20170909T224050Z">
-        <seg>いまのままでは、幅の広いビューポートにおいてそれが起こる危険があります。特に、折り返しアルゴリズムによって最後の項目を1行に配置する場合です。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T110240Z" creationid="rikiha" creationdate="20170909T224050Z">
+        <seg>いまのままでは、幅の広いビューポートで問題が起きる危険があります。特に、折り返しアルゴリズムによって、最後の行に最後の項目1つだけが配置された場合です。</seg>
       </tuv>
     </tu>
     <tu>
