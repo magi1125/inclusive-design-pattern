@@ -21807,12 +21807,19 @@ yourを「コンテンツ側で」として補いました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 「自分の認知的ニーズに最適の視覚表示を選択」が堅すぎるので調整しました。</note>
+      <note>(伊原) 「自分の認知的ニーズに最適の視覚表示を選択」が堅すぎるので調整しました。
+
+(太田)
+cognitiveが元々硬い言葉なので、ある程度硬いニュアンスのほうが原文のニュアンスには近いように思います。「認識しやすい」あたりでどうでしょうか。
+原文のbestはbest suitで「ぴったり」くらいの意味で、ここでは2択ですし
+「もっとも」と訳すほどでもないように思います。
+「自分に合った認識しやすいレイアウト」くらいでしょうか。
+</note>
       <tuv lang="EN-US">
         <seg>That way, they can select a visual display that best suits their cognitive needs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T043844Z" creationid="rikiha" creationdate="20170909T224006Z">
-        <seg>そうすれば、ユーザーは自分にとってもっともわかりやすいレイアウトを選択できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T020915Z" creationid="rikiha" creationdate="20170909T224006Z">
+        <seg>そうすれば、ユーザーは自分に合った認識しやすいレイアウトを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
