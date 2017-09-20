@@ -8426,6 +8426,8 @@ the page information が何をさすのか良くわからない。タイトル�
     <tu>
       <note>(伊原) 誤訳っぽいので修正。infinite range of viewportは平易な表現にしてみました。
 
+(太田)
+
 </note>
       <tuv lang="EN-US">
         <seg>By switching on &lt;g2&gt;flex-grow&lt;/g2&gt; and &lt;g3&gt;flex-shrink&lt;/g3&gt;, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
@@ -27517,8 +27519,8 @@ ourを「先の」などとしつつ調整。
       <tuv lang="EN-US">
         <seg>Using Flexbox, we can instead use &lt;g1&gt;flex-basis&lt;/g1&gt; to define an ideal width at an element level.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170920T091821Z" creationid="rikiha" creationdate="20170909T224033Z">
-        <seg>代わりにFlexboxを使って&lt;g1&gt;flex-basis&lt;/g1&gt;を指定すれば、要素レベルの理想的な幅を定義できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T094450Z" creationid="rikiha" creationdate="20170909T224033Z">
+        <seg>代わりにFlexboxを使えば、&lt;g1&gt;flex-basis&lt;/g1&gt;を指定すれば、要素レベルの理想的な幅を定義できます。</seg>
       </tuv>
     </tu>
     <tu>
