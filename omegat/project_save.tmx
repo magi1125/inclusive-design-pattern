@@ -2904,12 +2904,15 @@ Elements with the role status have an implicit aria-live value of polite and an 
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) キーと訳出。</note>
+      <note>(伊原) キーと訳出。
+
+(太田)
+key informationを「カギとなる情報」としたので、こちらもあわせました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-basis&lt;/g2&gt; value is key.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T113622Z" creationid="rikiha" creationdate="20170909T224039Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;flex-basisの値がキーになります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T100933Z" creationid="rikiha" creationdate="20170909T224039Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-basis&lt;/g2&gt;の値がカギになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8433,7 +8436,9 @@ http://www.w3.org/TR/css-flexbox-1/#valdef-flex-flex-grow
 This &lt;number&gt; component sets ‘flex-grow’ longhand and specifies the flex grow factor, which determines how much the flex item will grow relative to the rest of the flex items in the flex container when positive free space is distributed. When omitted, it is set to ‘1’. 
 
 デフォルトでは flex-grow: 0 で、この状態だと要素は伸びないので、これを0以外の値にすることを「switching on」と言っています。
-flex-wrap: wrapのときflex-shrinkは機能するのだろうか……と思いましたが、コンテナの幅が flex-basis より狭いときに意味がありますね。</note>
+flex-wrap: wrapのときflex-shrinkは機能するのだろうか……と思いましたが、コンテナの幅が flex-basis より狭いときに意味がありますね。
+
+調整しました。</note>
       <tuv lang="EN-US">
         <seg>By switching on &lt;g2&gt;flex-grow&lt;/g2&gt; and &lt;g3&gt;flex-shrink&lt;/g3&gt;, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
       </tuv>
