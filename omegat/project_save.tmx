@@ -25136,7 +25136,9 @@ aspirations は「願望」?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 括弧を外して調整。</note>
+      <note>(伊原) 括弧を外して調整。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>This also saves on client-side DOM manipulation: all we should need to change is a class on the parent &lt;g3&gt;&lt;ul&gt;&lt;/g3&gt; item: &lt;g4&gt;.list-display&lt;/g4&gt; for a single-column layout or &lt;g5&gt;.grid-display&lt;/g5&gt; for multiple columns.</seg>
       </tuv>
