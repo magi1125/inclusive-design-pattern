@@ -25930,12 +25930,15 @@ OKかと。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 「多くのメディアクエリの手書き」がちょっと微妙な感じがしつつ、ひとまず微調整。</note>
+      <note>(伊原) 「多くのメディアクエリの手書き」がちょっと微妙な感じがしつつ、ひとまず微調整。
+
+(太田)
+うーん、謎ですが、ここのmanualは「手動」のほうですかね?</note>
       <tuv lang="EN-US">
         <seg>This necessitates a lot of manual media query writing and an ever-watchful eye for layout problems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T081206Z" creationid="rikiha" creationdate="20170909T224032Z">
-        <seg>これには多くのメディアクエリの手書きを必要とし、レイアウトの問題に常に気を配る必要もあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T091750Z" creationid="rikiha" creationdate="20170909T224032Z">
+        <seg>この場合、多くの手動のメディアクエリの記述が必要となり、レイアウト崩れの問題にも気を配る必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27508,8 +27511,8 @@ ourを「先の」などとしつつ調整。
       <tuv lang="EN-US">
         <seg>Using Flexbox, we can instead use &lt;g1&gt;flex-basis&lt;/g1&gt; to define an ideal width at an element level.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T082931Z" creationid="rikiha" creationdate="20170909T224033Z">
-        <seg>代わりにFlexboxを使ってflex-basisを指定すれば、要素レベルの理想的な幅を定義できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T091821Z" creationid="rikiha" creationdate="20170909T224033Z">
+        <seg>代わりにFlexboxを使って&lt;g1&gt;flex-basis&lt;/g1&gt;を指定すれば、要素レベルの理想的な幅を定義できます。</seg>
       </tuv>
     </tu>
     <tu>
