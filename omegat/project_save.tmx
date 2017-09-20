@@ -2916,11 +2916,13 @@ key informationを「カギとなる情報」としたので、あわせまし�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+前の例の解説なので「しています」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-basis&lt;/g2&gt; value is set in ems so that it is relative to font size.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T103634Z" creationid="rikiha" creationdate="20170909T224040Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-basis&lt;/g2&gt;の値は、文字サイズに比例するようemで設定します。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T101259Z" creationid="rikiha" creationdate="20170909T224040Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-basis&lt;/g2&gt;の値は、文字サイズに比例するようemで設定しています。</seg>
       </tuv>
     </tu>
     <tu>
