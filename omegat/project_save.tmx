@@ -3160,12 +3160,14 @@ http://adrianroselli.com/2015/10/dont-disable-zoom.html
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順調整</note>
+      <note>(伊原) 語順調整
+
+(太田) 微調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The “Display as” functionality is in its own &lt;g2&gt;&lt;fieldset&gt;&lt;/g2&gt; to demarcate it from the principal filtering options.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170920T055612Z" creationid="rikiha" creationdate="20170909T224021Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;主要なフィルタオブションと区別するため、「表示方法」の機能は独立した&lt;g2&gt;&lt;fieldset&gt;&lt;/g2&gt;の中にあります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T055643Z" creationid="rikiha" creationdate="20170909T224021Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;主要なフィルタオブションと区別するため、「表示方法」の機能は独立した&lt;g2&gt;&lt;fieldset&gt;&lt;/g2&gt;の中に入れています。</seg>
       </tuv>
     </tu>
     <tu>
