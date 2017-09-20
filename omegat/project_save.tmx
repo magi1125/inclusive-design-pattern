@@ -27514,13 +27514,13 @@ ourを「先の」などとしつつ調整。
       <note>(伊原) ここのinsteadはa lot of manual media query writingに掛かっていると思われるので、「代わりに」を文頭に移しました。
 
 (太田)
-理想的な幅とは。
+要素レベルの理想的な幅とは。
 </note>
       <tuv lang="EN-US">
         <seg>Using Flexbox, we can instead use &lt;g1&gt;flex-basis&lt;/g1&gt; to define an ideal width at an element level.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170920T094450Z" creationid="rikiha" creationdate="20170909T224033Z">
-        <seg>代わりにFlexboxを使えば、&lt;g1&gt;flex-basis&lt;/g1&gt;を指定すれば、要素レベルの理想的な幅を定義できます。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T094518Z" creationid="rikiha" creationdate="20170909T224033Z">
+        <seg>代わりにFlexboxを使えば、&lt;g1&gt;flex-basis&lt;/g1&gt;を指定することで、要素レベルの理想的な幅を定義することができます。</seg>
       </tuv>
     </tu>
     <tu>
