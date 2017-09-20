@@ -8437,8 +8437,8 @@ flex-wrap: wrapのときflex-shrinkは機能するのだろうか……と思い
       <tuv lang="EN-US">
         <seg>By switching on &lt;g2&gt;flex-grow&lt;/g2&gt; and &lt;g3&gt;flex-shrink&lt;/g3&gt;, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170920T100838Z" creationid="rikiha" creationdate="20170909T224034Z">
-        <seg>&lt;g2&gt;flex-grow&lt;/g2&gt;と&lt;g3&gt;flex-shrink&lt;/g3&gt;を有効にすることで、グリッドを構成する要素が、理想的な幅から伸びたり縮んだりするようになります。これにより、ビューポートの範囲が無限に広がったとしても、完全に規則的なグリッドを維持できるのです。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T100852Z" creationid="rikiha" creationdate="20170909T224034Z">
+        <seg>&lt;g2&gt;flex-grow&lt;/g2&gt;と&lt;g3&gt;flex-shrink&lt;/g3&gt;を有効にすることで、グリッドを構成する要素が、理想的な幅から伸びたり縮んだりするようになります。これにより、ビューポートの範囲が無限に広がったとしても、完全に規則的なグリッドを維持することができるのです。</seg>
       </tuv>
     </tu>
     <tu>
