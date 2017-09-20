@@ -23875,8 +23875,8 @@ validatorを通るかどうかではなく、ユーザーに実害があるか�
       <tuv lang="EN-US">
         <seg>The question is: “How many columns is the right number?” In responsive design, the answer depends on how much space there is.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170920T080320Z" creationid="rikiha" creationdate="20170909T224028Z">
-        <seg>「カラムはいくつが適切か?」という問いがあります。レスポンシブデザインでは、スペースがどれだけあるかによって答えは変わります。</seg>
+      <tuv lang="JA" changeid="yoota" changedate="20170920T080516Z" creationid="rikiha" creationdate="20170909T224028Z">
+        <seg>「カラムはいくつが適切か?」という問いがあります。レスポンシブデザインの場合、スペースがどれだけあるかによって答えは変わります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28053,7 +28053,9 @@ the prototyping experience とは。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ダッシュを活かして調整。</note>
+      <note>(伊原) ダッシュを活かして調整。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>We typically proceed to match column numbers to viewport widths — the wider the viewport, the greater the number of columns we can afford.</seg>
       </tuv>
