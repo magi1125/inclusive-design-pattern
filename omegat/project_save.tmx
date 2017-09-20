@@ -27507,7 +27507,11 @@ ourを「先の」などとしつつ調整。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここのinsteadはa lot of manual media query writingに掛かっていると思われるので、「代わりに」を文頭に移しました。</note>
+      <note>(伊原) ここのinsteadはa lot of manual media query writingに掛かっていると思われるので、「代わりに」を文頭に移しました。
+
+(太田)
+理想的な幅とは。
+</note>
       <tuv lang="EN-US">
         <seg>Using Flexbox, we can instead use &lt;g1&gt;flex-basis&lt;/g1&gt; to define an ideal width at an element level.</seg>
       </tuv>
