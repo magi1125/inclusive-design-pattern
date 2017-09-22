@@ -26248,12 +26248,13 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
       <note>(伊原) 誤訳っぽいので修正。
 
 (太田)
-arrays of content のarrayはプログラム用語のarrayで、レイアウト的な配列の意味ではないですね。</note>
+arrays of content のarrayはプログラム用語のarrayで、レイアウト的な配列の意味ではないですね。
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>This script allows you to feed the proposed layout with randomized arrays of content within certain parameters.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T022901Z" creationid="rikiha" creationdate="20170919T014906Z">
-        <seg>このスクリプトを使うと、いくつかのパラメーターの範囲内でランダムに配列されたコンテンツがレイアウト案に流し込まれます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T052927Z" creationid="rikiha" creationdate="20170919T014906Z">
+        <seg>このスクリプトを使うと、パラメーターの範囲内でランダムに生成されたコンテンツの配列が、レイアウト案に流し込まれます。</seg>
       </tuv>
     </tu>
     <tu>
