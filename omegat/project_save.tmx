@@ -30469,6 +30469,217 @@ explicitはlabelではなくactionについているような。
     </tu>
     <tu>
       <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu111_0</prop>
+      <note>(伊原) allowingなのでそのような感じに。
+
+(太田)
+「何を」は言っていないですね。
+somethingを訳すなら「何かを」「あるものを」あたりですが、トリでいいかも。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;Choice&lt;/g2&gt;: Allowing the user to decide how they want to consume something.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114222Z" creationid="rikiha" creationdate="20170922T114222Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;選択&lt;/g2&gt;：どのように利用するか、ユーザーが決められるようにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu112_0</prop>
+      <note>(伊原) ourを訳しました。
+
+(岡本)　フィルター→フィルター（？？）
+
+(太田)
+「完成させるため」は大げさな感があるので、「仕上げに」くらいで良いかと。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>To complete our filtering widget pattern, we’re going to give our users a choice over the way the filtered content is displayed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114233Z" creationid="rikiha" creationdate="20170922T114233Z">
+        <seg>このフィルタウィジェットのパターンの仕上げとして、フィルターが適用されたコンテンツの表示方法をユーザーが選択できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu114_0</prop>
+      <note>(太田)
+後半少し調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>A list is a simple format, but necessarily longer vertically; a grid gives a better overview but compresses more information into the viewport at once.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114321Z" creationid="rikiha" creationdate="20170922T114321Z">
+        <seg>リスト形式はシンプルですが、どうしても縦に長くなります。グリッドはリストよりも全体を見渡すことができますが、多くの情報が圧縮されていっぺんにビューポートに詰め込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu114_0</prop>
+      <note>(伊原) 微調整。
+
+(太田)
+前の文から「表示方法」を拝借しつつ語順を調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>In this final enhancement to our filtering interface, we’ll give the user the choice between displaying results in list or grid format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114252Z" creationid="rikiha" creationdate="20170922T114252Z">
+        <seg>このフィルタリングインターフェイスに対する最後の拡張として、検索結果の表示方法をリスト形式とグリッド形式のどちらにするか、ユーザーが選べるようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu114_0</prop>
+      <note>(伊原) 「自分の認知的ニーズに最適の視覚表示を選択」が堅すぎるので調整しました。
+
+(太田)
+cognitiveが元々硬い言葉なので、ある程度硬いニュアンスのほうが原文のニュアンスには近いように思います。「認識しやすい」あたりでどうでしょうか。
+原文のbestはbest suitで「ぴったり」くらいの意味で、ここでは2択ですし「もっとも」と訳すほどでもないように思います。
+「自分に合った認識しやすいレイアウト」くらいでしょうか。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>That way, they can select a visual display that best suits their cognitive needs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114311Z" creationid="rikiha" creationdate="20170922T114311Z">
+        <seg>そうすれば、ユーザーは自分に合った認識しやすいレイアウトを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu115_0</prop>
+      <note>(太田)
+mightなのですこし弱めに。
+ここでは見た目の話ですね。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>The adapted filter widget might look like the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114330Z" creationid="rikiha" creationdate="20170922T114330Z">
+        <seg>調整を加えたフィルタウィジェットは、たとえば以下のような見た目になるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu116_0</prop>
+      <note>(伊原) 原文に倣って調整。前の例が「並べ替える」なので、こちらも「適用する」としました。
+
+(太田) 少し調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The submit button now reads “apply”: a broader action which relates to both the sorting and display settings.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114341Z" creationid="rikiha" creationdate="20170922T114341Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;submitボタンは「適用する」としています。並び替えと表示設定の両方に当てはまる、より広範囲なアクションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu118_0</prop>
+      <note>(太田)
+OK
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Here’s the extended markup:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114350Z" creationid="rikiha" creationdate="20170922T114350Z">
+        <seg>拡張したマークアップは以下の通りです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu121_0</prop>
+      <note>(伊原) 語順調整
+
+(太田) 微調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The “Display as” functionality is in its own &lt;g2&gt;&lt;fieldset&gt;&lt;/g2&gt; to demarcate it from the principal filtering options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114409Z" creationid="rikiha" creationdate="20170922T114409Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;主要なフィルタオブションと区別するため、「表示方法」の機能は独立した&lt;g2&gt;&lt;fieldset&gt;&lt;/g2&gt;の中に入れています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu122_0</prop>
+      <note>(伊原) 語順など調整
+
+(岡本)　共に→ともに
+
+(太田)
+text要素はSVGの中に入っている、ということが伝わりやすい感じにしたいところ。調整してみました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The list and grid icons are provided as inline SVGs, with visually hidden &lt;g2&gt;&lt;text&gt;&lt;/g2&gt; elements providing each radio button’s screen reader accessible label text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114420Z" creationid="rikiha" creationdate="20170922T114420Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;リストとグリッドのアイコンにはインラインSVGを使用し、視覚的には非表示とした&lt;g2&gt;&lt;text&gt;&lt;/g2&gt;要素を含めることで、各ラジオボタンにスクリーンリーダーでアクセスできるテキストラベルを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu123_0</prop>
+      <note>(伊原) 微調整。
+
+(太田)
+すこし調整。
+「選択されている」はなくても通じるのでとりました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Focusing the selected display option radio button would announce the &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; first, then the &lt;g3&gt;&lt;label&gt;&lt;/g3&gt; and additional information in screen readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114428Z" creationid="rikiha" creationdate="20170922T114428Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;表示方法のラジオボタンにフォーカスすると、スクリーンリーダーでは、まず&lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;が読み上げられ、次に&lt;g3&gt;&lt;label&gt;&lt;/g3&gt;とその他の情報が読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu123_0</prop>
+      <note>(伊原) 前の読み上げ例をもとに調整。
+
+(太田)
+カッコ内を微調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>So, if the list item is focused (and selected) it would read, “Display as a list, radio button, selected” or similar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114439Z" creationid="rikiha" creationdate="20170922T114439Z">
+        <seg>したがって、リスト項目がフォーカスされる（そして選択される）と、「表示方法 グループ、リスト ラジオボタン、チェックされています、全2個中1個」などと読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu124_0</prop>
+      <note>(伊原) wordplayを訳出。
+
+(岡本)　何です→なんです
+
+(太田)
+力強くダジャレだと言いつつ強調までしているので、「シャレのよう」だと少し弱いかもしれませんね。「ダジャレになってしまって恐縮ですが」くらいでしょうか。原文だと最後にオチとして置かれているので、語順をそろえました。直訳「ダジャレになってしまったことをお許しください」のママでもいいかも。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;I’ve changed the submit button label from “sort” to “apply” so that it &lt;g2&gt;applies&lt;/g2&gt; to both settings, if you’ll excuse the wordplay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114452Z" creationid="rikiha" creationdate="20170922T114452Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;submitボタンのラベルを「並べ替える」から「適用する」に変更し、並べ替えと表示設定の両方に&lt;g2&gt;適用&lt;/g2&gt;しました。ダジャレになってしまったことをお許しください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
       <prop type="id">tu50_0</prop>
       <note>(伊原) ここのpopulateは出力としてみました。
 
