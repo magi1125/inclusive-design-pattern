@@ -30925,7 +30925,7 @@ sentは「飛ばされる」としました。
 
 ちなみにこの処理、JS無効時は考慮するのでしょうか。少し前のコードは &lt;button data-load-more&gt;Load more&lt;/button&gt; で type 属性がないのですが、type属性のデフォルトはsubmitなので、このボタンがform内に置かれているとsubmitされます。JS無効時にsubmitする実装とするなら、単にreturnするだけでなくsubmit動作をキャンセルする処理も必要です。JSのコードがないので意図が良くわからないですね。
 
-(伊原) 訳OK。このケースでは一般的にはJSオフならサブミットするなり、リンクに置き換えてページングするなりといった形にする必要はありそうです（無限スクロールをGoogleに読ませるには的なテクニック）。</note>
+(伊原) 訳OK。単にtype属性の書き漏らしかもしれませんね。</note>
       <tuv lang="EN-US">
         <seg>You can catch the click and simply &lt;g2&gt;return&lt;/g2&gt; if the loading state is detected (for instance, by looking for “Loading” in the button’s &lt;g3&gt;textContent&lt;/g3&gt;).</seg>
       </tuv>
