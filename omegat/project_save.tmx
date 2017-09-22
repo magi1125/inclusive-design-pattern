@@ -26245,7 +26245,10 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 誤訳っぽいので修正。</note>
+      <note>(伊原) 誤訳っぽいので修正。
+
+(太田)
+arrays of content のarrayはプログラム用語のarrayで、レイアウト的な配列の意味ではないですね。</note>
       <tuv lang="EN-US">
         <seg>This script allows you to feed the proposed layout with randomized arrays of content within certain parameters.</seg>
       </tuv>
@@ -27080,12 +27083,16 @@ A,B,CのそれぞれをD,C,Eを使って、と書くとA-D, B-E, C-F の対応�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここのproductsは商品かなと。</note>
+      <note>(伊原) ここのproductsは商品かなと。
+
+(太田)
+can なので「使っても良い」くらいですね。
+「使うと良いでしょう」としました。</note>
       <tuv lang="EN-US">
         <seg>To make sure our products grid interface can tolerate fluctuating content length at the prototyping stage, we can make use of a tool like &lt;g1&gt;&lt;g2&gt;forceFeed.js&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;16&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T020205Z" creationid="rikiha" creationdate="20170909T224230Z">
-        <seg>プロトタイプの段階で、商品グリッドインターフェイスがコンテンツの長さの変動を許容できるかを確認するためには、&lt;g1&gt;&lt;g2&gt;forceFeed.js&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注171）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのツールを利用します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T052543Z" creationid="rikiha" creationdate="20170909T224230Z">
+        <seg>プロトタイプの段階で、商品グリッドインターフェイスがコンテンツの長さの変動を許容できるかを確認するためには、&lt;g1&gt;&lt;g2&gt;forceFeed.js&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注171）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのツールを使うと良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
