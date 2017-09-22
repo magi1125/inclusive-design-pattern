@@ -30917,6 +30917,152 @@ alongside other items なので、他の項目たちの横に10emのスペース
     </tu>
     <tu>
       <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu137_0</prop>
+      <note>(伊原) 微調整
+
+(太田)
+強調語句は原文に沿って訳したいという気持ち。
+「無限の」としました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>With very little code, we are able to ensure our content remains unbroken across an &lt;g1&gt;infinite&lt;/g1&gt; range of viewport widths.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T115357Z" creationid="rikiha" creationdate="20170922T115357Z">
+        <seg>ごく少ないコードで、&lt;g1&gt;無限の&lt;/g1&gt;ビューポート範囲に対して、コンテンツを崩さずに表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu138_0</prop>
+      <note>(伊原) 残りは〜というほうが定訳っぽいのでそのように。
+
+(太田)
+残り、と言われても良くわからない印象。
+残課題は、とかでしょうか。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>All that’s left is to ensure the content remains readable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T115406Z" creationid="rikiha" creationdate="20170922T115406Z">
+        <seg>残った課題は、コンテンツの読みやすさを確保することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu138_0</prop>
+      <note>(伊原) 原文に沿って調整。
+
+(太田)
+日本語として変な感じなので意訳しつつ調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>If you remember from “A Paragraph,” we shouldn’t allow the measure to get too wide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T115415Z" creationid="rikiha" creationdate="20170922T115415Z">
+        <seg>3章「パラグラフ」の内容を覚えているでしょうか。そう、カラム幅を広くしすぎてはいけなかったはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu138_0</prop>
+      <note>(伊原) 絵に合う説明になるように調整
+
+(太田) 訳的には合っているのでしょうか、「1行に配置される」というのはおかしい (どんな項目も複数行にわたって表示されることはない) ので、意味に合わせて調整しました。
+
+(岡本)　１つ→ひとつ
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>That’s currently a danger at wider viewports, especially when the wrapping algorithm places the final item on a single line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T115425Z" creationid="rikiha" creationdate="20170922T115425Z">
+        <seg>いまのままでは、幅の広いビューポートで問題が起きる危険があります。特に、折り返しアルゴリズムによって、最後の行に最後の項目1つだけが配置された場合です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu141_0</prop>
+      <note>(伊原) 能動形に修正。
+
+(太田)
+「調整版」に違和感があったので入れ込みつつ。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>In the adapted code example to follow, items are restricted to having a &lt;g1&gt;max-width&lt;/g1&gt; of 20em.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T115440Z" creationid="rikiha" creationdate="20170922T115440Z">
+        <seg>以下のコードは、項目の&lt;g1&gt;max-width&lt;/g1&gt;を20emに制限するように調整したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu141_0</prop>
+      <note>※要訳注
+
+(伊原) カタカナでシンメトリーとしました。
+しかし幅を広げて真ん中に置くと、違う意味がでてきてしまうような…。
+
+(太田)
+これは苦肉の策なのかもしれませんね。
+単に左寄せにすればよさそうですが、そうすると、最終行の項目だけ幅が異なるため、単にそろっていないように見えてしまいます。
+幅をそろえれば、と思いますが、flex-growで伸びるようになっていて、かつ、最終行の項目を他の行の項目の幅に合わせる、というのは簡単には指定できないと思います。
+(JSで非表示の空の項目を追加する、みたいな強引なやり方になるっぽい)
+そういう事情を "for symmetry" のひとことでごまかしたのではないでしょうか。
+
+訳注?
+
+(伊原) なるほど…。訳注お願いします。
+幅が決まってるならnth-childで頑張るという手もあるみたいです。
+https://hail2u.net/blog/justified-wrapped-flexbox-last-line.html</note>
+      <tuv lang="EN-US">
+        <seg>My preference, for symmetry, is to group the content around the center line, hence the &lt;g2&gt;justify-content: center;&lt;/g2&gt; declaration on the flex container.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T115613Z" creationid="rikiha" creationdate="20170922T115613Z">
+        <seg>シンメトリーのため、センターライン上にコンテンツをまとめるのが私の好みです。そのため、flexコンテナで&lt;g2&gt;justify-content: center;&lt;/g2&gt;と宣言しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu144_0</prop>
+      <note>(岡本)　この図のaltが抜けているように思います。
+
+(太田)
+このような感じでしょうか。
+
+5カラムのグリッドで、最後の行が1項目、2項目、3項目、4項目の場合。1～2項目の場合には、最後の項目は20emの幅となってセンタリングされる。3～4項目の場合、全体の幅を3分割、4分割した幅になる。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Now the grid items are organized around the vertical center line and cannot become more than 20em wide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T115624Z" creationid="rikiha" creationdate="20170922T115624Z">
+        <seg>これでグリッドの項目が縦のセンターライン上にまとまり、20em以上の幅にはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu145_0</prop>
+      <note>(伊原) 非常に強力だと強すぎる感じがしたので、とてもパワフルとしました。
+
+(太田)
+アルゴリズム的とは。
+直訳すると「Flexboxはアルゴリズム的に動作し、それをとてもパワフルにするものである」
+何が言いたいのか。単にFlexboxのアルゴリズムはパワフルです、ということか。それとも、「(うまく使えば)パワフルにできる」ということなのか。
+
+(伊原) 次の段落を見ると、アルゴリズムで勝手に決まっちゃいますよ（だから設定は微調整してね）、みたいなことなのかなと感じました。なので後者のイメージですね。</note>
+      <tuv lang="EN-US">
+        <seg>Flexbox works algorithmically, which is what makes it so powerful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T115804Z" creationid="rikiha" creationdate="20170922T115804Z">
+        <seg>Flexboxのアルゴリズムは、うまく使えば非常にパワフルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
       <prop type="id">tu50_0</prop>
       <note>(伊原) ここのpopulateは出力としてみました。
 
