@@ -25399,8 +25399,8 @@ aspirations は「願望」?
       <tuv lang="EN-US">
         <seg>This also saves on client-side DOM manipulation: all we should need to change is a class on the parent &lt;g3&gt;&lt;ul&gt;&lt;/g3&gt; item: &lt;g4&gt;.list-display&lt;/g4&gt; for a single-column layout or &lt;g5&gt;.grid-display&lt;/g5&gt; for multiple columns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T080108Z" creationid="rikiha" creationdate="20170909T224026Z">
-        <seg>また、クライアントサイドのDOM操作も少なくて済みます。変更すべきなのは親の&lt;g3&gt;&lt;ul&gt;&lt;/g3&gt;のクラスだけで、レイアウトがシングルカラムの場合は&lt;g4&gt;.list-display&lt;/g4&gt;、マルチカラムの場合は&lt;g5&gt;.grid-display&lt;/g5&gt;とします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T073933Z" creationid="rikiha" creationdate="20170909T224026Z">
+        <seg>また、クライアントサイドのDOM操作も少なくて済みます。変更すべきなのは親の&lt;g3&gt;&lt;ul&gt;&lt;/g3&gt;のクラスだけです。レイアウトがシングルカラムの場合は&lt;g4&gt;.list-display&lt;/g4&gt;、マルチカラムの場合は&lt;g5&gt;.grid-display&lt;/g5&gt;とします。</seg>
       </tuv>
     </tu>
     <tu>
