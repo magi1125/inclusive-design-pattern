@@ -30908,5 +30908,30 @@ sentは「飛ばされる」としました。
         <seg>その場合、以下のような順で動作することになるでしょう。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu94_0</prop>
+      <note>※要訳注
+
+(伊原) 誤訳っぽいので修正。
+
+(岡本)　捕えて→とらえて
+
+(太田)
+「単に&lt;g2&gt;return&lt;/g2&gt;できる」とは……?
+単に何もせずにreturnすれば良いという話ですね。ここのcanは「こういう方法もある」的な意味であって「できる」という訳はよくないような気がします。
+
+しかし括弧内の実装方針に賛同するプログラマは少ないかもしれません。これはテキストが変更になったら動かなくなる設計です。訳注でしょう。
+
+ちなみにこの処理、JS無効時は考慮するのでしょうか。少し前のコードは &lt;button data-load-more&gt;Load more&lt;/button&gt; で type 属性がないのですが、type属性のデフォルトはsubmitなので、このボタンがform内に置かれているとsubmitされます。JS無効時にsubmitする実装とするなら、単にreturnするだけでなくsubmit動作をキャンセルする処理も必要です。JSのコードがないので意図が良くわからないですね。
+
+(伊原) 訳OK。このケースでは一般的にはJSオフならサブミットするなり、リンクに置き換えてページングするなりといった形にする必要はありそうです（無限スクロールをGoogleに読ませるには的なテクニック）。</note>
+      <tuv lang="EN-US">
+        <seg>You can catch the click and simply &lt;g2&gt;return&lt;/g2&gt; if the loading state is detected (for instance, by looking for “Loading” in the button’s &lt;g3&gt;textContent&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T113551Z" creationid="rikiha" creationdate="20170922T113551Z">
+        <seg>クリックされた際、読み込み中の状態であることを検出したら（たとえば、ボタンの&lt;g3&gt;textContent&lt;/g3&gt;に「読み込み中」が含まれていたら）、何もせずに&lt;g2&gt;return&lt;/g2&gt;する。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
