@@ -31020,7 +31020,7 @@ alongside other items なので、他の項目たちの横に10emのスペース
     <tu>
       <prop type="file">chapter-23.html</prop>
       <prop type="id">tu141_0</prop>
-      <note>※要訳注
+      <note>※訳注あり
 
 (伊原) カタカナでシンメトリーとしました。
 しかし幅を広げて真ん中に置くと、違う意味がでてきてしまうような…。
@@ -31036,7 +31036,12 @@ alongside other items なので、他の項目たちの横に10emのスペース
 
 (伊原) なるほど…。訳注お願いします。
 幅が決まってるならnth-childで頑張るという手もあるみたいです。
-https://hail2u.net/blog/justified-wrapped-flexbox-last-line.html</note>
+https://hail2u.net/blog/justified-wrapped-flexbox-last-line.html
+
+(太田)
+訳注書きました。
+幅が決まっていれば、まあ、何とでもできますね。
+</note>
       <tuv lang="EN-US">
         <seg>My preference, for symmetry, is to group the content around the center line, hence the &lt;g2&gt;justify-content: center;&lt;/g2&gt; declaration on the flex container.</seg>
       </tuv>
@@ -31405,7 +31410,7 @@ lorem ipsum は訳注いりますかね?
 
 (伊原) 無くても通じるのと、好きなものに置き換えてもいいと言ってるので、訳注なしで。
 
-(太田) Ok</note>
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Note that I’m using a short set of &lt;g4&gt;lorem ipsum&lt;/g4&gt; words just for brevity, but you can populate your array how you like.</seg>
       </tuv>
