@@ -6516,7 +6516,8 @@ proxy elementは力強く削除してしまったほうが分かりやすそう�
     <tu>
       <note>(伊原) 誤訳っぽいので修正。
 
-(太田) OK</note>
+(太田) 
+すこしだけ調整。</note>
       <tuv lang="EN-US">
         <seg>Any flex container inside a document with &lt;g1&gt;dir&lt;/g1&gt; set to &lt;g2&gt;rtl&lt;/g2&gt; will display each row of content from right to left as expected: it switches the &lt;g3&gt;row&lt;/g3&gt; and &lt;g4&gt;row-reverse&lt;/g4&gt; values of the &lt;g5&gt;flex-direction&lt;/g5&gt; property.</seg>
       </tuv>
@@ -20261,7 +20262,9 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 補足しつつ調整。flex-directionとdirectionのやり方を両方紹介する意味はなんだろう。挙動が違うとか？あとで確認。</note>
+      <note>(伊原) 補足しつつ調整。flex-directionとdirectionのやり方を両方紹介する意味はなんだろう。挙動が違うとか？あとで確認。
+
+(太田)</note>
       <tuv lang="EN-US">
         <seg>Should you, despite the right-to-left direction setting, want your grid to be laid out in a left-to-right configuration, you can force this using the CSS &lt;g1&gt;direction&lt;/g1&gt; property on the flex container:</seg>
       </tuv>
