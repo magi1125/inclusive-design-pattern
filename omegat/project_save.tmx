@@ -31253,6 +31253,156 @@ http://www.w3.org/TR/css-writing-modes-3/#propdef-unicode-bidi
     </tu>
     <tu>
       <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu156_0</prop>
+      <note>(伊原) 微調整。Toleratingが対応でいいかどうか。
+
+(太田) 柔軟な対応、くらい?
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Tolerating Dynamic Content</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120321Z" creationid="rikiha" creationdate="20170922T120321Z">
+        <seg>動的なコンテンツへの柔軟な対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu157_0</prop>
+      <note>(伊原) 下に繋がりやすいよう語順を入れ替えました。
+
+(太田)
+なんだかよくわからないですね。
+少し調整してみました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>As ever, we should be mindful of the content that our proposed structure is designed for.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120332Z" creationid="rikiha" creationdate="20170922T120332Z">
+        <seg>ここまでずっと、コンテンツのために構造をデザインしてきました。ここでも同様に、コンテンツに注目していくべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu157_0</prop>
+      <note>(伊原) 量だけだと意味がわかりにくいので補いました。また、以前の章というところを補足しました。
+
+(太田)
+少し時間をかける、は誤訳というか語弊があるというか、長い時間をかけるように読めてしまいますね。ここでは、長さの変動を考えることに時間を割く、ということだと思います。
+トリでいいのでは。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Since we’ve covered wording and tone in previous chapters, let’s take some time to consider fluctuating quantity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120342Z" creationid="rikiha" creationdate="20170922T120342Z">
+        <seg>言葉遣いやトーンについては3章「パラグラフ」で説明したので、ここではコンテンツの長さの変動について考えてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu158_0</prop>
+      <note>(伊原) 括弧を外しつつ調整。欧米ではカンプはもう廃れたのですかね。
+
+(太田) 
+訳OK。
+静的なHTMLモックをつくる風習は日本でもすたれてきているようには思います。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>One of the main reasons static mockups of interface components are defunct is that they tend to represent idealized content: people’s names of a particular length, and descriptions all exactly five lines high, for instance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120404Z" creationid="rikiha" creationdate="20170922T120404Z">
+        <seg>インターフェイスコンポーネントの静的モックアップが廃れた主な理由のひとつに、それが理想的なコンテンツを表しがちだから、という点があります。例えば、特定の長さの人名、すべてがぴったり5行に収まる説明文などです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu159_0</prop>
+      <note>(伊原) 誤訳っぽいので修正。
+
+(太田)
+arrays of content のarrayはプログラム用語のarrayで、レイアウト的な配列の意味ではないですね。
+調整してみました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>This script allows you to feed the proposed layout with randomized arrays of content within certain parameters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120425Z" creationid="rikiha" creationdate="20170922T120425Z">
+        <seg>このスクリプトを使うと、指定したパラメータに沿ってランダムに生成されたコンテンツの配列が、レイアウト案の中に流し込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu159_0</prop>
+      <note>(伊原) ここのproductsは商品かなと。
+
+(太田)
+can なので「使っても良い」くらいですね。
+「使うと良いでしょう」としました。
+
+(岡本)
+良い→よい
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>To make sure our products grid interface can tolerate fluctuating content length at the prototyping stage, we can make use of a tool like &lt;g1&gt;&lt;g2&gt;forceFeed.js&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;16&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120414Z" creationid="rikiha" creationdate="20170922T120414Z">
+        <seg>プロトタイプの段階で、商品グリッドインターフェイスがコンテンツの長さの変動を許容できるかを確認するためには、&lt;g1&gt;&lt;g2&gt;forceFeed.js&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注171）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのツールを使うとよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu160_0</prop>
+      <note>(伊原) 前に倣って、アーティストは写真家としました。
+
+(太田)
+以下のコード例につながるように微調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>For example, to test the interface’s tolerance of different names, I might add the following forceFeed.js &lt;g1&gt;data-forcefeed&lt;/g1&gt; attribute to the artist link’s &lt;g2&gt;&lt;cite&gt;&lt;/g2&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120432Z" creationid="rikiha" creationdate="20170922T120432Z">
+        <seg>たとえば、インターフェイスがさまざまな長さの名前を許容できるかテストするには、以下のように、写真家リンクの&lt;g2&gt;&lt;cite&gt;&lt;/g2&gt;にforceFeed.jsの&lt;g1&gt;data-forcefeed&lt;/g1&gt;属性を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu162_0</prop>
+      <note>(伊原) Noteを補いつつ調整。lorem ipsumは訳注でしょうか。
+
+(太田)
+lorem ipsum は訳注いりますかね?
+
+(伊原) 無くても通じるのと、好きなものに置き換えてもいいと言ってるので、訳注なしで。</note>
+      <tuv lang="EN-US">
+        <seg>Note that I’m using a short set of &lt;g4&gt;lorem ipsum&lt;/g4&gt; words just for brevity, but you can populate your array how you like.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120639Z" creationid="rikiha" creationdate="20170922T120639Z">
+        <seg>ちなみに、ここでは説明を簡略にするために&lt;g4&gt;lorem ipsum&lt;/g4&gt;の短いセットを使っていますが、自分の好きな単語を入れてもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu162_0</prop>
+      <note>(伊原) 微調整。runは走らせるでいいかどうか。
+
+(太田) runは「実行する」くらいで。
+
+(伊原) 実行するには〜実行します　となりますが、よいでしょうか？</note>
+      <tuv lang="EN-US">
+        <seg>To run this over all of the artist &lt;g3&gt;&lt;cite&gt;&lt;/g3&gt;s in a page, I first include forceFeed.js, then script the following.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120522Z" creationid="rikiha" creationdate="20170922T120522Z">
+        <seg>これをページ内のすべての写真家の&lt;g3&gt;&lt;cite&gt;&lt;/g3&gt;に対して実行するには、まずforceFeed.jsを読み込んでから、以下のスクリプトを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
       <prop type="id">tu50_0</prop>
       <note>(伊原) ここのpopulateは出力としてみました。
 
