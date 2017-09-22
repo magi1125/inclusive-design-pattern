@@ -18814,6 +18814,7 @@ aria-labelledbyがあるとそっちが優先だったり、細かいルール�
       <note>(伊原) 括弧を外しつつ調整。欧米ではカンプはもう廃れたのですかね。
 
 (太田) 
+訳OK。
 静的なHTMLモックをつくる風習は日本でもすたれてきているようには思います。
 </note>
       <tuv lang="EN-US">
@@ -28845,7 +28846,9 @@ impossibleは「不可能になる」くらい強くしたいところ。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>When the front-end is built, problems can occur where variable content has an unexpected effect on layout.</seg>
       </tuv>
