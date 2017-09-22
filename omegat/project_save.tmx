@@ -30542,5 +30542,29 @@ resultを訳出。
         <seg>ただし、きわめて慎重に実装されている場合を除き、無限スクロールは、さまざまな操作方法に対してストレスに満ちた体験をもたらす結果になりがちです。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu78_0</prop>
+      <note>※要訳注?
+
+(伊原) 場合➞こと
+
+(太田)
+マウスユーザーの一般論というよりも、ヘイドンさん自身がマウスユーザーであり、マウスユーザーとして言うとこうだ、というニュアンスで書いてますね。「いっぱしのマウス使いとして言わせていただくなら、私は～」みたいな感じ。
+
+私はマウスを使っていますが、スクロールバーのハンドルをドラッグしてページをスクロールすることもあります。
+
+とか。
+つながりが唐突なので「たとえば」を補いました。
+「ハンドル」わかりますかね? 要訳注? 訳注するにしても図解が無いと分かりにくいか。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>As a mouse user, I might scroll the page by dragging the scrollbar’s handle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112344Z" creationid="rikiha" creationdate="20170922T112344Z">
+        <seg>たとえば、私はマウスを使っていますが、スクロールバーのハンドルをドラッグしてページをスクロールすることもあります。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
