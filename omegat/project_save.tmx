@@ -30863,6 +30863,60 @@ key informationを「カギとなる情報」としたので、あわせまし�
     </tu>
     <tu>
       <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu134_0</prop>
+      <note>(伊原) ensures を保証と訳すか。いったん「意味します」のままで。
+
+(太田)
+この例の場合、縮むという状況は特殊なので、万が一の場合も縮む、というニュアンスで言っているのだと思います。
+狭くなることを保証する、ということは、レイアウトが破綻しないということなので、補ってみました。が、ちょっと補いすぎかもしれません。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-shrink&lt;/g2&gt; value of &lt;g3&gt;1&lt;/g3&gt; (can be omitted, in fact, because it’s the default) ensures items will shrink if needed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T115140Z" creationid="rikiha" creationdate="20170922T115140Z">
+        <seg> &lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-shrink&lt;/g2&gt;の&lt;g3&gt;1&lt;/g3&gt;という値（実際はこの値がデフォルトなので省略可能）によって、必要なときには項目の幅が狭くなり、レイアウトが破綻しないようになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu135_0</prop>
+      <note>(伊原) 実装に沿って調整。
+
+(太田)
+今の訳だとflexコンテナの幅が10em以下の場合と言っているように読めてしまいますが、それはおかしいような。
+alongside other items なので、他の項目たちの横に10emのスペースが余っていなければ、ということでしょう。
+調整してみました。
+が、実際にはflex-growが有効だから余ったりしないんですけどね。アルゴリズム的にはいったん余って、折り返して、そのあとgrowする感じ。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-wrap&lt;/g2&gt; is switched on so items will wrap to the next row when there is not enough room to fit them alongside other items greater than 10em in width.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T115157Z" creationid="rikiha" creationdate="20170922T115157Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-wrap&lt;/g2&gt;が有効になっているため、他の項目を並べた横に幅10em以上のスペースがなく、要素が収まらないときは、次の行に折り返して表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu137_0</prop>
+      <note>(伊原) 微調整。
+
+(太田)
+自己管理型は良くわからないです。
+自律的のほうが分かりやすいように思いますが、わかりにくいようであれば「自動的」とか?
+
+(伊原) 自動的、がイメージには近いかも。勝手に的な。
+※ここを変えるとしたら、&lt;分節 3139&gt;なども置き換え。他の章にも1個あったような。</note>
+      <tuv lang="EN-US">
+        <seg>What we’ve established is a self-governing grid system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T115335Z" creationid="rikiha" creationdate="20170922T115335Z">
+        <seg>構築してきたのは、自律的に構成されるグリッドシステムです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
       <prop type="id">tu50_0</prop>
       <note>(伊原) ここのpopulateは出力としてみました。
 
