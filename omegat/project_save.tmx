@@ -14435,12 +14435,14 @@ look at は学びましたというか考察しましたというか。
 
 (太田)
 発見? 誰が? という直訳感がぬぐえないです。
-主語 we なのですが、そのまま主語カットして日本語にすると ヘイドンさんが、という感じになるので変ですね。</note>
+主語 we なのですが、そのまま主語カットして日本語にすると ヘイドンさんが、という感じになるので変ですね。
+わかったのではないでしょうか、としてみました。
+</note>
       <tuv lang="EN-US">
         <seg>In this pattern we discovered two things.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T061846Z" creationid="rikiha" creationdate="20170909T224318Z">
-        <seg>このパターンでは、2つのことを発見しました。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T062714Z" creationid="rikiha" creationdate="20170909T224318Z">
+        <seg>このパターンでは、2つのことがわかったのではないでしょうか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20102,12 +20104,16 @@ without the clear hierarchy of grouping related sections under a main heading on
       <note>(伊原) 訳はこうだと思うのですが意味がわかりにくい。CSS依存にするなということなのだとは思いますが…。
 
 (岡本)
-2つ目→ふたつめ</note>
+2つ目→ふたつめ
+
+(太田)
+確かにわかりにくい。
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Second, when using semantic HTML, CSS can be used as a form of progressive enhancement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170919T061928Z" creationid="rikiha" creationdate="20170909T224320Z">
-        <seg>ふたつめは、セマンティックHTMLを使用するときに、CSSをプログレッシブエンハンスメントのひとつの形態として使えるということ。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T062618Z" creationid="rikiha" creationdate="20170909T224320Z">
+        <seg>ふたつめは、まずセマンティックなHTMLを使用して、CSSをプログレッシブエンハンスメントとして使うやり方があるということ。</seg>
       </tuv>
     </tu>
     <tu>
