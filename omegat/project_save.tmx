@@ -17850,8 +17850,8 @@ https://eow.alc.co.jp/search?q=not+do+anything+fancy
       <tuv lang="EN-US">
         <seg>Note that forceFeed.js needs a wrapper element to work, so let’s pretend we’ve used a script to place a &lt;g4&gt;&lt;span&gt;&lt;/g4&gt; around the title before the link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T054719Z" creationid="rikiha" creationdate="20170909T224300Z">
-        <seg>forceFeed.jsを機能させるには、データが流し込まれる箇所をくくる要素が必要になることに注意してください。スクリプトを使って、リンクの前にあるタイトルを&lt;span&gt;で囲んだとしましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T054734Z" creationid="rikiha" creationdate="20170909T224300Z">
+        <seg>forceFeed.jsを機能させるには、データを流し込む箇所を囲む要素が必要なことに注意してください。スクリプトを使って、リンクの前にあるタイトルを&lt;span&gt;で囲んだとしましょう。</seg>
       </tuv>
     </tu>
     <tu>
