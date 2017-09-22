@@ -30405,5 +30405,43 @@ http://postd.cc/nobody-wants-use-your-product/
         <seg>検索結果をもっと読み込む</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu75_0</prop>
+      <note>(伊原) 補いつつ調整
+
+(太田)
+「検索結果のセット」はすこし違和感があるかも。
+やや意訳気味に調整してみましたがどうでしょう。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Far better to load a smaller set of results, then retrieve more as and when the user needs them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112213Z" creationid="rikiha" creationdate="20170922T112213Z">
+        <seg>検索結果を読み込む量は少なめにしておき、ユーザーが必要としたときに追加で取得するほうがはるかに優れています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu75_0</prop>
+      <note>(伊原) as well as producing an intimidating and unwieldy page をどうすべきか。長すぎてウッとなったり扱いにくい、ということなのだとは思いますが…。
+
+(太田)
+まあHJなのでざっくり意訳でも良いとは思います。
+unwieldy は「重すぎる」「かさばりすぎる」のような意味もあるのでそちらかなと。「恐ろしく重い」くらいかと思いましたが、パフォーマンスの話は前段でしているので、こちらは「かさばる」ほうかなと。
+intimidatingは「泣く子も黙る」という訳があるようです。w
+「泣く子も黙るような恐ろしく長いページ」とかでどうでしょう。
+
+wouldなので語尾を「ことがあります」としました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Retrieving and rendering all of them at once would cause a serious performance bottleneck, as well as producing an intimidating and unwieldy page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112206Z" creationid="rikiha" creationdate="20170922T112206Z">
+        <seg>一度ですべて取得して表示すると、パフォーマンス上の深刻なボトルネックの原因になると同時に、泣く子も黙るような恐ろしく長いページになることがあります。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
