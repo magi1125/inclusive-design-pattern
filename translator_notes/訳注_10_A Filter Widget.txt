@@ -6,6 +6,7 @@ ARIA in HTMLでは、form要素は暗黙のformロールを持ち、明示的に
 なお、ほとんどのスクリーンリーダーは、フォームコントロールにジャンプする機能を備えています。role="form"の指定がない場合でも、フォームに飛ぶ機能を利用すれば比較的容易に戻ることができるでしょう。
 
 参考:
+ARIA in HTML - 2. Document conformance requirements for use of ARIA attributes in HTML
 http://www.w3.org/TR/html-aria/#docconformance
 
 
