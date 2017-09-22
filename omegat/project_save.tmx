@@ -30811,5 +30811,22 @@ sentは「飛ばされる」としました。
         <seg>ここでの有効な対処方法は、新たに表示された商品の最初のタイトル（&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;）にフォーカスを移すことです。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu90_0</prop>
+      <note>(伊原) Noteを訳出。has toなのでそんな感じに。
+
+(太田)
+微調整
+&lt;g2&gt;&lt;h3&gt;&lt;/g2&gt; が抜けていたので補いました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Note that &lt;g1&gt;tabindex="-1"&lt;/g1&gt; has to be applied to the first item’s &lt;g2&gt;&lt;h3&gt;&lt;/g2&gt; to make it focusable with JavaScript’s &lt;g3&gt;focus()&lt;/g3&gt; method.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112753Z" creationid="rikiha" creationdate="20170922T112753Z">
+        <seg>JavaScriptの&lt;g3&gt;focus()&lt;/g3&gt;メソッドでフォーカスできるようにするには、最初の商品の&lt;g2&gt;&lt;h3&gt;&lt;/g2&gt;に&lt;g1&gt;tabindex="-1"&lt;/g1&gt;を適用する必要がある点に注意してください。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
