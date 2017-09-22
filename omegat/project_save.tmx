@@ -20264,7 +20264,11 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
     <tu>
       <note>(伊原) 補足しつつ調整。flex-directionとdirectionのやり方を両方紹介する意味はなんだろう。挙動が違うとか？あとで確認。
 
-(太田)</note>
+(太田)
+ヘイドンさんの意図が良くわからないですね。
+CSSのdirectionは書字方向の指定で、かつ、継承されるので、コンテナの並び順だけでなく中身のテキストの書字方向もltrになります……と一瞬思いましたが、BDOではないからUnicodeの書字方向アルゴリズムのほうが優先でそうはならないですね。
+http://www.w3.org/TR/css-writing-modes-3/#direction
+</note>
       <tuv lang="EN-US">
         <seg>Should you, despite the right-to-left direction setting, want your grid to be laid out in a left-to-right configuration, you can force this using the CSS &lt;g1&gt;direction&lt;/g1&gt; property on the flex container:</seg>
       </tuv>
