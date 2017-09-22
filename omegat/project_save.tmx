@@ -9922,12 +9922,17 @@ the を訳出すべきか?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整</note>
+      <note>(伊原) 微調整
+
+(太田)
+かなり見事はちょっと変かも。
+より美しく、くらいか。
+ここのdirectionははfloatするコンテンツの方向なので「テキスト方向」ではないかも。</note>
       <tuv lang="EN-US">
         <seg>Flexbox, rather beautifully, handles direction automatically.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T142306Z" creationid="rikiha" creationdate="20170909T224150Z">
-        <seg>Flexboxであればかなり見事に、テキスト方向を自動的に処理します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T043837Z" creationid="rikiha" creationdate="20170909T224150Z">
+        <seg>Flexboxは、より美しく、方向を自動的に処理します。</seg>
       </tuv>
     </tu>
     <tu>
