@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31458,6 +31458,177 @@ lorem ipsum は訳注いりますかね?
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170922T120652Z" creationid="rikiha" creationdate="20170922T120652Z">
         <seg>このスクリプトでは、追加する項目の数について、&lt;g2&gt;x&lt;/g2&gt;から&lt;g3&gt;n&lt;/g3&gt;の&lt;g1&gt;あいだ&lt;/g1&gt;、という指定ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu168_0</prop>
+      <note>(太田)
+すこし調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Between one and ten words is the kind of variability we can expect for the titles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120756Z" creationid="rikiha" creationdate="20170922T120756Z">
+        <seg>単語数1～10という変動幅は、商品タイトルに予想される言葉としては妥当でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu168_0</prop>
+      <note>(伊原) 「視覚的な崩れに対する耐性を高める」が抽象的だったので、平易な形に修正。
+
+(太田)
+進行形なので、再読み込みしながら調整していく、という繰り返しのニュアンスかなと。
+すこし調整してみました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Now it’s back to refreshing the page and adapting the grid to tolerate any visual breakages better.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120804Z" creationid="rikiha" creationdate="20170922T120804Z">
+        <seg>後はページを再読み込みしながら、視覚的なレイアウトの破綻が起きにくくなるように、グリッドに調整を加えていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu168_0</prop>
+      <note>(伊原) 結びっぽく調整。
+
+(太田)
+ちょっと違うような。すこし調整。
+どちらもCSS調整しているときのあるあるですね。前者はflexboxだとあまり起きないと思いますが、floatだと良くある話です。ここではflexboxに限らない話をしているのかも。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Usually problems arise due to wrapping causing height differences between items, or failures to wrap meaning content breaks out of its box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120824Z" creationid="rikiha" creationdate="20170922T120824Z">
+        <seg>よくある問題は、項目間の高さに違いが出ることによって折り返しが発生する、コンテンツが折り返さずに枠からはみ出してしまう、といったものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu168_0</prop>
+      <note>(伊原) 原文に沿うとこうですが、（1個）（10個）と括弧書きによる補足をするかどうか。下段落にあるからいいか。
+
+(岡本)
+1つ目→ひとつめ　　2つ目→ふたつめ
+
+(太田)
+微調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>When two numbers are provided, as in &lt;g1&gt;words|1|10&lt;/g1&gt;, the script will place &lt;g2&gt;between&lt;/g2&gt; the first number and second number of array items as the text node.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120751Z" creationid="rikiha" creationdate="20170922T120751Z">
+        <seg>&lt;g1&gt;words|1|10&lt;/g1&gt;のように2つの数字を指定すると、スクリプトはひとつめの数字からふたつめの数字の&lt;g2&gt;あいだ&lt;/g2&gt;の数の配列項目をテキストノードとして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu170_0</prop>
+      <note>(伊原) impartedを与えられたとしてみました
+
+(太田)
+すこし調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>As we’ve been discussing throughout the book, inclusive design also means a visual design which is not too strict about the nature of the content imparted to it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120923Z" creationid="rikiha" creationdate="20170922T120923Z">
+        <seg>本書全体を通して説明してきたように、インクルーシブデザインは、どんなコンテンツが与えられても融通が利くビジュアルデザインである、ということも意味するのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu170_0</prop>
+      <note>(伊原) 微調整。we often find なので「よく見つける」的な感じかなと。
+
+(岡本)
+1つ目→ひとつめ
+
+(太田)
+語順を原文に合わせて調整。
+flimsilyは「安易に」くらいでしょうか。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>First, sometimes HTML already provides the behaviors we often find ourselves needlessly and flimsily recreating in JavaScript.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120843Z" creationid="rikiha" creationdate="20170922T120843Z">
+        <seg>ひとつめは、HTMLで既に提供されているふまいを、必要もないのに、安易にJavaScriptで作り直していることがよくあるということ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu170_0</prop>
+      <note>(伊原) インクルーシブ原則に沿って調整。
+
+(太田)
+配置→表示としつつ微調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>In addition, we explored the importance of giving users &lt;g1&gt;choice&lt;/g1&gt; and &lt;g2&gt;control&lt;/g2&gt; over how their content is arranged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120910Z" creationid="rikiha" creationdate="20170922T120910Z">
+        <seg>加えて、コンテンツの表示方法にをユーザーが&lt;g1&gt;選択&lt;/g1&gt;し、&lt;g2&gt;制御&lt;/g2&gt;できるようにすることの重要性について検討しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu170_0</prop>
+      <note>(伊原) discover感を出しました。
+
+(太田)
+発見? 誰が? という直訳感がぬぐえないです。
+主語 we なのですが、そのまま主語カットして日本語にすると ヘイドンさんが、という感じになるので変ですね。
+わかったのではないでしょうか、としてみました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>In this pattern we discovered two things.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120835Z" creationid="rikiha" creationdate="20170922T120835Z">
+        <seg>このパターンでは、2つのことがわかったのではないでしょうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu170_0</prop>
+      <note>(伊原) 訳はこうだと思うのですが意味がわかりにくい。CSS依存にするなということなのだとは思いますが…。
+
+(岡本)
+2つ目→ふたつめ
+
+(太田)
+確かにわかりにくい。
+調整してみました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Second, when using semantic HTML, CSS can be used as a form of progressive enhancement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120904Z" creationid="rikiha" creationdate="20170922T120904Z">
+        <seg>ふたつめは、まずセマンティックなHTMLを使用して、CSSをプログレッシブエンハンスメントとして使うやり方があるということ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu170_0</prop>
+      <note>(太田)
+微調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>We also used some techniques to make sure our design was tolerant of dynamic and fluctuating content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T120916Z" creationid="rikiha" creationdate="20170922T120916Z">
+        <seg>また、動的に変動するコンテンツに対応できるデザインであることを確認するための、いくつかのテクニックを紹介しました。</seg>
       </tuv>
     </tu>
     <tu>
