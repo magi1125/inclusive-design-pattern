@@ -17824,7 +17824,9 @@ prelearnedは使い慣れたということでいいのか。
       <note>(伊原) Noteを訳出。has toなのでそんな感じに。
 
 (太田)
-微調整</note>
+微調整
+&lt;g2&gt;&lt;h3&gt;&lt;/g2&gt; が抜けていたので補いました。
+</note>
       <tuv lang="EN-US">
         <seg>Note that &lt;g1&gt;tabindex="-1"&lt;/g1&gt; has to be applied to the first item’s &lt;g2&gt;&lt;h3&gt;&lt;/g2&gt; to make it focusable with JavaScript’s &lt;g3&gt;focus()&lt;/g3&gt; method.</seg>
       </tuv>
