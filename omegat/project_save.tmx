@@ -9900,13 +9900,12 @@ the を訳出すべきか?
 (太田)
 アルゴリズム的とは。
 直訳すると「Flexboxはアルゴリズム的に動作し、それをとてもパワフルにするものである」
-何が言いたいのか。単に「Flexboxのアルゴリズムは、かなり強力です」ということか。
-</note>
+何が言いたいのか。単にFlexboxのアルゴリズムはパワフルです、ということか。それとも、「(うまく使えば)パワフルにできる」ということなのか。</note>
       <tuv lang="EN-US">
         <seg>Flexbox works algorithmically, which is what makes it so powerful.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T035333Z" creationid="rikiha" creationdate="20170909T224101Z">
-        <seg>Flexboxのアルゴリズムは非常にパワフルです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T035722Z" creationid="rikiha" creationdate="20170909T224101Z">
+        <seg>Flexboxのアルゴリズムは、うまく使えば非常にパワフルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26862,12 +26861,15 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田)
+あなたのコンテンツで実際に使うときは、というニュアンスを出したいですね。</note>
       <tuv lang="EN-US">
         <seg>To get the best results for your own content, you’ll need to tweak the 10em and 20em values.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T133750Z" creationid="rikiha" creationdate="20170909T224109Z">
-        <seg>取り扱うコンテンツに対して最高の結果を得るには、この例で10emや20emとした値を調節する必要があるでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T035626Z" creationid="rikiha" creationdate="20170909T224109Z">
+        <seg>実際に使うときには、この例で10emや20emとした値を調節する必要があるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
