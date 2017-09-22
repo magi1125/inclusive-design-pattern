@@ -30874,5 +30874,39 @@ sentは「飛ばされる」としました。
         <seg>フィルタオプションを選択する場合と同様、XHRで処理されることになります。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu92_0</prop>
+      <note>(伊原) canっぽく。丸ごと絵に置き換えるわけではないのですが、後を読めばわかるか。
+
+(太田) OK
+置き換えることが→置き換えることも、としました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>In this case, we can replace the “Load more” button’s text node with that graphic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112900Z" creationid="rikiha" creationdate="20170922T112900Z">
+        <seg>このケースでは、「もっと読み込む」ボタンのテキストノードを読み込み中アイコンで置き換えることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu92_0</prop>
+      <note>(伊原) JS的なイベントではないので、成り行きとしてみました。
+
+(太田)
+急に成り行きと言われても良くわからない印象です。
+このeventはふつうに「出来事」の意味ですね。
+「イベントが発生する順」でも伝わるようには思いますが、まあ、無理に訳さなくても「以下のような順になるでしょう」くらいでも良いかと。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>The order of events should be as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112908Z" creationid="rikiha" creationdate="20170922T112908Z">
+        <seg>その場合、以下のような順で動作することになるでしょう。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
