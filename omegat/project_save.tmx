@@ -27844,12 +27844,16 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 結びっぽく調整。</note>
+      <note>(伊原) 結びっぽく調整。
+
+(太田)
+ちょっと違うような。すこし調整。
+前者はflexboxだとあまり起きないと思いますが、floatだと良くある話ですね。ここではflexboxに限らない話をしているのかも。</note>
       <tuv lang="EN-US">
         <seg>Usually problems arise due to wrapping causing height differences between items, or failures to wrap meaning content breaks out of its box.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T034657Z" creationid="rikiha" creationdate="20170919T034014Z">
-        <seg>よくある問題は、折り返しによって項目間の高さに違いが生じる、折り返しの不具合によってコンテンツが枠からはみ出す、といったことに起因するはずです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T061249Z" creationid="rikiha" creationdate="20170919T034014Z">
+        <seg>よくある問題は、項目間の高さに違いが出ることによって折り返しが発生する、コンテンツがボックスからあふれて枠からはみ出す、といったものです。</seg>
       </tuv>
     </tu>
     <tu>
