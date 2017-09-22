@@ -20265,13 +20265,14 @@ be my guest は「どうぞご自由に」の意味の慣用句です。
       <note>(伊原) 補足しつつ調整。flex-directionとdirectionのやり方を両方紹介する意味はなんだろう。挙動が違うとか？あとで確認。
 
 (太田)
-CSSのdirectionは書字方向の指定で、かつ、継承されるので、コンテナの並び順だけでなく中身のテキストの書字方向もltrになるのでは……と一瞬思いましたが、unicode-bidiがoverrideではないからUnicodeの書字方向アルゴリズムのほうが優先で、そうはならないですね。
-ただ、コンテナの中身のtext-alignはdirectionに依存するので、指定がなければテキストは右寄せになります。
+CSSのdirectionは書字方向の指定で、かつ、継承されるので、コンテナの並び順だけでなく中身のテキストの書字方向もltrになるのでは……と一瞬思いましたが、unicode-bidiがbidi-overrideではないからUnicodeの書字方向アルゴリズムのほうが優先で、そうはならないですね。
+ただ、コンテナの中身のtext-alignはdirectionに依存するので、指定がなければテキストは左寄せになります。
+flex-direcionをいじっただけだと、text-alignは影響を受けません。
+訳注ですかね。
 
 参考:
 http://www.w3.org/TR/css-writing-modes-3/#direction
 http://www.w3.org/TR/css-writing-modes-3/#propdef-unicode-bidi
-
 </note>
       <tuv lang="EN-US">
         <seg>Should you, despite the right-to-left direction setting, want your grid to be laid out in a left-to-right configuration, you can force this using the CSS &lt;g1&gt;direction&lt;/g1&gt; property on the flex container:</seg>
