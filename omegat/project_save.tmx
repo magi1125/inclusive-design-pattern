@@ -24204,8 +24204,8 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
       <tuv lang="EN-US">
         <seg>The script also allows you to add &lt;g1&gt;between&lt;/g1&gt; &lt;g2&gt;x&lt;/g2&gt; and &lt;g3&gt;n&lt;/g3&gt; numbers of array items.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T054136Z" creationid="rikiha" creationdate="20170909T224257Z">
-        <seg>このスクリプトでは、項目の配列の数を&lt;g2&gt;x&lt;/g2&gt;から&lt;g3&gt;n&lt;/g3&gt;の&lt;g1&gt;あいだ&lt;/g1&gt;で調整できます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T060114Z" creationid="rikiha" creationdate="20170909T224257Z">
+        <seg>このスクリプトでは、追加する項目の数について、&lt;g2&gt;x&lt;/g2&gt;から&lt;g3&gt;n&lt;/g3&gt;の&lt;g1&gt;中間&lt;/g1&gt;、という指定ができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28944,8 +28944,8 @@ reorganize難しいですね。「状態を変える」か、超訳ですが「�
       <tuv lang="EN-US">
         <seg>When two numbers are provided, as in &lt;g1&gt;words|1|10&lt;/g1&gt;, the script will place &lt;g2&gt;between&lt;/g2&gt; the first number and second number of array items as the text node.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170919T034429Z" creationid="rikiha" creationdate="20170909T224305Z">
-        <seg>&lt;g1&gt;words|1|10&lt;/g1&gt;のように2つの数字を指定すると、スクリプトはひとつめの数字からふたつめの数字のあいだの分の配列項目をテキストノードとして配置します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T055943Z" creationid="rikiha" creationdate="20170909T224305Z">
+        <seg>&lt;g1&gt;words|1|10&lt;/g1&gt;のように2つの数字を指定すると、スクリプトはひとつめの数字からふたつめの数字の&lt;g2&gt;中間&lt;/g2&gt;の配列項目をテキストノードとして配置します。</seg>
       </tuv>
     </tu>
     <tu>
