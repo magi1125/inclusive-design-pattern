@@ -55,12 +55,14 @@ https://allyjs.io/api/fix/pointer-focus-children.html を見ると、flexコン�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) Ok</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note&lt;/g1&gt;: This automatic reversal is also true of &lt;g2&gt;&lt;table&gt;&lt;/g2&gt; elements which switch their column order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T224907Z" creationid="rikiha" creationdate="20170909T224211Z">
-        <seg>（&lt;g1&gt;注：&lt;/g1&gt;この自動的な方向の逆転は&lt;table&gt;要素にも当てはまり、カラムの順序が入れ替わります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T050959Z" creationid="rikiha" creationdate="20170909T224211Z">
+        <seg>（&lt;g1&gt;注：&lt;/g1&gt;この自動的な方向の逆転は&lt;g2&gt;&lt;table&gt;&lt;/g2&gt;要素にも当てはまり、カラムの順序が入れ替わります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28109,7 +28111,9 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) tableが間違ってるみたいになっているので修正。</note>
+      <note>(伊原) tableが間違ってるみたいになっているので修正。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>We don’t use &lt;g3&gt;&lt;table&gt;&lt;/g3&gt; elements for layout because they provide incorrect semantic information to assistive technologies.)</seg>
       </tuv>
