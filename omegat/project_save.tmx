@@ -30374,5 +30374,36 @@ http://postd.cc/nobody-wants-use-your-product/
         <seg>並べ替えボタンを押した後、ライブリージョンに「商品リストを読み込み中。しばらくお待ちください。」というメッセージを入れます。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu66_0</prop>
+      <note>(太田)
+微調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Each arrow keypress not only focuses adjacent radio buttons but &lt;g1&gt;selects them&lt;/g1&gt; as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112124Z" creationid="rikiha" creationdate="20170922T112124Z">
+        <seg>矢印キーを押すと、隣接するラジオボタンがフォーカスされるだけでなく、&lt;g1&gt;選択&lt;/g1&gt;もされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu74_0</prop>
+      <note>(太田)
+いったん保留。
+単に件数を増やすのではなく逐次ロードの仕組みだとわかるニュアンスにしたいところではあるが。
+
+下のほうで「もっと読み込む」としているので「もっと」としました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Loading More Results</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112151Z" creationid="rikiha" creationdate="20170922T112151Z">
+        <seg>検索結果をもっと読み込む</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
