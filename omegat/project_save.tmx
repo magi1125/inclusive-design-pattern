@@ -27852,8 +27852,8 @@ unless or until は厳密に訳さなくても良いように思います。
       <tuv lang="EN-US">
         <seg>Usually problems arise due to wrapping causing height differences between items, or failures to wrap meaning content breaks out of its box.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T061249Z" creationid="rikiha" creationdate="20170919T034014Z">
-        <seg>よくある問題は、項目間の高さに違いが出ることによって折り返しが発生する、コンテンツがボックスからあふれて枠からはみ出す、といったものです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T061403Z" creationid="rikiha" creationdate="20170919T034014Z">
+        <seg>よくある問題は、項目間の高さに違いが出ることによって折り返しが発生する、コンテンツが折り返さずに枠からはみ出してしまう、といったものです。</seg>
       </tuv>
     </tu>
     <tu>
