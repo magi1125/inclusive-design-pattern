@@ -11577,8 +11577,8 @@ HJなのでもう少し練りたい。もしくは訳注か。
       <tuv lang="EN-US">
         <seg>However, this would mean hiding the now redundant submit button and trusting that keyboard users would know to press &lt;g1&gt;Enter&lt;/g1&gt; to submit the form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T110050Z" creationid="rikiha" creationdate="20170909T223812Z">
-        <seg>しかしこの際、冗長になったsubmitボタンを隠してしまうと、クリックもタップもできないキーボードユーザーは困ることになるでしょう。&lt;g1&gt;Enter&lt;/g1&gt;キーでこのフォームを送信できることに気づいてくれると信じるほかありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T072658Z" creationid="rikiha" creationdate="20170909T223812Z">
+        <seg>しかしこの際、冗長になったsubmitボタンを隠してしまうと、クリックもタップもできないキーボードユーザーは困ることになるでしょう。&lt;g1&gt;Enter&lt;/g1&gt;キーでこのフォームを送信できると気づいてくれることを信じるほかありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16733,12 +16733,14 @@ manageは管理で良いような。
     <tu>
       <note>(太田)
 いったん保留。
-単に件数を増やすのではなく逐次ロードの仕組みだとわかるニュアンスにしたいところではあるが。</note>
+単に件数を増やすのではなく逐次ロードの仕組みだとわかるニュアンスにしたいところではあるが。
+
+下のほうで「もっと読み込む」としているので「もっと」としました。</note>
       <tuv lang="EN-US">
         <seg>Loading More Results</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T142224Z" creationid="rikiha" creationdate="20170909T223820Z">
-        <seg>検索結果をさらに読み込む</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T072834Z" creationid="rikiha" creationdate="20170909T223820Z">
+        <seg>検索結果をもっと読み込む</seg>
       </tuv>
     </tu>
     <tu>
