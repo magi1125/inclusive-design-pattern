@@ -30663,5 +30663,22 @@ impossibleは「不可能になる」くらい強くしたいところ。
         <seg>無限スクロールは実装しないでください。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu82_0</prop>
+      <note>(伊原) ちょっと違うので調整。
+
+(太田)
+すこし調整。
+add more は言わなくてもわかるのでトリました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Replace automatic infinite scrolling with a “Load more results…” button or link that explicitly invites the user to add more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112608Z" creationid="rikiha" creationdate="20170922T112608Z">
+        <seg>自動の無限スクロールを、ユーザーが明示的に操作する「検索結果をもっと読み込む……」というボタンやリンクに置き換えましょう。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
