@@ -2903,7 +2903,7 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注?
+      <note>※訳注あり
 
 (太田)
 訳としては合っていますが言っていることが分かりにくいですね。
@@ -2919,7 +2919,9 @@ Elements with the role status have an implicit aria-live value of polite and an 
 
 (太田)もしかすると、本来ここでは aria-live="assertive" と alertロールの話をすべきところ、単純に間違えたのかもしれませんね。
 
-(伊原) そんな気がします。初校チェックの段階で意味が通るように並び替えることを検討してもよさそうです。</note>
+(伊原) そんな気がします。初校チェックの段階で意味が通るように並び替えることを検討してもよさそうです。
+
+(太田) 訳注でフォローしました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-live="polite"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;8&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; property and the &lt;g8&gt;&lt;g9&gt;&lt;g10&gt;status&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;9&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt; role are equivalent.</seg>
       </tuv>
@@ -9396,7 +9398,9 @@ draw onは経験を活かすような意味。
       <note>(太田)
 ここのnewは新しいというか今と異なるくらいの意味でしょう。「別の」としました。
 
-(伊原) リフレッシュを再読み込みにして前と合わせました。</note>
+(伊原) リフレッシュを再読み込みにして前と合わせました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Each time a user chooses a new filtering option and hits the sort button, there’s currently a page refresh.</seg>
       </tuv>
