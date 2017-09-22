@@ -31142,7 +31142,7 @@ https://allyjs.io/api/fix/pointer-focus-children.html を見ると、flexコン�
 
 (伊原) OK、することができるようになります➞できるようになります
 
-(太田) Ok</note>
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>As we established in the chapter “The Document,” it’s important to declare the language of a web page because this gets the most out of assistive technologies and translation tools.</seg>
       </tuv>
@@ -31252,7 +31252,7 @@ floated はfloatした、としました。
     <tu>
       <prop type="file">chapter-23.html</prop>
       <prop type="id">tu153_0</prop>
-      <note>※要訳注
+      <note>※訳注あり
 
 (伊原) 補足しつつ調整。flex-directionとdirectionのやり方を両方紹介する意味はなんだろう。挙動が違うとか？あとで確認。
 
@@ -31266,7 +31266,9 @@ flex-direcionをいじっただけだと、text-alignは影響を受けません
 http://www.w3.org/TR/css-writing-modes-3/#direction
 http://www.w3.org/TR/css-writing-modes-3/#propdef-unicode-bidi
 
-(伊原) 確認ありがとうございます。unicode-bidiはたいがいセットで指定されている例が多く、それがないので文字方向は変わらないとしたら何が違うのかな…と思っていたところでした。訳注ですね。</note>
+(伊原) 確認ありがとうございます。unicode-bidiはたいがいセットで指定されている例が多く、それがないので文字方向は変わらないとしたら何が違うのかな…と思っていたところでした。訳注ですね。
+
+(太田) 訳注を書きました。</note>
       <tuv lang="EN-US">
         <seg>Should you, despite the right-to-left direction setting, want your grid to be laid out in a left-to-right configuration, you can force this using the CSS &lt;g1&gt;direction&lt;/g1&gt; property on the flex container:</seg>
       </tuv>
