@@ -18165,12 +18165,16 @@ the URLは「このページのURL」としてみました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 「視覚的な崩れに対する耐性を高める」が抽象的だったので、平易な形に修正。</note>
+      <note>(伊原) 「視覚的な崩れに対する耐性を高める」が抽象的だったので、平易な形に修正。
+
+(太田)
+進行形なので、再読み込みしながら調整していく、という繰り返しのニュアンスかなと。
+すこし調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Now it’s back to refreshing the page and adapting the grid to tolerate any visual breakages better.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T034222Z" creationid="rikiha" creationdate="20170909T224312Z">
-        <seg>後はページを再読み込みし、グリッドに調整を加えて、視覚的なレイアウトの破綻が起きにくくなるようにします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T060826Z" creationid="rikiha" creationdate="20170909T224312Z">
+        <seg>後はページを再読み込みしながら、視覚的なレイアウトの破綻が起きにくくなるように、グリッドに調整を加えていきます。</seg>
       </tuv>
     </tu>
     <tu>
