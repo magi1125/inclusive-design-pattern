@@ -30713,5 +30713,38 @@ add more は言わなくてもわかるのでトリました。
         <seg>「もっと読み込む」ボタン――それは&lt;g2&gt;&lt;button&gt;&lt;/g2&gt;である&lt;g1&gt;べき&lt;/g1&gt;です――は、現在表示されている検索結果の最後に置かれ、クリックすると、次の検索結果を読み込むためにXHRが送信されます。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu87_0</prop>
+      <note>(伊原) 読点の位置など加味し語順調整。
+
+(太田)
+どうにも日本語に違和感があり、次とのつながりを考えてもimportantを重要と訳すことにこだわらないほうが良いと思ったので、意訳気味に「しましょう」としました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>After the new content is rendered, it’s important that keyboard focus is moved from the &lt;g1&gt;data-load-more&lt;/g1&gt; button to the first of the newly loaded items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112651Z" creationid="rikiha" creationdate="20170922T112651Z">
+        <seg>新しいコンテンツが表示されたら、&lt;g1&gt;data-load-more&lt;/g1&gt;ボタンにあるキーボードフォーカスを、新たに読み込まれた項目の先頭へと移動しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu87_0</prop>
+      <note>(伊原) フォーカスを持ったままボタンが居なくなって困る、という話なのでそのように修正。
+
+(太田)
+「表示に変化を起こさずに」の意味が不明。 the user’s view will not change のviewはviewport的な意味で「スクロールしない」という話かも。
+少し補ってみました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Otherwise, the user’s view will not change and focus will remain on the &lt;g2&gt;data-load-more&lt;/g2&gt; button which has now been pushed off-screen by the added content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112701Z" creationid="rikiha" creationdate="20170922T112701Z">
+        <seg>そうしないと、ユーザーが見ているビューポートは変化せずに、フォーカスが当たっている&lt;g2&gt;data-load-more&lt;/g2&gt;ボタンが画面外に押し出され、フォーカスを見失ってしまいます。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
