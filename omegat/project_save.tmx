@@ -30746,5 +30746,37 @@ add more は言わなくてもわかるのでトリました。
         <seg>そうしないと、ユーザーが見ているビューポートは変化せずに、フォーカスが当たっている&lt;g2&gt;data-load-more&lt;/g2&gt;ボタンが画面外に押し出され、フォーカスを見失ってしまいます。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu88_0</prop>
+      <note>(伊原) この実装は、もっと読むのJS実装の話なのか、フォーカスを持ったまま要素が消えたらブラウザがどうなるかの挙動の話なのか。後者の想定で補ってみました。
+
+(太田) 少し調整
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Note that most implementations &lt;g1&gt;only&lt;/g1&gt; remove focus from the button, and don’t move it elsewhere.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112711Z" creationid="rikiha" creationdate="20170922T112711Z">
+        <seg>ほとんどのブラウザの実装では、ボタンからフォーカスが外れた&lt;g1&gt;だけ&lt;/g1&gt;では、別のどこかにフォーカスが移るわけではないことに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu88_0</prop>
+      <note>(伊原) defaultsを訳出。
+
+(岡本)　分からない→わからない
+
+(太田) 少し調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>This results in what’s sometimes called &lt;g2&gt;freak out mode&lt;/g2&gt; whereby the browser doesn’t know what to focus and defaults to focusing the document body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112716Z" creationid="rikiha" creationdate="20170922T112716Z">
+        <seg>するとブラウザは「&lt;g2&gt;フリークアウトモード&lt;/g2&gt;」とも呼ばれる状態となり、何をフォーカスしていいかわからず、デフォルトでドキュメント本体にフォーカスが当たることになります。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
