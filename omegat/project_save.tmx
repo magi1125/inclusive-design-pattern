@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15551,7 +15551,9 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
 clunkyは優雅でない、ドスドス音を立てる、のような意味。
 洒落ていない、くらい?
 
-(伊原) 魅力のない、格好悪い、ださい、ぎこちない、無骨。インタラクションの話なので、ぎこちないとしてみました。</note>
+(伊原) 魅力のない、格好悪い、ださい、ぎこちない、無骨。インタラクションの話なので、ぎこちないとしてみました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>It’s fair to say it’s a bit &lt;g1&gt;clunky&lt;/g1&gt;, though.</seg>
       </tuv>
