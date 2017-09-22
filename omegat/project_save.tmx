@@ -7010,8 +7010,8 @@ JS中の初期化処理で
       <tuv lang="EN-US">
         <seg>As ever, we should be mindful of the content that our proposed structure is designed for.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T051648Z" creationid="rikiha" creationdate="20170909T224219Z">
-        <seg>ここまでずっと、コンテンツのために構造をデザインしてきました。ここでも、これまで同様、コンテンツに注目していくべきです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T051851Z" creationid="rikiha" creationdate="20170909T224219Z">
+        <seg>ここまでずっと、コンテンツのために構造をデザインしてきました。ここでも同様に、コンテンツに注目していくべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18811,7 +18811,11 @@ aria-labelledbyがあるとそっちが優先だったり、細かいルール�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 括弧を外しつつ調整。欧米ではカンプはもう廃れたのですかね。</note>
+      <note>(伊原) 括弧を外しつつ調整。欧米ではカンプはもう廃れたのですかね。
+
+(太田) 
+静的なHTMLモックをつくる風習は日本でもすたれてきているようには思います。
+</note>
       <tuv lang="EN-US">
         <seg>One of the main reasons static mockups of interface components are defunct is that they tend to represent idealized content: people’s names of a particular length, and descriptions all exactly five lines high, for instance.</seg>
       </tuv>
@@ -20737,12 +20741,16 @@ OK、微調整しました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 量だけだと意味がわかりにくいので補いました。また、以前の章というところを補足しました。</note>
+      <note>(伊原) 量だけだと意味がわかりにくいので補いました。また、以前の章というところを補足しました。
+
+(太田)
+少し時間をかける、は誤訳というか語弊があるというか、長い時間をかけるように読めてしまいますね。ここでは、長さの変動を考えることに時間を割く、ということだと思います。
+トリでいいのでは。</note>
       <tuv lang="EN-US">
         <seg>Since we’ve covered wording and tone in previous chapters, let’s take some time to consider fluctuating quantity.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T015300Z" creationid="rikiha" creationdate="20170909T224220Z">
-        <seg>言葉遣いやトーンについては3章「パラグラフ」で説明したので、ここでは少し時間をかけて、コンテンツの長さの変動について考えてみましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T051838Z" creationid="rikiha" creationdate="20170909T224220Z">
+        <seg>言葉遣いやトーンについては3章「パラグラフ」で説明したので、ここではコンテンツの長さの変動について考えてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
