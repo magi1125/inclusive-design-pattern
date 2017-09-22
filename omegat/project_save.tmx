@@ -19,12 +19,15 @@
       <note>(伊原) 脚注のページを見つつ説明を調整。
 
 (太田)
-不快とは。残念くらいでしょうか。</note>
+https://allyjs.io/api/fix/pointer-focus-children.html を見ると、flexコンテナがフォーカス可能な時に、flex itemのほうにフォーカスが当たってしまうというバクっぽいです。ここの outputをIE11で見ると、Natural Browser Behaviorではフレックスコンテナをクリックしたとき子要素にフォーカスが当たってしまいます (他のブラウザではコンテナにフォーカスが当たる)。
+
+不快なバグというのも違和感があります。いやらしい、くらいでしょうか。
+</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; IE10 and IE11 have an unpleasant bug whereby the children of focusable items within a flex container can become focusable themselves.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T040029Z" creationid="rikiha" creationdate="20170909T224108Z">
-        <seg>（&lt;g1&gt;注：&lt;/g1&gt;IE10とIE11には残念なバグがあり、flexコンテナ内にフォーカス可能な項目があると、その項目の子要素のほうにフォーカスできてしまう場合があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T041213Z" creationid="rikiha" creationdate="20170909T224108Z">
+        <seg>（&lt;g1&gt;注：&lt;/g1&gt;IE10とIE11にはいやらしいバグがあり、flexコンテナをフォーカス可能にしたとき、子要素のほうにフォーカスが当たってしまう場合があります。</seg>
       </tuv>
     </tu>
     <tu>
