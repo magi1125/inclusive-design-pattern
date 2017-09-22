@@ -6514,12 +6514,14 @@ proxy elementは力強く削除してしまったほうが分かりやすそう�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 誤訳っぽいので修正。</note>
+      <note>(伊原) 誤訳っぽいので修正。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Any flex container inside a document with &lt;g1&gt;dir&lt;/g1&gt; set to &lt;g2&gt;rtl&lt;/g2&gt; will display each row of content from right to left as expected: it switches the &lt;g3&gt;row&lt;/g3&gt; and &lt;g4&gt;row-reverse&lt;/g4&gt; values of the &lt;g5&gt;flex-direction&lt;/g5&gt; property.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T143624Z" creationid="rikiha" creationdate="20170909T224201Z">
-        <seg>&lt;g1&gt;dir&lt;/g1&gt;が&lt;g2&gt;rtl&lt;/g2&gt;に設定されたドキュメント内のすべてのflexコンテナは、各行のコンテンツを期待通りに右から左に表示します。&lt;g5&gt;flex-directionプロパティ&lt;/g5&gt;の&lt;g3&gt;row&lt;/g3&gt;と&lt;g4&gt;row-reverse&lt;/g4&gt;で方向を切り替えることもできます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T044122Z" creationid="rikiha" creationdate="20170909T224201Z">
+        <seg>&lt;g1&gt;dir&lt;/g1&gt;が&lt;g2&gt;rtl&lt;/g2&gt;に設定されたドキュメント内のすべてのflexコンテナは、各行のコンテンツを期待通りに右から左に表示します。&lt;g5&gt;flex-direction&lt;/g5&gt;プロパティの&lt;g3&gt;row&lt;/g3&gt;と&lt;g4&gt;row-reverse&lt;/g4&gt;で方向を切り替えることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9925,14 +9927,14 @@ the を訳出すべきか?
       <note>(伊原) 微調整
 
 (太田)
-かなり見事はちょっと変かも。
-より美しく、くらいか。
-ここのdirectionははfloatするコンテンツの方向なので「テキスト方向」ではないかも。</note>
+かなり見事はちょっと変かも。かなり美しく、くらいか。「すばらしいことに」くらいでもいいのかも。
+ここのdirectionはfloatの方向なので「テキスト方向」ではないかも。
+</note>
       <tuv lang="EN-US">
         <seg>Flexbox, rather beautifully, handles direction automatically.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T043837Z" creationid="rikiha" creationdate="20170909T224150Z">
-        <seg>Flexboxは、より美しく、方向を自動的に処理します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T044007Z" creationid="rikiha" creationdate="20170909T224150Z">
+        <seg>Flexboxは、すばらしいことに、方向を自動的に処理してくれます。</seg>
       </tuv>
     </tu>
     <tu>
