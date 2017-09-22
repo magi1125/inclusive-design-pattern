@@ -31072,12 +31072,14 @@ https://hail2u.net/blog/justified-wrapped-flexbox-last-line.html</note>
 直訳すると「Flexboxはアルゴリズム的に動作し、それをとてもパワフルにするものである」
 何が言いたいのか。単にFlexboxのアルゴリズムはパワフルです、ということか。それとも、「(うまく使えば)パワフルにできる」ということなのか。
 
-(伊原) 次の段落を見ると、アルゴリズムで勝手に決まっちゃいますよ（だから設定は微調整してね）、みたいなことなのかなと感じました。なので後者のイメージですね。</note>
+(伊原) 次の段落を見ると、アルゴリズムで勝手に決まっちゃいますよ（だから設定は微調整してね）、みたいなことなのかなと感じました。なので後者のイメージですね。
+
+(太田) OK、後者で調整しました。</note>
       <tuv lang="EN-US">
         <seg>Flexbox works algorithmically, which is what makes it so powerful.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T115804Z" creationid="rikiha" creationdate="20170922T115804Z">
-        <seg>Flexboxのアルゴリズムは、うまく使えば非常にパワフルです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T122001Z" creationid="rikiha" creationdate="20170922T115804Z">
+        <seg>Flexboxのアルゴリズムは、うまく使えば非常にパワフルになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31138,7 +31140,9 @@ https://allyjs.io/api/fix/pointer-focus-children.html を見ると、flexコン�
 
 (太田) 少し調整。
 
-(伊原) OK、することができるようになります➞できるようになります</note>
+(伊原) OK、することができるようになります➞できるようになります
+
+(太田) Ok</note>
       <tuv lang="EN-US">
         <seg>As we established in the chapter “The Document,” it’s important to declare the language of a web page because this gets the most out of assistive technologies and translation tools.</seg>
       </tuv>
