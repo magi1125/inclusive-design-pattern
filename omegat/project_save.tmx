@@ -6364,12 +6364,14 @@ Custom Elements v1を使えるならもっと簡単に書ける、という話�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 海外の閲覧者だけだとなんだかわからないので、対応と補いました。</note>
+      <note>(伊原) 海外の閲覧者だけだとなんだかわからないので、対応と補いました。
+
+(太田) 「海外のユーザーにも読めるようになる」ということですね。少し補いつつ調整。</note>
       <tuv lang="EN-US">
         <seg>An international audience is a big step for inclusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T140349Z" creationid="rikiha" creationdate="20170909T224121Z">
-        <seg>海外ユーザーへの対応はインクルージョンにとって大きな一歩です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T042644Z" creationid="rikiha" creationdate="20170909T224121Z">
+        <seg>海外のユーザーにも対応することは、インクルージョンにとって大きな一歩です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21084,12 +21086,14 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 対比になるよう語順を調整。</note>
+      <note>(伊原) 対比になるよう語順を調整。
+
+(太田) すこし語順を調整しつつ簡潔に。</note>
       <tuv lang="EN-US">
         <seg>Some languages, like Arabic, are supposed to be read right to left, unlike languages like English that are read left to right.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T140543Z" creationid="rikiha" creationdate="20170909T224121Z">
-        <seg>英語などの左から右に読む言語とは違い、アラビア語などの一部の言語は右から左に読みます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T042842Z" creationid="rikiha" creationdate="20170909T224121Z">
+        <seg>英語は左から右に読みますが、アラビア語など、右から左に読む言語もあります。</seg>
       </tuv>
     </tu>
     <tu>
