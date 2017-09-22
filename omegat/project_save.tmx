@@ -19354,7 +19354,10 @@ erraraには何もなし。
 https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
 あるいは、ひとつ前のコードが生きている前提で、this.submit() でそれを呼んでいるということなのでしょうか。一応意味は通りますが、ふつうは両方を実装するということは無いと思いますが……。
 
-(伊原) そうですね、単に変更されたら送信してるだけで、attach the XHR functionality to the change event してないですね。ヘイドンさんのミスのような気がします。</note>
+(伊原) そうですね、単に変更されたら送信してるだけで、attach the XHR functionality to the change event してないですね。ヘイドンさんのミスのような気がします。
+
+(太田)
+まあいったんスルーで。</note>
       <tuv lang="EN-US">
         <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
       </tuv>
