@@ -30680,5 +30680,38 @@ add more は言わなくてもわかるのでトリました。
         <seg>自動の無限スクロールを、ユーザーが明示的に操作する「検索結果をもっと読み込む……」というボタンやリンクに置き換えましょう。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu83_0</prop>
+      <note>(伊原) こういうこと？
+
+(太田)
+いや、本当に、くらいでしょうか。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;No, really, just don’t implement infinite scrolling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112625Z" creationid="rikiha" creationdate="20170922T112625Z">
+        <seg>いや、本当に、とにかく無限スクロールは実装しないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu85_0</prop>
+      <note>(伊原) ダッシュを活かしつつ調整。
+
+(太田)
+語順を原文に合わせて調整。
+「次のセット」がやや謎なので「次の検索結果」としました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>The “Load more” button — and it &lt;g1&gt;should&lt;/g1&gt; be a &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; — resides at the end of the current crop of results and clicking it sends an XHR request to load the next set.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112636Z" creationid="rikiha" creationdate="20170922T112636Z">
+        <seg>「もっと読み込む」ボタン――それは&lt;g2&gt;&lt;button&gt;&lt;/g2&gt;である&lt;g1&gt;べき&lt;/g1&gt;です――は、現在表示されている検索結果の最後に置かれ、クリックすると、次の検索結果を読み込むためにXHRが送信されます。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
