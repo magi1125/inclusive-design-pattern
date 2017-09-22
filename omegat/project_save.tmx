@@ -20133,8 +20133,8 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
       <tuv lang="EN-US">
         <seg>Setting the text direction for the document is possible by including the &lt;g1&gt;dir&lt;/g1&gt; attribute (alongside the &lt;g2&gt;lang&lt;/g2&gt; attribute) on the HTML element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T140710Z" creationid="rikiha" creationdate="20170909T224122Z">
-        <seg>ドキュメントのテキスト方向は、HTML要素に（lang属性と共に）dir属性を含めることで設定できます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T042917Z" creationid="rikiha" creationdate="20170909T224122Z">
+        <seg>ドキュメントのテキスト方向は、HTML要素に（&lt;g2&gt;lang&lt;/g2&gt;属性と共に）&lt;g1&gt;dir&lt;/g1&gt;属性を含めることで設定できます。</seg>
       </tuv>
     </tu>
     <tu>
