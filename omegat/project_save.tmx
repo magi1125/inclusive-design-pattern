@@ -19,10 +19,11 @@
       <note>(伊原) 脚注のページを見つつ説明を調整。
 
 (太田)
-https://allyjs.io/api/fix/pointer-focus-children.html を見ると、flexコンテナがフォーカス可能な時に、flex itemのほうにフォーカスが当たってしまうというバクっぽいです。ここの outputをIE11で見ると、Natural Browser Behaviorではフレックスコンテナをクリックしたとき子要素にフォーカスが当たってしまいます (他のブラウザではコンテナにフォーカスが当たる)。
-
+原文が少し変なのかも。
+https://allyjs.io/api/fix/pointer-focus-children.html を見ると、flexコンテナがフォーカス可能な時に、flex itemのほうにフォーカスが当たってしまうというバクっぽいです。
+ここの outputをIE11で見ると、Natural Browser Behaviorではフレックスコンテナをクリックしたとき子要素にフォーカスが当たってしまいます (他のブラウザではコンテナにフォーカスが当たる)。
 不快なバグというのも違和感があります。いやらしい、くらいでしょうか。
-</note>
+調整しました。</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; IE10 and IE11 have an unpleasant bug whereby the children of focusable items within a flex container can become focusable themselves.</seg>
       </tuv>
@@ -3693,7 +3694,9 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) </note>
+      <note>(伊原) 
+
+(太田) Ok</note>
       <tuv lang="EN-US">
         <seg>&lt;g2&gt;&lt;g3&gt;The handy a11y.js library has a fix for this&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;15&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.)</seg>
       </tuv>
