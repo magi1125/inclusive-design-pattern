@@ -16,12 +16,15 @@
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 脚注のページを見つつ説明を調整。</note>
+      <note>(伊原) 脚注のページを見つつ説明を調整。
+
+(太田)
+不快とは。残念くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; IE10 and IE11 have an unpleasant bug whereby the children of focusable items within a flex container can become focusable themselves.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T134617Z" creationid="rikiha" creationdate="20170909T224108Z">
-        <seg>（&lt;g1&gt;注：&lt;/g1&gt;IE10とIE11には不快なバグがあり、flexコンテナ内にフォーカス可能な項目があると、その項目の子要素のほうにフォーカスできてしまう場合があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T040029Z" creationid="rikiha" creationdate="20170909T224108Z">
+        <seg>（&lt;g1&gt;注：&lt;/g1&gt;IE10とIE11には残念なバグがあり、flexコンテナ内にフォーカス可能な項目があると、その項目の子要素のほうにフォーカスできてしまう場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26864,12 +26867,12 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       <note>(伊原) 微調整。
 
 (太田)
-あなたのコンテンツで実際に使うときは、というニュアンスを出したいですね。</note>
+あなたのコンテンツで実際に使うときは、というニュアンスを出したいですね。意訳気味に調整してみました。</note>
       <tuv lang="EN-US">
         <seg>To get the best results for your own content, you’ll need to tweak the 10em and 20em values.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T035626Z" creationid="rikiha" creationdate="20170909T224109Z">
-        <seg>実際に使うときには、この例で10emや20emとした値を調節する必要があるでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T035905Z" creationid="rikiha" creationdate="20170909T224109Z">
+        <seg>実際に使うときには、この例で10emや20emとした値をコンテンツに合わせて調節する必要があるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
