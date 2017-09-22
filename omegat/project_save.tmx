@@ -10230,12 +10230,15 @@ googleのSERP内において、検索結果のページタイトルはh3でマ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 前に倣って、アーティストは写真家としました。</note>
+      <note>(伊原) 前に倣って、アーティストは写真家としました。
+
+(太田)
+以下のコード例につながるように微調整。</note>
       <tuv lang="EN-US">
         <seg>For example, to test the interface’s tolerance of different names, I might add the following forceFeed.js &lt;g1&gt;data-forcefeed&lt;/g1&gt; attribute to the artist link’s &lt;g2&gt;&lt;cite&gt;&lt;/g2&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T021830Z" creationid="rikiha" creationdate="20170909T224233Z">
-        <seg>たとえば、インターフェイスがさまざまな長さの名前を許容できるかテストするには、以下のように写真家リンクの&lt;g2&gt;&lt;cite&gt;&lt;/g2&gt;にforceFeed.jsの&lt;g1&gt;data-forcefeed&lt;/g1&gt;属性を加えてみます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T053506Z" creationid="rikiha" creationdate="20170909T224233Z">
+        <seg>たとえば、インターフェイスがさまざまな長さの名前を許容できるかテストするには、以下のように、写真家リンクの&lt;g2&gt;&lt;cite&gt;&lt;/g2&gt;にforceFeed.jsの&lt;g1&gt;data-forcefeed&lt;/g1&gt;属性を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26249,12 +26252,13 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
 
 (太田)
 arrays of content のarrayはプログラム用語のarrayで、レイアウト的な配列の意味ではないですね。
-調整してみました。</note>
+調整してみました。
+</note>
       <tuv lang="EN-US">
         <seg>This script allows you to feed the proposed layout with randomized arrays of content within certain parameters.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T052927Z" creationid="rikiha" creationdate="20170919T014906Z">
-        <seg>このスクリプトを使うと、パラメーターの範囲内でランダムに生成されたコンテンツの配列が、レイアウト案に流し込まれます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T053216Z" creationid="rikiha" creationdate="20170919T014906Z">
+        <seg>このスクリプトを使うと、指定したパラメータに沿ってランダムに生成されたコンテンツの配列が、レイアウト案の中に流し込まれます。</seg>
       </tuv>
     </tu>
     <tu>
