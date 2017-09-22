@@ -30624,5 +30624,44 @@ resultを訳出。
         <seg>新しい検索結果が読み込まれると、コンテンツの量が増えたことに伴い、ハンドルが上のほうに移動します。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu79_0</prop>
+      <note>(伊原) 要検討。streamを名詞として使っている。ストリームと訳すなら分節2999も合わせる必要ありだが、ストリームとだけ言っても多分わからないので、どうしたものか。
+それ以外の部分をひとまず微調整。
+
+(太田)
+ストリームで良いと思います。上もストリームとしました。
+pastは超えるというか、通り過ぎる、通り越す、通過するなどのほうが分かりやすいかも、
+impossibleは「不可能になる」くらい強くしたいところ。
+調整してみました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>When items within the stream have interactive elements (such as our “Buy Now” buttons), focusable elements are added to the stream ad infinitum, making it impossible to tab past the main content to interactive elements that reside below it in the footer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112511Z" creationid="rikiha" creationdate="20170922T112511Z">
+        <seg>ストリームの中の項目にインタラクティブな要素（「今すぐ購入」ボタンなど）があると、フォーカス可能な要素がストリームに無限に追加されていきます。その結果、Tabキーでメインコンテンツを通り越すことが不可能になり、下のフッター内のインタラクティブな要素に移動することができなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu81_0</prop>
+      <note>(伊原) OK
+
+(太田)
+否定の命令形で、命令形につくJust。
+元訳ではトリになっていますが、ジョーク的ニュアンスが必要な局面なので活かしたほうがいいかも。「ただ……しないだけで良い」というニュアンスだと思いますがどうするか。
+日本では「たとえば、無限スクロールを避ける」というフレーズが知られているかも?
+命令形っぽい訳のほうがしっくり来るか?
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Just don’t implement infinite scrolling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112551Z" creationid="rikiha" creationdate="20170922T112551Z">
+        <seg>無限スクロールは実装しないでください。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
