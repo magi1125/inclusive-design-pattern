@@ -27848,7 +27848,8 @@ unless or until は厳密に訳さなくても良いように思います。
 
 (太田)
 ちょっと違うような。すこし調整。
-前者はflexboxだとあまり起きないと思いますが、floatだと良くある話ですね。ここではflexboxに限らない話をしているのかも。</note>
+どちらもCSS調整しているときのあるあるですね。前者はflexboxだとあまり起きないと思いますが、floatだと良くある話です。ここではflexboxに限らない話をしているのかも。
+</note>
       <tuv lang="EN-US">
         <seg>Usually problems arise due to wrapping causing height differences between items, or failures to wrap meaning content breaks out of its box.</seg>
       </tuv>
