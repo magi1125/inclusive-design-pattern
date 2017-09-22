@@ -30478,5 +30478,69 @@ wouldなので語尾を「ことがあります」としました。
         <seg>一度ですべて取得して表示すると、パフォーマンス上の深刻なボトルネックの原因になると同時に、泣く子も黙るような恐ろしく長いページになることがあります。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu77_0</prop>
+      <note>(伊原) harness A to B で「AをBにつける」
+https://eow.alc.co.jp/search?q=harness
+(the user’s scroll behavior) to (automatically load new content at the point that they reach the current content’s end)
+だとすると、こういう感じでしょうか。こなれてないですが。
+
+(岡本)
+harnesは取るですかね？
+
+(太田)
+ちょっと文章が変なので調整。
+harnessは馬具の意味ですが、馬をつなぐような意味もあり。スクロールの操作を自動読み込みという動作に結びつけられてしまってユーザーの意思では戻せない、というニュアンスが含まれていそう。
+
+「新しい」に微妙感があります。時期的に新しいコンテンツではなく、まだロードされていないコンテンツ、の意味。トリでもいいかも。
+
+(伊原) OK
+
+</note>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;g2&gt;infinite scroll&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; pattern harnesses the user’s scroll behavior to automatically load new content at the point that they reach the current content’s end.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112243Z" creationid="rikiha" creationdate="20170922T112243Z">
+        <seg>この&lt;g1&gt;&lt;g2&gt;無限スクロール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注168）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;というパターンは、現在のコンテンツの終わりに達した時点で、ユーザーによるスクロールの操作を、コンテンツの自動読み込みという動作に結びつけるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu77_0</prop>
+      <note>(伊原) a streamをprovideしているので、流れるようにというのはちょっと変な気が。調整してみました。
+
+(太田)
+a stream of new content は直訳すると新しいコンテンツのストリームで、まあそのままですよね。「読み込まれる流れ」とするのはちょっとニュアンスが違うように思います。
+カタカナ「ストリーム」のままでも通じるのかも。
+「新しい」はトリました。
+「ユーザー側のアクションを必要とせず」は訳としては正しいですが、実際にはスクロールするというアクションを必要としているので、「特別なアクションを必要としない」くらいでしょうか。
+調整してみましたがどうでしょうか。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>The aim is to provide a stream of new content to the user without necessitating an action on their part.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112301Z" creationid="rikiha" creationdate="20170922T112301Z">
+        <seg>その狙いは、ユーザーに対して特別なアクションを求めることなく、コンテンツをストリームとして提供することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu77_0</prop>
+      <note>(伊原) 前の段落とセットになるような感じで調整。
+
+(太田)
+resultを訳出。
+「入力モード」は訳としては正しいですが誤解を招く可能性もありそうです (「かな入力モード」など)。ここではキーボードやマウスといったものを指しているので「操作方法」あたりでしょうか。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Unless implemented very carefully, infinite scroll tends to result in a frustrating experience for a number of different input modes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112312Z" creationid="rikiha" creationdate="20170922T112312Z">
+        <seg>ただし、きわめて慎重に実装されている場合を除き、無限スクロールは、さまざまな操作方法に対してストレスに満ちた体験をもたらす結果になりがちです。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
