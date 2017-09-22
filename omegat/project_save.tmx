@@ -30680,6 +30680,189 @@ text要素はSVGの中に入っている、ということが伝わりやすい�
     </tu>
     <tu>
       <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu126_0</prop>
+      <note>(伊原) 原文がわかりにくい。この訳でいいのかどうか。ひとまず微調整。
+
+(太田)
+良いと思います。
+「目で見ていない」と補いました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Users not actually &lt;g2&gt;seeing&lt;/g2&gt; a list benefit from list semantics regardless.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114510Z" creationid="rikiha" creationdate="20170922T114510Z">
+        <seg>実際にリストを&lt;g2&gt;目で見ていない&lt;/g2&gt;ユーザーは、レイアウトに関係なくリストのセマンティクスによるメリットを得られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu126_0</prop>
+      <note>(伊原) shouldを訳出。
+
+(太田) 微調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Whether grid or list in terms of layout, the products should always be formed as a list (&lt;g1&gt;&lt;ul&gt;&lt;/g1&gt;) in the markup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114500Z" creationid="rikiha" creationdate="20170922T114500Z">
+        <seg>レイアウトがグリッドかリストかによらず、マークアップ上は常に商品をリスト（&lt;g1&gt;&lt;ul&gt;&lt;/g1&gt;）として構成すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu127_0</prop>
+      <note>(伊原) 問題というか問いなので、調整。
+
+(太田)
+疑問符を追加。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>The question is: “How many columns is the right number?” In responsive design, the answer depends on how much space there is.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114528Z" creationid="rikiha" creationdate="20170922T114528Z">
+        <seg>「カラムはいくつが適切か？」という問いがあります。レスポンシブデザインの場合、スペースがどれだけあるかによって答えは変わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu127_0</prop>
+      <note>(伊原) 「多くのメディアクエリの手書き」がちょっと微妙な感じがしつつ、ひとまず微調整。
+
+(太田)
+うーん、謎ですが、ここのmanualは「手動」のほうですかね?
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>This necessitates a lot of manual media query writing and an ever-watchful eye for layout problems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114537Z" creationid="rikiha" creationdate="20170922T114537Z">
+        <seg>この場合、多くの手動のメディアクエリの記述が必要となり、レイアウト崩れの問題にも気を配る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu128_0</prop>
+      <note>(伊原) 誤訳っぽいので修正。infinite range of viewportは平易な表現にしてみました。
+
+(太田)
+「基準」とすると、計算の基準になるという誤解を招きそうに思います。実際には flex-grow: 2 という指定は basis の2倍という意味ではなく、あまったスペースを他のflex-itemと分け合う際の他との比率です。
+
+http://www.w3.org/TR/css-flexbox-1/#valdef-flex-flex-grow
+This &lt;number&gt; component sets ‘flex-grow’ longhand and specifies the flex grow factor, which determines how much the flex item will grow relative to the rest of the flex items in the flex container when positive free space is distributed. When omitted, it is set to ‘1’. 
+
+デフォルトでは flex-grow: 0 で、この状態だと要素は伸びないので、これを0以外の値にすることを「switching on」と言っています。
+flex-wrap: wrapのときflex-shrinkは機能するのだろうか……と思いましたが、コンテナの幅が flex-basis より狭いときに意味がありますね。
+
+調整しました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>By switching on &lt;g2&gt;flex-grow&lt;/g2&gt; and &lt;g3&gt;flex-shrink&lt;/g3&gt;, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114617Z" creationid="rikiha" creationdate="20170922T114617Z">
+        <seg>&lt;g2&gt;flex-grow&lt;/g2&gt;と&lt;g3&gt;flex-shrink&lt;/g3&gt;を有効にすることで、グリッドを構成する要素が、理想的な幅から伸びたり縮んだりするようになります。これにより、ビューポートの範囲が無限に広がったとしても、完全に規則的なグリッドを維持することができるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu128_0</prop>
+      <note>(伊原) ここのinsteadはa lot of manual media query writingに掛かっていると思われるので、「代わりに」を文頭に移しました。
+
+(太田)
+要素レベルの理想的な幅とは。
+
+(伊原) 調整済みっぽく、OK</note>
+      <tuv lang="EN-US">
+        <seg>Using Flexbox, we can instead use &lt;g1&gt;flex-basis&lt;/g1&gt; to define an ideal width at an element level.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114608Z" creationid="rikiha" creationdate="20170922T114608Z">
+        <seg>代わりにFlexboxを使えば、&lt;g1&gt;flex-basis&lt;/g1&gt;を指定することで、要素ごとの理想的な幅を定義することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu131_0</prop>
+      <note>(伊原) キーと訳出。
+
+(太田)
+key informationを「カギとなる情報」としたので、あわせました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-basis&lt;/g2&gt; value is key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114627Z" creationid="rikiha" creationdate="20170922T114627Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-basis&lt;/g2&gt;の値がカギになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu131_0</prop>
+      <note>(伊原) 微調整。
+
+(太田) 微調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>This is the width the Flexbox algorithm considers ideal for individual items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114634Z" creationid="rikiha" creationdate="20170922T114634Z">
+        <seg>これは、Flexboxアルゴリズムにおいて、個々の項目が理想とする幅です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu132_0</prop>
+      <note>(太田)
+前の例の解説なので「しています」としました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-basis&lt;/g2&gt; value is set in ems so that it is relative to font size.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114650Z" creationid="rikiha" creationdate="20170922T114650Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-basis&lt;/g2&gt;の値は、文字サイズに比例するようemで設定しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu132_0</prop>
+      <note>(伊原) 実装的にはこういう意味かなと。
+
+(太田)
+そうですね。少し補いつつ調整してみました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>This means that the automatic reflow of columns that we’ve established is sensitive to font size.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114655Z" creationid="rikiha" creationdate="20170922T114655Z">
+        <seg>つまり、カラムは文字サイズの変更に応じて幅が変わり、自動的にリフローされるということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu133_0</prop>
+      <note>(伊原) 語順を調整。
+
+(太田)
+「10em以上になる」という指定ではないので少し違和感がありますね。
+調整してみました。
+1の意味について訳注必要?
+
+(伊原) OK、訳注</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;flex-grow&lt;/g2&gt; value of &lt;g3&gt;1&lt;/g3&gt; means items will grow beyond the 10em width to fill the available space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114742Z" creationid="rikiha" creationdate="20170922T114742Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;flex-grow&lt;/g2&gt;の&lt;g3&gt;1&lt;/g3&gt;という値は、あまったスペースを埋めるために、項目の幅が10emを超えて伸びることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
       <prop type="id">tu50_0</prop>
       <note>(伊原) ここのpopulateは出力としてみました。
 
