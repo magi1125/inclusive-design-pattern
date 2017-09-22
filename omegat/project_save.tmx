@@ -5293,12 +5293,12 @@ Note を訳出しました。
     <tu>
       <note>(伊原) 前に出現したときの言い方に合わせました。
 
-(太田) OK</note>
+(太田) 自動的、としました。</note>
       <tuv lang="EN-US">
         <seg>A Self-Governing Grid</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T071903Z" creationid="rikiha" creationdate="20170918T071701Z">
-        <seg>自己管理型のグリッド</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T121805Z" creationid="rikiha" creationdate="20170918T071701Z">
+        <seg>自動的グリッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -30924,12 +30924,14 @@ alongside other items なので、他の項目たちの横に10emのスペース
 自律的のほうが分かりやすいように思いますが、わかりにくいようであれば「自動的」とか?
 
 (伊原) 自動的、がイメージには近いかも。勝手に的な。
-※ここを変えるとしたら、&lt;分節 3139&gt;なども置き換え。他の章にも1個あったような。</note>
+※ここを変えるとしたら、&lt;分節 3139&gt;なども置き換え。他の章にも1個あったような。
+
+(太田) では自動的としましょう。</note>
       <tuv lang="EN-US">
         <seg>What we’ve established is a self-governing grid system.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T115335Z" creationid="rikiha" creationdate="20170922T115335Z">
-        <seg>構築してきたのは、自律的に構成されるグリッドシステムです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T121744Z" creationid="rikiha" creationdate="20170922T115335Z">
+        <seg>構築してきたのは、自動的に構成されるグリッドシステムです。</seg>
       </tuv>
     </tu>
     <tu>
