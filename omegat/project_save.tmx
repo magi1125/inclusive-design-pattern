@@ -2130,12 +2130,14 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 動作➞ふるまい</note>
+      <note>(伊原) 動作➞ふるまい
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Creating behaviors in JavaScript that HTML already offers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170919T041431Z" creationid="rikiha" creationdate="20170909T224325Z">
-        <seg>•HTMLがすでに提供しているふるまいをJavaScriptで作る。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T063444Z" creationid="rikiha" creationdate="20170909T224325Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;HTMLがすでに提供しているふるまいをJavaScriptで作る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2269,12 +2271,14 @@ forego は「先に行く」のような感じですが、他動詞として使�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Grid systems which don’t allow right-to-left language support.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224326Z" creationid="rikiha" creationdate="20170909T224326Z">
-        <seg>•右から左に読む言語をサポートできないグリッドシステム。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T063450Z" creationid="rikiha" creationdate="20170909T224326Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;右から左に読む言語をサポートできないグリッドシステム。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2428,12 +2432,15 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Infinite scrolling.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T224327Z" creationid="rikiha" creationdate="20170909T224327Z">
-        <seg>•無限スクロール。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T063517Z" creationid="rikiha" creationdate="20170909T224327Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;無限スクロール。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7193,8 +7200,8 @@ the experience is lackingどうするか。
       <tuv lang="EN-US">
         <seg>As we’ve been discussing throughout the book, inclusive design also means a visual design which is not too strict about the nature of the content imparted to it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T063409Z" creationid="rikiha" creationdate="20170909T224324Z">
-        <seg>本書全体を通して説明してきたように、インクルーシブデザインには、どんなコンテンツが与えられても融通が利くビジュアルデザインである、という意味もあるのです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T063435Z" creationid="rikiha" creationdate="20170909T224324Z">
+        <seg>本書全体を通して説明してきたように、インクルーシブデザインは、どんなコンテンツが与えられても融通が利くビジュアルデザインである、ということも意味するのです。</seg>
       </tuv>
     </tu>
     <tu>
