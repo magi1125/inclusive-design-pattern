@@ -30354,6 +30354,121 @@ http://postd.cc/nobody-wants-use-your-product/
 <!-- Alternative translations -->
     <tu>
       <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu100_0</prop>
+      <note>(伊原) ニュアンスを補足。
+
+(太田)
+ボタンがテキストノードに戻るというのは変かも。
+hasだから中身のテキストノードが変わる話ですね。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The “Load more” button has its original text node reinstated and &lt;g2&gt;click&lt;/g2&gt; events are handled again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114023Z" creationid="rikiha" creationdate="20170922T114023Z">
+        <seg>&lt;/g1&gt;「もっと読み込む」ボタンの中身が元のテキストノードに戻り、&lt;g2&gt;clickイベント&lt;/g2&gt;も再度処理されるようになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu103_0</prop>
+      <note>(伊原) 2文に分けつつ調整。
+
+(太田)
+explicitはlabelではなくactionについているような。
+ちょっと調整しました。
+
+(伊原) </note>
+      <tuv lang="EN-US">
+        <seg>The “Load more” button invites the user to take an explicit, labeled action at their convenience and therefore conforms to the second of Henny Swan’s UX principles, to &lt;g1&gt;give users control&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114044Z" creationid="rikiha" creationdate="20170922T114044Z">
+        <seg>「もっと読み込む」ボタンは、明示的な、ラベルがつけられたアクションを提供し、ユーザーの都合のよいときに実行できるようにします。これは、ヘニー・スワンの原則の2番目の項目である&lt;g1&gt;ユーザーに制御させる&lt;/g1&gt;にも合致しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu105_0</prop>
+      <note>(伊原) weを訳してみました。
+
+(太田)
+「おそらく」だけだとつながりがわかりにくいので補いました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Perhaps, but we have to contend with:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114110Z" creationid="rikiha" creationdate="20170922T114110Z">
+        <seg>おそらくそのとおりです。しかし、私たちは次のような問題にも取り組まなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu105_0</prop>
+      <note>(伊原) というもの　をトリ。
+
+(太田)
+原文を見ると「それがデザインの何たるかですよね」というニュアンスですね。次につなげることを考えると疑問らしい疑問になっていたほうが良いように思います。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>That’s what design is, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114104Z" creationid="rikiha" creationdate="20170922T114104Z">
+        <seg>それがデザインというものではないでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu105_0</prop>
+      <note>(伊原) 微調整
+
+(太田) 微調整
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Typically, designers see it as their job to foresee their users’ needs and make intelligent decisions on their behalf.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114052Z" creationid="rikiha" creationdate="20170922T114052Z">
+        <seg>一般的に、デザイナーは、ユーザーのニーズを見越し、彼らのために賢明な判断を下すことが自分の仕事だと考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu108_0</prop>
+      <note>(伊原) forが落ちていたので調整しつつ追加。
+
+(太田)
+ニュアンスがわかりにくいので語順を変えつつ調整してみました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>This is to decide &lt;g3&gt;for&lt;/g3&gt; the user what font size and magnification level suits them, and prevents them from adjusting it themselves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114129Z" creationid="rikiha" creationdate="20170922T114129Z">
+        <seg>ユーザーに最適な文字サイズや表示倍率を決めて、それをユーザー自身が調節できないようにするこの指定は、まさにユーザーの&lt;g3&gt;ために&lt;/g3&gt;判断されたものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu109_0</prop>
+      <note>(伊原) informedはインフォームド・コンセントのそれっぽいので、調整。
+
+(岡本)　裏付け→裏づけ
+
+(太田)
+訳としては合っていると思いますが話の流れが分かりにくいような感じはしました。語順を原文にあわせつつ2文にしてみました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>We still have to make some decisions in isolation, of course, because not every part of a design can be informed directly by user research.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114153Z" creationid="rikiha" creationdate="20170922T114153Z">
+        <seg>もちろん、デザイナーが個別に判断しなければならないこともあります。デザインのすべての部分が、ユーザーリサーチで直接裏づけられるわけではないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
       <prop type="id">tu50_0</prop>
       <note>(伊原) ここのpopulateは出力としてみました。
 
@@ -30925,12 +31040,46 @@ sentは「飛ばされる」としました。
 
 ちなみにこの処理、JS無効時は考慮するのでしょうか。少し前のコードは &lt;button data-load-more&gt;Load more&lt;/button&gt; で type 属性がないのですが、type属性のデフォルトはsubmitなので、このボタンがform内に置かれているとsubmitされます。JS無効時にsubmitする実装とするなら、単にreturnするだけでなくsubmit動作をキャンセルする処理も必要です。JSのコードがないので意図が良くわからないですね。
 
-(伊原) 訳OK。単にtype属性の書き漏らしかもしれませんね。</note>
+(伊原) 訳OK。確かにそのあたり不明ですね。</note>
       <tuv lang="EN-US">
         <seg>You can catch the click and simply &lt;g2&gt;return&lt;/g2&gt; if the loading state is detected (for instance, by looking for “Loading” in the button’s &lt;g3&gt;textContent&lt;/g3&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170922T113551Z" creationid="rikiha" creationdate="20170922T113551Z">
         <seg>クリックされた際、読み込み中の状態であることを検出したら（たとえば、ボタンの&lt;g3&gt;textContent&lt;/g3&gt;に「読み込み中」が含まれていたら）、何もせずに&lt;g2&gt;return&lt;/g2&gt;する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu95_0</prop>
+      <note>(伊原) ここでのhiddenは視覚的ではないという意味なので、そのような感じに。
+
+(太田)
+「商品リスト」としました。
+しかし隠さなくてもボタンのテキストをそのままライブリージョンにしておけば伝わるような気がしなくもない。
+「さらに」は日本語ではあまり言わない気がしたので「追加の」しました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;A hidden live region announces, “Loading more products.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T113951Z" creationid="rikiha" creationdate="20170922T113951Z">
+        <seg>&lt;/g1&gt;目には見えないライブリージョンが「追加の商品リストを読み込み中」と読み上げる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu98_0</prop>
+      <note>(伊原) OK
+
+(太田)
+「商品リスト」に。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The live region announces, “Products loaded.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T114002Z" creationid="rikiha" creationdate="20170922T114002Z">
+        <seg>&lt;/g1&gt;ライブリージョンが「商品リストが読み込まれました」と読み上げる。</seg>
       </tuv>
     </tu>
   </body>
