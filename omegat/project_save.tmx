@@ -31081,7 +31081,9 @@ https://hail2u.net/blog/justified-wrapped-flexbox-last-line.html
 
 (伊原) 次の段落を見ると、アルゴリズムで勝手に決まっちゃいますよ（だから設定は微調整してね）、みたいなことなのかなと感じました。なので後者のイメージですね。
 
-(太田) OK、後者で調整しました。</note>
+(太田) OK、後者で調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Flexbox works algorithmically, which is what makes it so powerful.</seg>
       </tuv>
@@ -31275,7 +31277,9 @@ http://www.w3.org/TR/css-writing-modes-3/#propdef-unicode-bidi
 
 (伊原) 確認ありがとうございます。unicode-bidiはたいがいセットで指定されている例が多く、それがないので文字方向は変わらないとしたら何が違うのかな…と思っていたところでした。訳注ですね。
 
-(太田) 訳注を書きました。</note>
+(太田) 訳注を書きました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Should you, despite the right-to-left direction setting, want your grid to be laid out in a left-to-right configuration, you can force this using the CSS &lt;g1&gt;direction&lt;/g1&gt; property on the flex container:</seg>
       </tuv>
@@ -31429,7 +31433,9 @@ lorem ipsum は訳注いりますかね?
 
 (伊原) 実行するには〜実行します　となりますが、よいでしょうか？
 
-(太田) 後半が動詞scriptで「スクリプトを書く」の意味ですね。「以下のスクリプトを書きます」としました。</note>
+(太田) 後半が動詞scriptで「スクリプトを書く」の意味ですね。「以下のスクリプトを書きます」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>To run this over all of the artist &lt;g3&gt;&lt;cite&gt;&lt;/g3&gt;s in a page, I first include forceFeed.js, then script the following.</seg>
       </tuv>
