@@ -9827,12 +9827,17 @@ the placement of (the &lt;button&gt; and the menu it discloses.)
       <note>(伊原) 微調整。we often find なので「よく見つける」的な感じかなと。
 
 (岡本)
-1つ目→ひとつめ</note>
+1つ目→ひとつめ
+
+(太田)
+語順を原文に合わせて調整。
+flimsilyは「安易に」くらいでしょうか。
+</note>
       <tuv lang="EN-US">
         <seg>First, sometimes HTML already provides the behaviors we often find ourselves needlessly and flimsily recreating in JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170919T061902Z" creationid="rikiha" creationdate="20170909T224319Z">
-        <seg>ひとつめは、根拠もなく不必要にJavaScriptで作り直しているふるまいの中には、HTMLで既に提供されているものがよくあるということ。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T062431Z" creationid="rikiha" creationdate="20170909T224319Z">
+        <seg>ひとつめは、HTMLで既に提供されているふまいを、必要もないのに、安易にJavaScriptで作り直していることがよくあるということ。</seg>
       </tuv>
     </tu>
     <tu>
