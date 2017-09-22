@@ -31040,7 +31040,7 @@ https://hail2u.net/blog/justified-wrapped-flexbox-last-line.html
 
 (太田)
 訳注書きました。
-幅が決まっていれば、まあ、何とでもできますね。
+幅が決まっていれば、まあ、何とでもできますが、任意に伸びる、という条件が合わさると急に難しくなりますね。
 </note>
       <tuv lang="EN-US">
         <seg>My preference, for symmetry, is to group the content around the center line, hence the &lt;g2&gt;justify-content: center;&lt;/g2&gt; declaration on the flex container.</seg>
