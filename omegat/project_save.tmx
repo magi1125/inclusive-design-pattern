@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31418,12 +31418,14 @@ lorem ipsum は訳注いりますかね?
 
 (太田) runは「実行する」くらいで。
 
-(伊原) 実行するには〜実行します　となりますが、よいでしょうか？</note>
+(伊原) 実行するには〜実行します　となりますが、よいでしょうか？
+
+(太田) 後半が動詞scriptで「スクリプトを書く」の意味ですね。「以下のスクリプトを書きます」としました。</note>
       <tuv lang="EN-US">
         <seg>To run this over all of the artist &lt;g3&gt;&lt;cite&gt;&lt;/g3&gt;s in a page, I first include forceFeed.js, then script the following.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T120522Z" creationid="rikiha" creationdate="20170922T120522Z">
-        <seg>これをページ内のすべての写真家の&lt;g3&gt;&lt;cite&gt;&lt;/g3&gt;に対して実行するには、まずforceFeed.jsを読み込んでから、以下のスクリプトを実行します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T122301Z" creationid="rikiha" creationdate="20170922T120522Z">
+        <seg>これをページ内のすべての写真家の&lt;g3&gt;&lt;cite&gt;&lt;/g3&gt;に対して実行するには、まずforceFeed.jsを読み込んでから、以下のスクリプトを書きます。</seg>
       </tuv>
     </tu>
     <tu>
