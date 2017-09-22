@@ -30764,6 +30764,23 @@ add more は言わなくてもわかるのでトリました。
     <tu>
       <prop type="file">chapter-23.html</prop>
       <prop type="id">tu88_0</prop>
+      <note>(伊原) 括弧の位置調整
+
+(太田)
+原文にあわせるとこうかなと。
+sentは「飛ばされる」としました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>The outcome is that keyboard (including screen reader) users are sent right to the start of the page content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112727Z" creationid="rikiha" creationdate="20170922T112727Z">
+        <seg>その結果、キーボード（スクリーンリーダーも含む）のユーザーは、ページコンテンツの先頭に飛ばされることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu88_0</prop>
       <note>(伊原) defaultsを訳出。
 
 (岡本)　分からない→わからない
@@ -30776,6 +30793,22 @@ add more は言わなくてもわかるのでトリました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170922T112716Z" creationid="rikiha" creationdate="20170922T112716Z">
         <seg>するとブラウザは「&lt;g2&gt;フリークアウトモード&lt;/g2&gt;」とも呼ばれる状態となり、何をフォーカスしていいかわからず、デフォルトでドキュメント本体にフォーカスが当たることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu89_0</prop>
+      <note>(伊原) タグが抜けているので追加。効果的な方法➞有効な対処方法、最初の商品のタイトル➞商品の最初のタイトル
+
+(太田) 
+「切り替える」がややわかりにくいので「移す」としました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>An effective course here is to switch focus to the title (&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;) of the first newly returned product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112734Z" creationid="rikiha" creationdate="20170922T112734Z">
+        <seg>ここでの有効な対処方法は、新たに表示された商品の最初のタイトル（&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;）にフォーカスを移すことです。</seg>
       </tuv>
     </tu>
   </body>
