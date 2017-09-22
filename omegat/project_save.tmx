@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31660,6 +31660,63 @@ flimsilyは「安易に」くらいでしょうか。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170922T112002Z" creationid="rikiha" creationdate="20170922T112002Z">
         <seg>並べ替えボタンを押した後、ライブリージョンに「商品リストを読み込み中。しばらくお待ちください。」というメッセージを入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu55_0</prop>
+      <note>※訳注あり
+
+(太田)
+訳としては合っていますが言っていることが分かりにくいですね。
+statusロールは暗黙のaria-live="polite"を持つことになっているので機能が同じという話ですが、プロパティとロールが同等と言われてもわかりにくいような。「同じ機能を提供します」と補ってみました。
+
+というか上の例には polite  出てこなくないですか??
+
+参考:
+http://www.w3.org/TR/wai-aria-1.1/#status
+Elements with the role status have an implicit aria-live value of polite and an implicit aria-atomic value of true.
+
+(伊原) OK。polite出てこないですね…。箇条書きの順番がおかしいのかも。
+
+(太田)もしかすると、本来ここでは aria-live="assertive" と alertロールの話をすべきところ、単純に間違えたのかもしれませんね。
+
+(伊原) そんな気がします。初校チェックの段階で意味が通るように並び替えることを検討してもよさそうです。
+
+(太田) 訳注でフォローしました。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-live="polite"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;8&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; property and the &lt;g8&gt;&lt;g9&gt;&lt;g10&gt;status&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;9&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt; role are equivalent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T123354Z" creationid="rikiha" creationdate="20170922T123354Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-live="polite"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注163）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;プロパティと&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;status&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;（脚注164）&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;ロールは同じ機能を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu63_0</prop>
+      <note>(太田)
+誤訳ですね。the change event は「changeイベント」です。
+コードを見る感じ、for greater immediacy というのは、実装が手っ取り早いわけではなく、ユーザーにとって手っ取り早い (ボタンを押すアクションが不要になる = 結果が即時に反映される) ということのように思います。
+補って「操作の結果が即座に反映されて良い」としました。
+
+というか下のコードおかしくないですか? this.submit(); するのではなく // XHR request handling here とならないと意味がおかしいと思いますが。
+erraraには何もなし。
+https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
+あるいは、ひとつ前のコードが生きている前提で、this.submit() でそれを呼んでいるということなのでしょうか。一応意味は通りますが、ふつうは両方を実装するということは無いと思いますが……。
+
+(伊原) そうですね、単に変更されたら送信してるだけで、attach the XHR functionality to the change event してないですね。ヘイドンさんのミスのような気がします。
+
+(太田)
+まあいったんスルーで。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T123406Z" creationid="rikiha" creationdate="20170922T123406Z">
+        <seg>おそらく、JavaScriptでsubmitボタンを取り除き、changeイベントにXHRの機能を追加するほうが、操作の結果が即座に反映されて良いと思われるのではないでしょうか。</seg>
       </tuv>
     </tu>
     <tu>
