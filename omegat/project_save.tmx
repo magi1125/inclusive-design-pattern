@@ -9931,12 +9931,15 @@ the を訳出すべきか?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整</note>
+      <note>(伊原) 微調整
+
+(太田) 
+floatによる、としました。</note>
       <tuv lang="EN-US">
         <seg>Float-based CSS layouts are unaffected by this provision.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T141045Z" creationid="rikiha" creationdate="20170909T224123Z">
-        <seg>floatベースのCSSレイアウトは、この設定の影響を受けません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T043138Z" creationid="rikiha" creationdate="20170909T224123Z">
+        <seg>floatによるCSSレイアウトは、この設定の影響を受けません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20129,7 +20132,10 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田) 
+原文 the HTML element は the &lt;html&gt; element とすべきではないかという気がしますね。</note>
       <tuv lang="EN-US">
         <seg>Setting the text direction for the document is possible by including the &lt;g1&gt;dir&lt;/g1&gt; attribute (alongside the &lt;g2&gt;lang&lt;/g2&gt; attribute) on the HTML element.</seg>
       </tuv>
@@ -21834,12 +21840,15 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) reverseを逆転として調整。</note>
+      <note>(伊原) reverseを逆転として調整。
+
+(太田)
+floated はfloatした、としました。</note>
       <tuv lang="EN-US">
         <seg>That is, you have to manually reverse the layout of floated content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170918T224825Z" creationid="rikiha" creationdate="20170909T224124Z">
-        <seg>つまり、floatによるコンテンツのレイアウトの向きは、手動で逆転させなければなりません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170922T043256Z" creationid="rikiha" creationdate="20170909T224124Z">
+        <seg>つまり、floatしたコンテンツのレイアウトは、手動で逆転させなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
