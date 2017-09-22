@@ -18343,7 +18343,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
     </tu>
     <tu>
-      <note>(岡本)　この図のaltが抜けているように思います。</note>
+      <note>(岡本)　この図のaltが抜けているように思います。
+
+(太田)
+このような感じでしょうか。
+
+5カラムのグリッドで、最後の行が1項目、2項目、3項目、4項目の場合。1～2項目の場合には、最後の項目は20emの幅となってセンタリングされる。3～4項目の場合、全体の幅を3分割、4分割した幅になる。
+
+</note>
       <tuv lang="EN-US">
         <seg>Now the grid items are organized around the vertical center line and cannot become more than 20em wide.</seg>
       </tuv>
