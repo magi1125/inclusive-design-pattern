@@ -30843,5 +30843,36 @@ sentは「飛ばされる」としました。
         <seg>JavaScriptの&lt;g3&gt;focus()&lt;/g3&gt;メソッドでフォーカスできるようにするには、最初の商品の&lt;g2&gt;&lt;h3&gt;&lt;/g2&gt;に&lt;g1&gt;tabindex="-1"&lt;/g1&gt;を適用する必要がある点に注意してください。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu90_0</prop>
+      <note>(伊原) タグが抜けていたので修正。トリガー➞行わせる
+
+(太田)
+少し調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>We are only focusing the &lt;g6&gt;&lt;h3&gt;&lt;/g6&gt; to place the user in the correct context and to trigger announcement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112822Z" creationid="rikiha" creationdate="20170922T112822Z">
+        <seg>&lt;g6&gt;&lt;h3&gt;&lt;/g6&gt;にフォーカスを移すのは、ユーザーを適切なコンテキストに導き、読み上げをはじめさせるときだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu92_0</prop>
+      <note>(伊原) 微調整
+
+(太田) すこし調整。
+
+(伊原) OK</note>
+      <tuv lang="EN-US">
+        <seg>As with choosing a filtering option, an XHR has to be handled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112845Z" creationid="rikiha" creationdate="20170922T112845Z">
+        <seg>フィルタオプションを選択する場合と同様、XHRで処理されることになります。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
