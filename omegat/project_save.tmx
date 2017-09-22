@@ -30814,6 +30814,21 @@ sentは「飛ばされる」としました。
     <tu>
       <prop type="file">chapter-23.html</prop>
       <prop type="id">tu90_0</prop>
+      <note>(伊原) 微調整
+
+(太田) 少し調整
+
+(伊原) </note>
+      <tuv lang="EN-US">
+        <seg>In this case, user focus is not desirable because the &lt;g5&gt;&lt;h3&gt;&lt;/g5&gt; is not an actionable (interactive) element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170922T112811Z" creationid="rikiha" creationdate="20170922T112811Z">
+        <seg>このケースでは、&lt;g5&gt;&lt;h3&gt;&lt;/g5&gt;はアクションの対象になる（インタラクティブな）要素ではないので、ユーザーがフォーカスすることは望ましくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-23.html</prop>
+      <prop type="id">tu90_0</prop>
       <note>(伊原) Noteを訳出。has toなのでそんな感じに。
 
 (太田)
