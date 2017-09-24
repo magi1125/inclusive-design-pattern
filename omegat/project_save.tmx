@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5271,6 +5271,14 @@ Note を訳出しました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170510T045341Z" creationid="yoota" creationdate="20170510T045341Z">
         <seg>パラグラフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Registration Form</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042234Z" creationid="bakera" creationdate="20170924T042234Z">
+        <seg>登録フォーム</seg>
       </tuv>
     </tu>
     <tu>
