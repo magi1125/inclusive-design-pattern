@@ -7653,6 +7653,14 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before diving into constructing the registration form itself, it’s worth acknowledging the context in which we are likely to find it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042338Z" creationid="bakera" creationdate="20170924T042338Z">
+        <seg>登録フォームを構築し始める前に、そのコンテキストを理解しておくことが大切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before we can contemplate inclusive patterns, inclusive design must first be defined.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091858Z" creationid="okamoto_jun" creationdate="20170627T091858Z">
@@ -8987,6 +8995,14 @@ issueは文字どおり「イシュー」と思われますが、いったん「
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Conventionally, registration forms are counterparts to login forms provided for users who already have accounts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042340Z" creationid="bakera" creationdate="20170924T042340Z">
+        <seg>一般的に、登録フォームは、アカウントを保有するユーザー向けのログインフォームと対をなします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 日常、と補った。</note>
       <tuv lang="EN-US">
         <seg>Conversational English for consumers.</seg>
@@ -9192,6 +9208,14 @@ they are hyperlinks は当たり前のことを繰り返しているように見
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170913T082719Z" creationid="rikiha" creationdate="20170909T223344Z">
         <seg>標準のラジオボタンは、本質的にインクルーシブではありますが、スタイルの調整が難しいという問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Despite the virtues of modularity, it can’t be helped that some patterns are informed by context and are better designed where context is considered first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042339Z" creationid="bakera" creationdate="20170924T042339Z">
+        <seg>モジュール性という利点はあるものの、パターンの中にはコンテキストによって決まるものや、コンテキストを一番に考慮した場合に最良のデザインとなるものがあるからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10722,6 +10746,14 @@ For thatは「その実現」としてみました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T034108Z" creationid="yoota" creationdate="20170511T081129Z">
         <seg>この理由から、すべてのブラウザはデフォルトで&lt;g1&gt;text-decoration: underline&lt;/g1&gt;を適用してリンクテキストを表示します。そのため、インラインリンクのデザインは、&lt;g2&gt;何もしない&lt;/g2&gt;のが完璧に良い解決策であるという典型例になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For this simple registration form pattern, we shall embrace standards while attempting to tiptoe nimbly around potential usability failures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042334Z" creationid="bakera" creationdate="20170924T042334Z">
+        <seg>このシンプルな登録フォームパターンのためには、標準を取り入れながらも、潜在的なユーザビリティの不具合を機敏に回避しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12992,6 +13024,14 @@ http://ejje.weblio.jp/content/noble
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, by linking to the registration form on a separate page, they’d have to make their way down to the form from the top of that newly loaded page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042455Z" creationid="bakera" creationdate="20170924T042356Z">
+        <seg>In addition, by linking to the registration form on a separate page, they’d have to make their way down to the form from the top of that newly loaded page.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 ここから視覚の話になるということがややが分かりにくいように思ったので、
 「視覚的にも」の位置を調整しました。
@@ -13355,6 +13395,14 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094918Z" creationid="okamoto_jun" creationdate="20170627T094918Z">
         <seg>実際、先に挙げた正しい解決策は、さまざまな形式の住所を含められるインクルーシブデザインになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In fact, it’s usually the login form that you would encounter first, with an option to register instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042342Z" creationid="bakera" creationdate="20170924T042342Z">
+        <seg>たいていログインフォームが最初に表示され、オプションで登録フォームにアクセスできるようになっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15396,6 +15444,14 @@ C・Googleなどがクロールする対象である、Webサイトの静的ペ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s a mixed bag: form elements piggyback OS functionality and are keyboard and screen reader accessible as standard — at least when marked up correctly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042330Z" creationid="bakera" creationdate="20170924T042330Z">
+        <seg>まず、OS機能を利用したフォーム要素が必要です。加えて、少なくとも正確にマークアップされている場合には、キーボードとスクリーンリーダーに標準としてアクセスできることが大切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注アリ
 
 (太田) gov.ukが実際に採用している色は #ffbf47 のようです。
@@ -16936,6 +16992,14 @@ Lots of とplentyはてきとうに別の言葉を当てはめてみました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Making sure forms are inclusive is paramount, because all people should be able to contribute to and not just consume the web.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042327Z" creationid="bakera" creationdate="20170924T042327Z">
+        <seg>一番重要なのは、インクルーシブなフォームにすることです。すべての人々がWebを利用するだけではなく、Webに寄与できなければならないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM.
 
 (伊原) LGTM</note>
@@ -17095,6 +17159,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>My current output is hardly perfect, but it has benefited from a change in mindset, an acknowledgement that web pages aren’t merely pinboards for images.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042322Z" creationid="bakera" creationdate="20170924T042322Z">
+        <seg>今もとても完璧とは言えませんが、考え方を改め、Webページは画像を貼り付ける単なるコルクボードではないと認識するようになったことが良かったようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ポイント先➞遷移先としました。
 
 (太田) the page の the は訳出したほうがいいかも。
@@ -17105,6 +17177,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170802T095147Z" creationid="rikiha" creationdate="20170728T142617Z">
         <seg>私のお気に入りのやりかたは、現在のページのリンクの遷移先を、そのページのメイン領域にするというものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My first forays into web design at the turn of the century revolved around images, image maps to link parts of those images to other pages of images, and nested &lt;g1&gt;&lt;table&gt;&lt;/g1&gt; elements to hold the whole debacle together.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042257Z" creationid="bakera" creationdate="20170924T042257Z">
+        <seg>私がWebデザインの世界に入った世紀の変わり目の頃、主な仕事は画像や、画像の一部分を他のページにリンクするイメージマップ、総崩れを回避するためのネストされた&lt;table&gt;要素にまつわることでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18681,6 +18761,14 @@ some screen readers will は「スクリーンリーダーは……ことがあ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>On the other hand, forms are a 10,000-volt electromagnet for attracting usability problems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042333Z" creationid="bakera" creationdate="20170924T042333Z">
+        <seg>その一方で、フォームはユーザビリティの問題を引き寄せる1万ボルトの電磁石でもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 【要検討】こなれてない感があります。
 つまるところは、自分だけの考えとして伝えないほうがベターである＝WCAGというルールセットを元に話した方がいい、ということなのかなとは思います。
 
@@ -19614,6 +19702,14 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
       <tuv lang="JA" changeid="yoota" changedate="20170824T024844Z" creationid="rikiha" creationdate="20170819T005404Z">
         <seg>むしろ人々にとって&lt;g1&gt;より関心があるのは最終的な結果&lt;/g1&gt;と、迅速で、手間がかからず、可能な限り最も効率的な方法でその結果を得ることです。」
 — ゴラン・ポイク（Goran Peuc）&lt;g2&gt;&lt;g3&gt;「Nobody Wants To Use Your Product」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注122）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Really, web pages are terminals: they accept information (input) and display information (output).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042324Z" creationid="bakera" creationdate="20170924T042324Z">
+        <seg>実のところ、Webページはターミナルです。情報を受け取り（入力）、情報を表示します（出力）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21012,6 +21108,14 @@ WCAG日本語訳で「コンテキスト」という言葉を使っているの�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>So that’s good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042331Z" creationid="bakera" creationdate="20170924T042331Z">
+        <seg>じゃ、シーク教徒が1人、と…」</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 近似→近接
 
@@ -21105,6 +21209,14 @@ The Office はイギリスのコメディドラマのようですね。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170906T094211Z" creationid="rikiha" creationdate="20170828T141536Z">
         <seg>じゃ、シーク教徒がひとり、と……」&lt;x4/&gt;—「The Office」シーズン4、&lt;/g1&gt;「Fun Run」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, what are we dealing with?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042329Z" creationid="bakera" creationdate="20170924T042329Z">
+        <seg>では、どのようなことに対応する必要があるのでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -22642,6 +22754,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170430T231127Z" creationid="yoota" creationdate="20170418T080813Z">
         <seg>ドキュメント全体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Form In Context</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042337Z" creationid="bakera" creationdate="20170924T042337Z">
+        <seg>コンテキストに応じたフォーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -24198,6 +24318,14 @@ audit をどう訳すか。あまり検査とは言わないようにも思い�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170728T153728Z" creationid="rikiha" creationdate="20170728T142551Z">
         <seg>自己参照リンクは冗長であるため、すべて取り除いたほうがよいというデザイナーもいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The relationship between standards and usability is where we find inclusion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042335Z" creationid="bakera" creationdate="20170924T042335Z">
+        <seg>標準とユーザビリティの関係の中で、インクルージョンを模索する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26303,6 +26431,14 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This registration option usually takes the form of some tiny link text reading “Don’t have an account?” and placed &lt;g1&gt;after&lt;/g1&gt; the login form’s submit button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042345Z" creationid="bakera" creationdate="20170924T042345Z">
+        <seg>この登録オプションは、通常は「アカウントをお持ちでない方」などと小さく書かれたリンクで、ログインフォームのsubmit（送信）ボタンの後に配置されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 通常の動作➞標準のふるまい。その他多少調整。
 
 (太田) make sureの訳が微妙な感じもしました。ユーザーが確実にそうできるように手配する、というようなことだと思いますので、文末を「できるようになります」としました。
@@ -27531,6 +27667,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Underperforming, unresponsive, not cross-browser compatible: just some of the things you could condemn my early handiwork for.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042321Z" creationid="bakera" creationdate="20170924T042321Z">
+        <seg>不十分なパフォーマンス、レスポンシブ性の欠如、ブラウザ間の非互換性など、当時の私の仕事ぶりには至らない点が多々ありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「あらゆるブラウザで正しく実装されているわけではない」というのは過大評価過ぎるというか、原文はもっとこき下ろしているように思います。
 
 (伊原) LGTM
@@ -28436,6 +28580,14 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T032420Z" creationid="yoota" creationdate="20170427T025125Z">
         <seg>Webフォントは一般的に大きいアセットなので、エンハンスメントで処理すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web forms take care of the input part.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170924T042325Z" creationid="bakera" creationdate="20170924T042325Z">
+        <seg>Webフォームは、入力の部分を担います。</seg>
       </tuv>
     </tu>
     <tu>
