@@ -1509,6 +1509,14 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;A11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; — a more advanced CSS accessibility testing tool by &lt;g6&gt;&lt;g7&gt;Gaël Poupard&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;13&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; — overcomes this by positioning each pseudo-content message at the top of the document and reveals it on hover.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014557Z" creationid="rikiha" creationdate="20170925T014557Z">
+        <seg>A11y.css（脚注203）（ゲール・プパール（Gaël Poupard）（脚注204）による、より高度なCSSアクセシビリティテストツール）は、各pseudo-contentメッセージをドキュメント上部に配置し、カーソルを合わせると表示されるようにすることで、この問題を克服しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 unpick は縫い目を解くような意味。
 「読み解く」だとテキストなどを読み解くように見えますが、ここでは画像の話なのでもう少し練りたいところ。
@@ -6072,6 +6080,14 @@ Allのニュアンスを盛り込むべきかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>All other tabs should take the &lt;g8&gt;tabindex="-1"&lt;/g8&gt; attribute and be selectable using only the arrow keys.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014513Z" creationid="rikiha" creationdate="20170925T014513Z">
+        <seg>その他のタブはすべて、tabindex="-1"属性が指定され、矢印キーでのみ選択できる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) リッスン要検討。アタッチと共に訳すか。
 
 (太田)
@@ -6634,6 +6650,14 @@ https://material.io/guidelines/usability/accessibility.html#accessibility-style
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Appropriately, it is itself a declarative language and, fortuitously, it does not take the form of an additional library dependency.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014347Z" creationid="rikiha" creationdate="20170925T014347Z">
+        <seg>それ自体も宣言型言語であり、幸いなことに、付加的なライブラリにも依存しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「明確ですか?」は語弊があるかも。
 コンテンツ側で「階層を明確にしろ」といっているようにも読めますが、ここでは、コンテンツ側で設定した階層が明確に伝わるか、と言っています。
@@ -6958,6 +6982,14 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As an accompaniment to the last test, we can make sure a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; with the &lt;g3&gt;tabpanel&lt;/g3&gt; role is the first sibling element after the &lt;g4&gt;tablist&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014534Z" creationid="rikiha" creationdate="20170925T014534Z">
+        <seg>先ほどのテストに、tabpanelロールが指定された&lt;div&gt;がtablistの後の最初の兄弟要素だという確認を加えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注?→訳注なし
 
 (伊原) failsがキーになるので、実行の失敗としてみました。
@@ -7075,6 +7107,14 @@ organizationは組織としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170808T085736Z" creationid="rikiha" creationdate="20170805T163234Z">
         <seg>JavaScriptでキーボード対応のインターフェイスを作るときにはよくあることですが、ユーザーが意図した場所に移動できるようにするために、明示的にフォーカスを管理しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As stated in &lt;g1&gt;&lt;g2&gt;the &lt;g3&gt;tablist&lt;/g3&gt; role specification&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;7&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, tablists &lt;g7&gt;require&lt;/g7&gt; “owned elements” with the explicit &lt;g8&gt;tab&lt;/g8&gt; role, in the form &lt;g9&gt;role="tab"&lt;/g9&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014457Z" creationid="rikiha" creationdate="20170925T014457Z">
+        <seg>tablistロールの仕様（脚注199）で定められているように、tablistには明示的なtabロールを持つ「所有要素」（role="tab"）が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7999,6 +8039,14 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>But that’s not much use unless we also provide an explanation of the error.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014542Z" creationid="rikiha" creationdate="20170925T014542Z">
+        <seg>しかし、エラーに関する説明がなければあまり役に立ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 composeは作成でいいのか。あとで検討。
 
@@ -8082,6 +8130,14 @@ wordingはそのまま「ワーディング」もあり?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T104354Z" creationid="yoota" creationdate="20170501T104354Z">
         <seg>しかし、これはいったい誰のためのものでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But why bother showing the error messages within the page itself at all?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014558Z" creationid="rikiha" creationdate="20170925T014558Z">
+        <seg>しかし、そもそもエラーメッセージをページに表示する必要はあるのでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -9158,6 +9214,14 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Despite CSS being a declarative language, there is a logic in the formulation of selectors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014350Z" creationid="rikiha" creationdate="20170925T014350Z">
+        <seg>CSSは宣言型言語ですが、セレクタの構築にはロジックがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 原文の意図の反映を試みました。
 
 (岡本)
@@ -9519,6 +9583,14 @@ Embraceは利用するで良いのか?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Error Messages</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014539Z" creationid="rikiha" creationdate="20170925T014539Z">
+        <seg>エラーメッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) implicitlyを明示的とするのは誤訳かと。
 
 Essentially, this means you can employ implicitly responsive text without the need for media queries like that of the previous code example.
@@ -9748,6 +9820,14 @@ additional dimensionはもう少し工夫しないと良くわからないです
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T172407Z">
         <seg>最後にJavaScriptが加わるが、コンテンツは依然として維持される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, let’s make sure all the tab panels have the &lt;g1&gt;tabpanel&lt;/g1&gt; role.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014528Z" creationid="rikiha" creationdate="20170925T014528Z">
+        <seg>最後に、タブパネルにtabpanelロールが指定されていることを確認しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10156,6 +10236,14 @@ http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For example, I might want to match all buttons that are not disabled:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014356Z" creationid="rikiha" creationdate="20170925T014356Z">
+        <seg>たとえば、無効になっていないすべてのボタンにマッチさせたい場合は、次のように記述します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「思い」→「判断し」、としました。
 
@@ -10254,6 +10342,14 @@ massiveは「大きくて重い、大規模な」というような意味です�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170824T150854Z" creationid="rikiha" creationdate="20170823T082548Z">
         <seg>たとえば、&lt;g1&gt;&lt;g2&gt;Great British Public Toilet Map&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注127）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;のプロジェクトでは、まず&lt;g6&gt;&lt;g7&gt;Neontribe社&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注128）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;のオフィスにあるトイレの絵を描いて切り抜くことから始めました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the following prints a lurid message for lists which are badly formed:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014551Z" creationid="rikiha" creationdate="20170925T014551Z">
+        <seg>たとえば以下のセレクタでは、不適切に形成されたリストに対してけばけばしいメッセージが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11078,6 +11174,22 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Having content between the &lt;g1&gt;tablist&lt;/g1&gt; and tab panels would fragment the interface and cause confusion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014533Z" creationid="rikiha" creationdate="20170925T014533Z">
+        <seg>tablistとタブパネルの間にコンテンツがあると、インターフェイスが断片化して混乱を招きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Having decided that it is the &lt;g1&gt;&lt;a&gt;&lt;/g1&gt; element which should take the &lt;g2&gt;tab&lt;/g2&gt; role, I can add a corresponding test to my suite.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014501Z" creationid="rikiha" creationdate="20170925T014501Z">
+        <seg>&lt;a&gt;要素でtabロールを指定すると決めたので、対応するテストをスイートに加えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)　お勧め→おすすめ
 
 (伊原) LGTM</note>
@@ -11421,6 +11533,14 @@ http://ejje.weblio.jp/content/pertinent+to
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>However, actually printing that error to the screen is fraught with problems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014553Z" creationid="rikiha" creationdate="20170925T014553Z">
+        <seg>ただし、そのエラーを画面に表示することには問題が伴います。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 すこし調整。
 
@@ -11723,6 +11843,14 @@ think of は think about よりも対象についてピンポイントで深く�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I detail the formulation of accessible, ARIA-enhanced tab interfaces in my book, “&lt;g1&gt;&lt;g2&gt;Apps For All: Coding Accessible Web Applications&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;5&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” Also available are a &lt;g6&gt;&lt;g7&gt;demo and explanation&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;6&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014424Z" creationid="rikiha" creationdate="20170925T014424Z">
+        <seg>ARIAで拡張されたアクセシブルなタブインターフェイスについては、私の著書『Apps For All: Coding Accessible Web Applications』（日本語版：『コーディングWebアクセシビリティ - WAI-ARIAで実現するマルチデバイス環境のWebアプリケーション』ボーンデジタル刊）（脚注197）で詳しく説明しています。また、デモや解説も利用できます。（脚注198）このような統合パターンおよびその予期される動作についてよく知らない方は、どちらかを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)　嘘→うそ
 
 (太田)
@@ -11834,6 +11962,14 @@ imagine と might で二重に推定している形ですが、むしろ何故�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170822T134338Z" creationid="rikiha" creationdate="20170819T005503Z">
         <seg>また押し間違った！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I know that my tabs will only function correctly in assistive technologies if they belong to an element with the special &lt;g1&gt;tablist&lt;/g1&gt; role to group the individual tabs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014449Z" creationid="rikiha" creationdate="20170925T014449Z">
+        <seg>これらのタブは、各タブをグループ化する特別なtablistロールを持つ要素に属している場合にのみ、支援技術で正しく機能することが分かっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13268,6 +13404,14 @@ In any case, は「さて」ぐらいにしてみました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In correctly behaving tab interfaces, there should always be one selected tab, defined accessibly using the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; state.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014509Z" creationid="rikiha" creationdate="20170925T014509Z">
+        <seg>正しく動作するタブインターフェイスでは常に、aria-selected（脚注200）ステートを使用してアクセシブルに定義された、1つの選択されたタブがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 直訳すると「FOITを打ち負かすには、FOUTと呼ばれるより軽微な悪を受け入れる必要があります」。
 
 (伊原) LGTM</note>
@@ -14251,6 +14395,14 @@ if supported は SVG ではなく &lt;use&gt; にくっついているのでは�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In the experimental CSS testing bookmarklet &lt;g1&gt;&lt;g2&gt;revenge.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;11&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, I used test selectors to identify generic accessibility-related markup errors and provided error messages using pseudo-content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014549Z" creationid="rikiha" creationdate="20170925T014549Z">
+        <seg>私は試験的なCSSテスト用ブックマークレットrevenge.css（脚注202）で、テストセレクタを使用してアクセシビリティに関連する一般的なマークアップエラーを特定し、pseudo-contentを使用してエラーメッセージを提供しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (岡本）キャプションでもありますね。下の方でキャプションを和訳していただいているようなので、これもお願いできればと思います。ただ、これまでキャプションとaltについては不徹底なので、初稿出たら改めて見直す必要があるかも。
@@ -14520,6 +14672,14 @@ look at は学びましたというか考察しましたというか。
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170922T062714Z" creationid="rikiha" creationdate="20170909T224318Z">
         <seg>このパターンでは、2つのことがわかったのではないでしょうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In which case, I could just hide the pseudo-content message with &lt;g1&gt;display:none;&lt;/g1&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014601Z" creationid="rikiha" creationdate="20170925T014601Z">
+        <seg>その場合は、display:none;で疑似コンテンツメッセージを隠します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14805,6 +14965,14 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T064232Z" creationid="yoota" creationdate="20170511T064116Z">
         <seg>代わりに、&lt;g8&gt;line-height&lt;/g8&gt;に単位のない比率の値を設定しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, I can use the developer tools CSS inspector like a JavaScript console and provide the error messages there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014559Z" creationid="rikiha" creationdate="20170925T014559Z">
+        <seg>私は代わりに、開発者ツールのCSSインスペクタ（JavaScriptコンソールなど）を使用し、そこにエラーメッセージを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15355,6 +15523,14 @@ must ではなく should なので「べき」としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170801T091846Z" creationid="rikiha" creationdate="20170725T074226Z">
         <seg>そして状況がわかりました。単に、サイトナビゲーションがソースの最下部にあったのです。30～40回&lt;g6&gt;Tab&lt;/g6&gt;キーを押すとそこに到達し、最終的にはフォーカス状態になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It turns out there’s already a language perfectly suited for this task.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014346Z" creationid="rikiha" creationdate="20170925T014346Z">
+        <seg>実は、この作業にぴったりの言語があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16145,6 +16321,14 @@ find information actionable で「情報が実行可能と分かる・感じる�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I’m talking, of course, about CSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014349Z" creationid="rikiha" creationdate="20170925T014349Z">
+        <seg>もちろん、その言語とはCSSです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 WYSIWYG の訳は必要かどうか。
 
@@ -16608,6 +16792,14 @@ https://docs.google.com/document/d/1ju_rDbIrde0lHKJF84ZkgqfO3YNc8JyuPBA6EaIEGUI/
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s see how this might work using a tab interface as our subject pattern.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014415Z" creationid="rikiha" creationdate="20170925T014415Z">
+        <seg>タブインターフェイスのパターンを使って、これがどのように機能するか見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 あまりしっくりこなかったのと、次の文との兼ね合いで「しょう」の連続を避けたかったので2文に分けました。
 
@@ -16619,6 +16811,14 @@ https://docs.google.com/document/d/1ju_rDbIrde0lHKJF84ZkgqfO3YNc8JyuPBA6EaIEGUI/
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170902T141710Z" creationid="rikiha" creationdate="20170828T141702Z">
         <seg>では、商品リストを作り始めましょう。リスト項目の最初のコンテンツを使って、商品のテンプレートを作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s start from the top.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014448Z" creationid="rikiha" creationdate="20170925T014448Z">
+        <seg>では上から見ていきましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17206,6 +17406,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170918T130450Z" creationid="rikiha" creationdate="20170909T224056Z">
         <seg>シンメトリーのため、センターライン上にコンテンツをまとめるのが私の好みです。そのため、flexコンテナで&lt;g2&gt;justify-content: center;&lt;/g2&gt;と宣言しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My selector should identify the &lt;g2&gt;&lt;ul&gt;&lt;/g2&gt; element within the &lt;g3&gt;class="tab-interface"&lt;/g3&gt; container and highlight it if it doesn’t have a &lt;g4&gt;role="tablist"&lt;/g4&gt; attribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014450Z" creationid="rikiha" creationdate="20170925T014450Z">
+        <seg>セレクタは、class="tab-interface"コンテナ内の&lt;ul&gt;要素を確認し、role="tablist"属性がない場合はそれをハイライト表示する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18278,6 +18486,22 @@ the URLは「このページのURL」としてみました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Now I can just run &lt;g1&gt;npm test&lt;/g1&gt; (or whatever alias I have set up) and I’ll find out if my function is doing what I hoped it would.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014337Z" creationid="rikiha" creationdate="20170925T014337Z">
+        <seg>後はnpm test（またはセットアップした何らかのalias）を実行すれば、機能が期待通りの動作をしているか分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now all we need is a method for describing the issue to the user on inspection of the highlighted element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014411Z" creationid="rikiha" creationdate="20170925T014411Z">
+        <seg>あと必要なのは、ハイライト表示された要素の調査時に、ユーザーに問題を説明する方法だけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 少し前に「次に」が登場したこともあり、「次に」は違和感があります。
 この now は「さて」くらいでよいのでは。
@@ -18510,6 +18734,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Now, if no well-placed &lt;g1&gt;tablist&lt;/g1&gt; semantics are present, an ugly red outline will appear on the list element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014455Z" creationid="rikiha" creationdate="20170925T014455Z">
+        <seg>これで、適切に配置されたtablistセマンティクスが存在しない場合、リスト要素に見苦しい赤枠が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 微調整。
 
@@ -18603,6 +18835,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170609T080731Z" creationid="yoota" creationdate="20170606T101119Z">
         <seg>キャプションがあれば、もちろん聴力に問題のある人たちの役に立ちます。しかし、彼らのため&lt;g1&gt;だけ&lt;/g1&gt;のものではないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of course, this catches the complete absence of &lt;g1&gt;aria-labelledby&lt;/g1&gt; as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014526Z" creationid="rikiha" creationdate="20170925T014526Z">
+        <seg>もちろん、aria-labelledbyが完全に欠落していることも検知します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19258,6 +19498,14 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170919T082459Z" creationid="rikiha" creationdate="20170909T223842Z">
         <seg>そうしないと、ユーザーが見ているビューポートは変化せずに、フォーカスが当たっている&lt;g2&gt;data-load-more&lt;/g2&gt;ボタンが画面外に押し出され、フォーカスを見失ってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our job is to write tests against the elements’ properties and relationships within the tab interface, to make sure it is structured as expected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014438Z" creationid="rikiha" creationdate="20170925T014438Z">
+        <seg>やるべきことは、タブインターフェイス内の要素のプロパティと関係に対するテストを書き、期待通りに構築されていると確認することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19925,6 +20173,14 @@ wouldなので語尾を「ことがあります」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Rewritten in JavaScript:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014400Z" creationid="rikiha" creationdate="20170925T014400Z">
+        <seg>これをJavaScriptで記述し直すと、次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) alt下訳を反映。
 
 (岡本)　付け→つけ</note>
@@ -20259,6 +20515,22 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170922T062618Z" creationid="rikiha" creationdate="20170909T224320Z">
         <seg>ふたつめは、まずセマンティックなHTMLを使用して、CSSをプログレッシブエンハンスメントとして使うやり方があるということ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the “Navigation Regions” chapter for more on link lists and navigation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014459Z" creationid="rikiha" creationdate="20170925T014459Z">
+        <seg>リンクリストとナビゲーションの詳細については「＄＄Navigation Regions＄＄」の章を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selectors are condition-based expressions which are used to match HTML structures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014351Z" creationid="rikiha" creationdate="20170925T014351Z">
+        <seg>セレクタは、HTML構造にマッチさせるために使われる、条件ベースの式です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20627,6 +20899,14 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Since it piggybacks a site’s own CSS, I had to be very careful about overriding certain styles for pseudo-content that would mess up the appearance and readability of the error messages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014554Z" creationid="rikiha" creationdate="20170925T014554Z">
+        <seg>サイト自身のCSSに便乗しているため、エラーメッセージの外観や見やすさを台無しにする可能性がある、pseudo-content用の特定のスタイルのオーバーライドについて十分に注意する必要がありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) accessibleを「使える」とされていましたが、力強く「アクセシブル」で良いかと思います。
 
 (伊原) LGTM</note>
@@ -20927,6 +21207,14 @@ OK、微調整しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Since well-formed markup is a big contributor to web accessibility, a kind of TDD for markup can keep us from building uninclusive patterns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014343Z" creationid="rikiha" creationdate="20170925T014343Z">
+        <seg>適切に構築されたマークアップはWebアクセシビリティに大いに貢献するので、マークアップ用TDDのようなことを行えば、インクルーシブではないパターンの構築を防げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 量だけだと意味がわかりにくいので補いました。また、以前の章というところを補足しました。
 
 (太田)
@@ -21078,6 +21366,22 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170901T022827Z" creationid="rikiha" creationdate="20170828T141659Z">
         <seg>これまで作ってきたリスト項目は、テキストとインライン要素（リンク）だけしか含まない簡素なものでしたが、リスト項目の中にもっと複雑な構造を入れても全く問題ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So far, we’ve provided a red outline for any elements which match undesired patterns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014541Z" creationid="rikiha" creationdate="20170925T014541Z">
+        <seg>これまでは、望ましくないパターンにマッチする要素には赤枠を表示してきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So good are CSS selectors at doing this that tools for &lt;g1&gt;writing&lt;/g1&gt; markup like &lt;g2&gt;&lt;g3&gt;Emmet&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;4&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; are based on selector-like syntax.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014353Z" creationid="rikiha" creationdate="20170925T014353Z">
+        <seg>CSSセレクタはそれを非常にうまくこなすので、Emmet（脚注196）などのマークアップを書くためのツールは、セレクタのような構文に基づいています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21326,6 +21630,14 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170806T220232Z" creationid="rikiha" creationdate="20170805T163203Z">
         <seg>ページ内リンクでターゲットセクションに移動する際、JavaScriptでスムーズスクロールするものを見かけることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some implementations place this attribute directly on each &lt;g10&gt;&lt;li&gt;&lt;/g10&gt; element, but I prefer to use &lt;g11&gt;&lt;a&gt;&lt;/g11&gt; elements so that the structure easily degrades as a list of links.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014458Z" creationid="rikiha" creationdate="20170925T014458Z">
+        <seg>この属性を各&lt;li&gt;要素に直接配置する実装方法もありますが、私は&lt;a&gt;要素を使用するようにしています。そうすれば構造を簡単にリンクリストに分解できるからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22246,6 +22558,14 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That’s all very well, but it’s designed for the largely imperative language of JavaScript.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014338Z" creationid="rikiha" creationdate="20170925T014338Z">
+        <seg>実に結構なことではありますが、これは主に命令型言語であるJavaScript用にデザインされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>That’s because bright light has a habit of triggering migraines for me.</seg>
@@ -22885,6 +23205,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The Logic Of Selectors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014349Z" creationid="rikiha" creationdate="20170925T014349Z">
+        <seg>セレクタのロジック</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The Markup</seg>
@@ -22931,6 +23259,22 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170919T031405Z" creationid="rikiha" creationdate="20170909T224249Z">
         <seg>商品タイトル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Test-Driven Tab Interface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014416Z" creationid="rikiha" creationdate="20170925T014416Z">
+        <seg>テスト駆動のタブインターフェイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Tests</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014447Z" creationid="rikiha" creationdate="20170925T014447Z">
+        <seg>テスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -23056,6 +23400,14 @@ mightなのですこし弱めに。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170608T173650Z" creationid="yoota" creationdate="20170606T094713Z">
         <seg>画像、サウンド、ビデオをブログ記事に加えることで、コンテンツに特色や多様性が加わるだけでなく、さまざまな能力や好みを持つ人たちや多様な環境にいる人たちに、より多くの選択肢を提供できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The additional test selector in the following example matches tab panels with the correct role, but with an &lt;g3&gt;aria-labelledby&lt;/g3&gt; value not commencing with “tab.” This fuzzy matching is possible using the &lt;g4&gt;starts with&lt;/g4&gt; &lt;g5&gt;^&lt;/g5&gt; modifier in the attribute selector, &lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014524Z" creationid="rikiha" creationdate="20170925T014524Z">
+        <seg>次の例で追加するテストセレクタは、正しいロールが設定されたタブパネルにはマッチしますが、「tab」から始まらないaria-labelledby値にはマッチしません。このファジーマッチングは、属性セレクタ内で^（～で始まる）修飾子を使用することで可能になります（[aria-labelledby^="tab"]）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23607,6 +23959,14 @@ conceptはそのままコンセプトでもいいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The following code example sets out a tab interface as marked up in its initial state.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014436Z" creationid="rikiha" creationdate="20170925T014436Z">
+        <seg>次のコード例は、マークアップされたタブインターフェイスの初期状態を示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) OK</note>
@@ -23713,6 +24073,14 @@ there’s no need はどこにもないというような強い印象なので�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101120Z" creationid="okamoto_jun" creationdate="20170627T101120Z">
         <seg>インクルーシブデザイナーはこうした問題を予測できます。経験上、人は同じでないこと、しかもその違いも実にさまざまであることを知っているからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The inherent logic of CSS selectors becomes clear when you reimagine selectors in JavaScript syntax.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014355Z" creationid="rikiha" creationdate="20170925T014355Z">
+        <seg>CSSセレクタの固有のロジックは、JavaScript構文のセレクタで考え直すと分かりやすいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24310,6 +24678,14 @@ audit をどう訳すか。あまり検査とは言わないようにも思い�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The red outline should remain, but only as an indicator of which elements the developer should be inspecting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014600Z" creationid="rikiha" creationdate="20170925T014600Z">
+        <seg>赤枠はページに表示させますが、それは調査が必要な要素だと開発者に示すためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) remove it altogether なので、使わないというより取り除くということなのかなと。
 
 (太田) OK</note>
@@ -24437,6 +24813,14 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100928Z" creationid="okamoto_jun" creationdate="20170627T100928Z">
         <seg>コードを書くデザイナーのボタンデザインでは、こうしたユーザーは置き去りになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second is essentially a negated version of the first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014515Z" creationid="rikiha" creationdate="20170925T014515Z">
+        <seg>基本的に、2つ目は1つ目の否定バージョンです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24882,6 +25266,14 @@ explicitはlabelではなくactionについているような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Then we could ensure the correct &lt;g1&gt;structure of markup&lt;/g1&gt; as we write it as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014340Z" creationid="rikiha" creationdate="20170925T014340Z">
+        <seg>そうすれば、マークアップの構造が正しいことを確認しながら書き進めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 実際のtoggle()メソッド→toggle()メソッドの実体としました。
 
@@ -24973,6 +25365,14 @@ JAWS日本語版では「ページ内リンク」らしいです。
         <seg>There are a couple of issues.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170812T161551Z" creationid="rikiha" creationdate="20170812T161551Z">
+        <seg>ただし、いくつか問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are a couple of small issues here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014610Z" creationid="rikiha" creationdate="20170925T014610Z">
         <seg>ただし、いくつか問題があります。</seg>
       </tuv>
     </tu>
@@ -26084,6 +26484,14 @@ in the testing はテストの最中くらいのニュアンスかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This is our opportunity to stop that from happening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014441Z" creationid="rikiha" creationdate="20170925T014441Z">
+        <seg>これは、そうした問題が起こるのを防ぐチャンスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原)【要検討】このThisはなんだろう？
 
 This is probably 
@@ -26464,6 +26872,14 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This requires two more test selectors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014514Z" creationid="rikiha" creationdate="20170925T014514Z">
+        <seg>これを確認するには、2つのテストセレクタが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ユーザーは気にしないでしょう、と微妙に調整しました。</note>
       <tuv lang="EN-US">
         <seg>This results in a ragged right-hand side to your paragraphs, but users won’t care.</seg>
@@ -26528,6 +26944,14 @@ This serves as an important reminderは直訳すると「このことは重要�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This should be the only element focusable by the user with the &lt;g7&gt;Tab&lt;/g7&gt; key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014510Z" creationid="rikiha" creationdate="20170925T014510Z">
+        <seg>これが、ユーザーがTabキーでフォーカスできる唯一の要素でなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 ボタンを押して動作させるためにSpaceかEnterを押せばよいという話なので、「機能するはず」→「動作するはず」としました。
 冒頭の「これは」をとり、「ボタンが」を補いました。
@@ -26567,6 +26991,22 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170714T100026Z" creationid="yoota" creationdate="20170714T065911Z">
         <seg>その後、そのスプレッドシートはクライアントのプロジェクトマネージャーに手渡され、開発者に渡すバグチケットが作られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This test selector follows similar logic to the previous test.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014504Z" creationid="rikiha" creationdate="20170925T014504Z">
+        <seg>このテストセレクタは前のテストと同様のロジックに従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This test selector uses the &lt;g5&gt;&lt;g6&gt;adjacent sibling combinator&lt;/g6&gt;&lt;/g5&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;10&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt; (or next-sibling selector) &lt;g10&gt;+&lt;/g10&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014537Z" creationid="rikiha" creationdate="20170925T014537Z">
+        <seg>このテストセレクタは、隣接セレクタ（脚注201）の+を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27622,6 +28062,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Typically, CSS selectors are used to match expected patterns but, by the same token, we could use selectors to target broken or malformed patterns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014403Z" creationid="rikiha" creationdate="20170925T014403Z">
+        <seg>CSSのセレクタは通常、予期されるパターンにマッチさせるのに使われますが、同様に、壊れた（または不正な形式の）パターンをターゲットにすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 微調整
 
 (太田) 微調整</note>
@@ -28341,6 +28789,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>We can even detect incorrect patterns used to formulate the &lt;g1&gt;tabpanel&lt;/g1&gt; &lt;g2&gt;aria-labelledby&lt;/g2&gt; attribute values.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014521Z" creationid="rikiha" creationdate="20170925T014521Z">
+        <seg>tabpanel aria-labelledby属性値の定式化に使用される誤ったパターンの検出も可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 定義リスト警察。
 「重要な情報」いったん保留。
@@ -28438,6 +28894,14 @@ richは潤沢くらい?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170912T084325Z" creationid="rikiha" creationdate="20170909T223225Z">
         <seg>さらに、検索エンジンの検索結果など、自身のサイト&lt;g1&gt;以外&lt;/g1&gt;のインターフェイスにも、アクセシブルな情報を潤沢に含めることができるようにしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We know that the tab panel set should appear after the list, so we can use the &lt;g2&gt;&lt;g3&gt;general sibling combinator&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;9&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; &lt;g7&gt;~&lt;/g7&gt; in this test to ask if there are any &lt;g8&gt;&lt;div&gt;&lt;/g8&gt;s following the &lt;g9&gt;tablist&lt;/g9&gt; that are &lt;g10&gt;not&lt;/g10&gt; &lt;g11&gt;tabpanel&lt;/g11&gt;s.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014530Z" creationid="rikiha" creationdate="20170925T014530Z">
+        <seg>タブパネルセットはリストの直後に出現すべきだと分かっているので、このテスト内で間接セレクタの~を使い、tablistの後にtabpanelではない&lt;div&gt;がないか調べます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28732,6 +29196,14 @@ wed は結婚する、結びつく、こだわる、固執するというよう�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170628T041158Z" creationid="okamoto_jun" creationdate="20170627T081431Z">
         <seg>それはそうと、彼はいったい何を&lt;g1&gt;デザイン&lt;/g1&gt;しているの？」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What if we could write similar tests for declarative languages like HTML?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014339Z" creationid="rikiha" creationdate="20170925T014339Z">
+        <seg>では、HTMLのような宣言型言語用に同様のテストを書けたらどうでしょう？</seg>
       </tuv>
     </tu>
     <tu>
@@ -29249,6 +29721,14 @@ useが命令形なので末尾「しましょう」としました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Where JavaScript has added the tab interface semantics, the list semantics become redundant, which is why we suppress them with &lt;g1&gt;role="presentation"&lt;/g1&gt; on each &lt;g2&gt;&lt;li&gt;&lt;/g2&gt; element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014503Z" creationid="rikiha" creationdate="20170925T014503Z">
+        <seg>JavaScriptがタブインターフェイスのセマンティクスを加えた場合は、リストのセマンティクスが冗長になるので、各&lt;li&gt;要素のrole="presentation"でそれを抑制します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 enhanceを拡張としました。
 
@@ -29353,6 +29833,22 @@ integratedは統合された?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170913T102307Z" creationid="rikiha" creationdate="20170909T223431Z">
         <seg>可能な限り、&lt;g1&gt;&lt;g2&gt;XHR&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注161）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を利用してリストを再表示することを心がけるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where there are errors for successive sibling elements (like the erroneous &lt;g1&gt;&lt;li&gt;&lt;/g1&gt; replacements the last example is designed to detect) space becomes an issue too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014556Z" creationid="rikiha" creationdate="20170925T014556Z">
+        <seg>連続する兄弟要素のエラー（前の例が検出する&lt;li&gt;の順序の誤りなど）がある場合は、スペースも問題になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where these are present, an error style could be elicited to highlight the problem.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014404Z" creationid="rikiha" creationdate="20170925T014404Z">
+        <seg>そうした壊れたパターンが存在する場合、エラースタイルを表示させて問題を目立たせることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29572,6 +30068,14 @@ descriptive説明的でいいのか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T102004Z" creationid="okamoto_jun" creationdate="20170627T102004Z">
         <seg>インターフェイスデザインの課題に対し、インクルーシブな解決策は無数にありますが、経験を積めば、自然と適切な解決策を選べるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With relatively complex patterns like tab interfaces, it’s easy to slip up and miss out or badly form part of the structure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014439Z" creationid="rikiha" creationdate="20170925T014439Z">
+        <seg>タブインターフェイスのように比較的複雑なパターンの場合、構造の一部を見落として間違えたり、不適切に形成してしまうことがよくあります。</seg>
       </tuv>
     </tu>
     <tu>
