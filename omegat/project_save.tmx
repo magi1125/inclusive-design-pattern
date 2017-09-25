@@ -9110,11 +9110,13 @@ issueは文字どおり「イシュー」と思われますが、いったん「
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>Conventionally, registration forms are counterparts to login forms provided for users who already have accounts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170924T042340Z" creationid="bakera" creationdate="20170924T042340Z">
-        <seg>一般的に、登録フォームは、アカウントを保有するユーザー向けのログインフォームと対をなします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T082129Z" creationid="bakera" creationdate="20170924T042340Z">
+        <seg>一般的に登録フォームは、既にアカウントを持っているユーザーのためのログインフォームと対になって使われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13656,11 +13658,14 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。
+</note>
       <tuv lang="EN-US">
         <seg>In fact, it’s usually the login form that you would encounter first, with an option to register instead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170924T042342Z" creationid="bakera" creationdate="20170924T042342Z">
-        <seg>たいていログインフォームが最初に表示され、オプションで登録フォームにアクセスできるようになっています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T082611Z" creationid="bakera" creationdate="20170924T042342Z">
+        <seg>たいていログインフォームが最初に表示され、登録フォームにアクセスするオプションが提示されます。</seg>
       </tuv>
     </tu>
     <tu>
