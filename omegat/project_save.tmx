@@ -20722,11 +20722,13 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>Screen reader operators traversing the page from top to bottom methodically will not realize the option to register is present unless they go past the login form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102321Z" creationid="bakera" creationdate="20170925T102321Z">
-        <seg>スクリーンリーダーを使ってページを上から下に順に読むユーザーは、ログインフォームを通過しない限り登録オプションの存在を知ることができません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T115239Z" creationid="bakera" creationdate="20170925T102321Z">
+        <seg>スクリーンリーダーを使ってページを上から下に順に読むユーザーは、ログインフォームを通り過ぎない限り、登録オプションの存在を知ることができません。</seg>
       </tuv>
     </tu>
     <tu>
