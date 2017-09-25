@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5298,6 +5298,7 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>A Registration Form</seg>
       </tuv>
@@ -17492,6 +17493,9 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+forayは襲撃する、のような意味でHP。
+</note>
       <tuv lang="EN-US">
         <seg>My first forays into web design at the turn of the century revolved around images, image maps to link parts of those images to other pages of images, and nested &lt;g1&gt;&lt;table&gt;&lt;/g1&gt; elements to hold the whole debacle together.</seg>
       </tuv>
