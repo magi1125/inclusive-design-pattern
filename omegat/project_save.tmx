@@ -7741,11 +7741,13 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+補いつつ調整。</note>
       <tuv lang="EN-US">
         <seg>Before diving into constructing the registration form itself, it’s worth acknowledging the context in which we are likely to find it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170924T042338Z" creationid="bakera" creationdate="20170924T042338Z">
-        <seg>登録フォームを構築し始める前に、そのコンテキストを理解しておくことが大切です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T081344Z" creationid="bakera" creationdate="20170924T042338Z">
+        <seg>登録フォーム自体を構築する前に、ユーザーがそのフォームに遭遇する際のコンテキストを理解しておくことが大切です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9340,11 +9342,15 @@ they are hyperlinks は当たり前のことを繰り返しているように見
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+can’t be helped は避けられない、仕方ない。
+ここのandは「そして」的なものかも。
+あとでもう少し検討したい。</note>
       <tuv lang="EN-US">
         <seg>Despite the virtues of modularity, it can’t be helped that some patterns are informed by context and are better designed where context is considered first.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170924T042339Z" creationid="bakera" creationdate="20170924T042339Z">
-        <seg>モジュール性という利点はあるものの、パターンの中にはコンテキストによって決まるものや、コンテキストを一番に考慮した場合に最良のデザインとなるものがあるからです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T081921Z" creationid="bakera" creationdate="20170924T042339Z">
+        <seg>モジュール化することにはメリットがあります。しかし、パターンによってはコンテキストによって決まるものがあり、コンテキストを最初に考慮することでより良いデザインになる、ということが避けられない場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24965,8 +24971,8 @@ audit をどう訳すか。あまり検査とは言わないようにも思い�
       <tuv lang="EN-US">
         <seg>The relationship between standards and usability is where we find inclusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T081210Z" creationid="bakera" creationdate="20170924T042335Z">
-        <seg>標準とユーザビリティとの関係の中に、インクルージョンを見出すことができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T081236Z" creationid="bakera" creationdate="20170924T042335Z">
+        <seg>標準とユーザビリティとの関係の中で、インクルージョンを見出すことができます。</seg>
       </tuv>
     </tu>
     <tu>
