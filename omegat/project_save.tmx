@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17392,11 +17392,17 @@ Lots of とplentyはてきとうに別の言葉を当てはめてみました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ここのassumptionsは決めつけるくらいかと。
+dangerous territory はどうするか。危険な考え、としてみました。
+後半、かなり意訳気味に調整。まあこういうことかと。
+
+</note>
       <tuv lang="EN-US">
         <seg>Making assumptions about the way visitors enter and move through your app is dangerous territory anyway, but for certain users the usability here is even more aggravating.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102320Z" creationid="bakera" creationdate="20170925T102320Z">
-        <seg>ユーザーがアプリケーション内にどのように入って移動するかを仮定するのは何にせよ危険な領域ですが、特定のユーザーにとっては、ここでのユーザビリティがさらなるストレスの原因となります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T114650Z" creationid="bakera" creationdate="20170925T102320Z">
+        <seg>ユーザーがどのようにアプリケーションに入り、どのように移動するか決めつけるのは危険な考えですが、それはさておき、ここには特定のユーザーをいらだたせるユーザビリティの問題があります。</seg>
       </tuv>
     </tu>
     <tu>
