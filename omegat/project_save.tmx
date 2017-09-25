@@ -15727,8 +15727,9 @@ C・Googleなどがクロールする対象である、Webサイトの静的ペ�
     <tu>
       <note>(太田)
 It’s a mixed bag がスルーされていますね。
-「いろいろあります」くらいでしょうか。
-ダッシュを生かしつつ調整。</note>
+「いろいろあります」くらいでしょうか。あとで検討。
+ダッシュを生かしつつ調整。
+</note>
       <tuv lang="EN-US">
         <seg>It’s a mixed bag: form elements piggyback OS functionality and are keyboard and screen reader accessible as standard — at least when marked up correctly.</seg>
       </tuv>
@@ -21590,6 +21591,17 @@ WCAG日本語訳で「コンテキスト」という言葉を使っているの�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170810T015836Z" creationid="yoota" creationdate="20170808T095451Z">
         <seg>その際、見出しとリンクがコンテキストから外れても意味がわかるように、単独で理解できるようなラベルをつける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+元訳ヌケ?
+</note>
+      <tuv lang="EN-US">
+        <seg>So that’s good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T060253Z" creationid="bakera" creationdate="20170925T060253Z">
+        <seg>ここまではよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
