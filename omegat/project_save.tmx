@@ -17494,13 +17494,19 @@ IEはどのバージョンのことを言っているのか要確認。</note>
     </tu>
     <tu>
       <note>(太田)
-forayは襲撃する、のような意味でHP。
+HPですねぇ。
+forayは襲撃する、のような意味。
+pages of imagesは画像で作られたページくらいか。
+image maps to link parts of those images to other pages of imagesで、「画像の一部を画像で作られた他のページにリンクさせるイメージマップ」
+最後のto holdは全体にかかっているのでは。
+調整してみました。
+
 </note>
       <tuv lang="EN-US">
         <seg>My first forays into web design at the turn of the century revolved around images, image maps to link parts of those images to other pages of images, and nested &lt;g1&gt;&lt;table&gt;&lt;/g1&gt; elements to hold the whole debacle together.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170924T042257Z" creationid="bakera" creationdate="20170924T042257Z">
-        <seg>私がWebデザインの世界に入った世紀の変わり目の頃、主な仕事は画像や、画像の一部分を他のページにリンクするイメージマップ、総崩れを回避するためのネストされた&lt;table&gt;要素にまつわることでした。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T042723Z" creationid="bakera" creationdate="20170924T042257Z">
+        <seg>私がWebデザインの世界に首を突っ込んだ世紀の変わり目の頃、議論の中心となっていたのは、画像を使ったり、イメージマップで画像の一部から画像ページにリンクしたり、入れ子の&lt;g1&gt;&lt;table&gt;&lt;/g1&gt;要素を使ったりして、全体が崩れないように固めることでした。</seg>
       </tuv>
     </tu>
     <tu>
