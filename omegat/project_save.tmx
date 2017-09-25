@@ -4788,6 +4788,14 @@ font-size: 16px;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A declaration block from Chrome dev tools showing the error declaration with a line-through style.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020321Z" creationid="rikiha" creationdate="20170925T020321Z">
+        <seg>Chrome開発ツールの宣言ブロック。エラー宣言が打ち消し線スタイルで表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) このlanguageは言葉というより言語かなと。
 
 (太田) 文末「伝えられる」としました。
@@ -4957,6 +4965,14 @@ a little ではなく little なので、これは「ほとんどない」とい
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170524T013019Z" creationid="yoota" creationdate="20170522T100930Z">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;ドキュメント構造内で階層が欠けていると、ドキュメントの階層を思い描こうとしているユーザーは混乱します。&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Note that it’s no longer necessary to encapsulate the error in single quotation marks as a string.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020354Z" creationid="rikiha" creationdate="20170925T020354Z">
+        <seg>エラーを文字列としてシングルクォーテーションで囲む必要はもうありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5357,6 +5373,14 @@ A common tactic はなにがcommonなのか。
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170910T111442Z" creationid="yoota" creationdate="20170908T021805Z">
         <seg>よく使われるのは、以下のように&lt;g1&gt;site:&lt;/g1&gt;という接頭辞をつけることで、選んだWebサイトに限定して検索するという裏技です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A declaration block from Chrome dev tools showing the error declaration with a line-through style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020320Z" creationid="rikiha" creationdate="20170925T020320Z">
+        <seg>Chrome開発ツールの宣言ブロック。エラー宣言が打ち消し線スタイルで表示されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7184,6 +7208,14 @@ https://www.noupe.com/design/10-beginner-tips-for-unique-product-photography-790
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the pattern evolves over time and between colleagues, you can make sure its integrity remains intact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020515Z" creationid="rikiha" creationdate="20170925T020515Z">
+        <seg>時間と共に、そして同僚や仲間たちの手を経るなどして、パターンが進化していく中で、完全性が保たれていることを確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the third designer is only too aware, there are few direct translations between graphic design and web interface design.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100240Z" creationid="okamoto_jun" creationdate="20170627T100240Z">
@@ -7322,6 +7354,14 @@ hone は砥石でとぐような意味。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T033257Z" creationid="yoota" creationdate="20170719T092750Z">
         <seg>ご覧のとおり、&lt;g1&gt;HTMLButtonElement&lt;/g1&gt;をベースにしているため、tabindex属性とrole属性だけでなく、keydownイベントをディスパッチする見苦しいスクリプトも書かずにすみました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you develop your own library of inclusive design patterns, I recommend you try writing some tests like these.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020514Z" creationid="rikiha" creationdate="20170925T020514Z">
+        <seg>インクルーシブデザインのパターンの自分なりのライブラリを構築する際は、ここで紹介したようなテストをいくつか書いてみることをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7565,6 +7605,14 @@ https://ja.wikipedia.org/wiki/精密科学
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170906T012203Z" creationid="rikiha" creationdate="20170905T003733Z">
         <seg>なお、これは精密科学のような裏づけがある理論ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be aware that this style will be honored by any declaration using an unrecognized property.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020413Z" creationid="rikiha" creationdate="20170925T020413Z">
+        <seg>このスタイルは大部分の認められていない宣言に適用される点に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8153,6 +8201,14 @@ wordingはそのまま「ワーディング」もあり?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170815T035902Z" creationid="rikiha" creationdate="20170811T133441Z">
         <seg>この追加テキストがなかったら、ボタンは視覚的にはまったく見えなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But writing your own tests for your own tailored patterns and structures means you can be more granular and specific about their expected form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020507Z" creationid="rikiha" creationdate="20170925T020507Z">
+        <seg>しかし、自分なりにカスタマイズしたパターンや構造のために独自のテストを書くというのは、期待される形式に対してよりきめの細かい具体的なテストが可能になることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10580,6 +10636,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, the relationship between the tabs and their panels can be achieved using &lt;g1&gt;aria-controls&lt;/g1&gt; rather than &lt;g2&gt;aria-labelledby&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020511Z" creationid="rikiha" creationdate="20170925T020511Z">
+        <seg>たとえば、タブとパネルの関係をaria-labelledbyではなくaria-controls を使用して構築することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>For instance, your &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; element should be set with an appropriate &lt;g2&gt;max-width&lt;/g2&gt;.</seg>
@@ -10598,6 +10662,14 @@ OK</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170830T143833Z" creationid="rikiha" creationdate="20170828T141552Z">
         <seg>ほとんどのマーケターにとっては、調査はそこで終わりではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For my money, this isn’t a deal-breaker because the capitalized &lt;g1&gt;ERROR&lt;/g1&gt; property name picks these declarations out quite clearly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020342Z" creationid="rikiha" creationdate="20170925T020342Z">
+        <seg>私の考えでは、それはこの方法を断念する理由にはなりません。大文字のプロパティ名ERRORは、これらの宣言をかなり明確に際立たせてくれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11646,6 +11718,22 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170730T144345Z" creationid="rikiha" creationdate="20170730T124412Z">
         <seg>しかし、ナビゲーションランドマークにはキーボードショートカットを使って直接アクセスできるため、それ単体で完結していなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, thanks to the extension’s omission of the &lt;g1&gt;.has-ignorable-error&lt;/g1&gt; class, the most common unrecognized properties — browser prefixes — are not styled this way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020414Z" creationid="rikiha" creationdate="20170925T020414Z">
+        <seg>ただし、この拡張機能は.has-ignorable-errorクラスを除外しているので、最も一般的な認められていないプロパティ（ブラウザプレフィックス）にはこのスタイルは適用されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the &lt;g2&gt;.test.css&lt;/g2&gt; files certainly don’t want to be included in production.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020455Z" creationid="rikiha" creationdate="20170925T020455Z">
+        <seg>ただし、.test.cssファイルは絶対にプロダクションには含めません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12862,6 +12950,14 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170913T022357Z" creationid="rikiha" creationdate="20170909T223312Z">
         <seg>9章「商品リスト」に引き続き、商品を扱っていると想定するなら、ウィジェットは以下のようになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementations of tab interfaces can differ.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020508Z" creationid="rikiha" creationdate="20170925T020508Z">
+        <seg>タブインターフェイスの実装はさまざまです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17753,10 +17849,26 @@ a handful ofは片手でつかめる程度、の意味ですが、前にメニ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nonetheless, with the help of &lt;g2&gt;&lt;g3&gt;Dan Smith&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;14&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, I can provide a &lt;g7&gt;&lt;g8&gt;small Chrome extension&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;15&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; for removing this line-through style and replacing it with a more error-like white-on-red appearance:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020343Z" creationid="rikiha" creationdate="20170925T020343Z">
+        <seg>とは言え、ダン・スミス（Dan Smith）（脚注205）の助けを借りれば、ちょっとしたChrome拡張機能（脚注206）を提供して、この打ち消し線スタイルを取り除き、赤地に白文字という、もっとエラーらしい見た目に置き換えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nonetheless, you’re left briefly wondering what I actually do to pay the bills.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T081002Z" creationid="okamoto_jun" creationdate="20170627T081002Z">
         <seg>それでもあなたはしばらくの間、私の仕事について思いを巡らせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not One-Size-Fits-All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020500Z" creationid="rikiha" creationdate="20170925T020500Z">
+        <seg>汎用的ではない</seg>
       </tuv>
     </tu>
     <tu>
@@ -18855,6 +18967,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Of course, none of this can technically &lt;g1&gt;fail&lt;/g1&gt; a build in its current form; it just highlights errors visually, for the front-end developer to see.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020452Z" creationid="rikiha" creationdate="20170925T020452Z">
+        <seg>もちろん、現在の形式で、技術的にこれらが原因でビルドが失敗することはありません。フロントエンド開発者に見えるよう、エラーを視覚的に際立たせているだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Of course, this catches the complete absence of &lt;g1&gt;aria-labelledby&lt;/g1&gt; as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170925T014526Z" creationid="rikiha" creationdate="20170925T014526Z">
@@ -19533,6 +19653,14 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Our tab interface pattern should now have a &lt;g1&gt;tab-interface.css&lt;/g1&gt; file and, in an effort to establish a naming convention, an accompanying &lt;g2&gt;tab-interface.test.css&lt;/g2&gt; file — something like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020419Z" creationid="rikiha" creationdate="20170925T020419Z">
+        <seg>これで、タブインターフェイスパターンは、tab-interface.CSSファイルと、命名規則を定めるために、付随のtab-interface.test.cssファイルが、以下の例のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)　曖昧→あいまい
 
 (太田) それは→その呼び方は
@@ -19900,6 +20028,14 @@ https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%A4%E3%83%B3%E3%8
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T085611Z" creationid="yoota" creationdate="20170515T085542Z">
         <seg>ユーザーに目立たない複数のオプションを提供することを、&lt;g8&gt;マルチモダリティ&lt;/g8&gt;と呼ぶことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Putting It Together</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020418Z" creationid="rikiha" creationdate="20170925T020418Z">
+        <seg>1つにまとめる</seg>
       </tuv>
     </tu>
     <tu>
@@ -23800,6 +23936,14 @@ jaw は動詞だとスラングで Impudent or abusive talk.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The difference between this test-driven markup approach and standard automated accessibility testing is clear: whether using a CSS-based bookmarklet like &lt;g1&gt;&lt;g2&gt;a11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;16&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; or an advanced API like &lt;g6&gt;&lt;g7&gt;tenon.io&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;17&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;, generic errors are disclosed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020503Z" creationid="rikiha" creationdate="20170925T020503Z">
+        <seg>テスト駆動のマークアップ方法と標準的な自動化されたアクセシビリティテストの違いは明らかです。a11y.css（脚注207）などのCSSベースのブックマークレットを使用しても、tenon.io（脚注208）などの高度なAPIを使用しても、一般的なエラーが明らかになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「それこそ桁がいくつも違ってきます。」はわかりますが、原文の "!" を生かすべく「それこそ桁違いです!」としてみました。
 
 (伊原) LGTM
@@ -23852,6 +23996,14 @@ breakは単に「離れる」的なことだと思いますが、いったん元
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170521T130748Z" creationid="yoota" creationdate="20170512T093542Z">
         <seg>この要素は、そのページの実際のメインコンテンツは何であるかについて考えるのに役立ちます。また、後でスクリーンリーダーユーザーがナビゲーション手段として利用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The error declaration has a red box behind it and white text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020344Z" creationid="rikiha" creationdate="20170925T020344Z">
+        <seg>選択されたフィルターは青の枠で囲まれている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25048,6 +25200,14 @@ sound semantic structureとは。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170817T140235Z" creationid="rikiha" creationdate="20170815T160739Z">
         <seg>ここで紹介する方法は、他にもメディアプレイヤーの再生・停止ボタンなど、あらゆるタイプのアイコンボタンに使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tests written here ensure that &lt;g3&gt;my&lt;/g3&gt; implementation — my specific pattern — is structured in the prescribed way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020512Z" creationid="rikiha" creationdate="20170925T020512Z">
+        <seg>本章で書いたテストは、私の実装（私の特定のパターン）が所定の構造になっていることを確認するためのものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27082,6 +27242,14 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This testing is important, especially for WCAG compliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020504Z" creationid="rikiha" creationdate="20170925T020504Z">
+        <seg>このテストは、特にWCAG準拠にとって重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 成功基準→達成基準
 冒頭 「今回は、」は少し違和感があります。This time は無理に訳さなくてもいいかも。
@@ -28229,6 +28397,14 @@ not cut it はうまくできない、くらいの意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately, like overriden declarations, unrecognized declarations still take a line-through style as illustrated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020324Z" creationid="rikiha" creationdate="20170925T020324Z">
+        <seg>残念ながら、オーバーライドされた宣言と同様に、認められていない宣言にも図に示したように打ち消し線のスタイルが適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ちょっと調整。
 
 (岡本)　癖→くせ
@@ -28561,6 +28737,14 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170905T152614Z" creationid="rikiha" creationdate="20170905T003714Z">
         <seg>遅延読み込みを使うと、&lt;g3&gt;&lt;img/&gt;&lt;/g3&gt;要素がビューポートに入るまで画像リソースはダウンロードされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the &lt;g3&gt;.test.css&lt;/g3&gt; convention helps when it comes to omit them from being copied to your production build folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020459Z" creationid="rikiha" creationdate="20170925T020459Z">
+        <seg>.test.css規則を使用すれば、プロダクションビルドのフォルダへコピーする際に除外しやすくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29818,6 +30002,22 @@ enhanceを拡張としました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170913T095912Z" creationid="rikiha" creationdate="20170909T223423Z">
         <seg>ユーザーがJavaScriptを利用できる場合は、可能な限り体験を拡張すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where additional JavaScript and CSS hooks (&lt;g4&gt;data&lt;/g4&gt; and &lt;g5&gt;class&lt;/g5&gt; attributes) should be present, this is also an opportunity to test for them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020513Z" creationid="rikiha" creationdate="20170925T020513Z">
+        <seg>追加のJavaScriptフックやCSSフック（data属性やclass属性）が必要な場合には、それらをテストする機会でもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where an error does emerge, you will have taken the opportunity — via the error message — to explain your decision-making and how the structure you’ve chosen makes the markup inclusive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020519Z" creationid="rikiha" creationdate="20170925T020519Z">
+        <seg>エラーが生じた場合は、その機会を利用し（そのエラーメッセージを用いて）、自分の意思決定を明確にし、自分の選択した構造がどのようにマークアップをインクルーシブにするかを明らかにさせましょう。</seg>
       </tuv>
     </tu>
     <tu>
