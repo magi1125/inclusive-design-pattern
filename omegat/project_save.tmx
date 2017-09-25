@@ -9167,6 +9167,14 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on the browser, this either means no more graying out, or a grayed-out style for &lt;g1&gt;all&lt;/g1&gt; &lt;g2&gt;ERROR&lt;/g2&gt; declarations: a slight improvement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020035Z" creationid="rikiha" creationdate="20170925T020035Z">
+        <seg>ブラウザによって異なりますが、これはグレーアウトされなくなる、またはすべてのERROR宣言がグレーアウトスタイルになることを意味し、問題が少し改善されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) OK
@@ -17367,6 +17375,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>My favorite part is that the Chrome browser’s way of highlighting unrecognized properties is to prefix them with a little warning sign (“⚠”).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020036Z" creationid="rikiha" creationdate="20170925T020036Z">
+        <seg>私が最も気に入っている点は、Chromeブラウザでは、認められていないプロパティの前に小さい警告サイン（⚠）が付いて強調されることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ポイント先➞遷移先としました。
 
 (太田) the page の the は訳出したほうがいいかも。
@@ -20457,6 +20473,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Second, as an unrecognized property it is not entered into specificity calculations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020033Z" creationid="rikiha" creationdate="20170925T020033Z">
+        <seg>さらに、認められていないプロパティは特異性の計算から除外されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注?
 
 (伊原) 要検討というか、上手い訳が思いつかず。「セクション分けして目次を置けばいいところを、ドロップダウンメニューがあることで、IAが無駄にページを分けてしまう」ということがいいたいのだとは思います。が、後ろの段落に上手く繋がらない気もする。
@@ -22358,6 +22382,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That is, it looks misleadingly as if all but the last error is not applicable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020018Z" creationid="rikiha" creationdate="20170925T020018Z">
+        <seg>つまり、最後のエラー以外は該当しないかのような誤解を招きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM
 
 (岡本)　分かる→わかる
@@ -23074,6 +23106,14 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170430T231127Z" creationid="yoota" creationdate="20170418T080813Z">
         <seg>ドキュメント全体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ERROR Property</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020020Z" creationid="rikiha" creationdate="20170925T020020Z">
+        <seg>エラープロパティ</seg>
       </tuv>
     </tu>
     <tu>
@@ -23901,6 +23941,22 @@ http://www.unicode.org/charts/PDF/U2600.pdf
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The first is that pseudo-content becomes entirely redundant, along with the &lt;g2&gt;display:none;&lt;/g2&gt; property, reducing an individual CSS error to this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020026Z" creationid="rikiha" creationdate="20170925T020026Z">
+        <seg>まず、display:none;プロパティと共にpseudo-contentがもっぱら冗長になり、各CSSエラーが次のように減ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first is that when two errors apply to the same element, all but the last in the cascade will be grayed out (with a line-through style) in the CSS inspector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020013Z" creationid="rikiha" creationdate="20170925T020013Z">
+        <seg>まず、同じ要素に2つのエラーがある場合、CSSインスペクタ内では、最後のエラー以外はすべてグレーアウト（打ち消し線が引かれた状態）になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 conceptはそのままコンセプトでもいいかも。
 
@@ -24094,6 +24150,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170904T101932Z" creationid="yoota" creationdate="20170904T101932Z">
         <seg>画像と広告の親密な関係については、ここで改めて述べるまでもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The is no such thing as the &lt;g1&gt;ERROR&lt;/g1&gt; property in CSS and there are no plans for one — let me make that clear right away!But there are a few benefits to using an unrecognized CSS property to log errors to the CSS inspector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020024Z" creationid="rikiha" creationdate="20170925T020024Z">
+        <seg>はっきり言いますが、CSSにはERRORプロパティなどというものはなく、それが追加される予定もありません。しかし、認められていないCSSプロパティを使ってCSSインスペクタにエラーをログすることには、いくつかのメリットあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24373,6 +24437,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170919T094054Z" creationid="rikiha" creationdate="20170909T223937Z">
         <seg>その場合、以下のような順で動作することになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The other is that &lt;g1&gt;display:none;&lt;/g1&gt; is supplemental to the error message — unnecessary noise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020019Z" creationid="rikiha" creationdate="20170925T020019Z">
+        <seg>2つ目の問題は、display:none;はエラーメッセージの補足、すなわち不必要なノイズだという点です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28740,6 +28812,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170922T073355Z" creationid="rikiha" creationdate="20170909T223914Z">
         <seg>&lt;g6&gt;&lt;h3&gt;&lt;/g6&gt;にフォーカスを移すのは、ユーザーを適切なコンテキストに導き、読み上げをはじめさせるときだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We automatically co-opt this sign to help highlight our errors, producing something like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T020037Z" creationid="rikiha" creationdate="20170925T020037Z">
+        <seg>このサインを自動的に取り入れてエラーを強調すると、次のような感じになります。</seg>
       </tuv>
     </tu>
     <tu>
