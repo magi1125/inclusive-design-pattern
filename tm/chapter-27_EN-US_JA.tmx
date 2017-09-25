@@ -53,10 +53,10 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>var expect = require('chai').expect; 
-var add = require('../lib/add.js'); 
+        <seg>var expect = require('chai').expect;
+var add = require('../lib/add.js');
 describe('Add module', function() {
-　describe('The add() function', function() { 
+　describe('The add() function', function() {
 　　it('should give 4 when adding 3 to 1', function() {
 　　　add(3, 1).should.equal(4);
 　　});
@@ -64,10 +64,10 @@ describe('Add module', function() {
 });</seg>
       </tuv>
       <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
-        <seg>var expect = require('chai').expect; 
-var add = require('../lib/add.js'); 
+        <seg>var expect = require('chai').expect;
+var add = require('../lib/add.js');
 describe('Add module', function() {
-　describe('The add() function', function() { 
+　describe('The add() function', function() {
 　　it('should give 4 when adding 3 to 1', function() {
 　　　add(3, 1).should.equal(4);
 　　});
@@ -230,14 +230,14 @@ describe('Add module', function() {
     <tu>
       <tuv xml:lang="EN-US">
         <seg>[undesired pattern] {
-　/* error style, such as 
+　/* error style, such as
 　outline: 0.5em solid red;
 　*/
 }</seg>
       </tuv>
       <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
         <seg>[undesired pattern] {
-　/* 以下のようなエラースタイル 
+　/* 以下のようなエラースタイル
 　outline: 0.5em solid red;
 　*/
 }</seg>
@@ -379,12 +379,12 @@ describe('Add module', function() {
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>.tab-interface ul:not([role="tablist"]) { 
+        <seg>.tab-interface ul:not([role="tablist"]) {
 　outline: 0.5em solid red;
 }</seg>
       </tuv>
       <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
-        <seg>.tab-interface ul:not([role="tablist"]) { 
+        <seg>.tab-interface ul:not([role="tablist"]) {
 　outline: 0.5em solid red;
 }</seg>
       </tuv>
@@ -431,13 +431,13 @@ describe('Add module', function() {
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>.tab-interface ul:not([role="tablist"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
 [role="tablist"] a:not([role="tab"]) {
 　outline: 0.5em solid red;
 }</seg>
       </tuv>
       <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
-        <seg>.tab-interface ul:not([role="tablist"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
 [role="tablist"] a:not([role="tab"]) {
 　outline: 0.5em solid red;
 }</seg>
@@ -461,16 +461,16 @@ describe('Add module', function() {
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
 [role="tablist"] li:not([role="presentation"])
 {
 　outline: 0.5em solid red;
 }</seg>
       </tuv>
       <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
-        <seg>.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
 [role="tablist"] li:not([role="presentation"])
 {
 　outline: 0.5em solid red;
@@ -519,9 +519,9 @@ describe('Add module', function() {
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
-[role="tablist"] li:not([role="presentation"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
+[role="tablist"] li:not([role="presentation"]),
 [role="tablist"] a[aria-selected][tabindex="-1"],
 [role="tablist"] a:not([aria-selected]):not([tabindex="-1"])
 {
@@ -529,9 +529,9 @@ describe('Add module', function() {
 }</seg>
       </tuv>
       <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
-        <seg>.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
-[role="tablist"] li:not([role="presentation"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
+[role="tablist"] li:not([role="presentation"]),
 [role="tablist"] a[aria-selected][tabindex="-1"],
 [role="tablist"] a:not([aria-selected]):not([tabindex="-1"])
 {
@@ -557,9 +557,9 @@ describe('Add module', function() {
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
-[role="tablist"] li:not([role="presentation"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
+[role="tablist"] li:not([role="presentation"]),
 [role="tablist"] a[aria-selected][tabindex="-1"],
 [role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"])
 {
@@ -567,9 +567,9 @@ describe('Add module', function() {
 }</seg>
       </tuv>
       <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
-        <seg>.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
-[role="tablist"] li:not([role="presentation"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
+[role="tablist"] li:not([role="presentation"]),
 [role="tablist"] a[aria-selected][tabindex="-1"],
 [role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"])
 {
@@ -603,22 +603,22 @@ describe('Add module', function() {
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
-[role="tablist"] li:not([role="presentation"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
+[role="tablist"] li:not([role="presentation"]),
 [role="tablist"] a[aria-selected][tabindex="-1"],
-[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]), 
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]),
 [role="tablist"] ~ div:not([role="tabpanel"])
 {
 　outline: 0.5em solid red;
 } </seg>
       </tuv>
       <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
-        <seg>.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
-[role="tablist"] li:not([role="presentation"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
+[role="tablist"] li:not([role="presentation"]),
 [role="tablist"] a[aria-selected][tabindex="-1"],
-[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]), 
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]),
 [role="tablist"] ~ div:not([role="tabpanel"])
 {
 　outline: 0.5em solid red;
@@ -651,24 +651,24 @@ describe('Add module', function() {
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
-[role="tablist"] li:not([role="presentation"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
+[role="tablist"] li:not([role="presentation"]),
 [role="tablist"] a[aria-selected][tabindex="-1"],
-[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]), 
-[role="tablist"] ~ div:not([role="tabpanel"]), 
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]),
+[role="tablist"] ~ div:not([role="tabpanel"]),
 [role="tablist"] + div:not([role="tabpanel"])
 {
 　outline: 0.5em solid red;
 }</seg>
       </tuv>
       <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
-        <seg>.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
-[role="tablist"] li:not([role="presentation"]), 
+        <seg>.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
+[role="tablist"] li:not([role="presentation"]),
 [role="tablist"] a[aria-selected][tabindex="-1"],
-[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]), 
-[role="tablist"] ~ div:not([role="tabpanel"]), 
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), [role="tabpanel"]:not([aria-labelledby^="tab"]),
+[role="tablist"] ~ div:not([role="tabpanel"]),
 [role="tablist"] + div:not([role="tabpanel"])
 {
 　outline: 0.5em solid red;
@@ -717,13 +717,13 @@ describe('Add module', function() {
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>ol &gt; *:not(li)::after, 
+        <seg>ol &gt; *:not(li)::after,
 ul &gt; *:not(li)::after {
 　content: 'Only &lt;li&gt; can be a direct child of &lt;ul&gt; or &lt;ol&gt;.';
 }</seg>
       </tuv>
       <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
-        <seg>ol &gt; *:not(li)::after, 
+        <seg>ol &gt; *:not(li)::after,
 ul &gt; *:not(li)::after {
 　content: '&lt;ul&gt;または&lt;ol&gt;の直接的な子になれるのは&lt;li&gt;だけです。';
 }</seg>
@@ -796,12 +796,6 @@ ul &gt; *:not(li)::after {
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Screenshot of dev tools declaration block with a display:none; declaration above the content declaration.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
-        <seg>　content: '&lt;ul&gt;要素の子として許可されるのは&lt;li&gt;要素のみです。';
-}</seg>
       </tuv>
     </tu>
     <tu>
@@ -979,26 +973,26 @@ ul &gt; *:not(li)::after {
       <tuv xml:lang="EN-US">
         <seg>.overloaded.not-parsed-ok.inactive:not(.has-ignorable-error)
 {
-　text-decoration: none !important; 
-　background: red !important; 
+　text-decoration: none !important;
+　background: red !important;
 　color: #fff !important;
 }
 
 .overloaded.not-parsed-ok.inactive:not(.has-ignorable-error)
-.webkit-css-property { 
+.webkit-css-property {
 　color: #fff !important;
 }</seg>
       </tuv>
       <tuv xml:lang="JA" creationid="OmegaT Aligner" creationdate="20170810T064007Z">
         <seg>.overloaded.not-parsed-ok.inactive:not(.has-ignorable-error)
 {
-　text-decoration: none !important; 
-　background: red !important; 
+　text-decoration: none !important;
+　background: red !important;
 　color: #fff !important;
 }
 
 .overloaded.not-parsed-ok.inactive:not(.has-ignorable-error)
-.webkit-css-property { 
+.webkit-css-property {
 　color: #fff !important;
 }</seg>
       </tuv>
@@ -1054,13 +1048,13 @@ ul &gt; *:not(li)::after {
 　ERROR: "The first element after the tablist should be a tab panel with the tabpanel WAI-ARIA role. Screen reader users must be able to move directly into the open tab panel from the selected tab.";
 }
 
-.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
+.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
 [role="tablist"] li:not([role="presentation"]),
-[role="tablist"] a[aria-selected][tabindex="-1"], 
-[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), 
-[role="tabpanel"]:not([aria-labelledby^="tab"]), 
-[role="tablist"] ~ div:not([role="tabpanel"]), 
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]),
+[role="tabpanel"]:not([aria-labelledby^="tab"]),
+[role="tablist"] ~ div:not([role="tabpanel"]),
 [role="tablist"] + div:not([role="tabpanel"])
 {
 　outline: 0.5em solid red;
@@ -1098,13 +1092,13 @@ ul &gt; *:not(li)::after {
 　ERROR: tablistの後の最初の要素は、WAI-ARIAロールがtabpanelのタブパネルでなければなりません。スクリーンリーダーユーザーが、選択されたタブから開いたタブパネルに直接移動できる必要があります。;
 }
 
-.tab-interface ul:not([role="tablist"]), 
-[role="tablist"] a:not([role="tab"]), 
+.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
 [role="tablist"] li:not([role="presentation"]),
-[role="tablist"] a[aria-selected][tabindex="-1"], 
-[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]), 
-[role="tabpanel"]:not([aria-labelledby^="tab"]), 
-[role="tablist"] ~ div:not([role="tabpanel"]), 
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]),
+[role="tabpanel"]:not([aria-labelledby^="tab"]),
+[role="tablist"] ~ div:not([role="tabpanel"]),
 [role="tablist"] + div:not([role="tabpanel"])
 {
 　outline: 0.5em solid red;
