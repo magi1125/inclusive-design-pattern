@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32478,6 +32478,76 @@ sentは「飛ばされる」としました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170922T114002Z" creationid="rikiha" creationdate="20170922T114002Z">
         <seg>&lt;/g1&gt;ライブリージョンが「商品リストが読み込まれました」と読み上げる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-27.html</prop>
+      <prop type="id">tu1_0</prop>
+      <tuv lang="EN-US">
+        <seg>Test-Driven Markup | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014038Z" creationid="rikiha" creationdate="20170925T014038Z">
+        <seg>11章：テスト駆動マークアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-27.html</prop>
+      <prop type="id">tu2_0</prop>
+      <tuv lang="EN-US">
+        <seg>Test-Driven Markup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014115Z" creationid="rikiha" creationdate="20170925T014115Z">
+        <seg>テスト駆動マークアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-27.html</prop>
+      <prop type="id">tu3_0</prop>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;Test-driven development&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (TDD) allows developers working with frequent iterations to move forward with confidence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014150Z" creationid="rikiha" creationdate="20170925T014150Z">
+        <seg>テスト駆動開発（TDD）（脚注193）行えば、頻繁なイテレーションを行いながら作業する開発者は、自信を持って先に進むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-27.html</prop>
+      <prop type="id">tu3_0</prop>
+      <tuv lang="EN-US">
+        <seg>By writing tests first, to prescribe outcomes, then creating the functionality to achieve them, you can ensure successful builds behave in a predictable and reliable fashion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014158Z" creationid="rikiha" creationdate="20170925T014158Z">
+        <seg>まずテストを書き、期待される結果を指定してから、それを達成する機能を作ることで、予測可能かつ信頼性の高い動作をする優れたビルドを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-27.html</prop>
+      <prop type="id">tu3_0</prop>
+      <tuv lang="EN-US">
+        <seg>Thrill seekers who relish their “What the hell is going on?” moments may find TDD a little boring, but it’s a solid approach.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014211Z" creationid="rikiha" creationdate="20170925T014211Z">
+        <seg>TDDは、「いったい何が起きているんだ？」と思う瞬間を楽しむ、スリルを求める人にとっては少し退屈かもしれませんが、堅実な方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-27.html</prop>
+      <prop type="id">tu4_0</prop>
+      <tuv lang="EN-US">
+        <seg>For example, if I wanted to test that the &lt;g1&gt;add()&lt;/g1&gt; function from my &lt;g2&gt;add.js&lt;/g2&gt; Node.js module worked correctly, I could use &lt;g3&gt;&lt;g4&gt;Mocha&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;2&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; and the &lt;g8&gt;&lt;g9&gt;Chai&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;3&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt; assertion library:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014224Z" creationid="rikiha" creationdate="20170925T014224Z">
+        <seg>たとえば、add.jsのNodeモジュールのadd()機能が正しく動作するかテストしたい場合は、Mocha（脚注194）およびChai（脚注195）のアサーションライブラリを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">chapter-27.html</prop>
+      <prop type="id">tu4_0</prop>
+      <tuv lang="EN-US">
+        <seg>In application development, tests are usually written against functions and what those functions are expected to produce.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170925T014213Z" creationid="rikiha" creationdate="20170925T014213Z">
+        <seg>アプリケーション開発では通常、機能およびその機能に期待される成果に対するテストが書かれます。</seg>
       </tuv>
     </tu>
   </body>
