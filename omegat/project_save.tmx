@@ -15725,11 +15725,15 @@ C・Googleなどがクロールする対象である、Webサイトの静的ペ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+It’s a mixed bag がスルーされていますね。
+「いろいろあります」くらいでしょうか。
+ダッシュを生かしつつ調整。</note>
       <tuv lang="EN-US">
         <seg>It’s a mixed bag: form elements piggyback OS functionality and are keyboard and screen reader accessible as standard — at least when marked up correctly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170924T042330Z" creationid="bakera" creationdate="20170924T042330Z">
-        <seg>まず、OS機能を利用したフォーム要素が必要です。加えて、少なくとも正確にマークアップされている場合には、キーボードとスクリーンリーダーに標準としてアクセスできることが大切です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T055453Z" creationid="bakera" creationdate="20170924T042330Z">
+        <seg>いろいろあります。まず、フォーム要素が必要です。OSの機能を利用し、標準でキーボードとスクリーンリーダーにとってアクセシブルなものです――少なくとも正確にマークアップされている場合には。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21698,8 +21702,8 @@ The Office はイギリスのコメディドラマのようですね。
       <tuv lang="EN-US">
         <seg>So, what are we dealing with?</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T053940Z" creationid="bakera" creationdate="20170924T042329Z">
-        <seg>では、何をする必要があるのでしょうか？</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T054014Z" creationid="bakera" creationdate="20170924T042329Z">
+        <seg>そのために何が必要になるでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
