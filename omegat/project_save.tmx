@@ -2674,6 +2674,14 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Pressing a button changes that button to &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-pressed="true"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;5&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; and reveals the corresponding form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102353Z" creationid="bakera" creationdate="20170925T102353Z">
+        <seg>•ボタンを押すと、そのボタンがaria-pressed="true"（脚注176）に変更され、対応するフォームが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 微調整
 
 (太田) OK</note>
@@ -3164,6 +3172,14 @@ https://developers.google.com/search/docs/data-types/products#single-product-pag
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;The relationship between the toolbar and the subject &lt;g2&gt;#forms&lt;/g2&gt; container is also communicated via &lt;g3&gt;aria-controls&lt;/g3&gt; to supporting software, like the JAWS screen reader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102358Z" creationid="bakera" creationdate="20170925T102358Z">
+        <seg>•表示されるフォーム（ログインまたは登録）は、ツールバーの下にフォーカス順序で配置されるので、キーボードやスクリーンリーダーのコントロールを使って容易にアクセスできます。このため、ツールバーとフォーム領域の間に明示的な関連付けは必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The text may be too small for the user to read.</seg>
@@ -3415,6 +3431,14 @@ contextual informationをどう訳すか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170809T100527Z" creationid="yoota" creationdate="20170808T100234Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;スクリーンリーダーユーザーがナビゲーションランドマーク内のリンクにフォーカスを移すと、コンテキストの情報に加えてラベルが読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;When screen reader users focus the first button, “Login or register toolbar, login toggle button, selected” (or similar, depending on the screen reader) is announced.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102356Z" creationid="bakera" creationdate="20170925T102356Z">
+        <seg>•スクリーンリーダーユーザーが最初のボタンにフォーカスを合わせると、「＃＃Login or register toolbar, login toggle button, selected＃＃」などと読み上げられます（内容はスクリーンリーダーによって若干異なります）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5175,6 +5199,14 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A CSS style should be provided to show that this button is the selected one, possibly with the &lt;g8&gt;[aria-pressed="true"]&lt;/g8&gt; attribute selector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102354Z" creationid="bakera" creationdate="20170925T102354Z">
+        <seg>このボタンが選択されていることを示すために、CSSスタイルを提供する必要があります。[aria-pressed="true"]などの属性セレクタを使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) OK</note>
@@ -5763,6 +5795,14 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170906T110527Z" creationid="rikiha" creationdate="20170905T004234Z">
         <seg>2つめの落とし穴の説明はもっと簡潔です。リンクするという動作が必要な場合、リンクのふるまいをそのまま利用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A simpler way to communicate the choice and the current selection would be to construct a little &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;toolbar&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;4&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, like the following.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102344Z" creationid="bakera" creationdate="20170925T102344Z">
+        <seg>もっと簡単にオプションと現在の選択状況を伝えるには、以下のようなちょっとしたツールバー（toolbar）（脚注175）を作るとよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8014,6 +8054,14 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170609T082207Z" creationid="yoota" creationdate="20170606T101136Z">
         <seg>しかし、キャプションはビデオそのものがダウンロードできるか、またはストリーミング再生できる場合にしか利用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But despite what certain vocal accessibility pundits might have you believe, there’s really no right or wrong way to achieve this kind of thing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102333Z" creationid="bakera" creationdate="20170925T102333Z">
+        <seg>しかし、音声によるアクセシビリティの専門家がどのような意見を述べようとも、実はこの種のことに正しいも間違っているもありません。]</seg>
       </tuv>
     </tu>
     <tu>
@@ -11634,6 +11682,14 @@ http://ejje.weblio.jp/content/pertinent+to
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, a clearer solution for &lt;g1&gt;all&lt;/g1&gt; users would be to present them with a choice of login or registration at the outset.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102324Z" creationid="bakera" creationdate="20170925T102324Z">
+        <seg>しかし、すべてのユーザーにとってより分かりやすいのは、ログインと登録の両方を表示して、最初にいずれかを選択できるようにする方法でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, actually printing that error to the screen is fraught with problems.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170925T014553Z" creationid="rikiha" creationdate="20170925T014553Z">
@@ -12153,6 +12209,14 @@ does not resemble a button はボタンに似ていない、ですが、下の�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170906T081734Z" creationid="rikiha" creationdate="20170905T004208Z">
         <seg>ボタンのスタイルとは別に、標準のリンクよりもユーザーの購買意欲を刺激し、かつ他のボタンとは似ていない、独自のコールトゥアクションリンクのスタイルを用意しておくと良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I talk about such interfaces at length in the book “&lt;g1&gt;&lt;g2&gt;Apps For All: Coding Accessible Web Applications&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;2&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” Also available is an &lt;g6&gt;&lt;g7&gt;accompanying demo&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;3&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102341Z" creationid="bakera" creationdate="20170925T102341Z">
+        <seg>こうしたインターフェイスについては、私の著書『Apps For All: Coding Accessible Web Applications』（日本語版：『コーディングWebアクセシビリティ - WAI-ARIAで実現するマルチデバイス環境のWebアプリケーション』ボーンデジタル刊）（脚注173）で詳しく説明しています。また、付随のデモも利用できます。（脚注174）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13287,8 +13351,8 @@ http://ejje.weblio.jp/content/noble
       <tuv lang="EN-US">
         <seg>In addition, by linking to the registration form on a separate page, they’d have to make their way down to the form from the top of that newly loaded page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170924T042455Z" creationid="bakera" creationdate="20170924T042356Z">
-        <seg>In addition, by linking to the registration form on a separate page, they’d have to make their way down to the form from the top of that newly loaded page.</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102322Z" creationid="bakera" creationdate="20170924T042356Z">
+        <seg>また、登録フォームは別のページにあるので、新たにロードされたページをまた上から読み進める必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14649,6 +14713,14 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In the illustration below, “Login” is selected by default but in a clear relationship with the unselected register option.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102326Z" creationid="bakera" creationdate="20170925T102326Z">
+        <seg>下の図では、「ログイン」がデフォルトで選択されていますが、未選択の登録オプションとの関係性は一目瞭然です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 画像のaltです。
 
 (伊原) 下訳の反映。
@@ -15879,6 +15951,14 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s down to your discretion as a designer to find the most effective solution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102334Z" creationid="bakera" creationdate="20170925T102334Z">
+        <seg>何が最も効果的なソリューションなのかは、皆さんのデザイナーとしての判断にかかっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「使い方」が簡単とは言っていないかも。</note>
       <tuv lang="EN-US">
         <seg>It’s easy to include the &lt;c1&gt;lang&lt;/c1&gt; attribute, so just go ahead and include it.</seg>
@@ -16018,6 +16098,14 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170802T083910Z" creationid="rikiha" creationdate="20170727T134629Z">
         <seg>重要なのは、既存のリンクテキストをこのテキストで置き換えるのでは&lt;g1&gt;なく&lt;/g1&gt;、リンクテキストの前か後に付け足すということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s important the choice being presented to the user is clear both visually and non-visually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102332Z" creationid="bakera" creationdate="20170925T102332Z">
+        <seg>選択肢は、視覚的にも非視覚的にもユーザーに分かりやすく表示することが重要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17300,6 +17388,14 @@ Lots of とplentyはてきとうに別の言葉を当てはめてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T100225Z" creationid="yoota" creationdate="20170511T100225Z">
         <seg>キーボードで要素にアクセスできるようにするのは、非常に簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Making assumptions about the way visitors enter and move through your app is dangerous territory anyway, but for certain users the usability here is even more aggravating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102320Z" creationid="bakera" creationdate="20170925T102320Z">
+        <seg>ユーザーがアプリケーション内にどのように入って移動するかを仮定するのは何にせよ危険な領域ですが、特定のユーザーにとっては、ここでのユーザビリティがさらなるストレスの原因となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18633,8 +18729,8 @@ the URLは「このページのURL」としてみました。
       <tuv lang="EN-US">
         <seg>Notes</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170530T094946Z" creationid="rikiha" creationdate="20170530T094946Z">
-        <seg>補足</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102352Z" creationid="rikiha" creationdate="20170530T094946Z">
+        <seg>注釈</seg>
       </tuv>
     </tu>
     <tu>
@@ -19448,6 +19544,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170918T151528Z" creationid="rikiha" creationdate="20170909T223823Z">
         <seg>そのうちのひとつ――無限スクロール――には、インクルーシビティに関する重大な問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One option would be to design the login and register options as tabs in a fully-fledged WAI-ARIA tab interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102336Z" creationid="bakera" creationdate="20170925T102336Z">
+        <seg>一例として考えらるのは、本格的なWAI-ARIAのタブインターフェイスを使って、ログインオプションと登録オプションをタブとしてデザインすることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20612,6 +20716,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen reader operators traversing the page from top to bottom methodically will not realize the option to register is present unless they go past the login form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102321Z" creationid="bakera" creationdate="20170925T102321Z">
+        <seg>スクリーンリーダーを使ってページを上から下に順に読むユーザーは、ログインフォームを通過しない限り登録オプションの存在を知ることができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen reader users include those with severe vision impairments, and others who find that having a web page read out to them using a synthetic voice aids their comprehension.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100918Z" creationid="okamoto_jun" creationdate="20170627T100918Z">
@@ -21415,6 +21527,14 @@ OK、微調整しました。
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170910T111730Z" creationid="yoota" creationdate="20170908T022736Z">
         <seg>このサイトでは商品を扱っていますので、&lt;g1&gt;&lt;g2&gt;構造化データ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注152）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用することで、検索結果に商品の情報を追加できる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since we are only dealing with two options (tabs), I think this complex widget is overkill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102342Z" creationid="bakera" creationdate="20170925T102342Z">
+        <seg>ここではオプション（タブ）が2つだけなので、この複雑なウィジェットではやり過ぎのように思います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23445,6 +23565,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The Login/Register Toolbar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102331Z" creationid="bakera" creationdate="20170925T102331Z">
+        <seg>ログイン／登録ツールバー</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The Markup</seg>
@@ -25292,6 +25420,14 @@ sound semantic structureとは。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The thinking here is often that the no account option doesn’t need to be a big deal because &lt;g1&gt;most&lt;/g1&gt; new users will have gone directly to the homepage, read the entire sales pitch for the application and pressed the sign-up call to action there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102315Z" creationid="bakera" creationdate="20170925T102315Z">
+        <seg>なぜなら、大半のユーザーはホームページに直接アクセスし、アプリケーションのセールスポイントをすべて読んだうえでサインアップへのコールトゥアクションリンクを押したと考えられるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The third designer sees the second designer’s button from a number of perspectives, each the imagined point of view of a potential user.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100300Z" creationid="okamoto_jun" creationdate="20170627T100300Z">
@@ -26551,6 +26687,14 @@ marginは「マージン」で良いかと。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This informs users that they are interacting with a toolbar widget presenting them with a choice of “Login or register” and that the “login” option is currently activated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102357Z" creationid="bakera" creationdate="20170925T102357Z">
+        <seg>これによりユーザーは、自分が「＃＃ログインまたは登録＃＃」という選択肢を提示するツールバーウィジェットとやり取りしていて、現在は「＃＃ログイン＃＃」オプションがアクティブになっていると知ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) unjust moniker は直訳すれば不公平なあだ名。理にかなっていないというより、もうすこし否定的なニュアンスかもしれません。
 フォントの話なので、they have their own formのformは「字形」としました。
 
@@ -26773,6 +26917,22 @@ in the testing はテストの最中くらいのニュアンスかも。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170829T095346Z" creationid="rikiha" creationdate="20170823T082737Z">
         <seg>プロトタイプの作成時には使用しませんが、以下で説明するように、テストの最中に必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is one of the reasons we create the ability to bypass blocks of content using skip links, headings and landmark regions, as discussed in “A Blog Post.” This comes under WCAG’s &lt;g1&gt;&lt;g2&gt;2.4.1 Bypass Blocks&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; success criterion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102323Z" creationid="bakera" creationdate="20170925T102323Z">
+        <seg>これが、「ブログ記事」で述べたスキップリンク、見出し、ランドマーク領域を使ってコンテンツブロックのバイパス機能を作成する理由の1つです。バイパス機能については、WCAGの達成基準2.4.1「ブロックスキップ」（脚注172）に明記されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is only an enhancement: the reveal of the corresponding form will place it next in focus order, making it easy to reach by keyboard anyway.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T102400Z" creationid="bakera" creationdate="20170925T102400Z">
+        <seg>前述のように、aria-controlsは明示的な関連付けを提供しますが、あまり広くサポートされていないため使用しないことをお勧めします。こうした状況で役に立つのはソースの順序です。</seg>
       </tuv>
     </tu>
     <tu>
