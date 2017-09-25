@@ -14718,11 +14718,14 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+少し調整。
+「未選択の」はなくても通じるので取りました。</note>
       <tuv lang="EN-US">
         <seg>In the illustration below, “Login” is selected by default but in a clear relationship with the unselected register option.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102326Z" creationid="bakera" creationdate="20170925T102326Z">
-        <seg>下の図では、「ログイン」がデフォルトで選択されていますが、未選択の登録オプションとの関係性は一目瞭然です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170925T120415Z" creationid="bakera" creationdate="20170925T102326Z">
+        <seg>下の図では、「ログイン」がデフォルトで選択されていますが、登録オプションとの関係性は一目瞭然です。</seg>
       </tuv>
     </tu>
     <tu>
