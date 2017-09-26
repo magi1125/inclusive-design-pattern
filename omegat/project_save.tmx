@@ -3183,12 +3183,12 @@ https://developers.google.com/search/docs/data-types/products#single-product-pag
     <tu>
       <note>(太田)
 元訳が変ですね。Wordを見てもこうなっていますが原文と対応していないように思います。
-とりあえず訳しました。</note>
+とりあえず訳しつつ、後半を意訳気味に調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The relationship between the toolbar and the subject &lt;g2&gt;#forms&lt;/g2&gt; container is also communicated via &lt;g3&gt;aria-controls&lt;/g3&gt; to supporting software, like the JAWS screen reader.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T072804Z" creationid="bakera" creationdate="20170925T102358Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;ツールバーと、対応するコンテナである&lt;g2&gt;#forms&lt;/g2&gt;との関係について、JAWSなどのスクリーンリーダーに対しては、&lt;g3&gt;aria-controls&lt;/g3&gt;を使って表現することもできます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T073659Z" creationid="bakera" creationdate="20170925T102358Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ツールバーと対応するコンテナである&lt;g2&gt;#forms&lt;/g2&gt;との関係については、&lt;g3&gt;aria-controls&lt;/g3&gt;属性も使って表現しています。ただし、これに対応するスクリーンリーダーはJAWSなどに限られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27021,11 +27021,14 @@ JISにあわせて「ブロックスキップ」。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ここも訳しなおし。
+enhancementは拡張としてきましたが、わかりにくいのでここでは「エンハンスメント」としました。</note>
       <tuv lang="EN-US">
         <seg>This is only an enhancement: the reveal of the corresponding form will place it next in focus order, making it easy to reach by keyboard anyway.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T073513Z" creationid="bakera" creationdate="20170925T102400Z">
-        <seg>これはただのエンハンスメントです。対応するフォームはフォーカス順のすぐ後に配置し、いずれにせよキーボードで簡単に到達できるようにしています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T073737Z" creationid="bakera" creationdate="20170925T102400Z">
+        <seg>これはエンハンスメントにすぎません。対応するフォームはフォーカス順のすぐ後に配置し、いずれにせよキーボードで簡単に到達できるようにしています。</seg>
       </tuv>
     </tu>
     <tu>
