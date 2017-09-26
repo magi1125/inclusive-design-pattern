@@ -21120,11 +21120,12 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整</note>
       <tuv lang="EN-US">
         <seg>Selectors are condition-based expressions which are used to match HTML structures.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014351Z" creationid="rikiha" creationdate="20170925T014351Z">
-        <seg>セレクタは、HTML構造にマッチさせるために使われる、条件ベースの式です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T141538Z" creationid="rikiha" creationdate="20170925T014351Z">
+        <seg>セレクタは、HTMLの構造にマッチさせるために使われる、条件ベースの式です。</seg>
       </tuv>
     </tu>
     <tu>
