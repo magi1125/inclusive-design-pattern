@@ -19006,11 +19006,12 @@ the URLは「このページのURL」としてみました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) I'll なのでそれっぽく。</note>
       <tuv lang="EN-US">
         <seg>Now I can just run &lt;g1&gt;npm test&lt;/g1&gt; (or whatever alias I have set up) and I’ll find out if my function is doing what I hoped it would.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014337Z" creationid="rikiha" creationdate="20170925T014337Z">
-        <seg>後はnpm test（またはセットアップした何らかのalias）を実行すれば、機能が期待通りの動作をしているか分かります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T125045Z" creationid="rikiha" creationdate="20170925T014337Z">
+        <seg>後はnpm test（または何らか設定したエイリアス）を実行すれば、この関数が期待通りに動いてくれるかが分かるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34033,7 +34034,9 @@ sentは「飛ばされる」としました。
     <tu>
       <prop type="file">chapter-27.html</prop>
       <prop type="id">tu4_0</prop>
-      <note>(伊原) ここのfunctionは関数かなと。またChaiはそれ自体がアサーションライブラリであるため、そのように読めるよう修正。また my add.js なので「として作った」と補記。</note>
+      <note>(伊原) ここのfunctionは関数かなと。
+my add.js なので「として作った」と補記。
+Chaiはそれ自体がアサーションライブラリであるため、そのように読めるよう修正。</note>
       <tuv lang="EN-US">
         <seg>For example, if I wanted to test that the &lt;g1&gt;add()&lt;/g1&gt; function from my &lt;g2&gt;add.js&lt;/g2&gt; Node.js module worked correctly, I could use &lt;g3&gt;&lt;g4&gt;Mocha&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;2&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; and the &lt;g8&gt;&lt;g9&gt;Chai&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;3&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt; assertion library:</seg>
       </tuv>
