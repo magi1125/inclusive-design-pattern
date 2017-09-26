@@ -22508,6 +22508,16 @@ enhanced を「強化」とするのがどうもしっくり来ず、なくて�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
+      <tuv lang="EN-US">
+        <seg>Styling the placeholder is possible in most browsers with the help of some standard and proprietary properties:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T121850Z" creationid="bakera" creationdate="20170926T121752Z">
+        <seg>標準および独自のプロパティを使用すると、ほとんどのブラウザでplaceholderのスタイル設定を行うことが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Subsections</seg>
@@ -24900,6 +24910,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The left example shows the placeholder text in default gray.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T121550Z" creationid="bakera" creationdate="20170926T121550Z">
+        <seg>左の例は、プレースホルダーテキストをデフォルトのグレーで表示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (伊原) 下訳を反映</note>
@@ -25485,6 +25503,15 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T010859Z">
         <seg>右は、行の高さは同じだが文字が大きいため、各行が重なってしまっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) 少し調整</note>
+      <tuv lang="EN-US">
+        <seg>The right uses a custom italic style with a darker color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T121718Z" creationid="bakera" creationdate="20170926T121625Z">
+        <seg>右の例は、濃い色で、カスタムのイタリックスタイルを使用しています。</seg>
       </tuv>
     </tu>
     <tu>
