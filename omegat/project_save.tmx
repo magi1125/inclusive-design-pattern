@@ -34037,8 +34037,8 @@ sentは「飛ばされる」としました。
       <tuv lang="EN-US">
         <seg>For example, if I wanted to test that the &lt;g1&gt;add()&lt;/g1&gt; function from my &lt;g2&gt;add.js&lt;/g2&gt; Node.js module worked correctly, I could use &lt;g3&gt;&lt;g4&gt;Mocha&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;2&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; and the &lt;g8&gt;&lt;g9&gt;Chai&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;3&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt; assertion library:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T123734Z" creationid="rikiha" creationdate="20170925T014224Z">
-        <seg>たとえば、Node.jsモジュールとして作った&lt;g1&gt;add.js&lt;/g1&gt;の&lt;g2&gt;add()&lt;/g2&gt;関数が正しく動作するかテストしたい場合は、&lt;g3&gt;&lt;g4&gt;Mocha&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注194）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;と、アサーションライブラリ&lt;g8&gt;&lt;g9&gt;Chai&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;（脚注195）&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;を利用できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T123756Z" creationid="rikiha" creationdate="20170925T014224Z">
+        <seg>たとえば、Node.jsモジュールとして作成した&lt;g1&gt;add.js&lt;/g1&gt;の&lt;g2&gt;add()&lt;/g2&gt;関数が正しく動作するかテストしたい場合は、&lt;g3&gt;&lt;g4&gt;Mocha&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注194）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;と、アサーションライブラリ&lt;g8&gt;&lt;g9&gt;Chai&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;（脚注195）&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt;を利用できます。</seg>
       </tuv>
     </tu>
     <tu>
