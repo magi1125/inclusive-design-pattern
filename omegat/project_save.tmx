@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13324,12 +13324,15 @@ product の情報を表示する final product ですね。
 この101は大学の基礎講座などに振られる番号だそうで ("Philosophy 101" → 哲学基礎講座)。
 日本語では「いろは」などに相当?
 
+(岡本)
+関連付け→関連づけ
+
 </note>
       <tuv lang="EN-US">
         <seg>In Inclusive Forms 101, we must ensure that all interactive elements have an accessible label associated with them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T081959Z" creationid="bakera" creationdate="20170926T081959Z">
-        <seg>インクルーシブなフォームの基本として、すべてのインタラクティブ要素にアクセシブルなラベルを関連付ける必要があります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170926T082414Z" creationid="bakera" creationdate="20170926T081959Z">
+        <seg>インクルーシブなフォームの基本として、すべてのインタラクティブ要素にアクセシブルなラベルを関連づける必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29846,8 +29849,8 @@ formとformのジョーク。どうしたものか。
       <tuv lang="EN-US">
         <seg>We’ve already touched on harnessing form controls in “A Filter Widget.” This form takes a more familiar, well, &lt;g1&gt;form&lt;/g1&gt;, facilitating text input by the user.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T081038Z" creationid="bakera" creationdate="20170926T074116Z">
-        <seg>フォームコントロールの扱いについては、すでに10章「フィルタウィジェット」で取り上げました。ここで扱うフォームは、親しみのある典型的な&lt;g1&gt;フォーム&lt;/g1&gt;で、ユーザーにテキストの入力を促します。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170926T082334Z" creationid="bakera" creationdate="20170926T074116Z">
+        <seg>フォームコントロールの扱いについては、すでに10章「フィルターウィジェット」で取り上げました。ここで扱うフォームは、親しみのある典型的な&lt;g1&gt;フォーム&lt;/g1&gt;で、ユーザーにテキストの入力を促します。</seg>
       </tuv>
     </tu>
     <tu>
