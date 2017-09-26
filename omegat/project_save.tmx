@@ -3443,16 +3443,17 @@ contextual informationをどう訳すか。
       </tuv>
     </tu>
     <tu>
-      <note>NVDAでは、
+      <note>(太田)
+NVDA2017.3jaでは、
 「ログイン/登録ツールバー ログイントグルボタン 押されています。」
 となりました。
-
+aria-pressedの読み上げは2017.3で変更になったようです。
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;When screen reader users focus the first button, “Login or register toolbar, login toggle button, selected” (or similar, depending on the screen reader) is announced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T065216Z" creationid="bakera" creationdate="20170925T102356Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;スクリーンリーダーユーザーが最初のボタンにフォーカスを合わせると、「＃＃Login or register toolbar, login toggle button, selected＃＃」などと読み上げられます（内容はスクリーンリーダーによって若干異なります）。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T071206Z" creationid="bakera" creationdate="20170925T102356Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;スクリーンリーダーユーザーが最初のボタンにフォーカスすると、「ログイン/登録ツールバー、ログイントグルボタン、押されています」などと読み上げられます（内容はスクリーンリーダーによって若干異なります）。</seg>
       </tuv>
     </tu>
     <tu>
