@@ -30375,11 +30375,13 @@ reorganize難しいですね。「状態を変える」か、超訳ですが「�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ふたつめの理由っぽく調整。</note>
       <tuv lang="EN-US">
         <seg>When they are not, you would fail WCAG’s &lt;g6&gt;&lt;g7&gt;4.1.1 Parsing&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;6&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T083431Z" creationid="bakera" creationdate="20170926T083431Z">
-        <seg>一意でないと、WCAG 2.0の&lt;g6&gt;&lt;g7&gt;4.1.1「構文解析」&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注177）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;のルールを破ることになってしまいます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T083504Z" creationid="bakera" creationdate="20170926T083431Z">
+        <seg>また、そうしないと、WCAG 2.0の&lt;g6&gt;&lt;g7&gt;4.1.1「構文解析」&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注177）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;のルールを破ることにもなってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
