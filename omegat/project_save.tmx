@@ -20081,11 +20081,12 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 関係をリレーションシップに。</note>
       <tuv lang="EN-US">
         <seg>Our job is to write tests against the elements’ properties and relationships within the tab interface, to make sure it is structured as expected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014438Z" creationid="rikiha" creationdate="20170925T014438Z">
-        <seg>やるべきことは、タブインターフェイス内の要素のプロパティと関係に対するテストを書き、期待通りに構築されていると確認することです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T234702Z" creationid="rikiha" creationdate="20170925T014438Z">
+        <seg>やるべきことは、このタブインターフェイス内要素のプロパティとリレーションシップに対するテストを書き、想定通りに構成されているかの確認です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24727,6 +24728,7 @@ conceptはそのままコンセプトでもいいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順など調整</note>
       <tuv lang="EN-US">
         <seg>The following code example sets out a tab interface as marked up in its initial state.</seg>
       </tuv>
