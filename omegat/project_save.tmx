@@ -23203,12 +23203,12 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここのdesignedは設計かなと。</note>
+      <note>(伊原) ここのdesignedは設計かなと。また、次の段落では「HTMLのような宣言型言語用」といっているので、the largely imperative language of JavaScript はこういう訳になる？</note>
       <tuv lang="EN-US">
         <seg>That’s all very well, but it’s designed for the largely imperative language of JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T125346Z" creationid="rikiha" creationdate="20170925T014338Z">
-        <seg>実に結構なことではありますが、これは主に命令型言語であるJavaScript用に設計されています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T130839Z" creationid="rikiha" creationdate="20170925T014338Z">
+        <seg>実に結構なことではありますが、これは主にJavaScriptの大部分である命令型言語向けに設計されています。</seg>
       </tuv>
     </tu>
     <tu>
