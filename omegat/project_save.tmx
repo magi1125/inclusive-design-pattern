@@ -28980,11 +28980,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整。</note>
       <tuv lang="EN-US">
         <seg>Typically, CSS selectors are used to match expected patterns but, by the same token, we could use selectors to target broken or malformed patterns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T223622Z" creationid="rikiha" creationdate="20170925T014403Z">
-        <seg>通常、CSSのセレクタは期待されるパターンにマッチさせるのに使われますが、同様にセレクタを使用して、破損したパターンや不正なパターンをターゲットにすることmoできます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T223713Z" creationid="rikiha" creationdate="20170925T014403Z">
+        <seg>通常、CSSのセレクタは期待されるパターンにマッチさせるのに使いますが、同様にセレクタを使用して、破損したパターンや不正なパターンをターゲットにすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30853,11 +30854,12 @@ integratedは統合された?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 問題を浮き彫りとしてみました。</note>
       <tuv lang="EN-US">
         <seg>Where these are present, an error style could be elicited to highlight the problem.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014404Z" creationid="rikiha" creationdate="20170925T014404Z">
-        <seg>そうした壊れたパターンが存在する場合、エラースタイルを表示させて問題を目立たせることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T224356Z" creationid="rikiha" creationdate="20170925T014404Z">
+        <seg>そうしたパターンが存在する場合、エラースタイルによって問題を浮き彫りにできます。</seg>
       </tuv>
     </tu>
     <tu>
