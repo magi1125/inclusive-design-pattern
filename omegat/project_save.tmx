@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15976,12 +15976,15 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+少し調整。
+
+(岡本)
+皆さん→みなさん</note>
       <tuv lang="EN-US">
         <seg>It’s down to your discretion as a designer to find the most effective solution.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T054439Z" creationid="bakera" creationdate="20170925T102334Z">
-        <seg>何が最も効果的なソリューションなのか考えることは、皆さんのデザイナーとしての判断になります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170926T061905Z" creationid="bakera" creationdate="20170925T102334Z">
+        <seg>何が最も効果的なソリューションなのか考えることは、みなさんのデザイナーとしての判断になります。</seg>
       </tuv>
     </tu>
     <tu>
