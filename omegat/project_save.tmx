@@ -26773,11 +26773,13 @@ marginは「マージン」で良いかと。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+interactは「操作」としました。</note>
       <tuv lang="EN-US">
         <seg>This informs users that they are interacting with a toolbar widget presenting them with a choice of “Login or register” and that the “login” option is currently activated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T071225Z" creationid="bakera" creationdate="20170925T102357Z">
-        <seg>これによりユーザーは、自分が「ログイン/登録」という選択肢を提示するツールバーウィジェットとやり取りしていて、現在は「ログイン」オプションがアクティブになっていると知ることができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T071937Z" creationid="bakera" creationdate="20170925T102357Z">
+        <seg>これによりユーザーは、自分が「ログイン/登録」という選択肢を提示するツールバーウィジェットを操作していて、現在は「ログイン」オプションがアクティブになっていると知ることができます。</seg>
       </tuv>
     </tu>
     <tu>
