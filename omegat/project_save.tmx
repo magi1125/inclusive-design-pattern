@@ -6801,11 +6801,12 @@ https://material.io/guidelines/usability/accessibility.html#accessibility-style
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 「付加的なライブラリにも依存しません」がちょっと微妙な気がしつつ、このもったいぶった言い回しが必要な気もしつつ、いったんそのまま。</note>
       <tuv lang="EN-US">
         <seg>Appropriately, it is itself a declarative language and, fortuitously, it does not take the form of an additional library dependency.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014347Z" creationid="rikiha" creationdate="20170925T014347Z">
-        <seg>それ自体も宣言型言語であり、幸いなことに、付加的なライブラリにも依存しません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T135944Z" creationid="rikiha" creationdate="20170925T014347Z">
+        <seg>いみじくも、それ自体が宣言型言語であり、幸いなことに、付加的なライブラリにも依存しません。</seg>
       </tuv>
     </tu>
     <tu>
