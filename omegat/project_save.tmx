@@ -5,11 +5,13 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>(太田)
+調整。こういうことかと。</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; Each rule is in a separate declaration block rather than a comma-delimited list.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T121923Z" creationid="bakera" creationdate="20170926T121923Z">
-        <seg>（&lt;g1&gt;注：&lt;/g1&gt;各ルールは、コンマで区切られたリストではなく、個別の宣言ブロックに含めます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T122048Z" creationid="bakera" creationdate="20170926T121923Z">
+        <seg>（&lt;g1&gt;注：&lt;/g1&gt;それぞれのルールは、カンマ区切りのリストで宣言するのではなく、個別の宣言ブロックにします。</seg>
       </tuv>
     </tu>
     <tu>
