@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16976,6 +16976,16 @@ Keyは重要でいいのか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+少し調整。</note>
+      <tuv lang="EN-US">
+        <seg>Label elements, therefore, are jumped over: if they weren’t explicitly connected to the interactive elements they were describing, they’d be missed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T090250Z" creationid="bakera" creationdate="20170926T090250Z">
+        <seg>このとき、ラベル要素は飛び越されてしまいます。ラベル要素とインタラクティブ要素が明示的に関連付けられていない場合、そのラベル要素は見逃されてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)　付け→づけ
 
 (伊原) OK. ラベリング、でもいいかも。</note>
@@ -29035,8 +29045,8 @@ resultを訳出。
       <tuv lang="EN-US">
         <seg>Unlike prose content, where users may use the down arrow to go from element to element, forms are operated by moving directly between one field and the next.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T084304Z" creationid="bakera" creationdate="20170926T084304Z">
-        <seg>散文的なコンテンツでは、ユーザーは下矢印キーを使って要素間を順に移動しますが、フォームではそれと異なり、あるフィールドから次のフィールドへ直接移動する操作が行われます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T090045Z" creationid="bakera" creationdate="20170926T084304Z">
+        <seg>散文的なコンテンツでは、ユーザーは下矢印キーを使って要素間を順に移動しますが、フォームでは異なり、あるフィールドから次のフィールドへ直接移動する操作が行われます。</seg>
       </tuv>
     </tu>
     <tu>
