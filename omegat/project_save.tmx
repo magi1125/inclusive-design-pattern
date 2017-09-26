@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8068,13 +8068,15 @@ http://thesaurus.weblio.jp/content/試金石
     <tu>
       <note>(太田)
 punditは権威、先生、専門家、哲学者のような意味ですが皮肉として使われることもあるようで。
+have you believe で「あなたに信じさせる」
+直訳すると「とある音声アクセシビリティの専門家はあなたに信じさせているかもしれないが」
 
-</note>
+あとで検討。</note>
       <tuv lang="EN-US">
         <seg>But despite what certain vocal accessibility pundits might have you believe, there’s really no right or wrong way to achieve this kind of thing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170926T020916Z" creationid="bakera" creationdate="20170925T102333Z">
-        <seg>しかし、音声によるアクセシビリティの専門家がどのような意見を述べようとも、実はこの種のことに正しいも間違っているもありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T051709Z" creationid="bakera" creationdate="20170925T102333Z">
+        <seg>しかし、音声によるアクセシビリティの専門家がどのような意見を述べようとも、実はこの種のことに正しい方法や間違った方法があるわけではないのです。</seg>
       </tuv>
     </tu>
     <tu>
