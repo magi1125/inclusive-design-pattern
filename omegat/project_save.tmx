@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15326,6 +15326,16 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T073838Z" creationid="yoota" creationdate="20170511T073838Z">
         <seg>インラインリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+すこし調整。</note>
+      <tuv lang="EN-US">
+        <seg>Instead of differentiating the placeholder by diminishing its contrast, I suggest using a different method, such as italicization.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T121203Z" creationid="bakera" creationdate="20170926T121203Z">
+        <seg>コントラストを抑えてplaceholderを区別するのではなく、イタリックにするなど、他の方法を用いることをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
