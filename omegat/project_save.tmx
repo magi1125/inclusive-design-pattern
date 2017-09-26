@@ -8045,8 +8045,8 @@ heading level oneは「見出しレベル1」ですね。
       <tuv lang="EN-US">
         <seg>Browsers will not parse a combined block if it contains unrecognized, proprietary selectors.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T122357Z" creationid="bakera" creationdate="20170926T122152Z">
-        <seg>ブラウザが認識できない独自のセレクタが含まれている場合、そのブロック全体が無視されることがあるためです。）</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T122418Z" creationid="bakera" creationdate="20170926T122152Z">
+        <seg>ブラウザが認識できない独自のセレクタが含まれている場合、その宣言ブロックがまるごと無視されることがあるためです。）</seg>
       </tuv>
     </tu>
     <tu>
