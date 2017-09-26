@@ -33561,11 +33561,12 @@ sentは「飛ばされる」としました。
     <tu>
       <prop type="file">chapter-27.html</prop>
       <prop type="id">tu3_0</prop>
+      <note>(伊原) ビルドを通っていれば大丈夫だといえる、という事をいいたいのだと思うので調整。</note>
       <tuv lang="EN-US">
         <seg>By writing tests first, to prescribe outcomes, then creating the functionality to achieve them, you can ensure successful builds behave in a predictable and reliable fashion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014158Z" creationid="rikiha" creationdate="20170925T014158Z">
-        <seg>まずテストを書き、期待される結果を指定してから、それを達成する機能を作ることで、予測可能かつ信頼性の高い動作をする優れたビルドを作成できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T042046Z" creationid="rikiha" creationdate="20170925T014158Z">
+        <seg>まずテストを書き、結果を定義し、それを達成する機能を作ります。そうすることで、ビルドに成功したものが予想通りに信頼できる形で動作することを保証できます。</seg>
       </tuv>
     </tu>
     <tu>
