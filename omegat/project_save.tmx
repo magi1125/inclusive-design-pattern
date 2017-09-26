@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16990,12 +16990,15 @@ Keyは重要でいいのか。
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+少し調整。
+
+(岡本)
+関連付け→関連づけ</note>
       <tuv lang="EN-US">
         <seg>Label elements, therefore, are jumped over: if they weren’t explicitly connected to the interactive elements they were describing, they’d be missed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T090250Z" creationid="bakera" creationdate="20170926T090250Z">
-        <seg>このとき、ラベル要素は飛び越されてしまいます。ラベル要素とインタラクティブ要素が明示的に関連付けられていない場合、そのラベル要素は見逃されてしまいます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170926T100127Z" creationid="bakera" creationdate="20170926T090250Z">
+        <seg>このとき、ラベル要素は飛び越されてしまいます。ラベル要素とインタラクティブ要素が明示的に関連づけられていない場合、そのラベル要素は見逃されてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
