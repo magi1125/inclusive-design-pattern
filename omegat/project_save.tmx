@@ -28159,6 +28159,15 @@ shouldなので「しなければならない」は強すぎるかもしれな�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 微調整。</note>
+      <tuv lang="EN-US">
+        <seg>To appreciate why labels have to be explicitly associated with controls in this way, you have to appreciate how screen reader operators traverse forms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T084112Z" creationid="bakera" creationdate="20170926T083940Z">
+        <seg>このようにラベルとコントロールを明示的に関連付ける理由を理解するには、スクリーンリーダーユーザーがどのようにフォーム内を移動するかを理解する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 前の例が直前ではなく、何のことかわかりにくかったので、補いました。また、ダッシュを活かしました（ただ、「――一見すると」でダッシュとイチがカブってしまうのはどうしたものか）。
 
 (太田)
