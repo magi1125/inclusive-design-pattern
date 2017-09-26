@@ -21077,11 +21077,13 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+これはどうなんでしょうね。passwordロールでなんちゃってパスワード入力欄が作れるのは良くないようには思いますね。</note>
       <tuv lang="EN-US">
         <seg>Senior accessibility engineer &lt;g1&gt;&lt;g2&gt;Léonie Watson notes that a role of &lt;g3&gt;password&lt;/g3&gt; is being mooted&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;7&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; for the WAI-ARIA (2.0) specification.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T091024Z" creationid="bakera" creationdate="20170926T091024Z">
-        <seg>シニアアクセシビリティエンジニアの&lt;g1&gt;&lt;g2&gt;レオニー・ワトソン（Léonie Watson）は、&lt;g3&gt;password&lt;/g3&gt;のロールの追加をWAI-ARIA（2.0）の仕様に追加することが議論されていることに注目しています&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注178）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;。これが実現すれば、開発者はセキュリティ（入力された文字列のマスキング）が実際に存在することを必ずしも保証しなくても、カスタムフィールドの安全性を伝達できるようになるでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T091444Z" creationid="bakera" creationdate="20170926T091024Z">
+        <seg>シニアアクセシビリティエンジニアの&lt;g1&gt;&lt;g2&gt;レオニー・ワトソン（Léonie Watson）は、&lt;g3&gt;password&lt;/g3&gt;のロールの追加をWAI-ARIA（2.0）の仕様に追加することが議論されていることに注目しています&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注178）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
