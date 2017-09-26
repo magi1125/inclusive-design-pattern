@@ -20750,11 +20750,12 @@ wouldなので語尾を「ことがあります」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整</note>
       <tuv lang="EN-US">
         <seg>Rewritten in JavaScript:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014400Z" creationid="rikiha" creationdate="20170925T014400Z">
-        <seg>これをJavaScriptで記述し直すと、次のようになります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T221818Z" creationid="rikiha" creationdate="20170925T014400Z">
+        <seg>これをJavaScriptで書き直すと、以下のようになります。</seg>
       </tuv>
     </tu>
     <tu>
