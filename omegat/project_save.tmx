@@ -14555,6 +14555,16 @@ robustlyは「堅牢な方法で」としてみました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+theを訳出しないと意味が分かりにくいですね。</note>
+      <tuv lang="EN-US">
+        <seg>In the case of the password input, the agreed cipher — the matching content of the &lt;g1&gt;for&lt;/g1&gt; and &lt;g2&gt;id&lt;/g2&gt; values — is simply “password”:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T083714Z" creationid="bakera" creationdate="20170926T083714Z">
+        <seg>この例のパスワード入力の場合、合意された暗号――&lt;g1&gt;for&lt;/g1&gt;と&lt;g2&gt;id&lt;/g2&gt;値の一致した値――は「password」です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ちょっと調整。ここでランドマークと言うべきか？
 
 (太田) ナビゲーションなのかnavigationなのか。
@@ -30380,8 +30390,8 @@ reorganize難しいですね。「状態を変える」か、超訳ですが「�
       <tuv lang="EN-US">
         <seg>When they are not, you would fail WCAG’s &lt;g6&gt;&lt;g7&gt;4.1.1 Parsing&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;6&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T083504Z" creationid="bakera" creationdate="20170926T083431Z">
-        <seg>また、そうしないと、WCAG 2.0の&lt;g6&gt;&lt;g7&gt;4.1.1「構文解析」&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注177）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;のルールを破ることにもなってしまいます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T083525Z" creationid="bakera" creationdate="20170926T083431Z">
+        <seg>また、そうでないと、WCAG 2.0の&lt;g6&gt;&lt;g7&gt;4.1.1「構文解析」&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注177）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;のルールを破ることにもなってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
