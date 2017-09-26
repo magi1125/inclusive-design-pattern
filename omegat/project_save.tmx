@@ -26508,6 +26508,15 @@ break up は分割というより解消、解体に近い意味かも。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 微調整。</note>
+      <tuv lang="EN-US">
+        <seg>They pair semantics with standard behaviors automatically.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T091916Z" creationid="bakera" creationdate="20170926T091916Z">
+        <seg>セマンティクスと標準的な動作が、自動的に組み合わされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>They should be tolerant of changing, dynamic content.</seg>
       </tuv>
@@ -27372,11 +27381,14 @@ SVGの要素であることを補いたいかも。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ここのsaferは「安全」か?
+意訳気味に調整。</note>
       <tuv lang="EN-US">
         <seg>This is why standard elements and attributes such as &lt;g7&gt;type="password"&lt;/g7&gt; are a safer choice where available.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T091714Z" creationid="bakera" creationdate="20170926T091714Z">
-        <seg>これが、&lt;g7&gt;type="password"&lt;/g7&gt;のような標準的な要素や属性の方が無難な選択である理由です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T091854Z" creationid="bakera" creationdate="20170926T091714Z">
+        <seg>&lt;g7&gt;type="password"&lt;/g7&gt;のような標準的な要素や属性が使えるなら、その方が安全です。</seg>
       </tuv>
     </tu>
     <tu>
