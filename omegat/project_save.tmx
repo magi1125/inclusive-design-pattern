@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10430,6 +10430,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For elements that accept user input like text inputs, an auxiliary label must be associated with it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T082134Z" creationid="bakera" creationdate="20170926T082134Z">
+        <seg>テキスト入力などのユーザー入力を受け取る要素の場合、補助的なラベルを関連付ける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注
 
 (太田)
@@ -13312,6 +13320,19 @@ product の情報を表示する final product ですね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+この101は大学の基礎講座などに振られる番号だそうで ("Philosophy 101" → 哲学基礎講座)。
+日本語では「いろは」などに相当?
+
+</note>
+      <tuv lang="EN-US">
+        <seg>In Inclusive Forms 101, we must ensure that all interactive elements have an accessible label associated with them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T081959Z" creationid="bakera" creationdate="20170926T081959Z">
+        <seg>インクルーシブなフォームの基本として、すべてのインタラクティブ要素にアクセシブルなラベルを関連付ける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※訳注アリ
 
 (伊原) 【要訳注】日本語の場合にどうしたらいいのかを訳注したほうがいいかも？
@@ -14537,6 +14558,16 @@ robustlyは「堅牢な方法で」としてみました。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170725T064637Z" creationid="rikiha" creationdate="20170725T021524Z">
         <seg>サイト共通のナビゲーションランドマークの場合は、大きなリンクテキストが横並びになる、おなじみの形式が良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+少し補いつつ調整。</note>
+      <tuv lang="EN-US">
+        <seg>In the case of the submit button, the text node is the accessible label.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T082059Z" creationid="bakera" creationdate="20170926T082035Z">
+        <seg>この例のsubmitボタンの場合は、ボタンの中のテキストノードがアクセシブルなラベルとなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22856,6 +22887,16 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T100714Z" creationid="yoota" creationdate="20170512T100622Z">
         <seg>つまり、以下のコード例は、セマンティック的には前のコードと同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+微調整。</note>
+      <tuv lang="EN-US">
+        <seg>That is, when you focus the button, “Register” is announced as the label.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T082129Z" creationid="bakera" creationdate="20170926T082129Z">
+        <seg>つまり、そのボタンにフォーカスを合わせると、「登録」というラベルが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
