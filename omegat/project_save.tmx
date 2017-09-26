@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2685,8 +2685,8 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Pressing a button changes that button to &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-pressed="true"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;5&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; and reveals the corresponding form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102353Z" creationid="bakera" creationdate="20170925T102353Z">
-        <seg>•ボタンを押すと、そのボタンがaria-pressed="true"（脚注176）に変更され、対応するフォームが表示されます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T063719Z" creationid="bakera" creationdate="20170925T102353Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ボタンを押すと、そのボタンが&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-pressed="true"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注176）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;に変更され、対応するフォームが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5822,12 +5822,12 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
     <tu>
       <note>(太田)
 toolbarどうするか。
-role=toolbarのもの。</note>
+英語だとツールバーとrole=toolbar のダブルミーニングになる。コードを見ればroleはわかるので、カタカナ「ツールバー」だけでも良いか。</note>
       <tuv lang="EN-US">
         <seg>A simpler way to communicate the choice and the current selection would be to construct a little &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;toolbar&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;4&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, like the following.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T062258Z" creationid="bakera" creationdate="20170925T102344Z">
-        <seg>もっと簡単にオプションと現在の選択状況を伝えるには、以下のようなちょっとした&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;ツールバー&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注175）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を作るとよいでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T063644Z" creationid="bakera" creationdate="20170925T102344Z">
+        <seg>もっと簡単にオプションと現在の選択状況を伝えるには、以下のようなちょっとした&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;ツールバー&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注175）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を使うこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23636,7 +23636,9 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) 
+見た目はともかくtoolbarロールのウィジェット、という意味。
+いったんママ。</note>
       <tuv lang="EN-US">
         <seg>The Login/Register Toolbar</seg>
       </tuv>
