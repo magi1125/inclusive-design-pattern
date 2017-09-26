@@ -8533,11 +8533,12 @@ Tabの件は了解です、ありがとうございます。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 微調整。</note>
       <tuv lang="EN-US">
         <seg>By default, the &lt;g1&gt;placeholder&lt;/g1&gt; attribute is shown as gray text, which can cause contrast issues, especially where the input uses a background color.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T115324Z" creationid="bakera" creationdate="20170926T115324Z">
-        <seg>デフォルトでは、placeholder属性はグレーのテキストで表示されますが、コントラストの問題が起きることがあります。入力に背景色が使用されている場合は特にそうです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T115518Z" creationid="bakera" creationdate="20170926T115324Z">
+        <seg>デフォルトでは、&lt;g1&gt;placeholder&lt;/g1&gt;属性はグレーのテキストで表示されますが、これはコントラストの問題を起こすことがあります。特に入力欄に背景色が適用されている場合には顕著です。</seg>
       </tuv>
     </tu>
     <tu>
