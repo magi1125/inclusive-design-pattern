@@ -3182,7 +3182,8 @@ https://developers.google.com/search/docs/data-types/products#single-product-pag
     </tu>
     <tu>
       <note>(太田)
-元訳が変ですね。Wordを見てもこうなっていますが原文と対応していないように思います。</note>
+元訳が変ですね。Wordを見てもこうなっていますが原文と対応していないように思います。
+とりあえず訳しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The relationship between the toolbar and the subject &lt;g2&gt;#forms&lt;/g2&gt; container is also communicated via &lt;g3&gt;aria-controls&lt;/g3&gt; to supporting software, like the JAWS screen reader.</seg>
       </tuv>
@@ -27023,8 +27024,8 @@ JISにあわせて「ブロックスキップ」。</note>
       <tuv lang="EN-US">
         <seg>This is only an enhancement: the reveal of the corresponding form will place it next in focus order, making it easy to reach by keyboard anyway.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102400Z" creationid="bakera" creationdate="20170925T102400Z">
-        <seg>前述のように、aria-controlsは明示的な関連付けを提供しますが、あまり広くサポートされていないため使用しないことをお勧めします。こうした状況で役に立つのはソースの順序です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T073513Z" creationid="bakera" creationdate="20170925T102400Z">
+        <seg>これはただのエンハンスメントです。対応するフォームはフォーカス順のすぐ後に配置し、いずれにせよキーボードで簡単に到達できるようにしています。</seg>
       </tuv>
     </tu>
     <tu>
