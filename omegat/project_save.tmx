@@ -19580,11 +19580,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+fully-fludgedは完全に巣立ちした、のような意味。
+少し調整。</note>
       <tuv lang="EN-US">
         <seg>One option would be to design the login and register options as tabs in a fully-fledged WAI-ARIA tab interface.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102336Z" creationid="bakera" creationdate="20170925T102336Z">
-        <seg>一例として考えらるのは、本格的なWAI-ARIAのタブインターフェイスを使って、ログインオプションと登録オプションをタブとしてデザインすることです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T055957Z" creationid="bakera" creationdate="20170925T102336Z">
+        <seg>ひとつの選択肢として、本格的なWAI-ARIAのタブインターフェイスを使って、ログインオプションと登録オプションをタブとしてデザインすることが考えられます。</seg>
       </tuv>
     </tu>
     <tu>
