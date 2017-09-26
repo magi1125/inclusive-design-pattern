@@ -23532,6 +23532,16 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+少し調整。</note>
+      <tuv lang="EN-US">
+        <seg>The &lt;g3&gt;for&lt;/g3&gt; attribute associates the label with an input using its &lt;g4&gt;id&lt;/g4&gt; value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T082831Z" creationid="bakera" creationdate="20170926T082831Z">
+        <seg>&lt;g3&gt;for&lt;/g3&gt;属性に入力の&lt;g4&gt;id&lt;/g4&gt;の値を指定して、ラベルを関連付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 原文に近い分節に分割。
 
 (岡本)　一呼吸→ひと呼吸
@@ -25533,11 +25543,13 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし短めに調整。</note>
       <tuv lang="EN-US">
         <seg>The standard way to achieve this is by using a &lt;g1&gt;&lt;label&gt;&lt;/g1&gt; element, which takes a &lt;g2&gt;for&lt;/g2&gt; attribute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T082643Z" creationid="bakera" creationdate="20170926T082643Z">
-        <seg>標準的な方法は、&lt;g1&gt;&lt;label&gt;&lt;/g1&gt;要素を使用して&lt;g2&gt;for&lt;/g2&gt;属性を指定することです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T082711Z" creationid="bakera" creationdate="20170926T082643Z">
+        <seg>標準的な方法は、&lt;g1&gt;&lt;label&gt;&lt;/g1&gt;要素を使って&lt;g2&gt;for&lt;/g2&gt;属性を指定することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27122,6 +27134,17 @@ JISにあわせて「ブロックスキップ」。</note>
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170925T115537Z" creationid="bakera" creationdate="20170925T102323Z">
         <seg>これが、4章「ブログ記事」で述べたスキップリンク、見出し、ランドマーク領域を使ってブロックスキップ機能を作成する理由の1つです。ブロックスキップについては、WCAG 2.0の達成基準&lt;g1&gt;&lt;g2&gt;2.4.1「ブロックスキップ」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注172）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+ensureが重要な気がしたので強めに訳しました。
+</note>
+      <tuv lang="EN-US">
+        <seg>This is one of the reasons you should ensure &lt;g5&gt;id&lt;/g5&gt;s are unique.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T082921Z" creationid="bakera" creationdate="20170926T082921Z">
+        <seg>これが、&lt;g5&gt;id&lt;/g5&gt;を確実にユニークなものにしなければならない理由のひとつです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30349,6 +30372,14 @@ reorganize難しいですね。「状態を変える」か、超訳ですが「�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170829T104606Z" creationid="rikiha" creationdate="20170827T115924Z">
         <seg>たとえば、テストユーザーがボタンを押したら、コンピュータはそれに反応してアプリケーションの状態を変えなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When they are not, you would fail WCAG’s &lt;g6&gt;&lt;g7&gt;4.1.1 Parsing&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;6&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T083431Z" creationid="bakera" creationdate="20170926T083431Z">
+        <seg>一意でないと、WCAG 2.0の&lt;g6&gt;&lt;g7&gt;4.1.1「構文解析」&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注177）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;のルールを破ることになってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
