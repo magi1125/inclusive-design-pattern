@@ -12167,8 +12167,8 @@ think of は think about よりも対象についてピンポイントで深く�
       <tuv lang="EN-US">
         <seg>I detail the formulation of accessible, ARIA-enhanced tab interfaces in my book, “&lt;g1&gt;&lt;g2&gt;Apps For All: Coding Accessible Web Applications&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;5&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” Also available are a &lt;g6&gt;&lt;g7&gt;demo and explanation&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;6&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014424Z" creationid="rikiha" creationdate="20170925T014424Z">
-        <seg>ARIAで拡張されたアクセシブルなタブインターフェイスについては、私の著書『Apps For All: Coding Accessible Web Applications』（日本語版：『コーディングWebアクセシビリティ - WAI-ARIAで実現するマルチデバイス環境のWebアプリケーション』ボーンデジタル刊）（脚注197）で詳しく説明しています。また、デモや解説も利用できます。（脚注198）このような統合パターンおよびその予期される動作についてよく知らない方は、どちらかを参照してください。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T232126Z" creationid="rikiha" creationdate="20170925T014424Z">
+        <seg>WAI-ARIAで強化されたアクセシブルなタブインターフェイスについては、私の著書&lt;g1&gt;&lt;g2&gt;『Apps For All: Coding Accessible Web Applications』（日本語版：『コーディングWebアクセシビリティ - WAI-ARIAで実現するマルチデバイス環境のWebアプリケーション』ボーンデジタル刊）&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注197）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;で詳しく説明しています。また、&lt;g6&gt;&lt;g7&gt;解説付きのデモ&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注198）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;も利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13095,6 +13095,14 @@ going to be なので未来形ですね。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170628T042952Z" creationid="okamoto_jun" creationdate="20170627T084257Z">
         <seg>もしあなたがWebを&lt;g1&gt;作る側&lt;/g1&gt;というより利用する側に近いなら、おそらく&lt;g2&gt;Webデザイナー&lt;/g2&gt;という答えで十分でしょう。こんな風に答えるんじゃないですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you’re not familiar with this integrated pattern and its expected behaviors, please refer to either of these resources.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T231039Z" creationid="rikiha" creationdate="20170926T231039Z">
+        <seg>このような統合パターンおよびその予期される動作についてよく知らない方は、どちらかを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
