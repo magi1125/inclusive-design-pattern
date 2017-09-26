@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10430,11 +10430,15 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+要素自体はラベルを持たないという話。
+「付属するラベル」くらい?
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>For elements that accept user input like text inputs, an auxiliary label must be associated with it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T082134Z" creationid="bakera" creationdate="20170926T082134Z">
-        <seg>テキスト入力などのユーザー入力を受け取る要素の場合、補助的なラベルを関連付ける必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T082607Z" creationid="bakera" creationdate="20170926T082134Z">
+        <seg>テキスト入力などのユーザー入力を受け取る要素に対しては、付属するラベルを関連付ける必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22898,8 +22902,8 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       <tuv lang="EN-US">
         <seg>That is, when you focus the button, “Register” is announced as the label.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T082129Z" creationid="bakera" creationdate="20170926T082129Z">
-        <seg>つまり、そのボタンにフォーカスを合わせると、「登録」というラベルが読み上げられます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T082406Z" creationid="bakera" creationdate="20170926T082129Z">
+        <seg>つまり、このボタンにフォーカスを合わせると、「登録」というラベルが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
