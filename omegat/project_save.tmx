@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15898,6 +15898,16 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+原文にないカッコは取りつつ調整。</note>
+      <tuv lang="EN-US">
+        <seg>It was created in response to developers wanting to give hints for the type of content the user should provide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T111406Z" creationid="bakera" creationdate="20170926T111406Z">
+        <seg>ユーザーが入力すべき内容についてヒントを提供したい、という開発者の要望に応えてできた属性です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 指示語でわかると思うので「こちらのほうで」と調整。
 
 (太田) 構文的とは。「構文はすっきりします」でよさそう。
@@ -23513,11 +23523,12 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 微調整。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;placeholder&lt;/g1&gt; attribute is a relatively new addition to the HTML specification.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T092719Z" creationid="bakera" creationdate="20170926T092719Z">
-        <seg>&lt;g1&gt;placeholder&lt;/g1&gt;属性は、比較的新しくHTML仕様に追加されました。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T111243Z" creationid="bakera" creationdate="20170926T092719Z">
+        <seg>&lt;g1&gt;placeholder&lt;/g1&gt;属性は、比較的最近になってHTML仕様に追加されたものです。</seg>
       </tuv>
     </tu>
     <tu>
