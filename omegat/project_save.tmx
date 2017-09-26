@@ -3443,6 +3443,11 @@ contextual informationをどう訳すか。
       </tuv>
     </tu>
     <tu>
+      <note>NVDAでは、
+「ログイン/登録ツールバー ログイントグルボタン 押されています。」
+となりました。
+
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;When screen reader users focus the first button, “Login or register toolbar, login toggle button, selected” (or similar, depending on the screen reader) is announced.</seg>
       </tuv>
