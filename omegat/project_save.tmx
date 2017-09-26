@@ -3181,11 +3181,13 @@ https://developers.google.com/search/docs/data-types/products#single-product-pag
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+元訳が変ですね。Wordを見てもこうなっていますが原文と対応していないように思います。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The relationship between the toolbar and the subject &lt;g2&gt;#forms&lt;/g2&gt; container is also communicated via &lt;g3&gt;aria-controls&lt;/g3&gt; to supporting software, like the JAWS screen reader.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102358Z" creationid="bakera" creationdate="20170925T102358Z">
-        <seg>•表示されるフォーム（ログインまたは登録）は、ツールバーの下にフォーカス順序で配置されるので、キーボードやスクリーンリーダーのコントロールを使って容易にアクセスできます。このため、ツールバーとフォーム領域の間に明示的な関連付けは必要ありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T072804Z" creationid="bakera" creationdate="20170925T102358Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ツールバーと、対応するコンテナである&lt;g2&gt;#forms&lt;/g2&gt;との関係について、JAWSなどのスクリーンリーダーに対しては、&lt;g3&gt;aria-controls&lt;/g3&gt;を使って表現することもできます。</seg>
       </tuv>
     </tu>
     <tu>
