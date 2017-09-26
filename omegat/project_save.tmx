@@ -10502,11 +10502,12 @@ http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 次のように➞以下のように</note>
       <tuv lang="EN-US">
         <seg>For example, I might want to match all buttons that are not disabled:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014356Z" creationid="rikiha" creationdate="20170925T014356Z">
-        <seg>たとえば、無効になっていないすべてのボタンにマッチさせたい場合は、次のように記述します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T221655Z" creationid="rikiha" creationdate="20170925T014356Z">
+        <seg>たとえば、無効になっていないすべてのボタンにマッチさせたい場合は、以下のように記述します。</seg>
       </tuv>
     </tu>
     <tu>
