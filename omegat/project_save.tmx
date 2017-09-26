@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5798,11 +5798,14 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+toolbarどうするか。
+role=toolbarのもの。</note>
       <tuv lang="EN-US">
         <seg>A simpler way to communicate the choice and the current selection would be to construct a little &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;toolbar&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;4&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, like the following.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102344Z" creationid="bakera" creationdate="20170925T102344Z">
-        <seg>もっと簡単にオプションと現在の選択状況を伝えるには、以下のようなちょっとしたツールバー（toolbar）（脚注175）を作るとよいでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T062258Z" creationid="bakera" creationdate="20170925T102344Z">
+        <seg>もっと簡単にオプションと現在の選択状況を伝えるには、以下のようなちょっとした&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;ツールバー&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注175）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を作るとよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21574,12 +21577,13 @@ OK、微調整しました。
     </tu>
     <tu>
       <note>(太田)
-overkill</note>
+overkillはHPだがどうするか。
+</note>
       <tuv lang="EN-US">
         <seg>Since we are only dealing with two options (tabs), I think this complex widget is overkill.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102342Z" creationid="bakera" creationdate="20170925T102342Z">
-        <seg>ここではオプション（タブ）が2つだけなので、この複雑なウィジェットではやり過ぎのように思います。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T062200Z" creationid="bakera" creationdate="20170925T102342Z">
+        <seg>ここではオプション（タブ）を2つ扱うだけですので、この複雑なウィジェットはやり過ぎのように思います。</seg>
       </tuv>
     </tu>
     <tu>
