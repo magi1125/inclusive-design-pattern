@@ -34036,14 +34036,15 @@ sentは「飛ばされる」としました。
       <tuv lang="EN-US">
         <seg>For example, if I wanted to test that the &lt;g1&gt;add()&lt;/g1&gt; function from my &lt;g2&gt;add.js&lt;/g2&gt; Node.js module worked correctly, I could use &lt;g3&gt;&lt;g4&gt;Mocha&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;2&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; and the &lt;g8&gt;&lt;g9&gt;Chai&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;3&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt; assertion library:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014224Z" creationid="rikiha" creationdate="20170925T014224Z">
-        <seg>たとえば、add.jsのNodeモジュールのadd()機能が正しく動作するかテストしたい場合は、Mocha（脚注194）およびChai（脚注195）のアサーションライブラリを使用できます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T122938Z" creationid="rikiha" creationdate="20170925T014224Z">
+        <seg>たとえば、&lt;g1&gt;add.js&lt;/g1&gt;のNodeモジュールの&lt;g2&gt;add()&lt;/g2&gt;機能が正しく動作するかテストしたい場合は、Mocha（脚注194）およびChai（脚注195）のアサーションライブラリを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
       <prop type="file">chapter-27.html</prop>
       <prop type="id">tu4_0</prop>
-      <note>(伊原) TDDにあまり詳しくないのでこのあたり微妙。フォローいただければと。</note>
+      <note>(伊原) 関数と戻り値なのかなーと思いつつも、それに限定されない気もするので、機能と生成としました。TDDにあまり詳しくないのでこのあたり微妙。フォローいただければと。
+</note>
       <tuv lang="EN-US">
         <seg>In application development, tests are usually written against functions and what those functions are expected to produce.</seg>
       </tuv>
