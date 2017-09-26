@@ -14471,11 +14471,13 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+少し調整。</note>
       <tuv lang="EN-US">
         <seg>In the &lt;g1&gt;#username&lt;/g1&gt; example, “Choose a username” is the (accessible) label and “e.g. HotStuff666” is provided just to get the user’s imagination kick-started.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T115140Z" creationid="bakera" creationdate="20170926T115140Z">
-        <seg>&lt;g1&gt;#username&lt;/g1&gt;の例では、「ユーザー名を選択」が（アクセシブルな）ラベルとなり、「例：HotStuff666」はユーザーの想像力を刺激するためのヒントです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T115304Z" creationid="bakera" creationdate="20170926T115140Z">
+        <seg>&lt;g1&gt;#username&lt;/g1&gt;の例では、「ユーザー名を選択」が（アクセシブルな）ラベルであり、「例：HotStuff666」は、単にユーザーの想像力を刺激するだけのヒントにすぎません。</seg>
       </tuv>
     </tu>
     <tu>
