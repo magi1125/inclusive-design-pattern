@@ -33550,11 +33550,12 @@ sentは「飛ばされる」としました。
     <tu>
       <prop type="file">chapter-27.html</prop>
       <prop type="id">tu3_0</prop>
+      <note>(伊原) TDD自体が反復作業を誘発するはずなので、そのように調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;Test-driven development&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (TDD) allows developers working with frequent iterations to move forward with confidence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014150Z" creationid="rikiha" creationdate="20170925T014150Z">
-        <seg>テスト駆動開発（TDD）（脚注193）行えば、頻繁なイテレーションを行いながら作業する開発者は、自信を持って先に進むことができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T023135Z" creationid="rikiha" creationdate="20170925T014150Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;テスト駆動開発（TDD）&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注193）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;により、開発者は頻繁にイテレーションを行いながら、自信を持って前進できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
