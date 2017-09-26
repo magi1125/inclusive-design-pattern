@@ -24819,11 +24819,12 @@ there’s no need はどこにもないというような強い印象なので�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微妙に誤訳っぽいので調整。</note>
       <tuv lang="EN-US">
         <seg>The inherent logic of CSS selectors becomes clear when you reimagine selectors in JavaScript syntax.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014355Z" creationid="rikiha" creationdate="20170925T014355Z">
-        <seg>CSSセレクタの固有のロジックは、JavaScript構文のセレクタで考え直すと分かりやすいでしょう。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T221510Z" creationid="rikiha" creationdate="20170925T014355Z">
+        <seg>JavaScript構文でセレクタで考え直してみると、CSSセレクタ固有のロジックが明確になります。</seg>
       </tuv>
     </tu>
     <tu>
