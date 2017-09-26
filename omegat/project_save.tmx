@@ -18877,6 +18877,16 @@ the URLは「このページのURL」としてみました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+OK</note>
+      <tuv lang="EN-US">
+        <seg>Now let’s shift our focus to just the registration form itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T073906Z" creationid="bakera" creationdate="20170926T073906Z">
+        <seg>登録フォームそのものに焦点を移しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) let's感を出しました。
 
 (太田) OK</note>
@@ -23458,6 +23468,14 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170802T091043Z" creationid="rikiha" creationdate="20170727T134651Z">
         <seg>&lt;g7&gt;aria-describedby&lt;/g7&gt;属性によって付け足される説明は、ひと呼吸置いてから読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Basic Form</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T073901Z" creationid="bakera" creationdate="20170926T073901Z">
+        <seg>基本のフォーム</seg>
       </tuv>
     </tu>
     <tu>
