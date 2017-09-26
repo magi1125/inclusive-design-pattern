@@ -3452,8 +3452,8 @@ aria-pressedの読み上げは2017.3で変更になったようです。
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;When screen reader users focus the first button, “Login or register toolbar, login toggle button, selected” (or similar, depending on the screen reader) is announced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T071206Z" creationid="bakera" creationdate="20170925T102356Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;スクリーンリーダーユーザーが最初のボタンにフォーカスすると、「ログイン/登録ツールバー、ログイントグルボタン、押されています」などと読み上げられます（内容はスクリーンリーダーによって若干異なります）。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T071839Z" creationid="bakera" creationdate="20170925T102356Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;スクリーンリーダーユーザーが最初のボタンにフォーカスすると、「ログイン/登録 ツールバー、ログイン トグルボタン、押されています」などと読み上げられます（内容はスクリーンリーダーによって若干異なります）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26776,8 +26776,8 @@ marginは「マージン」で良いかと。
       <tuv lang="EN-US">
         <seg>This informs users that they are interacting with a toolbar widget presenting them with a choice of “Login or register” and that the “login” option is currently activated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102357Z" creationid="bakera" creationdate="20170925T102357Z">
-        <seg>これによりユーザーは、自分が「＃＃ログインまたは登録＃＃」という選択肢を提示するツールバーウィジェットとやり取りしていて、現在は「＃＃ログイン＃＃」オプションがアクティブになっていると知ることができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T071225Z" creationid="bakera" creationdate="20170925T102357Z">
+        <seg>これによりユーザーは、自分が「ログイン/登録」という選択肢を提示するツールバーウィジェットとやり取りしていて、現在は「ログイン」オプションがアクティブになっていると知ることができます。</seg>
       </tuv>
     </tu>
     <tu>
