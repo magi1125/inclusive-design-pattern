@@ -14078,6 +14078,19 @@ switch to structured content は、WYSWYGエディタの右上にある &lt;&gt;
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+NVDA2017.3jaでは
+「パスワードを選択 エディット 保護付き ブランク」
+でした。
+</note>
+      <tuv lang="EN-US">
+        <seg>In my example, when a screen reader user focuses the password field, “Choose a password, secure input” (or similar) would be announced.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T090621Z" creationid="bakera" creationdate="20170926T090621Z">
+        <seg>この例では、スクリーンリーダーユーザーがパスワードフィールドにフォーカスを合わせると、「パスワードを選択 エディット、保護つき」などと読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) spartanはスパルタ式の質実剛健な、という程度の意味。
 
 (伊原) LGTM
