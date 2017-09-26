@@ -3798,6 +3798,13 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+ユーザー名を選択する？</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g33&gt;&lt;g34&gt;&lt;g35&gt;&lt;&lt;/g35&gt;label&lt;/g34&gt; &lt;g36&gt;for&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"username"&lt;/g37&gt;&lt;g39&gt;&gt;&lt;/g39&gt;&lt;/g33&gt;Choose a username&lt;g40&gt;&lt;g41&gt;&lt;g42&gt;&lt;/&lt;/g42&gt;label&lt;/g41&gt;&lt;g43&gt;&gt;&lt;/g43&gt;&lt;/g40&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g35&gt;&lt;g36&gt;&lt;g37&gt;&lt;&lt;/g37&gt;dt&lt;/g36&gt;&lt;g38&gt;&gt;&lt;/g38&gt;&lt;/g35&gt;Size:&lt;g39&gt;&lt;g40&gt;&lt;g41&gt;&lt;/&lt;/g41&gt;dt&lt;/g40&gt;&lt;g42&gt;&gt;&lt;/g42&gt;&lt;/g39&gt;</seg>
       </tuv>
@@ -4159,6 +4166,13 @@ Price:　→価格：</note>
 (伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;g5&gt;font-size&lt;/g5&gt;&lt;g6&gt;:&lt;/g6&gt; 1rem&lt;g7&gt;;&lt;/g7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+パスワードを選択する？</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g60&gt;&lt;g61&gt;&lt;g62&gt;&lt;&lt;/g62&gt;label&lt;/g61&gt; &lt;g63&gt;for&lt;/g63&gt;&lt;g64&gt;&lt;g65&gt;=&lt;/g65&gt;"password"&lt;/g64&gt;&lt;g66&gt;&gt;&lt;/g66&gt;&lt;/g60&gt;Choose a password&lt;g67&gt;&lt;g68&gt;&lt;g69&gt;&lt;/&lt;/g69&gt;label&lt;/g68&gt;&lt;g70&gt;&gt;&lt;/g70&gt;&lt;/g67&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4525,6 +4539,14 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+登録？</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;&lt;/g86&gt;button&lt;/g85&gt; &lt;g87&gt;type&lt;/g87&gt;&lt;g88&gt;&lt;g89&gt;=&lt;/g89&gt;"submit"&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g84&gt;Register&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;/&lt;/g93&gt;button&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;
+&lt;g95&gt;&lt;g96&gt;&lt;g97&gt;&lt;/&lt;/g97&gt;form&lt;/g96&gt;&lt;g98&gt;&gt;&lt;/g98&gt;&lt;/g95&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;&lt;/g86&gt;dt&lt;/g85&gt;&lt;g87&gt;&gt;&lt;/g87&gt;&lt;/g84&gt;Price:&lt;g88&gt;&lt;g89&gt;&lt;g90&gt;&lt;/&lt;/g90&gt;dt&lt;/g89&gt;&lt;g91&gt;&gt;&lt;/g91&gt;&lt;/g88&gt;</seg>
       </tuv>
@@ -4679,6 +4701,13 @@ Price:　→価格：</note>
       <tuv lang="JA" changeid="yoota" changedate="20170515T084531Z" creationid="yoota" creationdate="20170515T084531Z">
         <seg>&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;h1&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;インクルーシブなブログ記事のマークアップ方法&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;/&lt;/g15&gt;h1&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g13&gt;
 &lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;/&lt;/g19&gt;main&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g17&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+あなたのメールアドレス？</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;label&lt;/g10&gt; &lt;g12&gt;for&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"email"&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g9&gt;Your email address&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;/&lt;/g18&gt;label&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g16&gt;</seg>
       </tuv>
     </tu>
     <tu>
