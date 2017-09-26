@@ -25533,6 +25533,14 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The standard way to achieve this is by using a &lt;g1&gt;&lt;label&gt;&lt;/g1&gt; element, which takes a &lt;g2&gt;for&lt;/g2&gt; attribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T082643Z" creationid="bakera" creationdate="20170926T082643Z">
+        <seg>標準的な方法は、&lt;g1&gt;&lt;label&gt;&lt;/g1&gt;要素を使用して&lt;g2&gt;for&lt;/g2&gt;属性を指定することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) インタラクティブ要素が増えるとそのたびにフォーカススタイルの議論が必要になるという話のように思います。
 
 (伊原) インタラクティブな要素、としました。</note>
