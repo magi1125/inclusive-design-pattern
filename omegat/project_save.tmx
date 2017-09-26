@@ -5223,12 +5223,13 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
     </tu>
     <tu>
       <note>(太田)
-the がついているのに「など」というのはどこから……。</note>
+the がついているのに「など」というのはどこから……。
+意訳気味に調整してみました。</note>
       <tuv lang="EN-US">
         <seg>A CSS style should be provided to show that this button is the selected one, possibly with the &lt;g8&gt;[aria-pressed="true"]&lt;/g8&gt; attribute selector.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T064558Z" creationid="bakera" creationdate="20170925T102354Z">
-        <seg>CSSのスタイルで、このボタンが選択されていることを示します。&lt;g8&gt;[aria-pressed="true"]&lt;/g8&gt;の属性セレクタを使うことができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T064625Z" creationid="bakera" creationdate="20170925T102354Z">
+        <seg>CSSでこのボタンが選択されていることを示す際は、&lt;g8&gt;[aria-pressed="true"]&lt;/g8&gt;の属性セレクタを使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
