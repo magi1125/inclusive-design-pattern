@@ -23510,6 +23510,14 @@ CSSの話題で「非表示」と書くとvisibility:hiddenを連想してトル
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;placeholder&lt;/g1&gt; attribute is a relatively new addition to the HTML specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T092719Z" creationid="bakera" creationdate="20170926T092719Z">
+        <seg>&lt;g1&gt;placeholder&lt;/g1&gt;属性は、比較的新しくHTML仕様に追加されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 直訳すると「viewportメタタグはレスポンシブデザインをちょっと魔法っぽく有効にしている場所です」
 
 (伊原) LGTM</note>
