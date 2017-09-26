@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1367,6 +1367,14 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
       <tuv lang="JA" changeid="yoota" changedate="20170523T100757Z" creationid="yoota" creationdate="20170523T100714Z">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h1&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;ブログ記事のマークアップ方法&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;h1&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;
 &lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;p&lt;/g11&gt;&lt;g13&gt;&gt;&lt;/g13&gt;&lt;/g10&gt;&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;&lt;&lt;/g16&gt;span&lt;/g15&gt; &lt;g17&gt;class&lt;/g17&gt;&lt;g18&gt;&lt;g19&gt;=&lt;/g19&gt;"visually-hidden"&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g14&gt;サブタイトル:&lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;/&lt;/g23&gt;span&lt;/g22&gt;&lt;g24&gt;&gt;&lt;/g24&gt;&lt;/g21&gt; ～シンプルな7つのステップで～&lt;g25&gt;&lt;g26&gt;&lt;g27&gt;&lt;/&lt;/g27&gt;p&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g25&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+ようこそ？</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h1&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;Welcome&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;h1&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;
+&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;div&lt;/g11&gt; &lt;g13&gt;role&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"toolbar"&lt;/g14&gt; &lt;g16&gt;aria-label&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"Login or register"&lt;/g17&gt; &lt;g19&gt;aria-controls&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"forms"&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g10&gt;</seg>
       </tuv>
     </tu>
     <tu>
