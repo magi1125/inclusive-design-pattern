@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8073,8 +8073,8 @@ punditは権威、先生、専門家、哲学者のような意味ですが皮�
       <tuv lang="EN-US">
         <seg>But despite what certain vocal accessibility pundits might have you believe, there’s really no right or wrong way to achieve this kind of thing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102333Z" creationid="bakera" creationdate="20170925T102333Z">
-        <seg>しかし、音声によるアクセシビリティの専門家がどのような意見を述べようとも、実はこの種のことに正しいも間違っているもありません。]</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170926T020916Z" creationid="bakera" creationdate="20170925T102333Z">
+        <seg>しかし、音声によるアクセシビリティの専門家がどのような意見を述べようとも、実はこの種のことに正しいも間違っているもありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16121,12 +16121,14 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(岡本)　分かり→わかり</note>
       <tuv lang="EN-US">
         <seg>It’s important the choice being presented to the user is clear both visually and non-visually.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T102332Z" creationid="bakera" creationdate="20170925T102332Z">
-        <seg>選択肢は、視覚的にも非視覚的にもユーザーに分かりやすく表示することが重要です。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170926T020906Z" creationid="bakera" creationdate="20170925T102332Z">
+        <seg>選択肢は、視覚的にも非視覚的にもユーザーにわかりやすく表示することが重要です。</seg>
       </tuv>
     </tu>
     <tu>
