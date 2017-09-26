@@ -26077,11 +26077,12 @@ explicitはlabelではなくactionについているような。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 前段落を受けると、as we write it as well はテストを書くことかなと。</note>
       <tuv lang="EN-US">
         <seg>Then we could ensure the correct &lt;g1&gt;structure of markup&lt;/g1&gt; as we write it as well.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T132340Z" creationid="rikiha" creationdate="20170925T014340Z">
-        <seg>そうであれば、テストを書くのと同様にマークアップの構造が正しいことを確認しながら書き進めることができます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170926T132844Z" creationid="rikiha" creationdate="20170925T014340Z">
+        <seg>そうであれば、同様にテストを書くことでマークアップの構造の正しさを保証できます。</seg>
       </tuv>
     </tu>
     <tu>
