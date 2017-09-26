@@ -27372,6 +27372,14 @@ SVGの要素であることを補いたいかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This is why standard elements and attributes such as &lt;g7&gt;type="password"&lt;/g7&gt; are a safer choice where available.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T091714Z" creationid="bakera" creationdate="20170926T091714Z">
+        <seg>これが、&lt;g7&gt;type="password"&lt;/g7&gt;のような標準的な要素や属性の方が無難な選択である理由です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)
 付ける→つける
 
@@ -29446,6 +29454,16 @@ state属性という属性があるわけではないので「状態(state)属�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170822T083905Z" creationid="rikiha" creationdate="20170819T005234Z">
         <seg>WAI-ARIAは&lt;g1&gt;true&lt;/g1&gt;と&lt;g2&gt;false&lt;/g2&gt;の値を持つ状態(state)属性を提供しており、これによって状態の有効／無効を伝えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+すこし調整。</note>
+      <tuv lang="EN-US">
+        <seg>WAI-ARIA only affects semantics, not general behavior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T091649Z" creationid="bakera" creationdate="20170926T091649Z">
+        <seg>WAI-ARIAが影響するのはセマンティクスのみで、動作全般には影響しません。</seg>
       </tuv>
     </tu>
     <tu>
