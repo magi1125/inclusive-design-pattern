@@ -10,8 +10,8 @@
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; Each rule is in a separate declaration block rather than a comma-delimited list.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T122048Z" creationid="bakera" creationdate="20170926T121923Z">
-        <seg>（&lt;g1&gt;注：&lt;/g1&gt;それぞれのルールは、カンマ区切りのリストで宣言するのではなく、個別の宣言ブロックにします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T122238Z" creationid="bakera" creationdate="20170926T121923Z">
+        <seg>（&lt;g1&gt;注：&lt;/g1&gt;セレクタをカンマ区切りのリストでまとめて宣言するのではなく、それぞれ個別の宣言ブロックに分けています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8037,6 +8037,16 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T100853Z" creationid="yoota" creationdate="20170511T100807Z">
         <seg>ブラウザには、点線のアウトラインやぼんやりとした青い光の輪など、それぞれ独自のフォーカススタイルがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+意訳気味に調整。</note>
+      <tuv lang="EN-US">
+        <seg>Browsers will not parse a combined block if it contains unrecognized, proprietary selectors.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170926T122357Z" creationid="bakera" creationdate="20170926T122152Z">
+        <seg>ブラウザが認識できない独自のセレクタが含まれている場合、そのブロック全体が無視されることがあるためです。）</seg>
       </tuv>
     </tu>
     <tu>
