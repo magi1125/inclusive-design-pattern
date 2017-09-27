@@ -22530,7 +22530,8 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
     <tu>
       <note>(太田)
 screen estateはどう訳すべきか。
-画面のリソース的な意味だと思いますが。</note>
+画面のリソース的な意味だと思いますが、あとで room という言葉を使っているので、ここでは不動産をイメージしているっぽいです。
+</note>
       <tuv lang="EN-US">
         <seg>Sometimes it’s tempting to remove visible labels and rely on &lt;g1&gt;placeholder&lt;/g1&gt; attributes to save space (or &lt;g2&gt;screen estate&lt;/g2&gt; if you prefer) but that’s hardly a good reason to diminish the usability of a form.</seg>
       </tuv>
@@ -31782,11 +31783,13 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+room ということは前の estate は不動産イメージか。</note>
       <tuv lang="EN-US">
         <seg>You should prioritize making room for the label from the outset, in mockups and prototypes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170927T121011Z" creationid="bakera" creationdate="20170927T121011Z">
-        <seg>モックアップやプロトタイプの作成段階から、ラベル用のスペース確保を優先するようにしてください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T121230Z" creationid="bakera" creationdate="20170927T121011Z">
+        <seg>モックアップやプロトタイプの段階から、ラベル用のスペース確保を優先するようにしてください。</seg>
       </tuv>
     </tu>
     <tu>
