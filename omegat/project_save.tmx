@@ -22294,7 +22294,7 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) the structure easily degrades as a list of links がわかりにくい。このdegradesはグレイスフルデグラデーションのそれっぽい感じ。タブ扱いにできなくてもリンクリストにできる（ので、ナビゲート可能な状態が維持できる）ということなのだと思いますが、この1文だけでは伝わらなそう。
+      <note>(伊原) the structure easily degrades as a list of links がわかりにくい。このdegradesはグレイスフルデグラデーションのそれっぽい感じ。ARIA未対応でタブ扱いにできなくてもリンクリストにできるので、ナビゲート可能な状態が維持できる……ということなのだと思いますが、この1文だけでは伝わらなそう。
 ひとまず意訳してみましたがどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>Some implementations place this attribute directly on each &lt;g10&gt;&lt;li&gt;&lt;/g10&gt; element, but I prefer to use &lt;g11&gt;&lt;a&gt;&lt;/g11&gt; elements so that the structure easily degrades as a list of links.</seg>
@@ -30759,11 +30759,12 @@ useが命令形なので末尾「しましょう」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 冗長というか余計、抑制というか抑止。そのように調整しました。</note>
       <tuv lang="EN-US">
         <seg>Where JavaScript has added the tab interface semantics, the list semantics become redundant, which is why we suppress them with &lt;g1&gt;role="presentation"&lt;/g1&gt; on each &lt;g2&gt;&lt;li&gt;&lt;/g2&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014503Z" creationid="rikiha" creationdate="20170925T014503Z">
-        <seg>JavaScriptがタブインターフェイスのセマンティクスを加えた場合は、リストのセマンティクスが冗長になるので、各&lt;li&gt;要素のrole="presentation"でそれを抑制します。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T073552Z" creationid="rikiha" creationdate="20170925T014503Z">
+        <seg>JavaScriptでタブインターフェイスのセマンティクスを加えると、リストのセマンティクスが余計になるため、各&lt;g2&gt;&lt;li&gt;&lt;/g2&gt;要素に&lt;g1&gt;role="presentation"&lt;/g1&gt;を指定してリストのセマンティクスを抑止します。</seg>
       </tuv>
     </tu>
     <tu>
