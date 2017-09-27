@@ -21151,8 +21151,8 @@ without the clear hierarchy of grouping related sections under a main heading on
       <tuv lang="EN-US">
         <seg>See the “Navigation Regions” chapter for more on link lists and navigation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014459Z" creationid="rikiha" creationdate="20170925T014459Z">
-        <seg>リンクリストとナビゲーションの詳細については「＄＄Navigation Regions＄＄」の章を参照してください。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T064201Z" creationid="rikiha" creationdate="20170925T014459Z">
+        <seg>リンクリストとナビゲーションの詳細については、5章「ナビゲーション領域」を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22298,8 +22298,8 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       <tuv lang="EN-US">
         <seg>Some implementations place this attribute directly on each &lt;g10&gt;&lt;li&gt;&lt;/g10&gt; element, but I prefer to use &lt;g11&gt;&lt;a&gt;&lt;/g11&gt; elements so that the structure easily degrades as a list of links.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T064026Z" creationid="rikiha" creationdate="20170925T014458Z">
-        <seg>この属性を各&lt;g10&gt;&lt;li&gt;&lt;/g10&gt;要素に直接指定する実装方法もありますが、私は&lt;a&gt;要素を使用することを好みます。そうすればこの構造をリンクリストの形で担保することも容易だからです。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T064057Z" creationid="rikiha" creationdate="20170925T014458Z">
+        <seg>この属性を各&lt;g10&gt;&lt;li&gt;&lt;/g10&gt;要素に直接指定する実装方法もありますが、私は&lt;a&gt;要素を使用することを好みます。そうすればこの構造をリンクリストの形として担保することも容易だからです。</seg>
       </tuv>
     </tu>
     <tu>
