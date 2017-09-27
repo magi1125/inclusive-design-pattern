@@ -923,6 +923,14 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g126&gt;&lt;!-- tab panel 1 content --&gt;&lt;/g126&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170927T102712Z" creationid="okamoto_jun" creationdate="20170927T102712Z">
+        <seg>&lt;g126&gt;&lt;!-- タブパネル1のコンテンツ--&gt;&lt;/g126&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g12&gt;/* &lt;button&gt; element styles */&lt;/g12&gt;
 &lt;g13&gt;}&lt;/g13&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -993,6 +1001,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g144&gt;&lt;!-- tab panel 2 content --&gt;&lt;/g144&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170927T102745Z" creationid="okamoto_jun" creationdate="20170927T102745Z">
+        <seg>&lt;g144&gt;&lt;!-- タブパネル2のコンテンツ --&gt;&lt;/g144&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g146&gt;&lt;!-- second newly returned product --&gt;&lt;/g146&gt;
 &lt;g147&gt;&lt;g148&gt;&lt;g149&gt;&lt;/&lt;/g149&gt;li&lt;/g148&gt;&lt;g150&gt;&gt;&lt;/g150&gt;&lt;/g147&gt;
 &lt;g151&gt;&lt;g152&gt;&lt;g153&gt;&lt;&lt;/g153&gt;li&lt;/g152&gt;&lt;g154&gt;&gt;&lt;/g154&gt;&lt;/g151&gt;</seg>
@@ -1054,6 +1070,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       <tuv lang="JA" changeid="yoota" changedate="20170523T095647Z" creationid="yoota" creationdate="20170523T095647Z">
         <seg>&lt;g15&gt;&lt;g16&gt;&lt;g17&gt;&lt;&lt;/g17&gt;h2&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g15&gt;～シンプルな7つのステップで～&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;/&lt;/g21&gt;h2&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;
 &lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;hgroup&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g162&gt;&lt;!-- tab panel 3 content --&gt;&lt;/g162&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170927T103057Z" creationid="okamoto_jun" creationdate="20170927T103057Z">
+        <seg>&lt;g162&gt;&lt;!-- タブパネル3のコンテンツ--&gt;&lt;/g162&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1369,9 +1393,6 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
 以下のタグのコメントなどお願いします。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;div&lt;/g3&gt; &lt;g5&gt;class&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"tab-interface"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170927T102423Z" creationid="okamoto_jun" creationdate="20170927T102423Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;div&lt;/g3&gt; &lt;g5&gt;class&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"tab-interface"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;1番目のタブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3983,6 +4004,14 @@ Size:　→サイズ：</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g47&gt;&lt;g48&gt;&lt;g49&gt;&lt;&lt;/g49&gt;li&lt;/g48&gt; &lt;g50&gt;role&lt;/g50&gt;&lt;g51&gt;&lt;g52&gt;=&lt;/g52&gt;"presentation"&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g47&gt;&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;&lt;/g56&gt;a&lt;/g55&gt; &lt;g57&gt;href&lt;/g57&gt;&lt;g58&gt;&lt;g59&gt;=&lt;/g59&gt;"#panel2"&lt;/g58&gt; &lt;g60&gt;id&lt;/g60&gt;&lt;g61&gt;&lt;g62&gt;=&lt;/g62&gt;"tab2"&lt;/g61&gt; &lt;g63&gt;role&lt;/g63&gt;&lt;g64&gt;&lt;g65&gt;=&lt;/g65&gt;"tab"&lt;/g64&gt; &lt;g66&gt;tabindex&lt;/g66&gt;&lt;g67&gt;&lt;g68&gt;=&lt;/g68&gt;"-1"&lt;/g67&gt;&lt;g69&gt;&gt;&lt;/g69&gt;&lt;/g54&gt;Second Tab&lt;g70&gt;&lt;g71&gt;&lt;g72&gt;&lt;/&lt;/g72&gt;a&lt;/g71&gt;&lt;g73&gt;&gt;&lt;/g73&gt;&lt;/g70&gt;&lt;g74&gt;&lt;g75&gt;&lt;g76&gt;&lt;/&lt;/g76&gt;li&lt;/g75&gt;&lt;g77&gt;&gt;&lt;/g77&gt;&lt;/g74&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170927T102638Z" creationid="okamoto_jun" creationdate="20170927T102553Z">
+        <seg>&lt;g47&gt;&lt;g48&gt;&lt;g49&gt;&lt;&lt;/g49&gt;li&lt;/g48&gt; &lt;g50&gt;role&lt;/g50&gt;&lt;g51&gt;&lt;g52&gt;=&lt;/g52&gt;"presentation"&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g47&gt;&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;&lt;/g56&gt;a&lt;/g55&gt; &lt;g57&gt;href&lt;/g57&gt;&lt;g58&gt;&lt;g59&gt;=&lt;/g59&gt;"#panel2"&lt;/g58&gt; &lt;g60&gt;id&lt;/g60&gt;&lt;g61&gt;&lt;g62&gt;=&lt;/g62&gt;"tab2"&lt;/g61&gt; &lt;g63&gt;role&lt;/g63&gt;&lt;g64&gt;&lt;g65&gt;=&lt;/g65&gt;"tab"&lt;/g64&gt; &lt;g66&gt;tabindex&lt;/g66&gt;&lt;g67&gt;&lt;g68&gt;=&lt;/g68&gt;"-1"&lt;/g67&gt;&lt;g69&gt;&gt;&lt;/g69&gt;&lt;/g54&gt;２番めのタブ&lt;g70&gt;&lt;g71&gt;&lt;g72&gt;&lt;/&lt;/g72&gt;a&lt;/g71&gt;&lt;g73&gt;&gt;&lt;/g73&gt;&lt;/g70&gt;&lt;g74&gt;&lt;g75&gt;&lt;g76&gt;&lt;/&lt;/g76&gt;li&lt;/g75&gt;&lt;g77&gt;&gt;&lt;/g77&gt;&lt;/g74&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g48&gt;&lt;!-- article content here --&gt;&lt;/g48&gt;
 &lt;g49&gt;&lt;g50&gt;&lt;g51&gt;&lt;/&lt;/g51&gt;main&lt;/g50&gt;&lt;g52&gt;&gt;&lt;/g52&gt;&lt;/g49&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -4469,6 +4498,14 @@ Price:　→価格：</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134341Z" creationid="rikiha" creationdate="20170809T134341Z">
         <seg>&lt;g77&gt;&lt;g78&gt;&lt;g79&gt;&lt;&lt;/g79&gt;li&lt;/g78&gt;&lt;g80&gt;&gt;&lt;/g80&gt;&lt;/g77&gt;&lt;g81&gt;&lt;g82&gt;&lt;g83&gt;&lt;&lt;/g83&gt;a&lt;/g82&gt; &lt;g84&gt;href&lt;/g84&gt;&lt;g85&gt;&lt;g86&gt;=&lt;/g86&gt;"/contact"&lt;/g85&gt;&lt;g87&gt;&gt;&lt;/g87&gt;&lt;/g81&gt;お問い合わせ us&lt;g88&gt;&lt;g89&gt;&lt;g90&gt;&lt;/&lt;/g90&gt;a&lt;/g89&gt;&lt;g91&gt;&gt;&lt;/g91&gt;&lt;/g88&gt;&lt;g92&gt;&lt;g93&gt;&lt;g94&gt;&lt;/&lt;/g94&gt;li&lt;/g93&gt;&lt;g95&gt;&gt;&lt;/g95&gt;&lt;/g92&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g78&gt;&lt;g79&gt;&lt;g80&gt;&lt;&lt;/g80&gt;li&lt;/g79&gt; &lt;g81&gt;role&lt;/g81&gt;&lt;g82&gt;&lt;g83&gt;=&lt;/g83&gt;"presentation"&lt;/g82&gt;&lt;g84&gt;&gt;&lt;/g84&gt;&lt;/g78&gt;&lt;g85&gt;&lt;g86&gt;&lt;g87&gt;&lt;&lt;/g87&gt;a&lt;/g86&gt; &lt;g88&gt;href&lt;/g88&gt;&lt;g89&gt;&lt;g90&gt;=&lt;/g90&gt;"#panel3"&lt;/g89&gt; &lt;g91&gt;id&lt;/g91&gt;&lt;g92&gt;&lt;g93&gt;=&lt;/g93&gt;"tab3"&lt;/g92&gt; &lt;g94&gt;role&lt;/g94&gt;&lt;g95&gt;&lt;g96&gt;=&lt;/g96&gt;"tab"&lt;/g95&gt; &lt;g97&gt;tabindex&lt;/g97&gt;&lt;g98&gt;&lt;g99&gt;=&lt;/g99&gt;"-1"&lt;/g98&gt;&lt;g100&gt;&gt;&lt;/g100&gt;&lt;/g85&gt;Third Tab&lt;g101&gt;&lt;g102&gt;&lt;g103&gt;&lt;/&lt;/g103&gt;a&lt;/g102&gt;&lt;g104&gt;&gt;&lt;/g104&gt;&lt;/g101&gt;&lt;g105&gt;&lt;g106&gt;&lt;g107&gt;&lt;/&lt;/g107&gt;li&lt;/g106&gt;&lt;g108&gt;&gt;&lt;/g108&gt;&lt;/g105&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170927T102616Z" creationid="okamoto_jun" creationdate="20170927T102616Z">
+        <seg>&lt;g78&gt;&lt;g79&gt;&lt;g80&gt;&lt;&lt;/g80&gt;li&lt;/g79&gt; &lt;g81&gt;role&lt;/g81&gt;&lt;g82&gt;&lt;g83&gt;=&lt;/g83&gt;"presentation"&lt;/g82&gt;&lt;g84&gt;&gt;&lt;/g84&gt;&lt;/g78&gt;&lt;g85&gt;&lt;g86&gt;&lt;g87&gt;&lt;&lt;/g87&gt;a&lt;/g86&gt; &lt;g88&gt;href&lt;/g88&gt;&lt;g89&gt;&lt;g90&gt;=&lt;/g90&gt;"#panel3"&lt;/g89&gt; &lt;g91&gt;id&lt;/g91&gt;&lt;g92&gt;&lt;g93&gt;=&lt;/g93&gt;"tab3"&lt;/g92&gt; &lt;g94&gt;role&lt;/g94&gt;&lt;g95&gt;&lt;g96&gt;=&lt;/g96&gt;"tab"&lt;/g95&gt; &lt;g97&gt;tabindex&lt;/g97&gt;&lt;g98&gt;&lt;g99&gt;=&lt;/g99&gt;"-1"&lt;/g98&gt;&lt;g100&gt;&gt;&lt;/g100&gt;&lt;/g85&gt;3番めのタブ&lt;g101&gt;&lt;g102&gt;&lt;g103&gt;&lt;/&lt;/g103&gt;a&lt;/g102&gt;&lt;g104&gt;&gt;&lt;/g104&gt;&lt;/g101&gt;&lt;g105&gt;&lt;g106&gt;&lt;g107&gt;&lt;/&lt;/g107&gt;li&lt;/g106&gt;&lt;g108&gt;&gt;&lt;/g108&gt;&lt;/g105&gt;</seg>
       </tuv>
     </tu>
     <tu>
