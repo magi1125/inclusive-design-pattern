@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6240,6 +6240,7 @@ Allのニュアンスを盛り込むべきかも。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 能動形に修正。</note>
       <tuv lang="EN-US">
         <seg>All other tabs should take the &lt;g8&gt;tabindex="-1"&lt;/g8&gt; attribute and be selectable using only the arrow keys.</seg>
       </tuv>
@@ -27835,11 +27836,12 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) さらに を追加。</note>
       <tuv lang="EN-US">
         <seg>This requires two more test selectors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014514Z" creationid="rikiha" creationdate="20170925T014514Z">
-        <seg>これを確認するには、2つのテストセレクタが必要です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T080557Z" creationid="rikiha" creationdate="20170925T014514Z">
+        <seg>これを確認するには、さらに2つのテストセレクタが必要です。</seg>
       </tuv>
     </tu>
     <tu>
