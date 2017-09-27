@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8276,6 +8276,17 @@ have you believe で「あなたに信じさせる」
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170925T014542Z" creationid="rikiha" creationdate="20170925T014542Z">
         <seg>しかし、エラーに関する説明がなければあまり役に立ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+「代用ラベル」で伝わるか?
+原文  the surrogate label </note>
+      <tuv lang="EN-US">
+        <seg>But that’s not the only problem: any sighted users interacting with the input will find the surrogate label disappears as soon as they start typing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T080617Z" creationid="bakera" creationdate="20170927T080617Z">
+        <seg>問題はそれだけではありません。目が見えているユーザーが入力する際、文字を打ち始めた瞬間に、代用ラベルは消えてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22351,6 +22362,16 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170902T145655Z" creationid="rikiha" creationdate="20170828T141745Z">
         <seg>スクリーンリーダーのユーザーの中には、見出しを使って商品リストを見て回る人もいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+すこし調整。</note>
+      <tuv lang="EN-US">
+        <seg>Some screen readers and browsers do not support &lt;g1&gt;placeholder&lt;/g1&gt;, so using it to supplant a proper label will result in missing information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T075851Z" creationid="bakera" creationdate="20170927T070905Z">
+        <seg>スクリーンリーダーやブラウザの中には、&lt;g1&gt;placeholder&lt;/g1&gt;をサポートしないものもあります。そのため、適切なラベルの代わりにプレースホルダーを使うと、情報が失われることになってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
