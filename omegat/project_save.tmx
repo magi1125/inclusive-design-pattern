@@ -22530,12 +22530,12 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
     <tu>
       <note>(太田)
 screen estateはどう訳すべきか。
-</note>
+画面のリソース的な意味だと思いますが。</note>
       <tuv lang="EN-US">
         <seg>Sometimes it’s tempting to remove visible labels and rely on &lt;g1&gt;placeholder&lt;/g1&gt; attributes to save space (or &lt;g2&gt;screen estate&lt;/g2&gt; if you prefer) but that’s hardly a good reason to diminish the usability of a form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170927T115458Z" creationid="bakera" creationdate="20170927T091702Z">
-        <seg>時には、スペースの節約（もしくは、画面サイズの制限と言ったほうが良いでしょうか）のため、ラベルを表示せずに&lt;g1&gt;placeholder&lt;/g1&gt;属性で代用したいという誘惑に駆られることもありますが、フォームのユーザビリティを犠牲にする理由としては、相当苦しいでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T121127Z" creationid="bakera" creationdate="20170927T091702Z">
+        <seg>時には、スペースの節約（もしくは、画面のリソースの制限と言ったほうが良いでしょうか）のため、ラベルを表示せずに&lt;g1&gt;placeholder&lt;/g1&gt;属性で代用したいという誘惑に駆られることもありますが、フォームのユーザビリティを犠牲にする理由としては、相当苦しいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
