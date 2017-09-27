@@ -20895,11 +20895,14 @@ wouldなので語尾を「ことがあります」としました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+少し補いました。
+原文は「ユーザーはこれが何のためのもののか考え続けるまま取り残される」という感じですが、「分かりません」で良いかと。</note>
       <tuv lang="EN-US">
         <seg>Right focused text field does not, leaving the user to ponder what it was for.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170927T115518Z" creationid="bakera" creationdate="20170927T115518Z">
-        <seg>右では、テキストフィールドにフォーカスを合わせた結果プレースホルダーが消え、何のためのフィールドなのか分かりません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T115938Z" creationid="bakera" creationdate="20170927T115518Z">
+        <seg>右では、テキストフィールドにフォーカスを合わせた結果プレースホルダーが消え、何を入力するフィールドなのか分かりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22699,8 +22702,8 @@ enhanced を「強化」とするのがどうもしっくり来ず、なくて�
       <tuv lang="EN-US">
         <seg>Styling the placeholder is possible in most browsers with the help of some standard and proprietary properties:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T121850Z" creationid="bakera" creationdate="20170926T121752Z">
-        <seg>標準および独自のプロパティを使用すると、ほとんどのブラウザでplaceholderのスタイル設定を行うことが可能です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T115745Z" creationid="bakera" creationdate="20170926T121752Z">
+        <seg>標準および独自のプロパティを使用すると、ほとんどのブラウザでプレースホルダーのスタイル設定を行うことが可能です。</seg>
       </tuv>
     </tu>
     <tu>
