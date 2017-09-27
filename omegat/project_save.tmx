@@ -28016,11 +28016,13 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>This too would eradicate visible labels and make it difficult for the user to check the automatic values against what the fields intended.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170927T084841Z" creationid="bakera" creationdate="20170927T084841Z">
-        <seg>この場合もラベルが表示されないため、自動入力の値がフィールドの意図に沿ったものであるかどうかをチェックするのが困難になります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T085123Z" creationid="bakera" creationdate="20170927T084841Z">
+        <seg>この場合もラベルが表示されないため、自動入力された値がそのフィールドに沿った適切なものかどうか、確認することが困難になります。</seg>
       </tuv>
     </tu>
     <tu>
