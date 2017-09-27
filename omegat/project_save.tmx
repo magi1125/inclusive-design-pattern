@@ -22294,7 +22294,7 @@ might as wellは「どうせなら」「ついでだから」のような意味�
     </tu>
     <tu>
       <note>(伊原) the structure easily degrades as a list of links がわかりにくい。このdegradesはグレイスフルデグラデーションのそれっぽい感じ。タブ扱いにできなくてもリンクリストにできる（ので、ナビゲート可能な状態が維持できる）ということなのだと思いますが、この1文だけでは伝わらなそう。
-意訳してみましたがどうでしょうか。</note>
+ひとまず意訳してみましたがどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>Some implementations place this attribute directly on each &lt;g10&gt;&lt;li&gt;&lt;/g10&gt; element, but I prefer to use &lt;g11&gt;&lt;a&gt;&lt;/g11&gt; elements so that the structure easily degrades as a list of links.</seg>
       </tuv>
