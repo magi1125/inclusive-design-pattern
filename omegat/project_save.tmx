@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22508,11 +22508,14 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+screen estateはどう訳すべきか。
+</note>
       <tuv lang="EN-US">
         <seg>Sometimes it’s tempting to remove visible labels and rely on &lt;g1&gt;placeholder&lt;/g1&gt; attributes to save space (or &lt;g2&gt;screen estate&lt;/g2&gt; if you prefer) but that’s hardly a good reason to diminish the usability of a form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170927T091702Z" creationid="bakera" creationdate="20170927T091702Z">
-        <seg>スペースの節約（画面サイズの制限）のため、ラベルを表示せずに&lt;g1&gt;placeholder&lt;/g1&gt;属性で代用したくなることがありますが、それはフォームのユーザビリティを低下させる正当な理由にはなりません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T115458Z" creationid="bakera" creationdate="20170927T091702Z">
+        <seg>時には、スペースの節約（もしくは、画面サイズの制限と言ったほうが良いでしょうか）のため、ラベルを表示せずに&lt;g1&gt;placeholder&lt;/g1&gt;属性で代用したいという誘惑に駆られることもありますが、フォームのユーザビリティを犠牲にする理由としては、相当苦しいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
