@@ -13793,8 +13793,8 @@ In any case, は「さて」ぐらいにしてみました。
       <tuv lang="EN-US">
         <seg>In correctly behaving tab interfaces, there should always be one selected tab, defined accessibly using the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T080231Z" creationid="rikiha" creationdate="20170925T014509Z">
-        <seg>正しく動作するタブインターフェイスにおいては、常にタブがひとつ選択されているべきで、それはaria-selectedによってアクセシブルに明示されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T082940Z" creationid="rikiha" creationdate="20170925T014509Z">
+        <seg>正しく動作するタブインターフェイスにおいては、常にタブがひとつだけ選択されているべきで、それはaria-selectedによってアクセシブルに明示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25677,7 +25677,7 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) </note>
+      <note>(伊原) わかりにくいが、こんな感じ？</note>
       <tuv lang="EN-US">
         <seg>The second is essentially a negated version of the first.</seg>
       </tuv>
