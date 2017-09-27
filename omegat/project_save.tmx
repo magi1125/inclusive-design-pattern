@@ -7271,12 +7271,15 @@ organizationは組織としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) in the formが「形式」でよいかどうか。丸めて「の指定により」とかでもいいような。</note>
+      <note>(伊原) tablist内と補記。in the formが「形式」でよいかどうか。丸めて「の指定により」とかでもいいような。
+また、ARIA用語である「所有要素」をどうするか。子孫に持たなくてはならないロール（が指定された要素）のことだが、さて……。
+もんどさん訳では「要求される所有要素」
+https://momdo.github.io/wai-aria-1.1/#mustContain</note>
       <tuv lang="EN-US">
         <seg>As stated in &lt;g1&gt;&lt;g2&gt;the &lt;g3&gt;tablist&lt;/g3&gt; role specification&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;7&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, tablists &lt;g7&gt;require&lt;/g7&gt; “owned elements” with the explicit &lt;g8&gt;tab&lt;/g8&gt; role, in the form &lt;g9&gt;role="tab"&lt;/g9&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T045405Z" creationid="rikiha" creationdate="20170925T014457Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;tablist&lt;/g3&gt;ロールの仕様&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注199）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で定められているように、tablistには、&lt;g9&gt;role="tab"&lt;/g9&gt;形式によって明示的に&lt;g8&gt;tab&lt;/g8&gt;ロールを持つ「所有要素」が必要です。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T062828Z" creationid="rikiha" creationdate="20170925T014457Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;tablist&lt;/g3&gt;ロールの仕様&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注199）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で定められているように、tablist内には、&lt;g9&gt;role="tab"&lt;/g9&gt;を形式によって明示的に&lt;g8&gt;tab&lt;/g8&gt;ロールを持つ「所有要素」が必要です。</seg>
       </tuv>
     </tu>
     <tu>
