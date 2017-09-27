@@ -13781,8 +13781,8 @@ In any case, は「さて」ぐらいにしてみました。
       <tuv lang="EN-US">
         <seg>In correctly behaving tab interfaces, there should always be one selected tab, defined accessibly using the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T075042Z" creationid="rikiha" creationdate="20170925T014509Z">
-        <seg>正しく動作するタブインターフェイスにおいては常にタブがひとつ選択されているべきで、それはaria-selectedによってアクセシブルに明示されます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T080231Z" creationid="rikiha" creationdate="20170925T014509Z">
+        <seg>正しく動作するタブインターフェイスにおいては、常にタブがひとつ選択されているべきで、それはaria-selectedによってアクセシブルに明示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27881,8 +27881,8 @@ This serves as an important reminderは直訳すると「このことは重要�
       <tuv lang="EN-US">
         <seg>This should be the only element focusable by the user with the &lt;g7&gt;Tab&lt;/g7&gt; key.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T080033Z" creationid="rikiha" creationdate="20170925T014510Z">
-        <seg>ユーザーがTabキーでフォーカスできるのは唯一、この選択されたタブの要素だけでなければなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T080221Z" creationid="rikiha" creationdate="20170925T014510Z">
+        <seg>この選択されたタブが、ユーザーがTabキーでフォーカスできる唯一の要素でなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
