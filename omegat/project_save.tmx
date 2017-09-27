@@ -17940,11 +17940,12 @@ image maps to link parts of those images to other pages of imagesで、「画像
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 必要があります➞べきです。</note>
       <tuv lang="EN-US">
         <seg>My selector should identify the &lt;g2&gt;&lt;ul&gt;&lt;/g2&gt; element within the &lt;g3&gt;class="tab-interface"&lt;/g3&gt; container and highlight it if it doesn’t have a &lt;g4&gt;role="tablist"&lt;/g4&gt; attribute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014450Z" creationid="rikiha" creationdate="20170925T014450Z">
-        <seg>セレクタは、class="tab-interface"コンテナ内の&lt;ul&gt;要素を確認し、role="tablist"属性がない場合はそれをハイライト表示する必要があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T035833Z" creationid="rikiha" creationdate="20170925T014450Z">
+        <seg>セレクタは、&lt;g3&gt;class="tab-interface"&lt;/g3&gt;コンテナ内の&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;要素を確認し、&lt;g4&gt;role="tablist"&lt;/g4&gt;属性がない場合はそれをハイライト表示するべきです。</seg>
       </tuv>
     </tu>
     <tu>
