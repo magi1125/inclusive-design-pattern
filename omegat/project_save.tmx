@@ -11481,11 +11481,12 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) a要素で➞a要素に</note>
       <tuv lang="EN-US">
         <seg>Having decided that it is the &lt;g1&gt;&lt;a&gt;&lt;/g1&gt; element which should take the &lt;g2&gt;tab&lt;/g2&gt; role, I can add a corresponding test to my suite.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014501Z" creationid="rikiha" creationdate="20170925T014501Z">
-        <seg>&lt;a&gt;要素でtabロールを指定すると決めたので、対応するテストをスイートに加えます。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T072625Z" creationid="rikiha" creationdate="20170925T014501Z">
+        <seg>&lt;g1&gt;&lt;a&gt;&lt;/g1&gt;要素に&lt;g2&gt;tab&lt;/g2&gt;ロールを指定すると決めたので、それに対応するテストを書き加えます。</seg>
       </tuv>
     </tu>
     <tu>
