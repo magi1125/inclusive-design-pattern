@@ -1116,6 +1116,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;li&lt;/g17&gt; &lt;g19&gt;role&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"presentation"&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g16&gt;&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;&lt;/g25&gt;a&lt;/g24&gt; &lt;g26&gt;href&lt;/g26&gt;&lt;g27&gt;&lt;g28&gt;=&lt;/g28&gt;"#panel1"&lt;/g27&gt; &lt;g29&gt;id&lt;/g29&gt;&lt;g30&gt;&lt;g31&gt;=&lt;/g31&gt;"tab1"&lt;/g30&gt; &lt;g32&gt;role&lt;/g32&gt;&lt;g33&gt;&lt;g34&gt;=&lt;/g34&gt;"tab"&lt;/g33&gt; &lt;g35&gt;aria-selected&lt;/g35&gt;&lt;g36&gt;&lt;g37&gt;=&lt;/g37&gt;"true"&lt;/g36&gt;&lt;g38&gt;&gt;&lt;/g38&gt;&lt;/g23&gt;First Tab&lt;g39&gt;&lt;g40&gt;&lt;g41&gt;&lt;/&lt;/g41&gt;a&lt;/g40&gt;&lt;g42&gt;&gt;&lt;/g42&gt;&lt;/g39&gt;&lt;g43&gt;&lt;g44&gt;&lt;g45&gt;&lt;/&lt;/g45&gt;li&lt;/g44&gt;&lt;g46&gt;&gt;&lt;/g46&gt;&lt;/g43&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170927T102453Z" creationid="okamoto_jun" creationdate="20170927T102453Z">
+        <seg>&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;li&lt;/g17&gt; &lt;g19&gt;role&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"presentation"&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g16&gt;&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;&lt;/g25&gt;a&lt;/g24&gt; &lt;g26&gt;href&lt;/g26&gt;&lt;g27&gt;&lt;g28&gt;=&lt;/g28&gt;"#panel1"&lt;/g27&gt; &lt;g29&gt;id&lt;/g29&gt;&lt;g30&gt;&lt;g31&gt;=&lt;/g31&gt;"tab1"&lt;/g30&gt; &lt;g32&gt;role&lt;/g32&gt;&lt;g33&gt;&lt;g34&gt;=&lt;/g34&gt;"tab"&lt;/g33&gt; &lt;g35&gt;aria-selected&lt;/g35&gt;&lt;g36&gt;&lt;g37&gt;=&lt;/g37&gt;"true"&lt;/g36&gt;&lt;g38&gt;&gt;&lt;/g38&gt;&lt;/g23&gt;1番めのタブ&lt;g39&gt;&lt;g40&gt;&lt;g41&gt;&lt;/&lt;/g41&gt;a&lt;/g40&gt;&lt;g42&gt;&gt;&lt;/g42&gt;&lt;/g39&gt;&lt;g43&gt;&lt;g44&gt;&lt;g45&gt;&lt;/&lt;/g45&gt;li&lt;/g44&gt;&lt;g46&gt;&gt;&lt;/g46&gt;&lt;/g43&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;li&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g16&gt;&lt;g20&gt;&lt;g21&gt;&lt;g22&gt;&lt;&lt;/g22&gt;a&lt;/g21&gt; &lt;g23&gt;href&lt;/g23&gt;&lt;g24&gt;&lt;g25&gt;=&lt;/g25&gt;"#history"&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g20&gt;Our history&lt;g27&gt;&lt;g28&gt;&lt;g29&gt;&lt;/&lt;/g29&gt;a&lt;/g28&gt;&lt;g30&gt;&gt;&lt;/g30&gt;&lt;/g27&gt;&lt;g31&gt;&lt;g32&gt;&lt;g33&gt;&lt;/&lt;/g33&gt;li&lt;/g32&gt;&lt;g34&gt;&gt;&lt;/g34&gt;&lt;/g31&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134644Z" creationid="rikiha" creationdate="20170809T134644Z">
@@ -1354,6 +1362,16 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101510Z" creationid="okamoto_jun" creationdate="20170627T101510Z">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;button&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;スタート&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;button&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(岡本)
+以下のタグのコメントなどお願いします。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;div&lt;/g3&gt; &lt;g5&gt;class&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"tab-interface"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170927T102423Z" creationid="okamoto_jun" creationdate="20170927T102423Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;div&lt;/g3&gt; &lt;g5&gt;class&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"tab-interface"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;1番目のタブ</seg>
       </tuv>
     </tu>
     <tu>
