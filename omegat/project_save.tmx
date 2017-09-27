@@ -12287,11 +12287,12 @@ imagine と might で二重に推定している形ですが、むしろ何故�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここのspecialは専用の〜的な意味と思われ、「ための〜」ぐらいでいいかなと思いました。またbelongを属すると訳すとちょっとわかりにくいため、要素内にあるとき、としました。</note>
       <tuv lang="EN-US">
         <seg>I know that my tabs will only function correctly in assistive technologies if they belong to an element with the special &lt;g1&gt;tablist&lt;/g1&gt; role to group the individual tabs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014449Z" creationid="rikiha" creationdate="20170925T014449Z">
-        <seg>これらのタブは、各タブをグループ化する特別なtablistロールを持つ要素に属している場合にのみ、支援技術で正しく機能することが分かっています。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T033117Z" creationid="rikiha" creationdate="20170925T014449Z">
+        <seg>これらのタブは、個々のタブのグループ化するための&lt;g1&gt;tablist&lt;/g1&gt;ロールを持つ要素内にあるときのみ、支援技術で正しく機能することが分かっています。</seg>
       </tuv>
     </tu>
     <tu>
