@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24414,6 +24414,14 @@ jaw は動詞だとスラングで Impudent or abusive talk.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The browser’s autocompletion routine could also populate multiple fields, of course.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T084957Z" creationid="bakera" creationdate="20170927T084837Z">
+        <seg>そしてもちろん、ブラウザのオートコンプリート機能で複数のフィールドが一気に埋められることもあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 次→以下、としました (他がそうだったはずなので)
 ここはまだ例の想定を紹介している段階なので、なります→なっています、とするのが良いかなと。
@@ -28005,6 +28013,14 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095300Z" creationid="okamoto_jun" creationdate="20170627T095300Z">
         <seg>ここでは、インタラクティブ要素であるボタンを、3種類のデザイナーの視点で見てみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This too would eradicate visible labels and make it difficult for the user to check the automatic values against what the fields intended.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T084841Z" creationid="bakera" creationdate="20170927T084841Z">
+        <seg>この場合もラベルが表示されないため、自動入力の値がフィールドの意図に沿ったものであるかどうかをチェックするのが困難になります。</seg>
       </tuv>
     </tu>
     <tu>
