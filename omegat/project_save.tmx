@@ -6243,8 +6243,8 @@ Allのニュアンスを盛り込むべきかも。
       <tuv lang="EN-US">
         <seg>All other tabs should take the &lt;g8&gt;tabindex="-1"&lt;/g8&gt; attribute and be selectable using only the arrow keys.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T075752Z" creationid="rikiha" creationdate="20170925T014513Z">
-        <seg>ているその他のタブはすべて、tabindex="-1"属性が指定され、矢印キーでのみ選択できる必要があります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T075809Z" creationid="rikiha" creationdate="20170925T014513Z">
+        <seg>その他のタブはすべて、tabindex="-1"属性が指定され、矢印キーでのみ選択できる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27877,12 +27877,12 @@ This serves as an important reminderは直訳すると「このことは重要�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) これが だけだとわからないので補足。</note>
+      <note>(伊原) これが だけだとわからないので補足。語順が訳語調だったので調整。</note>
       <tuv lang="EN-US">
         <seg>This should be the only element focusable by the user with the &lt;g7&gt;Tab&lt;/g7&gt; key.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T075743Z" creationid="rikiha" creationdate="20170925T014510Z">
-        <seg>選択されたタブが、ユーザーがTabキーでフォーカスできる唯一の要素でなければなりません。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T080033Z" creationid="rikiha" creationdate="20170925T014510Z">
+        <seg>ユーザーがTabキーでフォーカスできるのは唯一、この選択されたタブの要素だけでなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
