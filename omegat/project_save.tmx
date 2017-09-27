@@ -22449,6 +22449,14 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes it’s tempting to remove visible labels and rely on &lt;g1&gt;placeholder&lt;/g1&gt; attributes to save space (or &lt;g2&gt;screen estate&lt;/g2&gt; if you prefer) but that’s hardly a good reason to diminish the usability of a form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T091702Z" creationid="bakera" creationdate="20170927T091702Z">
+        <seg>スペースの節約（画面サイズの制限）のため、ラベルを表示せずに&lt;g1&gt;placeholder&lt;/g1&gt;属性で代用したくなることがありますが、それはフォームのユーザビリティを低下させる正当な理由にはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
  in any way などが落ちているように思ったので少し調整しました。
 impactは次の文に合わせて「効果」としました。
