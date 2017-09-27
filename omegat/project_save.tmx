@@ -15457,8 +15457,8 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       <tuv lang="EN-US">
         <seg>Instead of differentiating the placeholder by diminishing its contrast, I suggest using a different method, such as italicization.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T121203Z" creationid="bakera" creationdate="20170926T121203Z">
-        <seg>コントラストを抑えてplaceholderを区別するのではなく、イタリックにするなど、他の方法を用いることをお勧めします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T115544Z" creationid="bakera" creationdate="20170926T121203Z">
+        <seg>コントラストを抑えてプレースホルダーを区別するのではなく、イタリックにするなど、他の方法を用いることをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17256,6 +17256,14 @@ Keyは重要でいいのか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170830T071528Z" creationid="rikiha" creationdate="20170827T020935Z">
         <seg>左：四隅にスティッキータックが貼りつけられた長方形の紙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left unfocused text field shows placeholder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T115510Z" creationid="bakera" creationdate="20170927T115510Z">
+        <seg>左では、テキストフィールドがフォーカスされておらず、プレースホルダーが表示されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20884,6 +20892,14 @@ wouldなので語尾を「ことがあります」としました。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T034041Z" creationid="rikiha" creationdate="20170827T020944Z">
         <seg>右：それを大きい紙に貼りつけている様子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right focused text field does not, leaving the user to ponder what it was for.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T115518Z" creationid="bakera" creationdate="20170927T115518Z">
+        <seg>右では、テキストフィールドにフォーカスを合わせた結果プレースホルダーが消え、何のためのフィールドなのか分かりません。</seg>
       </tuv>
     </tu>
     <tu>
