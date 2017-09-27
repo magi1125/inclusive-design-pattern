@@ -13780,8 +13780,8 @@ In any case, は「さて」ぐらいにしてみました。
       <tuv lang="EN-US">
         <seg>In correctly behaving tab interfaces, there should always be one selected tab, defined accessibly using the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014509Z" creationid="rikiha" creationdate="20170925T014509Z">
-        <seg>正しく動作するタブインターフェイスでは常に、aria-selected（脚注200）ステートを使用してアクセシブルに定義された、1つの選択されたタブがあります。</seg>
+      <tuv lang="JA" changeid="rikiha" changedate="20170927T074917Z" creationid="rikiha" creationdate="20170925T014509Z">
+        <seg>正しく動作するタブインターフェイスにおいては常にタブがひとつ選択されているべきで、それはaria-selectedでアクセシブルに定義されます。</seg>
       </tuv>
     </tu>
     <tu>
