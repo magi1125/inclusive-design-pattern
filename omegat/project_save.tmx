@@ -16944,6 +16944,16 @@ validはvalidでも良いのかも。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ここの cue は文字通り「手がかり」かと思います。</note>
+      <tuv lang="EN-US">
+        <seg>Just had a whole form autofilled and I have no clue what anything is.” – &lt;g1&gt;&lt;g2&gt;Lea Verou, on Twitter&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;8&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T090659Z" creationid="bakera" creationdate="20170927T090427Z">
+        <seg>フォーム全体が自動でフィルされて、それが何なのかという手がかりが全くないのですからね。— リア・ヴェロウ（Lea Verou）、Twitter（脚注179）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 微妙に誤訳なので調整。あとJust感を出した。
 
 (太田) 「グローバルインストール」がなんのこっちゃ感がありそうなので、「npm -g でグローバルインストールして」くらい補ってもいいのかも。
@@ -31823,6 +31833,13 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+前分節に合体。</note>
+      <tuv lang="EN-US">
+        <seg>bad when combined with autofill.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>college</seg>
       </tuv>
@@ -32104,8 +32121,8 @@ esp. は especially の略記。</note>
       <tuv lang="EN-US">
         <seg>“Using placeholder as a label is esp.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170927T090357Z">
-        <seg>「プレースホルダーをラベルの代わりとして使うことは、特に自動入力と組み合わさったときに大きな問題を起こします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170927T090447Z">
+        <seg>「プレースホルダーをラベルの代わりとして使うと、特に、自動入力と組み合わさったときに問題が起きます。</seg>
       </tuv>
     </tu>
     <tu>
