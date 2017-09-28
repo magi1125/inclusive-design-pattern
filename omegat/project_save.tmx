@@ -24299,7 +24299,7 @@ mightなのですこし弱めに。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 括弧を外しつつ調整。</note>
+      <note>(伊原) 括弧を外しつつ調整。下訳は意味が逆になっていたので修正。</note>
       <tuv lang="EN-US">
         <seg>The additional test selector in the following example matches tab panels with the correct role, but with an &lt;g3&gt;aria-labelledby&lt;/g3&gt; value not commencing with “tab.” This fuzzy matching is possible using the &lt;g4&gt;starts with&lt;/g4&gt; &lt;g5&gt;^&lt;/g5&gt; modifier in the attribute selector, &lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;.</seg>
       </tuv>
