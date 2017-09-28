@@ -29976,11 +29976,12 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 語順など調整。</note>
       <tuv lang="EN-US">
         <seg>We can even detect incorrect patterns used to formulate the &lt;g1&gt;tabpanel&lt;/g1&gt; &lt;g2&gt;aria-labelledby&lt;/g2&gt; attribute values.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014521Z" creationid="rikiha" creationdate="20170925T014521Z">
-        <seg>tabpanel aria-labelledby属性値の定式化に使用される誤ったパターンの検出も可能です。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170928T134259Z" creationid="rikiha" creationdate="20170925T014521Z">
+        <seg>&lt;g1&gt;tabpanel&lt;/g1&gt;の&lt;g2&gt;aria-labelledby&lt;/g2&gt;属性値の定義に誤ったパターンが使われているのを見つけることさえできます。</seg>
       </tuv>
     </tu>
     <tu>
