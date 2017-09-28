@@ -10154,11 +10154,12 @@ additional dimensionはもう少し工夫しないと良くわからないです
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) allが落ちていたので修正</note>
       <tuv lang="EN-US">
         <seg>Finally, let’s make sure all the tab panels have the &lt;g1&gt;tabpanel&lt;/g1&gt; role.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014528Z" creationid="rikiha" creationdate="20170925T014528Z">
-        <seg>最後に、タブパネルにtabpanelロールが指定されていることを確認しましょう。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170928T143832Z" creationid="rikiha" creationdate="20170925T014528Z">
+        <seg>最後に、すべてのタブパネルに&lt;g1&gt;tabpanel&lt;/g1&gt;ロールが指定されていることを確かめましょう。</seg>
       </tuv>
     </tu>
     <tu>
