@@ -28105,11 +28105,12 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 括弧書きをどうするか。いったん日本で呼ばれる2例に置き換え。</note>
       <tuv lang="EN-US">
         <seg>This test selector uses the &lt;g5&gt;&lt;g6&gt;adjacent sibling combinator&lt;/g6&gt;&lt;/g5&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;10&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt; (or next-sibling selector) &lt;g10&gt;+&lt;/g10&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014537Z" creationid="rikiha" creationdate="20170925T014537Z">
-        <seg>このテストセレクタは、隣接セレクタ（脚注201）の+を使用します。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170928T155650Z" creationid="rikiha" creationdate="20170925T014537Z">
+        <seg>このテストセレクタでは、&lt;g5&gt;&lt;g6&gt;隣接セレクタ&lt;/g6&gt;&lt;/g5&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;（脚注201）&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt;（または隣接兄弟セレクタ）の&lt;g10&gt;+&lt;/g10&gt;を使います。</seg>
       </tuv>
     </tu>
     <tu>
