@@ -24298,8 +24298,8 @@ mightなのですこし弱めに。
       <tuv lang="EN-US">
         <seg>The additional test selector in the following example matches tab panels with the correct role, but with an &lt;g3&gt;aria-labelledby&lt;/g3&gt; value not commencing with “tab.” This fuzzy matching is possible using the &lt;g4&gt;starts with&lt;/g4&gt; &lt;g5&gt;^&lt;/g5&gt; modifier in the attribute selector, &lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014524Z" creationid="rikiha" creationdate="20170925T014524Z">
-        <seg>次の例で追加するテストセレクタは、正しいロールが設定されたタブパネルにはマッチしますが、「tab」から始まらないaria-labelledby値にはマッチしません。このファジーマッチングは、属性セレクタ内で^（～で始まる）修飾子を使用することで可能になります（[aria-labelledby^="tab"]）。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170928T142029Z" creationid="rikiha" creationdate="20170925T014524Z">
+        <seg>以下の例で追加したテストセレクタは、正しいロールが設定されたタブパネルでありながら、&lt;g3&gt;aria-labelledby&lt;/g3&gt;の値が「tab」で始まっていない場合にマッチします。このファジーマッチングは、&lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;のように、属性セレクタ内で&lt;g4&gt;～で始まる&lt;/g4&gt;を意味する&lt;g5&gt;^&lt;/g5&gt;修飾子を使うことで可能になります。</seg>
       </tuv>
     </tu>
     <tu>
