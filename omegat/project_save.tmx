@@ -19516,8 +19516,8 @@ familiarを「十分に学習してきた」としていますが、「十分に
       <tuv lang="EN-US">
         <seg>Of course, this catches the complete absence of &lt;g1&gt;aria-labelledby&lt;/g1&gt; as well.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014526Z" creationid="rikiha" creationdate="20170925T014526Z">
-        <seg>もちろん、aria-labelledbyが完全に欠落していることも検知します。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170928T143600Z" creationid="rikiha" creationdate="20170925T014526Z">
+        <seg>もちろん、&lt;g1&gt;aria-labelledby&lt;/g1&gt;がまったく存在しないケースも同様にこのセレクタで検知します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24295,6 +24295,7 @@ mightなのですこし弱めに。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 括弧を外しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>The additional test selector in the following example matches tab panels with the correct role, but with an &lt;g3&gt;aria-labelledby&lt;/g3&gt; value not commencing with “tab.” This fuzzy matching is possible using the &lt;g4&gt;starts with&lt;/g4&gt; &lt;g5&gt;^&lt;/g5&gt; modifier in the attribute selector, &lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;.</seg>
       </tuv>
