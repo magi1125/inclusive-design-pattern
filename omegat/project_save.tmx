@@ -11541,11 +11541,12 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 断片化して→バラバラになって</note>
       <tuv lang="EN-US">
         <seg>Having content between the &lt;g1&gt;tablist&lt;/g1&gt; and tab panels would fragment the interface and cause confusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014533Z" creationid="rikiha" creationdate="20170925T014533Z">
-        <seg>tablistとタブパネルの間にコンテンツがあると、インターフェイスが断片化して混乱を招きます。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170928T151341Z" creationid="rikiha" creationdate="20170925T014533Z">
+        <seg>&lt;g1&gt;tablist&lt;/g1&gt;とタブパネルの間にコンテンツがあると、インターフェイスがバラバラになって混乱を招きます。</seg>
       </tuv>
     </tu>
     <tu>
