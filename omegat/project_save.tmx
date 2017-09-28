@@ -22138,11 +22138,12 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ここはborderでなくoutlineである必要があるため、アウトラインとしました。</note>
       <tuv lang="EN-US">
         <seg>So far, we’ve provided a red outline for any elements which match undesired patterns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014541Z" creationid="rikiha" creationdate="20170925T014541Z">
-        <seg>これまでは、望ましくないパターンにマッチする要素には赤枠を表示してきました。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170928T215348Z" creationid="rikiha" creationdate="20170925T014541Z">
+        <seg>これまでは、望ましくないパターンにマッチする要素には赤のアウトラインを表示してきました。</seg>
       </tuv>
     </tu>
     <tu>
