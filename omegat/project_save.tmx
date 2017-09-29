@@ -11168,13 +11168,12 @@ NVDAでは
 のように読みました。
 日本語では「※」が使われることがありますが、これは「こめじるし」と読まれます。これは訳注ですかね。
 
-
 </note>
       <tuv lang="EN-US">
         <seg>For screen reader users, the label is announced as usual, including the asterisk, as “Your email address asterisk.” The term “asterisk” in this context is well enough understood by screen reader users to mean “required,” but it’s not exactly robust.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T055014Z" creationid="bakera" creationdate="20170929T055014Z">
-        <seg>スクリーンリーダーは、「メールアドレス アスタリスク」などのように、アスタリスクを含めて通常通りラベルを読み上げます。このコンテキストにおける「＃＃アスタリスク＃＃」という言葉が「必須」を意味することは、多くのスクリーンリーダーユーザーが理解しています。しかし、必ずしも問題が起きないわけではありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T055318Z" creationid="bakera" creationdate="20170929T055014Z">
+        <seg>スクリーンリーダーは、このラベルを通常どおり、アスタリスクを含めて「メールアドレス アスタリスク」のように読み上げます。スクリーンリーダーユーザーは、この文脈の「アスタリスク」という言葉が「必須」を意味することをよく理解しています。しかし、これは必ずしも堅牢というわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13425,6 +13424,14 @@ actionableは「実用的でない」のではなく、実行できない、動�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T073754Z" creationid="okamoto_jun" creationdate="20170627T073414Z">
         <seg>あなたと私（筆者）があるパーティーで出会ったと想像してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Imagine we were marking up a quiz question about a &lt;g1&gt;&lt;g2&gt;certain Gaulish cartoon character&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;11&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T055334Z" creationid="bakera" creationdate="20170929T055334Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;あるガリア漫画のキャラクター&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注182）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;に関するクイズ問題をマークアップすることを想像してみてください。</seg>
       </tuv>
     </tu>
     <tu>
