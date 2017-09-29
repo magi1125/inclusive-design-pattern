@@ -14573,8 +14573,8 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       <tuv lang="EN-US">
         <seg>In some screen readers, this results in the &lt;g3&gt;&lt;legend&gt;&lt;/g3&gt;’s content being concatenated with each field’s &lt;g4&gt;&lt;label&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T041837Z" creationid="bakera" creationdate="20170929T041211Z">
-        <seg>いくつかのスクリーンリーダーでは、&lt;g3&gt;&lt;legend&gt;&lt;/g3&gt;の内容が各フィールドの&lt;g4&gt;&lt;label&gt;&lt;/g4&gt;と連結されて通知されます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T042912Z" creationid="bakera" creationdate="20170929T041211Z">
+        <seg>いくつかのスクリーンリーダーでは、&lt;g3&gt;&lt;legend&gt;&lt;/g3&gt;の内容が各フィールドの&lt;g4&gt;&lt;label&gt;&lt;/g4&gt;と連結されて読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27716,11 +27716,13 @@ X is as good a place as any to Do. で X は Do するのにうってつけだ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+</note>
       <tuv lang="EN-US">
         <seg>This is technically valid, but it creates a lot of unnecessary noise; that is, focusing each input in turn would announce the extended labels of “Registration: Your email address,” “Registration: Choose a username,” and so on.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T042443Z" creationid="bakera" creationdate="20170929T042443Z">
-        <seg>これは技術的には有効ですが、不要なノイズが大量に作成されます。つまり、各入力に順番にフォーカスを合わせると、「＃＃登録：メールアドレス＃＃」、「＃＃登録：ユーザー名を選択＃＃」といった長いラベルが読み上げられます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T042935Z" creationid="bakera" creationdate="20170929T042443Z">
+        <seg>これは技術的には妥当なものですが、不要なノイズが大量に作成されます。つまり、各入力に順番にフォーカスを合わせると、「＃＃登録：メールアドレス＃＃」、「＃＃登録：ユーザー名を選択＃＃」といった長いラベルが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
