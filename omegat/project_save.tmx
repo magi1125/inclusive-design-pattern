@@ -7861,6 +7861,14 @@ https://ja.wikipedia.org/wiki/精密科学
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Bearing in mind that &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;s are pointless without &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;s, you can use the following three rules of thumb to decide if a &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt; is appropriate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T042509Z" creationid="bakera" creationdate="20170929T042509Z">
+        <seg>&lt;fieldset&gt;は&lt;legend&gt;なしでは無意味であることを念頭に置き、次の3つの原則をもとに&lt;fieldset&gt;を使用した方がよいかどうかを判断します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「小さくする」のではなく「超えないようにする」ということだと思います。下の例ではmax-widthを指定していますし。
 in your layout は直訳すれば「あなたのレイアウトの中で」ですが、「レイアウトする」と訳すのが良いように思います。
 
@@ -11533,6 +11541,14 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>HTML does not hold fast to the clear, procedural logic of imperative programming languages, so it’s better not to think of them as similar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T042515Z" creationid="bakera" creationdate="20170929T042515Z">
+        <seg>HTMLは、命令型プログラミング言語の明快な手続き型ロジックを固守していないため、同じようには考えない方がよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) document-level とは何か。ぱっと見、従うべきドキュメントがある (WCAGのような文書を指す) という話のようにも読めますが、ここの章のタイトルが "the document" であることを考えると、ドキュメント全体が従うべきベストプラクティスがあるといっているように思えます。この文全体として、「HTMLページの中身は好きに作っても良いが、ドキュメント全体が従うべき慣習がある」と言っているのではないでしょうか。
 
 (伊原) はい、そのように思います。</note>
@@ -14828,6 +14844,14 @@ theを訳出しないと意味が分かりにくいですね。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170602T091800Z" creationid="rikiha" creationdate="20170601T173603Z">
         <seg>前後の段落の文脈を見れば、見出しが何を指しているか推測することは間違いなく可能でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the current context, the &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt; and &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; create too much verbosity for little to no gain, so probably shouldn’t be there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T042504Z" creationid="bakera" creationdate="20170929T042504Z">
+        <seg>現在のコンテキストでは、&lt;fieldset&gt;と&lt;legend&gt;によって余計な情報まで読み上げられ、メリットがほとんどないので、おそらく使用すべきではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22765,6 +22789,14 @@ enhanced を「強化」とするのがどうもしっくり来ず、なくて�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Structures of HTML, like the structures of natural language it annotates, should be judged in similarly nuanced terms: what helps or hinders; what’s too little or too much.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T042459Z" creationid="bakera" creationdate="20170929T042459Z">
+        <seg>HTMLの構造は、HTMLがタグによって意味づけをしている自然言語の構造と同じように、何が役立ち何が邪魔なのか、何が足らず何が過剰なのかといった、微妙な観点で判断する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 すこし調整。</note>
       <tuv lang="EN-US">
@@ -23093,6 +23125,14 @@ It is to be expected that WCAG is organized by principle.
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170707T063044Z" creationid="rikiha" creationdate="20170702T150402Z">
         <seg>WCAGが4つの原則――&lt;g1&gt;知覚可能&lt;/g1&gt;、&lt;g2&gt;操作可能&lt;/g2&gt;、&lt;g3&gt;理解可能&lt;/g3&gt;、&lt;g4&gt;堅牢&lt;/g4&gt;――ごとに整理されているのは当然のことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That a &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt; in this context is not technically invalid or nonconforming might lead us to think it is the opposite: virtuous, correct — &lt;g2&gt;mandatory&lt;/g2&gt; even.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T042453Z" creationid="bakera" creationdate="20170929T042453Z">
+        <seg>今回の&lt;fieldset&gt;についても、技術的に無効でも不適合でもないなら、きちんとしていて正しい、さらには必須であるとさえ思う可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27676,6 +27716,14 @@ X is as good a place as any to Do. で X は Do するのにうってつけだ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This is technically valid, but it creates a lot of unnecessary noise; that is, focusing each input in turn would announce the extended labels of “Registration: Your email address,” “Registration: Choose a username,” and so on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T042443Z" creationid="bakera" creationdate="20170929T042443Z">
+        <seg>これは技術的には有効ですが、不要なノイズが大量に作成されます。つまり、各入力に順番にフォーカスを合わせると、「＃＃登録：メールアドレス＃＃」、「＃＃登録：ユーザー名を選択＃＃」といった長いラベルが読み上げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 CSSのcollapseは日本では「相殺」で通っているのでこれはママで。
 (当時CSS2を翻訳した岡橋さんが採用した訳語がそのまま広まったもの。当時から個人的に違和感はあったのですがより良い訳が思いつかなかった)
@@ -29975,12 +30023,14 @@ encounterは見つけようとして見つかるというより、たまたま�
     </tu>
     <tu>
       <note>(太田)
-強調couldどうするか。</note>
+強調couldどうするか。
+後ろを読むと、「こうすることもできた(が、すべきでないのでしなかった)」というニュアンスのよう。
+</note>
       <tuv lang="EN-US">
         <seg>We &lt;g1&gt;could&lt;/g1&gt; adapt our form to include this grouping mechanism like so:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T042003Z" creationid="bakera" creationdate="20170929T042003Z">
-        <seg>ここでのフォームには、以下のようにこのグループ化構造を含めることができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T042647Z" creationid="bakera" creationdate="20170929T042003Z">
+        <seg>それをこのフォームにも適用して、以下のようにグループ化構造を含めることも&lt;g1&gt;できました&lt;/g1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30883,6 +30933,14 @@ impossibleは「不可能になる」くらい強くしたいところ。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170706T100936Z" creationid="rikiha" creationdate="20170702T150259Z">
         <seg>診断を実施する際、私はWCAG（Web Content Accessibility Guidelines）に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When programming code day in and day out, we habituate ourselves to thinking of things as right or wrong, true or false.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T042448Z" creationid="bakera" creationdate="20170929T042448Z">
+        <seg>来る日も来る日もコードをプログラミングしていると、正しいか間違っているか、真実か偽りかで物事を考えるのに慣れてしまします。</seg>
       </tuv>
     </tu>
     <tu>
