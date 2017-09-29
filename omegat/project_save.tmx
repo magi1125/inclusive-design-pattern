@@ -8152,11 +8152,13 @@ hone は砥石でとぐような意味。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>At this point, all we want to communicate is the presence of errors and that they need attention.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090737Z" creationid="bakera" creationdate="20170929T090737Z">
-        <seg>この時点でユーザー伝えたいのは、エラーがあるので注意を向けてほしいということだけです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T110756Z" creationid="bakera" creationdate="20170929T090737Z">
+        <seg>この時点でユーザーに伝えたいのは、エラーがあるので注意が必要だということだけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28935,11 +28937,13 @@ enhancementは拡張としてきましたが、わかりにくいのでここで
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「これをきっかけ」がわかりにくいので補いました。</note>
       <tuv lang="EN-US">
         <seg>This is our cue to provide some feedback in the form of an error message.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090647Z" creationid="bakera" creationdate="20170929T090647Z">
-        <seg>これをきっかけとして、エラーメッセージという形でフィードバックを提供することになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T110708Z" creationid="bakera" creationdate="20170929T090647Z">
+        <seg>送信を試みたタイミングで、エラーメッセージの形でユーザーにフィードバックを提供する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
