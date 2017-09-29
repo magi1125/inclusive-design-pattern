@@ -7831,6 +7831,16 @@ https://ja.wikipedia.org/wiki/精密科学
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
+      <tuv lang="EN-US">
+        <seg>Be aware, though, that since it treats the label and placeholder as one and the same, there is no opportunity to supply a hint or example.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T035941Z" creationid="bakera" creationdate="20170929T035941Z">
+        <seg>ただし、ラベルとプレースホルダーをまとめてひとつのものとして扱うため、ラベルとは別にヒントや入力例を表示することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Be wary, though, of older browsers that do not support gradient backgrounds.</seg>
