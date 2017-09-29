@@ -7978,8 +7978,8 @@ hone は砥石でとぐような意味。
       <tuv lang="EN-US">
         <seg>At this stage, it’s become a habit of ours, as inclusive designers, to not only improve an interface’s UX but to do so in a way that supports users in unusual circumstances or using auxiliary software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T085124Z" creationid="bakera" creationdate="20170929T083910Z">
-        <seg>ここまでくると、インターフェイスのユーザー体験を向上するだけでなく、例外的な状況にいるユーザーや補助ソフトウェアを使用しているユーザーもサポートするということが、インクルーシブデザイナーとしての習慣になっていることでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T085148Z" creationid="bakera" creationdate="20170929T083910Z">
+        <seg>ここまでくると、インクルーシブデザイナーとして、インターフェイスのユーザー体験を向上するだけでなく、例外的な状況にいるユーザーや補助ソフトウェアを使用しているユーザーもサポートすることが習慣として身についていることでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28404,6 +28404,14 @@ esotericは特殊というより、他で使われていないというニュア
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170929T062857Z" creationid="bakera" creationdate="20170929T062857Z">
         <seg>ただし、このままでは「アスタリスク」も読み上げられてしまうので、&lt;g7&gt;aria-hidden&lt;/g7&gt;を追加しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This little, screen reader accessible show-password provision is another reusable micropattern.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T085914Z" creationid="bakera" creationdate="20170929T085914Z">
+        <seg>このちょっとした、スクリーンリーダーでアクセス可能なちょっとしたパスワード表示機能も、再利用可能なマイクロパターンです。</seg>
       </tuv>
     </tu>
     <tu>
