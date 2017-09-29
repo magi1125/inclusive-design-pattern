@@ -141,6 +141,14 @@ theを「上記の」としつつ調整してみました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>(Note the inclusion of a background icon for color-blind users who cannot perceive the red &lt;g1&gt;border-color&lt;/g1&gt; change.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090842Z" creationid="bakera" creationdate="20170929T090842Z">
+        <seg>（赤色のborder-colorへの変化を知覚できない色覚異常のユーザーのために、背景アイコンを含めています。）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 前に出たワザなので、テクニックで通じるかなと。
 
 (太田) JAWS日本語版の読みを反映。括弧もいらないかと。
@@ -487,10 +495,26 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Get out your own head and get to know the user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090945Z" creationid="bakera" creationdate="20170929T090945Z">
+        <seg>1.自分の考え方から抜け出して、ユーザーを理解するようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Give users choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170910T000537Z" creationid="rikiha" creationdate="20170909T223230Z">
         <seg>&lt;/g1&gt;ユーザーに選択肢を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;If content is king, then treat context like a queen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091004Z" creationid="bakera" creationdate="20170929T091004Z">
+        <seg>5.コンテンツが王であるなら、コンテキストは女王として扱いましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -652,6 +676,14 @@ add more は言わなくてもわかるのでトリました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;That the field is invalid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090826Z" creationid="bakera" creationdate="20170929T090826Z">
+        <seg>1.フィールドが無効である</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) OK</note>
@@ -749,6 +781,14 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;The user is a person.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090947Z" creationid="bakera" creationdate="20170929T090947Z">
+        <seg>2.ユーザーは人間です。それを念頭に彼らと話をしてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ユーザーテスター➞テストユーザー
 
 (太田) OK</note>
@@ -787,10 +827,34 @@ OK
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Treat every moment like a branding moment, even when it’s not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091002Z" creationid="bakera" creationdate="20170929T091002Z">
+        <seg>4.あらゆる瞬間をブランディングの瞬間のように扱いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Use copy as a guide, not a crutch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091000Z" creationid="bakera" creationdate="20170929T091000Z">
+        <seg>3.コピーをガイドとして使用し、頼りすぎないようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/g1&gt;What needs fixing (what will make the form valid).</seg>
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170929T090620Z" creationid="bakera" creationdate="20170929T090620Z">
         <seg>2.修正の必要な箇所がある（どうすれば有効なフォームになるか）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;What would make the field valid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090828Z" creationid="bakera" creationdate="20170929T090828Z">
+        <seg>2.どうすれば有効なフィールドになるか</seg>
       </tuv>
     </tu>
     <tu>
@@ -6204,6 +6268,14 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A red error message with white text prefixed with a triangular warning sign containing an exclamation mark.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090811Z" creationid="bakera" creationdate="20170929T090811Z">
+        <seg>赤のエラーメッセージ。感嘆符を三角形で囲んだ警告アイコンに続いて、白いテキストのエラーメッセージが表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 後半わかりにくいですね。
 ふつうにa要素で実装するべき的な話でしょうね。
@@ -6231,6 +6303,14 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170929T083115Z" creationid="bakera" creationdate="20170929T083025Z">
         <seg>短い簡単なスクリプトで、フィールドのtypeを&lt;g1&gt;password&lt;/g1&gt;から&lt;g2&gt;text&lt;/g2&gt;に切り替えたり、戻したりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A simple live region that is populated by the error message on an attempted submission will suffice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090741Z" creationid="bakera" creationdate="20170929T090741Z">
+        <seg>シンプルなライブリージョンに、試行された送信に対するエラーメッセージを含めれば十分でしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6380,6 +6460,14 @@ CSSを使って絶対配置した場合との対比なので、「ただし」�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170823T033618Z" creationid="rikiha" creationdate="20170819T005326Z">
         <seg>CSSを使って絶対配置した場合には、このようなことは保証できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accordingly, in the &lt;g10&gt;options&lt;/g10&gt; object, &lt;g11&gt;options.leading&lt;/g11&gt; should be &lt;g12&gt;false&lt;/g12&gt; and &lt;g13&gt;options.trailing&lt;/g13&gt; &lt;g14&gt;true&lt;/g14&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090926Z" creationid="bakera" creationdate="20170929T090926Z">
+        <seg>ここではユーザーが入力をやめたときにのみ検証が行われるようにしたいので、optionsオブジェクトではoptions.leadingがfalse、options.trailingがtrueでなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6569,6 +6657,14 @@ HTMLがないとCSSやJSだけでは成立しないという話。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>All good advice, and I recommend you read the article in full.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091006Z" creationid="bakera" creationdate="20170929T091006Z">
+        <seg>どれも優れたアドバイスで、この記事の全文を読むことをお勧めしますが、中でも私が強調したいのはビルが唱える4つ目のポイントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 Allのニュアンスを盛り込むべきかも。
 語順変えつつ調整。
@@ -6653,6 +6749,14 @@ listenは「監視」としてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T064809Z" creationid="yoota" creationdate="20170908T021824Z">
         <seg>2章「ドキュメント全体」でも説明したように、&lt;g3&gt;&lt;title&gt;&lt;/g3&gt;テキストは説明的で分かりやすいものにするべきですが、さらなる理由がここにあります。実際、よく練られた&lt;g4&gt;&lt;title&gt;&lt;/g4&gt;テキストは検索順位を上げることができますが、&lt;g5&gt;&lt;g6&gt;スパムのような&lt;g7&gt;&lt;title&gt;&lt;/g7&gt;は避けましょう&lt;/g6&gt;&lt;/g5&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注151）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All the pieces are in place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090855Z" creationid="bakera" creationdate="20170929T090855Z">
+        <seg>すべてのピースがしかるべき場所に収まっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7560,6 +7664,14 @@ JS中の初期化処理で
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As ever, we need to be mindful not just of the code and the visual design but our choice of words.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090939Z" creationid="bakera" creationdate="20170929T090939Z">
+        <seg>これまでと同様、コードと視覚デザインだけでなく言葉の選択にも注意を払う必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 下に繋がりやすいよう語順を入れ替えました。
 
 (太田)
@@ -8308,6 +8420,14 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Below is the initial markup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090743Z" creationid="bakera" creationdate="20170929T090743Z">
+        <seg>以下は最初のマークアップです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 語順を入れ替えました。</note>
       <tuv lang="EN-US">
         <seg>Best understood by university graduates.</seg>
@@ -8529,6 +8649,14 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170609T063604Z" creationid="yoota" creationdate="20170606T094652Z">
         <seg>しかし、すべての人が自信あふれる書き手、あるいは熱心な読者というわけではないことも理解しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But I’d like to emphasize Bill’s stipulation regarding point four:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091007Z" creationid="bakera" creationdate="20170929T091007Z">
+        <seg>どれも優れたアドバイスで、この記事の全文を読むことをお勧めしますが、中でも私が強調したいのはビルが唱える4つ目のポイントです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8979,6 +9107,14 @@ Tabの件は了解です、ありがとうございます。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By debouncing, we divide clusters of keypress events into blocks and only execute &lt;g2&gt;validate()&lt;/g2&gt; once per block.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090916Z" creationid="bakera" creationdate="20170929T090916Z">
+        <seg>デバウンスにより、キーストロークイベントの塊をブロックに分割して、ブロックごとにvalidate()を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 微調整。</note>
       <tuv lang="EN-US">
         <seg>By default, the &lt;g1&gt;placeholder&lt;/g1&gt; attribute is shown as gray text, which can cause contrast issues, especially where the input uses a background color.</seg>
@@ -9127,6 +9263,14 @@ can的なものはないので「築けます」というより「築きます�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170619T020128Z" creationid="yoota" creationdate="20170619T015443Z">
         <seg>アクセシブルなランドマークと、音として聞こえるセクション構造を組み立てることで、コンテンツ――ブログ記事やその他のもの――は、ナビゲートしやすいものになり、多様なユーザーやパーサーの相互運用性が向上します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By linking the parsable state of &lt;g2&gt;aria-invalid="true"&lt;/g2&gt; to a visual style, you save yourself the bother of managing style and state as separate concerns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090837Z" creationid="bakera" creationdate="20170929T090837Z">
+        <seg>aria-invalid="true"という構文解析可能な状態を視覚的なスタイルにリンクすることで、スタイルと状態を個別に管理する手間を省けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9473,6 +9617,14 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Certainly, without one it won’t be immediately obvious when the field has become valid or invalid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090931Z" creationid="bakera" creationdate="20170929T090931Z">
+        <seg>確かに、フィードバックがなければ、フィールドが有効または無効になったことを即座に知ることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) こういうことかなと。
 
 (太田) そういうことですね。
@@ -9721,6 +9873,14 @@ issueは文字どおり「イシュー」と思われますが、いったん「
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Conventionally, errors are displayed in red, so it’s advisable to give the message box a red border or background.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090802Z" creationid="bakera" creationdate="20170929T090802Z">
+        <seg>一般的にエラーは赤色で表示されるので、メッセージボックスを赤の枠で囲むか、背景を赤にするとよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 すこし調整。</note>
       <tuv lang="EN-US">
@@ -9836,6 +9996,14 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170619T065748Z" creationid="yoota" creationdate="20170605T032641Z">
         <seg>キュートですが、コンテキストから取り出してみると、それぞれのリンクには完全に無意味なラベルがついています。順番に「多、リンク。く、リンク。の、リンク」と読まれても、有益な情報は何も得られません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debouncing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090911Z" creationid="bakera" creationdate="20170929T090911Z">
+        <seg>デバウンス</seg>
       </tuv>
     </tu>
     <tu>
@@ -10177,6 +10345,14 @@ draw onは経験を活かすような意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Each one needs two pieces of information, available to all users (within reason):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090824Z" creationid="bakera" creationdate="20170929T090824Z">
+        <seg>各フィールドには、以下の2つの情報が目に見える形と見えない形で必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 語順など調整。
 
@@ -10401,6 +10577,14 @@ line-heightは原文の原稿では小文字なのですが、この見出しは
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170614T082049Z" creationid="yoota" creationdate="20170614T082049Z">
         <seg>すべては&lt;g1&gt;line-height&lt;/g1&gt;で分割できる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Except for the wording of error descriptions, the pattern will be the same for each invalid input, so we’ll just use the password field as an exemplar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090829Z" creationid="bakera" creationdate="20170929T090829Z">
+        <seg>エラーを説明する言葉を除き、パターンはそれぞれの無効な入力と同じです。パスワードフィールドを例にしてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10881,6 +11065,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For (1) we can deploy the well-supported &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-invalid&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;17&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; attribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090831Z" creationid="bakera" creationdate="20170929T090831Z">
+        <seg>(1)については、広くサポートされているaria-invalid属性（脚注188）を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)　関連付け→関連づけ
 
 (伊原) まわりくどい感じがあったので修正。wouldを活かすべきか。一応その方向にしてみた。
@@ -10927,6 +11119,14 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170926T084034Z" creationid="bakera" creationdate="20170926T082134Z">
         <seg>テキスト入力などのユーザー入力を受け取る要素に対しては、付属するラベルを関連づける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For entries requiring a certain number of characters, the first few keystrokes are &lt;g2&gt;always&lt;/g2&gt; going to constitute an invalid entry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090903Z" creationid="bakera" creationdate="20170929T090903Z">
+        <seg>特定の文字数が必要なエントリーでは、最初の何回かのキーストロークが必ず無効なエントリーとみなされてしまうからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11173,6 +11373,14 @@ coverは説明するというか触れている程度かもしれません。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T070849Z" creationid="yoota" creationdate="20170512T033610Z">
         <seg>たとえば4章「ブログ記事」では、&lt;g1&gt;&lt;g2&gt;Flesch-Kincaidスケール&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注36）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を指標としたコンテンツの読みやすさのテストについて触れています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For fields now marked invalid, we could run our validation routine on each &lt;g2&gt;input&lt;/g2&gt; event, switching &lt;g3&gt;aria-invalid&lt;/g3&gt; from &lt;g4&gt;false&lt;/g4&gt; to &lt;g5&gt;true&lt;/g5&gt; where applicable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090908Z" creationid="bakera" creationdate="20170929T090908Z">
+        <seg>無効とマークされたフィールドについて、inputイベントごとに検証ルーチンを実行し、aria-invalidを適宜falseからtrueに切り替えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11599,6 +11807,14 @@ For thatは「その実現」としてみました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For this purpose we can provide an accompanying description.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090844Z" creationid="bakera" creationdate="20170929T090844Z">
+        <seg>フィールドが無効であると知っても、その修正方法が分からなければ意味がありません。これを回避するために説明を付け加えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) あまりにも分かりにくいので2文にわけました。たぶんこういうことだと思います。
 
 (伊原) テキスト➞リンクテキスト と補いました。</note>
@@ -11640,6 +11856,14 @@ tiptoeはつま先立ちで歩く。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170427T033749Z" creationid="yoota" creationdate="20170427T033749Z">
         <seg>そのためには、フォントはBase64でエンコードし、当該のスタイルシートに埋め込む必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For users who type quickly, the above &lt;g1&gt;validate()&lt;/g1&gt; function will fire very frequently.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090912Z" creationid="bakera" creationdate="20170929T090912Z">
+        <seg>タイピングの速いユーザーの場合、先ほどのvalidate()関数が頻繁に実行されることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12178,6 +12402,14 @@ shape up のニュアンスを出したいかも?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Here’s how we populate the live region using our script:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090752Z" creationid="bakera" creationdate="20170929T090752Z">
+        <seg>以下のようなスクリプトでライブリージョンにエラーメッセージを含めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 OK</note>
       <tuv lang="EN-US">
@@ -12442,6 +12674,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, since the &lt;g1&gt;aria-invalid&lt;/g1&gt; attribute will have been set to &lt;g2&gt;true&lt;/g2&gt; regardless, when the user blurs and refocuses the field, they will be told it is valid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090933Z" creationid="bakera" creationdate="20170929T090933Z">
+        <seg>しかし、それに関係なくaria-invalid属性はtrueに設定されるので、ユーザーがフィールドから離れて再度フォーカスを合わせたとき、有効であることが知らされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, thanks to the extension’s omission of the &lt;g1&gt;.has-ignorable-error&lt;/g1&gt; class, the most common unrecognized properties — browser prefixes — are not styled this way.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170925T020414Z" creationid="rikiha" creationdate="20170925T020414Z">
@@ -12622,6 +12862,14 @@ http://inclusivedesignprinciples.org/ja/
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170601T092846Z">
         <seg>しかし、コンテンツが静的で、読ませることだけが目的なら、クライアントサイドJavaScriptでコンテンツを表示するのは非効率で、比較的信頼性の低い方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, you should be wary of red being the only visual characteristic that classifies the message as an error.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090803Z" creationid="bakera" creationdate="20170929T090803Z">
+        <seg>ただし、赤という色が、そのメッセージがエラーであることを示す唯一の視覚的特長にならないよう注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14195,6 +14443,14 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In an official capacity, WCAG echoes Bill’s sentiments with the &lt;g2&gt;&lt;g3&gt;2.4.6 Headings and Labels&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;21&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; success criterion, imploring that “headings and labels describe topic or purpose.” Branding whimsy in your copy can diverge too much from transparent wording, confusing and infuriating the user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091011Z" creationid="bakera" creationdate="20170929T091011Z">
+        <seg>WCAGは、達成基準2.4.6「Headings and Labels」（脚注192）で「見出しとラベルはトピックまたは目的を説明するものである」と訴えることで、公式にビルの意見に同調しています。コピーによる奇抜なブランディングは、率直で分かりやすい言い回しからかけ離れ、ユーザーを混乱させたり憤慨させることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注? 要検討
 
 (伊原) 【要検討】
@@ -14510,6 +14766,14 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In forms, where labels and instructions mean the difference between succeeding to complete a form and failing, we need to take extra care — especially if the site we’re developing provides a crucial service, such as registering to vote.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090941Z" creationid="bakera" creationdate="20170929T090941Z">
+        <seg>フォームを最後まで入力してもらえるかどうかはラベルと指示で決まるので、特に開発中のサイトが投票用の登録といった重要なサービスを提供している場合は、十分に注意しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「一般に」と言っているので一般的に推奨されていないようにも読めますが、原文では I recoomend なので一般論ではなくヘイドンさんの考えのようです。後を読むと、サードパーティのグリッドシステムが役立つこともあると言っているので、ほとんどの状況では、ということでしょう。「一般的なケースでは」としてみました。
 
 (伊原) LGTM
@@ -14718,6 +14982,14 @@ NVDA2017.3jaでは
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In other words, &lt;g1&gt;don’t put your brand before your usability&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091009Z" creationid="bakera" creationdate="20170929T091009Z">
+        <seg>言い換えれば、ユーザビリティよりもブランドを優先させてはいけないということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>i(太田) これはヘイドンジョークでしょうね。
 it would have liked to begin with は最初から好まれていたであろうサイズ、つまりユーザーが元々設定していたお好みのサイズということでしょう。コンテンツ側の指定が無視されるので、完全にユーザーの好きなサイズになるということですね。
 
@@ -14816,6 +15088,14 @@ metaについては補足が必要か?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In our case, the user remains focused on the submit button and is free to move back into the form to fix the errors when ready.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090820Z" creationid="bakera" creationdate="20170929T090820Z">
+        <seg>今回のようにライブリージョンを利用すると、ユーザーはsubmitボタンにフォーカスを合わせた状態を維持でき、自分のペースで自由にフォームに戻ってエラーを修正することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注
 
 (伊原) 代償というほど大げさな感じでもないと感じたので、調整しました。
@@ -14831,6 +15111,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170906T153649Z" creationid="rikiha" creationdate="20170905T004338Z">
         <seg>その代わり、今回の例では写真家ページへの子リンクは削除することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In our case, we need to set this to be slightly shorter than what we imagine is the average interval between keystrokes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090921Z" creationid="bakera" creationdate="20170929T090921Z">
+        <seg>今回は、平均的なキーストロークの間隔と思われる時間よりもわずかに短くなるように設定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15605,6 +15893,14 @@ look at は学びましたというか考察しましたというか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, the password is not acceptable because it is fewer than six characters long.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090845Z" creationid="bakera" creationdate="20170929T090845Z">
+        <seg>このケースでは、パスワードが6文字に満たないために無効とされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 賛成ボタン→投票ボタン?
 
@@ -16012,6 +16308,14 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170516T085430Z" creationid="yoota" creationdate="20170510T071857Z">
         <seg>そうではなく、&lt;g3&gt;読むことに困難を抱える人&lt;/g3&gt;にも読みやすい書体を選ぶことで、すべての人が読みやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, only when errors are present &lt;g1&gt;after attempted submission&lt;/g1&gt; do we begin informing the user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090906Z" creationid="bakera" creationdate="20170929T090906Z">
+        <seg>送信時にエラーが存在した場合にのみ、ユーザーに知らせるようにしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17548,6 +17852,14 @@ validはvalidでも良いのかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Just knowing that the field is invalid is little use unless the user knows how to fix it too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090843Z" creationid="bakera" creationdate="20170929T090843Z">
+        <seg>フィールドが無効であると知っても、その修正方法が分からなければ意味がありません。これを回避するために説明を付け加えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 補いつつ調整。
 
 (太田) 
@@ -18193,6 +18505,14 @@ manageは管理で良いような。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Lodash’s &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;_.debounce&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;19&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; utility accepts a &lt;g7&gt;wait&lt;/g7&gt; parameter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090920Z" creationid="bakera" creationdate="20170929T090920Z">
+        <seg>Lodashの.debounce（脚注190）ユーティリティは、waitパラメーターを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) go around で行き渡る、それがvitalだということで、このような感じに。
 
 (太田)
@@ -18428,6 +18748,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microcopy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090937Z" creationid="bakera" creationdate="20170929T090937Z">
+        <seg>マイクロコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More correctly, placing &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-required="true"&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;12&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; on the input itself will announced “Required” in the set language of the page.</seg>
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170929T062811Z" creationid="bakera" creationdate="20170929T062811Z">
@@ -18459,6 +18787,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170822T082228Z" creationid="rikiha" creationdate="20170819T005348Z">
         <seg>しかし実在するほとんどのユーザーはただ目的を達成したいだけなのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most screen readers also provide shortcuts to reannounce element information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090934Z" creationid="bakera" creationdate="20170929T090934Z">
+        <seg>また、大半のスクリーンリーダーには要素情報を再度読み上げるためのショートカットが用意されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18589,6 +18925,14 @@ image maps to link parts of those images to other pages of imagesで、「画像
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170706T091648Z" creationid="yoota" creationdate="20170622T030355Z">
         <seg>基本的には、私自身のデザインプロセスを文章にすれば良いわけですから、すらすらと筆が進み始めました。インクルーシブなコンテンツや機能を考え、実現するという作業を書いていったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NVDA, for example, will speak the focused password input when pressing &lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090935Z" creationid="bakera" creationdate="20170929T090935Z">
+        <seg>たとえばNVDAでは、Insert + Tabキーを押すとフォーカスを合わせたパスワード入力が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19197,6 +19541,14 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Not only will this produce some performance issues, but in implementations where a live region is populated and repopulated to declare invalidity, you put screen readers into ’80s remix mode: “Y-your-y-your pass-your password must be at least 6 characters long.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090913Z" creationid="bakera" creationdate="20170929T090913Z">
+        <seg>これはパフォーマンスの問題を引き起こすだけでなく、ライブリージョンが無効を宣言するエラーメッセージで繰り返し更新されるような場合、スクリーンリーダーが80年代のリミックスモードに入り、「＃＃6—6文字—6—6文字以上—6文字以上のパスワードを設定してください＃＃」などと読み上げられることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 この読みは普通に「エックス」ですね。
 視覚的にも不明瞭、というのはフォントによっては乗算記号に見えないという話ですね。特にセリフだとひげが強くつくので、どう見てもかけるではなくエックスという見た目になります。
@@ -19292,6 +19644,14 @@ candidate の訳が落ちていますがまあ無くても良いのでママで�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Not wanting to be the overbearing waiter continually interrupting customers to check in with them, we didn’t flag errors on first run.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090905Z" creationid="bakera" creationdate="20170929T090905Z">
+        <seg>ここでは、ひっきりなしにお客様の元に行き邪魔をする横暴なウェイターにならないように、入力時点ではエラー信号を出さないようにしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 prelearnedは使い慣れたということでいいのか。
 直訳すると事前に学習済み的なことだと思いますが。
@@ -19318,6 +19678,14 @@ prelearnedは使い慣れたということでいいのか。
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170922T073248Z" creationid="rikiha" creationdate="20170909T223909Z">
         <seg>JavaScriptの&lt;g3&gt;focus()&lt;/g3&gt;メソッドでフォーカスできるようにするには、最初の商品の&lt;g2&gt;&lt;h3&gt;&lt;/g2&gt;に&lt;g1&gt;tabindex="-1"&lt;/g1&gt;を適用する必要がある点に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that I am placing the region &lt;g1&gt;directly above&lt;/g1&gt; the submit button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090745Z" creationid="bakera" creationdate="20170929T090745Z">
+        <seg>submitボタンのすぐ上にリージョンを配置している点に注目してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19910,6 +20278,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Now we can safely move on to handling the invalid fields.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090823Z" creationid="bakera" creationdate="20170929T090823Z">
+        <seg>これで安心して無効フィールドの処理へと進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 「ページ内ナビゲーションランドマーク」がちょっと謎。そんな言い方はいままで出てきてなくて「目次」だったような。
 
 (太田)
@@ -19971,6 +20347,14 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T082026Z" creationid="okamoto_jun" creationdate="20170627T082026Z">
         <seg>この答えに対するあなたの反応は、形を持たずに広がっていく公開の情報空間――私たちがWebと呼ぶもの、とあなたの関係によって大きく変わってきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now, when a screen reader user focuses the input, this accessible description will be read out after the label, current value, input type and (invalid) state information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090854Z" creationid="bakera" creationdate="20170929T090854Z">
+        <seg>これで、スクリーンリーダーユーザーが入力にフォーカスを合わせると、ラベルの後にこのアクセシブルな説明が読み上げられるようになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20282,6 +20666,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170914T093932Z" creationid="rikiha" creationdate="20170909T223740Z">
         <seg>ここでも、&lt;g2&gt;&lt;g3&gt;スクリーンリーダーでアクセシブルな非表示方法&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注165）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the user is actively engaged in &lt;g1&gt;correcting&lt;/g1&gt; errors, I think it helpful to reward their efforts as they work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090907Z" creationid="bakera" creationdate="20170929T090907Z">
+        <seg>ユーザーが積極的にエラーの修正に取り組んだら、その行動に報いるのが良いと私は思います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20996,6 +21388,20 @@ https://ja.wikipedia.org/wiki/プレイン・イングリッシュ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Please make sure all your registration information is correct.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090807Z" creationid="bakera" creationdate="20170929T090807Z">
+        <seg>var form = document.getElementById('register');
+form.addEventListener('submit ', function(event) {
+　if (errors) {
+　　event.preventDefault(); // 送信しない
+　　document.getElementById('error').textContent = '登録情報が正確であることを確認してください。'
+　}
+});</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 語順を調整。
 
 (岡本)
@@ -21293,6 +21699,14 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Remember that users can (and will!) zoom their content.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090749Z" creationid="bakera" creationdate="20170929T090749Z">
+        <seg>ユーザーはコンテンツを拡大／縮小できます（きっとするでしょう！）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)
 前章の「フォーカスを示す」を思い出してください。→3章「パラグラフ」の「フォーカスを示す」（◯ページ）を思い出してください。
 
@@ -21366,6 +21780,14 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170929T053605Z" creationid="bakera" creationdate="20170929T053605Z">
         <seg>必須フィールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rerunning the Routine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090857Z" creationid="bakera" creationdate="20170929T090857Z">
+        <seg>ルーチンを再実行する</seg>
       </tuv>
     </tu>
     <tu>
@@ -22435,6 +22857,14 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Since the submit button is where the user is looking and working, this does the best job of bringing the error to their attention.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090747Z" creationid="bakera" creationdate="20170929T090747Z">
+        <seg>submitボタンはユーザーが見て操作するところなので、エラーに注意を促すにはこの場所が最適です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ちょっと調整。もう少しこなれた感じにしたい気も。
 
 (太田)
@@ -22905,6 +23335,14 @@ The Office はイギリスのコメディドラマのようですね。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>So, when do we send feedback to the user and how frequently?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090904Z" creationid="bakera" creationdate="20170929T090904Z">
+        <seg>では、どのようなタイミングと頻度でユーザーにフィードバックを提供すればよいのでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 少し調整。
 
@@ -22972,6 +23410,14 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170523T071843Z" creationid="yoota" creationdate="20170522T100941Z">
         <seg>CSSクラスを使うことで、見出しのスタイルを分離して処理する開発者もいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some fancy form validation scripts give you live feedback as you type your text entries, letting you know whether what you type is valid &lt;g1&gt;as&lt;/g1&gt; you type it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090858Z" creationid="bakera" creationdate="20170929T090858Z">
+        <seg>手の込んだフォーム検証スクリプトの中には、テキストを入力している最中にフィードバックを提供し、入力内容が有効かどうかを知らせてくれるものもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23567,6 +24013,14 @@ suffice to sayは「あえて言うなら」くらいのほうがしっくりく
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to them like one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090948Z" creationid="bakera" creationdate="20170929T090948Z">
+        <seg>2.ユーザーは人間です。それを念頭に彼らと話をしてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 disastrousというのがなにを言いたいのかよくわからないですね。
 破綻するといっているのか、悲劇を招くといっているのか。
@@ -23852,6 +24306,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That is, the description is connected much like the label.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090852Z" creationid="bakera" creationdate="20170929T090852Z">
+        <seg>つまり、説明はラベルと同じように接続されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) semanticallyはセマンティック的に訳す必要があるかも。
 
 (伊原) LGTM</note>
@@ -24040,6 +24502,14 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>That’s about it, really.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090833Z" creationid="bakera" creationdate="20170929T090833Z">
+        <seg>これだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ここのdesignedは設計かなと。また、次の段落では「HTMLのような宣言型言語用」といっているので、the largely imperative language of JavaScript はこういう訳になる？</note>
       <tuv lang="EN-US">
         <seg>That’s all very well, but it’s designed for the largely imperative language of JavaScript.</seg>
@@ -24172,6 +24642,22 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170421T034226Z" creationid="yoota" creationdate="20170421T032527Z">
         <seg>&lt;c0&gt;viewport&lt;/c0&gt;メタタグを置くことで、魔法のようにレスポンシブデザインが有効になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;#error&lt;/g1&gt; live region should only be visible when it is populated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090758Z" creationid="bakera" creationdate="20170929T090758Z">
+        <seg>#errorライブリージョンは、エラーメッセージを含んだ場合にのみ表示されるようにする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;#password-hint&lt;/g1&gt; element is connected to the input using the &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;18&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; attribute and the &lt;g8&gt;password-hint&lt;/g8&gt; &lt;g9&gt;id&lt;/g9&gt; as a cipher.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090851Z" creationid="bakera" creationdate="20170929T090851Z">
+        <seg>#password-hint要素が、aria-describedby（脚注189）属性とpassword-hint idを暗号として使用して、入力に接続されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25006,6 +25492,14 @@ mightなのですこし弱めに。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The advantage of declaring the presence of errors using a live region is that we don’t have to move the user to bring this information to their attention.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090817Z" creationid="bakera" creationdate="20170929T090817Z">
+        <seg>ライブリージョンを使ってエラーの存在を宣言するメリットは、ユーザーに移動してもらわなくてもエラー情報に注意を促せる点です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 少し調整。
 
@@ -25124,6 +25618,14 @@ https://www.w3.org/WAI/tutorials/images/complex/#description-containing-textual-
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T071415Z" creationid="yoota" creationdate="20170510T072818Z">
         <seg>この記事では、もうひとつの例として帯域幅を取り上げ、最も信頼性が低いモバイルネットワーク上で高い性能を発揮できるWebアプリケーションは、どこでも高い性能を発揮できるとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The article “&lt;g1&gt;&lt;g2&gt;Five Ways To Prevent Bad Microcopy&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;20&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;” by Bill Beard offers some key pointers:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090943Z" creationid="bakera" creationdate="20170929T090943Z">
+        <seg>ビル・ビアード（Bill Beard）による記事「Five Ways To Prevent Bad Microcopy」（脚注191）に記されたキーポイントを紹介します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25986,6 +26488,14 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The only difference is in terms of order: the description is read last.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090853Z" creationid="bakera" creationdate="20170929T090853Z">
+        <seg>唯一の違いは順序で、説明が最後に読まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 原文にない括弧を補うのはできるだけ避けたいです。語順を変えて調整しました。
 
 (伊原) LGTM</note>
@@ -26063,6 +26573,14 @@ sentは「飛ばされる」としました。</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170907T091111Z" creationid="rikiha" creationdate="20170905T004349Z">
         <seg>その結果、ユーザーは&lt;g2&gt;リンクに触れる&lt;/g2&gt;（マウスカーソルを載せて手の形になるか、キーボードフォーカスが表示される）まで、インタラクションがあることがわかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The password input with error message directly below in red text, prefixed by a warning symbol.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090847Z" creationid="bakera" creationdate="20170929T090847Z">
+        <seg>入力したパスワードのすぐ下に、警告マークと赤色のエラーメッセージが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27223,6 +27741,14 @@ convention は他のところでは「慣習」としていたのでここもそ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, an error which appears above the form may not even appear within the current viewport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090750Z" creationid="bakera" creationdate="20170929T090750Z">
+        <seg>そのため、エラーがフォームの上に表示されると、現在のビューポート内に表示されない可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>※要訳注→もう少し下にまとめて訳注入れる
 
 (伊原) この記号を、と補いつつ調整。
@@ -27780,6 +28306,14 @@ sitting around twiddling thumbs は面白訳にしたほうがいいのかどう
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170829T032953Z" creationid="rikiha" creationdate="20170823T082613Z">
         <seg>これならテストセッションの最中でも作業でき、その場に居合わせる全ての人を巻き込むことができます――フロントエンド開発者がノートPCを落ち着きなくいじっているあいだ、手持ちぶさたで待っているよりもはるかに良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can become very difficult to manage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090901Z" creationid="bakera" creationdate="20170929T090901Z">
+        <seg>しかし、こうしたスクリプトは管理が非常に難しくなることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28659,6 +29193,14 @@ accessible roleはどうしたものか。英語だとroleという語に多様�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This population of DOM content simultaneously triggers screen readers to announce the content, including the prepended alternative text: “error: Please make sure all your registration information is correct.” Note that the role of &lt;g4&gt;&lt;g5&gt;&lt;g6&gt;img&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;16&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt; and &lt;g10&gt;aria-label&lt;/g10&gt; force the &lt;g11&gt;&lt;svg&gt;&lt;/g11&gt; element to behave like a standard &lt;g12&gt;&lt;img/&gt;&lt;/g12&gt; element carrying an &lt;g13&gt;alt&lt;/g13&gt; attribute with the content “error:”.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090815Z" creationid="bakera" creationdate="20170929T090815Z">
+        <seg>こうしたDOMコンテンツの包含は同時に、スクリーンリーダーが「＃＃エラー：登録情報が正確であることを確認してください＃＃」という追加された代替テキストなどのコンテンツを読み上げるトリガーにもなります。img（脚注187）というARIAロールとaria-labelにより、&lt;svg&gt;要素が「エラー：」というコンテンツが定義されたalt属性を持つ標準の&lt;img/&gt;要素のようにを動作しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) いったん反転させずに原語のまま訳してみました。「コード」は補いました。
 
 (太田) OK</note>
@@ -28922,6 +29464,14 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170927T085123Z" creationid="bakera" creationdate="20170927T084841Z">
         <seg>この場合もラベルが表示されないため、自動入力された値がそのフィールドに沿った適切なものかどうか、確認することが困難になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This unexpected and unsolicited shift of position within the application risks disorientating users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090819Z" creationid="bakera" creationdate="20170929T090819Z">
+        <seg>しかし、このお節介とも言える唐突なアプリケーション内での位置移動は、ユーザーを混乱させる恐れがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29510,6 +30060,14 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To ensure that the empty box is not visible in its initial state (and does not otherwise affect the form’s layout) you can employ the &lt;g2&gt;:empty&lt;/g2&gt; pseudo-class:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090800Z" creationid="bakera" creationdate="20170929T090800Z">
+        <seg>初期状態では空のボックスが表示されない（またはフォームのレイアウトに影響を与えない）ようにするには、:empty疑似クラスを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 実感するために→実感したければ、としてみました。
 
@@ -29847,6 +30405,14 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To support at the same time screen reader users and people who cannot see color, we can prepend a warning icon containing alternative text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090804Z" creationid="bakera" creationdate="20170929T090804Z">
+        <seg>スクリーンリーダーユーザーや色覚障害を持つ人々も同時にサポートするために、代替テキストを含んだ警告アイコンを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To them, a button is a visual artifact, producible in Adobe Illustrator or Sketch.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095421Z" creationid="okamoto_jun" creationdate="20170627T095421Z">
@@ -30004,6 +30570,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170919T104813Z" creationid="rikiha" creationdate="20170909T223953Z">
         <seg>一般的に、デザイナーは、ユーザーのニーズを見越し、彼らのために賢明な判断を下すことが自分の仕事だと考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically, form errors alert users by focusing the first invalid form field.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090818Z" creationid="bakera" creationdate="20170929T090818Z">
+        <seg>通常は、最初の無効なフォームフィールドにフォーカスすることで、フォームエラーをユーザーに警告します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30464,6 +31038,22 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Using the attribute selector for the state makes sure the form and underlying function of your interface don’t get out of sync.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090839Z" creationid="bakera" creationdate="20170929T090839Z">
+        <seg>状態の属性セレクタを使用すると、インターフェイスの基礎を成す関数とフォームの間の不一致を防ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usually a separation of concerns is beneficial, but whenever a field is marked as invalid, that’s when it should &lt;g3&gt;look&lt;/g3&gt; invalid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090838Z" creationid="bakera" creationdate="20170929T090838Z">
+        <seg>多くの場合、問題の分離は有益なことですが、フィールドが無効とマークされる場合は常に無効であるように見えなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 すこし調整。</note>
       <tuv lang="EN-US">
@@ -30587,6 +31177,14 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170503T152225Z" creationid="yoota" creationdate="20170426T092511Z">
         <seg>ビューポートを基準とする単位を使えば、ビューポートの高さ（&lt;g1&gt;vh&lt;/g1&gt;）と幅（&lt;g2&gt;vw&lt;/g2&gt;）に合わせてテキストのサイズを調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visual Design</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090757Z" creationid="bakera" creationdate="20170929T090757Z">
+        <seg>視覚デザイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -30925,6 +31523,14 @@ mightなのでもうちょっと弱いイメージかも。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>We need the validation to happen only when the user has stopped typing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090924Z" creationid="bakera" creationdate="20170929T090924Z">
+        <seg>ここではユーザーが入力をやめたときにのみ検証が行われるようにしたいので、optionsオブジェクトではoptions.leadingがfalse、options.trailingがtrueでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 少し調整。
 コールトゥアクションは前にカタカナで使用しているのでそのままに。
@@ -31042,6 +31648,14 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170630T081609Z" creationid="yoota" creationdate="20170622T030341Z">
         <seg>作りたいのは、&lt;g1&gt;すべての&lt;/g1&gt;良い特性を備え、当然、悪い特性をまったくもたないパターンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We want to make sure the &lt;g1&gt;validate()&lt;/g1&gt; function is only called when the user is idle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090915Z" creationid="bakera" creationdate="20170929T090915Z">
+        <seg>validate()関数は、ユーザーがアイドル状態にあるときのみ呼び出されるようにしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31216,6 +31830,14 @@ formとformのジョーク。どうしたものか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T084518Z" creationid="okamoto_jun" creationdate="20170627T084518Z">
         <seg>Webというメディアを誤解して不適切に扱った結果、自ら苦労を増やして、ユーザーにも損害を与えてきたのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What Needs Fixing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090822Z" creationid="bakera" creationdate="20170929T090822Z">
+        <seg>修正が必要な箇所</seg>
       </tuv>
     </tu>
     <tu>
@@ -31434,6 +32056,14 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>When debouncing, the single function execution can take place at the beginning (&lt;g8&gt;leading&lt;/g8&gt;) or end (&lt;g9&gt;trailing&lt;/g9&gt;) of the block.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090922Z" creationid="bakera" creationdate="20170929T090922Z">
+        <seg>デバウンスでは、単一の関数がブロックの開始（leading）または終了時（trailing）に実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 この ticket はBTSのチケットと思われます。報告でも間違いではないものの、すぐ下にチケットの図があるのでチケットとして訳出するべきではあるように思います。とはいえ「チケット」で良いのかは検討が必要かも。Backlogなどでは「課題」と呼ばれていますね。
 hundredが訳から落ちています。それぞれ異なるチケットが100件登録されるという話をしているはずです。
@@ -31648,6 +32278,14 @@ impossibleは「不可能になる」くらい強くしたいところ。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>When the form’s submission event is suppressed, the live region is populated, switching its display state from &lt;g1&gt;none&lt;/g1&gt; to &lt;g2&gt;block&lt;/g2&gt; thanks to the &lt;g3&gt;:empty&lt;/g3&gt; pseudo-class becoming inapplicable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090813Z" creationid="bakera" creationdate="20170929T090813Z">
+        <seg>フォームの送信イベントが止められると、ライブリージョンにエラーメッセージが投入され、:empty疑似クラスが不適合となり、表示状態がnoneからblockに切り替わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 微調整。
 
 (太田) OK</note>
@@ -31696,6 +32334,14 @@ reorganize難しいですね。「状態を変える」か、超訳ですが「�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170829T104606Z" creationid="rikiha" creationdate="20170827T115924Z">
         <seg>たとえば、テストユーザーがボタンを押したら、コンピュータはそれに反応してアプリケーションの状態を変えなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the user moves back into the form and focuses the input it will now announce “Invalid” (or similar) in screen readers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090834Z" creationid="bakera" creationdate="20170929T090834Z">
+        <seg>ユーザーがフォームに戻ってパスワード入力にフォーカスを合わせると、スクリーンリーダーが「＃＃無効＃＃」などと読み上げます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31982,6 +32628,14 @@ shouldなので「すべき」くらいかなと。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170802T084512Z" creationid="rikiha" creationdate="20170727T134641Z">
         <seg>このテキストが「現在のページ」で良いのか、「このページ」や「現在位置」とした方が良いのかは議論の余地がありますが、いずれにしても、かなり簡潔なものにするべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether you actually want to implement a live region per field for feedback is up to you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090930Z" creationid="bakera" creationdate="20170929T090930Z">
+        <seg>フィールドごとにライブリージョンを実装してフィードバックを提供するかどうかは、開発者の自由です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32419,6 +33073,14 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170919T095245Z" creationid="rikiha" creationdate="20170916T225338Z">
         <seg>クリックされた際、読み込み中の状態であることを検出したら（たとえば、ボタンの&lt;g3&gt;textContent&lt;/g3&gt;に「読み込み中」が含まれていたら）、何もせずに&lt;g2&gt;return&lt;/g2&gt;する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can harness the &lt;g1&gt;aria-invalid&lt;/g1&gt; attribute to provide a visual indication too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090836Z" creationid="bakera" creationdate="20170929T090836Z">
+        <seg>aria-invalid属性を使って視覚表示を提供することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33178,6 +33840,14 @@ esp. は especially の略記。</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170727T114140Z">
         <seg>現在位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Your brand’s tone and voice are essential to consider when writing all of your copy, but it &lt;g1&gt;should not get in the way&lt;/g1&gt; of a user who is trying to take action.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091008Z" creationid="bakera" creationdate="20170929T091008Z">
+        <seg>ブランドのトーンや声は、コピーを書くときは必ず考慮する必要がありますが、行動を起こそうとしているユーザーの邪魔になってはいけません。</seg>
       </tuv>
     </tu>
     <tu>
