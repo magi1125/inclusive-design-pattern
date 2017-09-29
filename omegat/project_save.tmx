@@ -24289,6 +24289,14 @@ OK、見出しにマークアップが含まれるので電子化時には注意
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;required&lt;/g4&gt; attribute is not implemented uniformly&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;14&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; across browsers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T073039Z" creationid="bakera" creationdate="20170929T073039Z">
+        <seg>&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;required&lt;/g4&gt;属性は、すべてのブラウザで実装されているわけではありません&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注185）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 すこし調整。</note>
       <tuv lang="EN-US">
