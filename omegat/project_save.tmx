@@ -16074,11 +16074,14 @@ look at は学びましたというか考察しましたというか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ひとまず調整。
+括弧内の (pattern matching) の言わんとするところがいまいちよくわからないですね。</note>
       <tuv lang="EN-US">
         <seg>In which case, we are going to rely on WAI-ARIA to indicate invalidity, with JavaScript for the actual validation (pattern matching).</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090625Z" creationid="bakera" creationdate="20170929T090625Z">
-        <seg>そのため、無効性の提示にはWAI-ARIAを使用する一方、実際の検証はJavaScriptで行うことになります（パターンマッチング）。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T103655Z" creationid="bakera" creationdate="20170929T090625Z">
+        <seg>この場合、入力が無効であることを示すためにのWAI-ARIAを使用しながら、実際のフォーム検証（パターンマッチング）にはJavaScriptを使うことになります。</seg>
       </tuv>
     </tu>
     <tu>
