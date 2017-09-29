@@ -8495,8 +8495,8 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
       <tuv lang="EN-US">
         <seg>Below is the initial markup.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T111039Z" creationid="bakera" creationdate="20170929T090743Z">
-        <seg>まずは以下のようにマークアップします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T115228Z" creationid="bakera" creationdate="20170929T090743Z">
+        <seg>ひとまず以下のようにマークアップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25619,11 +25619,13 @@ mightなのですこし弱めに。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整</note>
       <tuv lang="EN-US">
         <seg>The advantage of declaring the presence of errors using a live region is that we don’t have to move the user to bring this information to their attention.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090817Z" creationid="bakera" creationdate="20170929T090817Z">
-        <seg>ライブリージョンを使ってエラーの存在を宣言するメリットは、ユーザーに移動してもらわなくてもエラー情報に注意を促せる点です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T115320Z" creationid="bakera" creationdate="20170929T090817Z">
+        <seg>ライブリージョンでエラーの存在を宣言することのメリットは、ユーザーに移動してもらわなくてもエラー情報に注意を促せる点です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30733,8 +30735,8 @@ OK
       <tuv lang="EN-US">
         <seg>Typically, form errors alert users by focusing the first invalid form field.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090818Z" creationid="bakera" creationdate="20170929T090818Z">
-        <seg>通常は、最初の無効なフォームフィールドにフォーカスすることで、フォームエラーをユーザーに警告します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T115537Z" creationid="bakera" creationdate="20170929T090818Z">
+        <seg>エラーになっている入力欄にフォーカスを移すことで、フォームエラーをユーザーに警告するという方法もよく見られます。</seg>
       </tuv>
     </tu>
     <tu>
