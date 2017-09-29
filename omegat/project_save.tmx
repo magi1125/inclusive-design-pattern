@@ -668,11 +668,15 @@ add more は言わなくてもわかるのでトリました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+破損だとちょっと違和感が。
+broken は破綻としました。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Something is broken (the form has errors).</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090617Z" creationid="bakera" creationdate="20170929T090617Z">
-        <seg>1.何かが破損している（フォームにエラーがある）</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T092709Z" creationid="bakera" creationdate="20170929T090617Z">
+        <seg>1.何かが破綻している（フォームにエラーがある）ということ</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,11 +846,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+力強い誤訳のような。
+調整しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;What needs fixing (what will make the form valid).</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090620Z" creationid="bakera" creationdate="20170929T090620Z">
-        <seg>2.修正の必要な箇所がある（どうすれば有効なフォームになるか）</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T092759Z" creationid="bakera" creationdate="20170929T090620Z">
+        <seg>2. 何を修正する必要があるのか（どうすれば有効な入力になるのか）</seg>
       </tuv>
     </tu>
     <tu>
