@@ -11060,8 +11060,8 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       <tuv lang="EN-US">
         <seg>For many people, an asterisk (&lt;g1&gt;*&lt;/g1&gt;) character suffixing the field label is familiar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T054212Z" creationid="bakera" creationdate="20170929T054212Z">
-        <seg>多くの人は、フィールドラベルの末尾にアスタリスク（&lt;g1&gt;*&lt;/g1&gt;）記号をつける方法に馴染があるでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T054305Z" creationid="bakera" creationdate="20170929T054212Z">
+        <seg>多くの人になじみがあるのは、フィールドラベルの末尾にアスタリスク（&lt;g1&gt;*&lt;/g1&gt;）記号をつける方法でしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12374,11 +12374,13 @@ https://challenges.openideo.com/challenge/voting/inspiration
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>I can place it in a &lt;g2&gt;&lt;strong&gt;&lt;/g2&gt; element for the purposes of making it red, if I think that will increase its comprehensibility:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T054232Z" creationid="bakera" creationdate="20170929T054232Z">
-        <seg>赤で表示した方が分かりやすい場合には、アスタリスクを&lt;g2&gt;&lt;strong&gt;&lt;/g2&gt;要素に配置して赤にすることができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T054603Z" creationid="bakera" creationdate="20170929T054232Z">
+        <seg>もっと分かりやすくしたいと思った場合は、アスタリスクを&lt;g2&gt;&lt;strong&gt;&lt;/g2&gt;要素の中に入れて赤にすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
