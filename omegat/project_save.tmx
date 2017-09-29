@@ -6346,11 +6346,13 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「試行された送信に対する」はなくてもわかるので取りました。</note>
       <tuv lang="EN-US">
         <seg>A simple live region that is populated by the error message on an attempted submission will suffice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090741Z" creationid="bakera" creationdate="20170929T090741Z">
-        <seg>シンプルなライブリージョンに、試行された送信に対するエラーメッセージを含めれば十分でしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T111005Z" creationid="bakera" creationdate="20170929T090741Z">
+        <seg>単純なライブリージョンに、エラーメッセージを含めれば十分でしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8465,11 +8467,13 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「最初の」は少しわかりにくいかも。</note>
       <tuv lang="EN-US">
         <seg>Below is the initial markup.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090743Z" creationid="bakera" creationdate="20170929T090743Z">
-        <seg>以下は最初のマークアップです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T111039Z" creationid="bakera" creationdate="20170929T090743Z">
+        <seg>まずは以下のようにマークアップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19763,11 +19767,12 @@ prelearnedは使い慣れたということでいいのか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Note that I am placing the region &lt;g1&gt;directly above&lt;/g1&gt; the submit button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090745Z" creationid="bakera" creationdate="20170929T090745Z">
-        <seg>submitボタンのすぐ上にリージョンを配置している点に注目してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T111100Z" creationid="bakera" creationdate="20170929T090745Z">
+        <seg>submitボタンの&lt;g1&gt;すぐ上に&lt;/g1&gt;リージョンを配置している点に注目してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22941,11 +22946,14 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+少し調整。
+エラーが出るのはsubmitした瞬間であり、そのときユーザーはsubmitボタンを見ているはず、という話ですね。</note>
       <tuv lang="EN-US">
         <seg>Since the submit button is where the user is looking and working, this does the best job of bringing the error to their attention.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090747Z" creationid="bakera" creationdate="20170929T090747Z">
-        <seg>submitボタンはユーザーが見て操作するところなので、エラーに注意を促すにはこの場所が最適です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T111421Z" creationid="bakera" creationdate="20170929T090747Z">
+        <seg>送信の操作の際、ユーザーはsubmitボタンに注目しているはずなので、エラーに注意を促すにはこの場所が最適です。</seg>
       </tuv>
     </tu>
     <tu>
