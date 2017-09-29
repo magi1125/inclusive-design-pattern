@@ -13634,11 +13634,13 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整</note>
       <tuv lang="EN-US">
         <seg>If there are, we need to suppress form submission temporarily.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090640Z" creationid="bakera" creationdate="20170929T090640Z">
-        <seg>エラーがある場合は、フォームの送信を一時的にやめさせなければなりません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T110349Z" creationid="bakera" creationdate="20170929T090640Z">
+        <seg>エラーがある場合は、フォームの送信を一時的に止めなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19964,8 +19966,8 @@ resulting inも落ちているような。「結果として」くらいでし�
       <tuv lang="EN-US">
         <seg>Note that we are suppressing the submission of the form itself rather than merely the click handler on the submit button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090642Z" creationid="bakera" creationdate="20170929T090642Z">
-        <seg>submitボタンのクリック操作を抑制しているのではなく、フォームの送信そのものを食い止めている点に注意してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T110420Z" creationid="bakera" creationdate="20170929T090642Z">
+        <seg>submitボタンのクリック操作を抑制しているのではなく、フォームの送信そのものを止めている点に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27832,7 +27834,8 @@ convention は他のところでは「慣習」としていたのでここもそ
 OK
 フィールド→入力欄としました。
 しかしパスワードフィールドもpattern属性でバリデートできるように思います。少なくともChromeとEdgeとIE11は対応していました (使いやすいかどうか、お勧めできるかどうかは別の話ですが)。
-パスワード入力欄専用の機能がない、という話なのでしょうか (type=url はURLとして検証されるが type=password はパスワードとしては検証されない)。
+あるいは、パスワード入力欄専用の機能がない、という話なのでしょうか (type=url はURLとして検証されるが type=password はパスワードとしては検証されない)。
+それはまあ、パスワードの要件はサイトによってさまざまなので検証のしようがないわけですけれども。
 訳注?
 </note>
       <tuv lang="EN-US">
@@ -28700,8 +28703,8 @@ out of sight は「非表示」とされていましたが、文字通り「視�
       <tuv lang="EN-US">
         <seg>This is all well and good, but literally nothing currently happens when the user tries to submit (where form errors are present).</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090646Z" creationid="bakera" creationdate="20170929T090646Z">
-        <seg>この処置には問題ありませんが、（フォームエラーがある場合に）ユーザーが送信しようとしても、現時点では文字通り何も起きません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T110548Z" creationid="bakera" creationdate="20170929T090646Z">
+        <seg>この処理はこれで問題ないのですが、現時点では、（フォームエラーがある場合に）ユーザーが送信しようとしても、文字通り何も起きません。</seg>
       </tuv>
     </tu>
     <tu>
