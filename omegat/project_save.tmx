@@ -7973,6 +7973,14 @@ hone は砥石でとぐような意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>At this stage, it’s become a habit of ours, as inclusive designers, to not only improve an interface’s UX but to do so in a way that supports users in unusual circumstances or using auxiliary software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T083910Z" creationid="bakera" creationdate="20170929T083910Z">
+        <seg>ここまでで、インクルーシブデザイナーとして、インターフェイスのユーザー体験をただ向上するだけでなく、例外的な状況にいるユーザーや補助ソフトウェアを使用しているユーザーをサポートする習慣を身に付けることができました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>Automated Icons</seg>
@@ -19264,14 +19272,15 @@ prelearnedは使い慣れたということでいいのか。
     </tu>
     <tu>
       <note>(太田)
-IEとEdgeにはパスワードを表示する機能がもともとあるので、それを殺すという話をしています。
+IEとEdgeにはパスワードを表示する機能がもともとあるので、それを殺すという話ですね。
+現在の語順だとわかりにくいので、語順などを大幅に調整してみました。
 
-しかし、よりセキュアなネイティブの機能を殺して、セキュアでない独自実装のほうを生かそうとするのは、本当にどうかと思いますね。厳しい訳注を入れなければならないでしょう。</note>
+</note>
       <tuv lang="EN-US">
         <seg>Note that Internet Explorer and Microsoft Edge provide this functionality natively, using an interactive eye icon associated with the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;::ms-reveal&lt;/g3&gt; pseudo-class&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;15&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T083753Z" creationid="bakera" creationdate="20170929T083558Z">
-        <seg>Internet ExplorerとMicrosoft Edgeはこの機能をネイティブで提供しており、目のアイコンを押すと表示が切り替えられるようになっています。目のアイコンは&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;::ms-reveal&lt;/g3&gt;疑似クラス&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注186）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で制御できるようになってます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T083828Z" creationid="bakera" creationdate="20170929T083558Z">
+        <seg>Internet ExplorerとMicrosoft Edgeはこの機能をネイティブで提供しており、目のアイコンを押すと表示が切り替えられるようになっています。目のアイコンは&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;::ms-reveal&lt;/g3&gt;疑似クラス&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注186）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で制御できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22510,6 +22519,20 @@ overkillはHPだがどうするか。
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170922T051838Z" creationid="rikiha" creationdate="20170909T224220Z">
         <seg>言葉遣いやトーンについては3章「パラグラフ」で説明したので、ここではコンテンツの長さの変動について考えてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>※要訳注
+
+(太田)
+wouldなので弱めに調整。
+
+しかし、よりセキュアなネイティブの機能を殺して、セキュアでない独自実装のほうを生かそうとするのは、まったく賛同できません。厳しい訳注を入れなければならないでしょう。</note>
+      <tuv lang="EN-US">
+        <seg>Since we’ve provided our own (cross-browser) solution, it would be wise to suppress this feature:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T083905Z" creationid="bakera" creationdate="20170929T083905Z">
+        <seg>ここでは、独自の（クロスブラウザ）のソリューションを提供しているので、この機能は抑制した方が賢明かもしれません。</seg>
       </tuv>
     </tu>
     <tu>
