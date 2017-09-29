@@ -27344,11 +27344,13 @@ would formなので、形作られたものになるでしょう、とか、そ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+as separate concernsがどこにくっついているのかよくわからない感じ。意味的にはたぶんこういうことだと思います。</note>
       <tuv lang="EN-US">
         <seg>The trick is in communicating two key messages during validation as separate concerns:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090613Z" creationid="bakera" creationdate="20170929T090613Z">
-        <seg>ポイントは、検証時に2つのキーメッセージを個別の問題として伝えることです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T092525Z" creationid="bakera" creationdate="20170929T090613Z">
+        <seg>ポイントは、バリデーションで出てきた個々の問題について、2つのカギとなるメッセージを伝えることです。</seg>
       </tuv>
     </tu>
     <tu>
