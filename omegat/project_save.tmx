@@ -6208,6 +6208,16 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
     </tu>
     <tu>
       <note>(太田)
+ここのtypeはtype属性のtype。</note>
+      <tuv lang="EN-US">
+        <seg>A short script simply toggles the field type from &lt;g1&gt;password&lt;/g1&gt; to &lt;g2&gt;text&lt;/g2&gt; and back again:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T083025Z" creationid="bakera" creationdate="20170929T083025Z">
+        <seg>短いスクリプトによって、フィールドのtypeを&lt;g1&gt;password&lt;/g1&gt;から&lt;g2&gt;text&lt;/g2&gt;に切り替え、再び戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
 toolbarどうするか。
 英語だとツールバーとrole=toolbar のダブルミーニングになる。コードを見ればroleはわかるので、カタカナ「ツールバー」だけでも良いか。</note>
       <tuv lang="EN-US">
