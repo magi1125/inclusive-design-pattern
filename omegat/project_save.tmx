@@ -644,6 +644,14 @@ add more は言わなくてもわかるのでトリました。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Something is broken (the form has errors).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090617Z" creationid="bakera" creationdate="20170929T090617Z">
+        <seg>1.何かが破損している（フォームにエラーがある）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田) OK</note>
@@ -775,6 +783,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170906T162943Z" creationid="rikiha" creationdate="20170905T004351Z">
         <seg>&lt;/g1&gt;この構造は一部のスクリーンリーダーで予期せぬ動作を引き起こします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;What needs fixing (what will make the form valid).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090620Z" creationid="bakera" creationdate="20170929T090620Z">
+        <seg>2.修正の必要な箇所がある（どうすれば有効なフォームになるか）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7813,6 +7829,14 @@ hone は砥石でとぐような意味。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As with the HTML5 &lt;g1&gt;required&lt;/g1&gt; attribute, there are concerns about the support and uniformity of HTML5 form validation based on browsers’ interpretation of input types like &lt;g2&gt;url&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090622Z" creationid="bakera" creationdate="20170929T090622Z">
+        <seg>HTML5のrequired属性と同様、ブラウザによる入力タイプ（urlなど）の解釈をベースとしたHTML5のフォーム検証は、サポートと一貫性に問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「HTMLButtonElementを加えている」のではなく、HTMLButtonElementをベースにして独自機能を加えているという話です。
 直訳だと「私はHTMLButtonElementを背負っているため」となりますが、意訳して「HTMLButtonElementをベースにしているため」くらいで良いのではないかと思います。
@@ -7970,6 +7994,14 @@ hone は砥石でとぐような意味。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T094349Z" creationid="yoota" creationdate="20170908T080008Z">
         <seg>このページのマークアップには、おおむね以下のようなテンプレートが使われていることでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At this point, all we want to communicate is the presence of errors and that they need attention.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090737Z" creationid="bakera" creationdate="20170929T090737Z">
+        <seg>この時点でユーザー伝えたいのは、エラーがあるので注意を向けてほしいということだけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13287,6 +13319,14 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If there are, we need to suppress form submission temporarily.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090640Z" creationid="bakera" creationdate="20170929T090640Z">
+        <seg>エラーがある場合は、フォームの送信を一時的にやめさせなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 彼ら➞あなた
 
 (岡本)　分からなく→わからなく
@@ -15668,6 +15708,14 @@ look at は学びましたというか考察しましたというか。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170525T092020Z" creationid="yoota" creationdate="20170523T100630Z">
         <seg>そのような場合には、以下の方法で対処できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In which case, we are going to rely on WAI-ARIA to indicate invalidity, with JavaScript for the actual validation (pattern matching).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090625Z" creationid="bakera" creationdate="20170929T090625Z">
+        <seg>そのため、無効性の提示にはWAI-ARIAを使用する一方、実際の検証はJavaScriptで行うことになります（パターンマッチング）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19467,6 +19515,14 @@ resulting inも落ちているような。「結果として」くらいでし�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Note that we are suppressing the submission of the form itself rather than merely the click handler on the submit button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090642Z" creationid="bakera" creationdate="20170929T090642Z">
+        <seg>submitボタンのクリック操作を抑制しているのではなく、フォームの送信そのものを食い止めている点に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 微調整。
 
@@ -20678,6 +20734,14 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170919T082459Z" creationid="rikiha" creationdate="20170909T223842Z">
         <seg>そうしないと、ユーザーが見ているビューポートは変化せずに、フォーカスが当たっている&lt;g2&gt;data-load-more&lt;/g2&gt;ボタンが画面外に押し出され、フォーカスを見失ってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our biggest challenge is to provide an inclusive form validation experience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090449Z" creationid="bakera" creationdate="20170929T090449Z">
+        <seg>インクルーシブなフォームバリデーションの体験を提供することは、大きなチャレンジになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23044,6 +23108,14 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170802T093233Z" creationid="rikiha" creationdate="20170728T142542Z">
         <seg>まだ話は終わっていません。企業情報ページ上では、現在のページを示すリンクはアクセシブルに識別できるようになりました。ただ、そのリンク先は企業情報ページ、つまり自分自身を指しているのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Something Is Broken</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090627Z" creationid="bakera" creationdate="20170929T090627Z">
+        <seg>何かが破損している</seg>
       </tuv>
     </tu>
     <tu>
@@ -26680,6 +26752,14 @@ would formなので、形作られたものになるでしょう、とか、そ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The trick is in communicating two key messages during validation as separate concerns:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090613Z" creationid="bakera" creationdate="20170929T090613Z">
+        <seg>ポイントは、検証時に2つのキーメッセージを個別の問題として伝えることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>The trick is to embrace convention without dispensing with personality.</seg>
@@ -27132,6 +27212,14 @@ convention は他のところでは「慣習」としていたのでここもそ
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170424T065406Z" creationid="yoota" creationdate="20170424T065406Z">
         <seg>デフォルトが大きめなのには理由があります。他のサイズでは、特に視力が低下した高齢者など、さまざまなユーザーを遠ざけてしまう恐れがあるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is also no functionality within HTML5 to validate a password field.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090624Z" creationid="bakera" creationdate="20170929T090624Z">
+        <seg>また、HTML5にはパスワードフィールドを検証できる機能はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27920,6 +28008,14 @@ interactは「操作」としました。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This involves a lot of moving parts and, without care, can produce a jarring and unusable experience for some users.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090559Z" creationid="bakera" creationdate="20170929T090559Z">
+        <seg>これには多くの要素が関係してくるので、注意しないとユーザーに不快感や使いにくさを感じさせてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) unjust moniker は直訳すれば不公平なあだ名。理にかなっていないというより、もうすこし否定的なニュアンスかもしれません。
 フォントの話なので、they have their own formのformは「字形」としました。
 
@@ -27957,6 +28053,14 @@ out of sight は「非表示」とされていましたが、文字通り「視�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T030001Z" creationid="yoota" creationdate="20170512T024711Z">
         <seg>&lt;g1&gt;content&lt;/g1&gt;プロパティを使い、レイアウトに影響せずに視界から消すためのルールを追加することで実装できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is all well and good, but literally nothing currently happens when the user tries to submit (where form errors are present).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090646Z" creationid="bakera" creationdate="20170929T090646Z">
+        <seg>この処置には問題ありませんが、（フォームエラーがある場合に）ユーザーが送信しようとしても、現時点では文字通り何も起きません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28184,6 +28288,14 @@ enhancementは拡張としてきましたが、わかりにくいのでここで
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170926T073737Z" creationid="bakera" creationdate="20170925T102400Z">
         <seg>これはエンハンスメントにすぎません。対応するフォームはフォーカス順のすぐ後に配置し、いずれにせよキーボードで簡単に到達できるようにしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is our cue to provide some feedback in the form of an error message.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090647Z" creationid="bakera" creationdate="20170929T090647Z">
+        <seg>これをきっかけとして、エラーメッセージという形でフィードバックを提供することになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30392,6 +30504,16 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+バリデーション、でも良いかも。</note>
+      <tuv lang="EN-US">
+        <seg>Validation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090456Z" creationid="bakera" creationdate="20170929T090420Z">
+        <seg>バリデーション</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) OK
 
 (太田)
@@ -31574,6 +31696,14 @@ reorganize難しいですね。「状態を変える」か、超訳ですが「�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170829T104606Z" creationid="rikiha" creationdate="20170827T115924Z">
         <seg>たとえば、テストユーザーがボタンを押したら、コンピュータはそれに反応してアプリケーションの状態を変えなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the user tries to submit the form, we need to check if there are any errors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090636Z" creationid="bakera" creationdate="20170929T090636Z">
+        <seg>ユーザーがフォームを送信しようとするとき、エラーの有無をチェックする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
