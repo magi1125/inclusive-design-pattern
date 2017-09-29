@@ -32761,11 +32761,12 @@ integratedは統合された?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 括弧内が誤訳っぽかったので修正。スペースだけだとなんだかわからないので、エラーを表示するスペースと補いました。</note>
       <tuv lang="EN-US">
         <seg>Where there are errors for successive sibling elements (like the erroneous &lt;g1&gt;&lt;li&gt;&lt;/g1&gt; replacements the last example is designed to detect) space becomes an issue too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014556Z" creationid="rikiha" creationdate="20170925T014556Z">
-        <seg>連続する兄弟要素のエラー（前の例が検出する&lt;li&gt;の順序の誤りなど）がある場合は、スペースも問題になります。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170929T223640Z" creationid="rikiha" creationdate="20170925T014556Z">
+        <seg>連続する兄弟要素のエラー（前述の、&lt;li&gt;ではない誤ったものを見つけるしくみなど）がある場合は、エラーを表示するスペースも問題になります。</seg>
       </tuv>
     </tu>
     <tu>
