@@ -4157,6 +4157,14 @@ Size:　→サイズ：</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g4&gt;Yes?&lt;/g4&gt; Use a &lt;g5&gt;&lt;fieldset&gt;&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T052609Z" creationid="bakera" creationdate="20170929T052609Z">
+        <seg>&lt;g4&gt;Yesなら、&lt;/g4&gt;&lt;g5&gt;&lt;fieldset&gt;&lt;/g5&gt;を使いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g4&gt;display&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; none&lt;g6&gt;;&lt;/g6&gt;
 &lt;g7&gt;}&lt;/g7&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -4469,6 +4477,14 @@ Price:　→価格：</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170916T124524Z" creationid="rikiha" creationdate="20170916T124524Z">
         <seg>&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;&lt;/g8&gt;h3&lt;/g7&gt; &lt;g9&gt;tabindex&lt;/g9&gt;&lt;g10&gt;&lt;g11&gt;=&lt;/g11&gt;"-1"&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g6&gt; &lt;g13&gt;&lt;!-- タイトルをフォーカス可能にする --&gt;&lt;/g13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g6&gt;No?&lt;/g6&gt; Don’t use a &lt;g7&gt;&lt;fieldset&gt;&lt;/g7&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T052631Z" creationid="bakera" creationdate="20170929T052631Z">
+        <seg>&lt;g6&gt;Noなら、&lt;/g6&gt;&lt;g7&gt;&lt;fieldset&gt;&lt;/g7&gt;は使わないでください。</seg>
       </tuv>
     </tu>
     <tu>
