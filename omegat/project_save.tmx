@@ -430,6 +430,16 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+意訳気味に調整。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Can you think of a &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; that would make sense or aid comprehension if used with each of the &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;’s field labels?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T052548Z" creationid="bakera" creationdate="20170929T052548Z">
+        <seg>&lt;/g1&gt;&lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;で&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;内の各フィールドのラベルを補うことが合理的で、ユーザーの理解を促すことにつながると思いますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) OK
 
 (伊原) OK</note>
@@ -444,8 +454,8 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Does a set actually only have one field in it?</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T052007Z" creationid="bakera" creationdate="20170929T052007Z">
-        <seg>&lt;/g1&gt;セットに実際に含まれるフィールドは1つだけですか？</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T052203Z" creationid="bakera" creationdate="20170929T052007Z">
+        <seg>&lt;/g1&gt;その中に含まれるフィールドは1つだけですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -4135,6 +4145,14 @@ Size:　→サイズ：</note>
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170929T051928Z" creationid="bakera" creationdate="20170929T051852Z">
         <seg>&lt;g4&gt;Noなら、&lt;/g4&gt;&lt;g5&gt;&lt;fieldset&gt;&lt;/g5&gt;は使わないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g4&gt;No?&lt;/g4&gt; Use a &lt;g5&gt;&lt;fieldset&gt;&lt;/g5&gt; if (1) applies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T052133Z" creationid="bakera" creationdate="20170929T052133Z">
+        <seg>&lt;g4&gt;Noで、&lt;/g4&gt; かつ (1) に該当する場合であれば、&lt;g5&gt;&lt;fieldset&gt;&lt;/g5&gt;を使いましょう。</seg>
       </tuv>
     </tu>
     <tu>
