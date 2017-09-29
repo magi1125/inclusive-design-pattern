@@ -31756,6 +31756,15 @@ quite legitimate は全く正当、くらいですが、仕様で認められて
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
+      <tuv lang="EN-US">
+        <seg>Why aren’t we using this?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T071817Z" creationid="bakera" creationdate="20170929T071817Z">
+        <seg>なぜこれを使用しないのでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) ここの type は書体なのかどうか。書体デザイナーが色を検討する、というのには違和感があります。文字を扱うデザイナー、ぐらいの感じのような。だとするとtypeを訳さずに、単に「デザイナー」で良いのかもしれません。
 
 (岡本）分かり→わかり</note>
@@ -32277,6 +32286,7 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>You may be aware that there is an HTML5 &lt;g1&gt;required&lt;/g1&gt; attribute.</seg>
       </tuv>
