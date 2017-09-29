@@ -14551,11 +14551,14 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ほとんどとは言っていないような。
+調整しました。</note>
       <tuv lang="EN-US">
         <seg>In some screen readers, this results in the &lt;g3&gt;&lt;legend&gt;&lt;/g3&gt;’s content being concatenated with each field’s &lt;g4&gt;&lt;label&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T041211Z" creationid="bakera" creationdate="20170929T041211Z">
-        <seg>グループ化すると、ほとんどのスクリーンリーダーでは、&lt;g3&gt;&lt;legend&gt;&lt;/g3&gt;の内容が各フィールドの&lt;g4&gt;&lt;label&gt;&lt;/g4&gt;に連結されます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T041837Z" creationid="bakera" creationdate="20170929T041211Z">
+        <seg>いくつかのスクリーンリーダーでは、&lt;g3&gt;&lt;legend&gt;&lt;/g3&gt;の内容が各フィールドの&lt;g4&gt;&lt;label&gt;&lt;/g4&gt;と連結されて通知されます。</seg>
       </tuv>
     </tu>
     <tu>
