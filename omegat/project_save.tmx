@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7981,11 +7981,14 @@ hone は砥石でとぐような意味。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+わかりにくいですね。
+たぶんこんな感じかと……。</note>
       <tuv lang="EN-US">
         <seg>As with the HTML5 &lt;g1&gt;required&lt;/g1&gt; attribute, there are concerns about the support and uniformity of HTML5 form validation based on browsers’ interpretation of input types like &lt;g2&gt;url&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090622Z" creationid="bakera" creationdate="20170929T090622Z">
-        <seg>HTML5のrequired属性と同様、ブラウザによる入力タイプ（urlなど）の解釈をベースとしたHTML5のフォーム検証は、サポートと一貫性に問題があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T103138Z" creationid="bakera" creationdate="20170929T090622Z">
+        <seg>HTML5の&lt;g1&gt;required&lt;/g1&gt;属性と同様、HTML5の&lt;g2&gt;url&lt;/g2&gt;のような入力欄に対するフォーム検証はブラウザの実装に依存しており、サポートと一貫性に懸念があります。</seg>
       </tuv>
     </tu>
     <tu>
