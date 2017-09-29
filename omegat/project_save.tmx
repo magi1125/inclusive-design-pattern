@@ -479,6 +479,14 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Is there more than one distinct set of fields in total, in the same form or context?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T051810Z" creationid="bakera" creationdate="20170929T051810Z">
+        <seg>&lt;/g1&gt;同じフォームやコンテキスト内にフィールドが複数あり、明確に異なるものになっていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 「操作には参加しない、」読点追加。oftenを訳すかどうか。
 
 (岡本)　一人→ひとり　一緒→いっしょ
@@ -7864,8 +7872,8 @@ https://ja.wikipedia.org/wiki/精密科学
       <tuv lang="EN-US">
         <seg>Bearing in mind that &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;s are pointless without &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;s, you can use the following three rules of thumb to decide if a &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt; is appropriate.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T042509Z" creationid="bakera" creationdate="20170929T042509Z">
-        <seg>&lt;fieldset&gt;は&lt;legend&gt;なしでは無意味であることを念頭に置き、次の3つの原則をもとに&lt;fieldset&gt;を使用した方がよいかどうかを判断します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T051557Z" creationid="bakera" creationdate="20170929T042509Z">
+        <seg>&lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;は&lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;なしでは無意味であることを念頭に置き、次の3つの原則をもとに&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;を使用した方がよいかどうかを判断します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14852,8 +14860,8 @@ theを訳出しないと意味が分かりにくいですね。
       <tuv lang="EN-US">
         <seg>In the current context, the &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt; and &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; create too much verbosity for little to no gain, so probably shouldn’t be there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T051408Z" creationid="bakera" creationdate="20170929T042504Z">
-        <seg>現在のコンテキストでは、&lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;と&lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;によって余計な情報まで読み上げられ、メリットがほとんどないので、おそらく使用すべきではありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T051503Z" creationid="bakera" creationdate="20170929T042504Z">
+        <seg>現在のコンテキストでは、&lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;と&lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;によって冗長な情報が読み上げられることになり、それに対して得られるものがほとんどないので、おそらく使用すべきではないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
