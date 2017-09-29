@@ -5457,6 +5457,17 @@ Noteを「注意」として訳出しました。
     </tu>
     <tu>
       <note>(太田)
+Note は注意点?
+いったん保留</note>
+      <tuv lang="EN-US">
+        <seg>A Note on Grouping</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T040132Z" creationid="bakera" creationdate="20170929T040117Z">
+        <seg>グループ化について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
 Note を訳出しました。
 
 (伊原) LGTM</note>
@@ -12103,12 +12114,13 @@ might なので「あるでしょう」くらいか。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田)
+「しかし」だとつながりがよく分からなかったので「とはいえ」としました。</note>
       <tuv lang="EN-US">
         <seg>However, there exists an innovative solution which uses the label &lt;g1&gt;as&lt;/g1&gt; the placeholder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170927T121544Z" creationid="bakera" creationdate="20170927T121544Z">
-        <seg>しかし、ラベルをプレースホルダー&lt;g1&gt;として&lt;/g1&gt;使用するという革新的なソリューションも存在します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T040037Z" creationid="bakera" creationdate="20170927T121544Z">
+        <seg>とはいえ、ラベルをプレースホルダー&lt;g1&gt;として&lt;/g1&gt;使用するという革新的なソリューションも存在します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23581,6 +23593,16 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100722Z" creationid="okamoto_jun" creationdate="20170627T100722Z">
         <seg>&lt;div&gt;要素は、ボタンのために作られた&lt;button&gt;要素とは異なり、（このままでは）キーボードでフォーカスしたり操作したりできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+原文に沿って分割しつつ、補いつつ。</note>
+      <tuv lang="EN-US">
+        <seg>The &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt; element is proffered for grouping related form fields under a common label: a &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T041144Z" creationid="bakera" creationdate="20170929T040123Z">
+        <seg>&lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;は、フォームフィールドをグループ化して、共通のラベルをつける要素です。ラベルは&lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;で提供します。</seg>
       </tuv>
     </tu>
     <tu>
