@@ -24759,11 +24759,13 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;#error&lt;/g1&gt; live region should only be visible when it is populated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T112005Z" creationid="bakera" creationdate="20170929T090758Z">
-        <seg>この&lt;g1&gt;#error&lt;/g1&gt;ライブリージョンは、エラーメッセージを含んだ場合にのみ表示されるようにする必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T112034Z" creationid="bakera" creationdate="20170929T090758Z">
+        <seg>この&lt;g1&gt;#error&lt;/g1&gt;ライブリージョンは、エラーメッセージが入れられた場合のみ表示されるようにする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30200,8 +30202,8 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       <tuv lang="EN-US">
         <seg>To ensure that the empty box is not visible in its initial state (and does not otherwise affect the form’s layout) you can employ the &lt;g2&gt;:empty&lt;/g2&gt; pseudo-class:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090800Z" creationid="bakera" creationdate="20170929T090800Z">
-        <seg>初期状態では空のボックスが表示されない（またはフォームのレイアウトに影響を与えない）ようにするには、:empty疑似クラスを使用します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T112108Z" creationid="bakera" creationdate="20170929T090800Z">
+        <seg>初期状態で空のボックスが表示されない（そしてフォームのレイアウトに影響を与えない）ようにするには、&lt;g2&gt;:empty&lt;/g2&gt;疑似クラスを使用します。</seg>
       </tuv>
     </tu>
     <tu>
