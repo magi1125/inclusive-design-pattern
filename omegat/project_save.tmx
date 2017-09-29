@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -465,11 +465,13 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
     </tu>
     <tu>
+      <note>(岡本)
+1つ→ひとつ</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Does a set actually only have one field in it?</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T052203Z" creationid="bakera" creationdate="20170929T052007Z">
-        <seg>&lt;/g1&gt;その中に含まれるフィールドは1つだけですか？</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170929T072752Z" creationid="bakera" creationdate="20170929T052007Z">
+        <seg>&lt;/g1&gt;その中に含まれるフィールドはひとつだけですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -12553,12 +12555,15 @@ https://challenges.openideo.com/challenge/voting/inspiration
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(岡本)
+分かり→わかり</note>
       <tuv lang="EN-US">
         <seg>I can place it in a &lt;g2&gt;&lt;strong&gt;&lt;/g2&gt; element for the purposes of making it red, if I think that will increase its comprehensibility:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T054603Z" creationid="bakera" creationdate="20170929T054232Z">
-        <seg>もっと分かりやすくしたいと思った場合は、アスタリスクを&lt;g2&gt;&lt;strong&gt;&lt;/g2&gt;要素の中に入れて赤にすることもできます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170929T073512Z" creationid="bakera" creationdate="20170929T054232Z">
+        <seg>もっとわかりやすくしたいと思った場合は、アスタリスクを&lt;g2&gt;&lt;strong&gt;&lt;/g2&gt;要素の中に入れて赤にすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
