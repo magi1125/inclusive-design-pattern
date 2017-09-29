@@ -7978,8 +7978,8 @@ hone は砥石でとぐような意味。
       <tuv lang="EN-US">
         <seg>At this stage, it’s become a habit of ours, as inclusive designers, to not only improve an interface’s UX but to do so in a way that supports users in unusual circumstances or using auxiliary software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T085148Z" creationid="bakera" creationdate="20170929T083910Z">
-        <seg>ここまでくると、インクルーシブデザイナーとして、インターフェイスのユーザー体験を向上するだけでなく、例外的な状況にいるユーザーや補助ソフトウェアを使用しているユーザーもサポートすることが習慣として身についていることでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T085920Z" creationid="bakera" creationdate="20170929T083910Z">
+        <seg>ここまでくると、インクルーシブデザイナーとして、インターフェイスのユーザー体験を向上するだけでなく、例外的な状況にいるユーザーや補助ソフトウェアを使用しているユーザーもサポートすることが、もう習慣として身についていることでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28407,11 +28407,12 @@ esotericは特殊というより、他で使われていないというニュア
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 微調整。</note>
       <tuv lang="EN-US">
         <seg>This little, screen reader accessible show-password provision is another reusable micropattern.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T085914Z" creationid="bakera" creationdate="20170929T085914Z">
-        <seg>このちょっとした、スクリーンリーダーでアクセス可能なちょっとしたパスワード表示機能も、再利用可能なマイクロパターンです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T085953Z" creationid="bakera" creationdate="20170929T085914Z">
+        <seg>このちょっとした、スクリーンリーダーでアクセス可能なパスワード表示機能も、再利用可能なマイクロパターンになっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30831,6 +30832,17 @@ the prototyping experience とは。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170825T031122Z" creationid="rikiha" creationdate="20170823T082544Z">
         <seg>必要なのはユーザビリティのためのプロトタイプであり、このプロトタイピングで得られた体験がインクルーシブであればあるほど、より多くの人がプロダクトを使いやすいと感じることになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+only have to がどこかにいってしまっているような。
+パターン化すると一回だけ考えれば済むようになる、という話のような気がします。</note>
+      <tuv lang="EN-US">
+        <seg>We only have to think about and work on the accessibility aspect once.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090258Z" creationid="bakera" creationdate="20170929T090258Z">
+        <seg>アクセシビリティの側面について考え、取り組む必要があるのはただ一度だけで済みます。</seg>
       </tuv>
     </tu>
     <tu>
