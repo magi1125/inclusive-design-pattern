@@ -27826,20 +27826,20 @@ convention は他のところでは「慣習」としていたのでここもそ
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注
+      <note>※要訳注?
 
 (太田)
 OK
 フィールド→入力欄としました。
-
-しかしパスワードフィールドもpattern属性でバリデートできるように思います。訳注?
-
+しかしパスワードフィールドもpattern属性でバリデートできるように思います。少なくともChromeとEdgeとIE11は対応していました (使いやすいかどうか、お勧めできるかどうかは別の話ですが)。
+パスワード入力欄専用の機能がない、という話なのでしょうか。
+訳注?
 </note>
       <tuv lang="EN-US">
         <seg>There is also no functionality within HTML5 to validate a password field.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T103341Z" creationid="bakera" creationdate="20170929T090624Z">
-        <seg>また、HTML5にはパスワード入力欄を検証できる機能はありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T110015Z" creationid="bakera" creationdate="20170929T090624Z">
+        <seg>また、HTML5にはパスワード入力欄を検証するための機能はありません。</seg>
       </tuv>
     </tu>
     <tu>
