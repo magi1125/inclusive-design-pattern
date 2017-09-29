@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11297,6 +11297,14 @@ OK</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T093112Z" creationid="yoota" creationdate="20170908T075503Z">
         <seg>今回の用途には、商品に固有のプロパティを定義する&lt;g2&gt;Productボキャブラリー&lt;/g2&gt;があり、&lt;g3&gt;&lt;g4&gt;http://schema.org/Product&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;()&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;で確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For our purposes this is rather verbose and aggressive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T073910Z" creationid="bakera" creationdate="20170929T073910Z">
+        <seg>今回の用途としては、これはやや冗長であるうえに攻撃的です。</seg>
       </tuv>
     </tu>
     <tu>
