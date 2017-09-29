@@ -27826,9 +27826,15 @@ convention は他のところでは「慣習」としていたのでここもそ
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※要訳注
+
+(太田)
 OK
-フィールド→入力欄としました。</note>
+フィールド→入力欄としました。
+
+しかしパスワードフィールドもpattern属性でバリデートできるように思います。訳注?
+
+</note>
       <tuv lang="EN-US">
         <seg>There is also no functionality within HTML5 to validate a password field.</seg>
       </tuv>
