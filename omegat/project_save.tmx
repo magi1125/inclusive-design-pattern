@@ -1352,6 +1352,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;&lt;/g21&gt;svg&lt;/g20&gt; &lt;g22&gt;role&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"img"&lt;/g23&gt; &lt;g25&gt;aria-label&lt;/g25&gt;&lt;g26&gt;&lt;g27&gt;=&lt;/g27&gt;"error:"&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g19&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T112651Z" creationid="bakera" creationdate="20170929T112651Z">
+        <seg>&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;&lt;/g21&gt;svg&lt;/g20&gt; &lt;g22&gt;role&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"img"&lt;/g23&gt; &lt;g25&gt;aria-label&lt;/g25&gt;&lt;g26&gt;&lt;g27&gt;=&lt;/g27&gt;"エラー:"&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g19&gt;flex-shrink&lt;/g19&gt;&lt;g20&gt;:&lt;/g20&gt; 1&lt;g21&gt;;&lt;/g21&gt; &lt;g22&gt;/* the default value, in fact */&lt;/g22&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170918T113557Z" creationid="rikiha" creationdate="20170918T101642Z">
@@ -6318,11 +6326,15 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       </tuv>
     </tu>
     <tu>
+      <note>※画像alt
+
+(太田)
+アイコンがついた様子を説明する図なので、それをふまえて少し調整しました。</note>
       <tuv lang="EN-US">
         <seg>A red error message with white text prefixed with a triangular warning sign containing an exclamation mark.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090811Z" creationid="bakera" creationdate="20170929T090811Z">
-        <seg>赤のエラーメッセージ。感嘆符を三角形で囲んだ警告アイコンに続いて、白いテキストのエラーメッセージが表示されています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T112840Z" creationid="bakera" creationdate="20170929T090811Z">
+        <seg>赤背景に白文字で書かれたエラーメッセージの頭に、感嘆符を三角形で囲んだ警告アイコンが表示されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21496,14 +21508,8 @@ https://ja.wikipedia.org/wiki/プレイン・イングリッシュ
       <tuv lang="EN-US">
         <seg>Please make sure all your registration information is correct.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090807Z" creationid="bakera" creationdate="20170929T090807Z">
-        <seg>var form = document.getElementById('register');
-form.addEventListener('submit ', function(event) {
-　if (errors) {
-　　event.preventDefault(); // 送信しない
-　　document.getElementById('error').textContent = '登録情報が正確であることを確認してください。'
-　}
-});</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T112642Z" creationid="bakera" creationdate="20170929T090807Z">
+        <seg>登録情報が正しいことを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
