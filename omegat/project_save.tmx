@@ -21193,11 +21193,13 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>Our biggest challenge is to provide an inclusive form validation experience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090449Z" creationid="bakera" creationdate="20170929T090449Z">
-        <seg>インクルーシブなフォームバリデーションの体験を提供することは、大きなチャレンジになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091514Z" creationid="bakera" creationdate="20170929T090449Z">
+        <seg>最大の課題となるのは、インクルーシブなフォームバリデーションの体験を提供することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28615,13 +28617,15 @@ interactは「操作」としました。</note>
     </tu>
     <tu>
       <note>(太田)
- a lot of moving partsとは。
-動的な処理を多数使う、というような意味?</note>
+a lot of moving partsとは。
+動的な処理を多数使う、というような意味?
+「動的な処理を多く伴う」としてみました。
+</note>
       <tuv lang="EN-US">
         <seg>This involves a lot of moving parts and, without care, can produce a jarring and unusable experience for some users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091412Z" creationid="bakera" creationdate="20170929T090559Z">
-        <seg>これは多くの動的な処理を伴うので、注意深く扱わなければ、一部のユーザーに対して不快な、使いにくい体験提供してしまうことがあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091543Z" creationid="bakera" creationdate="20170929T090559Z">
+        <seg>これは動的な処理を多く伴うので、注意深く扱わなければ、一部のユーザーに対して不快な、使いにくい体験提供してしまうことがあります。</seg>
       </tuv>
     </tu>
     <tu>
