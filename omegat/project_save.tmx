@@ -17273,6 +17273,7 @@ Keyは重要でいいのか。
       </tuv>
     </tu>
     <tu>
+      <note>※画像alt</note>
       <tuv lang="EN-US">
         <seg>Left unfocused text field shows placeholder.</seg>
       </tuv>
@@ -20910,13 +20911,24 @@ wouldなので語尾を「ことがあります」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※画像alt
+
+(太田)
 少し補いました。
 原文は「ユーザーはこれが何のためのもののか考え続けるまま取り残される」という感じですが、「分かりません」のママで良いかと。
 
 (岡本）
 分かり→わかり
-</note>
+
+(太田)
+画像内文言は、
+
+ユーザー名を入力
+フォーカスがあたると
+「よし、ユーザー名を入力しよう！」
+「えーと、何をすればいいんだっけ？」
+
+という感じでしょうか。</note>
       <tuv lang="EN-US">
         <seg>Right focused text field does not, leaving the user to ponder what it was for.</seg>
       </tuv>
@@ -24546,6 +24558,8 @@ jaw は動詞だとスラングで Impudent or abusive talk.
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>The browser’s autocompletion routine could also populate multiple fields, of course.</seg>
       </tuv>
