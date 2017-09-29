@@ -32444,11 +32444,14 @@ impossibleは「不可能になる」くらい強くしたいところ。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ここのdisplayはdisplayプロパティのdisplayですね。
+すこし知要請。</note>
       <tuv lang="EN-US">
         <seg>When the form’s submission event is suppressed, the live region is populated, switching its display state from &lt;g1&gt;none&lt;/g1&gt; to &lt;g2&gt;block&lt;/g2&gt; thanks to the &lt;g3&gt;:empty&lt;/g3&gt; pseudo-class becoming inapplicable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090813Z" creationid="bakera" creationdate="20170929T090813Z">
-        <seg>フォームの送信イベントが止められると、ライブリージョンにエラーメッセージが投入され、:empty疑似クラスが不適合となり、表示状態がnoneからblockに切り替わります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T113127Z" creationid="bakera" creationdate="20170929T090813Z">
+        <seg>フォームの送信イベントが抑止され、ライブリージョンにエラーメッセージが入ると、&lt;g3&gt;:empty&lt;/g3&gt;疑似クラスにマッチしなくなり、displayの状態が&lt;g1&gt;none&lt;/g1&gt;から&lt;g2&gt;block&lt;/g2&gt;に切り替わります。</seg>
       </tuv>
     </tu>
     <tu>
