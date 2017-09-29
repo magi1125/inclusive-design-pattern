@@ -29975,6 +29975,16 @@ encounterは見つけようとして見つかるというより、たまたま�
     </tu>
     <tu>
       <note>(太田)
+強調couldどうするか。</note>
+      <tuv lang="EN-US">
+        <seg>We &lt;g1&gt;could&lt;/g1&gt; adapt our form to include this grouping mechanism like so:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T042003Z" creationid="bakera" creationdate="20170929T042003Z">
+        <seg>ここでのフォームには、以下のようにこのグループ化構造を含めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
 微調整。</note>
       <tuv lang="EN-US">
         <seg>We also used some techniques to make sure our design was tolerant of dynamic and fluctuating content.</seg>
