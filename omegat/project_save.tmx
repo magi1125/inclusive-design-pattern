@@ -4433,6 +4433,16 @@ Size:　→サイズ：</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g4&gt;content&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;'Only &lt;li&gt; can be a direct child of &lt;ul&gt; or &lt;ol&gt;.'&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
+&lt;g8&gt;}&lt;/g8&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170929T220350Z" creationid="Administrator" creationdate="20170929T220350Z">
+        <seg>&lt;g4&gt;content&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;'&lt;ul&gt;または&lt;ol&gt;の直接的な子になれるのは&lt;li&gt;だけです。.'&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
+&lt;g8&gt;}&lt;/g8&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g4&gt;display&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; none&lt;g6&gt;;&lt;/g6&gt;
 &lt;g7&gt;}&lt;/g7&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -11349,12 +11359,12 @@ massiveは「大きくて重い、大規模な」というような意味です�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) </note>
+      <note>(伊原) 微調整</note>
       <tuv lang="EN-US">
         <seg>For example, the following prints a lurid message for lists which are badly formed:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170929T220302Z" creationid="rikiha" creationdate="20170925T014551Z">
-        <seg>たとえば以下のセレクタでは、不適切に構成されたリストに対してけばけばしい色のメッセージが表示されます。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170929T220325Z" creationid="rikiha" creationdate="20170925T014551Z">
+        <seg>たとえば以下のセレクタでは、不適切な構成のリストに対してけばけばしい色のメッセージが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
