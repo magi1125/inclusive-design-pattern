@@ -28083,6 +28083,16 @@ esotericは特殊というより、他で使われていないというニュア
     </tu>
     <tu>
       <note>(太田)
+元訳がだいぶ意訳気味ですが、これはこれでOkかと。</note>
+      <tuv lang="EN-US">
+        <seg>This just leaves us the job of silencing the asterisk, for which we can use &lt;g7&gt;aria-hidden&lt;/g7&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T062857Z" creationid="bakera" creationdate="20170929T062857Z">
+        <seg>ただし、このままでは「アスタリスク」も読み上げられてしまうので、&lt;g7&gt;aria-hidden&lt;/g7&gt;を追加しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
 明確な→明示的な?
 ここのapplicationは「応用」の意味かと。
 調整してみました。
@@ -31956,6 +31966,15 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T113118Z" creationid="yoota" creationdate="20170501T113118Z">
         <seg>ここで学んだことを生かしながら、十分に柔軟なフレームワークを利用すれば、優れたインターフェイスを記述、編成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田) Ok</note>
+      <tuv lang="EN-US">
+        <seg>You can think of &lt;g8&gt;aria-hidden="true"&lt;/g8&gt; as the aural equivalent of &lt;g9&gt;display: none;&lt;/g9&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T062925Z" creationid="bakera" creationdate="20170929T062925Z">
+        <seg>&lt;g8&gt;aria-hidden="true"&lt;/g8&gt;は、&lt;g9&gt;display: none;&lt;/g9&gt;の読み上げ版と考えてください。</seg>
       </tuv>
     </tu>
     <tu>
