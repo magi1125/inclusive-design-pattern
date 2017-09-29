@@ -12477,12 +12477,13 @@ shape up のニュアンスを出したいかも?
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) 
+populateは前に合わせて「入れる」としました。</note>
       <tuv lang="EN-US">
         <seg>Here’s how we populate the live region using our script:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090752Z" creationid="bakera" creationdate="20170929T090752Z">
-        <seg>以下のようなスクリプトでライブリージョンにエラーメッセージを含めます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T111758Z" creationid="bakera" creationdate="20170929T090752Z">
+        <seg>以下のようなスクリプトでライブリージョンにエラーメッセージを入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24761,8 +24762,8 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;#error&lt;/g1&gt; live region should only be visible when it is populated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090758Z" creationid="bakera" creationdate="20170929T090758Z">
-        <seg>#errorライブリージョンは、エラーメッセージを含んだ場合にのみ表示されるようにする必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T112005Z" creationid="bakera" creationdate="20170929T090758Z">
+        <seg>この&lt;g1&gt;#error&lt;/g1&gt;ライブリージョンは、エラーメッセージを含んだ場合にのみ表示されるようにする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31317,11 +31318,14 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+前に合わせてカタカナで。
+</note>
       <tuv lang="EN-US">
         <seg>Visual Design</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090757Z" creationid="bakera" creationdate="20170929T090757Z">
-        <seg>視覚デザイン</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T111942Z" creationid="bakera" creationdate="20170929T090757Z">
+        <seg>ビジュアルデザイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -33685,6 +33689,18 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170530T095422Z" creationid="rikiha" creationdate="20170530T095422Z">
         <seg>大学卒業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+ひどいエラーメッセージですがこれはあとで直すのでしょうね。</note>
+      <tuv lang="EN-US">
+        <seg>event&lt;g21&gt;.&lt;/g21&gt;preventDefault&lt;g22&gt;(&lt;/g22&gt;&lt;g23&gt;)&lt;/g23&gt;&lt;g24&gt;;&lt;/g24&gt; &lt;g25&gt;// do not submit
+&lt;/g25&gt;        document&lt;g26&gt;.&lt;/g26&gt;getElementById&lt;g27&gt;(&lt;/g27&gt;&lt;g28&gt;'error'&lt;/g28&gt;&lt;g29&gt;)&lt;/g29&gt;&lt;g30&gt;.&lt;/g30&gt;textContent &lt;g31&gt;=&lt;/g31&gt; &lt;g32&gt;'Please make sure all your registration information is correct.'&lt;/g32&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T111909Z" creationid="bakera" creationdate="20170929T111909Z">
+        <seg>event&lt;g21&gt;.&lt;/g21&gt;preventDefault&lt;g22&gt;(&lt;/g22&gt;&lt;g23&gt;)&lt;/g23&gt;&lt;g24&gt;;&lt;/g24&gt; &lt;g25&gt;// 送信させない
+&lt;/g25&gt;        document&lt;g26&gt;.&lt;/g26&gt;getElementById&lt;g27&gt;(&lt;/g27&gt;&lt;g28&gt;'error'&lt;/g28&gt;&lt;g29&gt;)&lt;/g29&gt;&lt;g30&gt;.&lt;/g30&gt;textContent &lt;g31&gt;=&lt;/g31&gt; &lt;g32&gt;'登録情報が正しいことを確認してください。'&lt;/g32&gt;</seg>
       </tuv>
     </tu>
     <tu>
