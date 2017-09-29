@@ -5553,6 +5553,14 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Screenshot of devtools declaration block with &lt;g4&gt;display: none;&lt;/g4&gt; declaration above the content declaration.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170929T235819Z" creationid="Administrator" creationdate="20170929T235819Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;開発ツールのCSS宣言ブロックのスクリーンショット。contentの上に&lt;g4&gt;display:none;&lt;/g4&gt;がある。&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) LGTM</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The danger of a line height that is not relative to the font size.&lt;/g3&gt;</seg>
@@ -16102,6 +16110,7 @@ look at は学びましたというか考察しましたというか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) </note>
       <tuv lang="EN-US">
         <seg>In which case, I could just hide the pseudo-content message with &lt;g1&gt;display:none;&lt;/g1&gt;:</seg>
       </tuv>
@@ -22299,6 +22308,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T095447Z" creationid="yoota" creationdate="20170501T095426Z">
         <seg>JAWSなどのスクリーンリーダーには、&lt;g3&gt;&lt;main&gt;&lt;/g3&gt;にアクセスするキーボードショートカット（&lt;g2&gt;Q&lt;/g2&gt;キー）も用意されているため、ユーザーはページの前置きを飛ばして目的のコンテンツに直行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screenshot of dev tools declaration block with a display:none; declaration above the content declaration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170929T235750Z" creationid="Administrator" creationdate="20170929T235750Z">
+        <seg>開発ツールのCSS宣言ブロックのスクリーンショット。contentの上にdisplay:none;がある。</seg>
       </tuv>
     </tu>
     <tu>
