@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27353,12 +27353,15 @@ would formなので、形作られたものになるでしょう、とか、そ�
     </tu>
     <tu>
       <note>(太田)
-as separate concernsがどこにくっついているのかよくわからない感じ。意味的にはたぶんこういうことだと思います。</note>
+as separate concernsがどこにくっついているのかよくわからない感じ。意味的にはたぶんこういうことだと思います。
+
+(岡本)
+2つ→ふたつ</note>
       <tuv lang="EN-US">
         <seg>The trick is in communicating two key messages during validation as separate concerns:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T092525Z" creationid="bakera" creationdate="20170929T090613Z">
-        <seg>ポイントは、バリデーションで出てきた個々の問題について、2つのカギとなるメッセージを伝えることです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170929T095850Z" creationid="bakera" creationdate="20170929T090613Z">
+        <seg>ポイントは、バリデーションで出てきた個々の問題について、ふたつのカギとなるメッセージを伝えることです。</seg>
       </tuv>
     </tu>
     <tu>
