@@ -19270,8 +19270,8 @@ IEとEdgeにはパスワードを表示する機能がもともとあるので�
       <tuv lang="EN-US">
         <seg>Note that Internet Explorer and Microsoft Edge provide this functionality natively, using an interactive eye icon associated with the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;::ms-reveal&lt;/g3&gt; pseudo-class&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;15&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T083558Z" creationid="bakera" creationdate="20170929T083558Z">
-        <seg>Internet ExplorerとMicrosoft Edgew@は、インタラクティブな目のアイコンを使って、この機能をネイティブで提供しています。&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;::ms-reveal&lt;/g3&gt;疑似クラス&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注186）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;と関連付けられている</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T083753Z" creationid="bakera" creationdate="20170929T083558Z">
+        <seg>Internet ExplorerとMicrosoft Edgeはこの機能をネイティブで提供しており、目のアイコンを押すと表示が切り替えられるようになっています。目のアイコンは&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;::ms-reveal&lt;/g3&gt;疑似クラス&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注186）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で制御できるようになってます。</seg>
       </tuv>
     </tu>
     <tu>
