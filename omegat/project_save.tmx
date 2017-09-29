@@ -22791,11 +22791,14 @@ enhanced を「強化」とするのがどうもしっくり来ず、なくて�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ it annotates はなくても通じるので取りました。
+微妙な観点は謎すぎるので「ニュアンスで」としました。</note>
       <tuv lang="EN-US">
         <seg>Structures of HTML, like the structures of natural language it annotates, should be judged in similarly nuanced terms: what helps or hinders; what’s too little or too much.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T042459Z" creationid="bakera" creationdate="20170929T042459Z">
-        <seg>HTMLの構造は、HTMLがタグによって意味づけをしている自然言語の構造と同じように、何が役立ち何が邪魔なのか、何が足らず何が過剰なのかといった、微妙な観点で判断する必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T051319Z" creationid="bakera" creationdate="20170929T042459Z">
+        <seg>HTMLの構造は、自然言語の構造と同じように、ニュアンスで判断する必要があります。役立つのか、邪魔なのか、少なすぎるのか、多すぎるのかといった観点です。</seg>
       </tuv>
     </tu>
     <tu>
