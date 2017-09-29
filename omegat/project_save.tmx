@@ -27717,13 +27717,14 @@ X is as good a place as any to Do. で X は Do するのにうってつけだ�
     </tu>
     <tu>
       <note>(太田)
+少し調整。
 日本語だと「登録」はそんなに長くないのでいまいちかもしれません。
 </note>
       <tuv lang="EN-US">
         <seg>This is technically valid, but it creates a lot of unnecessary noise; that is, focusing each input in turn would announce the extended labels of “Registration: Your email address,” “Registration: Choose a username,” and so on.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T043659Z" creationid="bakera" creationdate="20170929T042443Z">
-        <seg>これは技術的には妥当なものですが、不要なノイズが大量に生まれてしまいます。つまり、それぞれの入力欄に順にフォーカスを合わせていくと、「登録：メールアドレス」、「登録：ユーザー名を選択」、という具合にラベルが拡張されて読み上げられます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T043720Z" creationid="bakera" creationdate="20170929T042443Z">
+        <seg>これは技術的には妥当なものですが、不要なノイズが大量に生まれてしまいます。つまり、それぞれの入力欄に順にフォーカスを合わせていくと、「登録：メールアドレス」、「登録：ユーザー名を選択」、という具合に補われたラベルが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
