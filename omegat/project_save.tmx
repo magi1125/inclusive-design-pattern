@@ -1545,6 +1545,16 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;div&lt;/g3&gt; &lt;g5&gt;id&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"error"&lt;/g6&gt; &lt;g8&gt;aria-live&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"assertive"&lt;/g9&gt; &lt;g11&gt;role&lt;/g11&gt;&lt;g12&gt;&lt;g13&gt;=&lt;/g13&gt;"alert"&lt;/g12&gt;&lt;g14&gt;&gt;&lt;/g14&gt;&lt;/g2&gt;&lt;g15&gt;&lt;g16&gt;&lt;g17&gt;&lt;/&lt;/g17&gt;div&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g15&gt;
+&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;&lt;/g21&gt;button&lt;/g20&gt; &lt;g22&gt;type&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"submit"&lt;/g23&gt;&lt;g25&gt;&gt;&lt;/g25&gt;&lt;/g19&gt;Register&lt;g26&gt;&lt;g27&gt;&lt;g28&gt;&lt;/&lt;/g28&gt;button&lt;/g27&gt;&lt;g29&gt;&gt;&lt;/g29&gt;&lt;/g26&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T111643Z" creationid="bakera" creationdate="20170929T111643Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;div&lt;/g3&gt; &lt;g5&gt;id&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"error"&lt;/g6&gt; &lt;g8&gt;aria-live&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"assertive"&lt;/g9&gt; &lt;g11&gt;role&lt;/g11&gt;&lt;g12&gt;&lt;g13&gt;=&lt;/g13&gt;"alert"&lt;/g12&gt;&lt;g14&gt;&gt;&lt;/g14&gt;&lt;/g2&gt;&lt;g15&gt;&lt;g16&gt;&lt;g17&gt;&lt;/&lt;/g17&gt;div&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g15&gt;
+&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;&lt;/g21&gt;button&lt;/g20&gt; &lt;g22&gt;type&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"submit"&lt;/g23&gt;&lt;g25&gt;&gt;&lt;/g25&gt;&lt;/g19&gt;登録&lt;g26&gt;&lt;g27&gt;&lt;g28&gt;&lt;/&lt;/g28&gt;button&lt;/g27&gt;&lt;g29&gt;&gt;&lt;/g29&gt;&lt;/g26&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h1&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;How To Mark Up Blog Articles&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;h1&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;
 &lt;g10&gt;&lt;!-- introductory content --&gt;&lt;/g10&gt;
 &lt;g11&gt;&lt;g12&gt;&lt;g13&gt;&lt;&lt;/g13&gt;h3&lt;/g12&gt;&lt;g14&gt;&gt;&lt;/g14&gt;&lt;/g11&gt;A quick note on the word ‘semantic’&lt;g15&gt;&lt;g16&gt;&lt;g17&gt;&lt;/&lt;/g17&gt;h3&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g15&gt; &lt;g19&gt;&lt;!-- wait!</seg>
@@ -12467,6 +12477,7 @@ shape up のニュアンスを出したいかも?
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Here’s how we populate the live region using our script:</seg>
       </tuv>
@@ -21788,11 +21799,13 @@ Good!</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+rememberを訳出。</note>
       <tuv lang="EN-US">
         <seg>Remember that users can (and will!) zoom their content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090749Z" creationid="bakera" creationdate="20170929T090749Z">
-        <seg>ユーザーはコンテンツを拡大／縮小できます（きっとするでしょう！）。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T111555Z" creationid="bakera" creationdate="20170929T090749Z">
+        <seg>ユーザーはコンテンツを拡大できる（そして、実際に拡大するでしょう！）ということを忘れないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27856,6 +27869,7 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Therefore, an error which appears above the form may not even appear within the current viewport.</seg>
       </tuv>
