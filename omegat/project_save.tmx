@@ -9948,11 +9948,13 @@ issueは文字どおり「イシュー」と思われますが、いったん「
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>Conventionally, errors are displayed in red, so it’s advisable to give the message box a red border or background.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090802Z" creationid="bakera" creationdate="20170929T090802Z">
-        <seg>一般的にエラーは赤色で表示されるので、メッセージボックスを赤の枠で囲むか、背景を赤にするとよいでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T112213Z" creationid="bakera" creationdate="20170929T090802Z">
+        <seg>一般的にエラーは赤で表示されるので、メッセージボックスに赤い枠をつけるか、背景を赤にするとよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12942,11 +12944,13 @@ http://inclusivedesignprinciples.org/ja/
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>However, you should be wary of red being the only visual characteristic that classifies the message as an error.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090803Z" creationid="bakera" creationdate="20170929T090803Z">
-        <seg>ただし、赤という色が、そのメッセージがエラーであることを示す唯一の視覚的特長にならないよう注意してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T112418Z" creationid="bakera" creationdate="20170929T090803Z">
+        <seg>ただし、赤という色が、エラーであることを示す唯一の視覚的特徴にならないように注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30199,6 +30203,8 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>To ensure that the empty box is not visible in its initial state (and does not otherwise affect the form’s layout) you can employ the &lt;g2&gt;:empty&lt;/g2&gt; pseudo-class:</seg>
       </tuv>
@@ -30543,11 +30549,14 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+prependは前に追加するニュアンス。
+「メッセージの頭に」と補いました。</note>
       <tuv lang="EN-US">
         <seg>To support at the same time screen reader users and people who cannot see color, we can prepend a warning icon containing alternative text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090804Z" creationid="bakera" creationdate="20170929T090804Z">
-        <seg>スクリーンリーダーユーザーや色覚障害を持つ人々も同時にサポートするために、代替テキストを含んだ警告アイコンを追加します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T112553Z" creationid="bakera" creationdate="20170929T090804Z">
+        <seg>スクリーンリーダーユーザーや色覚障害を持つ人々も同時にサポートするために、メッセージの頭に警告アイコンを追加して、代替テキストを含めます。</seg>
       </tuv>
     </tu>
     <tu>
