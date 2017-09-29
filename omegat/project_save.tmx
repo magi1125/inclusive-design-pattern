@@ -11541,11 +11541,13 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+hold fast toは固持する、強く結びつくのような意味ですが、まあ要するに「違う」ということなのでざっくり調整しました。</note>
       <tuv lang="EN-US">
         <seg>HTML does not hold fast to the clear, procedural logic of imperative programming languages, so it’s better not to think of them as similar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T042515Z" creationid="bakera" creationdate="20170929T042515Z">
-        <seg>HTMLは、命令型プログラミング言語の明快な手続き型ロジックを固守していないため、同じようには考えない方がよいでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T050724Z" creationid="bakera" creationdate="20170929T042515Z">
+        <seg>HTMLは、命令型プログラミング言語の明快で手続き的なロジックとは異なります。同じようには考えない方がよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23133,8 +23135,8 @@ It is to be expected that WCAG is organized by principle.
       <tuv lang="EN-US">
         <seg>That a &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt; in this context is not technically invalid or nonconforming might lead us to think it is the opposite: virtuous, correct — &lt;g2&gt;mandatory&lt;/g2&gt; even.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T045545Z" creationid="bakera" creationdate="20170929T042453Z">
-        <seg>今回の&lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;についても、技術的に誤りでも不適合でもないということを、逆の方向から考えてしまいがちです。つまり、ぜひとも実施すべきである、さらには義務であるとさえ思う可能性があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T045829Z" creationid="bakera" creationdate="20170929T042453Z">
+        <seg>今回の&lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;についても、技術的に誤りでも不適合でもないということを、逆の見方で考えてしまいがちです。つまり、ぜひとも実施すべきである、さらには義務であるとさえ思う可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
