@@ -21949,6 +21949,16 @@ http://www.w3.org/TR/css-writing-modes-3/#propdef-unicode-bidi
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+明示的に「表示する」という話なので少し調整。</note>
+      <tuv lang="EN-US">
+        <seg>Showing The Password</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T074407Z" creationid="bakera" creationdate="20170929T074407Z">
+        <seg>パスワードを表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 (伊原) ひとまず下訳を反映。
 (伊原) 画像の内容に応じてちょっと補足＆表現修正
