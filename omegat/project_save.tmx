@@ -14852,8 +14852,8 @@ theを訳出しないと意味が分かりにくいですね。
       <tuv lang="EN-US">
         <seg>In the current context, the &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt; and &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; create too much verbosity for little to no gain, so probably shouldn’t be there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T042504Z" creationid="bakera" creationdate="20170929T042504Z">
-        <seg>現在のコンテキストでは、&lt;fieldset&gt;と&lt;legend&gt;によって余計な情報まで読み上げられ、メリットがほとんどないので、おそらく使用すべきではありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T051408Z" creationid="bakera" creationdate="20170929T042504Z">
+        <seg>現在のコンテキストでは、&lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;と&lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;によって余計な情報まで読み上げられ、メリットがほとんどないので、おそらく使用すべきではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22793,7 +22793,9 @@ enhanced を「強化」とするのがどうもしっくり来ず、なくて�
     <tu>
       <note>(太田)
  it annotates はなくても通じるので取りました。
-微妙な観点は謎すぎるので「ニュアンスで」としました。</note>
+微妙な観点は謎すぎるので「ニュアンスで」としました。
+「必要がある」は強すぎるので「べき」としました。
+</note>
       <tuv lang="EN-US">
         <seg>Structures of HTML, like the structures of natural language it annotates, should be judged in similarly nuanced terms: what helps or hinders; what’s too little or too much.</seg>
       </tuv>
