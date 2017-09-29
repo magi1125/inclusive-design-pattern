@@ -441,6 +441,14 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/g1&gt;Does a set actually only have one field in it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T052007Z" creationid="bakera" creationdate="20170929T052007Z">
+        <seg>&lt;/g1&gt;セットに実際に含まれるフィールドは1つだけですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 誤読しないよう読点と語順など調整。
 
 (太田) OK</note>
@@ -479,6 +487,8 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 
+調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Is there more than one distinct set of fields in total, in the same form or context?</seg>
       </tuv>
@@ -3834,6 +3844,22 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g2&gt;Yes?&lt;/g2&gt; Use &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;s.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T051921Z" creationid="bakera" creationdate="20170929T051836Z">
+        <seg>&lt;g2&gt;Yesなら、&lt;/g2&gt;&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;を使いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g2&gt;Yes?&lt;/g2&gt; You don’t need a &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T052022Z" creationid="bakera" creationdate="20170929T052022Z">
+        <seg>&lt;g2&gt;Yesなら、&lt;/g2&gt; &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;は必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g30&gt;&lt;!-- blog article here --&gt;&lt;/g30&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170512T100839Z" creationid="yoota" creationdate="20170512T100839Z">
@@ -4101,6 +4127,14 @@ Size:　→サイズ：</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T103218Z" creationid="yoota" creationdate="20170501T103218Z">
         <seg>&lt;g4&gt;&lt;g5&gt;拡張機能&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注14）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;を使えばオリジナルのCSSをドメインベースで適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g4&gt;No?&lt;/g4&gt; Don’t use &lt;g5&gt;&lt;fieldset&gt;&lt;/g5&gt;s.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T051928Z" creationid="bakera" creationdate="20170929T051852Z">
+        <seg>&lt;g4&gt;Noなら、&lt;/g4&gt;&lt;g5&gt;&lt;fieldset&gt;&lt;/g5&gt;は使わないでください。</seg>
       </tuv>
     </tu>
     <tu>
