@@ -11360,7 +11360,7 @@ massiveは「大きくて重い、大規模な」というような意味です�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整</note>
+      <note>(伊原) 微調整。色と補いました。</note>
       <tuv lang="EN-US">
         <seg>For example, the following prints a lurid message for lists which are badly formed:</seg>
       </tuv>
@@ -22802,8 +22802,8 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
       <tuv lang="EN-US">
         <seg>Since it piggybacks a site’s own CSS, I had to be very careful about overriding certain styles for pseudo-content that would mess up the appearance and readability of the error messages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014554Z" creationid="rikiha" creationdate="20170925T014554Z">
-        <seg>サイト自身のCSSに便乗しているため、エラーメッセージの外観や見やすさを台無しにする可能性がある、pseudo-content用の特定のスタイルのオーバーライドについて十分に注意する必要がありました。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170929T222307Z" creationid="rikiha" creationdate="20170925T014554Z">
+        <seg>サイトのCSSに便乗しているため、エラーメッセージの見た目や読みやすさを台無しにしかねないpseudo-contentの特定スタイルの上書きに対し、非常に注意を払わなければなりませんでした。</seg>
       </tuv>
     </tu>
     <tu>
