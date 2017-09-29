@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23134,12 +23134,15 @@ enhanced を「強化」とするのがどうもしっくり来ず、なくて�
  it annotates はなくても通じるので取りました。
 微妙な観点は謎すぎるので「ニュアンスで」としました。
 「必要がある」は強すぎるので「べき」としました。
+
+(岡本)
+邪魔→じゃま
 </note>
       <tuv lang="EN-US">
         <seg>Structures of HTML, like the structures of natural language it annotates, should be judged in similarly nuanced terms: what helps or hinders; what’s too little or too much.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T051339Z" creationid="bakera" creationdate="20170929T042459Z">
-        <seg>HTMLの構造は、自然言語の構造と同じように、ニュアンスで判断するべきです。役立つのか、邪魔なのか、少なすぎるのか、多すぎるのかといった観点です。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170929T072228Z" creationid="bakera" creationdate="20170929T042459Z">
+        <seg>HTMLの構造は、自然言語の構造と同じように、ニュアンスで判断するべきです。役立つのか、じゃまなのか、少なすぎるのか、多すぎるのかといった観点です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31310,12 +31313,15 @@ impossibleは「不可能になる」くらい強くしたいところ。
     <tu>
       <note>(太田) 
 ここのprogramming codeはHTMLのコードではなくプログラムのコード。
-調整してみました。</note>
+調整してみました。
+
+(岡本)
+物事→物ごと</note>
       <tuv lang="EN-US">
         <seg>When programming code day in and day out, we habituate ourselves to thinking of things as right or wrong, true or false.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T045748Z" creationid="bakera" creationdate="20170929T042448Z">
-        <seg>日々の業務でプログラミングのコードを書いていると、正しいか間違っているか、真か偽かで物事を考えるのに慣れてしまします。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170929T072244Z" creationid="bakera" creationdate="20170929T042448Z">
+        <seg>日々の業務でプログラミングのコードを書いていると、正しいか間違っているか、真か偽かで物ごとを考えるのに慣れてしまします。</seg>
       </tuv>
     </tu>
     <tu>
