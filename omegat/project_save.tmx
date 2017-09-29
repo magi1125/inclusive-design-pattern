@@ -9594,6 +9594,17 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+誤訳っぽいかも?
+こういうことでは?</note>
+      <tuv lang="EN-US">
+        <seg>Denoting required fields inclusively is a mixture of standards and convention.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T054104Z" creationid="bakera" creationdate="20170929T054104Z">
+        <seg>必須フィールドをインクルーシブに示す方法には、標準のものと、慣習的なものがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Depending on the browser, this either means no more graying out, or a grayed-out style for &lt;g1&gt;all&lt;/g1&gt; &lt;g2&gt;ERROR&lt;/g2&gt; declarations: a slight improvement.</seg>
       </tuv>
@@ -14067,6 +14078,16 @@ captureは「取り込む」としてみました。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170825T025731Z" creationid="rikiha" creationdate="20170823T082528Z">
         <seg>具体的には、動詞をためていくのです。作成する、ソートする、編集する、購入する、読む、返信する、動かす、取り込む、描く、アップロードする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+すこし調整。</note>
+      <tuv lang="EN-US">
+        <seg>In fact, &lt;g2&gt;all&lt;/g2&gt; the fields are required: for the sake of a simple UX we’re not asking anything which isn’t completely critical to signing up the user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T053835Z" creationid="bakera" creationdate="20170929T053835Z">
+        <seg>実際には、ここでは&lt;g2&gt;すべての&lt;/g2&gt;フィールドが必須となっています。ユーザー体験をシンプルにするため、サインアップにどうしても必要な情報以外は求めないようにしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20354,6 +20375,7 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Our register form has some &lt;g1&gt;required&lt;/g1&gt; fields, which cannot be left blank.</seg>
       </tuv>
