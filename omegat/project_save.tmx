@@ -1453,6 +1453,10 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h1&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;Welcome&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;h1&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;
 &lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;div&lt;/g11&gt; &lt;g13&gt;role&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"toolbar"&lt;/g14&gt; &lt;g16&gt;aria-label&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"Login or register"&lt;/g17&gt; &lt;g19&gt;aria-controls&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"forms"&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g10&gt;</seg>
       </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T063023Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h1&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;ようこそ&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;&lt;/&lt;/g8&gt;h1&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g6&gt;
+&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;div&lt;/g11&gt; &lt;g13&gt;role&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"toolbar"&lt;/g14&gt; &lt;g16&gt;aria-label&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"Login or register"&lt;/g17&gt; &lt;g19&gt;aria-controls&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"forms"&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g10&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -1529,6 +1533,16 @@ https://en.wikipedia.org/wiki/Flapjack_(oat_bar)
       <tuv lang="JA" changeid="yoota" changedate="20170913T090540Z" creationid="yoota" creationdate="20170913T090540Z">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;input&lt;/g3&gt; &lt;g5&gt;type&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"radio"&lt;/g6&gt; &lt;g8&gt;name&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"sort-method"&lt;/g9&gt; &lt;g11&gt;id&lt;/g11&gt;&lt;g12&gt;&lt;g13&gt;=&lt;/g13&gt;"most-recent"&lt;/g12&gt; &lt;g14&gt;checked&lt;/g14&gt; &lt;g15&gt;/&gt;&lt;/g15&gt;&lt;/g2&gt;
 &lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;label&lt;/g17&gt; &lt;g19&gt;for&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"most-recent"&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g16&gt;新着順&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;label&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;label&lt;/g3&gt; &lt;g5&gt;for&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"email"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;Your email address &lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;strong&lt;/g10&gt; &lt;g12&gt;class&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"red"&lt;/g13&gt; &lt;g15&gt;aria-hidden&lt;/g15&gt;&lt;g16&gt;&lt;g17&gt;=&lt;/g17&gt;"true"&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g9&gt;*&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;/&lt;/g21&gt;strong&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;label&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;
+&lt;g27&gt;&lt;g28&gt;&lt;g29&gt;&lt;&lt;/g29&gt;input&lt;/g28&gt; &lt;g30&gt;type&lt;/g30&gt;&lt;g31&gt;&lt;g32&gt;=&lt;/g32&gt;"text"&lt;/g31&gt; &lt;g33&gt;id&lt;/g33&gt;&lt;g34&gt;&lt;g35&gt;=&lt;/g35&gt;"email"&lt;/g34&gt; &lt;g36&gt;name&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"email"&lt;/g37&gt; &lt;g39&gt;aria-required&lt;/g39&gt;&lt;g40&gt;&lt;g41&gt;=&lt;/g41&gt;"true"&lt;/g40&gt;&lt;g42&gt;&gt;&lt;/g42&gt;&lt;/g27&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T063008Z" creationid="bakera" creationdate="20170929T063008Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;label&lt;/g3&gt; &lt;g5&gt;for&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"email"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;メールアドレス &lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;strong&lt;/g10&gt; &lt;g12&gt;class&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"red"&lt;/g13&gt; &lt;g15&gt;aria-hidden&lt;/g15&gt;&lt;g16&gt;&lt;g17&gt;=&lt;/g17&gt;"true"&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g9&gt;*&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;/&lt;/g21&gt;strong&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;label&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;
+&lt;g27&gt;&lt;g28&gt;&lt;g29&gt;&lt;&lt;/g29&gt;input&lt;/g28&gt; &lt;g30&gt;type&lt;/g30&gt;&lt;g31&gt;&lt;g32&gt;=&lt;/g32&gt;"text"&lt;/g31&gt; &lt;g33&gt;id&lt;/g33&gt;&lt;g34&gt;&lt;g35&gt;=&lt;/g35&gt;"email"&lt;/g34&gt; &lt;g36&gt;name&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"email"&lt;/g37&gt; &lt;g39&gt;aria-required&lt;/g39&gt;&lt;g40&gt;&lt;g41&gt;=&lt;/g41&gt;"true"&lt;/g40&gt;&lt;g42&gt;&gt;&lt;/g42&gt;&lt;/g27&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3739,6 +3753,14 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;&lt;/g25&gt;button&lt;/g24&gt; &lt;g26&gt;aria-pressed&lt;/g26&gt;&lt;g27&gt;&lt;g28&gt;=&lt;/g28&gt;"true"&lt;/g27&gt;&lt;g29&gt;&gt;&lt;/g29&gt;&lt;/g23&gt;Login&lt;g30&gt;&lt;g31&gt;&lt;g32&gt;&lt;/&lt;/g32&gt;button&lt;/g31&gt;&lt;g33&gt;&gt;&lt;/g33&gt;&lt;/g30&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T063128Z" creationid="bakera" creationdate="20170929T063128Z">
+        <seg>&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;&lt;/g25&gt;button&lt;/g24&gt; &lt;g26&gt;aria-pressed&lt;/g26&gt;&lt;g27&gt;&lt;g28&gt;=&lt;/g28&gt;"true"&lt;/g27&gt;&lt;g29&gt;&gt;&lt;/g29&gt;&lt;/g23&gt;ログイン&lt;g30&gt;&lt;g31&gt;&lt;g32&gt;&lt;/&lt;/g32&gt;button&lt;/g31&gt;&lt;g33&gt;&gt;&lt;/g33&gt;&lt;/g30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g24&gt;&lt;!-- third article’s content here --&gt;&lt;/g24&gt;
 &lt;g25&gt;&lt;g26&gt;&lt;g27&gt;&lt;/&lt;/g27&gt;article&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g25&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -3912,6 +3934,21 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       <tuv lang="EN-US">
         <seg>&lt;g33&gt;&lt;g34&gt;&lt;g35&gt;&lt;&lt;/g35&gt;label&lt;/g34&gt; &lt;g36&gt;for&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"username"&lt;/g37&gt;&lt;g39&gt;&gt;&lt;/g39&gt;&lt;/g33&gt;Choose a username&lt;g40&gt;&lt;g41&gt;&lt;g42&gt;&lt;/&lt;/g42&gt;label&lt;/g41&gt;&lt;g43&gt;&gt;&lt;/g43&gt;&lt;/g40&gt;</seg>
       </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T063234Z">
+        <seg>&lt;g33&gt;&lt;g34&gt;&lt;g35&gt;&lt;&lt;/g35&gt;label&lt;/g34&gt; &lt;g36&gt;for&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"username"&lt;/g37&gt;&lt;g39&gt;&gt;&lt;/g39&gt;&lt;/g33&gt;ユーザー名&lt;g40&gt;&lt;g41&gt;&lt;g42&gt;&lt;/&lt;/g42&gt;label&lt;/g41&gt;&lt;g43&gt;&gt;&lt;/g43&gt;&lt;/g40&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g34&gt;&lt;g35&gt;&lt;g36&gt;&lt;&lt;/g36&gt;button&lt;/g35&gt; &lt;g37&gt;aria-pressed&lt;/g37&gt;&lt;g38&gt;&lt;g39&gt;=&lt;/g39&gt;"false"&lt;/g38&gt;&lt;g40&gt;&gt;&lt;/g40&gt;&lt;/g34&gt;Register&lt;g41&gt;&lt;g42&gt;&lt;g43&gt;&lt;/&lt;/g43&gt;button&lt;/g42&gt;&lt;g44&gt;&gt;&lt;/g44&gt;&lt;/g41&gt;
+&lt;g45&gt;&lt;g46&gt;&lt;g47&gt;&lt;/&lt;/g47&gt;div&lt;/g46&gt;&lt;g48&gt;&gt;&lt;/g48&gt;&lt;/g45&gt;
+&lt;g49&gt;&lt;g50&gt;&lt;g51&gt;&lt;&lt;/g51&gt;div&lt;/g50&gt; &lt;g52&gt;id&lt;/g52&gt;&lt;g53&gt;&lt;g54&gt;=&lt;/g54&gt;"forms"&lt;/g53&gt;&lt;g55&gt;&gt;&lt;/g55&gt;&lt;/g49&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T063150Z" creationid="bakera" creationdate="20170929T063150Z">
+        <seg>&lt;g34&gt;&lt;g35&gt;&lt;g36&gt;&lt;&lt;/g36&gt;button&lt;/g35&gt; &lt;g37&gt;aria-pressed&lt;/g37&gt;&lt;g38&gt;&lt;g39&gt;=&lt;/g39&gt;"false"&lt;/g38&gt;&lt;g40&gt;&gt;&lt;/g40&gt;&lt;/g34&gt;登録&lt;g41&gt;&lt;g42&gt;&lt;g43&gt;&lt;/&lt;/g43&gt;button&lt;/g42&gt;&lt;g44&gt;&gt;&lt;/g44&gt;&lt;/g41&gt;
+&lt;g45&gt;&lt;g46&gt;&lt;g47&gt;&lt;/&lt;/g47&gt;div&lt;/g46&gt;&lt;g48&gt;&gt;&lt;/g48&gt;&lt;/g45&gt;
+&lt;g49&gt;&lt;g50&gt;&lt;g51&gt;&lt;&lt;/g51&gt;div&lt;/g50&gt; &lt;g52&gt;id&lt;/g52&gt;&lt;g53&gt;&lt;g54&gt;=&lt;/g54&gt;"forms"&lt;/g53&gt;&lt;g55&gt;&gt;&lt;/g55&gt;&lt;/g49&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -4020,6 +4057,14 @@ Size:　→サイズ：</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170809T134459Z" creationid="rikiha" creationdate="20170809T134459Z">
         <seg>&lt;g43&gt;&lt;g44&gt;&lt;g45&gt;&lt;&lt;/g45&gt;li&lt;/g44&gt;&lt;g46&gt;&gt;&lt;/g46&gt;&lt;/g43&gt;&lt;g47&gt;&lt;g48&gt;&lt;g49&gt;&lt;&lt;/g49&gt;a&lt;/g48&gt; &lt;g50&gt;href&lt;/g50&gt;&lt;g51&gt;&lt;g52&gt;=&lt;/g52&gt;"#services"&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g47&gt;業務内容&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;/&lt;/g56&gt;a&lt;/g55&gt;&lt;g57&gt;&gt;&lt;/g57&gt;&lt;/g54&gt;&lt;g58&gt;&lt;g59&gt;&lt;g60&gt;&lt;/&lt;/g60&gt;li&lt;/g59&gt;&lt;g61&gt;&gt;&lt;/g61&gt;&lt;/g58&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g44&gt;&lt;g45&gt;&lt;g46&gt;&lt;&lt;/g46&gt;input&lt;/g45&gt; &lt;g47&gt;type&lt;/g47&gt;&lt;g48&gt;&lt;g49&gt;=&lt;/g49&gt;"text"&lt;/g48&gt; &lt;g50&gt;id&lt;/g50&gt;&lt;g51&gt;&lt;g52&gt;=&lt;/g52&gt;"username"&lt;/g51&gt; &lt;g53&gt;name&lt;/g53&gt;&lt;g54&gt;&lt;g55&gt;=&lt;/g55&gt;"username"&lt;/g54&gt; &lt;g56&gt;placeholder&lt;/g56&gt;&lt;g57&gt;&lt;g58&gt;=&lt;/g58&gt;"e.g. HotStuff666"&lt;/g57&gt;&lt;g59&gt;&gt;&lt;/g59&gt;&lt;/g44&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T063245Z" creationid="bakera" creationdate="20170929T063245Z">
+        <seg>&lt;g44&gt;&lt;g45&gt;&lt;g46&gt;&lt;&lt;/g46&gt;input&lt;/g45&gt; &lt;g47&gt;type&lt;/g47&gt;&lt;g48&gt;&lt;g49&gt;=&lt;/g49&gt;"text"&lt;/g48&gt; &lt;g50&gt;id&lt;/g50&gt;&lt;g51&gt;&lt;g52&gt;=&lt;/g52&gt;"username"&lt;/g51&gt; &lt;g53&gt;name&lt;/g53&gt;&lt;g54&gt;&lt;g55&gt;=&lt;/g55&gt;"username"&lt;/g54&gt; &lt;g56&gt;placeholder&lt;/g56&gt;&lt;g57&gt;&lt;g58&gt;=&lt;/g58&gt;"例: HotStuff666"&lt;/g57&gt;&lt;g59&gt;&gt;&lt;/g59&gt;&lt;/g44&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4742,6 +4787,9 @@ Price:　→価格：</note>
       <tuv lang="EN-US">
         <seg>&lt;g87&gt;&lt;!-- the registration form --&gt;&lt;/g87&gt;</seg>
       </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T063200Z">
+        <seg>&lt;g87&gt;&lt;!-- 登録フォーム --&gt;&lt;/g87&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <note>(岡本)
@@ -4875,6 +4923,9 @@ Price:　→価格：</note>
 メールアドレス？</note>
       <tuv lang="EN-US">
         <seg>&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;label&lt;/g10&gt; &lt;g12&gt;for&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"email"&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g9&gt;Your email address&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;/&lt;/g18&gt;label&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g16&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T063219Z">
+        <seg>&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;label&lt;/g10&gt; &lt;g12&gt;for&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"email"&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g9&gt;メールアドレス&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;/&lt;/g18&gt;label&lt;/g17&gt;&lt;g19&gt;&gt;&lt;/g19&gt;&lt;/g16&gt;</seg>
       </tuv>
     </tu>
     <tu>
