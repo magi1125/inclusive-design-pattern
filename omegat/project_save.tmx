@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8336,6 +8336,14 @@ heading level oneは「見出しレベル1」ですね。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170720T062851Z" creationid="yoota" creationdate="20170719T095029Z">
         <seg>どちらも、ソースの順序に従ったデフォルトのフォーカス順序で配置され、Shadow DOMのサブツリーの影響を受けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bothersome and off-putting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T080204Z" creationid="bakera" creationdate="20170929T080204Z">
+        <seg>面倒で不愉快な話です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22883,6 +22891,17 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+元訳はちょっと何を言っているのかわからないですね。
+ざっくり意訳気味に調整しました。</note>
+      <tuv lang="EN-US">
+        <seg>Some interfaces provide an auxiliary field, similar in all respects but its &lt;g1&gt;id&lt;/g1&gt;, and implore you to type your proposed password a &lt;g2&gt;second&lt;/g2&gt; time, so the system can compare the two.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T080049Z" creationid="bakera" creationdate="20170929T080049Z">
+        <seg>インターフェイスの中には、&lt;g1&gt;id&lt;/g1&gt;属性を除いたすべてがそっくり同じ入力欄を2つ提供して、パスワードを&lt;g2&gt;2回&lt;/g2&gt;入力させ、2つのパスワードを比較するものがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 対比になるよう語順を調整。
 
 (太田) すこし語順を調整しつつ簡潔に。</note>
@@ -29546,6 +29565,16 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170811T135634Z" creationid="rikiha" creationdate="20170811T133031Z">
         <seg>その研究例のひとつとして、&lt;g1&gt;&lt;g2&gt;「Icons Improve Older and Younger Adults Comprehension of Medication Information（PDF）」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注99）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;では、情報の要点を示すのにアイコンを使用したところ、薬の用法・用量に対する理解が早まったという結果が報告されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+すこし調整。</note>
+      <tuv lang="EN-US">
+        <seg>To preserve security but give users the option to check their entered password, instead we shall provide a checkbox to reveal the password at will.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T082816Z" creationid="bakera" creationdate="20170929T082816Z">
+        <seg>セキュリティを確保しつつ、ユーザーが入力パスワードを確認できるようにするために、パスワードを表示するチェックボックスを提供することもできます。</seg>
       </tuv>
     </tu>
     <tu>
