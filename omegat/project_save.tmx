@@ -11160,6 +11160,24 @@ An alt Decision Tree のフローで
       </tuv>
     </tu>
     <tu>
+      <note>※要訳注
+
+(太田)
+NVDAでは
+「メールアドレス アスタリスク エディット ブランク」
+のように読みました。
+日本語では「※」が使われることがありますが、これは「こめじるし」と読まれます。これは訳注ですかね。
+
+
+</note>
+      <tuv lang="EN-US">
+        <seg>For screen reader users, the label is announced as usual, including the asterisk, as “Your email address asterisk.” The term “asterisk” in this context is well enough understood by screen reader users to mean “required,” but it’s not exactly robust.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T055014Z" creationid="bakera" creationdate="20170929T055014Z">
+        <seg>スクリーンリーダーは、「メールアドレス アスタリスク」などのように、アスタリスクを含めて通常通りラベルを読み上げます。このコンテキストにおける「＃＃アスタリスク＃＃」という言葉が「必須」を意味することは、多くのスクリーンリーダーユーザーが理解しています。しかし、必ずしも問題が起きないわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 多少調整。
 
 (太田) OK</note>
