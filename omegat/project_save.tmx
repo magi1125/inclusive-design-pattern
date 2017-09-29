@@ -30837,12 +30837,14 @@ the prototyping experience とは。
     <tu>
       <note>(太田)
 only have to がどこかにいってしまっているような。
-パターン化すると一回だけ考えれば済むようになる、という話のような気がします。</note>
+パターン化すると一回だけ考えれば済むようになる、という話のような気がします。
+分かりにくいので「パターンを再利用すれば」を補ってみましたが、補いすぎ?
+</note>
       <tuv lang="EN-US">
         <seg>We only have to think about and work on the accessibility aspect once.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090315Z" creationid="bakera" creationdate="20170929T090258Z">
-        <seg>アクセシビリティの側面について考え、取り組む必要があるのは、ただ一度だけです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T090356Z" creationid="bakera" creationdate="20170929T090258Z">
+        <seg>パターンを再利用すれば、アクセシビリティの側面について考え、取り組むのは、ただ一度だけで済みます。</seg>
       </tuv>
     </tu>
     <tu>
