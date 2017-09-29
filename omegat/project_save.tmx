@@ -2703,6 +2703,14 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Input focus styles that are too subtle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091034Z" creationid="bakera" creationdate="20170929T091034Z">
+        <seg>•非常に分かりにくい入力フォーカススタイル。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「無償のNVDAスクリーンリーダー」が若干違和感ありだったので、「無償のスクリーンリーダーNVDA」としました。
 
@@ -2872,6 +2880,14 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Missing, invisible or unassociated labels and descriptions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091036Z" creationid="bakera" creationdate="20170929T091036Z">
+        <seg>•欠けていたり、非表示になっていたり、関連付けされていないラベルや説明。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 現在地表示を書き換えるのも簡単である、ということがいいたいのだと思うので、そのように調整しました。
 
 (太田) 訳というよりヘイドンさんの問題だと思いますが、移し変えると言われるとJSなどで移し変える処理をしなければならないような印象を受けます。たぶんそういうことではないはず。
@@ -2954,6 +2970,14 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170801T130356Z" creationid="rikiha" creationdate="20170731T135839Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;長文コンテンツの各セクションへのナビゲーションを提供できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Putting content that needs to be read &lt;g2&gt;first&lt;/g2&gt; last in the source.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091033Z" creationid="bakera" creationdate="20170929T091033Z">
+        <seg>•最初に読む必要のあるコンテンツをソースの最後に配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3566,6 +3590,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T104459Z" creationid="yoota" creationdate="20170908T104459Z">
         <seg>&lt;g1&gt;•&lt;/g1&gt;役に立たない、または誤解を与える代替テキスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;Uninteractive content in a &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; context that isn’t associated with form fields.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091038Z" creationid="bakera" creationdate="20170929T091038Z">
+        <seg>•フォームフィールドと関連付けられていない、&lt;form&gt;コンテキストの非インタラクティブなコンテンツ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8692,6 +8724,14 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>But by keeping the form simple and avoiding irritating experiences — like disappearing labels, and passwords that you cannot check — we’ve made sure using the form isn’t just possible but somewhat agreeable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091028Z" creationid="bakera" creationdate="20170929T091028Z">
+        <seg>しかし、フォームをシンプルに保ち、ラベルが消えたりパスワードをチェックできないといった不快な体験を回避することで、多少なりとも気持ち良く入力できるフォームにすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「ストリーミングできる」は違和感があったので調整しました。
 
@@ -9199,6 +9239,14 @@ buildingがどこにくっついているのかよくわかりません。元訳
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170501T144353Z" creationid="yoota" creationdate="20170420T100403Z">
         <seg>コンテンツブレイクポイントを採用すれば、手作業でテストできないものも含んだ非常に幅広いデバイスで、レイアウトをより確実に成立させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By exploring a specific form pattern, this chapter has given you most everything you need to develop inclusive forms in general.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091026Z" creationid="bakera" creationdate="20170929T091026Z">
+        <seg>この章では、特定のフォームパターンを検討することで、インクルーシブなフォームを開発するのに通常必要になることを説明しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13399,6 +13447,14 @@ a element ではなく elements であることに意味があるように思い
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If our form is for an online fantasy role-playing game, it might be tempting to relabel the field “Secret incantation,” “Spell of entry,” or maybe “Cryptic charm”; all more evocative than “Password” but in danger of leaving the user wondering what they’re really being asked for.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091014Z" creationid="bakera" creationdate="20170929T091014Z">
+        <seg>オンラインのファンタジーロールプレイングゲーム用のフォームであれば、このフィールドを「秘密の呪文」「扉を開く魔法の言葉」「謎のおまじない」などとラベル付けしたくなるかもしれません。どれも「パスワード」より示唆に富んだラベルですが、ユーザーは「いったい何をすればいいんだろう？」と戸惑う思う恐れがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本) ビルドはビルドとしか言いようがないですか？ 「製品内にユーザーを疎外する危険性があるためにビルドが失敗するとしたら」もよくわからない。
 
 (太田) ビルドはビルドでしょうね……。
@@ -17074,6 +17130,14 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170609T082227Z" creationid="yoota" creationdate="20170606T101131Z">
         <seg>キャプションを見ることができるということは、単純に「同じコンテンツを利用する別の方法」が増えるということです。より多くの人に使えるようにする、という観点だけで見ても、キャプションをつけるのは良い考えでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s by using standard form elements, effective labeling, and facilitating the correction of errors that a maximal number of users are able to access and contribute to your websites and apps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091027Z" creationid="bakera" creationdate="20170929T091027Z">
+        <seg>できるだけ多くのユーザーがWebサイトやアプリケーションにアクセスおよび関与できるようにするには、標準的なフォーム要素を使用し、効果的なラベル付けを行い、エラーを修正しやすくする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23999,6 +24063,14 @@ suffice to sayは「あえて言うなら」くらいのほうがしっくりく
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170602T090413Z" creationid="rikiha" creationdate="20170601T173053Z">
         <seg>例として以下の&lt;g1&gt;&lt;h2&gt;&lt;/g1&gt;見出しを見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the password label in our registration form, for example.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091013Z" creationid="bakera" creationdate="20170929T091013Z">
+        <seg>たとえば、登録フォームのパスワードラベルを考えてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31722,6 +31794,14 @@ OK</note>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T081410Z" creationid="okamoto_jun" creationdate="20170627T081410Z">
         <seg>いいよ、気にしないで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, not entirely &lt;g1&gt;dis&lt;/g1&gt;agreeable anyway!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T091030Z" creationid="bakera" creationdate="20170929T091030Z">
+        <seg>少なくとも、不愉快しか感じられないフォームになることはないでしょう！</seg>
       </tuv>
     </tu>
     <tu>
