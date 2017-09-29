@@ -6208,12 +6208,13 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
     </tu>
     <tu>
       <note>(太田)
-ここのtypeはtype属性のtype。</note>
+ここのtypeはtype属性のtype。
+意味的に「切り替えて戻す」のではなく「切り替えたり戻したりする」ということかと思います。</note>
       <tuv lang="EN-US">
         <seg>A short script simply toggles the field type from &lt;g1&gt;password&lt;/g1&gt; to &lt;g2&gt;text&lt;/g2&gt; and back again:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T083025Z" creationid="bakera" creationdate="20170929T083025Z">
-        <seg>短いスクリプトによって、フィールドのtypeを&lt;g1&gt;password&lt;/g1&gt;から&lt;g2&gt;text&lt;/g2&gt;に切り替え、再び戻します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T083115Z" creationid="bakera" creationdate="20170929T083025Z">
+        <seg>短い簡単なスクリプトで、フィールドのtypeを&lt;g1&gt;password&lt;/g1&gt;から&lt;g2&gt;text&lt;/g2&gt;に切り替えたり、戻したりします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19259,6 +19260,18 @@ prelearnedは使い慣れたということでいいのか。
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170922T073248Z" creationid="rikiha" creationdate="20170909T223909Z">
         <seg>JavaScriptの&lt;g3&gt;focus()&lt;/g3&gt;メソッドでフォーカスできるようにするには、最初の商品の&lt;g2&gt;&lt;h3&gt;&lt;/g2&gt;に&lt;g1&gt;tabindex="-1"&lt;/g1&gt;を適用する必要がある点に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+IEとEdgeにはパスワードを表示する機能がもともとあるので、それを殺すという話をしています。
+
+しかし、よりセキュアなネイティブの機能を殺して、セキュアでない独自実装のほうを生かそうとするのは、本当にどうかと思いますね。厳しい訳注を入れなければならないでしょう。</note>
+      <tuv lang="EN-US">
+        <seg>Note that Internet Explorer and Microsoft Edge provide this functionality natively, using an interactive eye icon associated with the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;::ms-reveal&lt;/g3&gt; pseudo-class&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;15&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T083558Z" creationid="bakera" creationdate="20170929T083558Z">
+        <seg>Internet ExplorerとMicrosoft Edgew@は、インタラクティブな目のアイコンを使って、この機能をネイティブで提供しています。&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;::ms-reveal&lt;/g3&gt;疑似クラス&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注186）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;と関連付けられている</seg>
       </tuv>
     </tu>
     <tu>
