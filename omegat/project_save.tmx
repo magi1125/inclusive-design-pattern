@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32357,12 +32357,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(岡本)　ご存知→ご存じ</note>
       <tuv lang="EN-US">
         <seg>You may be aware that there is an HTML5 &lt;g1&gt;required&lt;/g1&gt; attribute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T071802Z" creationid="bakera" creationdate="20170929T071802Z">
-        <seg>ご存知かもしれませんが、HTML5には&lt;g1&gt;required&lt;/g1&gt;属性があります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20170929T075412Z" creationid="bakera" creationdate="20170929T071802Z">
+        <seg>ご存じかもしれませんが、HTML5には&lt;g1&gt;required&lt;/g1&gt;属性があります。</seg>
       </tuv>
     </tu>
     <tu>
