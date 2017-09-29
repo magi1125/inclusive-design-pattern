@@ -8177,12 +8177,13 @@ hone は砥石でとぐような意味。
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+間違いではないですが語弊のある訳ですね。ステップの説明として、まずは「エラーがある」ということだけ伝えるように作り、どんなエラーでどう直すかを伝えるようにするのはあとで、ということです。
+調整しました。</note>
       <tuv lang="EN-US">
         <seg>At this point, all we want to communicate is the presence of errors and that they need attention.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T110756Z" creationid="bakera" creationdate="20170929T090737Z">
-        <seg>この時点でユーザーに伝えたいのは、エラーがあるので注意が必要だということだけです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T115121Z" creationid="bakera" creationdate="20170929T090737Z">
+        <seg>まずは、エラーがあるので注意が必要だ、ということだけユーザーに伝わるようにしてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
