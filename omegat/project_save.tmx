@@ -8339,12 +8339,12 @@ have you believe で「あなたに信じさせる」
       <note>(太田)
 「代用ラベル」で伝わるか?
 原文  the surrogate label 
-いったん「ラベルの代用品」としてみました。</note>
+前の文に「代用する」を入れて分かりやすくしてみました。</note>
       <tuv lang="EN-US">
         <seg>But that’s not the only problem: any sighted users interacting with the input will find the surrogate label disappears as soon as they start typing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T034016Z" creationid="bakera" creationdate="20170927T080617Z">
-        <seg>問題はそれだけではありません。目が見えているユーザーが入力する際、文字を打ち始めた瞬間に、このラベルの代用品は消えてしまいます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T034143Z" creationid="bakera" creationdate="20170927T080617Z">
+        <seg>問題はそれだけではありません。目が見えているユーザーが入力する際、文字を打ち始めた瞬間に、この代用ラベルは消えてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22475,12 +22475,13 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+次の文に備えて「代用する」を補いました。</note>
       <tuv lang="EN-US">
         <seg>Some screen readers and browsers do not support &lt;g1&gt;placeholder&lt;/g1&gt;, so using it to supplant a proper label will result in missing information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170927T075851Z" creationid="bakera" creationdate="20170927T070905Z">
-        <seg>スクリーンリーダーやブラウザの中には、&lt;g1&gt;placeholder&lt;/g1&gt;をサポートしないものもあります。そのため、適切なラベルの代わりにプレースホルダーを使うと、情報が失われることになってしまいます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T034106Z" creationid="bakera" creationdate="20170927T070905Z">
+        <seg>スクリーンリーダーやブラウザの中には、&lt;g1&gt;placeholder&lt;/g1&gt;をサポートしないものもあります。そのため、適切なラベルの代わりにプレースホルダーを使って代用すると、情報が失われることになってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
