@@ -22799,11 +22799,12 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 調整。1文が長いが致し方ないか。</note>
       <tuv lang="EN-US">
         <seg>Since it piggybacks a site’s own CSS, I had to be very careful about overriding certain styles for pseudo-content that would mess up the appearance and readability of the error messages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170929T222307Z" creationid="rikiha" creationdate="20170925T014554Z">
-        <seg>サイトのCSSに便乗しているため、エラーメッセージの見た目や読みやすさを台無しにしかねないpseudo-contentの特定スタイルの上書きに対し、非常に注意を払わなければなりませんでした。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170929T222658Z" creationid="rikiha" creationdate="20170925T014554Z">
+        <seg>サイトのCSSに便乗しているため、エラーメッセージの見た目や読みやすさを台無しにしかねないpseudo-contentの特定スタイルの上書きについて、非常に慎重にならねばなりませんでした。</seg>
       </tuv>
     </tu>
     <tu>
