@@ -25149,6 +25149,9 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>※画像alt
+(太田) OK
+</note>
       <tuv lang="EN-US">
         <seg>The left example shows the placeholder text in default gray.</seg>
       </tuv>
@@ -25745,9 +25748,15 @@ Equal to the computed value of font-size on the root element. When specified on 
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 少し調整
+      <note>※画像alt
 
-(岡本)　この図版の和訳とaltをお願いします。</note>
+(太田) 少し調整
+
+(岡本)　この図版の和訳とaltをお願いします。
+
+(太田)
+この文とひとつ前の分節がaltで、下の分節がキャプションです。
+図版内のpoor / betterは悪い例 / 良い例で良いかと思います。</note>
       <tuv lang="EN-US">
         <seg>The right uses a custom italic style with a darker color.</seg>
       </tuv>
