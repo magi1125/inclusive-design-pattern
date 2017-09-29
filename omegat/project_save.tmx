@@ -23128,11 +23128,13 @@ It is to be expected that WCAG is organized by principle.
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+調整。</note>
       <tuv lang="EN-US">
         <seg>That a &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt; in this context is not technically invalid or nonconforming might lead us to think it is the opposite: virtuous, correct — &lt;g2&gt;mandatory&lt;/g2&gt; even.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T042453Z" creationid="bakera" creationdate="20170929T042453Z">
-        <seg>今回の&lt;fieldset&gt;についても、技術的に無効でも不適合でもないなら、きちんとしていて正しい、さらには必須であるとさえ思う可能性があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T045455Z" creationid="bakera" creationdate="20170929T042453Z">
+        <seg>今回の&lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;の話でも、技術的に誤りでも不適合でもないということを、反対の意味に考えてしまいがちです。つまり、ぜひとも実施すべきである、さらには義務であるとさえ思う可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30940,11 +30942,12 @@ impossibleは「不可能になる」くらい強くしたいところ。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 微調整</note>
       <tuv lang="EN-US">
         <seg>When programming code day in and day out, we habituate ourselves to thinking of things as right or wrong, true or false.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T042448Z" creationid="bakera" creationdate="20170929T042448Z">
-        <seg>来る日も来る日もコードをプログラミングしていると、正しいか間違っているか、真実か偽りかで物事を考えるのに慣れてしまします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T044955Z" creationid="bakera" creationdate="20170929T042448Z">
+        <seg>来る日も来る日もコードを書いていると、正しいか間違っているか、真か偽かで物事を考えるのに慣れてしまします。</seg>
       </tuv>
     </tu>
     <tu>
