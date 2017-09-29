@@ -8338,12 +8338,13 @@ have you believe で「あなたに信じさせる」
     <tu>
       <note>(太田)
 「代用ラベル」で伝わるか?
-原文  the surrogate label </note>
+原文  the surrogate label 
+いったん「ラベルの代用品」としてみました。</note>
       <tuv lang="EN-US">
         <seg>But that’s not the only problem: any sighted users interacting with the input will find the surrogate label disappears as soon as they start typing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170927T080617Z" creationid="bakera" creationdate="20170927T080617Z">
-        <seg>問題はそれだけではありません。目が見えているユーザーが入力する際、文字を打ち始めた瞬間に、代用ラベルは消えてしまいます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T034016Z" creationid="bakera" creationdate="20170927T080617Z">
+        <seg>問題はそれだけではありません。目が見えているユーザーが入力する際、文字を打ち始めた瞬間に、このラベルの代用品は消えてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
