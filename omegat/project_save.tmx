@@ -5,11 +5,17 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>(太田)
+異常にわかりにくいですがたぶんこうです。リンク先もわかりにくいですが、
+aria-hidden
+aria-hidden="aria-hidden"
+aria-hidden="true"
+のうち最後の書き方をしているということだと思います。</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; Both &lt;g2&gt;aria-hidden="true"&lt;/g2&gt; and &lt;g3&gt;aria-required="true"&lt;/g3&gt; have explicit values rather than being written in the &lt;g4&gt;&lt;g5&gt;Boolean form that is possible with certain HTML5 attributes&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;13&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T071300Z" creationid="bakera" creationdate="20170929T071300Z">
-        <seg>（&lt;g1&gt;注：&lt;/g1&gt;&lt;g2&gt;aria-hidden="true"&lt;/g2&gt;と&lt;g3&gt;aria-required="true"&lt;/g3&gt;は、いずれも、&lt;g4&gt;&lt;g5&gt;特定のHTML5の属性で可能なブール型&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注184）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;ではなく、明示的に値を指定しています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T071548Z" creationid="bakera" creationdate="20170929T071300Z">
+        <seg>（&lt;g1&gt;注：&lt;/g1&gt;&lt;g2&gt;aria-hidden="true"&lt;/g2&gt;と&lt;g3&gt;aria-required="true"&lt;/g3&gt;は、いずれも&lt;g4&gt;&lt;g5&gt;特定のHTML5の属性で可能なブール型の記法&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注184）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;ではなく、明示的に値を指定しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27841,6 +27847,14 @@ http://www.w3.org/TR/wai-aria-1.1/#banner
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170619T030339Z" creationid="yoota" creationdate="20170619T020306Z">
         <seg>それを補強するために、適切に文章を書き、コンテキストに頼らなくても理解できるラベルを使うようにしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is correct for ARIA attributes and significantly more reliable.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T071343Z" creationid="bakera" creationdate="20170929T071343Z">
+        <seg>ARIA属性としてはこのほうが正確な書き方であり、信頼性がより高くなります。）</seg>
       </tuv>
     </tu>
     <tu>
