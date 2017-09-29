@@ -16076,7 +16076,7 @@ look at は学びましたというか考察しましたというか。
     <tu>
       <note>(太田)
 ひとまず調整。
-括弧内の (pattern matching) の言わんとするところがいまいちよくわからないですね。</note>
+括弧内の (pattern matching) の言わんとするところがいまいちよくわからないですね。JSの正規表現でチェックするということなのか、HTML5のpattern属性と同じことをする、と言っているのか。</note>
       <tuv lang="EN-US">
         <seg>In which case, we are going to rely on WAI-ARIA to indicate invalidity, with JavaScript for the actual validation (pattern matching).</seg>
       </tuv>
