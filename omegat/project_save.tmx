@@ -18137,6 +18137,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More correctly, placing &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-required="true"&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;12&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; on the input itself will announced “Required” in the set language of the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T062811Z" creationid="bakera" creationdate="20170929T062811Z">
+        <seg>より正確を期するなら、input自体に&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-required="true"&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注183）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;を指定することで、ページの言語で「必須」と読み上げられるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More on that shortly.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T090626Z" creationid="yoota" creationdate="20170515T090626Z">
