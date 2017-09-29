@@ -1786,12 +1786,14 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) CSSアクセシビリティテストツールだとCSSのアクセシビリティをチェックする感じに読めるので「製」と入れました。</note>
+      <note>(伊原) 「CSSアクセシビリティテストツール」だとCSSのアクセシビリティをチェックする感じに読めるので「製」と入れました。
+ところで、A11y.css使ってみましたが、説明のようになっていないような……。ヘイドンさんの勘違い？
+https://gyazo.com/dd21486f0ea340b07d52fa21f1bc3893</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;A11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; — a more advanced CSS accessibility testing tool by &lt;g6&gt;&lt;g7&gt;Gaël Poupard&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;13&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; — overcomes this by positioning each pseudo-content message at the top of the document and reveals it on hover.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170929T224044Z" creationid="rikiha" creationdate="20170925T014557Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;A11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注203）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;――&lt;g6&gt;&lt;g7&gt;ゲール・プパール（Gaël Poupard）&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注204）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;による、より高度なCSS製アクセシビリティテストツール――は、各pseudo-contentメッセージをドキュメント上部に配置し、カーソルを合わせると表示されるようにすることで、この問題を克服しています。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170929T225840Z" creationid="rikiha" creationdate="20170925T014557Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;A11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注203）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;――&lt;g6&gt;&lt;g7&gt;ゲール・プパール（Gaël Poupard）&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注204）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;による、より高度なCSS製アクセシビリティテストツール――は、各pseudo-contentメッセージをドキュメント先頭に配置し、マウスカーソルを合わせると表示されるようにすることで、この問題を克服しています。</seg>
       </tuv>
     </tu>
     <tu>
