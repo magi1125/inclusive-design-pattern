@@ -16063,6 +16063,17 @@ stillは無理に訳さなくても良い気がします。
     </tu>
     <tu>
       <note>(太田)
+「空の必須フィールドを最初から無効としてマーク」はわかりにくいですね。reqiredなフィールドが初期状態で空の時、それをエラーと扱うという話ですね。
+調整してみました。</note>
+      <tuv lang="EN-US">
+        <seg>It also tends to invoke an undesirable feature: marking empty required fields as invalid from the outset.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170929T073327Z" creationid="bakera" creationdate="20170929T073053Z">
+        <seg>また、望ましくない挙動になることもあります。初期状態で空になっている必須フィールドをエラーとして扱ってしまう、といった動作です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
 JAWSでのaria-controlsの読み上げは、緑本の時点で中根さんのJAWS14+Firefox on Win8.1で確認していただいていて、その時点では
 "use JAWS key + ALT + M to move to controlled element"
 と英語で読み上げられるとのことでした。
