@@ -11667,11 +11667,16 @@ coverは説明するというか触れている程度かもしれません。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。
+後半は言っていることが逆のような?
+(既にエラーになっているはずなので)
+</note>
       <tuv lang="EN-US">
         <seg>For fields now marked invalid, we could run our validation routine on each &lt;g2&gt;input&lt;/g2&gt; event, switching &lt;g3&gt;aria-invalid&lt;/g3&gt; from &lt;g4&gt;false&lt;/g4&gt; to &lt;g5&gt;true&lt;/g5&gt; where applicable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090908Z" creationid="bakera" creationdate="20170929T090908Z">
-        <seg>無効とマークされたフィールドについて、inputイベントごとに検証ルーチンを実行し、aria-invalidを適宜falseからtrueに切り替えます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T060003Z" creationid="bakera" creationdate="20170929T090908Z">
+        <seg>エラーとマークされたフィールドについて、&lt;g2&gt;input&lt;/g2&gt;イベントが発生するたびに検証ルーチンを実行し、&lt;g3&gt;aria-invalid&lt;/g3&gt;を適宜&lt;g4&gt;false&lt;/g4&gt;から&lt;g5&gt;true&lt;/g5&gt;に切り替えます。</seg>
       </tuv>
     </tu>
     <tu>
