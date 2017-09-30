@@ -32561,12 +32561,17 @@ formとformのジョーク。どうしたものか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田)
+訳としてはあっていると思います。
+しかしHTMLを宣言型言語と言われるのは強い違和感がありますね。XSLTが宣言型言語だといわれるなら、それはそうだと思いますが。
+ちなみにHTMLのテストならXML Schemaというのもありますよ……?</note>
       <tuv lang="EN-US">
         <seg>What if we could write similar tests for declarative languages like HTML?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T130937Z" creationid="rikiha" creationdate="20170925T014339Z">
-        <seg>では、HTMLのような宣言型言語向けに同様のテストを書けたらどうでしょう？</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T102152Z" creationid="rikiha" creationdate="20170925T014339Z">
+        <seg>では、HTMLのような宣言型言語向けに同様のテストを書けたとしたらどうでしょう？</seg>
       </tuv>
     </tu>
     <tu>
