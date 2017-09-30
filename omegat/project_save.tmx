@@ -518,12 +518,12 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
     </tu>
     <tu>
       <note>(太田)
-OK</note>
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;If content is king, then treat context like a queen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091004Z" creationid="bakera" creationdate="20170929T091004Z">
-        <seg>5.コンテンツが王であるなら、コンテキストは女王として扱いましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T075438Z" creationid="bakera" creationdate="20170929T091004Z">
+        <seg>5.コンテンツが王であるなら、コンテキストは女王です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6922,11 +6922,14 @@ HTMLがないとCSSやJSだけでは成立しないという話。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+原文に合わせて2文に。
+</note>
       <tuv lang="EN-US">
         <seg>All good advice, and I recommend you read the article in full.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091006Z" creationid="bakera" creationdate="20170929T091006Z">
-        <seg>どれも優れたアドバイスで、この記事の全文を読むことをお勧めしますが、中でも私が強調したいのはビルが唱える4つ目のポイントです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T075450Z" creationid="bakera" creationdate="20170929T091006Z">
+        <seg>どれも優れたアドバイスで、この記事の全文を読むことをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8950,11 +8953,14 @@ http://thesaurus.weblio.jp/content/試金石
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+原文に合わせて2文に。
+</note>
       <tuv lang="EN-US">
         <seg>But I’d like to emphasize Bill’s stipulation regarding point four:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091007Z" creationid="bakera" creationdate="20170929T091007Z">
-        <seg>どれも優れたアドバイスで、この記事の全文を読むことをお勧めしますが、中でも私が強調したいのはビルが唱える4つ目のポイントです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T075728Z" creationid="bakera" creationdate="20170929T091007Z">
+        <seg>しかし、私が強調したいのは、ビルが唱える4つ目のポイントです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34550,11 +34556,13 @@ esp. は especially の略記。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>“Your brand’s tone and voice are essential to consider when writing all of your copy, but it &lt;g1&gt;should not get in the way&lt;/g1&gt; of a user who is trying to take action.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091008Z" creationid="bakera" creationdate="20170929T091008Z">
-        <seg>ブランドのトーンや声は、コピーを書くときは必ず考慮する必要がありますが、行動を起こそうとしているユーザーの邪魔になってはいけません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T075718Z" creationid="bakera" creationdate="20170929T091008Z">
+        <seg>ブランドのトーンや声は、コピーを書くときに必ず考慮する必要がありますが、ユーザーが行動を起こそうとしている時は、&lt;g1&gt;邪魔をすべきではありません&lt;/g1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
