@@ -8924,7 +8924,9 @@ heading level oneは「見出しレベル1」ですね。
     </tu>
     <tu>
       <note>(太田)
-意訳気味に調整。</note>
+意訳気味に調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Browsers will not parse a combined block if it contains unrecognized, proprietary selectors.)</seg>
       </tuv>
@@ -24232,12 +24234,14 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
     <tu>
       <note>(太田)
 すこし調整。
-次の文に備えて「代用する」を補いました。</note>
+次の文に備えて「代用する」を補いました。
+
+(伊原) 代わりに→かわりに、としました。</note>
       <tuv lang="EN-US">
         <seg>Some screen readers and browsers do not support &lt;g1&gt;placeholder&lt;/g1&gt;, so using it to supplant a proper label will result in missing information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T034106Z" creationid="bakera" creationdate="20170927T070905Z">
-        <seg>スクリーンリーダーやブラウザの中には、&lt;g1&gt;placeholder&lt;/g1&gt;をサポートしないものもあります。そのため、適切なラベルの代わりにプレースホルダーを使って代用すると、情報が失われることになってしまいます。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T165917Z" creationid="bakera" creationdate="20170927T070905Z">
+        <seg>スクリーンリーダーやブラウザの中には、&lt;g1&gt;placeholder&lt;/g1&gt;をサポートしないものもあります。そのため、適切なラベルのかわりにプレースホルダーを使って代用すると、情報が失われることになってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
