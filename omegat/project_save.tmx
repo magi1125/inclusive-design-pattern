@@ -12820,6 +12820,7 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 突然話が飛んだ感。機能拡張内で赤字に白文字のスタイルをつけるセレクタの書き方を工夫しているという話のようですが、わかりづらい…。訳注かも。</note>
       <tuv lang="EN-US">
         <seg>However, thanks to the extension’s omission of the &lt;g1&gt;.has-ignorable-error&lt;/g1&gt; class, the most common unrecognized properties — browser prefixes — are not styled this way.</seg>
       </tuv>
