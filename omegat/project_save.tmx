@@ -504,8 +504,8 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Get out your own head and get to know the user.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T073335Z" creationid="bakera" creationdate="20170929T090945Z">
-        <seg>1.&lt;/g1&gt;自分自身で考えるのではなく、ユーザーを知るようにしましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T073411Z" creationid="bakera" creationdate="20170929T090945Z">
+        <seg>&lt;/g1&gt;自分自身で考えるのではなく、ユーザーのことを知るようにしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,11 +792,12 @@ http://www.w3.org/TR/WCAG20-TECHS/ARIA16.html
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;The user is a person.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090947Z" creationid="bakera" creationdate="20170929T090947Z">
-        <seg>2.ユーザーは人間です。それを念頭に彼らと話をしてみましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T073423Z" creationid="bakera" creationdate="20170929T090947Z">
+        <seg>&lt;/g1&gt;ユーザーは人間です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24511,11 +24512,15 @@ suffice to sayは「あえて言うなら」くらいのほうがしっくりく
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+何が言いたいのか。
+機械ではなく人として扱うという話?
+</note>
       <tuv lang="EN-US">
         <seg>Talk to them like one.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090948Z" creationid="bakera" creationdate="20170929T090948Z">
-        <seg>2.ユーザーは人間です。それを念頭に彼らと話をしてみましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T073450Z" creationid="bakera" creationdate="20170929T090948Z">
+        <seg>それを念頭に彼らと話をしてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
