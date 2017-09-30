@@ -8729,6 +8729,22 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T052816Z" creationid="Administrator" creationdate="20170930T052816Z">
+        <seg>ブログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T052800Z" creationid="Administrator" creationdate="20170930T052800Z">
+        <seg>書籍</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) 「NVDAとJAWSのユーザーは」とすると限定されているような印象がありますが、他のスクリーンリーダーもおおむね実装しているはずです。「NVDAやJAWSでは」としてみました。「ユーザーは」「スクリーンリーダーによって」は無くても分かり、日本語では無いほうが一般的のように思いますのでとりました。
 heading level oneは「見出しレベル1」ですね。
 
@@ -19068,6 +19084,14 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170929T090937Z" creationid="bakera" creationdate="20170929T090937Z">
         <seg>マイクロコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More From Smashing Magazine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T052835Z" creationid="Administrator" creationdate="20170930T052835Z">
+        <seg>Smashing Magazineのその他の書籍</seg>
       </tuv>
     </tu>
     <tu>
