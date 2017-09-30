@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26181,8 +26181,8 @@ jaw は動詞だとスラングで Impudent or abusive talk.
       <tuv lang="EN-US">
         <seg>The difference between this test-driven markup approach and standard automated accessibility testing is clear: whether using a CSS-based bookmarklet like &lt;g1&gt;&lt;g2&gt;a11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;16&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; or an advanced API like &lt;g6&gt;&lt;g7&gt;tenon.io&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;17&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;, generic errors are disclosed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020503Z" creationid="rikiha" creationdate="20170925T020503Z">
-        <seg>テスト駆動のマークアップ方法と標準的な自動化されたアクセシビリティテストの違いは明らかです。a11y.css（脚注207）などのCSSベースのブックマークレットを使用しても、tenon.io（脚注208）などの高度なAPIを使用しても、一般的なエラーが明らかになります。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T043305Z" creationid="rikiha" creationdate="20170925T020503Z">
+        <seg>このテスト駆動マークアップのアプローチと、標準的な自動アクセシビリティテストとの違いははっきりしています。&lt;g1&gt;&lt;g2&gt;a11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注207）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのCSSベースのブックマークレットを使っても、&lt;g6&gt;&lt;g7&gt;tenon.io&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注208）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;などの高度なAPIを使っても、一般的なエラーが明らかになります。</seg>
       </tuv>
     </tu>
     <tu>
