@@ -13776,11 +13776,19 @@ a element ではなく elements であることに意味があるように思い
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ロールプレイングゲームはむしろRPGとするほうが一般的なのでそのように。
+
+「扉を開く魔法の言葉」は若干ダサくて雰囲気がないので何とかしたいところ。incantation と spell と charm はここではすべて呪文の意味で、訳し分けるのはしんどいですね。一般的には spell が「呪文」と訳されると思います。
+「秘密の合言葉」「解錠の呪文」「神秘のまじない」くらい?
+まあ、なんでもいいので元訳のままでもいいのですが。
+「神秘のまじない」→「神秘の祝詞」のほうがかっこいいのでそうしてみました。
+</note>
       <tuv lang="EN-US">
         <seg>If our form is for an online fantasy role-playing game, it might be tempting to relabel the field “Secret incantation,” “Spell of entry,” or maybe “Cryptic charm”; all more evocative than “Password” but in danger of leaving the user wondering what they’re really being asked for.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091014Z" creationid="bakera" creationdate="20170929T091014Z">
-        <seg>オンラインのファンタジーロールプレイングゲーム用のフォームであれば、このフィールドを「秘密の呪文」「扉を開く魔法の言葉」「謎のおまじない」などとラベル付けしたくなるかもしれません。どれも「パスワード」より示唆に富んだラベルですが、ユーザーは「いったい何をすればいいんだろう？」と戸惑う思う恐れがあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T081934Z" creationid="bakera" creationdate="20170929T091014Z">
+        <seg>もしこのフォームが、オンラインファンタジーRPGのものだったなら、このフィールドを「秘密の合言葉」「解錠の呪文」「神秘の祝詞」などとラベル付けしたくなるかもしれません。どれも「パスワード」より示唆に富んだラベルですが、ユーザーには実際に何をきかれているのかわからず、さまよい続けることになる危険性があります。</seg>
       </tuv>
     </tu>
     <tu>
