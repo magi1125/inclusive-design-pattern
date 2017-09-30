@@ -29528,12 +29528,14 @@ enhancementは拡張としてきましたが、わかりにくいのでここで
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) Thisがわかりにくかったので補いました。</note>
+      <note>(伊原) Thisがわかりにくかったので補いました。
+
+(太田) すこし調整。</note>
       <tuv lang="EN-US">
         <seg>This is our opportunity to stop that from happening.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T000020Z" creationid="rikiha" creationdate="20170925T014441Z">
-        <seg>テストを書くことは、そうした問題が起こるのを防ぐ良い機会です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T111426Z" creationid="rikiha" creationdate="20170925T014441Z">
+        <seg>テストを書くことは、そうした問題を防ぐ良い機会になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33625,7 +33627,9 @@ descriptive説明的でいいのか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) よくありますとは言ってないような。調整しました。</note>
+      <note>(伊原) よくありますとは言ってないような。調整しました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>With relatively complex patterns like tab interfaces, it’s easy to slip up and miss out or badly form part of the structure.</seg>
       </tuv>
