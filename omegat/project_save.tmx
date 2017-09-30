@@ -22378,7 +22378,9 @@ wouldなので語尾を「ことがあります」としました。
     </tu>
     <tu>
       <note>(伊原) 微調整。
-うーん、これ、わかりやすくなってるんでしょうかw</note>
+うーん、これ、わかりやすくなってるんでしょうかw
+
+</note>
       <tuv lang="EN-US">
         <seg>Rewritten in JavaScript:</seg>
       </tuv>
@@ -26804,12 +26806,13 @@ there’s no need はどこにもないというような強い印象なので�
       <note>(伊原) 微妙に誤訳っぽいので調整。
 
 (太田)
-いったん保留</note>
+これはたぶん、前のほうの「セレクタにはロジックがある」の説明の続きです。たぶんこうかなと。
+</note>
       <tuv lang="EN-US">
         <seg>The inherent logic of CSS selectors becomes clear when you reimagine selectors in JavaScript syntax.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T221510Z" creationid="rikiha" creationdate="20170925T014355Z">
-        <seg>JavaScript構文でセレクタで考え直してみると、CSSセレクタ固有のロジックが明確になります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T104707Z" creationid="rikiha" creationdate="20170925T014355Z">
+        <seg>CSSセレクタがロジックを内包していることはがよくわかります。</seg>
       </tuv>
     </tu>
     <tu>
