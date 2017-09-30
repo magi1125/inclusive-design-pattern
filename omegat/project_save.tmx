@@ -4359,6 +4359,7 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 下訳を反映しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g46&gt;ERROR&lt;/g46&gt;&lt;g47&gt;:&lt;/g47&gt; &lt;g48&gt;"Each tabpanel needs to have the explicit tabpanel WAI-ARIA role to be correctly associated with the tablist that controls it."&lt;/g48&gt;&lt;g49&gt;;&lt;/g49&gt;
 &lt;g50&gt;}&lt;/g50&gt;
@@ -4630,6 +4631,14 @@ Price:　→価格：</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T101821Z" creationid="yoota" creationdate="20170515T101821Z">
         <seg>&lt;g53&gt;&lt;g54&gt;&lt;g55&gt;&lt;&lt;/g55&gt;h1&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g53&gt;インクルーシブなブログ記事のマークアップ方法&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;h1&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g53&gt;ERROR&lt;/g53&gt;&lt;g54&gt;:&lt;/g54&gt; &lt;g55&gt;"The first element after the tablist should be a tab panel with the tabpanel WAI-ARIA role.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T040741Z" creationid="Administrator" creationdate="20170930T040617Z">
+        <seg>&lt;g53&gt;ERROR&lt;/g53&gt;&lt;g54&gt;:&lt;/g54&gt; &lt;g55&gt;"tablist直後の最初の要素は、tabpanel WAI-ARIAロールが指定されたタブパネルであるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22411,6 +22420,34 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100918Z" creationid="okamoto_jun" creationdate="20170627T100918Z">
         <seg>スクリーンリーダーユーザーの中には、重度の視覚障害のある人や、障害がなくても、合成音声でWebページを読み上げるとわかりやすくなるという人などが含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen reader users must be able to move directly into the open tab panel from the selected tab."&lt;/g55&gt;&lt;g56&gt;;&lt;/g56&gt;
+&lt;g57&gt;}&lt;/g57&gt;
+
+&lt;g58&gt;.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
+[role="tablist"] li:not([role="presentation"]),
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]),[role="tabpanel"]:not([aria-labelledby^="tab"]),
+[role="tablist"] ~ div:not([role="tabpanel"]),
+[role="tablist"] + div:not([role="tabpanel"])
+&lt;/g58&gt;&lt;g59&gt;{&lt;/g59&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T040627Z" creationid="Administrator" creationdate="20170930T040627Z">
+        <seg>スクリーンリーダーユーザーが、選択されたタブから開いたタブパネルに直接移動できる必要があります。"&lt;/g55&gt;&lt;g56&gt;;&lt;/g56&gt;
+&lt;g57&gt;}&lt;/g57&gt;
+
+&lt;g58&gt;.tab-interface ul:not([role="tablist"]),
+[role="tablist"] a:not([role="tab"]),
+[role="tablist"] li:not([role="presentation"]),
+[role="tablist"] a[aria-selected][tabindex="-1"],
+[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]),[role="tabpanel"]:not([aria-labelledby^="tab"]),
+[role="tablist"] ~ div:not([role="tabpanel"]),
+[role="tablist"] + div:not([role="tabpanel"])
+&lt;/g58&gt;&lt;g59&gt;{&lt;/g59&gt;</seg>
       </tuv>
     </tu>
     <tu>
