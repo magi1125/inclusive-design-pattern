@@ -12066,12 +12066,12 @@ For thatは「その実現」としてみました。
     </tu>
     <tu>
       <note>(太田)
-for this purpose はなくてもわかるのでとりました。</note>
+少し調整。</note>
       <tuv lang="EN-US">
         <seg>For this purpose we can provide an accompanying description.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T050708Z" creationid="bakera" creationdate="20170929T090844Z">
-        <seg>説明を付け加えてみましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T050810Z" creationid="bakera" creationdate="20170929T090844Z">
+        <seg>そうならないように、説明を付け加えてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16174,6 +16174,9 @@ look at は学びましたというか考察しましたというか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+not acceptable を invalid と訳し分けるべきか。
+</note>
       <tuv lang="EN-US">
         <seg>In this case, the password is not acceptable because it is fewer than six characters long.</seg>
       </tuv>
