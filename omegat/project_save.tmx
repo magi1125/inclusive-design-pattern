@@ -11507,7 +11507,9 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
 調整してみました。
 
 (岡本)
-関連付け→関連づけ</note>
+関連付け→関連づけ
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For elements that accept user input like text inputs, an auxiliary label must be associated with it.</seg>
       </tuv>
@@ -25030,12 +25032,14 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) 動詞に。</note>
       <tuv lang="EN-US">
         <seg>That is, when you focus the button, “Register” is announced as the label.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T082406Z" creationid="bakera" creationdate="20170926T082129Z">
-        <seg>つまり、このボタンにフォーカスを合わせると、「登録」というラベルが読み上げられます。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T162649Z" creationid="bakera" creationdate="20170926T082129Z">
+        <seg>つまり、このボタンにフォーカスを合わせると、「登録する」というラベルが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
