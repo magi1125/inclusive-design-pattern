@@ -459,7 +459,9 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
     </tu>
     <tu>
       <note>(太田)
-意訳気味に調整。</note>
+意訳気味に調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Can you think of a &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; that would make sense or aid comprehension if used with each of the &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;’s field labels?</seg>
       </tuv>
@@ -4607,6 +4609,7 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;Yes?&lt;/g4&gt; Use a &lt;g5&gt;&lt;fieldset&gt;&lt;/g5&gt;.</seg>
       </tuv>
@@ -4961,6 +4964,7 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g6&gt;No?&lt;/g6&gt; Don’t use a &lt;g7&gt;&lt;fieldset&gt;&lt;/g7&gt;.</seg>
       </tuv>
