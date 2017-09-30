@@ -1034,6 +1034,7 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 下訳を反映しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"&lt;a&gt; elements within the tablist need to each have the WAI-ARIA tab role to be counted as tabs in assistive technologies."&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
 &lt;g15&gt;}&lt;/g15&gt;
@@ -1357,11 +1358,12 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 下訳を反映しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g18&gt;ERROR&lt;/g18&gt;&lt;g19&gt;:&lt;/g19&gt; &lt;g20&gt;"Remove the &lt;li&gt; semantics with the WAI-ARIA presentation role.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T033324Z" creationid="Administrator" creationdate="20170930T032144Z">
-        <seg>&lt;g18&gt;ERROR&lt;/g18&gt;&lt;g19&gt;:&lt;/g19&gt; &lt;g20&gt;"&lt;li&gt;のセマンティクスをWAI-ARIA presentationロールで取り除いてください。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T033819Z" creationid="Administrator" creationdate="20170930T032144Z">
+        <seg>&lt;g18&gt;ERROR&lt;/g18&gt;&lt;g19&gt;:&lt;/g19&gt; &lt;g20&gt;"WAI-ARIA presentationロールで&lt;li&gt;のセマンティクスを取り除いてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28364,8 +28366,8 @@ break up は分割というより解消、解体に近い意味かも。
 
 &lt;g30&gt;[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]) &lt;/g30&gt;&lt;g31&gt;{&lt;/g31&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T033554Z" creationid="Administrator" creationdate="20170930T033554Z">
-        <seg>ユーザーはこのタブだけに移動できなければなりません。"&lt;/g27&gt;&lt;g28&gt;;&lt;/g28&gt;
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T034103Z" creationid="Administrator" creationdate="20170930T033554Z">
+        <seg>ユーザーはこのタブだけにはフォーカスを移動できるはずです。"&lt;/g27&gt;&lt;g28&gt;;&lt;/g28&gt;
 &lt;g29&gt;}&lt;/g29&gt;
 
 &lt;g30&gt;[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]) &lt;/g30&gt;&lt;g31&gt;{&lt;/g31&gt;</seg>
@@ -32890,6 +32892,7 @@ integratedは統合された?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 下訳を反映しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>Where the tab interface is instated, these semantics are irrelevant."&lt;/g20&gt;&lt;g21&gt;;&lt;/g21&gt;
 &lt;g22&gt;}&lt;/g22&gt;
