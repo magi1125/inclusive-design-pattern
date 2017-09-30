@@ -21336,7 +21336,9 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) こういうことでしょうか。</note>
+      <note>(伊原) こういうことでしょうか。
+
+ちなみに下記のコード例のエラーに""が入っているのは何故だろう。引用符は要らない的な話をしていた記憶が。</note>
       <tuv lang="EN-US">
         <seg>Our tab interface pattern should now have a &lt;g1&gt;tab-interface.css&lt;/g1&gt; file and, in an effort to establish a naming convention, an accompanying &lt;g2&gt;tab-interface.test.css&lt;/g2&gt; file — something like this:</seg>
       </tuv>
