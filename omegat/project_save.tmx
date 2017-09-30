@@ -36586,12 +36586,19 @@ sentは「飛ばされる」としました。
     <tu>
       <prop type="file">chapter-27.html</prop>
       <prop type="id">tu3_0</prop>
-      <note>(伊原) with to withで若干こんがらがりつつも、allows (developers working with frequent iterations to move forward with confidence) として、そのように調整。TDD自体が反復作業を誘発するはずなので、これでよさそうな。</note>
+      <note>(伊原) with to withで若干こんがらがりつつも、allows (developers working with frequent iterations to move forward with confidence) として、そのように調整。TDD自体が反復作業を誘発するはずなので、これでよさそうな。
+
+(太田)
+「自信をもって進めるために頻繁なイテレーションを行う」と言っているように読めます。TDDの利点は、常にコードが正しい (少なくともテストを通る) ことが保証された状態になるということで、「自信を持つことが目的」と言っているのだと思います。
+confidenceをどうするか難しいですね。コードの信頼性を担保するというような話だと思うので、
+「コードの信頼性を担保しながら開発を進めるために」
+としてみました。
+ここのイテレーションはデプロイの反復みたいな意味なので、まあそのままイテレーションですかね。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;Test-driven development&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (TDD) allows developers working with frequent iterations to move forward with confidence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T023135Z" creationid="rikiha" creationdate="20170925T014150Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;テスト駆動開発（TDD）&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注193）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;により、開発者は頻繁にイテレーションを行いながら、自信を持って前進できるようになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T085150Z" creationid="rikiha" creationdate="20170925T014150Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;テスト駆動開発（TDD）&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注193）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;では、コードの信頼性を担保しながら開発を進めるために、開発者は頻繁にイテレーションを行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
