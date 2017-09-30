@@ -27533,11 +27533,12 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ダッシュを活かしつつ微調整。</note>
       <tuv lang="EN-US">
         <seg>The tests written here ensure that &lt;g3&gt;my&lt;/g3&gt; implementation — my specific pattern — is structured in the prescribed way.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020512Z" creationid="rikiha" creationdate="20170925T020512Z">
-        <seg>本章で書いたテストは、私の実装（私の特定のパターン）が所定の構造になっていることを確認するためのものです。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T044757Z" creationid="rikiha" creationdate="20170925T020512Z">
+        <seg>ここで書いたテストは、&lt;g3&gt;私&lt;/g3&gt;の実装――私ならではのパターン――が所定の構造になっていることを確認するためのものです。</seg>
       </tuv>
     </tu>
     <tu>
