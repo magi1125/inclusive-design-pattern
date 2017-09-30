@@ -15134,11 +15134,15 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。
+failing は「離脱」としました。
+</note>
       <tuv lang="EN-US">
         <seg>In forms, where labels and instructions mean the difference between succeeding to complete a form and failing, we need to take extra care — especially if the site we’re developing provides a crucial service, such as registering to vote.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090941Z" creationid="bakera" creationdate="20170929T090941Z">
-        <seg>フォームを最後まで入力してもらえるかどうかはラベルと指示で決まるので、特に開発中のサイトが投票用の登録といった重要なサービスを提供している場合は、十分に注意しなければなりません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T072832Z" creationid="bakera" creationdate="20170929T090941Z">
+        <seg>ラベルや操作指示の出来によって、フォームを最後まで入力してもらえるか、離脱されてしまうかが大きく左右されます。特に、投票に必要な登録など重大なサービスを開発している場合は、十分に注意しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
