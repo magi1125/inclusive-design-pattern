@@ -23773,12 +23773,14 @@ http://ejje.weblio.jp/content/overkill</note>
 (太田)
 wouldなので弱めに調整。
 
-しかし、よりセキュアなネイティブの機能を殺して、セキュアでない独自実装のほうを生かそうとするのは、まったく賛同できません。厳しい訳注を入れなければならないでしょう。</note>
+しかし、よりセキュアなネイティブの機能を殺して、セキュアでない独自実装のほうを生かそうとするのは、まったく賛同できません。厳しい訳注を入れなければならないでしょう。
+
+(伊原) のソリューション→ソリューション</note>
       <tuv lang="EN-US">
         <seg>Since we’ve provided our own (cross-browser) solution, it would be wise to suppress this feature:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T083905Z" creationid="bakera" creationdate="20170929T083905Z">
-        <seg>ここでは、独自の（クロスブラウザ）のソリューションを提供しているので、この機能は抑制した方が賢明かもしれません。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T225823Z" creationid="bakera" creationdate="20170929T083905Z">
+        <seg>ここでは、独自の（クロスブラウザ）ソリューションを提供しているので、この機能は抑制した方が賢明かもしれません。</seg>
       </tuv>
     </tu>
     <tu>
