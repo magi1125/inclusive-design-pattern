@@ -9918,11 +9918,13 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>Certainly, without one it won’t be immediately obvious when the field has become valid or invalid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090931Z" creationid="bakera" creationdate="20170929T090931Z">
-        <seg>確かに、フィードバックがなければ、フィールドが有効または無効になったことを即座に知ることはできません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T071025Z" creationid="bakera" creationdate="20170929T090931Z">
+        <seg>確かに、フィードバックがなければ、入力されている内容が有効なものなのか、エラーなのかを即座に知ることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13016,11 +13018,15 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ざっくり調整。
+atia-invalid が set to "true" で be told it is valid と言っているのはおかしいと思いますが、後者をざっくりと「有効かどうか」として調整しました。
+</note>
       <tuv lang="EN-US">
         <seg>However, since the &lt;g1&gt;aria-invalid&lt;/g1&gt; attribute will have been set to &lt;g2&gt;true&lt;/g2&gt; regardless, when the user blurs and refocuses the field, they will be told it is valid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090933Z" creationid="bakera" creationdate="20170929T090933Z">
-        <seg>しかし、それに関係なくaria-invalid属性はtrueに設定されるので、ユーザーがフィールドから離れて再度フォーカスを合わせたとき、有効であることが知らされます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T071321Z" creationid="bakera" creationdate="20170929T090933Z">
+        <seg>しかし、それとは別に&lt;g1&gt;aria-invalid&lt;/g1&gt;属性も&lt;g2&gt;true&lt;/g2&gt;に設定されるでしょうから、ユーザーがフィールドから離れて再度フォーカスを合わせれば、入力内容が有効かどうか知ることができます。</seg>
       </tuv>
     </tu>
     <tu>
