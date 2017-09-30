@@ -34692,7 +34692,9 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
     </tu>
     <tu>
       <note>(太田)
-ひどいエラーメッセージですがこれはあとで直すのでしょうね。</note>
+ひどいエラーメッセージですがこれはあとで直すのでしょうね。
+
+(伊原) ww 訳OK</note>
       <tuv lang="EN-US">
         <seg>event&lt;g21&gt;.&lt;/g21&gt;preventDefault&lt;g22&gt;(&lt;/g22&gt;&lt;g23&gt;)&lt;/g23&gt;&lt;g24&gt;;&lt;/g24&gt; &lt;g25&gt;// do not submit
 &lt;/g25&gt;        document&lt;g26&gt;.&lt;/g26&gt;getElementById&lt;g27&gt;(&lt;/g27&gt;&lt;g28&gt;'error'&lt;/g28&gt;&lt;g29&gt;)&lt;/g29&gt;&lt;g30&gt;.&lt;/g30&gt;textContent &lt;g31&gt;=&lt;/g31&gt; &lt;g32&gt;'Please make sure all your registration information is correct.'&lt;/g32&gt;</seg>
