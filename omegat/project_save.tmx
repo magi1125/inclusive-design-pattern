@@ -22401,7 +22401,9 @@ Good!</note>
     </tu>
     <tu>
       <note>(太田)
-rememberを訳出。</note>
+rememberを訳出。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Remember that users can (and will!) zoom their content.</seg>
       </tuv>
@@ -23620,7 +23622,9 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
     <tu>
       <note>(太田)
 少し調整。
-エラーが出るのはsubmitした瞬間であり、そのときユーザーはsubmitボタンを見ているはず、という話ですね。</note>
+エラーが出るのはsubmitした瞬間であり、そのときユーザーはsubmitボタンを見ているはず、という話ですね。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Since the submit button is where the user is looking and working, this does the best job of bringing the error to their attention.</seg>
       </tuv>
@@ -28665,7 +28669,9 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Therefore, an error which appears above the form may not even appear within the current viewport.</seg>
       </tuv>
