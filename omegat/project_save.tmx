@@ -34683,6 +34683,19 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) コメントを訳しました。</note>
+      <tuv lang="EN-US">
+        <seg>event&lt;g21&gt;.&lt;/g21&gt;preventDefault&lt;g22&gt;(&lt;/g22&gt;&lt;g23&gt;)&lt;/g23&gt;&lt;g24&gt;;&lt;/g24&gt; &lt;g25&gt;// do not submit
+&lt;/g25&gt;    &lt;g26&gt;}&lt;/g26&gt;
+&lt;g27&gt;}&lt;/g27&gt;&lt;g28&gt;)&lt;/g28&gt;&lt;g29&gt;;&lt;/g29&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T231147Z" creationid="Administrator" creationdate="20170930T231147Z">
+        <seg>event&lt;g21&gt;.&lt;/g21&gt;preventDefault&lt;g22&gt;(&lt;/g22&gt;&lt;g23&gt;)&lt;/g23&gt;&lt;g24&gt;;&lt;/g24&gt; &lt;g25&gt;// 送信しない
+&lt;/g25&gt;    &lt;g26&gt;}&lt;/g26&gt;
+&lt;g27&gt;}&lt;/g27&gt;&lt;g28&gt;)&lt;/g28&gt;&lt;g29&gt;;&lt;/g29&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>it&lt;g29&gt;(&lt;/g29&gt;&lt;g30&gt;'should give 4 when adding 3 to 1'&lt;/g30&gt;&lt;g31&gt;,&lt;/g31&gt; &lt;g32&gt;function&lt;/g32&gt;&lt;g33&gt;(&lt;/g33&gt;&lt;g34&gt;)&lt;/g34&gt; &lt;g35&gt;{&lt;/g35&gt;</seg>
       </tuv>
