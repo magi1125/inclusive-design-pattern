@@ -1360,8 +1360,8 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       <tuv lang="EN-US">
         <seg>&lt;g18&gt;ERROR&lt;/g18&gt;&lt;g19&gt;:&lt;/g19&gt; &lt;g20&gt;"Remove the &lt;li&gt; semantics with the WAI-ARIA presentation role.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T032144Z" creationid="Administrator" creationdate="20170930T032144Z">
-        <seg>&lt;g18&gt;ERROR&lt;/g18&gt;&lt;g19&gt;:&lt;/g19&gt; &lt;g20&gt;"WAI-ARIA presentationロールで&lt;li&gt;のセマンティクスを取り除いてください。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T033324Z" creationid="Administrator" creationdate="20170930T032144Z">
+        <seg>&lt;g18&gt;ERROR&lt;/g18&gt;&lt;g19&gt;:&lt;/g19&gt; &lt;g20&gt;"&lt;li&gt;のセマンティクスをWAI-ARIA presentationロールで取り除いてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32873,8 +32873,8 @@ integratedは統合された?
 
 &lt;g23&gt;[role="tablist"] a[aria-selected][tabindex="-1"] &lt;/g23&gt;&lt;g24&gt;{&lt;/g24&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T032400Z" creationid="Administrator" creationdate="20170930T032400Z">
-        <seg>タブインターフェイスとなっている場合、このセマンティクスは不適切です。"&lt;/g20&gt;&lt;g21&gt;;&lt;/g21&gt;
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T033341Z" creationid="Administrator" creationdate="20170930T032400Z">
+        <seg>タブインターフェイスである場合、このセマンティクスは不適切です。"&lt;/g20&gt;&lt;g21&gt;;&lt;/g21&gt;
 &lt;g22&gt;}&lt;/g22&gt;
 
 &lt;g23&gt;[role="tablist"] a[aria-selected][tabindex="-1"] &lt;/g23&gt;&lt;g24&gt;{&lt;/g24&gt;</seg>
