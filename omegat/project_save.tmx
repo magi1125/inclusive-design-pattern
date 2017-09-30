@@ -15473,11 +15473,13 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>In our case, we need to set this to be slightly shorter than what we imagine is the average interval between keystrokes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090921Z" creationid="bakera" creationdate="20170929T090921Z">
-        <seg>今回は、平均的なキーストロークの間隔と思われる時間よりもわずかに短くなるように設定する必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T065121Z" creationid="bakera" creationdate="20170929T090921Z">
+        <seg>今回は、想定される平均的なキーストローク間隔よりもわずかに短くなるように設定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
