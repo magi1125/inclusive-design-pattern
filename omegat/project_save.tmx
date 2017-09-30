@@ -23527,7 +23527,12 @@ overkillはHPだがどうするか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 前後の文のつながりが若干わかりにくいので、いったん2文に分けてみました。</note>
+      <note>(伊原) 前後の文のつながりが若干わかりにくいので、いったん2文に分けてみました。
+
+(太田)
+このSinceは何を言っているのか。
+前半が後半の理由というわけではないっぽい。
+いったん保留。</note>
       <tuv lang="EN-US">
         <seg>Since well-formed markup is a big contributor to web accessibility, a kind of TDD for markup can keep us from building uninclusive patterns.</seg>
       </tuv>
@@ -28111,12 +28116,14 @@ explicitはlabelではなくactionについているような。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 前段落を受けると、as we write it as well はテストを書くことかなと。</note>
+      <note>(伊原) 前段落を受けると、as we write it as well はテストを書くことかなと。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Then we could ensure the correct &lt;g1&gt;structure of markup&lt;/g1&gt; as we write it as well.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T132844Z" creationid="rikiha" creationdate="20170925T014340Z">
-        <seg>そうであれば、同様にテストを書くことでマークアップの構造の正しさを保証できます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T102246Z" creationid="rikiha" creationdate="20170925T014340Z">
+        <seg>そうであれば、同様にテストを書くことで&lt;g1&gt;マークアップの構造&lt;/g1&gt;の正しさを保証できます。</seg>
       </tuv>
     </tu>
     <tu>
