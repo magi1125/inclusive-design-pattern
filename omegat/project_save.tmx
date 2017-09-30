@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32962,12 +32962,14 @@ enhanceを拡張としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) </note>
+      <note>(伊原) こういうことでしょうか。以下のような解釈です。
+
+you will have taken the opportunity — via the error message — to explain (your decision-making) and (how the structure( you’ve chosen makes the markup inclusive)).</note>
       <tuv lang="EN-US">
         <seg>Where an error does emerge, you will have taken the opportunity — via the error message — to explain your decision-making and how the structure you’ve chosen makes the markup inclusive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T051546Z" creationid="rikiha" creationdate="20170925T020519Z">
-        <seg>エラーが発生した場合は、自分の意思決定と、選んだ構造がどのようにマークアップをインクルーシブにするかを――そのエラーメッセージを用いて――解説するチャンスを得たということなのです。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T052058Z" creationid="rikiha" creationdate="20170925T020519Z">
+        <seg>エラーが発生した場合は、自分の意思決定と、マークアップをインクルーシブにするべく選んだ構造がどのようなものかを――そのエラーメッセージを用いて――解説するチャンスを得たということなのです。</seg>
       </tuv>
     </tu>
     <tu>
