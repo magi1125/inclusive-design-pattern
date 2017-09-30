@@ -36648,12 +36648,16 @@ Chaiはそれ自体がアサーションライブラリであるため、その�
       <prop type="file">chapter-27.html</prop>
       <prop type="id">tu4_0</prop>
       <note>(伊原) 関数と戻り値なのかなーと思いつつも、それに限定されない気もするので、機能と生成としました。TDDにあまり詳しくないのでこのあたり微妙。フォローいただければと。
+
+(太田)
+おっしゃる通り、このfunctionは関数だと思います。
+ざっくり意訳気味に調整しました。
 </note>
       <tuv lang="EN-US">
         <seg>In application development, tests are usually written against functions and what those functions are expected to produce.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T122901Z" creationid="rikiha" creationdate="20170925T014213Z">
-        <seg>アプリケーション開発では通常、機能と、その機能が生成すると予想されるものに対してテストが書かれます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T090440Z" creationid="rikiha" creationdate="20170925T014213Z">
+        <seg>アプリケーション開発では通常、関数に対してテストを書き、それらの関数が予期したとおりの結果を返しているかどうかを確認します。</seg>
       </tuv>
     </tu>
   </body>
