@@ -15993,7 +15993,9 @@ robustlyは「堅牢な方法で」としてみました。
     <tu>
       <note>(太田)
 theを訳出しないと意味が分かりにくいですね。
-調整してみました。</note>
+調整してみました。
+
+(伊原) パスワード欄の話なので、暗号？となりました。かぎとか符号とかではどうでしょうか？</note>
       <tuv lang="EN-US">
         <seg>In the case of the password input, the agreed cipher — the matching content of the &lt;g1&gt;for&lt;/g1&gt; and &lt;g2&gt;id&lt;/g2&gt; values — is simply “password”:</seg>
       </tuv>
@@ -33262,7 +33264,9 @@ NVDA2017.3jaでは「正しくない入力内容」と読みました。
     </tu>
     <tu>
       <note>(太田)
-ふたつめの理由っぽく調整。</note>
+ふたつめの理由っぽく調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>When they are not, you would fail WCAG’s &lt;g6&gt;&lt;g7&gt;4.1.1 Parsing&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;6&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; rule.</seg>
       </tuv>
