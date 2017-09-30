@@ -25028,11 +25028,13 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+cipherを暗号とするのは訳としては正しいのですが、これはどちらかいえばHPなのでどうしたものかなと。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;#password-hint&lt;/g1&gt; element is connected to the input using the &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;18&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; attribute and the &lt;g8&gt;password-hint&lt;/g8&gt; &lt;g9&gt;id&lt;/g9&gt; as a cipher.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090851Z" creationid="bakera" creationdate="20170929T090851Z">
-        <seg>#password-hint要素が、aria-describedby（脚注189）属性とpassword-hint idを暗号として使用して、入力に接続されています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T051426Z" creationid="bakera" creationdate="20170929T090851Z">
+        <seg>&lt;g1&gt;#password-hint&lt;/g1&gt;要素が、&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注189）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;属性と&lt;g8&gt;password-hint&lt;/g8&gt; &lt;g9&gt;id&lt;/g9&gt;を暗号として使用して、入力に接続されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26968,8 +26970,8 @@ password input は「パスワード入力欄」かと。
       <tuv lang="EN-US">
         <seg>The password input with error message directly below in red text, prefixed by a warning symbol.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T051236Z" creationid="bakera" creationdate="20170929T090847Z">
-        <seg>パスワード入力欄のすぐ下に、頭に警告マークかついた赤色のエラーメッセージが表示されている。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T051315Z" creationid="bakera" creationdate="20170929T090847Z">
+        <seg>パスワード入力欄のすぐ下に赤い文字のエラーメッセージが表示されており、その頭には警告マークかついている。</seg>
       </tuv>
     </tu>
     <tu>
