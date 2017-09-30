@@ -15793,7 +15793,9 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
     <tu>
       <note>(太田)
 ほとんどとは言っていないような。
-調整しました。</note>
+調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In some screen readers, this results in the &lt;g3&gt;&lt;legend&gt;&lt;/g3&gt;’s content being concatenated with each field’s &lt;g4&gt;&lt;label&gt;&lt;/g4&gt;.</seg>
       </tuv>
@@ -25451,7 +25453,9 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
     </tu>
     <tu>
       <note>(太田)
-原文に沿って分割しつつ、補いつつ。</note>
+原文に沿って分割しつつ、補いつつ。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt; element is proffered for grouping related form fields under a common label: a &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;.</seg>
       </tuv>
