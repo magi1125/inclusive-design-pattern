@@ -26390,11 +26390,12 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) </note>
       <tuv lang="EN-US">
         <seg>The is no such thing as the &lt;g1&gt;ERROR&lt;/g1&gt; property in CSS and there are no plans for one — let me make that clear right away!But there are a few benefits to using an unrecognized CSS property to log errors to the CSS inspector.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020024Z" creationid="rikiha" creationdate="20170925T020024Z">
-        <seg>はっきり言いますが、CSSにはERRORプロパティなどというものはなく、それが追加される予定もありません。しかし、認められていないCSSプロパティを使ってCSSインスペクタにエラーをログすることには、いくつかのメリットあります。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T005856Z" creationid="rikiha" creationdate="20170925T020024Z">
+        <seg>はっきりさせておきます――CSSにはERRORプロパティなどというものはなく、それが追加される予定もありません。しかし、認められていないCSSプロパティを使ってCSSインスペクタにエラーを記録することには、いくつかのメリットあります。</seg>
       </tuv>
     </tu>
     <tu>
