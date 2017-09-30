@@ -6711,11 +6711,12 @@ CSSを使って絶対配置した場合との対比なので、「ただし」�
       </tuv>
     </tu>
     <tu>
+      <note>(微調整)</note>
       <tuv lang="EN-US">
         <seg>Accordingly, in the &lt;g10&gt;options&lt;/g10&gt; object, &lt;g11&gt;options.leading&lt;/g11&gt; should be &lt;g12&gt;false&lt;/g12&gt; and &lt;g13&gt;options.trailing&lt;/g13&gt; &lt;g14&gt;true&lt;/g14&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T070006Z" creationid="bakera" creationdate="20170929T090926Z">
-        <seg>&lt;g10&gt;options&lt;/g10&gt;オブジェクトを、&lt;g11&gt;options.leading&lt;/g11&gt;が&lt;g12&gt;false&lt;/g12&gt;、&lt;g13&gt;options.trailing&lt;/g13&gt;が&lt;g14&gt;true&lt;/g14&gt;になるように設定します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T070548Z" creationid="bakera" creationdate="20170929T090926Z">
+        <seg>そのためには、&lt;g10&gt;options&lt;/g10&gt;に渡すオブジェクトの中で、&lt;g11&gt;options.leading&lt;/g11&gt;が&lt;g12&gt;false&lt;/g12&gt;、&lt;g13&gt;options.trailing&lt;/g13&gt;が&lt;g14&gt;true&lt;/g14&gt;になるように設定します。</seg>
       </tuv>
     </tu>
     <tu>
