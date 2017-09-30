@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -683,8 +683,8 @@ broken は破綻としました。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;That the field is invalid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090826Z" creationid="bakera" creationdate="20170929T090826Z">
-        <seg>1.フィールドが無効である</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T042415Z" creationid="bakera" creationdate="20170929T090826Z">
+        <seg>1.フィールドが無効であること</seg>
       </tuv>
     </tu>
     <tu>
@@ -10574,11 +10574,14 @@ draw onは経験を活かすような意味。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+括弧書きの within reason の意図がよく分からない。
+いったん保留。</note>
       <tuv lang="EN-US">
         <seg>Each one needs two pieces of information, available to all users (within reason):</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T042133Z" creationid="bakera" creationdate="20170929T090824Z">
-        <seg>各フィールドには、以下の2つの情報が、目に見える形と見えない形で必要です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T042322Z" creationid="bakera" creationdate="20170929T090824Z">
+        <seg>各フィールドについて、全てのユーザーに利用できる形で（常識の範囲内で）、以下の2つの情報を提供する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
