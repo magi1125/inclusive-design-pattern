@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19524,11 +19524,12 @@ a handful ofは片手でつかめる程度、の意味ですが、前にメニ�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 肯定的に見えるように調整。</note>
       <tuv lang="EN-US">
         <seg>Not One-Size-Fits-All</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020500Z" creationid="rikiha" creationdate="20170925T020500Z">
-        <seg>汎用的ではない</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T042211Z" creationid="rikiha" creationdate="20170925T020500Z">
+        <seg>汎用的ではないがゆえに</seg>
       </tuv>
     </tu>
     <tu>
