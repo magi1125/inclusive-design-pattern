@@ -141,11 +141,15 @@ theを「上記の」としつつ調整してみました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+括弧がきのNote は頭に MEMO をつけるスタイルになりますでしょうか。
+
+</note>
       <tuv lang="EN-US">
         <seg>(Note the inclusion of a background icon for color-blind users who cannot perceive the red &lt;g1&gt;border-color&lt;/g1&gt; change.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090842Z" creationid="bakera" creationdate="20170929T090842Z">
-        <seg>（赤色のborder-colorへの変化を知覚できない色覚異常のユーザーのために、背景アイコンを含めています。）</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T050354Z" creationid="bakera" creationdate="20170929T090842Z">
+        <seg>（色覚異常のユーザーは&lt;g1&gt;border-color&lt;/g1&gt;が赤になったことを知覚できないことがあるため、背景画像としてアイコンを含めています。）</seg>
       </tuv>
     </tu>
     <tu>
