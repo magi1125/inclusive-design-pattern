@@ -19332,11 +19332,14 @@ image maps to link parts of those images to other pages of imagesで、「画像
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+NVDA+Tabは「現在のフォーカスの報告」。
+少し調整。</note>
       <tuv lang="EN-US">
         <seg>NVDA, for example, will speak the focused password input when pressing &lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T071430Z" creationid="bakera" creationdate="20170929T090935Z">
-        <seg>たとえばNVDAでは、&lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;キーを押すとフォーカスを合わせたパスワード入力が読み上げられます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T072223Z" creationid="bakera" creationdate="20170929T090935Z">
+        <seg>たとえばNVDAでは、&lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;キーを押すと、フォーカスのあるパスワード入力欄の情報が再度が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
