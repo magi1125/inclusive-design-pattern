@@ -4278,6 +4278,7 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) should have感を出しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;g39&gt;ERROR&lt;/g39&gt;&lt;g40&gt;:&lt;/g40&gt; &lt;g41&gt;"Each tabpanel should have an aria-labelledby attribute starting with "tab" followed by the corresponding tab’s number.</seg>
       </tuv>
@@ -29228,6 +29229,7 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) </note>
       <tuv lang="EN-US">
         <seg>This is the convention of tab systems in our interface."&lt;/g41&gt;&lt;g42&gt;;&lt;/g42&gt;
 &lt;g43&gt;}&lt;/g43&gt;
