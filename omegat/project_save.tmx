@@ -1040,8 +1040,8 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
 
 &lt;g16&gt;[role="tablist"] li:not([role="presentation"]) &lt;/g16&gt;&lt;g17&gt;{&lt;/g17&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T031418Z" creationid="Administrator" creationdate="20170930T031418Z">
-        <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"tablist内の&lt;a&gt;要素 need to each have the WAI-ARIA tab role to be counted as tabs in assistive technologies."&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T031830Z" creationid="Administrator" creationdate="20170930T031418Z">
+        <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"tablist内の各&lt;a&gt;要素には、支援技術にタブとしてカウントさせるためのtab WAI-ARIAロールが必要です。&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
 &lt;g15&gt;}&lt;/g15&gt;
 
 &lt;g16&gt;[role="tablist"] li:not([role="presentation"]) &lt;/g16&gt;&lt;g17&gt;{&lt;/g17&gt;</seg>
