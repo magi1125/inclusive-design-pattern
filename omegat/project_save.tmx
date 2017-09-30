@@ -12903,7 +12903,9 @@ shape up のニュアンスを出したいかも?
     </tu>
     <tu>
       <note>(太田) 
-populateは前に合わせて「入れる」としました。</note>
+populateは前に合わせて「入れる」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Here’s how we populate the live region using our script:</seg>
       </tuv>
@@ -34707,8 +34709,8 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
 &lt;/g25&gt;    &lt;g26&gt;}&lt;/g26&gt;
 &lt;g27&gt;}&lt;/g27&gt;&lt;g28&gt;)&lt;/g28&gt;&lt;g29&gt;;&lt;/g29&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T231220Z" creationid="Administrator" creationdate="20170930T231147Z">
-        <seg>event&lt;g21&gt;.&lt;/g21&gt;preventDefault&lt;g22&gt;(&lt;/g22&gt;&lt;g23&gt;)&lt;/g23&gt;&lt;g24&gt;;&lt;/g24&gt; &lt;g25&gt;// 送信を止める
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T232731Z" creationid="Administrator" creationdate="20170930T231147Z">
+        <seg>event&lt;g21&gt;.&lt;/g21&gt;preventDefault&lt;g22&gt;(&lt;/g22&gt;&lt;g23&gt;)&lt;/g23&gt;&lt;g24&gt;;&lt;/g24&gt; &lt;g25&gt;// 送信させない
 &lt;/g25&gt;    &lt;g26&gt;}&lt;/g26&gt;
 &lt;g27&gt;}&lt;/g27&gt;&lt;g28&gt;)&lt;/g28&gt;&lt;g29&gt;;&lt;/g29&gt;&lt;/g1&gt;</seg>
       </tuv>
