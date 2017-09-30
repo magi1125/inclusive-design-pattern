@@ -16644,11 +16644,13 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>Instead, only when errors are present &lt;g1&gt;after attempted submission&lt;/g1&gt; do we begin informing the user.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090906Z" creationid="bakera" creationdate="20170929T090906Z">
-        <seg>送信時にエラーが存在した場合にのみ、ユーザーに知らせるようにしています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T054910Z" creationid="bakera" creationdate="20170929T090906Z">
+        <seg>そのかわり、&lt;g1&gt;送信しようとした後に&lt;/g1&gt;エラーが存在した場合のみ、ユーザーに知らせるようにしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21032,11 +21034,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+一度取り組み始めたら、という話だと思います。
+後半はざっくり意訳しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>Once the user is actively engaged in &lt;g1&gt;correcting&lt;/g1&gt; errors, I think it helpful to reward their efforts as they work.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090907Z" creationid="bakera" creationdate="20170929T090907Z">
-        <seg>ユーザーが積極的にエラーの修正に取り組んだら、その行動に報いるのが良いと私は思います。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T055513Z" creationid="bakera" creationdate="20170929T090907Z">
+        <seg>ユーザーがいったんエラーの&lt;g1&gt;修正作業&lt;/g1&gt;に積極的に取り組みはじめたら、この情報がきっと役に立つことでしょう。</seg>
       </tuv>
     </tu>
     <tu>
