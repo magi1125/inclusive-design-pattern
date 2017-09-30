@@ -10812,11 +10812,14 @@ line-heightは原文の原稿では小文字なのですが、この見出しは
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+なんか誤訳っぽいような。
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Except for the wording of error descriptions, the pattern will be the same for each invalid input, so we’ll just use the password field as an exemplar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T042829Z" creationid="bakera" creationdate="20170929T090829Z">
-        <seg>ここでのパターンは、エラーを説明する言葉が追加された、それぞれの無効な入力と同じです。パスワードフィールドを例にしてみましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T043219Z" creationid="bakera" creationdate="20170929T090829Z">
+        <seg>このパターンは、エラーの説明文言が異なる他は共通で、エラーになっている入力欄それぞれに適用します。パスワード入力欄を例にしてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32252,12 +32255,13 @@ formとformのジョーク。どうしたものか。
     </tu>
     <tu>
       <note>(太田)
-保留</note>
+誤訳かも?
+入力エラーを修正するために何が求められるのか、ということかと思います。</note>
       <tuv lang="EN-US">
         <seg>What Needs Fixing</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090822Z" creationid="bakera" creationdate="20170929T090822Z">
-        <seg>修正が必要な箇所</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T043005Z" creationid="bakera" creationdate="20170929T090822Z">
+        <seg>エラーの修正に何が必要か</seg>
       </tuv>
     </tu>
     <tu>
