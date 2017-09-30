@@ -26178,11 +26178,12 @@ jaw は動詞だとスラングで Impudent or abusive talk.
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 明らかがカブっていたので調整。</note>
       <tuv lang="EN-US">
         <seg>The difference between this test-driven markup approach and standard automated accessibility testing is clear: whether using a CSS-based bookmarklet like &lt;g1&gt;&lt;g2&gt;a11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;16&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; or an advanced API like &lt;g6&gt;&lt;g7&gt;tenon.io&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;17&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;, generic errors are disclosed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T043305Z" creationid="rikiha" creationdate="20170925T020503Z">
-        <seg>このテスト駆動マークアップのアプローチと、標準的な自動アクセシビリティテストとの違いははっきりしています。&lt;g1&gt;&lt;g2&gt;a11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注207）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのCSSベースのブックマークレットを使っても、&lt;g6&gt;&lt;g7&gt;tenon.io&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注208）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;などの高度なAPIを使っても、一般的なエラーが明らかになります。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T043500Z" creationid="rikiha" creationdate="20170925T020503Z">
+        <seg>このテスト駆動マークアップのアプローチと、標準的な自動アクセシビリティテストとの違いははっきりしています。&lt;g1&gt;&lt;g2&gt;a11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注207）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;などのCSSベースのブックマークレットを使っても、あるいは&lt;g6&gt;&lt;g7&gt;tenon.io&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注208）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;などの高度なAPIを使っても、明らかになるのは一般的なエラーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29831,8 +29832,8 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       <tuv lang="EN-US">
         <seg>This testing is important, especially for WCAG compliance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020504Z" creationid="rikiha" creationdate="20170925T020504Z">
-        <seg>このテストは、特にWCAG準拠にとって重要です。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T043522Z" creationid="rikiha" creationdate="20170925T020504Z">
+        <seg>このテストは、特にWCAGに準拠する場合に重要です。</seg>
       </tuv>
     </tu>
     <tu>
