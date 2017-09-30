@@ -16583,7 +16583,7 @@ not acceptable を invalid と訳し分けるべきか。
 ひとまず調整。
 括弧内の (pattern matching) の言わんとするところがいまいちよくわからないですね。JSの正規表現でチェックするということなのか、HTML5のpattern属性と同じことをする、と言っているのか。
 
-(伊原) 示すためにの→示すために</note>
+(伊原) OK, 示すためにの→示すために, JSの正規表現で〜というように読めました。</note>
       <tuv lang="EN-US">
         <seg>In which case, we are going to rely on WAI-ARIA to indicate invalidity, with JavaScript for the actual validation (pattern matching).</seg>
       </tuv>
@@ -24342,6 +24342,7 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Something Is Broken</seg>
       </tuv>
