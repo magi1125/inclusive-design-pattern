@@ -21801,7 +21801,9 @@ our job is を直訳せずに「～しましょう」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Our register form has some &lt;g1&gt;required&lt;/g1&gt; fields, which cannot be left blank.</seg>
       </tuv>
@@ -22423,6 +22425,7 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Required Fields</seg>
       </tuv>
