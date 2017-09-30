@@ -5544,11 +5544,12 @@ a little ではなく little なので、これは「ほとんどない」とい
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整。ちょっと微妙なキャプション。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Note that it’s no longer necessary to encapsulate the error in single quotation marks as a string.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020354Z" creationid="rikiha" creationdate="20170925T020354Z">
-        <seg>エラーを文字列としてシングルクォーテーションで囲む必要はもうありません。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T022150Z" creationid="rikiha" creationdate="20170925T020354Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;エラーを文字列としてシングルクォーテーションで囲んでカプセル化する必要はなくなりました。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
