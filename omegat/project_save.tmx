@@ -7539,12 +7539,16 @@ https://material.io/guidelines/usability/accessibility.html#accessibility-style
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) Appropriatelyを訳出。 「付加的なライブラリにも依存しません」がちょっと微妙な気がしつつ、このもったいぶった言い回しが必要な気もしつつ、いったんそのまま。</note>
+      <note>(伊原) Appropriatelyを訳出。 「付加的なライブラリにも依存しません」がちょっと微妙な気がしつつ、このもったいぶった言い回しが必要な気もしつつ、いったんそのまま。
+
+(太田)
+これはまあそのままでわかると思います。
+少しだけ調整。</note>
       <tuv lang="EN-US">
         <seg>Appropriately, it is itself a declarative language and, fortuitously, it does not take the form of an additional library dependency.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T135944Z" creationid="rikiha" creationdate="20170925T014347Z">
-        <seg>いみじくも、それ自体が宣言型言語であり、幸いなことに、付加的なライブラリにも依存しません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T103449Z" creationid="rikiha" creationdate="20170925T014347Z">
+        <seg>いみじくも、それ自体が宣言型言語であり、幸いなことに、付加的なライブラリに依存することもありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18148,7 +18152,11 @@ find information actionable で「情報が実行可能と分かる・感じる�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) こんな感じ？</note>
+      <note>(伊原) こんな感じ？
+
+(太田)
+直訳すると「もちろん、CSSの話をしています」という感じですね。あとは雰囲気をどうするかです。
+</note>
       <tuv lang="EN-US">
         <seg>I’m talking, of course, about CSS.</seg>
       </tuv>
