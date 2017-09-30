@@ -10310,7 +10310,9 @@ issueは文字どおり「イシュー」と思われますが、いったん「
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Conventionally, errors are displayed in red, so it’s advisable to give the message box a red border or background.</seg>
       </tuv>
@@ -13380,7 +13382,9 @@ http://inclusivedesignprinciples.org/ja/
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>However, you should be wary of red being the only visual characteristic that classifies the message as an error.</seg>
       </tuv>
@@ -31425,7 +31429,9 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
     <tu>
       <note>(太田)
 prependは前に追加するニュアンス。
-「メッセージの頭に」と補いました。</note>
+「メッセージの頭に」と補いました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>To support at the same time screen reader users and people who cannot see color, we can prepend a warning icon containing alternative text.</seg>
       </tuv>
