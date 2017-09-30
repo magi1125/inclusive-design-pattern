@@ -11662,11 +11662,12 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 前に出た「ぶち壊し」を採用しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>For my money, this isn’t a deal-breaker because the capitalized &lt;g1&gt;ERROR&lt;/g1&gt; property name picks these declarations out quite clearly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020342Z" creationid="rikiha" creationdate="20170925T020342Z">
-        <seg>私の考えでは、それはこの方法を断念する理由にはなりません。大文字のプロパティ名ERRORは、これらの宣言をかなり明確に際立たせてくれます。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T015046Z" creationid="rikiha" creationdate="20170925T020342Z">
+        <seg>だからといってぶち壊しにはなるわけではないというのが私の考えです。大文字のプロパティ名&lt;g1&gt;ERROR&lt;/g1&gt;は、宣言をかなり明確に際立たせてくれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30886,7 +30887,7 @@ not cut it はうまくできない、くらいの意味。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) オーバーライド→上書き</note>
       <tuv lang="EN-US">
         <seg>Unfortunately, like overriden declarations, unrecognized declarations still take a line-through style as illustrated.</seg>
       </tuv>
