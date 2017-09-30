@@ -4006,6 +4006,15 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g25&gt;ERROR&lt;/g25&gt;&lt;g26&gt;:&lt;/g26&gt; &lt;g27&gt;"Remove the -1 tabindex value on the aria-selected tab to make it focusable by the user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T033735Z" creationid="Administrator" creationdate="20170930T033539Z">
+        <seg>&lt;g25&gt;ERROR&lt;/g25&gt;&lt;g26&gt;:&lt;/g26&gt; &lt;g27&gt;"aria-selectedタブの-1というtabindex値を削除して、ユーザーがフォーカスできるようにし
+てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g261&gt;&lt;g262&gt;&lt;g263&gt;&lt;&lt;/g263&gt;button&lt;/g262&gt; &lt;g264&gt;type&lt;/g264&gt;&lt;g265&gt;&lt;g266&gt;=&lt;/g266&gt;"submit"&lt;/g265&gt;&lt;g267&gt;&gt;&lt;/g267&gt;&lt;/g261&gt;apply&lt;g268&gt;&lt;g269&gt;&lt;g270&gt;&lt;/&lt;/g270&gt;button&lt;/g269&gt;&lt;g271&gt;&gt;&lt;/g271&gt;&lt;/g268&gt;
 &lt;g272&gt;&lt;g273&gt;&lt;g274&gt;&lt;/&lt;/g274&gt;form&lt;/g273&gt;&lt;g275&gt;&gt;&lt;/g275&gt;&lt;/g272&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -28346,6 +28355,20 @@ break up は分割というより解消、解体に近い意味かも。
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170926T091916Z" creationid="bakera" creationdate="20170926T091916Z">
         <seg>セマンティクスと標準的な動作が、自動的に組み合わされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They should be able to move to this tab only."&lt;/g27&gt;&lt;g28&gt;;&lt;/g28&gt;
+&lt;g29&gt;}&lt;/g29&gt;
+
+&lt;g30&gt;[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]) &lt;/g30&gt;&lt;g31&gt;{&lt;/g31&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T033554Z" creationid="Administrator" creationdate="20170930T033554Z">
+        <seg>ユーザーはこのタブだけに移動できなければなりません。"&lt;/g27&gt;&lt;g28&gt;;&lt;/g28&gt;
+&lt;g29&gt;}&lt;/g29&gt;
+
+&lt;g30&gt;[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]) &lt;/g30&gt;&lt;g31&gt;{&lt;/g31&gt;</seg>
       </tuv>
     </tu>
     <tu>
