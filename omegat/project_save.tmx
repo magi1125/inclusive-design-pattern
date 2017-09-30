@@ -19999,11 +19999,14 @@ candidate の訳が落ちていますがまあ無くても良いのでママで�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。
+HPの処理はもう少し工夫してもいいのかも。</note>
       <tuv lang="EN-US">
         <seg>Not wanting to be the overbearing waiter continually interrupting customers to check in with them, we didn’t flag errors on first run.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090905Z" creationid="bakera" creationdate="20170929T090905Z">
-        <seg>ここでは、ひっきりなしにお客様の元に行き邪魔をする横暴なウェイターにならないように、入力時点ではエラー信号を出さないようにしました。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T054816Z" creationid="bakera" creationdate="20170929T090905Z">
+        <seg>ここでは、ひっきりなしにお客様の元に行って邪魔をするような横暴なウェイターにはなりたくないので、入力時点ではエラーを出さないようにしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23740,11 +23743,13 @@ The Office はイギリスのコメディドラマのようですね。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>So, when do we send feedback to the user and how frequently?</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090904Z" creationid="bakera" creationdate="20170929T090904Z">
-        <seg>では、どのようなタイミングと頻度でユーザーにフィードバックを提供すればよいのでしょうか？</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T054502Z" creationid="bakera" creationdate="20170929T090904Z">
+        <seg>では、いつ、どの程度の頻度でユーザーにフィードバックを提供すればよいのでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
