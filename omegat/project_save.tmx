@@ -14832,11 +14832,13 @@ In addition を「その上」とすると前からのつながりがおかし�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+達成基準の説明をJISの文言に合わせました (WAICサイトのものとも同一)。</note>
       <tuv lang="EN-US">
         <seg>In an official capacity, WCAG echoes Bill’s sentiments with the &lt;g2&gt;&lt;g3&gt;2.4.6 Headings and Labels&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;21&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; success criterion, imploring that “headings and labels describe topic or purpose.” Branding whimsy in your copy can diverge too much from transparent wording, confusing and infuriating the user.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091011Z" creationid="bakera" creationdate="20170929T091011Z">
-        <seg>WCAGは、達成基準2.4.6「Headings and Labels」（脚注192）で「見出しとラベルはトピックまたは目的を説明するものである」と訴えることで、公式にビルの意見に同調しています。コピーによる奇抜なブランディングは、率直で分かりやすい言い回しからかけ離れ、ユーザーを混乱させたり憤慨させることがあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T080243Z" creationid="bakera" creationdate="20170929T091011Z">
+        <seg>WCAGは、&lt;g2&gt;&lt;g3&gt;達成基準2.4.6「Headings and Labels」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注192）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で「見出し及びラベルは、主題又は目的を説明している」と述べており、公式にビルの意見に同調しています。奇抜なブランディングのコピーは、率直で分かりやすい言い回しからかけ離れ、ユーザーを混乱させたり憤慨させることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15375,11 +15377,12 @@ NVDA2017.3jaでは
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>In other words, &lt;g1&gt;don’t put your brand before your usability&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091009Z" creationid="bakera" creationdate="20170929T091009Z">
-        <seg>言い換えれば、ユーザビリティよりもブランドを優先させてはいけないということです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T075747Z" creationid="bakera" creationdate="20170929T091009Z">
+        <seg>言い換えれば、&lt;g1&gt;ユーザビリティよりもブランドを優先させてはいけない&lt;/g1&gt;ということです。</seg>
       </tuv>
     </tu>
     <tu>
