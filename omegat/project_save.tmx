@@ -12929,8 +12929,8 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       <tuv lang="EN-US">
         <seg>However, the &lt;g2&gt;.test.css&lt;/g2&gt; files certainly don’t want to be included in production.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T041718Z" creationid="rikiha" creationdate="20170925T020455Z">
-        <seg>とはいえ、この&lt;g2&gt;.test.css&lt;/g2&gt;ファイルは絶対に製品に含めてはなりません。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T041756Z" creationid="rikiha" creationdate="20170925T020455Z">
+        <seg>とはいえ、この&lt;g2&gt;.test.css&lt;/g2&gt;ファイルは絶対に製品版に含めてはなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31414,11 +31414,12 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 自分がコピーされないようにする話なので、そのように調整。</note>
       <tuv lang="EN-US">
         <seg>Using the &lt;g3&gt;.test.css&lt;/g3&gt; convention helps when it comes to omit them from being copied to your production build folder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020459Z" creationid="rikiha" creationdate="20170925T020459Z">
-        <seg>.test.css規則を使用すれば、プロダクションビルドのフォルダへコピーする際に除外しやすくなります。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T042101Z" creationid="rikiha" creationdate="20170925T020459Z">
+        <seg>&lt;g3&gt;.test.css&lt;/g3&gt;の命名規則は、製品版ビルドのフォルダにコピーされないようにするのに役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
