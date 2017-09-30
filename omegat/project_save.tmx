@@ -21650,12 +21650,17 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 関係をリレーションシップに。</note>
+      <note>(伊原) 関係をリレーションシップに。
+
+(太田)
+やることとは。
+our job is を直訳せずに「～しましょう」としました。
+若干補いつつ意訳しつつ。</note>
       <tuv lang="EN-US">
         <seg>Our job is to write tests against the elements’ properties and relationships within the tab interface, to make sure it is structured as expected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T235053Z" creationid="rikiha" creationdate="20170925T014438Z">
-        <seg>やることは、このタブインターフェイス内要素のプロパティとリレーションシップに対するテストを書き、想定通りに構成されているかを確認することです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T111226Z" creationid="rikiha" creationdate="20170925T014438Z">
+        <seg>このタブインターフェイス内の要素に対して、プロパティとリレーションシップを検証するテストを書き、想定通りに構成されているか確認しましょう。</seg>
       </tuv>
     </tu>
     <tu>
