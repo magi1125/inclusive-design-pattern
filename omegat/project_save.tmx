@@ -4279,6 +4279,14 @@ Size:　→サイズ：</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g39&gt;ERROR&lt;/g39&gt;&lt;g40&gt;:&lt;/g40&gt; &lt;g41&gt;"Each tabpanel should have an aria-labelledby attribute starting with "tab" followed by the corresponding tab’s number.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T034940Z" creationid="Administrator" creationdate="20170930T034758Z">
+        <seg>&lt;g39&gt;ERROR&lt;/g39&gt;&lt;g40&gt;:&lt;/g40&gt; &lt;g41&gt;"各tabpanelは、「tab」で始まり、その後ろに対応するタブ番号が続くaria-labelledby属性を持つべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g40&gt;&lt;!-- article content here --&gt;&lt;/g40&gt;
 &lt;g41&gt;&lt;g42&gt;&lt;g43&gt;&lt;/&lt;/g43&gt;main&lt;/g42&gt;&lt;g44&gt;&gt;&lt;/g44&gt;&lt;/g41&gt;
 
@@ -29217,6 +29225,20 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T091453Z" creationid="okamoto_jun" creationdate="20170627T091453Z">
         <seg>これこそが最善策である。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the convention of tab systems in our interface."&lt;/g41&gt;&lt;g42&gt;;&lt;/g42&gt;
+&lt;g43&gt;}&lt;/g43&gt;
+
+&lt;g44&gt;[role="tablist"] ~ div:not([role="tabpanel"]) &lt;/g44&gt;&lt;g45&gt;{&lt;/g45&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T034816Z" creationid="Administrator" creationdate="20170930T034816Z">
+        <seg>これがこのインターフェイスにおけるタブシステムの規則です。"&lt;/g41&gt;&lt;g42&gt;;&lt;/g42&gt;
+&lt;g43&gt;}&lt;/g43&gt;
+
+&lt;g44&gt;[role="tablist"] ~ div:not([role="tabpanel"]) &lt;/g44&gt;&lt;g45&gt;{&lt;/g45&gt;</seg>
       </tuv>
     </tu>
     <tu>
