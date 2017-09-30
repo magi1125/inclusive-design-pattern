@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32909,11 +32909,12 @@ enhanceを拡張としました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Where additional JavaScript and CSS hooks (&lt;g4&gt;data&lt;/g4&gt; and &lt;g5&gt;class&lt;/g5&gt; attributes) should be present, this is also an opportunity to test for them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020513Z" creationid="rikiha" creationdate="20170925T020513Z">
-        <seg>追加のJavaScriptフックやCSSフック（data属性やclass属性）が必要な場合には、それらをテストする機会でもあります。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T045026Z" creationid="rikiha" creationdate="20170925T020513Z">
+        <seg>追加のJavaScriptフックやCSSフック（data属性やclass属性）が必要が場合、それらをテストする機会でもあります。</seg>
       </tuv>
     </tu>
     <tu>
