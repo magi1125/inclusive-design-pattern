@@ -20528,12 +20528,14 @@ the URLは「このページのURL」としてみました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) I'll なのでそれっぽく。</note>
+      <note>(伊原) I'll なのでそれっぽく。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Now I can just run &lt;g1&gt;npm test&lt;/g1&gt; (or whatever alias I have set up) and I’ll find out if my function is doing what I hoped it would.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T125045Z" creationid="rikiha" creationdate="20170925T014337Z">
-        <seg>後はnpm test（または何らか設定したエイリアス）を実行すれば、この関数が期待通りに動いてくれるかが分かるでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T091253Z" creationid="rikiha" creationdate="20170925T014337Z">
+        <seg>後は&lt;g1&gt;npm test&lt;/g1&gt;（または何らか設定したエイリアス）を実行すれば、この関数が期待通りに動いてくれるかが分かるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25073,7 +25075,9 @@ OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここのdesignedは設計かなと。また、次の段落では「HTMLのような宣言型言語用」といっているので、the largely imperative language of JavaScript はこういう訳になる？</note>
+      <note>(伊原) ここのdesignedは設計かなと。また、次の段落では「HTMLのような宣言型言語用」といっているので、the largely imperative language of JavaScript はこういう訳になる？
+
+(太田)</note>
       <tuv lang="EN-US">
         <seg>That’s all very well, but it’s designed for the largely imperative language of JavaScript.</seg>
       </tuv>
