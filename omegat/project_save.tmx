@@ -15447,12 +15447,13 @@ switch to structured content は、WYSWYGエディタの右上にある &lt;&gt;
 NVDA2017.3jaでは
 「パスワードを選択 エディット 保護付き ブランク」
 でした。
-</note>
+
+(伊原) ここはフォームラベルに合わせるなら「パスワード」になるのかなと。調整しました。</note>
       <tuv lang="EN-US">
         <seg>In my example, when a screen reader user focuses the password field, “Choose a password, secure input” (or similar) would be announced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T090621Z" creationid="bakera" creationdate="20170926T090621Z">
-        <seg>この例では、スクリーンリーダーユーザーがパスワードフィールドにフォーカスを合わせると、「パスワードを選択 エディット、保護つき」などと読み上げられます。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T164822Z" creationid="bakera" creationdate="20170926T090621Z">
+        <seg>この例では、スクリーンリーダーユーザーがパスワードフィールドにフォーカスを合わせると、「パスワード エディット、保護つき」などと読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18533,7 +18534,9 @@ Keyは重要でいいのか。
 少し調整。
 
 (岡本)
-関連付け→関連づけ</note>
+関連付け→関連づけ
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Label elements, therefore, are jumped over: if they weren’t explicitly connected to the interactive elements they were describing, they’d be missed.</seg>
       </tuv>
