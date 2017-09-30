@@ -4360,6 +4360,21 @@ Size:　→サイズ：</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g46&gt;ERROR&lt;/g46&gt;&lt;g47&gt;:&lt;/g47&gt; &lt;g48&gt;"Each tabpanel needs to have the explicit tabpanel WAI-ARIA role to be correctly associated with the tablist that controls it."&lt;/g48&gt;&lt;g49&gt;;&lt;/g49&gt;
+&lt;g50&gt;}&lt;/g50&gt;
+
+&lt;g51&gt;[role="tablist"] + div:not([role="tabpanel"]) &lt;/g51&gt;&lt;g52&gt;{&lt;/g52&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T040102Z" creationid="Administrator" creationdate="20170930T040102Z">
+        <seg>&lt;g46&gt;ERROR&lt;/g46&gt;&lt;g47&gt;:&lt;/g47&gt; &lt;g48&gt;"各タブパネルが、それをコントロールするtablistと正しく関連付けられるためには、WAI-
+ARIA ロールが明示的に tabpanel に指定されている必要があります。"&lt;/g48&gt;&lt;g49&gt;;&lt;/g49&gt;
+&lt;g50&gt;}&lt;/g50&gt;
+
+&lt;g51&gt;[role="tablist"] + div:not([role="tabpanel"]) &lt;/g51&gt;&lt;g52&gt;{&lt;/g52&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g47&gt;&lt;g48&gt;&lt;g49&gt;&lt;&lt;/g49&gt;dl&lt;/g48&gt;&lt;g50&gt;&gt;&lt;/g50&gt;&lt;/g47&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170916T124549Z" creationid="rikiha" creationdate="20170909T223925Z">
@@ -29236,8 +29251,8 @@ behaviorは「ふるまい」などですが、「ルール」としてみまし
 
 &lt;g44&gt;[role="tablist"] ~ div:not([role="tabpanel"]) &lt;/g44&gt;&lt;g45&gt;{&lt;/g45&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T034816Z" creationid="Administrator" creationdate="20170930T034816Z">
-        <seg>これがこのインターフェイスにおけるタブシステムの規則です。"&lt;/g41&gt;&lt;g42&gt;;&lt;/g42&gt;
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T035136Z" creationid="Administrator" creationdate="20170930T034816Z">
+        <seg>これは、このインターフェイスにおけるタブシステムの規則です。"&lt;/g41&gt;&lt;g42&gt;;&lt;/g42&gt;
 &lt;g43&gt;}&lt;/g43&gt;
 
 &lt;g44&gt;[role="tablist"] ~ div:not([role="tabpanel"]) &lt;/g44&gt;&lt;g45&gt;{&lt;/g45&gt;</seg>
