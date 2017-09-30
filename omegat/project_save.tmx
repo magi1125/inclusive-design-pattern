@@ -31255,12 +31255,16 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田)
+ここのtoken は短い文字列的なニュアンスでセレクタのことですね。しかしトリでも良いのでは。
+短めに調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Typically, CSS selectors are used to match expected patterns but, by the same token, we could use selectors to target broken or malformed patterns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T223713Z" creationid="rikiha" creationdate="20170925T014403Z">
-        <seg>通常、CSSのセレクタは期待されるパターンにマッチさせるのに使いますが、同様にセレクタを使用して、破損したパターンや不正なパターンをターゲットにすることもできます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T105610Z" creationid="rikiha" creationdate="20170925T014403Z">
+        <seg>通常、CSSのセレクタは期待されるパターンにマッチさせるのに使いますが、破綻した、不正なパターンを対象にすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
