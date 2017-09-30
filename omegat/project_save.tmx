@@ -17059,7 +17059,9 @@ stillは無理に訳さなくても良い気がします。
     <tu>
       <note>(太田)
 「空の必須フィールドを最初から無効としてマーク」はわかりにくいですね。reqiredなフィールドが初期状態で空の時、それをエラーと扱うという話ですね。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK、ユーザビリティあるあるですね。</note>
       <tuv lang="EN-US">
         <seg>It also tends to invoke an undesirable feature: marking empty required fields as invalid from the outset.</seg>
       </tuv>
@@ -25797,6 +25799,7 @@ OK、見出しにマークアップが含まれるので電子化時には注意
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;required&lt;/g4&gt; attribute is not implemented uniformly&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;14&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; across browsers.</seg>
       </tuv>
@@ -32032,7 +32035,9 @@ don’t get out of sync は二重否定でわかりにくいので、単に「�
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Usually it is better to use the HTML5 base semantics rather than the WAI-ARIA extension, but only if vendor (read: browser and screen reader) support is acceptable.</seg>
       </tuv>
