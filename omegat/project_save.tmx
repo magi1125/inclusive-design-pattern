@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24682,13 +24682,13 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
     <tu>
       <note>(太田)
 この結び付け方がlabelのfor/idとそっくりという話。
-調整しました。
+大幅に補いつつ意訳気味に調整しました。
 </note>
       <tuv lang="EN-US">
         <seg>That is, the description is connected much like the label.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T052210Z" creationid="bakera" creationdate="20170929T090852Z">
-        <seg>つまり、この説明文は、ラベルとそっくりな方法で結び付けられています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T052252Z" creationid="bakera" creationdate="20170929T090852Z">
+        <seg>この説明文を結びつける方法は、ラベルを結びつける方法とそっくりです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26882,11 +26882,13 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+原文はコロンで切れて2文なので、あわせて2文に。</note>
       <tuv lang="EN-US">
         <seg>The only difference is in terms of order: the description is read last.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090853Z" creationid="bakera" creationdate="20170929T090853Z">
-        <seg>唯一の違いは順序で、説明が最後に読まれます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T052409Z" creationid="bakera" creationdate="20170929T090853Z">
+        <seg>唯一の違いは順番です。説明文は最後に読まれます。</seg>
       </tuv>
     </tu>
     <tu>
