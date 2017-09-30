@@ -21336,12 +21336,12 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) </note>
+      <note>(伊原) こういうことでしょうか。</note>
       <tuv lang="EN-US">
         <seg>Our tab interface pattern should now have a &lt;g1&gt;tab-interface.css&lt;/g1&gt; file and, in an effort to establish a naming convention, an accompanying &lt;g2&gt;tab-interface.test.css&lt;/g2&gt; file — something like this:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T030515Z" creationid="rikiha" creationdate="20170925T020419Z">
-        <seg>タブインターフェイスパターンは&lt;g1&gt;tab-interface.css&lt;/g1&gt;というファイルになっているでしょうから、命名規則を定め、付随するファイルは&lt;g2&gt;tab-interface.test.css&lt;/g2&gt;ファイルとします――内容は以下のような感じです。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T030846Z" creationid="rikiha" creationdate="20170925T020419Z">
+        <seg>タブインターフェイスパターンは&lt;g1&gt;tab-interface.css&lt;/g1&gt;というファイルになるでしょうから、命名規則を定め、付随するファイルは&lt;g2&gt;tab-interface.test.css&lt;/g2&gt;ファイルとします――以下のようになります。</seg>
       </tuv>
     </tu>
     <tu>
