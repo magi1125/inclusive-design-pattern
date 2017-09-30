@@ -26369,7 +26369,9 @@ mightなのですこし弱めに。
     </tu>
     <tu>
       <note>(太田)
-微調整</note>
+微調整
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The advantage of declaring the presence of errors using a live region is that we don’t have to move the user to bring this information to their attention.</seg>
       </tuv>
@@ -31610,6 +31612,7 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Typically, form errors alert users by focusing the first invalid form field.</seg>
       </tuv>
