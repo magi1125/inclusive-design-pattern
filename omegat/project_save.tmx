@@ -30150,12 +30150,15 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田)
+これ誤訳では。ここの follow は従うのではなく、後ろに書き足すという話のように思います。</note>
       <tuv lang="EN-US">
         <seg>This test selector follows similar logic to the previous test.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T073627Z" creationid="rikiha" creationdate="20170925T014504Z">
-        <seg>このテスト用セレクタは前のテストと同様のロジックに従います。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T114752Z" creationid="rikiha" creationdate="20170925T014504Z">
+        <seg>前のテストと同じロジックの後ろに、このテストのセレクタを書き足しましょう。</seg>
       </tuv>
     </tu>
     <tu>
