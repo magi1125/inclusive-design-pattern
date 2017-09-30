@@ -31288,12 +31288,14 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(伊原) 入力パスワード→入力したパスワード</note>
       <tuv lang="EN-US">
         <seg>To preserve security but give users the option to check their entered password, instead we shall provide a checkbox to reveal the password at will.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T082816Z" creationid="bakera" creationdate="20170929T082816Z">
-        <seg>セキュリティを確保しつつ、ユーザーが入力パスワードを確認できるようにするために、パスワードを表示するチェックボックスを提供することもできます。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T225630Z" creationid="bakera" creationdate="20170929T082816Z">
+        <seg>セキュリティを確保しつつ、ユーザーが入力したパスワードを確認できるようにするために、パスワードを表示するチェックボックスを提供することもできます。</seg>
       </tuv>
     </tu>
     <tu>
