@@ -12307,7 +12307,9 @@ For thatは「その実現」としてみました。
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For this purpose we can provide an accompanying description.</seg>
       </tuv>
@@ -16497,7 +16499,8 @@ look at は学びましたというか考察しましたというか。
     <tu>
       <note>(太田)
 not acceptable を invalid と訳し分けるべきか。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In this case, the password is not acceptable because it is fewer than six characters long.</seg>
       </tuv>
@@ -27500,7 +27503,9 @@ sentは「飛ばされる」としました。</note>
 
 (太田)
 password input は「パスワード入力欄」かと。
-すこし調整。</note>
+すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The password input with error message directly below in red text, prefixed by a warning symbol.</seg>
       </tuv>
