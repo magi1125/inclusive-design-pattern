@@ -4448,13 +4448,13 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 持たなければなりません→必要です。</note>
+      <note>(伊原) (微調整)</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; The tab interface &lt;g6&gt;&lt;&lt;/g6&gt;ul&lt;g7&gt;&gt;&lt;/g7&gt; must have the tablist WAI-ARIA role
 &lt;g8&gt;}&lt;/g8&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T032023Z" creationid="Administrator" creationdate="20170930T011008Z">
-        <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; タブインターフェイスの&lt;g6&gt;&lt;&lt;/g6&gt;ul&lt;g7&gt;&gt;&lt;/g7&gt;にはWAI-ARIA tablistロールが必要です。
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T032821Z" creationid="Administrator" creationdate="20170930T011008Z">
+        <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; タブインターフェイスである&lt;ul&gt;はtablist WAI-ARIAロールを持たなければなりません。
 &lt;g8&gt;}&lt;/g8&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
