@@ -20556,7 +20556,11 @@ the URLは「このページのURL」としてみました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) userは省略すると変な感じがしたので、デザイナーとしてみました。</note>
+      <note>(伊原) userは省略すると変な感じがしたので、デザイナーとしてみました。
+
+(太田)
+冒頭が砕けすぎなような。
+いったん保留。</note>
       <tuv lang="EN-US">
         <seg>Now all we need is a method for describing the issue to the user on inspection of the highlighted element.</seg>
       </tuv>
@@ -33357,12 +33361,15 @@ integratedは統合された?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整しました。</note>
+      <note>(伊原) 微調整しました。
+
+(太田) 
+elicitedを適用としてみました。</note>
       <tuv lang="EN-US">
         <seg>Where these are present, an error style could be elicited to highlight the problem.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T230349Z" creationid="rikiha" creationdate="20170925T014404Z">
-        <seg>そうしたパターンが存在する場合、エラースタイルによって問題をハイライトできます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T105739Z" creationid="rikiha" creationdate="20170925T014404Z">
+        <seg>そうしたパターンが存在する場合、エラースタイルを適用して問題をハイライトすることができます。</seg>
       </tuv>
     </tu>
     <tu>
