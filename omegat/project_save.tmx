@@ -2808,7 +2808,7 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
     </tu>
     <tu>
       <note>(太田)
-この章にこんな話ありましたっけ。
+この章にこんな話ありましたっけ。別の章にはありましたが。
 もしかして、まとめの「避けるべきこと」ってこの章のまとめではなくて、書いていないことも含めるスタンスなんですかね。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Input focus styles that are too subtle.</seg>
@@ -2987,11 +2987,12 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Missing, invisible or unassociated labels and descriptions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091036Z" creationid="bakera" creationdate="20170929T091036Z">
-        <seg>•欠けていたり、非表示になっていたり、関連付けされていないラベルや説明。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T083337Z" creationid="bakera" creationdate="20170929T091036Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;欠けていたり、非表示になっていたり、関連付けされていないラベルや説明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3702,11 +3703,14 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+訳としてはOkですがこんな話ありましたっけ?
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Uninteractive content in a &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; context that isn’t associated with form fields.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091038Z" creationid="bakera" creationdate="20170929T091038Z">
-        <seg>•フォームフィールドと関連付けられていない、&lt;form&gt;コンテキストの非インタラクティブなコンテンツ。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T083420Z" creationid="bakera" creationdate="20170929T091038Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;フォームフィールドと関連付けられていない、&lt;g2&gt;&lt;form&gt;&lt;/g2&gt;コンテキストの非インタラクティブなコンテンツ。</seg>
       </tuv>
     </tu>
     <tu>
