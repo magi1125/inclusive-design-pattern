@@ -13020,13 +13020,13 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
     <tu>
       <note>(太田)
 ざっくり調整。
-atia-invalid が set to "true" で be told it is valid と言っているのはおかしいと思いますが、後者をざっくりと「有効かどうか」として調整しました。
+atia-invalid が set to "true" で be told it is valid と言っているのはおかしいと思いますが、後者をざっくりと「エラーかどうか」として調整しました。
 </note>
       <tuv lang="EN-US">
         <seg>However, since the &lt;g1&gt;aria-invalid&lt;/g1&gt; attribute will have been set to &lt;g2&gt;true&lt;/g2&gt; regardless, when the user blurs and refocuses the field, they will be told it is valid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T071321Z" creationid="bakera" creationdate="20170929T090933Z">
-        <seg>しかし、それとは別に&lt;g1&gt;aria-invalid&lt;/g1&gt;属性も&lt;g2&gt;true&lt;/g2&gt;に設定されるでしょうから、ユーザーがフィールドから離れて再度フォーカスを合わせれば、入力内容が有効かどうか知ることができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T071350Z" creationid="bakera" creationdate="20170929T090933Z">
+        <seg>しかし、それとは別に&lt;g1&gt;aria-invalid&lt;/g1&gt;属性も&lt;g2&gt;true&lt;/g2&gt;に設定されるでしょうから、ユーザーがフィールドから離れて再度フォーカスを合わせれば、入力内容がエラーかどうか知ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19191,11 +19191,13 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整</note>
       <tuv lang="EN-US">
         <seg>Most screen readers also provide shortcuts to reannounce element information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090934Z" creationid="bakera" creationdate="20170929T090934Z">
-        <seg>また、大半のスクリーンリーダーには要素情報を再度読み上げるためのショートカットが用意されています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T071410Z" creationid="bakera" creationdate="20170929T090934Z">
+        <seg>また、大半のスクリーンリーダーには、要素の情報を再度読み上げるためのショートカットが用意されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19333,8 +19335,8 @@ image maps to link parts of those images to other pages of imagesで、「画像
       <tuv lang="EN-US">
         <seg>NVDA, for example, will speak the focused password input when pressing &lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090935Z" creationid="bakera" creationdate="20170929T090935Z">
-        <seg>たとえばNVDAでは、Insert + Tabキーを押すとフォーカスを合わせたパスワード入力が読み上げられます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T071430Z" creationid="bakera" creationdate="20170929T090935Z">
+        <seg>たとえばNVDAでは、&lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;キーを押すとフォーカスを合わせたパスワード入力が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
