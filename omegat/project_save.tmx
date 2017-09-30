@@ -10144,11 +10144,12 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整。</note>
       <tuv lang="EN-US">
         <seg>Depending on the browser, this either means no more graying out, or a grayed-out style for &lt;g1&gt;all&lt;/g1&gt; &lt;g2&gt;ERROR&lt;/g2&gt; declarations: a slight improvement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020035Z" creationid="rikiha" creationdate="20170925T020035Z">
-        <seg>ブラウザによって異なりますが、これはグレーアウトされなくなる、またはすべてのERROR宣言がグレーアウトスタイルになることを意味し、問題が少し改善されます。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T011855Z" creationid="rikiha" creationdate="20170925T020035Z">
+        <seg>ブラウザによって異なりますが、これはグレーアウトされなくなる、または&lt;g1&gt;すべて&lt;/g1&gt;の&lt;g2&gt;ERROR&lt;/g2&gt;プロパティがグレーアウトになるということであり、問題が少し改善されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22362,6 +22363,7 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 特異性を詳細度に修正。</note>
       <tuv lang="EN-US">
         <seg>Second, as an unrecognized property it is not entered into specificity calculations.</seg>
       </tuv>
