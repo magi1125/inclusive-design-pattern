@@ -4411,6 +4411,17 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 持たなければなりません→必要です。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; The tab interface &lt;g6&gt;&lt;&lt;/g6&gt;ul&lt;g7&gt;&gt;&lt;/g7&gt; must have the tablist WAI-ARIA role
+&lt;g8&gt;}&lt;/g8&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T011008Z" creationid="Administrator" creationdate="20170930T011008Z">
+        <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; タブインターフェイスの&lt;g6&gt;&lt;&lt;/g6&gt;ul&lt;g7&gt;&gt;&lt;/g7&gt;にはtablist WAI-ARIAロールが必要です。
+&lt;g8&gt;}&lt;/g8&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;No?&lt;/g4&gt; Don’t use &lt;g5&gt;&lt;fieldset&gt;&lt;/g5&gt;s.</seg>
       </tuv>
