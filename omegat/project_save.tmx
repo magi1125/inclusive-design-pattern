@@ -28642,7 +28642,8 @@ OK
 あるいは、パスワード入力欄専用の機能がない、という話なのでしょうか (type=url はURLとして検証されるが type=password はパスワードとしては検証されない)。
 それはまあ、パスワードの要件はサイトによってさまざまなので検証のしようがないわけですけれども。
 訳注?
-</note>
+
+(伊原) OK、上記コメントで訳注かなと思います。</note>
       <tuv lang="EN-US">
         <seg>There is also no functionality within HTML5 to validate a password field.</seg>
       </tuv>
