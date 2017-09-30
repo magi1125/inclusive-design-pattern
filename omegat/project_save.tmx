@@ -683,8 +683,8 @@ broken は破綻としました。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;That the field is invalid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T042415Z" creationid="bakera" creationdate="20170929T090826Z">
-        <seg>1.フィールドが無効であること</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T042556Z" creationid="bakera" creationdate="20170929T090826Z">
+        <seg>1.&lt;/g1&gt;そのフィールドがエラーになっていること</seg>
       </tuv>
     </tu>
     <tu>
@@ -861,8 +861,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;What would make the field valid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090828Z" creationid="bakera" creationdate="20170929T090828Z">
-        <seg>2.どうすれば有効なフィールドになるか</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T042648Z" creationid="bakera" creationdate="20170929T090828Z">
+        <seg>2.&lt;/g1&gt;何をすれば有効な入力になるか</seg>
       </tuv>
     </tu>
     <tu>
@@ -10815,8 +10815,8 @@ line-heightは原文の原稿では小文字なのですが、この見出しは
       <tuv lang="EN-US">
         <seg>Except for the wording of error descriptions, the pattern will be the same for each invalid input, so we’ll just use the password field as an exemplar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090829Z" creationid="bakera" creationdate="20170929T090829Z">
-        <seg>エラーを説明する言葉を除き、パターンはそれぞれの無効な入力と同じです。パスワードフィールドを例にしてみましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T042829Z" creationid="bakera" creationdate="20170929T090829Z">
+        <seg>ここでのパターンは、エラーを説明する言葉が追加された、それぞれの無効な入力と同じです。パスワードフィールドを例にしてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20552,8 +20552,8 @@ familiarを「十分に学習してきた」としていますが、「十分に
       <tuv lang="EN-US">
         <seg>Now we can safely move on to handling the invalid fields.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090823Z" creationid="bakera" creationdate="20170929T090823Z">
-        <seg>これで安心して無効フィールドの処理へと進めます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T042526Z" creationid="bakera" creationdate="20170929T090823Z">
+        <seg>これで安心してエラーのあるフィールドを扱うことができるようになります。</seg>
       </tuv>
     </tu>
     <tu>
