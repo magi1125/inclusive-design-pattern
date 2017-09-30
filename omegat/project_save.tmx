@@ -10421,12 +10421,15 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
     <tu>
       <note>(伊原) 構築➞組み立て
 
-(太田) OK</note>
+(太田) 
+後を読むと、CSSのセレクタは一見単純だが、実は複雑なロジックを内包していてそれがシンプルに書けるのだ、ということを言いたいものと思われます。
+ということで、「(実は)ロジックが存在する」ということが主題という感じに調整しました。
+</note>
       <tuv lang="EN-US">
         <seg>Despite CSS being a declarative language, there is a logic in the formulation of selectors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T141255Z" creationid="rikiha" creationdate="20170925T014350Z">
-        <seg>CSSは宣言型言語ですが、セレクタの組み立てにはロジックがあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T105211Z" creationid="rikiha" creationdate="20170925T014350Z">
+        <seg>CSSは宣言型言語ですが、セレクタの構造の中にはロジックが存在しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22380,6 +22383,8 @@ wouldなので語尾を「ことがあります」としました。
       <note>(伊原) 微調整。
 うーん、これ、わかりやすくなってるんでしょうかw
 
+(太田)
+CSSのセレクタは、実はクソ面倒な処理を簡単に書けるんだよ、という説明だと思います。なので、ここは「JSで書き直すとわかりにくい」ということが伝わればよく、これで良いかと。
 </note>
       <tuv lang="EN-US">
         <seg>Rewritten in JavaScript:</seg>
