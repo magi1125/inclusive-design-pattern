@@ -1040,8 +1040,8 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
 
 &lt;g16&gt;[role="tablist"] li:not([role="presentation"]) &lt;/g16&gt;&lt;g17&gt;{&lt;/g17&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T032045Z" creationid="Administrator" creationdate="20170930T031418Z">
-        <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"tablist内の各&lt;a&gt;要素には、支援技術にタブとしてカウントさせるためのWAI-ARIA tabロールが必要です。&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T032415Z" creationid="Administrator" creationdate="20170930T031418Z">
+        <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"tablist内の各&lt;a&gt;要素には、支援技術にタブとしてカウントさせるためのWAI-ARIA tabロールが必要です。"&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
 &lt;g15&gt;}&lt;/g15&gt;
 
 &lt;g16&gt;[role="tablist"] li:not([role="presentation"]) &lt;/g16&gt;&lt;g17&gt;{&lt;/g17&gt;</seg>
@@ -4433,6 +4433,7 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) いったん翻訳</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;"The tab interface &lt;ul&gt; must have the tablist WAI-ARIA role to be recognized in assistive technologies."&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
 &lt;g8&gt;}&lt;/g8&gt;
@@ -32863,6 +32864,20 @@ integratedは統合された?
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170913T102307Z" creationid="rikiha" creationdate="20170909T223431Z">
         <seg>可能な限り、&lt;g1&gt;&lt;g2&gt;XHR&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注161）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を利用してリストを再表示することを心がけるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where the tab interface is instated, these semantics are irrelevant."&lt;/g20&gt;&lt;g21&gt;;&lt;/g21&gt;
+&lt;g22&gt;}&lt;/g22&gt;
+
+&lt;g23&gt;[role="tablist"] a[aria-selected][tabindex="-1"] &lt;/g23&gt;&lt;g24&gt;{&lt;/g24&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T032400Z" creationid="Administrator" creationdate="20170930T032400Z">
+        <seg>タブインターフェイスとなっている場合、このセマンティクスは不適切です。"&lt;/g20&gt;&lt;g21&gt;;&lt;/g21&gt;
+&lt;g22&gt;}&lt;/g22&gt;
+
+&lt;g23&gt;[role="tablist"] a[aria-selected][tabindex="-1"] &lt;/g23&gt;&lt;g24&gt;{&lt;/g24&gt;</seg>
       </tuv>
     </tu>
     <tu>
