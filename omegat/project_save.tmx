@@ -1362,8 +1362,8 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       <tuv lang="EN-US">
         <seg>&lt;g18&gt;ERROR&lt;/g18&gt;&lt;g19&gt;:&lt;/g19&gt; &lt;g20&gt;"Remove the &lt;li&gt; semantics with the WAI-ARIA presentation role.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T033819Z" creationid="Administrator" creationdate="20170930T032144Z">
-        <seg>&lt;g18&gt;ERROR&lt;/g18&gt;&lt;g19&gt;:&lt;/g19&gt; &lt;g20&gt;"WAI-ARIA presentationロールで&lt;li&gt;のセマンティクスを取り除いてください。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T040438Z" creationid="Administrator" creationdate="20170930T032144Z">
+        <seg>&lt;g18&gt;ERROR&lt;/g18&gt;&lt;g19&gt;:&lt;/g19&gt; &lt;g20&gt;"WAI-ARIA presentationロールを指定して&lt;li&gt;のセマンティクスを取り除いてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4160,8 +4160,8 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
 
 &lt;g37&gt;[role="tabpanel"]:not([aria-labelledby^="tab"]) &lt;/g37&gt;&lt;g38&gt;{&lt;/g38&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T034646Z" creationid="Administrator" creationdate="20170930T034208Z">
-        <seg>&lt;g32&gt;ERROR&lt;/g32&gt;&lt;g33&gt;:&lt;/g33&gt; &lt;g34&gt;"選択されていないタブはすべて、tabindex値が-1で、左右の矢印キーを使う方法でのみフォーカス可能にするべきです。"&lt;/g34&gt;&lt;g35&gt;;&lt;/g35&gt;
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T040506Z" creationid="Administrator" creationdate="20170930T034208Z">
+        <seg>&lt;g32&gt;ERROR&lt;/g32&gt;&lt;g33&gt;:&lt;/g33&gt; &lt;g34&gt;"選択されていないタブはすべて、tabindex値を-1とし、左右の矢印キーを使う方法でのみフォーカス可能にするべきです。"&lt;/g34&gt;&lt;g35&gt;;&lt;/g35&gt;
 &lt;g36&gt;}&lt;/g36&gt;
 
 &lt;g37&gt;[role="tabpanel"]:not([aria-labelledby^="tab"]) &lt;/g37&gt;&lt;g38&gt;{&lt;/g38&gt;</seg>
