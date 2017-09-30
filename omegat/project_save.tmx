@@ -9399,8 +9399,8 @@ Tabの件は了解です、ありがとうございます。</note>
       <tuv lang="EN-US">
         <seg>By debouncing, we divide clusters of keypress events into blocks and only execute &lt;g2&gt;validate()&lt;/g2&gt; once per block.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T061449Z" creationid="bakera" creationdate="20170929T090916Z">
-        <seg>デバウンスにより、キーストロークイベントの塊をブロックに分割して、ブロックごとに&lt;g2&gt;validate()&lt;/g2&gt;を実行します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T065037Z" creationid="bakera" creationdate="20170929T090916Z">
+        <seg>デバウンスにより、keypressイベントの塊をブロックに分割して、ブロックごとに&lt;g2&gt;validate()&lt;/g2&gt;を実行します。</seg>
       </tuv>
     </tu>
     <tu>
