@@ -4159,8 +4159,8 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
 
 &lt;g37&gt;[role="tabpanel"]:not([aria-labelledby^="tab"]) &lt;/g37&gt;&lt;g38&gt;{&lt;/g38&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T034208Z" creationid="Administrator" creationdate="20170930T034208Z">
-        <seg>&lt;g32&gt;ERROR&lt;/g32&gt;&lt;g33&gt;:&lt;/g33&gt; &lt;g34&gt;"選択されていないタブはすべて、tabindex 値が-1 で、左右の矢印キーを使う方法でのみフォ ーカスできなければなりません。"&lt;/g34&gt;&lt;g35&gt;;&lt;/g35&gt;
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T034646Z" creationid="Administrator" creationdate="20170930T034208Z">
+        <seg>&lt;g32&gt;ERROR&lt;/g32&gt;&lt;g33&gt;:&lt;/g33&gt; &lt;g34&gt;"選択されていないタブはすべて、tabindex値が-1で、左右の矢印キーを使う方法でのみフォーカス可能にするべきです。"&lt;/g34&gt;&lt;g35&gt;;&lt;/g35&gt;
 &lt;g36&gt;}&lt;/g36&gt;
 
 &lt;g37&gt;[role="tabpanel"]:not([aria-labelledby^="tab"]) &lt;/g37&gt;&lt;g38&gt;{&lt;/g38&gt;</seg>
