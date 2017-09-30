@@ -30081,12 +30081,14 @@ accessible roleはどうしたものか。英語だとroleという語に多様�
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(伊原) cognitive accessibilityは前に認知アクセシビリティと訳していたので、揃えました。</note>
       <tuv lang="EN-US">
         <seg>This produces cognitive accessibility issues and is broadly uninclusive as an interface pattern.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170927T080713Z" creationid="bakera" creationdate="20170927T080713Z">
-        <seg>これは、認知障害に関するアクセシビリティの問題の原因となるうえ、インターフェイスパターンとしても明らかにインクルーシブとは言えません。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T170118Z" creationid="bakera" creationdate="20170927T080713Z">
+        <seg>これは、認知アクセシビリティの問題の原因となるうえ、インターフェイスパターンとしても明らかにインクルーシブとは言えません。</seg>
       </tuv>
     </tu>
     <tu>
