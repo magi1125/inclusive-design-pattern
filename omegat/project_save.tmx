@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1729,6 +1729,18 @@ https://en.wikipedia.org/wiki/Flapjack_(oat_bar)
       <tuv lang="JA" changeid="bakera" changedate="20170929T063326Z">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;label&lt;/g3&gt; &lt;g5&gt;for&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"password"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;パスワード&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;label&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;
 &lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;&lt;/g15&gt;input&lt;/g14&gt; &lt;g16&gt;type&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"password"&lt;/g17&gt; &lt;g19&gt;id&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"password"&lt;/g20&gt; &lt;g22&gt;name&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"password"&lt;/g23&gt;&lt;g25&gt;&gt;&lt;/g25&gt;&lt;/g13&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;label&lt;/g3&gt; &lt;g5&gt;for&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"password"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;Choose a password&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;label&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;
+&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;&lt;/g15&gt;input&lt;/g14&gt; &lt;g16&gt;type&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"text"&lt;/g17&gt; &lt;g19&gt;id&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"password"&lt;/g20&gt; &lt;g22&gt;name&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"password"&lt;/g23&gt; &lt;g25&gt;aria-invalid&lt;/g25&gt;&lt;g26&gt;&lt;g27&gt;=&lt;/g27&gt;"true"&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g13&gt;
+&lt;g29&gt;&lt;g30&gt;&lt;g31&gt;&lt;&lt;/g31&gt;label&lt;/g30&gt;&lt;g32&gt;&gt;&lt;/g32&gt;&lt;/g29&gt;&lt;g33&gt;&lt;g34&gt;&lt;g35&gt;&lt;&lt;/g35&gt;input&lt;/g34&gt; &lt;g36&gt;type&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"checkbox"&lt;/g37&gt; &lt;g39&gt;id&lt;/g39&gt;&lt;g40&gt;&lt;g41&gt;=&lt;/g41&gt;"showPassword"&lt;/g40&gt;&lt;g42&gt;&gt;&lt;/g42&gt;&lt;/g33&gt; show password&lt;g43&gt;&lt;g44&gt;&lt;g45&gt;&lt;/&lt;/g45&gt;label&lt;/g44&gt;&lt;g46&gt;&gt;&lt;/g46&gt;&lt;/g43&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T043441Z" creationid="bakera" creationdate="20170930T043441Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;label&lt;/g3&gt; &lt;g5&gt;for&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"password"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;パスワード&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;label&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;
+&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;&lt;/g15&gt;input&lt;/g14&gt; &lt;g16&gt;type&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"text"&lt;/g17&gt; &lt;g19&gt;id&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"password"&lt;/g20&gt; &lt;g22&gt;name&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"password"&lt;/g23&gt; &lt;g25&gt;aria-invalid&lt;/g25&gt;&lt;g26&gt;&lt;g27&gt;=&lt;/g27&gt;"true"&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g13&gt;
+&lt;g29&gt;&lt;g30&gt;&lt;g31&gt;&lt;&lt;/g31&gt;label&lt;/g30&gt;&lt;g32&gt;&gt;&lt;/g32&gt;&lt;/g29&gt;&lt;g33&gt;&lt;g34&gt;&lt;g35&gt;&lt;&lt;/g35&gt;input&lt;/g34&gt; &lt;g36&gt;type&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"checkbox"&lt;/g37&gt; &lt;g39&gt;id&lt;/g39&gt;&lt;g40&gt;&lt;g41&gt;=&lt;/g41&gt;"showPassword"&lt;/g40&gt;&lt;g42&gt;&gt;&lt;/g42&gt;&lt;/g33&gt;パスワードを表示&lt;g43&gt;&lt;g44&gt;&lt;g45&gt;&lt;/&lt;/g45&gt;label&lt;/g44&gt;&lt;g46&gt;&gt;&lt;/g46&gt;&lt;/g43&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10818,8 +10830,8 @@ line-heightは原文の原稿では小文字なのですが、この見出しは
       <tuv lang="EN-US">
         <seg>Except for the wording of error descriptions, the pattern will be the same for each invalid input, so we’ll just use the password field as an exemplar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T043219Z" creationid="bakera" creationdate="20170929T090829Z">
-        <seg>このパターンは、エラーの説明文言が異なる他は共通で、エラーになっている入力欄それぞれに適用します。パスワード入力欄を例にしてみましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T043331Z" creationid="bakera" creationdate="20170929T090829Z">
+        <seg>このパターンは、エラーになっている入力欄それぞれに対し、エラーの説明文言が異なる以外は共通のものを適用します。パスワード入力欄を例にしてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11303,8 +11315,8 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       <tuv lang="EN-US">
         <seg>For (1) we can deploy the well-supported &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-invalid&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;17&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; attribute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090831Z" creationid="bakera" creationdate="20170929T090831Z">
-        <seg>(1)については、広くサポートされているaria-invalid属性（脚注188）を使用できます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T043416Z" creationid="bakera" creationdate="20170929T090831Z">
+        <seg>(1) については、広くサポートされている&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-invalid&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注188）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;属性を使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24831,6 +24843,8 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+OK</note>
       <tuv lang="EN-US">
         <seg>That’s about it, really.</seg>
       </tuv>
@@ -32769,11 +32783,16 @@ reorganize難しいですね。「状態を変える」か、超訳ですが「�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+NVDA2017.3jaでは「正しくない入力内容」と読みました。
+
+
+</note>
       <tuv lang="EN-US">
         <seg>When the user moves back into the form and focuses the input it will now announce “Invalid” (or similar) in screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090834Z" creationid="bakera" creationdate="20170929T090834Z">
-        <seg>ユーザーがフォームに戻ってパスワード入力にフォーカスを合わせると、スクリーンリーダーが「＃＃無効＃＃」などと読み上げます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T044738Z" creationid="bakera" creationdate="20170929T090834Z">
+        <seg>ユーザーがフォームに戻ってこの入力欄にフォーカスを合わせると、スクリーンリーダーは「正しくない入力内容」などと読み上げます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33524,11 +33543,13 @@ Yetは「しかし」ではなく「また」とすべきかもしれません�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+aria-invalidを利用して、という感じですね。</note>
       <tuv lang="EN-US">
         <seg>You can harness the &lt;g1&gt;aria-invalid&lt;/g1&gt; attribute to provide a visual indication too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090836Z" creationid="bakera" creationdate="20170929T090836Z">
-        <seg>aria-invalid属性を使って視覚表示を提供することもできます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T044903Z" creationid="bakera" creationdate="20170929T090836Z">
+        <seg>この&lt;g1&gt;aria-invalid&lt;/g1&gt;属性を、視覚表示の提示に利用することもできます。</seg>
       </tuv>
     </tu>
     <tu>
