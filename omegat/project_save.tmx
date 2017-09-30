@@ -29977,7 +29977,9 @@ esotericは特殊というより、他で使われていないというニュア
     </tu>
     <tu>
       <note>(太田)
-元訳がだいぶ意訳気味ですが、これはこれでOkかと。</note>
+元訳がだいぶ意訳気味ですが、これはこれでOkかと。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This just leaves us the job of silencing the asterisk, for which we can use &lt;g7&gt;aria-hidden&lt;/g7&gt;.</seg>
       </tuv>
@@ -34197,7 +34199,9 @@ aria-invalidを利用して、という感じですね。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) Ok</note>
+      <note>(太田) Ok
+
+(伊原) OK. display: none;も読み上げられなくなるけどw</note>
       <tuv lang="EN-US">
         <seg>You can think of &lt;g8&gt;aria-hidden="true"&lt;/g8&gt; as the aural equivalent of &lt;g9&gt;display: none;&lt;/g9&gt;.</seg>
       </tuv>
