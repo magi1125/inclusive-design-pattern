@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25029,12 +25029,14 @@ OK</note>
     </tu>
     <tu>
       <note>(太田)
-cipherを暗号とするのは訳としては正しいのですが、これはどちらかいえばHPなのでどうしたものかなと。</note>
+cipherを暗号とするのは訳としては正しいのですが、これはどちらかいえばHPで、ヘイドンさんはidrefで参照されるidをcipherと呼んでいるという話なんですよね。どうしても訳すなら、暗号だと大げさなので「カギ」くらいでしょうが、まあ本題と関係ないのでスルー気味に対応しました。
+
+</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;#password-hint&lt;/g1&gt; element is connected to the input using the &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;18&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; attribute and the &lt;g8&gt;password-hint&lt;/g8&gt; &lt;g9&gt;id&lt;/g9&gt; as a cipher.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T051426Z" creationid="bakera" creationdate="20170929T090851Z">
-        <seg>&lt;g1&gt;#password-hint&lt;/g1&gt;要素が、&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注189）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;属性と&lt;g8&gt;password-hint&lt;/g8&gt; &lt;g9&gt;id&lt;/g9&gt;を暗号として使用して、入力に接続されています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T051959Z" creationid="bakera" creationdate="20170929T090851Z">
+        <seg>この&lt;g1&gt;#password-hint&lt;/g1&gt;要素は、&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注189）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;属性に&lt;g8&gt;password-hint&lt;/g8&gt;という&lt;g9&gt;id&lt;/g9&gt;を指定することで暗号として使用して、入力に接続されています。</seg>
       </tuv>
     </tu>
     <tu>
