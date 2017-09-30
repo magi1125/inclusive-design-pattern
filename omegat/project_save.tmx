@@ -1040,8 +1040,8 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
 
 &lt;g16&gt;[role="tablist"] li:not([role="presentation"]) &lt;/g16&gt;&lt;g17&gt;{&lt;/g17&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T032415Z" creationid="Administrator" creationdate="20170930T031418Z">
-        <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"tablist内の各&lt;a&gt;要素には、支援技術にタブとしてカウントさせるためのWAI-ARIA tabロールが必要です。"&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T033129Z" creationid="Administrator" creationdate="20170930T031418Z">
+        <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"支援技術にタブと見なされるためには、tablist内の&lt;a&gt;要素は、それぞれがtab WAI-ARIAロールを持たなければなりません。"&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
 &lt;g15&gt;}&lt;/g15&gt;
 
 &lt;g16&gt;[role="tablist"] li:not([role="presentation"]) &lt;/g16&gt;&lt;g17&gt;{&lt;/g17&gt;</seg>
@@ -4433,7 +4433,7 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) いったん翻訳</note>
+      <note>(伊原) 前のと揃えました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;"The tab interface &lt;ul&gt; must have the tablist WAI-ARIA role to be recognized in assistive technologies."&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
 &lt;g8&gt;}&lt;/g8&gt;
