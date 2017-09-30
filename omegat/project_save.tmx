@@ -11691,6 +11691,11 @@ coverは説明するというか触れている程度かもしれません。
 微調整。
 後半は言っていることが逆のような?
 (既にエラーになっているはずなので)
+
+
+errataを見たら同じコメントをしている人がいますね。
+https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
+Do you mean change the input invalid to valid or change aria-invalid=”false” to aria-invalid=”false”?
 </note>
       <tuv lang="EN-US">
         <seg>For fields now marked invalid, we could run our validation routine on each &lt;g2&gt;input&lt;/g2&gt; event, switching &lt;g3&gt;aria-invalid&lt;/g3&gt; from &lt;g4&gt;false&lt;/g4&gt; to &lt;g5&gt;true&lt;/g5&gt; where applicable.</seg>
