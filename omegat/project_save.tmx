@@ -3844,7 +3844,7 @@ NVDA2017.3jaでは、
 となりました。
 aria-pressedの読み上げは2017.3で変更になったようです。
 
-(伊原) OK、slackで西本さんが言及されていましたね。
+(伊原) OK、A11YJ Slackで西本さんが言及されていましたね。
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;When screen reader users focus the first button, “Login or register toolbar, login toggle button, selected” (or similar, depending on the screen reader) is announced.</seg>
@@ -29311,7 +29311,9 @@ marginは「マージン」で良いかと。
     </tu>
     <tu>
       <note>(太田)
-interactは「操作」としました。</note>
+interactは「操作」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This informs users that they are interacting with a toolbar widget presenting them with a choice of “Login or register” and that the “login” option is currently activated.</seg>
       </tuv>
