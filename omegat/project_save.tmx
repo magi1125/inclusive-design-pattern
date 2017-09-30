@@ -20703,8 +20703,8 @@ familiarを「十分に学習してきた」としていますが、「十分に
       <tuv lang="EN-US">
         <seg>Of course, none of this can technically &lt;g1&gt;fail&lt;/g1&gt; a build in its current form; it just highlights errors visually, for the front-end developer to see.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020452Z" creationid="rikiha" creationdate="20170925T020452Z">
-        <seg>もちろん、現在の形式で、技術的にこれらが原因でビルドが失敗することはありません。フロントエンド開発者に見えるよう、エラーを視覚的に際立たせているだけです。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T041214Z" creationid="rikiha" creationdate="20170925T020452Z">
+        <seg>もちろん現在の形式では、これde技術的なビルドの&lt;g1&gt;失敗&lt;/g1&gt;ということは起きません。フロントエンド開発者に見えるよう、エラーを視覚的に際立たせているだけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22423,6 +22423,7 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 下訳を反映しつつ調整。</note>
       <tuv lang="EN-US">
         <seg>Screen reader users must be able to move directly into the open tab panel from the selected tab."&lt;/g55&gt;&lt;g56&gt;;&lt;/g56&gt;
 &lt;g57&gt;}&lt;/g57&gt;
