@@ -26181,7 +26181,7 @@ http://www.unicode.org/charts/PDF/U2600.pdf
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 長いので2文に分割。カスケードが落ちていたので修正。</note>
+      <note>(伊原) 長いので2文に分割。カスケードが落ちていたので修正。「最終的に適用されたプロパティ」とかに意訳したほうがいいか？</note>
       <tuv lang="EN-US">
         <seg>The first is that when two errors apply to the same element, all but the last in the cascade will be grayed out (with a line-through style) in the CSS inspector.</seg>
       </tuv>
