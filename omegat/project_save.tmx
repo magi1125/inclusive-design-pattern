@@ -9703,7 +9703,9 @@ can的なものはないので「築けます」というより「築きます�
     </tu>
     <tu>
       <note>(太田)
-parsable state は言わなくてもわかるので取りました。</note>
+parsable state は言わなくてもわかるので取りました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>By linking the parsable state of &lt;g2&gt;aria-invalid="true"&lt;/g2&gt; to a visual style, you save yourself the bother of managing style and state as separate concerns.</seg>
       </tuv>
@@ -32110,12 +32112,16 @@ don’t get out of sync は二重否定でわかりにくいので、単に「�
     </tu>
     <tu>
       <note>(太田)
-ここのconcernは問題でいいのか。</note>
+ここのconcernは問題でいいのか。
+
+(伊原) http://ejje.weblio.jp/content/concern 
+不可算名詞 [通例 of concern で] 重要性.
+とのこと。大きな問題は分割する的な感じでしょうか。課題ぐらいでもいいのかも。</note>
       <tuv lang="EN-US">
         <seg>Usually a separation of concerns is beneficial, but whenever a field is marked as invalid, that’s when it should &lt;g3&gt;look&lt;/g3&gt; invalid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T045708Z" creationid="bakera" creationdate="20170929T090838Z">
-        <seg>多くの場合、問題を分離するは有益なことですが、フィールドがエラーとマークされている場合は、常にエラーであるように&lt;g3&gt;見える&lt;/g3&gt;べきです。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T234648Z" creationid="bakera" creationdate="20170929T090838Z">
+        <seg>多くの場合、問題を分離するのは有益なことですが、フィールドがエラーとマークされている場合は、常にエラーであるように&lt;g3&gt;見える&lt;/g3&gt;べきです。</seg>
       </tuv>
     </tu>
     <tu>
