@@ -2807,11 +2807,14 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+この章にこんな話ありましたっけ。
+もしかして、まとめの「避けるべきこと」ってこの章のまとめではなくて、書いていないことも含めるスタンスなんですかね。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Input focus styles that are too subtle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091034Z" creationid="bakera" creationdate="20170929T091034Z">
-        <seg>•非常に分かりにくい入力フォーカススタイル。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T083223Z" creationid="bakera" creationdate="20170929T091034Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;非常に分かりにくい入力フォーカススタイル。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3077,11 +3080,13 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Putting content that needs to be read &lt;g2&gt;first&lt;/g2&gt; last in the source.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T091033Z" creationid="bakera" creationdate="20170929T091033Z">
-        <seg>•最初に読む必要のあるコンテンツをソースの最後に配置する。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T083233Z" creationid="bakera" creationdate="20170929T091033Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;最初&lt;/g2&gt;に読む必要のあるコンテンツを、ソースの最後に配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9001,8 +9006,8 @@ http://thesaurus.weblio.jp/content/試金石
       <tuv lang="EN-US">
         <seg>But by keeping the form simple and avoiding irritating experiences — like disappearing labels, and passwords that you cannot check — we’ve made sure using the form isn’t just possible but somewhat agreeable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T082551Z" creationid="bakera" creationdate="20170929T091028Z">
-        <seg>フォームをシンプルに保ち、不快な体験――消えてしまうラベルや、確認することができないパスワードなど――を避けることで、ただ使えるというだけでなく、多少なりとも気持ち良く入力できるフォームにすることができました。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T082829Z" creationid="bakera" creationdate="20170929T091028Z">
+        <seg>フォームをシンプルに保ち、不快な体験――消えてしまうラベルや、確認することができないパスワードなど――を避けることで、ただ使えるというだけでなく、多少なりとも快く入力できるフォームにすることができました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32401,12 +32406,13 @@ OK</note>
     </tu>
     <tu>
       <note>(太田)
-前分節のagreeableを受けて、disagreeableのdisを強調している文。どうしたものか。</note>
+前分節のagreeableを受けて、disagreeableのdisを強調している文。どうしたものか。
+ひとまず前の文を「快く」、こちらを「不快」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Well, not entirely &lt;g1&gt;dis&lt;/g1&gt;agreeable anyway!</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T082747Z" creationid="bakera" creationdate="20170929T091030Z">
-        <seg>まあ少なくとも、不愉快しか感じられないフォームになることはないでしょう！</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T082929Z" creationid="bakera" creationdate="20170929T091030Z">
+        <seg>まあ少なくとも、&lt;g1&gt;不&lt;/g1&gt;快なだけのフォームにはなっていないでしょう！</seg>
       </tuv>
     </tu>
     <tu>
