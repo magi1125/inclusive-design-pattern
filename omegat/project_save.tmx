@@ -26175,11 +26175,12 @@ http://www.unicode.org/charts/PDF/U2600.pdf
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整。</note>
       <tuv lang="EN-US">
         <seg>The first is that pseudo-content becomes entirely redundant, along with the &lt;g2&gt;display:none;&lt;/g2&gt; property, reducing an individual CSS error to this:</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020026Z" creationid="rikiha" creationdate="20170925T020026Z">
-        <seg>まず、display:none;プロパティと共にpseudo-contentがもっぱら冗長になり、各CSSエラーが次のように減ります。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T010520Z" creationid="rikiha" creationdate="20170925T020026Z">
+        <seg>まず、&lt;g2&gt;display:none;&lt;/g2&gt;プロパティとともにpseudo-contentが完全に不要になり、各CSSエラーの記述が以下のように短縮されます。</seg>
       </tuv>
     </tu>
     <tu>
