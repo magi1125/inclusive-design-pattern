@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24678,11 +24678,15 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+この結び付け方がlabelのfor/idとそっくりという話。
+調整しました。
+</note>
       <tuv lang="EN-US">
         <seg>That is, the description is connected much like the label.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090852Z" creationid="bakera" creationdate="20170929T090852Z">
-        <seg>つまり、説明はラベルと同じように接続されています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T052210Z" creationid="bakera" creationdate="20170929T090852Z">
+        <seg>つまり、この説明文は、ラベルとそっくりな方法で結び付けられています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25036,8 +25040,8 @@ cipherを暗号とするのは訳としては正しいのですが、これは�
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;#password-hint&lt;/g1&gt; element is connected to the input using the &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;18&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; attribute and the &lt;g8&gt;password-hint&lt;/g8&gt; &lt;g9&gt;id&lt;/g9&gt; as a cipher.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T051959Z" creationid="bakera" creationdate="20170929T090851Z">
-        <seg>この&lt;g1&gt;#password-hint&lt;/g1&gt;要素は、&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注189）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;属性に&lt;g8&gt;password-hint&lt;/g8&gt;という&lt;g9&gt;id&lt;/g9&gt;を指定することで暗号として使用して、入力に接続されています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T052032Z" creationid="bakera" creationdate="20170929T090851Z">
+        <seg>この&lt;g1&gt;#password-hint&lt;/g1&gt;要素は、&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注189）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;属性に&lt;g8&gt;password-hint&lt;/g8&gt;という&lt;g9&gt;id&lt;/g9&gt;を指定することによって、入力欄に結びつけられています。</seg>
       </tuv>
     </tu>
     <tu>
