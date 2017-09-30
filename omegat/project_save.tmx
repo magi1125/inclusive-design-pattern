@@ -36604,12 +36604,16 @@ confidenceをどうするか難しいですね。コードの信頼性を担保�
     <tu>
       <prop type="file">chapter-27.html</prop>
       <prop type="id">tu3_0</prop>
-      <note>(伊原) ビルドを通っていれば大丈夫だといえる、という事をいいたいのだと思うので調整。</note>
+      <note>(伊原) ビルドを通っていれば大丈夫だといえる、という事をいいたいのだと思うので調整。
+
+(太田)
+期待される結果を定義するためにテストを書く、というニュアンスかなと。テストファーストというのが重要です。
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>By writing tests first, to prescribe outcomes, then creating the functionality to achieve them, you can ensure successful builds behave in a predictable and reliable fashion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T122418Z" creationid="rikiha" creationdate="20170925T014158Z">
-        <seg>まずテストを書き、結果を定義し、それを達成する機能を作ります。そうすることで、テストを通ってビルドに成功したものが、想定通りに確実に動くことを保証できます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T085708Z" creationid="rikiha" creationdate="20170925T014158Z">
+        <seg>まずテストを書いて期待される結果を定義してから、それを満たすように機能を作ることで、ビルドに成功したものが想定通り確実に動作することを保証できます。</seg>
       </tuv>
     </tu>
     <tu>
