@@ -8359,11 +8359,12 @@ https://ja.wikipedia.org/wiki/精密科学
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) be honored by で恩恵に浴する。上手い訳が思い浮かばず、いったん適用のままで。</note>
       <tuv lang="EN-US">
         <seg>Be aware that this style will be honored by any declaration using an unrecognized property.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T022552Z" creationid="rikiha" creationdate="20170925T020413Z">
-        <seg>このスタイルは大部分のどんな宣言によっても尊重されru注意してください。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T022754Z" creationid="rikiha" creationdate="20170925T020413Z">
+        <seg>このスタイルは、エラー以外のあらゆる認識されない宣言に対しても適用される点に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
