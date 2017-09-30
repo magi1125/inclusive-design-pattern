@@ -5174,6 +5174,10 @@ It feels like the CSS block is incomplete, especially since the note following t
         <seg>&lt;g7&gt;background&lt;/g7&gt;&lt;g8&gt;:&lt;/g8&gt; url ('images/warning-icon.svg') center right&lt;g9&gt;;&lt;/g9&gt;
 &lt;g10&gt;}&lt;/g10&gt;&lt;/g1&gt;</seg>
       </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T235142Z">
+        <seg>&lt;g7&gt;background&lt;/g7&gt;&lt;g8&gt;:&lt;/g8&gt; url('images/warning-icon.svg') center right&lt;g9&gt;;&lt;/g9&gt;
+&lt;g10&gt;}&lt;/g10&gt;&lt;/g1&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -32102,7 +32106,9 @@ unless or until は厳密に訳さなくても良いように思います。
     <tu>
       <note>(太田)
 ここのfunctionは機能のほうかと。
-don’t get out of sync は二重否定でわかりにくいので、単に「同期させる」としました。</note>
+don’t get out of sync は二重否定でわかりにくいので、単に「同期させる」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Using the attribute selector for the state makes sure the form and underlying function of your interface don’t get out of sync.</seg>
       </tuv>
