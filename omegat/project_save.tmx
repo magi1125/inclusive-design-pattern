@@ -5553,11 +5553,12 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) ほぼaltそのまま。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Screenshot of devtools declaration block with &lt;g4&gt;display: none;&lt;/g4&gt; declaration above the content declaration.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170929T235819Z" creationid="Administrator" creationdate="20170929T235819Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;開発ツールのCSS宣言ブロックのスクリーンショット。contentの上に&lt;g4&gt;display:none;&lt;/g4&gt;がある。&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T000042Z" creationid="Administrator" creationdate="20170929T235819Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;開発ツールのCSS宣言ブロックのスクリーンショット。contentプロパティの上の行に&lt;g4&gt;display:none;&lt;/g4&gt;が指定されています。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22311,11 +22312,12 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 下訳から調整しつつ反映。キャプションとほぼ同じなので、これでよいのか検討。</note>
       <tuv lang="EN-US">
         <seg>Screenshot of dev tools declaration block with a display:none; declaration above the content declaration.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170929T235750Z" creationid="Administrator" creationdate="20170929T235750Z">
-        <seg>開発ツールのCSS宣言ブロックのスクリーンショット。contentの上にdisplay:none;がある。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T000014Z" creationid="Administrator" creationdate="20170929T235750Z">
+        <seg>開発ツールのCSS宣言ブロックのスクリーンショット。contentプロパティの上の行にdisplay:none;が指定されている。</seg>
       </tuv>
     </tu>
     <tu>
