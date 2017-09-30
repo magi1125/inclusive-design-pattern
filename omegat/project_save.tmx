@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6980,11 +6980,13 @@ listenは「監視」としてみました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+少し調整。</note>
       <tuv lang="EN-US">
         <seg>All the pieces are in place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090855Z" creationid="bakera" creationdate="20170929T090855Z">
-        <seg>すべてのピースがしかるべき場所に収まっています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T052918Z" creationid="bakera" creationdate="20170929T090855Z">
+        <seg>すべてのピースがしかるべき場所に収まりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20702,11 +20704,15 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すごい抜けてますね。
+ラベル、現在値、入力欄のタイプ、状態、が読まれたあと、最後に説明文が読まれるという話です。
+</note>
       <tuv lang="EN-US">
         <seg>Now, when a screen reader user focuses the input, this accessible description will be read out after the label, current value, input type and (invalid) state information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090854Z" creationid="bakera" creationdate="20170929T090854Z">
-        <seg>これで、スクリーンリーダーユーザーが入力にフォーカスを合わせると、ラベルの後にこのアクセシブルな説明が読み上げられるようになりました。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T052855Z" creationid="bakera" creationdate="20170929T090854Z">
+        <seg>スクリーンリーダーユーザーが入力にフォーカスを合わせると、ラベル、現在入力されている値、入力欄のタイプ、状態についての情報 (エラーであること) が読まれた後に、アクセシブルな説明文が読み上げられることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23810,11 +23816,15 @@ might as wellは「どうせなら」「ついでだから」のような意味�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+fancyはしゃれているくらい?
+liveを訳出したいですが「ライブ」「生」はちょっと変なので「リアルタイムで」としました。
+</note>
       <tuv lang="EN-US">
         <seg>Some fancy form validation scripts give you live feedback as you type your text entries, letting you know whether what you type is valid &lt;g1&gt;as&lt;/g1&gt; you type it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090858Z" creationid="bakera" creationdate="20170929T090858Z">
-        <seg>手の込んだフォーム検証スクリプトの中には、テキストを入力している最中にフィードバックを提供し、入力内容が有効かどうかを知らせてくれるものもあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T053716Z" creationid="bakera" creationdate="20170929T090858Z">
+        <seg>しゃれたフォーム検証スクリプトの中には、テキストを入力している最中にリアルタイムでフィードバックを提供し、入力している内容が有効かどうかを知らせてくれるものもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24715,13 +24725,13 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
     <tu>
       <note>(太田)
 この結び付け方がlabelのfor/idとそっくりという話。
-大幅に補いつつ意訳気味に調整しました。
+補いつつ意訳気味に調整しました。
 </note>
       <tuv lang="EN-US">
         <seg>That is, the description is connected much like the label.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T052252Z" creationid="bakera" creationdate="20170929T090852Z">
-        <seg>この説明文を結びつける方法は、ラベルを結びつける方法とそっくりです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T052516Z" creationid="bakera" creationdate="20170929T090852Z">
+        <seg>この説明文を結びつける方法は、ラベルとそっくりです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26916,12 +26926,13 @@ updateはここでは「付け加える」くらいの意味かと思います�
     </tu>
     <tu>
       <note>(太田)
-原文はコロンで切れて2文なので、あわせて2文に。</note>
+原文はコロンで切れて2文なので、あわせて2文に。
+少し補いました。</note>
       <tuv lang="EN-US">
         <seg>The only difference is in terms of order: the description is read last.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T052409Z" creationid="bakera" creationdate="20170929T090853Z">
-        <seg>唯一の違いは順番です。説明文は最後に読まれます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T052449Z" creationid="bakera" creationdate="20170929T090853Z">
+        <seg>ラベルとの唯一の違いは、読まれる順番です。この説明文は最後に読まれます。</seg>
       </tuv>
     </tu>
     <tu>
