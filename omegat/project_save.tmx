@@ -16581,12 +16581,14 @@ not acceptable を invalid と訳し分けるべきか。
     <tu>
       <note>(太田)
 ひとまず調整。
-括弧内の (pattern matching) の言わんとするところがいまいちよくわからないですね。JSの正規表現でチェックするということなのか、HTML5のpattern属性と同じことをする、と言っているのか。</note>
+括弧内の (pattern matching) の言わんとするところがいまいちよくわからないですね。JSの正規表現でチェックするということなのか、HTML5のpattern属性と同じことをする、と言っているのか。
+
+(伊原) 示すためにの→示すために</note>
       <tuv lang="EN-US">
         <seg>In which case, we are going to rely on WAI-ARIA to indicate invalidity, with JavaScript for the actual validation (pattern matching).</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T110110Z" creationid="bakera" creationdate="20170929T090625Z">
-        <seg>そのため、入力が無効であることを示すためにのWAI-ARIAを使用しながら、実際のフォーム検証（パターンマッチング）にはJavaScriptを使うことになるでしょう。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T230934Z" creationid="bakera" creationdate="20170929T090625Z">
+        <seg>そのため、入力が無効であることを示すためにWAI-ARIAを使用しながら、実際のフォーム検証（パターンマッチング）にはJavaScriptを使うことになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
