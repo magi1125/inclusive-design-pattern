@@ -25077,12 +25077,13 @@ OK</note>
     <tu>
       <note>(伊原) ここのdesignedは設計かなと。また、次の段落では「HTMLのような宣言型言語用」といっているので、the largely imperative language of JavaScript はこういう訳になる？
 
-(太田)</note>
+(太田)
+the largely imperative language of JavaScript.は「javaScriptという、そのほとんどが命令型言語であるそれ」というような感じでしょうか。JavaScript = 命令型言語、で良いと思いますが最近のESで一部宣言的な書き方ができるようになった的なこと?</note>
       <tuv lang="EN-US">
         <seg>That’s all very well, but it’s designed for the largely imperative language of JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T130839Z" creationid="rikiha" creationdate="20170925T014338Z">
-        <seg>実に結構なことではありますが、これは主にJavaScriptの大部分である命令型言語向けに設計されています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T101940Z" creationid="rikiha" creationdate="20170925T014338Z">
+        <seg>実に結構なことではありますが、これは、ほとんどが命令型言語であるJavaScriptのために設計されています。</seg>
       </tuv>
     </tu>
     <tu>
