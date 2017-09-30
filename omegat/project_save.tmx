@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7068,8 +7068,8 @@ listenは「監視」としてみました。
       <tuv lang="EN-US">
         <seg>Also, if you spot any inconsistencies or errors here (it happens!), please contact myself or Smashing Magazine so we can update the &lt;g1&gt;&lt;g2&gt;errata page&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170921T052500Z" creationid="rikiha" creationdate="20170921T052500Z">
-        <seg>また、本書の矛盾やエラー（たまにあるのです！）に気付いた方は、私またはSmashing Magazineにご連絡ください。正誤表ページ（脚注209）を更新させて頂きます。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T052623Z" creationid="rikiha" creationdate="20170921T052500Z">
+        <seg>また、本書の矛盾やエラー（たまにあるのです！）に気付いた方は、私またはSmashing Magazineにご連絡ください。&lt;g1&gt;&lt;g2&gt;正誤表ページ&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注209）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を更新します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13938,11 +13938,12 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 微調整</note>
       <tuv lang="EN-US">
         <seg>If you can think of any inclusive patterns you’d like me to explore, you can find me on Twitter as @heydonworks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170921T052458Z" creationid="rikiha" creationdate="20170921T052458Z">
-        <seg>私に研究してほしいインクルーシブパターンがある方は、Twitter（@heydonworks）から声をかけてください。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T052521Z" creationid="rikiha" creationdate="20170921T052458Z">
+        <seg>私に探求してほしいインクルーシブパターンが思いついた方は、Twitter（@heydonworks）で声をかけてください。</seg>
       </tuv>
     </tu>
     <tu>
