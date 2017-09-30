@@ -6618,7 +6618,9 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
     <tu>
       <note>(太田)
 ここのtypeはtype属性のtype。
-意味的に「切り替えて戻す」のではなく「切り替えたり戻したりする」ということかと思います。</note>
+意味的に「切り替えて戻す」のではなく「切り替えたり戻したりする」ということかと思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>A short script simply toggles the field type from &lt;g1&gt;password&lt;/g1&gt; to &lt;g2&gt;text&lt;/g2&gt; and back again:</seg>
       </tuv>
@@ -20338,7 +20340,7 @@ prelearnedは使い慣れたということでいいのか。
 IEとEdgeにはパスワードを表示する機能がもともとあるので、それを殺すという話ですね。
 現在の語順だとわかりにくいので、語順などを大幅に調整してみました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Note that Internet Explorer and Microsoft Edge provide this functionality natively, using an interactive eye icon associated with the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;::ms-reveal&lt;/g3&gt; pseudo-class&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;15&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;.</seg>
       </tuv>
