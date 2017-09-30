@@ -12578,12 +12578,16 @@ hold fast toは固持する、強く結びつくのような意味ですが、�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) a要素で➞a要素に。スイートは無理に訳さず、セレクタに書き加えると意訳。</note>
+      <note>(伊原) a要素で➞a要素に。スイートは無理に訳さず、セレクタに書き加えると意訳。
+
+(太田)
+a要素に→a要素には
+セレクタに書き加えるというか、セレクタを書き換えるというべきか。トリで、単に「書き加えます」だけでわかるのではないでしょうか。</note>
       <tuv lang="EN-US">
         <seg>Having decided that it is the &lt;g1&gt;&lt;a&gt;&lt;/g1&gt; element which should take the &lt;g2&gt;tab&lt;/g2&gt; role, I can add a corresponding test to my suite.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T072719Z" creationid="rikiha" creationdate="20170925T014501Z">
-        <seg>&lt;g1&gt;&lt;a&gt;&lt;/g1&gt;要素に&lt;g2&gt;tab&lt;/g2&gt;ロールを指定すると決めたので、それに対応するテストをセレクタに書き加えます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T113622Z" creationid="rikiha" creationdate="20170925T014501Z">
+        <seg>&lt;g1&gt;&lt;a&gt;&lt;/g1&gt;要素には&lt;g2&gt;tab&lt;/g2&gt;ロールを指定すると決めたので、それに対応するテストを書き加えましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22844,6 +22848,7 @@ without the clear hierarchy of grouping related sections under a main heading on
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>See the “Navigation Regions” chapter for more on link lists and navigation.</seg>
       </tuv>
