@@ -4431,8 +4431,8 @@ Size:　→サイズ：</note>
 
 &lt;g9&gt;[role="tablist"] a:not([role="tab"]) &lt;/g9&gt;&lt;g10&gt;{&lt;/g10&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T031217Z" creationid="Administrator" creationdate="20170930T031217Z">
-        <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;"タブインターフェイスの&lt;ul&gt;には、支援技術に認識させるためのtablist WAI-ARIAロールが必要です。"&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T032021Z" creationid="Administrator" creationdate="20170930T031217Z">
+        <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;"タブインターフェイスの&lt;ul&gt;には、支援技術に認識させるためのWAI-ARIA tablistロールが必要です。"&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
 &lt;g8&gt;}&lt;/g8&gt;
 
 &lt;g9&gt;[role="tablist"] a:not([role="tab"]) &lt;/g9&gt;&lt;g10&gt;{&lt;/g10&gt;</seg>
@@ -4444,8 +4444,8 @@ Size:　→サイズ：</note>
         <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; The tab interface &lt;g6&gt;&lt;&lt;/g6&gt;ul&lt;g7&gt;&gt;&lt;/g7&gt; must have the tablist WAI-ARIA role
 &lt;g8&gt;}&lt;/g8&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T011008Z" creationid="Administrator" creationdate="20170930T011008Z">
-        <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; タブインターフェイスの&lt;g6&gt;&lt;&lt;/g6&gt;ul&lt;g7&gt;&gt;&lt;/g7&gt;にはtablist WAI-ARIAロールが必要です。
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T032023Z" creationid="Administrator" creationdate="20170930T011008Z">
+        <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; タブインターフェイスの&lt;g6&gt;&lt;&lt;/g6&gt;ul&lt;g7&gt;&gt;&lt;/g7&gt;にはWAI-ARIA tablistロールが必要です。
 &lt;g8&gt;}&lt;/g8&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
