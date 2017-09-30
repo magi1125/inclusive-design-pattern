@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9506,11 +9506,13 @@ can的なものはないので「築けます」というより「築きます�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+parsable state は言わなくてもわかるので取りました。</note>
       <tuv lang="EN-US">
         <seg>By linking the parsable state of &lt;g2&gt;aria-invalid="true"&lt;/g2&gt; to a visual style, you save yourself the bother of managing style and state as separate concerns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090837Z" creationid="bakera" creationdate="20170929T090837Z">
-        <seg>aria-invalid="true"という構文解析可能な状態を視覚的なスタイルにリンクすることで、スタイルと状態を個別に管理する手間を省けます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T045050Z" creationid="bakera" creationdate="20170929T090837Z">
+        <seg>&lt;g2&gt;aria-invalid="true"&lt;/g2&gt;を視覚的なスタイルに結びつけることで、スタイルと状態を別々に管理する必要がなくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31468,19 +31470,24 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ここのfunctionは機能のほうかと。
+don’t get out of sync は二重否定でわかりにくいので、単に「同期させる」としました。</note>
       <tuv lang="EN-US">
         <seg>Using the attribute selector for the state makes sure the form and underlying function of your interface don’t get out of sync.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090839Z" creationid="bakera" creationdate="20170929T090839Z">
-        <seg>状態の属性セレクタを使用すると、インターフェイスの基礎を成す関数とフォームの間の不一致を防ぐことができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T050108Z" creationid="bakera" creationdate="20170929T090839Z">
+        <seg>状態（state）に対して属性セレクタを使用すると、インターフェイスの基本機能と見た目を確実に同期させることができます。</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ここのconcernは問題でいいのか。</note>
       <tuv lang="EN-US">
         <seg>Usually a separation of concerns is beneficial, but whenever a field is marked as invalid, that’s when it should &lt;g3&gt;look&lt;/g3&gt; invalid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090838Z" creationid="bakera" creationdate="20170929T090838Z">
-        <seg>多くの場合、問題の分離は有益なことですが、フィールドが無効とマークされる場合は常に無効であるように見えなければなりません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T045708Z" creationid="bakera" creationdate="20170929T090838Z">
+        <seg>多くの場合、問題を分離するは有益なことですが、フィールドがエラーとマークされている場合は、常にエラーであるように&lt;g3&gt;見える&lt;/g3&gt;べきです。</seg>
       </tuv>
     </tu>
     <tu>
