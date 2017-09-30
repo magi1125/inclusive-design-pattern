@@ -9399,8 +9399,8 @@ Tabの件は了解です、ありがとうございます。</note>
       <tuv lang="EN-US">
         <seg>By debouncing, we divide clusters of keypress events into blocks and only execute &lt;g2&gt;validate()&lt;/g2&gt; once per block.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090916Z" creationid="bakera" creationdate="20170929T090916Z">
-        <seg>デバウンスにより、キーストロークイベントの塊をブロックに分割して、ブロックごとにvalidate()を実行します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T061449Z" creationid="bakera" creationdate="20170929T090916Z">
+        <seg>デバウンスにより、キーストロークイベントの塊をブロックに分割して、ブロックごとに&lt;g2&gt;validate()&lt;/g2&gt;を実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32242,11 +32242,15 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+アイドル状態で伝わるか。
+プログラマーには伝わりそうですが、「何もしていない」としました。
+</note>
       <tuv lang="EN-US">
         <seg>We want to make sure the &lt;g1&gt;validate()&lt;/g1&gt; function is only called when the user is idle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090915Z" creationid="bakera" creationdate="20170929T090915Z">
-        <seg>validate()関数は、ユーザーがアイドル状態にあるときのみ呼び出されるようにしましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T061431Z" creationid="bakera" creationdate="20170929T090915Z">
+        <seg>&lt;g1&gt;validate()&lt;/g1&gt;関数は、ユーザーが何もしていないときだけ呼び出されるようにしましょう。</seg>
       </tuv>
     </tu>
     <tu>
