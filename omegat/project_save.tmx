@@ -14300,12 +14300,15 @@ going to be なので未来形ですね。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 読みにくい感じだったので調整。</note>
+      <note>(伊原) 読みにくい感じだったので調整。
+
+(太田) 
+微調整</note>
       <tuv lang="EN-US">
         <seg>If you’re not familiar with this integrated pattern and its expected behaviors, please refer to either of these resources.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T232922Z" creationid="rikiha" creationdate="20170926T231039Z">
-        <seg>このようにまとめられたパターンや、想定される動作についてよく知らない場合は、上記のどちらかの資料を参照してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T110734Z" creationid="rikiha" creationdate="20170926T231039Z">
+        <seg>このようにまとめられたパターンや、想定される動作についてあまりご存じない方は、上記のどちらかの資料を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26696,12 +26699,15 @@ conceptはそのままコンセプトでもいいかも。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順など調整</note>
+      <note>(伊原) 語順など調整
+
+(太田)
+能動態にしつつ語順など調整</note>
       <tuv lang="EN-US">
         <seg>The following code example sets out a tab interface as marked up in its initial state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T233549Z" creationid="rikiha" creationdate="20170925T014436Z">
-        <seg>以下に示すコード例は、初期状態としてマークアップされたタブインターフェイスです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T110923Z" creationid="rikiha" creationdate="20170925T014436Z">
+        <seg>以下に示すコード例は、タブインターフェイスの初期状態をマークアップしたものです。</seg>
       </tuv>
     </tu>
     <tu>
