@@ -1040,8 +1040,8 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
 
 &lt;g16&gt;[role="tablist"] li:not([role="presentation"]) &lt;/g16&gt;&lt;g17&gt;{&lt;/g17&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T031830Z" creationid="Administrator" creationdate="20170930T031418Z">
-        <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"tablist内の各&lt;a&gt;要素には、支援技術にタブとしてカウントさせるためのtab WAI-ARIAロールが必要です。&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T032045Z" creationid="Administrator" creationdate="20170930T031418Z">
+        <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"tablist内の各&lt;a&gt;要素には、支援技術にタブとしてカウントさせるためのWAI-ARIA tabロールが必要です。&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
 &lt;g15&gt;}&lt;/g15&gt;
 
 &lt;g16&gt;[role="tablist"] li:not([role="presentation"]) &lt;/g16&gt;&lt;g17&gt;{&lt;/g17&gt;</seg>
@@ -1354,6 +1354,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T083205Z" creationid="yoota" creationdate="20170908T083156Z">
         <seg>&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;span&lt;/g18&gt; &lt;g20&gt;itemprop&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"name"&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g17&gt;ガソリンスタンドにたたずむ裸の男&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;/&lt;/g26&gt;span&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g18&gt;ERROR&lt;/g18&gt;&lt;g19&gt;:&lt;/g19&gt; &lt;g20&gt;"Remove the &lt;li&gt; semantics with the WAI-ARIA presentation role.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T032144Z" creationid="Administrator" creationdate="20170930T032144Z">
+        <seg>&lt;g18&gt;ERROR&lt;/g18&gt;&lt;g19&gt;:&lt;/g19&gt; &lt;g20&gt;"WAI-ARIA presentationロールで&lt;li&gt;のセマンティクスを取り除いてください。</seg>
       </tuv>
     </tu>
     <tu>
