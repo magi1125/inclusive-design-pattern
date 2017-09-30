@@ -33243,12 +33243,21 @@ useが命令形なので末尾「しましょう」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 冗長というか余計、抑制というか抑止。そのように調整しました。</note>
+      <note>※要訳注
+
+(伊原) 冗長というか余計、抑制というか抑止。そのように調整しました。
+
+(太田)
+抑止というのも謎ですね。suppressは消す、殺すのような訳でもよさそう。Twitterアカウントが凍結されないように「消す」としました。
+
+WAI-ARIA1.1では role="none" のほうがいいという議論もあり、これは訳注かも。
+http://www.w3.org/TR/wai-aria-1.1/#presentation
+</note>
       <tuv lang="EN-US">
         <seg>Where JavaScript has added the tab interface semantics, the list semantics become redundant, which is why we suppress them with &lt;g1&gt;role="presentation"&lt;/g1&gt; on each &lt;g2&gt;&lt;li&gt;&lt;/g2&gt; element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T073552Z" creationid="rikiha" creationdate="20170925T014503Z">
-        <seg>JavaScriptでタブインターフェイスのセマンティクスを加えると、リストのセマンティクスが余計になるため、各&lt;g2&gt;&lt;li&gt;&lt;/g2&gt;要素に&lt;g1&gt;role="presentation"&lt;/g1&gt;を指定してリストのセマンティクスを抑止します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T114144Z" creationid="rikiha" creationdate="20170925T014503Z">
+        <seg>JavaScriptでタブインターフェイスのセマンティクスを加えると、リストのセマンティクスが余計になるため、各&lt;g2&gt;&lt;li&gt;&lt;/g2&gt;要素に&lt;g1&gt;role="presentation"&lt;/g1&gt;を指定して、リストのセマンティクスを消します。</seg>
       </tuv>
     </tu>
     <tu>
