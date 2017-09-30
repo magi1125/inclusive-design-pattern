@@ -33380,7 +33380,9 @@ impossibleは「不可能になる」くらい強くしたいところ。
     <tu>
       <note>(太田)
 ここのdisplayはdisplayプロパティのdisplayですね。
-すこし知要請。</note>
+すこし知要請。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>When the form’s submission event is suppressed, the live region is populated, switching its display state from &lt;g1&gt;none&lt;/g1&gt; to &lt;g2&gt;block&lt;/g2&gt; thanks to the &lt;g3&gt;:empty&lt;/g3&gt; pseudo-class becoming inapplicable.</seg>
       </tuv>
