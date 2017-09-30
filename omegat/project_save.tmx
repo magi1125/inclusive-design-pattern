@@ -6589,7 +6589,9 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
     <tu>
       <note>(太田)
 toolbarどうするか。
-英語だとツールバーとrole=toolbar のダブルミーニングになる。コードを見ればroleはわかるので、カタカナ「ツールバー」だけでも良いか。</note>
+英語だとツールバーとrole=toolbar のダブルミーニングになる。コードを見ればroleはわかるので、カタカナ「ツールバー」だけでも良いか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>A simpler way to communicate the choice and the current selection would be to construct a little &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;toolbar&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;4&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, like the following.</seg>
       </tuv>
