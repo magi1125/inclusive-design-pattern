@@ -30379,7 +30379,9 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
     </tu>
     <tu>
       <note>(太田)
-少し調整。</note>
+少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This would enable developers to communicate the security of a custom field without necessarily ensuring that security (masking the inputed characters) is actually present.</seg>
       </tuv>
@@ -32112,12 +32114,14 @@ state属性という属性があるわけではないので「状態(state)属�
     <tu>
       <note>(太田)
 すこし調整。
-前とのつながりが謎なので「ただし」「しかし」などを補ったほうが良いのかも。</note>
+前とのつながりが謎なので「ただし」「しかし」などを補ったほうが良いのかも。
+
+(伊原) あったほうがいいと思ったので、ただしを入れました。</note>
       <tuv lang="EN-US">
         <seg>WAI-ARIA only affects semantics, not general behavior.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T091649Z" creationid="bakera" creationdate="20170926T091649Z">
-        <seg>WAI-ARIAが影響するのはセマンティクスのみで、動作全般には影響しません。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T165004Z" creationid="bakera" creationdate="20170926T091649Z">
+        <seg>ただし、WAI-ARIAが影響するのはセマンティクスのみで、動作全般には影響しません。</seg>
       </tuv>
     </tu>
     <tu>
