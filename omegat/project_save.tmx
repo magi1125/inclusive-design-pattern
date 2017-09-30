@@ -12925,11 +12925,12 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 前段落とつながるように修正。</note>
       <tuv lang="EN-US">
         <seg>However, the &lt;g2&gt;.test.css&lt;/g2&gt; files certainly don’t want to be included in production.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020455Z" creationid="rikiha" creationdate="20170925T020455Z">
-        <seg>ただし、.test.cssファイルは絶対にプロダクションには含めません。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T041718Z" creationid="rikiha" creationdate="20170925T020455Z">
+        <seg>とはいえ、この&lt;g2&gt;.test.css&lt;/g2&gt;ファイルは絶対に製品に含めてはなりません。</seg>
       </tuv>
     </tu>
     <tu>
