@@ -8018,12 +8018,16 @@ organizationは組織としました。
       <note>(伊原) tablist内と補記。in the formが「形式」でよいかどうか。丸めて「の指定により」とかでもいいような。
 また、ARIA用語である「所有要素」をどうするか。子孫に持たなくてはならないロール（が指定された要素）のことだが、さて……。
 もんどさん訳では「要求される所有要素」
-https://momdo.github.io/wai-aria-1.1/#mustContain</note>
+https://momdo.github.io/wai-aria-1.1/#mustContain
+
+(太田)
+in the form は「～の形で」くらいで良いと思います。
+「所有要素」はママにして、もんどさんに「わかりにくい」というコメントをもらいましょう。:-)</note>
       <tuv lang="EN-US">
         <seg>As stated in &lt;g1&gt;&lt;g2&gt;the &lt;g3&gt;tablist&lt;/g3&gt; role specification&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;7&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, tablists &lt;g7&gt;require&lt;/g7&gt; “owned elements” with the explicit &lt;g8&gt;tab&lt;/g8&gt; role, in the form &lt;g9&gt;role="tab"&lt;/g9&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T062828Z" creationid="rikiha" creationdate="20170925T014457Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;tablist&lt;/g3&gt;ロールの仕様&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注199）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で定められているように、tablist内には、&lt;g9&gt;role="tab"&lt;/g9&gt;を形式によって明示的に&lt;g8&gt;tab&lt;/g8&gt;ロールを持つ「所有要素」が必要です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T112937Z" creationid="rikiha" creationdate="20170925T014457Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;tablist&lt;/g3&gt;ロールの仕様&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注199）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で定められているように、tablist内には、&lt;g9&gt;role="tab"&lt;/g9&gt;の形で明示的に&lt;g8&gt;tab&lt;/g8&gt;ロールを持つ「所有要素」が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19397,12 +19401,12 @@ image maps to link parts of those images to other pages of imagesで、「画像
 (太田)
 冒頭のmyを訳出しないと「セレクタは～」でセレクタ全般について言っているように読めて変な感じです。
 すぐ下にコードがあるので、「以下の」としつつ、「べきです」を「します」としました。
-</note>
+identifyは「確認」ではなく「識別」に近いですが、ここではセレクタにマッチさせる話なので「見つけて」としました。</note>
       <tuv lang="EN-US">
         <seg>My selector should identify the &lt;g2&gt;&lt;ul&gt;&lt;/g2&gt; element within the &lt;g3&gt;class="tab-interface"&lt;/g3&gt; container and highlight it if it doesn’t have a &lt;g4&gt;role="tablist"&lt;/g4&gt; attribute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T112500Z" creationid="rikiha" creationdate="20170925T014450Z">
-        <seg>以下のセレクタは、&lt;g3&gt;class="tab-interface"&lt;/g3&gt;コンテナ内の&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;要素を確認し、&lt;g4&gt;role="tablist"&lt;/g4&gt;属性がない場合はそれをハイライト表示します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T112619Z" creationid="rikiha" creationdate="20170925T014450Z">
+        <seg>以下のセレクタは、&lt;g3&gt;class="tab-interface"&lt;/g3&gt;コンテナ内の&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;要素を見つけて、&lt;g4&gt;role="tablist"&lt;/g4&gt;属性がない場合はそれをハイライト表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20833,12 +20837,15 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 適切に配置➞適切な位置、表示されます➞出現します。</note>
+      <note>(伊原) 適切に配置➞適切な位置、表示されます➞出現します。
+
+(太田)
+willで未来形なので「出現するようになります」としました。</note>
       <tuv lang="EN-US">
         <seg>Now, if no well-placed &lt;g1&gt;tablist&lt;/g1&gt; semantics are present, an ugly red outline will appear on the list element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T040658Z" creationid="rikiha" creationdate="20170925T014455Z">
-        <seg>これで、適切な位置に&lt;g1&gt;tablist&lt;/g1&gt;セマンティクスが存在しない場合、リスト要素に見苦しい赤枠が出現します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T112729Z" creationid="rikiha" creationdate="20170925T014455Z">
+        <seg>これで、適切な位置に&lt;g1&gt;tablist&lt;/g1&gt;セマンティクスが存在しない場合、リスト要素に見苦しい赤枠が出現するようになります。</seg>
       </tuv>
     </tu>
     <tu>
