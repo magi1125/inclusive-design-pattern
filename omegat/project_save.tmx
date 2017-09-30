@@ -23732,12 +23732,16 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) Emmetを知っていれば分かるが、そうでない人には良くわからないであろう文。訳注？</note>
+      <note>(伊原) Emmetを知っていれば分かるが、そうでない人には良くわからないであろう文。訳注？
+
+(太田)
+ちょっと調整。
+訳注はなくてもわかると思います。</note>
       <tuv lang="EN-US">
         <seg>So good are CSS selectors at doing this that tools for &lt;g1&gt;writing&lt;/g1&gt; markup like &lt;g2&gt;&lt;g3&gt;Emmet&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;4&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; are based on selector-like syntax.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T142450Z" creationid="rikiha" creationdate="20170925T014353Z">
-        <seg>CSSセレクタはそれを非常にうまくこなすので、&lt;g2&gt;&lt;g3&gt;Emmet&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注196）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;などのマークアップを&lt;g1&gt;書く&lt;/g1&gt;ためのツールは、セレクタのような構文に基づいています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T104106Z" creationid="rikiha" creationdate="20170925T014353Z">
+        <seg>CSSセレクタはこの用途に非常に適しており、&lt;g2&gt;&lt;g3&gt;Emmet&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注196）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;などのマークアップを&lt;g1&gt;書く&lt;/g1&gt;ためのツールも、セレクタに似た構文を採用しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26795,7 +26799,10 @@ there’s no need はどこにもないというような強い印象なので�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微妙に誤訳っぽいので調整。</note>
+      <note>(伊原) 微妙に誤訳っぽいので調整。
+
+(太田)
+いったん保留</note>
       <tuv lang="EN-US">
         <seg>The inherent logic of CSS selectors becomes clear when you reimagine selectors in JavaScript syntax.</seg>
       </tuv>
