@@ -21805,7 +21805,9 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Our biggest challenge is to provide an inclusive form validation experience.</seg>
       </tuv>
@@ -32098,7 +32100,9 @@ don’t get out of sync は二重否定でわかりにくいので、単に「�
     <tu>
       <note>(太田)
 検証だけだとわかりにくいかも。
-バリデーションとするか、あるいは補ってフォーム検証とするか。</note>
+バリデーションとするか、あるいは補ってフォーム検証とするか。
+
+(伊原) フォーム検証がよいと思います。</note>
       <tuv lang="EN-US">
         <seg>Validation</seg>
       </tuv>
