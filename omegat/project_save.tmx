@@ -26184,8 +26184,8 @@ http://www.unicode.org/charts/PDF/U2600.pdf
       <tuv lang="EN-US">
         <seg>The first is that when two errors apply to the same element, all but the last in the cascade will be grayed out (with a line-through style) in the CSS inspector.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T020013Z" creationid="rikiha" creationdate="20170925T020013Z">
-        <seg>まず、同じ要素に2つのエラーがある場合、CSSインスペクタ内では、最後のエラー以外はすべてグレーアウト（打ち消し線が引かれた状態）になります。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T000647Z" creationid="rikiha" creationdate="20170925T020013Z">
+        <seg>ひとつめの問題は、同じ要素に2つのエラーがある場合です。CSSインスペクタ内では、カスケードの最後以外がすべてグレーアウト（打ち消し線スタイル）になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27788,8 +27788,8 @@ JAWS日本語版では「ページ内リンク」らしいです。
       <tuv lang="EN-US">
         <seg>There are a couple of small issues here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T000142Z" creationid="rikiha" creationdate="20170925T014610Z">
-        <seg>ただし、細かな問題が2つあります。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T000247Z" creationid="rikiha" creationdate="20170925T014610Z">
+        <seg>小さな問題が2つあります。</seg>
       </tuv>
     </tu>
     <tu>
