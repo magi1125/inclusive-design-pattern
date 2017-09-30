@@ -7917,11 +7917,13 @@ JS中の初期化処理で
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>As ever, we need to be mindful not just of the code and the visual design but our choice of words.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090939Z" creationid="bakera" creationdate="20170929T090939Z">
-        <seg>これまでと同様、コードと視覚デザインだけでなく言葉の選択にも注意を払う必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T072345Z" creationid="bakera" creationdate="20170929T090939Z">
+        <seg>これまでと同様、コードとビジュアルデザインだけでなく、言葉の選択にも配慮する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19140,6 +19142,8 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+要検討</note>
       <tuv lang="EN-US">
         <seg>Microcopy</seg>
       </tuv>
