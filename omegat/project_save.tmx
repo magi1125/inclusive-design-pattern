@@ -1034,6 +1034,20 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"&lt;a&gt; elements within the tablist need to each have the WAI-ARIA tab role to be counted as tabs in assistive technologies."&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
+&lt;g15&gt;}&lt;/g15&gt;
+
+&lt;g16&gt;[role="tablist"] li:not([role="presentation"]) &lt;/g16&gt;&lt;g17&gt;{&lt;/g17&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T031418Z" creationid="Administrator" creationdate="20170930T031418Z">
+        <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"tablist内の&lt;a&gt;要素 need to each have the WAI-ARIA tab role to be counted as tabs in assistive technologies."&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
+&lt;g15&gt;}&lt;/g15&gt;
+
+&lt;g16&gt;[role="tablist"] li:not([role="presentation"]) &lt;/g16&gt;&lt;g17&gt;{&lt;/g17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)
 下訳：&lt;!-- ここに購買ウィジェット --&gt;</note>
       <tuv lang="EN-US">
@@ -4408,6 +4422,20 @@ Size:　→サイズ：</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170501T103218Z" creationid="yoota" creationdate="20170501T103218Z">
         <seg>&lt;g4&gt;&lt;g5&gt;拡張機能&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注14）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;を使えばオリジナルのCSSをドメインベースで適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;"The tab interface &lt;ul&gt; must have the tablist WAI-ARIA role to be recognized in assistive technologies."&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
+&lt;g8&gt;}&lt;/g8&gt;
+
+&lt;g9&gt;[role="tablist"] a:not([role="tab"]) &lt;/g9&gt;&lt;g10&gt;{&lt;/g10&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T031217Z" creationid="Administrator" creationdate="20170930T031217Z">
+        <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;"タブインターフェイスの&lt;ul&gt;には、支援技術に認識させるためのtablist WAI-ARIAロールが必要です。"&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
+&lt;g8&gt;}&lt;/g8&gt;
+
+&lt;g9&gt;[role="tablist"] a:not([role="tab"]) &lt;/g9&gt;&lt;g10&gt;{&lt;/g10&gt;</seg>
       </tuv>
     </tu>
     <tu>
