@@ -12065,11 +12065,13 @@ For thatは「その実現」としてみました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+for this purpose はなくてもわかるのでとりました。</note>
       <tuv lang="EN-US">
         <seg>For this purpose we can provide an accompanying description.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090844Z" creationid="bakera" creationdate="20170929T090844Z">
-        <seg>フィールドが無効であると知っても、その修正方法が分からなければ意味がありません。これを回避するために説明を付け加えましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T050708Z" creationid="bakera" creationdate="20170929T090844Z">
+        <seg>説明を付け加えてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18144,11 +18146,14 @@ validはvalidでも良いのかも。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。
+元訳後半は次の分節に。</note>
       <tuv lang="EN-US">
         <seg>Just knowing that the field is invalid is little use unless the user knows how to fix it too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090843Z" creationid="bakera" creationdate="20170929T090843Z">
-        <seg>フィールドが無効であると知っても、その修正方法が分からなければ意味がありません。これを回避するために説明を付け加えましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T050539Z" creationid="bakera" creationdate="20170929T090843Z">
+        <seg>フィールドがエラーであると分かっても、その修正方法が分からなければ、ほとんど意味がありません。</seg>
       </tuv>
     </tu>
     <tu>
