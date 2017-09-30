@@ -14099,7 +14099,9 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
     </tu>
     <tu>
       <note>(太田)
-微調整</note>
+微調整
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>If there are, we need to suppress form submission temporarily.</seg>
       </tuv>
@@ -33419,6 +33421,7 @@ NVDA2017.3jaでは「正しくない入力内容」と読みました。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>When the user tries to submit the form, we need to check if there are any errors.</seg>
       </tuv>
