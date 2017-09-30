@@ -8378,11 +8378,12 @@ hone は砥石でとぐような意味。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>At the top of the form, a selected login tab with an unselected register tab to its right.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T121416Z" creationid="bakera" creationdate="20170925T121416Z">
-        <seg>フォームの上端に「ログイン」タブがあり、その右隣には未選択の「登録」タブ がある。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T155355Z" creationid="bakera" creationdate="20170925T121416Z">
+        <seg>フォームの上端に「ログイン」タブがあり、その右隣には未選択の「登録」タブがある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16270,7 +16271,9 @@ becauseを訳出しました。
     <tu>
       <note>(太田)
 少し調整。
-「未選択の」はなくても通じるので取りました。</note>
+「未選択の」はなくても通じるので取りました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the illustration below, “Login” is selected by default but in a clear relationship with the unselected register option.</seg>
       </tuv>
