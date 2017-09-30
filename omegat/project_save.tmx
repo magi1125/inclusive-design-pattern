@@ -3564,12 +3564,14 @@ https://developers.google.com/search/docs/data-types/products#single-product-pag
     <tu>
       <note>(太田)
 元訳が変ですね。Wordを見てもこうなっていますが原文と対応していないように思います。
-とりあえず訳しつつ、後半を意訳気味に調整。</note>
+とりあえず訳しつつ、後半を意訳気味に調整。
+
+(伊原) 前の節ではARIA文脈でのrelationshipはリレーションシップとしていたので、置き換えました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The relationship between the toolbar and the subject &lt;g2&gt;#forms&lt;/g2&gt; container is also communicated via &lt;g3&gt;aria-controls&lt;/g3&gt; to supporting software, like the JAWS screen reader.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T073659Z" creationid="bakera" creationdate="20170925T102358Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;ツールバーと対応するコンテナである&lt;g2&gt;#forms&lt;/g2&gt;との関係については、&lt;g3&gt;aria-controls&lt;/g3&gt;属性も使って表現しています。ただし、これに対応するスクリーンリーダーはJAWSなどに限られます。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T161742Z" creationid="bakera" creationdate="20170925T102358Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;ツールバーと対応するコンテナである&lt;g2&gt;#forms&lt;/g2&gt;とのリレーションシップについては、&lt;g3&gt;aria-controls&lt;/g3&gt;属性も使って表現しています。ただし、これに対応するスクリーンリーダーはJAWSなどに限られます。</seg>
       </tuv>
     </tu>
     <tu>
