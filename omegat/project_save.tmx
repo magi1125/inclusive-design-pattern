@@ -13460,7 +13460,9 @@ imagine と might で二重に推定している形ですが、むしろ何故�
     <tu>
       <note>(伊原) ここのspecialは専用の〜的な意味と思われ、「ための〜」ぐらいでいいかなと思いました。またbelongを属すると訳すとちょっとわかりにくいため、要素内にあるとき、としました。
 
-(岡本)　分かって→わかって</note>
+(岡本)　分かって→わかって
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>I know that my tabs will only function correctly in assistive technologies if they belong to an element with the special &lt;g1&gt;tablist&lt;/g1&gt; role to group the individual tabs.</seg>
       </tuv>
@@ -18706,7 +18708,9 @@ https://docs.google.com/document/d/1ju_rDbIrde0lHKJF84ZkgqfO3YNc8JyuPBA6EaIEGUI/
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整</note>
+      <note>(伊原) 微調整
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Let’s start from the top.</seg>
       </tuv>
@@ -19388,12 +19392,17 @@ image maps to link parts of those images to other pages of imagesで、「画像
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 必要があります➞べきです。</note>
+      <note>(伊原) 必要があります➞べきです。
+
+(太田)
+冒頭のmyを訳出しないと「セレクタは～」でセレクタ全般について言っているように読めて変な感じです。
+すぐ下にコードがあるので、「以下の」としつつ、「べきです」を「します」としました。
+</note>
       <tuv lang="EN-US">
         <seg>My selector should identify the &lt;g2&gt;&lt;ul&gt;&lt;/g2&gt; element within the &lt;g3&gt;class="tab-interface"&lt;/g3&gt; container and highlight it if it doesn’t have a &lt;g4&gt;role="tablist"&lt;/g4&gt; attribute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T035833Z" creationid="rikiha" creationdate="20170925T014450Z">
-        <seg>セレクタは、&lt;g3&gt;class="tab-interface"&lt;/g3&gt;コンテナ内の&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;要素を確認し、&lt;g4&gt;role="tablist"&lt;/g4&gt;属性がない場合はそれをハイライト表示するべきです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T112500Z" creationid="rikiha" creationdate="20170925T014450Z">
+        <seg>以下のセレクタは、&lt;g3&gt;class="tab-interface"&lt;/g3&gt;コンテナ内の&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;要素を確認し、&lt;g4&gt;role="tablist"&lt;/g4&gt;属性がない場合はそれをハイライト表示します。</seg>
       </tuv>
     </tu>
     <tu>
