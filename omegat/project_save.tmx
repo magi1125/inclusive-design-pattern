@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21144,8 +21144,8 @@ aria-labelledbyがあるとそっちが優先だったり、細かいルール�
       <tuv lang="EN-US">
         <seg>One of the best things about writing a book about patterns is that there are always more patterns to talk about.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170921T052455Z" creationid="rikiha" creationdate="20170921T052455Z">
-        <seg>パターンに関する書籍の執筆で最高な点の1つは、取り上げるべきパターンがいくらでもあることです。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20170930T052328Z" creationid="rikiha" creationdate="20170921T052455Z">
+        <seg>パターン関連の書籍執筆で最高な点のひとつは、取り上げるべきパターンがいくらでもあることです。</seg>
       </tuv>
     </tu>
     <tu>
