@@ -1799,7 +1799,9 @@ type="text"→type="password"</note>
     <tu>
       <note>(太田)
 errataを反映
-type="text"→type="password"</note>
+type="text"→type="password"
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;label&lt;/g3&gt; &lt;g5&gt;for&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"password"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;Choose a password&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;label&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;
 &lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;&lt;/g15&gt;input&lt;/g14&gt; &lt;g16&gt;type&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"text"&lt;/g17&gt; &lt;g19&gt;id&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"password"&lt;/g20&gt; &lt;g22&gt;name&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"password"&lt;/g23&gt; &lt;g25&gt;aria-invalid&lt;/g25&gt;&lt;g26&gt;&lt;g27&gt;=&lt;/g27&gt;"true"&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g13&gt;
@@ -11043,7 +11045,9 @@ line-heightは原文の原稿では小文字なのですが、この見出しは
     <tu>
       <note>(太田)
 なんか誤訳っぽいような。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Except for the wording of error descriptions, the pattern will be the same for each invalid input, so we’ll just use the password field as an exemplar.</seg>
       </tuv>
@@ -11529,6 +11533,7 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For (1) we can deploy the well-supported &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-invalid&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;17&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; attribute.</seg>
       </tuv>
@@ -25356,7 +25361,9 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
     </tu>
     <tu>
       <note>(太田)
-OK</note>
+OK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>That’s about it, really.</seg>
       </tuv>
