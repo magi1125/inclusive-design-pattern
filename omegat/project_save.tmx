@@ -1738,6 +1738,20 @@ https://en.wikipedia.org/wiki/Flapjack_(oat_bar)
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;label&lt;/g3&gt; &lt;g5&gt;for&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"password"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;Choose a password&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;label&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;
+&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;&lt;/g15&gt;input&lt;/g14&gt; &lt;g16&gt;type&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"text"&lt;/g17&gt; &lt;g19&gt;id&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"password"&lt;/g20&gt; &lt;g22&gt;aria-invalid&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"true"&lt;/g23&gt; &lt;g25&gt;aria-describedby&lt;/g25&gt;&lt;g26&gt;&lt;g27&gt;=&lt;/g27&gt;"password-hint"&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g13&gt;
+&lt;g29&gt;&lt;g30&gt;&lt;g31&gt;&lt;&lt;/g31&gt;div&lt;/g30&gt; &lt;g32&gt;id&lt;/g32&gt;&lt;g33&gt;&lt;g34&gt;=&lt;/g34&gt;"password-hint"&lt;/g33&gt;&lt;g35&gt;&gt;&lt;/g35&gt;&lt;/g29&gt;Your password must be at least 6 characters long&lt;g36&gt;&lt;g37&gt;&lt;g38&gt;&lt;/&lt;/g38&gt;div&lt;/g37&gt;&lt;g39&gt;&gt;&lt;/g39&gt;&lt;/g36&gt;
+&lt;g40&gt;&lt;g41&gt;&lt;g42&gt;&lt;&lt;/g42&gt;label&lt;/g41&gt;&lt;g43&gt;&gt;&lt;/g43&gt;&lt;/g40&gt;&lt;g44&gt;&lt;g45&gt;&lt;g46&gt;&lt;&lt;/g46&gt;input&lt;/g45&gt; &lt;g47&gt;type&lt;/g47&gt;&lt;g48&gt;&lt;g49&gt;=&lt;/g49&gt;"checkbox"&lt;/g48&gt; &lt;g50&gt;id&lt;/g50&gt;&lt;g51&gt;&lt;g52&gt;=&lt;/g52&gt;"showPassword"&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g44&gt; show password&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;/&lt;/g56&gt;label&lt;/g55&gt;&lt;g57&gt;&gt;&lt;/g57&gt;&lt;/g54&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T051050Z" creationid="bakera" creationdate="20170930T051050Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;label&lt;/g3&gt; &lt;g5&gt;for&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"password"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;パスワード&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;label&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;
+&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;&lt;/g15&gt;input&lt;/g14&gt; &lt;g16&gt;type&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"text"&lt;/g17&gt; &lt;g19&gt;id&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"password"&lt;/g20&gt; &lt;g22&gt;aria-invalid&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"true"&lt;/g23&gt; &lt;g25&gt;aria-describedby&lt;/g25&gt;&lt;g26&gt;&lt;g27&gt;=&lt;/g27&gt;"password-hint"&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g13&gt;
+&lt;g29&gt;&lt;g30&gt;&lt;g31&gt;&lt;&lt;/g31&gt;div&lt;/g30&gt; &lt;g32&gt;id&lt;/g32&gt;&lt;g33&gt;&lt;g34&gt;=&lt;/g34&gt;"password-hint"&lt;/g33&gt;&lt;g35&gt;&gt;&lt;/g35&gt;&lt;/g29&gt;パスワードは6文字以上にしてください。&lt;g36&gt;&lt;g37&gt;&lt;g38&gt;&lt;/&lt;/g38&gt;div&lt;/g37&gt;&lt;g39&gt;&gt;&lt;/g39&gt;&lt;/g36&gt;
+&lt;g40&gt;&lt;g41&gt;&lt;g42&gt;&lt;&lt;/g42&gt;label&lt;/g41&gt;&lt;g43&gt;&gt;&lt;/g43&gt;&lt;/g40&gt;&lt;g44&gt;&lt;g45&gt;&lt;g46&gt;&lt;&lt;/g46&gt;input&lt;/g45&gt; &lt;g47&gt;type&lt;/g47&gt;&lt;g48&gt;&lt;g49&gt;=&lt;/g49&gt;"checkbox"&lt;/g48&gt; &lt;g50&gt;id&lt;/g50&gt;&lt;g51&gt;&lt;g52&gt;=&lt;/g52&gt;"showPassword"&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g44&gt; パスワードを表示&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;/&lt;/g56&gt;label&lt;/g55&gt;&lt;g57&gt;&gt;&lt;/g57&gt;&lt;/g54&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;label&lt;/g3&gt; &lt;g5&gt;for&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"password"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;Choose a password&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;label&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;
 &lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;&lt;/g15&gt;input&lt;/g14&gt; &lt;g16&gt;type&lt;/g16&gt;&lt;g17&gt;&lt;g18&gt;=&lt;/g18&gt;"text"&lt;/g17&gt; &lt;g19&gt;id&lt;/g19&gt;&lt;g20&gt;&lt;g21&gt;=&lt;/g21&gt;"password"&lt;/g20&gt; &lt;g22&gt;name&lt;/g22&gt;&lt;g23&gt;&lt;g24&gt;=&lt;/g24&gt;"password"&lt;/g23&gt; &lt;g25&gt;aria-invalid&lt;/g25&gt;&lt;g26&gt;&lt;g27&gt;=&lt;/g27&gt;"true"&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g13&gt;
 &lt;g29&gt;&lt;g30&gt;&lt;g31&gt;&lt;&lt;/g31&gt;label&lt;/g30&gt;&lt;g32&gt;&gt;&lt;/g32&gt;&lt;/g29&gt;&lt;g33&gt;&lt;g34&gt;&lt;g35&gt;&lt;&lt;/g35&gt;input&lt;/g34&gt; &lt;g36&gt;type&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"checkbox"&lt;/g37&gt; &lt;g39&gt;id&lt;/g39&gt;&lt;g40&gt;&lt;g41&gt;=&lt;/g41&gt;"showPassword"&lt;/g40&gt;&lt;g42&gt;&gt;&lt;/g42&gt;&lt;/g33&gt; show password&lt;g43&gt;&lt;g44&gt;&lt;g45&gt;&lt;/&lt;/g45&gt;label&lt;/g44&gt;&lt;g46&gt;&gt;&lt;/g46&gt;&lt;/g43&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -26946,11 +26960,16 @@ sentは「飛ばされる」としました。</note>
       </tuv>
     </tu>
     <tu>
+      <note>※画像alt
+
+(太田)
+password input は「パスワード入力欄」かと。
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>The password input with error message directly below in red text, prefixed by a warning symbol.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090847Z" creationid="bakera" creationdate="20170929T090847Z">
-        <seg>入力したパスワードのすぐ下に、警告マークと赤色のエラーメッセージが表示されます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T051236Z" creationid="bakera" creationdate="20170929T090847Z">
+        <seg>パスワード入力欄のすぐ下に、頭に警告マークかついた赤色のエラーメッセージが表示されている。</seg>
       </tuv>
     </tu>
     <tu>
