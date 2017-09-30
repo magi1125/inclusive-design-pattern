@@ -36619,12 +36619,16 @@ confidenceをどうするか難しいですね。コードの信頼性を担保�
     <tu>
       <prop type="file">chapter-27.html</prop>
       <prop type="id">tu3_0</prop>
-      <note>(伊原) 語順など調整。</note>
+      <note>(伊原) 語順など調整。
+
+(太田)
+“What the hell is going on?” の the hell をどうするか。口語的な余計な言葉をつけ足している感じなので、「いったいぜんたい」としてみました。
+全体少し調整。</note>
       <tuv lang="EN-US">
         <seg>Thrill seekers who relish their “What the hell is going on?” moments may find TDD a little boring, but it’s a solid approach.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170926T121642Z" creationid="rikiha" creationdate="20170925T014211Z">
-        <seg>「いったい何が起きているんだ？」というスリルを求める人にとって、TDDは少し退屈だと感じるかもしれません。しかしこれは堅実なアプローチです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T090041Z" creationid="rikiha" creationdate="20170925T014211Z">
+        <seg>「いったいぜんたい何が起きているんだ？」というスリルを求める人は、TDDを少し退屈に感じるかもしれませんが、これが堅実なアプローチなのです。</seg>
       </tuv>
     </tu>
     <tu>
