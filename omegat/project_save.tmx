@@ -21062,7 +21062,8 @@ willで未来形なので「出現するようになります」としました�
       <note>(太田)
 すごい抜けてますね。
 ラベル、現在値、入力欄のタイプ、状態、が読まれたあと、最後に説明文が読まれるという話です。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Now, when a screen reader user focuses the input, this accessible description will be read out after the label, current value, input type and (invalid) state information.</seg>
       </tuv>
