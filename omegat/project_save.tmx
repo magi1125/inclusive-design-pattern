@@ -29533,6 +29533,7 @@ out of sight は「非表示」とされていましたが、文字通り「視�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This is all well and good, but literally nothing currently happens when the user tries to submit (where form errors are present).</seg>
       </tuv>
@@ -29776,7 +29777,9 @@ enhancementは拡張としてきましたが、わかりにくいのでここで
     </tu>
     <tu>
       <note>(太田)
-「これをきっかけ」がわかりにくいので補いました。</note>
+「これをきっかけ」がわかりにくいので補いました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This is our cue to provide some feedback in the form of an error message.</seg>
       </tuv>
