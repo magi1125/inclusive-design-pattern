@@ -10,7 +10,9 @@
 aria-hidden
 aria-hidden="aria-hidden"
 aria-hidden="true"
-のうち最後の書き方をしているということだと思います。</note>
+のうち最後の書き方をしているということだと思います。
+
+(伊原) この太田さんのコメントがあって理解できました…。上記を訳注いただいたほうがいいかも。</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; Both &lt;g2&gt;aria-hidden="true"&lt;/g2&gt; and &lt;g3&gt;aria-required="true"&lt;/g3&gt; have explicit values rather than being written in the &lt;g4&gt;&lt;g5&gt;Boolean form that is possible with certain HTML5 attributes&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;13&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;.</seg>
       </tuv>
