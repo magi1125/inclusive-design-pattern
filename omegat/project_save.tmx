@@ -11410,11 +11410,13 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>For entries requiring a certain number of characters, the first few keystrokes are &lt;g2&gt;always&lt;/g2&gt; going to constitute an invalid entry.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090903Z" creationid="bakera" creationdate="20170929T090903Z">
-        <seg>特定の文字数が必要なエントリーでは、最初の何回かのキーストロークが必ず無効なエントリーとみなされてしまうからです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T054414Z" creationid="bakera" creationdate="20170929T090903Z">
+        <seg>特定の文字数が必要なエントリーでは、最初の何回かのキーストロークの間は&lt;g2&gt;常に&lt;/g2&gt;無効なエントリーとみなされてしまうからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23823,8 +23825,8 @@ liveを訳出したいですが「ライブ」「生」はちょっと変なの�
       <tuv lang="EN-US">
         <seg>Some fancy form validation scripts give you live feedback as you type your text entries, letting you know whether what you type is valid &lt;g1&gt;as&lt;/g1&gt; you type it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T054202Z" creationid="bakera" creationdate="20170929T090858Z">
-        <seg>しゃれたフォーム検証スクリプトの中には、テキストを入力している最中にリアルタイムでフィードバックを提供し、入力している内容が有効かどうか、入力している&lt;g1&gt;最中に&lt;/g1&gt;知らせてくれるものもあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20170930T054308Z" creationid="bakera" creationdate="20170929T090858Z">
+        <seg>しゃれたフォーム検証スクリプトの中には、テキストを入力している時にリアルタイムでフィードバックを提供し、入力している内容が有効かどうか、入力している&lt;g1&gt;最中に&lt;/g1&gt;知らせてくれるものもあります。</seg>
       </tuv>
     </tu>
     <tu>
