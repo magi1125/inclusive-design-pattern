@@ -30385,7 +30385,9 @@ accessible roleはどうしたものか。英語だとroleという語に多様�
 
 (伊原) OK. &lt;img /&gt;とする必要はあるかどうか。
 
-(太田) そこはまあどちらでも良いと思います。いったんママで、ほかが &lt;img&gt; となっているようなら揃えても良いですね。</note>
+(太田) そこはまあどちらでも良いと思います。いったんママで、ほかが &lt;img&gt; となっているようなら揃えても良いですね。
+
+ざっと見たところ、サンプルコード中では &lt;img&gt; 、本文中で述べるときは &lt;img/&gt; で統一されている模様。それはそれでどうかと思いますが、いちおう統一されているようなのでママとしたいと思います。</note>
       <tuv lang="EN-US">
         <seg>This population of DOM content simultaneously triggers screen readers to announce the content, including the prepended alternative text: “error: Please make sure all your registration information is correct.” Note that the role of &lt;g4&gt;&lt;g5&gt;&lt;g6&gt;img&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;16&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt; and &lt;g10&gt;aria-label&lt;/g10&gt; force the &lt;g11&gt;&lt;svg&gt;&lt;/g11&gt; element to behave like a standard &lt;g12&gt;&lt;img/&gt;&lt;/g12&gt; element carrying an &lt;g13&gt;alt&lt;/g13&gt; attribute with the content “error:”.</seg>
       </tuv>
@@ -32288,12 +32290,16 @@ don’t get out of sync は二重否定でわかりにくいので、単に「�
 
 (伊原) http://ejje.weblio.jp/content/concern 
 不可算名詞 [通例 of concern で] 重要性.
-とのこと。大きな問題は分割する的な感じでしょうか。課題ぐらいでもいいのかも。</note>
+とのこと。大きな問題は分割する的な感じでしょうか。課題ぐらいでもいいのかも。
+
+(太田)
+ここでは concerns と複数形になっているので不可算名詞ではないと思いますが、可算名詞として関心事、重要なこと、利害関係、などの意味があるよう。ここではまあスタイルとロジックの分離の話でしょうね。
+いずれにしても前からの文脈で見ないとわからないので、「それらの関係を分離」としてみました。</note>
       <tuv lang="EN-US">
         <seg>Usually a separation of concerns is beneficial, but whenever a field is marked as invalid, that’s when it should &lt;g3&gt;look&lt;/g3&gt; invalid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T234648Z" creationid="bakera" creationdate="20170929T090838Z">
-        <seg>多くの場合、問題を分離するのは有益なことですが、フィールドがエラーとマークされている場合は、常にエラーであるように&lt;g3&gt;見える&lt;/g3&gt;べきです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T052937Z" creationid="bakera" creationdate="20170929T090838Z">
+        <seg>多くの場合、それらの関係を分離するのは有益なことですが、フィールドがエラーとマークされている場合は、常にエラーであるように&lt;g3&gt;見える&lt;/g3&gt;べきです。</seg>
       </tuv>
     </tu>
     <tu>
