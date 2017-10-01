@@ -27403,12 +27403,16 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田)
+原文の ! を補いつつすこし調整。
+log eroors は「エラーログを残す」としました。</note>
       <tuv lang="EN-US">
         <seg>The is no such thing as the &lt;g1&gt;ERROR&lt;/g1&gt; property in CSS and there are no plans for one — let me make that clear right away!But there are a few benefits to using an unrecognized CSS property to log errors to the CSS inspector.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T103740Z" creationid="rikiha" creationdate="20170925T020024Z">
-        <seg>CSSには&lt;g1&gt;ERROR&lt;/g1&gt;プロパティなどというものはなく、それが追加される予定もありません――b;fまずはっきりさせておきます！。しかし、認識されないCSSプロパティを使ってCSSインスペクタにエラーを記録する方法には、いくつかのメリットあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T104017Z" creationid="rikiha" creationdate="20170925T020024Z">
+        <seg>まずはっきりさせておきます！――CSSには&lt;g1&gt;ERROR&lt;/g1&gt;プロパティなどというものはありませんし、追加される予定もありません。しかし、認識されないCSSプロパティを使ってCSSインスペクタにエラーログを残す方法には、いくつかのメリットあります。</seg>
       </tuv>
     </tu>
     <tu>
