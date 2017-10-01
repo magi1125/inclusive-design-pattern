@@ -28045,12 +28045,16 @@ audit をどう訳すか。あまり検査とは言わないようにも思い�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 前後段落に合わせて調整</note>
+      <note>(伊原) 前後段落に合わせて調整
+
+(太田)
+ここの which は「どれ」と訳したほうがいいやつかも。
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>The red outline should remain, but only as an indicator of which elements the developer should be inspecting.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170929T235436Z" creationid="rikiha" creationdate="20170925T014600Z">
-        <seg>ただし、調査すべき要素だと開発者に示すため、赤いアウトラインはページに残ります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T101259Z" creationid="rikiha" creationdate="20170925T014600Z">
+        <seg>ただし、どの要素を調査すべきか開発者に示すため、赤いアウトラインは残します。</seg>
       </tuv>
     </tu>
     <tu>
