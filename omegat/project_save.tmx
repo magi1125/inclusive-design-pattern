@@ -3768,15 +3768,15 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注?
-
-(太田)
+      <note>(太田)
 訳としてはOkですがこんな話ありましたっけ?
 
 (伊原) ないです…w 訳OK
 
-(太田) 訳注?w
-</note>
+(太田) 訳注?
+いちおう、以下のような話はあります。
+
+&gt;フォームでは異なり、あるフィールドから次のフィールドへ直接移動する操作が行われます。このとき、ラベル要素は飛び越されてしまいます。ラベル要素とインタラクティブ要素が明示的に関連づけられていない場合、そのラベル要素は見逃されてしまいます。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Uninteractive content in a &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; context that isn’t associated with form fields.</seg>
       </tuv>
