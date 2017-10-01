@@ -38,9 +38,12 @@ Accessible Rich Internet Applications (WAI-ARIA) 1.1 - B. Mapping WAI-ARIA Value
 http://www.w3.org/TR/wai-aria-1.1/#typemapping
 
 
-<分節 3481>
->ここでは、独自の（クロスブラウザ）ソリューションを提供しているので、この機能は抑制した方が賢明かもしれません。
+<分節 3476>
+>短い簡単なスクリプトで、フィールドのtypeを<g1>password</g1>から<g2>text</g2>に切り替えたり、戻したりします。
 
+訳注:
+パスワード入力欄と通常のテキスト入力欄ではブラウザの扱いが異なるため、単にパスワード入力欄のtypeをtextに変更する実装では問題が起きる可能性があります。たとえば、ブラウザには入力補完の機能やパスワードを記憶する機能などがありますが、これはtype="password"であるか否かで動作が変わってきます。
+基本的には、サイト側ではtype="password"で提供し、ブラウザ側のネイティブの機能 でパスワードを確認できるようにすることが望ましいでしょう。
 
 
 <分節 3496>
@@ -62,10 +65,3 @@ https://html.spec.whatwg.org/multipage/input.html#the-pattern-attribute
 ※下のコードの下に訳注追加
 訳注:
 backgroundプロパティに center right という位置指定があるため、このままではアイコンが右側に表示されてしまいます。center left としつつ、テキストとかぶらないようにうまく調整する必要があるでしょう。
-
-
-
-
-
-
-
