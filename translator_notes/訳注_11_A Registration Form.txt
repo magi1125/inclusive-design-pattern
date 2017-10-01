@@ -19,5 +19,23 @@
 この正解は "Asterix" です。必須を示す "*" の読み上げと非常に紛らわしく、これが正解のヒントにもなってしまいます。
 
 
+<分節 3458>
+>（<g1>注：</g1><g2>aria-hidden="true"</g2>と<g3>aria-required="true"</g3>は、いずれも<g4><g5>特定のHTML5の属性で可能なブール型の記法</g5></g4><g6><g7><g8>（脚注184）</g8></g7></g6>ではなく、明示的に値を指定しています。
+
+訳注:
+HTML5のブール型属性にはいくつかの書き方が許されており、たとえばhidden属性をtrueに設定したい場合は以下のように書くことができます。
+<input hidden>
+<input hidden="">
+<input hidden="hidden">
+逆にfalseにしたい場合は、属性そのものを省略します。
+しかし、WAI-ARIAのブール型属性の場合はこの書き方とは異なり、"true" "false"という属性値を明示的に指定することになっています。
+
+参考: 
+HTML Living Standard - 2.3.2 Boolean attributes
+https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#boolean-attributes
+
+Accessible Rich Internet Applications (WAI-ARIA) 1.1 - B. Mapping WAI-ARIA Value types to languages
+http://www.w3.org/TR/wai-aria-1.1/#typemapping
+
 
 
