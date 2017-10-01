@@ -32607,8 +32607,7 @@ unless or until は厳密に訳さなくても良いように思います。
 
 (太田)
 OK
-とはいえ、ファイルを消すのはいいとして、CSSへの参照はどう処理しているんでしょうね?
-</note>
+とはいえ、ファイルを消すのはいいとして、CSSへの参照はどう処理しているんでしょうね?</note>
       <tuv lang="EN-US">
         <seg>Using the &lt;g3&gt;.test.css&lt;/g3&gt; convention helps when it comes to omit them from being copied to your production build folder.</seg>
       </tuv>
