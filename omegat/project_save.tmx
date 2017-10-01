@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10630,12 +10630,15 @@ can’t be helped は避けられない、仕方ない。
 ここのandは「そして」的なものかも。
 あとでもう少し検討したい。
 
-(伊原) ややこしい原文ですね…。コンポネにメリットはあるけど、コンテキストに沿った一品モノを作ることが避けられない、的なニュアンスはわかります。</note>
+(伊原) ややこしい原文ですね…。コンポネにメリットはあるけど、コンテキストに沿った一品モノを作ることが避けられない、的なニュアンスはわかります。
+
+(太田)
+少し短めに調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Despite the virtues of modularity, it can’t be helped that some patterns are informed by context and are better designed where context is considered first.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T081921Z" creationid="bakera" creationdate="20170924T042339Z">
-        <seg>モジュール化することにはメリットがあります。しかし、パターンによってはコンテキストによって決まるものがあり、コンテキストを最初に考慮することでより良いデザインになる、ということが避けられない場合があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T040910Z" creationid="bakera" creationdate="20170924T042339Z">
+        <seg>モジュール化にはメリットがありますが、パターンもコンテキストの影響を受けることがあり、コンテキストを最初に考慮することでさらに良いデザインになることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27876,7 +27879,8 @@ audit をどう訳すか。あまり検査とは言わないようにも思い�
 標準とユーザビリティーとの関係がインクルージョンが見つかる場所、と言ってますね。
 ちょっと言いたいことがわからないのでいったんこんな感じであとで検討。
 
-(伊原) WCAGも概ね標準とユーザビリティでできてるので、なんとなく意味はわかりました。なんとなく流せる部分と思うのでこのままでもOKかなと。</note>
+(伊原) WCAGも概ね標準とユーザビリティでできてるので、なんとなく意味はわかりました。なんとなく流せる部分と思うのでこのままでもOKかなと。
+</note>
       <tuv lang="EN-US">
         <seg>The relationship between standards and usability is where we find inclusion.</seg>
       </tuv>
