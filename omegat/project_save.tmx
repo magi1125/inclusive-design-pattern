@@ -5482,6 +5482,9 @@ It feels like the CSS block is incomplete, especially since the note following t
 このコードのすぐ下でもって
 「ただし、このままでは「アスタリスク」も読み上げられてしまうので、aria-hiddenを追加しましょう。」
 と言っているのですが、これを言う前に追加されてしまっていまるのは変ですし、該当のコードに aria-hidden があると「正解が読み上げられてネタバレになる」という現象が起きず、ジョークとして成立しなくなってしまいます。
+
+(伊原) OK
+
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;strong&lt;/g10&gt; &lt;g12&gt;class&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"red"&lt;/g13&gt; &lt;g15&gt;aria-hidden&lt;/g15&gt;&lt;g16&gt;&lt;g17&gt;=&lt;/g17&gt;"true"&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g9&gt;*&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;/&lt;/g21&gt;strong&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;label&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;
