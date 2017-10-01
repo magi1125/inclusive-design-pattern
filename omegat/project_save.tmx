@@ -4519,15 +4519,18 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳を反映しつつ調整。</note>
+      <note>(伊原) 下訳を反映しつつ調整。
+
+(太田)
+ためには→ために</note>
       <tuv lang="EN-US">
         <seg>&lt;g46&gt;ERROR&lt;/g46&gt;&lt;g47&gt;:&lt;/g47&gt; &lt;g48&gt;"Each tabpanel needs to have the explicit tabpanel WAI-ARIA role to be correctly associated with the tablist that controls it."&lt;/g48&gt;&lt;g49&gt;;&lt;/g49&gt;
 &lt;g50&gt;}&lt;/g50&gt;
 
 &lt;g51&gt;[role="tablist"] + div:not([role="tabpanel"]) &lt;/g51&gt;&lt;g52&gt;{&lt;/g52&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T040533Z" creationid="Administrator" creationdate="20170930T040102Z">
-        <seg>&lt;g46&gt;ERROR&lt;/g46&gt;&lt;g47&gt;:&lt;/g47&gt; &lt;g48&gt;"各タブパネルが、それをコントロールするtablistと正しく関連付けられるためには、明示的にtabpanel WAI-ARIAロールを指定する必要があります。"&lt;/g48&gt;&lt;g49&gt;;&lt;/g49&gt;
+      <tuv lang="JA" changeid="bakera" changedate="20171001T141021Z" creationid="Administrator" creationdate="20170930T040102Z">
+        <seg>&lt;g46&gt;ERROR&lt;/g46&gt;&lt;g47&gt;:&lt;/g47&gt; &lt;g48&gt;"各タブパネルが、それをコントロールするtablistと正しく関連付けられるために、明示的にtabpanel WAI-ARIAロールを指定する必要があります。"&lt;/g48&gt;&lt;g49&gt;;&lt;/g49&gt;
 &lt;g50&gt;}&lt;/g50&gt;
 
 &lt;g51&gt;[role="tablist"] + div:not([role="tabpanel"]) &lt;/g51&gt;&lt;g52&gt;{&lt;/g52&gt;</seg>
