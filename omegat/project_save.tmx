@@ -32054,7 +32054,9 @@ OK
 
 (太田)
 ここのtoken は短い文字列的なニュアンスでセレクタのことですね。しかしトリでも良いのでは。
-短めに調整してみました。</note>
+短めに調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Typically, CSS selectors are used to match expected patterns but, by the same token, we could use selectors to target broken or malformed patterns.</seg>
       </tuv>
@@ -34242,7 +34244,9 @@ integratedは統合された?
       <note>(伊原) 微調整しました。
 
 (太田) 
-elicitedを適用としてみました。</note>
+elicitedを適用としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Where these are present, an error style could be elicited to highlight the problem.</seg>
       </tuv>
