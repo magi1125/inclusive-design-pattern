@@ -4826,7 +4826,10 @@ Price:　→価格：</note>
     </tu>
     <tu>
       <note>(岡本)
-パスワードを選択する？</note>
+パスワードを選択する？
+
+(太田)
+単に「パスワード」で。</note>
       <tuv lang="EN-US">
         <seg>&lt;g60&gt;&lt;g61&gt;&lt;g62&gt;&lt;&lt;/g62&gt;label&lt;/g61&gt; &lt;g63&gt;for&lt;/g63&gt;&lt;g64&gt;&lt;g65&gt;=&lt;/g65&gt;"password"&lt;/g64&gt;&lt;g66&gt;&gt;&lt;/g66&gt;&lt;/g60&gt;Choose a password&lt;g67&gt;&lt;g68&gt;&lt;g69&gt;&lt;/&lt;/g69&gt;label&lt;/g68&gt;&lt;g70&gt;&gt;&lt;/g70&gt;&lt;/g67&gt;</seg>
       </tuv>
@@ -5244,7 +5247,9 @@ It feels like the CSS block is incomplete, especially since the note following t
       <note>(岡本)
 登録？
 
-(伊原) 前の章で動詞にしてたので、登録する、で。</note>
+(伊原) 前の章で動詞にしてたので、登録する、で。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g84&gt;&lt;g85&gt;&lt;g86&gt;&lt;&lt;/g86&gt;button&lt;/g85&gt; &lt;g87&gt;type&lt;/g87&gt;&lt;g88&gt;&lt;g89&gt;=&lt;/g89&gt;"submit"&lt;/g88&gt;&lt;g90&gt;&gt;&lt;/g90&gt;&lt;/g84&gt;Register&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;/&lt;/g93&gt;button&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;
 &lt;g95&gt;&lt;g96&gt;&lt;g97&gt;&lt;/&lt;/g97&gt;form&lt;/g96&gt;&lt;g98&gt;&gt;&lt;/g98&gt;&lt;/g95&gt;&lt;/g1&gt;</seg>
