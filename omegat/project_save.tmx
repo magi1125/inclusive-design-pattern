@@ -8732,12 +8732,16 @@ https://ja.wikipedia.org/wiki/精密科学
     </tu>
     <tu>
       <note>(伊原) エラー以外の、と補足。anyは大部分ではなく、すべての的な意味。
-be honored by で恩恵に浴する。上手い訳が思い浮かばず、いったん適用のままで。</note>
+be honored by で恩恵に浴する。上手い訳が思い浮かばず、いったん適用のままで。
+
+(太田)
+プロパティがおちている?
+honoredはHPですね。スルーで良いかと。</note>
       <tuv lang="EN-US">
         <seg>Be aware that this style will be honored by any declaration using an unrecognized property.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T022754Z" creationid="rikiha" creationdate="20170925T020413Z">
-        <seg>このスタイルは、エラー以外のあらゆる認識されない宣言に対しても適用される点に注意してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T112005Z" creationid="rikiha" creationdate="20170925T020413Z">
+        <seg>このスタイルは、認識されないプロパティを含んだあらゆる宣言に適用される点に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
