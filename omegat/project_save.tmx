@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9492,11 +9492,14 @@ wordingはそのまま「ワーディング」もあり?
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整
+granularは「グラニュー糖のように」というHPですが、ひとまず「きめ細かく」としました。</note>
       <tuv lang="EN-US">
         <seg>But writing your own tests for your own tailored patterns and structures means you can be more granular and specific about their expected form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T044153Z" creationid="rikiha" creationdate="20170925T020507Z">
-        <seg>しかし、自分なりにカスタマイズしたパターンや構造のために独自のテストを書くというのは、期待される形式に対して、より詳細で具体的にテストできるということです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T120427Z" creationid="rikiha" creationdate="20170925T020507Z">
+        <seg>しかし、自分なりにカスタマイズしたパターンや構造のために独自のテストを書けば、期待する形式になっているかどうか、よりきめ細かく、詳細にテストすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12167,12 +12170,14 @@ or similarの訳は要検討。「音声」は違和感あり。「言葉」?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 関係→リレーションシップ</note>
+      <note>(伊原) 関係→リレーションシップ
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>For instance, the relationship between the tabs and their panels can be achieved using &lt;g1&gt;aria-controls&lt;/g1&gt; rather than &lt;g2&gt;aria-labelledby&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T044541Z" creationid="rikiha" creationdate="20170925T020511Z">
-        <seg>たとえばタブとタブパネルのリレーションシップを、&lt;g2&gt;aria-labelledby&lt;/g2&gt;ではなく&lt;g1&gt;aria-controls&lt;/g1&gt;を使って構築することもできます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T120453Z" creationid="rikiha" creationdate="20170925T020511Z">
+        <seg>たとえば、タブとタブパネルのリレーションシップを、&lt;g2&gt;aria-labelledby&lt;/g2&gt;ではなく&lt;g1&gt;aria-controls&lt;/g1&gt;を使って構築することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14774,7 +14779,9 @@ Gaulish は characterのほうについているのだと思います (Astérix 
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Implementations of tab interfaces can differ.</seg>
       </tuv>
@@ -28519,7 +28526,9 @@ sound semantic structureとは。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ダッシュを活かしつつ微調整。</note>
+      <note>(伊原) ダッシュを活かしつつ微調整。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>The tests written here ensure that &lt;g3&gt;my&lt;/g3&gt; implementation — my specific pattern — is structured in the prescribed way.</seg>
       </tuv>
@@ -30889,8 +30898,8 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
       <tuv lang="EN-US">
         <seg>This testing is important, especially for WCAG compliance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T043605Z" creationid="rikiha" creationdate="20170925T020504Z">
-        <seg>この自動テストは、特にWCAGに準拠する場合に重要です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T115712Z" creationid="rikiha" creationdate="20170925T020504Z">
+        <seg>このような自動テストは、特にWCAGに準拠する場合には重要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34079,8 +34088,8 @@ enhanceを拡張としました。
       <tuv lang="EN-US">
         <seg>Where additional JavaScript and CSS hooks (&lt;g4&gt;data&lt;/g4&gt; and &lt;g5&gt;class&lt;/g5&gt; attributes) should be present, this is also an opportunity to test for them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T045026Z" creationid="rikiha" creationdate="20170925T020513Z">
-        <seg>追加のJavaScriptフックやCSSフック（data属性やclass属性）が必要が場合、それらをテストする機会でもあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T120615Z" creationid="rikiha" creationdate="20170925T020513Z">
+        <seg>追加のJavaScriptフックやCSSフック（&lt;g4&gt;data&lt;/g4&gt;属性や&lt;g5&gt;class&lt;/g5&gt;属性）が必要が場合、それらをテストする機会でもあります。</seg>
       </tuv>
     </tu>
     <tu>
