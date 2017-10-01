@@ -33613,7 +33613,9 @@ NVDA2017.3jaでは「正しくない入力内容」と読みました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>When the user tries to submit the form, we need to check if there are any errors.</seg>
       </tuv>
