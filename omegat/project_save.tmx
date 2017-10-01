@@ -9597,11 +9597,13 @@ Tabの件は了解です、ありがとうございます。</note>
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+このdivideは分割ではなく割り当てるイメージ化も。</note>
       <tuv lang="EN-US">
         <seg>By debouncing, we divide clusters of keypress events into blocks and only execute &lt;g2&gt;validate()&lt;/g2&gt; once per block.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T065037Z" creationid="bakera" creationdate="20170929T090916Z">
-        <seg>デバウンスにより、keypressイベントの塊をブロックに分割して、ブロックごとに&lt;g2&gt;validate()&lt;/g2&gt;を実行します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T054523Z" creationid="bakera" creationdate="20170929T090916Z">
+        <seg>デバウンスを使用して、一連のkeypressイベントの塊をブロックに割り当て、ブロックごとに&lt;g2&gt;validate()&lt;/g2&gt;を実行するようにします。</seg>
       </tuv>
     </tu>
     <tu>
