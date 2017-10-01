@@ -4634,7 +4634,9 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 前のと揃えました。</note>
+      <note>(伊原) 前のと揃えました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;"The tab interface &lt;ul&gt; must have the tablist WAI-ARIA role to be recognized in assistive technologies."&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
 &lt;g8&gt;}&lt;/g8&gt;
@@ -13450,7 +13452,9 @@ atia-invalid が set to "true" で be told it is valid と言っているのは�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 突然話が飛んだ感。機能拡張内で赤字に白文字のスタイルをつけるセレクタの書き方を工夫しているという話のようですが、わかりづらい…。訳注かも。
+      <note>※要訳注
+
+(伊原) 突然話が飛んだ感。機能拡張内で赤字に白文字のスタイルをつけるセレクタの書き方を工夫しているという話のようですが、わかりづらい…。訳注かも。
 あと、適用されない場合に白文字で良いんだっけという話も。見えなくなっちゃうのでは。
 
 (太田)
@@ -13466,6 +13470,8 @@ thanks to は「ありがたいことに」としました。
 まさにそうで、にもかかわらずコードが出てくるので、逆にこのコードを書いて何かしなければならないように一瞬感じられ、混乱するのではないかと思った次第です。
 これまで書かれていたコードは自分が書くべきコードでしたし。
 
+(太田)
+訳としてはあっているので、まあ、訳注ですかね?
 </note>
       <tuv lang="EN-US">
         <seg>However, thanks to the extension’s omission of the &lt;g1&gt;.has-ignorable-error&lt;/g1&gt; class, the most common unrecognized properties — browser prefixes — are not styled this way.</seg>
