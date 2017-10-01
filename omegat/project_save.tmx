@@ -24630,7 +24630,9 @@ liveを訳出したいですが「ライブ」「生」はちょっと変なの�
 
 (太田)
 良いと思います。
-degrade はそのまま「デグレード」でもわかりそうな気がしますがどうでしょうか。</note>
+degrade はそのまま「デグレード」でもわかりそうな気がしますがどうでしょうか。
+
+(伊原) おおなるほど。OKです。</note>
       <tuv lang="EN-US">
         <seg>Some implementations place this attribute directly on each &lt;g10&gt;&lt;li&gt;&lt;/g10&gt; element, but I prefer to use &lt;g11&gt;&lt;a&gt;&lt;/g11&gt; elements so that the structure easily degrades as a list of links.</seg>
       </tuv>
