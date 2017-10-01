@@ -28377,7 +28377,7 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
 こんな感じかなと。
 essentiallyは本質的にとかですが、なくてもわかるので取りました。
 
-(伊原) OK</note>
+(伊原) なるほど、「反転」ですね。OK</note>
       <tuv lang="EN-US">
         <seg>The second is essentially a negated version of the first.</seg>
       </tuv>
@@ -32976,7 +32976,9 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       <note>(伊原) 語順など調整。
 
 (太田)
-誤ったパターンが指定されている→誤っているパターン</note>
+誤ったパターンが指定されている→誤っているパターン
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We can even detect incorrect patterns used to formulate the &lt;g1&gt;tabpanel&lt;/g1&gt; &lt;g2&gt;aria-labelledby&lt;/g2&gt; attribute values.</seg>
       </tuv>
