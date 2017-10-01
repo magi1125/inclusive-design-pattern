@@ -5864,8 +5864,8 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Screenshot of devtools declaration block with &lt;g4&gt;display: none;&lt;/g4&gt; declaration above the content declaration.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T013051Z" creationid="Administrator" creationdate="20170929T235819Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;開発ツールのCSS宣言ブロックのスクリーンショット。content宣言の上の行に&lt;g4&gt;display:none;&lt;/g4&gt;宣言が指定されています。&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T102305Z" creationid="Administrator" creationdate="20170929T235819Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;開発ツールのCSS宣言ブロックのスクリーンショット。content宣言の上に&lt;g4&gt;display:none;&lt;/g4&gt;宣言が指定されている。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23169,8 +23169,8 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       <tuv lang="EN-US">
         <seg>Screenshot of dev tools declaration block with a display:none; declaration above the content declaration.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T013040Z" creationid="Administrator" creationdate="20170929T235750Z">
-        <seg>開発ツールのCSS宣言ブロックのスクリーンショット。content宣言の上の行にdisplay:none;宣言が指定されている。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T102239Z" creationid="Administrator" creationdate="20170929T235750Z">
+        <seg>開発ツールのCSS宣言ブロックのスクリーンショット。contentの宣言の上にdisplay:none;宣言が指定されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27179,12 +27179,15 @@ http://www.unicode.org/charts/PDF/U2600.pdf
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 長いので2文に分割。カスケードが落ちていたので修正。「最終的に適用されたプロパティ」とかに意訳したほうがいいか？</note>
+      <note>(伊原) 長いので2文に分割。カスケードが落ちていたので修正。「最終的に適用されたプロパティ」とかに意訳したほうがいいか？
+
+(太田)
+「カスケードの最終結果」とか?</note>
       <tuv lang="EN-US">
         <seg>The first is that when two errors apply to the same element, all but the last in the cascade will be grayed out (with a line-through style) in the CSS inspector.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T000647Z" creationid="rikiha" creationdate="20170925T020013Z">
-        <seg>ひとつめの問題は、同じ要素に2つのエラーがある場合です。CSSインスペクタ内では、カスケードの最後以外がすべてグレーアウト（打ち消し線スタイル）になります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T102756Z" creationid="rikiha" creationdate="20170925T020013Z">
+        <seg>ひとつめの問題は、同じ要素に2つのエラーがある場合です。CSSインスペクタの中では、カスケードの最終結果以外のすべてがグレーアウト（打ち消し線がついたスタイル）されてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28843,11 +28846,13 @@ JAWS日本語版では「ページ内リンク」らしいです。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>There are a couple of small issues here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T001855Z" creationid="rikiha" creationdate="20170925T014610Z">
-        <seg>小さい問題が2つあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T102348Z" creationid="rikiha" creationdate="20170925T014610Z">
+        <seg>些細な問題が2つほどあります。</seg>
       </tuv>
     </tu>
     <tu>
