@@ -5657,7 +5657,7 @@ font-size: 16px;
     <tu>
       <note>(伊原) 微調整。警告サインの話はどこにったのだろう？
 
-(太田) 図版キャプションもと同じく「だ・である」調にしていたので合わせました。結果altと同じに……。</note>
+(太田) 図版キャプションもaltと同じく「だ・である」調にしていたので合わせました。結果altと同じに……。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A declaration block from Chrome dev tools showing the error declaration with a line-through style.&lt;/g3&gt;</seg>
       </tuv>
@@ -5861,7 +5861,9 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ほぼaltそのまま。</note>
+      <note>(伊原) ほぼaltそのまま。
+
+(太田) 図版キャプションもaltと同じく「だ・である」調にしていたので合わせました。結果altと同じに……。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Screenshot of devtools declaration block with &lt;g4&gt;display: none;&lt;/g4&gt; declaration above the content declaration.&lt;/g3&gt;</seg>
       </tuv>
@@ -32058,7 +32060,9 @@ not cut it はうまくできない、くらいの意味。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) オーバーライド→上書き</note>
+      <note>(伊原) オーバーライド→上書き
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Unfortunately, like overriden declarations, unrecognized declarations still take a line-through style as illustrated.</seg>
       </tuv>
