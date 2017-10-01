@@ -21110,12 +21110,15 @@ the URLは「このページのURL」としてみました。
 (太田)
 冒頭が砕けすぎなような。
 いったん保留。
-the user とは?</note>
+
+the user はおそらくこのTDDのメソッドを利用するユーザー。
+話の流れとして、ハイライトする方法は説明した→あとは説明が伝わればよい、という話。
+意訳気味に調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Now all we need is a method for describing the issue to the user on inspection of the highlighted element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T135329Z" creationid="rikiha" creationdate="20170925T014411Z">
-        <seg>あとは、ハイライトされた要素を調べて、ユーザーにその問題を解説すればよいのです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T135834Z" creationid="rikiha" creationdate="20170925T014411Z">
+        <seg>あとは、ハイライトされた要素を調べた際に、その問題点の説明が伝わるようにすればよいのです。</seg>
       </tuv>
     </tu>
     <tu>
