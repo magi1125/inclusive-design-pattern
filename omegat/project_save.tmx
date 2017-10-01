@@ -5880,7 +5880,9 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
     <tu>
       <note>(伊原) ほぼaltそのまま。
 
-(太田) 図版キャプションもaltと同じく「だ・である」調にしていたので合わせました。結果altと同じに……。</note>
+(太田) 図版キャプションもaltと同じく「だ・である」調にしていたので合わせました。結果altと同じに……。
+
+(伊原) あれ、キャプションはですますじゃなかったでしたっけ。岡本さん確認。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Screenshot of devtools declaration block with &lt;g4&gt;display: none;&lt;/g4&gt; declaration above the content declaration.&lt;/g3&gt;</seg>
       </tuv>
@@ -23286,7 +23288,9 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
 
 (太田)
 原著がこうなっていて合ってはいますね。
-いったんママで。</note>
+いったんママで。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Screenshot of dev tools declaration block with a display:none; declaration above the content declaration.</seg>
       </tuv>
@@ -27334,7 +27338,9 @@ pseudo-contentはいったん「疑似コンテンツ」で。
 
 (太田)
 「カスケードの最終結果」とか?
-すこし調整しました。</note>
+すこし調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The first is that when two errors apply to the same element, all but the last in the cascade will be grayed out (with a line-through style) in the CSS inspector.</seg>
       </tuv>
@@ -29013,7 +29019,9 @@ JAWS日本語版では「ページ内リンク」らしいです。
     </tu>
     <tu>
       <note>(太田)
-すこし調整。</note>
+すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>There are a couple of small issues here.</seg>
       </tuv>
