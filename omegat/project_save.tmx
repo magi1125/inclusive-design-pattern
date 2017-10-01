@@ -4157,6 +4157,7 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g25&gt;ERROR&lt;/g25&gt;&lt;g26&gt;:&lt;/g26&gt; &lt;g27&gt;"Remove the -1 tabindex value on the aria-selected tab to make it focusable by the user.</seg>
       </tuv>
@@ -4305,7 +4306,9 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) should haveな感じにしつつ調整。</note>
+      <note>(伊原) should haveな感じにしつつ調整。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g32&gt;ERROR&lt;/g32&gt;&lt;g33&gt;:&lt;/g33&gt; &lt;g34&gt;"All unselected tabs should have the -1 tabindex value and only be focusable using the left and right arrow keys."&lt;/g34&gt;&lt;g35&gt;;&lt;/g35&gt;
 &lt;g36&gt;}&lt;/g36&gt;
@@ -4432,7 +4435,9 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) should have感を出しつつ調整。</note>
+      <note>(伊原) should have感を出しつつ調整。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g39&gt;ERROR&lt;/g39&gt;&lt;g40&gt;:&lt;/g40&gt; &lt;g41&gt;"Each tabpanel should have an aria-labelledby attribute starting with "tab" followed by the corresponding tab’s number.</seg>
       </tuv>
@@ -29582,15 +29587,18 @@ break up は分割というより解消、解体に近い意味かも。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) should be able toなのでそんな感じに。</note>
+      <note>(伊原) should be able toなのでそんな感じに。
+
+(太田)
+アクティブなtabにフォーカスできないといけないという話なので、やや強くなりますが、移動できる必要があります、くらいのほうがいいかなと。</note>
       <tuv lang="EN-US">
         <seg>They should be able to move to this tab only."&lt;/g27&gt;&lt;g28&gt;;&lt;/g28&gt;
 &lt;g29&gt;}&lt;/g29&gt;
 
 &lt;g30&gt;[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]) &lt;/g30&gt;&lt;g31&gt;{&lt;/g31&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T034103Z" creationid="Administrator" creationdate="20170930T033554Z">
-        <seg>ユーザーはこのタブだけにはフォーカスを移動できるはずです。"&lt;/g27&gt;&lt;g28&gt;;&lt;/g28&gt;
+      <tuv lang="JA" changeid="bakera" changedate="20171001T140758Z" creationid="Administrator" creationdate="20170930T033554Z">
+        <seg>ユーザーはこのタブだけにはフォーカスを移動できる必要があります。"&lt;/g27&gt;&lt;g28&gt;;&lt;/g28&gt;
 &lt;g29&gt;}&lt;/g29&gt;
 
 &lt;g30&gt;[role="tablist"] a:not([aria-selected]):not([tabindex="-1"]) &lt;/g30&gt;&lt;g31&gt;{&lt;/g31&gt;</seg>
