@@ -5,14 +5,19 @@
   <body>
 <!-- Default translations -->
     <tu>
-      <note>(太田)
+      <note>※要訳注
+
+(太田)
 異常にわかりにくいですがたぶんこうです。リンク先もわかりにくいですが、
 aria-hidden
 aria-hidden="aria-hidden"
 aria-hidden="true"
 のうち最後の書き方をしているということだと思います。
 
-(伊原) この太田さんのコメントがあって理解できました…。上記を訳注いただいたほうがいいかも。</note>
+(伊原) この太田さんのコメントがあって理解できました…。上記を訳注いただいたほうがいいかも。
+
+(太田) OK、訳注で。
+</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note:&lt;/g1&gt; Both &lt;g2&gt;aria-hidden="true"&lt;/g2&gt; and &lt;g3&gt;aria-required="true"&lt;/g3&gt; have explicit values rather than being written in the &lt;g4&gt;&lt;g5&gt;Boolean form that is possible with certain HTML5 attributes&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;13&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;.</seg>
       </tuv>
@@ -19493,7 +19498,9 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) コメント消えてますが調整済みです。</note>
       <tuv lang="EN-US">
         <seg>More correctly, placing &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-required="true"&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;12&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; on the input itself will announced “Required” in the set language of the page.</seg>
       </tuv>
