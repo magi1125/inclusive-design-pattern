@@ -25376,12 +25376,15 @@ voice profile called Jack は「Jackと呼ばれる音声プロファイル」�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田)
+it looks misleadingly なので、「誤解を招きそうに見える」という話ですね。少し調整。</note>
       <tuv lang="EN-US">
         <seg>That is, it looks misleadingly as if all but the last error is not applicable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T001727Z" creationid="rikiha" creationdate="20170925T020018Z">
-        <seg>つまり、最後のエラー以外は当てはまらないかのような誤解を招きます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T103306Z" creationid="rikiha" creationdate="20170925T020018Z">
+        <seg>これは、最後のエラー以外は当てはまらないかのような、誤解を招く見え方になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27182,12 +27185,13 @@ http://www.unicode.org/charts/PDF/U2600.pdf
       <note>(伊原) 長いので2文に分割。カスケードが落ちていたので修正。「最終的に適用されたプロパティ」とかに意訳したほうがいいか？
 
 (太田)
-「カスケードの最終結果」とか?</note>
+「カスケードの最終結果」とか?
+すこし調整しました。</note>
       <tuv lang="EN-US">
         <seg>The first is that when two errors apply to the same element, all but the last in the cascade will be grayed out (with a line-through style) in the CSS inspector.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T102756Z" creationid="rikiha" creationdate="20170925T020013Z">
-        <seg>ひとつめの問題は、同じ要素に2つのエラーがある場合です。CSSインスペクタの中では、カスケードの最終結果以外のすべてがグレーアウト（打ち消し線がついたスタイル）されてしまいます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T102814Z" creationid="rikiha" creationdate="20170925T020013Z">
+        <seg>ひとつめの問題は、同じ要素に2つのエラーがある場合です。CSSインスペクタの中では、カスケードの最終結果以外のすべてがグレーアウト（打ち消し線がついたスタイルで表示）されてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
