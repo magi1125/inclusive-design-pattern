@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34254,7 +34254,9 @@ enhanceを拡張としました。
     <tu>
       <note>(伊原) OK
 
-(太田) すこし調整。</note>
+(太田) すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Where additional JavaScript and CSS hooks (&lt;g4&gt;data&lt;/g4&gt; and &lt;g5&gt;class&lt;/g5&gt; attributes) should be present, this is also an opportunity to test for them.</seg>
       </tuv>
@@ -34276,7 +34278,9 @@ how the structure(you’ve chosen) makes the markup inclusive.
 your decision-making は、その構造を選択するという意思決定を指すと思いますので、なぜその構造を選んだか、と言い換えて良いと思います。
 
 それから全体はwillなので未来の話ですね。
-という考えで短めに調整してみましたがどうでしょう。</note>
+という考えで短めに調整してみましたがどうでしょう。
+
+(伊原) ありがとうございます。OKです</note>
       <tuv lang="EN-US">
         <seg>Where an error does emerge, you will have taken the opportunity — via the error message — to explain your decision-making and how the structure you’ve chosen makes the markup inclusive.</seg>
       </tuv>
