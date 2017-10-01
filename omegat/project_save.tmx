@@ -22152,12 +22152,17 @@ our job is を直訳せずに「～しましょう」としました。
     <tu>
       <note>(伊原) こういうことでしょうか。
 
-ちなみに下記のコード例のエラーに""が入っているのは何故だろう。引用符は要らない的な話をしていた記憶が。</note>
+ちなみに下記のコード例のエラーに""が入っているのは何故だろう。引用符は要らない的な話をしていた記憶が。
+
+(太田)
+この and は、A なら B になる、というような and かなと。
+調整してみました。
+</note>
       <tuv lang="EN-US">
         <seg>Our tab interface pattern should now have a &lt;g1&gt;tab-interface.css&lt;/g1&gt; file and, in an effort to establish a naming convention, an accompanying &lt;g2&gt;tab-interface.test.css&lt;/g2&gt; file — something like this:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T030846Z" creationid="rikiha" creationdate="20170925T020419Z">
-        <seg>タブインターフェイスパターンは&lt;g1&gt;tab-interface.css&lt;/g1&gt;というファイルになるでしょうから、命名規則を定め、付随するファイルは&lt;g2&gt;tab-interface.test.css&lt;/g2&gt;ファイルとします――以下のようになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T114444Z" creationid="rikiha" creationdate="20170925T020419Z">
+        <seg>タブインターフェイスのパターンが&lt;g1&gt;tab-interface.css&lt;/g1&gt;というファイルになるとしたら、命名規則に従い、&lt;g2&gt;tab-interface.test.css&lt;/g2&gt;というファイルを付随させます――以下のような内容です。</seg>
       </tuv>
     </tu>
     <tu>
