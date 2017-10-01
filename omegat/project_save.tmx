@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37564,7 +37564,9 @@ sentは「飛ばされる」としました。
 confidenceをどうするか難しいですね。コードの信頼性を担保するというような話だと思うので、
 「コードの信頼性を担保しながら開発を進めるために」
 としてみました。
-ここのイテレーションはデプロイの反復みたいな意味なので、まあそのままイテレーションですかね。</note>
+ここのイテレーションはデプロイの反復みたいな意味なので、まあそのままイテレーションですかね。
+
+(伊原) なるほど、ありがとうございます。OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;Test-driven development&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (TDD) allows developers working with frequent iterations to move forward with confidence.</seg>
       </tuv>
