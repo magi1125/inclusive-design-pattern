@@ -8019,12 +8019,14 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       <note>(伊原) the first sibling element afterがわかりにくかったので調整。
 
 (太田)
-微調整。</note>
+微調整。
+このlastは最後と訳さないほうがいいlastですね (直前を指す)。
+</note>
       <tuv lang="EN-US">
         <seg>As an accompaniment to the last test, we can make sure a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; with the &lt;g3&gt;tabpanel&lt;/g3&gt; role is the first sibling element after the &lt;g4&gt;tablist&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T084656Z" creationid="rikiha" creationdate="20170925T014534Z">
-        <seg>最後のテストに加えて、&lt;g3&gt;tabpanel&lt;/g3&gt;ロールを持つ&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;が、&lt;g4&gt;tablist&lt;/g4&gt;の直後に続く兄弟要素になっていることを確かめます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T084802Z" creationid="rikiha" creationdate="20170925T014534Z">
+        <seg>先のテストに加えて、&lt;g3&gt;tabpanel&lt;/g3&gt;ロールを持つ&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;が、&lt;g4&gt;tablist&lt;/g4&gt;の直後に続く兄弟要素になっていることを確かめます。</seg>
       </tuv>
     </tu>
     <tu>
