@@ -23957,7 +23957,9 @@ wouldなので弱めに調整。
 しかし、よりセキュアなネイティブの機能を殺して、セキュアでない独自実装のほうを生かそうとするのは、まったく賛同できません。厳しい訳注を入れなければならないでしょう。
 
 (伊原) のソリューション→ソリューション
-訳注期待です。</note>
+訳注期待です。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Since we’ve provided our own (cross-browser) solution, it would be wise to suppress this feature:</seg>
       </tuv>
