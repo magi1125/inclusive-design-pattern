@@ -7093,12 +7093,14 @@ Allのニュアンスを盛り込むべきかも。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 能動形に修正。</note>
+      <note>(伊原) 能動形に修正。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>All other tabs should take the &lt;g8&gt;tabindex="-1"&lt;/g8&gt; attribute and be selectable using only the arrow keys.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T080502Z" creationid="rikiha" creationdate="20170925T014513Z">
-        <seg>その他のタブにはすべてtabindex="-1"属性を指定し、矢印キーでのみ選択可能にするべきです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T081808Z" creationid="rikiha" creationdate="20170925T014513Z">
+        <seg>その他のタブにはすべて&lt;g8&gt;tabindex="-1"&lt;/g8&gt;属性を指定し、矢印キーでのみ選択可能にするべきです。</seg>
       </tuv>
     </tu>
     <tu>
