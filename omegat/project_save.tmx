@@ -13223,12 +13223,15 @@ http://ejje.weblio.jp/content/pertinent+to
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田)
+その→この</note>
       <tuv lang="EN-US">
         <seg>However, actually printing that error to the screen is fraught with problems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170925T014553Z" creationid="rikiha" creationdate="20170925T014553Z">
-        <seg>ただし、そのエラーを画面に表示することには問題が伴います。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T085816Z" creationid="rikiha" creationdate="20170925T014553Z">
+        <seg>ただし、このエラーを画面に表示することには問題が伴います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23659,12 +23662,17 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 調整。1文が長いが致し方ないか。</note>
+      <note>(伊原) 調整。1文が長いが致し方ないか。
+
+(太田)
+ここのpiggybackは乗っかってしまっている (ので相互影響を受ける) という感じですかね。
+サイト側のCSSで疑似要素のスタイルを付けるときに、エラーメッセージと相互に影響しないようにするのが大変という話ですね。
+調整してみましたが分割してもいいのかも。</note>
       <tuv lang="EN-US">
         <seg>Since it piggybacks a site’s own CSS, I had to be very careful about overriding certain styles for pseudo-content that would mess up the appearance and readability of the error messages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170929T222658Z" creationid="rikiha" creationdate="20170925T014554Z">
-        <seg>サイトのCSSに便乗しているため、エラーメッセージの見た目や読みやすさを台無しにしかねないpseudo-contentの特定スタイルの上書きについて、非常に慎重にならねばなりませんでした。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T090639Z" creationid="rikiha" creationdate="20170925T014554Z">
+        <seg>このスタイルはサイト側のCSSに乗っているため、サイト側の疑似要素のスタイルがこのスタイルを上書きしてしまい、エラーメッセージの見た目や読みやすさを台無しにすることがないように、非常に慎重にならねばなりませんでした。</seg>
       </tuv>
     </tu>
     <tu>
