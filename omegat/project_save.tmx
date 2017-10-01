@@ -21397,11 +21397,13 @@ willで未来形なので「出現するようになります」としました�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>Of course, none of this can technically &lt;g1&gt;fail&lt;/g1&gt; a build in its current form; it just highlights errors visually, for the front-end developer to see.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T041305Z" creationid="rikiha" creationdate="20170925T020452Z">
-        <seg>もちろん現在の形式では、これで技術的にビルドに&lt;g1&gt;失敗&lt;/g1&gt;することはありません。フロントエンド開発者に見えるよう、エラーを視覚的にハイライトしているだけです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T114810Z" creationid="rikiha" creationdate="20170925T020452Z">
+        <seg>もちろん、このままの形式でも、技術的にビルドに&lt;g1&gt;失敗&lt;/g1&gt;するようなことはありません。これは単にフロントエンド開発者に見えるよう、エラーを視覚的にハイライトしているだけです。</seg>
       </tuv>
     </tu>
     <tu>
