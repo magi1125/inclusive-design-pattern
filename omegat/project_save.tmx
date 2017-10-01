@@ -11875,6 +11875,8 @@ Do you mean change the input invalid to valid or change aria-invalid=”false”
 
 直してしまうか、訳注か。
 正式なerrataとして採用されていないようなので、訳注ですかね。
+
+(伊原) どう考えてもtrueとfalseが反対ですよね…。直してしまいつつヘイドンさんにコメント、がいいような気もします。
 </note>
       <tuv lang="EN-US">
         <seg>For fields now marked invalid, we could run our validation routine on each &lt;g2&gt;input&lt;/g2&gt; event, switching &lt;g3&gt;aria-invalid&lt;/g3&gt; from &lt;g4&gt;false&lt;/g4&gt; to &lt;g5&gt;true&lt;/g5&gt; where applicable.</seg>
