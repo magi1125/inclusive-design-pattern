@@ -5838,12 +5838,24 @@ a little ではなく little なので、これは「ほとんどない」とい
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。ちょっと微妙なキャプション。</note>
+      <note>(伊原) 微調整。ちょっと微妙なキャプション。
+
+(太田)
+わけがわからないですね。すくなくともここに書く話ではないと思います。これは分節3786の以下のコードに対する注釈なのではないでしょうか。
+
+&lt;g4&gt;ERROR&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; タブインターフェイスである&lt;g6&gt;&lt;&lt;/g6&gt;ul&lt;g7&gt;&gt;&lt;/g7&gt;にはtablist WAI-ARIAロールを指定しなければなりません。
+&lt;g8&gt;}&lt;/g8&gt;&lt;/g1&gt;
+
+contnet プロパティの値ではないため '' で括る必要がなくなったという話です (ただし、そのかわり ; が書けなくなったような気はします)。
+
+編集ミスでここに移動してきてしまったのではないですかね?
+分節3786のコードの下に移動してしまって良いと思います。
+その前提ですこし調整しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Note that it’s no longer necessary to encapsulate the error in single quotation marks as a string.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T022150Z" creationid="rikiha" creationdate="20170925T020354Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;エラーを文字列としてシングルクォーテーションで囲んでカプセル化する必要はなくなりました。&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T111700Z" creationid="rikiha" creationdate="20170925T020354Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;エラーをシングルクォーテーションで囲んで文字列としてカプセル化する必要がなくなっていることに注目してください。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
