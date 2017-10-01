@@ -32534,7 +32534,9 @@ don’t get out of sync は二重否定でわかりにくいので、単に「�
 
 (太田)
 ここでは concerns と複数形になっているので不可算名詞ではないと思いますが、可算名詞として関心事、重要なこと、利害関係、などの意味があるよう。ここではまあスタイルとロジックの分離の話でしょうね。
-いずれにしても前からの文脈で見ないとわからないので、「それらの関係を分離」としてみました。</note>
+いずれにしても前からの文脈で見ないとわからないので、「それらの関係を分離」としてみました。
+
+(伊原) 失礼、了解です。OK</note>
       <tuv lang="EN-US">
         <seg>Usually a separation of concerns is beneficial, but whenever a field is marked as invalid, that’s when it should &lt;g3&gt;look&lt;/g3&gt; invalid.</seg>
       </tuv>
