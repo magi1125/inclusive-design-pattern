@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8283,7 +8283,9 @@ https://www.noupe.com/design/10-beginner-tips-for-unique-product-photography-790
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 読点の位置など調整</note>
+      <note>(伊原) 読点の位置など調整
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>As the pattern evolves over time and between colleagues, you can make sure its integrity remains intact.</seg>
       </tuv>
@@ -8447,7 +8449,9 @@ hone は砥石でとぐような意味。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>As you develop your own library of inclusive design patterns, I recommend you try writing some tests like these.</seg>
       </tuv>
@@ -34187,23 +34191,36 @@ enhanceを拡張としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) すこし調整。</note>
       <tuv lang="EN-US">
         <seg>Where additional JavaScript and CSS hooks (&lt;g4&gt;data&lt;/g4&gt; and &lt;g5&gt;class&lt;/g5&gt; attributes) should be present, this is also an opportunity to test for them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T120615Z" creationid="rikiha" creationdate="20170925T020513Z">
-        <seg>追加のJavaScriptフックやCSSフック（&lt;g4&gt;data&lt;/g4&gt;属性や&lt;g5&gt;class&lt;/g5&gt;属性）が必要が場合、それらをテストする機会でもあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T120651Z" creationid="rikiha" creationdate="20170925T020513Z">
+        <seg>追加のJavaScriptフックやCSSフック（&lt;g4&gt;data&lt;/g4&gt;属性や&lt;g5&gt;class&lt;/g5&gt;属性）が必要が場合、それらをテストすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
       <note>(伊原) こういうことでしょうか。以下のような解釈です。
 
-you will have taken the opportunity — via the error message — to explain (your decision-making) and (how the structure( you’ve chosen makes the markup inclusive)).</note>
+you will have taken the opportunity — via the error message — to explain (your decision-making) and (how the structure( you’ve chosen makes the markup inclusive)).
+
+(太田)
+原文が分かりにくいですねー。
+
+how the structure(you’ve chosen) makes the markup inclusive. 
+は、「この(あなたが選んだ)構造が、どのようにそのマークアップをインクルーシブにするか」ですね。「マークアップを」は取っても良いと思います。「その構造がいかにインクルーシブであるのか」と言い換えられそうです。
+
+your decision-making は、その構造を選択するという意思決定を指すと思いますので、なぜその構造を選んだか、と言い換えて良いと思います。
+
+それから全体はwillなので未来の話ですね。
+という考えで短めに調整してみましたがどうでしょう。</note>
       <tuv lang="EN-US">
         <seg>Where an error does emerge, you will have taken the opportunity — via the error message — to explain your decision-making and how the structure you’ve chosen makes the markup inclusive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T052058Z" creationid="rikiha" creationdate="20170925T020519Z">
-        <seg>エラーが発生した場合は、自分の意思決定と、マークアップをインクルーシブにするべく選んだ構造がどのようなものかを――そのエラーメッセージを用いて――解説するチャンスを得たということなのです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T122315Z" creationid="rikiha" creationdate="20170925T020519Z">
+        <seg>エラーが発生すれば、なぜその構造を選択したのか、その構造がいかにインクルーシブであるのかを――そのエラーメッセージを通じて――説明する、絶好の機会になります。</seg>
       </tuv>
     </tu>
     <tu>
