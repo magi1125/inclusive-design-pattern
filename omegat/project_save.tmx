@@ -37581,7 +37581,9 @@ confidenceをどうするか難しいですね。コードの信頼性を担保�
 
 (太田)
 期待される結果を定義するためにテストを書く、というニュアンスかなと。テストファーストというのが重要です。
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>By writing tests first, to prescribe outcomes, then creating the functionality to achieve them, you can ensure successful builds behave in a predictable and reliable fashion.</seg>
       </tuv>
@@ -37596,7 +37598,9 @@ confidenceをどうするか難しいですね。コードの信頼性を担保�
 
 (太田)
 “What the hell is going on?” の the hell をどうするか。口語的な余計な言葉をつけ足している感じなので、「いったいぜんたい」としてみました。
-全体少し調整。</note>
+全体少し調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Thrill seekers who relish their “What the hell is going on?” moments may find TDD a little boring, but it’s a solid approach.</seg>
       </tuv>
