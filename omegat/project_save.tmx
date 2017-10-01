@@ -26557,14 +26557,21 @@ mightなのですこし弱めに。
       <note>(伊原) 括弧を外しつつ調整。下訳は意味が逆になっていたので修正。
 
 (太田)
-実は注意深く読むと原文は微妙に間違っています。
-[role="tabpanel"]:not([aria-labelledby^="tab"]) は、「tabではじまるaria-labeledbyを持たない」 tabpanel にマッチします。
+注意深く読むと原文は微妙に不正確です。
+追加されているセレクタ
+[role="tabpanel"]:not([aria-labelledby^="tab"])
+は、「『tabではじまるaria-labeledby』を持たない tabpanel」にマッチします。これは、aria-labelledby属性そのものがない場合にもマッチします。しかし本文の説明は
+ with an &lt;g3&gt;aria-labelledby&lt;/g3&gt; value not commencing with “tab.” 
+となっていて、これはaria-labelledby属性そのものがない場合にはマッチしないように読めます。この説明は不正確です。
+微妙な差異なのでしれっと直してしまいましょう。
+ということで全体を調整してみました。
+
 </note>
       <tuv lang="EN-US">
         <seg>The additional test selector in the following example matches tab panels with the correct role, but with an &lt;g3&gt;aria-labelledby&lt;/g3&gt; value not commencing with “tab.” This fuzzy matching is possible using the &lt;g4&gt;starts with&lt;/g4&gt; &lt;g5&gt;^&lt;/g5&gt; modifier in the attribute selector, &lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T083107Z" creationid="rikiha" creationdate="20170925T014524Z">
-        <seg>以下の例で追加したテストセレクタは、正しいロールが設定されたタブパネルに、「tab」で始まる&lt;g3&gt;aria-labelledby&lt;/g3&gt;属性がない場合にマッチします。このファジーマッチングは、&lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;のように、属性セレクタ内で&lt;g4&gt;～で始まる&lt;/g4&gt;を意味する&lt;g5&gt;^&lt;/g5&gt;修飾子を使うことで可能になります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T083950Z" creationid="rikiha" creationdate="20170925T014524Z">
+        <seg>以下の例ではテストセレクタを追加し、適切なロールが設定されたタブパネルに「tab」で始まる&lt;g3&gt;aria-labelledby&lt;/g3&gt;属性がない場合にマッチさせています。属性セレクタ内で、&lt;g4&gt;～で始まる&lt;/g4&gt;、を意味する&lt;g5&gt;^&lt;/g5&gt;修飾子を使って&lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;のように書くと、このようなファジーなマッチングが可能になります。</seg>
       </tuv>
     </tu>
     <tu>
