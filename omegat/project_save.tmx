@@ -33217,7 +33217,9 @@ print は「出力」ではなく「表示」で良いと思います。</note>
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>When debouncing, the single function execution can take place at the beginning (&lt;g8&gt;leading&lt;/g8&gt;) or end (&lt;g9&gt;trailing&lt;/g9&gt;) of the block.</seg>
       </tuv>
