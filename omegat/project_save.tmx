@@ -11948,12 +11948,13 @@ https://gyazo.com/f7b6375b0f222bd81fc49fd24ea2fefa
 ショッキングなメッセージというとメッセージの内容がショッキングなように読めるので、「どぎつい見た目で」としてみましたが、どうでしょうか。
 
 (太田)
-ここでは見た目のスタイルは全く定義されていないので、見た目の話と思われる表現は避けたいです。</note>
+ここでは見た目のスタイルは全く定義されていないので、見た目の話と思われる表現は避けたいです。
+「大胆に」とかでどうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>For example, the following prints a lurid message for lists which are badly formed:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20171001T123307Z" creationid="rikiha" creationdate="20170925T014551Z">
-        <seg>たとえば以下のセレクタでは、不適切な構成のリストに対して、どぎつい見た目でメッセージを表示します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T131452Z" creationid="rikiha" creationdate="20170925T014551Z">
+        <seg>たとえば以下のセレクタでは、不適切な構成のリストに対して、大胆にメッセージを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23852,12 +23853,15 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
 サイト側のCSSで疑似要素のスタイルを付けるときに、エラーメッセージと相互に影響しないようにするのが大変という話ですね。
 調整してみましたが分割してもいいのかも。
 
-(伊原) ありがとうございます。だいぶ読みやすくなりましたが、分割いただいたほうがよさそうに感じました。</note>
+(伊原) ありがとうございます。だいぶ読みやすくなりましたが、分割いただいたほうがよさそうに感じました。
+
+(太田)
+分割しつつ意訳しつつ補いつつ調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Since it piggybacks a site’s own CSS, I had to be very careful about overriding certain styles for pseudo-content that would mess up the appearance and readability of the error messages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T090639Z" creationid="rikiha" creationdate="20170925T014554Z">
-        <seg>このスタイルはサイト側のCSSに乗っているため、サイト側の疑似要素のスタイルがこのスタイルを上書きしてしまい、エラーメッセージの見た目や読みやすさを台無しにすることがないように、非常に慎重にならねばなりませんでした。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T131836Z" creationid="rikiha" creationdate="20170925T014554Z">
+        <seg>このスタイルはサイト側のCSSと相互に影響するため、サイト側で疑似要素にスタイルをつけると、エラーのスタイルを上書きしてしまうことがあります。エラーメッセージの見た目や読みやすさを台無しにすることがないように、きわめて慎重にならなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
