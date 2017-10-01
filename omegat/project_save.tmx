@@ -13464,7 +13464,9 @@ thanks to は「ありがたいことに」としました。
 productionは製品なのですが、ここでは「本番用」くらいの意味だと思います。本番用のビルドをproduction buildと言ったりしますね。
 don't want to なのでそこまで強くもなく、「絶対入れたくない」というようなニュアンスですね。
 「間違いなく、本番環境には含めないほうが良い」
-くらいでしょうか。</note>
+くらいでしょうか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>However, the &lt;g2&gt;.test.css&lt;/g2&gt; files certainly don’t want to be included in production.</seg>
       </tuv>
@@ -21477,7 +21479,9 @@ willで未来形なので「出現するようになります」としました�
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Of course, none of this can technically &lt;g1&gt;fail&lt;/g1&gt; a build in its current form; it just highlights errors visually, for the front-end developer to see.</seg>
       </tuv>
