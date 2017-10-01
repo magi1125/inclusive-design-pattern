@@ -9317,7 +9317,9 @@ have you believe で「あなたに信じさせる」
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>But that’s not much use unless we also provide an explanation of the error.</seg>
       </tuv>
@@ -16426,7 +16428,9 @@ if supported は SVG ではなく &lt;use&gt; にくっついているのでは�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 私が作った、と補いました。</note>
+      <note>(伊原) 私が作った、と補いました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>In the experimental CSS testing bookmarklet &lt;g1&gt;&lt;g2&gt;revenge.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;11&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, I used test selectors to identify generic accessibility-related markup errors and provided error messages using pseudo-content.</seg>
       </tuv>
