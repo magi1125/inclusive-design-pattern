@@ -16760,8 +16760,8 @@ not acceptable を invalid と訳し分けるべきか。
       <tuv lang="EN-US">
         <seg>In which case, I could just hide the pseudo-content message with &lt;g1&gt;display:none;&lt;/g1&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T101826Z" creationid="rikiha" creationdate="20170925T014601Z">
-        <seg>このケースでは、ただ&lt;g1&gt;display:none;&lt;/g1&gt;で疑似コンテンツのメッセージを隠せば良いでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T102101Z" creationid="rikiha" creationdate="20170925T014601Z">
+        <seg>このケースでは、単に&lt;g1&gt;display:none;&lt;/g1&gt;で疑似コンテンツのメッセージを隠せば良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23161,7 +23161,11 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳から調整しつつ反映。キャプションとほぼ同じなので、これでよいのか検討。</note>
+      <note>(伊原) 下訳から調整しつつ反映。キャプションとほぼ同じなので、これでよいのか検討。
+
+(太田)
+原著がこうなっていて合ってはいますね。
+いったんママで。</note>
       <tuv lang="EN-US">
         <seg>Screenshot of dev tools declaration block with a display:none; declaration above the content declaration.</seg>
       </tuv>
