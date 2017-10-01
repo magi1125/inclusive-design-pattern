@@ -33092,7 +33092,9 @@ richは潤沢くらい?
       <note>(伊原) 2文に分けてややこしさの軽減を試みました。
 
 (太田)
-shouldを「べき」とすることにこだわらないほうが良いのかも。すこし調整してみました。</note>
+shouldを「べき」とすることにこだわらないほうが良いのかも。すこし調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We know that the tab panel set should appear after the list, so we can use the &lt;g2&gt;&lt;g3&gt;general sibling combinator&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;9&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; &lt;g7&gt;~&lt;/g7&gt; in this test to ask if there are any &lt;g8&gt;&lt;div&gt;&lt;/g8&gt;s following the &lt;g9&gt;tablist&lt;/g9&gt; that are &lt;g10&gt;not&lt;/g10&gt; &lt;g11&gt;tabpanel&lt;/g11&gt;s.</seg>
       </tuv>
