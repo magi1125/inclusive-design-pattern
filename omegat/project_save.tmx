@@ -5656,12 +5656,13 @@ font-size: 16px;
     </tu>
     <tu>
       <note>(伊原) 微調整。警告サインの話はどこにったのだろう？
-</note>
+
+(太田) 図版キャプションもと同じく「だ・である」調にしていたので合わせました。結果altと同じに……。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A declaration block from Chrome dev tools showing the error declaration with a line-through style.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T013217Z" creationid="rikiha" creationdate="20170925T020321Z">
-        <seg>Chrome開発ツールのCSS宣言ブロック。エラー宣言が打ち消し線スタイルで表示されています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T110133Z" creationid="rikiha" creationdate="20170925T020321Z">
+        <seg>Chrome開発ツールのCSS宣言ブロック。エラー宣言が打ち消し線スタイルで表示されている。</seg>
       </tuv>
     </tu>
     <tu>
