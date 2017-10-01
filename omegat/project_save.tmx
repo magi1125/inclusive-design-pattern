@@ -11926,12 +11926,14 @@ massiveは「大きくて重い、大規模な」というような意味です�
 下のセレクタはメッセージが指定されているだけで、色は指定されていないようです。
 luridは「燃えるような」というような意味ですがまあHPですね。ここでは「大胆な」とか「ど派手な」とか「ショッキングな」とかでしょうか。
 
-(伊原) OK、revenge.css試したときのイメージが残ってました。</note>
+(伊原) revenge.css試したときのイメージが残ってました。
+https://gyazo.com/f7b6375b0f222bd81fc49fd24ea2fefa
+ショッキングなメッセージというとメッセージの内容がショッキングなように読めるので、「どぎつい見た目で」としてみましたが、どうでしょうか。</note>
       <tuv lang="EN-US">
         <seg>For example, the following prints a lurid message for lists which are badly formed:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T085744Z" creationid="rikiha" creationdate="20170925T014551Z">
-        <seg>たとえば以下のセレクタでは、不適切な構成のリストに対して、ショッキングなメッセージを表示します。</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20171001T123307Z" creationid="rikiha" creationdate="20170925T014551Z">
+        <seg>たとえば以下のセレクタでは、不適切な構成のリストに対して、どぎつい見た目でメッセージを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13296,7 +13298,9 @@ http://ejje.weblio.jp/content/pertinent+to
       <note>(伊原) OK
 
 (太田)
-その→この</note>
+その→この
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>However, actually printing that error to the screen is fraught with problems.</seg>
       </tuv>
@@ -23805,7 +23809,9 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
 (太田)
 ここのpiggybackは乗っかってしまっている (ので相互影響を受ける) という感じですかね。
 サイト側のCSSで疑似要素のスタイルを付けるときに、エラーメッセージと相互に影響しないようにするのが大変という話ですね。
-調整してみましたが分割してもいいのかも。</note>
+調整してみましたが分割してもいいのかも。
+
+(伊原) ありがとうございます。だいぶ読みやすくなりましたが、分割いただいたほうがよさそうに感じました。</note>
       <tuv lang="EN-US">
         <seg>Since it piggybacks a site’s own CSS, I had to be very careful about overriding certain styles for pseudo-content that would mess up the appearance and readability of the error messages.</seg>
       </tuv>
