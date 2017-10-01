@@ -1916,14 +1916,18 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 「CSSアクセシビリティテストツール」だとCSSのアクセシビリティをチェックする感じに読めるので「製」と入れました。
+      <note>※要訳注?
+
+(伊原) 「CSSアクセシビリティテストツール」だとCSSのアクセシビリティをチェックする感じに読めるので「製」と入れました。
 ところで、A11y.css使ってみましたが、説明のようになっていないような……。ヘイドンさんの勘違い？
 https://gyazo.com/dd21486f0ea340b07d52fa21f1bc3893
 
 (太田)
 なってないですね。
-説明でも対象要素のすぐ下に出ていますね。
-勘違いなのか、昔はそうだったのか。</note>
+説明でも対象要素のすぐ下に直接メッセージが出ていますし実際使ってみてもそうなります。
+勘違いなのか、昔はそうだったのか。
+訳注?
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;A11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; — a more advanced CSS accessibility testing tool by &lt;g6&gt;&lt;g7&gt;Gaël Poupard&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;13&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; — overcomes this by positioning each pseudo-content message at the top of the document and reveals it on hover.</seg>
       </tuv>
@@ -9433,7 +9437,9 @@ wordingはそのまま「ワーディング」もあり?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) why botherは「する必要はない」「なぜわざわざするのか」など。at all など訳出。</note>
+      <note>(伊原) why botherは「する必要はない」「なぜわざわざするのか」など。at all など訳出。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>But why bother showing the error messages within the page itself at all?</seg>
       </tuv>
@@ -17077,7 +17083,10 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 括弧のところが誤訳っぽいので修正。</note>
+      <note>(伊原) 括弧のところが誤訳っぽいので修正。
+
+(太田)
+このcanは訳出しないとダメなやつかも?</note>
       <tuv lang="EN-US">
         <seg>Instead, I can use the developer tools CSS inspector like a JavaScript console and provide the error messages there.</seg>
       </tuv>
