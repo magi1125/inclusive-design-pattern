@@ -26397,7 +26397,9 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       <note>(伊原) OK
 
 (太田)
-ERRORという名のプロパティを使用する話なのでERRORとしたほうがよさそうです。</note>
+ERRORという名のプロパティを使用する話なのでERRORとしたほうがよさそうです。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The ERROR Property</seg>
       </tuv>
@@ -27894,7 +27896,9 @@ updateはここでは「付け加える」くらいの意味かと思います�
       <note>(伊原) ダッシュを記載。
 
 (太田)
-supplementalはここではもっとネガティブなイメージだと思います。「おまけ」としました。</note>
+supplementalはここではもっとネガティブなイメージだと思います。「おまけ」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The other is that &lt;g1&gt;display:none;&lt;/g1&gt; is supplemental to the error message — unnecessary noise.</seg>
       </tuv>
