@@ -12172,12 +12172,15 @@ OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 前に出た「ぶち壊し」を採用しつつ調整。</note>
+      <note>(伊原) 前に出た「ぶち壊し」を採用しつつ調整。
+
+(太田)
+読点を追加。</note>
       <tuv lang="EN-US">
         <seg>For my money, this isn’t a deal-breaker because the capitalized &lt;g1&gt;ERROR&lt;/g1&gt; property name picks these declarations out quite clearly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T015046Z" creationid="rikiha" creationdate="20170925T020342Z">
-        <seg>だからといってぶち壊しにはなるわけではないというのが私の考えです。大文字のプロパティ名&lt;g1&gt;ERROR&lt;/g1&gt;は、宣言をかなり明確に際立たせてくれます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T110348Z" creationid="rikiha" creationdate="20170925T020342Z">
+        <seg>だからといって、ぶち壊しにはなるわけではないというのが私の考えです。大文字のプロパティ名&lt;g1&gt;ERROR&lt;/g1&gt;は、宣言をかなり明確に際立たせてくれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20134,8 +20137,8 @@ a handful ofは片手でつかめる程度、の意味ですが、前にメニ�
       <tuv lang="EN-US">
         <seg>Nonetheless, with the help of &lt;g2&gt;&lt;g3&gt;Dan Smith&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;14&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, I can provide a &lt;g7&gt;&lt;g8&gt;small Chrome extension&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;15&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; for removing this line-through style and replacing it with a more error-like white-on-red appearance:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T020911Z" creationid="rikiha" creationdate="20170925T020343Z">
-        <seg>とは言うものの、この打ち消し線スタイルを取り除いて、よりエラーらしい赤地に白文字という見た目に置き換える、ちょっとした&lt;g7&gt;&lt;g8&gt;Chrome拡張機能&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注206）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;も提供しています。&lt;g2&gt;&lt;g3&gt;ダン・スミス（Dan Smith）&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注205）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;の助けを借りました。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T110639Z" creationid="rikiha" creationdate="20170925T020343Z">
+        <seg>とは言うものの、&lt;g2&gt;&lt;g3&gt;ダン・スミス（Dan Smith）&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注205）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;の助けを借りて、&lt;g7&gt;&lt;g8&gt;ちょっとしたChrome拡張&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注206）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;を作ることができました。これで、打ち消し線を取り除いき、赤地に白文字というエラーらしい見た目に置き換えることができます。</seg>
       </tuv>
     </tu>
     <tu>
