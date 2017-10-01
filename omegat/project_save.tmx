@@ -25725,7 +25725,9 @@ OK
       <note>(伊原) ここのdesignedは設計かなと。また、次の段落では「HTMLのような宣言型言語用」といっているので、the largely imperative language of JavaScript はこういう訳になる？
 
 (太田)
-the largely imperative language of JavaScript.は「javaScriptという、そのほとんどが命令型言語であるそれ」というような感じでしょうか。JavaScript = 命令型言語、で良いと思いますが最近のESで一部宣言的な書き方ができるようになった的なこと?</note>
+the largely imperative language of JavaScript.は「javaScriptという、そのほとんどが命令型言語であるそれ」というような感じでしょうか。JavaScript = 命令型言語、で良いと思いますが最近のESで一部宣言的な書き方ができるようになった的なこと?
+
+(伊原) おおう、そういうことですか…largelyがというのが何だろうと思っていました。OKです。</note>
       <tuv lang="EN-US">
         <seg>That’s all very well, but it’s designed for the largely imperative language of JavaScript.</seg>
       </tuv>
@@ -37617,7 +37619,9 @@ Chaiはそれ自体がアサーションライブラリであるため、その�
 
 (太田)
 my は「自作の」くらいですかね。
-コロン終わりなので「以下のように」を補いました。</note>
+コロン終わりなので「以下のように」を補いました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For example, if I wanted to test that the &lt;g1&gt;add()&lt;/g1&gt; function from my &lt;g2&gt;add.js&lt;/g2&gt; Node.js module worked correctly, I could use &lt;g3&gt;&lt;g4&gt;Mocha&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;2&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; and the &lt;g8&gt;&lt;g9&gt;Chai&lt;/g9&gt;&lt;/g8&gt;&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;3&lt;/g12&gt;&lt;/g11&gt;&lt;/g10&gt; assertion library:</seg>
       </tuv>
