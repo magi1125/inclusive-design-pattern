@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32473,12 +32473,17 @@ unless or until は厳密に訳さなくても良いように思います。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 自分がコピーされないようにする話なので、そのように調整。</note>
+      <note>(伊原) 自分がコピーされないようにする話なので、そのように調整。
+
+(太田)
+OK
+とはいえ、ファイルを消すのはいいとして、CSSへの参照はどう処理しているんでしょうね?
+</note>
       <tuv lang="EN-US">
         <seg>Using the &lt;g3&gt;.test.css&lt;/g3&gt; convention helps when it comes to omit them from being copied to your production build folder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T042101Z" creationid="rikiha" creationdate="20170925T020459Z">
-        <seg>&lt;g3&gt;.test.css&lt;/g3&gt;の命名規則は、製品版ビルドのフォルダにコピーされないようにするのに役立ちます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T115318Z" creationid="rikiha" creationdate="20170925T020459Z">
+        <seg>&lt;g3&gt;.test.css&lt;/g3&gt;の命名規則は、本番用ビルドのフォルダにコピーされないようにするのに役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
