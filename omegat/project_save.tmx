@@ -9605,8 +9605,8 @@ Tabの件は了解です、ありがとうございます。</note>
       <tuv lang="EN-US">
         <seg>By debouncing, we divide clusters of keypress events into blocks and only execute &lt;g2&gt;validate()&lt;/g2&gt; once per block.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T054826Z" creationid="bakera" creationdate="20170929T090916Z">
-        <seg>debounceを使用すると、一連のkeypressイベントの塊をブロックに割り当て、ブロックごとに&lt;g2&gt;validate()&lt;/g2&gt;を実行することができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T054905Z" creationid="bakera" creationdate="20170929T090916Z">
+        <seg>debounceによって、一連のkeypressイベントの塊をブロックに割り当て、ブロックごとに&lt;g2&gt;validate()&lt;/g2&gt;を実行することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25012,9 +25012,7 @@ suffice to sayは「あえて言うなら」くらいのほうがしっくりく
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注?
-
-(太田)
+      <note>(太田)
 何が言いたいのか。機械ではなく人として扱うという話?
 
 https://www.smashingmagazine.com/2013/06/five-ways-prevent-bad-microcopy/
@@ -25023,7 +25021,9 @@ https://www.smashingmagazine.com/2013/06/five-ways-prevent-bad-microcopy/
 訳注?
 
 (伊原) 確かにふんわりしてますね。invalid tokenとかLoading XML..とか書くなよという感じなのでしょうね。機械ではなく人間です、とかでもいいのかも。
-</note>
+
+(太田)
+あとの本文で取り上げられているのは4番だけで、この2番の項目は本題とあまり関係ないので、ふわっとしたままでも良いように思いました。興味あれば脚注リンク先を見ていただく感じで。訳注もなしで。</note>
       <tuv lang="EN-US">
         <seg>Talk to them like one.</seg>
       </tuv>
@@ -33390,8 +33390,8 @@ print は「出力」ではなく「表示」で良いと思います。</note>
       <tuv lang="EN-US">
         <seg>When debouncing, the single function execution can take place at the beginning (&lt;g8&gt;leading&lt;/g8&gt;) or end (&lt;g9&gt;trailing&lt;/g9&gt;) of the block.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T065826Z" creationid="bakera" creationdate="20170929T090922Z">
-        <seg>デバウンスを使うと、単一の関数をブロックの開始時（&lt;g8&gt;leading&lt;/g8&gt;）や終了時（&lt;g9&gt;trailing&lt;/g9&gt;）に実行することができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T054852Z" creationid="bakera" creationdate="20170929T090922Z">
+        <seg>debounceを使うと、単一の関数をブロックの開始時（&lt;g8&gt;leading&lt;/g8&gt;）や終了時（&lt;g9&gt;trailing&lt;/g9&gt;）に実行することができます。</seg>
       </tuv>
     </tu>
     <tu>
