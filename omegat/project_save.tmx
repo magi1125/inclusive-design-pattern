@@ -11962,9 +11962,7 @@ coverは説明するというか触れている程度かもしれません。
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注。
-
-(太田)
+      <note>(太田)
 微調整。
 後半は言っていることが逆のような?
 (既にエラーになっているはずなので)
@@ -11978,7 +11976,7 @@ Do you mean change the input invalid to valid or change aria-invalid=”false”
 
 (伊原) どう考えてもtrueとfalseが反対ですよね…。直してしまいつつヘイドンさんにコメント、がいいような気もします。
 
-(太田) では直しましょう。true と false を入れ替えました。</note>
+(太田) では直しましょう。true と false を入れ替えました。訳注はナシで。</note>
       <tuv lang="EN-US">
         <seg>For fields now marked invalid, we could run our validation routine on each &lt;g2&gt;input&lt;/g2&gt; event, switching &lt;g3&gt;aria-invalid&lt;/g3&gt; from &lt;g4&gt;false&lt;/g4&gt; to &lt;g5&gt;true&lt;/g5&gt; where applicable.</seg>
       </tuv>
