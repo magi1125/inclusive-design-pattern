@@ -10863,12 +10863,16 @@ draw onは経験を活かすような意味。
 括弧書きの within reason の意図がよく分からない。
 いったん保留。
 
-(伊原) 全てといっても常識の範囲内で、ということかなと。UDをdisってたのでw</note>
+(伊原) 全てといっても常識の範囲内で、ということかなと。UDをdisってたのでw
+
+(太田)
+なるほど all users についているのですね。
+括弧の位置を調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Each one needs two pieces of information, available to all users (within reason):</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T042322Z" creationid="bakera" creationdate="20170929T090824Z">
-        <seg>各フィールドについて、全てのユーザーに利用できる形で（常識の範囲内で）、以下の2つの情報を提供する必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T044312Z" creationid="bakera" creationdate="20170929T090824Z">
+        <seg>各フィールドについて、全ての（といっても常識の範囲内で）ユーザーに利用できる形で、以下の2つの情報を提供する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21068,7 +21072,9 @@ familiarを「十分に学習してきた」としていますが、「十分に
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(太田) コメント消えてますが調整済みです。</note>
       <tuv lang="EN-US">
         <seg>Now we can safely move on to handling the invalid fields.</seg>
       </tuv>
@@ -30336,7 +30342,9 @@ accessible roleはどうしたものか。英語だとroleという語に多様�
       <note>(太田)
 意訳気味にざっくりと調整。
 
-(伊原) OK. &lt;img /&gt;とする必要はあるかどうか。</note>
+(伊原) OK. &lt;img /&gt;とする必要はあるかどうか。
+
+(太田) そこはまあどちらでも良いと思います。いったんママで、ほかが &lt;img&gt; となっているようなら揃えても良いですね。</note>
       <tuv lang="EN-US">
         <seg>This population of DOM content simultaneously triggers screen readers to announce the content, including the prepended alternative text: “error: Please make sure all your registration information is correct.” Note that the role of &lt;g4&gt;&lt;g5&gt;&lt;g6&gt;img&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;16&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt; and &lt;g10&gt;aria-label&lt;/g10&gt; force the &lt;g11&gt;&lt;svg&gt;&lt;/g11&gt; element to behave like a standard &lt;g12&gt;&lt;img/&gt;&lt;/g12&gt; element carrying an &lt;g13&gt;alt&lt;/g13&gt; attribute with the content “error:”.</seg>
       </tuv>
