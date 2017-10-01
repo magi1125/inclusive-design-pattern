@@ -10596,12 +10596,15 @@ lodash の debounce を使ってイベントをまとめる話なのですが、
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整。</note>
+      <note>(伊原) 微調整。
+
+(太田)
+</note>
       <tuv lang="EN-US">
         <seg>Depending on the browser, this either means no more graying out, or a grayed-out style for &lt;g1&gt;all&lt;/g1&gt; &lt;g2&gt;ERROR&lt;/g2&gt; declarations: a slight improvement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T013007Z" creationid="rikiha" creationdate="20170925T020035Z">
-        <seg>ブラウザによって異なりますが、これはグレーアウトされなくなる、または&lt;g1&gt;すべて&lt;/g1&gt;の&lt;g2&gt;ERROR&lt;/g2&gt;宣言がグレーアウトになるということであり、問題が少し改善されます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T105449Z" creationid="rikiha" creationdate="20170925T020035Z">
+        <seg>ブラウザによりますが、これはグレーアウトされなくなるか、あるいは&lt;g1&gt;すべて&lt;/g1&gt;の&lt;g2&gt;ERROR&lt;/g2&gt;宣言がグレーアウトになるということです。これで問題が少し改善されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23209,8 +23212,7 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
 
 (太田)
 訳としてはそうでしょうがわかりにくいですね。
-
-</note>
+すこしだけ調整。</note>
       <tuv lang="EN-US">
         <seg>Second, as an unrecognized property it is not entered into specificity calculations.</seg>
       </tuv>
