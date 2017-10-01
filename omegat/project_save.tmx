@@ -32856,12 +32856,15 @@ richは潤沢くらい?
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 2文に分けてややこしさの軽減を試みました。</note>
+      <note>(伊原) 2文に分けてややこしさの軽減を試みました。
+
+(太田)
+shouldを「べき」とすることにこだわらないほうが良いのかも。すこし調整してみました。</note>
       <tuv lang="EN-US">
         <seg>We know that the tab panel set should appear after the list, so we can use the &lt;g2&gt;&lt;g3&gt;general sibling combinator&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;9&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; &lt;g7&gt;~&lt;/g7&gt; in this test to ask if there are any &lt;g8&gt;&lt;div&gt;&lt;/g8&gt;s following the &lt;g9&gt;tablist&lt;/g9&gt; that are &lt;g10&gt;not&lt;/g10&gt; &lt;g11&gt;tabpanel&lt;/g11&gt;s.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170928T151218Z" creationid="rikiha" creationdate="20170925T014530Z">
-        <seg>タブパネル群はリストの後ろに出現すべきだと分かっています。そのため、このテストでは&lt;g2&gt;&lt;g3&gt;間接セレクタ&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注200）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;の&lt;g7&gt;~&lt;/g7&gt;を使い、&lt;g9&gt;tablist&lt;/g9&gt;の後ろに&lt;g11&gt;tabpanel&lt;/g11&gt;&lt;g10&gt;ではない&lt;/g10&gt;&lt;g8&gt;&lt;div&gt;&lt;/g8&gt;があるかどうかを調べます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T084502Z" creationid="rikiha" creationdate="20170925T014530Z">
+        <seg>ここでは、タブパネル群はリストの直後に出現することになっています。このテストでは&lt;g2&gt;&lt;g3&gt;間接セレクタ&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注200）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;の&lt;g7&gt;~&lt;/g7&gt;を使って、&lt;g9&gt;tablist&lt;/g9&gt;の後ろに&lt;g11&gt;tabpanel&lt;/g11&gt;&lt;g10&gt;ではない&lt;/g10&gt;&lt;g8&gt;&lt;div&gt;&lt;/g8&gt;があるかどうかを調べます。</seg>
       </tuv>
     </tu>
     <tu>
