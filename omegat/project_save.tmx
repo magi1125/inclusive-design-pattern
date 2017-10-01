@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9227,7 +9227,9 @@ http://thesaurus.weblio.jp/content/試金石
 
 (伊原) OK
 
-(太田) 次分節の議論を踏まえて「快い」→「快適」としました。</note>
+(太田) 次分節の議論を踏まえて「快い」→「快適」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>But by keeping the form simple and avoiding irritating experiences — like disappearing labels, and passwords that you cannot check — we’ve made sure using the form isn’t just possible but somewhat agreeable.</seg>
       </tuv>
@@ -16308,7 +16310,9 @@ theを訳出しないと意味が分かりにくいですね。
 (伊原) パスワード欄の話なので、暗号？となりました。かぎとか符号とかではどうでしょうか？
 
 (太田)
-&lt;分節3569&gt; にも出てきて、そちらはスルー気味に対応しました。ここでは訳出しないと意味が通らないので、「共通のカギ」としてみました。</note>
+&lt;分節3569&gt; にも出てきて、そちらはスルー気味に対応しました。ここでは訳出しないと意味が通らないので、「共通のカギ」としてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the case of the password input, the agreed cipher — the matching content of the &lt;g1&gt;for&lt;/g1&gt; and &lt;g2&gt;id&lt;/g2&gt; values — is simply “password”:</seg>
       </tuv>
@@ -33247,6 +33251,8 @@ OK
 (太田)
 おお、なるほど。
 前の文を「快適に」としてみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Well, not entirely &lt;g1&gt;dis&lt;/g1&gt;agreeable anyway!</seg>
