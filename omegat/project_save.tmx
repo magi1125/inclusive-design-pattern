@@ -11935,12 +11935,13 @@ Do you mean change the input invalid to valid or change aria-invalid=”false”
 正式なerrataとして採用されていないようなので、訳注ですかね。
 
 (伊原) どう考えてもtrueとfalseが反対ですよね…。直してしまいつつヘイドンさんにコメント、がいいような気もします。
-</note>
+
+(太田) true と false 入れ替えました。</note>
       <tuv lang="EN-US">
         <seg>For fields now marked invalid, we could run our validation routine on each &lt;g2&gt;input&lt;/g2&gt; event, switching &lt;g3&gt;aria-invalid&lt;/g3&gt; from &lt;g4&gt;false&lt;/g4&gt; to &lt;g5&gt;true&lt;/g5&gt; where applicable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T060003Z" creationid="bakera" creationdate="20170929T090908Z">
-        <seg>エラーとマークされたフィールドについて、&lt;g2&gt;input&lt;/g2&gt;イベントが発生するたびに検証ルーチンを実行し、&lt;g3&gt;aria-invalid&lt;/g3&gt;を適宜&lt;g4&gt;false&lt;/g4&gt;から&lt;g5&gt;true&lt;/g5&gt;に切り替えます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T044918Z" creationid="bakera" creationdate="20170929T090908Z">
+        <seg>エラーとマークされたフィールドについて、&lt;g2&gt;input&lt;/g2&gt;イベントが発生するたびに検証ルーチンを実行し、&lt;g3&gt;aria-invalid&lt;/g3&gt;を適宜&lt;g5&gt;true&lt;/g5&gt;から&lt;g4&gt;false&lt;/g4&gt;に切り替えます。</seg>
       </tuv>
     </tu>
     <tu>
