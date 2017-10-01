@@ -13405,12 +13405,18 @@ thanks to は「ありがたいことに」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 前段落とつながるように修正。</note>
+      <note>(伊原) 前段落とつながるように修正。
+
+(太田)
+productionは製品なのですが、ここでは「本番用」くらいの意味だと思います。本番用のビルドをproduction buildと言ったりしますね。
+don't want to なのでそこまで強くもなく、「絶対入れたくない」というようなニュアンスですね。
+「間違いなく、本番環境には含めないほうが良い」
+くらいでしょうか。</note>
       <tuv lang="EN-US">
         <seg>However, the &lt;g2&gt;.test.css&lt;/g2&gt; files certainly don’t want to be included in production.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T041756Z" creationid="rikiha" creationdate="20170925T020455Z">
-        <seg>とはいえ、この&lt;g2&gt;.test.css&lt;/g2&gt;ファイルは絶対に製品版に含めてはなりません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T115140Z" creationid="rikiha" creationdate="20170925T020455Z">
+        <seg>とはいえ、この&lt;g2&gt;.test.css&lt;/g2&gt;ファイルは、間違いなく、本番環境には含めないほうが良いものです。</seg>
       </tuv>
     </tu>
     <tu>
