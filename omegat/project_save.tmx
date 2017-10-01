@@ -13388,12 +13388,20 @@ atia-invalid が set to "true" で be told it is valid と言っているのは�
     </tu>
     <tu>
       <note>(伊原) 突然話が飛んだ感。機能拡張内で赤字に白文字のスタイルをつけるセレクタの書き方を工夫しているという話のようですが、わかりづらい…。訳注かも。
-あと、適用されない場合に白文字で良いんだっけという話も。見えなくなっちゃうのでは。</note>
+あと、適用されない場合に白文字で良いんだっけという話も。見えなくなっちゃうのでは。
+
+(太田)
+個人的にはこれは普通に読めました。
+thanks to は「ありがたいことに」としました。
+
+拡張に含まれるCSSが実際にこの通りであることを確認しました。後半のセレクタは前半のセレクタに子孫セレクタを追加している格好なので、適用されない場合のスタイルではなく、適用された中にある子孫要素にスタイルを適用しています (なので背景は赤になっている)。たぶん -webkit プリフィクスのついたプロパティはもともと違う文字色になっていて、それを白に上書きしているのだと思います。
+
+しかし、拡張で使っているCSSをここに引用して紹介する必然性は特にないですね。w</note>
       <tuv lang="EN-US">
         <seg>However, thanks to the extension’s omission of the &lt;g1&gt;.has-ignorable-error&lt;/g1&gt; class, the most common unrecognized properties — browser prefixes — are not styled this way.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T024627Z" creationid="rikiha" creationdate="20170925T020414Z">
-        <seg>ただし、この拡張機能では&lt;g1&gt;.has-ignorable-error&lt;/g1&gt;クラスを除外しているおかげで、もっとも一般的な認識されないプロパティ――ブラウザプレフィックス――にはこのスタイルは適用されないようになっています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T113750Z" creationid="rikiha" creationdate="20170925T020414Z">
+        <seg>ただし、ありがたいことに、この拡張機能では&lt;g1&gt;.has-ignorable-error&lt;/g1&gt;クラスを除外しているおかげで、もっとも一般的な認識されないプロパティ――ブラウザプレフィックス――にはこのスタイルが適用されないようになっています。</seg>
       </tuv>
     </tu>
     <tu>
