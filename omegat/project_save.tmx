@@ -9598,12 +9598,15 @@ Tabの件は了解です、ありがとうございます。</note>
     </tu>
     <tu>
       <note>(太田)
-このdivideは分割ではなく割り当てるイメージ化も。</note>
+このdivideは分割ではなく割り当てるイメージかも。
+原文と若干ニュアンスが違ってきますが、debounceの説明的な雰囲気にしました。
+
+</note>
       <tuv lang="EN-US">
         <seg>By debouncing, we divide clusters of keypress events into blocks and only execute &lt;g2&gt;validate()&lt;/g2&gt; once per block.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T054523Z" creationid="bakera" creationdate="20170929T090916Z">
-        <seg>デバウンスを使用して、一連のkeypressイベントの塊をブロックに割り当て、ブロックごとに&lt;g2&gt;validate()&lt;/g2&gt;を実行するようにします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T054826Z" creationid="bakera" creationdate="20170929T090916Z">
+        <seg>debounceを使用すると、一連のkeypressイベントの塊をブロックに割り当て、ブロックごとに&lt;g2&gt;validate()&lt;/g2&gt;を実行することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10524,13 +10527,14 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
       <note>(伊原) デバウンス？となりました。訳注？
 
 (太田)
-lodash の debounce を使ってイベントをまとめる話なのですが、どうしたものか。
-</note>
+lodash の debounce を使ってイベントをまとめる話なのですが、どうしたものか。説明は続く本文にあるので訳注は要らないと思います。
+ここでは、「何かよくわからんけどそういうのがあるんだろう」的に伝わればよいので、そのまま debounce を使用する、でいいのかも。
+いったんそうしてみました。</note>
       <tuv lang="EN-US">
         <seg>Debouncing</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090911Z" creationid="bakera" creationdate="20170929T090911Z">
-        <seg>デバウンス</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T054741Z" creationid="bakera" creationdate="20170929T090911Z">
+        <seg>debounceを使用する</seg>
       </tuv>
     </tu>
     <tu>
