@@ -11288,7 +11288,9 @@ additional dimensionはもう少し工夫しないと良くわからないです
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) allが落ちていたので修正</note>
+      <note>(伊原) allが落ちていたので修正
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Finally, let’s make sure all the tab panels have the &lt;g1&gt;tabpanel&lt;/g1&gt; role.</seg>
       </tuv>
@@ -21321,12 +21323,15 @@ willで未来形なので「出現するようになります」としました�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 補いつつ調整。</note>
+      <note>(伊原) 補いつつ調整。
+
+(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>Of course, this catches the complete absence of &lt;g1&gt;aria-labelledby&lt;/g1&gt; as well.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170928T143600Z" creationid="rikiha" creationdate="20170925T014526Z">
-        <seg>もちろん、&lt;g1&gt;aria-labelledby&lt;/g1&gt;がまったく存在しないケースも同様にこのセレクタで検知します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T084119Z" creationid="rikiha" creationdate="20170925T014526Z">
+        <seg>もちろん、&lt;g1&gt;aria-labelledby&lt;/g1&gt;そのものが存在しないケースも、このセレクタで検知します。</seg>
       </tuv>
     </tu>
     <tu>
