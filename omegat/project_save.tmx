@@ -8050,7 +8050,8 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
 (太田)
 微調整。
 このlastは最後と訳さないほうがいいlastですね (直前を指す)。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>As an accompaniment to the last test, we can make sure a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; with the &lt;g3&gt;tabpanel&lt;/g3&gt; role is the first sibling element after the &lt;g4&gt;tablist&lt;/g4&gt;.</seg>
       </tuv>
@@ -16529,7 +16530,9 @@ if supported は SVG ではなく &lt;use&gt; にくっついているのでは�
       <note>(伊原) 私が作った、と補いました。
 
 (太田) 
-pseudo-contentは前に合わせていったん「疑似コンテンツ」で。</note>
+pseudo-contentは前に合わせていったん「疑似コンテンツ」で。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the experimental CSS testing bookmarklet &lt;g1&gt;&lt;g2&gt;revenge.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;11&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, I used test selectors to identify generic accessibility-related markup errors and provided error messages using pseudo-content.</seg>
       </tuv>
