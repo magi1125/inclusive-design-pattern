@@ -20323,12 +20323,15 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
 まあわかるか。
 上で「パスワードは6文字以上にしてください。」としたのでそれを反映。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+これ冷静に考えるとリミックスモードのフレーズが1分節多かったですね。「6文字以上」なので、エラーが読まれるのは最初の5回です。原文はそうなっている (4個目のyour passはひとかたまり) ので、調整しました。</note>
       <tuv lang="EN-US">
         <seg>Not only will this produce some performance issues, but in implementations where a live region is populated and repopulated to declare invalidity, you put screen readers into ’80s remix mode: “Y-your-y-your pass-your password must be at least 6 characters long.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T061334Z" creationid="bakera" creationdate="20170929T090913Z">
-        <seg>これはパフォーマンスの問題を引き起こすだけでなく、ライブリージョンのエラーメッセージが繰り返し更新される実装になっている場合、スクリーンリーダーは80年代のリミックスモードに入ります。「パ、パス、パ、パス、パスワード、パスワードは6文字以上にしてください」などと読み上げられることになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T045338Z" creationid="bakera" creationdate="20170929T090913Z">
+        <seg>これはパフォーマンスの問題を引き起こすだけでなく、ライブリージョンのエラーメッセージが繰り返し更新される実装になっている場合、スクリーンリーダーは80年代のリミックスモードに入ります。「パ、パス、パ、パスワード、パスワードは6文字以上にしてください」などと読み上げられることになります。</seg>
       </tuv>
     </tu>
     <tu>
