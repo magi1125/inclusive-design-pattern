@@ -19857,7 +19857,9 @@ image maps to link parts of those images to other pages of imagesで、「画像
 (太田)
 冒頭のmyを訳出しないと「セレクタは～」でセレクタ全般について言っているように読めて変な感じです。
 すぐ下にコードがあるので、「以下の」としつつ、「べきです」を「します」としました。
-identifyは「確認」ではなく「識別」に近いですが、ここではセレクタにマッチさせる話なので「見つけて」としました。</note>
+identifyは「確認」ではなく「識別」に近いですが、ここではセレクタにマッチさせる話なので「見つけて」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>My selector should identify the &lt;g2&gt;&lt;ul&gt;&lt;/g2&gt; element within the &lt;g3&gt;class="tab-interface"&lt;/g3&gt; container and highlight it if it doesn’t have a &lt;g4&gt;role="tablist"&lt;/g4&gt; attribute.</seg>
       </tuv>
