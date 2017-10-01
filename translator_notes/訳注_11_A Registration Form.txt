@@ -57,4 +57,15 @@ https://html.spec.whatwg.org/multipage/input.html#the-pattern-attribute
 
 
 
+<分節 3558>
+>状態（state）に対して属性セレクタを使用すると、インターフェイスの基本機能と見た目を確実に同期させることができます。
+※下のコードの下に訳注追加
+訳注:
+backgroundプロパティに center right という位置指定があるため、このままではアイコンが右側に表示されてしまいます。center left としつつ、テキストとかぶらないようにうまく調整する必要があるでしょう。
+
+
+
+
+
+
 
