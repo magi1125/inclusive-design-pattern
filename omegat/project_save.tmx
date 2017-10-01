@@ -27180,12 +27180,13 @@ http://www.unicode.org/charts/PDF/U2600.pdf
       <note>(伊原) 微調整。
 
 (太田) 
-pseudo-contentはいったん「疑似コンテンツ」で。</note>
+pseudo-contentはいったん「疑似コンテンツ」で。
+短めに調整してみました。</note>
       <tuv lang="EN-US">
         <seg>The first is that pseudo-content becomes entirely redundant, along with the &lt;g2&gt;display:none;&lt;/g2&gt; property, reducing an individual CSS error to this:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T104205Z" creationid="rikiha" creationdate="20170925T020026Z">
-        <seg>まず、&lt;g2&gt;display:none;&lt;/g2&gt;プロパティとともに疑似コンテンツが完全に不要になり、各CSSエラーの記述が以下のように短縮されます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T104729Z" creationid="rikiha" creationdate="20170925T020026Z">
+        <seg>まず、冗長だった疑似コンテンツと&lt;g2&gt;display:none;&lt;/g2&gt;プロパティの記述が不要になり、それぞれのCSSエラーの記述が以下のように短くなります。</seg>
       </tuv>
     </tu>
     <tu>
