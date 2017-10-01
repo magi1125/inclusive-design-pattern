@@ -19493,7 +19493,9 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       <note>(太田)
 要検討
 
-(伊原) マイクロコピーライティングとしてみました。</note>
+(伊原) マイクロコピーライティングとしてみました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Microcopy</seg>
       </tuv>
@@ -20326,7 +20328,7 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
 (伊原) OK
 
 (太田)
-これ冷静に考えるとリミックスモードのフレーズが1分節多かったですね。「6文字以上」なので、エラーが読まれるのは最初の5回です。原文はそうなっている (4個目のyour passはひとかたまり) ので、調整しました。</note>
+これよく見たらリミックスモードのフレーズが1文節多かったですね。「6文字以上」なので、エラーが読まれるのは最初の5回です。原文はそうなっている (4個目のyour passはひとかたまり) ので、調整しました。</note>
       <tuv lang="EN-US">
         <seg>Not only will this produce some performance issues, but in implementations where a live region is populated and repopulated to declare invalidity, you put screen readers into ’80s remix mode: “Y-your-y-your pass-your password must be at least 6 characters long.”</seg>
       </tuv>
