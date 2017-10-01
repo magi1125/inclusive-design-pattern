@@ -10599,7 +10599,7 @@ lodash の debounce を使ってイベントをまとめる話なのですが、
       <note>(伊原) 微調整。
 
 (太田)
-</note>
+原文に合わせて2文にしつつ微調整。</note>
       <tuv lang="EN-US">
         <seg>Depending on the browser, this either means no more graying out, or a grayed-out style for &lt;g1&gt;all&lt;/g1&gt; &lt;g2&gt;ERROR&lt;/g2&gt; declarations: a slight improvement.</seg>
       </tuv>
@@ -19715,12 +19715,17 @@ IEはどのバージョンのことを言っているのか要確認。</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 強調→ハイライト</note>
+      <note>(伊原) 強調→ハイライト
+
+(太田)
+「最も」は言っていないような。
+語順を原文に近づけつつすこし調整。
+</note>
       <tuv lang="EN-US">
         <seg>My favorite part is that the Chrome browser’s way of highlighting unrecognized properties is to prefix them with a little warning sign (“⚠”).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T012159Z" creationid="rikiha" creationdate="20170925T020036Z">
-        <seg>私が最も気に入っているのは、Chromeでは、認識されないプロパティの前に小さい警告サイン（⚠）が付いてハイライトされることです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T105715Z" creationid="rikiha" creationdate="20170925T020036Z">
+        <seg>私が気に入っているのは、Chromeが認識されないプロパティをハイライトするために、その頭に小さな警告サイン（⚠）を付けてくれることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32772,11 +32777,13 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>We automatically co-opt this sign to help highlight our errors, producing something like this:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T012848Z" creationid="rikiha" creationdate="20170925T020037Z">
-        <seg>エラーをハイライトするのに役立つこのサインを自動的に取り入れると、以下ような感じになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T105824Z" creationid="rikiha" creationdate="20170925T020037Z">
+        <seg>エラーをハイライトするのに役立つサインが自動的に取り入れられて、以下ような感じになります。</seg>
       </tuv>
     </tu>
     <tu>
