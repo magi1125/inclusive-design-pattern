@@ -5465,6 +5465,18 @@ It feels like the CSS block is incomplete, especially since the note following t
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+このコードに aria-hidden がついているのは誤りかも。
+このコードのすぐ下でもって
+「ただし、このままでは「アスタリスク」も読み上げられてしまうので、aria-hiddenを追加しましょう。」
+と言っているのですが、これを言う前に追加されてしまっていまるのは変ですし、該当のコードに aria-hidden があると「正解が読み上げられてネタバレになる」という現象が起きず、ジョークとして成立しなくなってしまいます。
+</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;strong&lt;/g10&gt; &lt;g12&gt;class&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"red"&lt;/g13&gt; &lt;g15&gt;aria-hidden&lt;/g15&gt;&lt;g16&gt;&lt;g17&gt;=&lt;/g17&gt;"true"&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g9&gt;*&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;/&lt;/g21&gt;strong&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;label&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;
+&lt;g27&gt;&lt;g28&gt;&lt;g29&gt;&lt;&lt;/g29&gt;input&lt;/g28&gt; &lt;g30&gt;type&lt;/g30&gt;&lt;g31&gt;&lt;g32&gt;=&lt;/g32&gt;"text"&lt;/g31&gt; &lt;g33&gt;id&lt;/g33&gt;&lt;g34&gt;&lt;g35&gt;=&lt;/g35&gt;"quiz-question"&lt;/g34&gt; &lt;g36&gt;name&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"quiz-question"&lt;/g37&gt;&lt;g39&gt;&gt;&lt;/g39&gt;&lt;/g27&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;!-- don’t use this --&gt;&lt;/s0&gt;
 &lt;s1&gt;&lt;s2&gt;&lt;s3&gt;&lt;&lt;/s3&gt;meta&lt;/s2&gt; &lt;s4&gt;name&lt;/s4&gt;&lt;s5&gt;&lt;s6&gt;=&lt;/s6&gt;"viewport"&lt;/s5&gt; &lt;s7&gt;content&lt;/s7&gt;&lt;s8&gt;&lt;s9&gt;=&lt;/s9&gt;"width&lt;s10&gt;=&lt;/s10&gt;device-width, initial-scale&lt;s11&gt;=&lt;/s11&gt;1.0, minimum-scale&lt;s12&gt;=&lt;/s12&gt;1.0, maximum-scale&lt;s13&gt;=&lt;/s13&gt;1.0, user-scalable&lt;s14&gt;=&lt;/s14&gt;no"&lt;/s8&gt;&lt;s15&gt;&gt;&lt;/s15&gt;&lt;/s1&gt;
