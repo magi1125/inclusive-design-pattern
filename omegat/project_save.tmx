@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10969,7 +10969,9 @@ draw onは経験を活かすような意味。
 
 (太田)
 なるほど all users についているのですね。
-括弧の位置を調整してみました。</note>
+括弧の位置を調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Each one needs two pieces of information, available to all users (within reason):</seg>
       </tuv>
@@ -22939,7 +22941,9 @@ CSSのセレクタは、実はクソ面倒な処理を簡単に書けるんだ�
 ユーザー名
 フォーカスがあたると
 「よし、ユーザー名を入力しよう！」
-「えーと、何をすればいいんだっけ？」</note>
+「えーと、何をすればいいんだっけ？」
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Right focused text field does not, leaving the user to ponder what it was for.</seg>
       </tuv>
@@ -30258,7 +30262,9 @@ X is as good a place as any to Do. で X は Do するのにうってつけだ�
 (伊原) OK. 新規登録とでもしてみるのはアリかも。
 
 (太田)
-OK、そうしましょう。</note>
+OK、そうしましょう。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This is technically valid, but it creates a lot of unnecessary noise; that is, focusing each input in turn would announce the extended labels of “Registration: Your email address,” “Registration: Choose a username,” and so on.</seg>
       </tuv>
@@ -30607,7 +30613,9 @@ accessible roleはどうしたものか。英語だとroleという語に多様�
 
 (太田) そこはまあどちらでも良いと思います。いったんママで、ほかが &lt;img&gt; となっているようなら揃えても良いですね。
 
-ざっと見たところ、サンプルコード中では &lt;img&gt; 、本文中で述べるときは &lt;img/&gt; で統一されている模様。それはそれでどうかと思いますが、いちおう統一されているようなのでママとしたいと思います。</note>
+ざっと見たところ、サンプルコード中では &lt;img&gt; 、本文中で述べるときは &lt;img/&gt; で統一されている模様。それはそれでどうかと思いますが、いちおう統一されているようなのでママとしたいと思います。
+
+(伊原) 了解です。</note>
       <tuv lang="EN-US">
         <seg>This population of DOM content simultaneously triggers screen readers to announce the content, including the prepended alternative text: “error: Please make sure all your registration information is correct.” Note that the role of &lt;g4&gt;&lt;g5&gt;&lt;g6&gt;img&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;16&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt; and &lt;g10&gt;aria-label&lt;/g10&gt; force the &lt;g11&gt;&lt;svg&gt;&lt;/g11&gt; element to behave like a standard &lt;g12&gt;&lt;img/&gt;&lt;/g12&gt; element carrying an &lt;g13&gt;alt&lt;/g13&gt; attribute with the content “error:”.</seg>
       </tuv>
