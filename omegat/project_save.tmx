@@ -16222,7 +16222,9 @@ theを訳出しないと意味が分かりにくいですね。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) コメント消滅？訳OK</note>
+      <note>(伊原) コメント消滅？訳OK
+
+(太田) 消滅かも。調整済みです。</note>
       <tuv lang="EN-US">
         <seg>In the current context, the &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt; and &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt; create too much verbosity for little to no gain, so probably shouldn’t be there.</seg>
       </tuv>
@@ -22730,7 +22732,14 @@ CSSのセレクタは、実はクソ面倒な処理を簡単に書けるんだ�
 
 という感じでしょうか。
 
-(伊原) 「ユーザー名を入力」は、前のラベルから考えると「ユーザー名」でしょうか。</note>
+(伊原) 「ユーザー名を入力」は、前のラベルから考えると「ユーザー名」でしょうか。
+
+(太田) そうですね。
+こうなります: 
+ユーザー名
+フォーカスがあたると
+「よし、ユーザー名を入力しよう！」
+「えーと、何をすればいいんだっけ？」</note>
       <tuv lang="EN-US">
         <seg>Right focused text field does not, leaving the user to ponder what it was for.</seg>
       </tuv>
