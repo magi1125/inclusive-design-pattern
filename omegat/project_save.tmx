@@ -8688,12 +8688,18 @@ be honored by で恩恵に浴する。上手い訳が思い浮かばず、いっ
 すこし調整。
 
 (伊原) OK
-ちなみに、以下の質問が探索木だと誤解しました。どうもそういうわけではなさそうですね。</note>
+ちなみに、以下の質問が探索木だと誤解しました。どうもそういうわけではなさそうですね。
+
+(太田)
+「答えると」が探索木っぽい感じなのかも。
+ rules of thumb は以前にも出てきた、親指で計る = おおざっぱに計るということなので、もう少し荒い感じですね。
+ちょっと調整してみました。
+</note>
       <tuv lang="EN-US">
         <seg>Bearing in mind that &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;s are pointless without &lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;s, you can use the following three rules of thumb to decide if a &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt; is appropriate.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T052801Z" creationid="bakera" creationdate="20170929T042509Z">
-        <seg>&lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;は&lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;なしでは無意味であることを念頭に置きつつ、以下の3つの問いに答えると、&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;を使うべきかどうか判断できます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T042826Z" creationid="bakera" creationdate="20170929T042509Z">
+        <seg>&lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt;は&lt;g2&gt;&lt;legend&gt;&lt;/g2&gt;なしでは無意味であることを念頭に置きつつ、おおまかに以下の3点を考えて&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;を使うべきかどうか判断しましょう。</seg>
       </tuv>
     </tu>
     <tu>
