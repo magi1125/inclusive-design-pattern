@@ -15918,7 +15918,9 @@ OK
 微調整。
 
 よく見ると the average interval between keystrokes は、複数の keystrokes 間のインターバルですね (キーを連打→休止→キーを連打、の休止期間。キー連打中の打鍵間隔ではない)。
-修正しましたがわかりにくくなったかも。</note>
+修正しましたがわかりにくくなったかも。
+
+(伊原) OK、前の段落でKeypressの塊をブロックに割当て〜と書いているのでわかると思います。</note>
       <tuv lang="EN-US">
         <seg>In our case, we need to set this to be slightly shorter than what we imagine is the average interval between keystrokes.</seg>
       </tuv>
