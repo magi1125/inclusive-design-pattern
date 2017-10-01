@@ -1086,7 +1086,9 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳を反映しつつ調整。</note>
+      <note>(伊原) 下訳を反映しつつ調整。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g11&gt;ERROR&lt;/g11&gt;&lt;g12&gt;:&lt;/g12&gt; &lt;g13&gt;"&lt;a&gt; elements within the tablist need to each have the WAI-ARIA tab role to be counted as tabs in assistive technologies."&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
 &lt;g15&gt;}&lt;/g15&gt;
