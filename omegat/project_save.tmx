@@ -5857,7 +5857,9 @@ contnet プロパティの値ではないため '' で括る必要がなくな�
 
 編集ミスでここに移動してきてしまったのではないですかね?
 分節3786のコードの下に移動してしまって良いと思います。
-その前提ですこし調整しました。</note>
+その前提ですこし調整しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Note that it’s no longer necessary to encapsulate the error in single quotation marks as a string.&lt;/g3&gt;</seg>
       </tuv>
