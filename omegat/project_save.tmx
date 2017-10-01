@@ -28375,7 +28375,9 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
 [role="tablist"] a:not([aria-selected]):not([tabindex="-1"])
 が裏返しだと言っています。
 こんな感じかなと。
-essentiallyは本質的にとかですが、なくてもわかるので取りました。</note>
+essentiallyは本質的にとかですが、なくてもわかるので取りました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The second is essentially a negated version of the first.</seg>
       </tuv>
@@ -30847,7 +30849,9 @@ This serves as an important reminderは直訳すると「このことは重要�
       <note>(伊原) これが だけだとわからないので補足。語順が訳語調だったので調整。
 
 (太田)
-ざっくり調整してみました。</note>
+ざっくり調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This should be the only element focusable by the user with the &lt;g7&gt;Tab&lt;/g7&gt; key.</seg>
       </tuv>
