@@ -8756,7 +8756,7 @@ honoredはHPですね。名誉でしょ、というジョーク。
 訳すなら「このスタイルになる名誉が与えられる」とかですかね?
 まあスルーでも良いかと思いますが、いったんやってみました。わかりにくい?
 
-(伊原) 検討頂いたのに申し訳ないですが、やはりこのHPは混乱しました。スルーの方向がよさそうです。</note>
+(伊原) 検討頂いたのに申し訳ないですが、やはりこのHPは混乱を呼びそうで、スルーの方向がよさそうです。</note>
       <tuv lang="EN-US">
         <seg>Be aware that this style will be honored by any declaration using an unrecognized property.</seg>
       </tuv>
@@ -13444,7 +13444,12 @@ thanks to は「ありがたいことに」としました。
 
 拡張に含まれるCSSが実際にこの通りであることを確認しました。後半のセレクタは前半のセレクタに子孫セレクタを追加している格好なので、適用されない場合のスタイルではなく、適用された中にある子孫要素にスタイルを適用しています (なので背景は赤になっている)。たぶん -webkit プリフィクスのついたプロパティはもともと違う文字色になっていて、それを白に上書きしているのだと思います。
 
-しかし、拡張で使っているCSSをここに引用して紹介する必然性は特にないですね。w</note>
+しかし、拡張で使っているCSSをここに引用して紹介する必然性は特にないですね。w
+
+(伊原) ありがとうございます。
+「拡張で使っているCSSをここに引用して紹介する必然性は特にない」
+まさにそうで、にもかかわらずコードが出てくるので、逆にこのコードを書いて何かしなければならないように一瞬感じられ、混乱するのではないかと思った次第です。
+これまで書かれていたコードは自分が書くべきコードでしたし。</note>
       <tuv lang="EN-US">
         <seg>However, thanks to the extension’s omission of the &lt;g1&gt;.has-ignorable-error&lt;/g1&gt; class, the most common unrecognized properties — browser prefixes — are not styled this way.</seg>
       </tuv>
@@ -22235,6 +22240,8 @@ our job is を直訳せずに「～しましょう」としました。
 (太田)
 この and は、A なら B になる、というような and かなと。
 調整してみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Our tab interface pattern should now have a &lt;g1&gt;tab-interface.css&lt;/g1&gt; file and, in an effort to establish a naming convention, an accompanying &lt;g2&gt;tab-interface.test.css&lt;/g2&gt; file — something like this:</seg>
