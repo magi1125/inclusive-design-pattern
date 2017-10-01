@@ -3619,7 +3619,9 @@ https://developers.google.com/search/docs/data-types/products#single-product-pag
 元訳が変ですね。Wordを見てもこうなっていますが原文と対応していないように思います。
 とりあえず訳しつつ、後半を意訳気味に調整。
 
-(伊原) 前の節ではARIA文脈でのrelationshipはリレーションシップとしていたので、置き換えました。</note>
+(伊原) 前の節ではARIA文脈でのrelationshipはリレーションシップとしていたので、置き換えました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The relationship between the toolbar and the subject &lt;g2&gt;#forms&lt;/g2&gt; container is also communicated via &lt;g3&gt;aria-controls&lt;/g3&gt; to supporting software, like the JAWS screen reader.</seg>
       </tuv>
@@ -3762,10 +3764,15 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※要訳注?
+
+(太田)
 訳としてはOkですがこんな話ありましたっけ?
 
-(伊原) ないです…w 訳OK</note>
+(伊原) ないです…w 訳OK
+
+(太田) 訳注?w
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Uninteractive content in a &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; context that isn’t associated with form fields.</seg>
       </tuv>
