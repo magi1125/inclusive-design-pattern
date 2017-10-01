@@ -4541,8 +4541,8 @@ Size:　→サイズ：</note>
       <tuv lang="EN-US">
         <seg>&lt;g47&gt;&lt;g48&gt;&lt;g49&gt;&lt;&lt;/g49&gt;li&lt;/g48&gt; &lt;g50&gt;role&lt;/g50&gt;&lt;g51&gt;&lt;g52&gt;=&lt;/g52&gt;"presentation"&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g47&gt;&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;&lt;/g56&gt;a&lt;/g55&gt; &lt;g57&gt;href&lt;/g57&gt;&lt;g58&gt;&lt;g59&gt;=&lt;/g59&gt;"#panel2"&lt;/g58&gt; &lt;g60&gt;id&lt;/g60&gt;&lt;g61&gt;&lt;g62&gt;=&lt;/g62&gt;"tab2"&lt;/g61&gt; &lt;g63&gt;role&lt;/g63&gt;&lt;g64&gt;&lt;g65&gt;=&lt;/g65&gt;"tab"&lt;/g64&gt; &lt;g66&gt;tabindex&lt;/g66&gt;&lt;g67&gt;&lt;g68&gt;=&lt;/g68&gt;"-1"&lt;/g67&gt;&lt;g69&gt;&gt;&lt;/g69&gt;&lt;/g54&gt;Second Tab&lt;g70&gt;&lt;g71&gt;&lt;g72&gt;&lt;/&lt;/g72&gt;a&lt;/g71&gt;&lt;g73&gt;&gt;&lt;/g73&gt;&lt;/g70&gt;&lt;g74&gt;&lt;g75&gt;&lt;g76&gt;&lt;/&lt;/g76&gt;li&lt;/g75&gt;&lt;g77&gt;&gt;&lt;/g77&gt;&lt;/g74&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170927T102638Z" creationid="okamoto_jun" creationdate="20170927T102553Z">
-        <seg>&lt;g47&gt;&lt;g48&gt;&lt;g49&gt;&lt;&lt;/g49&gt;li&lt;/g48&gt; &lt;g50&gt;role&lt;/g50&gt;&lt;g51&gt;&lt;g52&gt;=&lt;/g52&gt;"presentation"&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g47&gt;&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;&lt;/g56&gt;a&lt;/g55&gt; &lt;g57&gt;href&lt;/g57&gt;&lt;g58&gt;&lt;g59&gt;=&lt;/g59&gt;"#panel2"&lt;/g58&gt; &lt;g60&gt;id&lt;/g60&gt;&lt;g61&gt;&lt;g62&gt;=&lt;/g62&gt;"tab2"&lt;/g61&gt; &lt;g63&gt;role&lt;/g63&gt;&lt;g64&gt;&lt;g65&gt;=&lt;/g65&gt;"tab"&lt;/g64&gt; &lt;g66&gt;tabindex&lt;/g66&gt;&lt;g67&gt;&lt;g68&gt;=&lt;/g68&gt;"-1"&lt;/g67&gt;&lt;g69&gt;&gt;&lt;/g69&gt;&lt;/g54&gt;２番めのタブ&lt;g70&gt;&lt;g71&gt;&lt;g72&gt;&lt;/&lt;/g72&gt;a&lt;/g71&gt;&lt;g73&gt;&gt;&lt;/g73&gt;&lt;/g70&gt;&lt;g74&gt;&lt;g75&gt;&lt;g76&gt;&lt;/&lt;/g76&gt;li&lt;/g75&gt;&lt;g77&gt;&gt;&lt;/g77&gt;&lt;/g74&gt;</seg>
+      <tuv lang="JA" changeid="Administrator" changedate="20171001T122054Z" creationid="okamoto_jun" creationdate="20170927T102553Z">
+        <seg>&lt;g47&gt;&lt;g48&gt;&lt;g49&gt;&lt;&lt;/g49&gt;li&lt;/g48&gt; &lt;g50&gt;role&lt;/g50&gt;&lt;g51&gt;&lt;g52&gt;=&lt;/g52&gt;"presentation"&lt;/g51&gt;&lt;g53&gt;&gt;&lt;/g53&gt;&lt;/g47&gt;&lt;g54&gt;&lt;g55&gt;&lt;g56&gt;&lt;&lt;/g56&gt;a&lt;/g55&gt; &lt;g57&gt;href&lt;/g57&gt;&lt;g58&gt;&lt;g59&gt;=&lt;/g59&gt;"#panel2"&lt;/g58&gt; &lt;g60&gt;id&lt;/g60&gt;&lt;g61&gt;&lt;g62&gt;=&lt;/g62&gt;"tab2"&lt;/g61&gt; &lt;g63&gt;role&lt;/g63&gt;&lt;g64&gt;&lt;g65&gt;=&lt;/g65&gt;"tab"&lt;/g64&gt; &lt;g66&gt;tabindex&lt;/g66&gt;&lt;g67&gt;&lt;g68&gt;=&lt;/g68&gt;"-1"&lt;/g67&gt;&lt;g69&gt;&gt;&lt;/g69&gt;&lt;/g54&gt;2番めのタブ&lt;g70&gt;&lt;g71&gt;&lt;g72&gt;&lt;/&lt;/g72&gt;a&lt;/g71&gt;&lt;g73&gt;&gt;&lt;/g73&gt;&lt;/g70&gt;&lt;g74&gt;&lt;g75&gt;&lt;g76&gt;&lt;/&lt;/g76&gt;li&lt;/g75&gt;&lt;g77&gt;&gt;&lt;/g77&gt;&lt;/g74&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30262,7 +30262,9 @@ enhancementは拡張としてきましたが、わかりにくいのでここで
     <tu>
       <note>(伊原) Thisがわかりにくかったので補いました。
 
-(太田) すこし調整。</note>
+(太田) すこし調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This is our opportunity to stop that from happening.</seg>
       </tuv>
