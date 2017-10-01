@@ -27327,7 +27327,9 @@ http://www.unicode.org/charts/PDF/U2600.pdf
 
 (太田) 
 pseudo-contentはいったん「疑似コンテンツ」で。
-短めに調整してみました。</note>
+短めに調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The first is that pseudo-content becomes entirely redundant, along with the &lt;g2&gt;display:none;&lt;/g2&gt; property, reducing an individual CSS error to this:</seg>
       </tuv>
@@ -27561,7 +27563,9 @@ OK
 
 (太田)
 原文の ! を補いつつすこし調整。
-log eroors は「エラーログを残す」としました。</note>
+log eroors は「エラーログを残す」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The is no such thing as the &lt;g1&gt;ERROR&lt;/g1&gt; property in CSS and there are no plans for one — let me make that clear right away!But there are a few benefits to using an unrecognized CSS property to log errors to the CSS inspector.</seg>
       </tuv>
