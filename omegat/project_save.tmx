@@ -26554,12 +26554,17 @@ mightなのですこし弱めに。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 括弧を外しつつ調整。下訳は意味が逆になっていたので修正。</note>
+      <note>(伊原) 括弧を外しつつ調整。下訳は意味が逆になっていたので修正。
+
+(太田)
+実は注意深く読むと原文は微妙に間違っています。
+[role="tabpanel"]:not([aria-labelledby^="tab"]) は、「tabではじまるaria-labeledbyを持たない」 tabpanel にマッチします。
+</note>
       <tuv lang="EN-US">
         <seg>The additional test selector in the following example matches tab panels with the correct role, but with an &lt;g3&gt;aria-labelledby&lt;/g3&gt; value not commencing with “tab.” This fuzzy matching is possible using the &lt;g4&gt;starts with&lt;/g4&gt; &lt;g5&gt;^&lt;/g5&gt; modifier in the attribute selector, &lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170928T142029Z" creationid="rikiha" creationdate="20170925T014524Z">
-        <seg>以下の例で追加したテストセレクタは、正しいロールが設定されたタブパネルでありながら、&lt;g3&gt;aria-labelledby&lt;/g3&gt;の値が「tab」で始まっていない場合にマッチします。このファジーマッチングは、&lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;のように、属性セレクタ内で&lt;g4&gt;～で始まる&lt;/g4&gt;を意味する&lt;g5&gt;^&lt;/g5&gt;修飾子を使うことで可能になります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T083107Z" creationid="rikiha" creationdate="20170925T014524Z">
+        <seg>以下の例で追加したテストセレクタは、正しいロールが設定されたタブパネルに、「tab」で始まる&lt;g3&gt;aria-labelledby&lt;/g3&gt;属性がない場合にマッチします。このファジーマッチングは、&lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;のように、属性セレクタ内で&lt;g4&gt;～で始まる&lt;/g4&gt;を意味する&lt;g5&gt;^&lt;/g5&gt;修飾子を使うことで可能になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32727,12 +32732,15 @@ divに小細工するのではなく既存のbutton要素を使う、という�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 語順など調整。</note>
+      <note>(伊原) 語順など調整。
+
+(太田)
+誤ったパターンが指定されている→誤っているパターン</note>
       <tuv lang="EN-US">
         <seg>We can even detect incorrect patterns used to formulate the &lt;g1&gt;tabpanel&lt;/g1&gt; &lt;g2&gt;aria-labelledby&lt;/g2&gt; attribute values.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170928T140338Z" creationid="rikiha" creationdate="20170925T014521Z">
-        <seg>&lt;g1&gt;tabpanel&lt;/g1&gt;の&lt;g2&gt;aria-labelledby&lt;/g2&gt;属性値に誤ったパターンが指定されているのを見つけることさえできます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T082725Z" creationid="rikiha" creationdate="20170925T014521Z">
+        <seg>&lt;g1&gt;tabpanel&lt;/g1&gt;の&lt;g2&gt;aria-labelledby&lt;/g2&gt;属性値が誤っているパターンを見つけることさえできます。</seg>
       </tuv>
     </tu>
     <tu>
