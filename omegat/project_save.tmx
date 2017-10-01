@@ -20240,7 +20240,8 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
 「80年代のリミックスモード」わかりますかね?
 まあわかるか。
 上で「パスワードは6文字以上にしてください。」としたのでそれを反映。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Not only will this produce some performance issues, but in implementations where a live region is populated and repopulated to declare invalidity, you put screen readers into ’80s remix mode: “Y-your-y-your pass-your password must be at least 6 characters long.”</seg>
       </tuv>
@@ -32782,7 +32783,8 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
       <note>(太田)
 アイドル状態で伝わるか。
 プログラマーには伝わりそうですが、「何もしていない」としました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We want to make sure the &lt;g1&gt;validate()&lt;/g1&gt; function is only called when the user is idle.</seg>
       </tuv>
