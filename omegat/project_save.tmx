@@ -15276,12 +15276,15 @@ In any case, は「さて」ぐらいにしてみました。
     <tu>
       <note>(伊原) 訳語調なので調整。
 
-(岡本) aria-selectedの後に脚注指示がありません。既に番号はずれていますが、（脚注200）と入れておきます。</note>
+(岡本) aria-selectedの後に脚注指示がありません。既に番号はずれていますが、（脚注200）と入れておきます。
+
+(太田)
+すこし調整。</note>
       <tuv lang="EN-US">
         <seg>In correctly behaving tab interfaces, there should always be one selected tab, defined accessibly using the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170929T024104Z" creationid="rikiha" creationdate="20170925T014509Z">
-        <seg>正しく動作するタブインターフェイスにおいては、常にタブがひとつだけ選択されているべきで、それはaria-selected（脚注200）によってアクセシブルに明示されます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T081349Z" creationid="rikiha" creationdate="20170925T014509Z">
+        <seg>タブインターフェイスの適切なふるまいとしては、常にタブがひとつだけ選択されているべきで、それは&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注200）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;によってアクセシブルに明示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30604,12 +30607,15 @@ This serves as an important reminderは直訳すると「このことは重要�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) これが だけだとわからないので補足。語順が訳語調だったので調整。</note>
+      <note>(伊原) これが だけだとわからないので補足。語順が訳語調だったので調整。
+
+(太田)
+ざっくり調整してみました。</note>
       <tuv lang="EN-US">
         <seg>This should be the only element focusable by the user with the &lt;g7&gt;Tab&lt;/g7&gt; key.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170927T080334Z" creationid="rikiha" creationdate="20170925T014510Z">
-        <seg>ユーザーがTabキーでフォーカスできるのは唯一、この選択されたタブの要素だけでなければなりません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T081737Z" creationid="rikiha" creationdate="20170925T014510Z">
+        <seg>この選択されているタブだけを、ユーザーが&lt;g7&gt;Tab&lt;/g7&gt;キーでフォーカスできるようにします。</seg>
       </tuv>
     </tu>
     <tu>
