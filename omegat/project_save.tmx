@@ -4525,7 +4525,8 @@ Size:　→サイズ：</note>
 
 (太田)
 能動態に調整してみました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g46&gt;ERROR&lt;/g46&gt;&lt;g47&gt;:&lt;/g47&gt; &lt;g48&gt;"Each tabpanel needs to have the explicit tabpanel WAI-ARIA role to be correctly associated with the tablist that controls it."&lt;/g48&gt;&lt;g49&gt;;&lt;/g49&gt;
 &lt;g50&gt;}&lt;/g50&gt;
@@ -4804,7 +4805,8 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g53&gt;ERROR&lt;/g53&gt;&lt;g54&gt;:&lt;/g54&gt; &lt;g55&gt;"The first element after the tablist should be a tab panel with the tabpanel WAI-ARIA role.</seg>
       </tuv>
