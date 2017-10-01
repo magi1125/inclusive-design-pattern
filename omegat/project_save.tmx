@@ -27732,12 +27732,15 @@ updateはここでは「付け加える」くらいの意味かと思います�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ダッシュを記載。</note>
+      <note>(伊原) ダッシュを記載。
+
+(太田)
+supplementalはここではもっとネガティブなイメージだと思います。「おまけ」としました。</note>
       <tuv lang="EN-US">
         <seg>The other is that &lt;g1&gt;display:none;&lt;/g1&gt; is supplemental to the error message — unnecessary noise.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T002012Z" creationid="rikiha" creationdate="20170925T020019Z">
-        <seg>ふたつめの問題は、display:none;はエラーメッセージの補足――すなわち不必要なノイズだという点です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T103540Z" creationid="rikiha" creationdate="20170925T020019Z">
+        <seg>ふたつめの問題は、&lt;g1&gt;display:none;&lt;/g1&gt;はエラーメッセージのおまけにすぎない――すなわち、無用なノイズだという点です。</seg>
       </tuv>
     </tu>
     <tu>
