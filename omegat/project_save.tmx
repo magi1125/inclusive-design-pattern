@@ -8736,12 +8736,15 @@ be honored by で恩恵に浴する。上手い訳が思い浮かばず、いっ
 
 (太田)
 プロパティがおちている?
-honoredはHPですね。スルーで良いかと。</note>
+honoredはHPですね。名誉でしょ、というジョーク。
+訳すなら「このスタイルになる名誉が与えられる」とかですかね?
+まあスルーでも良いかと思いますが、いったんやってみました。わかりにくい?
+</note>
       <tuv lang="EN-US">
         <seg>Be aware that this style will be honored by any declaration using an unrecognized property.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T112005Z" creationid="rikiha" creationdate="20170925T020413Z">
-        <seg>このスタイルは、認識されないプロパティを含んだあらゆる宣言に適用される点に注意してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T112419Z" creationid="rikiha" creationdate="20170925T020413Z">
+        <seg>認識されないプロパティを含むあらゆる宣言に対して、このスタイルになる名誉が与えられる点に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
