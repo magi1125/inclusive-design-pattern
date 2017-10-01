@@ -1934,7 +1934,9 @@ https://gyazo.com/dd21486f0ea340b07d52fa21f1bc3893
 
 (伊原) 現在のバージョンだとそうなってない、で訳注お願い致します。
 
-(太田) では訳注の方向で。</note>
+(太田) では訳注の方向で。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;A11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; — a more advanced CSS accessibility testing tool by &lt;g6&gt;&lt;g7&gt;Gaël Poupard&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;13&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; — overcomes this by positioning each pseudo-content message at the top of the document and reveals it on hover.</seg>
       </tuv>
@@ -23899,7 +23901,7 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
 (太田)
 分割しつつ意訳しつつ補いつつ調整してみました。
 
-(伊原) OK</note>
+(伊原) ありがとうございます、OK</note>
       <tuv lang="EN-US">
         <seg>Since it piggybacks a site’s own CSS, I had to be very careful about overriding certain styles for pseudo-content that would mess up the appearance and readability of the error messages.</seg>
       </tuv>
