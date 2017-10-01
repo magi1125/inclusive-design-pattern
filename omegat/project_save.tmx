@@ -9672,7 +9672,7 @@ Tabの件は了解です、ありがとうございます。</note>
 このdivideは分割ではなく割り当てるイメージかも。
 原文と若干ニュアンスが違ってきますが、debounceの説明的な雰囲気にしました。
 
-</note>
+(伊原) なるほど、OK</note>
       <tuv lang="EN-US">
         <seg>By debouncing, we divide clusters of keypress events into blocks and only execute &lt;g2&gt;validate()&lt;/g2&gt; once per block.</seg>
       </tuv>
