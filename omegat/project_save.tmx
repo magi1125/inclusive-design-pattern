@@ -15594,7 +15594,9 @@ NVDA2017.3jaでは
 「パスワードを選択 エディット 保護付き ブランク」
 でした。
 
-(伊原) ここはフォームラベルに合わせるなら「パスワード」になるのかなと。調整しました。</note>
+(伊原) ここはフォームラベルに合わせるなら「パスワード」になるのかなと。調整しました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>In my example, when a screen reader user focuses the password field, “Choose a password, secure input” (or similar) would be announced.</seg>
       </tuv>
@@ -16150,12 +16152,15 @@ robustlyは「堅牢な方法で」としてみました。
 theを訳出しないと意味が分かりにくいですね。
 調整してみました。
 
-(伊原) パスワード欄の話なので、暗号？となりました。かぎとか符号とかではどうでしょうか？</note>
+(伊原) パスワード欄の話なので、暗号？となりました。かぎとか符号とかではどうでしょうか？
+
+(太田)
+&lt;分節3569&gt; にも出てきて、そちらはスルー気味に対応しました。ここでは訳出しないと意味が通らないので、「共通のカギ」としてみました。</note>
       <tuv lang="EN-US">
         <seg>In the case of the password input, the agreed cipher — the matching content of the &lt;g1&gt;for&lt;/g1&gt; and &lt;g2&gt;id&lt;/g2&gt; values — is simply “password”:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T083755Z" creationid="bakera" creationdate="20170926T083714Z">
-        <seg>この例のパスワード入力欄の場合、合意された暗号――&lt;g1&gt;for&lt;/g1&gt;と&lt;g2&gt;id&lt;/g2&gt;の一致した値――は、単に「password」です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T041752Z" creationid="bakera" creationdate="20170926T083714Z">
+        <seg>この例のパスワード入力欄の場合、共通のカギ――&lt;g1&gt;for&lt;/g1&gt;と&lt;g2&gt;id&lt;/g2&gt;の一致した値――は、単に「password」です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32405,7 +32410,9 @@ state属性という属性があるわけではないので「状態(state)属�
 すこし調整。
 前とのつながりが謎なので「ただし」「しかし」などを補ったほうが良いのかも。
 
-(伊原) あったほうがいいと思ったので、ただしを入れました。</note>
+(伊原) あったほうがいいと思ったので、ただしを入れました。
+
+(太田) Ok</note>
       <tuv lang="EN-US">
         <seg>WAI-ARIA only affects semantics, not general behavior.</seg>
       </tuv>
