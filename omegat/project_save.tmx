@@ -10598,7 +10598,9 @@ https://dictionary.goo.ne.jp/ej/20456/meaning/m0u/
 (太田)
 lodash の debounce を使ってイベントをまとめる話なのですが、どうしたものか。説明は続く本文にあるので訳注は要らないと思います。
 ここでは、「何かよくわからんけどそういうのがあるんだろう」的に伝わればよいので、そのまま debounce を使用する、でいいのかも。
-いったんそうしてみました。</note>
+いったんそうしてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Debouncing</seg>
       </tuv>
@@ -12038,7 +12040,9 @@ Do you mean change the input invalid to valid or change aria-invalid=”false”
 
 (伊原) どう考えてもtrueとfalseが反対ですよね…。直してしまいつつヘイドンさんにコメント、がいいような気もします。
 
-(太田) では直しましょう。true と false を入れ替えました。訳注はナシで。</note>
+(太田) では直しましょう。true と false を入れ替えました。訳注はナシで。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For fields now marked invalid, we could run our validation routine on each &lt;g2&gt;input&lt;/g2&gt; event, switching &lt;g3&gt;aria-invalid&lt;/g3&gt; from &lt;g4&gt;false&lt;/g4&gt; to &lt;g5&gt;true&lt;/g5&gt; where applicable.</seg>
       </tuv>
