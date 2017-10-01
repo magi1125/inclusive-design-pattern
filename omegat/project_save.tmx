@@ -13217,7 +13217,8 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       <note>(太田)
 ざっくり調整。
 atia-invalid が set to "true" で be told it is valid と言っているのはおかしいと思いますが、後者をざっくりと「エラーかどうか」として調整しました。
-</note>
+
+(伊原) そうですね、ミスってますね。訳OK</note>
       <tuv lang="EN-US">
         <seg>However, since the &lt;g1&gt;aria-invalid&lt;/g1&gt; attribute will have been set to &lt;g2&gt;true&lt;/g2&gt; regardless, when the user blurs and refocuses the field, they will be told it is valid.</seg>
       </tuv>
