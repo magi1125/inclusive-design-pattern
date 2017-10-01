@@ -6806,7 +6806,9 @@ CSSを使って絶対配置した場合との対比なので、「ただし」�
     </tu>
     <tu>
       <note>(太田)
-optionsは引数の名前でオブジェクトの名前ではないので調整。</note>
+optionsは引数の名前でオブジェクトの名前ではないので調整。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Accordingly, in the &lt;g10&gt;options&lt;/g10&gt; object, &lt;g11&gt;options.leading&lt;/g11&gt; should be &lt;g12&gt;false&lt;/g12&gt; and &lt;g13&gt;options.trailing&lt;/g13&gt; &lt;g14&gt;true&lt;/g14&gt;.</seg>
       </tuv>
