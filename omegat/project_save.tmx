@@ -1916,7 +1916,7 @@ Do not put everything in the same bag! のような意味のようです。
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注?
+      <note>※要訳注
 
 (伊原) 「CSSアクセシビリティテストツール」だとCSSのアクセシビリティをチェックする感じに読めるので「製」と入れました。
 ところで、A11y.css使ってみましたが、説明のようになっていないような……。ヘイドンさんの勘違い？
@@ -1929,7 +1929,8 @@ https://gyazo.com/dd21486f0ea340b07d52fa21f1bc3893
 訳注?
 
 (伊原) 現在のバージョンだとそうなってない、で訳注お願い致します。
-</note>
+
+(太田) では訳注の方向で。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;A11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; — a more advanced CSS accessibility testing tool by &lt;g6&gt;&lt;g7&gt;Gaël Poupard&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;13&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; — overcomes this by positioning each pseudo-content message at the top of the document and reveals it on hover.</seg>
       </tuv>
@@ -31006,7 +31007,7 @@ skeletonはoutlineの言い換えでしょうけれどどうしたものか。
 
 (太田)
 まあわりと何でもよいようには思います。
-Okかと。</note>
+OKかと。</note>
       <tuv lang="EN-US">
         <seg>This test selector uses the &lt;g5&gt;&lt;g6&gt;adjacent sibling combinator&lt;/g6&gt;&lt;/g5&gt;&lt;g7&gt;&lt;g8&gt;&lt;g9&gt;10&lt;/g9&gt;&lt;/g8&gt;&lt;/g7&gt; (or next-sibling selector) &lt;g10&gt;+&lt;/g10&gt;:</seg>
       </tuv>
