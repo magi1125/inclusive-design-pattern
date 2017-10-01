@@ -15798,12 +15798,15 @@ OK
     </tu>
     <tu>
       <note>(太田)
-微調整。</note>
+微調整。
+
+よく見ると the average interval between keystrokes は、複数の keystrokes 間のインターバルですね (キーを連打→休止→キーを連打、の休止期間。キー連打中の打鍵間隔ではない)。
+修正しましたがわかりにくくなったかも。</note>
       <tuv lang="EN-US">
         <seg>In our case, we need to set this to be slightly shorter than what we imagine is the average interval between keystrokes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T065121Z" creationid="bakera" creationdate="20170929T090921Z">
-        <seg>今回は、想定される平均的なキーストローク間隔よりもわずかに短くなるように設定する必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T054347Z" creationid="bakera" creationdate="20170929T090921Z">
+        <seg>今回は、一連のキーストロークから次のキーストロークまでの平均的な休止間隔として想定される時間よりも、わずかに短くなるように設定しましょう。</seg>
       </tuv>
     </tu>
     <tu>
