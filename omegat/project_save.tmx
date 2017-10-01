@@ -8016,12 +8016,15 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) the first sibling element afterがわかりにくかったので調整。</note>
+      <note>(伊原) the first sibling element afterがわかりにくかったので調整。
+
+(太田)
+微調整。</note>
       <tuv lang="EN-US">
         <seg>As an accompaniment to the last test, we can make sure a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; with the &lt;g3&gt;tabpanel&lt;/g3&gt; role is the first sibling element after the &lt;g4&gt;tablist&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170928T155258Z" creationid="rikiha" creationdate="20170925T014534Z">
-        <seg>最後のテストに付け加えて、&lt;g3&gt;tabpanel&lt;/g3&gt;ロールを持つ&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;が、&lt;g4&gt;tablist&lt;/g4&gt;の直後に続く兄弟要素であることを確かめます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T084656Z" creationid="rikiha" creationdate="20170925T014534Z">
+        <seg>最後のテストに加えて、&lt;g3&gt;tabpanel&lt;/g3&gt;ロールを持つ&lt;g2&gt;&lt;div&gt;&lt;/g2&gt;が、&lt;g4&gt;tablist&lt;/g4&gt;の直後に続く兄弟要素になっていることを確かめます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32865,8 +32868,8 @@ shouldを「べき」とすることにこだわらないほうが良いのか�
       <tuv lang="EN-US">
         <seg>We know that the tab panel set should appear after the list, so we can use the &lt;g2&gt;&lt;g3&gt;general sibling combinator&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;9&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; &lt;g7&gt;~&lt;/g7&gt; in this test to ask if there are any &lt;g8&gt;&lt;div&gt;&lt;/g8&gt;s following the &lt;g9&gt;tablist&lt;/g9&gt; that are &lt;g10&gt;not&lt;/g10&gt; &lt;g11&gt;tabpanel&lt;/g11&gt;s.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T084502Z" creationid="rikiha" creationdate="20170925T014530Z">
-        <seg>ここでは、タブパネル群はリストの直後に出現することになっています。このテストでは&lt;g2&gt;&lt;g3&gt;間接セレクタ&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注200）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;の&lt;g7&gt;~&lt;/g7&gt;を使って、&lt;g9&gt;tablist&lt;/g9&gt;の後ろに&lt;g11&gt;tabpanel&lt;/g11&gt;&lt;g10&gt;ではない&lt;/g10&gt;&lt;g8&gt;&lt;div&gt;&lt;/g8&gt;があるかどうかを調べます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171001T084608Z" creationid="rikiha" creationdate="20170925T014530Z">
+        <seg>ここでは、タブパネル群はリストの後に出現することになっています。このテストでは&lt;g2&gt;&lt;g3&gt;間接セレクタ&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注200）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;の&lt;g7&gt;~&lt;/g7&gt;を使って、&lt;g9&gt;tablist&lt;/g9&gt;の後ろに&lt;g11&gt;tabpanel&lt;/g11&gt;&lt;g10&gt;ではない&lt;/g10&gt;&lt;g8&gt;&lt;div&gt;&lt;/g8&gt;があるかどうかを調べます。</seg>
       </tuv>
     </tu>
     <tu>
