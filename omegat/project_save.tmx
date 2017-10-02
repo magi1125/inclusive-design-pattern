@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13558,12 +13558,14 @@ don't want to なのでそこまで強くもなく、「絶対入れたくない
 「間違いなく、本番環境には含めないほうが良い」
 くらいでしょうか。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　良い→よい</note>
       <tuv lang="EN-US">
         <seg>However, the &lt;g2&gt;.test.css&lt;/g2&gt; files certainly don’t want to be included in production.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T115140Z" creationid="rikiha" creationdate="20170925T020455Z">
-        <seg>とはいえ、この&lt;g2&gt;.test.css&lt;/g2&gt;ファイルは、間違いなく、本番環境には含めないほうが良いものです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T083958Z" creationid="rikiha" creationdate="20170925T020455Z">
+        <seg>とはいえ、この&lt;g2&gt;.test.css&lt;/g2&gt;ファイルは、間違いなく、本番環境には含めないほうがよいものです。</seg>
       </tuv>
     </tu>
     <tu>
