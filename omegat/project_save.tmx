@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3077,12 +3077,14 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) OK</note>
+      <note>(太田) OK
+
+(岡本)　付け→づけ</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Missing, invisible or unassociated labels and descriptions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T083337Z" creationid="bakera" creationdate="20170929T091036Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;欠けていたり、非表示になっていたり、関連付けされていないラベルや説明。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T082116Z" creationid="bakera" creationdate="20170929T091036Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;欠けていたり、非表示になっていたり、関連づけされていないラベルや説明。</seg>
       </tuv>
     </tu>
     <tu>
