@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18708,7 +18708,9 @@ find information actionable で「情報が実行可能と分かる・感じる�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) こんな感じ？
+      <note>※訳注あり: &lt;分節 3678&gt;の訳注をここに移動
+
+(伊原) こんな感じ？
 
 (太田)
 直訳すると「もちろん、CSSの話をしています」という感じですね。あとは雰囲気をどうするかです。
@@ -33658,7 +33660,7 @@ formとformのジョーク。どうしたものか。
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注→訳注は
+      <note>※要訳注→訳注は&lt;3683&gt;に移動
 
 (伊原) 微調整。
 
@@ -33671,7 +33673,11 @@ formとformのジョーク。どうしたものか。
 
 (太田) では訳注で。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+訳注を入れてみると&lt;3683&gt;の下にあったほうがよさそうに思いました。
+</note>
       <tuv lang="EN-US">
         <seg>What if we could write similar tests for declarative languages like HTML?</seg>
       </tuv>
