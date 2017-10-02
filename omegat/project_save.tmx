@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4719,8 +4719,8 @@ Size:　→サイズ：</note>
         <seg>&lt;g4&gt;content&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;'Only &lt;li&gt; can be a direct child of &lt;ul&gt; or &lt;ol&gt;.'&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
 &lt;g8&gt;}&lt;/g8&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170929T220350Z" creationid="Administrator" creationdate="20170929T220350Z">
-        <seg>&lt;g4&gt;content&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;'&lt;ul&gt;または&lt;ol&gt;の直接的な子になれるのは&lt;li&gt;だけです。.'&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
+      <tuv lang="JA" changeid="bakera" changedate="20171002T074928Z" creationid="Administrator" creationdate="20170929T220350Z">
+        <seg>&lt;g4&gt;content&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;'&lt;ul&gt;または&lt;ol&gt;の直接的な子になれるのは&lt;li&gt;だけです。'&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
 &lt;g8&gt;}&lt;/g8&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
