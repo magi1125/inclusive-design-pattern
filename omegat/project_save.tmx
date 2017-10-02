@@ -5908,12 +5908,12 @@ contnet プロパティの値ではないため '' で括る必要がなくな�
 (伊原) OK
 
 (太田)
-ここにあった文を移動し、</note>
+ここにあった文を&lt;3787&gt;に移動し、ここにはaltと同様のキャプションを反映しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Note that it’s no longer necessary to encapsulate the error in single quotation marks as a string.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T111700Z" creationid="rikiha" creationdate="20170925T020354Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;エラーをシングルクォーテーションで囲んで文字列としてカプセル化する必要がなくなっていることに注目してください。&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171002T083931Z" creationid="rikiha" creationdate="20170925T020354Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;エラー宣言に、赤地に白文字というスタイルが適用されています。警告サインも依然として表示されています。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
