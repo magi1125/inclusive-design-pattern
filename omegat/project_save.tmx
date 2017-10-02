@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5689,8 +5689,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A declaration block from Chrome dev tools showing the error declaration with a line-through style.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T110133Z" creationid="rikiha" creationdate="20170925T020321Z">
-        <seg>Chrome開発ツールのCSS宣言ブロック。エラー宣言が打ち消し線スタイルで表示されている。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171002T050858Z" creationid="rikiha" creationdate="20170925T020321Z">
+        <seg>Chrome開発ツールのCSS宣言ブロック。エラー宣言が打ち消し線スタイルで表示されています。</seg>
       </tuv>
     </tu>
     <tu>
