@@ -16799,6 +16799,7 @@ becauseを訳出しました。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) OK</note>
       <tuv lang="EN-US">
         <seg>In the meantime, here’s a list of resources I recommend for reading about and around inclusive design, covering everything from responsive design to UX, technical accessibility, performance, and internationalization.</seg>
       </tuv>
@@ -21994,7 +21995,11 @@ aria-labelledbyがあるとそっちが優先だったり、細かいルール�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 微調整</note>
+      <note>(伊原) 微調整
+
+(太田)
+one of the best は英語では普通なのですが、そのまま日本語にすると微妙に引っかかる感じはしますね。
+</note>
       <tuv lang="EN-US">
         <seg>One of the best things about writing a book about patterns is that there are always more patterns to talk about.</seg>
       </tuv>
