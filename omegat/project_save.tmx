@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19115,8 +19115,8 @@ Keyは重要でいいのか。
       <tuv lang="EN-US">
         <seg>Left unfocused text field shows placeholder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170927T115510Z" creationid="bakera" creationdate="20170927T115510Z">
-        <seg>左では、テキストフィールドがフォーカスされておらず、プレースホルダーが表示されています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171002T072504Z" creationid="bakera" creationdate="20170927T115510Z">
+        <seg>左では、テキストフィールドがフォーカスされておらず、プレースホルダーが表示されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23102,8 +23102,8 @@ CSSのセレクタは、実はクソ面倒な処理を簡単に書けるんだ�
       <tuv lang="EN-US">
         <seg>Right focused text field does not, leaving the user to ponder what it was for.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170929T020556Z" creationid="bakera" creationdate="20170927T115518Z">
-        <seg>右では、テキストフィールドにフォーカスを合わせた結果プレースホルダーが消え、何を入力するフィールドなのかわかりません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171002T072600Z" creationid="bakera" creationdate="20170927T115518Z">
+        <seg>右では、テキストフィールドにフォーカスを合わせた結果プレースホルダーが消え、何を入力するフィールドなのかわからない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27795,8 +27795,8 @@ log eroors は「エラーログを残す」としました。
       <tuv lang="EN-US">
         <seg>The left example shows the placeholder text in default gray.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T121550Z" creationid="bakera" creationdate="20170926T121550Z">
-        <seg>左の例は、プレースホルダーテキストをデフォルトのグレーで表示しています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171002T072604Z" creationid="bakera" creationdate="20170926T121550Z">
+        <seg>左の例は、プレースホルダーテキストをデフォルトのグレーで表示している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28444,8 +28444,8 @@ Equal to the computed value of font-size on the root element. When specified on 
       <tuv lang="EN-US">
         <seg>The right uses a custom italic style with a darker color.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T121718Z" creationid="bakera" creationdate="20170926T121625Z">
-        <seg>右の例は、濃い色で、カスタムのイタリックスタイルを使用しています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171002T073832Z" creationid="bakera" creationdate="20170926T121625Z">
+        <seg>右の例は、濃い色で、カスタムのイタリックスタイルを使用している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33654,7 +33654,7 @@ formとformのジョーク。どうしたものか。
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注
+      <note>※要訳注→訳注は
 
 (伊原) 微調整。
 
