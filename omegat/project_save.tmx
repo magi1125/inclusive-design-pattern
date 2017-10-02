@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2890,12 +2890,14 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
 この章にこんな話ありましたっけ。別の章にはありましたが。
 もしかして、まとめの「避けるべきこと」ってこの章のまとめではなくて、書いていないことも含めるスタンスなんですかね。
 
-(伊原) ないですね…w 入れそびれなのか何なのか。訳OK</note>
+(伊原) ないですね…w 入れそびれなのか何なのか。訳OK
+
+(岡本)　分かり→わかり</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Input focus styles that are too subtle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T083223Z" creationid="bakera" creationdate="20170929T091034Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;非常に分かりにくい入力フォーカススタイル。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074615Z" creationid="bakera" creationdate="20170929T091034Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;非常にわかりにくい入力フォーカススタイル。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3801,12 +3803,14 @@ OK
 いちおう、以下のような話はあります。
 
 &gt;フォームでは異なり、あるフィールドから次のフィールドへ直接移動する操作が行われます。このとき、ラベル要素は飛び越されてしまいます。ラベル要素とインタラクティブ要素が明示的に関連づけられていない場合、そのラベル要素は見逃されてしまいます。
+
+(岡本)　付け→づけ
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Uninteractive content in a &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; context that isn’t associated with form fields.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T083420Z" creationid="bakera" creationdate="20170929T091038Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;フォームフィールドと関連付けられていない、&lt;g2&gt;&lt;form&gt;&lt;/g2&gt;コンテキストの非インタラクティブなコンテンツ。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074629Z" creationid="bakera" creationdate="20170929T091038Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;フォームフィールドと関連づけられていない、&lt;g2&gt;&lt;form&gt;&lt;/g2&gt;コンテキストの非インタラクティブなコンテンツ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7141,12 +7145,14 @@ HTMLがないとCSSやJSだけでは成立しないという話。
       <note>(太田)
 原文に合わせて2文に。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　勧め→すすめ</note>
       <tuv lang="EN-US">
         <seg>All good advice, and I recommend you read the article in full.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T075450Z" creationid="bakera" creationdate="20170929T091006Z">
-        <seg>どれも優れたアドバイスで、この記事の全文を読むことをお勧めします。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074459Z" creationid="bakera" creationdate="20170929T091006Z">
+        <seg>どれも優れたアドバイスで、この記事の全文を読むことをおすすめします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9247,12 +9253,15 @@ http://thesaurus.weblio.jp/content/試金石
       <note>(太田)
 原文に合わせて2文に。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)
+目→め</note>
       <tuv lang="EN-US">
         <seg>But I’d like to emphasize Bill’s stipulation regarding point four:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T075728Z" creationid="bakera" creationdate="20170929T091007Z">
-        <seg>しかし、私が強調したいのは、ビルが唱える4つ目のポイントです。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074428Z" creationid="bakera" creationdate="20170929T091007Z">
+        <seg>しかし、私が強調したいのは、ビルが唱える4つめのポイントです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14264,12 +14273,14 @@ a element ではなく elements であることに意味があるように思い
 「神秘のまじない」→「神秘の祝詞」のほうがかっこいいのでそうしてみました。
 
 (伊原) 太田さんが監訳でよかったと思いました。OK
+
+(岡本)　付け→づけ
 </note>
       <tuv lang="EN-US">
         <seg>If our form is for an online fantasy role-playing game, it might be tempting to relabel the field “Secret incantation,” “Spell of entry,” or maybe “Cryptic charm”; all more evocative than “Password” but in danger of leaving the user wondering what they’re really being asked for.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20171001T002006Z" creationid="bakera" creationdate="20170929T091014Z">
-        <seg>もしこのフォームが、オンラインファンタジーRPGのものだったなら、このフィールドを「秘密の合言葉」「解錠の呪文」「神秘の祝詞」などとラベル付けしたくなるかもしれません。どれも「パスワード」より示唆に富んだラベルですが、ユーザーには実際に何を聞かれているのかわからず、さまよい続けることになる危険性があります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074527Z" creationid="bakera" creationdate="20170929T091014Z">
+        <seg>もしこのフォームが、オンラインファンタジーRPGのものだったなら、このフィールドを「秘密の合言葉」「解錠の呪文」「神秘の祝詞」などとラベルづけしたくなるかもしれません。どれも「パスワード」より示唆に富んだラベルですが、ユーザーには実際に何を聞かれているのかわからず、さまよい続けることになる危険性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18070,12 +18081,14 @@ anotherを「もう1つ」→「別の」としました (さらにほかの方�
 微調整。
 contributeは参加としてみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　付け→づけ</note>
       <tuv lang="EN-US">
         <seg>It’s by using standard form elements, effective labeling, and facilitating the correction of errors that a maximal number of users are able to access and contribute to your websites and apps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T082221Z" creationid="bakera" creationdate="20170929T091027Z">
-        <seg>できるだけ多くのユーザーがWebサイトやアプリケーションにアクセスし、参加できるようにするには、標準のフォーム要素を使用し、効果的なラベル付けを行い、エラーの修正をしやすくする必要があります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074543Z" creationid="bakera" creationdate="20170929T091027Z">
+        <seg>できるだけ多くのユーザーがWebサイトやアプリケーションにアクセスし、参加できるようにするには、標準のフォーム要素を使用し、効果的なラベルづけを行い、エラーの修正をしやすくする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18868,12 +18881,15 @@ validはvalidでも良いのかも。
     <tu>
       <note>(太田)
 微調整。
-元訳後半は次の分節に。</note>
+元訳後半は次の分節に。
+
+(岡本)
+分から→わから</note>
       <tuv lang="EN-US">
         <seg>Just knowing that the field is invalid is little use unless the user knows how to fix it too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T050539Z" creationid="bakera" creationdate="20170929T090843Z">
-        <seg>フィールドがエラーであると分かっても、その修正方法が分からなければ、ほとんど意味がありません。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074224Z" creationid="bakera" creationdate="20170929T090843Z">
+        <seg>フィールドがエラーであると分かっても、その修正方法がわからなければ、ほとんど意味がありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19997,12 +20013,14 @@ identifyは「確認」ではなく「識別」に近いですが、ここでは
 NVDA+Tabは「現在のフォーカスの報告」。
 少し調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本）欄→らん</note>
       <tuv lang="EN-US">
         <seg>NVDA, for example, will speak the focused password input when pressing &lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T072223Z" creationid="bakera" creationdate="20170929T090935Z">
-        <seg>たとえばNVDAでは、&lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;キーを押すと、フォーカスのあるパスワード入力欄の情報が再度が読み上げられます。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074348Z" creationid="bakera" creationdate="20170929T090935Z">
+        <seg>たとえばNVDAでは、&lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;キーを押すと、フォーカスのあるパスワード入力らんの情報が再度が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20737,12 +20755,14 @@ candidate の訳が落ちていますがまあ無くても良いのでママで�
 微調整。
 HPの処理はもう少し工夫してもいいのかも。
 
-(伊原) 横暴なウェイターw OKです</note>
+(伊原) 横暴なウェイターw OKです
+
+(岡本)　邪魔→じゃま</note>
       <tuv lang="EN-US">
         <seg>Not wanting to be the overbearing waiter continually interrupting customers to check in with them, we didn’t flag errors on first run.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T054816Z" creationid="bakera" creationdate="20170929T090905Z">
-        <seg>ここでは、ひっきりなしにお客様の元に行って邪魔をするような横暴なウェイターにはなりたくないので、入力時点ではエラーを出さないようにしました。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074315Z" creationid="bakera" creationdate="20170929T090905Z">
+        <seg>ここでは、ひっきりなしにお客様の元に行ってじゃまをするような横暴なウェイターにはなりたくないので、入力時点ではエラーを出さないようにしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21475,12 +21495,14 @@ willで未来形なので「出現するようになります」としました�
 すごい抜けてますね。
 ラベル、現在値、入力欄のタイプ、状態、が読まれたあと、最後に説明文が読まれるという話です。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　欄→らん</note>
       <tuv lang="EN-US">
         <seg>Now, when a screen reader user focuses the input, this accessible description will be read out after the label, current value, input type and (invalid) state information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T052855Z" creationid="bakera" creationdate="20170929T090854Z">
-        <seg>スクリーンリーダーユーザーが入力にフォーカスを合わせると、ラベル、現在入力されている値、入力欄のタイプ、状態についての情報 (エラーであること) が読まれた後に、アクセシブルな説明文が読み上げられることになります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074123Z" creationid="bakera" creationdate="20170929T090854Z">
+        <seg>スクリーンリーダーユーザーが入力にフォーカスを合わせると、ラベル、現在入力されている値、入力らんのタイプ、状態についての情報 (エラーであること) が読まれた後に、アクセシブルな説明文が読み上げられることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26037,12 +26059,14 @@ the largely imperative language of JavaScript.は「javaScriptという、その
       <note>(太田)
 cipherを暗号とするのは訳としては正しいのですが、これはどちらかいえばHPで、ヘイドンさんはidrefで参照されるidをcipherと呼んでいるという話なんですよね。どうしても訳すなら、暗号だと大げさなので「カギ」くらいでしょうが、まあ本題と関係ないのでスルー気味に対応しました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　欄→らん</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;#password-hint&lt;/g1&gt; element is connected to the input using the &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;18&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; attribute and the &lt;g8&gt;password-hint&lt;/g8&gt; &lt;g9&gt;id&lt;/g9&gt; as a cipher.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T052032Z" creationid="bakera" creationdate="20170929T090851Z">
-        <seg>この&lt;g1&gt;#password-hint&lt;/g1&gt;要素は、&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注189）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;属性に&lt;g8&gt;password-hint&lt;/g8&gt;という&lt;g9&gt;id&lt;/g9&gt;を指定することによって、入力欄に結びつけられています。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074158Z" creationid="bakera" creationdate="20170929T090851Z">
+        <seg>この&lt;g1&gt;#password-hint&lt;/g1&gt;要素は、&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注189）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;属性に&lt;g8&gt;password-hint&lt;/g8&gt;という&lt;g9&gt;id&lt;/g9&gt;を指定することによって、入力らんに結びつけられています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35808,12 +35832,14 @@ esp. は especially の略記。
 
 (伊原) OK, 時は→ときは
 
-(太田) 括弧が抜けていたので補いました。</note>
+(太田) 括弧が抜けていたので補いました。
+
+(岡本)　邪魔→じゃま</note>
       <tuv lang="EN-US">
         <seg>“Your brand’s tone and voice are essential to consider when writing all of your copy, but it &lt;g1&gt;should not get in the way&lt;/g1&gt; of a user who is trying to take action.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T045824Z" creationid="bakera" creationdate="20170929T091008Z">
-        <seg>「ブランドのトーンや声は、コピーを書くときに必ず考慮する必要がありますが、ユーザーが行動を起こそうとしているときは、&lt;g1&gt;邪魔をすべきではありません&lt;/g1&gt;。」</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074412Z" creationid="bakera" creationdate="20170929T091008Z">
+        <seg>「ブランドのトーンや声は、コピーを書くときに必ず考慮する必要がありますが、ユーザーが行動を起こそうとしているときは、&lt;g1&gt;じゃまをすべきではありません&lt;/g1&gt;。」</seg>
       </tuv>
     </tu>
     <tu>
