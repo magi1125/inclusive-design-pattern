@@ -4963,9 +4963,15 @@ Price:　→価格：</note>
     </tu>
     <tu>
       <note>(岡本)
-ログインフォーム？</note>
+ログインフォーム？
+
+(太田)
+ログインフォームで。</note>
       <tuv lang="EN-US">
         <seg>&lt;g67&gt;&lt;!-- the login form --&gt;&lt;/g67&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171002T065301Z">
+        <seg>&lt;g67&gt;&lt;!-- ログインフォーム --&gt;&lt;/g67&gt;</seg>
       </tuv>
     </tu>
     <tu>
