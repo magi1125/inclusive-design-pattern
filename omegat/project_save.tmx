@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8609,12 +8609,14 @@ hone は砥石でとぐような意味。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>(伊原) OK
+
+(岡本)　隣→どなり</note>
       <tuv lang="EN-US">
         <seg>At the top of the form, a selected login tab with an unselected register tab to its right.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T155355Z" creationid="bakera" creationdate="20170925T121416Z">
-        <seg>フォームの上端に「ログイン」タブがあり、その右隣には未選択の「登録」タブがある。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T073622Z" creationid="bakera" creationdate="20170925T121416Z">
+        <seg>フォームの上端に「ログイン」タブがあり、その右どなりには未選択の「登録」タブがある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21146,12 +21148,14 @@ the URLは「このページのURL」としてみました。
     <tu>
       <note>(伊原) I'll なのでそれっぽく。
 
-(太田) OK</note>
+(太田) OK
+
+(岡本)　後は→あとは　　分かる→わかる</note>
       <tuv lang="EN-US">
         <seg>Now I can just run &lt;g1&gt;npm test&lt;/g1&gt; (or whatever alias I have set up) and I’ll find out if my function is doing what I hoped it would.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T091253Z" creationid="rikiha" creationdate="20170925T014337Z">
-        <seg>後は&lt;g1&gt;npm test&lt;/g1&gt;（または何らか設定したエイリアス）を実行すれば、この関数が期待通りに動いてくれるかが分かるでしょう。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T073236Z" creationid="rikiha" creationdate="20170925T014337Z">
+        <seg>あとは&lt;g1&gt;npm test&lt;/g1&gt;（または何らか設定したエイリアス）を実行すれば、この関数が期待通りに動いてくれるかがわかるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
