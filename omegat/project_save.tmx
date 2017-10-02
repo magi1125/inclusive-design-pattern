@@ -16966,12 +16966,14 @@ not acceptable を invalid と訳し分けるべきか。
 
 (太田) just を訳出しつつ調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　良い→よい</note>
       <tuv lang="EN-US">
         <seg>In which case, I could just hide the pseudo-content message with &lt;g1&gt;display:none;&lt;/g1&gt;:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T102101Z" creationid="rikiha" creationdate="20170925T014601Z">
-        <seg>このケースでは、単に&lt;g1&gt;display:none;&lt;/g1&gt;で疑似コンテンツのメッセージを隠せば良いでしょう。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T082635Z" creationid="rikiha" creationdate="20170925T014601Z">
+        <seg>このケースでは、単に&lt;g1&gt;display:none;&lt;/g1&gt;で疑似コンテンツのメッセージを隠せばよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29194,12 +29196,14 @@ JAWS日本語版では「ページ内リンク」らしいです。
       <note>(太田)
 すこし調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(岡本)　2つ→ふたつ</note>
       <tuv lang="EN-US">
         <seg>There are a couple of small issues here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T102348Z" creationid="rikiha" creationdate="20170925T014610Z">
-        <seg>些細な問題が2つほどあります。</seg>
+      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T082409Z" creationid="rikiha" creationdate="20170925T014610Z">
+        <seg>些細な問題がふたつほどあります。</seg>
       </tuv>
     </tu>
     <tu>
