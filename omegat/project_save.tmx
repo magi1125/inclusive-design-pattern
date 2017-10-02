@@ -9745,8 +9745,8 @@ Tabの件は了解です、ありがとうございます。</note>
       <tuv lang="EN-US">
         <seg>By debouncing, we divide clusters of keypress events into blocks and only execute &lt;g2&gt;validate()&lt;/g2&gt; once per block.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T054905Z" creationid="bakera" creationdate="20170929T090916Z">
-        <seg>debounceによって、一連のkeypressイベントの塊をブロックに割り当て、ブロックごとに&lt;g2&gt;validate()&lt;/g2&gt;を実行することができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171002T072221Z" creationid="bakera" creationdate="20170929T090916Z">
+        <seg>debounceによって、一連のkeypressイベントのかたまりをブロックに割り当て、ブロックごとに&lt;g2&gt;validate()&lt;/g2&gt;を実行することができます。</seg>
       </tuv>
     </tu>
     <tu>
