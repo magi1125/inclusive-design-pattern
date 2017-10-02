@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5905,7 +5905,10 @@ contnet プロパティの値ではないため '' で括る必要がなくな�
 分節3786のコードの下に移動してしまって良いと思います。
 その前提ですこし調整しました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+ここにあった文を移動し、</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Note that it’s no longer necessary to encapsulate the error in single quotation marks as a string.&lt;/g3&gt;</seg>
       </tuv>
@@ -23487,12 +23490,17 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
 訳としてはそうでしょうがわかりにくいですね。
 すこしだけ調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+&lt;3798&gt;のテキストをこちらに持ってきて追加しました。
+Secondの扱いが微妙ですがいったんこれで。
+</note>
       <tuv lang="EN-US">
         <seg>Second, as an unrecognized property it is not entered into specificity calculations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T105155Z" creationid="rikiha" creationdate="20170925T020033Z">
-        <seg>さらに、認識されないプロパティは詳細度の計算の対象になりません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171002T083842Z" creationid="rikiha" creationdate="20170925T020033Z">
+        <seg>エラーをシングルクォーテーションで囲んで文字列としてカプセル化する必要がなくなっていることに注目してください。さらに、認識されないプロパティは詳細度の計算の対象になりません。</seg>
       </tuv>
     </tu>
     <tu>
