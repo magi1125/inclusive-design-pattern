@@ -34918,7 +34918,8 @@ regressを「後方互換する」としていますが、日本語として違�
 [1] https://quirks.spec.whatwg.org/
 [2] https://dom.spec.whatwg.org/#concept-document-quirks
 
-</note>
+(太田)
+奇しくも先の私のコメントと同じ内容ですが、原文を尊重してママとしたいと思います。</note>
       <tuv lang="EN-US">
         <seg>Without a doctype declared, the browser simply doesn’t know how to interpret the content and can regress into &lt;g2&gt;&lt;g3&gt;a non-compliant and incompatible mode, often called &lt;g4&gt;quirks mode&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;1&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
