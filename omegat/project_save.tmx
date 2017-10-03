@@ -18971,6 +18971,9 @@ wrap は「折り返す」としました (white-space: no-wrapのwrap)。
 &lt;kbd&gt;要素で装飾してはどうでしょうか。また、これはOS Xのショートカットキーですから、Windowsのショートカットキー Ctrl + Shift + M を併記するのが親切かと思います。
 
 
+(太田)
+装飾はDTP作業のモレかと思います。
+Windowsのショートカットは、原文に併記しているところとそうでないところがあり、ヘイドンさんの意図はよくわからないのですが、ママとしたいと思います。
 </note>
       <tuv lang="EN-US">
         <seg>Just press &lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;, then resize the simulated viewport incrementally until the content is forced to collide, overlap or wrap.</seg>
