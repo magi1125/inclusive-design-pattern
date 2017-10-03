@@ -34109,12 +34109,18 @@ shouldを「はずです」はちょっと強い感じなので「でしょう�
     <tu>
       <note>(太田) 必要な文字のリストを指定できる、としました。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(もんどさん)
+もはやHTML仕様にURIなる語は存在しません。しれっとURLに変えてしまってはどうでしょうか。
+
+(太田)
+しれっと変えましょう。</note>
       <tuv lang="EN-US">
         <seg>When including fonts using &lt;g1&gt;&lt;g2&gt;Google Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;8&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, you can append a &lt;g6&gt;text&lt;/g6&gt; parameter to the URI listing just the characters you need.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T064657Z" creationid="yoota" creationdate="20170501T053623Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;Google Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注11）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用する場合は、URIにtextパラメータを付けて、必要な文字のリストを指定できます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171003T115110Z" creationid="yoota" creationdate="20170501T053623Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Google Fonts&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注11）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;を使用する場合は、URLにtextパラメータを付けて、必要な文字のリストを指定できます。</seg>
       </tuv>
     </tu>
     <tu>
