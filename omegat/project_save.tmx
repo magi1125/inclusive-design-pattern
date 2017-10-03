@@ -33597,7 +33597,9 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(太田) オーサーCSSは日本語で普通どう呼ぶんですかね。「コンテンツ側のCSS」みたいな言い方が多い?
+      <note>※訳注あり
+
+(太田) オーサーCSSは日本語で普通どう呼ぶんですかね。「コンテンツ側のCSS」みたいな言い方が多い?
 従うべきとまでは言っていなくて、リスペクトしろという話ですね。
 
 (伊原) 今日び、CSSといえば99%はAuthor CSSを指すので、ユーザースタイルシートのことを知らない状態の人に「コンテンツ側のCSSが無ければ」で通じるかどうか、ちょっと不安に思いました。
@@ -33605,7 +33607,16 @@ OK
 あるいは訳注で「CSSにはAuthorとUserがあって〜」みたいなことを話すとか？
 
 (太田) 「著者側の」としつつ訳注を補う形にしたいと思います。
-※訳注あり</note>
+
+(もんどさん)
+「それに加えて～」に続く「独自のスタイル」というのが何を指すのか（CSSの「カスケード」の枠外で定義できる、ということ？）が引っかかりを覚えました。
+
+また、
+http://www.w3.org/TR/css3-cascade/#cascading-origins ではなく、
+https://www.w3.org/TR/css-cascade-3/#cascading-origins が正のURLです。
+余談として、https://www.w3.org/TR/css-cascade-4/#cascading-origins なんてのもあります。どちらを選んでも問題ないと思います。
+
+</note>
       <tuv lang="EN-US">
         <seg>Web pages behave like this without author CSS, and should continue to respect this fundamental behavior where CSS is included.</seg>
       </tuv>
