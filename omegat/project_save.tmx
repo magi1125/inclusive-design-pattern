@@ -14408,12 +14408,22 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype</note>
 https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 
 
-(伊原) LGTM.</note>
+(伊原) LGTM.
+
+
+(もんどさん)
+ページ上では「上の例」が存在しないので、何か適当な語で言い換えた方がよいでしょう。
+
+
+(太田)
+確かに例として文の外に出ているるわけではないのでわかりにくいですね。
+「HTML5での方法は先に挙げたとおりです」
+としてみました。</note>
       <tuv lang="EN-US">
         <seg>If the doctype tells the browser what &lt;g1&gt;kind&lt;/g1&gt; of document it is serving (HTML5 in the above example), then the &lt;g2&gt;&lt;html&gt;&lt;/g2&gt; element’s &lt;g3&gt;lang&lt;/g3&gt; attribute tells it which language it is written in.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170429T222132Z" creationid="yoota" creationdate="20170426T053854Z">
-        <seg>DOCTYPEでドキュメントの&lt;g1&gt;種類&lt;/g1&gt;をブラウザに伝えたら（HTML5なら上の例のようになります）、次は&lt;g2&gt;&lt;html&gt;&lt;/g2&gt;要素の&lt;g3&gt;lang&lt;/g3&gt;属性でドキュメントの言語を指定します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171003T112307Z" creationid="yoota" creationdate="20170426T053854Z">
+        <seg>DOCTYPEでドキュメントの&lt;g1&gt;種類&lt;/g1&gt;をブラウザに伝えたら（HTML5での方法は先に挙げたとおりです）、次は&lt;g2&gt;&lt;html&gt;&lt;/g2&gt;要素の&lt;g3&gt;lang&lt;/g3&gt;属性でドキュメントの言語を指定します。</seg>
       </tuv>
     </tu>
     <tu>
