@@ -31643,7 +31643,9 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
 ここで言うアクセシブルな名前は、ARIA仕様[4]で定義されるAccessible Nameのこと？　もしそうならば、「アクセシブルな名前 (name)」という書き方はあまり良い書き方ではないかも？
 
 [4] https://www.w3.org/TR/2016/CR-wai-aria-1.1-20161027/#dfn-accessible-name
-</note>
+
+(太田)
+要検討ですね。</note>
       <tuv lang="EN-US">
         <seg>Throughout this book you’ll hear a lot about &lt;g3&gt;accessible names&lt;/g3&gt;.</seg>
       </tuv>
