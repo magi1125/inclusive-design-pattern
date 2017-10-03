@@ -34909,7 +34909,16 @@ regressを「後方互換する」としていますが、日本語として違�
 ちなみにヘイドンさんは often called と言っていますが、quirks modeはHTML5仕様の中で使われている正式な用語です。https://dom.spec.whatwg.org/#concept-document-quirks
 regressを「後方互換する」としていますが、日本語として違和感があります。ヘイドンカラーを生かすなら「後戻り」などとしたいですが、無理に残さずに意訳してみました。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(もんどさん)
+おそらく原文で「いわゆる」に相当する語があると思われますが、もはやQuirks Mode [1]というLiving Standardがありますし、DOM標準[2]でも定義されている語です。
+よって、「いわゆる」は不要だと思います。
+
+[1] https://quirks.spec.whatwg.org/
+[2] https://dom.spec.whatwg.org/#concept-document-quirks
+
+</note>
       <tuv lang="EN-US">
         <seg>Without a doctype declared, the browser simply doesn’t know how to interpret the content and can regress into &lt;g2&gt;&lt;g3&gt;a non-compliant and incompatible mode, often called &lt;g4&gt;quirks mode&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;1&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
