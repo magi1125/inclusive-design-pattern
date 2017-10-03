@@ -3700,7 +3700,9 @@ https://developers.google.com/search/docs/data-types/products#single-product-pag
       </tuv>
     </tu>
     <tu>
-      <note>(太田) distraction(気が散ること)を軽減すると言っていて、達成基準2.2.2「 一時停止、停止、非表示」に関連した話のように思います。引用元を見ると該当箇所には以下の説明があります。
+      <note>※訳注あり
+
+(太田) distraction(気が散ること)を軽減すると言っていて、達成基準2.2.2「 一時停止、停止、非表示」に関連した話のように思います。引用元を見ると該当箇所には以下の説明があります。
 
 http://adrianroselli.com/2015/10/dont-disable-zoom.html
 &gt;We can’t all have ad-blockers on mobile, and many users find the constant movement sickening, particularly with a vestibular disorder.
@@ -3708,7 +3710,8 @@ http://adrianroselli.com/2015/10/dont-disable-zoom.html
 なので単に邪魔という話ではない訳にしたいところ。「気が散らないように」としてみました。
 【要検討】訳注があったほうがいいかも?
 
-(伊原) LGTM. 訳注はあったほうがよさそうです。</note>
+(伊原) LGTM. 訳注はあったほうがよさそうです。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The user wants to crop animated elements out of the view to reduce distraction.</seg>
       </tuv>
