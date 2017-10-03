@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5826,8 +5826,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Enhancement is a great thing, but only where it’s really needed.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170427T031138Z" creationid="yoota" creationdate="20170427T023556Z">
-        <seg>エンハンスメントはすばらしいですが、本当に必要な箇所だけで使いましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171003T103919Z" creationid="yoota" creationdate="20170427T023556Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;エンハンスメントはすばらしいですが、本当に必要な箇所だけで使いましょう。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
