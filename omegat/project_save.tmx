@@ -16106,12 +16106,25 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(太田) Flash of Invisible Text は日本語を補う必要がありそう。
+      <note>※訳注あり
+
+(太田) Flash of Invisible Text は日本語を補う必要がありそう。
 あるいは訳注?
 訳注案: 
 フォントの読み込みに時間がかかる場合、特に何もしないと、テキストはまずデフォルトのフォントで表示されます。その後、フォントの読み込みが終わった時点で、該当のフォントに変化しますが、読み込み完了までの間はデフォルトのフォントが見えていることになります。このとき、デフォルトのフォントが一瞬見えてしまう現象を、一般に FOUT (Flash of Unstyled Text) と呼びます。この現象への対策として、フォントの読み込み中はテキストを非表示にしておき、読み込みが完了してから表示させるという手法があります。この場合、テキストが何も表示されていない状態が一瞬見えることになるため、これを FOIT(Flash of Invisible Text) と呼んでいます。
 
 (岡本) !→！
+
+(もんどさん)
+1000ch氏のブログエントリー[3]によると、FOUTの挙動はブラウザーによって違うとのこと。（https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ja#section-6 も似たようなことを言ってるので、おそらくそう）
+&gt; Chrome, Firefox: フォントのダウンロード完了まで最大3秒間描画を保留し、完了した時点でテキストを描画する
+&gt; Safari: フォントのダウンロード完了までテキストの描画を保留する
+&gt; Internet Explorer: フォントのダウンロード完了まで代替フォントでテキストを描画する
+なので、訳註は厳密には正しくないかもしれません…（なお、私自身に知見はありません）。
+
+[3] https://1000ch.net/posts/2016/web-font.html
+
+あと、本文の後で（22ページ）FOUTが出現するので、ここで訳註を付ける難しさ、みたいなものを感じました。
 </note>
       <tuv lang="EN-US">
         <seg>In particular, FOIT (flash of invisible text) should be avoided: if the font resource is indefinitely stalled (it happens!), users of some devices and browsers will be stuck with a page that has no visible text.</seg>
