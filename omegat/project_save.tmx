@@ -2037,8 +2037,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;Heydon Pickering&lt;/g1&gt; is a utilitarian designer, writer and public speaker, the &lt;g2&gt;&lt;g3&gt;accessibility editor for Smashing Magazine&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;1&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, and a consultant working with the &lt;g7&gt;&lt;g8&gt;Paciello Group&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;2&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T043642Z" creationid="bakera" creationdate="20171005T043642Z">
-        <seg>&lt;g1&gt;ヘイドン・ピカリング（Heydon Pickering）&lt;/g1&gt;は実用デザイナー兼ライターで、講演も行っています。また&lt;g2&gt;&lt;g3&gt;「Smashing Magazine」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注1）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;のアクセシビリティ担当エディターで、&lt;g7&gt;&lt;g8&gt;The Paciello Group&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注2）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;のコンサルタントも務めています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043713Z" creationid="bakera" creationdate="20171005T043642Z">
+        <seg>&lt;g1&gt;ヘイドン・ピカリング（Heydon Pickering）&lt;/g1&gt;は実用デザイナーであり、ライターであり、講演も行っています。また&lt;g2&gt;&lt;g3&gt;「Smashing Magazine」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注1）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;のアクセシビリティ担当エディターで、&lt;g7&gt;&lt;g8&gt;The Paciello Group&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注2）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;のコンサルタントも務めています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2083,6 +2083,22 @@ OK
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170915T033919Z" creationid="rikiha" creationdate="20170909T223228Z">
         <seg>&lt;g1&gt;ユーザーに制御させる&lt;/g1&gt;、というのは、先に紹介したヘニー・スワンの原則の2番目の項目でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;Rodney Rehm&lt;/g1&gt; is a web developer based in southern Germany.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043726Z" creationid="bakera" creationdate="20171005T043726Z">
+        <seg>ロドニー・レーム（Rodney Rehm）はドイツ南部に拠点を置くWeb開発者です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;Steve Faulkner&lt;/g1&gt; is the senior web accessibility consultant and technical director of TPG Europe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043730Z" creationid="bakera" creationdate="20171005T043730Z">
+        <seg>スティーブ・フォルクナー（Steve Faulkner）は、TPG EuropeのシニアWebアクセシビリティコンサルタント兼テクニカルディレクターです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6977,6 +6993,14 @@ SERPはこういう処理でどうでしょう。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>About The Reviewers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043750Z" creationid="bakera" creationdate="20171005T043725Z">
+        <seg>レビュアーについて</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) assureを訳しました。
 
 (太田)
@@ -7158,6 +7182,14 @@ HTMLがないとCSSやJSだけでは成立しないという話。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170830T072736Z" creationid="rikiha" creationdate="20170827T120053Z">
         <seg>結局のところ、HTMLがなければ、そこに貼りつけるCSSやJavaScriptを&lt;g1&gt;存在させる&lt;/g1&gt;ことさえできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After being a full-stack freelancer for a decade, he moved on to working on the front-ends of &lt;g2&gt;&lt;g3&gt;Qivicon&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;3&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, Deutsche Telekom’s Smart Home platform.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043728Z" creationid="bakera" creationdate="20171005T043728Z">
+        <seg>10年間、フリーランスのフルスタックエンジニアとして働いた後、Deutsche Telekom（ドイツテレコム）のスマートホームプラットフォームQIVICON（キビコン）のフロントエンドエンジニアになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13101,6 +13133,14 @@ a要素に→a要素には
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>He also develops and maintains &lt;g42&gt;&lt;g43&gt;HTML5accessibility&lt;/g43&gt;&lt;/g42&gt;&lt;g44&gt;&lt;g45&gt;&lt;g46&gt;16&lt;/g46&gt;&lt;/g45&gt;&lt;/g44&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043742Z" creationid="bakera" creationdate="20171005T043742Z">
+        <seg>また、HTML5accessibility.comの開発および管理も手掛けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) カッコ内が誤訳っぽいので調整。
 
 (太田) OK</note>
@@ -13117,6 +13157,41 @@ a要素に→a要素には
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170628T041144Z" creationid="okamoto_jun" creationdate="20170627T081122Z">
         <seg>ひと口にデザイナーと言っても実に&lt;g1&gt;さまざま&lt;/g1&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He created &lt;g7&gt;&lt;g8&gt;URI.js&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;4&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; and the &lt;g12&gt;&lt;g13&gt;ally.js&lt;/g13&gt;&lt;/g12&gt;&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;5&lt;/g16&gt;&lt;/g15&gt;&lt;/g14&gt; accessibility library, made &lt;g17&gt;&lt;g18&gt;libsass run in the browser&lt;/g18&gt;&lt;/g17&gt;&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;6&lt;/g21&gt;&lt;/g20&gt;&lt;/g19&gt; and wrote the world’s first &lt;g22&gt;&lt;g23&gt;buggyfill&lt;/g23&gt;&lt;/g22&gt;&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;7&lt;/g26&gt;&lt;/g25&gt;&lt;/g24&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043729Z" creationid="bakera" creationdate="20171005T043729Z">
+        <seg>URI.js（脚注3）とアクセシビリティライブラリally.js（脚注4）を作り、ブラウザでlibsassを走らせ（脚注5）、世界初のbuggyfill（脚注6）を書きました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He is an editor of several specifications at the &lt;g17&gt;&lt;g18&gt;W3C&lt;/g18&gt;&lt;/g17&gt;&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;11&lt;/g21&gt;&lt;/g20&gt;&lt;/g19&gt; including &lt;g22&gt;&lt;g23&gt;HTML 5.1&lt;/g23&gt;&lt;/g22&gt;&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;12&lt;/g26&gt;&lt;/g25&gt;&lt;/g24&gt;, &lt;g27&gt;&lt;g28&gt;ARIA in HTML&lt;/g28&gt;&lt;/g27&gt;&lt;g29&gt;&lt;g30&gt;&lt;g31&gt;13&lt;/g31&gt;&lt;/g30&gt;&lt;/g29&gt;, &lt;g32&gt;&lt;g33&gt;Notes on Using ARIA in HTML&lt;/g33&gt;&lt;/g32&gt;&lt;g34&gt;&lt;g35&gt;&lt;g36&gt;14&lt;/g36&gt;&lt;/g35&gt;&lt;/g34&gt; and &lt;g37&gt;&lt;g38&gt;HTML5: Techniques for providing useful text alternatives&lt;/g38&gt;&lt;/g37&gt;&lt;g39&gt;&lt;g40&gt;&lt;g41&gt;15&lt;/g41&gt;&lt;/g40&gt;&lt;/g39&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043735Z" creationid="bakera" creationdate="20171005T043735Z">
+        <seg>W3C（脚注9）では次のような仕様の策定に携わっています。• HTML 5.1（脚注10）
+• ARIA in HTML（脚注11）
+• Notes on Using ARIA in HTML（脚注12）
+• HTML5: Techniques for useful text alternatives（脚注13）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He is the creator and lead developer of the &lt;g12&gt;&lt;g13&gt;Web Accessibility Toolbar&lt;/g13&gt;&lt;/g12&gt;&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;10&lt;/g16&gt;&lt;/g15&gt;&lt;/g14&gt; accessibility testing tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043733Z" creationid="bakera" creationdate="20171005T043733Z">
+        <seg>アクセシビリティテストツールWeb Accessibility Toolbar（脚注8）の考案者、リードデベロッパーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He joined the &lt;g2&gt;&lt;g3&gt;Paciello Group&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; in 2006 and was previously a senior web accessibility consultant at &lt;g7&gt;&lt;g8&gt;Vision Australia&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;9&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043731Z" creationid="bakera" creationdate="20171005T043731Z">
+        <seg>2006年にThe Paciello Groupに入り、Vision Australia（脚注7）ではシニアWebアクセシビリティコンサルタントも務めました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13346,6 +13421,27 @@ http://www.dictionary.com/browse/radical
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20171005T043038Z" creationid="rikiha" creationdate="20170228T015024Z">
         <seg>ヘイドンはWebの&lt;g1&gt;適切な&lt;/g1&gt;使い方を明確かつ包括的に解説してくれています。Webが本来持つ力、インクルーシブ性とアクセシビリティをいかにして生かすかという方法です。それを知れば、コンテンツにさまざまな方法でアクセスしようとしている（あるいは、特定の方法でアクセスせざるを得ない）潜在顧客や訪問者を締め出さずに済むでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He’s almost entirely fueled by original recipe Guinness and Naga chillies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043724Z" creationid="bakera" creationdate="20171005T043724Z">
+        <seg>そんな彼の燃料の大半はギネスとナガチリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+日本語では「彼は～」という言い方はあまりしないので、もう少し意訳したいところかもしれません。
+インクルーシブの鍵括弧は原文にはないようです。
+
+</note>
+      <tuv lang="EN-US">
+        <seg>He’s interested in new and innovative ways to make the web an inclusive place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043818Z" creationid="bakera" creationdate="20171005T043720Z">
+        <seg>Webをインクルーシブな場所にするための、新しい方法や革新的な手段に関心を持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25253,6 +25349,14 @@ facilitated by custom JavaScriptはざっくり「JavaScriptによって作ら�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Steve is a member of several groups, including the W3C Web Platforms Working Group and the W3C ARIA Working Group.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043734Z" creationid="bakera" creationdate="20171005T043734Z">
+        <seg>スティーブは、W3C Web Platformsワーキンググループ、W3C ARIAワーキンググループなど、複数のグループに参加しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 固形粘着剤としました。
 
 (太田) OK
@@ -32827,6 +32931,23 @@ ourを「先の」などとしつつ調整。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+これは誤訳ではないかと思います。"play one's part" は役割を果たすというような意味で、前段で言っている "new and innovative ways" の具体例を挙げているのではないでしょうか。
+また、plain old semantic HTMLのoldはplainにはかかっていないように思います。
+直訳すると、
+
+ユーザー調査、システム思考、プレーンで昔ながらのセマンティックを持つHTMLは、全てその (=「インクルーシブ」な場所にするための方法としての) 役割を果たします
+
+というような感じかなと。もうちょっとこなれた表現にしたいところではあります。
+調整してみました。</note>
+      <tuv lang="EN-US">
+        <seg>User research, systems thinking and plain old semantic HTML all play their part.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T044140Z" creationid="bakera" creationdate="20171005T043721Z">
+        <seg>そのために、ユーザー調査、システム思考、プレーンで昔ながらのセマンティックを持つHTMLといったものすべてを活用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Users having trouble differentiating foreground and background imagery may turn on Windows’ &lt;g1&gt;&lt;g2&gt;high contrast mode&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
@@ -34028,6 +34149,14 @@ formとformのジョーク。どうしたものか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T072452Z" creationid="yoota" creationdate="20170511T072412Z">
         <seg>あまり知られていませんが、コントラストが非常に高い場合も、一部のユーザーにとって&lt;g1&gt;読みにくく&lt;/g1&gt;なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When Heydon isn’t writing, coding or illustrating, he does some mental health campaigning, experiments with sound design, and thrashes out doom metal riffs on his detuned SG copy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043723Z" creationid="bakera" creationdate="20171005T043723Z">
+        <seg>ヘイドンは文章やコードを書いたりイラストを描いているとき以外は、メンタルヘルスに関するキャンペーンを行ったり、サウンドデザインに挑戦したり、自分でデチューンしたSGのコピーギターでドゥームメタルのリフを繰り返し弾いています。</seg>
       </tuv>
     </tu>
     <tu>
