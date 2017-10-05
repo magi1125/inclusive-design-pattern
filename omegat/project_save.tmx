@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1968,6 +1968,14 @@ unpick は縫い目を解くような意味。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170904T104836Z" creationid="yoota" creationdate="20170904T102036Z">
         <seg>&lt;g1&gt;&lt;g2&gt;アートディレクションされた独創的な商品写真&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注139）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;は刺激的かもしれませんが、ユーザーの&lt;g6&gt;&lt;g7&gt;認知的負荷&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注140）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;が高くなり、商品の実際の形を推理しなければならなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;Bruce Lawson&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, Deputy CTO, Opera</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041331Z" creationid="bakera" creationdate="20171005T041331Z">
+        <seg>Opera 副CTO、ブルース・ローソン（Bruce Lawson）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12713,6 +12721,22 @@ Foregoは放棄するとか捨てるとかの意味のはず。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Foreword</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041333Z" creationid="bakera" creationdate="20171005T041333Z">
+        <seg>序文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+「名誉毀損法」は日本にはなく、厳しいので全体的に意訳したいですね。
+</note>
+      <tuv lang="EN-US">
+        <seg>Foreword | Inclusive Design Patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 art of marketing どうするか。
 芸当くらい?
@@ -13294,8 +13318,8 @@ http://www.dictionary.com/browse/radical
       <tuv lang="EN-US">
         <seg>Heydon clearly and comprehensively shows you how to use the web &lt;g1&gt;properly&lt;/g1&gt;; that is, how to take advantage of its built-in powers of reach, inclusivity and accessibility, so you don’t lock out any potential customer or visitor, regardless of how they choose to (or need to) access your content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170228T015024Z" creationid="rikiha" creationdate="20170228T015024Z">
-        <seg>Heydo¥n clearly and comprehensively shows you how to use the web &lt;g1&gt;properly&lt;/g1&gt;; that is, how to take advantage of its built-in powers of reach, inclusivity and accessibility, so you don’t lock out any potential customer or visitor, regardless of how they choose to (or need to) access your content.</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041316Z" creationid="rikiha" creationdate="20170228T015024Z">
+        <seg>ヘイドンがWebの正しい使い方を明確かつ包括的に解説してくれています。Webが内蔵する力、インクルーシビティとアクセシビリティを最大限に生かす方法を知れば、潜在的な顧客や訪問者を締め出すようなことはなくなります。彼らがあなたのコンテンツにどのような方法でアクセスしようとしていても（あるいはアクセスする必要があっても）関係ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13513,6 +13537,14 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170515T022021Z" creationid="yoota" creationdate="20170510T073008Z">
         <seg>ただし重要なことは、極端なケースを分離して考えないこと、そして特定のグループをターゲットにしないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, laws of libel prevent me from writing it here, so instead let me tell you about this book: it’s very good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041315Z" creationid="bakera" creationdate="20171005T041315Z">
+        <seg>ですが、そうした彼への賛辞は名誉毀損法の関係で書けないため、代わりにこの本について言わせてください。とにかくすばらしい本です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18055,6 +18087,14 @@ C・Googleなどがクロールする対象である、Webサイトの静的ペ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It’s a little unfortunate that Heydon didn’t accept some of my amendments to make his musical taste less — what’s the word?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041318Z" creationid="bakera" creationdate="20171005T041318Z">
+        <seg>？？少し残念なのは、音楽の趣味をもう少し、何と言うか、気まずくないものにした方がいいという私の修正案を、ヘイドンが受け入れてくれなかったことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 It’s a mixed bag がスルーされていますね。
 「いろいろあります」くらいでしょうか。あとで検討。
@@ -18836,12 +18876,28 @@ undesiredは「不要」よりもう少し強いかも。直訳すると望ま�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve always had a good word for Heydon Pickering.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041312Z" creationid="bakera" creationdate="20171005T041312Z">
+        <seg>私はこれまでもずっと、ヘイドン・ピカリングを「褒め称えて」きました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 下訳でOK</note>
       <tuv lang="EN-US">
         <seg>I’ve been stung too many times.</seg>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170418T104045Z" creationid="yoota" creationdate="20170418T104045Z">
         <seg>それで何度も痛い目にあってきましたから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve been writing about the same for many years, but I’ve still picked up a number of useful tips and tricks when reading through the drafts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041317Z" creationid="bakera" creationdate="20171005T041317Z">
+        <seg>原稿を最後まで読ませてもらいましたが、同じテーマを長年書いている私にも役立つヒントやコツがたくさん見つかりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19039,6 +19095,14 @@ Windowsのショートカットは、原文に併記しているところとそ�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170612T105146Z" creationid="yoota" creationdate="20170606T103526Z">
         <seg>キーボードが使えるかどうかをテストするときは、単にコントロールにタブ移動して、音声のフィードバックを聞いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just tweet &lt;g1&gt;me&lt;/g1&gt; if you want music suggestions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041324Z" creationid="bakera" creationdate="20171005T041324Z">
+        <seg>音楽に関するアドバイスが欲しい方は私にツイートを送ってくださいね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29474,6 +29538,14 @@ VoiceOverは! なんと!! しれっと「トリグラムフォーヘブン」な
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>There’s a load of useful advice contained in this book, and it would be really good if you were to follow it and make your corner of the web a better place for all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041321Z" creationid="bakera" creationdate="20171005T041321Z">
+        <seg>この本には有益なアドバイスがたくさん詰まっています。ぜひ参考にして、皆さんのWebサイトをすべての人にとってより良い場所にしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文にない括弧はやめたい。complianceは要求を満たすことで、準拠でも間違いではないが変ではあるので訳を検討したい。
 仕様では複数navigationが認められるが、複数あるとユーザーが混乱するという話。
@@ -35677,6 +35749,14 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170930T091212Z" creationid="bakera" creationdate="20170930T091212Z">
         <seg>it&lt;g29&gt;(&lt;/g29&gt;&lt;g30&gt;'3に1を加えた際、4になるべき'&lt;/g30&gt;&lt;g31&gt;,&lt;/g31&gt; &lt;g32&gt;function&lt;/g32&gt;&lt;g33&gt;(&lt;/g33&gt;&lt;g34&gt;)&lt;/g34&gt; &lt;g35&gt;{&lt;/g35&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>— embarrassing, but don’t let that put you off reading.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041319Z" creationid="bakera" creationdate="20171005T041319Z">
+        <seg>でも、だからと言って、読むのをやめたりしないでくださいね。？？【コメント：不安訳です。本文に音楽の要素が出てくるのかもしれません】</seg>
       </tuv>
     </tu>
     <tu>
