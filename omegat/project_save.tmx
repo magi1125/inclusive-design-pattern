@@ -2086,11 +2086,15 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+個人が「拠点を置く」というのは違和感があります。ドイツ南部で活動している、くらいかと。
+
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;Rodney Rehm&lt;/g1&gt; is a web developer based in southern Germany.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T043726Z" creationid="bakera" creationdate="20171005T043726Z">
-        <seg>ロドニー・レーム（Rodney Rehm）はドイツ南部に拠点を置くWeb開発者です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T044441Z" creationid="bakera" creationdate="20171005T043726Z">
+        <seg>&lt;g1&gt;ロドニー・レーム（Rodney Rehm）&lt;/g1&gt;はドイツ南部で活動しているWeb開発者です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6993,6 +6997,8 @@ SERPはこういう処理でどうでしょう。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+レビュアーとしました。</note>
       <tuv lang="EN-US">
         <seg>About The Reviewers</seg>
       </tuv>
@@ -7188,8 +7194,8 @@ HTMLがないとCSSやJSだけでは成立しないという話。
       <tuv lang="EN-US">
         <seg>After being a full-stack freelancer for a decade, he moved on to working on the front-ends of &lt;g2&gt;&lt;g3&gt;Qivicon&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;3&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, Deutsche Telekom’s Smart Home platform.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T043728Z" creationid="bakera" creationdate="20171005T043728Z">
-        <seg>10年間、フリーランスのフルスタックエンジニアとして働いた後、Deutsche Telekom（ドイツテレコム）のスマートホームプラットフォームQIVICON（キビコン）のフロントエンドエンジニアになりました。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T044526Z" creationid="bakera" creationdate="20171005T043728Z">
+        <seg>10年間、フリーランスのフルスタックエンジニアとして働いた後、Deutsche Telekom（ドイツテレコム）のスマートホームプラットフォーム&lt;g2&gt;&lt;g3&gt;QIVICON（キビコン）&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注3）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;のフロントエンドエンジニアになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13424,11 +13430,13 @@ http://www.dictionary.com/browse/radical
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+original recipeが抜けていたので足しました。</note>
       <tuv lang="EN-US">
         <seg>He’s almost entirely fueled by original recipe Guinness and Naga chillies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T043724Z" creationid="bakera" creationdate="20171005T043724Z">
-        <seg>そんな彼の燃料の大半はギネスとナガチリです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T044309Z" creationid="bakera" creationdate="20171005T043724Z">
+        <seg>そんな彼の燃料の大半は、オリジナルレシピのギネスとナガチリです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34152,11 +34160,14 @@ formとformのジョーク。どうしたものか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+微調整
+「ヘイドンは」をとりました。</note>
       <tuv lang="EN-US">
         <seg>When Heydon isn’t writing, coding or illustrating, he does some mental health campaigning, experiments with sound design, and thrashes out doom metal riffs on his detuned SG copy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T043723Z" creationid="bakera" creationdate="20171005T043723Z">
-        <seg>ヘイドンは文章やコードを書いたりイラストを描いているとき以外は、メンタルヘルスに関するキャンペーンを行ったり、サウンドデザインに挑戦したり、自分でデチューンしたSGのコピーギターでドゥームメタルのリフを繰り返し弾いています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T044232Z" creationid="bakera" creationdate="20171005T043723Z">
+        <seg>文章を書いたり、コードを書いたり、イラストを描いているとき以外は、メンタルヘルスに関するキャンペーンを行ったり、サウンドデザインに挑戦したり、自分でデチューンしたSGのコピーギターでドゥームメタルのリフを繰り返し弾いたりしています。</seg>
       </tuv>
     </tu>
     <tu>
