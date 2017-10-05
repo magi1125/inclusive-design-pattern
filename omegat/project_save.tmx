@@ -2101,8 +2101,8 @@ OK
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;Steve Faulkner&lt;/g1&gt; is the senior web accessibility consultant and technical director of TPG Europe.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T043730Z" creationid="bakera" creationdate="20171005T043730Z">
-        <seg>スティーブ・フォルクナー（Steve Faulkner）は、TPG EuropeのシニアWebアクセシビリティコンサルタント兼テクニカルディレクターです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T044945Z" creationid="bakera" creationdate="20171005T043730Z">
+        <seg>&lt;g1&gt;スティーブ・フォルクナー（Steve Faulkner）&lt;/g1&gt;は、TPG EuropeのシニアWebアクセシビリティコンサルタント兼テクニカルディレクターです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7191,11 +7191,14 @@ HTMLがないとCSSやJSだけでは成立しないという話。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+原著ではQiviconに (脚注 3.https://www.qivicon.com/en/) がついているようですが、意図的に落としたのでしょうか?
+ひとまず補いましたが脚注番号がかぶることになりました。</note>
       <tuv lang="EN-US">
         <seg>After being a full-stack freelancer for a decade, he moved on to working on the front-ends of &lt;g2&gt;&lt;g3&gt;Qivicon&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;3&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, Deutsche Telekom’s Smart Home platform.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T044605Z" creationid="bakera" creationdate="20171005T043728Z">
-        <seg>10年間、フリーランスのフルスタックエンジニアとして働いた後、ドイツテレコムのスマートホームプラットフォーム&lt;g2&gt;&lt;g3&gt;QIVICON（キビコン）&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注3）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;のフロントエンドエンジニアになりました。&lt;</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T044723Z" creationid="bakera" creationdate="20171005T043728Z">
+        <seg>10年間、フリーランスのフルスタックエンジニアとして働いた後、ドイツテレコムのスマートホームプラットフォーム&lt;g2&gt;&lt;g3&gt;Qivicon（キビコン）&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注3）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;のフロントエンドエンジニアになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13166,11 +13169,23 @@ a要素に→a要素には
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「ブラウザでlibsassを走らせ」という部分ですが、電子版では "libsass run in the browser" が脚注リンクになっているので、この部分はひとかたまりになるように約したいところです。そもそもlibsassはCで書かれているのでそのままではブラウザ上で走らないはずで、JSに移植しているのだと思います (https://github.com/medialize/sass.js/blob/master/README.md を見ると、emscripten でlibsassのコードをJSに変換した物をベースにしてい模様。http://sass-lang.com/libsass でもonly pure JavaScript implementation と書かれています)。
+と、総合的に考えると、ここは「ブラウザで動くlibsassを作った」とするのが良いように思います。
+※madeとcreatedが日本語だと両方とも「作った」になってしまうのは難点ですが、そこまでこだわらなくても良いかなと。
+
+また、原文は過去形ですが、日本語だとアクティブな実績を過去形で語るのもおかしいような気がするので、
+
+URI.js（脚注3）やアクセシビリティライブラリally.js（脚注4）を作ったり、ブラウザで動くlibsass（脚注5）を作ったり、世界初のbuggyfill（脚注6）を書いたりしています。
+
+という感じかなと思います。
+
+</note>
       <tuv lang="EN-US">
         <seg>He created &lt;g7&gt;&lt;g8&gt;URI.js&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;4&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt; and the &lt;g12&gt;&lt;g13&gt;ally.js&lt;/g13&gt;&lt;/g12&gt;&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;5&lt;/g16&gt;&lt;/g15&gt;&lt;/g14&gt; accessibility library, made &lt;g17&gt;&lt;g18&gt;libsass run in the browser&lt;/g18&gt;&lt;/g17&gt;&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;6&lt;/g21&gt;&lt;/g20&gt;&lt;/g19&gt; and wrote the world’s first &lt;g22&gt;&lt;g23&gt;buggyfill&lt;/g23&gt;&lt;/g22&gt;&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;7&lt;/g26&gt;&lt;/g25&gt;&lt;/g24&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T044653Z" creationid="bakera" creationdate="20171005T043729Z">
-        <seg>&lt;g7&gt;&lt;g8&gt;URI.js&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注3）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;とアクセシビリティライブラリ&lt;g12&gt;&lt;g13&gt;ally.js&lt;/g13&gt;&lt;/g12&gt;&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;（脚注4）&lt;/g16&gt;&lt;/g15&gt;&lt;/g14&gt;&lt;を作り、&lt;g17&gt;&lt;g18&gt;ブラウザでlibsassを走らせ&lt;/g18&gt;&lt;/g17&gt;&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;（脚注5）&lt;/g21&gt;&lt;/g20&gt;&lt;/g19&gt;、世界初の&lt;g22&gt;&lt;g23&gt;buggyfill&lt;/g23&gt;&lt;/g22&gt;&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;（脚注6）&lt;/g26&gt;&lt;/g25&gt;&lt;/g24&gt;を書きました。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T044922Z" creationid="bakera" creationdate="20171005T043729Z">
+        <seg>&lt;g7&gt;&lt;g8&gt;URI.js&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注3）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;とアクセシビリティライブラリ&lt;g12&gt;&lt;g13&gt;ally.js&lt;/g13&gt;&lt;/g12&gt;&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;（脚注4）&lt;/g16&gt;&lt;/g15&gt;&lt;/g14&gt;を作ったり、&lt;g17&gt;&lt;g18&gt;ブラウザ動くlibsass&lt;/g18&gt;&lt;/g17&gt;&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;（脚注5）&lt;/g21&gt;&lt;/g20&gt;&lt;/g19&gt;を作ったり、世界初の&lt;g22&gt;&lt;g23&gt;buggyfill&lt;/g23&gt;&lt;/g22&gt;&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;（脚注6）&lt;/g26&gt;&lt;/g25&gt;&lt;/g24&gt;を書いたりしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13196,8 +13211,8 @@ a要素に→a要素には
       <tuv lang="EN-US">
         <seg>He joined the &lt;g2&gt;&lt;g3&gt;Paciello Group&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; in 2006 and was previously a senior web accessibility consultant at &lt;g7&gt;&lt;g8&gt;Vision Australia&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;9&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T043731Z" creationid="bakera" creationdate="20171005T043731Z">
-        <seg>2006年にThe Paciello Groupに入り、Vision Australia（脚注7）ではシニアWebアクセシビリティコンサルタントも務めました。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T045033Z" creationid="bakera" creationdate="20171005T043731Z">
+        <seg>2006年に&lt;g2&gt;&lt;g3&gt;Paciello Group&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注8）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;に入り、&lt;g7&gt;&lt;g8&gt;Vision Australia&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注7）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;ではシニアWebアクセシビリティコンサルタントも務めました。</seg>
       </tuv>
     </tu>
     <tu>
