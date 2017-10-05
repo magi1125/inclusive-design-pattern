@@ -2031,6 +2031,18 @@ OK
     </tu>
     <tu>
       <note>(太田)
+ここの "utilitarian" はおそらく功利主義ではなく実用的のほうで、(アートではない) 実用的なデザインをするデザイナー、というようなニュアンスかと思います。日本語でなんていうのですかね。
+
+</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;Heydon Pickering&lt;/g1&gt; is a utilitarian designer, writer and public speaker, the &lt;g2&gt;&lt;g3&gt;accessibility editor for Smashing Magazine&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;1&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, and a consultant working with the &lt;g7&gt;&lt;g8&gt;Paciello Group&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;2&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043642Z" creationid="bakera" creationdate="20171005T043642Z">
+        <seg>&lt;g1&gt;ヘイドン・ピカリング（Heydon Pickering）&lt;/g1&gt;は実用デザイナー兼ライターで、講演も行っています。また&lt;g2&gt;&lt;g3&gt;「Smashing Magazine」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注1）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;のアクセシビリティ担当エディターで、&lt;g7&gt;&lt;g8&gt;The Paciello Group&lt;/g8&gt;&lt;/g7&gt;&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;（脚注2）&lt;/g11&gt;&lt;/g10&gt;&lt;/g9&gt;のコンサルタントも務めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
 タイトルは英語のままで良いでしょうか。
 いったんママにしていますが、架空のタイトルなので訳したほうがいいかも?
 
@@ -6954,6 +6966,14 @@ SERPはこういう処理でどうでしょう。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T024101Z" creationid="yoota" creationdate="20170908T021756Z">
         <seg>サイトが適切にインデックス化されていれば、SERP (search engine results pages、検索エンジンの検索結果ページ)  にも商品が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>About The Author</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043438Z" creationid="bakera" creationdate="20171005T043438Z">
+        <seg>著者について</seg>
       </tuv>
     </tu>
     <tu>
