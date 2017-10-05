@@ -13315,11 +13315,20 @@ http://www.dictionary.com/browse/radical
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「内蔵」はないですね。Webが本来持つ力、くらいかと。
+厳密には powers of reach なので「到達させる力」というような感じですが、reachは落としても通じるのでそこはこのままで良いと思います。
+
+inclusivityはそのままカタカナで良いのでしょうか。
+インクルーシブ性?
+
+後半がまた微妙ですね。regardless以降を別の文にしていますが、本来は「どのような方法でアクセスしようとしているかに関わらず……」という句がくっついてくる感じです。とはいえ長すぎるので2文にするという判断はあるかと思いますが、その場合、soの前で切るほうが良いような気がしています。
+</note>
       <tuv lang="EN-US">
         <seg>Heydon clearly and comprehensively shows you how to use the web &lt;g1&gt;properly&lt;/g1&gt;; that is, how to take advantage of its built-in powers of reach, inclusivity and accessibility, so you don’t lock out any potential customer or visitor, regardless of how they choose to (or need to) access your content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T041316Z" creationid="rikiha" creationdate="20170228T015024Z">
-        <seg>ヘイドンがWebの正しい使い方を明確かつ包括的に解説してくれています。Webが内蔵する力、インクルーシビティとアクセシビリティを最大限に生かす方法を知れば、潜在的な顧客や訪問者を締め出すようなことはなくなります。彼らがあなたのコンテンツにどのような方法でアクセスしようとしていても（あるいはアクセスする必要があっても）関係ありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041820Z" creationid="rikiha" creationdate="20170228T015024Z">
+        <seg>ヘイドンがWebの&lt;g1&gt;価値&lt;/g1&gt;を明確かつ包括的に解説してくれています。Webが本来持つ力、インクルーシビティとアクセシビリティを最大限に生かす方法を知れば、潜在的な顧客や訪問者を締め出すようなことはなくなります。彼らがあなたのコンテンツにどのような方法でアクセスしようとしていても（あるいはアクセスする必要があっても）関係ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13543,8 +13552,8 @@ any をほとんどに直すか、訳注か。まあ訳注ですかね。
       <tuv lang="EN-US">
         <seg>However, laws of libel prevent me from writing it here, so instead let me tell you about this book: it’s very good.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T041315Z" creationid="bakera" creationdate="20171005T041315Z">
-        <seg>ですが、そうした彼への賛辞は名誉毀損法の関係で書けないため、代わりにこの本について言わせてください。とにかくすばらしい本です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T041724Z" creationid="bakera" creationdate="20171005T041315Z">
+        <seg>ですが、そうした彼への賛辞をそのまま書くと名誉毀損になるため、代わりにこの本について言わせてください。とにかくすばらしい本です。</seg>
       </tuv>
     </tu>
     <tu>
