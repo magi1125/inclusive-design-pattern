@@ -1974,8 +1974,8 @@ unpick は縫い目を解くような意味。
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;Bruce Lawson&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, Deputy CTO, Opera</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T041331Z" creationid="bakera" creationdate="20171005T041331Z">
-        <seg>Opera 副CTO、ブルース・ローソン（Bruce Lawson）</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T043010Z" creationid="bakera" creationdate="20171005T041331Z">
+        <seg>Opera 副CTO、&lt;g1&gt;&lt;g2&gt;ブルース・ローソン（Bruce Lawson）&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18096,8 +18096,8 @@ C・Googleなどがクロールする対象である、Webサイトの静的ペ�
       <tuv lang="EN-US">
         <seg>It’s a little unfortunate that Heydon didn’t accept some of my amendments to make his musical taste less — what’s the word?</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T042711Z" creationid="bakera" creationdate="20171005T041318Z">
-        <seg>少し残念なのは、趣味の音楽ネタをもう少し減らすべきではないか、というなんとも気まずい私の忠告を、ヘイドンが受け入れてくれなかったことです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T042821Z" creationid="bakera" creationdate="20171005T041318Z">
+        <seg>少し残念なのは、趣味の音楽ネタをもう少し減らすべきではないか、という――なんとも気まずい――私の忠告を、ヘイドンが受け入れてくれなかったことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19104,11 +19104,13 @@ Windowsのショートカットは、原文に併記しているところとそ�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+たぶんこういうこと。</note>
       <tuv lang="EN-US">
         <seg>Just tweet &lt;g1&gt;me&lt;/g1&gt; if you want music suggestions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171005T041324Z" creationid="bakera" creationdate="20171005T041324Z">
-        <seg>音楽に関するアドバイスが欲しい方は私にツイートを送ってくださいね。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171005T042956Z" creationid="bakera" creationdate="20171005T041324Z">
+        <seg>音楽ネタに関する指摘があったら、&lt;g1&gt;私に&lt;/g1&gt;ツイートしてくださいね。</seg>
       </tuv>
     </tu>
     <tu>
