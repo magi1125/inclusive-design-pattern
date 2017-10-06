@@ -14032,7 +14032,11 @@ thanks to は「ありがたいことに」としました。
 (太田)
 訳としてはあっているので、まあ、訳注ですかね?
 
-(伊原) はい、参考としての拡張機能内のコードの紹介であって自分が書くものではない点が伝わればと。お願い致します。</note>
+(伊原) はい、参考としての拡張機能内のコードの紹介であって自分が書くものではない点が伝わればと。お願い致します。
+
+(土屋さん) 「開発者ツール」でしょうか。
+
+(伊原) 上記は訳注に対するコメント。また訳注の位置がコードの下になっているので、「以下のコードは〜」がおかしくなっている</note>
       <tuv lang="EN-US">
         <seg>However, thanks to the extension’s omission of the &lt;g1&gt;.has-ignorable-error&lt;/g1&gt; class, the most common unrecognized properties — browser prefixes — are not styled this way.</seg>
       </tuv>
