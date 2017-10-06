@@ -21249,7 +21249,8 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
       <note>(伊原) 微調整。
 
 (伊原) OK
-</note>
+
+(伊原) 読み上げ部分置き換えが必要</note>
       <tuv lang="EN-US">
         <seg>Not only is the link easy to style via the &lt;g1&gt;[href="#main"]&lt;/g1&gt; attribute selector, but its behavior is communicated to assistive technologies: on focusing the home link, “Home, link” will be announced.</seg>
       </tuv>
