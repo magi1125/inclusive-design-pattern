@@ -14751,7 +14751,11 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 (太田)
 確かに例として文の外に出ているるわけではないのでわかりにくいですね。
 「HTML5での方法は先に挙げたとおりです」
-としてみました。</note>
+としてみました。
+
+(土屋さん) 「上の例」と書いてあって、ちょっと探してしまいました。冗長ですが、&lt;!DOCTYPE html&gt; と明記するのもありかもしれません？？
+
+(伊原) 太田さんの調整でOK？</note>
       <tuv lang="EN-US">
         <seg>If the doctype tells the browser what &lt;g1&gt;kind&lt;/g1&gt; of document it is serving (HTML5 in the above example), then the &lt;g2&gt;&lt;html&gt;&lt;/g2&gt; element’s &lt;g3&gt;lang&lt;/g3&gt; attribute tells it which language it is written in.</seg>
       </tuv>
