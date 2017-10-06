@@ -20222,7 +20222,10 @@ manageは管理で良いような。
     <tu>
       <note>(太田)
 
-(伊原) OK</note>
+(伊原) OK
+
+(土屋さん) 「※192」は註釈の番号でしょうか？（であれば上付き文字に）
+また、地 にこの番号に対応した註釈が無いようです。</note>
       <tuv lang="EN-US">
         <seg>Lodash’s &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;_.debounce&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;19&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; utility accepts a &lt;g7&gt;wait&lt;/g7&gt; parameter.</seg>
       </tuv>
@@ -22192,7 +22195,9 @@ willで未来形なので「出現するようになります」としました�
 
 (伊原) OK
 
-(岡本)　欄→らん</note>
+(岡本)　欄→らん
+
+(土屋さん) 「入力欄」ですね。</note>
       <tuv lang="EN-US">
         <seg>Now, when a screen reader user focuses the input, this accessible description will be read out after the label, current value, input type and (invalid) state information.</seg>
       </tuv>
