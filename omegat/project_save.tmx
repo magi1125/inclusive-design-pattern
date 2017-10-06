@@ -1610,8 +1610,6 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
       </tuv>
     </tu>
     <tu>
-      <note>(伊原)【要修正】
-初校PDFで0292〜0294のコード抜け。代わりに0296〜0297がはまっている。さらにそのはまっているものもセレクタ名が間違って記載されている。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;blockquote&lt;/g3&gt; &lt;g5&gt;lang&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"fr"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;</seg>
       </tuv>
@@ -12425,7 +12423,12 @@ http://www.w3.org/TR/CSS22/text.html#alignment-prop
       <note>(太田) 前の章で「以下のように」としていたのでそろえました。
 「部分的に」は原文にないように思います。補う必要もないように思いましたので省きました。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(土屋さん) この後に CSS の記述例が出ますが、その前に HTML の記述例 (部分的に lang 属性が適用されている例) があったりしますか？？
+
+(伊原)【要修正】
+初校PDFで0292〜0294のコード抜け。代わりに0296〜0297がはまっている。さらにそのはまっているものもセレクタ名が間違って記載されている。</note>
       <tuv lang="EN-US">
         <seg>For instance, I may want to quote some French within an English language page:</seg>
       </tuv>
