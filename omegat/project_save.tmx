@@ -949,7 +949,7 @@ by は byのままでいいかもしれません。
     <tu>
       <note>(川本さん) この余白はわざとでしょうか？
 
-(伊原) time要素直前の半角スペースのこと（2箇所）。</note>
+(伊原) time要素直前の半角スペースのこと。</note>
       <tuv lang="EN-US">
         <seg>&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;div&lt;/g11&gt; &lt;g13&gt;class&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"meta"&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g10&gt;Published on &lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;time&lt;/g18&gt; &lt;g20&gt;datetime&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"2017-12-12"&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g17&gt;12/12/2017&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;/&lt;/g26&gt;time&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;&lt;g28&gt;&lt;g29&gt;&lt;g30&gt;&lt;/&lt;/g30&gt;div&lt;/g29&gt;&lt;g31&gt;&gt;&lt;/g31&gt;&lt;/g28&gt;</seg>
       </tuv>
@@ -5035,6 +5035,9 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(川本さん) この余白はわざとでしょうか？
+
+(伊原) time要素直前の半角スペースのこと。</note>
       <tuv lang="EN-US">
         <seg>&lt;g53&gt;&lt;g54&gt;&lt;g55&gt;&lt;&lt;/g55&gt;h1&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g53&gt;How To Mark Up Inclusive Blog Articles&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;h1&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;</seg>
       </tuv>
