@@ -947,6 +947,9 @@ by は byのままでいいかもしれません。
       </tuv>
     </tu>
     <tu>
+      <note>(川本さん) この余白はわざとでしょうか？
+
+(伊原) time要素直前の半角スペースのこと（2箇所）。</note>
       <tuv lang="EN-US">
         <seg>&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;div&lt;/g11&gt; &lt;g13&gt;class&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"meta"&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g10&gt;Published on &lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;time&lt;/g18&gt; &lt;g20&gt;datetime&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"2017-12-12"&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g17&gt;12/12/2017&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;/&lt;/g26&gt;time&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;&lt;g28&gt;&lt;g29&gt;&lt;g30&gt;&lt;/&lt;/g30&gt;div&lt;/g29&gt;&lt;g31&gt;&gt;&lt;/g31&gt;&lt;/g28&gt;</seg>
       </tuv>
@@ -1536,6 +1539,7 @@ body:lang(fr) {
       </tuv>
     </tu>
     <tu>
+      <note>(川本さん) コードはページまたぎしない方が見やすいです。二行ほどなら、次のページにまとめられないでしょうか？</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- don’t use this --&gt;&lt;/g2&gt;
 &lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;main&lt;/g4&gt; &lt;g6&gt;id&lt;/g6&gt;&lt;g7&gt;&lt;g8&gt;=&lt;/g8&gt;"main"&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g3&gt;</seg>
