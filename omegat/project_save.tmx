@@ -90,7 +90,11 @@ https://allyjs.io/api/fix/pointer-focus-children.html を見ると、flexコン�
     <tu>
       <note>(伊原) OK
 
-(太田) Ok</note>
+(太田) Ok
+
+(土屋さん) XMLのタグ？が消し忘れで残ってしまっている？
+
+(伊原) 初校PDFで&lt;g2&gt;&lt;/g2&gt;が出てしまっている</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note&lt;/g1&gt;: This automatic reversal is also true of &lt;g2&gt;&lt;table&gt;&lt;/g2&gt; elements which switch their column order.</seg>
       </tuv>
