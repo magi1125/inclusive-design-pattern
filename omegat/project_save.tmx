@@ -2169,7 +2169,9 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>(土屋さん) セレクタ表記の &lt; 記号は不要？</note>
+      <note>(土屋さん) セレクタ表記の &lt; 記号は不要？
+
+(伊原) 初校PDFで&lt;記号が出てしまっている。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;main &lt;/g2&gt;&lt;g3&gt;{&lt;/g3&gt;</seg>
       </tuv>
@@ -18067,7 +18069,11 @@ OK
       <note>(太田) 大事なことなので2回言いました?
 原文は前半後半全く同一なので、訳でも同一のほうがいいかも。
 
-(伊原) LGTM. 何がいいたいのかわからなくはないですが、謎ですね。</note>
+(伊原) LGTM. 何がいいたいのかわからなくはないですが、謎ですね。
+
+(土屋さん) 「と同時に」の前後が同じです。高難易度のヘイドンフレーズだったりして...！？！？
+
+(伊原) ビンゴ。やはり微妙ですね…</note>
       <tuv lang="EN-US">
         <seg>It gives us the freedom to exercise our creativity, and it &lt;g1&gt;gives us the freedom to exercise our creativity&lt;/g1&gt;.</seg>
       </tuv>
