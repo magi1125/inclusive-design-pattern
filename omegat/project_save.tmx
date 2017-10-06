@@ -10025,7 +10025,6 @@ Tabの件は了解です、ありがとうございます。</note>
 ・レスポンシブ"して"とあるが、レスポンシブという単語は動詞ではない
 ・レスポンシブという言葉について説明がない
 ので違和感があります。
-
 レスポンシブという言葉を使わずに書かれているとわかりやすいかもしれません。</note>
       <tuv lang="EN-US">
         <seg>By designing documents that can respond and adapt to their environment, they become compatible with the ever proliferating choice of devices on the market.</seg>
@@ -32133,7 +32132,14 @@ JIS X 8341-3 では、この "name" に「名前(name)」という苦しい訳�
 
 (太田)
 要検討ですね。
-Accessible Nameのママでもいいのかも。</note>
+Accessible Nameのママでもいいのかも。
+
+(高橋さん) &gt; 本書にはアクセシブルな名前 (name)の話がたびたび出てきます
+は、
+・titleの話がたびたび出てくるのか
+・アクセシブルな名前(titleや、他の要素)の話がたびたび出てくるのか
+どちらなのかわからない
+(読み進めていくと、後者を指すのかな、、とは思いましたが)</note>
       <tuv lang="EN-US">
         <seg>Throughout this book you’ll hear a lot about &lt;g3&gt;accessible names&lt;/g3&gt;.</seg>
       </tuv>
