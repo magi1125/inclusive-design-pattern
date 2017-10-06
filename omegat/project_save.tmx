@@ -1611,7 +1611,7 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
     </tu>
     <tu>
       <note>(伊原)【要修正】
-初校PDFで0292〜0294のコード抜け。代わりに</note>
+初校PDFで0292〜0294のコード抜け。代わりに0296〜0297がはまっている。さらにそのはまっているものもセレクタ名が間違って記載されている。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;blockquote&lt;/g3&gt; &lt;g5&gt;lang&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"fr"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;</seg>
       </tuv>
