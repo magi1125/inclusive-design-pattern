@@ -16692,6 +16692,8 @@ well-matched はよくマッチするということで、システムフォン�
 
 (高橋さん) これは前の章のline-heightをピクセルで指定した例の文ではないでしょうか
 
+(土屋さん) （不要な文言を指して）トルツメ？
+
 (伊原) 初校PDFで間違った段落が挟まっている</note>
       <tuv lang="EN-US">
         <seg>In short:</seg>
@@ -27311,6 +27313,8 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
 (土屋さん) もしかしたら **iOS の** VoiceOver 限定の話かも？
 
 土屋の手元の iPhone (iOS11, Safari, VoiceOver) と MacBook Pro (macOS Sierra, Safari 11, VoiceOver) とで確認したところ、iPhone ではたしかに article 要素をランドマークとして扱う挙動をしていましたが、Mac では特にそういう挙動は見られませんでした。
+
+(伊原) 上記は訳注へのコメント
 </note>
       <tuv lang="EN-US">
         <seg>The JAWS screen reader (and &lt;g3&gt;only&lt;/g3&gt; the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
