@@ -1498,6 +1498,20 @@ p {</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(土屋さん) この例は
+
+body:lang(fr) {
+ (中略)
+} 
+
+...でしょうか？
+
+(伊原) 初校PDFで間違ったセレクタになっている。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;:lang(fr) &lt;/g2&gt;&lt;g3&gt;{&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- do not use --&gt;&lt;/g2&gt;
 &lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;hgroup&lt;/g4&gt;&lt;g6&gt;&gt;&lt;/g6&gt;&lt;/g3&gt;</seg>
