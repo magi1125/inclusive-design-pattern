@@ -34145,7 +34145,10 @@ http://www.w3.org/TR/css3-cascade/#cascading-origins ではなく、
 https://www.w3.org/TR/css-cascade-3/#cascading-origins が正のURLです。
 余談として、https://www.w3.org/TR/css-cascade-4/#cascading-origins なんてのもあります。どちらを選んでも問題ないと思います。
 
-</note>
+(川本さん) 「大ざっぱに言ってしまえば、どんな要素も幅や高さを固定すべきで
+はありません。ボックスに柔軟性があれば、同じコンテンツでさまざまなスペースに対応できます。」
+を指しているのであれば「そのように」でしょうか。
+「このように」であればどこかに例か図があるように思ってしまいそうです。</note>
       <tuv lang="EN-US">
         <seg>Web pages behave like this without author CSS, and should continue to respect this fundamental behavior where CSS is included.</seg>
       </tuv>
