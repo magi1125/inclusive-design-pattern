@@ -24565,7 +24565,9 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 次のページでした！遡ってました。
 でも、この言い回しではわかりにくいですね。"次のサンプルの「スタート」というラベル" などはどうでしょう
 
-(川本さん) すいません、よく意味がわかりませんでした。「cssプレゼンテーション層」で検索しても出てこないようで。</note>
+(川本さん) すいません、よく意味がわかりませんでした。「cssプレゼンテーション層」で検索しても出てこないようで。
+&lt;button&gt;文字&lt;/button&gt;
+これだと背景画像扱いになるんですか？</note>
       <tuv lang="EN-US">
         <seg>Since the button’s label of “Start” is in a background image as part of CSS’s presentation layer, this too is unavailable to assistive technologies.</seg>
       </tuv>
