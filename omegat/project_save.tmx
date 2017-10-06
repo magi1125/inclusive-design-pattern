@@ -17270,7 +17270,11 @@ becauseを訳出しました。
       <note>(太田)
 全体少し調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(高橋さん) &lt;h2&gt;の間違いでしょうか 
+
+(伊原) 初校PDFでtypo</note>
       <tuv lang="EN-US">
         <seg>In the following example, the text node “Contents” (of the &lt;g2&gt;&lt;h2&gt;&lt;/g2&gt;) becomes the label of the region using its &lt;g3&gt;id&lt;/g3&gt; as the &lt;g4&gt;aria-labelledby&lt;/g4&gt; value.</seg>
       </tuv>
