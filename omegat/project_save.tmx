@@ -28939,7 +28939,10 @@ https://www.google.com/get/noto/</note>
 (太田)
 Good!
 
+(川本さん) なんとなくわかってきましたが、これって &lt;strong&gt;内容&lt;/strong&gt;みたいに意味づけをしているわけですね。
+&lt;div&gt;等の他のものが、単体で扱われているのに突然マークアップ的な使われ方をしたので、認識するのに時間がかかりました。
 
+(伊原) 初校PDFでomegaTのタグが出てしまっていることに対するコメント
 </note>
       <tuv lang="EN-US">
         <seg>The problem with this contrived and fragmented way of evaluating interfaces is that nobody has the chance to point out and avoid what are simply &lt;g1&gt;bad ideas&lt;/g1&gt;, like using a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; as a button control.</seg>
