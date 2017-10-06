@@ -32700,7 +32700,11 @@ oursが何を指すのかがイマイチ謎。フィルターウィジェット�
 
 (太田) hasLayoutバグは解説必要?
 
-(伊原) おお、あまりに当たり前すぎていて訳注の必要性に気づきませんでした。必要ですね。</note>
+(伊原) おお、あまりに当たり前すぎていて訳注の必要性に気づきませんでした。必要ですね。
+
+(高橋さん) hasLayoutバグがシーケンシャルフォーカスナビゲーションにどういった関係があるのか、訳註に書かれていると親切だと思います。
+
+(伊原) 上記は訳注に対するコメント</note>
       <tuv lang="EN-US">
         <seg>To make sequential focus navigation work in Internet Explorer, you have to overcome a longstanding &lt;g6&gt;hasLayout&lt;/g6&gt; bug.</seg>
       </tuv>
