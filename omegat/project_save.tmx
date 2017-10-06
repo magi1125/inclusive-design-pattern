@@ -34603,7 +34603,11 @@ formとformのジョーク。どうしたものか。
 
 冒頭の「Webサイト、」は強調されすぎのように思います。JSでレンダリングしているサイトもWebサイトですし。「～などのサイトは」で良いように思います。
 
-print は「出力」ではなく「表示」で良いと思います。</note>
+print は「出力」ではなく「表示」で良いと思います。
+
+(川本さん) 利用したことはありませんが、この辺の伝えようとしていることは理解できます。
+
+(伊原) 上記はcurlコマンドへのコメント。</note>
       <tuv lang="EN-US">
         <seg>When a site like &lt;g1&gt;&lt;g2&gt;smashingmagazine.com&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;13&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; sends prerendered content to the client, I can print that content to my console using the &lt;g6&gt;curl&lt;/g6&gt; command.</seg>
       </tuv>
