@@ -1600,7 +1600,12 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
       </tuv>
     </tu>
     <tu>
-      <note>(岡本) 以下のコードのコメントは和訳する必要はない？</note>
+      <note>(岡本) 以下のコードのコメントは和訳する必要はない？
+
+(土屋さん) ソースコード内のコメントは、和訳しなくても、まあ、いいですかね。
+
+(伊原) ここ和訳必要ですね
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!DOCTYPE html&gt;&lt;/g2&gt;
 &lt;g3&gt;&lt;!-- the main language of the page declared --&gt;&lt;/g3&gt;
