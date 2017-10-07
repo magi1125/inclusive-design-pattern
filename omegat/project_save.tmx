@@ -27279,7 +27279,11 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 米国の学校の学年で評価します、だと「学年で評価します」という意味合いになってしまうので、評価の尺度が学年であるとわかるように補いました。</note>
+      <note>(伊原) 米国の学校の学年で評価します、だと「学年で評価します」という意味合いになってしまうので、評価の尺度が学年であるとわかるように補いました。
+
+(もんどさん)
+Flesch-Kincaidリーダビリティテストは、当然ながら英文を念頭に置いた手法と思われますが、これはこのまま日本語に使用できるのかどうか、というのは訳註があってもよいと思いました。
+</note>
       <tuv lang="EN-US">
         <seg>The &lt;g2&gt;Flesch-Kincaid grade level&lt;/g2&gt; test is similar but produces a US school grade level.</seg>
       </tuv>
