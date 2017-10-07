@@ -26333,12 +26333,20 @@ http://thesaurus.weblio.jp/content/役どころ
 It is to be expected that WCAG is organized by principle.
 となり、「WCAGが原則ごとに整理されているのは当然のことです」という話かと思います。
 
-(伊原) ナルホド。OKです</note>
+(伊原) ナルホド。OKです
+
+(もんどさん)
+&gt; WCAGが4 つの原則─知覚可能、操作可能、理解可能、堅牢─ごとに整理されているのは当然のことです。
+WAIC WCAG 2.0訳では「堅牢性」と訳されています。
+
+(太田)
+JISだと「堅ろう」なのですよね。
+とはいえWAIC側にあわせましょう。む</note>
       <tuv lang="EN-US">
         <seg>That WCAG is organized by principle — &lt;g1&gt;perceivable&lt;/g1&gt;, &lt;g2&gt;operable&lt;/g2&gt;, &lt;g3&gt;understandable&lt;/g3&gt;, &lt;g4&gt;robust&lt;/g4&gt; — is to be expected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170707T063044Z" creationid="rikiha" creationdate="20170702T150402Z">
-        <seg>WCAGが4つの原則――&lt;g1&gt;知覚可能&lt;/g1&gt;、&lt;g2&gt;操作可能&lt;/g2&gt;、&lt;g3&gt;理解可能&lt;/g3&gt;、&lt;g4&gt;堅牢&lt;/g4&gt;――ごとに整理されているのは当然のことです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171007T070608Z" creationid="rikiha" creationdate="20170702T150402Z">
+        <seg>WCAGが4つの原則――&lt;g1&gt;知覚可能&lt;/g1&gt;、&lt;g2&gt;操作可能&lt;/g2&gt;、&lt;g3&gt;理解可能&lt;/g3&gt;、&lt;g4&gt;堅牢性&lt;/g4&gt;――ごとに整理されているのは当然のことです。</seg>
       </tuv>
     </tu>
     <tu>
