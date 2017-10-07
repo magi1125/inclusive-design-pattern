@@ -32994,7 +32994,7 @@ oursが何を指すのかがイマイチ謎。フィルターウィジェット�
 IE7はもはやレガシーブラウザなので、ここまで厚く記述する必要があるのかどうか。それとは別に、IE11にどう影響するのか明記した方がよいのでは。
 
 (太田)
-むしろ訳注とりますかね?</note>
+IE11にはさすがに影響しないはず (EmulateIEがなければ)。</note>
       <tuv lang="EN-US">
         <seg>To make sequential focus navigation work in Internet Explorer, you have to overcome a longstanding &lt;g6&gt;hasLayout&lt;/g6&gt; bug.</seg>
       </tuv>
