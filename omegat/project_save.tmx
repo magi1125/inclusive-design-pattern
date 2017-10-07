@@ -22396,7 +22396,24 @@ HTML elements とあるのははおそらく原著の誤りで、HTML Imports �
 
 (岡本) Compnents→Components
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+コード例では、Custom Elements v0が使用されているコードもあるようですがGoogle Developersの記事[1]によれば、v0は非推奨となっているようで、これに関する訳注はあったほうがよいと思われます。
+
+[1] https://developers.google.com/web/fundamentals/getting-started/primers/customelements?hl=ja#historysupport
+
+&gt; Web Componentsの4 つの機能、Shadow DOM、Custom Elements、HTML Imports、HTML Templatesの中で、
+この4つの構成要素自体に誤りはありませんが、少なくともMozillaはHTML Importsを安定版で機能を提供する計画にありません。[2][3][4] 訳註に含めるべきかどうかは判断しかねますが、少なくともそのことを念頭に置いておいた方がよいでしょう。
+
+[2] https://developer.mozilla.org/en-US/docs/Web/Web_Components/HTML_Imports
+[3] https://hacks.mozilla.org/2015/06/the-state-of-web-components/
+[4] https://hacks.mozilla.org/2014/12/mozilla-and-web-components/
+
+(太田)
+v0が古いということはまあわかると思うので、訳注なしとしたいと思います。
+
+</note>
       <tuv lang="EN-US">
         <seg>Of the Shadow DOM, Custom Elements, HTML elements, and HTML templates specifications, only &lt;g6&gt;&lt;g7&gt;Custom Elements&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;6&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; and (to a lesser extent) &lt;g11&gt;&lt;g12&gt;Shadow DOM&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;7&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt; directly pose potential problems.</seg>
       </tuv>
@@ -31158,7 +31175,7 @@ obsolete は時代遅れというか、もはや必要なくなる的な話で�
 「修整」はこれでよい？
 
 (太田)
-修正で。</note>
+修正に修正。</note>
       <tuv lang="EN-US">
         <seg>This is an effective way to make my role as a remediator obsolete and, like Joe, I welcome it.</seg>
       </tuv>
