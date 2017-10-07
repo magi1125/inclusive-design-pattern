@@ -2659,7 +2659,13 @@ JISではbypass block を「ブロックスキップ」としています。
     <tu>
       <note>(太田) 原文は一文なので一文にしました。distinctは識別できるというより区別できるという感じでしょうか。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(もんどさん)
+また、箇条書きの3つ目の項目は、おそらくglyphのことを指していると思いますが、字形なりグリフなり、用語で指し示した方がよいのではないかと思いました。
+
+(太田)
+原文letterformsなのでママとします。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Are individual letterforms distinct in shape or can they be confused with others?</seg>
       </tuv>
@@ -27597,8 +27603,8 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
 原文がわからないので何とも言いがたいですが、仮に原文がfontであるならば、「フォント」にした方が読者に馴染みがあるのではないでしょうか。
 「書体」とするならば、同ページ図の説明の「サンセリフフォントは」を書体に変更すべきです。
 
-また、箇条書きの3つ目の項目は、おそらくglyphのことを指していると思いますが、字形なりグリフなり、用語で指し示した方がよいのではないかと思いました。
-</note>
+(太田)
+原文 Typeface なのでママとします。</note>
       <tuv lang="EN-US">
         <seg>The Typeface</seg>
       </tuv>
