@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27591,7 +27591,14 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+(もんどさん)
+原文がわからないので何とも言いがたいですが、仮に原文がfontであるならば、「フォント」にした方が読者に馴染みがあるのではないでしょうか。
+「書体」とするならば、同ページ図の説明の「サンセリフフォントは」を書体に変更すべきです。
+
+また、箇条書きの3つ目の項目は、おそらくglyphのことを指していると思いますが、字形なりグリフなり、用語で指し示した方がよいのではないかと思いました。
+</note>
       <tuv lang="EN-US">
         <seg>The Typeface</seg>
       </tuv>
