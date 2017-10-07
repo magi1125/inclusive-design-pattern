@@ -30415,7 +30415,18 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
 &gt;text-decoration-skip: ink がサポートされるようになりました。これにより、ディセンダー（文字がテキストのベースラインより下にはみ出る部分）の下線をスキップできます。
 
 ということで訳注をもうひとつ追加しました。こちらの訳注はこの節の末尾 (コードの下、「フォーカスを示す」見出しの前) に入れる想定です。
-</note>
+
+(もんどさん)
+&gt; このスタイルは、&lt;!--[if lte IE 9]&gt;&lt;html class="ie-lte-9"&gt;&lt;![endif]--&gt; のようなコードが書かれていることを前提としています
+条件付きコメントという語に触れてもよいかもしれませんが、（コンシューマー向けWindowsに搭載された）IE9はWindows Vistaのサポート終了に伴い、もはやサポートされません[1][2]。
+
+[1] https://support.microsoft.com/ja-jp/help/17454/lifecycle-faq-internet-explorer
+[2] https://support.microsoft.com/ja-jp/help/22882/windows-vista-end-of-support
+
+(太田)
+サポートされないのはその通りなのですが、ヘイドンさんがIE9のためのフォールバックの話をしているという全体なのでフォローが難しいです。
+訳注を「これはIE9以下に対応させる場合の話で、」くらい
+にしておきましょうか。</note>
       <tuv lang="EN-US">
         <seg>These should have a &lt;g4&gt;text-decoration&lt;/g4&gt; fallback:</seg>
       </tuv>
