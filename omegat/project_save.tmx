@@ -16897,12 +16897,19 @@ no focus style はフォーカスが見えないことを指すのか、スタ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 後半のmeasureは「測る」のほうだと思われるので、調整しました。またshouldのニュアンスを追加。</note>
+      <note>(伊原) 後半のmeasureは「測る」のほうだと思われるので、調整しました。またshouldのニュアンスを追加。
+
+(もんどさん)
+&gt; テキスト(下の「均等割り付け」を参照)
+このページで「下」にあるというわけではないので別の言い方にしてはどうでしょうか。
+
+(太田)
+「後述の」としましょう。</note>
       <tuv lang="EN-US">
         <seg>In text that isn’t justified (see “Justification” below) this will vary, so you should measure the longest line of a sample paragraph.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170515T031421Z" creationid="yoota" creationdate="20170510T080044Z">
-        <seg>均等割り付けされていないテキスト（下の「均等割り付け」を参照）では、これはバラバラになります。このため、サンプルパラグラフにおける最も長い行を測るようにします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171007T045744Z" creationid="yoota" creationdate="20170510T080044Z">
+        <seg>均等割り付けされていないテキスト（後述の「均等割り付け」を参照）では、これはバラバラになります。このため、サンプルパラグラフにおける最も長い行を測るようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18984,10 +18991,6 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
 (太田)
 ここのreading disordersはもっとひろく、読むことに関しての何らかの障害、というようなニュアンスでしょうね。訳語を変更したほうが良いかもしれません。
 「読むことに関する障害」としてみました。
-
-
-
-
 </note>
       <tuv lang="EN-US">
         <seg>It’s important to note that &lt;g1&gt;legible&lt;/g1&gt; body text for folks with reading disorders such as dyslexia is also &lt;g2&gt;pleasant&lt;/g2&gt; body text for those who have less trouble reading.</seg>
