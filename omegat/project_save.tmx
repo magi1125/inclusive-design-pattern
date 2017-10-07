@@ -18570,7 +18570,14 @@ must ではなく should なので「べき」としました。
 
 (太田) 構文的とは。「構文はすっきりします」でよさそう。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt;display: none;と似ていますが、と似ていますが、
+重複しておかしなことに。
+
+(太田)
+DTPマターと思われます。</note>
       <tuv lang="EN-US">
         <seg>It works like &lt;g3&gt;display: none;&lt;/g3&gt; but is syntactically neater.</seg>
       </tuv>
@@ -21713,12 +21720,19 @@ Noteが訳出されていませんが、まあいいかという気も。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) Noteを訳出。</note>
+      <note>(伊原) Noteを訳出。
+
+(もんどさん)
+&gt;bannerARIAロールを
+ARIAの前にスペースがある方がよいでしょう。
+
+(太田)
+スペース追加。</note>
       <tuv lang="EN-US">
         <seg>Note that the &lt;g2&gt;&lt;header&gt;&lt;/g2&gt; element has the explicit ARIA &lt;g3&gt;banner&lt;/g3&gt; role.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170730T131350Z" creationid="rikiha" creationdate="20170730T124341Z">
-        <seg>&lt;g2&gt;&lt;header&gt;&lt;/g2&gt;要素に&lt;g3&gt;banner&lt;/g3&gt;ARIAロールを明示的に指定していることに注意してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171007T083346Z" creationid="rikiha" creationdate="20170730T124341Z">
+        <seg>&lt;g2&gt;&lt;header&gt;&lt;/g2&gt;要素に&lt;g3&gt;banner&lt;/g3&gt; ARIAロールを明示的に指定していることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
