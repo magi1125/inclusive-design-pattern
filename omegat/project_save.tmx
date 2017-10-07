@@ -27820,8 +27820,8 @@ has met them and helped them なので過去完了形ですね。文末を「手
       <tuv lang="EN-US">
         <seg>The accessible name for a document, &lt;g4&gt;&lt;iframe&gt;&lt;/g4&gt; or embedded SVG element is provided by their &lt;g5&gt;&lt;title&gt;&lt;/g5&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T084512Z" creationid="yoota" creationdate="20170501T083937Z">
-        <seg>ドキュメントや&lt;g4&gt;&lt;iframe&gt;&lt;/g4&gt;、埋め込みのSVG要素では、それぞれに指定された&lt;g5&gt;&lt;title&gt;&lt;/g5&gt;がアクセシブルな名前 (name)  となります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171007T085801Z" creationid="yoota" creationdate="20170501T083937Z">
+        <seg>ドキュメントや&lt;g4&gt;&lt;iframe&gt;&lt;/g4&gt;、埋め込みのSVG要素では、それぞれに指定された&lt;g5&gt;&lt;title&gt;&lt;/g5&gt;がアクセシブルな名前 (accessible name) となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32606,7 +32606,12 @@ Accessible Nameのママでもいいのかも。
 どちらなのかわからない
 (読み進めていくと、後者を指すのかな、、とは思いましたが)
 
-(川本さん) 一瞬タグのようなものかと思いましたが、これはただ「名前」の横に(name)がセットになってる、と言う認識でいいでしょうか。なぜセットにしているのか読み取れませんでした</note>
+(川本さん) 一瞬タグのようなものかと思いましたが、これはただ「名前」の横に(name)がセットになってる、と言う認識でいいでしょうか。なぜセットにしているのか読み取れませんでした
+
+(太田)
+「アクセシブルな名前 (accessible name)」とすることにしました。
+
+</note>
       <tuv lang="EN-US">
         <seg>Throughout this book you’ll hear a lot about &lt;g3&gt;accessible names&lt;/g3&gt;.</seg>
       </tuv>
