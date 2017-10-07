@@ -6839,7 +6839,8 @@ andの強調をどうするか。
 heading shortcutは「見出しジャンプ」としました。
 全体少し調整。
 
-(伊原) OK</note>
+(伊原) OK
+</note>
       <tuv lang="EN-US">
         <seg>A heading, such as the “Contents” &lt;g3&gt;&lt;h2&gt;&lt;/g3&gt; in the previous example, helps if the user is navigating by heading shortcut.</seg>
       </tuv>
@@ -17378,7 +17379,14 @@ becauseを訳出しました。
 
 (高橋さん) &lt;h2&gt;の間違いでしょうか 
 
-(伊原) 初校PDFでtypo</note>
+(伊原) 初校PDFでtypo
+
+(もんどさん)
+&gt; 「目次」というテキストノード（&lt;h2&gt;&gt;の内容）
+余分な名閉じ山括弧があります。
+
+(太田)
+DTPマターかなと。</note>
       <tuv lang="EN-US">
         <seg>In the following example, the text node “Contents” (of the &lt;g2&gt;&lt;h2&gt;&lt;/g2&gt;) becomes the label of the region using its &lt;g3&gt;id&lt;/g3&gt; as the &lt;g4&gt;aria-labelledby&lt;/g4&gt; value.</seg>
       </tuv>
@@ -21869,7 +21877,15 @@ the URLは「このページのURL」としてみました。
 
 戻れなくなるのは良くある問題ですね。訳注ですかね。
 
-(伊原) OK.訳注で!</note>
+(伊原) OK.訳注で!
+
+(もんどさん)
+&gt; pushStateを使うなど
+history.pushState() なり pushStateメソッド なりにした方がよいように思います（APIにあまり詳しくないので、どう呼ぶのが正式かよく分かってないですが）。
+
+(太田)
+History APIのイチ機能の名前としてはpushStateで良いのではないかと思っています。
+</note>
       <tuv lang="EN-US">
         <seg>Note the line starting &lt;g1&gt;window.location.hash&lt;/g1&gt; which updates the URL after focus with the hash fragment.</seg>
       </tuv>
