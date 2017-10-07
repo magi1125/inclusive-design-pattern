@@ -1,3 +1,15 @@
+<分節 0617>
+>ロバート・ブリングハースト（Robert Bringhurst）は著書『<g1>The Elements of Typographic Style</g1>』の中で、カラム幅を45～75文字にすることを推奨しています。
+
+訳注:
+WCAG 2.0の達成基準「1.4.8 視覚的提示」では、幅が80字を越えないようにすることを求めており、ここではWCAG 2.0の基準よりも少しだけ厳しい基準を推奨していることになります。なお、WCAG 2.0では、全角文字の場合には40字を基準としています。全角文字の場合には、ここで挙げられている数字を半分にして考えてください。
+
+参考:
+視覚的提示: 達成基準 1.4.8 を理解する 
+http://waic.jp/docs/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation.html
+
+
+
 <分節 0618>
 >CSSでは、1remが書体の小文字<g2>m</g2>の幅にほぼ該当します。
 
@@ -10,8 +22,7 @@ Em (typography)
 https://en.wikipedia.org/wiki/Em_(typography)
 
 CSS Values and Units Module Level 3 - 5.1.1. Font-relative lengths: the ‘em’, ‘ex’, ‘ch’, ‘rem’ unit
-http://www.w3.org/TR/css3-values/#font-relative-lengths
-
+https://www.w3.org/TR/css3-values/#font-relative-lengths
 
 
 <分節 0625>
@@ -24,6 +35,16 @@ http://www.w3.org/TR/css3-values/#font-relative-lengths
 なお、ここではメディアクエリの幅指定にremを使っていますが、本書の「ドキュメント全体」の章ではremではなくemを使うべきだという話も出ていますので、あわせて参照してください。
 
 
+<分節 0644>
+>最も普及しているブラウザのひとつであるChromeは、ハイフネーションをまったくサポートしていません。
+
+訳注: 現在ではChromeはハイフネーションをサポートしています。2016年11月のChrome55から、AndroidとMac上でハイフネーションをサポートするようになりました。残念ながらWindows上ではサポートされていません (2017年5月現在)。
+
+参考:
+Chrome 55 ベータ版: 入力ハンドリングの改善と async / await 関数 
+https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
+
+
 <分節 0647>
 >JavaScriptへの依存や、それに付随するパフォーマンス問題を避けつつ読みやすくするためには、<g1>text-align</g1>のデフォルトの値である<g2>left</g2>を使用することが好ましいでしょう。
 
@@ -32,13 +53,13 @@ http://www.w3.org/TR/css3-values/#font-relative-lengths
 
 参考:
 Cascading Style Sheets, level 1 - 5.4.6 'text-align'
-http://www.w3.org/TR/REC-CSS1/#text-align
+https://www.w3.org/TR/REC-CSS1/#text-align
 
 Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification - 16.2 Alignment: the 'text-align' property
-http://www.w3.org/TR/CSS22/text.html#alignment-prop
+https://www.w3.org/TR/CSS22/text.html#alignment-prop
 
 CSS Text Module Level 3 - 7.1. Text Alignment: the ‘text-align’ property 
-http://www.w3.org/TR/css-text-3/#text-align
+https://www.w3.org/TR/css-text-3/#text-align
 
 
 <分節 0679>
@@ -53,12 +74,41 @@ http://www.w3.org/TR/css-text-3/#text-align
 http://waic.jp/docs/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html
 
 
+<分節 0694>
+>異なるアフォーダンスのルールで動作する、ボタンのようなコールトゥアクションリンクを除き、リンクにはアンダーラインを付加するのが慣習です。
+
+訳注:
+「コールトゥアクション」はユーザーの行動を促す、行動を喚起するというような意味です。ここでは、あからさまに強調された資料請求ボタンなど、明らかに押せると分かるように (そして押したくなるように) デザインされているものを指しています。
+アフォーダンスとは知覚心理学・認知心理学の用語で、ある物に対してある行動ができるときに「アフォーダンスが存在する」という言い方をします。ユーザーがボタンを押すことができるとき、そこにはアフォーダンスが存在します。そこから転じて、その行動ができるということが想起されることを「アフォーダンスが存在する」という言い方をすることがあります。たとえば、ボタンが押せそうな形状になっていて、ユーザーが押せそうだと知覚するとき、押せるというアフォーダンスが存在する、という言い方をすることがあります。ここでは後者の意味で使われています。
+なお、後者はドナルド・ノーマンが著書『誰のためのデザイン？ ―認知科学者のデザイン原論』で使ったことにより広まった用法ですが、元来の使い方からすれば誤用であり、後にノーマン自身が誤用を認め、この用法では「知覚されたアフォーダンス」とするか、あるいは「シグニファイア」という言葉を使うべきだとしています。
+
+参考:
+アフォーダンス - Wikipedia
+https://ja.wikipedia.org/wiki/アフォーダンス
+
+シグニファイア - Wikipedia
+https://ja.wikipedia.org/wiki/シグニファイア
+
+
 <分節 0723>
 >以下のように<g4>text-decoration</g4>によるフォールバックで対応するべきでしょう。
 
 訳注:
-このスタイルは、<!--[if lte IE 9]><html class="ie-lte-9"><![endif]--> のようなコードが書かれていることを前提としています。これにより、gradientに対応しないIE9以下でhtml要素に"ie-lte-9"というクラスがつくようになります。
+これはIE9以下に対応させる場合の話で、<!--[if lte IE 9]><html class="ie-lte-9"><![endif]--> のような条件付きコメントが書かれていることを前提としています。これにより、IE9以下でhtml要素に"ie-lte-9"というクラスがつくようになります。
 
+
+<分節 0723>
+>以下のように<g4>text-decoration</g4>によるフォールバックで対応するべきでしょう。
+※コードの下、セクションの末尾に訳注
+訳注:
+ここでは背景色を使った実装が紹介されていますが、CSS Text Decoration Module Level 3ではtext-decoration-skipというプロパティが提案されています。text-decoration-skip: inkを指定すると、文字と重ならないように下線が引かれる想定です。つい最近まで対応しているブラウザがほとんどない状況でしたが、2017年2月にChrome 57が対応し、現在のChromeでは使えるようになっています。今後、この指定に対応するブラウザが増えれば、シンプルにtext-decoration-skipを指定する方法が普及していくかもしれません。
+
+参考:
+CSS Text Decoration Module Level 3 - 2.5.  Text Decoration Line Continuity: the ‘text-decoration-skip’ property
+https://www.w3.org/TR/css-text-decor-3/#text-decoration-skip
+
+Chrome 57 ベータ版: CSS のグリッド レイアウト、ホーム画面に追加の改善、Media Session API 
+https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-improved.html
 
 
 <分節 0749>
@@ -83,54 +133,5 @@ http://waic.jp/docs/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html
 本文の「コントラスト」の箇所ではデフォルトの白地に黒は避けてコントラストを調整することを推奨しています。なぜか避けるべきことのリストに入っていますが、間違いと思われます。
 
 
-<分節 0617>
->ロバート・ブリングハースト（Robert Bringhurst）は著書『<g1>The Elements of Typographic Style</g1>』の中で、カラム幅を45～75文字にすることを推奨しています。
 
-訳注:
-WCAG 2.0の達成基準「1.4.8 視覚的提示」では、幅が80字を越えないようにすることを求めており、ここではWCAG 2.0の基準よりも少しだけ厳しい基準を推奨していることになります。なお、WCAG 2.0では、全角文字の場合には40字を基準としています。全角文字の場合には、ここで挙げられている数字を半分にして考えてください。
-
-参考:
-視覚的提示: 達成基準 1.4.8 を理解する 
-http://waic.jp/docs/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation.html
-
-
-
-<分節 0644>
->最も普及しているブラウザのひとつであるChromeは、ハイフネーションをまったくサポートしていません。
-
-訳注: 現在ではChromeはハイフネーションをサポートしています。2016年11月のChrome55から、AndroidとMac上でハイフネーションをサポートするようになりました。残念ながらWindows上ではサポートされていません (2017年5月現在)。
-
-参考:
-Chrome 55 ベータ版: 入力ハンドリングの改善と async / await 関数 
-https://developers-jp.googleblog.com/2016/11/chrome-55-beta-input-handling.html
-
-
-<分節 0694>
->異なるアフォーダンスのルールで動作する、ボタンのようなコールトゥアクションリンクを除き、リンクにはアンダーラインを付加するのが慣習です。
-
-訳注:
-「コールトゥアクション」はユーザーの行動を促す、行動を喚起するというような意味です。ここでは、あからさまに強調された資料請求ボタンなど、明らかに押せると分かるように (そして押したくなるように) デザインされているものを指しています。
-アフォーダンスとは知覚心理学・認知心理学の用語で、ある物に対してある行動ができるときに「アフォーダンスが存在する」という言い方をします。ユーザーがボタンを押すことができるとき、そこにはアフォーダンスが存在します。そこから転じて、その行動ができるということが想起されることを「アフォーダンスが存在する」という言い方をすることがあります。たとえば、ボタンが押せそうな形状になっていて、ユーザーが押せそうだと知覚するとき、押せるというアフォーダンスが存在する、という言い方をすることがあります。ここでは後者の意味で使われています。
-なお、後者はドナルド・ノーマンが著書『誰のためのデザイン？ ―認知科学者のデザイン原論』で使ったことにより広まった用法ですが、元来の使い方からすれば誤用であり、後にノーマン自身が誤用を認め、この用法では「知覚されたアフォーダンス」とするか、あるいは「シグニファイア」という言葉を使うべきだとしています。
-
-参考:
-アフォーダンス - Wikipedia
-https://ja.wikipedia.org/wiki/アフォーダンス
-
-シグニファイア - Wikipedia
-https://ja.wikipedia.org/wiki/シグニファイア
-
-
-<分節 0723>
->以下のように<g4>text-decoration</g4>によるフォールバックで対応するべきでしょう。
-※コードの下、セクションの末尾に訳注
-訳注:
-ここでは背景色を使った実装が紹介されていますが、CSS Text Decoration Module Level 3ではtext-decoration-skipというプロパティが提案されています。text-decoration-skip: inkを指定すると、文字と重ならないように下線が引かれる想定です。つい最近まで対応しているブラウザがほとんどない状況でしたが、2017年2月にChrome 57が対応し、現在のChromeでは使えるようになっています。今後、この指定に対応するブラウザが増えれば、シンプルにtext-decoration-skipを指定する方法が普及していくかもしれません。
-
-参考:
-CSS Text Decoration Module Level 3 - 2.5.  Text Decoration Line Continuity: the ‘text-decoration-skip’ property
-http://www.w3.org/TR/css-text-decor-3/#text-decoration-skip
-
-Chrome 57 ベータ版: CSS のグリッド レイアウト、ホーム画面に追加の改善、Media Session API 
-https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-improved.html
 
