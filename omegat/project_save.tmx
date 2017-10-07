@@ -30435,7 +30435,16 @@ NVDA2017.2jaでは、 aria-current="page" を「現在のページ」、 aria-cu
 
 (太田)
 「方法」としました。
-</note>
+
+(もんどさん)
+&gt;NVDAでは2017年2月のバージョンから、
+NVDA 2017.2のことを指してると思いますが、これはそういうバージョン番号であって日付ではないと思います。（参考[1]）
+日付を入れたいなら、2017年5月にリリースされたNVDA 2017.2では、という具合になるかと
+
+[1] https://www.nvaccess.org/post/announcing-nvda-2017-2-release/
+
+(太田)
+訳注調整しました。</note>
       <tuv lang="EN-US">
         <seg>There’s no standard way to identify current page links non-visually as yet.</seg>
       </tuv>
