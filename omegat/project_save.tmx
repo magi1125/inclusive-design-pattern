@@ -4454,7 +4454,15 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) ここは訳す感じで。「代替テキスト」としました。</note>
+      <note>(伊原) ここは訳す感じで。「代替テキスト」としました。
+
+(もんどさん)
+/* alternative text rules */
+/* the width of the icon */
+がそれぞれ訳し忘れ。
+
+(太田)
+OmegaT上では訳されているのでDTPの問題と思われます。</note>
       <tuv lang="EN-US">
         <seg>&lt;g26&gt;/* alternative text rules */&lt;/g26&gt;</seg>
       </tuv>
