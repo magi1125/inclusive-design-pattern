@@ -7663,12 +7663,19 @@ listenは「監視」としてみました。
 (太田) 勝手に表示されるわけではなく、表示させる機能があるという話と思われます。ダイアログかどうかはそこまで重要ではないはずなので、「ランドマークを一覧表示することができ」、としてみました。
 ランドマーク間を切り替えるというのがしっくり来なかったので、「それぞれの領域に直接行き来する」としてみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; ランドマークを一覧表示することができ、それぞれの領域に直接行き来することができます。
+「することができる」は単に「できる」でよいでしょう。
+
+(太田)
+それで。</note>
       <tuv lang="EN-US">
         <seg>Also, NVDA, JAWS and VoiceOver all provide a dialog listing landmarks as a menu, allowing you to switch between them directly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170801T072200Z" creationid="rikiha" creationdate="20170722T233944Z">
-        <seg>また、NVDA、JAWS、VoiceOverでは、ランドマークを一覧表示することができ、それぞれの領域に直接行き来することができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171007T075949Z" creationid="rikiha" creationdate="20170722T233944Z">
+        <seg>また、NVDA、JAWS、VoiceOverでは、ランドマークを一覧表示することができ、それぞれの領域に直接行き来できます。</seg>
       </tuv>
     </tu>
     <tu>
