@@ -27285,7 +27285,8 @@ https://html.spec.whatwg.org/multipage/semantics.html#headings-and-sections
 Flesch-Kincaidリーダビリティテストは、当然ながら英文を念頭に置いた手法と思われますが、これはこのまま日本語に使用できるのかどうか、というのは訳註があってもよいと思いました。
 
 (太田)
-まあ、日本語の話でないことは読めばわかると思いますので、ママとしたいです。</note>
+まあ、日本語の話でないことは読めばわかると思うのと、読者に役立つ訳注がちょっとかけそうにないので、ママとしたいです。
+</note>
       <tuv lang="EN-US">
         <seg>The &lt;g2&gt;Flesch-Kincaid grade level&lt;/g2&gt; test is similar but produces a US school grade level.</seg>
       </tuv>
@@ -36180,7 +36181,8 @@ aria-invalidを利用して、という感じですね。
 https://www.w3.org/TR/2017/CR-html52-20170808/common-idioms-without-dedicated-elements.html#subheadings-subtitles-alternative-titles-and-taglines
 
 (太田)
-まあ、これはママで。</note>
+まあそうですね。これはヘイドンさんの主張そのママということで、このままで。
+本書の例以外のものが仕様に乗っているパターンはここに限らず多数あると思うので、訳注は入れない方向にしたいと思います。</note>
       <tuv lang="EN-US">
         <seg>You cannot therefore depend on it becoming implemented uniformly or reliably in browsers.</seg>
       </tuv>
