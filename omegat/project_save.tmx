@@ -32978,7 +32978,7 @@ oursが何を指すのかがイマイチ謎。フィルターウィジェット�
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注?
+      <note>※要訳注?→訳注削除
 
 (伊原) ちょっと調整。
 
@@ -32994,7 +32994,9 @@ oursが何を指すのかがイマイチ謎。フィルターウィジェット�
 IE7はもはやレガシーブラウザなので、ここまで厚く記述する必要があるのかどうか。それとは別に、IE11にどう影響するのか明記した方がよいのでは。
 
 (太田)
-IE11にはさすがに影響しないはず (EmulateIEがなければ)。</note>
+これ、何度も書き直してみましたが、厳密に書こうとすればするほど訳注がどんどん長くなり、その割に価値がないので、訳注をバッサリ削除することにしました。
+わからない人はhasLayoutでググるでしょうし (そして闇に落ちる)。
+</note>
       <tuv lang="EN-US">
         <seg>To make sequential focus navigation work in Internet Explorer, you have to overcome a longstanding &lt;g6&gt;hasLayout&lt;/g6&gt; bug.</seg>
       </tuv>
