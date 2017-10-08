@@ -3248,7 +3248,7 @@ JavaScript has run は完了形であり、JavaScriptが実行済みというこ
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注
+      <note>※訳注あり
 
 (太田)
 訳はOK。
@@ -3268,7 +3268,17 @@ http://www.w3.org/TR/wai-aria-1.1/#definition
 警察（略）。一般にunordered listと説明されるわけですから、「順序なしリスト」とか、「順不同リスト」とするのが好ましいでしょう。
 
 (太田)
-順序なしで。</note>
+順序なしで。
+
+(もんどさん)
+&gt; NVDAはdlもul同様「リスト」としか読まず、
+&gt; 項目数はdtとddの合計となります。この例では「リスト6項目」と読みます。i
+&gt; OS10のVoiceOverはdlを特に読まないようです（ulの場合は「リストの開始位置です」と読みます）。
+文字組みでかぎ括弧のアキ量がなんか変なように見えます。（気のせいかもしれません）
+
+(太田)
+DTPマター? ※岡本さん確認
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Like an unordered list (&lt;g2&gt;&lt;ul&gt;&lt;/g2&gt;), the definitions list (&lt;g3&gt;&lt;dl&gt;&lt;/g3&gt;) has its items enumerated by screen readers so users know how many to expect.</seg>
       </tuv>
