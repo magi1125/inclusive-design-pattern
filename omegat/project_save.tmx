@@ -32136,12 +32136,19 @@ accessible roleはどうしたものか。英語だとroleという語に多様�
 (太田)
 「もともとリンクが持っていたはずの暗黙の&lt;g2&gt;"link"&lt;/g2&gt;というロール」としてみました。
 
-(伊原) OK!</note>
+(伊原) OK
+
+(もんどさん)
+&gt; これは、もともとリンクが持っていたはずの暗黙の"link"というロールを、
+「という」は不要かと思います。
+
+(太田)
+とりました。</note>
       <tuv lang="EN-US">
         <seg>This overrides the implicit accessible role of &lt;g2&gt;"link"&lt;/g2&gt; with an explicit role of &lt;g3&gt;"button"&lt;/g3&gt;, meaning the link will be announced as a button in screen reader software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T081608Z" creationid="rikiha" creationdate="20170905T004201Z">
-        <seg>これは、もともとリンクが持っていたはずの暗黙の&lt;g2&gt;"link"&lt;/g2&gt;というロールを、明示的に指定された&lt;g3&gt;"button"&lt;/g3&gt;ロールで上書きするため、スクリーンリーダーはこのリンクをボタンとして読み上げることになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T084527Z" creationid="rikiha" creationdate="20170905T004201Z">
+        <seg>これは、もともとリンクが持っていたはずの暗黙の&lt;g2&gt;"link"&lt;/g2&gt;ロールを、明示的に指定された&lt;g3&gt;"button"&lt;/g3&gt;ロールで上書きするため、スクリーンリーダーはこのリンクをボタンとして読み上げることになります。</seg>
       </tuv>
     </tu>
     <tu>
