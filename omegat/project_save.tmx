@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33978,7 +33978,15 @@ OK
 条件が悪かったので当時は仕方なかった、という話だと思います。
 責められたところはいくつかだけしかない、ということなので、責められないところも多い、としました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; 低いパフォーマンス、レスポンシブ性の欠如、ブラウザ間の非互換性。
+体言止めになっているのがやや気になりました。
+
+(太田)
+原文通りではあるのですが、まあ違和感はありますね。
+いったんママで。</note>
       <tuv lang="EN-US">
         <seg>Underperforming, unresponsive, not cross-browser compatible: just some of the things you could condemn my early handiwork for.</seg>
       </tuv>
