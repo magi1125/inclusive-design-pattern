@@ -31359,7 +31359,9 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
 (太田)
 サポートされないのはその通りなのですが、ヘイドンさんがIE9のためのフォールバックの話をしているという全体なのでフォローが難しいです。
 訳注を「これはIE9以下に対応させる場合の話で、」くらい
-にしておきましょうか。</note>
+にしておきましょうか。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>These should have a &lt;g4&gt;text-decoration&lt;/g4&gt; fallback:</seg>
       </tuv>
