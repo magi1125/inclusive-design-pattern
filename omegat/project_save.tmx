@@ -38895,7 +38895,19 @@ https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
 (太田)
 まあいったんスルーで。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; changeイベントにXHRの機能を追加するほうが
+イベントは装飾しないのでしょうか。
+
+(太田)
+こちらの "the change event" は装飾なしですが、&lt;分節 2957&gt; の"the &lt;g2&gt;submit&lt;/g2&gt; event." は装飾あり。
+&lt;分節 0408&gt; の onload も装飾あり。
+原著がゆれているようですね。
+原著の単なるモレと思われますので、装飾ありにしたいです。
+
+OmegaT上で装飾追加ってどうするんでしょうか?</note>
       <tuv lang="EN-US">
         <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
       </tuv>
