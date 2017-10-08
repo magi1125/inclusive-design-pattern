@@ -37900,12 +37900,15 @@ OK
 
 (太田) 微調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+フィルタ→フィルター</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The “Display as” functionality is in its own &lt;g2&gt;&lt;fieldset&gt;&lt;/g2&gt; to demarcate it from the principal filtering options.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T114409Z" creationid="rikiha" creationdate="20170922T114409Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;主要なフィルタオブションと区別するため、「表示方法」の機能は独立した&lt;g2&gt;&lt;fieldset&gt;&lt;/g2&gt;の中に入れています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T125345Z" creationid="rikiha" creationdate="20170922T114409Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;主要なフィルターオブションと区別するため、「表示方法」の機能は独立した&lt;g2&gt;&lt;fieldset&gt;&lt;/g2&gt;の中に入れています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38073,7 +38076,17 @@ flex-wrap: wrapのときflex-shrinkは機能するのだろうか……と思い
 (太田)
 要素レベルの理想的な幅とは。
 
-(伊原) 調整済みっぽく、OK</note>
+(伊原) 調整済みっぽく、OK
+
+(もんどさん)
+&gt;代わりにFlexboxを使えば、flex-basisを指定することで、要素ごとの理想的な幅を定義することができます。
+`Flexbox`の装飾は不要では？
+あと、なんとなく訳がおかしいように感じます。
+
+(太田)
+`Flexbox`の装飾は不要です。DTPマター※岡本さん確認
+
+</note>
       <tuv lang="EN-US">
         <seg>Using Flexbox, we can instead use &lt;g1&gt;flex-basis&lt;/g1&gt; to define an ideal width at an element level.</seg>
       </tuv>
