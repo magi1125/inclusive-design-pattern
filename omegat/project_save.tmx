@@ -18200,7 +18200,7 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注
+      <note>※訳注あり
 
 (太田)
 すこし調整。
@@ -18211,7 +18211,14 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
 (伊原) OK…ですが、日本語では使えない技ですね。
 
 (太田) 訳注ですかね。
-</note>
+
+(もんどさん)
+&gt; なんらか他の方法で区別するほうがよいでしょう。
+ここは具体的な実装例を示していただきたいところ。
+
+(太田)
+とはいえ、どうするのがいいんですかね?
+なにか実例があると良いのですが。</note>
       <tuv lang="EN-US">
         <seg>Instead of differentiating the placeholder by diminishing its contrast, I suggest using a different method, such as italicization.</seg>
       </tuv>
@@ -29259,7 +29266,7 @@ log eroors は「エラーログを残す」としました。
 *placeholder自*と誤って装飾されています。
 
 (太田)
-DTPマター※岡本さん確認</note>
+DTPマター ※岡本さん確認</note>
       <tuv lang="EN-US">
         <seg>The key word here is &lt;g2&gt;hints&lt;/g2&gt;: the &lt;g3&gt;placeholder&lt;/g3&gt; is not a labeling method by itself and should only be used to provide &lt;g4&gt;supplemental information&lt;/g4&gt;.</seg>
       </tuv>
