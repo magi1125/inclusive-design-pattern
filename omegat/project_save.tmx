@@ -38791,12 +38791,21 @@ lorem ipsum は訳注いりますかね?
 (太田)
 少し調整してみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt;このスクリプトでは、追加する項目の数について、xからnのあいだ、という指定ができます
+「xからnのあいだ」という訳が説明になっていない気がします。
+
+(太田)
+原文通りなのでどうしたものか。
+「個」を補うと多少わかりやすいか?
+調整してみました。</note>
       <tuv lang="EN-US">
         <seg>The script also allows you to add &lt;g1&gt;between&lt;/g1&gt; &lt;g2&gt;x&lt;/g2&gt; and &lt;g3&gt;n&lt;/g3&gt; numbers of array items.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T120652Z" creationid="rikiha" creationdate="20170922T120652Z">
-        <seg>このスクリプトでは、追加する項目の数について、&lt;g2&gt;x&lt;/g2&gt;から&lt;g3&gt;n&lt;/g3&gt;の&lt;g1&gt;あいだ&lt;/g1&gt;、という指定ができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T130641Z" creationid="rikiha" creationdate="20170922T120652Z">
+        <seg>このスクリプトでは、追加する項目の数について、&lt;g2&gt;x&lt;/g2&gt;個から&lt;g3&gt;n&lt;/g3&gt;個の&lt;g1&gt;あいだ&lt;/g1&gt;、という指定の仕方ができます。</seg>
       </tuv>
     </tu>
     <tu>
