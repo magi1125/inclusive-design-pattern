@@ -1148,6 +1148,14 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原：初校PDF確認コメント）コメント未訳</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g129&gt;// smooth scroll document to target element over 1 second,
+&lt;/g129&gt;    &lt;g130&gt;// not using Element.scrollIntoView() because not widely supported yet
+&lt;/g130&gt;    $&lt;g131&gt;(&lt;/g131&gt;&lt;g132&gt;'html, body'&lt;/g132&gt;&lt;g133&gt;)&lt;/g133&gt;&lt;g134&gt;.&lt;/g134&gt;animate&lt;g135&gt;(&lt;/g135&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g12&gt;/* &lt;button&gt; element styles */&lt;/g12&gt;
 &lt;g13&gt;}&lt;/g13&gt;&lt;/g1&gt;</seg>
@@ -1259,6 +1267,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170916T124724Z" creationid="rikiha" creationdate="20170909T223921Z">
         <seg>&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;&lt;&lt;/g16&gt;a&lt;/g15&gt; &lt;g17&gt;href&lt;/g17&gt;&lt;g18&gt;&lt;g19&gt;=&lt;/g19&gt;"/artist/kenny-mulbarton"&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g14&gt;by &lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;&lt;/g23&gt;cite&lt;/g22&gt;&lt;g24&gt;&gt;&lt;/g24&gt;&lt;/g21&gt;ケニー・マルバートン&lt;g25&gt;&lt;g26&gt;&lt;g27&gt;&lt;/&lt;/g27&gt;cite&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g25&gt;&lt;g29&gt;&lt;g30&gt;&lt;g31&gt;&lt;/&lt;/g31&gt;a&lt;/g30&gt;&lt;g32&gt;&gt;&lt;/g32&gt;&lt;/g29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原：初校PDF確認コメント）コメント未訳</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g152&gt;// now that we’ve scrolled the target into view,
+&lt;/g152&gt;            &lt;g153&gt;// let the browser do its regular thing and update the URL
+&lt;/g153&gt;            window&lt;g154&gt;.&lt;/g154&gt;location&lt;g155&gt;.&lt;/g155&gt;hash &lt;g156&gt;=&lt;/g156&gt; target&lt;g157&gt;.&lt;/g157&gt;id &lt;g158&gt;||&lt;/g158&gt; target&lt;g159&gt;.&lt;/g159&gt;name&lt;g160&gt;;&lt;/g160&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30045,6 +30061,8 @@ Wordにあるような感じというのは、そもそもどんな感じなの�
 ここをイキにするなら要訳注かなと。
 
 (太田) OK。訳注検討。
+
+(川本さん) さっき書いてたh1とnavの位置関係の疑問の答えがこんなところに書いてあった！
 </note>
       <tuv lang="EN-US">
         <seg>The site navigation should appear above the &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; content and the table of contents within it (preferably directly below the document’s principal &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; heading, as it would in a Microsoft Word document).</seg>
