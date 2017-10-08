@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17957,7 +17957,8 @@ not acceptable を invalid と訳し分けるべきか。
 &gt; 実際のフォーム検証（パターンマッチング）にはJavaScriptを使うことになるでしょう。
 訳註でjsではない、HTML属性によるパターンマッチングを行っているので、訳註での言及が微妙な形になってしまっています。
 
-</note>
+(太田)
+訳注はヘイドンさんをdisっているつもりなのでこれはこれで良いはずですが、まあちょっとフォローしました。</note>
       <tuv lang="EN-US">
         <seg>In which case, we are going to rely on WAI-ARIA to indicate invalidity, with JavaScript for the actual validation (pattern matching).</seg>
       </tuv>
@@ -30899,7 +30900,7 @@ convention は他のところでは「慣習」としていたのでここもそ
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注?
+      <note>※要訳注
 
 (太田)
 OK
@@ -30911,7 +30912,16 @@ OK
 
 (伊原) OK、上記コメントで訳注かなと思います。
 
-(土屋さん) このコード例は、訳註の一部でしょうか？インデントから、註釈の範囲外 (原書に書かれていたもの) に見えます。</note>
+(土屋さん) このコード例は、訳註の一部でしょうか？インデントから、註釈の範囲外 (原書に書かれていたもの) に見えます。
+
+(もんどさん)
+&gt; HTML Living Standard - 4.10.5.3.6 The pattern attribute
+&gt; https://html.spec.whatwg.org/multipage/input.html#the-patternattribute
+これはコード例として装飾されていますが、本来は出典です。
+
+(太田)
+DTPマター ※岡本さん確認
+</note>
       <tuv lang="EN-US">
         <seg>There is also no functionality within HTML5 to validate a password field.</seg>
       </tuv>
