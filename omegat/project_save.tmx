@@ -25595,12 +25595,14 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 
 (川本さん) すいません、よく意味がわかりませんでした。「cssプレゼンテーション層」で検索しても出てこないようで。
 &lt;button&gt;文字&lt;/button&gt;
-これだと背景画像扱いになるんですか？</note>
+これだと背景画像扱いになるんですか？
+
+(伊原) どのボタンの話をしているかという点と、ラベルが唐突な点を補ってみました。</note>
       <tuv lang="EN-US">
         <seg>Since the button’s label of “Start” is in a background image as part of CSS’s presentation layer, this too is unavailable to assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T101018Z" creationid="okamoto_jun" creationdate="20170627T101018Z">
-        <seg>このボタンの「スタート」というラベルは、CSSのプレゼンテーション層の一部に背景画像として含まれているため、これもやはり支援技術からは利用できません。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171008T211144Z" creationid="okamoto_jun" creationdate="20170627T101018Z">
+        <seg>コードを書くデザイナーのボタンだと、このボタンにあるはずの「スタート」というラベルも、背景画像としてCSSによる表現の一部に含まれているため、これもやはり支援技術からは利用できません。</seg>
       </tuv>
     </tu>
     <tu>
