@@ -21894,12 +21894,15 @@ OK
 細かいですが more than は以上ではなく「超える」。
 Noteが訳出されていませんが、まあいいかという気も。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+&lt;img/&gt;→&lt;img&gt;</note>
       <tuv lang="EN-US">
         <seg>Note that the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; element, included last, will have its &lt;g2&gt;src&lt;/g2&gt; attribute automatically switched to that defined in the &lt;g3&gt;&lt;source&gt;&lt;/g3&gt; element &lt;g4&gt;only&lt;/g4&gt; if the viewport is more than 800px wide.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170905T110850Z" creationid="yoota" creationdate="20170905T083214Z">
-        <seg>最後の&lt;g1&gt;&lt;img/&gt;&lt;/g1&gt;要素は、ビューポートの幅が800pxを超える場合のみ、その&lt;g2&gt;src&lt;/g2&gt;属性を&lt;g3&gt;&lt;source&gt;&lt;/g3&gt;要素で定義されているものに自動的に切り替えます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T084346Z" creationid="yoota" creationdate="20170905T083214Z">
+        <seg>最後の&lt;g1&gt;&lt;img&gt;&lt;/g1&gt;要素は、ビューポートの幅が800pxを超える場合のみ、その&lt;g2&gt;src&lt;/g2&gt;属性を&lt;g3&gt;&lt;source&gt;&lt;/g3&gt;要素で定義されているものに自動的に切り替えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22946,12 +22949,15 @@ OK
 「そのリソース」がSVGなのかPNGなのか分かりにくいように思いましたので、the resourceを「フォールバック用の画像」と補ってみました。
 ブラウザがSVGをサポートしていないときにPNGがダウンロードされるのは当然なので、「ブラウザがSVGをサポートしていても」としてみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+&lt;img/&gt;→&lt;img&gt;</note>
       <tuv lang="EN-US">
         <seg>One issue with the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; fallback is that the resource will almost certainly download, whether or not the browser supports SVG, affecting a needless performance hit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170821T101651Z" creationid="rikiha" creationdate="20170815T160954Z">
-        <seg>&lt;g1&gt;&lt;img/&gt;&lt;/g1&gt;によるフォールバックの問題は、ブラウザがSVGをサポートしていても、ほぼ確実にフォールバック用の画像がダウンロードされてしまい、無駄にパフォーマンスを低下させてしまうことです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T084305Z" creationid="rikiha" creationdate="20170815T160954Z">
+        <seg>&lt;g1&gt;&lt;img&gt;&lt;/g1&gt;によるフォールバックの問題は、ブラウザがSVGをサポートしていても、ほぼ確実にフォールバック用の画像がダウンロードされてしまい、無駄にパフォーマンスを低下させてしまうことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34155,8 +34161,8 @@ unless or until は厳密に訳さなくても良いように思います。
       <tuv lang="EN-US">
         <seg>Using lazy loading means not downloading the image resource unless or until the &lt;g3&gt;&lt;img/&gt;&lt;/g3&gt; element enters the viewport.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T152614Z" creationid="rikiha" creationdate="20170905T003714Z">
-        <seg>遅延読み込みを使うと、&lt;g3&gt;&lt;img/&gt;&lt;/g3&gt;要素がビューポートに入るまで画像リソースはダウンロードされません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T084318Z" creationid="rikiha" creationdate="20170905T003714Z">
+        <seg>遅延読み込みを使うと、&lt;g3&gt;&lt;img&gt;&lt;/g3&gt;要素がビューポートに入るまで画像リソースはダウンロードされません。</seg>
       </tuv>
     </tu>
     <tu>
