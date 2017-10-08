@@ -12985,12 +12985,18 @@ For thatは「その実現」としてみました。
 
 (太田) 考慮に入れるというのが少し分かりにくいかも。「観点からは」としてみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+警察（略）。一般にunordered listと説明されるわけですから、「順序なしリスト」とか、「順不同リスト」とするのが好ましいでしょう。
+
+(太田)
+ここでは unordered を訳出する必要がないと考えたのでトリで。</note>
       <tuv lang="EN-US">
         <seg>For the purposes of accessible UX, progressive enhancement and backwards compatibility, landmark regions should contain an unordered list of links.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170726T094103Z" creationid="rikiha" creationdate="20170722T233753Z">
-        <seg>アクセシブルUX、プログレッシブエンハンスメント、後方互換性の観点から、ランドマーク領域には番号なしリンクリストを含めるべきです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T080813Z" creationid="rikiha" creationdate="20170722T233753Z">
+        <seg>アクセシブルUX、プログレッシブエンハンスメント、後方互換性の観点から、ランドマーク領域にはリンクリストを含めるべきです。</seg>
       </tuv>
     </tu>
     <tu>
