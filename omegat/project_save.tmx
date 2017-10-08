@@ -10829,7 +10829,24 @@ http://qiita.com/Hexa/items/c3d864bc4ac5be0c9d2b を見ると昔はそういう�
 
 (伊原) OK
 
-(太田) [ ] トリました。</note>
+(太田) [ ] トリました。
+
+(もんどさん)
+&gt; 2017年9月現在、Chrome60では「Show throttling」ではなく「Add network throttling」という名前になっています。
+どうせ10月にはChrome62になっている[1]ので、もうフライングで62とすればよいと思います（betaを確認の上で）。
+
+また、[2]によると（これまた若干古い資料ですが）「[Network conditions] ドロワーを開く」方法で表示していると思われますが、
+本文の通りにたどることができませんでした。また、[Network] パネルからも操作可能であったりもするようです。
+
+[1] Chrome Platform Status https://www.chromestatus.com/features/schedule
+[2] さまざまなネットワーク状態でのパフォーマンスの最適化 https://developers.google.com/web/tools/chrome-devtools/network-performance/network-conditions?hl=ja
+
+(太田)
+手元のChrome61ではまたUIが変わっているっぽくて残念な思いをしました。訳注を書き直しました。
+
+
+
+</note>
       <tuv lang="EN-US">
         <seg>Choose &lt;g5&gt;Show throttling&lt;/g5&gt; from the menu and select “Regular 3G” — not the slowest or fastest connection.</seg>
       </tuv>
@@ -21141,7 +21158,14 @@ Neither piece is available elsewhereなので「他の場所ではどちらも�
 
 (岡本)　[　] はいらない？
 
-(太田) [ ] はいらないと思います。メニューの項目名ではありませんし。</note>
+(太田) [ ] はいらないと思います。メニューの項目名ではありませんし。
+
+(もんどさん)
+&gt; （キーボードならCmd + Shift + Mです）
+Windowsのシュートカットキーもあるとよいでしょう。
+
+(太田)
+まあわかると思うのでナシで。</note>
       <tuv lang="EN-US">
         <seg>Next, press the &lt;g1&gt;Toggle device toolbar&lt;/g1&gt; button (&lt;g2&gt;Cmd&lt;/g2&gt; + &lt;g3&gt;Shift&lt;/g3&gt; + &lt;g4&gt;M&lt;/g4&gt;).</seg>
       </tuv>
