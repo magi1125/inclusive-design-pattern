@@ -22370,7 +22370,12 @@ attacheは帰属させるくらいの意味でしょうが良い表現は無い�
 また、前のほうでラジオボタンを隠すという表現だったので、合わせました（非表示というとvisibility:hidden感やdisplay:none感があるかなと）。
 !importantはジョークですね、説明しないほうが面白そうですが、CSS初心者も手に取るかもしれないし、訳注ですね。
 
-(太田) OK</note>
+(太田) OK
+
+(もんどさん)
+ここは、本来的にはcss-ui-4のappearance:noneを使うシーンだと思われます。
+参考：https://developer.mozilla.org/ja/docs/Web/CSS/-moz-appearance
+</note>
       <tuv lang="EN-US">
         <seg>Now that all the interaction and visual feedback is attached to the label, we can safely hide the obstinately ugly radio button from view.</seg>
       </tuv>
