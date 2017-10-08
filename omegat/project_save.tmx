@@ -1069,6 +1069,14 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>(川本さん) フォントが間違っています
+(伊原) 初校PDFで&lt;/nav&gt;のフォントが等幅でない</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g116&gt;&lt;g117&gt;&lt;g118&gt;&lt;/&lt;/g118&gt;ul&lt;/g117&gt;&lt;g119&gt;&gt;&lt;/g119&gt;&lt;/g116&gt;
+&lt;g120&gt;&lt;g121&gt;&lt;g122&gt;&lt;/&lt;/g122&gt;nav&lt;/g121&gt;&lt;g123&gt;&gt;&lt;/g123&gt;&lt;/g120&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(岡本)
 下訳：フォーカススタイル
 
@@ -28115,7 +28123,7 @@ commonは「共通する」というより「一般的」と訳すほうが分�
 
 (伊原) OK
 
-(川本さん) 登場するのが左のページなので、左に置いた方が良さそうです（※脚注87についてのコメント）</note>
+(川本さん) 登場するのが左のページなので、左に置いた方が良さそうです（※初校PDFの脚注87についてのコメント）</note>
       <tuv lang="EN-US">
         <seg>The WAI-ARIA specification offers a handful of &lt;g4&gt;&lt;g5&gt;landmark roles&lt;/g5&gt;&lt;/g4&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;2&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; such as &lt;g9&gt;role="main"&lt;/g9&gt;, which define semantics and behaviors to make common regions accessible in assistive technologies.</seg>
       </tuv>
@@ -28965,7 +28973,7 @@ there’s no need はどこにもないというような強い印象なので�
 
 (伊原) OK
 
-(川本さん) 前のページに ※88は配置されています（※脚注88の出現位置が不適切である点へのコメント</note>
+(川本さん) 前のページに ※88は配置されています（※初校PDFで脚注88の出現位置が不適切である点へのコメント）</note>
       <tuv lang="EN-US">
         <seg>The human brain uses patterns called &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;schemata&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;3&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; to understand sense data.</seg>
       </tuv>
