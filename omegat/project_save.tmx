@@ -38084,14 +38084,15 @@ flex-wrap: wrapのときflex-shrinkは機能するのだろうか……と思い
 あと、なんとなく訳がおかしいように感じます。
 
 (太田)
-`Flexbox`の装飾は不要です。DTPマター※岡本さん確認
+`Flexbox`の装飾は不要です。DTPマター?
+※岡本さん確認
 
-</note>
+おかしい感じがするのは文頭「代わりに」が違和感があるのかも。ちょっと調整してみました。</note>
       <tuv lang="EN-US">
         <seg>Using Flexbox, we can instead use &lt;g1&gt;flex-basis&lt;/g1&gt; to define an ideal width at an element level.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T114608Z" creationid="rikiha" creationdate="20170922T114608Z">
-        <seg>代わりにFlexboxを使えば、&lt;g1&gt;flex-basis&lt;/g1&gt;を指定することで、要素ごとの理想的な幅を定義することができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T130132Z" creationid="rikiha" creationdate="20170922T114608Z">
+        <seg>一方Flexboxを使えば、&lt;g1&gt;flex-basis&lt;/g1&gt;を指定することで、要素ごとの理想的な幅を定義することができます。</seg>
       </tuv>
     </tu>
     <tu>
