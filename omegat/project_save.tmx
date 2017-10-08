@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26690,7 +26690,9 @@ suffice to sayは「あえて言うなら」くらいのほうがしっくりく
 「メニューの状態を切り替えるためにはJavaScriptが必要」であり「アクセシブルに」が意味不明な感じがします。accessiblyの意味が謎です。
 いったんママで。
 
-(伊原) CSSだけでできるホゲホゲ、みたいなのじゃないよという意味で「アクセシブルに」なのかなと。ママでよいと思いました。</note>
+(伊原) CSSだけでできるホゲホゲ、みたいなのじゃないよという意味で「アクセシブルに」なのかなと。ママでよいと思いました。
+
+(川本さん) なぜでしょう？jsをoffにしていてもアクセシブルなのでしょうか？</note>
       <tuv lang="EN-US">
         <seg>Switching the state of the menu accessibly requires JavaScript.</seg>
       </tuv>
