@@ -16276,7 +16276,16 @@ rudimentaryはここでは「原始的な」くらいでしょうか。
 (太田) 「しかし」で受けるのは少し違和感があります。表示されてしまうから空白ができてしまうと言っているので。
 「デザインに」がちょっと謎。空白ができてしまってデザインが崩れるという話だと思います。意訳しつつ調整してみましたがどうでしょうか。
 
-(伊原) OK!</note>
+(伊原) OK!
+
+(もんどさん)
+&gt;実際には、&lt;symbol&gt;要素自体はレンダリングされませんが、そこには謎の空白ができて、
+マークダウンで言うと、
+`&lt;symbol&gt;要`素自体は
+というおかしなマークアップになっています。
+
+(太田)
+DTPマターと思われます。</note>
       <tuv lang="EN-US">
         <seg>In fact, since &lt;g4&gt;&lt;symbol&gt;&lt;/g4&gt; elements are not themselves rendered, there would be a blank gap in your design.</seg>
       </tuv>
