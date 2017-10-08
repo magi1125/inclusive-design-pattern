@@ -22,13 +22,17 @@ JavaScriptが無効の場合にはGETメソッドでフォームを送信する�
 ※下のコードの下に訳注追加
 訳注:
 通常、著者側のCSSで !important を指定することは避けるべきです。このコードにある大量の !important は、「見苦しいラジオボタン」を徹底的に隠してやろうという著者のジョークでしょう。
+なお、CSS Basic User Interface Module Level 4ではappearance: noneの指定でOSやブラウザ側のルールに沿ったUIのスタイリングを抑制する仕様が検討されており、将来的にはこちらを使うのが主流になるかもしれません。
+
+参考:
+CSS Basic User Interface Module Level 4 - 8.1. Switching appearance
+https://www.w3.org/TR/2015/WD-css-ui-4-20150922/#appearance-switching
 
 
 <分節 2943>
 ><g1>•</g1><g2><g3><g4>aria-live="polite"</g4></g3></g2><g5><g6><g7>（脚注163）</g7></g6></g5>プロパティと<g8><g9><g10>status</g10></g9></g8><g11><g12><g13>（脚注164）</g13></g12></g11>ロールは同じ機能を提供します。
+※訳注削除
 
-訳注:
-実際に上記のコードで使われているのはaria-live="polite"とstatusロールではなく、aria-live="assertive"とalertロールです。これらふたつもやはり同じ機能を提供するもので、両方を指定するのは互換性のためです。
 
 
 <分節 3003>
@@ -43,6 +47,19 @@ JavaScriptが無効の場合にはGETメソッドでフォームを送信する�
 
 訳注:
 読み込み中であるかどうかをボタンのテキストで判定すると、ボタンのテキストが変更されたときに問題が生じます。本書でも何度か自動翻訳の話題が出ていますが、翻訳によってテキストが差し替えられることもありえますので、ボタンのテキストを見る実装は望ましくないでしょう。
+
+
+<分節 3087>
+>ユーザーのための判断の例として、<g2><meta></g2>タグのviewportに<g1>user-scalable=no</g1>を指定してズームを無効にするというものがあります。
+
+訳注:
+W3CのHTML5.2の仕様には、user-scalable=noの指定はアクセシビリティ、ユーザビリティの問題を起こすため、避けるべきであるという旨の注意書きがあります。近年ではブラウザ側で対応する動きも進んでおり、iOS10以降のSafariではuser-scalable=noの指定を無視するようになりました。
+
+HTML 5.2 - 4.2.5. The meta element
+http://www.w3.org/TR/2017/CR-html52-20170808/document-metadata.html#the-meta-element
+
+iOS SDK Release Notes for iOS 10.0
+https://developer.apple.com/library/content/releasenotes/General/RN-iOSSDK-10.0/index.html
 
 
 <分節 3174>
