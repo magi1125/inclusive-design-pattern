@@ -19781,12 +19781,27 @@ implementationを例→実装としました。
 少し簡潔にしました。
 validはvalidでも良いのかも。
 
-(伊原) OK. validとしました。</note>
+(伊原) OK. validとしました。
+
+(もんどさん)
+## p.188 ブロックレベルのリンク
+&gt;技術的にはvalidなマークアップだからといって
+「有効な」などとして訳出することを提案します。
+
+バリデーションという言葉こそ本文に出現しませんが、その言葉を避ける理由としては[4]曰く、
+&gt; Validation is an oldthink word. 
+とされるためです。
+
+[4] HTML5 – Check it Before you Wreck it with Mike[tm] Smith http://html5doctor.com/html5-check-it-before-you-wreck-it-with-miketm-smith/
+
+(太田)
+それもそうですね。
+まあふつうに「妥当」としておきましょう。</note>
       <tuv lang="EN-US">
         <seg>Just because the specification mandates that something is technically valid markup doesn’t mean it produces an agreeable user experience.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170907T163518Z" creationid="rikiha" creationdate="20170905T004403Z">
-        <seg>仕様に沿った、技術的にはvalidなマークアップだからといって、快適なユーザー体験をもたらすということにはなりません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T090008Z" creationid="rikiha" creationdate="20170905T004403Z">
+        <seg>仕様に沿った、技術的には妥当なマークアップだからといって、快適なユーザー体験をもたらすということにはなりません。</seg>
       </tuv>
     </tu>
     <tu>
