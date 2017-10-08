@@ -5263,7 +5263,7 @@ Price:　→価格：</note>
     <tu>
       <note>(川本さん) この余白はわざとでしょうか？
 
-(伊原) time要素直前の半角スペースのこと。</note>
+(伊原) time要素直前の半角スペースのこと。わざとなのでそのまま。</note>
       <tuv lang="EN-US">
         <seg>&lt;g53&gt;&lt;g54&gt;&lt;g55&gt;&lt;&lt;/g55&gt;h1&lt;/g54&gt;&lt;g56&gt;&gt;&lt;/g56&gt;&lt;/g53&gt;How To Mark Up Inclusive Blog Articles&lt;g57&gt;&lt;g58&gt;&lt;g59&gt;&lt;/&lt;/g59&gt;h1&lt;/g58&gt;&lt;g60&gt;&gt;&lt;/g60&gt;&lt;/g57&gt;</seg>
       </tuv>
@@ -37274,7 +37274,8 @@ https://www.w3.org/TR/2017/CR-html52-20170808/common-idioms-without-dedicated-el
 (太田)
 まあそうですね。これはヘイドンさんの主張そのママということで、このままで。
 本書の例以外のものが仕様に乗っているパターンはここに限らず多数あると思いますが、訳注は入れない方向にしたいと思います。このやり方のほうがいい、という話は本の外で議論したいですね。
-</note>
+
+(伊原) OK.</note>
       <tuv lang="EN-US">
         <seg>You cannot therefore depend on it becoming implemented uniformly or reliably in browsers.</seg>
       </tuv>
