@@ -35199,7 +35199,9 @@ divに小細工するのではなく既存のbutton要素を使う、という�
     <tu>
       <note>(伊原) tableが間違ってるみたいになっているので修正。
 
-(太田) OK</note>
+(太田) OK
+
+(川本さん) 書体が本文と同じです（初校PDFへのコメント）</note>
       <tuv lang="EN-US">
         <seg>We don’t use &lt;g3&gt;&lt;table&gt;&lt;/g3&gt; elements for layout because they provide incorrect semantic information to assistive technologies.)</seg>
       </tuv>
