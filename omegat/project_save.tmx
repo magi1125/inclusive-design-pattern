@@ -8135,7 +8135,11 @@ https://material.io/guidelines/usability/accessibility.html#accessibility-style
 
 (太田) 少し調整
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt;Appleは 44pt × 44pt(ピクセル密度とは独立したApple特有の測定単位)
+丸括弧の意味がもう一つよく分からなかったのですが、CSSデバイスピクセルとは関係のなく独立した、物理的なポイント数、（すなわち44/72インチ＝約1.55cm）ということなのでしょうか？（すいません、まるで分かってないです）</note>
       <tuv lang="EN-US">
         <seg>Apple and Android differ in their advice on touch targets with Apple recommending 44 points × 44 points (a density-independent unit of measure related to pixels and unique to Apple) and Android 48px × 48px.</seg>
       </tuv>
