@@ -26318,13 +26318,14 @@ screen estateはどう訳すべきか。
 属性名が装飾されていません。
 
 (太田) 
-ヘイドンフレーズなんだよなぁ。
-後者についてはDTPマターと思われます。※岡本さん確認</note>
+ヘイドンフレーズあかんかなぁ。
+後者についてはDTPマターと思われます。※岡本さん確認
+</note>
       <tuv lang="EN-US">
         <seg>Sometimes it’s tempting to remove visible labels and rely on &lt;g1&gt;placeholder&lt;/g1&gt; attributes to save space (or &lt;g2&gt;screen estate&lt;/g2&gt; if you prefer) but that’s hardly a good reason to diminish the usability of a form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T170336Z" creationid="bakera" creationdate="20170927T091702Z">
-        <seg>ときには、スペースの節約（もしくは、画面上の土地に限りがあると言ったほうが良いでしょうか）のため、ラベルを表示せずに&lt;g1&gt;placeholder&lt;/g1&gt;属性で代用したいという誘惑に駆られることもありますが、フォームのユーザビリティを犠牲にする理由としては、相当苦しいでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T140557Z" creationid="bakera" creationdate="20170927T091702Z">
+        <seg>ときには、スペースの節約（もしくは、&lt;g2&gt;画面上の土地&lt;/g2&gt;に限りがあると言ったほうが良いでしょうか）のため、ラベルを表示せずに&lt;g1&gt;placeholder&lt;/g1&gt;属性で代用したいという誘惑に駆られることもありますが、フォームのユーザビリティを犠牲にする理由としては、相当苦しいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
