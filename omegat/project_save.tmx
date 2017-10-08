@@ -38869,7 +38869,15 @@ Elements with the role status have an implicit aria-live value of polite and an 
 (土屋さん) この訳註は、上の箇条書き (aria-live="polite" ...) が誤りであることの訂正と思われますが、その2つ下の箇条書き (aria-live="assertive" と alert ロールは同じ機能を提供します。...) と重複しているような気がします。
 原書を改変しないという前提であれば、この訳註には「2つ下の箇条書きをご参照ください。」という具合に橋渡し的な一言を入れてもよいかもしれません。
 
-(伊原) やはりここは並べ替えを検討すべきかもしれませんね…</note>
+(伊原) やはりここは並べ替えを検討すべきかもしれませんね…
+
+(もんどさん)
+この訳註は逆に混乱を招かないでしょうか。
+むしろ、なぜ唐突に`aria-live="polite"`が紹介されているのか、コード例の`aria-live="assertive"`とどう違うのかを説明した方がよいように思います。
+
+
+
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-live="polite"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;8&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; property and the &lt;g8&gt;&lt;g9&gt;&lt;g10&gt;status&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;9&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt; role are equivalent.</seg>
       </tuv>
