@@ -17390,7 +17390,9 @@ theを訳出しないと意味が分かりにくいですね。
 p.229では「入力欄」とあり、表現が揺れています。（ちなみに「欄」は常用漢字です）
 
 (太田)
-※岡本さん確認</note>
+クリスピークリームで話した通り、欄は漢字で良いかと思います。
+※岡本さん確認
+</note>
       <tuv lang="EN-US">
         <seg>In the case of the password input, the agreed cipher — the matching content of the &lt;g1&gt;for&lt;/g1&gt; and &lt;g2&gt;id&lt;/g2&gt; values — is simply “password”:</seg>
       </tuv>
@@ -29250,7 +29252,14 @@ log eroors は「エラーログを残す」としました。
 
 (伊原) OK
 
-(太田) と、思いましたが原著のここのマークアップは &lt;code&gt; でした。ので、これは属性名ですね。</note>
+(太田) と、思いましたが原著のここのマークアップは &lt;code&gt; でした。ので、これは属性名ですね。
+
+(もんどさん)
+&gt; placeholder自体はラベルづけをする手段ではなく
+*placeholder自*と誤って装飾されています。
+
+(太田)
+DTPマター※岡本さん確認</note>
       <tuv lang="EN-US">
         <seg>The key word here is &lt;g2&gt;hints&lt;/g2&gt;: the &lt;g3&gt;placeholder&lt;/g3&gt; is not a labeling method by itself and should only be used to provide &lt;g4&gt;supplemental information&lt;/g4&gt;.</seg>
       </tuv>
