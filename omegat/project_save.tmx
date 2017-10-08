@@ -12349,7 +12349,13 @@ PromiseはJavaScriptの非同期処理に使われるオブジェクトです。
 今はIANAが管理しているんですね。
 http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; いずれも、期待するリソースが取得できなかったという結果になります。
+ありていに言ってしまえばその通りですが、400番台と500番台の違いを説明してもよいのかもしれません。
+
+</note>
       <tuv lang="EN-US">
         <seg>For example, &lt;g2&gt;alt&lt;/g2&gt; text describes images in text-only browsers or where image requests return a 403, 404, 500 or 503 status.</seg>
       </tuv>
