@@ -15318,12 +15318,15 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
     <tu>
       <note>(伊原) 微調整
 
-(太田) OK</note>
+(太田) OK
+
+(太田)
+フィルタ→フィルター</note>
       <tuv lang="EN-US">
         <seg>If we have a large inventory of products, some search terms and filtering options are likely to match a considerable number of items.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T053729Z" creationid="rikiha" creationdate="20170909T223820Z">
-        <seg>扱っている商品数が多い場合、検索語句やフィルタオプションによっては、かなりの数のアイテムと一致する可能性があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T125210Z" creationid="rikiha" creationdate="20170909T223820Z">
+        <seg>扱っている商品数が多い場合、検索語句やフィルターオプションによっては、かなりの数のアイテムと一致する可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39535,12 +39538,15 @@ sentは「飛ばされる」としました。
 
 (太田) すこし調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+フィルタ→フィルター</note>
       <tuv lang="EN-US">
         <seg>As with choosing a filtering option, an XHR has to be handled.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T112845Z" creationid="rikiha" creationdate="20170922T112845Z">
-        <seg>フィルタオプションを選択する場合と同様、XHRで処理されることになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T125218Z" creationid="rikiha" creationdate="20170922T112845Z">
+        <seg>フィルターオプションを選択する場合と同様、XHRで処理されることになります。</seg>
       </tuv>
     </tu>
     <tu>
