@@ -22041,12 +22041,16 @@ selected optionは、ユーザーが選んだフィルターオプションで�
 &gt; 色覚障害やロービジョンのユーザー
 ここは「色覚異常」と訳出すべきところでは…？
 
+(太田)
+https://ba-task01.backlog.jp/view/WAIC_WG4-453 の議論で、WAIC内では http://jams.med.or.jp/dic/colorvision.html の用語に従って「色覚異常」で統一することにしました。
+単にそろえても良いのですが、技術文書でもないので、そろえないという選択肢もありです。
+いったん「色覚異常」に統一しておきます。
 </note>
       <tuv lang="EN-US">
         <seg>Note that the selected control is highlighted in a color-independent fashion so that our color-blind and low vision users can determine the selected option.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170912T101332Z" creationid="rikiha" creationdate="20170909T223258Z">
-        <seg>選択されたコントロールが色に依存しない方法でハイライトされており、これによって、色覚障害やロービジョンのユーザーにも、どのオプションが選択されているか判別できることに注目してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T091948Z" creationid="rikiha" creationdate="20170909T223258Z">
+        <seg>選択されたコントロールが色に依存しない方法でハイライトされており、これによって、色覚異常やロービジョンのユーザーにも、どのオプションが選択されているか判別できることに注目してください。</seg>
       </tuv>
     </tu>
     <tu>
