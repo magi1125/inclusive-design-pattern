@@ -3872,8 +3872,8 @@ Elements with the role alert have an implicit aria-live value of assertive, and 
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The equivalent &lt;g2&gt;assertive&lt;/g2&gt; and &lt;g3&gt;alert&lt;/g3&gt; values mean the current readout of the screen reader will be interrupted to announce the live region’s new message.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171008T122209Z" creationid="rikiha" creationdate="20170909T223734Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-live="assertive"&lt;/g2&gt;や&lt;g3&gt;alert&lt;/g3&gt;ロールを指定した場合、ライブリージョンに新しいメッセージが入ると、スクリーンリーダーの現在の読み上げが中断されて、メッセージが読み上げられます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T122238Z" creationid="rikiha" creationdate="20170909T223734Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-live="assertive"&lt;/g2&gt;や&lt;g3&gt;alert&lt;/g3&gt;ロールを指定した場合は、ライブリージョンに新しいメッセージが入ると、スクリーンリーダーの現在の読み上げが中断されて、メッセージが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7818,8 +7818,8 @@ listenは「監視」としてみました。
       <tuv lang="EN-US">
         <seg>Alternative &lt;g4&gt;polite&lt;/g4&gt; and &lt;g5&gt;status&lt;/g5&gt; values would mean the live region contents are announced only after the screen reader has finished announcing the content it is currently set to announce.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T091713Z" creationid="rikiha" creationdate="20170909T223736Z">
-        <seg>かわりに&lt;g4&gt;aria-live=polite&lt;/g4&gt;と&lt;g5&gt;status&lt;/g5&gt;ロールを使った場合は、スクリーンリーダーが読み上げ中のコンテンツを読み終えた後に、ライブリージョンのコンテンツが読み上げられます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T122216Z" creationid="rikiha" creationdate="20170909T223736Z">
+        <seg>かわりに&lt;g4&gt;aria-live=polite&lt;/g4&gt;や&lt;g5&gt;status&lt;/g5&gt;ロールを使った場合は、スクリーンリーダーが読み上げ中のコンテンツを読み終えた後に、ライブリージョンのコンテンツが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38844,7 +38844,7 @@ flimsilyは「安易に」くらいでしょうか。
     <tu>
       <prop type="file">chapter-23.html</prop>
       <prop type="id">tu55_0</prop>
-      <note>※訳注あり
+      <note>※訳注あり→訳注削除
 
 (太田)
 訳としては合っていますが言っていることが分かりにくいですね。
@@ -38876,7 +38876,8 @@ Elements with the role status have an implicit aria-live value of polite and an 
 むしろ、なぜ唐突に`aria-live="polite"`が紹介されているのか、コード例の`aria-live="assertive"`とどう違うのかを説明した方がよいように思います。
 
 (太田)
-やはり混乱しか招かないですし、明確に原著の誤りと判断できるので、しれっと直してしまいましょう。</note>
+やはり混乱しか招かないですし、明確に原著の誤りと判断できるので、しれっと直してしまいましょう。
+訳注削除で。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-live="polite"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;8&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; property and the &lt;g8&gt;&lt;g9&gt;&lt;g10&gt;status&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;9&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt; role are equivalent.</seg>
       </tuv>
@@ -39149,7 +39150,14 @@ resultを訳出。
 (岡本)
 気付かず→気づかず
 
-(伊原) OK、「スクロールバーを見ないで操作することがある」なるほど、自分とは違う操作方法なので気づきませんでした。納得。</note>
+(伊原) OK、「スクロールバーを見ないで操作することがある」なるほど、自分とは違う操作方法なので気づきませんでした。納得。
+
+(もんどさん)
+「トラック」については、WebKit独自拡張のCSSと対比させた方がわかりやすいと思われます。（おそらくこれを意識して原著も書かれたのかと）
+
+参考： Styling Scrollbars https://webkit.org/blog/363/styling-scrollbars/
+
+</note>
       <tuv lang="EN-US">
         <seg>Not realizing the handle has moved away from reach, I may click the scroll track instead and make the page lurch downwards from my current location: a hugely counterintuitive and annoying experience, wherein I’m liable to skip over unread content.</seg>
       </tuv>
