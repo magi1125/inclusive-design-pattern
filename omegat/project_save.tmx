@@ -27211,7 +27211,10 @@ http://www.w3.org/TR/SVG/struct.html#UseElement
 訳註で触れた方がいいような気がします。
 
 [3] https://www.w3.org/TR/SVG2/linking.html#XLinkRefAttrs
-</note>
+
+(太田)
+なるほどですね。
+訳注追加かな。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;symbol&gt;&lt;/g1&gt; can be used within our menu button by referencing its &lt;g2&gt;id&lt;/g2&gt; with a &lt;g3&gt;&lt;use&gt;&lt;/g3&gt; element.</seg>
       </tuv>
