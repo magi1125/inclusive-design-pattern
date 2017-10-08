@@ -12625,12 +12625,13 @@ googleのSERP内において、検索結果のページタイトルはh3でマ�
 
 (太田)
 incorporatesの訳が漏れてますね。
-調整してみました。</note>
+補いつつ調整してみました。
+</note>
       <tuv lang="EN-US">
         <seg>For example, they use a custom &lt;g1&gt;&lt;g-review-stars&gt;&lt;/g1&gt; element which incorporates an &lt;g2&gt;aria-label&lt;/g2&gt; to spell out the rating.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171008T090801Z" creationid="yoota" creationdate="20170908T084233Z">
-        <seg>たとえば、Googleの検索結果で使われている&lt;g1&gt;&lt;g-review-stars&gt;&lt;/g1&gt;というCustom Elementsの中を見ると、&lt;g2&gt;aria-label&lt;/g2&gt;を使って評価が読み上げられるようにしています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T091014Z" creationid="yoota" creationdate="20170908T084233Z">
+        <seg>たとえば、Googleの検索結果で使われている&lt;g1&gt;&lt;g-review-stars&gt;&lt;/g1&gt;というCustom Elementsの内容を見ると、&lt;g2&gt;aria-label&lt;/g2&gt;で評価が読み上げられるように工夫されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22034,7 +22035,13 @@ selected optionは、ユーザーが選んだフィルターオプションで�
 「判別」としつつ調整しました。
 # ちなみにWCAGの "Programmatically Determined" は「プログラムによる解釈」という訳にしていますが、ここは無理にあわせなくても良いかと。
 
-(伊原) おおなるほど、ありがとうございます。OKです。</note>
+(伊原) おおなるほど、ありがとうございます。OKです。
+
+(もんどさん)
+&gt; 色覚障害やロービジョンのユーザー
+ここは「色覚異常」と訳出すべきところでは…？
+
+</note>
       <tuv lang="EN-US">
         <seg>Note that the selected control is highlighted in a color-independent fashion so that our color-blind and low vision users can determine the selected option.</seg>
       </tuv>
