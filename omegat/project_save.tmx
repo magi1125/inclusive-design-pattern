@@ -34144,7 +34144,14 @@ unless or until は厳密に訳さなくても良いように思います。
 
 (伊原) ブラウザで挙動で画像が表示されるのは自発的なダウンロードではない感じなので、受身にしました。
 
-(太田) OK</note>
+(太田) OK
+
+(もんどさん)
+&gt; &lt;img/&gt;要素がビューポートに入るまで画像リソースはダウンロードされません。
+`&lt;img&gt;`要素としてしまって良いのではないでしょうか。（p.181も同様に）
+
+(太田)
+文中は &lt;img/&gt; とするのがヘイドンさんのスタイルっぽいですが、こだわる必要もないので /&gt; なしで統一したいと思います。</note>
       <tuv lang="EN-US">
         <seg>Using lazy loading means not downloading the image resource unless or until the &lt;g3&gt;&lt;img/&gt;&lt;/g3&gt; element enters the viewport.</seg>
       </tuv>
