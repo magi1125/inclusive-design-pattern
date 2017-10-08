@@ -36022,7 +36022,13 @@ your decision-making は、その構造を選択するという意思決定を�
 
 (太田) 画像でリンクする→画像をリンクにする、のほうがしっくりくるかなと。
 
-(伊原) OK</note>
+(伊原) OK
+
+(川本さん) 「ナビゲーション部分のホームの位置にプロジェクトロゴ画像を配置してそれをホームへのリンクとする場合」「alt="プロジェクトのホームへ"とするのがよい」という解釈で合っているでしょうか。
+
+あと「ナビゲーションを画像にする場合、その画像がリンク先の名前しか掲載していない場合は」という意味も含まれていますか？
+文脈があるとはいえ、この書き方では「すべての画像においてリンクをさせる場合はリンク先について書くべき」と誤った解釈が起こるかもしれません。もうすこし説明があると安全かもしれません。
+</note>
       <tuv lang="EN-US">
         <seg>Where an image is the content of a link, the alternative text (&lt;g1&gt;alt&lt;/g1&gt; value) should describe the purpose of the link, not the nature of the image.</seg>
       </tuv>
