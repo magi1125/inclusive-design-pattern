@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26326,8 +26326,7 @@ screen estateはどう訳すべきか。
 原文強調が反映漏れだったので反映しました。強調されればHP感が出るのではないかと。
 画面上の土地→画面の土地、のほうがいいかも。
 
-後者の装飾についてはDTPマターと思われます。※岡本さん確認
-</note>
+後者の装飾についてはDTPマターと思われます。※岡本さん確認</note>
       <tuv lang="EN-US">
         <seg>Sometimes it’s tempting to remove visible labels and rely on &lt;g1&gt;placeholder&lt;/g1&gt; attributes to save space (or &lt;g2&gt;screen estate&lt;/g2&gt; if you prefer) but that’s hardly a good reason to diminish the usability of a form.</seg>
       </tuv>
@@ -27844,7 +27843,16 @@ OK、見出しにマークアップが含まれるので電子化時には注意
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) OK</note>
+      <note>※訳注あり
+
+(伊原) OK
+
+(もんどさん)
+&gt; required属性は、すべてのブラウザで実装されているわけではありません※ 187
+※ 187 http://caniuse.com/#feat=form-validation によれば、現行のブラウザはOpera Mini以外フルサポートしており、今となってはややつらい言い分。スクリーンリーダーの実装状況は不明ですが、原題が書かれた頃よりかは改善されているのでは？
+
+(太田)
+iOS10.3でグリーンになっているので、原著執筆時はまだだったのでしょうね。訳注ですかね。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;required&lt;/g4&gt; attribute is not implemented uniformly&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;14&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; across browsers.</seg>
       </tuv>
