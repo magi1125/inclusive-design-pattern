@@ -28445,7 +28445,22 @@ http://www.unicode.org/charts/PDF/U2600.pdf
 ※ 108が2つ見えます。（109がない）
 
 (太田)
-これは修正済み?</note>
+これは修正済み?
+
+(もんどさん)
+&gt; なお、2017年8月現在、NVDA2017.2jaでは「☰」を全く読み上げません。
+8月25日にNVDA2017.3jaがリリース[1]されてしまったので、あえて7月現在とでもするか、NVDA2017.3jaの説明に差し替えた方が良さそうです。
+
+[1] https://www.nvaccess.org/post/nvda-2017-3-now-available-for-download/
+
+また、
+&gt; lang="ja"の場合でも、lang="zh-CN" の場合でも読みは変わりませんでした。
+とありますが、lang="zh"だけでよいのでは…？（国コードCNをあえて入れる意味はあるのか…？）
+
+(太田)
+確認しましたがNVDA2017.3jpでも同じでした。
+
+</note>
       <tuv lang="EN-US">
         <seg>The first is that not all devices support a Unicode set extensive enough to include this character, the “trigram for heaven.” The second is that, unlike an icon font which is mapped to Unicode points in the &lt;g1&gt;&lt;g2&gt;private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, this character is more likely to be interpreted by assistive technology.</seg>
       </tuv>
