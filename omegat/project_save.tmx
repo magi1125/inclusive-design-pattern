@@ -10720,12 +10720,14 @@ flex-wrap: wrapのときflex-shrinkは機能するのだろうか……と思い
       </tuv>
     </tu>
     <tu>
-      <note>(川本さん) 昨夜、が自然でしょうか</note>
+      <note>(川本さん) 昨夜、が自然でしょうか
+
+(伊原) 昨夜に修正</note>
       <tuv lang="EN-US">
         <seg>By the end of the party we’re not reacquainted, but in a conversation with our mutual friend over the phone the following day, they apologize to you again for the previous night’s interruption.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T081150Z" creationid="okamoto_jun" creationdate="20170627T081150Z">
-        <seg>それからパーティーが終わるまで、あなたと私が再会することはありませんでした。翌日、あなたは友人と電話で話しているときに、前夜は会話を中断させて申し訳なかったと謝罪されます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171008T205938Z" creationid="okamoto_jun" creationdate="20170627T081150Z">
+        <seg>それからパーティーが終わるまで、あなたと私が再会することはありませんでした。翌日、あなたは友人と電話で話しているときに、昨夜は会話を中断させて申し訳なかったと謝罪されます。</seg>
       </tuv>
     </tu>
     <tu>
