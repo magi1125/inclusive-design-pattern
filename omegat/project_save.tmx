@@ -13392,7 +13392,9 @@ tiptoeはつま先立ちで歩く。
 もちろんその通りだと思いますが、後の「フォントのサブセット化」で解決策の1つが示されている（とは言っても現実的には無理筋っぽい）ので、これも難しいところ
 
 (太田)
-訳注に「後の「フォントのサブセット化」も見てね」などと補っておきましょう。</note>
+訳注に「後の「フォントのサブセット化」も見てね」などと補っておきましょう。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For this to work, the fonts will have to be base64-encoded and embedded into the style sheet in question.</seg>
       </tuv>
