@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1677,7 +1677,8 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
 (太田) 前の分節の訳注として書いておきました (実際にはコードの下に挿入)。
 
 (川本さん) ここに来てようやくわかりました。
-「人生は短い。長ったらしく書いてないで短く書いたほうがいい」みたいな意味ですね</note>
+「人生は短い。長ったらしく書いてないで短く書いたほうがいい」みたいな意味ですね
+...と気づいたタイミングで訳注で説明されていました。「人生は短い」の初登場時（P51）に教えてほしいです。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- life is too short!</seg>
       </tuv>
@@ -11725,7 +11726,9 @@ draw onは経験を活かすような意味。
       <note>(太田)
 語順など調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(川本さん) h2なのかh3なのかh4なのかは、そのサイトの構造に左右されるものです。商品リストはかならずh3なのではなく、見出しレベルが同等であるというところこそが重要なので、「h3にしなきゃ」という誤解を与えないような言い回しにすべきかもしれません。「このリストがh2配下にあるとしたら」など、状況を仮定するとh3が使えます。</note>
       <tuv lang="EN-US">
         <seg>Each product should have a heading of the same (third) level because they are equal in hierarchy as members of the same list.</seg>
       </tuv>
@@ -13243,7 +13246,9 @@ For thatは「その実現」としてみました。
 
 (太田) じゃっかん硬い気がしたので少し砕いてみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(川本さん) プリント写真ショップ？写真を販売している？なじみがなかったです</note>
       <tuv lang="EN-US">
         <seg>For this particular pattern, I want you to imagine a hypothetical photography app has a built in shop, selling photographic prints.</seg>
       </tuv>
