@@ -33168,7 +33168,15 @@ can なので「使っても良い」くらいですね。
 「オンオフに関係なく」だとオンオフを切り替えても文字色が変わらないようにも読めます。「オンオフいずれの場合でも」としつつ、位置を少し調整しました。
 後半が微妙にわかりにくいかもしれません。2文に分けつつ調整してみましたがどうでしょうか。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt;ここでは、これを&lt;path&gt;のfillプロパティとして設定します。
+（編集上の問題ですが）「fi」が予期しないリガチャになっています。
+
+(太田)
+これはDTPマター?
+</note>
       <tuv lang="EN-US">
         <seg>To make the icon adopt the color of the button element’s font — both with high contrast mode on or off — we can use CSS’s &lt;g1&gt;currentColor&lt;/g1&gt; value and set it on the &lt;g2&gt;&lt;path&gt;&lt;/g2&gt;’s &lt;g3&gt;fill&lt;/g3&gt; property.</seg>
       </tuv>
