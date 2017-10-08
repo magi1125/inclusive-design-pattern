@@ -29204,7 +29204,10 @@ https://www.google.com/get/noto/
 (土屋さん) Noto が No Tofu の略記である旨があると、よりわかりやすいかもしれません。
 
 (伊原) 上記は訳注に対するコメント
-(伊原) 上記は訳注に対するコメント</note>
+
+(太田)
+訳注には「ちなみに、GoogleのNotoフォントの名前は"no more tofu"に由来します。」と書いてあります。訳注反映ミス?
+</note>
       <tuv lang="EN-US">
         <seg>The problem comes when the user-defined font does not support the characters used for the icons, and leaves generic “Glyph not defined” boxes in their place.</seg>
       </tuv>
@@ -32291,7 +32294,13 @@ OKかと。
 
 (岡本)　素敵→ステキ　　でしょうか
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; そうなると、そこらじゅう汎用ボックスだらけ、というステキなデザインになります。
+忠実に訳した結果「汎用ボックス」という訳語になったと思いますが、
+「汎用ボックス」が汎用過ぎるため、「グリフ未定義」か「豆腐」にした方が読み返さなくて済む気がします。
+</note>
       <tuv lang="EN-US">
         <seg>This will result in the generic-boxes-all-over-the-place effect.</seg>
       </tuv>
@@ -33144,8 +33153,7 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
 少なくとも紙の書籍では (PDF) は不要。
 電子版ではどうするか?
 いったんとりました。
-
-</note>
+&lt;分節 0603&gt; からも削除。</note>
       <tuv lang="EN-US">
         <seg>To pick just one study, “&lt;g1&gt;&lt;g2&gt;Icons Improve Older and Younger Adults’ Comprehension of Medication Information&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;2&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;” (PDF) found that medication dosage and routine were more quickly understood when icons were used to represent the salient information.</seg>
       </tuv>
