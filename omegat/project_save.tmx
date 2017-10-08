@@ -38478,7 +38478,14 @@ https://allyjs.io/api/fix/pointer-focus-children.html を見ると、flexコン�
 (岡本)
 共に→ともに
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt;dir属性を含めることで設定できます。
+ここは`dir`属性と装飾すべきでしょう。
+
+(太田)
+DTPマターと思われます。※岡本さん確認</note>
       <tuv lang="EN-US">
         <seg>Setting the text direction for the document is possible by including the &lt;g1&gt;dir&lt;/g1&gt; attribute (alongside the &lt;g2&gt;lang&lt;/g2&gt; attribute) on the HTML element.</seg>
       </tuv>
