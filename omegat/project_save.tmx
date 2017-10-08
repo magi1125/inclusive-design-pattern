@@ -17365,7 +17365,9 @@ bullet pointはそのまま「ビュレット」と書かれる事もありま�
 訳注: 
 CSSには「カスケード」と呼ばれる仕組みがあり、著者(Author, コンテンツ制作者)、ユーザー、ユーザーエージェントの三者がそれぞれスタイルを定義することができます。コンテンツ制作者がCSSを用意していない場合、ブラウザ側が用意しているスタイルがそのまま使われます。また、それらに加えて、ユーザーが独自のスタイルを定義することもできます。
 
-(伊原) なるほど、OKです</note>
+(伊原) なるほど、OKです
+
+(川本さん) 著者者になってます</note>
       <tuv lang="EN-US">
         <seg>In the absence of author CSS, the browser will display each list item with a bullet point and render the heading text in a large, bold font.</seg>
       </tuv>
