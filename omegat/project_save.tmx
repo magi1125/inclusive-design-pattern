@@ -28336,7 +28336,7 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
 
 土屋の手元の iPhone (iOS11, Safari, VoiceOver) と MacBook Pro (macOS Sierra, Safari 11, VoiceOver) とで確認したところ、iPhone ではたしかに article 要素をランドマークとして扱う挙動をしていましたが、Mac では特にそういう挙動は見られませんでした。
 
-(伊原) 上記は訳注へのコメント
+(伊原) 上記は訳注へのコメント。訳注に「iOS」と追記いただくのが良いかも。
 </note>
       <tuv lang="EN-US">
         <seg>The JAWS screen reader (and &lt;g3&gt;only&lt;/g3&gt; the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
