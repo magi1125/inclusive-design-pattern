@@ -39157,6 +39157,10 @@ resultを訳出。
 
 参考： Styling Scrollbars https://webkit.org/blog/363/styling-scrollbars/
 
+(太田)
+scrollbar-track-colorはIEにもあり、どうもIE5.5(!)からあったようです。
+https://msdn.microsoft.com/en-us/library/ms531160(v=vs.85).aspx
+
 </note>
       <tuv lang="EN-US">
         <seg>Not realizing the handle has moved away from reach, I may click the scroll track instead and make the page lurch downwards from my current location: a hugely counterintuitive and annoying experience, wherein I’m liable to skip over unread content.</seg>
