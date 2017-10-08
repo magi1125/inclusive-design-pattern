@@ -10847,12 +10847,22 @@ supplantは強引に置き換える、取って代わるというようなネガ
 (太田) 
 順番調整しつつまとめてみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; アクセシビリティツリー※ 120 に頼らざるを得ない支援技術のユーザーに
+支援技術さえ使わなければ、アクセシビリティツリーを考慮しなくてもよいということ（？　単なる揚げ足取りですが。）
+原文は分かりませんが、仮に"have to"なら単に「頼る必要のある」ぐらいでよいのではないでしょうか。
+
+(太田)
+原文は depend on ですね。そのまま依存でもいいのかも。
+ちょっと原文とニュアンスが違ってきているようにも思ったので、あらためて大幅に調整してみました。
+</note>
       <tuv lang="EN-US">
         <seg>Communicating the state of functional elements within web interfaces is an important part of making those interfaces inclusive of anyone using assistive technology and who is therefore dependent on the &lt;g1&gt;&lt;g2&gt;accessibility tree&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;22&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170822T072030Z" creationid="rikiha" creationdate="20170819T005210Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;アクセシビリティツリー&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注119）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;に頼らざるを得ない支援技術のユーザーにWebインターフェイスの状態を伝えることは、インターフェイスをインクルーシブにするうえで重要なことです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T052615Z" creationid="rikiha" creationdate="20170819T005210Z">
+        <seg>インターフェイスを、&lt;g1&gt;&lt;g2&gt;アクセシビリティツリー&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注119）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;に依存する支援技術のユーザーにもインクルーシブなものにするためには、Webインターフェイスの状態を伝えることが重要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18119,7 +18129,13 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
 これ今考慮する必要あるんですかね、という疑問はありますね。
 「8以前」という表現は8を含むのか含まないのか判然としないかも。むしろ「9未満」で良いような。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; しかし、Internet Explorer 9 未満や、その他の古いブラウザでは、インラインSVGのフォールバックが必要です。
+どのぐらいの古いブラウザを指しているのか、個人的には気になります。
+（おそらく古いモバイルブラウザしか影響を受けないような気がしますが。）
+</note>
       <tuv lang="EN-US">
         <seg>Internet Explorer preceding version 9 and other older browsers need a fallback for inline SVG.</seg>
       </tuv>
