@@ -8026,7 +8026,9 @@ proxy elementは力強く削除してしまったほうが分かりやすそう�
 
 (伊原) あとのほうで「できるだけSVGで」と言っており、ARIAはできれば使わずに、の原則から考えても、予備的、予備の、といったほうが良さそうな感はありました。
 
-(太田) OK</note>
+(太田) OK
+
+</note>
       <tuv lang="EN-US">
         <seg>Another auxiliary method for labeling the icon is to use an &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-label&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;17&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; attribute.</seg>
       </tuv>
@@ -34389,6 +34391,14 @@ divに小細工するのではなく既存のbutton要素を使う、という�
 (太田)
 もう少しそのままでもいいような。
 ここに限りませんがアタッチは「指定」などとしたほうが良い気がしてきました。
+
+(もんどさん)
+&gt; このグローバルプロパティは要素に代替テキストをアタッチするもので、alt属性とよく似ていますが、
+&gt; &lt;img&gt;タグ以外にも使えます。&lt;button&gt;要素に直接、aria-labelをアタッチすることもできます。
+個人的に「アタッチ」とカタカナで訳出するのは微妙な違和感があります。
+（日本語にしてしまった方がよい気がします。）
+
+()
 </note>
       <tuv lang="EN-US">
         <seg>We can attach an &lt;g9&gt;aria-label&lt;/g9&gt; directly to the &lt;g10&gt;&lt;button&gt;&lt;/g10&gt; element:</seg>
