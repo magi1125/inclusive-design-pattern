@@ -33614,12 +33614,16 @@ separateは分離ですが、ここでは物理的に(?)距離を空けるとい
 prependは前に追加するニュアンス。
 「メッセージの頭に」と補いました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+people who cannot see colorは「色覚障害」よりも広い意味のように思います。「色を見分けられない環境の人」くらいでしょうか。
+</note>
       <tuv lang="EN-US">
         <seg>To support at the same time screen reader users and people who cannot see color, we can prepend a warning icon containing alternative text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T112553Z" creationid="bakera" creationdate="20170929T090804Z">
-        <seg>スクリーンリーダーユーザーや色覚障害を持つ人々も同時にサポートするために、メッセージの頭に警告アイコンを追加して、代替テキストを含めます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T092143Z" creationid="bakera" creationdate="20170929T090804Z">
+        <seg>スクリーンリーダーユーザーや、色を見分けられない環境の人々も同時にサポートするために、メッセージの頭に警告アイコンを追加して、代替テキストを含めます。</seg>
       </tuv>
     </tu>
     <tu>
