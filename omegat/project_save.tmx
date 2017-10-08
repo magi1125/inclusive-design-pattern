@@ -27159,12 +27159,14 @@ JISだと「堅ろう」なのですよね。
 
 (岡本) 1つ→ひとつ、すべて→全て
 
-(土屋さん) この図のキャプションと、前後の文脈が、いまひとつフィットしていない印象を受けました。</note>
+(土屋さん) この図のキャプションと、前後の文脈が、いまひとつフィットしていない印象を受けました。
+
+(伊原) a breakpoint for every width は、もしかしたら「あらゆる幅のブレイクポイント」ということなのかも。訳し直してみました。</note>
       <tuv lang="EN-US">
         <seg>That doesn’t mean you need a breakpoint for every width.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012950Z" creationid="yoota" creationdate="20170426T061542Z">
-        <seg>ただしそれは、ひとつのブレイクポイントで全ての幅に対応しなければならないということではありません。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171008T213906Z" creationid="yoota" creationdate="20170426T061542Z">
+        <seg>ただしそれは、あらゆる幅のブレイクポイントが必要だということではありません。</seg>
       </tuv>
     </tu>
     <tu>
