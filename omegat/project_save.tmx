@@ -38372,7 +38372,12 @@ flex-wrap: wrapのときflex-shrinkは機能するのだろうか……と思い
 
 調整しました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(川本さん) 不要？
+（152の場面ではない）
+（ページ内に※はない）
+※初校PDFへのコメント</note>
       <tuv lang="EN-US">
         <seg>By switching on &lt;g2&gt;flex-grow&lt;/g2&gt; and &lt;g3&gt;flex-shrink&lt;/g3&gt;, the grid elements can expand and collapse around this ideal, preserving a complete and orderly grid across an infinite range of viewports.</seg>
       </tuv>
