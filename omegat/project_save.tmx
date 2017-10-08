@@ -3794,13 +3794,15 @@ key informationを「カギとなる情報」としたので、あわせまし�
 また、p.183 コードの補足でも述べたように、HTMLコード断片への装飾が抜けています。
 
 (太田)
-スルーしてましたね。&lt;分節 3458&gt;では「ブール型」としています。
+スルーしてましたね。&lt;分節 3458&gt;では「ブール型」としています。「ブール型」で。
+&lt;分節 3458&gt;のブール型属性の書き方の訳注はこっちに持ってくるのもありかも?
+
 装飾抜けについてはDTPマターと思われます。※岡本さん確認</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;itemscope&lt;/g2&gt; Boolean attribute and &lt;g3&gt;itemtype&lt;/g3&gt; reference are placed on the wrapping &lt;g4&gt;&lt;main&gt;&lt;/g4&gt; element to define the context for our product data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170909T125726Z" creationid="yoota" creationdate="20170908T083629Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;全体をくくる&lt;g4&gt;&lt;main&gt;&lt;/g4&gt;要素に対して&lt;g2&gt;itemscope&lt;/g2&gt; Boolean属性と、&lt;g3&gt;itemtype&lt;/g3&gt;の参照を指定して、商品データのコンテキストを定義しています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T090424Z" creationid="yoota" creationdate="20170908T083629Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;全体をくくる&lt;g4&gt;&lt;main&gt;&lt;/g4&gt;要素に対して、ブール型属性の&lt;g2&gt;itemscope&lt;/g2&gt;と、&lt;g3&gt;itemtype&lt;/g3&gt;の参照を指定して、商品データのコンテキストを定義しています。</seg>
       </tuv>
     </tu>
     <tu>
