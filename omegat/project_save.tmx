@@ -94,7 +94,14 @@ https://allyjs.io/api/fix/pointer-focus-children.html を見ると、flexコン�
 
 (土屋さん) XMLのタグ？が消し忘れで残ってしまっている？
 
-(伊原) 初校PDFで&lt;g2&gt;&lt;/g2&gt;が出てしまっている</note>
+(伊原) 初校PDFで&lt;g2&gt;&lt;/g2&gt;が出てしまっている
+
+(もんどさん)
+&gt; &lt;g2&gt;&lt;table&gt;&lt;/g2&gt;
+OmegaTのタグが残ったままです。
+
+(太田)
+DTPマターと思われます。※岡本さん確認</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note&lt;/g1&gt;: This automatic reversal is also true of &lt;g2&gt;&lt;table&gt;&lt;/g2&gt; elements which switch their column order.</seg>
       </tuv>
