@@ -4337,12 +4337,26 @@ VoiceOverでは「きゅうじゅっセンチメートルかけるさんじゅ�
 NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さんじゅっセンチメートル」、ただし一文字ずつ読み上げさせると「かける」と読みます。
 スクリーンリーダーの設定等に依存する旨を訳注ですかね。
 
-(伊原) OK、訳注お願いします。</note>
+(伊原) OK、訳注お願いします。
+
+(もんどさん)
+&gt; 「90cm × 30cm」は正しいUnicode文字（乗算記号）を使って書かれているので、
+「正しいUnicode文字」という言い回しが若干引っかかりました。
+（原文にそうあるのかもしれませんが、"Unicodeで乗算記号として割り当てられた符号位置の文字を使う"ことをもう少し正確に言えれば、
+あるいは訳註で示せれば、と言う気がします。
+"⨯" U+2A2F VECTOR OR CROSS PRODUCTでもなく、"✕" U+2715 MULTIPLICATION Xでもなく、"✖" U+2716 HEAVY MULTIPLICATION Xでもなく、
+後述の"x" U+0078 LATIN SMALL LETTER Xでもない…とここまでクドく書かなくてもよい気はしますが、
+意図した符号位置の文字を使うことは強調してもよいかもしれません。）
+
+(太田)
+原文が力強く correct なので合ってはいますね。
+「適切な」くらいにしておきましょうか。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;“90cm × 30cm” is written using the correct (multiplication) Unicode character, so that “Thirty C M &lt;g2&gt;times&lt;/g2&gt; ninety C M” is announced in screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170904T065009Z" creationid="rikiha" creationdate="20170828T141918Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;「90cm × 30cm」は正しいUnicode文字（乗算記号）を使って書かれているので、スクリーンリーダーでは「きゅうじゅっセンチメートルかけるさんじゅっセンチメートル」と読み上げられます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T082152Z" creationid="rikiha" creationdate="20170828T141918Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;「90cm × 30cm」は適切なUnicode文字（乗算記号）を使って書かれているので、スクリーンリーダーでは「きゅうじゅっセンチメートルかけるさんじゅっセンチメートル」と読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
