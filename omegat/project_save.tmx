@@ -27850,7 +27850,15 @@ Flesch-Kincaidリーダビリティテストは、当然ながら英文を念頭
 
 (伊原) 入力→入力欄
 
-(太田) OK</note>
+(太田) OK
+
+(もんどさん)
+&gt; &lt;label&gt;要素を使ってfor属性を指定することです。for属性に入力欄のidの値を指定して、ラベルを関連づけます。これが、idを確実に
+`for`と`id`の装飾があったりなかったりしています
+
+(太田)
+すべて装飾ありが正です。DTPマターと思われます。
+※岡本さん確認</note>
       <tuv lang="EN-US">
         <seg>The &lt;g3&gt;for&lt;/g3&gt; attribute associates the label with an input using its &lt;g4&gt;id&lt;/g4&gt; value.</seg>
       </tuv>
@@ -30166,7 +30174,9 @@ sound semantic structureとは。
       <note>(太田)
 すこし短めに調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+</note>
       <tuv lang="EN-US">
         <seg>The standard way to achieve this is by using a &lt;g1&gt;&lt;label&gt;&lt;/g1&gt; element, which takes a &lt;g2&gt;for&lt;/g2&gt; attribute.</seg>
       </tuv>
