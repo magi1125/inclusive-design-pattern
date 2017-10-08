@@ -10641,7 +10641,7 @@ Enhancementは改善でいいのか。
       </tuv>
     </tu>
     <tu>
-      <note>※要訳注?
+      <note>※要訳注?→訳注なし
 
 (伊原) Operaで接頭辞付きでしかサポートされていないので「ほとんどサポートされていません」としました。work is underwayとしてW3C仕様にリンクしているので、意訳になりますが「仕様策定は進んでいます」としました。
 
@@ -10658,7 +10658,19 @@ http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#speaking-props
 ということで、1998年から仕様はあったと言えばあったわけです。「仕様策定は進んでいます」というのは微妙なので、単に「進んではいます」としてみました。
 いろいろ面倒ですがこのへん訳注?
 
-(伊原) すみけん本（謎）でそういえば見かけた気がします。そうですね、訳注お願いできればと。</note>
+(伊原) すみけん本（謎）でそういえば見かけた気がします。そうですね、訳注お願いできればと。
+
+(もんどさん)
+&gt;（ただし仕様策定は進んでいります ※111）
+※111でCSS Speechが参照されていますが、CSSWGのドキュメント[2]によれば、NOTEとして発行されることが示唆されています。
+…とは言っても、現状ではこれと言ったリポジトリの動きはないので、依然としてCRとして発行される可能性もありますが、
+実装が存在しないことには変わりありません。
+（訳註に書いていいものかも微妙なところですが、現状はこうなっているというインプットと言うことで。）
+
+[2] https://github.com/w3c/csswg-drafts/blob/master/Transitions.md
+
+(太田)
+いろいろ面倒なのでスルーの方向で……。</note>
       <tuv lang="EN-US">
         <seg>CSS pseudo-content is, typically, announced by screen readers and there’s no “Don’t say this” property that’s supported well (although &lt;g2&gt;&lt;g3&gt;work is underway&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;13&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;).</seg>
       </tuv>
