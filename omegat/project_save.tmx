@@ -1381,6 +1381,20 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
     </tu>
     <tu>
+      <note>(もんどさん)
+
+&lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt;
+```
+というようなコード断片がありますが、SVG2では名前空間接頭辞の付いたhrefはdeprecated扱いになっている[3]ことは、
+訳註で触れた方がいいような気がします。
+
+[3] https://www.w3.org/TR/SVG2/linking.html#XLinkRefAttrs
+</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g16&gt;&lt;g17&gt;&lt;g18&gt;&lt;&lt;/g18&gt;use&lt;/g17&gt; &lt;g19&gt;&lt;g20&gt;xlink:&lt;/g20&gt;href&lt;/g19&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"#upvote"&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g16&gt;&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;/&lt;/g26&gt;use&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g178&gt;&lt;g179&gt;&lt;g180&gt;&lt;/&lt;/g180&gt;label&lt;/g179&gt;&lt;g181&gt;&gt;&lt;/g181&gt;&lt;/g178&gt;</seg>
       </tuv>
@@ -27188,7 +27202,16 @@ IEとChromeで見た感じでは、xmlnsの定義なしで動きますし、名�
 http://www.w3.org/TR/SVG/struct.html#UseElement
 逆に &lt;use xmlns:foo="http://www.w3.org/1999/xlink" foo:href="#navicon"&gt; と書いても動かないので名前空間を処理しているわけではない模様。
 
-(伊原) なるほど。そのへんの実装の根拠とかがわかると警察の人が喜ぶかもしれませんね。</note>
+(伊原) なるほど。そのへんの実装の根拠とかがわかると警察の人が喜ぶかもしれませんね。
+
+(もんどさん)
+&lt;svg&gt;&lt;use xlink:href="#navicon"&gt;&lt;/use&gt;&lt;/svg&gt;
+```
+というようなコード断片がありますが、SVG2では名前空間接頭辞の付いたhrefはdeprecated扱いになっている[3]ことは、
+訳註で触れた方がいいような気がします。
+
+[3] https://www.w3.org/TR/SVG2/linking.html#XLinkRefAttrs
+</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;symbol&gt;&lt;/g1&gt; can be used within our menu button by referencing its &lt;g2&gt;id&lt;/g2&gt; with a &lt;g3&gt;&lt;use&gt;&lt;/g3&gt; element.</seg>
       </tuv>
