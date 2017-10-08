@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3512,7 +3512,13 @@ https://greative.jp/page/guidebook-spa-seo-1/</note>
       <note>(太田)
 OK
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; 最初に読む必要のあるコンテンツを、ソースの最後に配置する。
+残りの3項目は全て体言止めになっているので、リズムを合わせるために「配置すること」としてはどうでしょうか。
+
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Putting content that needs to be read &lt;g2&gt;first&lt;/g2&gt; last in the source.</seg>
       </tuv>
@@ -16231,12 +16237,23 @@ In addition を「その上」とすると前からのつながりがおかし�
 
 (伊原) OK
 
-(土屋さん) 全体的に、達成基準名は和訳されているので、ここも「見出し及びラベル」でしょうか。</note>
+(土屋さん) 全体的に、達成基準名は和訳されているので、ここも「見出し及びラベル」でしょうか。
+
+(もんどさん)
+&gt; WCAGは、達成基準2.4.6「Headings and Labels」
+（p.225では訳出されているので、）邦訳「見出し及びラベル」とします。
+
+&gt; ユーザーを混乱させたり憤慨させることがあります。
+「～たり」は繰り返し用いるのがよいとされますから、「混乱させたり憤慨させたりする」としてはどうでしょうか。
+
+(太田)
+達成基準のタイトルは訳すべきですね。漏れてました。
+対応しました。</note>
       <tuv lang="EN-US">
         <seg>In an official capacity, WCAG echoes Bill’s sentiments with the &lt;g2&gt;&lt;g3&gt;2.4.6 Headings and Labels&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;21&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; success criterion, imploring that “headings and labels describe topic or purpose.” Branding whimsy in your copy can diverge too much from transparent wording, confusing and infuriating the user.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T080243Z" creationid="bakera" creationdate="20170929T091011Z">
-        <seg>WCAGは、&lt;g2&gt;&lt;g3&gt;達成基準2.4.6「Headings and Labels」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注192）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で「見出し及びラベルは、主題又は目的を説明している」と述べており、公式にビルの意見に同調しています。奇抜なブランディングのコピーは、率直で分かりやすい言い回しからかけ離れ、ユーザーを混乱させたり憤慨させることがあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T142853Z" creationid="bakera" creationdate="20170929T091011Z">
+        <seg>WCAGは、&lt;g2&gt;&lt;g3&gt;達成基準2.4.6「見出し及びラベル」&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注192）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;で「見出し及びラベルは、主題又は目的を説明している」と述べており、公式にビルの意見に同調しています。奇抜なブランディングのコピーは、率直で分かりやすい言い回しからかけ離れ、ユーザーを混乱させたり憤慨させたりすることがあります。</seg>
       </tuv>
     </tu>
     <tu>
