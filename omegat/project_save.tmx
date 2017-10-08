@@ -4635,7 +4635,8 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
 
 (太田)
 OmegaT上では訳されているので、DTPの問題か反映タイミングの問題と思われます。
-</note>
+
+(伊原) DTPマター、岡本さん確認。</note>
       <tuv lang="EN-US">
         <seg>&lt;g26&gt;/* alternative text rules */&lt;/g26&gt;</seg>
       </tuv>
@@ -10719,12 +10720,12 @@ flex-wrap: wrapのときflex-shrinkは機能するのだろうか……と思い
 
 (土屋さん) 「識字能力」と「リテラシー」は同義のような気がしますが (どちらも英語では literacy では？)、原文では、それぞれ別個のものとして表現されていますでしょうか？ 
 
-(伊原) limited technical knowledgeがリテラシーというのはちょっとアレかもですね。</note>
+(伊原) limited technical knowledgeがリテラシーというのはちょっとアレかもですね。ちょっとかっこ悪いですがITリテラシーとしてみました。</note>
       <tuv lang="EN-US">
         <seg>By tackling specific issues we know would affect folks with limited vision, dyslexia, Irlen syndrome, low literacy and limited technical knowledge, a comfortable reading and interaction experience has been ensured for most everyone else.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T055922Z" creationid="yoota" creationdate="20170512T034231Z">
-        <seg>視力制限、ディスレクシア、アーレン症候群であったり、識字能力に問題があったり、リテラシーが低い人々に影響すると分かっている特定の問題に対処することで、快適に読んだり、操作したりできる体験をほぼすべての人に提供できます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171008T221326Z" creationid="yoota" creationdate="20170512T034231Z">
+        <seg>視力制限、ディスレクシア、アーレン症候群であったり、識字能力に問題があったり、ITリテラシーが低い人々に影響すると分かっている特定の問題に対処することで、快適に読んだり、操作したりできる体験をほぼすべての人に提供できます。</seg>
       </tuv>
     </tu>
     <tu>
