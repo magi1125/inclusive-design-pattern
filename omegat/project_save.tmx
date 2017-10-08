@@ -3872,8 +3872,8 @@ Elements with the role alert have an implicit aria-live value of assertive, and 
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The equivalent &lt;g2&gt;assertive&lt;/g2&gt; and &lt;g3&gt;alert&lt;/g3&gt; values mean the current readout of the screen reader will be interrupted to announce the live region’s new message.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T092636Z" creationid="rikiha" creationdate="20170909T223734Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-live="assertive"&lt;/g2&gt;と&lt;g3&gt;alert&lt;/g3&gt;ロールは同じ機能を提供します。ライブリージョンに新しいメッセージが入ると、スクリーンリーダーの現在の読み上げが中断されて、メッセージが読み上げられます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T122209Z" creationid="rikiha" creationdate="20170909T223734Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;aria-live="assertive"&lt;/g2&gt;や&lt;g3&gt;alert&lt;/g3&gt;ロールを指定した場合、ライブリージョンに新しいメッセージが入ると、スクリーンリーダーの現在の読み上げが中断されて、メッセージが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38875,14 +38875,13 @@ Elements with the role status have an implicit aria-live value of polite and an 
 この訳註は逆に混乱を招かないでしょうか。
 むしろ、なぜ唐突に`aria-live="polite"`が紹介されているのか、コード例の`aria-live="assertive"`とどう違うのかを説明した方がよいように思います。
 
-
-
-</note>
+(太田)
+やはり混乱しか招かないですし、明確に原著の誤りと判断できるので、しれっと直してしまいましょう。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-live="polite"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;8&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; property and the &lt;g8&gt;&lt;g9&gt;&lt;g10&gt;status&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;9&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt; role are equivalent.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T123354Z" creationid="rikiha" creationdate="20170922T123354Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-live="polite"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注163）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;プロパティと&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;status&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;（脚注164）&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;ロールは同じ機能を提供します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T122141Z" creationid="rikiha" creationdate="20170922T123354Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-live="assertive"&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注163）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;プロパティと&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;alert&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;（脚注164）&lt;/g13&gt;&lt;/g12&gt;&lt;/g11&gt;ロールは、いずれも同じ機能を提供するものです。</seg>
       </tuv>
     </tu>
     <tu>
