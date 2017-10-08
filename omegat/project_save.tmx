@@ -6723,6 +6723,11 @@ Note を訳出しました。
 あと、せっかくなのでSafariとEdgeも確認してあげてください。
 
 [3] https://wiki.mozilla.org/RapidRelease/Calendar
+
+(太田)
+バージョンの表記は取りました (マイナーなバージョン変更で頻繁に変わるとは考えにくいため)。Edgeは確認しましたが、選択出来て何も起きないという最悪に近い挙動でした。これは追記しました。
+
+可能であればSafariの確認お願いします。&gt; 伊原さん
 </note>
       <tuv lang="EN-US">
         <seg>A browser only knows to provide these things if you use the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; element in an expected way.</seg>
@@ -16809,6 +16814,13 @@ OK
 (土屋さん) 写真家の名前 (by ケニー・マルバートン) が、ソース例から消えているようです。
 
 (伊原) ここはそれをトル話で、原著にもないのでOKはOK。そういう話だと伝わってない点が課題。でも訳注でも触れてますしね、うーむ。
+
+(もんどさん)
+&gt; HTML5ではa要素にさまざまな要素を入れることができるようになりましたが、a要素の子孫にa要素を入れることはできません。
+"昔から変わることなくa要素はネストすることはできない"というニュアンスが薄いかなあと思いました。
+ng) no-repeat -100px -275px;
+
+
 
 </note>
       <tuv lang="EN-US">
