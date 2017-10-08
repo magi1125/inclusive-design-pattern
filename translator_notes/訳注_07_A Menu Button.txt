@@ -25,8 +25,23 @@ http://www.opera.com/ja/help/mini/other
 
 訳注:
 U+2630 TRIGRAM FOR HEAVEN「☰」は「八卦」をあらわす文字の一つです。八卦の他の例としては、U+2633 TRIGRAM FOR THUNDER「☳」などがあります。
-なお、2017年8月現在、NVDA2017.2jaでは「☰」を全く読み上げません。iPhoneのVoiceOverでは、「☰MENU」という文字列を単に「メニュー」と読み、「☰」単独であれば「トリグラムフォーヘブン」と読み上ます。lang="ja" の場合でも、lang="zh-CN" の場合でも読みは変わりませんでした。おそらく通常はこの文字を読まず、リンクの中で単独で出現するようなケースでは代替のラベルとして文字の名前を読むものと思われます。
+なお、2017年8月現在、NVDA2017.3jpでは「☰」を全く読み上げません。iOS10のVoiceOverでは、「☰MENU」という文字列を単に「メニュー」と読み、「☰」単独であれば「トリグラムフォーヘブン」と読み上ます。lang="ja" の場合でも、lang="zh" の場合でも読みは変わりませんでした。おそらく通常はこの文字を読まず、リンクの中で単独で出現するようなケースでは代替のラベルとして文字の名前を読むものと思われます。
 「中国語のユーザーであれ」と言っているのは、原著者がこの文字を中国語の文で普通に使われるものと考えたからでしょう。一般に使われる文字は普通に読み上げられるため、別の混乱を招きます。たとえば、「MENU」という単語の前にアイコン代わりに「三」という漢字を置けば、日本語や中国語では「サンメニュー」と読まれてしまいます。
+
+
+<分節 2031>
+>この<g1><symbol></g1>をメニューボタン内で使用するには、<g3><use></g3>要素で<g2>id</g2>を参照します。
+※下のコードの下に訳注追加
+訳注:
+xlink:hrefのようにXLinkの名前空間接頭辞をつけるのはSVG1系の書き方です。SVG2の仕様ではuse要素にhref属性が定義されており、xlink:hrefを使うことは非推奨とされています。
+
+参考:
+Scalable Vector Graphics (SVG) 2 - 5.6. The ‘use’ element
+http://www.w3.org/TR/2016/CR-SVG2-20160915/struct.html#UseElementHrefAttribute
+
+Scalable Vector Graphics (SVG) 2 - 16.1.6. Deprecated XLink URL reference attributes
+https://www.w3.org/TR/2016/CR-SVG2-20160915/linking.html#XLinkRefAttrs
+
 
 
 <分節 2068>
@@ -54,7 +69,7 @@ https://www.w3.org/TR/accname-aam-1.1/
 >ここでは、<g3><g4><g5>aria-expanded</g5></g4></g3><g6><g7><g8>（脚注120）</g8></g7></g6>が解決策となるでしょう。スクリーンリーダーに、明示的に「折りたたみ」（false）もしくは「展開」（true）と読み上げさせることができます。
 
 訳注:
-2017年8月現在、iOSのVoiceOverはexpanded="false" の状態を「隠されました」、aria-expanded="true" の状態を「拡大」と読みます。
+2017年8月現在、iOS10のVoiceOverはexpanded="false" の状態を「隠されました」、aria-expanded="true" の状態を「拡大」と読みます。
 
 
 <分節 2203>
