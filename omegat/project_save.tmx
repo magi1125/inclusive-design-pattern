@@ -28436,7 +28436,14 @@ http://www.unicode.org/charts/PDF/U2600.pdf
 
 (土屋さん) 実際に「中国語のユーザーであれ」が出てくるのはこの後なので、『この後で「中国語のユーザーであれ」と言っているのは...』などと書くとよいかもしれません。
 
-(伊原) 上記は訳注に対するコメント</note>
+(伊原) 上記は訳注に対するコメント
+
+(太田)
+ここは一段落なので訳注は「中国語のユーザーであれ」の後についているはずです。土屋さんが何を見ているのかを確認したいところ。
+
+(もんどさん)
+※ 108が2つ見えます。（109がない）
+</note>
       <tuv lang="EN-US">
         <seg>The first is that not all devices support a Unicode set extensive enough to include this character, the “trigram for heaven.” The second is that, unlike an icon font which is mapped to Unicode points in the &lt;g1&gt;&lt;g2&gt;private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, this character is more likely to be interpreted by assistive technology.</seg>
       </tuv>
@@ -32298,14 +32305,15 @@ OKかと。
 
 (もんどさん)
 &gt; そうなると、そこらじゅう汎用ボックスだらけ、というステキなデザインになります。
-忠実に訳した結果「汎用ボックス」という訳語になったと思いますが、
-「汎用ボックス」が汎用過ぎるため、「グリフ未定義」か「豆腐」にした方が読み返さなくて済む気がします。
-</note>
+忠実に訳した結果「汎用ボックス」という訳語になったと思いますが、「汎用ボックス」が汎用過ぎるため、「グリフ未定義」か「豆腐」にした方が読み返さなくて済む気がします。
+
+(太田)
+ここは「豆腐だらけ」としましょうかね。豆腐は前に訳注で説明していますし。</note>
       <tuv lang="EN-US">
         <seg>This will result in the generic-boxes-all-over-the-place effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170816T071116Z" creationid="rikiha" creationdate="20170812T161518Z">
-        <seg>そうなると、そこらじゅう汎用ボックスだらけ、というステキなデザインになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171008T044251Z" creationid="rikiha" creationdate="20170812T161518Z">
+        <seg>そうなると、そこらじゅう豆腐だらけ、というステキなデザインになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36668,10 +36676,10 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
 (伊原) OK
 
 (もんどさん)
-&gt; Filament Groupのザック・レザーマン(Zach Leatherman)によれば、
-&gt; OSが独自の目的でUnicodeの私用領域を使うこともある※ 108 ようです。
+&gt; Filament Groupのザック・レザーマン(Zach Leatherman)によれば、OSが独自の目的でUnicodeの私用領域を使うこともある※ 108 ようです。
 
 ※ 108のURLが https://twitter.com/LeonieWatson なので、何かおかしなことになっているのでは？
+
 </note>
       <tuv lang="EN-US">
         <seg>Zach Leatherman of Filament Group writes that sometimes &lt;g1&gt;&lt;g2&gt;operating systems &lt;g3&gt;do&lt;/g3&gt; use Unicode’s private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, but for their own purposes.</seg>
