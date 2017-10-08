@@ -17086,7 +17086,7 @@ ng) no-repeat -100px -275px;
 それは少し思いました。
 訳注トリかなぁ。
 
-</note>
+(伊原) 「テキストが何も表示されていない状態が一瞬見えることをFOIT(Flash of Invisible Text)と呼んでいます。」ぐらい付けてもいいかもしれません。同じくFOUT側も「Webフォントの読み込み完了までのあいだにデフォルトのフォントが一瞬見えてしまう現象を FOUT (Flash of Unstyled Text) と呼んでいます。」とか。</note>
       <tuv lang="EN-US">
         <seg>In particular, FOIT (flash of invisible text) should be avoided: if the font resource is indefinitely stalled (it happens!), users of some devices and browsers will be stuck with a page that has no visible text.</seg>
       </tuv>
@@ -34914,7 +34914,7 @@ don’t get out of sync は二重否定でわかりにくいので、単に「�
 
 (川本) 勉強不足で、これがなんのタグがわかりませんでした... m(_ _)m
 
-(伊原) 初校PDFでOmegaTのタグが出てしまっている。</note>
+(伊原) 初校PDFでOmegaTのタグが出てしまっている。DTPマター、岡本さん確認。</note>
       <tuv lang="EN-US">
         <seg>Viewport units present the opportunity to set text that scales with the height (&lt;g1&gt;vh&lt;/g1&gt;) or width (&lt;g2&gt;vw&lt;/g2&gt;) of the viewport.</seg>
       </tuv>
