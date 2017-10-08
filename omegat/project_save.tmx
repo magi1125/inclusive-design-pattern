@@ -14244,7 +14244,9 @@ http://ejje.weblio.jp/content/pertinent+to
       <note>(太田)
 すこし調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(川本さん) ここはなぜリストの装飾が当たっているのでしょう？ただの本文、と言う感じがしますが... (初校PDFのスタイルへのコメント）</note>
       <tuv lang="EN-US">
         <seg>However, as I wrote in “&lt;g1&gt;&lt;g2&gt;Replacing Radio Buttons Without Replacing Radio Buttons&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;4&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” you don’t actually &lt;g6&gt;have&lt;/g6&gt; to style the &lt;g7&gt;&lt;input type="radio"&gt;&lt;/g7&gt; element directly.</seg>
       </tuv>
@@ -21837,7 +21839,9 @@ focus や hover は ARIA のステートではありません。
 
 (伊原) 2文にしてみました。押しにくいことを理由にdiv化するケースが多いので、メリットがハッキリしたと思います。
 
-(太田) OK</note>
+(太田) OK
+
+(川本さん) ここはなぜリストの装飾が当たっているのでしょう？ただの本文、と言う感じがしますが... (初校PDFのスタイルへのコメント）</note>
       <tuv lang="EN-US">
         <seg>Not only does this help provide a larger, more ergonomic hit area for touch users, but we can use CSS to indicate the &lt;g1&gt;&lt;input&gt;&lt;/g1&gt;’s &lt;g2&gt;:focus&lt;/g2&gt; and &lt;g3&gt;:checked&lt;/g3&gt; states in CSS.</seg>
       </tuv>
