@@ -6710,10 +6710,20 @@ Note を訳出しました。
       </tuv>
     </tu>
     <tu>
-      <note>(太田)
+      <note>※訳注あり
+
+(太田)
 調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; 、Forefox55ではこれらのメニューが消え、
+ここでFirefoxのリリーススケジュールも確認しておきましょう[3]。何事もなければ2017-11-14にFirefox 57になっています。
+あと、せっかくなのでSafariとEdgeも確認してあげてください。
+
+[3] https://wiki.mozilla.org/RapidRelease/Calendar
+</note>
       <tuv lang="EN-US">
         <seg>A browser only knows to provide these things if you use the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; element in an expected way.</seg>
       </tuv>
@@ -18428,7 +18438,7 @@ OK
 「が、」がやや唐突な印象を受けました。
 
 (太田)
-分節区切りの影響ですね。
+前分節からそのままもってきた影響ですね。
 「しかし」としました。</note>
       <tuv lang="EN-US">
         <seg>It does not help users.</seg>
