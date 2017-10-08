@@ -17941,7 +17941,13 @@ not acceptable を invalid と訳し分けるべきか。
 
 (伊原) OK, 示すためにの→示すために, JSの正規表現で〜というように読めました。
 
-(太田) OK</note>
+(太田) OK
+
+(もんどさん)
+&gt; 実際のフォーム検証（パターンマッチング）にはJavaScriptを使うことになるでしょう。
+訳註でjsではない、HTML属性によるパターンマッチングを行っているので、訳註での言及が微妙な形になってしまっています。
+
+</note>
       <tuv lang="EN-US">
         <seg>In which case, we are going to rely on WAI-ARIA to indicate invalidity, with JavaScript for the actual validation (pattern matching).</seg>
       </tuv>
