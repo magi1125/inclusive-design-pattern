@@ -6403,7 +6403,9 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
 (太田)
 豆腐がフォールバックなのではなく、フォールバックになっていることを示しているということだと思いますので、少し調整しました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(川本さん) ページが切り替わったので見出しに見えてしまいました。サンプル部分はpaddingをほどよくとった薄いグレーの枠で囲み、センタリング表示するのはどうでしょうか？</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The familiar rectangular box indicates a glyph that is not supported and constitutes a fallback.&lt;/g3&gt;</seg>
       </tuv>
