@@ -15323,7 +15323,7 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
 
 (土屋さん) 「上の例」と書いてあって、ちょっと探してしまいました。冗長ですが、&lt;!DOCTYPE html&gt; と明記するのもありかもしれません？？
 
-(伊原) 太田さんの調整でOK？</note>
+(伊原) 太田さんの調整でOK</note>
       <tuv lang="EN-US">
         <seg>If the doctype tells the browser what &lt;g1&gt;kind&lt;/g1&gt; of document it is serving (HTML5 in the above example), then the &lt;g2&gt;&lt;html&gt;&lt;/g2&gt; element’s &lt;g3&gt;lang&lt;/g3&gt; attribute tells it which language it is written in.</seg>
       </tuv>
@@ -36970,7 +36970,9 @@ regressを「後方互換する」としていますが、日本語として違�
 [2] https://dom.spec.whatwg.org/#concept-document-quirks
 
 (太田)
-奇しくも先の私のコメントと同じ内容ですが、原文を尊重してママとしたいと思います。</note>
+奇しくも先の私のコメントと同じ内容ですが、原文を尊重してママとしたいと思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Without a doctype declared, the browser simply doesn’t know how to interpret the content and can regress into &lt;g2&gt;&lt;g3&gt;a non-compliant and incompatible mode, often called &lt;g4&gt;quirks mode&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;1&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
