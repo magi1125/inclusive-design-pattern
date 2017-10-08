@@ -35527,12 +35527,14 @@ https://www.w3.org/TR/css-cascade-3/#cascading-origins が正のURLです。
 (川本さん) 「大ざっぱに言ってしまえば、どんな要素も幅や高さを固定すべきで
 はありません。ボックスに柔軟性があれば、同じコンテンツでさまざまなスペースに対応できます。」
 を指しているのであれば「そのように」でしょうか。
-「このように」であればどこかに例か図があるように思ってしまいそうです。</note>
+「このように」であればどこかに例か図があるように思ってしまいそうです。
+
+(伊原) そのように、としました。</note>
       <tuv lang="EN-US">
         <seg>Web pages behave like this without author CSS, and should continue to respect this fundamental behavior where CSS is included.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170502T101913Z" creationid="yoota" creationdate="20170420T112012Z">
-        <seg>著者側のCSSがなければ、Webページはこのようにふるまいます。CSSを含める場合でも、この基本的なふるまいを尊重すべきでしょう。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171008T214046Z" creationid="yoota" creationdate="20170420T112012Z">
+        <seg>著者側のCSSがなければ、Webページはそのようにふるまいます。CSSを含める場合でも、この基本的なふるまいを尊重すべきでしょう。</seg>
       </tuv>
     </tu>
     <tu>
