@@ -25200,7 +25200,28 @@ seize an opportunity で好機を捉える、seize the opportunity to do でこ�
 
 (伊原) 上の段落でタイトル以外にも〜と書いているので、ここでも「このタイトルは〜、それ以外の〜」としてみました。
 
-(太田) OK</note>
+(太田) OK
+
+(もんどさん)
+&lt;dd&gt;&lt;img src="/images/rating_4_5.svg" alt=""&gt;
+5つ星のうち 4&lt;/dd&gt;
+```
+「5つ星のうち 4」は`alt`の属性値ではないでしょうか？
+
+(太田)
+原著でもimg要素の外にあって、これで正しいです。
+ただ、それと別に気になったこととして、完成図のイラストを見るとこの個所は (4 out of 5 stars) と丸括弧でくくられています。もしかするとかっこが必要なのかもしれません。
+
+
+(もんどさん)
+```
+&lt;dd&gt;35.95ユーロ&lt;/dd&gt;
+```
+通貨は「円」に直さず「ユーロ」のママ？
+
+(太田)
+ママで良いかと思います。
+</note>
       <tuv lang="EN-US">
         <seg>Since the title is very terse and literal, we can seize the opportunity:</seg>
       </tuv>
@@ -32802,7 +32823,7 @@ altの訳お願いしますー。
 可能であれば、記号のローカライゼーションしてしまった方がよいと思います。
 
 (太田)
-〇×にしてもいいでしょうね。
+〇×にしてもいいですね。
 ※岡本さん確認</note>
       <tuv lang="EN-US">
         <seg>Three of the same T-shirt in different colors.</seg>
