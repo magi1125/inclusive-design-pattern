@@ -36666,6 +36666,12 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
 強調箇所をどうするか。do use の動詞を強調するdo が強調されているのは日本語で表現するのが難しいですね。「ホントに使ってしまう」のようなニュアンスだと思いますので、「本当に」を補ってみましたが……。
 
 (伊原) OK
+
+(もんどさん)
+&gt; Filament Groupのザック・レザーマン(Zach Leatherman)によれば、
+&gt; OSが独自の目的でUnicodeの私用領域を使うこともある※ 108 ようです。
+
+※ 108のURLが https://twitter.com/LeonieWatson なので、何かおかしなことになっているのでは？
 </note>
       <tuv lang="EN-US">
         <seg>Zach Leatherman of Filament Group writes that sometimes &lt;g1&gt;&lt;g2&gt;operating systems &lt;g3&gt;do&lt;/g3&gt; use Unicode’s private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, but for their own purposes.</seg>
