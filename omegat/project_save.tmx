@@ -7176,7 +7176,6 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
 視覚を持つユーザーに向けて、何のために二重で掲載しているのでしょう。
 テキスト部分をaltに含める方が視覚の有無関係なしにすべてのユーザーにとって有益なのではないでしょうか。
 ...と思ったんですが、「web標準的にもaltは必ずしも必須ではない」「コンテンツに重要ではない、無視するべき部分ではくどさを回避するためにリーダーで読まないようにする」ということを伝えたいのですね。きっと。
-
 追記：先のページで理由が紹介されてましたw</note>
       <tuv lang="EN-US">
         <seg>A null &lt;g2&gt;alt&lt;/g2&gt; value (&lt;g3&gt;alt=""&lt;/g3&gt;) omits the image from screen readers.</seg>
@@ -26715,7 +26714,9 @@ suffice to sayは「あえて言うなら」くらいのほうがしっくりく
 謎のやつはジョークなので、もう少しジョークと分かりやすいようにしたほうがいいかもしれないですね。原文とスタイル違いますが、ダッシュを追加してジョーク部分を後ろに移動してみました。
 サブスクリプションもちょっとわかりにくく、ここでは正直どうでもいいものなので、「会費」としてみました。また「6ヶ月」という数字に意味がありそうに見えてしまうので「半年」としてみました。
 
-(伊原) 良いと思います！ありがとうございます</note>
+(伊原) 良いと思います！ありがとうございます
+
+(川本さん) ここの伸ばしテキスト、他と違いますね。中央に境目が見えます。（初校PDFへのコメント)</note>
       <tuv lang="EN-US">
         <seg>Suffice to say, unless you’re selling an intangible product like a six-month subscription or eternal happiness, your users are going to want to get a good look at their potential purchase.</seg>
       </tuv>
