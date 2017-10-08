@@ -22375,6 +22375,10 @@ attacheは帰属させるくらいの意味でしょうが良い表現は無い�
 (もんどさん)
 ここは、本来的にはcss-ui-4のappearance:noneを使うシーンだと思われます。
 参考：https://developer.mozilla.org/ja/docs/Web/CSS/-moz-appearance
+
+(太田)
+
+
 </note>
       <tuv lang="EN-US">
         <seg>Now that all the interaction and visual feedback is attached to the label, we can safely hide the obstinately ugly radio button from view.</seg>
