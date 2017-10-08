@@ -5201,6 +5201,13 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原：初校PDF確認コメント）コメント未訳</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g56&gt;// we're looking for &lt;div id="{id}"&gt; or &lt;a name="{id}"&gt;
+&lt;/g56&gt;    &lt;g57&gt;return&lt;/g57&gt; document&lt;g58&gt;.&lt;/g58&gt;getElementById&lt;g59&gt;(&lt;/g59&gt;id&lt;g60&gt;)&lt;/g60&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g56&gt;&lt;g57&gt;&lt;g58&gt;&lt;&lt;/g58&gt;input&lt;/g57&gt; &lt;g59&gt;type&lt;/g59&gt;&lt;g60&gt;&lt;g61&gt;=&lt;/g61&gt;"text"&lt;/g60&gt; &lt;g62&gt;id&lt;/g62&gt;&lt;g63&gt;&lt;g64&gt;=&lt;/g64&gt;"username"&lt;/g63&gt; &lt;g65&gt;name&lt;/g65&gt;&lt;g66&gt;&lt;g67&gt;=&lt;/g67&gt;"username"&lt;/g66&gt; &lt;g68&gt;placeholder&lt;/g68&gt;&lt;g69&gt;&lt;g70&gt;=&lt;/g70&gt;"e.g. HotStuff666"&lt;/g69&gt;&lt;g71&gt;&gt;&lt;/g71&gt;&lt;/g56&gt;</seg>
       </tuv>
@@ -5289,6 +5296,16 @@ Price:　→価格：</note>
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170515T101833Z" creationid="yoota" creationdate="20170515T101833Z">
         <seg>&lt;g61&gt;&lt;g62&gt;&lt;g63&gt;&lt;&lt;/g63&gt;div&lt;/g62&gt; &lt;g64&gt;class&lt;/g64&gt;&lt;g65&gt;&lt;g66&gt;=&lt;/g66&gt;"meta"&lt;/g65&gt;&lt;g67&gt;&gt;&lt;/g67&gt;&lt;/g61&gt;公開日 &lt;g68&gt;&lt;g69&gt;&lt;g70&gt;&lt;&lt;/g70&gt;time&lt;/g69&gt; &lt;g71&gt;datetime&lt;/g71&gt;&lt;g72&gt;&lt;g73&gt;=&lt;/g73&gt;"2017-12-12"&lt;/g72&gt;&lt;g74&gt;&gt;&lt;/g74&gt;&lt;/g68&gt;12/12/2017&lt;g75&gt;&lt;g76&gt;&lt;g77&gt;&lt;/&lt;/g77&gt;time&lt;/g76&gt;&lt;g78&gt;&gt;&lt;/g78&gt;&lt;/g75&gt;&lt;g79&gt;&lt;g80&gt;&lt;g81&gt;&lt;/&lt;/g81&gt;div&lt;/g80&gt;&lt;g82&gt;&gt;&lt;/g82&gt;&lt;/g79&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(川本さん) やっぱりこのへんのコメントアウト解説は日本語の方がすっと入って来ますね...</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g61&gt;||&lt;/g61&gt; document&lt;g62&gt;.&lt;/g62&gt;querySelector&lt;g63&gt;(&lt;/g63&gt;&lt;g64&gt;'a[name="'&lt;/g64&gt; &lt;g65&gt;+&lt;/g65&gt; id &lt;g66&gt;+&lt;/g66&gt; &lt;g67&gt;'"]'&lt;/g67&gt;&lt;g68&gt;)&lt;/g68&gt;&lt;g69&gt;;&lt;/g69&gt;
+&lt;g70&gt;}&lt;/g70&gt;
+
+&lt;g71&gt;// handle activation of all fragment links on the current page
+&lt;/g71&gt;$&lt;g72&gt;(&lt;/g72&gt;document&lt;g73&gt;.&lt;/g73&gt;body&lt;g74&gt;)&lt;/g74&gt;&lt;g75&gt;.&lt;/g75&gt;on&lt;g76&gt;(&lt;/g76&gt;&lt;g77&gt;'click'&lt;/g77&gt;&lt;g78&gt;,&lt;/g78&gt; &lt;g79&gt;'a[href*="#"]:not([href="#"])'&lt;/g79&gt;&lt;g80&gt;,&lt;/g80&gt; &lt;g81&gt;function&lt;/g81&gt;&lt;g82&gt;(&lt;/g82&gt;event&lt;g83&gt;)&lt;/g83&gt; &lt;g84&gt;{&lt;/g84&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5799,6 +5816,13 @@ It feels like the CSS block is incomplete, especially since the note following t
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170916T124851Z" creationid="rikiha" creationdate="20170909T223928Z">
         <seg>&lt;g91&gt;&lt;g92&gt;&lt;g93&gt;&lt;&lt;/g93&gt;dd&lt;/g92&gt;&lt;g94&gt;&gt;&lt;/g94&gt;&lt;/g91&gt;&lt;g95&gt;&lt;g96&gt;&lt;g97&gt;&lt;&lt;/g97&gt;img&lt;/g96&gt; &lt;g98&gt;src&lt;/g98&gt;&lt;g99&gt;&lt;g100&gt;=&lt;/g100&gt;"/images/rating_4_5.svg"&lt;/g99&gt; &lt;g101&gt;alt&lt;/g101&gt;&lt;g102&gt;&lt;g103&gt;=&lt;/g103&gt;""&lt;/g102&gt;&lt;g104&gt;&gt;&lt;/g104&gt;&lt;/g95&gt;5つ星のうち 4&lt;g105&gt;&lt;g106&gt;&lt;g107&gt;&lt;/&lt;/g107&gt;dd&lt;/g106&gt;&lt;g108&gt;&gt;&lt;/g108&gt;&lt;/g105&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原：初校PDF確認コメント）コメント未訳</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g92&gt;// some other event handler might have already handled this event
+&lt;/g92&gt;        &lt;g93&gt;return&lt;/g93&gt;&lt;g94&gt;;&lt;/g94&gt;</seg>
       </tuv>
     </tu>
     <tu>
