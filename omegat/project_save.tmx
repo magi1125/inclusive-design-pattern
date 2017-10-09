@@ -8526,7 +8526,7 @@ svg要素の中のstyle要素でスタイルを指定するとSVG対応ブラウ
 
 (土屋さん) アポストロフィ後の余白が気になりました。ピリオドの後、半角アキが必要？
 
-(伊原) 初校PDFで空いたり詰まったりしている</note>
+(伊原) 初校PDFで空いたり詰まったりしている。DTPマター、岡本さん確認。</note>
       <tuv lang="EN-US">
         <seg>As Joe Dolson writes in “&lt;g1&gt;&lt;g2&gt;I’m an accessibility consultant.</seg>
       </tuv>
@@ -26679,12 +26679,14 @@ iterationは試行錯誤を推したい。
 
 (太田) OK
 
-(土屋さん) 原文はピリオドなので、読点ではなく句点 (。) のほうがよいかもしれません。</note>
+(土屋さん) 原文はピリオドなので、読点ではなく句点 (。) のほうがよいかもしれません。
+
+(伊原) 修正しました。</note>
       <tuv lang="EN-US">
         <seg>Stop hiring me&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;4&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” remediating broken websites and apps is unpleasant work for both the consultant and the client.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170716T135559Z" creationid="yoota" creationdate="20170714T084204Z">
-        <seg>Stop hiring me（私はアクセシビリティコンサルタント、雇うのは止めておけ）」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注74）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;で述べているように、破綻したWebサイトやアプリケーションを修正するのは、コンサルタントとクライアントの双方にとって嫌な作業です。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T004819Z" creationid="yoota" creationdate="20170714T084204Z">
+        <seg>Stop hiring me（私はアクセシビリティコンサルタント。雇うのは止めておけ）」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注74）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;で述べているように、破綻したWebサイトやアプリケーションを修正するのは、コンサルタントとクライアントの双方にとって嫌な作業です。</seg>
       </tuv>
     </tu>
     <tu>
