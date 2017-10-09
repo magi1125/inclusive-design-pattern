@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7834,8 +7834,8 @@ toolbarどうするか。
       <tuv lang="EN-US">
         <seg>A smooth scrolling action could be used here, as described in “Navigation Regions.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170917T002253Z" creationid="rikiha" creationdate="20170909T223945Z">
-        <seg>ここで、5章「ナビゲーション領域」で説明したようなスムーズスクロールアクションを使うこともできる。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T130415Z" creationid="rikiha" creationdate="20170909T223945Z">
+        <seg>ここで、6章「ナビゲーション領域」で説明したようなスムーズスクロールアクションを使うこともできる。</seg>
       </tuv>
     </tu>
     <tu>
