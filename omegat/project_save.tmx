@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30710,7 +30710,12 @@ https://www.google.com/get/noto/
 訳注には「ちなみに、GoogleのNotoフォントの名前は"no more tofu"に由来します。」と書いてあります。訳注反映ミス?
 
 (伊原) いえ、"no more tofuに由来"だとNotoと略すとわからない、という指摘っぽいです。No more Tofu とキャピタライズすればいいのかも。
-</note>
+
+(太田)
+なるほど。
+とはいえその箇所はいちおう引用なので、あまり改変したくないというのはあります。
+&gt;The name noto is to convey the idea that Google’s goal is to see “no more tofu”. 
+Googleの側ではこれの no と to が強調されているので、可能であればそれをそのまま反映できると良いかも。</note>
       <tuv lang="EN-US">
         <seg>The problem comes when the user-defined font does not support the characters used for the icons, and leaves generic “Glyph not defined” boxes in their place.</seg>
       </tuv>
