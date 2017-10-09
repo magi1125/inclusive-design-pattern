@@ -20059,9 +20059,7 @@ http://eow.alc.co.jp/search?q=right%20way
 (太田)
 「理にかなったやり方」という訳出が強すぎるのかもしれないですね。原文  in the right way はもっとふわっとした感じだと思います。
 「やり方はよく考えたほうがいいでしょう」
-くらいにゆるく訳しても良いのでは。
-
-</note>
+くらいにゆるく訳しても良いのではないでしょうか。</note>
       <tuv lang="EN-US">
         <seg>It’s good to be prepared, but better to be prepared in the right way.</seg>
       </tuv>
@@ -37003,12 +37001,16 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
 
 (高橋さん) コンポーネント間の動き とは何かわからなかった
 
-(伊原) 確かに。しかし原文ママなので致し方ないような。ところでmovesはfocusに掛かってたりする？</note>
+(伊原) 確かに。しかし原文ママなので致し方ないような。ところでmovesはfocusに掛かってたりする？
+
+(太田)
+結合テストの結果がレポートされてバグだらけであたふたしているときに、みたいな話でしょうね。
+イメージがわきやすいように力強く意訳しつつ補いつつ訳してみましたがどうでしょう?</note>
       <tuv lang="EN-US">
         <seg>When developer focus moves between integrated components, what good are a hundred disparate and application-wide missing alternative text tickets?</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171009T004259Z" creationid="yoota" creationdate="20170707T083555Z">
-        <seg>開発者が、統合されたコンポーネント間の動きに注目しているときに、アプリケーション全体で代替テキストが欠落しているというチケットが100件登録されたとして、一体何の役に立つというのでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T125330Z" creationid="yoota" creationdate="20170707T083555Z">
+        <seg>開発者がコンポーネントの結合テストの結果を受けて必死で対応しているときに、アプリケーション全体で代替テキストが欠落しているというチケットが100件登録されたとして、一体何の役に立つというのでしょう。</seg>
       </tuv>
     </tu>
     <tu>
