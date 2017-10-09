@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26191,7 +26191,9 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 
 (太田)
 むしろ最初の方にボタンの要件を補ったほうが良いように思いました。&lt;分節 0185&gt;と&lt;分節 0198&gt;に「スタート」と書かれている旨を補うのが良いと思います。
-ということでそう処理してみました。</note>
+ということでそう処理してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Since the button’s label of “Start” is in a background image as part of CSS’s presentation layer, this too is unavailable to assistive technologies.</seg>
       </tuv>
@@ -33723,7 +33725,9 @@ OKかと。
     </tu>
     <tu>
       <note>(太田)
-原文にはありませんが、「スタート」と書かれたボタンであることを補った方が良いように思いました。</note>
+原文にはありませんが、「スタート」と書かれたボタンであることを補った方が良いように思いました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>This time, we’ll look at an interactive element, a button, from the perspectives of three types of designer.</seg>
       </tuv>
@@ -38385,7 +38389,9 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
     </tu>
     <tu>
       <note>(太田)
-「button.pngは「スタート」と書かれたPNG画像です。」と補いました。</note>
+「button.pngは「スタート」と書かれたPNG画像です。」と補いました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>and the CSS like this:</seg>
       </tuv>
