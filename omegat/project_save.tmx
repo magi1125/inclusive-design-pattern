@@ -16639,12 +16639,21 @@ In any case, は「さて」ぐらいにしてみました。
 (太田)
 すこし調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; それはaria-selected※ 202 によってアクセシブルに明示されます。
+「それ」というのはどれを指すのでしょうか。
+また、※202がこの位置に注釈が入ってよいのか（※202の性質上、文末にあった方がよいのでは）
+
+(太田)
+調整してみました。
+脚注はDTPマター? ※岡本さん確認</note>
       <tuv lang="EN-US">
         <seg>In correctly behaving tab interfaces, there should always be one selected tab, defined accessibly using the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T081349Z" creationid="rikiha" creationdate="20170925T014509Z">
-        <seg>タブインターフェイスの適切なふるまいとしては、常にタブがひとつだけ選択されているべきで、それは&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注200）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;によってアクセシブルに明示されます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T050856Z" creationid="rikiha" creationdate="20170925T014509Z">
+        <seg>タブインターフェイスの適切なふるまいとしては、常にタブがひとつだけ選択され、そのことが&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注200）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;によってアクセシブルに明示されている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
