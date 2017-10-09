@@ -27137,7 +27137,9 @@ WAIC WCAG 2.0訳では「堅牢性」と訳されています。
 
 (太田)
 JISだと「堅ろう」なのですよね。
-とはいえWAIC側にあわせましょう。む</note>
+とはいえWAIC側にあわせましょう。む
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>That WCAG is organized by principle — &lt;g1&gt;perceivable&lt;/g1&gt;, &lt;g2&gt;operable&lt;/g2&gt;, &lt;g3&gt;understandable&lt;/g3&gt;, &lt;g4&gt;robust&lt;/g4&gt; — is to be expected.</seg>
       </tuv>
@@ -36032,12 +36034,14 @@ hundredが訳から落ちています。それぞれ異なるチケットが100�
 
 (伊原) OK。この本の読者はBTSは知っていると思ってもいいような気がします。そして自分はBacklogでも力強くチケットと呼んでいました…。
 
-(高橋さん) コンポーネント間の動き とは何かわからなかった</note>
+(高橋さん) コンポーネント間の動き とは何かわからなかった
+
+(伊原) まあここは雰囲気で「そういうものを考えているときに〜」というぐらいなので、</note>
       <tuv lang="EN-US">
         <seg>When developer focus moves between integrated components, what good are a hundred disparate and application-wide missing alternative text tickets?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170715T145537Z" creationid="yoota" creationdate="20170707T083555Z">
-        <seg>開発者が統合されたコンポーネント間の動きに注目しているときに、アプリケーション全体で代替テキストが欠落しているというチケットが100件登録されたとして、一体何の役に立つというのでしょう。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T004259Z" creationid="yoota" creationdate="20170707T083555Z">
+        <seg>開発者が、統合されたコンポーネント間の動きに注目しているときに、アプリケーション全体で代替テキストが欠落しているというチケットが100件登録されたとして、一体何の役に立つというのでしょう。</seg>
       </tuv>
     </tu>
     <tu>
