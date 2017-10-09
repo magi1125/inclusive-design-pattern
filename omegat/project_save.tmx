@@ -37009,12 +37009,19 @@ integratedは統合された?
 (太田)
 括弧内すこし調整しました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; &lt;li&gt;が誤ってべつのものに置き換わってしまった場合など
+「別のもの」とすべきでしょう。
+
+(太田)
+そうしました。</note>
       <tuv lang="EN-US">
         <seg>Where there are errors for successive sibling elements (like the erroneous &lt;g1&gt;&lt;li&gt;&lt;/g1&gt; replacements the last example is designed to detect) space becomes an issue too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T090925Z" creationid="rikiha" creationdate="20170925T014556Z">
-        <seg>連続する兄弟要素のエラー（前の例で検出している、&lt;g1&gt;&lt;li&gt;&lt;/g1&gt;が誤ってべつのものに置き換わってしまった場合など）がある場合は、エラーを表示するスペースも問題になります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T055027Z" creationid="rikiha" creationdate="20170925T014556Z">
+        <seg>連続する兄弟要素のエラー（前の例で検出している、&lt;g1&gt;&lt;li&gt;&lt;/g1&gt;が誤って別のものに置き換わってしまった場合など）がある場合は、エラーを表示するスペースも問題になります。</seg>
       </tuv>
     </tu>
     <tu>
