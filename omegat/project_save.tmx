@@ -33929,7 +33929,9 @@ IE7はもはやレガシーブラウザなので、ここまで厚く記述す�
 
 (太田)
 これ、何度も書き直してみましたが、厳密に書こうとすればするほど訳注がどんどん長くなり、その割に価値がないので、訳注をバッサリ削除することにしました。
-わからない人はhasLayoutでググるでしょうし (そして闇に落ちる)。</note>
+わからない人はhasLayoutでググるでしょうし (そして闇に落ちる)。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>To make sequential focus navigation work in Internet Explorer, you have to overcome a longstanding &lt;g6&gt;hasLayout&lt;/g6&gt; bug.</seg>
       </tuv>
