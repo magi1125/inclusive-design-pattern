@@ -8875,12 +8875,17 @@ JS中の初期化処理で
 
 (川本さん) jsをoffにしていた場合でも、jsが完全に存在している？jsがoffになっていても使えるケースがあるのですか？
 
-(伊原) オフにしている場合とロードに失敗するしないの話が混線して伝わっているっぽい。他と合わせて検討。</note>
+(伊原) オフにしている場合とロードに失敗するしないの話が混線して伝わっているっぽい。他と合わせて検討。
+
+(太田)
+entirelyを「完全に」と訳すのは誤訳に近いかも。
+すこし調整しました。
+</note>
       <tuv lang="EN-US">
         <seg>As described, the menu will be visible and usable where JavaScript fails or is switched off, but this way it’s less likely to fail: if the document itself loads, it’s already there in its entirety — no jQuery or other dependency to wait on.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T140806Z" creationid="rikiha" creationdate="20170819T005301Z">
-        <seg>前述したように、JavaScriptの実行に失敗したり、ユーザーがJavaScriptをオフにした場合でも、メニューは表示され使用できます。しかし、この実装方法なら失敗の可能性はより低くなります。ドキュメント自体がロードされていれば、すでにJavaScriptも完全に存在しているからです――jQueryなどの他の依存ライブラリを待つことはありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T061914Z" creationid="rikiha" creationdate="20170819T005301Z">
+        <seg>前述したように、JavaScriptの実行に失敗したり、ユーザーがJavaScriptをオフにした場合でも、メニューは表示され使用できます。しかし、この実装方法なら失敗の可能性はより低くなります。ドキュメント自体がロードされた時点で、すでにJavaScriptの全てのコードがロードされているからです――jQueryなどの他の依存ライブラリを待つことはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27217,7 +27222,10 @@ suffice to sayは「あえて言うなら」くらいのほうがしっくりく
 
 (川本さん) なぜでしょう？jsをoffにしていてもアクセシブルなのでしょうか？
 
-(伊原) 上手く伝わってないっぽい。他と合わせて検討。</note>
+(伊原) 上手く伝わってないっぽい。他と合わせて検討。
+
+(太田)
+aria-expandedの切り替えなどはJS依存で、JSがあったほうがよりアクセシブルになるという話。</note>
       <tuv lang="EN-US">
         <seg>Switching the state of the menu accessibly requires JavaScript.</seg>
       </tuv>
