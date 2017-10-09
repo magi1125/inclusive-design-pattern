@@ -2041,7 +2041,9 @@ type="text"→type="password"
       </tuv>
     </tu>
     <tu>
-      <note>(川本さん) インデントが...他と比較しここだけ左に行き過ぎですね。(初校PDFのDTPへのコメント)</note>
+      <note>(川本さん) インデントが...他と比較しここだけ左に行き過ぎですね。(初校PDFのDTPへのコメント)
+
+(伊原) DTPマター、岡本さんに確認。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;li&lt;/g3&gt;&lt;g5&gt;&gt;&lt;/g5&gt;&lt;/g2&gt;</seg>
       </tuv>
@@ -13377,12 +13379,14 @@ For thatは「その実現」としてみました。
 
 (伊原) OK
 
-(川本さん) プリント写真ショップ？写真を販売している？なじみがなかったです</note>
+(川本さん) プリント写真ショップ？写真を販売している？なじみがなかったです
+
+(伊原) 下訳にある「写真プリントを販売するショップ」としました。</note>
       <tuv lang="EN-US">
         <seg>For this particular pattern, I want you to imagine a hypothetical photography app has a built in shop, selling photographic prints.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T020114Z" creationid="rikiha" creationdate="20170828T141653Z">
-        <seg>ここで例示するパターンは、プリント写真ショップが組み込まれた架空の写真アプリケーションだと思ってください。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T022909Z" creationid="rikiha" creationdate="20170828T141653Z">
+        <seg>ここで例示するパターンは、写真プリントを販売するショップが組み込まれた架空の写真アプリケーションだと思ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30169,12 +30173,14 @@ Good!
       <note>(太田)
 わかりにくいので語順含め調整してみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(伊原) 写真プリントに修正</note>
       <tuv lang="EN-US">
         <seg>The product list is the set of prints returned after the user has entered a product search term.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170901T020227Z" creationid="rikiha" creationdate="20170828T141653Z">
-        <seg>ユーザーが検索語を入力して商品を検索すると、商品リストに一連のプリント写真が列挙されます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T023106Z" creationid="rikiha" creationdate="20170828T141653Z">
+        <seg>ユーザーが検索語を入力して商品を検索すると、商品リストに一連の写真プリントが列挙されます。</seg>
       </tuv>
     </tu>
     <tu>
