@@ -4261,7 +4261,8 @@ OK
 (岡本)　付け→づけ
 
 (土屋さん) この文が、読んでいて一寸よくわかりませんでした。インタラクティブな挙動においては、エラーメッセージを入力フィードなどに関連付けよう (WAI-ARIA で)、ということでしょうか。であれば、「非インタラクティブな」は「インタラクティブな」でしょうか。
-</note>
+
+(伊原) やはりわかりにくい模様。どうするか要検討。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Uninteractive content in a &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; context that isn’t associated with form fields.</seg>
       </tuv>
