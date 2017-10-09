@@ -16975,8 +16975,8 @@ metaについては補足が必要か?
       <tuv lang="EN-US">
         <seg>In other words, they’re a bit &lt;g1&gt;meta&lt;/g1&gt;: they’re content that helps with content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T092331Z" creationid="yoota" creationdate="20170720T063417Z">
-        <seg>つまり、ナビゲーションランドマークは&lt;g1&gt;メタ&lt;/g1&gt;的な、コンテンツを補助するコンテンツと言えます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T010130Z" creationid="yoota" creationdate="20170720T063417Z">
+        <seg>つまり、ナビゲーションの目印は&lt;g1&gt;メタ&lt;/g1&gt;的な、コンテンツを補助するコンテンツと言えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21455,8 +21455,8 @@ naturallyやsee aboveを訳すなら、
       <tuv lang="EN-US">
         <seg>Navigation landmarks, for example, help your audience to traverse your web pages and the content they offer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T092256Z" creationid="yoota" creationdate="20170720T063344Z">
-        <seg>たとえばナビゲーションランドマークは、ユーザーがWebページ間を移動したり、コンテンツ内を移動するのに使用されます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T010125Z" creationid="yoota" creationdate="20170720T063344Z">
+        <seg>たとえばナビゲーションの目印は、ユーザーがWebページ間を移動したり、コンテンツ内を移動するのに使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21469,7 +21469,7 @@ OK
 ナビゲーションランドマークとナビゲーションの領域を分けて説明されているのだと思いますが、
 その前の節までナビゲーションランドマークの話があり、この節にきていきなり「ナビゲーション領域」の話に変わったので少し違和感がありました。
 
-(伊原) 1543と1544のナビゲーションランドマークは、単に「ナビゲーション」でいいのかも。</note>
+(伊原) 1543と1544のナビゲーションランドマークは、landmarksということなので、単に「ナビゲーション」でいいのかも。あるいは「ナビゲーションの目印」とか。そのようにしました。</note>
       <tuv lang="EN-US">
         <seg>Navigation regions are a tool with a long history, making them a convention you can rely on for inclusive page design.</seg>
       </tuv>
