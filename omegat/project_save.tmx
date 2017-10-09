@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -719,12 +719,17 @@ broken は破綻としました。
 
 (土屋さん) 箇条書きのスタイルが一貫していない (1. は体言止め、2. は用言止め)。後に続く見出しとの一貫性を考えるト、1. から「ということ」をトルツメするのが妥当な気がします。
 
-(伊原) 2に揃えました。</note>
+(伊原) 2に揃えました。
+
+(太田)
+1. は「何が」ではなく「何かが」です。
+「何がエラーか」は伝えず、「なんらかエラーがある」とだけ伝えるのが 1 です。
+誤読しやすいので「なんらか」としてみました。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Something is broken (the form has errors).</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171009T032718Z" creationid="bakera" creationdate="20170929T090617Z">
-        <seg>1.何が破綻しているのか（フォームにエラーがあるのか）</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T122709Z" creationid="bakera" creationdate="20170929T090617Z">
+        <seg>なんらか破綻している（フォームにエラーがある）</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,8 +927,8 @@ crutchは松葉づえ、支えなどの意味。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;What needs fixing (what will make the form valid).</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T092759Z" creationid="bakera" creationdate="20170929T090620Z">
-        <seg>2. 何を修正する必要があるのか（どうすれば有効な入力になるのか）</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T122505Z" creationid="bakera" creationdate="20170929T090620Z">
+        <seg>何を修正する必要があるのか（どうすれば有効な入力になるのか）</seg>
       </tuv>
     </tu>
     <tu>
