@@ -25950,7 +25950,10 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 &lt;button&gt;文字&lt;/button&gt;
 これだと背景画像扱いになるんですか？
 
-(伊原) どのボタンの話をしているかという点と、ラベルが唐突な点を補ってみました。</note>
+(伊原) どのボタンの話をしているかという点と、ラベルが唐突な点を補ってみました。
+
+(太田)
+むしろ最初の方にボタンの要件を補っても良いのかもしれませんね。&lt;分節 0185&gt;に「スタート」と書かれたボタン、と補うのが良いように思いました。</note>
       <tuv lang="EN-US">
         <seg>Since the button’s label of “Start” is in a background image as part of CSS’s presentation layer, this too is unavailable to assistive technologies.</seg>
       </tuv>
@@ -33456,6 +33459,8 @@ OKかと。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+原文にはありませんが、「スタート」と書かれたボタンであることを補った方が良いように思いました。</note>
       <tuv lang="EN-US">
         <seg>This time, we’ll look at an interactive element, a button, from the perspectives of three types of designer.</seg>
       </tuv>
