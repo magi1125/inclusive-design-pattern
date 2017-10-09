@@ -22325,7 +22325,9 @@ Noteが訳出されていませんが、まあいいかという気も。
 ARIAの前にスペースがある方がよいでしょう。
 
 (太田)
-スペース追加。</note>
+スペース追加。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Note that the &lt;g2&gt;&lt;header&gt;&lt;/g2&gt; element has the explicit ARIA &lt;g3&gt;banner&lt;/g3&gt; role.</seg>
       </tuv>
@@ -23593,12 +23595,14 @@ https://developer.mozilla.org/ja/ サイトで見出しがある場合、ロゴ�
 でもブログのように、ロゴ・メニュー・記事リストしかないものの場合はどうすれば...
 https://www.blog.google/
 google先生とかもはやブログトップではh1がありません。ブログリストのh2からです。これが正しいんでしょうか。でも大見出しがなければこれそのものがなんなのか示せないのでは...それは&lt;title&gt;の役割なのでしょうか？
-うう、最適解が見つからず困っています...</note>
+うう、最適解が見つからず困っています...
+
+(伊原) あとで諸々示されているので川本さんの疑問はひとまずそのままで。解決策のひとつ→ひとつの解決策としてみました。</note>
       <tuv lang="EN-US">
         <seg>One resolution might be to remove the home link from the navigation landmark.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170810T090343Z" creationid="rikiha" creationdate="20170730T124408Z">
-        <seg>解決策のひとつは、ナビゲーションランドマークからホームへのリンクを削除することです。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T012018Z" creationid="rikiha" creationdate="20170730T124408Z">
+        <seg>ひとつの解決策は、ナビゲーションランドマークからホームへのリンクを削除することです。</seg>
       </tuv>
     </tu>
     <tu>
