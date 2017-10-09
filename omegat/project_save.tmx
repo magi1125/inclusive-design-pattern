@@ -34640,7 +34640,9 @@ resultを訳出。
 (川本さん) 写真プリント
 プリント写真
 
-言い回しが統一されていません</note>
+言い回しが統一されていません
+
+(伊原) 写真プリントに統一。</note>
       <tuv lang="EN-US">
         <seg>Unless we’re &lt;g1&gt;entirely&lt;/g1&gt; lacking in business acumen, we’re going to want to facilitate the user’s purchase of the print.</seg>
       </tuv>
@@ -34928,7 +34930,9 @@ unless or until は厳密に訳さなくても良いように思います。
 `&lt;img&gt;`要素としてしまって良いのではないでしょうか。（p.181も同様に）
 
 (太田)
-文中は &lt;img/&gt; とするのがヘイドンさんのスタイルっぽいですが、こだわる必要もないので /&gt; なしで統一したいと思います。</note>
+文中は &lt;img/&gt; とするのがヘイドンさんのスタイルっぽいですが、こだわる必要もないので /&gt; なしで統一したいと思います。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Using lazy loading means not downloading the image resource unless or until the &lt;g3&gt;&lt;img/&gt;&lt;/g3&gt; element enters the viewport.</seg>
       </tuv>
