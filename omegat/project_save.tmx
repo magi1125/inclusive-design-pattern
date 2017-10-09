@@ -972,7 +972,9 @@ crutchは松葉づえ、支えなどの意味。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳を反映</note>
+      <note>(伊原) 下訳を反映
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g10&gt;// the event fired on click
 &lt;/g10&gt;&lt;g11&gt;}&lt;/g11&gt;&lt;g12&gt;)&lt;/g12&gt;&lt;g13&gt;;&lt;/g13&gt;&lt;/g1&gt;</seg>
@@ -5406,7 +5408,9 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 調整して反映</note>
+      <note>(伊原) 調整して反映
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;/* system font with fallback */&lt;/g4&gt;</seg>
       </tuv>
@@ -37712,7 +37716,8 @@ shouldなので「すべき」くらいかなと。
 (伊原) やや冗長ですが、デモを行おうとしている、としました。
 
 (太田)
-「デモを行おうとしている」まるごとトリでもいいのかも。</note>
+「デモを行おうとしている」まるごとトリでもいいのかも。
+いったんとってみました。</note>
       <tuv lang="EN-US">
         <seg>Whether your prototype is intended to demo an app for small handheld devices or large installation screens, it’s better to begin large.</seg>
       </tuv>
