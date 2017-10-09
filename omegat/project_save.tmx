@@ -27225,12 +27225,14 @@ suffice to sayは「あえて言うなら」くらいのほうがしっくりく
 (伊原) 上手く伝わってないっぽい。他と合わせて検討。
 
 (太田)
-aria-expandedの切り替えなどはJS依存で、JSがあったほうがよりアクセシブルになるという話。</note>
+aria-expandedの切り替えなどはJS依存で、JSがあったほうがよりアクセシブルになるという話。
+すこし意訳してみました。
+</note>
       <tuv lang="EN-US">
         <seg>Switching the state of the menu accessibly requires JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170820T135002Z" creationid="rikiha" creationdate="20170819T005255Z">
-        <seg>メニューの状態をアクセシブルに切り替えるためにはJavaScriptが必要です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T062458Z" creationid="rikiha" creationdate="20170819T005255Z">
+        <seg>メニューの状態が切り替わったことをアクセシブルに伝えるためには、JavaScriptの機能が必要になります。</seg>
       </tuv>
     </tu>
     <tu>
