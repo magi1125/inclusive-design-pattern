@@ -8461,12 +8461,20 @@ iOS (Cocoa Touch の UIView) の座標系はピクセル単位ではなくポイ
 これはまあそのままでわかると思います。
 少しだけ調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; いみじくも、それ自体が宣言型言語であり、幸いなことに、付加的なライブラリに依存することもありません。言うまでもなく、CSSのことです。
+個人的には訳に違和感を覚える箇所です。冒頭の「いみじくも」という古語的表現をここで持ってくるのがよいのかどうか。
+たぶん原文がセミコロンで繋いでいて、小説っぽい言い回しになっているんじゃないかと勝手に推測しますが、もう少しこなれた訳出にしてもらえればという感想です。
+
+(太田)
+「都合の良いことに」くらいでも良いですね。</note>
       <tuv lang="EN-US">
         <seg>Appropriately, it is itself a declarative language and, fortuitously, it does not take the form of an additional library dependency.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T103449Z" creationid="rikiha" creationdate="20170925T014347Z">
-        <seg>いみじくも、それ自体が宣言型言語であり、幸いなことに、付加的なライブラリに依存することもありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T040236Z" creationid="rikiha" creationdate="20170925T014347Z">
+        <seg>都合の良いことに、それ自体が宣言型言語であり、さらに幸いなことに、付加的なライブラリに依存することもありません。</seg>
       </tuv>
     </tu>
     <tu>
