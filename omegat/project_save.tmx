@@ -18823,6 +18823,8 @@ OK
 (もんどさん)
 &gt; aria-level属性は階層内のレベルを指定するもので、見出しに適用すると見出しレベルを指定したことになります。
 `role="heading"`が見出しを表すロールだということは自明？その説明があった方がより丁寧になる気はします。
+
+(伊原) 太田さんご検討ください。確かにそうかも。
 </note>
       <tuv lang="EN-US">
         <seg>It gets even more verbose when you’re wedded to using a &lt;g4&gt;&lt;div&gt;&lt;/g4&gt; and have to fix the heading accessibility &lt;g5&gt;after the fact&lt;/g5&gt; with ARIA attributes:</seg>
