@@ -1547,7 +1547,7 @@ Kenny Mulbarton→ケニー・マルバートン</note>
     <tu>
       <note>(川本さん) githubの権限の問題でしょうか？404でした
 
-(伊原) 初校PDFの記載ミスっぽい</note>
+(伊原) 初校PDFの記載ミスっぽい。DTPマター、岡本さん確認。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;5.&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;https://github.com/w3c/webcomponents&lt;/g3&gt;&lt;/g2&gt;</seg>
       </tuv>
@@ -21468,7 +21468,8 @@ OK
 (高橋さん) ・ナビゲーション "領域" 
 ナビゲーションランドマークとナビゲーションの領域を分けて説明されているのだと思いますが、
 その前の節までナビゲーションランドマークの話があり、この節にきていきなり「ナビゲーション領域」の話に変わったので少し違和感がありました。
-</note>
+
+(伊原) 1543と1544のナビゲーションランドマークは、単に「ナビゲーション」でいいのかも。</note>
       <tuv lang="EN-US">
         <seg>Navigation regions are a tool with a long history, making them a convention you can rely on for inclusive page design.</seg>
       </tuv>
