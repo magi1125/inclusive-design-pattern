@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1127,11 +1127,12 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) 調整して反映</note>
       <tuv lang="EN-US">
         <seg>&lt;g11&gt;/* web font with fallbacks */&lt;/g11&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171009T122603Z" creationid="magi1125" creationdate="20171009T122603Z">
-        <seg>&lt;g11&gt;/* Webフォントにフォールバック */&lt;/g11&gt;</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T122619Z" creationid="magi1125" creationdate="20171009T122603Z">
+        <seg>&lt;g11&gt;/* Webフォント指定、フォールバックつき */&lt;/g11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5339,12 +5340,12 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳を反映</note>
+      <note>(伊原) 調整して反映</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;/* system font with fallback */&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171009T122502Z" creationid="magi1125" creationdate="20171009T122502Z">
-        <seg>&lt;g4&gt;/* システムフォントにフォールバック */&lt;/g4&gt;</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T122612Z" creationid="magi1125" creationdate="20171009T122502Z">
+        <seg>&lt;g4&gt;/* システムフォント指定、フォールバックつき */&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
