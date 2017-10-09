@@ -1773,10 +1773,16 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
 個人的には、理解しやすさ・復習の場面と言う面で、これまで通り日本語で書いた方が良いかと感じます。
 
 (伊原) ここ和訳必要ですね
-</note>
+
+(太田) ここ和訳必要です。Wordから下訳を反映しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!DOCTYPE html&gt;&lt;/g2&gt;
 &lt;g3&gt;&lt;!-- the main language of the page declared --&gt;&lt;/g3&gt;
+&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;&lt;&lt;/g6&gt;html&lt;/g5&gt; &lt;g7&gt;lang&lt;/g7&gt;&lt;g8&gt;&lt;g9&gt;=&lt;/g9&gt;"en"&lt;/g8&gt;&lt;g10&gt;&gt;&lt;/g10&gt;&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T104830Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;!DOCTYPE html&gt;&lt;/g2&gt;
+&lt;g3&gt;&lt;!-- ページのメインの言語を指定  --&gt;&lt;/g3&gt;
 &lt;g4&gt;&lt;g5&gt;&lt;g6&gt;&lt;&lt;/g6&gt;html&lt;/g5&gt; &lt;g7&gt;lang&lt;/g7&gt;&lt;g8&gt;&lt;g9&gt;=&lt;/g9&gt;"en"&lt;/g8&gt;&lt;g10&gt;&gt;&lt;/g10&gt;&lt;/g4&gt;</seg>
       </tuv>
     </tu>
@@ -4607,6 +4613,14 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g22&gt;&lt;!-- a viewport declaration which does not disable zooming --&gt;&lt;/g22&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T104855Z" creationid="bakera" creationdate="20171009T104855Z">
+        <seg>&lt;g22&gt;&lt;!-- ズームを無効にしないビューポート宣言 --&gt;&lt;/g22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g237&gt;&lt;g238&gt;&lt;g239&gt;&lt;/&lt;/g239&gt;label&lt;/g238&gt;&lt;g240&gt;&gt;&lt;/g240&gt;&lt;/g237&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170918T045753Z" creationid="rikiha" creationdate="20170909T224020Z">
@@ -4875,6 +4889,19 @@ OmegaT上では訳されているので、DTPの問題か反映タイミング�
         <seg>&lt;g34&gt;&lt;g35&gt;&lt;g36&gt;&lt;&lt;/g36&gt;button&lt;/g35&gt; &lt;g37&gt;aria-pressed&lt;/g37&gt;&lt;g38&gt;&lt;g39&gt;=&lt;/g39&gt;"false"&lt;/g38&gt;&lt;g40&gt;&gt;&lt;/g40&gt;&lt;/g34&gt;登録&lt;g41&gt;&lt;g42&gt;&lt;g43&gt;&lt;/&lt;/g43&gt;button&lt;/g42&gt;&lt;g44&gt;&gt;&lt;/g44&gt;&lt;/g41&gt;
 &lt;g45&gt;&lt;g46&gt;&lt;g47&gt;&lt;/&lt;/g47&gt;div&lt;/g46&gt;&lt;g48&gt;&gt;&lt;/g48&gt;&lt;/g45&gt;
 &lt;g49&gt;&lt;g50&gt;&lt;g51&gt;&lt;&lt;/g51&gt;div&lt;/g50&gt; &lt;g52&gt;id&lt;/g52&gt;&lt;g53&gt;&lt;g54&gt;=&lt;/g54&gt;"forms"&lt;/g53&gt;&lt;g55&gt;&gt;&lt;/g55&gt;&lt;/g49&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+元訳:
+&lt;!-- ？？ノンブロッキングの？？Base64エンコードのフォントリソース --&gt;【コメント：不安訳です。原文「a non-blocking」複数あります】
+
+レンダリングをブロックしないということだと思います。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g35&gt;&lt;!-- a non-blocking base64 encoded font resource --&gt;&lt;/g35&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T105025Z" creationid="bakera" creationdate="20171009T105025Z">
+        <seg>&lt;g35&gt;&lt;!-- レンダリングをブロックしない、Base64エンコードしたフォントリソース --&gt;&lt;/g35&gt;</seg>
       </tuv>
     </tu>
     <tu>
