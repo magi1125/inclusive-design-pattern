@@ -25953,12 +25953,13 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 (伊原) どのボタンの話をしているかという点と、ラベルが唐突な点を補ってみました。
 
 (太田)
-むしろ最初の方にボタンの要件を補っても良いのかもしれませんね。&lt;分節 0185&gt;と&lt;分節 0198&gt;に「スタート」と書かれている旨を補うのが良いように思いました。</note>
+むしろ最初の方にボタンの要件を補ったほうが良いように思いました。&lt;分節 0185&gt;と&lt;分節 0198&gt;に「スタート」と書かれている旨を補うのが良いと思います。
+ということでそう処理してみました。</note>
       <tuv lang="EN-US">
         <seg>Since the button’s label of “Start” is in a background image as part of CSS’s presentation layer, this too is unavailable to assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171009T104213Z" creationid="okamoto_jun" creationdate="20170627T101018Z">
-        <seg>コードを書くデザイナーのボタンでは、「スタート」というラベルはCSSの背景画像として表現されていたため、これもやはり支援技術からは利用できません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T104510Z" creationid="okamoto_jun" creationdate="20170627T101018Z">
+        <seg>また、「スタート」というラベルがCSSの背景画像で表現されているため、これもやはり支援技術からは利用できません。</seg>
       </tuv>
     </tu>
     <tu>
