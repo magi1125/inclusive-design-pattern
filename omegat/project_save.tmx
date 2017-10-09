@@ -1683,7 +1683,9 @@ WAI-ARIAオーサリングプラクティス1.1の編集者の草案は、 開�
 (伊原) この表現は文節2444にも出てくるのですが、川本さんから「先にこのジョークの意味を教えて欲しかった」とのコメントが。訳注を付与（というか一部移動）したほうがいいかも。
 
 (太田)
-2444のあれは「コードが長すぎる」という意味だと思いましたが、こっちは謎ですね。ここでは、このコード自体の寿命が短かった (すぐお払い箱になった) 意味かも?</note>
+2444のあれは「コードが長すぎる」という意味だと思いましたが、こっちは謎ですね。ここでは、このコード自体の寿命が短かった (すぐお払い箱になった) 意味かも?
+謎なので訳注の書きようがないです。
+ひとまず訳だけ&lt;2444&gt;にそろえました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;/* (life is too short)
 p {</seg>
@@ -13818,7 +13820,9 @@ take care of themselves は「自分のことは自分で始末する」「自�
 
 (川本さん) これからFlashは失われるので、ColorSafeがあることですし紹介する必要はないのではないでしょうか
 
-(伊原) 原文ママなのでママで。</note>
+(伊原) 原文ママなのでママで。
+
+(太田) Ok</note>
       <tuv lang="EN-US">
         <seg>Free tools like &lt;g1&gt;&lt;g2&gt;Contrast-A&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;11&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (requires Flash) and &lt;g6&gt;&lt;g7&gt;Color Safe&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;12&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; are available to help you there.</seg>
       </tuv>
