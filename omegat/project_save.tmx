@@ -36771,6 +36771,11 @@ WAI-ARIA1.1では role="none" のほうがいいという議論もあり、こ�
 http://www.w3.org/TR/wai-aria-1.1/#presentation
 
 (伊原) 凍結ワロタ。OKです。presentationは物議ありましたね。訳注お願い致します
+
+(もんどさん)
+&gt; WAI-ARIA1.1では "presentation" と同じ意味を持つ "none" という値が定義され、将来的にはこちらに移行していきたいという議論があります。
+ARIAと1.1の間にはスペースが必要です。
+また、説明自体は誤りではないですが、「"presentation"が誤用されることがあるので"none"が新設された」というような背景を交えてもよいかもしれません。
 </note>
       <tuv lang="EN-US">
         <seg>Where JavaScript has added the tab interface semantics, the list semantics become redundant, which is why we suppress them with &lt;g1&gt;role="presentation"&lt;/g1&gt; on each &lt;g2&gt;&lt;li&gt;&lt;/g2&gt; element.</seg>
