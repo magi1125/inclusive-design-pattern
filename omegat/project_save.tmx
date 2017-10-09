@@ -1148,7 +1148,9 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
     </tu>
     <tu>
       <note>(岡本)
-下訳：&lt;!-- ここに購買ウィジェット --&gt;</note>
+下訳：&lt;!-- ここに購買ウィジェット --&gt;
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g120&gt;&lt;!-- purchasing widget here --&gt;&lt;/g120&gt;
 &lt;g121&gt;&lt;g122&gt;&lt;g123&gt;&lt;/&lt;/g123&gt;main&lt;/g122&gt;&lt;g124&gt;&gt;&lt;/g124&gt;&lt;/g121&gt;&lt;/g1&gt;</seg>
@@ -1382,7 +1384,9 @@ Kenny Mulbarton→ケニー・マルバートン</note>
 // 後はブラウザの通常の動作とURLの更新が行われるように設定する 
 
 スクロールが終わった後の処理なので誤訳ですね。
-調整して反映しました。</note>
+調整して反映しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g152&gt;// now that we’ve scrolled the target into view,
 &lt;/g152&gt;            &lt;g153&gt;// let the browser do its regular thing and update the URL
@@ -1409,7 +1413,8 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) いったん直訳</note>
+      <note>(伊原) いったん直訳
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g15&gt;&lt;!-- last item --&gt;&lt;/g15&gt;</seg>
       </tuv>
@@ -1855,7 +1860,8 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
 
 (太田)
 分節658はちょっと意味が違うような気がします。そして意味が分からない……。
-</note>
+
+(伊原) あちらにも書きましたが、あちらは、いちいち計算してられない、ということかなと思いました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- life is too short!</seg>
       </tuv>
@@ -4661,7 +4667,9 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
     </tu>
     <tu>
       <note>(岡本)
-下訳：&lt;!-- ここに購買ウィジェット --&gt;</note>
+下訳：&lt;!-- ここに購買ウィジェット --&gt;
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g211&gt;&lt;!-- purchasing widget here --&gt;&lt;/g211&gt;
 &lt;g212&gt;&lt;g213&gt;&lt;g214&gt;&lt;/&lt;/g214&gt;main&lt;/g213&gt;&lt;g215&gt;&gt;&lt;/g215&gt;&lt;/g212&gt;&lt;/g1&gt;</seg>
@@ -5756,6 +5764,7 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g6&gt;&lt;!-- penultimate item --&gt;&lt;/g6&gt;</seg>
       </tuv>
