@@ -32621,8 +32621,8 @@ OK、そうしましょう。
       <tuv lang="EN-US">
         <seg>This is technically valid, but it creates a lot of unnecessary noise; that is, focusing each input in turn would announce the extended labels of “Registration: Your email address,” “Registration: Choose a username,” and so on.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074053Z" creationid="bakera" creationdate="20170929T042443Z">
-        <seg>これは技術的には妥当なものですが、不要なノイズが大量に生まれてしまいます。つまり、それぞれの入力らんに順にフォーカスを合わせていくと、「新規登録：メールアドレス」、「新規登録：ユーザー名を選択」、という具合に補われたラベルが読み上げられます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T032504Z" creationid="bakera" creationdate="20170929T042443Z">
+        <seg>これは技術的には妥当なものですが、不要なノイズが大量に生まれてしまいます。つまり、それぞれの入力欄に順にフォーカスを合わせていくと、「新規登録：メールアドレス」、「新規登録：ユーザー名を選択」、という具合に補われたラベルが読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36483,12 +36483,14 @@ impossibleは「不可能になる」くらい強くしたいところ。
 
 (伊原) OK
 
-(土屋さん) しまします→しまいます。</note>
+(土屋さん) しまします→しまいます。
+
+(伊原) 修正</note>
       <tuv lang="EN-US">
         <seg>When programming code day in and day out, we habituate ourselves to thinking of things as right or wrong, true or false.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170929T072244Z" creationid="bakera" creationdate="20170929T042448Z">
-        <seg>日々の業務でプログラミングのコードを書いていると、正しいか間違っているか、真か偽かで物ごとを考えるのに慣れてしまします。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T032517Z" creationid="bakera" creationdate="20170929T042448Z">
+        <seg>日々の業務でプログラミングのコードを書いていると、正しいか間違っているか、真か偽かで物ごとを考えるのに慣れてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
