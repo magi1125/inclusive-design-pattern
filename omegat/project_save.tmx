@@ -13520,7 +13520,9 @@ tiptoeはつま先立ちで歩く。
 
 (伊原) OK
 
-(川本さん) フォントが違います</note>
+(川本さん) フォントが違います
+
+(伊原) DTPマター、岡本さんに確認。</note>
       <tuv lang="EN-US">
         <seg>For users who type quickly, the above &lt;g1&gt;validate()&lt;/g1&gt; function will fire very frequently.</seg>
       </tuv>
@@ -23100,12 +23102,14 @@ willで未来形なので「出現するようになります」としました�
 
 (岡本)　欄→らん
 
-(土屋さん) 「入力欄」ですね。</note>
+(土屋さん) 「入力欄」ですね。
+
+(伊原) 修正</note>
       <tuv lang="EN-US">
         <seg>Now, when a screen reader user focuses the input, this accessible description will be read out after the label, current value, input type and (invalid) state information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074123Z" creationid="bakera" creationdate="20170929T090854Z">
-        <seg>スクリーンリーダーユーザーが入力にフォーカスを合わせると、ラベル、現在入力されている値、入力らんのタイプ、状態についての情報 (エラーであること) が読まれた後に、アクセシブルな説明文が読み上げられることになります。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T032949Z" creationid="bakera" creationdate="20170929T090854Z">
+        <seg>スクリーンリーダーユーザーが入力にフォーカスを合わせると、ラベル、現在入力されている値、入力欄のタイプ、状態についての情報 (エラーであること) が読まれた後に、アクセシブルな説明文が読み上げられることになります。</seg>
       </tuv>
     </tu>
     <tu>
