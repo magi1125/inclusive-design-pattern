@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1123,6 +1123,14 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g11&gt;/* web font with fallbacks */&lt;/g11&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T122603Z" creationid="magi1125" creationdate="20171009T122603Z">
+        <seg>&lt;g11&gt;/* Webフォントにフォールバック */&lt;/g11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g11&gt;&lt;g12&gt;&lt;g13&gt;&lt;&lt;/g13&gt;li&lt;/g12&gt;&lt;g14&gt;&gt;&lt;/g14&gt;&lt;/g11&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170909T223841Z" creationid="rikiha" creationdate="20170909T223841Z">
@@ -1897,6 +1905,21 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!DOCTYPE html&gt;&lt;/g2&gt;
 &lt;g3&gt;&lt;!-- ページのメインの言語を指定  --&gt;&lt;/g3&gt;
 &lt;g4&gt;&lt;g5&gt;&lt;g6&gt;&lt;&lt;/g6&gt;html&lt;/g5&gt; &lt;g7&gt;lang&lt;/g7&gt;&lt;g8&gt;&lt;g9&gt;=&lt;/g9&gt;"en"&lt;/g8&gt;&lt;g10&gt;&gt;&lt;/g10&gt;&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) コメント下訳：DOM関連はここに
+調整して反映。
+</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;a&lt;/g3&gt; &lt;g5&gt;href&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"#nav-menu"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;navigation menu&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;a&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;
+&lt;g13&gt;&lt;!-- lots of other DOM stuff here --&gt;&lt;/g13&gt;
+&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;&lt;&lt;/g16&gt;nav&lt;/g15&gt; &lt;g17&gt;aria-label&lt;/g17&gt;&lt;g18&gt;&lt;g19&gt;=&lt;/g19&gt;"site"&lt;/g18&gt; &lt;g20&gt;id&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"nav-menu"&lt;/g21&gt; &lt;g23&gt;tabindex&lt;/g23&gt;&lt;g24&gt;&lt;g25&gt;=&lt;/g25&gt;"-1"&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g14&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T122222Z" creationid="magi1125" creationdate="20171009T122222Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;a&lt;/g3&gt; &lt;g5&gt;href&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"#nav-menu"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;navigation menu&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;a&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;
+&lt;g13&gt;&lt;!-- ここにその他もろもろのDOM要素 --&gt;&lt;/g13&gt;
+&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;&lt;&lt;/g16&gt;nav&lt;/g15&gt; &lt;g17&gt;aria-label&lt;/g17&gt;&lt;g18&gt;&lt;g19&gt;=&lt;/g19&gt;"site"&lt;/g18&gt; &lt;g20&gt;id&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"nav-menu"&lt;/g21&gt; &lt;g23&gt;tabindex&lt;/g23&gt;&lt;g24&gt;&lt;g25&gt;=&lt;/g25&gt;"-1"&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4969,6 +4992,7 @@ OmegaT上では訳されているので、DTPの問題か反映タイミング�
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) コメント翻訳</note>
       <tuv lang="EN-US">
         <seg>&lt;g33&gt;&lt;!-- more &lt;symbol&gt;s here --&gt;&lt;/g33&gt;
 &lt;g34&gt;&lt;g35&gt;&lt;g36&gt;&lt;/&lt;/g36&gt;svg&lt;/g35&gt;&lt;g37&gt;&gt;&lt;/g37&gt;&lt;/g34&gt;&lt;/g1&gt;</seg>
@@ -5307,6 +5331,15 @@ Size:　→サイズ：</note>
 &lt;g5&gt;}&lt;/g5&gt;
 
 &lt;g6&gt;a.call-to-action &lt;/g6&gt;&lt;g7&gt;{&lt;/g7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g4&gt;/* system font with fallback */&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T122502Z" creationid="magi1125" creationdate="20171009T122502Z">
+        <seg>&lt;g4&gt;/* システムフォントにフォールバック */&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
