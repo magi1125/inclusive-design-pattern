@@ -8548,13 +8548,13 @@ svg要素の中のstyle要素でスタイルを指定するとSVG対応ブラウ
 (土屋さん) 全体的に、海外の人名は、カナ表記の後に () で原語表記しているようなので、であればここでも (Steve Faulkner) と追記するとよいかもしれません。
 アポストロフィ後の余白が気になりました。
 
-(伊原) PDFだとdosen'tのところが空いている
+(伊原) 原語表記追加。PDFだとdosen'tのところが空いている、ここはDTPマター、岡本さん確認。
 </note>
       <tuv lang="EN-US">
         <seg>As Steve Faulkner writes in “&lt;g1&gt;&lt;g2&gt;Some stuff that doesn’t work between the DOM and Shadow DOM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;14&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” the shadow boundary effectively severs relationships built using attributes like &lt;g6&gt;aria-labelledby&lt;/g6&gt;, &lt;g7&gt;aria-describedby&lt;/g7&gt; and &lt;g8&gt;aria-controls&lt;/g8&gt;, where one element in the relationship is the other side of a shadow boundary.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T053621Z" creationid="yoota" creationdate="20170719T093344Z">
-        <seg>スティーブ・フォルクナーが「&lt;g1&gt;&lt;g2&gt;Some stuff that doesn’t work between the DOM and Shadow DOM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注84）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」で書いているように、Shadow Boundaryは、&lt;g6&gt;aria-labelledby&lt;/g6&gt;、&lt;g7&gt;aria-describedby&lt;/g7&gt;、&lt;g8&gt;aria-controls&lt;/g8&gt;などの属性で指定されたリレーションシップを分断してしまいます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T005614Z" creationid="yoota" creationdate="20170719T093344Z">
+        <seg>スティーブ・フォルクナー (Steve Faulkner) が「&lt;g1&gt;&lt;g2&gt;Some stuff that doesn’t work between the DOM and Shadow DOM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注84）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;」で書いているように、Shadow Boundaryは、&lt;g6&gt;aria-labelledby&lt;/g6&gt;、&lt;g7&gt;aria-describedby&lt;/g7&gt;、&lt;g8&gt;aria-controls&lt;/g8&gt;などの属性で指定されたリレーションシップを分断してしまいます。</seg>
       </tuv>
     </tu>
     <tu>
