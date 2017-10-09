@@ -10822,7 +10822,9 @@ rudimentaryは原始的のほうがいいかも。
 警察（略）。一般にunordered listと説明されるわけですから、「順序なしリスト」とか、「順不同リスト」とするのが好ましいでしょう。
 
 (太田)
-「順序なし」で。</note>
+「順序なし」で。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>By using an unordered list, we evoke the rudimentary navigation schemas possible in HTML4 and XHTML and build on a recognized convention.</seg>
       </tuv>
@@ -13261,7 +13263,9 @@ For thatは「その実現」としてみました。
 
 (太田)
 ここでは unordered を訳出する必要がないと思うのでトリで。
-(コードの後にもう一度でてきます)</note>
+(コードの後にもう一度でてきます)
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>For the purposes of accessible UX, progressive enhancement and backwards compatibility, landmark regions should contain an unordered list of links.</seg>
       </tuv>
