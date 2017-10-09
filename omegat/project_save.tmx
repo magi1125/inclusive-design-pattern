@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27784,12 +27784,27 @@ JISだと「堅ろう」なのですよね。
 
 (土屋さん) この図のキャプションと、前後の文脈が、いまひとつフィットしていない印象を受けました。
 
-(伊原) a breakpoint for every width は、もしかしたら「あらゆる幅のブレイクポイント」ということなのかも。訳し直してみました。</note>
+(伊原) a breakpoint for every width は、もしかしたら「あらゆる幅のブレイクポイント」ということなのかも。訳し直してみました。
+
+(太田)
+いやー、a breakpoint なので1個なのは間違いないです。
+直訳だと
+「全ての幅に対応したひとつのブレイクポイントが必要というわけではない」
+なのですが、これの意味するところを普通は
+「ひとつではなく、たくさんのブレイクポイントが必要」
+と読むでしょうけれども、実はそういうことではなく、
+「そもそもブレイクポイントひとつもいらないのでは?」
+ということなのではないかと思います。
+
+ということで、
+「全ての幅に対応したブレイクポイントが必要になるということではありません」
+としてみました。
+</note>
       <tuv lang="EN-US">
         <seg>That doesn’t mean you need a breakpoint for every width.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171008T213906Z" creationid="yoota" creationdate="20170426T061542Z">
-        <seg>ただしそれは、あらゆる幅のブレイクポイントが必要だということではありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T120029Z" creationid="yoota" creationdate="20170426T061542Z">
+        <seg>ただしそれは、全ての幅に対応したブレイクポイントが必要になるということではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33590,7 +33605,10 @@ https://www.freebsd.org/doc/ja_JP.eucJP/books/faq/misc.html#idp75598440
 
 (土屋さん) 「自転車置き場のすべてを」でしょうか。
 
-(伊原) 自転車置き場をすべて、としました。参照お願いします。</note>
+(伊原) 自転車置き場をすべて、としました。参照お願いします。
+
+(太田) OK
+訳注は修正済みです。</note>
       <tuv lang="EN-US">
         <seg>This seems more than adequate to paint any bikeshed you will come across for the rest of your career.” – “&lt;g1&gt;&lt;g2&gt;The Veil Of Ignorance&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;3&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” Adam Morse</seg>
       </tuv>
