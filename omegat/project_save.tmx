@@ -19291,12 +19291,14 @@ It’s a mixed bag がスルーされていますね。
 
 (伊原) OK
 
-(土屋さん) HTML の &lt;form&gt; 要素のこと、ですかね？</note>
+(土屋さん) HTML の &lt;form&gt; 要素のこと、ですかね？
+
+(伊原) from elements なので、フォームの各要素としました。</note>
       <tuv lang="EN-US">
         <seg>It’s a mixed bag: form elements piggyback OS functionality and are keyboard and screen reader accessible as standard — at least when marked up correctly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T055453Z" creationid="bakera" creationdate="20170924T042330Z">
-        <seg>いろいろあります。まず、フォーム要素が必要です。OSの機能を利用し、標準でキーボードとスクリーンリーダーにとってアクセシブルなものです――少なくとも正確にマークアップされている場合には。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T031641Z" creationid="bakera" creationdate="20170924T042330Z">
+        <seg>いろいろあります。まず、フォームの各要素が必要です。OSの機能を利用し、標準でキーボードとスクリーンリーダーにとってアクセシブルなものです――少なくとも正確にマークアップされている場合には。</seg>
       </tuv>
     </tu>
     <tu>
