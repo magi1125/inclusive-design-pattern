@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16887,7 +16887,9 @@ In any case, は「さて」ぐらいにしてみました。
 
 (太田)
 調整してみました。
-脚注はDTPマター? ※岡本さん確認</note>
+脚注はDTPマター? ※岡本さん確認
+
+(伊原) OK、脚注はDTPマター、岡本さんに確認。</note>
       <tuv lang="EN-US">
         <seg>In correctly behaving tab interfaces, there should always be one selected tab, defined accessibly using the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; state.</seg>
       </tuv>
@@ -23543,7 +23545,9 @@ willで未来形なので「出現するようになります」としました�
 `aria-labelledby`と修飾すべきでしょう。
 
 (太田)
-DTPマター ※岡本さん確認</note>
+DTPマター ※岡本さん確認
+
+(伊原) DTPマター、岡本さんに確認。</note>
       <tuv lang="EN-US">
         <seg>Of course, this catches the complete absence of &lt;g1&gt;aria-labelledby&lt;/g1&gt; as well.</seg>
       </tuv>
@@ -29229,7 +29233,7 @@ mightなのですこし弱めに。
 (太田)
 修飾はDTPマター。※岡本さん確認
 
-</note>
+(伊原) DTPマター、岡本さんに確認</note>
       <tuv lang="EN-US">
         <seg>The additional test selector in the following example matches tab panels with the correct role, but with an &lt;g3&gt;aria-labelledby&lt;/g3&gt; value not commencing with “tab.” This fuzzy matching is possible using the &lt;g4&gt;starts with&lt;/g4&gt; &lt;g5&gt;^&lt;/g5&gt; modifier in the attribute selector, &lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;.</seg>
       </tuv>
@@ -37140,7 +37144,8 @@ ARIAと1.1の間にはスペースが必要です。
 
 (太田)
 訳注を大幅に書き足しました。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Where JavaScript has added the tab interface semantics, the list semantics become redundant, which is why we suppress them with &lt;g1&gt;role="presentation"&lt;/g1&gt; on each &lt;g2&gt;&lt;li&gt;&lt;/g2&gt; element.</seg>
       </tuv>
