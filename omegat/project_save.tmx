@@ -18837,7 +18837,9 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
 
 (太田)
 現状「インスペクタ」で統一されています。
-いったんママで。</note>
+いったんママで。
+
+(伊原) OK（「フィルター」としているので音引きにあわせても良いのかも）。</note>
       <tuv lang="EN-US">
         <seg>Instead, I can use the developer tools CSS inspector like a JavaScript console and provide the error messages there.</seg>
       </tuv>
@@ -37344,7 +37346,9 @@ integratedは統合された?
 「別のもの」とすべきでしょう。
 
 (太田)
-そうしました。</note>
+そうしました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Where there are errors for successive sibling elements (like the erroneous &lt;g1&gt;&lt;li&gt;&lt;/g1&gt; replacements the last example is designed to detect) space becomes an issue too.</seg>
       </tuv>
