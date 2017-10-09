@@ -6475,7 +6475,9 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
 
 (伊原) OK
 
-(川本さん) ページが切り替わったので見出しに見えてしまいました。サンプル部分はpaddingをほどよくとった薄いグレーの枠で囲み、センタリング表示するのはどうでしょうか？</note>
+(川本さん) ページが切り替わったので見出しに見えてしまいました。サンプル部分はpaddingをほどよくとった薄いグレーの枠で囲み、センタリング表示するのはどうでしょうか？
+
+(伊原) DTPマター、岡本さん確認。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The familiar rectangular box indicates a glyph that is not supported and constitutes a fallback.&lt;/g3&gt;</seg>
       </tuv>
@@ -30045,7 +30047,7 @@ https://www.google.com/get/noto/
 (太田)
 訳注には「ちなみに、GoogleのNotoフォントの名前は"no more tofu"に由来します。」と書いてあります。訳注反映ミス?
 
-(伊原) いえ、"no more tofuに由来"だとNotoと略すとわからない、という指摘っぽいです。No mre Tofu とキャピタライズすればいいのかも。
+(伊原) いえ、"no more tofuに由来"だとNotoと略すとわからない、という指摘っぽいです。No more Tofu とキャピタライズすればいいのかも。
 </note>
       <tuv lang="EN-US">
         <seg>The problem comes when the user-defined font does not support the characters used for the icons, and leaves generic “Glyph not defined” boxes in their place.</seg>
