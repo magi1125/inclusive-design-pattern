@@ -32166,7 +32166,9 @@ marginは「マージン」で良いかと。
 
 (川本さん) プリント写真
 写真プリント
-どちらか正しい方に統一を</note>
+どちらか正しい方に統一を
+
+(伊原) 写真プリントで統一</note>
       <tuv lang="EN-US">
         <seg>This helps to test dynamic content for the title of the print.</seg>
       </tuv>
@@ -39537,7 +39539,9 @@ lorem ipsum は訳注いりますかね?
 「数字を2つ指定すると」の方が分かりやすいような気がします。
 
 (太田)
-好みの問題だと思いますが、まあ対応しました。</note>
+好みの問題だと思いますが、まあ対応しました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>When two numbers are provided, as in &lt;g1&gt;words|1|10&lt;/g1&gt;, the script will place &lt;g2&gt;between&lt;/g2&gt; the first number and second number of array items as the text node.</seg>
       </tuv>
