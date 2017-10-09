@@ -21837,12 +21837,14 @@ ourを私たちと訳すのはどうなのか。他は適当に濁している�
 (高橋さん) 個々 とは select要素のことですか？
 
 (高橋さん) あるだけではなく、〜〜ないようです。
-の日本語に違和感があり、読むのに詰まりました</note>
+の日本語に違和感があり、読むのに詰まりました
+
+(伊原) 個々にはなくても通じるのでトリ、あるだけではなく〜ありますとなるように調整。</note>
       <tuv lang="EN-US">
         <seg>Not only are there discrete technical shortcomings (such as certain devices suppressing the zoom of &lt;g13&gt;&lt;option&gt;&lt;/g13&gt; overlays), but they just don’t seem to be &lt;g14&gt;understood&lt;/g14&gt; by all sorts of people.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170616T075923Z" creationid="yoota" creationdate="20170524T090303Z">
-        <seg>個々の技術的な欠点（特定のデバイスで、オーバーレイ表示される&lt;g13&gt;&lt;option&gt;&lt;/g13&gt;をズームできないなど）があるだけではなく、あらゆる人に&lt;g14&gt;理解&lt;/g14&gt;できるわけではないようです。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T001408Z" creationid="yoota" creationdate="20170524T090303Z">
+        <seg>技術的な欠点（特定のデバイスで、オーバーレイ表示される&lt;g13&gt;&lt;option&gt;&lt;/g13&gt;をズームできないなど）があるだけではなく、あらゆる人が&lt;g14&gt;理解&lt;/g14&gt;できるわけではないという問題もあります。</seg>
       </tuv>
     </tu>
     <tu>
