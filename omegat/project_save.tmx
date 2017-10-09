@@ -8379,12 +8379,28 @@ https://material.io/guidelines/usability/accessibility.html#accessibility-style
 
 (太田)
 AppleのHuman Interface Guidelinesをさんざん探したものの同じところをぐるぐる回らされただけで明確な定義が発見できず。使いにくすぎてホントキレそうです。いったん放置します。
-</note>
+
+(伊原) 44ポイントと訳しなおしました。これはいわゆるdpと同等っぽいです。CSSの場合は結局、width=device-width,initial-scale=1であれば44pxと書けばいいんですけどね…。
+
+https://developer.apple.com/design/tips/jp/
+44ポイントと記載
+
+http://fladdict.net/blog/2011/06/smart-button.html
+iPhoneが出た当時は44pxだった。その後retinaになってポイントに。
+
+http://www.dotproof.jp/2013/08/06/minimum-tap-size/
+「ポイント」というのはiOS独自の単位で、iPhone登場の時点ではこれが「ピクセル」でした。初代iPhoneの画面解像度は320ｘ480ピクセルで163 ppiの解像度でしたから、ドットピッチは約0.15ミリだったわけです。そうすると44ピクセルは約7ミリ弱になります。
+
+https://www.sociomedia.co.jp/4152
+iOS ヒューマンインターフェイス ガイドライン（PDF – 27.5MB）では、タッチ対象となるコントロールの最低限のサイズを、44 x 44 ポイントとしています。これは実測にすると、iPhone や iPad mini では約 7mm 四方、iPad では約 9mm 四方となります。
+
+https://qiita.com/usagimaru/items/9d39d105ad57bc73ea24
+iOS (Cocoa Touch の UIView) の座標系はピクセル単位ではなくポイント単位が基本となります</note>
       <tuv lang="EN-US">
         <seg>Apple and Android differ in their advice on touch targets with Apple recommending 44 points × 44 points (a density-independent unit of measure related to pixels and unique to Apple) and Android 48px × 48px.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170824T032428Z" creationid="rikiha" creationdate="20170819T005430Z">
-        <seg>AppleとAndroidは、タッチターゲットの大きさについて異なるアドバイスをしています。Appleは44pt × 44pt（ピクセル密度とは独立したApple特有の測定単位）、Androidは48px × 48pxを推奨しています。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T021948Z" creationid="rikiha" creationdate="20170819T005430Z">
+        <seg>AppleとAndroidは、タッチターゲットの大きさについて異なるアドバイスをしています。Appleは44 × 44ポイント（ピクセル密度とは独立したApple特有の測定単位）、Androidは48 × 48pxを推奨しています。</seg>
       </tuv>
     </tu>
     <tu>
