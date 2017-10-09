@@ -6892,7 +6892,9 @@ Note を訳出しました。
 バージョンの表記は取りました (マイナーなバージョン変更で頻繁に変わるとは考えにくいため)。Edgeは確認しましたが、選択出来て何も起きないという最悪に近い挙動でした。これは追記しました。
 
 可能であればSafariの確認お願いします。&gt; 伊原さん
-</note>
+
+(伊原) OSX Safari バージョン11.0 (12604.1.38.1.7) では以下のようになり、リンクをコピーすると「javascript:w=window.open('popup.html','','scrollbars=yes,width=250,height=100,');w.focus();」とコピーされました。
+https://gyazo.com/1852f912633f0166091629c70629cb89</note>
       <tuv lang="EN-US">
         <seg>A browser only knows to provide these things if you use the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; element in an expected way.</seg>
       </tuv>
@@ -18822,7 +18824,9 @@ OK
 
 (太田)
 前分節からそのままもってきた影響ですね。
-「しかし」としました。</note>
+「しかし」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>It does not help users.</seg>
       </tuv>
