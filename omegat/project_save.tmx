@@ -27796,15 +27796,16 @@ JISだと「堅ろう」なのですよね。
 「そもそもブレイクポイントひとつもいらないのでは?」
 ということなのではないかと思います。
 
-ということで、
-「全ての幅に対応したブレイクポイントが必要になるということではありません」
-としてみました。
+ということで、結論としては、
+「あらゆる幅に対応した (ひとつの) ブレイクポイントが必要になるということではありません」
+ということだと思います。ひとつの、は訳出しないほうが分かりやすいように思いました。
+
 </note>
       <tuv lang="EN-US">
         <seg>That doesn’t mean you need a breakpoint for every width.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171009T120029Z" creationid="yoota" creationdate="20170426T061542Z">
-        <seg>ただしそれは、全ての幅に対応したブレイクポイントが必要になるということではありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T120152Z" creationid="yoota" creationdate="20170426T061542Z">
+        <seg>ただしそれは、あらゆる幅に対応したブレイクポイントが必要になるということではありません。</seg>
       </tuv>
     </tu>
     <tu>
