@@ -23094,7 +23094,13 @@ familiarを「十分に学習してきた」としていますが、「十分に
       <note>(伊原) 適切に配置➞適切な位置、表示されます➞出現します。
 
 (太田)
-willで未来形なので「出現するようになります」としました。</note>
+willで未来形なので「出現するようになります」としました。
+
+(もんどさん)
+&gt; 適切な位置にtablistセマンティクスが存在しない場合、
+「位置」というよりかはむしろ「場所」の方が適切な訳のような気がします。また、「tablistセマンティクス」というのは前の段落にある「tablistロール」とは別物と言うことでしょうか…？
+
+</note>
       <tuv lang="EN-US">
         <seg>Now, if no well-placed &lt;g1&gt;tablist&lt;/g1&gt; semantics are present, an ugly red outline will appear on the list element.</seg>
       </tuv>
