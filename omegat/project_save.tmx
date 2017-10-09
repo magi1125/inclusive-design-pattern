@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8644,7 +8644,9 @@ iOS (Cocoa Touch の UIView) の座標系はピクセル単位ではなくポイ
 たぶん原文がセミコロンで繋いでいて、小説っぽい言い回しになっているんじゃないかと勝手に推測しますが、もう少しこなれた訳出にしてもらえればという感想です。
 
 (太田)
-「都合の良いことに」くらいでも良いですね。</note>
+「都合の良いことに」くらいでも良いですね。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Appropriately, it is itself a declarative language and, fortuitously, it does not take the form of an additional library dependency.</seg>
       </tuv>
@@ -28090,7 +28092,9 @@ the largely imperative language of JavaScript.は「javaScriptという、その
 That’s all very well はたぶんヘイドンさん特有の音楽ネタ。
 いったんママで。
 
-(伊原) OK</note>
+(伊原) OK
+※ https://www.amazon.co.jp/Thats-All-Very-Well-But/dp/B000007219
+ヘイドンさん、ギターポップ聞くかしら。</note>
       <tuv lang="EN-US">
         <seg>That’s all very well, but it’s designed for the largely imperative language of JavaScript.</seg>
       </tuv>
