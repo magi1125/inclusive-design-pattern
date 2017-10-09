@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22521,12 +22521,15 @@ ourを私たちと訳すのはどうなのか。他は適当に濁している�
 (高橋さん) あるだけではなく、〜〜ないようです。
 の日本語に違和感があり、読むのに詰まりました
 
-(伊原) 個々にはなくても通じるのでトリ、あるだけではなく〜ありますとなるように調整。</note>
+(伊原) 個々にはなくても通じるのでトリ、あるだけではなく〜ありますとなるように調整。
+
+(太田)
+discreteは「相互に関連しない複数の問題がある」的なニュアンスだと思うので、「いくつかの」くらいで生かしても良さそうに思います。</note>
       <tuv lang="EN-US">
         <seg>Not only are there discrete technical shortcomings (such as certain devices suppressing the zoom of &lt;g13&gt;&lt;option&gt;&lt;/g13&gt; overlays), but they just don’t seem to be &lt;g14&gt;understood&lt;/g14&gt; by all sorts of people.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171009T001408Z" creationid="yoota" creationdate="20170524T090303Z">
-        <seg>技術的な欠点（特定のデバイスで、オーバーレイ表示される&lt;g13&gt;&lt;option&gt;&lt;/g13&gt;をズームできないなど）があるだけではなく、あらゆる人が&lt;g14&gt;理解&lt;/g14&gt;できるわけではないという問題もあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T124124Z" creationid="yoota" creationdate="20170524T090303Z">
+        <seg>いくつかの技術的な欠点（特定のデバイスで、オーバーレイ表示される&lt;g13&gt;&lt;option&gt;&lt;/g13&gt;をズームできないなど）があるだけではなく、あらゆる人が&lt;g14&gt;理解&lt;/g14&gt;できるわけではないという問題もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28749,7 +28752,11 @@ http://www.w3.org/TR/SVG/struct.html#UseElement
 
 (高橋さん) 何が0〜100点で評価されるのか、書いてあると読みやすいと思います。
 
-(伊原) わかる気もするが、読みやすさが0〜100点と追記。</note>
+(伊原) わかる気もするが、読みやすさが0〜100点と追記。
+
+(太田)
+OK
+原文の score が訳出されていない問題かもと思わないでもないですが。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;Flesch reading ease&lt;/g1&gt; test gives you a score between 0 and 100 where a higher score means more easily readable and, therefore, more inclusive of different readers.</seg>
       </tuv>
