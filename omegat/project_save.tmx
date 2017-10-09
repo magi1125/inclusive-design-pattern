@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -969,6 +969,17 @@ crutchは松葉づえ、支えなどの意味。
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170918T224744Z" creationid="rikiha" creationdate="20170918T224744Z">
         <seg>&lt;g10&gt;/* このltr指定はrow-reverseのように動作する */&lt;/g10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g10&gt;// the event fired on click
+&lt;/g10&gt;&lt;g11&gt;}&lt;/g11&gt;&lt;g12&gt;)&lt;/g12&gt;&lt;g13&gt;;&lt;/g13&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T123214Z" creationid="magi1125" creationdate="20171009T123214Z">
+        <seg>&lt;g10&gt;// クリックでイベント発火
+&lt;/g10&gt;&lt;g11&gt;}&lt;/g11&gt;&lt;g12&gt;)&lt;/g12&gt;&lt;g13&gt;;&lt;/g13&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
