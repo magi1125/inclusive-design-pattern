@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27733,7 +27733,13 @@ OK
 (太田)
 the largely imperative language of JavaScript.は「javaScriptという、そのほとんどが命令型言語であるそれ」というような感じでしょうか。JavaScript = 命令型言語、で良いと思いますが最近のESで一部宣言的な書き方ができるようになった的なこと?
 
-(伊原) おおう、そういうことですか…largelyがというのが何だろうと思っていました。OKです。</note>
+(伊原) おおう、そういうことですか…largelyがというのが何だろうと思っていました。OKです。
+
+(もんどさん)
+&gt; 実に結構なことではありますが、
+（たぶん原文からして謎なフレーズが来ていると予想しますが）よく分からない訳出に感じます。
+
+</note>
       <tuv lang="EN-US">
         <seg>That’s all very well, but it’s designed for the largely imperative language of JavaScript.</seg>
       </tuv>
