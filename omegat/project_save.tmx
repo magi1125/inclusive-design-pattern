@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38877,6 +38877,24 @@ esp. は especially の略記。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074412Z" creationid="bakera" creationdate="20170929T091008Z">
         <seg>「ブランドのトーンや声は、コピーを書くときに必ず考慮する必要がありますが、ユーザーが行動を起こそうとしているときは、&lt;g1&gt;じゃまをすべきではありません&lt;/g1&gt;。」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…
+&lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;/&lt;/g14&gt;div&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g12&gt;
+
+&lt;g16&gt;&lt;!-- or... --&gt;&lt;/g16&gt;
+
+&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;main&lt;/g18&gt; &lt;g20&gt;id&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"main"&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g17&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T121441Z" creationid="magi1125" creationdate="20171009T121441Z">
+        <seg>…
+&lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;/&lt;/g14&gt;div&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g12&gt;
+
+&lt;g16&gt;&lt;!-- または…… --&gt;&lt;/g16&gt;
+
+&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;main&lt;/g18&gt; &lt;g20&gt;id&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"main"&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g17&gt;</seg>
       </tuv>
     </tu>
     <tu>
