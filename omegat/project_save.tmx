@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12769,7 +12769,7 @@ http://waic.jp/docs/WCAG20/Overview.html#images-of-textdef
 
 (岡本)　辿る→たどる　分かり→わかり
 
-(太田) NVDA2017.2 ja では「ナビゲーション ランドマーク リスト 5項目 home リンク」と読み上げました。原文とクリソツなのでヘイドンさんもNVDAで確認したのかもしれませんね。そのまま反映してみました。
+(太田) NVDA2017.2 jp では「ナビゲーション ランドマーク リスト 5項目 home リンク」と読み上げました。原文とクリソツなのでヘイドンさんもNVDAで確認したのかもしれませんね。そのまま反映してみました。
 後半の日本語が変ですね。文を分けて調整しました。
 
 (伊原) OK</note>
@@ -32076,7 +32076,7 @@ VoiceOverは! なんと!! しれっと「トリグラムフォーヘブン」な
 http://kidachi.kazuhi.to/blog/archives/039312.html
 
 (太田) 原著出版当時はaria-currentの対応状況がお寒い状況だったのでしょう。
-NVDA2017.2jaでは、 aria-current="page" を「現在のページ」、 aria-current="location" を「現在の位置」と読むことを確認しました。
+NVDA2017.2jpでは、 aria-current="page" を「現在のページ」、 aria-current="location" を「現在の位置」と読むことを確認しました。
 訳注ですかね。
 
 (伊原) OK、訳注お願いします！
