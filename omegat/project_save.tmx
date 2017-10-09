@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3588,7 +3588,8 @@ OK
 &gt; 最初に読む必要のあるコンテンツを、ソースの最後に配置する。
 残りの3項目は全て体言止めになっているので、リズムを合わせるために「配置すること」としてはどうでしょうか。
 
-</note>
+(太田)
+「配置すること」とすると、「配置してください」と言っているようにも読めて微妙です。ママとしたいです。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Putting content that needs to be read &lt;g2&gt;first&lt;/g2&gt; last in the source.</seg>
       </tuv>
