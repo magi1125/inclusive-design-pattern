@@ -28911,7 +28911,17 @@ mightなのですこし弱めに。
 
 全体を調整してみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(もんどさん)
+&gt; 、～で始まる、を意味する^修飾子を使って
+`^`と修飾すべきでしょう。
+誤りではないですが、正規表現のメタ文字の説明の仕方として、もう少しよい表現があるかもしれません（しないかもしれません）。
+
+(太田)
+修飾はDTPマター。※岡本さん確認
+
+</note>
       <tuv lang="EN-US">
         <seg>The additional test selector in the following example matches tab panels with the correct role, but with an &lt;g3&gt;aria-labelledby&lt;/g3&gt; value not commencing with “tab.” This fuzzy matching is possible using the &lt;g4&gt;starts with&lt;/g4&gt; &lt;g5&gt;^&lt;/g5&gt; modifier in the attribute selector, &lt;g6&gt;[aria-labelledby^="tab"]&lt;/g6&gt;.</seg>
       </tuv>
