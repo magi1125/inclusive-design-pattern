@@ -25953,12 +25953,12 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
 (伊原) どのボタンの話をしているかという点と、ラベルが唐突な点を補ってみました。
 
 (太田)
-むしろ最初の方にボタンの要件を補っても良いのかもしれませんね。&lt;分節 0185&gt;に「スタート」と書かれたボタン、と補うのが良いように思いました。</note>
+むしろ最初の方にボタンの要件を補っても良いのかもしれませんね。&lt;分節 0185&gt;と&lt;分節 0198&gt;に「スタート」と書かれている旨を補うのが良いように思いました。</note>
       <tuv lang="EN-US">
         <seg>Since the button’s label of “Start” is in a background image as part of CSS’s presentation layer, this too is unavailable to assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171008T211239Z" creationid="okamoto_jun" creationdate="20170627T101018Z">
-        <seg>コードを書くデザイナーのボタンだと、このボタンにあるはずの「スタート」というラベルは背景画像としてCSSによる表現の一部に含まれているため、これもやはり支援技術からは利用できません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T104213Z" creationid="okamoto_jun" creationdate="20170627T101018Z">
+        <seg>コードを書くデザイナーのボタンでは、「スタート」というラベルはCSSの背景画像として表現されていたため、これもやはり支援技術からは利用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38102,11 +38102,13 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「button.pngは「スタート」と書かれたPNG画像です。」と補いました。</note>
       <tuv lang="EN-US">
         <seg>and the CSS like this:</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095806Z" creationid="okamoto_jun" creationdate="20170627T095806Z">
-        <seg>そしてCSSは以下のようになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T104034Z" creationid="okamoto_jun" creationdate="20170627T095806Z">
+        <seg>そしてCSSは以下のようになります。button.pngは「スタート」と書かれたPNG画像です。</seg>
       </tuv>
     </tu>
     <tu>
