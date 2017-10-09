@@ -8972,7 +8972,9 @@ in the form は「～の形で」くらいで良いと思います。
 
 (伊原) OK :-)
 
-(川本さん) 201の詳細はこのページの下部においた方がいいかもしれません。隣のページにあります。（初校PDFへのコメント）</note>
+(川本さん) 201の詳細はこのページの下部においた方がいいかもしれません。隣のページにあります。（初校PDFへのコメント）
+
+(伊原) DTPマター、岡本さん確認。</note>
       <tuv lang="EN-US">
         <seg>As stated in &lt;g1&gt;&lt;g2&gt;the &lt;g3&gt;tablist&lt;/g3&gt; role specification&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;7&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, tablists &lt;g7&gt;require&lt;/g7&gt; “owned elements” with the explicit &lt;g8&gt;tab&lt;/g8&gt; role, in the form &lt;g9&gt;role="tab"&lt;/g9&gt;.</seg>
       </tuv>
@@ -40464,7 +40466,7 @@ sentは「飛ばされる」としました。
       <prop type="id">tu1_0</prop>
       <note>(土屋さん) 消し忘れ？
 
-(伊原) 章扉の「テスト」の文字列、およびページ右肩の「テスト」に対するコメント</note>
+(伊原) 章扉の「テスト」の文字列、およびページ右肩の「テスト」に対するコメント。テストだけだと当て文言に見える模様。要検討。</note>
       <tuv lang="EN-US">
         <seg>Test-Driven Markup | Inclusive Design Patterns</seg>
       </tuv>
