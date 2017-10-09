@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27393,6 +27393,8 @@ suffice to sayは「あえて言うなら」くらいのほうがしっくりく
 (太田)
 aria-expandedの切り替えなどはJS依存で、JSがあったほうがよりアクセシブルになるという話。
 すこし意訳してみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>Switching the state of the menu accessibly requires JavaScript.</seg>
