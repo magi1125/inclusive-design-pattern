@@ -4481,6 +4481,8 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
 (太田)
 原文が力強く correct なので合ってはいますね。
 「適切な」くらいにしておきましょうか。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;“90cm × 30cm” is written using the correct (multiplication) Unicode character, so that “Thirty C M &lt;g2&gt;times&lt;/g2&gt; ninety C M” is announced in screen readers.</seg>
@@ -7253,7 +7255,9 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
 視覚を持つユーザーに向けて、何のために二重で掲載しているのでしょう。
 テキスト部分をaltに含める方が視覚の有無関係なしにすべてのユーザーにとって有益なのではないでしょうか。
 ...と思ったんですが、「web標準的にもaltは必ずしも必須ではない」「コンテンツに重要ではない、無視するべき部分ではくどさを回避するためにリーダーで読まないようにする」ということを伝えたいのですね。きっと。
-追記：先のページで理由が紹介されてましたw</note>
+追記：先のページで理由が紹介されてましたw
+
+(伊原) とはいえ、なぜ☆のaltではなく表示されるテキストにしたか、はちゃんと触れられてないですね。まあ、ママですかね。</note>
       <tuv lang="EN-US">
         <seg>A null &lt;g2&gt;alt&lt;/g2&gt; value (&lt;g3&gt;alt=""&lt;/g3&gt;) omits the image from screen readers.</seg>
       </tuv>
