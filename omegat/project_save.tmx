@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1504,13 +1504,18 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳を反映</note>
+      <note>(伊原) 下訳を反映
+
+(太田)
+「表示」ではないですね。
+「表現」としました。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g16&gt;// make this element appear as a button in the accessibility tree
 &lt;/g16&gt;    this&lt;g17&gt;.&lt;/g17&gt;setAttribute&lt;g18&gt;(&lt;/g18&gt;&lt;g19&gt;'role'&lt;/g19&gt;&lt;g20&gt;,&lt;/g20&gt; &lt;g21&gt;'button'&lt;/g21&gt;&lt;g22&gt;)&lt;/g22&gt;&lt;g23&gt;;&lt;/g23&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171009T123454Z" creationid="magi1125" creationdate="20171009T123454Z">
-        <seg>&lt;g16&gt;// アクセシビリティツリー内でこの要素がボタンとして表示されるようにする
+      <tuv lang="JA" changeid="bakera" changedate="20171009T130053Z" creationid="magi1125" creationdate="20171009T123454Z">
+        <seg>&lt;g16&gt;// アクセシビリティツリー内でこの要素がボタンとして表現されるようにする
 &lt;/g16&gt;    this&lt;g17&gt;.&lt;/g17&gt;setAttribute&lt;g18&gt;(&lt;/g18&gt;&lt;g19&gt;'role'&lt;/g19&gt;&lt;g20&gt;,&lt;/g20&gt; &lt;g21&gt;'button'&lt;/g21&gt;&lt;g22&gt;)&lt;/g22&gt;&lt;g23&gt;;&lt;/g23&gt;</seg>
       </tuv>
     </tu>
@@ -4850,13 +4855,26 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳だと「キーボードによるクリックイベントのディスパッチ」で、epubより古いっぽい。いったん訳してみました。</note>
+      <note>(伊原) 下訳だと「キーボードによるクリックイベントのディスパッチ」で、epubより古いっぽい。いったん訳してみました。
+
+(太田)
+この箇所のコメントとしては「キーボードによるクリックイベントのディスパッチ」で問題ないです。
+
+入れていただいたコメントは、おそらくその下の&lt;分節 1473&gt;についているべきコメントで、そこにあるべきコメントがここに来てしまったという原著のミスなのではないでしょうか。
+
+ちなみにここでのpressed はキーボードキーではなく、このトグルボタン自体のaria-pressedのステートのことと思われます。「初期状態では押されていない状態」くらいです。が、ここの処理の説明としてはぜんぜん違いますね。
+&lt;分節 1473&gt;の上に
+
+// 初期状態では押されていない状態
+
+と足しても良いかも。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g24&gt;// start in non pressed state
 &lt;/g24&gt;    this&lt;g25&gt;.&lt;/g25&gt;addEventListener&lt;g26&gt;(&lt;/g26&gt;&lt;g27&gt;'keydown'&lt;/g27&gt;&lt;g28&gt;,&lt;/g28&gt; &lt;g29&gt;function&lt;/g29&gt;&lt;g30&gt;(&lt;/g30&gt;event&lt;g31&gt;)&lt;/g31&gt; &lt;g32&gt;{&lt;/g32&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171009T123902Z" creationid="magi1125" creationdate="20171009T123902Z">
-        <seg>&lt;g24&gt;// キーを押下していない状態で開始する
+      <tuv lang="JA" changeid="bakera" changedate="20171009T130820Z" creationid="magi1125" creationdate="20171009T123902Z">
+        <seg>&lt;g24&gt;// キーボードによるクリックイベントのディスパッチ
 &lt;/g24&gt;    this&lt;g25&gt;.&lt;/g25&gt;addEventListener&lt;g26&gt;(&lt;/g26&gt;&lt;g27&gt;'keydown'&lt;/g27&gt;&lt;g28&gt;,&lt;/g28&gt; &lt;g29&gt;function&lt;/g29&gt;&lt;g30&gt;(&lt;/g30&gt;event&lt;g31&gt;)&lt;/g31&gt; &lt;g32&gt;{&lt;/g32&gt;</seg>
       </tuv>
     </tu>
