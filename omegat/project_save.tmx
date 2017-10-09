@@ -18221,7 +18221,9 @@ not acceptable を invalid と訳し分けるべきか。
 訳註でjsではない、HTML属性によるパターンマッチングを行っているので、訳註での言及が微妙な形になってしまっています。
 
 (太田)
-訳注はヘイドンさんをdisっているつもりなのでこれはこれで良いはずですが、まあちょっとフォローしました。</note>
+訳注はヘイドンさんをdisっているつもりなのでこれはこれで良いはずですが、まあちょっとフォローしました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In which case, we are going to rely on WAI-ARIA to indicate invalidity, with JavaScript for the actual validation (pattern matching).</seg>
       </tuv>
@@ -22561,7 +22563,9 @@ resulting inも落ちているような。「結果として」くらいでし�
 (太田)
 原文でも装飾されていません。
 「送信ボタン」を意図しているのかもしれません。
-「送信ボタン」としました。</note>
+「送信ボタン」としました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Note that we are suppressing the submission of the form itself rather than merely the click handler on the submit button.</seg>
       </tuv>
