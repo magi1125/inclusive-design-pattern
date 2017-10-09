@@ -5440,8 +5440,8 @@ Price:　→価格：</note>
         <seg>&lt;g56&gt;// we're looking for &lt;div id="{id}"&gt; or &lt;a name="{id}"&gt;
 &lt;/g56&gt;    &lt;g57&gt;return&lt;/g57&gt; document&lt;g58&gt;.&lt;/g58&gt;getElementById&lt;g59&gt;(&lt;/g59&gt;id&lt;g60&gt;)&lt;/g60&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171009T111741Z">
-        <seg>&lt;g56&gt;// &lt;div id="{id}"&gt;jqf&lt;a name="{id}"&gt;を探す
+      <tuv lang="JA" changeid="bakera" changedate="20171009T111749Z">
+        <seg>&lt;g56&gt;// &lt;div id="{id}"&gt;または&lt;a name="{id}"&gt;を探す
 &lt;/g56&gt;    &lt;g57&gt;return&lt;/g57&gt; document&lt;g58&gt;.&lt;/g58&gt;getElementById&lt;g59&gt;(&lt;/g59&gt;id&lt;g60&gt;)&lt;/g60&gt;</seg>
       </tuv>
     </tu>
@@ -5539,12 +5539,23 @@ Price:　→価格：</note>
     <tu>
       <note>(川本さん) やっぱりこのへんのコメントアウト解説は日本語の方がすっと入って来ますね...
 
-(伊原) コメント未訳。あとでまとめて確認。</note>
+(伊原) コメント未訳。あとでまとめて確認。
+
+(太田)
+下訳:
+// 現在のページのすべての？？フラグメントリンク？？のアクティブ化を処理【コメント：定訳が確認できませんでした。原文「fragment links」】</note>
       <tuv lang="EN-US">
         <seg>&lt;g61&gt;||&lt;/g61&gt; document&lt;g62&gt;.&lt;/g62&gt;querySelector&lt;g63&gt;(&lt;/g63&gt;&lt;g64&gt;'a[name="'&lt;/g64&gt; &lt;g65&gt;+&lt;/g65&gt; id &lt;g66&gt;+&lt;/g66&gt; &lt;g67&gt;'"]'&lt;/g67&gt;&lt;g68&gt;)&lt;/g68&gt;&lt;g69&gt;;&lt;/g69&gt;
 &lt;g70&gt;}&lt;/g70&gt;
 
 &lt;g71&gt;// handle activation of all fragment links on the current page
+&lt;/g71&gt;$&lt;g72&gt;(&lt;/g72&gt;document&lt;g73&gt;.&lt;/g73&gt;body&lt;g74&gt;)&lt;/g74&gt;&lt;g75&gt;.&lt;/g75&gt;on&lt;g76&gt;(&lt;/g76&gt;&lt;g77&gt;'click'&lt;/g77&gt;&lt;g78&gt;,&lt;/g78&gt; &lt;g79&gt;'a[href*="#"]:not([href="#"])'&lt;/g79&gt;&lt;g80&gt;,&lt;/g80&gt; &lt;g81&gt;function&lt;/g81&gt;&lt;g82&gt;(&lt;/g82&gt;event&lt;g83&gt;)&lt;/g83&gt; &lt;g84&gt;{&lt;/g84&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T112014Z">
+        <seg>&lt;g61&gt;||&lt;/g61&gt; document&lt;g62&gt;.&lt;/g62&gt;querySelector&lt;g63&gt;(&lt;/g63&gt;&lt;g64&gt;'a[name="'&lt;/g64&gt; &lt;g65&gt;+&lt;/g65&gt; id &lt;g66&gt;+&lt;/g66&gt; &lt;g67&gt;'"]'&lt;/g67&gt;&lt;g68&gt;)&lt;/g68&gt;&lt;g69&gt;;&lt;/g69&gt;
+&lt;g70&gt;}&lt;/g70&gt;
+
+&lt;g71&gt;// 現在のページにあるすべてのフラグメントIDのリンクを処理する
 &lt;/g71&gt;$&lt;g72&gt;(&lt;/g72&gt;document&lt;g73&gt;.&lt;/g73&gt;body&lt;g74&gt;)&lt;/g74&gt;&lt;g75&gt;.&lt;/g75&gt;on&lt;g76&gt;(&lt;/g76&gt;&lt;g77&gt;'click'&lt;/g77&gt;&lt;g78&gt;,&lt;/g78&gt; &lt;g79&gt;'a[href*="#"]:not([href="#"])'&lt;/g79&gt;&lt;g80&gt;,&lt;/g80&gt; &lt;g81&gt;function&lt;/g81&gt;&lt;g82&gt;(&lt;/g82&gt;event&lt;g83&gt;)&lt;/g83&gt; &lt;g84&gt;{&lt;/g84&gt;</seg>
       </tuv>
     </tu>
@@ -6067,9 +6078,16 @@ It feels like the CSS block is incomplete, especially since the note following t
       </tuv>
     </tu>
     <tu>
-      <note>(伊原：初校PDF確認コメント）コメント未訳</note>
+      <note>(伊原：初校PDF確認コメント）コメント未訳
+
+(太田)
+下訳を反映</note>
       <tuv lang="EN-US">
         <seg>&lt;g92&gt;// some other event handler might have already handled this event
+&lt;/g92&gt;        &lt;g93&gt;return&lt;/g93&gt;&lt;g94&gt;;&lt;/g94&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T112103Z">
+        <seg>&lt;g92&gt;// このイベントはすでに他のイベントハンドラーによって処理されているかもしれない
 &lt;/g92&gt;        &lt;g93&gt;return&lt;/g93&gt;&lt;g94&gt;;&lt;/g94&gt;</seg>
       </tuv>
     </tu>
