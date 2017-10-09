@@ -1165,6 +1165,16 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田) 下訳を反映
+</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g126&gt;&lt;!-- a handy skip link for keyboard users --&gt;&lt;/g126&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T105313Z" creationid="bakera" creationdate="20171009T105313Z">
+        <seg>&lt;g126&gt;&lt;!-- キーボードユーザーに便利なスキップリンク --&gt;&lt;/g126&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g126&gt;&lt;!-- tab panel 1 content --&gt;&lt;/g126&gt;</seg>
       </tuv>
@@ -1212,6 +1222,16 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170908T083400Z" creationid="yoota" creationdate="20170908T083400Z">
         <seg>&lt;g136&gt;&lt;g137&gt;&lt;g138&gt;&lt;&lt;/g138&gt;dt&lt;/g137&gt;&lt;g139&gt;&gt;&lt;/g139&gt;&lt;/g136&gt;評価:&lt;g140&gt;&lt;g141&gt;&lt;g142&gt;&lt;/&lt;/g142&gt;dt&lt;/g141&gt;&lt;g143&gt;&gt;&lt;/g143&gt;&lt;/g140&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g138&gt;&lt;!-- logo / page navigation etc. goes here --&gt;&lt;/g138&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T105408Z" creationid="bakera" creationdate="20171009T105408Z">
+        <seg>&lt;g138&gt;&lt;!-- ロゴやページナビゲーションはここに --&gt;&lt;/g138&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1288,10 +1308,29 @@ Kenny Mulbarton→ケニー・マルバートン</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;g146&gt;&lt;!-- unique content of page goes here --&gt;&lt;/g146&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T105423Z" creationid="bakera" creationdate="20171009T105423Z">
+        <seg>&lt;g146&gt;&lt;!-- このページ独自のコンテンツはここに --&gt;&lt;/g146&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;&lt;&lt;/g16&gt;a&lt;/g15&gt; &lt;g17&gt;href&lt;/g17&gt;&lt;g18&gt;&lt;g19&gt;=&lt;/g19&gt;"/artist/kenny-mulbarton"&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g14&gt;by &lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;&lt;/g23&gt;cite&lt;/g22&gt;&lt;g24&gt;&gt;&lt;/g24&gt;&lt;/g21&gt;Kenny Mulbarton&lt;g25&gt;&lt;g26&gt;&lt;g27&gt;&lt;/&lt;/g27&gt;cite&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g25&gt;&lt;g29&gt;&lt;g30&gt;&lt;g31&gt;&lt;/&lt;/g31&gt;a&lt;/g30&gt;&lt;g32&gt;&gt;&lt;/g32&gt;&lt;/g29&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170916T124724Z" creationid="rikiha" creationdate="20170909T223921Z">
         <seg>&lt;g14&gt;&lt;g15&gt;&lt;g16&gt;&lt;&lt;/g16&gt;a&lt;/g15&gt; &lt;g17&gt;href&lt;/g17&gt;&lt;g18&gt;&lt;g19&gt;=&lt;/g19&gt;"/artist/kenny-mulbarton"&lt;/g18&gt;&lt;g20&gt;&gt;&lt;/g20&gt;&lt;/g14&gt;by &lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;&lt;/g23&gt;cite&lt;/g22&gt;&lt;g24&gt;&gt;&lt;/g24&gt;&lt;/g21&gt;ケニー・マルバートン&lt;g25&gt;&lt;g26&gt;&lt;g27&gt;&lt;/&lt;/g27&gt;cite&lt;/g26&gt;&lt;g28&gt;&gt;&lt;/g28&gt;&lt;/g25&gt;&lt;g29&gt;&lt;g30&gt;&lt;g31&gt;&lt;/&lt;/g31&gt;a&lt;/g30&gt;&lt;g32&gt;&gt;&lt;/g32&gt;&lt;/g29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(太田)
+下訳:
+？？ノンブロッキングの？？JavaScriptリソース --&gt;【コメント：同上】</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g151&gt;&lt;!-- a non-blocking javascript resource --&gt;&lt;/g151&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T105457Z" creationid="bakera" creationdate="20171009T105457Z">
+        <seg>&lt;g151&gt;&lt;!-- レンダリングをブロックしないJavaScriptリソース --&gt;&lt;/g151&gt;</seg>
       </tuv>
     </tu>
     <tu>
