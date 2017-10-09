@@ -35513,7 +35513,9 @@ divに小細工するのではなく既存のbutton要素を使う、という�
 
 (太田) OK
 
-(川本さん) 書体が本文と同じです（初校PDFへのコメント）</note>
+(川本さん) 書体が本文と同じです（初校PDFへのコメント）
+
+(伊原) DTPマター、岡本さんに確認。</note>
       <tuv lang="EN-US">
         <seg>We don’t use &lt;g3&gt;&lt;table&gt;&lt;/g3&gt; elements for layout because they provide incorrect semantic information to assistive technologies.)</seg>
       </tuv>
@@ -39459,7 +39461,9 @@ lorem ipsum は訳注いりますかね?
 (太田)
 原文通りなのでどうしたものか。
 「個」を補うと多少わかりやすいか?
-調整してみました。</note>
+調整してみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The script also allows you to add &lt;g1&gt;between&lt;/g1&gt; &lt;g2&gt;x&lt;/g2&gt; and &lt;g3&gt;n&lt;/g3&gt; numbers of array items.</seg>
       </tuv>
