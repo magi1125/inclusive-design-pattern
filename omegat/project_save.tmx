@@ -1157,6 +1157,24 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+下訳:
+// はじめにスクロール表示させたいため、
+// フラグメントにジャンプしないようにする
+
+</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g123&gt;// prevent browser from jumping to the fragment
+&lt;/g123&gt;    &lt;g124&gt;// because we want to scroll it into view first
+&lt;/g124&gt;    event&lt;g125&gt;.&lt;/g125&gt;preventDefault&lt;g126&gt;(&lt;/g126&gt;&lt;g127&gt;)&lt;/g127&gt;&lt;g128&gt;;&lt;/g128&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T112400Z" creationid="bakera" creationdate="20171009T112400Z">
+        <seg>&lt;g123&gt;// フラグメントIDにジャンプするブラウザの動作を抑止する
+&lt;/g123&gt;    &lt;g124&gt;// はじめにスクロールの動作をさせたいため
+&lt;/g124&gt;    event&lt;g125&gt;.&lt;/g125&gt;preventDefault&lt;g126&gt;(&lt;/g126&gt;&lt;g127&gt;)&lt;/g127&gt;&lt;g128&gt;;&lt;/g128&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g125&gt;&lt;g126&gt;&lt;g127&gt;&lt;&lt;/g127&gt;label&lt;/g126&gt; &lt;g128&gt;for&lt;/g128&gt;&lt;g129&gt;&lt;g130&gt;=&lt;/g130&gt;"price-high-low"&lt;/g129&gt;&lt;g131&gt;&gt;&lt;/g131&gt;&lt;/g125&gt;price (high to low)&lt;g132&gt;&lt;g133&gt;&lt;g134&gt;&lt;/&lt;/g134&gt;label&lt;/g133&gt;&lt;g135&gt;&gt;&lt;/g135&gt;&lt;/g132&gt;</seg>
       </tuv>
