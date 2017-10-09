@@ -12870,6 +12870,8 @@ googleのSERP内において、検索結果のページタイトルはh3でマ�
 (太田)
 incorporatesの訳が漏れてますね。
 補いつつ調整してみました。
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>For example, they use a custom &lt;g1&gt;&lt;g-review-stars&gt;&lt;/g1&gt; element which incorporates an &lt;g2&gt;aria-label&lt;/g2&gt; to spell out the rating.</seg>
@@ -22482,7 +22484,8 @@ selected optionは、ユーザーが選んだフィルターオプションで�
 https://ba-task01.backlog.jp/view/WAIC_WG4-453 の議論で、WAIC内では http://jams.med.or.jp/dic/colorvision.html の用語に従って「色覚異常」で統一することにしました。
 単にそろえても良いのですが、技術文書でもないので、そろえないという選択肢もありです。
 いったん「色覚異常」に統一しておきます。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Note that the selected control is highlighted in a color-independent fashion so that our color-blind and low vision users can determine the selected option.</seg>
       </tuv>
