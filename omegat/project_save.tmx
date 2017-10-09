@@ -1971,7 +1971,8 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
     <tu>
       <note>(伊原) コメント下訳：DOM関連はここに
 調整して反映。
-</note>
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;a&lt;/g3&gt; &lt;g5&gt;href&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"#nav-menu"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;navigation menu&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;a&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;
 &lt;g13&gt;&lt;!-- lots of other DOM stuff here --&gt;&lt;/g13&gt;
@@ -6092,7 +6093,9 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳から反映</note>
+      <note>(伊原) 下訳から反映
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g7&gt;// get the button and menu nodes
 &lt;/g7&gt;    &lt;g8&gt;var&lt;/g8&gt; button &lt;g9&gt;=&lt;/g9&gt; document&lt;g10&gt;.&lt;/g10&gt;querySelector&lt;g11&gt;(&lt;/g11&gt;&lt;g12&gt;'[aria-label="site"] button'&lt;/g12&gt;&lt;g13&gt;)&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;</seg>
