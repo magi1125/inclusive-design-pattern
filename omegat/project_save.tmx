@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4966,6 +4966,16 @@ OmegaT上では訳されているので、DTPの問題か反映タイミング�
 &lt;g36&gt;}&lt;/g36&gt;
 
 &lt;g37&gt;[role="tabpanel"]:not([aria-labelledby^="tab"]) &lt;/g37&gt;&lt;g38&gt;{&lt;/g38&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g33&gt;&lt;!-- more &lt;symbol&gt;s here --&gt;&lt;/g33&gt;
+&lt;g34&gt;&lt;g35&gt;&lt;g36&gt;&lt;/&lt;/g36&gt;svg&lt;/g35&gt;&lt;g37&gt;&gt;&lt;/g37&gt;&lt;/g34&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T121710Z" creationid="magi1125" creationdate="20171009T121710Z">
+        <seg>&lt;g33&gt;&lt;!-- そのほかの&lt;symbol&gt;をここに --&gt;&lt;/g33&gt;
+&lt;g34&gt;&lt;g35&gt;&lt;g36&gt;&lt;/&lt;/g36&gt;svg&lt;/g35&gt;&lt;g37&gt;&gt;&lt;/g37&gt;&lt;/g34&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38886,6 +38896,7 @@ esp. は especially の略記。
       </tuv>
     </tu>
     <tu>
+      <note>(伊原) コメント翻訳</note>
       <tuv lang="EN-US">
         <seg>…
 &lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;/&lt;/g14&gt;div&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g12&gt;
