@@ -6271,12 +6271,13 @@ shadeには濃淡という意味もあるので、「ごくわずかな濃淡の
 としてみました。
 
 というか、本ではこの図はモノクロになりますね?
-</note>
+
+(伊原) OK。もともとモノクロの図で、現在地のところだけほんの少し明るくなっています。「図のように」は「ごくわずかな〜」に掛かっていると思われますので、そのように調整。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;As illustrated, a clear differentiation by hue can be a faint differentiation by shade to some color blind users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171008T092011Z" creationid="rikiha" creationdate="20170727T124118Z">
-        <seg>図のように色合いによる区別が明らかでも、色覚異常のユーザーにとっては、ごくわずかな濃淡の違い程度にしか見えないこともあります。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T011406Z" creationid="rikiha" creationdate="20170727T124118Z">
+        <seg>色合いによる区別が明らかでも、色覚異常のユーザーにとっては、図のようにごくわずかな濃淡の違い程度にしか見えないこともあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15568,7 +15569,9 @@ so it’s worth investigating.は、「(標準の機能が使えないかどう�
 (太田)
 原文 If you go about it the right way をかなり意訳している感じですね。
 「やり方」でも個人的には違和感がないです。
-「やり方を」→「やり方さえ」としたいかも。</note>
+「やり方を」→「やり方さえ」としたいかも。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>If you go about it the right way, this increase in usability can be inclusive of different types of setup and user.</seg>
       </tuv>
