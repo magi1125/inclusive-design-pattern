@@ -22328,7 +22328,7 @@ prelearnedは使い慣れたということでいいのか。
 (太田)
 原文の通りなのですが、補いました。
 
-</note>
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Note that I am placing the region &lt;g1&gt;directly above&lt;/g1&gt; the submit button.</seg>
       </tuv>
@@ -27906,12 +27906,14 @@ cipherを暗号とするのは訳としては正しいのですが、これは�
 
 (岡本)　欄→らん
 
-(土屋さん) 「入力欄」ですね。</note>
+(土屋さん) 「入力欄」ですね。
+
+(伊原) 修正</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;#password-hint&lt;/g1&gt; element is connected to the input using the &lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;18&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt; attribute and the &lt;g8&gt;password-hint&lt;/g8&gt; &lt;g9&gt;id&lt;/g9&gt; as a cipher.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074158Z" creationid="bakera" creationdate="20170929T090851Z">
-        <seg>この&lt;g1&gt;#password-hint&lt;/g1&gt;要素は、&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注189）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;属性に&lt;g8&gt;password-hint&lt;/g8&gt;という&lt;g9&gt;id&lt;/g9&gt;を指定することによって、入力らんに結びつけられています。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T032926Z" creationid="bakera" creationdate="20170929T090851Z">
+        <seg>この&lt;g1&gt;#password-hint&lt;/g1&gt;要素は、&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;aria-describedby&lt;/g4&gt;&lt;/g3&gt;&lt;/g2&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注189）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;属性に&lt;g8&gt;password-hint&lt;/g8&gt;という&lt;g9&gt;id&lt;/g9&gt;を指定することによって、入力欄に結びつけられています。</seg>
       </tuv>
     </tu>
     <tu>
