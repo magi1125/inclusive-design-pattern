@@ -7471,7 +7471,9 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
 
 (伊原) とはいえ、なぜ☆のaltではなく表示されるテキストにしたか、はちゃんと触れられてないですね。
 &gt;「web標準的にもaltは必ずしも必須ではない」「コンテンツに重要ではない、無視するべき部分ではくどさを回避するためにリーダーで読まないようにする」ということを伝えたいのですね。きっと。
-このあたりは誤解ですが、まあ、ママですかね。</note>
+このあたりは誤解ですが、まあ、ママですかね。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>A null &lt;g2&gt;alt&lt;/g2&gt; value (&lt;g3&gt;alt=""&lt;/g3&gt;) omits the image from screen readers.</seg>
       </tuv>
@@ -12104,7 +12106,9 @@ draw onは経験を活かすような意味。
 
 (川本さん) h2なのかh3なのかh4なのかは、そのサイトの構造に左右されるものです。商品リストはかならずh3なのではなく、見出しレベルが同等であるというところこそが重要なので、「h3にしなきゃ」という誤解を与えないような言い回しにすべきかもしれません。「このリストがh2配下にあるとしたら」など、状況を仮定するとh3が使えます。
 
-(伊原) この場合は、と補いました。</note>
+(伊原) この場合は、と補いました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Each product should have a heading of the same (third) level because they are equal in hierarchy as members of the same list.</seg>
       </tuv>
@@ -13867,7 +13871,9 @@ take care of themselves は「自分のことは自分で始末する」「自�
 プリント写真
 言い回しが統一されていません
 
-(伊原) 写真プリントに統一。</note>
+(伊原) 写真プリントに統一。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Fortunately, our photographic print thumbnails are images &lt;g1&gt;of&lt;/g1&gt; images so composition and lighting take care of themselves.</seg>
       </tuv>
@@ -15768,6 +15774,8 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
 言い回しが統一されていません
 
 (伊原) 写真プリントに統一しました
+
+(太田) OK
 </note>
       <tuv lang="EN-US">
         <seg>If the user were to follow the link inside the heading to the photographer’s own page, the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location should be similarly marked up and presented.</seg>
@@ -17851,7 +17859,9 @@ CSSには「カスケード」と呼ばれる仕組みがあり、著者(Author,
 
 (川本さん) 著者者になってます
 
-(伊原) 修正</note>
+(伊原) 修正
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>In the absence of author CSS, the browser will display each list item with a bullet point and render the heading text in a large, bold font.</seg>
       </tuv>
@@ -18581,7 +18591,9 @@ https://medium.com/@iamdavidng/nice-one-but-oh-the-is-a-hand-cursor-78ef03a99f45
 
 (川本さん) ナビゲーションアイコン、ということでしょうか。あまり馴染みがなかったです。「アイコン」でいいような気もします。
 
-(伊原) いちおう分節1956で言及があるのでママで。</note>
+(伊原) いちおう分節1956で言及があるのでママで。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>In “A Menu Button” we looked at the many ways to render the simple, three-lined navicon.</seg>
       </tuv>
@@ -37579,7 +37591,9 @@ descriptive説明的でいいのか。
 
 言い回しが統一されていません
 
-(伊原) 写真プリントで統一。</note>
+(伊原) 写真プリントで統一。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>With descriptive alternative text in place, I might still be convinced to bookmark the photographic print to have a look when I’m on a Wi-Fi connection.</seg>
       </tuv>
