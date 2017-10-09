@@ -40094,7 +40094,9 @@ add more は言わなくてもわかるのでトリました。
 (川本さん) 下のコードについて
 &lt;ul&gt;
     &lt;li&gt;
-のulがなく、liがulの位置にあります。</note>
+のulがなく、liがulの位置にあります。
+
+(伊原) DTPマター、岡本さんに確認。</note>
       <tuv lang="EN-US">
         <seg>The “Load more” button — and it &lt;g1&gt;should&lt;/g1&gt; be a &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; — resides at the end of the current crop of results and clicking it sends an XHR request to load the next set.</seg>
       </tuv>
@@ -40194,12 +40196,14 @@ sentは「飛ばされる」としました。
 
 (伊原) OK
 
-(川本さん) h3...商品タイトルのような大量にある見出しは絶対h3である、みたいなルールなどがあるのでしょうか？必ず例に上がるのがh3なので、不思議です。</note>
+(川本さん) h3...商品タイトルのような大量にある見出しは絶対h3である、みたいなルールなどがあるのでしょうか？必ず例に上がるのがh3なので、不思議です。
+
+(伊原) この場合は、と補いました。</note>
       <tuv lang="EN-US">
         <seg>An effective course here is to switch focus to the title (&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;) of the first newly returned product.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T112734Z" creationid="rikiha" creationdate="20170922T112734Z">
-        <seg>ここでの有効な対処方法は、新たに表示された商品の最初のタイトル（&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;）にフォーカスを移すことです。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T030659Z" creationid="rikiha" creationdate="20170922T112734Z">
+        <seg>ここでの有効な対処方法は、新たに表示された商品の最初のタイトル（この場合は&lt;g1&gt;&lt;h3&gt;&lt;/g1&gt;）にフォーカスを移すことです。</seg>
       </tuv>
     </tu>
     <tu>
