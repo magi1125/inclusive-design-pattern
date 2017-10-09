@@ -5076,13 +5076,20 @@ OmegaT上では訳されているので、DTPの問題か反映タイミング�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) コメント翻訳</note>
+      <note>(伊原) コメント翻訳
+
+(太田)
+なんか変かも。
+本来はもっと &lt;symbol&gt; 要素がいっぱいあるという話ですね。
+「他にも&lt;symbol&gt;要素がたくさん」
+くらい?
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g33&gt;&lt;!-- more &lt;symbol&gt;s here --&gt;&lt;/g33&gt;
 &lt;g34&gt;&lt;g35&gt;&lt;g36&gt;&lt;/&lt;/g36&gt;svg&lt;/g35&gt;&lt;g37&gt;&gt;&lt;/g37&gt;&lt;/g34&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171009T121710Z" creationid="magi1125" creationdate="20171009T121710Z">
-        <seg>&lt;g33&gt;&lt;!-- そのほかの&lt;symbol&gt;をここに --&gt;&lt;/g33&gt;
+      <tuv lang="JA" changeid="bakera" changedate="20171009T131253Z" creationid="magi1125" creationdate="20171009T121710Z">
+        <seg>&lt;g33&gt;&lt;!-- 他にも&lt;symbol&gt;要素がたくさん --&gt;&lt;/g33&gt;
 &lt;g34&gt;&lt;g35&gt;&lt;g36&gt;&lt;/&lt;/g36&gt;svg&lt;/g35&gt;&lt;g37&gt;&gt;&lt;/g37&gt;&lt;/g34&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
@@ -39128,7 +39135,9 @@ esp. は especially の略記。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) コメント翻訳</note>
+      <note>(伊原) コメント翻訳
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>…
 &lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;/&lt;/g14&gt;div&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g12&gt;
