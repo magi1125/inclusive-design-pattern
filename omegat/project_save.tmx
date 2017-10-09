@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9021,7 +9021,9 @@ extrapolate は「外挿(がいそう)法によって推定する、既知の事
 
 (土屋さん) 「例によって」の前後のつながりが、いまひとつピンと来ませんでした。「ただし、例によって...」のような感じでしょうか？
 
-(伊原) 土屋さん案を採用しました。</note>
+(伊原) 土屋さん案を採用しました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>As always, convention is a friend to inclusion, so extrapolating on the the classic three-line symbol by adding lines or changing line orientation is to be avoided.</seg>
       </tuv>
@@ -25597,7 +25599,11 @@ without the clear hierarchy of grouping related sections under a main heading on
 
 (伊原) さすが土屋さん。
 https://heydonsbook.slack.com/archives/C3SR961U1/p1501771831264617
-ここから続く一連の会話を訳注にしたほうがいいのかもしれません。</note>
+ここから続く一連の会話を訳注にしたほうがいいのかもしれません。
+
+(太田)
+いったんママで、一連の議論などはどこかでネタとして消化したいです。
+</note>
       <tuv lang="EN-US">
         <seg>Second, they encourage information architects to spawn numerous, independent pages of content, without the clear hierarchy of grouping related sections under a main heading on a shared page.</seg>
       </tuv>
