@@ -21007,7 +21007,9 @@ manageは管理で良いような。
 (川本さん) 192の詳細がないのと、文字が大きいままです
 
 (太田)
-DTPマター ※岡本さん確認</note>
+DTPマター ※岡本さん確認
+
+(伊原) DTPマター、岡本さんに確認</note>
       <tuv lang="EN-US">
         <seg>Lodash’s &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;_.debounce&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;19&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; utility accepts a &lt;g7&gt;wait&lt;/g7&gt; parameter.</seg>
       </tuv>
@@ -21508,8 +21510,8 @@ NVDA+Tabは「現在のフォーカスの報告」。
       <tuv lang="EN-US">
         <seg>NVDA, for example, will speak the focused password input when pressing &lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T074348Z" creationid="bakera" creationdate="20170929T090935Z">
-        <seg>たとえばNVDAでは、&lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;キーを押すと、フォーカスのあるパスワード入力らんの情報が再度が読み上げられます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T033024Z" creationid="bakera" creationdate="20170929T090935Z">
+        <seg>たとえばNVDAでは、&lt;g3&gt;Insert&lt;/g3&gt; + &lt;g4&gt;Tab&lt;/g4&gt;キーを押すと、フォーカスのあるパスワード入力欄の情報が再度が読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
