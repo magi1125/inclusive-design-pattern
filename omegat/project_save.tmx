@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1839,7 +1839,11 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
 「人生は短い。長ったらしく書いてないで短く書いたほうがいい」みたいな意味ですね
 ...と気づいたタイミングで訳注で説明されていました。「人生は短い」の初登場時（P51）に教えてほしいです。
 
-(伊原) 確かに。分節658での訳注をご検討ください。</note>
+(伊原) 確かに。分節658での訳注をご検討ください。
+
+(太田)
+分節658はちょっと意味が違うような気がします。そして意味が分からない……。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- life is too short!</seg>
       </tuv>
@@ -11632,7 +11636,8 @@ CSSが読み込まれなくてもというのは、もしかして「一部のCS
 ・そのJSは大事なのでページ最下部に直接書くとロード失敗の可能性はより低くなる。
 ・CSSが読み込まれなくてもという話はしていない（これは川本さんの誤解だと思いますが）。
 
-</note>
+(太田)
+下の文をちょいちょい調整。</note>
       <tuv lang="EN-US">
         <seg>Critical JavaScript</seg>
       </tuv>
@@ -13630,7 +13635,9 @@ For thatは「その実現」としてみました。
 
 (川本さん) プリント写真ショップ？写真を販売している？なじみがなかったです
 
-(伊原) 下訳にある「写真プリントを販売するショップ」としました。</note>
+(伊原) 下訳にある「写真プリントを販売するショップ」としました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>For this particular pattern, I want you to imagine a hypothetical photography app has a built in shop, selling photographic prints.</seg>
       </tuv>
