@@ -18576,7 +18576,8 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
 &gt; しかし、Internet Explorer 9 未満や、その他の古いブラウザでは、インラインSVGのフォールバックが必要です。
 どのぐらいの古いブラウザを指しているのか、個人的には気になります。
 （おそらく古いモバイルブラウザしか影響を受けないような気がしますが。）
-</note>
+
+(伊原) 特に対応なしですかね。</note>
       <tuv lang="EN-US">
         <seg>Internet Explorer preceding version 9 and other older browsers need a fallback for inline SVG.</seg>
       </tuv>
@@ -35281,7 +35282,8 @@ divに小細工するのではなく既存のbutton要素を使う、という�
 
 (太田)
 と、もんどさんも言われているので「指定」にしましょう。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>We can attach an &lt;g9&gt;aria-label&lt;/g9&gt; directly to the &lt;g10&gt;&lt;button&gt;&lt;/g10&gt; element:</seg>
       </tuv>
