@@ -6893,7 +6893,10 @@ Note を訳出しました。
 
 可能であればSafariの確認お願いします。&gt; 伊原さん
 
-(伊原) OSX Safari バージョン11.0 (12604.1.38.1.7) では以下のようになり、リンクをコピーすると「javascript:w=window.open('popup.html','','scrollbars=yes,width=250,height=100,');w.focus();」とコピーされました。
+(伊原) OSX Safari バージョン11.0 (12604.1.38.1.7) で http://heo.jp/tag/kowaza/link/04.html を確認しました。
+・カーソルあわせる：ステータスバーに「スクリプト”javascript:w=window.open('popup.html','','scrollbars=yes,width=250,height=100,');w.focus();"を実行します」と表示
+・タブドラッグ：空白ページが開く
+・右クリック：以下のようになり、リンクをコピーすると「javascript:w=window.open('popup.html','','scrollbars=yes,width=250,height=100,');w.focus();」とコピーされました。
 https://gyazo.com/1852f912633f0166091629c70629cb89</note>
       <tuv lang="EN-US">
         <seg>A browser only knows to provide these things if you use the &lt;g2&gt;&lt;a&gt;&lt;/g2&gt; element in an expected way.</seg>
