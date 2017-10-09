@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11048,7 +11048,11 @@ flex-wrap: wrapのときflex-shrinkは機能するのだろうか……と思い
 
 (土屋さん) 「識字能力」と「リテラシー」は同義のような気がしますが (どちらも英語では literacy では？)、原文では、それぞれ別個のものとして表現されていますでしょうか？ 
 
-(伊原) limited technical knowledgeがリテラシーというのはちょっとアレかもですね。ちょっとかっこ悪いですがITリテラシーとしてみました。</note>
+(伊原) limited technical knowledgeがリテラシーというのはちょっとアレかもですね。ちょっとかっこ悪いですがITリテラシーとしてみました。
+
+(太田)
+OK
+「技術に疎い人」くらいでも良さそうではありますね。</note>
       <tuv lang="EN-US">
         <seg>By tackling specific issues we know would affect folks with limited vision, dyslexia, Irlen syndrome, low literacy and limited technical knowledge, a comfortable reading and interaction experience has been ensured for most everyone else.</seg>
       </tuv>
@@ -26593,12 +26597,17 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
 
 (伊原) 点字キーボードとしました。
 
-(太田) OK</note>
+(太田)
+どちらかというと、
+"refreshable braille displays and keyboards"
+で単一のもの (中根さんの持ってる点字で入出力できるアレ) を指しているのだと思います。普段「点字ディスプレイ」としか言ってない気がしますが、実は入力もできるので、正確に言うとこうなるのでしょう。
+「点字端末」という言い方もあるようなのでそうしてみます?
+</note>
       <tuv lang="EN-US">
         <seg>So are keyboards, touch displays, refreshable braille displays and keyboards, &lt;g1&gt;&lt;g2&gt;joysticks&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;16&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; and &lt;g6&gt;&lt;g7&gt;switches&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;17&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171008T221223Z" creationid="yoota" creationdate="20170511T100129Z">
-        <seg>その他には、キーボード、タッチディスプレイ、点字ディスプレイおよび点字キーボード、&lt;g1&gt;&lt;g2&gt;ジョイスティック&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注30）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;、&lt;g6&gt;&lt;g7&gt;スイッチ&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注31）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;などがあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T120826Z" creationid="yoota" creationdate="20170511T100129Z">
+        <seg>その他には、キーボード、タッチディスプレイ、点字端末、&lt;g1&gt;&lt;g2&gt;ジョイスティック&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注30）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;、&lt;g6&gt;&lt;g7&gt;スイッチ&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注31）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;などがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29001,6 +29010,8 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
 土屋の手元の iPhone (iOS11, Safari, VoiceOver) と MacBook Pro (macOS Sierra, Safari 11, VoiceOver) とで確認したところ、iPhone ではたしかに article 要素をランドマークとして扱う挙動をしていましたが、Mac では特にそういう挙動は見られませんでした。
 
 (伊原) 上記は訳注へのコメント。訳注に「iOS」と追記いただくのが良いかも。
+
+(太田) そうしましょう。訳注を修正しました。
 </note>
       <tuv lang="EN-US">
         <seg>The JAWS screen reader (and &lt;g3&gt;only&lt;/g3&gt; the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
