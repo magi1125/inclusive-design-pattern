@@ -22058,7 +22058,9 @@ focus や hover は ARIA のステートではありません。
 
 (太田) OK
 
-(川本さん) ここはなぜリストの装飾が当たっているのでしょう？ただの本文、と言う感じがしますが... (初校PDFのスタイルへのコメント）</note>
+(川本さん) ここはなぜリストの装飾が当たっているのでしょう？ただの本文、と言う感じがしますが... (初校PDFのスタイルへのコメント）
+
+(伊原) DTPマター、岡本さんに確認。</note>
       <tuv lang="EN-US">
         <seg>Not only does this help provide a larger, more ergonomic hit area for touch users, but we can use CSS to indicate the &lt;g1&gt;&lt;input&gt;&lt;/g1&gt;’s &lt;g2&gt;:focus&lt;/g2&gt; and &lt;g3&gt;:checked&lt;/g3&gt; states in CSS.</seg>
       </tuv>
@@ -22837,7 +22839,7 @@ attacheは帰属させるくらいの意味でしょうが良い表現は無い�
 
 (川本さん) 「あっちもこっちも!importantを指定してしまっては、優先順位がわからなくなって秩序が崩れるから」といった理由は知っていますが、可能ならちょっと理由も補足されているといいかも...？と思っいました。…と言いつつ、僕が知っているくらいなのと、本筋に関係ないことから書かなくてもいい気がしてきました。(訳注に対してのコメント)
 
-
+(伊原)「通常、著者側のCSSで !important を指定することは避けるべきです。」が何故なのか。カスケード順位が上書きされて混乱が生じるから、と書き足す？
 </note>
       <tuv lang="EN-US">
         <seg>Now that all the interaction and visual feedback is attached to the label, we can safely hide the obstinately ugly radio button from view.</seg>
