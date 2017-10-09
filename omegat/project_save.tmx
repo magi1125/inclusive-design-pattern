@@ -938,6 +938,16 @@ crutchは松葉づえ、支えなどの意味。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g109&gt;&lt;!-- a descriptive label for the page --&gt;&lt;/g109&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T105248Z" creationid="bakera" creationdate="20171009T105248Z">
+        <seg>&lt;g109&gt;&lt;!-- ページの内容が分かるようなラベル --&gt;&lt;/g109&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g109&gt;&lt;g110&gt;&lt;g111&gt;&lt;/&lt;/g111&gt;dl&lt;/g110&gt;&lt;g112&gt;&gt;&lt;/g112&gt;&lt;/g109&gt;</seg>
       </tuv>
@@ -5669,6 +5679,14 @@ Price:　→価格：</note>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170913T000724Z" creationid="rikiha" creationdate="20170913T000724Z">
         <seg>&lt;g71&gt;&lt;g72&gt;&lt;g73&gt;&lt;&lt;/g73&gt;label&lt;/g72&gt; &lt;g74&gt;for&lt;/g74&gt;&lt;g75&gt;&lt;g76&gt;=&lt;/g76&gt;"popularity"&lt;/g75&gt;&lt;g77&gt;&gt;&lt;/g77&gt;&lt;/g71&gt;人気順&lt;g78&gt;&lt;g79&gt;&lt;g80&gt;&lt;/&lt;/g80&gt;label&lt;/g79&gt;&lt;g81&gt;&gt;&lt;/g81&gt;&lt;/g78&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g72&gt;&lt;!-- a non-blocking stylesheet --&gt;&lt;/g72&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T105222Z" creationid="bakera" creationdate="20171009T105222Z">
+        <seg>&lt;g72&gt;&lt;!-- レンダリングをブロックしないスタイルシート--&gt;&lt;/g72&gt;</seg>
       </tuv>
     </tu>
     <tu>
