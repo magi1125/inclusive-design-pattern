@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1201,10 +1201,22 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原：初校PDF確認コメント）コメント未訳</note>
+      <note>(伊原：初校PDF確認コメント）コメント未訳
+
+(太田)
+下訳:
+// ドキュメントからターゲット要素へ1秒かけてスムーズスクロールさせる
+// Element.scrollIntoView()はまだ広くサポートされていないため使わない
+
+前者は誤訳で「ドキュメントを」スクロールさせる話のハズ。</note>
       <tuv lang="EN-US">
         <seg>&lt;g129&gt;// smooth scroll document to target element over 1 second,
 &lt;/g129&gt;    &lt;g130&gt;// not using Element.scrollIntoView() because not widely supported yet
+&lt;/g130&gt;    $&lt;g131&gt;(&lt;/g131&gt;&lt;g132&gt;'html, body'&lt;/g132&gt;&lt;g133&gt;)&lt;/g133&gt;&lt;g134&gt;.&lt;/g134&gt;animate&lt;g135&gt;(&lt;/g135&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T112600Z">
+        <seg>&lt;g129&gt;// ドキュメントをターゲット要素に向かって1秒かけてスムーズスクロールさせる
+&lt;/g129&gt;    &lt;g130&gt;// Element.scrollIntoView() を使っていないのは、まだ広くサポートされていないため
 &lt;/g130&gt;    $&lt;g131&gt;(&lt;/g131&gt;&lt;g132&gt;'html, body'&lt;/g132&gt;&lt;g133&gt;)&lt;/g133&gt;&lt;g134&gt;.&lt;/g134&gt;animate&lt;g135&gt;(&lt;/g135&gt;</seg>
       </tuv>
     </tu>
@@ -1352,10 +1364,23 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原：初校PDF確認コメント）コメント未訳</note>
+      <note>(伊原：初校PDF確認コメント）コメント未訳
+
+(太田)
+下訳:
+// ターゲットがスクロール表示されるようになったので、
+// 後はブラウザの通常の動作とURLの更新が行われるように設定する 
+
+スクロールが終わった後の処理なので誤訳ですね。
+調整して反映しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g152&gt;// now that we’ve scrolled the target into view,
 &lt;/g152&gt;            &lt;g153&gt;// let the browser do its regular thing and update the URL
+&lt;/g153&gt;            window&lt;g154&gt;.&lt;/g154&gt;location&lt;g155&gt;.&lt;/g155&gt;hash &lt;g156&gt;=&lt;/g156&gt; target&lt;g157&gt;.&lt;/g157&gt;id &lt;g158&gt;||&lt;/g158&gt; target&lt;g159&gt;.&lt;/g159&gt;name&lt;g160&gt;;&lt;/g160&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T112847Z">
+        <seg>&lt;g152&gt;// スクロールが完了してターゲットが表示された状態。
+&lt;/g152&gt;            &lt;g153&gt;// 通常のリンクの場合と同様にブラウザにURLを更新させる 
 &lt;/g153&gt;            window&lt;g154&gt;.&lt;/g154&gt;location&lt;g155&gt;.&lt;/g155&gt;hash &lt;g156&gt;=&lt;/g156&gt; target&lt;g157&gt;.&lt;/g157&gt;id &lt;g158&gt;||&lt;/g158&gt; target&lt;g159&gt;.&lt;/g159&gt;name&lt;g160&gt;;&lt;/g160&gt;</seg>
       </tuv>
     </tu>
@@ -30986,7 +31011,9 @@ Wordにあるような感じというのは、そもそもどんな感じなの�
 
 (川本さん) さっき書いてたh1とnavの位置関係の疑問の答えがこんなところに書いてあった！
 
-(伊原) 疑問が解決したようです。</note>
+(伊原) 疑問が解決したようです。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>The site navigation should appear above the &lt;g1&gt;&lt;main&gt;&lt;/g1&gt; content and the table of contents within it (preferably directly below the document’s principal &lt;g2&gt;&lt;h1&gt;&lt;/g2&gt; heading, as it would in a Microsoft Word document).</seg>
       </tuv>
