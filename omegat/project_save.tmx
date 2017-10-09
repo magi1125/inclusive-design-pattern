@@ -5432,9 +5432,16 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原：初校PDF確認コメント）コメント未訳</note>
+      <note>(伊原：初校PDF確認コメント）コメント未訳
+
+(太田)
+下訳から反映。</note>
       <tuv lang="EN-US">
         <seg>&lt;g56&gt;// we're looking for &lt;div id="{id}"&gt; or &lt;a name="{id}"&gt;
+&lt;/g56&gt;    &lt;g57&gt;return&lt;/g57&gt; document&lt;g58&gt;.&lt;/g58&gt;getElementById&lt;g59&gt;(&lt;/g59&gt;id&lt;g60&gt;)&lt;/g60&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T111741Z">
+        <seg>&lt;g56&gt;// &lt;div id="{id}"&gt;jqf&lt;a name="{id}"&gt;を探す
 &lt;/g56&gt;    &lt;g57&gt;return&lt;/g57&gt; document&lt;g58&gt;.&lt;/g58&gt;getElementById&lt;g59&gt;(&lt;/g59&gt;id&lt;g60&gt;)&lt;/g60&gt;</seg>
       </tuv>
     </tu>
@@ -15149,7 +15156,11 @@ imagine と might で二重に推定している形ですが、むしろ何故�
 (川本さん) 関係ないwwwwwww
 （ツッコミたかっただけなのでそのままでよいです）
 
-(伊原) 特に対応なし。</note>
+(伊原) 特に対応なし。
+
+(太田)
+ヘイドンジョークが受けることもある、と。
+OK</note>
       <tuv lang="EN-US">
         <seg>I mean, these don’t even have a name anyone can agree on!</seg>
       </tuv>
