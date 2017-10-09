@@ -104,7 +104,9 @@ OmegaTのタグが残ったままです。
 わかって来ましたが、&lt;g2&gt;&lt;/g2&gt;、書体を変えたり下ラインを入れたりする書籍用タグなのでしょうか
 
 (太田)
-DTPマターと思われます。※岡本さん確認</note>
+DTPマターと思われます。※岡本さん確認
+
+(伊原) DTPマター、岡本さんに確認</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note&lt;/g1&gt;: This automatic reversal is also true of &lt;g2&gt;&lt;table&gt;&lt;/g2&gt; elements which switch their column order.</seg>
       </tuv>
@@ -39147,7 +39149,9 @@ https://allyjs.io/api/fix/pointer-focus-children.html を見ると、flexコン�
 ここは`dir`属性と装飾すべきでしょう。
 
 (太田)
-DTPマターと思われます。※岡本さん確認</note>
+DTPマターと思われます。※岡本さん確認
+
+(伊原) DTPマター、岡本さんに確認。</note>
       <tuv lang="EN-US">
         <seg>Setting the text direction for the document is possible by including the &lt;g1&gt;dir&lt;/g1&gt; attribute (alongside the &lt;g2&gt;lang&lt;/g2&gt; attribute) on the HTML element.</seg>
       </tuv>
