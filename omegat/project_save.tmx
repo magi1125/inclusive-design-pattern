@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27769,12 +27769,14 @@ the largely imperative language of JavaScript.は「javaScriptという、その
 &gt; 実に結構なことではありますが、
 （たぶん原文からして謎なフレーズが来ていると予想しますが）よく分からない訳出に感じます。
 
-</note>
+(太田)
+That’s all very well はたぶんヘイドンさん特有の音楽ネタ。
+いったんママで。</note>
       <tuv lang="EN-US">
         <seg>That’s all very well, but it’s designed for the largely imperative language of JavaScript.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T101940Z" creationid="rikiha" creationdate="20170925T014338Z">
-        <seg>実に結構なことではありますが、これは、ほとんどが命令型言語であるJavaScriptのために設計されています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T034736Z" creationid="rikiha" creationdate="20170925T014338Z">
+        <seg>実に結構なことではありますが、しかし、これはほとんどが命令型言語であるJavaScriptのために設計されています。</seg>
       </tuv>
     </tu>
     <tu>
