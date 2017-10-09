@@ -22501,7 +22501,8 @@ history.pushState() なり pushStateメソッド なりにした方がよいよ�
 
 (太田)
 History APIのイチ機能の名前としてはpushStateで良いのではないかと思っています。
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Note the line starting &lt;g1&gt;window.location.hash&lt;/g1&gt; which updates the URL after focus with the hash fragment.</seg>
       </tuv>
