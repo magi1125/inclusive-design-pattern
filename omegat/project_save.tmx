@@ -1638,7 +1638,9 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳から反映</note>
+      <note>(伊原) 下訳から反映
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g19&gt;// set initial (closed menu) states
 &lt;/g19&gt;    button&lt;g20&gt;.&lt;/g20&gt;setAttribute&lt;g21&gt;(&lt;/g21&gt;&lt;g22&gt;'aria-expanded'&lt;/g22&gt;&lt;g23&gt;,&lt;/g23&gt; &lt;g24&gt;'false'&lt;/g24&gt;&lt;g25&gt;)&lt;/g25&gt;&lt;g26&gt;;&lt;/g26&gt;</seg>
@@ -5259,7 +5261,9 @@ Size:　→サイズ：</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳から反映</note>
+      <note>(伊原) 下訳から反映
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g43&gt;// toggle menu visibility
 &lt;/g43&gt;        &lt;g44&gt;var&lt;/g44&gt; expanded &lt;g45&gt;=&lt;/g45&gt; this&lt;g46&gt;.&lt;/g46&gt;getAttribute&lt;g47&gt;(&lt;/g47&gt;&lt;g48&gt;'aria-expanded'&lt;/g48&gt;&lt;g49&gt;)&lt;/g49&gt; &lt;g50&gt;==&lt;/g50&gt;&lt;g51&gt;=&lt;/g51&gt; &lt;g52&gt;'true'&lt;/g52&gt;&lt;g53&gt;;&lt;/g53&gt;</seg>
