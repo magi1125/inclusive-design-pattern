@@ -94,7 +94,7 @@ https://www.w3.org/TR/html51/sections.html#creating-an-outline
 >スクリーンリーダーのJAWSは（そしてJAWS<g3>だけ</g3>が）、この要素に入るときに「アーティクル開始」、出るときに「アーティクル終了」と読み上げます。
 
 訳注:
-最近ではVoiceOverも対応したようで、article要素に差し掛かると「記事 ランドマーク」のように読み上げます (本文に書かれているように、WAI-ARIA1.1の仕様上はarticleロールはランドマークではないのですが、VoiceOverはランドマークとして扱うようです)。
+iOS10のVoiceOverもarticle要素に差し掛かると「記事 ランドマーク」のように読み上げます (本文に書かれているように、WAI-ARIA1.1の仕様上はarticleロールはランドマークではないのですが、iOSのVoiceOverはランドマークとして扱うようです)。
 
 
 <分節 1081>
