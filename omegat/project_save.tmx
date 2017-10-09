@@ -17682,7 +17682,9 @@ p.229では「入力欄」とあり、表現が揺れています。（ちなみ
 
 (伊原) OK
 
-(川本さん) submit、この章のここまでは本文と同じフォントでしたがどちらが正解でしょうか？（初校PDFへのコメント）</note>
+(川本さん) submit、この章のここまでは本文と同じフォントでしたがどちらが正解でしょうか？（初校PDFへのコメント）
+
+(伊原) DTPマター、岡本さんに確認。</note>
       <tuv lang="EN-US">
         <seg>In the case of the submit button, the text node is the accessible label.</seg>
       </tuv>
@@ -28329,7 +28331,10 @@ https://blog.motchie.com/web-accessibility/readability/ja-implementing-wcag-sc31
 
 (太田)
 すべて装飾ありが正です。DTPマターと思われます。
-※岡本さん確認</note>
+※岡本さん確認
+
+(伊原) DTPマター、岡本さんに確認。
+</note>
       <tuv lang="EN-US">
         <seg>The &lt;g3&gt;for&lt;/g3&gt; attribute associates the label with an input using its &lt;g4&gt;id&lt;/g4&gt; value.</seg>
       </tuv>
