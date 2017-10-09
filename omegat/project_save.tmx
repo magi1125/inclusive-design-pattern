@@ -26283,7 +26283,9 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
 &gt; CSSセレクタはこの用途に非常に適しており、
 &gt; CSSセレクタがロジックを内包していることは、
 同じページの最後の段落で「CSSのセレクタ」というフレーズが出現するので、これにあわせてはどうでしょうか。
-</note>
+
+(太田)
+「CSSセレクタ」で統一しました。</note>
       <tuv lang="EN-US">
         <seg>So good are CSS selectors at doing this that tools for &lt;g1&gt;writing&lt;/g1&gt; markup like &lt;g2&gt;&lt;g3&gt;Emmet&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;4&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; are based on selector-like syntax.</seg>
       </tuv>
@@ -34568,8 +34570,8 @@ OK
       <tuv lang="EN-US">
         <seg>Typically, CSS selectors are used to match expected patterns but, by the same token, we could use selectors to target broken or malformed patterns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T105610Z" creationid="rikiha" creationdate="20170925T014403Z">
-        <seg>通常、CSSのセレクタは期待されるパターンにマッチさせるのに使いますが、破綻した、不正なパターンを対象にすることもできます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T041434Z" creationid="rikiha" creationdate="20170925T014403Z">
+        <seg>通常、CSSセレクタは期待されるパターンにマッチさせるのに使いますが、破綻した、不正なパターンを対象にすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
