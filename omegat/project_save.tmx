@@ -1140,7 +1140,9 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 調整して反映</note>
+      <note>(伊原) 調整して反映
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g11&gt;/* web font with fallbacks */&lt;/g11&gt;</seg>
       </tuv>
@@ -1797,7 +1799,9 @@ p {</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) syntaxだけ翻訳</note>
+      <note>(伊原) syntaxだけ翻訳
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;// Custom Elements v0 syntax
 &lt;/g2&gt;document&lt;g3&gt;.&lt;/g3&gt;registerElement&lt;g4&gt;(&lt;/g4&gt;&lt;g5&gt;'toggle-button'&lt;/g5&gt;&lt;g6&gt;,&lt;/g6&gt; &lt;g7&gt;{&lt;/g7&gt;</seg>
@@ -38732,7 +38736,9 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) syntaxだけ翻訳</note>
+      <note>(伊原) syntaxだけ翻訳
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>prototype&lt;g8&gt;:&lt;/g8&gt; toggleButton
 &lt;g9&gt;}&lt;/g9&gt;&lt;g10&gt;)&lt;/g10&gt;&lt;g11&gt;;&lt;/g11&gt;
