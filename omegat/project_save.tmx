@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5092,6 +5092,8 @@ OmegaT上では訳されているので、DTPの問題か反映タイミング�
 本来はもっと &lt;symbol&gt; 要素がいっぱいあるという話ですね。
 「他にも&lt;symbol&gt;要素がたくさん」
 くらい?
+
+(伊原) OK. 初校PDFで抜け。DTPマター、岡本さんに確認。
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g33&gt;&lt;!-- more &lt;symbol&gt;s here --&gt;&lt;/g33&gt;
