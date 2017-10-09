@@ -14136,12 +14136,14 @@ hold fast toは固持する、強く結びつくのような意味ですが、�
 
 (太田)
 原文が tab panels なので合っています。
-厳密にはタブパネル群?</note>
+厳密にはタブパネル群?
+
+(伊原) タブパネル群のあいだ、としました。</note>
       <tuv lang="EN-US">
         <seg>Having content between the &lt;g1&gt;tablist&lt;/g1&gt; and tab panels would fragment the interface and cause confusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170928T151341Z" creationid="rikiha" creationdate="20170925T014533Z">
-        <seg>&lt;g1&gt;tablist&lt;/g1&gt;とタブパネルの間にコンテンツがあると、インターフェイスがバラバラになって混乱を招きます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T114447Z" creationid="rikiha" creationdate="20170925T014533Z">
+        <seg>&lt;g1&gt;tablist&lt;/g1&gt;とタブパネル群のあいだにコンテンツがあると、インターフェイスがバラバラになって混乱を招きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36045,7 +36047,9 @@ shouldを「べき」とすることにこだわらないほうが良いのか�
 `tabpanelで`と修飾の範囲がおかしいです。
 
 (太田)
-DTPマター。※岡本さん確認</note>
+DTPマター。※岡本さん確認
+
+(伊原) DTPマター、岡本さんに確認</note>
       <tuv lang="EN-US">
         <seg>We know that the tab panel set should appear after the list, so we can use the &lt;g2&gt;&lt;g3&gt;general sibling combinator&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;9&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; &lt;g7&gt;~&lt;/g7&gt; in this test to ask if there are any &lt;g8&gt;&lt;div&gt;&lt;/g8&gt;s following the &lt;g9&gt;tablist&lt;/g9&gt; that are &lt;g10&gt;not&lt;/g10&gt; &lt;g11&gt;tabpanel&lt;/g11&gt;s.</seg>
       </tuv>
