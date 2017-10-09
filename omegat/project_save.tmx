@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21114,7 +21114,9 @@ dangerous territory はどうするか。危険な考え、としてみました
 「どのように移動するか**を**決めつけるのは」としてはどうでしょうか。
 
 (太田)
-好みですが、そうしました。</note>
+好みですが、そうしました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Making assumptions about the way visitors enter and move through your app is dangerous territory anyway, but for certain users the usability here is even more aggravating.</seg>
       </tuv>
@@ -23683,7 +23685,9 @@ fully-fludgedは完全に巣立ちした、のような意味。
 「として」が2回出現するのが気になりました。
 
 (太田)
-「選択肢」を後ろに持ってきてみました。</note>
+「選択肢」を後ろに持ってきてみました。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>One option would be to design the login and register options as tabs in a fully-fledged WAI-ARIA tab interface.</seg>
       </tuv>
