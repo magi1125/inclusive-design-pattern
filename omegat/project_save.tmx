@@ -17655,12 +17655,14 @@ p.229では「入力欄」とあり、表現が揺れています。（ちなみ
 
 (太田)
 クリスピークリームで話した通り、欄は漢字で良いかと思います。
-※岡本さん確認</note>
+※岡本さん確認
+
+(伊原) らん→欄で統一。</note>
       <tuv lang="EN-US">
         <seg>In the case of the password input, the agreed cipher — the matching content of the &lt;g1&gt;for&lt;/g1&gt; and &lt;g2&gt;id&lt;/g2&gt; values — is simply “password”:</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20171002T073813Z" creationid="bakera" creationdate="20170926T083714Z">
-        <seg>この例のパスワード入力らんの場合、共通のカギ――&lt;g1&gt;for&lt;/g1&gt;と&lt;g2&gt;id&lt;/g2&gt;の一致した値――は、単に「password」です。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T032047Z" creationid="bakera" creationdate="20170926T083714Z">
+        <seg>この例のパスワード入力欄の場合、共通のカギ――&lt;g1&gt;for&lt;/g1&gt;と&lt;g2&gt;id&lt;/g2&gt;の一致した値――は、単に「password」です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20466,12 +20468,14 @@ Keyは重要でいいのか。
 
 (伊原) OK
 
-(土屋さん) 直前のセンテンスとの関係から、「見逃されてしまうのです。」と結んではいかがでしょうか。</note>
+(土屋さん) 直前のセンテンスとの関係から、「見逃されてしまうのです。」と結んではいかがでしょうか。
+
+(伊原) 採用して修正。</note>
       <tuv lang="EN-US">
         <seg>Label elements, therefore, are jumped over: if they weren’t explicitly connected to the interactive elements they were describing, they’d be missed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170926T100127Z" creationid="bakera" creationdate="20170926T090250Z">
-        <seg>このとき、ラベル要素は飛び越されてしまいます。ラベル要素とインタラクティブ要素が明示的に関連づけられていない場合、そのラベル要素は見逃されてしまいます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T032109Z" creationid="bakera" creationdate="20170926T090250Z">
+        <seg>このとき、ラベル要素は飛び越されてしまいます。ラベル要素とインタラクティブ要素が明示的に関連づけられていない場合、そのラベル要素は見逃されてしまうのです。</seg>
       </tuv>
     </tu>
     <tu>
