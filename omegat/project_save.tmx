@@ -717,12 +717,14 @@ broken は破綻としました。
 
 (伊原) OK
 
-(土屋さん) 箇条書きのスタイルが一貫していない (1. は体言止め、2. は用言止め)。後に続く見出しとの一貫性を考えるト、1. から「ということ」をトルツメするのが妥当な気がします。</note>
+(土屋さん) 箇条書きのスタイルが一貫していない (1. は体言止め、2. は用言止め)。後に続く見出しとの一貫性を考えるト、1. から「ということ」をトルツメするのが妥当な気がします。
+
+(伊原) 2に揃えました。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Something is broken (the form has errors).</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T092709Z" creationid="bakera" creationdate="20170929T090617Z">
-        <seg>1.何かが破綻している（フォームにエラーがある）ということ</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171009T032718Z" creationid="bakera" creationdate="20170929T090617Z">
+        <seg>1.何が破綻しているのか（フォームにエラーがあるのか）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7392,7 +7394,7 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
 (土屋さん) 「入力欄」ですね。
 (川本さん) らんがひらがなになってます
 
-(伊原) 上記は訳注に対するコメント</note>
+(伊原) 上記は訳注に対するコメント。DTPマター、岡本さんに確認。</note>
       <tuv lang="EN-US">
         <seg>A short script simply toggles the field type from &lt;g1&gt;password&lt;/g1&gt; to &lt;g2&gt;text&lt;/g2&gt; and back again:</seg>
       </tuv>
