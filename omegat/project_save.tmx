@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16427,7 +16427,9 @@ product の情報を表示する final product ですね。
 
 (川本さん) すいません、どれがだじゃれっぽいのかがわかりませんでした
 
-(伊原) わからなくてもいいっちゃ良いような。</note>
+(伊原) わからなくてもいいっちゃ良いような。
+
+(太田) 「検索結果ページ」→「結果ページ」のほうがいいのかしら?</note>
       <tuv lang="EN-US">
         <seg>In Google’s results pages, the final product (no pun intended) will look something like the following:</seg>
       </tuv>
@@ -23186,7 +23188,10 @@ attacheは帰属させるくらいの意味でしょうが良い表現は無い�
 (川本さん) 「あっちもこっちも!importantを指定してしまっては、優先順位がわからなくなって秩序が崩れるから」といった理由は知っていますが、可能ならちょっと理由も補足されているといいかも...？と思っいました。…と言いつつ、僕が知っているくらいなのと、本筋に関係ないことから書かなくてもいい気がしてきました。(訳注に対してのコメント)
 
 (伊原)「通常、著者側のCSSで !important を指定することは避けるべきです。」が何故なのか。カスケード順位が上書きされて混乱が生じるから、と書き足す？
-</note>
+
+(太田) 
+ユーザースタイルシートで上書きしにくくなる、というアクセシビリティ的に重要な理由もあるので書いても良いですね。
+まあいったんママで、紙面の調整フェイズで必要に応じて対応かなと。</note>
       <tuv lang="EN-US">
         <seg>Now that all the interaction and visual feedback is attached to the label, we can safely hide the obstinately ugly radio button from view.</seg>
       </tuv>
