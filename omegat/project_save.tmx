@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6745,12 +6745,15 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
 
 (伊原) あれ、キャプションはですますじゃなかったでしたっけ。岡本さん確認。
 
-(土屋さん) 「開発者ツール」でしょうか。</note>
+(土屋さん) 「開発者ツール」でしょうか。
+
+(太田)
+「開発者ツール」としました。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Screenshot of devtools declaration block with &lt;g4&gt;display: none;&lt;/g4&gt; declaration above the content declaration.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171002T051537Z" creationid="Administrator" creationdate="20170929T235819Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;開発ツールのCSS宣言ブロックのスクリーンショット。content宣言の上に&lt;g4&gt;display:none;&lt;/g4&gt;宣言が指定されています。&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T122858Z" creationid="Administrator" creationdate="20170929T235819Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;開発者ツールのCSS宣言ブロックのスクリーンショット。content宣言の上に&lt;g4&gt;display:none;&lt;/g4&gt;宣言が指定されています。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22539,12 +22542,16 @@ side effect = 副作用はプログラム用語の定訳ですが、ここでヘ
 
 (伊原) OK
 
-(伊原：初校確認コメント) 読み上げ部分置き換えが必要</note>
+(伊原：初校確認コメント) 読み上げ部分置き換えが必要
+
+(太田)
+NVDA2017.3jpで確認。
+「ホーム、リンク」ですね。</note>
       <tuv lang="EN-US">
         <seg>Not only is the link easy to style via the &lt;g1&gt;[href="#main"]&lt;/g1&gt; attribute selector, but its behavior is communicated to assistive technologies: on focusing the home link, “Home, link” will be announced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170803T020851Z" creationid="rikiha" creationdate="20170728T142629Z">
-        <seg>このリンクは、&lt;g1&gt;[href="#main"]&lt;/g1&gt;属性セレクタを使って簡単にスタイルを設定できるだけでなく、支援技術にもふるまいが伝えられます。「ホーム」のリンクにフォーカスすると、「＃＃ホーム、link＃＃」と読み上げられるでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T123150Z" creationid="rikiha" creationdate="20170728T142629Z">
+        <seg>このリンクは、&lt;g1&gt;[href="#main"]&lt;/g1&gt;属性セレクタを使って簡単にスタイルを設定できるだけでなく、支援技術にもふるまいが伝えられます。「ホーム」のリンクにフォーカスすると、「ホーム、リンク」と読み上げられるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
