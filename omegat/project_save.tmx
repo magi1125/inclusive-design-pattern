@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14140,7 +14140,9 @@ hold fast toは固持する、強く結びつくのような意味ですが、�
 原文が tab panels なので合っています。
 厳密にはタブパネル群?
 
-(伊原) タブパネル群のあいだ、としました。</note>
+(伊原) タブパネル群のあいだ、としました。
+
+(太田) OK</note>
       <tuv lang="EN-US">
         <seg>Having content between the &lt;g1&gt;tablist&lt;/g1&gt; and tab panels would fragment the interface and cause confusion.</seg>
       </tuv>
@@ -31221,12 +31223,15 @@ sound semantic structureとは。
 
 (伊原) ここのホームページはマジのホームページ（すなわち「ホーム」）のような気が。Webサイトのホームとしました。
 
-(太田) OK</note>
+(太田)
+「ホーム」でわかるのかどうか。
+「Webサイトのホームページ」とするか、「トップページ」とするほうがいいかも。
+</note>
       <tuv lang="EN-US">
         <seg>The thinking here is often that the no account option doesn’t need to be a big deal because &lt;g1&gt;most&lt;/g1&gt; new users will have gone directly to the homepage, read the entire sales pitch for the application and pressed the sign-up call to action there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171009T031812Z" creationid="bakera" creationdate="20170925T102315Z">
-        <seg>多くの場合、アカウント登録のオプションを大きく扱う必要はないと考えられています。なぜなら、&lt;g1&gt;大半の&lt;/g1&gt;新規ユーザーはWebサイトのホームに直接アクセスし、アプリケーションのセールスポイントをすべて読んだうえで、サインアップするための行動喚起のリンクを押したと考えられるからです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171009T114434Z" creationid="bakera" creationdate="20170925T102315Z">
+        <seg>多くの場合、アカウント登録のオプションを大きく扱う必要はないと考えられています。なぜなら、&lt;g1&gt;大半の&lt;/g1&gt;新規ユーザーはWebサイトのホームページに直接アクセスし、アプリケーションのセールスポイントをすべて読んだうえで、サインアップするための行動喚起のリンクを押したと考えられるからです。</seg>
       </tuv>
     </tu>
     <tu>
