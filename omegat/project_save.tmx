@@ -23923,7 +23923,9 @@ willで未来形なので「出現するようになります」としました�
 (太田)
 DTPマター ※岡本さん確認
 
-(伊原) DTPマター、岡本さんに確認。</note>
+(伊原) DTPマター、岡本さんに確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>Of course, this catches the complete absence of &lt;g1&gt;aria-labelledby&lt;/g1&gt; as well.</seg>
       </tuv>
@@ -36521,7 +36523,9 @@ shouldを「べき」とすることにこだわらないほうが良いのか�
 (太田)
 DTPマター。※岡本さん確認
 
-(伊原) DTPマター、岡本さんに確認</note>
+(伊原) DTPマター、岡本さんに確認
+
+(岡本)　対応しました。こまけー。</note>
       <tuv lang="EN-US">
         <seg>We know that the tab panel set should appear after the list, so we can use the &lt;g2&gt;&lt;g3&gt;general sibling combinator&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;9&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; &lt;g7&gt;~&lt;/g7&gt; in this test to ask if there are any &lt;g8&gt;&lt;div&gt;&lt;/g8&gt;s following the &lt;g9&gt;tablist&lt;/g9&gt; that are &lt;g10&gt;not&lt;/g10&gt; &lt;g11&gt;tabpanel&lt;/g11&gt;s.</seg>
       </tuv>
