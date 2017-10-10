@@ -1875,7 +1875,9 @@ DTPマター?
     <tu>
       <note>(川本さん) コードはページまたぎしない方が見やすいです。二行ほどなら、次のページにまとめられないでしょうか？
 
-(伊原) DTPマター、岡本さん確認。</note>
+(伊原) DTPマター、岡本さん確認。
+
+(岡本)　ここ、塗りを分割することになると思うので、2校では3行あふれていますが、4−5行のあふれになると思います。また、太田さんほかが書き足すことで変動することも考えられるので、現状ままにしておきます。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- don’t use this --&gt;&lt;/g2&gt;
 &lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;main&lt;/g4&gt; &lt;g6&gt;id&lt;/g6&gt;&lt;g7&gt;&lt;g8&gt;=&lt;/g8&gt;"main"&lt;/g7&gt;&lt;g9&gt;&gt;&lt;/g9&gt;&lt;/g3&gt;</seg>
