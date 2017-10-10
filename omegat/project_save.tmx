@@ -40775,7 +40775,9 @@ https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
 
 OmegaT上で装飾追加ってどうするんでしょうか?
 
-(伊原) OmegaTで装飾追加はできないっぽいです。ひとまずはDTPマターとして岡本さん連絡かなと。</note>
+(伊原) OmegaTで装飾追加はできないっぽいです。ひとまずはDTPマターとして岡本さん連絡かなと。
+
+(岡本) 分節2957は対応していました。0408は後ほどみます。</note>
       <tuv lang="EN-US">
         <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
       </tuv>
@@ -41096,7 +41098,9 @@ add more は言わなくてもわかるのでトリました。
 
 (土屋さん) この部分も、箇条書き 2. の一部のような気がしますが...？
 
-(伊原) 初校PDFで、途中でリストスタイルから抜けてしまっている。DTPマター、岡本さんに確認。</note>
+(伊原) 初校PDFで、途中でリストスタイルから抜けてしまっている。DTPマター、岡本さんに確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Replace automatic infinite scrolling with a “Load more results…” button or link that explicitly invites the user to add more.</seg>
       </tuv>
