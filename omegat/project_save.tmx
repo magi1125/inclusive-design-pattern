@@ -1873,7 +1873,9 @@ body:lang(fr) {
 DTPマター?
 ※岡本さん確認
 
-(伊原) DTPマター、岡本さんに確認。</note>
+(伊原) DTPマター、岡本さんに確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- don’t do this --&gt;&lt;/g2&gt;
 &lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;a&lt;/g4&gt; &lt;g6&gt;href&lt;/g6&gt;&lt;g7&gt;&lt;g8&gt;=&lt;/g8&gt;"/product/naked-man-in-garage"&lt;/g7&gt; &lt;g9&gt;role&lt;/g9&gt;&lt;g10&gt;&lt;g11&gt;=&lt;/g11&gt;"button"&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g3&gt;Buy Now&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;&lt;/&lt;/g15&gt;a&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g13&gt;&lt;/g1&gt;</seg>
@@ -10836,7 +10838,9 @@ versus はそのまま vs としてもいいかも。
     <tu>
       <note>(土屋さん) この「買う」は不要？ (後の「今すぐ購入」と重複している)
 
-(伊原) 初校PDFで不要な「買う」が混入している。DTPマター、岡本さん確認。</note>
+(伊原) 初校PDFで不要な「買う」が混入している。DTPマター、岡本さん確認。
+
+(岡本)　対応します。　今すぐ購入　の前の半角スペースもつめます。</note>
       <tuv lang="EN-US">
         <seg>Buy &lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;&lt;/g14&gt;span&lt;/g13&gt; &lt;g15&gt;class&lt;/g15&gt;&lt;g16&gt;&lt;g17&gt;=&lt;/g17&gt;"visually-hidden"&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g12&gt;Naked Man In Garage Forecourt&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;/&lt;/g21&gt;span&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt; Now
 &lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;a&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;&lt;/g1&gt;</seg>
