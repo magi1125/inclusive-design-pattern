@@ -106,7 +106,9 @@ OmegaTのタグが残ったままです。
 (太田)
 DTPマターと思われます。※岡本さん確認
 
-(伊原) DTPマター、岡本さんに確認</note>
+(伊原) DTPマター、岡本さんに確認
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>(&lt;g1&gt;Note&lt;/g1&gt;: This automatic reversal is also true of &lt;g2&gt;&lt;table&gt;&lt;/g2&gt; elements which switch their column order.</seg>
       </tuv>
@@ -36425,7 +36427,9 @@ divに小細工するのではなく既存のbutton要素を使う、という�
 
 (川本さん) 書体が本文と同じです（初校PDFへのコメント）
 
-(伊原) DTPマター、岡本さんに確認。</note>
+(伊原) DTPマター、岡本さんに確認。
+
+(岡本)　tableですよね。対応していました。</note>
       <tuv lang="EN-US">
         <seg>We don’t use &lt;g3&gt;&lt;table&gt;&lt;/g3&gt; elements for layout because they provide incorrect semantic information to assistive technologies.)</seg>
       </tuv>
@@ -39987,7 +39991,9 @@ alongside other items なので、他の項目たちの横に10emのスペース
 （153,154の場面ではない）
 （ページ内に※はない）
 
-(伊原) 初校PDFの脚注へのコメント。DTPマター、岡本さんに確認。</note>
+(伊原) 初校PDFの脚注へのコメント。DTPマター、岡本さんに確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>That’s currently a danger at wider viewports, especially when the wrapping algorithm places the final item on a single line.</seg>
       </tuv>
@@ -40171,7 +40177,9 @@ https://allyjs.io/api/fix/pointer-focus-children.html を見ると、flexコン�
 (太田)
 DTPマターと思われます。※岡本さん確認
 
-(伊原) DTPマター、岡本さんに確認。</note>
+(伊原) DTPマター、岡本さんに確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>Setting the text direction for the document is possible by including the &lt;g1&gt;dir&lt;/g1&gt; attribute (alongside the &lt;g2&gt;lang&lt;/g2&gt; attribute) on the HTML element.</seg>
       </tuv>
