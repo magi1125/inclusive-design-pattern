@@ -1709,7 +1709,9 @@ Kenny Mulbarton→ケニー・マルバートン</note>
     <tu>
       <note>(川本さん) githubの権限の問題でしょうか？404でした
 
-(伊原) 特に問題なく行ける。PDFのミス？ DTPマター、岡本さん確認。</note>
+(伊原) 特に問題なく行ける。PDFのミス？ DTPマター、岡本さん確認。
+
+(岡本)　問題なし。一応、再コピペ指示。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;23.&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;https://github.com/paypal/accessible-html5-video-player&lt;/g3&gt;&lt;/g2&gt;</seg>
       </tuv>
@@ -1760,7 +1762,10 @@ WAI-ARIAオーサリングプラクティス1.1の編集者の草案は、 開�
     <tu>
       <note>(川本さん) 「この動画は再生できません」と出ました
 
-(伊原) 特に問題なく再生できる。PDFのミス？ DTPマター、岡本さん確認。</note>
+(伊原) 特に問題なく再生できる。PDFのミス？ DTPマター、岡本さん確認。
+
+(岡本)　組版上の理由でスペースとかが含まれたかもしれません。念のためコピペ指示をしました。
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;8.&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;https://www.youtube.com/watch?v=CUkMCQR4TpY&lt;/g3&gt;&lt;/g2&gt;</seg>
       </tuv>
@@ -14321,7 +14326,9 @@ works wellは「正しく機能」ではないかも。「よく機能」「う�
 
 (高橋さん) グルーピングではなく、グループピングなのでしょうか
 
-(伊原) 初校PDFでtypo。DTPマター、岡本さん確認。</note>
+(伊原) 初校PDFでtypo。DTPマター、岡本さん確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>Grouping and Separation</seg>
       </tuv>
@@ -34239,7 +34246,9 @@ toughは「難しい」でいいのか。「大変」としてみました。
 https://8thlight.com/blog/chris-peak/2012/12/30/vertical-rhythm.html
 
 
-(太田) OK</note>
+(太田) OK
+
+(岡本)　ここは特に2校修正対応はなさそうです。</note>
       <tuv lang="EN-US">
         <seg>Though a strict &lt;g1&gt;&lt;g2&gt;vertical rhythm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;31&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; is notoriously tough to establish and maintain, it’s good practice to at least use your paragraph line height as a basis for vertical spacing.</seg>
       </tuv>
