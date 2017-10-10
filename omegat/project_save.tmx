@@ -30192,7 +30192,8 @@ http://www.unicode.org/charts/PDF/U2600.pdf
 であれば訳注位置のミスですね。
 「中国語のユーザーであれ」のうしろに訳注移動でお願いします。
 ※岡本さん確認
-</note>
+
+(岡本)対応していました。</note>
       <tuv lang="EN-US">
         <seg>The first is that not all devices support a Unicode set extensive enough to include this character, the “trigram for heaven.” The second is that, unlike an icon font which is mapped to Unicode points in the &lt;g1&gt;&lt;g2&gt;private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, this character is more likely to be interpreted by assistive technology.</seg>
       </tuv>
@@ -38748,7 +38749,9 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
 
 ※ 108のURLが https://twitter.com/LeonieWatson なので、何かおかしなことになっているのでは？
 
-(伊原) DTPマター、岡本さん確認。</note>
+(伊原) DTPマター、岡本さん確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>Zach Leatherman of Filament Group writes that sometimes &lt;g1&gt;&lt;g2&gt;operating systems &lt;g3&gt;do&lt;/g3&gt; use Unicode’s private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;10&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, but for their own purposes.</seg>
       </tuv>
