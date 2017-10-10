@@ -2561,7 +2561,9 @@ OK
 
 (川本さん) フォントがここだけ違いますね
 
-(伊原) 初校PDFで&lt;記号が出てしまっている。字体も違う。DTPマター、岡本さん確認。</note>
+(伊原) 初校PDFで&lt;記号が出てしまっている。字体も違う。DTPマター、岡本さん確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;main &lt;/g2&gt;&lt;g3&gt;{&lt;/g3&gt;</seg>
       </tuv>
@@ -35987,7 +35989,9 @@ don’t get out of sync は二重否定でわかりにくいので、単に「�
 
 (川本) 勉強不足で、これがなんのタグがわかりませんでした... m(_ _)m
 
-(伊原) 初校PDFでOmegaTのタグが出てしまっている。DTPマター、岡本さん確認。</note>
+(伊原) 初校PDFでOmegaTのタグが出てしまっている。DTPマター、岡本さん確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>Viewport units present the opportunity to set text that scales with the height (&lt;g1&gt;vh&lt;/g1&gt;) or width (&lt;g2&gt;vw&lt;/g2&gt;) of the viewport.</seg>
       </tuv>
