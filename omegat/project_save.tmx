@@ -35018,7 +35018,8 @@ can なので「使っても良い」くらいですね。
 これはDTPマター?
 
 (伊原) DTPマター、岡本さん確認。
-</note>
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>To make the icon adopt the color of the button element’s font — both with high contrast mode on or off — we can use CSS’s &lt;g1&gt;currentColor&lt;/g1&gt; value and set it on the &lt;g2&gt;&lt;path&gt;&lt;/g2&gt;’s &lt;g3&gt;fill&lt;/g3&gt; property.</seg>
       </tuv>
