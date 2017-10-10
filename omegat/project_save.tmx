@@ -9037,7 +9037,9 @@ svg要素の中のstyle要素でスタイルを指定するとSVG対応ブラウ
 
 (土屋さん) アポストロフィ後の余白が気になりました。ピリオドの後、半角アキが必要？
 
-(伊原) 初校PDFで空いたり詰まったりしている。DTPマター、岡本さん確認。</note>
+(伊原) 初校PDFで空いたり詰まったりしている。DTPマター、岡本さん確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>As Joe Dolson writes in “&lt;g1&gt;&lt;g2&gt;I’m an accessibility consultant.</seg>
       </tuv>
@@ -31013,7 +31015,8 @@ Good!
 (土屋さん) XMLのタグ？トルツメ？
 
 (伊原) 初校PDFでomegaTのタグが出てしまっていることに対するコメント。DTPマター、岡本さん確認。
-</note>
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>The problem with this contrived and fragmented way of evaluating interfaces is that nobody has the chance to point out and avoid what are simply &lt;g1&gt;bad ideas&lt;/g1&gt;, like using a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; as a button control.</seg>
       </tuv>
