@@ -5584,6 +5584,8 @@ Size:　→サイズ：</note>
 ※画像も修正が必要。岡本さん確認
 
 (伊原) OK、画像はDTPマター、岡本さん確認
+
+(岡本)対応しました。画像風に見えていますが、枠付きテキストなので。
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;content&lt;/g4&gt;&lt;g5&gt;:&lt;/g5&gt; &lt;g6&gt;'Only &lt;li&gt; can be a direct child of &lt;ul&gt; or &lt;ol&gt;.'&lt;/g6&gt;&lt;g7&gt;;&lt;/g7&gt;
@@ -15131,7 +15133,8 @@ thanks to は「ありがたいことに」としました。
 そう思いますが、これは原文どおりなのでママで。
 
 (伊原) OK、訳注位置修正？（DTPマター、岡本さんに確認）
-</note>
+
+(岡本)　位置指示、対応していました。</note>
       <tuv lang="EN-US">
         <seg>However, thanks to the extension’s omission of the &lt;g1&gt;.has-ignorable-error&lt;/g1&gt; class, the most common unrecognized properties — browser prefixes — are not styled this way.</seg>
       </tuv>
