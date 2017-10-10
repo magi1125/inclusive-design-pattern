@@ -1719,7 +1719,9 @@ Kenny Mulbarton→ケニー・マルバートン</note>
     <tu>
       <note>(川本さん) githubの権限の問題でしょうか？404でした
 
-(伊原) 初校PDFの記載ミスっぽい。DTPマター、岡本さん確認。</note>
+(伊原) 初校PDFの記載ミスっぽい。DTPマター、岡本さん確認。
+
+(岡本)　問題ないですが、再コピペ指示。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;5.&lt;/g1&gt;&lt;g2&gt;&lt;g3&gt;https://github.com/w3c/webcomponents&lt;/g3&gt;&lt;/g2&gt;</seg>
       </tuv>
@@ -9062,6 +9064,8 @@ svg要素の中のstyle要素でスタイルを指定するとSVG対応ブラウ
 アポストロフィ後の余白が気になりました。
 
 (伊原) 原語表記追加。PDFだとdosen'tのところが空いている、ここはDTPマター、岡本さん確認。
+
+(岡本)　対応していました。
 </note>
       <tuv lang="EN-US">
         <seg>As Steve Faulkner writes in “&lt;g1&gt;&lt;g2&gt;Some stuff that doesn’t work between the DOM and Shadow DOM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;14&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” the shadow boundary effectively severs relationships built using attributes like &lt;g6&gt;aria-labelledby&lt;/g6&gt;, &lt;g7&gt;aria-describedby&lt;/g7&gt; and &lt;g8&gt;aria-controls&lt;/g8&gt;, where one element in the relationship is the other side of a shadow boundary.</seg>
@@ -38855,7 +38859,9 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
     <tu>
       <note>(川本さん) 余計なカッコが入っています
 
-(伊原) 初校PDFで不要な墨付きカッコが入っている。DTPマター、岡本さん確認。</note>
+(伊原) 初校PDFで不要な墨付きカッコが入っている。DTPマター、岡本さん確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>this&lt;g10&gt;.&lt;/g10&gt;toggle&lt;g11&gt;(&lt;/g11&gt;&lt;g12&gt;)&lt;/g12&gt;&lt;g13&gt;;&lt;/g13&gt;
 &lt;g14&gt;}&lt;/g14&gt;&lt;g15&gt;)&lt;/g15&gt;&lt;g16&gt;;&lt;/g16&gt;&lt;/g1&gt;</seg>
