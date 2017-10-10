@@ -7849,7 +7849,9 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
 (土屋さん) 「入力欄」ですね。
 (川本さん) らんがひらがなになってます
 
-(伊原) 上記は訳注に対するコメント。DTPマター、岡本さんに確認。</note>
+(伊原) 上記は訳注に対するコメント。DTPマター、岡本さんに確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>A short script simply toggles the field type from &lt;g1&gt;password&lt;/g1&gt; to &lt;g2&gt;text&lt;/g2&gt; and back again:</seg>
       </tuv>
@@ -27466,7 +27468,9 @@ screen estateはどう訳すべきか。
 
 後者の装飾についてはDTPマターと思われます。※岡本さん確認
 
-(伊原) OK, 後者DTPマター、岡本さんに確認。</note>
+(伊原) OK, 後者DTPマター、岡本さんに確認。
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>Sometimes it’s tempting to remove visible labels and rely on &lt;g1&gt;placeholder&lt;/g1&gt; attributes to save space (or &lt;g2&gt;screen estate&lt;/g2&gt; if you prefer) but that’s hardly a good reason to diminish the usability of a form.</seg>
       </tuv>
@@ -29144,6 +29148,8 @@ https://blog.motchie.com/web-accessibility/readability/ja-implementing-wcag-sc31
 ※岡本さん確認
 
 (伊原) DTPマター、岡本さんに確認。
+
+(岡本)　対応していました。
 </note>
       <tuv lang="EN-US">
         <seg>The &lt;g3&gt;for&lt;/g3&gt; attribute associates the label with an input using its &lt;g4&gt;id&lt;/g4&gt; value.</seg>
@@ -30588,7 +30594,9 @@ log eroors は「エラーログを残す」としました。
 (太田)
 DTPマター ※岡本さん確認
 
-(伊原) DTPマター、岡本さんに確認</note>
+(伊原) DTPマター、岡本さんに確認
+
+(岡本)　対応していました。</note>
       <tuv lang="EN-US">
         <seg>The key word here is &lt;g2&gt;hints&lt;/g2&gt;: the &lt;g3&gt;placeholder&lt;/g3&gt; is not a labeling method by itself and should only be used to provide &lt;g4&gt;supplemental information&lt;/g4&gt;.</seg>
       </tuv>
