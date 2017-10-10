@@ -1835,7 +1835,9 @@ body:lang(fr) {
 
 (高橋さん) lang擬似要素の例がはいるところではないでしょうか
 
-(伊原) 初校PDFで間違ったセレクタになっている。DTPマター、岡本さん確認。</note>
+(伊原) 初校PDFで間違ったセレクタになっている。DTPマター、岡本さん確認。
+
+(岡本)　対応しました。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;:lang(fr) &lt;/g2&gt;&lt;g3&gt;{&lt;/g3&gt;</seg>
       </tuv>
@@ -19195,7 +19197,9 @@ http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-
 (川本さん) リンク切れのようです
 
 (伊原) http://dmolsen.com/2013/03/05/media-query-less-design-content-based-breakpoints-tweakpoints/
-がリンク切れとの指摘だが、特に問題なさそう？DTPマター、岡本さん確認。</note>
+がリンク切れとの指摘だが、特に問題なさそう？DTPマター、岡本さん確認。
+
+(岡本) 問題なさげですが、組版上のスペースとかが悪さしているのかも。コピペで修正依頼をしておきます。</note>
       <tuv lang="EN-US">
         <seg>Instead, you should create an entirely flexible design from the outset and insert breakpoints only where the content breaks the layout — hence &lt;g1&gt;content breakpoint&lt;/g1&gt; or &lt;g2&gt;tweakpoint&lt;/g2&gt;.</seg>
       </tuv>
@@ -25318,7 +25322,9 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
 
 (高橋さん) 要素 "の" 
 
-(伊原) 初校PDFで「重要な要素ひとつです」とtypoしている、DTPマター、岡本さん確認。</note>
+(伊原) 初校PDFで「重要な要素ひとつです」とtypoしている、DTPマター、岡本さん確認。
+
+(岡本) 既に修正していました。</note>
       <tuv lang="EN-US">
         <seg>Responsive design is a big part of inclusive design.</seg>
       </tuv>
