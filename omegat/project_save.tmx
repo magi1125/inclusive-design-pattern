@@ -22746,7 +22746,9 @@ focus や hover は ARIA のステートではありません。
 
 (川本さん) ここはなぜリストの装飾が当たっているのでしょう？ただの本文、と言う感じがしますが... (初校PDFのスタイルへのコメント）
 
-(伊原) DTPマター、岡本さんに確認。</note>
+(伊原) DTPマター、岡本さんに確認。
+
+(岡本)　こちらもPDFで見ていてリストとしていました。本文に修正指示しました。</note>
       <tuv lang="EN-US">
         <seg>Not only does this help provide a larger, more ergonomic hit area for touch users, but we can use CSS to indicate the &lt;g1&gt;&lt;input&gt;&lt;/g1&gt;’s &lt;g2&gt;:focus&lt;/g2&gt; and &lt;g3&gt;:checked&lt;/g3&gt; states in CSS.</seg>
       </tuv>
