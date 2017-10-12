@@ -17751,8 +17751,8 @@ metaについては補足が必要か?
       <tuv lang="EN-US">
         <seg>In our case, the user remains focused on the submit button and is free to move back into the form to fix the errors when ready.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T121153Z" creationid="bakera" creationdate="20170929T090820Z">
-        <seg>今回のようにライブリージョンを利用すると、ユーザーは送信ボタンにフォーカスを合わせた状態を維持でき、自分のペースで自由にフォームに戻ってエラーを修正することができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121728Z" creationid="bakera" creationdate="20170929T090820Z">
+        <seg>今回のようにライブリージョンを利用すると、ユーザーはsubmitボタンにフォーカスを合わせた状態を維持でき、自分のペースで自由にフォームに戻ってエラーを修正することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23023,8 +23023,8 @@ prelearnedは使い慣れたということでいいのか。
       <tuv lang="EN-US">
         <seg>Note that I am placing the region &lt;g1&gt;directly above&lt;/g1&gt; the submit button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T121218Z" creationid="bakera" creationdate="20170929T090745Z">
-        <seg>送信ボタンの&lt;g1&gt;すぐ上に&lt;/g1&gt;ライブリージョンを配置している点に注目してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121712Z" creationid="bakera" creationdate="20170929T090745Z">
+        <seg>submitボタンの&lt;g1&gt;すぐ上に&lt;/g1&gt;ライブリージョンを配置している点に注目してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23260,8 +23260,8 @@ resulting inも落ちているような。「結果として」くらいでし�
       <tuv lang="EN-US">
         <seg>Note that we are suppressing the submission of the form itself rather than merely the click handler on the submit button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171008T142447Z" creationid="bakera" creationdate="20170929T090642Z">
-        <seg>送信ボタンのクリック操作を抑制しているのではなく、フォームの送信そのものを止めている点に注意してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121700Z" creationid="bakera" creationdate="20170929T090642Z">
+        <seg>submitボタンのクリック操作を抑制しているのではなく、フォームの送信そのものを止めている点に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26616,8 +26616,8 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
       <tuv lang="EN-US">
         <seg>Since the submit button is where the user is looking and working, this does the best job of bringing the error to their attention.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T121200Z" creationid="bakera" creationdate="20170929T090747Z">
-        <seg>送信の操作の際、ユーザーは送信ボタンに注目しているはずなので、エラーに注意を促すにはこの場所が最適です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121724Z" creationid="bakera" creationdate="20170929T090747Z">
+        <seg>送信の操作の際、ユーザーはsubmitボタンに注目しているはずなので、エラーに注意を促すにはこの場所が最適です。</seg>
       </tuv>
     </tu>
     <tu>
