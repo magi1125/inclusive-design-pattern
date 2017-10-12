@@ -4083,8 +4083,8 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; contains a single &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt; which is used to group the radio options under the label “Sort by,” followed by a submit button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T120935Z" creationid="rikiha" creationdate="20170909T223327Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;この&lt;g2&gt;&lt;form&gt;&lt;/g2&gt;は「並べ替え」ラベル以下のラジオボタンをグループ化する&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;をひとつ含み、その後にsubmitボタンが続きます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121115Z" creationid="rikiha" creationdate="20170909T223327Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;この&lt;g2&gt;&lt;form&gt;&lt;/g2&gt;は「並べ替え」ラベル以下のラジオボタンをグループ化する&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;をひとつ含み、その後に送信ボタンが続きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17751,8 +17751,8 @@ metaについては補足が必要か?
       <tuv lang="EN-US">
         <seg>In our case, the user remains focused on the submit button and is free to move back into the form to fix the errors when ready.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T090820Z" creationid="bakera" creationdate="20170929T090820Z">
-        <seg>今回のようにライブリージョンを利用すると、ユーザーはsubmitボタンにフォーカスを合わせた状態を維持でき、自分のペースで自由にフォームに戻ってエラーを修正することができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121153Z" creationid="bakera" creationdate="20170929T090820Z">
+        <seg>今回のようにライブリージョンを利用すると、ユーザーは送信ボタンにフォーカスを合わせた状態を維持でき、自分のペースで自由にフォームに戻ってエラーを修正することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18304,8 +18304,8 @@ p.229では「入力欄」とあり、表現が揺れています。（ちなみ
       <tuv lang="EN-US">
         <seg>In the case of the submit button, the text node is the accessible label.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170926T082059Z" creationid="bakera" creationdate="20170926T082035Z">
-        <seg>この例のsubmitボタンの場合は、ボタンの中のテキストノードがアクセシブルなラベルとなります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121340Z" creationid="bakera" creationdate="20170926T082035Z">
+        <seg>この例の送信ボタンの場合は、ボタンの中のテキストノードがアクセシブルなラベルとなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23023,8 +23023,8 @@ prelearnedは使い慣れたということでいいのか。
       <tuv lang="EN-US">
         <seg>Note that I am placing the region &lt;g1&gt;directly above&lt;/g1&gt; the submit button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171008T142616Z" creationid="bakera" creationdate="20170929T090745Z">
-        <seg>submitボタンの&lt;g1&gt;すぐ上に&lt;/g1&gt;ライブリージョンを配置している点に注目してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121218Z" creationid="bakera" creationdate="20170929T090745Z">
+        <seg>送信ボタンの&lt;g1&gt;すぐ上に&lt;/g1&gt;ライブリージョンを配置している点に注目してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23273,8 +23273,8 @@ resulting inも落ちているような。「結果として」くらいでし�
       <tuv lang="EN-US">
         <seg>Note that you can’t simply &lt;g2&gt;remove&lt;/g2&gt; the submit button because some platforms (notably iOS) will not submit forms where a submit button isn’t present.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T104608Z" creationid="rikiha" creationdate="20170909T223813Z">
-        <seg>また、一部のプラットフォーム（特にiOS）では、submitボタンが存在しないとフォームを送信できなくなるため、submitボタンをただ単に&lt;g2&gt;取り除く&lt;/g2&gt;ことはできません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121138Z" creationid="rikiha" creationdate="20170909T223813Z">
+        <seg>また、一部のプラットフォーム（特にiOS）では、送信ボタンが存在しないとフォームを送信できなくなるため、送信ボタンをただ単に&lt;g2&gt;取り除く&lt;/g2&gt;ことはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26616,8 +26616,8 @@ without JavaScript and triggers a page refreshの解釈が間違っている？�
       <tuv lang="EN-US">
         <seg>Since the submit button is where the user is looking and working, this does the best job of bringing the error to their attention.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T111421Z" creationid="bakera" creationdate="20170929T090747Z">
-        <seg>送信の操作の際、ユーザーはsubmitボタンに注目しているはずなので、エラーに注意を促すにはこの場所が最適です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121200Z" creationid="bakera" creationdate="20170929T090747Z">
+        <seg>送信の操作の際、ユーザーは送信ボタンに注目しているはずなので、エラーに注意を促すにはこの場所が最適です。</seg>
       </tuv>
     </tu>
     <tu>
