@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10098" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14077,7 +14077,7 @@ Foregoは放棄するとか捨てるとかの意味のはず。
       <tuv lang="EN-US">
         <seg>Foregoing the Submit Button</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170915T033508Z" creationid="rikiha" creationdate="20170909T223743Z">
+      <tuv lang="JA" changeid="bakera" changedate="20171012T120340Z" creationid="rikiha" creationdate="20170909T223743Z">
         <seg>submitボタンをなくすべきか</seg>
       </tuv>
     </tu>
