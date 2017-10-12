@@ -4083,8 +4083,8 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; contains a single &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt; which is used to group the radio options under the label “Sort by,” followed by a submit button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T121115Z" creationid="rikiha" creationdate="20170909T223327Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;この&lt;g2&gt;&lt;form&gt;&lt;/g2&gt;は「並べ替え」ラベル以下のラジオボタンをグループ化する&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;をひとつ含み、その後に送信ボタンが続きます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121444Z" creationid="rikiha" creationdate="20170909T223327Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;この&lt;g2&gt;&lt;form&gt;&lt;/g2&gt;は「並べ替え」ラベル以下のラジオボタンをグループ化する&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;をひとつ含み、その後にsubmitボタンが続きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14077,8 +14077,8 @@ Foregoは放棄するとか捨てるとかの意味のはず。
       <tuv lang="EN-US">
         <seg>Foregoing the Submit Button</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T120625Z" creationid="rikiha" creationdate="20170909T223743Z">
-        <seg>送信ボタンをなくすべきか</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121454Z" creationid="rikiha" creationdate="20170909T223743Z">
+        <seg>submitボタンをなくすべきか</seg>
       </tuv>
     </tu>
     <tu>
@@ -15274,8 +15274,8 @@ HJなのでもう少し練りたい。もしくは訳注か。
       <tuv lang="EN-US">
         <seg>However, this would mean hiding the now redundant submit button and trusting that keyboard users would know to press &lt;g1&gt;Enter&lt;/g1&gt; to submit the form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T121019Z" creationid="rikiha" creationdate="20170909T223812Z">
-        <seg>しかしこの際、冗長になった送信ボタンを隠してしまうと、クリックもタップもできないキーボードユーザーは困ることになるでしょう。&lt;g1&gt;Enter&lt;/g1&gt;キーでこのフォームを送信できると気づいてくれることを信じるほかありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121552Z" creationid="rikiha" creationdate="20170909T223812Z">
+        <seg>しかしこの際、冗長になったsubmitボタンを隠してしまうと、クリックもタップもできないキーボードユーザーは困ることになるでしょう。&lt;g1&gt;Enter&lt;/g1&gt;キーでこのフォームを送信できると気づいてくれることを信じるほかありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18304,8 +18304,8 @@ p.229では「入力欄」とあり、表現が揺れています。（ちなみ
       <tuv lang="EN-US">
         <seg>In the case of the submit button, the text node is the accessible label.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T121340Z" creationid="bakera" creationdate="20170926T082035Z">
-        <seg>この例の送信ボタンの場合は、ボタンの中のテキストノードがアクセシブルなラベルとなります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121646Z" creationid="bakera" creationdate="20170926T082035Z">
+        <seg>この例のsubmitボタンの場合は、ボタンの中のテキストノードがアクセシブルなラベルとなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23273,8 +23273,8 @@ resulting inも落ちているような。「結果として」くらいでし�
       <tuv lang="EN-US">
         <seg>Note that you can’t simply &lt;g2&gt;remove&lt;/g2&gt; the submit button because some platforms (notably iOS) will not submit forms where a submit button isn’t present.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T121138Z" creationid="rikiha" creationdate="20170909T223813Z">
-        <seg>また、一部のプラットフォーム（特にiOS）では、送信ボタンが存在しないとフォームを送信できなくなるため、送信ボタンをただ単に&lt;g2&gt;取り除く&lt;/g2&gt;ことはできません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121610Z" creationid="rikiha" creationdate="20170909T223813Z">
+        <seg>また、一部のプラットフォーム（特にiOS）では、submitボタンが存在しないとフォームを送信できなくなるため、submitボタンをただ単に&lt;g2&gt;取り除く&lt;/g2&gt;ことはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23648,8 +23648,8 @@ DTPマター? ※岡本さん確認
       <tuv lang="EN-US">
         <seg>Now that we’re not making use of our &lt;g1&gt;get&lt;/g1&gt; functionality, we’ll need to prevent the page refreshing by suppressing the submit button’s default form submission functionality.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T120633Z" creationid="rikiha" creationdate="20170909T223744Z">
-        <seg>JavaScriptで商品リストを表示する場合、フォームを&lt;g1&gt;get&lt;/g1&gt;で送信する機能は使いません。そのため、送信ボタンのデフォルトの動作であるフォーム送信の機能を抑止して、ページが再読み込みされることを防ぐ必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121519Z" creationid="rikiha" creationdate="20170909T223744Z">
+        <seg>JavaScriptで商品リストを表示する場合、フォームを&lt;g1&gt;get&lt;/g1&gt;で送信する機能は使いません。そのため、submitボタンのデフォルトの動作であるフォーム送信の機能を抑止して、ページが再読み込みされることを防ぐ必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32818,8 +32818,8 @@ aspirations は「願望」?
       <tuv lang="EN-US">
         <seg>This begs the question whether we need the submit button at all.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T120643Z" creationid="rikiha" creationdate="20170909T223747Z">
-        <seg>これに対して、そもそも送信ボタンが必要なのか、という疑問も出てくるでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T121543Z" creationid="rikiha" creationdate="20170909T223747Z">
+        <seg>これに対して、そもそもsubmitボタンが必要なのか、という疑問も出てくるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
