@@ -15274,8 +15274,8 @@ HJなのでもう少し練りたい。もしくは訳注か。
       <tuv lang="EN-US">
         <seg>However, this would mean hiding the now redundant submit button and trusting that keyboard users would know to press &lt;g1&gt;Enter&lt;/g1&gt; to submit the form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170922T072658Z" creationid="rikiha" creationdate="20170909T223812Z">
-        <seg>しかしこの際、冗長になったsubmitボタンを隠してしまうと、クリックもタップもできないキーボードユーザーは困ることになるでしょう。&lt;g1&gt;Enter&lt;/g1&gt;キーでこのフォームを送信できると気づいてくれることを信じるほかありません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T120704Z" creationid="rikiha" creationdate="20170909T223812Z">
+        <seg>しかしこの際、冗長になった送信ボタンを隠してしまうと、クリックもタップもできないキーボードユーザーは困ることになるでしょう。&lt;g1&gt;Enter&lt;/g1&gt;キーでこのフォームを送信できると気づいてくれることを信じるほかありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32818,8 +32818,8 @@ aspirations は「願望」?
       <tuv lang="EN-US">
         <seg>This begs the question whether we need the submit button at all.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170914T101801Z" creationid="rikiha" creationdate="20170909T223747Z">
-        <seg>これに対して、そもそもsubmitボタンが必要なのか、という疑問も出てくるでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T120643Z" creationid="rikiha" creationdate="20170909T223747Z">
+        <seg>これに対して、そもそも送信ボタンが必要なのか、という疑問も出てくるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40835,8 +40835,8 @@ OmegaT上で装飾追加ってどうするんでしょうか?
       <tuv lang="EN-US">
         <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T123406Z" creationid="rikiha" creationdate="20170922T123406Z">
-        <seg>おそらく、JavaScriptでsubmitボタンを取り除き、changeイベントにXHRの機能を追加するほうが、操作の結果が即座に反映されて良いと思われるのではないでしょうか。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171012T120656Z" creationid="rikiha" creationdate="20170922T123406Z">
+        <seg>おそらく、JavaScriptで送信ボタンを取り除き、changeイベントにXHRの機能を追加するほうが、操作の結果が即座に反映されて良いと思われるのではないでしょうか。</seg>
       </tuv>
     </tu>
     <tu>
