@@ -26075,8 +26075,8 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
       <tuv lang="EN-US">
         <seg>Setting paragraphs’ measure directly is unwise, since in responsive and modular layouts they should wrap according to their containing element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170516T093743Z" creationid="yoota" creationdate="20170510T092748Z">
-        <seg>パラグラフのカラム幅を直接設定するのは賢い方法ではありません。レスポンシブなモジュール式のレイアウトでは、コンテナ要素の幅に応じて改行されるようにする必要があるためです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171013T121846Z" creationid="yoota" creationdate="20170510T092748Z">
+        <seg>パラグラフ幅を直接設定するのは賢い方法ではありません。レスポンシブなモジュール式のレイアウトでは、コンテナ要素の幅に応じて改行されるようにする必要があるためです。</seg>
       </tuv>
     </tu>
     <tu>
