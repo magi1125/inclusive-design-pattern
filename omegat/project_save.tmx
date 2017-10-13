@@ -10085,8 +10085,8 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       <tuv lang="EN-US">
         <seg>Bearing this in mind, no container of text in your layout should exceed your stated measure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170516T093924Z" creationid="yoota" creationdate="20170510T093401Z">
-        <seg>これを念頭に置いて、想定したカラム幅を超えないようにテキストコンテナのレイアウトを調整しましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171013T122157Z" creationid="yoota" creationdate="20170510T093401Z">
+        <seg>これを念頭に置いて、想定した幅を超えないようにコンテナのレイアウトを調整しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26075,8 +26075,8 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
       <tuv lang="EN-US">
         <seg>Setting paragraphs’ measure directly is unwise, since in responsive and modular layouts they should wrap according to their containing element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171013T121846Z" creationid="yoota" creationdate="20170510T092748Z">
-        <seg>パラグラフ幅を直接設定するのは賢い方法ではありません。レスポンシブなモジュール式のレイアウトでは、コンテナ要素の幅に応じて改行されるようにする必要があるためです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171013T121905Z" creationid="yoota" creationdate="20170510T092748Z">
+        <seg>パラグラフの幅を直接設定するのは賢い方法ではありません。レスポンシブなモジュール式のレイアウトでは、コンテナ要素の幅に応じて改行されるようにする必要があるためです。</seg>
       </tuv>
     </tu>
     <tu>
