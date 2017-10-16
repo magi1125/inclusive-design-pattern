@@ -9554,11 +9554,15 @@ https://www.noupe.com/design/10-beginner-tips-for-unique-product-photography-790
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ゲラにはこの文の前に以下の一文があります。原文にはそのニュアンスがあるので、多分OmegaTへの反映時の抜けです。
+「ほとんどの場合、グラフィックデザインをWebインタフェイスデザインに直接置き換えることはできません。」
+</note>
       <tuv lang="EN-US">
         <seg>As the third designer is only too aware, there are few direct translations between graphic design and web interface design.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100240Z" creationid="okamoto_jun" creationdate="20170627T100240Z">
-        <seg>このことをよく知っているのが次のインクルーシブデザイナーです。
+      <tuv lang="JA" changeid="bakera" changedate="20171016T063426Z" creationid="okamoto_jun" creationdate="20170627T100240Z">
+        <seg>ほとんどの場合、グラフィックデザインをWebインタフェイスデザインに直接置き換えることはできません。このことをよく知っているのが次のインクルーシブデザイナーです。
 </seg>
       </tuv>
     </tu>
@@ -35475,7 +35479,8 @@ OK
     </tu>
     <tu>
       <note>(岡本)
-イベントリスナーとはなんですか？ 関数ですかね。フォローが必要のように感じます。</note>
+イベントリスナーとはなんですか？ 関数ですかね。フォローが必要のように感じます。
+</note>
       <tuv lang="EN-US">
         <seg>Under some circumstances, they may even work for the odd user.</seg>
       </tuv>
