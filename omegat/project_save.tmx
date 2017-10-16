@@ -9555,8 +9555,9 @@ https://www.noupe.com/design/10-beginner-tips-for-unique-product-photography-790
     </tu>
     <tu>
       <note>(太田)
-ゲラにはこの文の前に以下の一文があります。原文にはそのニュアンスがあるので、多分OmegaTへの反映時の抜けです。
+ゲラにはこの文の前に以下の一文があります。
 「ほとんどの場合、グラフィックデザインをWebインタフェイスデザインに直接置き換えることはできません。」
+原文にはそのニュアンスがあるので、多分OmegaTへの反映時の抜けです。
 </note>
       <tuv lang="EN-US">
         <seg>As the third designer is only too aware, there are few direct translations between graphic design and web interface design.</seg>
@@ -30504,8 +30505,8 @@ there’s no need はどこにもないというような強い印象なので�
       <tuv lang="EN-US">
         <seg>The image used is not a vector, so cannot be scaled without becoming degraded and blurry as a result.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100341Z" creationid="okamoto_jun" creationdate="20170627T100341Z">
-        <seg>使用する画像はベクターではないため、画像のサイズを変えるとどうしても画質が下がり、ぼやけてしまいます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171016T063649Z" creationid="okamoto_jun" creationdate="20170627T100341Z">
+        <seg>使用している画像はベクターではないため、画像のサイズを変えるとどうしても画質が下がり、ぼやけてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33604,11 +33605,13 @@ dispense with X でXなしで済ます、というような意味。
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+「脆弱」はvulnerableの訳語として定着しているので避けたいです。</note>
       <tuv lang="EN-US">
         <seg>This is what some might refer to as &lt;g1&gt;hacky&lt;/g1&gt;: a fragile and unfortunately complex workaround.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T093900Z" creationid="okamoto_jun" creationdate="20170627T093900Z">
-        <seg>これはハック的なやり方だと言う人もいるでしょう。残念ながら脆弱で複雑な応急処置です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171016T063734Z" creationid="okamoto_jun" creationdate="20170627T093900Z">
+        <seg>これは&lt;g1&gt;ハック的な&lt;/g1&gt;やり方だと言う人もいるでしょう。残念ながら脆弱で複雑な応急処置です。</seg>
       </tuv>
     </tu>
     <tu>
