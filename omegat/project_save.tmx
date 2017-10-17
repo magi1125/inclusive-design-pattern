@@ -4823,8 +4823,8 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;“90cm × 30cm” is written using the correct (multiplication) Unicode character, so that “Thirty C M &lt;g2&gt;times&lt;/g2&gt; ninety C M” is announced in screen readers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171008T082152Z" creationid="rikiha" creationdate="20170828T141918Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;「90cm × 30cm」は適切なUnicode文字（乗算記号）を使って書かれているので、スクリーンリーダーでは「きゅうじゅっセンチメートルかけるさんじゅっセンチメートル」と読み上げられます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T093045Z" creationid="rikiha" creationdate="20170828T141918Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;「90cm × 30cm」は適切なUnicode文字（乗算記号）を使って書かれているので、スクリーンリーダーでは「きゅうじゅっセンチメートル&lt;g2&gt;かける&lt;/g2&gt;さんじゅっセンチメートル」と読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
