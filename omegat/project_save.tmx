@@ -2752,8 +2752,8 @@ describe&lt;g15&gt;(&lt;/g15&gt;&lt;g16&gt;'Addモジュール'&lt;/g16&gt;&lt;g
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;site:shop.the-photography-site.com [search term] &lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T021809Z" creationid="yoota" creationdate="20170908T021809Z">
-        <seg>site:shop.the-photography-site.com [検索語句]</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T093216Z" creationid="yoota" creationdate="20170908T021809Z">
+        <seg>&lt;g1&gt;site:shop.the-photography-site.com [検索語句]&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23232,8 +23232,8 @@ Noteが訳出されていませんが、まあいいかという気も。
       <tuv lang="EN-US">
         <seg>Note that the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; element, included last, will have its &lt;g2&gt;src&lt;/g2&gt; attribute automatically switched to that defined in the &lt;g3&gt;&lt;source&gt;&lt;/g3&gt; element &lt;g4&gt;only&lt;/g4&gt; if the viewport is more than 800px wide.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171008T084346Z" creationid="yoota" creationdate="20170905T083214Z">
-        <seg>最後の&lt;g1&gt;&lt;img&gt;&lt;/g1&gt;要素は、ビューポートの幅が800pxを超える場合のみ、その&lt;g2&gt;src&lt;/g2&gt;属性を&lt;g3&gt;&lt;source&gt;&lt;/g3&gt;要素で定義されているものに自動的に切り替えます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T093200Z" creationid="yoota" creationdate="20170905T083214Z">
+        <seg>最後の&lt;g1&gt;&lt;img&gt;&lt;/g1&gt;要素は、ビューポートの幅が800pxを超える場合&lt;g4&gt;のみ&lt;/g4&gt;、その&lt;g2&gt;src&lt;/g2&gt;属性を&lt;g3&gt;&lt;source&gt;&lt;/g3&gt;要素で定義されているものに自動的に切り替えます。</seg>
       </tuv>
     </tu>
     <tu>
