@@ -5506,8 +5506,8 @@ Size:　→サイズ：</note>
       <tuv lang="EN-US">
         <seg>&lt;g4&gt;/* do not do this */&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170426T071306Z" creationid="yoota" creationdate="20170426T071306Z">
-        <seg>/* この指定は使わないでください */
+      <tuv lang="JA" changeid="bakera" changedate="20171017T090353Z" creationid="yoota" creationdate="20170426T071306Z">
+        <seg>&lt;g4&gt;/* この指定は使わないでください */&lt;/g4&gt;
 </seg>
       </tuv>
     </tu>
