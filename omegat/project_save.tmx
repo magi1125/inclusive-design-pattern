@@ -2469,12 +2469,16 @@ https://gyazo.com/dd21486f0ea340b07d52fa21f1bc3893
 どうも2017年5月のバージョンで表示方法が変わったようです。要素のそばに表示するようにして、タッチデバイスでも見られるようになったと言ってます (たしかにhoverだとタッチデバイスで困りますね)。
 https://github.com/ffoodd/a11y.css/releases/tag/v3.3.0
 
+
+(太田)
+なぜかpseudo-contentが訳されていなかったので「疑似要素で指定した」としました。
+
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;A11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; — a more advanced CSS accessibility testing tool by &lt;g6&gt;&lt;g7&gt;Gaël Poupard&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;13&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt; — overcomes this by positioning each pseudo-content message at the top of the document and reveals it on hover.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170929T225840Z" creationid="rikiha" creationdate="20170925T014557Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;A11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注203）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;――&lt;g6&gt;&lt;g7&gt;ゲール・プパール（Gaël Poupard）&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注204）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;による、より高度なCSS製アクセシビリティテストツール――は、各pseudo-contentメッセージをドキュメント先頭に配置し、マウスカーソルを合わせると表示されるようにすることで、この問題を克服しています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T075248Z" creationid="rikiha" creationdate="20170925T014557Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;A11y.css&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注203）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;――&lt;g6&gt;&lt;g7&gt;ゲール・プパール（Gaël Poupard）&lt;/g7&gt;&lt;/g6&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注204）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;による、より高度なCSS製アクセシビリティテストツール――は、各疑似要素で指定したメッセージをドキュメント先頭に配置し、マウスカーソルを合わせると表示されるようにすることで、この問題を克服しています。</seg>
       </tuv>
     </tu>
     <tu>
