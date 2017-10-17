@@ -2636,6 +2636,20 @@ OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;var&lt;/g2&gt; expect &lt;g3&gt;=&lt;/g3&gt; require&lt;g4&gt;(&lt;/g4&gt;&lt;g5&gt;'chai'&lt;/g5&gt;&lt;g6&gt;)&lt;/g6&gt;&lt;g7&gt;.&lt;/g7&gt;expect&lt;g8&gt;;&lt;/g8&gt;
+&lt;g9&gt;var&lt;/g9&gt; add &lt;g10&gt;=&lt;/g10&gt; require&lt;g11&gt;(&lt;/g11&gt;&lt;g12&gt;'../lib/add.js'&lt;/g12&gt;&lt;g13&gt;)&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
+
+describe&lt;g15&gt;(&lt;/g15&gt;&lt;g16&gt;'Add module'&lt;/g16&gt;&lt;g17&gt;,&lt;/g17&gt; &lt;g18&gt;function&lt;/g18&gt;&lt;g19&gt;(&lt;/g19&gt;&lt;g20&gt;)&lt;/g20&gt; &lt;g21&gt;{&lt;/g21&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T072055Z" creationid="bakera" creationdate="20171017T072055Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;var&lt;/g2&gt; expect &lt;g3&gt;=&lt;/g3&gt; require&lt;g4&gt;(&lt;/g4&gt;&lt;g5&gt;'chai'&lt;/g5&gt;&lt;g6&gt;)&lt;/g6&gt;&lt;g7&gt;.&lt;/g7&gt;expect&lt;g8&gt;;&lt;/g8&gt;
+&lt;g9&gt;var&lt;/g9&gt; add &lt;g10&gt;=&lt;/g10&gt; require&lt;g11&gt;(&lt;/g11&gt;&lt;g12&gt;'../lib/add.js'&lt;/g12&gt;&lt;g13&gt;)&lt;/g13&gt;&lt;g14&gt;;&lt;/g14&gt;
+
+describe&lt;g15&gt;(&lt;/g15&gt;&lt;g16&gt;'Addモジュール'&lt;/g16&gt;&lt;g17&gt;,&lt;/g17&gt; &lt;g18&gt;function&lt;/g18&gt;&lt;g19&gt;(&lt;/g19&gt;&lt;g20&gt;)&lt;/g20&gt; &lt;g21&gt;{&lt;/g21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 ここの "utilitarian" はおそらく功利主義ではなく実用的のほうで、(アートではない) 実用的なデザインをするデザイナー、というようなニュアンスかと思います。日本語でなんていうのですかね。
 
@@ -38993,6 +39007,14 @@ https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170530T095422Z" creationid="rikiha" creationdate="20170530T095422Z">
         <seg>大学卒業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>describe&lt;g22&gt;(&lt;/g22&gt;&lt;g23&gt;'The add() function'&lt;/g23&gt;&lt;g24&gt;,&lt;/g24&gt; &lt;g25&gt;function&lt;/g25&gt;&lt;g26&gt;(&lt;/g26&gt;&lt;g27&gt;)&lt;/g27&gt; &lt;g28&gt;{&lt;/g28&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T072103Z" creationid="bakera" creationdate="20171017T072103Z">
+        <seg>describe&lt;g22&gt;(&lt;/g22&gt;&lt;g23&gt;'add() 関数'&lt;/g23&gt;&lt;g24&gt;,&lt;/g24&gt; &lt;g25&gt;function&lt;/g25&gt;&lt;g26&gt;(&lt;/g26&gt;&lt;g27&gt;)&lt;/g27&gt; &lt;g28&gt;{&lt;/g28&gt;</seg>
       </tuv>
     </tu>
     <tu>
