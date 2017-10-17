@@ -20408,12 +20408,17 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
 ここのreading disordersはもっとひろく、読むことに関しての何らかの障害、というようなニュアンスでしょうね。訳語を変更したほうが良いかもしれません。
 「読むことに関する障害」としてみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+すこし文章を短縮。
+
+</note>
       <tuv lang="EN-US">
         <seg>It’s important to note that &lt;g1&gt;legible&lt;/g1&gt; body text for folks with reading disorders such as dyslexia is also &lt;g2&gt;pleasant&lt;/g2&gt; body text for those who have less trouble reading.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171007T045626Z" creationid="yoota" creationdate="20170510T070456Z">
-        <seg>ディスレクシアなど、読むことに関する障害を持つ人にとって&lt;g1&gt;読みやすい&lt;/g1&gt;テキストは、読むのに問題がない人にとっても&lt;g2&gt;好ましい&lt;/g2&gt;テキストです。このことに注目するのは重要です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T100509Z" creationid="yoota" creationdate="20170510T070456Z">
+        <seg>ディスレクシアなど、読むことに障害がある人に&lt;g1&gt;読みやすい&lt;/g1&gt;テキストは、障害がない人にも&lt;g2&gt;好ましい&lt;/g2&gt;テキストです。このことに注目するのは重要です。</seg>
       </tuv>
     </tu>
     <tu>
