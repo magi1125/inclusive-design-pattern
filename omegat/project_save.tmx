@@ -16736,8 +16736,8 @@ Gaulish は characterのほうについているのだと思います (Astérix 
       <tuv lang="EN-US">
         <seg>In &lt;g3&gt;&lt;g4&gt;Keith Clark’s example&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;6&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;, &lt;g8&gt;&lt;link&gt;&lt;/g8&gt; has an &lt;g9&gt;onload&lt;/g9&gt; handler which switches the media type from &lt;g10&gt;none&lt;/g10&gt; to &lt;g11&gt;all&lt;/g11&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170427T033934Z" creationid="yoota" creationdate="20170427T033934Z">
-        <seg>&lt;g3&gt;&lt;g4&gt;キース・クラーク（Keith Clark）の例&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注9）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;では、&lt;g8&gt;&lt;link&gt;&lt;/g8&gt;のonloadハンドラでメディアタイプを&lt;g10&gt;none&lt;/g10&gt;から&lt;g11&gt;all&lt;/g11&gt;に切り替えています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T090832Z" creationid="yoota" creationdate="20170427T033934Z">
+        <seg>&lt;g3&gt;&lt;g4&gt;キース・クラーク（Keith Clark）の例&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;（脚注9）&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;では、&lt;g8&gt;&lt;link&gt;&lt;/g8&gt;の&lt;g9&gt;onload&lt;/g9&gt;ハンドラでメディアタイプを&lt;g10&gt;none&lt;/g10&gt;から&lt;g11&gt;all&lt;/g11&gt;に切り替えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31851,8 +31851,8 @@ as separate concernsがどこにくっついているのかよくわからない
       <tuv lang="EN-US">
         <seg>The trick is to load the page &lt;g1&gt;then&lt;/g1&gt; the font, using the &lt;g2&gt;onload&lt;/g2&gt; event as a watershed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170427T033024Z" creationid="yoota" creationdate="20170427T033024Z">
-        <seg>ポイントは、先にページを読み込んでから、onloadイベントを分岐点にしてフォントを読み込むようにすることです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T090804Z" creationid="yoota" creationdate="20170427T033024Z">
+        <seg>ポイントは、先にページを読み込んで&lt;g1&gt;から&lt;/g1&gt;、&lt;g2&gt;onload&lt;/g2&gt;イベントを分岐点にしてフォントを読み込むようにすることです。</seg>
       </tuv>
     </tu>
     <tu>
