@@ -2143,6 +2143,16 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h2&lt;/g3&gt; &lt;g5&gt;id&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"services"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;Services&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;h2&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T034254Z" creationid="bakera" creationdate="20171017T034254Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;h2&lt;/g3&gt; &lt;g5&gt;id&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"services"&lt;/g6&gt;&lt;g8&gt;&gt;&lt;/g8&gt;&lt;/g2&gt;業務内容&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;/&lt;/g11&gt;h2&lt;/g10&gt;&lt;g12&gt;&gt;&lt;/g12&gt;&lt;/g9&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>（伊原：確認中）
 
 (太田) フラップジャックが日本ではあまり一般的でない件。
