@@ -23840,8 +23840,8 @@ familiarを「十分に学習してきた」としていますが、「十分に
       <tuv lang="EN-US">
         <seg>Now, if I wanted to print the address to screen using a templating library like Handlebars, I might write something like &lt;g1&gt;{{this.address}}&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T092153Z" creationid="okamoto_jun" creationdate="20170627T092153Z">
-        <seg>さて、Handlebarsのようなテンプレートライブラリでこの住所を画面に表示したいときは、{{this.address}} のように書きます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T084904Z" creationid="okamoto_jun" creationdate="20170627T092153Z">
+        <seg>さて、Handlebarsのようなテンプレートライブラリでこの住所を画面に表示したいときは、&lt;g1&gt;{{this.address}}&lt;/g1&gt; のように書きます。</seg>
       </tuv>
     </tu>
     <tu>
