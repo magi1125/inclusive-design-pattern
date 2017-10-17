@@ -6762,8 +6762,8 @@ font-size: 16px;
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;A smiley face says “happy” to more people than any one language can manage.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170812T115750Z" creationid="rikiha" creationdate="20170811T133121Z">
-        <seg>スマイリーの顔は、どんな言語よりも多くの人に「ハッピー」を伝えられる。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T092814Z" creationid="rikiha" creationdate="20170811T133121Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;スマイリーの顔は、どんな言語よりも多くの人に「ハッピー」を伝えられる。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11189,8 +11189,8 @@ contentsとOur historyは訳す感じですかね。だとするとソースコ�
       <tuv lang="EN-US">
         <seg>By focusing the “Our history” link in the previous example, “&lt;g2&gt;contents&lt;/g2&gt; navigation landmark, list, one of four items, our history, link” (or similar) would be announced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170809T095824Z" creationid="yoota" creationdate="20170808T100247Z">
-        <seg>たとえば前の例の「沿革」のリンクにフォーカスすると、「目次 ナビゲーション ランドマーク リスト 4項目 沿革 リンク」などと読み上げられます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T092806Z" creationid="yoota" creationdate="20170808T100247Z">
+        <seg>たとえば前の例の「沿革」のリンクにフォーカスすると、「&lt;g2&gt;目次&lt;/g2&gt; ナビゲーション ランドマーク リスト 4項目 沿革 リンク」などと読み上げられます。</seg>
       </tuv>
     </tu>
     <tu>
