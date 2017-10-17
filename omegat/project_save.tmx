@@ -5130,6 +5130,17 @@ OmegaT上では訳されているので、DTPの問題か反映タイミング�
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+ここは em、下では rem。
+たぶんremで統一が正しい気がします。</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g32&gt;bottom&lt;/g32&gt;&lt;g33&gt;:&lt;/g33&gt; -0.25em&lt;g34&gt;;&lt;/g34&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T023953Z" creationid="bakera" creationdate="20171017T023953Z">
+        <seg>&lt;g32&gt;bottom&lt;/g32&gt;&lt;g33&gt;:&lt;/g33&gt; -0.25rem&lt;g34&gt;;&lt;/g34&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) コメント翻訳
 
 (太田)
