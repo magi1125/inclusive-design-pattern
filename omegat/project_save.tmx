@@ -27388,12 +27388,15 @@ degrade はそのまま「デグレード」でもわかりそうな気がしま
 (岡本）
 2つ→ふたつ
 
-(伊原) OK, ピンク本のNG例ですね。</note>
+(伊原) OK, ピンク本のNG例ですね。
+
+(太田)
+ふたつ→2つ</note>
       <tuv lang="EN-US">
         <seg>Some interfaces provide an auxiliary field, similar in all respects but its &lt;g1&gt;id&lt;/g1&gt;, and implore you to type your proposed password a &lt;g2&gt;second&lt;/g2&gt; time, so the system can compare the two.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T043350Z" creationid="bakera" creationdate="20170929T080049Z">
-        <seg>インターフェイスの中には、&lt;g1&gt;id&lt;/g1&gt;属性以外のすべてがそっくり同じ入力欄をふたつ提供して、パスワードを&lt;g2&gt;2回&lt;/g2&gt;入力させ、ふたつのパスワードを比較するものがあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T063656Z" creationid="bakera" creationdate="20170929T080049Z">
+        <seg>インターフェイスの中には、&lt;g1&gt;id&lt;/g1&gt;属性以外のすべてがそっくり同じ入力欄を2つ提供して、パスワードを&lt;g2&gt;2回&lt;/g2&gt;入力させ、2つのパスワードを比較するものがあります。</seg>
       </tuv>
     </tu>
     <tu>
