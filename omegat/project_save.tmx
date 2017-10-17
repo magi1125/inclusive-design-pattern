@@ -13870,12 +13870,15 @@ For thatは「その実現」としてみました。
       <note>(太田)
 2文に分けつつ調整してみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+Webコンポーネント→ Web Components</note>
       <tuv lang="EN-US">
         <seg>For the most part, creating inclusive web components is just creating accessible, semantic HTML as usual but inside a new API.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T052312Z" creationid="yoota" creationdate="20170719T093225Z">
-        <seg>ほとんどの場合、インクルーシブなWebコンポーネントの作成は、アクセシブルでセマンティックなHTMLをいつものように作り出しているにすぎません。ただ、それを新しいAPIの中で行っているだけです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T015508Z" creationid="yoota" creationdate="20170719T093225Z">
+        <seg>ほとんどの場合、インクルーシブなWeb Componentsの作成は、アクセシブルでセマンティックなHTMLをいつものように作り出しているにすぎません。ただ、それを新しいAPIの中で行っているだけです。</seg>
       </tuv>
     </tu>
     <tu>
