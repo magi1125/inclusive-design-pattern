@@ -6825,8 +6825,8 @@ shadeには濃淡という意味もあるので、「ごくわずかな濃淡の
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;As illustrated, a clear differentiation by hue can be a faint differentiation by shade to some color blind users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171009T011406Z" creationid="rikiha" creationdate="20170727T124118Z">
-        <seg>色合いによる区別が明らかでも、色覚異常のユーザーにとっては、図のようにごくわずかな濃淡の違い程度にしか見えないこともあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T091443Z" creationid="rikiha" creationdate="20170727T124118Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;色合いによる区別が明らかでも、色覚異常のユーザーにとっては、図のようにごくわずかな濃淡の違い程度にしか見えないこともあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23421,8 +23421,8 @@ History APIのイチ機能の名前としてはpushStateで良いのではない
       <tuv lang="EN-US">
         <seg>Note the line starting &lt;g1&gt;window.location.hash&lt;/g1&gt; which updates the URL after focus with the hash fragment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170808T092634Z" creationid="rikiha" creationdate="20170805T163308Z">
-        <seg>window.location.hashで始まる行に注目してください。フォーカスを移した後に、このページのURLをハッシュフラグメントのついた形で更新しています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T091501Z" creationid="rikiha" creationdate="20170805T163308Z">
+        <seg>&lt;g1&gt;window.location.hash&lt;/g1&gt;で始まる行に注目してください。フォーカスを移した後に、このページのURLをハッシュフラグメントのついた形で更新しています。</seg>
       </tuv>
     </tu>
     <tu>
