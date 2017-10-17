@@ -5857,7 +5857,11 @@ Price:　→価格：</note>
 下訳:
 // 現在のページのすべての？？フラグメントリンク？？のアクティブ化を処理【コメント：定訳が確認できませんでした。原文「fragment links」】
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田)
+このquerySelectorの処理はフラグメントIDに " や ] が含まれていると予期せぬ動作になるかもしれない。訳注を書くべきか?
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g61&gt;||&lt;/g61&gt; document&lt;g62&gt;.&lt;/g62&gt;querySelector&lt;g63&gt;(&lt;/g63&gt;&lt;g64&gt;'a[name="'&lt;/g64&gt; &lt;g65&gt;+&lt;/g65&gt; id &lt;g66&gt;+&lt;/g66&gt; &lt;g67&gt;'"]'&lt;/g67&gt;&lt;g68&gt;)&lt;/g68&gt;&lt;g69&gt;;&lt;/g69&gt;
 &lt;g70&gt;}&lt;/g70&gt;
