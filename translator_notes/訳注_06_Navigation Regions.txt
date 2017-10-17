@@ -20,7 +20,7 @@ https://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt
 >今のところ、現在のページのリンクを視覚以外で区別する標準的なやり方はありません。
 
 訳注:
-現在では、WAI-ARIA1.1で追加されたaria-current属性を使うのが標準的な方法と言えるでしょう。スクリーンリーダーの対応も最近になって進んできており、2017年5月にリリースされたNVDA 2017.2では、aria-current="page"を「現在のページ」、aria-current="location"を「現在の位置」と読みあげるようになりました。すぐ下で紹介されている「The Accessible Current Page Link Conundrum」という記事では、aria-currentが提案中である旨が書かれています。原著のこの箇所が書かれた時点では、まだaria-currentは正式採用されていなかったものと思われます。
+現在では、WAI-ARIA1.1で追加されたaria-current属性を使うのが標準的な方法と言えるでしょう。スクリーンリーダーの対応も最近になって進んできており、2017年5月にリリースされたNVDA 2017.2では、aria-current="page"を「現在のページ」、aria-current="location"を「現在の位置」と読みあげるようになりました。ここで紹介されている「The Accessible Current Page Link Conundrum」という記事では、aria-currentが提案中である旨が書かれています。原著が書かれた時点では、まだaria-currentは正式採用されていなかったものと思われます。
 
 参考:
 Accessible Rich Internet Applications (WAI-ARIA) 1.1 - aria-current (state)
