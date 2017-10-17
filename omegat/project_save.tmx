@@ -27650,8 +27650,8 @@ impactは次の文に合わせて「効果」としました。
       <tuv lang="EN-US">
         <seg>Standard behavior is that only this checked &lt;g8&gt;&lt;input&gt;&lt;/g8&gt; is focusable by &lt;g9&gt;Tab&lt;/g9&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T033256Z" creationid="rikiha" creationdate="20170909T223330Z">
-        <seg>ブラウザの標準動作では、このチェックされた&lt;input&gt;だけがTabキーでフォーカス可能です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T093249Z" creationid="rikiha" creationdate="20170909T223330Z">
+        <seg>ブラウザの標準動作では、このチェックされた&lt;g8&gt;&lt;input&gt;&lt;/g8&gt;だけが&lt;g9&gt;Tab&lt;/g9&gt;キーでフォーカス可能です。</seg>
       </tuv>
     </tu>
     <tu>
