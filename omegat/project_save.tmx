@@ -15728,8 +15728,8 @@ VoiceOverは変な読みをするので訳注入れたいかも。
       <tuv lang="EN-US">
         <seg>I think &lt;g3&gt;&lt;g4&gt;&lt;g5&gt;aria-expanded&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;23&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt; is probably the solution here because it prompts screen readers to explicitly announce “collapsed” (&lt;g9&gt;false&lt;/g9&gt;) and “expanded” (&lt;g10&gt;true&lt;/g10&gt;).</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170822T085110Z" creationid="rikiha" creationdate="20170819T005237Z">
-        <seg>ここでは、&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;aria-expanded&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注120）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;が解決策となるでしょう。スクリーンリーダーに、明示的に「折りたたみ」（false）もしくは「展開」（true）と読み上げさせることができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T092919Z" creationid="rikiha" creationdate="20170819T005237Z">
+        <seg>ここでは、&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;aria-expanded&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;&lt;g6&gt;&lt;g7&gt;&lt;g8&gt;（脚注120）&lt;/g8&gt;&lt;/g7&gt;&lt;/g6&gt;が解決策となるでしょう。スクリーンリーダーに、明示的に「折りたたみ」（&lt;g9&gt;false&lt;/g9&gt;）もしくは「展開」（&lt;g10&gt;true&lt;/g10&gt;）と読み上げさせることができます。</seg>
       </tuv>
     </tu>
     <tu>
