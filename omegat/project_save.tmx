@@ -1798,8 +1798,8 @@ WAI-ARIAオーサリングプラクティス1.1の編集者の草案は、 開�
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;"address"&lt;/g2&gt;&lt;g3&gt;:&lt;/g3&gt; &lt;g4&gt;"85-87, Gwydir St, Cambridge, England, CB1 2LG"&lt;/g4&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170912T142759Z" creationid="rikiha" creationdate="20170912T142759Z">
-        <seg>"address": "85-87, Gwydir St, Cambridge, England, CB1 2LG"</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T084439Z" creationid="rikiha" creationdate="20170912T142759Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;"address"&lt;/g2&gt;&lt;g3&gt;:&lt;/g3&gt; &lt;g4&gt;"85-87, Gwydir St, Cambridge, England, CB1 2LG"&lt;/g4&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7632,8 +7632,8 @@ andの強調をどうするか。
       <tuv lang="EN-US">
         <seg>A hack is a symptom of &lt;g2&gt;bad design&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T093914Z" creationid="okamoto_jun" creationdate="20170627T093914Z">
-        <seg>ハック的であることは、悪いデザインの証拠です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T084402Z" creationid="okamoto_jun" creationdate="20170627T093914Z">
+        <seg>ハック的であることは、&lt;g2&gt;悪いデザイン&lt;/g2&gt;の証拠です。</seg>
       </tuv>
     </tu>
     <tu>
