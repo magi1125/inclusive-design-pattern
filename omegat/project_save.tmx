@@ -31527,12 +31527,14 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
 こんな感じかなと。
 essentiallyは本質的にとかですが、なくてもわかるので取りました。
 
-(伊原) なるほど、「反転」ですね。OK</note>
+(伊原) なるほど、「反転」ですね。OK
+
+(太田) ひとつ→1つ ふたつ→2つ</note>
       <tuv lang="EN-US">
         <seg>The second is essentially a negated version of the first.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T082522Z" creationid="rikiha" creationdate="20170925T014515Z">
-        <seg>ふたつめのセレクタは、ひとつめのセレクタを反転したものになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T073335Z" creationid="rikiha" creationdate="20170925T014515Z">
+        <seg>2つめのセレクタは、1つめのセレクタを反転したものになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34066,12 +34068,14 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
 
 (岡本)　2つ→ふたつ
 
-(太田) OK</note>
+(太田) OK
+
+(太田) ふたつ→2つ</note>
       <tuv lang="EN-US">
         <seg>This requires two more test selectors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170929T021723Z" creationid="rikiha" creationdate="20170925T014514Z">
-        <seg>これを確認するには、さらにふたつのテストセレクタが必要です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T073316Z" creationid="rikiha" creationdate="20170925T014514Z">
+        <seg>これを確認するには、さらに2つのテストセレクタが必要です。</seg>
       </tuv>
     </tu>
     <tu>
