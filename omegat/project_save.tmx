@@ -40643,8 +40643,8 @@ lorem ipsum は訳注いりますかね?
       <tuv lang="EN-US">
         <seg>Note that forceFeed.js needs a wrapper element to work, so let’s pretend we’ve used a script to place a &lt;g4&gt;&lt;span&gt;&lt;/g4&gt; around the title before the link.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T120732Z" creationid="rikiha" creationdate="20170922T120732Z">
-        <seg>forceFeed.jsを機能させるには、データを流し込む箇所をくくる要素が必要なことに注意してください。ここではスクリプトを使って、リンクの前にあるタイトルを&lt;span&gt;で囲んだとしましょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T093423Z" creationid="rikiha" creationdate="20170922T120732Z">
+        <seg>forceFeed.jsを機能させるには、データを流し込む箇所をくくる要素が必要なことに注意してください。ここではスクリプトを使って、リンクの前にあるタイトルを&lt;g4&gt;&lt;span&gt;&lt;/g4&gt;で囲んだとしましょう。</seg>
       </tuv>
     </tu>
     <tu>
