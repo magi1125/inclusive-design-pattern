@@ -9773,8 +9773,8 @@ hone は砥石でとぐような意味。
       <tuv lang="EN-US">
         <seg>As you can see, now that I’m piggybacking the &lt;g1&gt;HTMLButtonElement&lt;/g1&gt;, I have been able to exclude the &lt;g2&gt;tabindex&lt;/g2&gt; and &lt;g3&gt;role&lt;/g3&gt; attributes, as well as the ugly &lt;g4&gt;keydown&lt;/g4&gt; event dispatching script.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T033257Z" creationid="yoota" creationdate="20170719T092750Z">
-        <seg>ご覧のとおり、&lt;g1&gt;HTMLButtonElement&lt;/g1&gt;をベースにしているため、tabindex属性とrole属性だけでなく、keydownイベントをディスパッチする見苦しいスクリプトも書かずにすみました。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171017T091434Z" creationid="yoota" creationdate="20170719T092750Z">
+        <seg>ご覧のとおり、&lt;g1&gt;HTMLButtonElement&lt;/g1&gt;をベースにしているため、&lt;g2&gt;tabindex&lt;/g2&gt;属性と&lt;g3&gt;role&lt;/g3&gt;属性だけでなく、&lt;g4&gt;keydown&lt;/g4&gt;イベントをディスパッチする見苦しいスクリプトも書かずにすみました。</seg>
       </tuv>
     </tu>
     <tu>
