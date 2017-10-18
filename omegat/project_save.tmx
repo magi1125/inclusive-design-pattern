@@ -15877,8 +15877,8 @@ yourなどをどうにか訳出するべきか?
       <tuv lang="EN-US">
         <seg>If JavaScript was used to construct the content in the client, all I would see is the code for the outer web page, with its link(s) to the JavaScript which &lt;g7&gt;curl&lt;/g7&gt; is unable to run.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170601T095608Z" creationid="rikiha" creationdate="20170527T140052Z">
-        <seg>JavaScriptによってクライアントでコンテンツを構築しているケースでは、&lt;g7&gt;curl&lt;/g7&gt;が実行できないJavaScriptへのリンクを含んだWebページの外枠のコードだけが表示されることになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T054304Z" creationid="rikiha" creationdate="20170527T140052Z">
+        <seg>JavaScriptによってクライアント側でコンテンツを構築しているケースでは、Webページの外枠のコードだけしか表示されません。JavaScriptのコードへのリンクも得られますが、これは&lt;g7&gt;curl&lt;/g7&gt;では実行できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24163,8 +24163,8 @@ some screen readers will は「スクリーンリーダーは……ことがあ�
       <tuv lang="EN-US">
         <seg>On a bus, and without a set of headphones handy, I might want to be shown &lt;g3&gt;and&lt;/g3&gt; told, but without blaring audio at my fellow passengers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170615T061656Z" creationid="yoota" creationdate="20170606T100202Z">
-        <seg>目で見ながら&lt;g3&gt;かつ&lt;/g3&gt;トークも聞きたいけれど、バスに乗っていてヘッドフォンがなく、しかし他の乗客に耳障りな音は聞かせられない、という場合もあるでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T054414Z" creationid="yoota" creationdate="20170606T100202Z">
+        <seg>映像を見ながら&lt;g3&gt;かつ&lt;/g3&gt;トークも聞きたいけれど、バスに乗っていてヘッドフォンがなく、しかし他の乗客に耳障りな音は聞かせられない、という場合もあるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
