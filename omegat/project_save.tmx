@@ -41703,7 +41703,10 @@ confidenceをどうするか難しいですね。コードの信頼性を担保�
 としてみました。
 ここのイテレーションはデプロイの反復みたいな意味なので、まあそのままイテレーションですかね。
 
-(伊原) なるほど、ありがとうございます。OK</note>
+(伊原) なるほど、ありがとうございます。OK
+
+(太田)
+文章を短縮</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;Test-driven development&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;1&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; (TDD) allows developers working with frequent iterations to move forward with confidence.</seg>
       </tuv>
@@ -41724,8 +41727,8 @@ confidenceをどうするか難しいですね。コードの信頼性を担保�
       <tuv lang="EN-US">
         <seg>By writing tests first, to prescribe outcomes, then creating the functionality to achieve them, you can ensure successful builds behave in a predictable and reliable fashion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T085708Z" creationid="rikiha" creationdate="20170925T014158Z">
-        <seg>まずテストを書いて期待される結果を定義してから、それを満たすように機能を作ることで、ビルドに成功したものが想定通り確実に動作することを保証できます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T100540Z" creationid="rikiha" creationdate="20170925T014158Z">
+        <seg>まずテストを書いて期待される結果を定義し、それを満たすように機能を作ることで、ビルドに成功したものが想定通り確実に動作することを保証できます。</seg>
       </tuv>
     </tu>
     <tu>
