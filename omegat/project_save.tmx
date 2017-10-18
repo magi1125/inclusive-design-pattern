@@ -35040,12 +35040,16 @@ lang="zh-CN" でVoiceOverで読ませると中国語として読むのだろう�
 多少調整してみましたがわかりにくさが否めないのでもう少し練りたいところ。
 
 (伊原) 確かに「編集者のWYSIWYGまたはMarkdownエディタに組み込まれているフロー要素とは独立した規則性」は何を指しているのかわかりにくいですね。
-ひとまずWYSIWYGはここが初出なので訳を移動してきました。</note>
+ひとまずWYSIWYGはここが初出なので訳を移動してきました。
+
+(太田)
+文章短縮がてら大幅調整。たぶんこういうことかと。
+</note>
       <tuv lang="EN-US">
         <seg>To enforce a regularity independent of the flow elements incorporated in the editor’s WYSIWYG or Markdown editor, this basic spacing should be applied generally, with just a few exceptions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170619T152954Z" creationid="yoota" creationdate="20170614T095756Z">
-        <seg>編集者のWYSIWYG（what you see is what you get：最終的なアウトプットのスタイルのまま編集できる）またはMarkdownエディタに組み込まれているフロー要素とは独立した規則性を強制するためには、少数の例外を除き、この基本の間隔を全体に適用する必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T104602Z" creationid="yoota" creationdate="20170614T095756Z">
+        <seg>編集者のWYSIWYG（what you see is what you get：最終的に出力されるスタイルのまま編集できる）やMarkdownエディタによって出力されるフロー要素にもこの規則を強制するために、少数の例外を除いて、この基本の間隔を全体に適用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
