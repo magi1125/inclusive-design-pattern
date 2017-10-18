@@ -16122,6 +16122,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
+      <note>(太田)
+伊原さん調整を反映</note>
       <tuv lang="EN-US">
         <seg>If the user adjusts their browser’s default font size independently, the image (which has been defined using pixels rather than relative units) will not scale at all.</seg>
       </tuv>
