@@ -22577,12 +22577,14 @@ commercial offerは「商材」?
 wouldを尊重して「なるでしょう」としてみました。
 
 (伊原) OK
-</note>
+
+(太田)
+文章短縮のため「しかし」トリ</note>
       <tuv lang="EN-US">
         <seg>Nonetheless, if it did employ Shadow DOM, this would become impossible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170720T054303Z" creationid="yoota" creationdate="20170719T093927Z">
-        <seg>しかし、Shadow DOMを採用すれば、それは不可能になるでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T090212Z" creationid="yoota" creationdate="20170719T093927Z">
+        <seg>Shadow DOMを採用すれば、それは不可能になるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31849,12 +31851,14 @@ Theを「先に挙げた」と訳出してみました。
 (岡本)
 関連付け→関連づけ
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田) 文章短縮</note>
       <tuv lang="EN-US">
         <seg>The toggle button example does not use Shadow DOM, so could still associate itself with an element of ID &lt;g1&gt;#toggleTarget&lt;/g1&gt; using &lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170720T113008Z" creationid="yoota" creationdate="20170719T093921Z">
-        <seg>先に挙げたトグルボタンの例はShadow DOMを使っていないので、&lt;g1&gt;#toggleTarget&lt;/g1&gt;というIDの要素があれば、&lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;を使って関連づけることができます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T090153Z" creationid="yoota" creationdate="20170719T093921Z">
+        <seg>先に挙げたトグルボタンの例はShadow DOMを使っていないので、&lt;g1&gt;#toggleTarget&lt;/g1&gt;というIDの要素があれば、&lt;g2&gt;aria-controls="toggleTarget"&lt;/g2&gt;で関連づけられます。</seg>
       </tuv>
     </tu>
     <tu>
