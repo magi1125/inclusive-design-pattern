@@ -12031,7 +12031,9 @@ CSSが読み込まれなくてもというのは、もしかして「一部のCS
 (伊原) 1.5rem➞1.5emに修正。いくつかの例外を除き、とのことですが、そんな例外あったっけ？という疑問が。
 …あ、下記のリスト項目の話が「例外」なのですね。とすると語順を変えたほうがよさそうです。対応してみました。
 
-(太田) OK</note>
+(太田) OK
+
+</note>
       <tuv lang="EN-US">
         <seg>Currently, every flow element is separated by the same 1.5em margin, with a few exceptions.</seg>
       </tuv>
@@ -21678,12 +21680,14 @@ manageは管理で良いような。
 「余白を取らない」という表現はやや違和感あり。
 「マージンがまったくない」としました。
 
-(伊原) OK</note>
+(伊原) OK
+
+</note>
       <tuv lang="EN-US">
         <seg>List items (&lt;g1&gt;&lt;li&gt;&lt;/g1&gt;s) do not take margin at all and consequently look grouped together.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T103526Z" creationid="yoota" creationdate="20170614T102402Z">
-        <seg>リスト項目（&lt;g1&gt;&lt;li&gt;&lt;/g1&gt;）にはマージンがまったくないため、結果としてグループ化されているように見えます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T105359Z" creationid="yoota" creationdate="20170614T102402Z">
+        <seg>リスト項目（&lt;g1&gt;&lt;li&gt;&lt;/g1&gt;）にはマージンがまったくなく、結果としてグループ化されているように見えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27200,8 +27204,8 @@ WCAG日本語訳で「コンテキスト」という言葉を使っているの�
       <tuv lang="EN-US">
         <seg>So they should: for the sake of comprehension on the part of the reader, related elements should be visually proximate.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T103717Z" creationid="yoota" creationdate="20170614T103610Z">
-        <seg>そして、そうであるべきなのです。読者の理解を助けるために、関連する要素は視覚的に近接させる必要があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T105401Z" creationid="yoota" creationdate="20170614T103610Z">
+        <seg>そして、そうであるべきです。読者の理解を助けるために、関連する要素は視覚的に近接させる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
