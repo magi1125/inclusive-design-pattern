@@ -16125,8 +16125,8 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       <tuv lang="EN-US">
         <seg>If the user adjusts their browser’s default font size independently, the image (which has been defined using pixels rather than relative units) will not scale at all.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100438Z" creationid="okamoto_jun" creationdate="20170627T100438Z">
-        <seg>ユーザーがブラウザのデフォルトフォントサイズを独自に調整した場合、画像（相対単位ではなく、ピクセルでサイズ指定されたもの）は拡大縮小されません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T053425Z" creationid="okamoto_jun" creationdate="20170627T100438Z">
+        <seg>ユーザーが独自にブラウザのフォントサイズを調整しても、画像（相対単位ではなく、ピクセルでサイズ指定されたもの）が拡大されて読みやすくなることはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28690,8 +28690,8 @@ hats-All-Very-Well-But/dp/B000007219
       <tuv lang="EN-US">
         <seg>That’s if the user operates full page zoom.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T100420Z" creationid="okamoto_jun" creationdate="20170627T100420Z">
-        <seg>ただし、これはユーザーがページ全体を拡大した場合の話です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T053410Z" creationid="okamoto_jun" creationdate="20170627T100420Z">
+        <seg>なお、これはユーザーがページ全体を拡大した場合の話です。</seg>
       </tuv>
     </tu>
     <tu>
