@@ -1618,8 +1618,10 @@ Kenny Mulbarton→ケニー・マルバートン</note>
 &lt;/g17&gt;    &lt;g18&gt;// because we’re handling this with XHR
 &lt;/g18&gt;    event&lt;g19&gt;.&lt;/g19&gt;preventDefault&lt;g20&gt;(&lt;/g20&gt;&lt;g21&gt;)&lt;/g21&gt;&lt;g22&gt;;&lt;/g22&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170915T021406Z">
-        <seg>&lt;g17&gt;// XHRで処理するため、&lt;/g17&gt;    &lt;g18&gt;// ブラウザがフォームを送信しないようにする&lt;/g18&gt;    event&lt;g19&gt;.&lt;/g19&gt;preventDefault&lt;g20&gt;(&lt;/g20&gt;&lt;g21&gt;)&lt;/g21&gt;&lt;g22&gt;;&lt;/g22&gt;</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T123620Z">
+        <seg>&lt;g17&gt;// XHRで処理するため、
+&lt;/g17&gt;    &lt;g18&gt;// ブラウザがフォームを送信しないようにする&lt;/g18&gt;
+    event&lt;g19&gt;.&lt;/g19&gt;preventDefault&lt;g20&gt;(&lt;/g20&gt;&lt;g21&gt;)&lt;/g21&gt;&lt;g22&gt;;&lt;/g22&gt;</seg>
       </tuv>
     </tu>
     <tu>
