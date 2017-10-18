@@ -20903,7 +20903,9 @@ undesiredは「不要」よりもう少し強いかも。直訳すると望ま�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+</note>
       <tuv lang="EN-US">
         <seg>I’ve had a blog for several years and it’s been through four to five design iterations.</seg>
       </tuv>
@@ -34778,12 +34780,15 @@ Accessible Nameのママでもいいのかも。
 「クライアントから依頼された」と補ってみました。
 「クライアントワークが完了する」ですが、日本語でこう書くと肯定的な表現に見えます。ここでは時間が無いために完了させられてしまった、という話のはずなので、「打ち切られる」としてみました。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+(太田)
+伊原さん調整を反映</note>
       <tuv lang="EN-US">
         <seg>Time is a luxury we often can’t afford on client projects — which is why client work sometimes gets finished, I suppose.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170523T022912Z" creationid="yoota" creationdate="20170512T065646Z">
-        <seg>クライアントから依頼されたプロジェクトでは、贅沢に時間を掛ける余裕はない場合が多い ――時にはこの理由で、クライアントワークが打ち切られることもあるでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T054158Z" creationid="yoota" creationdate="20170512T065646Z">
+        <seg>しかし、時間は貴重なものです。特にクライアントから依頼されたプロジェクトでは──時にはこの理由で、作業が途中で打ち切られることもあるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
