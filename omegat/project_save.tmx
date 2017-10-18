@@ -20044,12 +20044,18 @@ It’s a mixed bag がスルーされていますね。
 
 (伊原) from elements なので、フォームの各要素としました。
 
-(太田) OK</note>
+(太田) OK
+
+
+(太田)
+文章短縮
+It’s a mixed bagは結局トリました……。
+</note>
       <tuv lang="EN-US">
         <seg>It’s a mixed bag: form elements piggyback OS functionality and are keyboard and screen reader accessible as standard — at least when marked up correctly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171009T031641Z" creationid="bakera" creationdate="20170924T042330Z">
-        <seg>いろいろあります。まず、フォームの各要素が必要です。OSの機能を利用し、標準でキーボードとスクリーンリーダーにとってアクセシブルなものです――少なくとも正確にマークアップされている場合には。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T081820Z" creationid="bakera" creationdate="20170924T042330Z">
+        <seg>まず、フォームの各要素が必要です。OSの機能を利用し、標準でキーボードやスクリーンリーダーでアクセスできるものです──少なくとも適切にマークアップされている場合には。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21948,12 +21954,14 @@ dangerous territory はどうするか。危険な考え、としてみました
 おそらくここのcontributeは寄稿するに近い意味で、読むだけでなく書くこともできるべきという話のように思います。
 参加とか?
 
-(伊原) フォームが→フォームを。参加でOKかなと。</note>
+(伊原) フォームが→フォームを。参加でOKかなと。
+
+(太田) 文章短縮</note>
       <tuv lang="EN-US">
         <seg>Making sure forms are inclusive is paramount, because all people should be able to contribute to and not just consume the web.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T152349Z" creationid="bakera" creationdate="20170924T042327Z">
-        <seg>フォームをインクルーシブにすることは、きわめて重要です。すべての人は、Webをただ消費するだけでなく、参加できなければならないからです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T081654Z" creationid="bakera" creationdate="20170924T042327Z">
+        <seg>フォームをインクルーシブにして、すべての人がWebをただ消費するだけでなく、参加できるようにすることはきわめて重要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27268,12 +27276,15 @@ The Office はイギリスのコメディドラマのようですね。
       <note>(太田)
 「対応」は固すぎ・意味を限定しすぎに思ったのですこしふんわりと。
 
-(伊原) OK</note>
+(伊原) OK
+
+
+(太田) 文章短縮</note>
       <tuv lang="EN-US">
         <seg>So, what are we dealing with?</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T054014Z" creationid="bakera" creationdate="20170924T042329Z">
-        <seg>そのために何が必要になるでしょうか？</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T081722Z" creationid="bakera" creationdate="20170924T042329Z">
+        <seg>そのために何が必要でしょうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -36878,12 +36889,14 @@ http://www.itmedia.co.jp/im/articles/0410/30/news013.html
       <note>(太田)
 OK
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田) 文章短縮</note>
       <tuv lang="EN-US">
         <seg>Web forms take care of the input part.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170924T042325Z" creationid="bakera" creationdate="20170924T042325Z">
-        <seg>Webフォームは、入力の部分を担います。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T081706Z" creationid="bakera" creationdate="20170924T042325Z">
+        <seg>Webフォームは入力を担います。</seg>
       </tuv>
     </tu>
     <tu>
