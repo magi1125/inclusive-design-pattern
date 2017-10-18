@@ -29944,12 +29944,14 @@ https://www.w3.org/WAI/tutorials/images/complex/#description-containing-textual-
     <tu>
       <note>(伊原) LGTM
 
-(岡本) 1つ→ひとつ</note>
+(岡本) 1つ→ひとつ
+
+(太田) 文章を短縮</note>
       <tuv lang="EN-US">
         <seg>The article uses bandwidth as another exemplar: a web app that’s performant on the most unreliable mobile network is, therefore, performant everywhere.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T071415Z" creationid="yoota" creationdate="20170510T072818Z">
-        <seg>この記事では、もうひとつの例として帯域幅を取り上げ、最も信頼性が低いモバイルネットワーク上で高い性能を発揮できるWebアプリケーションは、どこでも高い性能を発揮できるとしています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T074236Z" creationid="yoota" creationdate="20170510T072818Z">
+        <seg>この記事では帯域幅の例も取り上げ、信頼性が低いモバイルネットワークで高い性能を発揮できるWebアプリケーションは、どこでも高い性能を発揮できるとしています。</seg>
       </tuv>
     </tu>
     <tu>
