@@ -41778,12 +41778,14 @@ my は「自作の」くらいですかね。
 おっしゃる通り、このfunctionは関数だと思います。
 ざっくり意訳気味に調整しました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田) 文章短縮</note>
       <tuv lang="EN-US">
         <seg>In application development, tests are usually written against functions and what those functions are expected to produce.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T090440Z" creationid="rikiha" creationdate="20170925T014213Z">
-        <seg>アプリケーション開発では通常、関数に対してテストを書き、それらの関数が予期したとおりの結果を返しているかどうかを確認します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T101341Z" creationid="rikiha" creationdate="20170925T014213Z">
+        <seg>アプリケーション開発では通常、関数に対してテストを書き、予期した結果を返すか確認します。</seg>
       </tuv>
     </tu>
   </body>
