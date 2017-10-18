@@ -21924,12 +21924,14 @@ dangerous territory はどうするか。危険な考え、としてみました
 (太田)
 好みですが、そうしました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田) 文章短縮</note>
       <tuv lang="EN-US">
         <seg>Making assumptions about the way visitors enter and move through your app is dangerous territory anyway, but for certain users the usability here is even more aggravating.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171008T133053Z" creationid="bakera" creationdate="20170925T102320Z">
-        <seg>ユーザーがどのようにアプリケーションに入り、どのように移動するかを決めつけるのは危険な考えですが、それはさておき、ここには特定のユーザーをいらだたせるユーザビリティの問題があります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T083941Z" creationid="bakera" creationdate="20170925T102320Z">
+        <seg>ユーザーがどこから来てどのように移動するかを決めつけるのは危険ですが、それはさておき、ここには特定のユーザーをいらだたせるユーザビリティの問題があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25911,12 +25913,14 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
       <note>(太田)
 微調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田) 文章短縮</note>
       <tuv lang="EN-US">
         <seg>Screen reader operators traversing the page from top to bottom methodically will not realize the option to register is present unless they go past the login form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T115239Z" creationid="bakera" creationdate="20170925T102321Z">
-        <seg>スクリーンリーダーを使ってページを上から下に順に読むユーザーは、ログインフォームを通り過ぎない限り、登録オプションの存在を知ることができません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T084005Z" creationid="bakera" creationdate="20170925T102321Z">
+        <seg>スクリーンリーダーでページを上から順に読むユーザーは、ログインフォームを通り過ぎない限り、登録オプションの存在を知ることができません。</seg>
       </tuv>
     </tu>
     <tu>
