@@ -10267,12 +10267,14 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
       <note>(太田)
 補いつつ調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田) 文章短縮</note>
       <tuv lang="EN-US">
         <seg>Before diving into constructing the registration form itself, it’s worth acknowledging the context in which we are likely to find it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T081344Z" creationid="bakera" creationdate="20170924T042338Z">
-        <seg>登録フォーム自体を構築する前に、ユーザーがそのフォームに遭遇する際のコンテキストを理解しておくことが大切です。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T082951Z" creationid="bakera" creationdate="20170924T042338Z">
+        <seg>登録フォームを構築する前に、ユーザーがフォームに遭遇するコンテキストを理解しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12244,8 +12246,8 @@ can’t be helped は避けられない、仕方ない。
       <tuv lang="EN-US">
         <seg>Despite the virtues of modularity, it can’t be helped that some patterns are informed by context and are better designed where context is considered first.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T040910Z" creationid="bakera" creationdate="20170924T042339Z">
-        <seg>モジュール化にはメリットがありますが、パターンもコンテキストの影響を受けることがあり、コンテキストを最初に考慮することでさらに良いデザインになることがあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T083138Z" creationid="bakera" creationdate="20170924T042339Z">
+        <seg>モジュール化にはメリットがありますが、パターンもコンテキストの影響を受けることがあり、コンテキストを考慮することでより良いデザインになることがあります。</seg>
       </tuv>
     </tu>
     <tu>
