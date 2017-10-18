@@ -41723,12 +41723,14 @@ confidenceをどうするか難しいですね。コードの信頼性を担保�
 期待される結果を定義するためにテストを書く、というニュアンスかなと。テストファーストというのが重要です。
 調整してみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+(太田) 文章短縮</note>
       <tuv lang="EN-US">
         <seg>By writing tests first, to prescribe outcomes, then creating the functionality to achieve them, you can ensure successful builds behave in a predictable and reliable fashion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171018T100540Z" creationid="rikiha" creationdate="20170925T014158Z">
-        <seg>まずテストを書いて期待される結果を定義し、それを満たすように機能を作ることで、ビルドに成功したものが想定通り確実に動作することを保証できます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171018T100826Z" creationid="rikiha" creationdate="20170925T014158Z">
+        <seg>まずテストを書いて期待される結果を定義し、それを満たすように機能を作ることで、ビルドに成功したものが想定通り動作することを保証できます。</seg>
       </tuv>
     </tu>
     <tu>
