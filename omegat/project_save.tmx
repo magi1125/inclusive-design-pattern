@@ -3280,7 +3280,11 @@ OK
 
 (伊原) 初校PDFでダッシュの長さが違うっぽい。DTPマター、岡本さん確認
 
-(岡本) １つしかないんですね。揃えます。</note>
+(岡本) １つしかないんですね。揃えます。
+
+【電書チェック】
+書く（強調）、あるいは表現（強調）する　→　書いたり表現したりするもの
+となっている。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Content — what we &lt;g2&gt;write&lt;/g2&gt; or otherwise &lt;g3&gt;express&lt;/g3&gt; via the web — must be subject to design thinking and, in fact, all other design decisions should facilitate that.</seg>
       </tuv>
@@ -4487,6 +4491,8 @@ http://adrianroselli.com/2015/10/dont-disable-zoom.html
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+コードを使って、の強調漏れ（DTP仕様から強調にしていない）</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The web is made of code and must be designed, therefore designing &lt;g2&gt;with&lt;/g2&gt; code is working with the right materials.</seg>
       </tuv>
@@ -28787,6 +28793,8 @@ hats-All-Very-Well-But/dp/B000007219
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+まったく（強調）のヌケ</note>
       <tuv lang="EN-US">
         <seg>That’s not like the web &lt;g1&gt;at all&lt;/g1&gt;, but it doesn’t stop us pouring wasted energy into pointless frippery like pixel perfection and organizing ourselves into those two ill-defined, arbitrary groups, designers and developers.</seg>
       </tuv>
@@ -31987,6 +31995,8 @@ bite my tongue のようなヘイドンフレーズを生かすべきか。
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+熟慮すること、の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>The truth is, design work is &lt;g1&gt;deliberation&lt;/g1&gt;.</seg>
       </tuv>
