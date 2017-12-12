@@ -7558,7 +7558,10 @@ andの強調をどうするか。
     <tu>
       <note>(太田) ここのlargeは文字の大きさではなくフォントの数の話と思われます。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+【電書チェック】
+言えます　→　いえます　　と修正</note>
       <tuv lang="EN-US">
         <seg>A font that supports a large, international character set is an inclusive font.</seg>
       </tuv>
@@ -10739,7 +10742,10 @@ have you believe で「あなたに信じさせる」
     </tu>
     <tu>
       <note>(太田) 「画面で見ないと意味をなさない」ということは実際にはあまりなくて、「画面でブラウズしているときでないと意味がない」というものが多いです。ナビゲーションなどは、印刷されたときちゃんと見えますし意味もわかりますが、操作ができないので無意味だという話です。
-ということで「見る」に特化した訳ではないほうが良いと思います。</note>
+ということで「見る」に特化した訳ではないほうが良いと思います。
+
+【電書チェック】
+皆が　→　誰もが　　に修正</note>
       <tuv lang="EN-US">
         <seg>But not everyone is like me, and making sure printed pages do not contain page elements which are only relevant when browsing on-screen is an act of considerate, inclusive design.</seg>
       </tuv>
