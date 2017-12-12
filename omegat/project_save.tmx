@@ -1239,6 +1239,13 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+skip to main content　→　メインコンテンツに移動　　　と修正</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g127&gt;&lt;g128&gt;&lt;g129&gt;&lt;&lt;/g129&gt;a&lt;/g128&gt; &lt;g130&gt;href&lt;/g130&gt;&lt;g131&gt;&lt;g132&gt;=&lt;/g132&gt;"#main"&lt;/g131&gt;&lt;g133&gt;&gt;&lt;/g133&gt;&lt;/g127&gt;skip to main content&lt;g134&gt;&lt;g135&gt;&lt;g136&gt;&lt;/&lt;/g136&gt;a&lt;/g135&gt;&lt;g137&gt;&gt;&lt;/g137&gt;&lt;/g134&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原：初校PDF確認コメント）コメント未訳
 
 (太田)
@@ -5284,7 +5291,10 @@ OmegaT上では訳されているので、DTPの問題か反映タイミング�
 
 レンダリングをブロックしないということだと思います。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+このコメントの前の空き行がつまってしまっている。</note>
       <tuv lang="EN-US">
         <seg>&lt;g35&gt;&lt;!-- a non-blocking base64 encoded font resource --&gt;&lt;/g35&gt;</seg>
       </tuv>
