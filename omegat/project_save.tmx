@@ -12678,7 +12678,10 @@ Essentially, this means you can employ implicitly responsive text without the ne
     </tu>
     <tu>
       <note>(岡本)
-邪魔→じゃま</note>
+邪魔→じゃま
+
+【電書チェック】
+組み合わせる　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>Even so, &lt;g1&gt;combining&lt;/g1&gt; simple, standard elements and conventional structures empathetically needn’t be difficult, nor impede artistic flair: our &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; can still be presented in a near-infinite number of ways.</seg>
       </tuv>
@@ -17819,6 +17822,8 @@ crypticは「暗号めいた」という感じですが、「もったいぶっ�
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+既にデザインされた　強調漏れ</note>
       <tuv lang="EN-US">
         <seg>In other words, they know when to design and when to employ what is &lt;g1&gt;already designed&lt;/g1&gt; — a simple HTML button element, provided as standard by the HTML specification.</seg>
       </tuv>
@@ -25578,6 +25583,8 @@ DOMに役割(role)、プロパティ、状態(state)、ラベル、値などの�
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+シンプル　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>Resizable, translatable, focusable, interoperable, stylable, restylable, maintainable, mutable, &lt;g2&gt;simple&lt;/g2&gt;.</seg>
       </tuv>
@@ -38406,6 +38413,9 @@ descriptive説明的でいいのか。
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+
+インクルーシブな　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>With experience, identifying the countless &lt;g1&gt;inclusive&lt;/g1&gt; solutions to interface design problems can become second nature.</seg>
       </tuv>
