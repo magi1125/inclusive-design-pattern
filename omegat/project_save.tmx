@@ -4399,6 +4399,8 @@ text要素はSVGの中に入っている、ということが伝わりやすい�
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+あらゆる人間、の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The potential audience of a website or app is &lt;g2&gt;anyone human&lt;/g2&gt;.</seg>
       </tuv>
@@ -7654,6 +7656,8 @@ andの強調をどうするか。
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+悪いデザイン、の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>A hack is a symptom of &lt;g2&gt;bad design&lt;/g2&gt;.</seg>
       </tuv>
@@ -33820,7 +33824,10 @@ dispense with X でXなしで済ます、というような意味。
     </tu>
     <tu>
       <note>(太田)
-「脆弱」はvulnerableの訳語として定着しているので避けたいです。</note>
+「脆弱」はvulnerableの訳語として定着しているので避けたいです。
+
+【電書チェック】
+脆い→もろい　となっている</note>
       <tuv lang="EN-US">
         <seg>This is what some might refer to as &lt;g1&gt;hacky&lt;/g1&gt;: a fragile and unfortunately complex workaround.</seg>
       </tuv>
