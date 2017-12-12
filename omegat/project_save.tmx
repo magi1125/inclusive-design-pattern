@@ -24822,6 +24822,8 @@ confusingは分かりにくいというよりも、混乱を招くという感�
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+使わなければならない　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>Others &lt;g3&gt;must&lt;/g3&gt; use a keyboard, because a mouse requires a finer motor control than they can muster.</seg>
       </tuv>
@@ -31627,6 +31629,8 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+ひとつ　→　１つ　となっている</note>
       <tuv lang="EN-US">
         <seg>The second designer has many of the same skills exhibited by the first, but differs in one important aspect: they have enough knowledge of HTML, CSS and JavaScript to make their button appear inside a web page, and attach a JavaScript event listener to it.</seg>
       </tuv>
@@ -35772,6 +35776,8 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+コードによるデザイン　強調漏れ</note>
       <tuv lang="EN-US">
         <seg>Unfortunately, aside from the event listener, all they’re really doing is encoding graphic design, not &lt;g1&gt;designing with code&lt;/g1&gt;.</seg>
       </tuv>
