@@ -7209,7 +7209,10 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
     <tu>
       <note>(太田) 「効果がありました」を少し補って「読みやすさにつながります」としました。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+【電書チェック】
+d b　　強調漏れ</note>
       <tuv lang="EN-US">
         <seg>A &lt;g8&gt;d&lt;/g8&gt; and &lt;g9&gt;b&lt;/g9&gt; which were &lt;g10&gt;not&lt;/g10&gt; an exact mirror image of one another also helped, as well as a clear distinction between an uppercase &lt;g11&gt;I&lt;/g11&gt;, lowercase &lt;g12&gt;l&lt;/g12&gt; and &lt;g13&gt;1&lt;/g13&gt;.</seg>
       </tuv>
@@ -20519,6 +20522,9 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
 (太田)
 すこし文章を短縮。
 
+【電書チェック】
+読みやすい　強調漏れ
+
 </note>
       <tuv lang="EN-US">
         <seg>It’s important to note that &lt;g1&gt;legible&lt;/g1&gt; body text for folks with reading disorders such as dyslexia is also &lt;g2&gt;pleasant&lt;/g2&gt; body text for those who have less trouble reading.</seg>
@@ -27595,7 +27601,10 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
 (参考: G103 アイデア、事象及びプロセスの説明を理解しやすくするために、視覚的な図画、写真及びシンボルを提供する&lt;http://waic.jp/docs/WCAG-TECHS/G103&gt;)
 力強く意訳して「学習障害のある人や読み書きが困難な人にとっては、画像やその他の媒体にはテキストにない価値があります」くらいにしてしまったほうが分かりやすくなるかもしれません。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+【電書チェック】
+第一の　　強調漏れ</note>
       <tuv lang="EN-US">
         <seg>Some say [a picture paints a thousand words], but I prefer the contrary expression: "“Never send a picture to do the job of words.” Text is the most direct and efficient way of communicating information and — though imagery and other media have supplemental value for those who learn better visually or have literacy issues — it should be treated as &lt;g1&gt;primary&lt;/g1&gt;.</seg>
       </tuv>
