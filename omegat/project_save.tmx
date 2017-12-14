@@ -13580,6 +13580,9 @@ incorporatesの訳が漏れてますね。
 (伊原) たとえば　が重なるので、例として　としました。
 min-widthにremを使われると例としてはわかりにくいですね…。
 
+【電書チェック】
+一緒　→　いっしょ　　と修正
+
 
 
 
@@ -26305,7 +26308,13 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
 
 (伊原) LGTM. 「パラグラフを含んでいる要素の幅」ぐらい開いてもいいかもしれませんが。
 
-(太田) すぐ下でコンテナと言っているので「コンテナ要素」としてしまいました。</note>
+(太田) すぐ下でコンテナと言っているので「コンテナ要素」としてしまいました。
+
+【電書チェック】
+賢い　→　かしこい
+応じて改行されるようにする必要があるためです。　→　応じた改行が必要だからです。
+
+と修正。</note>
       <tuv lang="EN-US">
         <seg>Setting paragraphs’ measure directly is unwise, since in responsive and modular layouts they should wrap according to their containing element.</seg>
       </tuv>
@@ -37336,6 +37345,9 @@ formとformのジョーク。どうしたものか。
     </tu>
     <tu>
       <note>(太田) ここのgetは「得る」というより「出会う」という感じでしょうか。
+
+【電書チェック】
+まったく　→　全く　　　と修正
 </note>
       <tuv lang="EN-US">
         <seg>What we get is, in fact, a completely different user.</seg>
