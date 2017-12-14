@@ -2776,6 +2776,13 @@ describe&lt;g15&gt;(&lt;/g15&gt;&lt;g16&gt;'Addモジュール'&lt;/g16&gt;&lt;g
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+コードの頭に　p  が入っている</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;[href^=&lt;g2&gt;"http"&lt;/g2&gt;]&lt;g3&gt;:&lt;/g3&gt;not([href*=&lt;g4&gt;"heydonworks.com"&lt;/g4&gt;])&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;site:shop.the-photography-site.com [search term] &lt;/g1&gt;</seg>
       </tuv>
@@ -19768,7 +19775,10 @@ OK
 
 (伊原) LGTM
 
-(岡本) お勧め→おすすめ</note>
+(岡本) お勧め→おすすめ
+
+【電書チェック】
+控えめ　→　ひかえめ　　に修正</note>
       <tuv lang="EN-US">
         <seg>It is advisable to slightly temper the contrast between your paragraph text and background color.</seg>
       </tuv>
@@ -19976,7 +19986,10 @@ must ではなく should なので「べき」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+【電書チェック】
+Enter　　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>It then becomes operable: you can follow the link by pressing &lt;g5&gt;Enter&lt;/g5&gt;.</seg>
       </tuv>
@@ -21761,7 +21774,10 @@ manageは管理で良いような。
     <tu>
       <note>(太田) 誤訳っぽいですね。&lt;button&gt;がリンクなのではなく、リンクが&lt;button&gt;と同様だと言っているのだと思います。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+【電書チェック】
+「はじめに」　→　1章「はじめに」　　と修正</note>
       <tuv lang="EN-US">
         <seg>Links, like the &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; element addressed in the introduction, are implicitly focusable.</seg>
       </tuv>
