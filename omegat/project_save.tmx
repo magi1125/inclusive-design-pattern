@@ -7786,7 +7786,11 @@ heading shortcutは「見出しジャンプ」としました。
       <note>(太田)
 原文のダッシュを生かしてみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+1つ　→　ひとつ　　と修正
+</note>
       <tuv lang="EN-US">
         <seg>A lot of the time, one issue apparently belonging to one principle or theme is related — either by cause or correlation — to another.</seg>
       </tuv>
@@ -12013,7 +12017,11 @@ issueは文字どおり「イシュー」と思われますが、いったん「
 
 2文になっていますが、原文は1文で not only but ですね。but以降が否定文なので難解になっていて2文にしたのだと思います。いったん2文のままで。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+1つ　→　ひとつ　　と修正
+2つ　→　ふたつ　　と修正</note>
       <tuv lang="EN-US">
         <seg>Contriving to turn one instance of poor design into two or more reported issues not only complicates the remediation process, but does nothing to educate the developer about how these problems really come about.</seg>
       </tuv>
@@ -31890,7 +31898,10 @@ shortcomings「欠陥」だと不具合っぽいニュアンスがあるよう�
 
 補いつつ調整してみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+素晴らしい　→　すばらしい　　と修正する必要あり</note>
       <tuv lang="EN-US">
         <seg>The separation between style and behavior between the &lt;g1&gt;class&lt;/g1&gt; and &lt;g2&gt;data-action&lt;/g2&gt; attributes is nice and all, but it hardly makes up for the button’s grave shortcomings when it comes to inclusion.</seg>
       </tuv>
