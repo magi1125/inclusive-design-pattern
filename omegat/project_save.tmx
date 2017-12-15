@@ -198,7 +198,11 @@ theを「上記の」としつつ調整してみました。
 (伊原) 私の、というのがちょっと謎だったので、私が行った、としました。
 リンク先にもstrategyとあったので、使い方調査としました。
 
-(太田) OK</note>
+(太田) OK
+
+【電書チェック】
+分かり　→　わかり　　と修正
+ます　→　る　と修正すべき</note>
       <tuv lang="EN-US">
         <seg>(Refer to the &lt;g2&gt;&lt;g3&gt;responses of my screen reader survey&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;21&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; to gain an impression of the diversity.)</seg>
       </tuv>
@@ -10866,7 +10870,10 @@ composeは作成でいいのか。あとで検討。
 
 (伊原) 文書自体の作成は別に必要なので「設定」のほうが実際に近い気はします。そうしてみました。
 
-(太田) OK</note>
+(太田) OK
+
+【電書チェック】
+最後の読点がヌケている</note>
       <tuv lang="EN-US">
         <seg>But the easiest way (that I’m aware of) to &lt;g14&gt;compose&lt;/g14&gt; closed captions is to use YouTube’s intuitive GUI, for which Google offers &lt;g15&gt;&lt;g16&gt;a help page&lt;/g16&gt;&lt;/g15&gt;&lt;g17&gt;&lt;g18&gt;&lt;g19&gt;27&lt;/g19&gt;&lt;/g18&gt;&lt;/g17&gt; to get you started.</seg>
       </tuv>
@@ -21723,7 +21730,10 @@ https://docs.google.com/document/d/1ju_rDbIrde0lHKJF84ZkgqfO3YNc8JyuPBA6EaIEGUI/
       <note>(太田)
 manageは管理で良いような。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+フローシステム　　強調漏れ</note>
       <tuv lang="EN-US">
         <seg>Like a grid system, a &lt;g1&gt;flow system&lt;/g1&gt; uses CSS to manage layout.</seg>
       </tuv>
@@ -23493,7 +23503,10 @@ ARIAの前にスペースがある方がよいでしょう。
 Note を訳出したほうが良いかも。
 他に合わせて「注目してください」としました。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+目　→　め　　と修正</note>
       <tuv lang="EN-US">
         <seg>Note that the name is not needed for the second caption as the speaker has not changed.</seg>
       </tuv>
