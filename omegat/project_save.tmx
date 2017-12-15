@@ -1699,6 +1699,14 @@ Kenny Mulbarton→ケニー・マルバートン</note>
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+このコード最終行を反映漏れ（ない）</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g19&gt;white-space&lt;/g19&gt;&lt;g20&gt;:&lt;/g20&gt; nowrap&lt;g21&gt;;&lt;/g21&gt;
+&lt;g22&gt;}&lt;/g22&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(川本さん) 前が※155のような気がします。156,157が抜けている？ (初校PDFへのコメント)
 
 (伊原) DTPマター、岡本さんに確認。
@@ -4917,6 +4925,8 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+12/12/2017　→　2017/12/12　　と修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g21&gt;&lt;g22&gt;&lt;g23&gt;&lt;&lt;/g23&gt;div&lt;/g22&gt; &lt;g24&gt;class&lt;/g24&gt;&lt;g25&gt;&lt;g26&gt;=&lt;/g26&gt;"meta"&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g21&gt;Published on &lt;g28&gt;&lt;g29&gt;&lt;g30&gt;&lt;&lt;/g30&gt;time&lt;/g29&gt; &lt;g31&gt;datetime&lt;/g31&gt;&lt;g32&gt;&lt;g33&gt;=&lt;/g33&gt;"2017-12-12"&lt;/g32&gt;&lt;g34&gt;&gt;&lt;/g34&gt;&lt;/g28&gt;12/12/2017&lt;g35&gt;&lt;g36&gt;&lt;g37&gt;&lt;/&lt;/g37&gt;time&lt;/g36&gt;&lt;g38&gt;&gt;&lt;/g38&gt;&lt;/g35&gt;&lt;g39&gt;&lt;g40&gt;&lt;g41&gt;&lt;/&lt;/g41&gt;div&lt;/g40&gt;&lt;g42&gt;&gt;&lt;/g42&gt;&lt;/g39&gt;</seg>
       </tuv>
@@ -5080,6 +5090,8 @@ OmegaT上では訳されているので、DTPの問題か反映タイミング�
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+12/12/2017　→　2017/12/12　　と修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g26&gt;&lt;g27&gt;&lt;g28&gt;&lt;&lt;/g28&gt;div&lt;/g27&gt; &lt;g29&gt;class&lt;/g29&gt;&lt;g30&gt;&lt;g31&gt;=&lt;/g31&gt;"meta"&lt;/g30&gt;&lt;g32&gt;&gt;&lt;/g32&gt;&lt;/g26&gt;Published on &lt;g33&gt;&lt;g34&gt;&lt;g35&gt;&lt;&lt;/g35&gt;time&lt;/g34&gt; &lt;g36&gt;datetime&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"2017-12-12"&lt;/g37&gt;&lt;g39&gt;&gt;&lt;/g39&gt;&lt;/g33&gt;12/12/2017&lt;g40&gt;&lt;g41&gt;&lt;g42&gt;&lt;/&lt;/g42&gt;time&lt;/g41&gt;&lt;g43&gt;&gt;&lt;/g43&gt;&lt;/g40&gt;&lt;g44&gt;&lt;g45&gt;&lt;g46&gt;&lt;/&lt;/g46&gt;div&lt;/g45&gt;&lt;g47&gt;&gt;&lt;/g47&gt;&lt;/g44&gt;</seg>
       </tuv>
@@ -9893,7 +9905,10 @@ hone は砥石でとぐような意味。
 
 (伊原) いきなりbuttonの話をしはじめてよくわからなくなってる感じですね…。太田さん訳がよいと思いますが、さらに「インタラクティブな動作を提供してくれるだけでなく、」を取ってしまっても良いような気もします。または「&lt;button&gt;要素のように」を補うか。
 
-(岡本) 取ってみました。</note>
+(岡本) 取ってみました。
+
+【電書チェック】
+インタラクティブな動作を提供してくれるだけでなく、　　を削除</note>
       <tuv lang="EN-US">
         <seg>Aside from providing interactive behaviors, this is one of the simple benefits of using semantic elements where they are specified and supported.</seg>
       </tuv>
@@ -10421,7 +10436,10 @@ OK
     <tu>
       <note>(岡本)　1つ→ひとつ
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+【電書チェック】
+ひとつ　→　1つ　　と修正</note>
       <tuv lang="EN-US">
         <seg>Blog articles in which the author has not been able to say everything they want in a title alone sometimes employ subtitles or straplines.</seg>
       </tuv>
@@ -23935,7 +23953,10 @@ familiarを「十分に学習してきた」としていますが、「十分に
 
 (伊原) LGTM
 
-(岡本) 分かり→わかり</note>
+(岡本) 分かり→わかり
+
+【電書チェック】
+皆さん　→　みなさん　　と修正</note>
       <tuv lang="EN-US">
         <seg>Now that you’re familiar with the structural contribution of headings, you should be able to see the problem: the &lt;g1&gt;&lt;h2&gt;&lt;/g1&gt; creates an immediate subsection, “In Seven Easy Steps.” That’s a pretty weird, fragmentary heading for a section and would make little sense wherever a table of contents is generated:</seg>
       </tuv>
