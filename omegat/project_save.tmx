@@ -8640,7 +8640,10 @@ listenは「監視」としてみました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) LGTM</note>
+      <note>(伊原) LGTM
+
+【電書チェック】
+ちょっとした　　強調漏れ</note>
       <tuv lang="EN-US">
         <seg>Altogether, deploying &lt;g1&gt;&lt;article&gt;&lt;/g1&gt; doesn’t look very appealing, but there is a &lt;g2&gt;small&lt;/g2&gt; advantage in certain contexts.</seg>
       </tuv>
@@ -9092,7 +9095,10 @@ iOS (Cocoa Touch の UIView) の座標系はピクセル単位ではなくポイ
 「要素ごとに」の意味がわかりにくいです。原文 element by element。
 飛ばし読み、流し読みをせずに順番に読むということだと思いますので、「要素をひとつずつ」としてみました。
 
-(伊原) LGTM</note>
+(伊原) LGTM
+
+【電書チェック】
+ひとつずつ　→　1つずつ　　と修正</note>
       <tuv lang="EN-US">
         <seg>Arguably, this is useful information where there are several &lt;g4&gt;&lt;article&gt;&lt;/g4&gt;s on the same page and the user is reading from top to bottom, element by element.</seg>
       </tuv>
@@ -29696,6 +29702,9 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
 (伊原) 上記は訳注へのコメント。訳注に「iOS」と追記いただくのが良いかも。
 
 (太田) そうしましょう。訳注を修正しました。
+
+【電書チェック】
+だけ　　強調漏れ
 </note>
       <tuv lang="EN-US">
         <seg>The JAWS screen reader (and &lt;g3&gt;only&lt;/g3&gt; the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
