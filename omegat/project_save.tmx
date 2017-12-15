@@ -9601,7 +9601,10 @@ entirelyを「完全に」と訳すのは誤訳に近いかも。
 (伊原) OK. ツッコミは…ネタ的には興味深いですが、話がややこしくなるのでナシでいいかも。
 
 (太田)
-文章を短縮。</note>
+文章を短縮。
+
+【電書チェック】
+目　→　め　　と修正</note>
       <tuv lang="EN-US">
         <seg>As for &lt;g1&gt;tabindex&lt;/g1&gt;, using a positive integer like &lt;g2&gt;tabindex="4"&lt;/g2&gt; will refer to the fourth in focus order within the shadow DOM and &lt;g3&gt;not&lt;/g3&gt; the fourth in focus order within the parent document.</seg>
       </tuv>
@@ -16726,7 +16729,10 @@ actionableは「実用的でない」のではなく、実行できない、動�
 (岡本)
 お分かり→おわかり
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+皆さん　→　みなさん　　と修正</note>
       <tuv lang="EN-US">
         <seg>If you’ve been following along, you’ll know what that means: it’s not focusable or actionable, and doesn’t have the &lt;g1&gt;button&lt;/g1&gt; role that announces it as a button in screen readers — just like the remediated &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; button I was talking about earlier in the chapter.</seg>
       </tuv>
