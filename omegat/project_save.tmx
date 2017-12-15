@@ -1001,7 +1001,10 @@ by は byのままでいいかもしれません。
     <tu>
       <note>(川本さん) この余白はわざとでしょうか？
 
-(伊原) time要素直前の半角スペースのこと。わざとなのでそのまま。</note>
+(伊原) time要素直前の半角スペースのこと。わざとなのでそのまま。
+
+【電書チェック】
+12/12/2017　→　2017/12/12　　と修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g10&gt;&lt;g11&gt;&lt;g12&gt;&lt;&lt;/g12&gt;div&lt;/g11&gt; &lt;g13&gt;class&lt;/g13&gt;&lt;g14&gt;&lt;g15&gt;=&lt;/g15&gt;"meta"&lt;/g14&gt;&lt;g16&gt;&gt;&lt;/g16&gt;&lt;/g10&gt;Published on &lt;g17&gt;&lt;g18&gt;&lt;g19&gt;&lt;&lt;/g19&gt;time&lt;/g18&gt; &lt;g20&gt;datetime&lt;/g20&gt;&lt;g21&gt;&lt;g22&gt;=&lt;/g22&gt;"2017-12-12"&lt;/g21&gt;&lt;g23&gt;&gt;&lt;/g23&gt;&lt;/g17&gt;12/12/2017&lt;g24&gt;&lt;g25&gt;&lt;g26&gt;&lt;/&lt;/g26&gt;time&lt;/g25&gt;&lt;g27&gt;&gt;&lt;/g27&gt;&lt;/g24&gt;&lt;g28&gt;&lt;g29&gt;&lt;g30&gt;&lt;/&lt;/g30&gt;div&lt;/g29&gt;&lt;g31&gt;&gt;&lt;/g31&gt;&lt;/g28&gt;</seg>
       </tuv>
@@ -5912,6 +5915,8 @@ Price:　→価格：</note>
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+12/12/2017　→　2017/12/12　　と修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g61&gt;&lt;g62&gt;&lt;g63&gt;&lt;&lt;/g63&gt;div&lt;/g62&gt; &lt;g64&gt;class&lt;/g64&gt;&lt;g65&gt;&lt;g66&gt;=&lt;/g66&gt;"meta"&lt;/g65&gt;&lt;g67&gt;&gt;&lt;/g67&gt;&lt;/g61&gt;Published on &lt;g68&gt;&lt;g69&gt;&lt;g70&gt;&lt;&lt;/g70&gt;time&lt;/g69&gt; &lt;g71&gt;datetime&lt;/g71&gt;&lt;g72&gt;&lt;g73&gt;=&lt;/g73&gt;"2017-12-12"&lt;/g72&gt;&lt;g74&gt;&gt;&lt;/g74&gt;&lt;/g68&gt;12/12/2017&lt;g75&gt;&lt;g76&gt;&lt;g77&gt;&lt;/&lt;/g77&gt;time&lt;/g76&gt;&lt;g78&gt;&gt;&lt;/g78&gt;&lt;/g75&gt;&lt;g79&gt;&lt;g80&gt;&lt;g81&gt;&lt;/&lt;/g81&gt;div&lt;/g80&gt;&lt;g82&gt;&gt;&lt;/g82&gt;&lt;/g79&gt;</seg>
       </tuv>
@@ -18712,7 +18717,10 @@ pseudo-contentは前に合わせていったん「疑似コンテンツ」で。
 (太田)  commented out example が訳から落ちてていますが、ソースコードは別にコメントアウトされていないので落としたままでいいかも。
 becauseを訳出しました。
 
-(岡本) 1つ目→ひとつ目、分かりません→わかりません</note>
+(岡本) 1つ目→ひとつ目、分かりません→わかりません
+
+【電書チェック】
+ひとつめ　→　1つめ　　と修正</note>
       <tuv lang="EN-US">
         <seg>In the first, commented out example, someone navigating by heading using the generic &lt;g1&gt;h&lt;/g1&gt; key would be unaware of the publish date because the screen reader would take them silently past it.</seg>
       </tuv>
