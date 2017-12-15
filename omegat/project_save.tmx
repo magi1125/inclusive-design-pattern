@@ -2075,6 +2075,13 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
       </tuv>
     </tu>
     <tu>
+      <note>【電書チェック】
+upvote　→　賛成！　　と修正</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;button&lt;/g3&gt; &lt;g5&gt;data-action&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"upvote"&lt;/g6&gt; &lt;g8&gt;aria-label&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"upvote"&lt;/g9&gt;&lt;g11&gt;&gt;&lt;/g11&gt;&lt;/g2&gt;&lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;/&lt;/g14&gt;button&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g12&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;button&lt;/g3&gt; &lt;g5&gt;type&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"submit"&lt;/g6&gt; &lt;g8&gt;class&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"visually-hidden"&lt;/g9&gt; &lt;g11&gt;tabindex&lt;/g11&gt;&lt;g12&gt;&lt;g13&gt;=&lt;/g13&gt;"-1"&lt;/g12&gt;&lt;g14&gt;&gt;&lt;/g14&gt;&lt;/g2&gt;sort&lt;g15&gt;&lt;g16&gt;&lt;g17&gt;&lt;/&lt;/g17&gt;button&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g15&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -2116,6 +2123,13 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20171018T114254Z" creationid="bakera" creationdate="20171018T114254Z">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;div&lt;/g3&gt; &lt;g5&gt;class&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"upvote"&lt;/g6&gt; &lt;g8&gt;data-action&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"upvote"&lt;/g9&gt; &lt;g11&gt;aria-label&lt;/g11&gt;&lt;g12&gt;&lt;g13&gt;=&lt;/g13&gt;"賛成!"&lt;/g12&gt; &lt;g14&gt;tabindex&lt;/g14&gt;&lt;g15&gt;&lt;g16&gt;=&lt;/g16&gt;"0"&lt;/g15&gt;&lt;g17&gt;&gt;&lt;/g17&gt;&lt;/g2&gt;&lt;g18&gt;&lt;g19&gt;&lt;g20&gt;&lt;/&lt;/g20&gt;div&lt;/g19&gt;&lt;g21&gt;&gt;&lt;/g21&gt;&lt;/g18&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【電書チェック】
+upvote　→　賛成！　　と修正</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;div&lt;/g3&gt; &lt;g5&gt;class&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"upvote"&lt;/g6&gt; &lt;g8&gt;data-action&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"upvote"&lt;/g9&gt; &lt;g11&gt;aria-label&lt;/g11&gt;&lt;g12&gt;&lt;g13&gt;=&lt;/g13&gt;"upvote"&lt;/g12&gt;&lt;g14&gt;&gt;&lt;/g14&gt;&lt;/g2&gt;&lt;g15&gt;&lt;g16&gt;&lt;g17&gt;&lt;/&lt;/g17&gt;div&lt;/g16&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g15&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6653,6 +6667,13 @@ It feels like the CSS block is incomplete, especially since the note following t
       <tuv lang="JA" changeid="bakera" changedate="20171001T062859Z">
         <seg>&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;strong&lt;/g10&gt; &lt;g12&gt;class&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"red"&lt;/g13&gt;&lt;g18&gt;&gt;&lt;/g18&gt;&lt;/g9&gt;*&lt;g19&gt;&lt;g20&gt;&lt;g21&gt;&lt;/&lt;/g21&gt;strong&lt;/g20&gt;&lt;g22&gt;&gt;&lt;/g22&gt;&lt;/g19&gt;&lt;g23&gt;&lt;g24&gt;&lt;g25&gt;&lt;/&lt;/g25&gt;label&lt;/g24&gt;&lt;g26&gt;&gt;&lt;/g26&gt;&lt;/g23&gt;
 &lt;g27&gt;&lt;g28&gt;&lt;g29&gt;&lt;&lt;/g29&gt;input&lt;/g28&gt; &lt;g30&gt;type&lt;/g30&gt;&lt;g31&gt;&lt;g32&gt;=&lt;/g32&gt;"text"&lt;/g31&gt; &lt;g33&gt;id&lt;/g33&gt;&lt;g34&gt;&lt;g35&gt;=&lt;/g35&gt;"quiz-question"&lt;/g34&gt; &lt;g36&gt;name&lt;/g36&gt;&lt;g37&gt;&lt;g38&gt;=&lt;/g38&gt;"quiz-question"&lt;/g37&gt;&lt;g39&gt;&gt;&lt;/g39&gt;&lt;/g27&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【電書チェック】
+upvote　→　賛成！　　と修正</note>
+      <tuv lang="EN-US">
+        <seg>&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;svg&lt;/g10&gt; &lt;g12&gt;aria-label&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"upvote"&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28023,7 +28044,10 @@ iterationは試行錯誤を推したい。
 
 (太田)
 OK
-土屋さん原文確認してるの強いですね。さすが。</note>
+土屋さん原文確認してるの強いですね。さすが。
+
+【電書チェック】
+日本語タイトルは削除されている</note>
       <tuv lang="EN-US">
         <seg>Stop hiring me&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;4&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;,” remediating broken websites and apps is unpleasant work for both the consultant and the client.</seg>
       </tuv>
@@ -31517,7 +31541,10 @@ Good!
 
 (伊原) 初校PDFでomegaTのタグが出てしまっていることに対するコメント。DTPマター、岡本さん確認。
 
-(岡本)　対応していました。</note>
+(岡本)　対応していました。
+
+【電書チェック】
+まずいアイデア　　強調漏れ</note>
       <tuv lang="EN-US">
         <seg>The problem with this contrived and fragmented way of evaluating interfaces is that nobody has the chance to point out and avoid what are simply &lt;g1&gt;bad ideas&lt;/g1&gt;, like using a &lt;g2&gt;&lt;div&gt;&lt;/g2&gt; as a button control.</seg>
       </tuv>
