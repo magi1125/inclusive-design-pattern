@@ -1247,9 +1247,14 @@ visible spaceは「見た目上のスペース」くらいでしょうか。
     </tu>
     <tu>
       <note>【電書チェック】
-skip to main content　→　メインコンテンツに移動　　　と修正</note>
+skip to main content　→　メインコンテンツに移動　　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g127&gt;&lt;g128&gt;&lt;g129&gt;&lt;&lt;/g129&gt;a&lt;/g128&gt; &lt;g130&gt;href&lt;/g130&gt;&lt;g131&gt;&lt;g132&gt;=&lt;/g132&gt;"#main"&lt;/g131&gt;&lt;g133&gt;&gt;&lt;/g133&gt;&lt;/g127&gt;skip to main content&lt;g134&gt;&lt;g135&gt;&lt;g136&gt;&lt;/&lt;/g136&gt;a&lt;/g135&gt;&lt;g137&gt;&gt;&lt;/g137&gt;&lt;/g134&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T085413Z">
+        <seg>&lt;g127&gt;&lt;g128&gt;&lt;g129&gt;&lt;&lt;/g129&gt;a&lt;/g128&gt; &lt;g130&gt;href&lt;/g130&gt;&lt;g131&gt;&lt;g132&gt;=&lt;/g132&gt;"#main"&lt;/g131&gt;&lt;g133&gt;&gt;&lt;/g133&gt;&lt;/g127&gt;メインコンテンツに移動&lt;g134&gt;&lt;g135&gt;&lt;g136&gt;&lt;/&lt;/g136&gt;a&lt;/g135&gt;&lt;g137&gt;&gt;&lt;/g137&gt;&lt;/g134&gt;</seg>
       </tuv>
     </tu>
     <tu>
