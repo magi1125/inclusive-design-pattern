@@ -12096,12 +12096,14 @@ issueは文字どおり「イシュー」と思われますが、いったん「
 
 【電書チェック】
 1つ　→　ひとつ　　と修正
-2つ　→　ふたつ　　と修正</note>
+2つ　→　ふたつ　　と修正
+
+(伊原) 紙に合わせて数字に修正</note>
       <tuv lang="EN-US">
         <seg>Contriving to turn one instance of poor design into two or more reported issues not only complicates the remediation process, but does nothing to educate the developer about how these problems really come about.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170715T150817Z" creationid="yoota" creationdate="20170713T083235Z">
-        <seg>ひとつの残念なデザインの事例を、わざわざふたつ以上の課題に分けて報告することは、修正プロセスを複雑にするだけです。また、これらの問題が実際にどのようにして発生したかを開発者に教育する効果もありません。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T100453Z" creationid="yoota" creationdate="20170713T083235Z">
+        <seg>1つの残念なデザインの事例を、わざわざ2つ以上の課題に分けて報告することは、修正プロセスを複雑にするだけです。また、これらの問題が実際にどのようにして発生したかを開発者に教育する効果もありません。</seg>
       </tuv>
     </tu>
     <tu>
