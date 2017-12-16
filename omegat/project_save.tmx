@@ -9664,12 +9664,14 @@ entirelyを「完全に」と訳すのは誤訳に近いかも。
 文章を短縮。
 
 【電書チェック】
-目　→　め　　と修正</note>
+目　→　め　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>As for &lt;g1&gt;tabindex&lt;/g1&gt;, using a positive integer like &lt;g2&gt;tabindex="4"&lt;/g2&gt; will refer to the fourth in focus order within the shadow DOM and &lt;g3&gt;not&lt;/g3&gt; the fourth in focus order within the parent document.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171014T013519Z" creationid="yoota" creationdate="20170719T093956Z">
-        <seg>&lt;g1&gt;tabindex&lt;/g1&gt;に関しても、たとえば&lt;g2&gt;tabindex="4"&lt;/g2&gt;はShadow DOM内の4番目のフォーカス順を意味することになり、親ドキュメント内の4番目のフォーカス順には&lt;g3&gt;なりません&lt;/g3&gt;。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T101147Z" creationid="yoota" creationdate="20170719T093956Z">
+        <seg>&lt;g1&gt;tabindex&lt;/g1&gt;に関しても、たとえば&lt;g2&gt;tabindex="4"&lt;/g2&gt;はShadow DOM内の4番めのフォーカス順を意味することになり、親ドキュメント内の4番目のフォーカス順には&lt;g3&gt;なりません&lt;/g3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
