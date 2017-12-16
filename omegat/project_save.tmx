@@ -9174,12 +9174,14 @@ iOS (Cocoa Touch の UIView) の座標系はピクセル単位ではなくポイ
 (伊原) LGTM
 
 【電書チェック】
-ひとつずつ　→　1つずつ　　と修正</note>
+ひとつずつ　→　1つずつ　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>Arguably, this is useful information where there are several &lt;g4&gt;&lt;article&gt;&lt;/g4&gt;s on the same page and the user is reading from top to bottom, element by element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170524T083823Z" creationid="yoota" creationdate="20170524T083609Z">
-        <seg>確かに、同じページに複数の&lt;g4&gt;&lt;article&gt;&lt;/g4&gt;があり、ユーザーが上から下に向かって要素をひとつずつ読んでいる場合には、これは有益な情報です。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T092411Z" creationid="yoota" creationdate="20170524T083609Z">
+        <seg>確かに、同じページに複数の&lt;g4&gt;&lt;article&gt;&lt;/g4&gt;があり、ユーザーが上から下に向かって要素を1つずつ読んでいる場合には、これは有益な情報です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29862,7 +29864,8 @@ VoiceOverが「記事 ランドマーク」とよむっぽいですね。JAWSだ
 
 【電書チェック】
 だけ　　強調漏れ
-</note>
+
+(伊原) 電書版はママでOK</note>
       <tuv lang="EN-US">
         <seg>The JAWS screen reader (and &lt;g3&gt;only&lt;/g3&gt; the JAWS screen reader) announces “Article” on entering the element and “Article end” on exiting it.</seg>
       </tuv>
