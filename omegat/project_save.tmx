@@ -14560,7 +14560,9 @@ take care of themselves は「自分のことは自分で始末する」「自�
 「不適切な文字で文字化けしたテキスト」が若干わかりにくいので、調整してみました。
 
 【電書チェック】
-いくらなんでも　　の強調漏れ</note>
+いくらなんでも　　の強調漏れ
+
+(伊原) 電子版はママでOK</note>
       <tuv lang="EN-US">
         <seg>Garbled text, rendered in unbefitting characters is not optimally inclusive of your readership &lt;g2&gt;to say the least&lt;/g2&gt;.</seg>
       </tuv>
@@ -19949,12 +19951,14 @@ body内のの子要素にlang属性を、ですね。
 (岡本) 1つ→ひとつ
 
 【電書チェック】
-ひとつ　→　1つ　に修正</note>
+ひとつ　→　1つ　に修正
+
+(伊原) 紙版に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>It is possible to switch languages within a page using the &lt;g1&gt;lang&lt;/g1&gt; attribute on child elements within the &lt;g2&gt;&lt;body&gt;&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T012654Z" creationid="yoota" creationdate="20170426T060218Z">
-        <seg>&lt;g2&gt;&lt;body&gt;&lt;/g2&gt;内の子要素に&lt;g1&gt;lang&lt;/g1&gt;属性を指定して、ひとつのページの中で言語を切り替えることも可能です。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T084022Z" creationid="yoota" creationdate="20170426T060218Z">
+        <seg>&lt;g2&gt;&lt;body&gt;&lt;/g2&gt;内の子要素に&lt;g1&gt;lang&lt;/g1&gt;属性を指定して、1つのページの中で言語を切り替えることも可能です。</seg>
       </tuv>
     </tu>
     <tu>
