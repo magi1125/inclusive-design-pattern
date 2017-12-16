@@ -39146,12 +39146,14 @@ OK</note>
 (岡本) 1つ→ひとつ
 
 【電書チェック】
-ひとつ　→　1つ　　に修正</note>
+ひとつ　→　1つ　　に修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>You just need to address one issue: elements set using viewport units &lt;g1&gt;cannot&lt;/g1&gt; be scaled using full-page zoom.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T013753Z" creationid="yoota" creationdate="20170426T092718Z">
-        <seg>ただし、ひとつ注意点があります。ビューポートの単位が指定されている要素は、ページ全体のズームでは拡大縮小&lt;g1&gt;されない&lt;/g1&gt;ということです。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T084840Z" creationid="yoota" creationdate="20170426T092718Z">
+        <seg>ただし、1つ注意点があります。ビューポートの単位が指定されている要素は、ページ全体のズームでは拡大縮小&lt;g1&gt;されない&lt;/g1&gt;ということです。</seg>
       </tuv>
     </tu>
     <tu>
