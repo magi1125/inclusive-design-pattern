@@ -23625,12 +23625,14 @@ Note を訳出したほうが良いかも。
 (伊原) OK
 
 【電書チェック】
-目　→　め　　と修正</note>
+目　→　め　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>Note that the name is not needed for the second caption as the speaker has not changed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170613T070422Z" creationid="yoota" creationdate="20170613T070044Z">
-        <seg>2番目のキャプションでは話し手が変わっていないため、名前が不要であることに注目してください。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T095216Z" creationid="yoota" creationdate="20170613T070044Z">
+        <seg>2番めのキャプションでは話し手が変わっていないため、名前が不要であることに注目してください。</seg>
       </tuv>
     </tu>
     <tu>
