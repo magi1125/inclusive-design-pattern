@@ -18857,12 +18857,14 @@ becauseを訳出しました。
 (岡本) 1つ目→ひとつ目、分かりません→わかりません
 
 【電書チェック】
-ひとつめ　→　1つめ　　と修正</note>
+ひとつめ　→　1つめ　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>In the first, commented out example, someone navigating by heading using the generic &lt;g1&gt;h&lt;/g1&gt; key would be unaware of the publish date because the screen reader would take them silently past it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T091030Z" creationid="yoota" creationdate="20170515T101849Z">
-        <seg>1つ目の例では、汎用的な&lt;g1&gt;h&lt;/g1&gt;キーを使用して見出しでナビゲートしている人には公開日付はわかりません。スクリーンリーダーは日付を読み上げずに通過してしまうからです。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T092822Z" creationid="yoota" creationdate="20170515T101849Z">
+        <seg>1つめの例では、汎用的な&lt;g1&gt;h&lt;/g1&gt;キーを使用して見出しでナビゲートしている人には公開日付はわかりません。スクリーンリーダーは日付を読み上げずに通過してしまうからです。</seg>
       </tuv>
     </tu>
     <tu>
