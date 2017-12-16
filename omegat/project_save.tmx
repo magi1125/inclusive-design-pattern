@@ -13707,8 +13707,8 @@ min-widthにremを使われると例としてはわかりにくいですね…�
       <tuv lang="EN-US">
         <seg>For example, where I increase the font size for wider desktop screens, the measure — which is defined using a unit relative to the font size (rem) — also increases.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170516T094232Z" creationid="yoota" creationdate="20170511T025155Z">
-        <seg>例として、幅が広いデスクトップの画面でフォントサイズを大きくしたい場合、このカラム幅――フォントサイズに相対的な単位（rem）で定義された値――が一緒に大きくなってくれます。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T085847Z" creationid="yoota" creationdate="20170511T025155Z">
+        <seg>例として、幅が広いデスクトップの画面でフォントサイズを大きくしたい場合、このカラム幅――フォントサイズに相対的な単位（rem）で定義された値――がいっしょに大きくなってくれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26498,7 +26498,9 @@ http://www.w3.org/TR/CSS2/visudet.html#containing-block-details
 賢い　→　かしこい
 応じて改行されるようにする必要があるためです。　→　応じた改行が必要だからです。
 
-と修正。</note>
+と修正。
+
+(伊原) 紙版に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>Setting paragraphs’ measure directly is unwise, since in responsive and modular layouts they should wrap according to their containing element.</seg>
       </tuv>
