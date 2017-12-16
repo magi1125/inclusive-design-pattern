@@ -2089,7 +2089,9 @@ http://www.w3.org/TR/wai-aria-1.1/#aria-level
     </tu>
     <tu>
       <note>【電書チェック】
-upvote　→　賛成！　　と修正</note>
+upvote　→　賛成！　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;&lt;g4&gt;&lt;&lt;/g4&gt;button&lt;/g3&gt; &lt;g5&gt;data-action&lt;/g5&gt;&lt;g6&gt;&lt;g7&gt;=&lt;/g7&gt;"upvote"&lt;/g6&gt; &lt;g8&gt;aria-label&lt;/g8&gt;&lt;g9&gt;&lt;g10&gt;=&lt;/g10&gt;"upvote"&lt;/g9&gt;&lt;g11&gt;&gt;&lt;/g11&gt;&lt;/g2&gt;&lt;g12&gt;&lt;g13&gt;&lt;g14&gt;&lt;/&lt;/g14&gt;button&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g12&gt;&lt;/g1&gt;</seg>
       </tuv>
@@ -6709,9 +6711,14 @@ It feels like the CSS block is incomplete, especially since the note following t
     </tu>
     <tu>
       <note>【電書チェック】
-upvote　→　賛成！　　と修正</note>
+upvote　→　賛成！　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;svg&lt;/g10&gt; &lt;g12&gt;aria-label&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"upvote"&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g9&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T101010Z">
+        <seg>&lt;g9&gt;&lt;g10&gt;&lt;g11&gt;&lt;&lt;/g11&gt;svg&lt;/g10&gt; &lt;g12&gt;aria-label&lt;/g12&gt;&lt;g13&gt;&lt;g14&gt;=&lt;/g14&gt;"賛成！"&lt;/g13&gt;&lt;g15&gt;&gt;&lt;/g15&gt;&lt;/g9&gt;</seg>
       </tuv>
     </tu>
     <tu>
