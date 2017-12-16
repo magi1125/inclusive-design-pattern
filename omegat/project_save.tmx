@@ -2817,7 +2817,9 @@ describe&lt;g15&gt;(&lt;/g15&gt;&lt;g16&gt;'Addモジュール'&lt;/g16&gt;&lt;g
     </tu>
     <tu>
       <note>【電書チェック】
-コードの頭に　p  が入っている</note>
+コードの頭に　p  が入っている
+
+(伊原) 電書はOK。紙は正誤表行き。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;[href^=&lt;g2&gt;"http"&lt;/g2&gt;]&lt;g3&gt;:&lt;/g3&gt;not([href*=&lt;g4&gt;"heydonworks.com"&lt;/g4&gt;])&lt;/g1&gt;</seg>
       </tuv>
@@ -22984,12 +22986,14 @@ a handful ofは片手でつかめる程度、の意味ですが、前にメニ�
 (岡本) すべて→全て
 
 【電書チェック】
-全て　→　すべて　　　と修正</note>
+全て　→　すべて　　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>Not all screen reader and browser combinations support pseudo-content, but most do.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T083927Z" creationid="yoota" creationdate="20170512T030227Z">
-        <seg>全てのスクリーンリーダーとブラウザの組み合わせが疑似コンテンツをサポートしているわけではありませんが、ほとんどはサポートしています。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T090754Z" creationid="yoota" creationdate="20170512T030227Z">
+        <seg>すべてのスクリーンリーダーとブラウザの組み合わせが疑似コンテンツをサポートしているわけではありませんが、ほとんどはサポートしています。</seg>
       </tuv>
     </tu>
     <tu>
