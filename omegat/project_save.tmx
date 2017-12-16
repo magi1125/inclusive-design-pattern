@@ -1944,7 +1944,9 @@ DTPマター?
     </tu>
     <tu>
       <note>【電書チェック】
-nitial-scaleのハイフンが落ちてちまっている</note>
+nitial-scaleのハイフンが落ちてちまっている
+
+(伊原) 電書版はOK。紙版は正誤表行き。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;!-- don’t use this --&gt;&lt;/g2&gt;
 &lt;g3&gt;&lt;g4&gt;&lt;g5&gt;&lt;&lt;/g5&gt;meta&lt;/g4&gt; &lt;g6&gt;name&lt;/g6&gt;&lt;g7&gt;&lt;g8&gt;=&lt;/g8&gt;"viewport"&lt;/g7&gt; &lt;g9&gt;content&lt;/g9&gt;&lt;g10&gt;&lt;g11&gt;=&lt;/g11&gt;"width&lt;g12&gt;=&lt;/g12&gt;device-width, initial-scale&lt;g13&gt;=&lt;/g13&gt;1.0, minimum-scale&lt;g14&gt;=&lt;/g14&gt;1.0, maximum-scale&lt;g15&gt;=&lt;/g15&gt;1.0, user-scalable&lt;g16&gt;=&lt;/g16&gt;no"&lt;/g10&gt;&lt;g17&gt;&gt;&lt;/g17&gt;&lt;/g3&gt;
@@ -9364,12 +9366,14 @@ svg要素の中のstyle要素でスタイルを指定するとSVG対応ブラウ
 (伊原) LGTM
 
 【電書チェック】
-言って　→　いって　　に修正</note>
+言って　→　いって　　に修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>As a rule of thumb, avoid using positioned elements, especially with &lt;g2&gt;position: fixed&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171018T053640Z" creationid="yoota" creationdate="20170426T063242Z">
-        <seg>経験から言って、固定配置の要素、特に&lt;g2&gt;position:fixed&lt;/g2&gt;で固定したものは問題を起こしがちです。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T084639Z" creationid="yoota" creationdate="20170426T063242Z">
+        <seg>経験からいって、固定配置の要素、特に&lt;g2&gt;position:fixed&lt;/g2&gt;で固定したものは問題を起こしがちです。</seg>
       </tuv>
     </tu>
     <tu>
