@@ -5974,7 +5974,9 @@ Price:　→価格：</note>
     </tu>
     <tu>
       <note>【電書チェック】
-12/12/2017　→　2017/12/12　　と修正</note>
+12/12/2017　→　2017/12/12　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g61&gt;&lt;g62&gt;&lt;g63&gt;&lt;&lt;/g63&gt;div&lt;/g62&gt; &lt;g64&gt;class&lt;/g64&gt;&lt;g65&gt;&lt;g66&gt;=&lt;/g66&gt;"meta"&lt;/g65&gt;&lt;g67&gt;&gt;&lt;/g67&gt;&lt;/g61&gt;Published on &lt;g68&gt;&lt;g69&gt;&lt;g70&gt;&lt;&lt;/g70&gt;time&lt;/g69&gt; &lt;g71&gt;datetime&lt;/g71&gt;&lt;g72&gt;&lt;g73&gt;=&lt;/g73&gt;"2017-12-12"&lt;/g72&gt;&lt;g74&gt;&gt;&lt;/g74&gt;&lt;/g68&gt;12/12/2017&lt;g75&gt;&lt;g76&gt;&lt;g77&gt;&lt;/&lt;/g77&gt;time&lt;/g76&gt;&lt;g78&gt;&gt;&lt;/g78&gt;&lt;/g75&gt;&lt;g79&gt;&lt;g80&gt;&lt;g81&gt;&lt;/&lt;/g81&gt;div&lt;/g80&gt;&lt;g82&gt;&gt;&lt;/g82&gt;&lt;/g79&gt;</seg>
       </tuv>
@@ -18849,8 +18851,8 @@ becauseを訳出しました。
       <tuv lang="EN-US">
         <seg>In the first, commented out example, someone navigating by heading using the generic &lt;g1&gt;h&lt;/g1&gt; key would be unaware of the publish date because the screen reader would take them silently past it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170525T072720Z" creationid="yoota" creationdate="20170515T101849Z">
-        <seg>ひとつ目の例では、汎用的な&lt;g1&gt;h&lt;/g1&gt;キーを使用して見出しでナビゲートしている人には公開日付はわかりません。スクリーンリーダーは日付を読み上げずに通過してしまうからです。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T091030Z" creationid="yoota" creationdate="20170515T101849Z">
+        <seg>1つ目の例では、汎用的な&lt;g1&gt;h&lt;/g1&gt;キーを使用して見出しでナビゲートしている人には公開日付はわかりません。スクリーンリーダーは日付を読み上げずに通過してしまうからです。</seg>
       </tuv>
     </tu>
     <tu>
