@@ -17899,12 +17899,14 @@ switch to structured content は、WYSWYGエディタの右上にある &lt;&gt;
 (太田) 読みやすくすることが→読みやすくすることも
 
 【電書チェック】
-全て　→　すべて　　に修正</note>
+全て　→　すべて　　に修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>In my CSS I can select any sections declared as French using the &lt;g1&gt;:lang&lt;/g1&gt; pseudo-class, applying a font well suited to the French character set, thereby improving legibility:</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171016T070407Z" creationid="yoota" creationdate="20170426T060321Z">
-        <seg>CSSの&lt;g1&gt;:lang&lt;/g1&gt;擬似クラスを使えば、フランス語が指定されている全てのセクションを選択し、フランス語に適したフォントを適用して読みやすくすることもできます。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T084124Z" creationid="yoota" creationdate="20170426T060321Z">
+        <seg>CSSの&lt;g1&gt;:lang&lt;/g1&gt;擬似クラスを使えば、フランス語が指定されているすべてのセクションを選択し、フランス語に適したフォントを適用して読みやすくすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36170,12 +36172,14 @@ resultを訳出。
       <note>(伊原) LGTM
 
 【電書チェック】
-全て　→　すべて　　に修正</note>
+全て　→　すべて　　に修正
+
+(伊原) 紙版に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>Unless your superpower is prescience and you can anticipate the device setup of each and every one of your users, this is the only way to go.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170420T101254Z" creationid="yoota" creationdate="20170420T101021Z">
-        <seg>あなたに予知能力があって、全てのユーザーの端末の設定を予測できるのでない限り、これが唯一の方法です。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T084137Z" creationid="yoota" creationdate="20170420T101021Z">
+        <seg>あなたに予知能力があって、すべてのユーザーの端末の設定を予測できるのでない限り、これが唯一の方法です。</seg>
       </tuv>
     </tu>
     <tu>
