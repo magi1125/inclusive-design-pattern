@@ -20125,7 +20125,9 @@ must ではなく should なので「べき」としました。
       <note>(伊原) LGTM
 
 【電書チェック】
-Enter　　の強調漏れ</note>
+Enter　　の強調漏れ
+
+(伊原) 電書はママでOK</note>
       <tuv lang="EN-US">
         <seg>It then becomes operable: you can follow the link by pressing &lt;g5&gt;Enter&lt;/g5&gt;.</seg>
       </tuv>
@@ -21922,12 +21924,14 @@ manageは管理で良いような。
 (伊原) LGTM
 
 【電書チェック】
-「はじめに」　→　1章「はじめに」　　と修正</note>
+「はじめに」　→　1章「はじめに」　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>Links, like the &lt;g1&gt;&lt;button&gt;&lt;/g1&gt; element addressed in the introduction, are implicitly focusable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170511T100447Z" creationid="yoota" creationdate="20170511T100328Z">
-        <seg>リンクは、「はじめに」で触れた&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;要素と同様に、暗黙的にフォーカス可能です。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T090453Z" creationid="yoota" creationdate="20170511T100328Z">
+        <seg>リンクは、1章「はじめに」で触れた&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;要素と同様に、暗黙的にフォーカス可能です。</seg>
       </tuv>
     </tu>
     <tu>
