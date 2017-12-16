@@ -31866,12 +31866,14 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
     </tu>
     <tu>
       <note>【電書チェック】
-ひとつ　→　１つ　となっている</note>
+ひとつ　→　１つ　となっている
+
+(伊原) 紙に合わせて修正。</note>
       <tuv lang="EN-US">
         <seg>The second designer has many of the same skills exhibited by the first, but differs in one important aspect: they have enough knowledge of HTML, CSS and JavaScript to make their button appear inside a web page, and attach a JavaScript event listener to it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095747Z" creationid="okamoto_jun" creationdate="20170627T095747Z">
-        <seg>2番めにとりあげるデザイナーは、最初のデザイナーとほとんど同じスキルをもっていますが、ひとつ大きな違いがあります。彼らは、Webページ内にボタンを表示し、JavaScriptのイベントリスナーをアタッチできるだけのHTML、CSS、JavaScriptの知識を持っています。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T083720Z" creationid="okamoto_jun" creationdate="20170627T095747Z">
+        <seg>2番めにとりあげるデザイナーは、最初のデザイナーとほとんど同じスキルをもっていますが、1つ大きな違いがあります。彼らは、Webページ内にボタンを表示し、JavaScriptのイベントリスナーをアタッチできるだけのHTML、CSS、JavaScriptの知識を持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33044,8 +33046,8 @@ ready for the next test session というのは、もう次のセッションを
       <tuv lang="EN-US">
         <seg>They have no idea how to put that button on a web page or to make it do anything.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095457Z" creationid="okamoto_jun" creationdate="20170627T095457Z">
-        <seg>そのボタンをどうやってWebページに実装するか、どうやって動作させるかはまったく考えていません。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T083700Z" creationid="okamoto_jun" creationdate="20170627T095457Z">
+        <seg>そのボタンをどうやってWebページに実装するか、どうやって動作させるかは全く考えていません。</seg>
       </tuv>
     </tu>
     <tu>
