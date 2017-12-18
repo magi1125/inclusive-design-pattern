@@ -12420,7 +12420,11 @@ lodash の debounce を使ってイベントをまとめる話なのですが、
 (太田) 
 見えているものを後から隠したわけではないので、「つながったままであり」は少し違和感が。「つながっており」としてみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+関連づけは生きている　の強調漏れ
+</note>
       <tuv lang="EN-US">
         <seg>Despite being hidden, because it &lt;g4&gt;has a relationship&lt;/g4&gt; to the link, the link still has access to “Current page” and it will be announced on focusing the link.</seg>
       </tuv>
@@ -38581,7 +38585,10 @@ elicitedを適用としてみました。
 (太田) 何が、が分かりにくかったのでちょっと調整。
 shouldなので「すべき」くらいかなと。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+良い　→　よい　　と修正（2箇所）</note>
       <tuv lang="EN-US">
         <seg>Whether this text is to say “Current page,” “This page” or “You are here” is somewhat open to debate, but it should be fairly succinct.</seg>
       </tuv>
