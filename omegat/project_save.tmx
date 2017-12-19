@@ -16079,7 +16079,10 @@ vertical padding は2文前で「垂直パディング」としているので�
 
 (伊原) OK
 
-(岡本)　１つ→ひとつ　勧め→すすめ</note>
+(岡本)　１つ→ひとつ　勧め→すすめ
+
+【電書チェック】
+ひとつ　→　1つ　と修正</note>
       <tuv lang="EN-US">
         <seg>I would recommend mobile viewports configure navigation into a single column — one link per line — and provide a generous enough vertical padding to make each link higher than the diameter of an adult finger pad.</seg>
       </tuv>
@@ -29407,7 +29410,10 @@ becoming silenced in screen reader はヘイドンユーモアフレーズ? そ�
 
 (太田) 「反応しないスペース」としたほうが分かりやすいかも。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+「BBC Mobile Accessibility Guidelines」→　BCの「Mobile Accessibility Guidelines」　と修正</note>
       <tuv lang="EN-US">
         <seg>The &lt;g1&gt;&lt;g2&gt;BBC Mobile Accessibility Guidelines&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;28&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt; recommend the inclusion of “inactive space” between elements to remedy this issue, but I suggest this would create a somewhat incomprehensible, broken-up appearance when it comes to navigation regions.</seg>
       </tuv>
