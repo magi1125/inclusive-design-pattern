@@ -7188,7 +7188,10 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
 
 (伊原) DTPマター、岡本さん確認。
 
-(岡本)　これはやるとしたら、全体を罫線で囲って図版下する感じですね。そうしてみます。位置は左合わせになります。</note>
+(岡本)　これはやるとしたら、全体を罫線で囲って図版下する感じですね。そうしてみます。位置は左合わせになります。
+
+【電書チェック】
+示している。　→　示しています。　と修正。キャプションはですます調。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The familiar rectangular box indicates a glyph that is not supported and constitutes a fallback.&lt;/g3&gt;</seg>
       </tuv>
@@ -11088,7 +11091,10 @@ wordingはそのまま「ワーディング」もあり?
 スクリーンリーダーだと余裕で読めたりすることがある、という含みを持たせているのだと思います。ですので「視覚的」は残したいです。
 「視覚的にはまったく見えなくなります」くらいでしょうか。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+まったく　→　全く　と修正</note>
       <tuv lang="EN-US">
         <seg>But without the additional text, the button has no visual presence at all.</seg>
       </tuv>
@@ -15366,7 +15372,10 @@ http://ejje.weblio.jp/content/pertinent+to
 というだけなので、忘れている人が多いかもしれません。
 意訳になりますが「少し触れましたが」くらいのほうがいいかも。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+「はじめに」　→　1章「はじめに」　と修正</note>
       <tuv lang="EN-US">
         <seg>However, as you may recall from the &lt;g2&gt;&lt;button&gt;&lt;/g2&gt; example in the introduction, background images are eliminated when users switch into &lt;g3&gt;&lt;g4&gt;Windows’ high contrast mode&lt;/g4&gt;&lt;/g3&gt;&lt;g5&gt;&lt;g6&gt;&lt;g7&gt;7&lt;/g7&gt;&lt;/g6&gt;&lt;/g5&gt;.</seg>
       </tuv>
