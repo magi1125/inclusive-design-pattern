@@ -8527,7 +8527,10 @@ Allのニュアンスを盛り込むべきかも。
 
 (伊原) OK
 
-(岡本)　付け→つけ</note>
+(岡本)　付け→つけ
+
+【電書チェック】
+全て　→　すべて　　と修正</note>
       <tuv lang="EN-US">
         <seg>All interactive elements should have an accessible name so they can be interpreted and communicated in assistive technologies.</seg>
       </tuv>
@@ -10720,7 +10723,10 @@ http://thesaurus.weblio.jp/content/試金石
 
 (太田) OK
 
-(岡本)　素晴らしい→すばらしい</note>
+(岡本)　素晴らしい→すばらしい
+
+【電書チェック】
+良い　→　よい　　と修正</note>
       <tuv lang="EN-US">
         <seg>Bruce Lawson of Opera has a great article on “&lt;g1&gt;&lt;g2&gt;Making websites that work well on Opera Mini&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;9&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” Successful Opera Mini support is a good litmus test of high performance.</seg>
       </tuv>
@@ -30891,7 +30897,11 @@ http://www.unicode.org/charts/PDF/U2600.pdf
 「中国語のユーザーであれ」のうしろに訳注移動でお願いします。
 ※岡本さん確認
 
-(岡本)対応していました。</note>
+(岡本)対応していました。
+
+【電書チェック】
+ひとつ　→　1つ　と修正
+ふたつ　→　2つ　と修正</note>
       <tuv lang="EN-US">
         <seg>The first is that not all devices support a Unicode set extensive enough to include this character, the “trigram for heaven.” The second is that, unlike an icon font which is mapped to Unicode points in the &lt;g1&gt;&lt;g2&gt;private use area&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;12&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;, this character is more likely to be interpreted by assistive technology.</seg>
       </tuv>
