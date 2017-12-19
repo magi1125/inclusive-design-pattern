@@ -3237,7 +3237,11 @@ JISではbypass block を「ブロックスキップ」としています。
 anyを訳出しました。
 厳密には「子要素」ではなく「子孫要素」ですが、まあいいか。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+全て　→　すべて　　と修正
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;As previously mentioned, the &lt;g2&gt;hidden&lt;/g2&gt; attribute (like &lt;g3&gt;display: none;&lt;/g3&gt;) on a parent element makes any interactive element children unfocusable.</seg>
       </tuv>
@@ -26627,7 +26631,10 @@ https://heydonsbook.slack.com/archives/C3SR961U1/p1501771831264617
 animateをアニメーションと訳さなくても良いのかもしれませんね。
 調整してみましたがどうでしょうか。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+羽目　→　ハメ　　と修正</note>
       <tuv lang="EN-US">
         <seg>Setting &lt;g4&gt;height: 0;&lt;/g4&gt; and animating to full height would not have this effect, meaning keyboard users would have to tab through invisible elements while the menu is closed.</seg>
       </tuv>
