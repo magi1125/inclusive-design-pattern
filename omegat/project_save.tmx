@@ -4948,6 +4948,9 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
 「適切な」くらいにしておきましょうか。
 
 (伊原) OK
+
+【電書チェック】
+かける　　の強調漏れ
 </note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;“90cm × 30cm” is written using the correct (multiplication) Unicode character, so that “Thirty C M &lt;g2&gt;times&lt;/g2&gt; ninety C M” is announced in screen readers.</seg>
@@ -7663,7 +7666,10 @@ A common tactic はなにがcommonなのか。
 andの強調をどうするか。
 「かつ」として、全体を調整してみました。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+かつ　　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>A description of the rating in place of the image &lt;g4&gt;and&lt;/g4&gt; next to the image would mean a tedious duplication for screen reader users.</seg>
       </tuv>
@@ -14563,7 +14569,10 @@ take care of themselves は「自分のことは自分で始末する」「自�
 
 (伊原) 写真プリントに統一。
 
-(太田) OK</note>
+(太田) OK
+
+【電書チェック】
+そのもの　　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>Fortunately, our photographic print thumbnails are images &lt;g1&gt;of&lt;/g1&gt; images so composition and lighting take care of themselves.</seg>
       </tuv>
@@ -28451,7 +28460,10 @@ suffice to sayは「あえて言うなら」くらいのほうがしっくりく
 
 (伊原) DTPマター、岡本さんに確認。
 
-(岡本)　対応していました。</note>
+(岡本)　対応していました。
+
+【電書チェック】
+言う　→　いう　に修正</note>
       <tuv lang="EN-US">
         <seg>Suffice to say, unless you’re selling an intangible product like a six-month subscription or eternal happiness, your users are going to want to get a good look at their potential purchase.</seg>
       </tuv>
@@ -35500,7 +35512,10 @@ shouldなので「しなければならない」は強すぎるかもしれな�
 explicitlyを訳出したいかも。「明示的に」としました。
 「一見すると直観に反している」はもう少し何とかしたい。そもそも代替テキストを空にすることが「一見、直感に反している」というのはどうもよくわからない気がします。ここでは「もしかすると意外だったかもしれない」くらいのニュアンスでしょうか。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+さき　→　先　に修正</note>
       <tuv lang="EN-US">
         <seg>To avoid duplication in the last example, the correct answer was — perhaps counterintuitively at first glance — explicitly &lt;g3&gt;no&lt;/g3&gt; alternative text.</seg>
       </tuv>
@@ -35956,7 +35971,10 @@ CSS Fonts Module Level 3ではmetricsのほうが使われています。
       <note>(太田)
 すこし調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+隣　→　となり　　と修正</note>
       <tuv lang="EN-US">
         <seg>To reinforce what the stars represent, we’re also spelling out the rating adjacently.</seg>
       </tuv>
