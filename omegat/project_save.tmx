@@ -583,7 +583,10 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
 
 ちなみにiOSのVoiceOverは1行ずつしか読みません。リンク読みモードで飛んでも「ガソリンスタンドにたたずむ裸の男、見出しレベル3、リンク」でいったん切れます。ですので少なくとも all assistive technologies は言いすぎですね。
 
-(伊原) なるほど。OKです。</note>
+(伊原) なるほど。OKです。
+
+【電書チェック】
+全て　→　すべて　　と修正</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;In all assistive technologies, focusing the link is liable to trigger the readout of all its textual contents, which is rather verbose.</seg>
       </tuv>
@@ -3609,7 +3612,10 @@ common color は「同じ色」というより「共通の色」としたほう�
 
 (伊原) OK
 
-(岡本)　勧め→すすめ</note>
+(岡本)　勧め→すすめ
+
+【電書チェック】
+インタラクティブ　　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;I highly recommend that, although each of these elements are treated differently, they share a common color — a color which denotes the shared &lt;g2&gt;interactive&lt;/g2&gt; quality of the three elements.</seg>
       </tuv>
@@ -13677,7 +13683,9 @@ NVDAでは見出しジャンプを使うと普通に「ガソリンスタンド�
 
 iOSのVoiceOverで見出し読みモードにした場合も、「ガソリンスタンドにたたずむ裸の男、見出しレベル3、リンク」でした。
 ちなみに行読みモードにすると、a要素の中の各行を読むときにいちいち最初から読んでしまうようです。
-</note>
+
+【電書チェック】
+Ctrl + Alt + Cmd + H　はな網線強調ですが、これやめるように判断した気もします。</note>
       <tuv lang="EN-US">
         <seg>For example, in VoiceOver, when I try to navigate to a product heading using &lt;g2&gt;Ctrl&lt;/g2&gt; + &lt;g3&gt;Alt&lt;/g3&gt; + &lt;g4&gt;Cmd&lt;/g4&gt; + &lt;g5&gt;H&lt;/g5&gt;, the surrounding link is focused and the heading semantics (“Third-level heading”) are not announced.</seg>
       </tuv>
@@ -17958,6 +17966,9 @@ OK
 
 (太田)
 上二つの訳注で個別の観点については割とフォローできている気もしており、全体を見て批判するような訳注がいるのかどうか微妙に思いつつあります。ここの訳注はいったん保留で……。
+
+【電書チェック】
+良い　→　よい　　に修正
 </note>
       <tuv lang="EN-US">
         <seg>In general, it’s better to avoid block-level links like this one.</seg>
