@@ -10554,7 +10554,10 @@ barmanは残さなくて良いと思いましたが「キャプション中の�
 勧め→すすめ
 個人的には、目玉商品でもいい気がします。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+良い　→　よい　に修正</note>
       <tuv lang="EN-US">
         <seg>Better to show that a product is featured or recommended using some descriptive text, highlighted with CSS.</seg>
       </tuv>
@@ -16504,6 +16507,9 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
 (伊原) 写真プリントに統一しました
 
 (太田) OK
+
+【電書チェック】
+その　→　そのページ　　に太字の範囲を修正
 </note>
       <tuv lang="EN-US">
         <seg>If the user were to follow the link inside the heading to the photographer’s own page, the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location should be similarly marked up and presented.</seg>
@@ -35976,7 +35982,11 @@ going to want to は「必要が出てくる」というほど強くない気が
 
 (岡本)　1つだけ→ひとつだけ
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+ひとつだけ　→　1つだけ　　に修正
+良い　→　よい　　に修正</note>
       <tuv lang="EN-US">
         <seg>To save money, you are going to want to make just the one interface, not a different one for each imagined user group.</seg>
       </tuv>
