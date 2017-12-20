@@ -16028,7 +16028,9 @@ does not resemble a button はボタンに似ていない、ですが、下の�
 コールトゥアクション、カタカナにするの忘れてました。のでカタカナに。
 
 (伊原) OK
-</note>
+
+【電書チェック】
+良い　→　　よい　　と修正</note>
       <tuv lang="EN-US">
         <seg>I suggest you maintain a separate call-to-action style for links which has more visual purchase than a standard link but which does not resemble a button.</seg>
       </tuv>
@@ -23704,7 +23706,10 @@ Noteが訳出されていませんが、まあいいかという気も。
 (伊原) OK
 
 (太田)
-&lt;img/&gt;→&lt;img&gt;</note>
+&lt;img/&gt;→&lt;img&gt;
+
+【電書チェック】
+自動的に　　　が削除されている</note>
       <tuv lang="EN-US">
         <seg>Note that the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; element, included last, will have its &lt;g2&gt;src&lt;/g2&gt; attribute automatically switched to that defined in the &lt;g3&gt;&lt;source&gt;&lt;/g3&gt; element &lt;g4&gt;only&lt;/g4&gt; if the viewport is more than 800px wide.</seg>
       </tuv>
@@ -35543,7 +35548,10 @@ explicitlyを訳出したいかも。「明示的に」としました。
 
 (岡本)　掛ける→かける
 
-(太田) OK</note>
+(太田) OK
+
+【電書チェック】
+全て　→　すべて　　に修正</note>
       <tuv lang="EN-US">
         <seg>To be inclusive of those on poor networks, with smaller budgets or being subject to huge roaming charges, we need to mitigate the impact that loading all of these images is likely to have.</seg>
       </tuv>
@@ -36424,7 +36432,10 @@ resultを訳出。
 
 (伊原) 写真プリントに統一。
 
-(太田) OK</note>
+(太田) OK
+
+【電書チェック】
+促し　→　うながし　　と修正</note>
       <tuv lang="EN-US">
         <seg>Unless we’re &lt;g1&gt;entirely&lt;/g1&gt; lacking in business acumen, we’re going to want to facilitate the user’s purchase of the print.</seg>
       </tuv>
@@ -37340,7 +37351,10 @@ DTPマター。※岡本さん確認
       <note>(太田)
 mightなのでもうちょっと弱いイメージかも。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+良い　→　よい　　と修正</note>
       <tuv lang="EN-US">
         <seg>We might, accordingly, incorporate markup similar to that in the following illustration:</seg>
       </tuv>
