@@ -2867,7 +2867,13 @@ describe&lt;g15&gt;(&lt;/g15&gt;&lt;g16&gt;'Addモジュール'&lt;/g16&gt;&lt;g
 もとのepubのマークアップが変っぽいので、そこも修正。
 
 (太田)
-OK</note>
+OK
+
+【電書チェック】
+組み込まれた　強調漏れ
+ネイティブのものを使用します　強調漏れ
+
+だが、引用内なので強調しないということにした記憶もある。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;“If you&lt;/g1&gt; can &lt;g2&gt;use a native HTML element or attribute with the semantics and behaviour you require &lt;g3&gt;already built in&lt;/g3&gt;, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, &lt;g4&gt;then do so&lt;/g4&gt;.”&lt;/g2&gt;</seg>
       </tuv>
