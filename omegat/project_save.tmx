@@ -521,7 +521,10 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       <note>(岡本)
 1つ→ひとつ
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+ひとつ　→　１つ　　と修正</note>
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Does a set actually only have one field in it?</seg>
       </tuv>
@@ -23890,7 +23893,10 @@ resulting inも落ちているような。「結果として」くらいでし�
 「送信ボタン」を意図しているのかもしれません。
 「送信ボタン」としました。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+submitボタン　　でいいか？</note>
       <tuv lang="EN-US">
         <seg>Note that we are suppressing the submission of the form itself rather than merely the click handler on the submit button.</seg>
       </tuv>
@@ -28854,7 +28860,10 @@ JISだと「堅ろう」なのですよね。
       <note>(太田)
 調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+義務　　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>That a &lt;g1&gt;&lt;fieldset&gt;&lt;/g1&gt; in this context is not technically invalid or nonconforming might lead us to think it is the opposite: virtuous, correct — &lt;g2&gt;mandatory&lt;/g2&gt; even.</seg>
       </tuv>
@@ -33958,7 +33967,10 @@ a lot of moving partsとは。
 動的な処理を多数使う、というような意味?
 「動的な処理を多く伴う」としてみました。
 
-(伊原) 入れたそばから何か出すとか、そういうことなんでしょうね。OKです。</note>
+(伊原) 入れたそばから何か出すとか、そういうことなんでしょうね。OKです。
+
+【電書チェック】
+伴う　　　を9章では開いていたと思います。</note>
       <tuv lang="EN-US">
         <seg>This involves a lot of moving parts and, without care, can produce a jarring and unusable experience for some users.</seg>
       </tuv>
