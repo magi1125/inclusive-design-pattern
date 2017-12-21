@@ -15622,7 +15622,10 @@ don't want to なのでそこまで強くもなく、「絶対入れたくない
       <note>(太田)
 補いつつ調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+すでに　→　既に　　と修正</note>
       <tuv lang="EN-US">
         <seg>However, the loading symbol (and its eventual removal) already say what needs to be said.</seg>
       </tuv>
@@ -21000,7 +21003,10 @@ investは投資で良いのか? インクルーシブ思考に時間を費やす
 ここのソースも前のやつのコピペで、XHRしてないですね。
 
 (太田)
-フィルタ→フィルター</note>
+フィルタ→フィルター
+
+【電書チェック】
+これは、最終段落として段落分けされています。</note>
       <tuv lang="EN-US">
         <seg>It’s possible to limit this enhanced XHR-on-choosing-filter-option functionality to mouse and touch users by switching from using the &lt;g1&gt;change&lt;/g1&gt; event to using &lt;g2&gt;click&lt;/g2&gt;.</seg>
       </tuv>
@@ -41754,7 +41760,11 @@ OmegaT上で装飾追加ってどうするんでしょうか?
 
 (伊原) OmegaTで装飾追加はできないっぽいです。ひとまずはDTPマターとして岡本さん連絡かなと。
 
-(岡本) 分節2957は対応していました。0408は後ほどみます。</note>
+(岡本) 分節2957は対応していました。0408は後ほどみます。
+
+【電書チェック】
+ほう　→　方　　と修正
+良い　→　よい　　と修正</note>
       <tuv lang="EN-US">
         <seg>Perhaps, for greater immediacy, we could remove the submit button with JavaScript and attach the XHR functionality to the change event.</seg>
       </tuv>
@@ -42015,7 +42025,10 @@ https://msdn.microsoft.com/en-us/library/ms531160(v=vs.85).aspx
 
 (太田) 微調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+伴い　→　ともない　　と修正</note>
       <tuv lang="EN-US">
         <seg>When new results load, this handle will move upwards in accordance with the greater amount of content.</seg>
       </tuv>
