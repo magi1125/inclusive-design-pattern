@@ -2795,7 +2795,10 @@ describe&lt;g15&gt;(&lt;/g15&gt;&lt;g16&gt;'Addモジュール'&lt;/g16&gt;&lt;g
 (伊原) OK
 
 (太田)
-「ユーザーに制御させる」反映。</note>
+「ユーザーに制御させる」反映。
+
+【電書チェック】
+　ユーザーに制御させる　　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;Put users in control&lt;/g1&gt; is the second of Henny Swan’s principles.</seg>
       </tuv>
@@ -31697,6 +31700,13 @@ carefulは慎重? ここでは「少しずつ」くらいのニュアンスか?
 調整してみました。
 
 (伊原) OK
+
+【電書チェック】
+体験がさらにインクルーシブになるように拡張していきます。
+↓
+インクルーシブに体験を改善していきます。
+
+と修正。
 </note>
       <tuv lang="EN-US">
         <seg>The pattern will be founded on progressive enhancement and will work in the absence of both CSS and JavaScript, though we shall improve the experience inclusively with a careful application of those two technologies respectively.</seg>
