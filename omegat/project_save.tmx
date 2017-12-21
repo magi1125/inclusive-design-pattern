@@ -10380,7 +10380,10 @@ w
       <note>(太田)
 すこし調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+ひとつ　→　1つ　　と修正</note>
       <tuv lang="EN-US">
         <seg>Be aware, though, that since it treats the label and placeholder as one and the same, there is no opportunity to supply a hint or example.</seg>
       </tuv>
@@ -15365,7 +15368,10 @@ http://ejje.weblio.jp/content/pertinent+to
       <note>(太田)
 少し調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+すべての　　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>However, a clearer solution for &lt;g1&gt;all&lt;/g1&gt; users would be to present them with a choice of login or registration at the outset.</seg>
       </tuv>
@@ -18817,7 +18823,10 @@ p.229では「入力欄」とあり、表現が揺れています。（ちなみ
 
 (伊原) DTPマター、岡本さんに確認。
 
-(岡本)　ここは平字で問題ありません。っていうか、対応していたということか。</note>
+(岡本)　ここは平字で問題ありません。っていうか、対応していたということか。
+
+【電書チェック】
+submitボタン　　でいいか？</note>
       <tuv lang="EN-US">
         <seg>In the case of the submit button, the text node is the accessible label.</seg>
       </tuv>
@@ -22662,7 +22671,10 @@ IEはどのバージョンのことを言っているのか要確認。</note>
 (岡本)
 付け→つけ
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+言え　→　いえ　　と修正</note>
       <tuv lang="EN-US">
         <seg>My current output is hardly perfect, but it has benefited from a change in mindset, an acknowledgement that web pages aren’t merely pinboards for images.</seg>
       </tuv>
@@ -37785,7 +37797,10 @@ formとformのジョーク。どうしたものか。
 
 (伊原) 同意、DTPマター、岡本さんに確認。
 
-(岡本)　対応していました。</note>
+(岡本)　対応していました。
+
+【電書チェック】
+すでに　→　既に　　と修正</note>
       <tuv lang="EN-US">
         <seg>We’ve already touched on harnessing form controls in “A Filter Widget.” This form takes a more familiar, well, &lt;g1&gt;form&lt;/g1&gt;, facilitating text input by the user.</seg>
       </tuv>
