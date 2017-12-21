@@ -4258,7 +4258,11 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
 (太田)
 「並び替え順」は実際に使われている気配があまり無かったので、ラベルはAmazonにならって「並べ替え」としました。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+ひとつ　→　1つ　に修正
+submitボタン　→　送信ボタン　　に修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; contains a single &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt; which is used to group the radio options under the label “Sort by,” followed by a submit button.</seg>
       </tuv>
@@ -28240,7 +28244,10 @@ impactは次の文に合わせて「効果」としました。
 (太田)
 微調整
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+Tabの強調漏れ</note>
       <tuv lang="EN-US">
         <seg>Standard behavior is that only this checked &lt;g8&gt;&lt;input&gt;&lt;/g8&gt; is focusable by &lt;g9&gt;Tab&lt;/g9&gt;.</seg>
       </tuv>
@@ -37703,7 +37710,11 @@ https://www.w3.org/TR/css-cascade-3/#cascading-origins が正のURLです。
 enhanceします、と言っているのでそういうニュアンスにしたい。
 enhanceは拡張としました。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+改善　→　拡張　　に修正
+拡張　→　改善　　に修正</note>
       <tuv lang="EN-US">
         <seg>We’ll enhance the experience with JavaScript in the “JavaScript Enhancement” section to come.</seg>
       </tuv>
