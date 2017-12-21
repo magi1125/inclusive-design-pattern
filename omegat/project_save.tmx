@@ -3554,7 +3554,10 @@ https://momdo.github.io/html-aria/
 ただ、NVDAでは role="form" があると「フォーム ランドマーク」と読み、Dキーでも移動できるようになります。
 訳注ですね。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+ひとつ　→　1つ　に修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Having the ARIA role of &lt;g2&gt;form&lt;/g2&gt; on a &lt;g3&gt;&lt;form&gt;&lt;/g3&gt; seems counterintuitive, but it turns the widget into a region, making it navigable in screen readers using shortcuts.</seg>
       </tuv>
@@ -17585,7 +17588,10 @@ In any case, は「さて」ぐらいにしてみました。
 わかりにくすぎワロタ。単なるラジオボタンとfieldsetの話なのに、こんなにわかりにくく説明できるんですね。
 大胆に砕いて意訳しつつ3文に分けてみましたがどうでしょうか。
 
-(伊原) ありがとうございます。OKです。</note>
+(伊原) ありがとうございます。OKです。
+
+【電書チェック】
+ひとつ　→　1つ　に修正（２箇所）</note>
       <tuv lang="EN-US">
         <seg>In any case, our sorting widget consists of a set of mutually exclusive options each with their own unique label, and grouped under a common label.</seg>
       </tuv>
