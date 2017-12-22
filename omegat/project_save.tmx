@@ -10051,7 +10051,10 @@ hone は砥石でとぐような意味。
     <tu>
       <note>(伊原) 微調整。
 
-(太田) OK</note>
+(太田) OK
+
+【電書チェック】
+お勧め　→　おすすめ　　と修正</note>
       <tuv lang="EN-US">
         <seg>As you develop your own library of inclusive design patterns, I recommend you try writing some tests like these.</seg>
       </tuv>
@@ -22714,7 +22717,9 @@ IEはどのバージョンのことを言っているのか要確認。</note>
 (太田)
 「最も」は言っていないような。
 語順を原文に近づけつつすこし調整。
-</note>
+
+【電書チェック】
+付けて　→　つけて　　　と修正</note>
       <tuv lang="EN-US">
         <seg>My favorite part is that the Chrome browser’s way of highlighting unrecognized properties is to prefix them with a little warning sign (“⚠”).</seg>
       </tuv>
@@ -23191,6 +23196,9 @@ a handful ofは片手でつかめる程度、の意味ですが、前にメニ�
 「ひとつで全てを賄う必要はない」くらい?
 
 (伊原) OK
+
+【電書チェック】
+全て　→　すべて　　と修正
 </note>
       <tuv lang="EN-US">
         <seg>Not One-Size-Fits-All</seg>
@@ -24579,7 +24587,10 @@ willで未来形なので「出現するようになります」としました�
 
 (伊原) OK
 
-(太田) 文章を短縮</note>
+(太田) 文章を短縮
+
+【電書チェック】
+失敗　　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>Of course, none of this can technically &lt;g1&gt;fail&lt;/g1&gt; a build in its current form; it just highlights errors visually, for the front-end developer to see.</seg>
       </tuv>
