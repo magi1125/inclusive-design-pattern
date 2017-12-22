@@ -9796,7 +9796,9 @@ DTPマター ※岡本さん確認
 (伊原) DTPマター、岡本さんに確認
 
 (岡本)　対応しています。
-</note>
+
+【電書チェック】
+必要　　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>As stated in &lt;g1&gt;&lt;g2&gt;the &lt;g3&gt;tablist&lt;/g3&gt; role specification&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;7&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;, tablists &lt;g7&gt;require&lt;/g7&gt; “owned elements” with the explicit &lt;g8&gt;tab&lt;/g8&gt; role, in the form &lt;g9&gt;role="tab"&lt;/g9&gt;.</seg>
       </tuv>
@@ -27725,7 +27727,10 @@ cludgeはスラングでトイレ的な意味らしいです。「ひどい便�
 (太田)
 「CSSセレクタ」で統一しました。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+書く　　の強調漏れ</note>
       <tuv lang="EN-US">
         <seg>So good are CSS selectors at doing this that tools for &lt;g1&gt;writing&lt;/g1&gt; markup like &lt;g2&gt;&lt;g3&gt;Emmet&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;4&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; are based on selector-like syntax.</seg>
       </tuv>
