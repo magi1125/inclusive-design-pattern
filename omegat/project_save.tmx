@@ -15393,7 +15393,10 @@ http://ejje.weblio.jp/content/pertinent+to
 (太田)
 その→この
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+伴います　→　ともないます　　に修正</note>
       <tuv lang="EN-US">
         <seg>However, actually printing that error to the screen is fraught with problems.</seg>
       </tuv>
@@ -17709,7 +17712,10 @@ In any case, は「さて」ぐらいにしてみました。
 
 (伊原) OK、脚注はDTPマター、岡本さんに確認。
 
-(岡本)　対応していました。</note>
+(岡本)　対応していました。
+
+【電書チェック】
+ひとつ　→　１つ　　に修正。</note>
       <tuv lang="EN-US">
         <seg>In correctly behaving tab interfaces, there should always be one selected tab, defined accessibly using the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; state.</seg>
       </tuv>
@@ -19717,7 +19723,10 @@ justifyは「均等割り付け」としています。「両端揃え」でも�
 現状「インスペクタ」で統一されています。
 いったんママで。
 
-(伊原) OK（「フィルター」としているので音引きにあわせても良いのかも）。</note>
+(伊原) OK（「フィルター」としているので音引きにあわせても良いのかも）。
+
+【電書チェック】
+かわりに　→　代わりに　　に修正</note>
       <tuv lang="EN-US">
         <seg>Instead, I can use the developer tools CSS inspector like a JavaScript console and provide the error messages there.</seg>
       </tuv>
@@ -26594,6 +26603,11 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
 (太田)
 &lt;3798&gt;のテキストをこちらに持ってきて追加しました。
 Secondの扱いが微妙ですがいったんこれで。
+
+【電書チェック】
+エラーをシングルクォーテーションで囲んで文字列としてカプセル化する必要がなくなっていることに注目してください。
+
+がキャプションになっているが、これは本文なのではないか。
 </note>
       <tuv lang="EN-US">
         <seg>Second, as an unrecognized property it is not entered into specificity calculations.</seg>
@@ -31094,7 +31108,10 @@ pseudo-contentはいったん「疑似コンテンツ」で。
 「カスケードの最終結果」とか?
 すこし調整しました。
 
-(伊原) OK</note>
+(伊原) OK
+
+【電書チェック】
+ひとつめ　→　１つめ　　に修正</note>
       <tuv lang="EN-US">
         <seg>The first is that when two errors apply to the same element, all but the last in the cascade will be grayed out (with a line-through style) in the CSS inspector.</seg>
       </tuv>
