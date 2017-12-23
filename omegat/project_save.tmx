@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3398,7 +3398,9 @@ OK
 書く（強調）、あるいは表現（強調）する　→　書いたり表現したりするもの
 となっている。
 
-(太田) 強調を適切に反映するためにリライトしたものが紙版に反映されなかったものと思われます。電子版はこれでOK</note>
+(太田) 強調を適切に反映するためにリライトしたものが紙版に反映されなかったものと思われます。電子版はこれでOK
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Content — what we &lt;g2&gt;write&lt;/g2&gt; or otherwise &lt;g3&gt;express&lt;/g3&gt; via the web — must be subject to design thinking and, in fact, all other design decisions should facilitate that.</seg>
       </tuv>
@@ -7867,7 +7869,9 @@ andの強調をどうするか。
     </tu>
     <tu>
       <note>【電書チェック】
-悪いデザイン、の強調漏れ</note>
+悪いデザイン、の強調漏れ
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>A hack is a symptom of &lt;g2&gt;bad design&lt;/g2&gt;.</seg>
       </tuv>
@@ -27134,7 +27138,9 @@ pierceは単に刺すというより貫通するくらいの意味かと。「�
     </tu>
     <tu>
       <note>【電書チェック】
-ひとつ　→　１つ　となっている</note>
+ひとつ　→　１つ　となっている
+
+</note>
       <tuv lang="EN-US">
         <seg>Simply capturing a single string makes more sense.</seg>
       </tuv>
@@ -35018,12 +35024,14 @@ arrays of content のarrayはプログラム用語のarrayで、レイアウト�
       <note>【電書チェック】
 良い　→　よい　となっている
 
-(太田) ママでOK</note>
+(太田) ママでOK
+
+(伊原) 原則紙にあわせるとのことですので修正</note>
       <tuv lang="EN-US">
         <seg>This seems like a better approach.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T094531Z" creationid="okamoto_jun" creationdate="20170627T094531Z">
-        <seg>やり方としてはこちらの方が良いように思えます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171223T134437Z" creationid="okamoto_jun" creationdate="20170627T094531Z">
+        <seg>やり方としてはこちらの方がよいように思えます。</seg>
       </tuv>
     </tu>
     <tu>
