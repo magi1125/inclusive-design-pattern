@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30894,7 +30894,9 @@ jaw は動詞だとスラングで Impudent or abusive talk.
 (伊原) OK
 
 【電書チェック】
-リンク　　の強調もれ</note>
+リンク　　の強調もれ
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The behavior of &lt;g1&gt;linking&lt;/g1&gt; is effectively replaced with &lt;g2&gt;scrolling&lt;/g2&gt; and sequential focus navigation no longer takes place.</seg>
       </tuv>
@@ -35435,7 +35437,8 @@ correctedは修正された、ですが若干違和感があります。訳す�
 
 
 (太田) 紙に合わせて修正
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Though a heading is recommended to support screen reader heading navigation, and to add lexical clarity for users of all kinds, it’s not obligatory.</seg>
       </tuv>
