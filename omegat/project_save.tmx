@@ -7248,7 +7248,10 @@ sigh はため息なので、やそのまま訳すなら「はぁー!」とか?
 (岡本)　これはやるとしたら、全体を罫線で囲って図版下する感じですね。そうしてみます。位置は左合わせになります。
 
 【電書チェック】
-示している。　→　示しています。　と修正。キャプションはですます調。</note>
+示している。　→　示しています。　と修正。キャプションはですます調。
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;The familiar rectangular box indicates a glyph that is not supported and constitutes a fallback.&lt;/g3&gt;</seg>
       </tuv>
@@ -10809,12 +10812,15 @@ http://thesaurus.weblio.jp/content/試金石
 (岡本)　素晴らしい→すばらしい
 
 【電書チェック】
-良い　→　よい　　と修正</note>
+良い　→　よい　　と修正
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>Bruce Lawson of Opera has a great article on “&lt;g1&gt;&lt;g2&gt;Making websites that work well on Opera Mini&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;9&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;.” Successful Opera Mini support is a good litmus test of high performance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T020615Z" creationid="rikiha" creationdate="20170812T161525Z">
-        <seg>ちなみに、Operaのブルース・ローソン（Bruce Lawson）による&lt;g1&gt;&lt;g2&gt;「Making websites that work well on Opera Mini」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注106）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;というすばらしい記事があります。WebサイトがOpera Miniをサポートできていることは、ハイパフォーマンスであることを示す良い物差しとなります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T131851Z" creationid="rikiha" creationdate="20170812T161525Z">
+        <seg>ちなみに、Operaのブルース・ローソン（Bruce Lawson）による&lt;g1&gt;&lt;g2&gt;「Making websites that work well on Opera Mini」&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注106）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;というすばらしい記事があります。WebサイトがOpera Miniをサポートできていることは、ハイパフォーマンスであることを示すよい物差しとなります。</seg>
       </tuv>
     </tu>
     <tu>
