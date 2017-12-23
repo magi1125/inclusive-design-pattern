@@ -12167,12 +12167,16 @@ almost alwaysは「ほとんど常に」くらい?
 (伊原) OK
 
 【電書チェック】
-まったく　→　全く　　に修正</note>
+まったく　→　全く　　に修正
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>Complaints toward online services are almost always from people unable to actually &lt;g6&gt;use&lt;/g6&gt; an interface, but a 100%-compliant interface can still be entirely unusable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170907T101320Z" creationid="rikiha" creationdate="20170905T004407Z">
-        <seg>オンラインサービスに対する苦情は、ほとんど常にインターフェイスを実際に&lt;g6&gt;使う&lt;/g6&gt;ことができない人々によるものです。仕様に100％準拠しているインターフェイスでも、まったく使いものにならない可能性はあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T134738Z" creationid="rikiha" creationdate="20170905T004407Z">
+        <seg>オンラインサービスに対する苦情は、ほとんど常にインターフェイスを実際に&lt;g6&gt;使う&lt;/g6&gt;ことができない人々によるものです。仕様に100％準拠しているインターフェイスでも、全く使いものにならない可能性はあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18090,12 +18094,15 @@ OK
 
 【電書チェック】
 良い　→　よい　　に修正
+
+
+(太田) 紙に合わせて修正
 </note>
       <tuv lang="EN-US">
         <seg>In general, it’s better to avoid block-level links like this one.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170905T004401Z" creationid="rikiha" creationdate="20170905T004401Z">
-        <seg>一般に、この例のようなブロックレベルのリンクは避けた方が良いでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T134709Z" creationid="rikiha" creationdate="20170905T004401Z">
+        <seg>一般に、この例のようなブロックレベルのリンクは避けた方がよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
