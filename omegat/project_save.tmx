@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37947,12 +37947,14 @@ https://www.w3.org/TR/css-cascade-3/#cascading-origins が正のURLです。
       <note>(伊原) LGTM
 
 【電書チェック】
-皆さん　→　みなさん　　と修正</note>
+皆さん　→　みなさん　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>Well, there’s more that goes into humble paragraph text design than perhaps you first imagined.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170512T034043Z" creationid="yoota" creationdate="20170512T034043Z">
-        <seg>地味なパラグラフテキストのデザインには、皆さんが最初にイメージしていたよりも、おそらくたくさんのことが含まれています。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171223T135159Z" creationid="yoota" creationdate="20170512T034043Z">
+        <seg>地味なパラグラフテキストのデザインには、みなさんが最初にイメージしていたよりも、おそらくたくさんのことが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
