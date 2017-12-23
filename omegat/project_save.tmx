@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4124,7 +4124,9 @@ strategyを「方策」としているのは少し大げさかもしれません
 
 (伊原) 紙に合わせて修正、語尾は電子版側で修正。ちなみに紙側は任意改行が入ってしまっている
 
-(太田) 語尾はママで良いと考えます。全体が「です・ます」で箇条書きだけ「だ・である」というスタイルですが、箇条書き内の2文目以降が「です・ます」に戻るのは別に変ではないと思います。</note>
+(太田) 語尾はママで良いと考えます。全体が「です・ます」で箇条書きだけ「だ・である」というスタイルですが、箇条書き内の2文目以降が「です・ます」に戻るのは別に変ではないと思います。
+
+(伊原) では語尾はママで。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Remember that your experience as a screen reader user will differ dramatically from blind users, who have dramatically different strategies even among themselves.</seg>
       </tuv>
@@ -10508,12 +10510,14 @@ in your layout は直訳すれば「あなたのレイアウトの中で」で�
       <note>(伊原) LGTM
 
 【電書チェック】
-皆　→　みな　　と修正</note>
+皆　→　みな　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>Because not all screen reader users are alike.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170515T085110Z" creationid="yoota" creationdate="20170515T085110Z">
-        <seg>これは、スクリーンリーダーユーザーが皆同じではないからです。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171223T135220Z" creationid="yoota" creationdate="20170515T085110Z">
+        <seg>これは、スクリーンリーダーユーザーがみな同じではないからです。</seg>
       </tuv>
     </tu>
     <tu>
