@@ -9180,12 +9180,16 @@ hueは正確には色相ですが、まあ色で良いかなと。
 (伊原) 
 
 【電書チェック】
-全て　→　すべて　　と修正</note>
+全て　→　すべて　　と修正
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>Any time spent by a user operating an interface, twisting knobs, pulling levers or tapping buttons is time wasted.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170824T024611Z" creationid="rikiha" creationdate="20170819T005401Z">
-        <seg>ユーザーがインターフェイスを操作したり、つまみを回したり、レバーを引いたり、ボタンをタップしたりするのに時間を費やすことは、全て時間の浪費なのです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T132334Z" creationid="rikiha" creationdate="20170819T005401Z">
+        <seg>ユーザーがインターフェイスを操作したり、つまみを回したり、レバーを引いたり、ボタンをタップしたりするのに時間を費やすことは、すべて時間の浪費なのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26831,7 +26835,11 @@ animateをアニメーションと訳さなくても良いのかもしれませ�
 (伊原) OK
 
 【電書チェック】
-羽目　→　はめ　　と修正</note>
+羽目　→　はめ　　と修正
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>Setting &lt;g4&gt;height: 0;&lt;/g4&gt; and animating to full height would not have this effect, meaning keyboard users would have to tab through invisible elements while the menu is closed.</seg>
       </tuv>
