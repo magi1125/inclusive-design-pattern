@@ -19019,7 +19019,9 @@ p.229では「入力欄」とあり、表現が揺れています。（ちなみ
 【電書チェック】
 submitボタン　　でいいか？
 
-(太田) submitでOK</note>
+(太田) submitでOK
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>In the case of the submit button, the text node is the accessible label.</seg>
       </tuv>
@@ -38174,7 +38176,9 @@ formとformのジョーク。どうしたものか。
 (岡本)　対応していました。
 
 【電書チェック】
-すでに　→　既に　　と修正</note>
+すでに　→　既に　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>We’ve already touched on harnessing form controls in “A Filter Widget.” This form takes a more familiar, well, &lt;g1&gt;form&lt;/g1&gt;, facilitating text input by the user.</seg>
       </tuv>
