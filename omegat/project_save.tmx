@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8688,12 +8688,15 @@ listenは「監視」としてみました。
 
 【電書チェック】
 分かり　→　わかり　　に修正
+
+
+(太田) 紙に合わせて修正
 </note>
       <tuv lang="EN-US">
         <seg>All the more reason to write descriptive, easily understood &lt;g3&gt;&lt;title&gt;&lt;/g3&gt; text as described in “The Document.” In fact, well-written &lt;g4&gt;&lt;title&gt;&lt;/g4&gt; text can elevate your search rankings, but &lt;g5&gt;&lt;g6&gt;avoid spammy &lt;g7&gt;&lt;title&gt;&lt;/g7&gt;s&lt;/g6&gt;&lt;/g5&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;20&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170908T064809Z" creationid="yoota" creationdate="20170908T021824Z">
-        <seg>2章「ドキュメント全体」でも説明したように、&lt;g3&gt;&lt;title&gt;&lt;/g3&gt;テキストは説明的で分かりやすいものにするべきですが、さらなる理由がここにあります。実際、よく練られた&lt;g4&gt;&lt;title&gt;&lt;/g4&gt;テキストは検索順位を上げることができますが、&lt;g5&gt;&lt;g6&gt;スパムのような&lt;g7&gt;&lt;title&gt;&lt;/g7&gt;は避けましょう&lt;/g6&gt;&lt;/g5&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注151）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T134824Z" creationid="yoota" creationdate="20170908T021824Z">
+        <seg>2章「ドキュメント全体」でも説明したように、&lt;g3&gt;&lt;title&gt;&lt;/g3&gt;テキストは説明的でわかりやすいものにするべきですが、さらなる理由がここにあります。実際、よく練られた&lt;g4&gt;&lt;title&gt;&lt;/g4&gt;テキストは検索順位を上げることができますが、&lt;g5&gt;&lt;g6&gt;スパムのような&lt;g7&gt;&lt;title&gt;&lt;/g7&gt;は避けましょう&lt;/g6&gt;&lt;/g5&gt;&lt;g8&gt;&lt;g9&gt;&lt;g10&gt;（脚注151）&lt;/g10&gt;&lt;/g9&gt;&lt;/g8&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31924,8 +31927,8 @@ carefulは慎重? ここでは「少しずつ」くらいのニュアンスか?
       <tuv lang="EN-US">
         <seg>The pattern will be founded on progressive enhancement and will work in the absence of both CSS and JavaScript, though we shall improve the experience inclusively with a careful application of those two technologies respectively.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T094106Z" creationid="rikiha" creationdate="20170909T223241Z">
-        <seg>このパターンではプログレッシブエンハンスメントを基礎としています。CSSとJavaScriptなしでも機能するように作ってから、これら2つの技術をそれぞれ少しずつ適用して、体験がさらにインクルーシブになるように拡張していきます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T134855Z" creationid="rikiha" creationdate="20170909T223241Z">
+        <seg>このパターンではプログレッシブエンハンスメントを基礎としています。CSSとJavaScriptなしでも機能するように作ってから、これら2つの技術をそれぞれ少しずつ適用して、インクルーシブに体験を改善していきます。</seg>
       </tuv>
     </tu>
     <tu>
