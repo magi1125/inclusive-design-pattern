@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -209,7 +209,9 @@ theを「上記の」としつつ調整してみました。
 
 (伊原) 紙に合わせて修正、語尾は電子版側で修正。ちなみに紙側は任意改行が入ってしまっている
 
-(太田) 語尾はママで良いと考えます。全体が「です・ます」で箇条書きだけ「だ・である」というスタイルですが、箇条書き内の2文目以降が「です・ます」に戻るのは別に変ではないと思います。</note>
+(太田) 語尾はママで良いと考えます。全体が「です・ます」で箇条書きだけ「だ・である」というスタイルですが、箇条書き内の2文目以降が「です・ます」に戻るのは別に変ではないと思います。
+
+(伊原) では語尾はママで。</note>
       <tuv lang="EN-US">
         <seg>(Refer to the &lt;g2&gt;&lt;g3&gt;responses of my screen reader survey&lt;/g3&gt;&lt;/g2&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;21&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; to gain an impression of the diversity.)</seg>
       </tuv>
@@ -32243,7 +32245,9 @@ audit をどう訳すか。あまり検査とは言わないようにも思い�
 
 (伊原) 紙に合わせて修正
 
-(太田) 「書き始めたのは、私は」と続くのは違和感があります。「私は」→「私が」にひそかに修正。</note>
+(太田) 「書き始めたのは、私は」と続くのは違和感があります。「私は」→「私が」にひそかに修正。
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>The reason I started out writing by principle is because I often have to wear my accessibility engineer hat and perform accessibility audits.</seg>
       </tuv>
