@@ -10756,6 +10756,14 @@ OK
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Book Cover</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171223T165846Z" creationid="magi1125" creationdate="20171223T165846Z">
+        <seg>表紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Books</seg>
       </tuv>
       <tuv lang="JA" changeid="Administrator" changedate="20170930T052800Z" creationid="Administrator" creationdate="20170930T052800Z">
@@ -17255,7 +17263,7 @@ OK</note>
       <tuv lang="EN-US">
         <seg>Imprint | Inclusive Design Patterns</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20171006T130445Z">
+      <tuv lang="JA" changeid="magi1125" changedate="20171223T165856Z">
         <seg>Imprint | インクルーシブHTML+CSS &amp; JavaScript</seg>
       </tuv>
     </tu>
