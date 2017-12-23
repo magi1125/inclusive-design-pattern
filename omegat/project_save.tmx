@@ -4941,12 +4941,15 @@ aria-pressedの読み上げは2017.3で変更になったようです。
 (岡本) 1つ→ひとつ
 
 【電書チェック】
-ひとつ　→　1つ　　と修正</note>
+ひとつ　→　1つ　　と修正
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;You can have more than one navigation landmark per page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170801T102721Z" creationid="rikiha" creationdate="20170722T131901Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;navigationランドマークはひとつのページに複数あってもよい。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T125853Z" creationid="rikiha" creationdate="20170722T131901Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;navigationランドマークは1つのページに複数あってもよい。</seg>
       </tuv>
     </tu>
     <tu>
