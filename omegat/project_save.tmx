@@ -16777,12 +16777,14 @@ so it’s worth investigating.は、「(標準の機能が使えないかどう�
 (岡本) 26→27
 
 【電書チェック】
-コントラストのアクセシビリティ　→　コントラスト　　と修正</note>
+コントラストのアクセシビリティ　→　コントラスト　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>If you end up in the unfortunate position that colors were chosen without recourse to contrast accessibility, tools like &lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;13&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt; can help you identify problem areas.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T080027Z" creationid="yoota" creationdate="20170511T072130Z">
-        <seg>残念ながらコントラストのアクセシビリティを考慮せずに色が選択されてしまった場合、&lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注27）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;などのツールを使えば問題のある領域を特定するのに役立つでしょう。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171223T135127Z" creationid="yoota" creationdate="20170511T072130Z">
+        <seg>残念ながらコントラストを考慮せずに色が選択されてしまった場合、&lt;g11&gt;&lt;g12&gt;Color Contrast Analyser&lt;/g12&gt;&lt;/g11&gt;&lt;g13&gt;&lt;g14&gt;&lt;g15&gt;（脚注27）&lt;/g15&gt;&lt;/g14&gt;&lt;/g13&gt;などのツールを使えば問題のある領域を特定するのに役立つでしょう。</seg>
       </tuv>
     </tu>
     <tu>
