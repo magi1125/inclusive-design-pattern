@@ -3589,7 +3589,9 @@ https://momdo.github.io/html-aria/
 (伊原) OK
 
 【電書チェック】
-ひとつ　→　1つ　に修正</note>
+ひとつ　→　1つ　に修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Having the ARIA role of &lt;g2&gt;form&lt;/g2&gt; on a &lt;g3&gt;&lt;form&gt;&lt;/g3&gt; seems counterintuitive, but it turns the widget into a region, making it navigable in screen readers using shortcuts.</seg>
       </tuv>
@@ -4304,7 +4306,8 @@ submitボタン　→　送信ボタン　　に修正
 
 
 (太田) 紙に合わせて修正
-</note>
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; contains a single &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt; which is used to group the radio options under the label “Sort by,” followed by a submit button.</seg>
       </tuv>
