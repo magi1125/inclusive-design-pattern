@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3582,8 +3582,8 @@ https://momdo.github.io/html-aria/
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Having the ARIA role of &lt;g2&gt;form&lt;/g2&gt; on a &lt;g3&gt;&lt;form&gt;&lt;/g3&gt; seems counterintuitive, but it turns the widget into a region, making it navigable in screen readers using shortcuts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T024447Z" creationid="rikiha" creationdate="20170909T223320Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g3&gt;&lt;form&gt;&lt;/g3&gt;に&lt;g2&gt;form&lt;/g2&gt;というARIA roleを指定しているのは意外に思うかもしれませんが、これによってウィジェットがひとつの領域になり、スクリーンリーダーでショートカットを使ってナビゲーションできるようになります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T135125Z" creationid="rikiha" creationdate="20170909T223320Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;&lt;g3&gt;&lt;form&gt;&lt;/g3&gt;に&lt;g2&gt;form&lt;/g2&gt;というARIA roleを指定しているのは意外に思うかもしれませんが、これによってウィジェットが1つの領域になり、スクリーンリーダーでショートカットを使ってナビゲーションできるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4285,12 +4285,16 @@ http://yuuka-k.blog.so-net.ne.jp/2013-02-14</note>
 
 【電書チェック】
 ひとつ　→　1つ　に修正
-submitボタン　→　送信ボタン　　に修正</note>
+submitボタン　→　送信ボタン　　に修正
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;The &lt;g2&gt;&lt;form&gt;&lt;/g2&gt; contains a single &lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt; which is used to group the radio options under the label “Sort by,” followed by a submit button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171012T121444Z" creationid="rikiha" creationdate="20170909T223327Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;この&lt;g2&gt;&lt;form&gt;&lt;/g2&gt;は「並べ替え」ラベル以下のラジオボタンをグループ化する&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;をひとつ含み、その後にsubmitボタンが続きます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T135149Z" creationid="rikiha" creationdate="20170909T223327Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;この&lt;g2&gt;&lt;form&gt;&lt;/g2&gt;は「並べ替え」ラベル以下のラジオボタンをグループ化する&lt;g3&gt;&lt;fieldset&gt;&lt;/g3&gt;を1つ含み、その後に送信ボタンが続きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17700,12 +17704,16 @@ In any case, は「さて」ぐらいにしてみました。
 (伊原) ありがとうございます。OKです。
 
 【電書チェック】
-ひとつ　→　1つ　に修正（２箇所）</note>
+ひとつ　→　1つ　に修正（２箇所）
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>In any case, our sorting widget consists of a set of mutually exclusive options each with their own unique label, and grouped under a common label.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170913T021359Z" creationid="rikiha" creationdate="20170909T223308Z">
-        <seg>ともあれ、並び替えウィジェットを用意しましょう。並び替えのオプションはそれぞれユニークなラベルを持ち、どれか一つだけが選択できるようになっています。これらのオプションはひとつのグループとしてまとめられ、共通のラベルがつけられています。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T135051Z" creationid="rikiha" creationdate="20170909T223308Z">
+        <seg>ともあれ、並び替えウィジェットを用意しましょう。並び替えのオプションはそれぞれユニークなラベルを持ち、どれか1つだけが選択できるようになっています。これらのオプションは1つのグループとしてまとめられ、共通のラベルがつけられています。</seg>
       </tuv>
     </tu>
     <tu>
