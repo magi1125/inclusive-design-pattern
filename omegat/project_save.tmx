@@ -28444,7 +28444,11 @@ impactは次の文に合わせて「効果」としました。
 (伊原) OK
 
 【電書チェック】
-Tabの強調漏れ</note>
+Tabの強調漏れ
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>Standard behavior is that only this checked &lt;g8&gt;&lt;input&gt;&lt;/g8&gt; is focusable by &lt;g9&gt;Tab&lt;/g9&gt;.</seg>
       </tuv>
@@ -37987,7 +37991,9 @@ enhanceは拡張としました。
 
 【電書チェック】
 改善　→　拡張　　に修正
-拡張　→　改善　　に修正</note>
+拡張　→　改善　　に修正
+
+</note>
       <tuv lang="EN-US">
         <seg>We’ll enhance the experience with JavaScript in the “JavaScript Enhancement” section to come.</seg>
       </tuv>
