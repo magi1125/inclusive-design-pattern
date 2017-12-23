@@ -8596,12 +8596,15 @@ Allのニュアンスを盛り込むべきかも。
 (岡本)　付け→つけ
 
 【電書チェック】
-全て　→　すべて　　と修正</note>
+全て　→　すべて　　と修正
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>All interactive elements should have an accessible name so they can be interpreted and communicated in assistive technologies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171007T085909Z" creationid="rikiha" creationdate="20170815T160723Z">
-        <seg>インタラクティブな要素は全て、アクセシブルな名前 (accessible name) をつけて、支援技術で解釈したり伝えたりできるようにするべきです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T131939Z" creationid="rikiha" creationdate="20170815T160723Z">
+        <seg>インタラクティブな要素はすべて、アクセシブルな名前 (accessible name) をつけて、支援技術で解釈したり伝えたりできるようにするべきです。</seg>
       </tuv>
     </tu>
     <tu>
