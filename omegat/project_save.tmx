@@ -15522,12 +15522,14 @@ http://ejje.weblio.jp/content/pertinent+to
 (伊原) OK
 
 【電書チェック】
-伴います　→　ともないます　　に修正</note>
+伴います　→　ともないます　　に修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>However, actually printing that error to the screen is fraught with problems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171001T085816Z" creationid="rikiha" creationdate="20170925T014553Z">
-        <seg>ただし、このエラーを画面に表示することには問題が伴います。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171223T145422Z" creationid="rikiha" creationdate="20170925T014553Z">
+        <seg>ただし、このエラーを画面に表示することには問題がともないます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17878,12 +17880,14 @@ In any case, は「さて」ぐらいにしてみました。
 (岡本)　対応していました。
 
 【電書チェック】
-ひとつ　→　１つ　　に修正。</note>
+ひとつ　→　１つ　　に修正。
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>In correctly behaving tab interfaces, there should always be one selected tab, defined accessibly using the &lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;8&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt; state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171009T050856Z" creationid="rikiha" creationdate="20170925T014509Z">
-        <seg>タブインターフェイスの適切なふるまいとしては、常にタブがひとつだけ選択され、そのことが&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注200）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;によってアクセシブルに明示されている必要があります。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171223T145409Z" creationid="rikiha" creationdate="20170925T014509Z">
+        <seg>タブインターフェイスの適切なふるまいとしては、常にタブが1つだけ選択され、そのことが&lt;g1&gt;&lt;g2&gt;&lt;g3&gt;aria-selected&lt;/g3&gt;&lt;/g2&gt;&lt;/g1&gt;&lt;g4&gt;&lt;g5&gt;&lt;g6&gt;（脚注200）&lt;/g6&gt;&lt;/g5&gt;&lt;/g4&gt;によってアクセシブルに明示されている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
