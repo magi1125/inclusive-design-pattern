@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7771,12 +7771,14 @@ andの強調をどうするか。
 (伊原) LGTM
 
 【電書チェック】
-言えます　→　いえます　　と修正</note>
+言えます　→　いえます　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>A font that supports a large, international character set is an inclusive font.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170501T052520Z" creationid="yoota" creationdate="20170501T052324Z">
-        <seg>広範な国際文字セットをサポートしているフォントはインクルーシブなフォントと言えます。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171223T134811Z" creationid="yoota" creationdate="20170501T052324Z">
+        <seg>広範な国際文字セットをサポートしているフォントはインクルーシブなフォントといえます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21717,6 +21719,8 @@ Windowsのショートカットは、原文に併記しているところとそ�
 キー　　まで強調になっている
 
 (太田) ママでOK
+
+(伊原) ママでOK
 </note>
       <tuv lang="EN-US">
         <seg>Just press &lt;g6&gt;Cmd&lt;/g6&gt; + &lt;g7&gt;Option&lt;/g7&gt; + &lt;g8&gt;M&lt;/g8&gt;, then resize the simulated viewport incrementally until the content is forced to collide, overlap or wrap.</seg>
@@ -36590,7 +36594,9 @@ OK
     </tu>
     <tu>
       <note>【電書チェック】
-コードによるデザイン　強調漏れ</note>
+コードによるデザイン　強調漏れ
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Unfortunately, aside from the event listener, all they’re really doing is encoding graphic design, not &lt;g1&gt;designing with code&lt;/g1&gt;.</seg>
       </tuv>
