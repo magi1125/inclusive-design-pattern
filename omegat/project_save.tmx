@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16136,12 +16136,16 @@ does not resemble a button はボタンに似ていない、ですが、下の�
 (伊原) OK
 
 【電書チェック】
-良い　→　　よい　　と修正</note>
+良い　→　　よい　　と修正
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>I suggest you maintain a separate call-to-action style for links which has more visual purchase than a standard link but which does not resemble a button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T081734Z" creationid="rikiha" creationdate="20170905T004208Z">
-        <seg>ボタンのスタイルとは別に、標準のリンクよりもユーザーの購買意欲を刺激し、かつ他のボタンとは似ていない、独自のコールトゥアクションリンクのスタイルを用意しておくと良いでしょう。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T134329Z" creationid="rikiha" creationdate="20170905T004208Z">
+        <seg>ボタンのスタイルとは別に、標準のリンクよりもユーザーの購買意欲を刺激し、かつ他のボタンとは似ていない、独自のコールトゥアクションリンクのスタイルを用意しておくとよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23872,12 +23876,16 @@ Noteが訳出されていませんが、まあいいかという気も。
 &lt;img/&gt;→&lt;img&gt;
 
 【電書チェック】
-自動的に　　　が削除されている</note>
+自動的に　　　が削除されている
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>Note that the &lt;g1&gt;&lt;img/&gt;&lt;/g1&gt; element, included last, will have its &lt;g2&gt;src&lt;/g2&gt; attribute automatically switched to that defined in the &lt;g3&gt;&lt;source&gt;&lt;/g3&gt; element &lt;g4&gt;only&lt;/g4&gt; if the viewport is more than 800px wide.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171017T093200Z" creationid="yoota" creationdate="20170905T083214Z">
-        <seg>最後の&lt;g1&gt;&lt;img&gt;&lt;/g1&gt;要素は、ビューポートの幅が800pxを超える場合&lt;g4&gt;のみ&lt;/g4&gt;、その&lt;g2&gt;src&lt;/g2&gt;属性を&lt;g3&gt;&lt;source&gt;&lt;/g3&gt;要素で定義されているものに自動的に切り替えます。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T134241Z" creationid="yoota" creationdate="20170905T083214Z">
+        <seg>最後の&lt;g1&gt;&lt;img&gt;&lt;/g1&gt;要素は、ビューポートの幅が800pxを超える場合&lt;g4&gt;のみ&lt;/g4&gt;、その&lt;g2&gt;src&lt;/g2&gt;属性を&lt;g3&gt;&lt;source&gt;&lt;/g3&gt;要素で定義されているものに切り替えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36683,12 +36691,16 @@ resultを訳出。
 (太田) OK
 
 【電書チェック】
-促し　→　うながし　　と修正</note>
+促し　→　うながし　　と修正
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>Unless we’re &lt;g1&gt;entirely&lt;/g1&gt; lacking in business acumen, we’re going to want to facilitate the user’s purchase of the print.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170906T024512Z" creationid="rikiha" creationdate="20170905T004152Z">
-        <seg>ビジネス感覚が&lt;g1&gt;完全に&lt;/g1&gt;欠落しているのでない限り、ユーザーに写真プリントの購入を促したいと考えるはずです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T134301Z" creationid="rikiha" creationdate="20170905T004152Z">
+        <seg>ビジネス感覚が&lt;g1&gt;完全に&lt;/g1&gt;欠落しているのでない限り、ユーザーに写真プリントの購入をうながしたいと考えるはずです。</seg>
       </tuv>
     </tu>
     <tu>
