@@ -166,8 +166,8 @@ theを「上記の」としつつ調整してみました。
       <tuv lang="EN-US">
         <seg>(Note the &lt;g1&gt;tabindex="-1"&lt;/g1&gt; attribute which fixes sequential focus navigation as discussed in “Navigation Regions”).</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170828T021105Z" creationid="rikiha" creationdate="20170815T161211Z">
-        <seg>MEMO 上記の&lt;g1&gt;tabindex="-1"&lt;/g1&gt;属性は、シーケンシャルフォーカスナビゲーションの問題への対策です。詳しくは「ナビゲーション領域」を参照してください。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T132009Z" creationid="rikiha" creationdate="20170815T161211Z">
+        <seg>MEMO 上記の&lt;g1&gt;tabindex="-1"&lt;/g1&gt;属性は、シーケンシャルフォーカスナビゲーションの問題への対策です。詳しくは6章「ナビゲーション領域」を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
