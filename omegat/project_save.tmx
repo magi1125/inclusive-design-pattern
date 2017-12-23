@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -535,8 +535,8 @@ collectionは訳出しなくていいのかどうか。まあわかるか。
       <tuv lang="EN-US">
         <seg>&lt;/g1&gt;Does a set actually only have one field in it?</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170929T072752Z" creationid="bakera" creationdate="20170929T052007Z">
-        <seg>&lt;/g1&gt;その中に含まれるフィールドはひとつだけですか？</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T135921Z" creationid="bakera" creationdate="20170929T052007Z">
+        <seg>&lt;/g1&gt;その中に含まれるフィールドは1つだけですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -18405,7 +18405,9 @@ metaについては補足が必要か?
 (伊原) OK
 
 【電書チェック】
-submitボタン　　　でいいか？</note>
+submitボタン　　　でいいか？
+
+(太田) submitでOK</note>
       <tuv lang="EN-US">
         <seg>In our case, the user remains focused on the submit button and is free to move back into the form to fix the errors when ready.</seg>
       </tuv>
@@ -24077,7 +24079,9 @@ resulting inも落ちているような。「結果として」くらいでし�
 (伊原) OK
 
 【電書チェック】
-submitボタン　　でいいか？</note>
+submitボタン　　でいいか？
+
+(太田) submitでOK</note>
       <tuv lang="EN-US">
         <seg>Note that we are suppressing the submission of the form itself rather than merely the click handler on the submit button.</seg>
       </tuv>
@@ -34209,12 +34213,14 @@ a lot of moving partsとは。
 (伊原) 入れたそばから何か出すとか、そういうことなんでしょうね。OKです。
 
 【電書チェック】
-伴う　　　を9章では開いていたと思います。</note>
+伴う　　　を9章では開いていたと思います。
+
+(太田) ひらきました。</note>
       <tuv lang="EN-US">
         <seg>This involves a lot of moving parts and, without care, can produce a jarring and unusable experience for some users.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T092109Z" creationid="bakera" creationdate="20170929T090559Z">
-        <seg>これは動的な処理を多く伴うため、注意深く扱わないと、一部のユーザーに対して不快な、使いにくい体験を提供してしまうことがあります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T140015Z" creationid="bakera" creationdate="20170929T090559Z">
+        <seg>これは動的な処理を多くともなうため、注意深く扱わないと、一部のユーザーに対して不快な、使いにくい体験を提供してしまうことがあります。</seg>
       </tuv>
     </tu>
     <tu>
