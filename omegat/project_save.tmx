@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22831,12 +22831,16 @@ IEはどのバージョンのことを言っているのか要確認。</note>
 (伊原) OK
 
 【電書チェック】
-言え　→　いえ　　と修正</note>
+言え　→　いえ　　と修正
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>My current output is hardly perfect, but it has benefited from a change in mindset, an acknowledgement that web pages aren’t merely pinboards for images.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170925T050301Z" creationid="bakera" creationdate="20170924T042322Z">
-        <seg>今でも完璧とは言えませんが、とはいえ、Webページは単に画像を貼り付けたコルクボードである、という認識が改められたのは良いことです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T135628Z" creationid="bakera" creationdate="20170924T042322Z">
+        <seg>今でも完璧とはいえませんが、とはいえ、Webページは単に画像を貼り付けたコルクボードである、という認識が改められたのは良いことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35006,7 +35010,11 @@ appearanceは「出現」と解釈されていますが、上からのつなが�
 (伊原) OK
 
 【電書チェック】
-submitボタンは、9章で「送信ボタン」とした気がします。図を見ると「ログインボタン」の方がいい気もしますし、どうしましょうか。</note>
+submitボタンは、9章で「送信ボタン」とした気がします。図を見ると「ログインボタン」の方がいい気もしますし、どうしましょうか。
+
+
+(太田) 「ログインボタン」だとちょっとおかしいです。ひとまずママとします。
+</note>
       <tuv lang="EN-US">
         <seg>This registration option usually takes the form of some tiny link text reading “Don’t have an account?” and placed &lt;g1&gt;after&lt;/g1&gt; the login form’s submit button.</seg>
       </tuv>
@@ -41635,12 +41643,16 @@ http://www.w3.org/TR/css-writing-modes-3/#propdef-unicode-bidi
 (伊原) OK
 
 【電書チェック】
-例えば　→　たとえば　　と修正</note>
+例えば　→　たとえば　　と修正
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>One of the main reasons static mockups of interface components are defunct is that they tend to represent idealized content: people’s names of a particular length, and descriptions all exactly five lines high, for instance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T120404Z" creationid="rikiha" creationdate="20170922T120404Z">
-        <seg>インターフェイスコンポーネントの静的モックアップが廃れた主な理由のひとつに、それが理想的なコンテンツを表しがちだから、という点があります。例えば、特定の長さの人名、すべてがぴったり5行に収まる説明文などです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T135547Z" creationid="rikiha" creationdate="20170922T120404Z">
+        <seg>インターフェイスコンポーネントの静的モックアップが廃れた主な理由のひとつに、それが理想的なコンテンツを表しがちだから、という点があります。たとえば、特定の長さの人名、すべてがぴったり5行に収まる説明文などです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41854,8 +41866,8 @@ lorem ipsum は訳注いりますかね?
       <tuv lang="EN-US">
         <seg>When two numbers are provided, as in &lt;g1&gt;words|1|10&lt;/g1&gt;, the script will place &lt;g2&gt;between&lt;/g2&gt; the first number and second number of array items as the text node.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171008T130730Z" creationid="rikiha" creationdate="20170922T120751Z">
-        <seg>&lt;g1&gt;words|1|10&lt;/g1&gt;のように数字を2つ指定すると、スクリプトはひとつめの数字からふたつめの数字の&lt;g2&gt;あいだ&lt;/g2&gt;の数の配列項目をテキストノードとして配置します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T135600Z" creationid="rikiha" creationdate="20170922T120751Z">
+        <seg>&lt;g1&gt;words|1|10&lt;/g1&gt;のように数字を2つ指定すると、スクリプトは1つめの数字から2つめの数字の&lt;g2&gt;あいだ&lt;/g2&gt;の数の配列項目をテキストノードとして配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42345,12 +42357,16 @@ https://msdn.microsoft.com/en-us/library/ms531160(v=vs.85).aspx
 (伊原) OK
 
 【電書チェック】
-伴い　→　ともない　　と修正</note>
+伴い　→　ともない　　と修正
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>When new results load, this handle will move upwards in accordance with the greater amount of content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T112357Z" creationid="rikiha" creationdate="20170922T112357Z">
-        <seg>新しい検索結果が読み込まれると、コンテンツの量が増えたことに伴い、ハンドルが上のほうに移動します。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T135531Z" creationid="rikiha" creationdate="20170922T112357Z">
+        <seg>新しい検索結果が読み込まれると、コンテンツの量が増えたことにともない、ハンドルが上のほうに移動します。</seg>
       </tuv>
     </tu>
     <tu>
