@@ -7042,12 +7042,16 @@ shadeには濃淡という意味もあるので、「ごくわずかな濃淡の
 キャプションなので、である調に修正されている。
 囲むと、ボタンのように見える。
 ↓
-囲むとボタンのように見えます。</note>
+囲むとボタンのように見えます。
+
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;By drawing a perimeter line around the icon and text of the control it appears as a button.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170815T040834Z" creationid="rikiha" creationdate="20170811T133227Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;アイコンとテキストの周りを線で囲むと、ボタンのように見える。&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T131256Z" creationid="rikiha" creationdate="20170811T133227Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;アイコンとテキストの周りを線で囲むと、ボタンのように見えます。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
