@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11055,7 +11055,9 @@ have you believe で「あなたに信じさせる」
 ということで「見る」に特化した訳ではないほうが良いと思います。
 
 【電書チェック】
-皆が　→　誰もが　　に修正</note>
+皆が　→　誰もが　　に修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>But not everyone is like me, and making sure printed pages do not contain page elements which are only relevant when browsing on-screen is an act of considerate, inclusive design.</seg>
       </tuv>
@@ -21005,6 +21007,8 @@ imperativeを冒頭に持ってきて「絶対に守らなければならない�
 【電書チェック】
 読みやすい　強調漏れ
 
+(伊原) ママでOK
+
 </note>
       <tuv lang="EN-US">
         <seg>It’s important to note that &lt;g1&gt;legible&lt;/g1&gt; body text for folks with reading disorders such as dyslexia is also &lt;g2&gt;pleasant&lt;/g2&gt; body text for those who have less trouble reading.</seg>
@@ -28218,7 +28222,9 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
 (伊原) LGTM
 
 【電書チェック】
-第一の　　強調漏れ</note>
+第一の　　強調漏れ
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Some say [a picture paints a thousand words], but I prefer the contrary expression: "“Never send a picture to do the job of words.” Text is the most direct and efficient way of communicating information and — though imagery and other media have supplemental value for those who learn better visually or have literacy issues — it should be treated as &lt;g1&gt;primary&lt;/g1&gt;.</seg>
       </tuv>
@@ -38143,7 +38149,8 @@ formとformのジョーク。どうしたものか。
 
 【電書チェック】
 まったく　→　全く　　　と修正
-</note>
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>What we get is, in fact, a completely different user.</seg>
       </tuv>
