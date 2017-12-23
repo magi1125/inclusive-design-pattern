@@ -7966,12 +7966,15 @@ heading shortcutは「見出しジャンプ」としました。
 (伊原) OK
 
 【電書チェック】
-良い　→　よい　　と修正</note>
+良い　→　よい　　と修正
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>A more ambitious solution might be to use some scaling and a little pointer, provided in pseudo-content.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170801T095820Z" creationid="rikiha" creationdate="20170727T124129Z">
-        <seg>さらに大胆に、リンクを拡大したり、疑似要素を使って小さなポインターを表示したりしても良いかもしれません。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T130816Z" creationid="rikiha" creationdate="20170727T124129Z">
+        <seg>さらに大胆に、リンクを拡大したり、疑似要素を使って小さなポインターを表示したりしてもよいかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38903,12 +38906,15 @@ shouldなので「すべき」くらいかなと。
 (伊原) OK
 
 【電書チェック】
-良い　→　よい　　と修正（2箇所）</note>
+良い　→　よい　　と修正（2箇所）
+
+(太田) 紙に合わせて修正
+</note>
       <tuv lang="EN-US">
         <seg>Whether this text is to say “Current page,” “This page” or “You are here” is somewhat open to debate, but it should be fairly succinct.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170802T084512Z" creationid="rikiha" creationdate="20170727T134641Z">
-        <seg>このテキストが「現在のページ」で良いのか、「このページ」や「現在位置」とした方が良いのかは議論の余地がありますが、いずれにしても、かなり簡潔なものにするべきです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T130853Z" creationid="rikiha" creationdate="20170727T134641Z">
+        <seg>このテキストが「現在のページ」でよいのか、「このページ」や「現在位置」とした方がよいのかは議論の余地がありますが、いずれにしても、かなり簡潔なものにするべきです。</seg>
       </tuv>
     </tu>
     <tu>
