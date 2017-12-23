@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14564,7 +14564,9 @@ Foregoは放棄するとか捨てるとかの意味のはず。
     </tu>
     <tu>
       <note>【電書チェック】
-序文→刊行によせて</note>
+序文→刊行によせて
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>Foreword</seg>
       </tuv>
