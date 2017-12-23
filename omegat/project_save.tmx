@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18966,7 +18966,9 @@ p.229では「入力欄」とあり、表現が揺れています。（ちなみ
 (岡本)　ここは平字で問題ありません。っていうか、対応していたということか。
 
 【電書チェック】
-submitボタン　　でいいか？</note>
+submitボタン　　でいいか？
+
+(太田) submitでOK</note>
       <tuv lang="EN-US">
         <seg>In the case of the submit button, the text node is the accessible label.</seg>
       </tuv>
@@ -38095,8 +38097,8 @@ formとformのジョーク。どうしたものか。
       <tuv lang="EN-US">
         <seg>We’ve already touched on harnessing form controls in “A Filter Widget.” This form takes a more familiar, well, &lt;g1&gt;form&lt;/g1&gt;, facilitating text input by the user.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20171002T065334Z" creationid="bakera" creationdate="20170926T074116Z">
-        <seg>フォームコントロールの扱いについては、すでに10章「フィルターウィジェット」で取り上げました。ここで扱うフォームは、親しみのある典型的な&lt;g1&gt;フォーム&lt;/g1&gt;で、ユーザーにテキストの入力をうながします。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T135754Z" creationid="bakera" creationdate="20170926T074116Z">
+        <seg>フォームコントロールの扱いについては、既に10章「フィルターウィジェット」で取り上げました。ここで扱うフォームは、親しみのある典型的な&lt;g1&gt;フォーム&lt;/g1&gt;で、ユーザーにテキストの入力をうながします。</seg>
       </tuv>
     </tu>
     <tu>
