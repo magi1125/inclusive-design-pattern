@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16117,6 +16117,8 @@ OK
 ひとつの　→　１つの　　に修正
 
 (太田) 紙に合わせて修正
+
+(伊原) OK
 </note>
       <tuv lang="EN-US">
         <seg>I mean, these don’t even have a name anyone can agree on!</seg>
@@ -28338,7 +28340,9 @@ learn better visually は「視覚からの方が情報を受け取りやすい�
 (太田) OK!
 
 【電書チェック】
-良い　→　よい　　と修正</note>
+良い　→　よい　　と修正
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>Sometimes it’s better not to make something just-about-inclusive, but to think about the root problem and devise a completely different solution — a simpler and more robust one.</seg>
       </tuv>
