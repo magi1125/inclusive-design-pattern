@@ -4114,12 +4114,14 @@ strategyを「方策」としているのは少し大げさかもしれません
 言っても　→　いっても　　と修正
 異なります　→　異なる　　と修正すべき
 
-(伊原) 紙に合わせて修正、語尾は電子版側で修正。ちなみに紙側は任意改行が入ってしまっている</note>
+(伊原) 紙に合わせて修正、語尾は電子版側で修正。ちなみに紙側は任意改行が入ってしまっている
+
+(太田) 語尾はママで良いと考えます。全体が「です・ます」で箇条書きだけ「だ・である」というスタイルですが、箇条書き内の2文目以降が「です・ます」に戻るのは別に変ではないと思います。</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;Remember that your experience as a screen reader user will differ dramatically from blind users, who have dramatically different strategies even among themselves.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T094145Z" creationid="yoota" creationdate="20170606T102057Z">
-        <seg>&lt;g1&gt;•&lt;/g1&gt;目が見えているユーザーによるスクリーンリーダーの体験は、視覚障害者の体験とは劇的に異なる場合があることに注意する。ひと口に視覚障害者といっても、使い方は人によって大きく異なる。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T123908Z" creationid="yoota" creationdate="20170606T102057Z">
+        <seg>&lt;g1&gt;•&lt;/g1&gt;目が見えているユーザーによるスクリーンリーダーの体験は、視覚障害者の体験とは劇的に異なる場合があることに注意する。ひと口に視覚障害者といっても、使い方は人によって大きく異ります</seg>
       </tuv>
     </tu>
     <tu>
@@ -32099,12 +32101,14 @@ audit をどう訳すか。あまり検査とは言わないようにも思い�
 【電書チェック】
 私はアクセシビリティエンジニアの…　　と補っている
 
-(伊原) 紙に合わせて修正</note>
+(伊原) 紙に合わせて修正
+
+(太田) 「書き始めたのは、私は」と続くのは違和感があります。「私は」→「私が」にひそかに修正。</note>
       <tuv lang="EN-US">
         <seg>The reason I started out writing by principle is because I often have to wear my accessibility engineer hat and perform accessibility audits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171216T095928Z" creationid="yoota" creationdate="20170622T030414Z">
-        <seg>本書を原則ごとに書き始めたのは、私はアクセシビリティエンジニアの帽子をかぶってアクセシビリティ診断を行うことがよくあるからです。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171223T124123Z" creationid="yoota" creationdate="20170622T030414Z">
+        <seg>本書を原則ごとに書き始めたのは、私がアクセシビリティエンジニアの帽子をかぶってアクセシビリティ診断を行うことがよくあるからです。</seg>
       </tuv>
     </tu>
     <tu>
