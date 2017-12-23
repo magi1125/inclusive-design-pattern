@@ -5012,7 +5012,8 @@ NVDAでは記号を読まずに「きゅうじゅっセンチメートル、さ�
 
 【電書チェック】
 かける　　の強調漏れ
-</note>
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>&lt;g1&gt;•&lt;/g1&gt;“90cm × 30cm” is written using the correct (multiplication) Unicode character, so that “Thirty C M &lt;g2&gt;times&lt;/g2&gt; ninety C M” is announced in screen readers.</seg>
       </tuv>
@@ -16688,7 +16689,9 @@ if S were to ◯◯〜で「もしSが◯◯ならば〜」ということらし
 【電書チェック】
 その　→　そのページ　　に太字の範囲を修正
 
-(太田) 強調はOmegaTが正なのでママ</note>
+(太田) 強調はOmegaTが正なのでママ
+
+(伊原) OK</note>
       <tuv lang="EN-US">
         <seg>If the user were to follow the link inside the heading to the photographer’s own page, the photographic prints listed at &lt;g1&gt;that&lt;/g1&gt; location should be similarly marked up and presented.</seg>
       </tuv>
