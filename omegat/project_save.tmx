@@ -41875,7 +41875,9 @@ https://hail2u.net/blog/justified-wrapped-flexbox-last-line.html
 
 5カラムのグリッドで、最後の行が1項目、2項目、3項目、4項目の場合。1～2項目の場合には、最後の項目は20emの幅となってセンタリングされる。3～4項目の場合、全体の幅を3分割、4分割した幅になる。
 
-(伊原) OK</note>
+(伊原) OK
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Now the grid items are organized around the vertical center line and cannot become more than 20em wide.</seg>
       </tuv>
