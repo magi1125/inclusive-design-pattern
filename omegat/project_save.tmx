@@ -37258,7 +37258,13 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>※訳注あり</note>
+      <note>※訳注あり
+
+「バニラ」JavaScriptとは、フレームワークやライブラリを使用せず、ブラウザが提供している素の機能をそのまま使って書くことです。ジョークとして「バニラJSが最速のJavaScriptフレームワーク」のように言われることもあり、Vanilla JSというジョークサイトもあります （ 一見、JavaScriptフレームワークを提供しているように見えますが、どの機能を選択しても得られるJSのファイルサイズは0です）。ここでは、jQueryなどのライブラリを使用せずに、HTML5 の Web APIだけを使って書くことを示しています。
+
+Vanilla JS
+http://vanilla-js.com
+</note>
       <tuv lang="EN-US">
         <seg>Using the Web API (“vanilla” JavaScript), it might look a bit like this:</seg>
       </tuv>
