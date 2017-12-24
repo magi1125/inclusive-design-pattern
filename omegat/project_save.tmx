@@ -12738,12 +12738,14 @@ https://momdo.github.io/html/interaction.html#sequential-focus-navigation
     <tu>
       <note>(太田) 図版部分はどうしますかね。この箇所の原文は画像のalt、参考訳文は画像の中のテキストを訳したものです。
 
-(伊原) ひとまず訳を入れる感じですかね。入れてみました。</note>
+(伊原) ひとまず訳を入れる感じですかね。入れてみました。
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Diagram labels your interface hidden among all the browser interface elements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170502T233820Z">
-        <seg>すべてのブラウザインターフェイス要素の中で、あなたがデザインするインターフェイスにラベルが付けられている図。</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T141847Z">
+        <seg>図：すべてのブラウザインターフェイス要素の中で、自分がデザインするインターフェイスにラベルが付けられている。</seg>
       </tuv>
     </tu>
     <tu>
