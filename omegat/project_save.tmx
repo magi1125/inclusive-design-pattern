@@ -7733,7 +7733,9 @@ A common tactic はなにがcommonなのか。
     </tu>
     <tu>
       <note>(伊原) 下訳を反映しつつ調整。
-また、このaltもキャプションとほぼ同一であり要検討。</note>
+また、このaltもキャプションとほぼ同一であり要検討。
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>A declaration block from Chrome dev tools showing the error declaration with a line-through style.</seg>
       </tuv>
@@ -31326,7 +31328,9 @@ breakは単に「離れる」的なことだと思いますが、いったん元
     <tu>
       <note>(伊原) alt下訳を反映。意訳ですが良いかなと。
 
-(太田) OK</note>
+(太田) OK
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>The error declaration has a red box behind it and white text.</seg>
       </tuv>
