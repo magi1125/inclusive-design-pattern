@@ -8076,7 +8076,9 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。</note>
+      <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>A note taker sits at the bottom center.</seg>
       </tuv>
@@ -8977,7 +8979,9 @@ CREATE =つくる
 HELP＝ヘルプ
 HELLO!＝まま
 START＝スタート
-App by (c)heydonworks＝まま</note>
+App by (c)heydonworks＝まま
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>An aerial view of the testing session.</seg>
       </tuv>
@@ -25578,7 +25582,9 @@ textureをテクスチャと書かれても良くわからない気がします�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。</note>
+      <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Only one is operating the prototype.</seg>
       </tuv>
@@ -25892,7 +25898,8 @@ parityは平均化というより、ここでは等価、価値を等しくす�
 (岡本)　コンピュータ→コンピューター
 
 (伊原) OK
-</note>
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Participants sit around a table with the person playing the computer on the left and two user testers to the right.</seg>
       </tuv>
@@ -26053,6 +26060,18 @@ https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
       <note>【alt】</note>
       <tuv lang="EN-US">
         <seg>Person with a clipboard asks: So, does the interface delight you?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>Person with spoon: Well, that was your first mistake.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>Person with spoon: Your banking interface is terrible!</seg>
       </tuv>
     </tu>
     <tu>
@@ -28060,6 +28079,12 @@ VoiceOverでは「×」かける、▶はなんと「メディアの再生マー
       </tuv>
     </tu>
     <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>Sitting person: Sir, we make spoons.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田) LGTM</note>
       <tuv lang="EN-US">
         <seg>Skip Links</seg>
@@ -29738,6 +29763,12 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170920T020915Z" creationid="rikiha" creationdate="20170909T224006Z">
         <seg>そうすれば、ユーザーは自分に合った認識しやすいレイアウトを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>That's a wooden spoon.</seg>
       </tuv>
     </tu>
     <tu>
