@@ -27303,7 +27303,9 @@ http://www.w3.org/TR/css-writing-modes-3/#propdef-unicode-bidi
 (伊原) ひとまず下訳を反映。
 (伊原) 画像の内容に応じてちょっと補足＆表現修正
 
-(岡本) ここから見出し「サブセクション」まで、本文ブロックと画像の出現順が変わっていますね。</note>
+(岡本) ここから見出し「サブセクション」まで、本文ブロックと画像の出現順が変わっていますね。
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Shows how heading navigation bypasses section content that precedes sections’ headings.</seg>
       </tuv>
@@ -32837,7 +32839,9 @@ sound semantic structureとは。
     <tu>
       <note>画像alt
 
-(伊原) 下訳を反映。ここはCSSの話なので、text decorationは文字装飾とせず、text-decorationとしています。</note>
+(伊原) 下訳を反映。ここはCSSの話なので、text decorationは文字装飾とせず、text-decorationとしています。
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>The standard text decoration underline compared with the superior gradient technique.</seg>
       </tuv>
