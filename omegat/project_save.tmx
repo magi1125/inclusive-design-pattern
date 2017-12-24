@@ -30140,12 +30140,14 @@ OK、見出しにマークアップが含まれるので電子化時には注意
       </tuv>
     </tu>
     <tu>
-      <note>(岡本)  1つ下がった→ひとつ下がった</note>
+      <note>(岡本)  1つ下がった→ひとつ下がった
+
+(太田) ここは「1つ」で良いのではないか。</note>
       <tuv lang="EN-US">
         <seg>The &lt;g2&gt;2&lt;/g2&gt; in &lt;g3&gt;&lt;h2&gt;&lt;/g3&gt; says “two levels deep,” or “one down from the first level.” Visually, headings are conventionally differentiated by font size: the deeper the level, the smaller the &lt;g4&gt;font-size&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="yoota" changedate="20170614T103951Z" creationid="yoota" creationdate="20170522T100511Z">
-        <seg>&lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;の&lt;g2&gt;2&lt;/g2&gt;が意味しているのは、「レベル2の深さ」、つまり「第1レベルからひとつ下がったレベル」ということです。視覚的には、見出しはフォントサイズで区別されるのが慣習となっており、レベルが深いほど &lt;g4&gt;font-size&lt;/g4&gt;は小さくなります。</seg>
+      <tuv lang="JA" changeid="bakera" changedate="20171224T030657Z" creationid="yoota" creationdate="20170522T100511Z">
+        <seg>&lt;g3&gt;&lt;h2&gt;&lt;/g3&gt;の&lt;g2&gt;2&lt;/g2&gt;が意味しているのは、「レベル2の深さ」、つまり「第1レベルから1つ下がったレベル」ということです。視覚的には、見出しはフォントサイズで区別されるのが慣習となっており、レベルが深いほど &lt;g4&gt;font-size&lt;/g4&gt;は小さくなります。</seg>
       </tuv>
     </tu>
     <tu>
