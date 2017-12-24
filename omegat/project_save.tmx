@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10063" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8610,6 +8610,14 @@ HTMLがないとCSSやJSだけでは成立しないという話。
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170914T081055Z" creationid="rikiha" creationdate="20170909T223708Z">
         <seg>並べ替えボタンを押した後、ライブリージョンに「商品リストを読み込み中。しばらくお待ちください。」というメッセージを入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All I asked them is where the toilets are.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140721Z" creationid="magi1125" creationdate="20171224T140721Z">
+        <seg>「さあ？ トイレの場所を尋ねただけなんだけど」と答える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25909,9 +25917,13 @@ https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
     <tu>
       <note>【電書チェック】
 (伊原) コラムになっているところ、電書ではどうしましょうか。原著と違うので独自に作成する必要がありそう。
-ちなみにこのページの内容は、すべて漫画画像のalt扱い。</note>
+ちなみにこのページの内容は、すべて漫画画像のalt扱い。
+いったん下訳を入れます。</note>
       <tuv lang="EN-US">
         <seg>Person in foreground is shouting: I'm a designer!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140713Z">
+        <seg>前景の人物が「私はデザイナーだ！」と叫んでいる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31310,6 +31322,14 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first asks: What's their problem?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140646Z" creationid="magi1125" creationdate="20171224T140646Z">
+        <seg>1人が「どうしたの？」と尋ね、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first designer comes from a graphic design background.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095351Z" creationid="okamoto_jun" creationdate="20170627T095351Z">
@@ -32545,6 +32565,14 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170922T060126Z" creationid="rikiha" creationdate="20170909T224257Z">
         <seg>このスクリプトでは、追加する項目の数について、&lt;g2&gt;x&lt;/g2&gt;から&lt;g3&gt;n&lt;/g3&gt;の&lt;g1&gt;あいだ&lt;/g1&gt;、という指定ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second answers: I dunno.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140725Z" creationid="magi1125" creationdate="20171224T140705Z">
+        <seg>もう1人が</seg>
       </tuv>
     </tu>
     <tu>
@@ -36663,6 +36691,14 @@ OK
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170720T135626Z">
         <seg>ただし、注意が必要な顕著な違いが2つあります。ひとつはShadow Boundary（DOMツリー全体とShadow DOMとの間の境界）が&lt;g1&gt;&lt;g2&gt;ARIAのリレーションシップ属性&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;g4&gt;&lt;g5&gt;（脚注83）&lt;/g5&gt;&lt;/g4&gt;&lt;/g3&gt;に及ぼす影響、もうひとつは正の&lt;g6&gt;tabindex&lt;/g6&gt;値です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two onlookers are confused.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140625Z" creationid="magi1125" creationdate="20171224T140625Z">
+        <seg>それを見た2人の人物は困惑し、</seg>
       </tuv>
     </tu>
     <tu>
