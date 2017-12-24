@@ -10843,7 +10843,9 @@ heading level oneは「見出しレベル1」ですね。
     <tu>
       <note>画像alt
 
-(岡本)　altはこれのみで大丈夫ですか？</note>
+(岡本)　altはこれのみで大丈夫ですか？
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Boxes of content.</seg>
       </tuv>
@@ -28851,7 +28853,9 @@ enhanced を「強化」とするのがどうもしっくり来ず、なくて�
 (伊原) OK
 
 【電書チェック】に合わせて修正
-(伊原) altなので、だ・である調に修正</note>
+(伊原) altなので、だ・である調に修正
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Successive paragraphs have less margin between them than paragraphs and other elements.</seg>
       </tuv>
@@ -31940,7 +31944,9 @@ updateはここでは「付け加える」くらいの意味かと思います�
     <tu>
       <note>(伊原) 画像alt、下訳反映。
 
-(岡本) 付いている→ついている</note>
+(岡本) 付いている→ついている
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>The middle subsection is labeled missing.</seg>
       </tuv>
@@ -35893,7 +35899,9 @@ in general は use にかかっているようにも見えますね。「ボタ�
 
 (岡本)  alt待ち
 
-(伊原) 下訳反映。</note>
+(伊原) 下訳反映。
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Three nested boxes representing a section/subsection structure.</seg>
       </tuv>
