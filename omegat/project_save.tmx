@@ -22132,7 +22132,9 @@ Keyは重要でいいのか。
     <tu>
       <note>※画像alt
 
-(伊原) OK</note>
+(伊原) OK
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Left unfocused text field shows placeholder.</seg>
       </tuv>
@@ -32628,7 +32630,9 @@ Equal to the computed value of font-size on the root element. When specified on 
 この文とひとつ前の分節がaltで、下の分節がキャプションです。
 図版内のpoor / betterは悪い例 / 良い例で良いかと思います。
 
-(伊原) OK</note>
+(伊原) OK
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>The right uses a custom italic style with a darker color.</seg>
       </tuv>
