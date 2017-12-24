@@ -13311,7 +13311,9 @@ additional dimensionはもう少し工夫しないと良くわからないです
       <note>(太田) 画像のaltです。
 「これでもまだ利用できる！」はたぶん誤訳です。
 
-(伊原) 下訳の反映。</note>
+(伊原) 下訳の反映。
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Finally JavaScript is put on top, but content is still there.</seg>
       </tuv>
@@ -19403,7 +19405,8 @@ DTPマターかなと。
       <note>(太田) 画像のaltです。
 
 (伊原) 下訳の反映。
-</note>
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>In the loading process, first you get HTML and with it content.</seg>
       </tuv>
@@ -27284,7 +27287,9 @@ http://www.w3.org/TR/css-writing-modes-3/#propdef-unicode-bidi
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 画像のaltです。</note>
+      <note>(太田) 画像のaltです。
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Shows stages in progressive enhancement.</seg>
       </tuv>
@@ -33243,7 +33248,9 @@ explicitはlabelではなくactionについているような。
     <tu>
       <note>(太田) 画像のaltです。
 
-(伊原) 下訳の反映。</note>
+(伊原) 下訳の反映。
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Then you get CSS, but the content remains.</seg>
       </tuv>
