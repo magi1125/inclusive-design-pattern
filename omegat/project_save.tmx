@@ -31853,12 +31853,14 @@ there’s no need はどこにもないというような強い印象なので�
 
 (伊原) 下訳を反映
 
-【alt】</note>
+【alt】
+
+(伊原) モノクロ版なので「黒い文字とグレーのアンダーライン」に修正。</note>
       <tuv lang="EN-US">
         <seg>The gradient version pairs blue text with a gray underline.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T035503Z">
-        <seg>グラデーション版は、青い文字とグレーのアンダーラインの組み合わせになっている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T124329Z">
+        <seg>グラデーション版は、黒い文字とグレーのアンダーラインの組み合わせになっている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33067,7 +33069,9 @@ sound semantic structureとは。
 
 (伊原) 下訳を反映。ここはCSSの話なので、text decorationは文字装飾とせず、text-decorationとしています。
 
-【alt】</note>
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The standard text decoration underline compared with the superior gradient technique.</seg>
       </tuv>
