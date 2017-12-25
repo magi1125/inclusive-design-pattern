@@ -8178,6 +8178,9 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       <tuv lang="EN-US">
         <seg>A person is waving a spoon at another person sitting down.</seg>
       </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140518Z">
+        <seg>座っている人物に向かって、もう一人がスプーンを振り回している。</seg>
+      </tuv>
     </tu>
     <tu>
       <note>(伊原) h3にフォーカスが移動したあとの話なので「そこから」と補いました。
@@ -26207,11 +26210,17 @@ https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
       <tuv lang="EN-US">
         <seg>Person with spoon: Well, that was your first mistake.</seg>
       </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140547Z">
+        <seg>スプーンを持った人：「それがそもそも間違っているんだ！」</seg>
+      </tuv>
     </tu>
     <tu>
       <note>【alt】</note>
       <tuv lang="EN-US">
         <seg>Person with spoon: Your banking interface is terrible!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140526Z">
+        <seg>スプーンを持った人：「君のバンキングインターフェイスはひどい！」</seg>
       </tuv>
     </tu>
     <tu>
@@ -28240,6 +28249,9 @@ VoiceOverでは「×」かける、▶はなんと「メディアの再生マー
       <tuv lang="EN-US">
         <seg>Sitting person: Sir, we make spoons.</seg>
       </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140539Z">
+        <seg>座っている人：「お言葉ですが、私たちはスプーンを作っています。</seg>
+      </tuv>
     </tu>
     <tu>
       <note>(太田) LGTM</note>
@@ -29936,6 +29948,9 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
       <note>【alt】</note>
       <tuv lang="EN-US">
         <seg>That's a wooden spoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140545Z">
+        <seg>あなたが持っているのも木のスプーンですよ」</seg>
       </tuv>
     </tu>
     <tu>
