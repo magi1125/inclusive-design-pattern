@@ -8016,7 +8016,9 @@ heading shortcutは「見出しジャンプ」としました。
     <tu>
       <note>(伊原) 画像alt、下訳から調整しつつ反映。
 
-【alt】</note>
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>A menu icon with the text “MENU” next to the same control but with an outline around the icon and text.</seg>
       </tuv>
@@ -31212,12 +31214,14 @@ https://www.w3.org/WAI/tutorials/images/complex/#description-containing-textual-
     <tu>
       <note>(伊原) 画像alt、下訳から調整して反映。
 
-【alt】</note>
+【alt】
+
+(伊原) 補って調整。</note>
       <tuv lang="EN-US">
         <seg>The appearance of the menu icon with a white background when displayed on a white versus a black page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T005651Z" creationid="rikiha" creationdate="20170815T005651Z">
-        <seg>白い背景のメニューアイコンを、ページ背景が白いページと黒いページに表示したときの外観。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T134249Z" creationid="rikiha" creationdate="20170815T005651Z">
+        <seg>白い背景に黒い3本線メニューアイコンを、ページ背景が白いページで表示した外観と、黒いページで表示したときの外観。</seg>
       </tuv>
     </tu>
     <tu>
