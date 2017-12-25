@@ -8224,7 +8224,7 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
 
 【alt】
 
-(伊原) 補いつつちょうせい</note>
+(伊原) 補いつつ調整</note>
       <tuv lang="EN-US">
         <seg>A red error message with white text prefixed with a triangular warning sign containing an exclamation mark.</seg>
       </tuv>
@@ -32572,12 +32572,14 @@ password input は「パスワード入力欄」かと。
 
 (伊原) OK
 
-【alt】</note>
+【alt】
+
+(伊原) モノクロなので表現を修正</note>
       <tuv lang="EN-US">
         <seg>The password input with error message directly below in red text, prefixed by a warning symbol.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T051315Z" creationid="bakera" creationdate="20170929T090847Z">
-        <seg>パスワード入力欄のすぐ下に赤い文字のエラーメッセージが表示されており、その頭には警告マークかついている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140919Z" creationid="bakera" creationdate="20170929T090847Z">
+        <seg>パスワード入力欄のすぐ下に色付きの文字のエラーメッセージが表示されており、その頭には警告マークかついている。</seg>
       </tuv>
     </tu>
     <tu>
