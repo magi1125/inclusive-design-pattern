@@ -9387,6 +9387,9 @@ iOS (Cocoa Touch の UIView) の座標系はピクセル単位ではなくポイ
       <tuv lang="EN-US">
         <seg>Are you delighted?</seg>
       </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T123512Z">
+        <seg>気に入った？」と尋ね、</seg>
+      </tuv>
     </tu>
     <tu>
       <note>(太田)
@@ -10873,7 +10876,9 @@ heading level oneは「見出しレベル1」ですね。
 
 (伊原) 下訳を入れました。
 
-【alt】</note>
+【alt】
+
+(伊原) 補いつつ調整。</note>
       <tuv lang="EN-US">
         <seg>Box labeled ‘The important stuff’ surrounded by grayed out subsidiary boxes</seg>
       </tuv>
@@ -26082,11 +26087,17 @@ https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
       <tuv lang="EN-US">
         <seg>Person testing the interface answers: I'll let you know when I figure out how it works.</seg>
       </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T123515Z">
+        <seg>インターフェイスをテストしている人物が「それは操作方法がわかってから答えるよ」と答える。</seg>
+      </tuv>
     </tu>
     <tu>
       <note>【alt】</note>
       <tuv lang="EN-US">
         <seg>Person with a clipboard asks: So, does the interface delight you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T123500Z">
+        <seg>調査票を持った人物が「おもしろい？</seg>
       </tuv>
     </tu>
     <tu>
