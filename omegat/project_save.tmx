@@ -42168,8 +42168,8 @@ https://hail2u.net/blog/justified-wrapped-flexbox-last-line.html
       <tuv lang="EN-US">
         <seg>Now the grid items are organized around the vertical center line and cannot become more than 20em wide.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T115624Z" creationid="rikiha" creationdate="20170922T115624Z">
-        <seg>これでグリッドの項目が縦のセンターライン上にまとまり、20em以上の幅にはなりません。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140146Z" creationid="rikiha" creationdate="20170922T115624Z">
+        <seg>5カラムのグリッドで、最後の行が1項目、2項目、3項目、4項目の場合。1～2項目の場合には、最後の項目は20emの幅となってセンタリングされる。3～4項目の場合、全体の幅を3分割、4分割した幅になる。</seg>
       </tuv>
     </tu>
     <tu>
