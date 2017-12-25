@@ -8222,12 +8222,14 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
 画像内テキストは
 「登録情報が正しいことを確認してください。」
 
-【alt】</note>
+【alt】
+
+(伊原) 補いつつちょうせい</note>
       <tuv lang="EN-US">
         <seg>A red error message with white text prefixed with a triangular warning sign containing an exclamation mark.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T112840Z" creationid="bakera" creationdate="20170929T090811Z">
-        <seg>赤背景に白文字で書かれたエラーメッセージの頭に、感嘆符を三角形で囲んだ警告アイコンが表示されている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140835Z" creationid="bakera" creationdate="20170929T090811Z">
+        <seg>色が着いた背景の上に白文字で書かれた「登録情報が正しいことを確認してください。」というエラーメッセージがあり、その頭に、感嘆符を三角形で囲んだ警告アイコンが表示されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12372,7 +12374,9 @@ almost alwaysは「ほとんど常に」くらい?
 
 (伊原) OK
 
-【alt】</note>
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Completed password field with show password checkbox to its bottom-right.</seg>
       </tuv>
