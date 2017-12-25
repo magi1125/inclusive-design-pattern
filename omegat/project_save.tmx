@@ -7756,7 +7756,9 @@ A common tactic はなにがcommonなのか。
       <note>(伊原) 下訳を反映しつつ調整。
 また、このaltもキャプションとほぼ同一であり要検討。
 
-【alt】</note>
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>A declaration block from Chrome dev tools showing the error declaration with a line-through style.</seg>
       </tuv>
@@ -31682,12 +31684,14 @@ breakは単に「離れる」的なことだと思いますが、いったん元
 
 (太田) OK
 
-【alt】</note>
+【alt】
+
+(伊原) モノクロなので表現を修正</note>
       <tuv lang="EN-US">
         <seg>The error declaration has a red box behind it and white text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T020956Z" creationid="rikiha" creationdate="20170925T020344Z">
-        <seg>エラー宣言に、赤地に白文字というスタイルが適用されている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T141232Z" creationid="rikiha" creationdate="20170925T020344Z">
+        <seg>エラー宣言に、背景色に白文字というスタイルが適用されている。</seg>
       </tuv>
     </tu>
     <tu>
