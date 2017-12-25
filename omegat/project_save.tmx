@@ -31740,6 +31740,9 @@ conceptはそのままコンセプトでもいいかも。
       <tuv lang="EN-US">
         <seg>The first says: Stupid datepicker!</seg>
       </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T124915Z">
+        <seg>1人は「この日付選択ボックス、使いづらいな！</seg>
+      </tuv>
     </tu>
     <tu>
       <note>画像alt
@@ -32350,6 +32353,9 @@ supplementalはここではもっとネガティブなイメージだと思い�
 【alt】</note>
       <tuv lang="EN-US">
         <seg>The other says: Stupid text field!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T124949Z">
+        <seg>もう1人は「このテキストフィールド、使いづらいな！</seg>
       </tuv>
     </tu>
     <tu>
@@ -37108,6 +37114,9 @@ OK
       <tuv lang="EN-US">
         <seg>Two people on separate desks are using their computers to fill out a web form.</seg>
       </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T125000Z">
+        <seg>2人の人物がそれぞれの机でPCを使い、Webフォームに入力している。</seg>
+      </tuv>
     </tu>
     <tu>
       <note>(伊原) タイプセッティングとするか、組版とするか。Webではあまり組版とは言わないか…？ 要検討。
@@ -39849,9 +39858,20 @@ quite legitimate は全く正当、くらいですが、仕様で認められて
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Why can't I just pick a date?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T124957Z" creationid="ihara-rikiya" creationdate="20171225T124957Z">
+        <seg>日付を選択できたらいいのに」と言う。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>【alt】</note>
       <tuv lang="EN-US">
         <seg>Why can't I just type a date?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T124925Z">
+        <seg>普通に日付を入力できたらいいのに」と言い、</seg>
       </tuv>
     </tu>
     <tu>
