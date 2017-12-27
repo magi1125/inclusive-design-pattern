@@ -63,7 +63,10 @@ html_files.forEach(file => {
                 const comment_data = node.data.trim();
                 if(comment_data.indexOf(COMMENT_PREFIX) < 0) continue;
                 const comment_id = comment_data.replace(COMMENT_PREFIX, '').trim();
-                console.log(`note place found: ${comment_id} / heading-level: ${current_heading_level}`);
+                console.log(`note place found: ${comment_id} / heading-level: ${current_heading_level} / ${note_data[comment_id]}`);
+                let note_element = document.createElement('div');
+                note_element.appendChild(document.createTextNode(note_data[comment_id]));
+                node.parentNode.replaceChild(note_element, node);
             }
         }
         fs.writeFileSync(dest_file_path, dom.serialize());
