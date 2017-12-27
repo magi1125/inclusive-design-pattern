@@ -11,15 +11,33 @@ const dest_dir = './temp/';
 
 
 // Load note data
+let note_data = {};
+const note_id_finder = /<分節\s*([0-9]+)\s*>/;
 const text_files = fs.readdirSync(source_note_dir).filter(file => { return /\.txt$/.test(file);});
 text_files.forEach(file => {
     const source_file_path = source_note_dir + file;
     const text = fs.readFileSync(source_file_path, 'utf8');
     const lines = text.split("\n");
-    lines.forEach((line, index) =>{
-        console.log(`${index}: ${line}`);
+    console.log(`${file}: ${lines.length} lines`);
+
+    let current_id = ''
+    lines.forEach((line, index) => {
+        if(!line) return;
+        let m = line.match(note_id_finder);
+        if(m){
+            current_id = m[1];
+            note_data[current_id] = '';
+        } else if(current_id){
+            if(line.startsWith('>')) return;
+            note_data[current_id] += line + "\n";
+        }
     });
 });
+
+Object.keys(note_data).forEach(key => {
+    console.log(`${key}: ${note_data[key]}`);
+});
+
 
 // Process
 const html_files = fs.readdirSync(source_html_dir).filter(file => { return /\.html$/.test(file);});
@@ -45,7 +63,7 @@ html_files.forEach(file => {
                 const comment_data = node.data.trim();
                 if(comment_data.indexOf(COMMENT_PREFIX) < 0) continue;
                 const comment_id = comment_data.replace(COMMENT_PREFIX, '').trim();
-                console.log(`[Debug]: ${comment_id} / heading:${current_heading_level}`);
+                console.log(`note place found: ${comment_id} / heading-level: ${current_heading_level}`);
             }
         }
         fs.writeFileSync(dest_file_path, dom.serialize());
