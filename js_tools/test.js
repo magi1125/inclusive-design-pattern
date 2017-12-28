@@ -12,7 +12,9 @@ const REFERENCE_PREFIX = '参考:';
 const REFERENCE_KEY = 'reference';
 const DEFAULT_KEY = 'default';
 const ALL_KEY = 'all';
+
 const note_id_finder = /<分節\s*([0-9]+)\s*>/;
+const url_finder = /^https?:\/\//;
 
 // ターゲットディレクトリ
 const source_note_dir = '../translator_notes/';
@@ -21,13 +23,14 @@ const dest_dir = './temp/';
 
 // 訳注データをパースしてオブジェクトに格納する
 // note_data[(訳注番号)].note / note_data[(訳注番号)].reference で取り出せるようにする
+console.log('訳注ファイルのロードを開始します...')
 let note_data = {};
 const text_files = fs.readdirSync(source_note_dir).filter(file => { return /\.txt$/.test(file);});
 text_files.forEach(file => {
     const source_file_path = source_note_dir + file;
     const text = fs.readFileSync(source_file_path, 'utf8');
     const lines = text.split("\n");
-    console.log(`${file}: ${lines.length} lines`);
+    console.log(file);
 
     // 文節番号をIDとする。分節番号を発見したらここに格納する
     let current_id = '';
@@ -35,6 +38,7 @@ text_files.forEach(file => {
     // 訳注は、原文引用部 / 訳注部 / 参考部からなる。
     // 「訳注:」「参考:」を発見したら以降をそのパートとみなし、格納対象キー名をこの変数に格納する
     let current_key = DEFAULT_KEY;
+    let current_reference_index = -1;
     lines.forEach((line, index) => {
         let m = line.match(note_id_finder);
         if(m){
@@ -46,27 +50,39 @@ text_files.forEach(file => {
             // 分節番号発見済み
             // if(line.startsWith('>')) return; // 原文の引用はスルー → 初期モード '' なので冒頭の引用はスルーされる
             if(line.startsWith(NOTE_PREFIX)){
+                // 訳注: を発見したので以降を訳注とする
                 current_key = NOTE_KEY;
-                note_data[current_id][current_key] = '';
+                note_data[current_id][NOTE_KEY] = '';
             } else if(line.startsWith(REFERENCE_PREFIX)){
+                // 参考: を発見したので以降を参考とする
                 current_key = REFERENCE_KEY;
-                note_data[current_id][current_key] = '';
+                current_reference_index = -1;
+                note_data[current_id][REFERENCE_KEY] = [];
             } else {
                 // パーツ格納、訳注でも参考でもないものは default に格納
-                note_data[current_id][current_key] += line + "\n";
-                // 全体も読めるように
+                if(current_key === REFERENCE_KEY){
+                    // URLかどうか判定、URLでなければキーとして扱う
+                    if(line){
+                        if(!line.match(url_finder)){
+                            current_reference_index++;
+                            note_data[current_id][REFERENCE_KEY][current_reference_index] = {'key': line};
+                        } else {
+                            note_data[current_id][REFERENCE_KEY][current_reference_index].url = line;
+                        }
+                    }
+                } else {
+                    note_data[current_id][current_key] += line + "\n";
+                }
+                // 訳注テキスト全体もとりだせるようにしておく
                 note_data[current_id][ALL_KEY] += line + "\n";
             }
         }
     });
 });
+console.log(`${Object.keys(note_data).length} 件の訳注を読み込みました。`);
 
-/*
-Object.keys(note_data).forEach(key => {
-    console.log(`${key}: ${note_data[key]}`);
-});
-*/
 
+console.log('訳注の挿入処理を開始します。');
 // Process
 const html_files = fs.readdirSync(source_html_dir).filter(file => { return /\.html$/.test(file);});
 html_files.forEach(file => {
@@ -106,5 +122,4 @@ html_files.forEach(file => {
         fs.writeFileSync(dest_file_path, dom.serialize());
     });
 });
-
 
