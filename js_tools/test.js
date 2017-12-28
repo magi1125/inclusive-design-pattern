@@ -1,18 +1,27 @@
 const fs = require('fs');
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom; // JSDOM = jsdom.JSDOM;
+
+// 訳注パーサの定数
 const COMMENT_NODE = 8; // nodeType
 const ELEMENT_NODE = 1; // nodeType
 const COMMENT_PREFIX = 'translator_notes:';
+const NOTE_PREFIX = '訳注:';
+const NOTE_KEY = 'note';
+const REFERENCE_PREFIX = '参考:';
+const REFERENCE_KEY = 'reference';
+const DEFAULT_KEY = 'default';
+const ALL_KEY = 'all';
+const note_id_finder = /<分節\s*([0-9]+)\s*>/;
 
+// ターゲットディレクトリ
 const source_note_dir = '../translator_notes/';
 const source_html_dir = '../source/';
 const dest_dir = './temp/';
 
-
-// Load note data
+// 訳注データをパースしてオブジェクトに格納する
+// note_data[(訳注番号)].note / note_data[(訳注番号)].reference で取り出せるようにする
 let note_data = {};
-const note_id_finder = /<分節\s*([0-9]+)\s*>/;
 const text_files = fs.readdirSync(source_note_dir).filter(file => { return /\.txt$/.test(file);});
 text_files.forEach(file => {
     const source_file_path = source_note_dir + file;
@@ -20,24 +29,43 @@ text_files.forEach(file => {
     const lines = text.split("\n");
     console.log(`${file}: ${lines.length} lines`);
 
-    let current_id = ''
+    // 文節番号をIDとする。分節番号を発見したらここに格納する
+    let current_id = '';
+
+    // 訳注は、原文引用部 / 訳注部 / 参考部からなる。
+    // 「訳注:」「参考:」を発見したら以降をそのパートとみなし、格納対象キー名をこの変数に格納する
+    let current_key = DEFAULT_KEY;
     lines.forEach((line, index) => {
-        if(!line) return;
         let m = line.match(note_id_finder);
         if(m){
+            // 分節番号を発見したので以降その分節の訳注とみなす
             current_id = m[1];
-            note_data[current_id] = '';
+            note_data[current_id] = {};
+            current_key = DEFAULT_KEY; 
         } else if(current_id){
-            if(line.startsWith('>')) return;
-            note_data[current_id] += line + "\n";
+            // 分節番号発見済み
+            // if(line.startsWith('>')) return; // 原文の引用はスルー → 初期モード '' なので冒頭の引用はスルーされる
+            if(line.startsWith(NOTE_PREFIX)){
+                current_key = NOTE_KEY;
+                note_data[current_id][current_key] = '';
+            } else if(line.startsWith(REFERENCE_PREFIX)){
+                current_key = REFERENCE_KEY;
+                note_data[current_id][current_key] = '';
+            } else {
+                // パーツ格納、訳注でも参考でもないものは default に格納
+                note_data[current_id][current_key] += line + "\n";
+                // 全体も読めるように
+                note_data[current_id][ALL_KEY] += line + "\n";
+            }
         }
     });
 });
 
+/*
 Object.keys(note_data).forEach(key => {
     console.log(`${key}: ${note_data[key]}`);
 });
-
+*/
 
 // Process
 const html_files = fs.readdirSync(source_html_dir).filter(file => { return /\.html$/.test(file);});
@@ -63,10 +91,16 @@ html_files.forEach(file => {
                 const comment_data = node.data.trim();
                 if(comment_data.indexOf(COMMENT_PREFIX) < 0) continue;
                 const comment_id = comment_data.replace(COMMENT_PREFIX, '').trim();
-                console.log(`note place found: ${comment_id} / heading-level: ${current_heading_level} / ${note_data[comment_id]}`);
+                console.log(`note place found: ${comment_id} / heading-level: ${current_heading_level}`);
+                console.log('==== note ====');
+                console.log(note_data[comment_id][NOTE_KEY]);
+                console.log('==== reference ====');
+                console.log(note_data[comment_id][REFERENCE_KEY]);
+
                 let note_element = document.createElement('div');
-                note_element.appendChild(document.createTextNode(note_data[comment_id]));
+                note_element.appendChild(document.createTextNode(note_data[comment_id][NOTE_KEY]));
                 node.parentNode.replaceChild(note_element, node);
+
             }
         }
         fs.writeFileSync(dest_file_path, dom.serialize());
