@@ -107,11 +107,21 @@ html_files.forEach(file => {
                 const comment_data = node.data.trim();
                 if(comment_data.indexOf(COMMENT_PREFIX) < 0) continue;
                 const comment_id = comment_data.replace(COMMENT_PREFIX, '').trim();
+
+                let note = note_data[comment_id];
+                if(!note){
+                    console.log(`note ${comment_id} not found.`);
+                }
+
+                /*
                 console.log(`note place found: ${comment_id} / heading-level: ${current_heading_level}`);
                 console.log('==== note ====');
                 console.log(note_data[comment_id][NOTE_KEY]);
                 console.log('==== reference ====');
                 console.log(note_data[comment_id][REFERENCE_KEY]);
+*/
+                
+// let note_element = JSDOM.fragment(`<p>Hello</p><p><strong>Hi!</strong>`);
 
                 let note_element = document.createElement('div');
                 note_element.appendChild(document.createTextNode(note_data[comment_id][NOTE_KEY]));
