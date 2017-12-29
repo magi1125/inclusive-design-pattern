@@ -40,6 +40,7 @@ text_files.forEach(file => {
     let current_key = DEFAULT_KEY;
     let current_reference_index = -1;
     lines.forEach((line, index) => {
+        line = line.trim();
         let m = line.match(note_id_finder);
         if(m){
             // 分節番号を発見したので以降その分節の訳注とみなす
@@ -121,24 +122,46 @@ html_files.forEach(file => {
                 if(comment_data.indexOf(COMMENT_PREFIX) < 0) continue;
                 const comment_id = comment_data.replace(COMMENT_PREFIX, '').trim();
 
-                let note = note_data[comment_id];
+                const note = note_data[comment_id];
                 if(!note){
                     console.log(`note ${comment_id} not found.`);
                 }
 
-                /*
-                console.log(`note place found: ${comment_id} / heading-level: ${current_heading_level}`);
-                console.log('==== note ====');
-                console.log(note_data[comment_id][NOTE_KEY]);
-                console.log('==== reference ====');
-                console.log(note_data[comment_id][REFERENCE_KEY]);
-*/
-                
-// let note_element = JSDOM.fragment(`<p>Hello</p><p><strong>Hi!</strong>`);
+                const note_text = note_data[comment_id][NOTE_KEY];
+                if(note_text){
 
-                let note_element = document.createElement('div');
-                note_element.appendChild(document.createTextNode(note_data[comment_id][NOTE_KEY]));
-                node.parentNode.replaceChild(note_element, node);
+                    const note_element = document.createElement('div');
+                    note_element.setAttribute('class', 'translator_note');
+
+                    const note_heading = document.createElement('h' + (current_heading_level + 1));
+                    note_heading.appendChild(document.createTextNode('訳註'));
+                    note_element.appendChild(note_heading);
+
+                    const note_p = document.createElement('p');
+                    note_p.appendChild(document.createTextNode(note_text.trim()));
+
+                    note_element.appendChild(note_p);
+                    node.parentNode.replaceChild(note_element, node);
+
+                    const references = note_data[comment_id][REFERENCE_KEY];
+                    if(references){
+                        const ref_heading = document.createElement('h' + (current_heading_level + 2));
+                        ref_heading.appendChild(document.createTextNode('参考'));
+                        note_element.appendChild(ref_heading);
+                        const ref_ul = document.createElement('ul');
+                        note_element.appendChild(ref_ul);
+                        references.forEach((ref_obj)=>{
+                            const ref_li = document.createElement('li');
+                            const ref_a = document.createElement('a');
+                            ref_a.setAttribute('href', ref_obj.url);
+                            ref_a.appendChild(document.createTextNode(ref_obj.key));
+                            ref_li.appendChild(ref_a);
+                            ref_ul.appendChild(ref_li);
+                        })
+                    }
+                } else {
+                    console.log(`note text not found: ${comment_id}`);
+                }
 
             }
         }
