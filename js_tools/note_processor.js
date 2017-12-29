@@ -129,6 +129,7 @@ html_files.forEach(file => {
 
                 const note_text = note_data[comment_id][NOTE_KEY];
                 if(note_text){
+                    const note_lines = note_text.trim().split('\n');
 
                     const note_element = document.createElement('div');
                     note_element.setAttribute('class', 'translator_note');
@@ -137,10 +138,12 @@ html_files.forEach(file => {
                     note_heading.appendChild(document.createTextNode('訳註'));
                     note_element.appendChild(note_heading);
 
-                    const note_p = document.createElement('p');
-                    note_p.appendChild(document.createTextNode(note_text.trim()));
+                    note_lines.forEach((line)=>{
+                        const note_p = document.createElement('p');
+                        note_p.appendChild(document.createTextNode(line));
+                        note_element.appendChild(note_p);
+                    });
 
-                    note_element.appendChild(note_p);
                     node.parentNode.replaceChild(note_element, node);
 
                     const references = note_data[comment_id][REFERENCE_KEY];
