@@ -82,8 +82,21 @@ text_files.forEach(file => {
 console.log(`${Object.keys(note_data).length} 件の訳注を読み込みました。`);
 
 
-console.log('訳注の挿入処理を開始します。');
+
+// 出力ディレクトリがなければ作る
+fs.access(dest_dir, fs.constants.R_OK | fs.constants.W_OK, (error) => {
+    if (error) {
+      if (error.code === "ENOENT") {
+        fs.mkdirSync(dest_dir);
+        console.log(`ディレクトリ ${dest_dir} を作成しました。`);
+    } else {
+        return;
+      }
+    }
+});
+
 // Process
+console.log('訳注の挿入処理を開始します。');
 const html_files = fs.readdirSync(source_html_dir).filter(file => { return /\.html$/.test(file);});
 html_files.forEach(file => {
     const source_file_path = source_html_dir + file;
