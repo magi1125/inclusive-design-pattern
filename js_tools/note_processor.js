@@ -133,6 +133,7 @@ html_files.forEach(file => {
 
                     const note_element = document.createElement('div');
                     note_element.setAttribute('class', 'translator_note');
+                    note_element.setAttribute('id','translator_note' + comment_id);
 
                     const note_heading = document.createElement('h' + (current_heading_level + 1));
                     note_heading.appendChild(document.createTextNode('訳註'));
@@ -187,8 +188,10 @@ html_files.forEach(file => {
                             ref_ul.appendChild(ref_li);
                         })
                     }
+                    console.log(`note inserted: ${comment_id} in ${file}`);
                 } else {
-                    console.log(`note text not found: ${comment_id}`);
+                    console.log(`note text not found: ${comment_id} in ${file}`);
+                    console.log(note_data[comment_id][ALL_KEY]);
                 }
 
             }
