@@ -138,14 +138,39 @@ html_files.forEach(file => {
                     note_heading.appendChild(document.createTextNode('訳註'));
                     note_element.appendChild(note_heading);
 
+                    // 訳注テキストを処理
+                    // ````～```` までの記述はコードブロックとする
+                    // コードブロックモードで使用するpreを複数行で参照できるように外で持っておく
+                    // これはフラグも兼ねる (code_block_preにHtmlElementが入っていればコードブロックモード)
+                    let code_block_pre = undefined;
                     note_lines.forEach((line)=>{
-                        const note_p = document.createElement('p');
-                        note_p.appendChild(document.createTextNode(line));
-                        note_element.appendChild(note_p);
+                        if(code_block_pre){
+                            // コードブロックモードでは既存のpreに追記する
+                            // ```` を検出したらコードブロックモードを終了する
+                            if(line.startsWith('````')){
+                                code_block_pre = undefined;
+                                return;
+                            } else {
+                                code_block_pre.appendChild(document.createTextNode(line + '\n'));
+                            }
+                        } else {
+                            // ```` を検出したらコードブロックモードに移行する
+                            if(line.startsWith('````')){
+                                const pre_type = line.replace('````', '') || 'general';
+                                code_block_pre = document.createElement('pre');
+                                code_block_pre.setAttribute('class', pre_type);
+                                note_element.appendChild(code_block_pre);
+                            } else {
+                                const note_p = document.createElement('p');
+                                note_p.appendChild(document.createTextNode(line));
+                                note_element.appendChild(note_p);
+                            }
+                        }
                     });
 
                     node.parentNode.replaceChild(note_element, node);
-
+                    
+                    // 参考
                     const references = note_data[comment_id][REFERENCE_KEY];
                     if(references){
                         const ref_heading = document.createElement('h' + (current_heading_level + 2));
