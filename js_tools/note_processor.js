@@ -105,6 +105,8 @@ html_files.forEach(file => {
     JSDOM.fromFile(source_file_path).then(dom => {
         console.log(file);
         const document = dom.window.document;
+        console.log("title: " + document.getElementsByTagName('title')[0].childNodes[0].data);
+
         const mainDiv = document.body.childNodes[0];
         const mainChildren = mainDiv.childNodes;
         
