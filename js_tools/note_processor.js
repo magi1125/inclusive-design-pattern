@@ -18,8 +18,8 @@ const url_finder = /^https?:\/\//;
 
 // ターゲットディレクトリ
 const source_note_dir = '../translator_notes/';
-const source_html_dir = '../source/';
-const dest_dir = './temp/';
+const source_html_dir = '../target/';
+const dest_dir = './result/';
 
 // 訳注データをパースしてオブジェクトに格納する
 // note_data[(訳注番号)].note / note_data[(訳注番号)].reference で取り出せるようにする
@@ -105,10 +105,13 @@ html_files.forEach(file => {
     JSDOM.fromFile(source_file_path).then(dom => {
         console.log(file);
         const document = dom.window.document;
-        console.log("title: " + document.getElementsByTagName('title')[0].childNodes[0].data);
-
         const mainDiv = document.body.childNodes[0];
         const mainChildren = mainDiv.childNodes;
+
+        console.log("title: " + document.getElementsByTagName('title')[0].childNodes[0].data);
+        
+        // 訳注の挿入に成功した数を数える
+        let note_inserted_counter = 0;
         
         // 訳注の見出しレベルをいい感じにするために現在の見出しレベルを把握
         let current_heading_level = 0;
@@ -191,6 +194,7 @@ html_files.forEach(file => {
                         })
                     }
                     console.log(`note inserted: ${comment_id} in ${file}`);
+                    note_inserted_counter++;
                 } else {
                     console.log(`note text not found: ${comment_id} in ${file}`);
                     console.log(note_data[comment_id][ALL_KEY]);
@@ -198,7 +202,10 @@ html_files.forEach(file => {
 
             }
         }
-        fs.writeFileSync(dest_file_path, dom.serialize());
+        if(note_inserted_counter){
+          fs.writeFileSync(dest_file_path, dom.serialize());
+          console.log(`${note_inserted_counter} 件の訳注を挿入し、保存しました: ${dest_file_path}`);
+        }
     });
 });
 
