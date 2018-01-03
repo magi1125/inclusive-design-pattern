@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10098" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7347,12 +7347,13 @@ Wikipedia modelはそのままWikipediaモデルでも良いような。
 (岡本）キャプションは「である調」だったかと。算定的に下記で。
 →Webページの目次は、Wikipediaモデルが一般的。シンプルな箇条書きのリンクリストを枠で囲んでいる。
 
-</note>
+【電書チェック】
+紙はですます調。紙に合わせて修正。</note>
       <tuv lang="EN-US">
         <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Web page tables of contents usually follow the Wikipedia model: a basic bulleted list of links inside a box.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170807T015049Z" creationid="bakera" creationdate="20170804T160846Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Webページの目次は、Wikipediaモデルが一般的。シンプルな箇条書きのリンクリストを枠で囲んでいる。&lt;/g3&gt;</seg>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T144912Z" creationid="bakera" creationdate="20170804T160846Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;&lt;g3&gt;Webページの目次は、Wikipediaモデルが一般的です。シンプルな箇条書きのリンクリストを枠で囲んでいます。&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7458,6 +7459,14 @@ d b　　強調漏れ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A Blog Post | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T134848Z" creationid="ihara-rikiya" creationdate="20171225T134848Z">
+        <seg>ブログ記事 | インクルーシブHTML+CSS &amp; JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 「など」というのはどこから……。
 意訳気味に調整してみました。
@@ -7537,6 +7546,14 @@ http://www.morisawa.co.jp/culture/dictionary/1913
       </tuv>
       <tuv lang="JA" changeid="ihara-rikiya" changedate="20171019T003948Z" creationid="rikiha" creationdate="20170910T123556Z">
         <seg>商品リスト | インクルーシブHTML+CSS &amp; JavaScriptl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A List of Products | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T134759Z" creationid="ihara-rikiya" creationdate="20171225T134759Z">
+        <seg>商品リスト| インクルーシブHTML+CSS &amp; JavaScript</seg>
       </tuv>
     </tu>
     <tu>
@@ -7702,12 +7719,16 @@ https://gyazo.com/1852f912633f0166091629c70629cb89</note>
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) alt、下訳から反映しつつ調整</note>
+      <note>(伊原) alt、下訳から反映しつつ調整
+
+【alt】
+
+(伊原) 青いリンク→リンク</note>
       <tuv lang="EN-US">
         <seg>A bullet list of blue, underlined links.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170724T150435Z" creationid="rikiha" creationdate="20170724T150129Z">
-        <seg>アンダーラインが引かれた青いリンクの箇条書きリスト。ホーム、企業情報、製品情報、お問い合わせ、ログイン</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T132140Z" creationid="rikiha" creationdate="20170724T150129Z">
+        <seg>アンダーラインが引かれたリンクの箇条書きリスト。ホーム、企業情報、製品情報、お問い合わせ、ログイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -7733,7 +7754,11 @@ A common tactic はなにがcommonなのか。
     </tu>
     <tu>
       <note>(伊原) 下訳を反映しつつ調整。
-また、このaltもキャプションとほぼ同一であり要検討。</note>
+また、このaltもキャプションとほぼ同一であり要検討。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>A declaration block from Chrome dev tools showing the error declaration with a line-through style.</seg>
       </tuv>
@@ -7784,7 +7809,11 @@ andの強調をどうするか。
     <tu>
       <note>(伊原) 下訳を反映しつつ調整。
 
-(岡本)　1つ→ひとつ</note>
+(岡本)　1つ→ひとつ
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>A five-column grid with eleven items, meaning the last item takes up a whole row on its own.</seg>
       </tuv>
@@ -7880,7 +7909,11 @@ andの強調をどうするか。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) alt下訳より反映しつつ微調整。</note>
+      <note>(伊原) alt下訳より反映しつつ微調整。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>A google search engine result for the photograph, displaying rating and price information.</seg>
       </tuv>
@@ -7891,7 +7924,11 @@ andの強調をどうするか。
     <tu>
       <note>(伊原) 画像altを下訳から反映しつつ調整。
 
-(岡本）付き→つき</note>
+(岡本）付き→つき
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>A grey, bordered box with the heading “Contents” above a bulleted list of in-page links.</seg>
       </tuv>
@@ -7958,12 +7995,16 @@ heading shortcutは「見出しジャンプ」としました。
 
 (伊原) 画像に書かれているテキストを補いつつ調整。
 
-(岡本) タグ付け→タグづけ</note>
+(岡本) タグ付け→タグづけ
+
+【alt】
+
+(伊原) 誤訳っぽかったので修正</note>
       <tuv lang="EN-US">
         <seg>A list of tickets tagged with the bug keyword with titles like ‘Bad alt text on page 76’ and ‘Missing alt text on page 94.’</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170718T062621Z">
-        <seg>バグとタグづけされたチケットのリスト。問題のある代替テキスト：102ページ［バグ］、代替テキストの不足：66ページ［バグ］、不適切な代替テキスト：94ページ［バグ］、代替テキストの欠如：29ページ［バグ］、代替テキストの不具合：84ページ［バグ］</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T131656Z">
+        <seg>バグとタグづけされたチケットのリスト。ページ上の問題のある代替テキスト：102件［バグ］、ページ上の代替テキストの不足：66件［バグ］、ページ上の不適切な代替テキスト：94件［バグ］、ページ上の代替テキストの欠如：29件［バグ］、ページ上の代替テキストの不具合：84件［バグ］</seg>
       </tuv>
     </tu>
     <tu>
@@ -7995,7 +8036,11 @@ heading shortcutは「見出しジャンプ」としました。
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 画像alt、下訳から調整しつつ反映。</note>
+      <note>(伊原) 画像alt、下訳から調整しつつ反映。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>A menu icon with the text “MENU” next to the same control but with an outline around the icon and text.</seg>
       </tuv>
@@ -8070,7 +8115,11 @@ offered by Bram Stein のリンク先はGithubですが、これは例ではな�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。</note>
+      <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>A note taker sits at the bottom center.</seg>
       </tuv>
@@ -8127,6 +8176,15 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
       </tuv>
     </tu>
     <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>A person is waving a spoon at another person sitting down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140518Z">
+        <seg>座っている人物に向かって、もう一人がスプーンを振り回している。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) h3にフォーカスが移動したあとの話なので「そこから」と補いました。
 
 (太田) OK</note>
@@ -8164,12 +8222,16 @@ omitは普通に訳すと「省略」で、無視とは少しニュアンスが�
 
 (太田)
 画像内テキストは
-「登録情報が正しいことを確認してください。」</note>
+「登録情報が正しいことを確認してください。」
+
+【alt】
+
+(伊原) 補いつつ調整</note>
       <tuv lang="EN-US">
         <seg>A red error message with white text prefixed with a triangular warning sign containing an exclamation mark.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170929T112840Z" creationid="bakera" creationdate="20170929T090811Z">
-        <seg>赤背景に白文字で書かれたエラーメッセージの頭に、感嘆符を三角形で囲んだ警告アイコンが表示されている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140835Z" creationid="bakera" creationdate="20170929T090811Z">
+        <seg>色が着いた背景の上に白文字で書かれた「登録情報が正しいことを確認してください。」というエラーメッセージがあり、その頭に、感嘆符を三角形で囲んだ警告アイコンが表示されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8254,18 +8316,26 @@ toolbarどうするか。
     <tu>
       <note>(画像alt)
 
-(伊原) ひとまず下訳を挿入。...してみましたが、図版の表現と異なりますね（黒ではないし、グレーでもない）。合わせました。</note>
+(伊原) ひとまず下訳を挿入。...してみましたが、図版の表現と異なりますね（黒ではないし、グレーでもない）。合わせました。
+
+【alt】
+
+(伊原) いまの修正版でよさそう。</note>
       <tuv lang="EN-US">
         <seg>A small, black box represents the smallest conceivable viewport and a larger gray box grows from it to represent infinite larger viewports.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170502T232756Z">
-        <seg>図：小さい実線のボックスは想定される最小のビューポートを表し、そこから横に伸びる大きい点線のボックスは無限に引き伸ばしたビューポートを表している。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T122735Z">
+        <seg>ビューポートの幅を表す図。小さい実線のボックスは想定される最小のビューポートを表し、そこから横に伸びる大きい点線のボックスは無限に引き伸ばしたビューポートを表している。</seg>
       </tuv>
     </tu>
     <tu>
       <note>(岡本) 画像altですね？
 
-(伊原) はい、そうです。</note>
+(伊原) はい、そうです。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>A smiley face symbol with the word “happy” in lots of different languages.</seg>
       </tuv>
@@ -8613,6 +8683,17 @@ HTMLがないとCSSやJSだけでは成立しないという話。
       </tuv>
     </tu>
     <tu>
+      <note>【alt】
+
+(伊原) 下訳ママでよさそう。</note>
+      <tuv lang="EN-US">
+        <seg>All I asked them is where the toilets are.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140721Z" creationid="magi1125" creationdate="20171224T140721Z">
+        <seg>「さあ？ トイレの場所を尋ねただけなんだけど」と答える。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(太田)
 原文に合わせて2文に。
 
@@ -8956,12 +9037,27 @@ CREATE =つくる
 HELP＝ヘルプ
 HELLO!＝まま
 START＝スタート
-App by (c)heydonworks＝まま</note>
+App by (c)heydonworks＝まま
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>An aerial view of the testing session.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170828T033543Z" creationid="rikiha" creationdate="20170828T033543Z">
         <seg>テストセッションを上から見た図。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>An angry manager addresses a designer while he is working, saying: The interface you designed has had no positive feedback.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T135334Z">
+        <seg>怒ったマネージャが仕事中のデザイナーに向かって、「君がデザインしたインターフェイスはすごく評判が悪いよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9336,6 +9432,17 @@ iOS (Cocoa Touch の UIView) の座標系はピクセル単位ではなくポイ
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170526T182317Z" creationid="yoota" creationdate="20170524T102829Z">
         <seg>順序や階層が明確にわかりますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 紙に合わせて修正</note>
+      <tuv lang="EN-US">
+        <seg>Are you delighted?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T123512Z">
+        <seg>気に入った？」と尋ね、</seg>
       </tuv>
     </tu>
     <tu>
@@ -10256,7 +10363,11 @@ hone は砥石でとぐような意味。
 
 (岡本) 画像のalt属性お願いします。
 
-(伊原) OK</note>
+(伊原) OK
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>At the bottom of the form, the login button with small register text link underneath it.</seg>
       </tuv>
@@ -10755,6 +10866,7 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>【alt】</note>
       <tuv lang="EN-US">
         <seg>Book Cover</seg>
       </tuv>
@@ -10818,18 +10930,26 @@ heading level oneは「見出しレベル1」ですね。
     <tu>
       <note>(画像alt)
 
-(伊原) 下訳を入れました。</note>
+(伊原) 下訳を入れました。
+
+【alt】
+
+(伊原) 補いつつ調整。</note>
       <tuv lang="EN-US">
         <seg>Box labeled ‘The important stuff’ surrounded by grayed out subsidiary boxes</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170503T194719Z">
-        <seg>「重要な部分」というラベルの付いたボックスが、グレーアウトされた補助的なボックスに囲まれている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T123155Z">
+        <seg>ページ内のコンテンツ部分を示す図。「重要な部分」というラベルの付いたボックスが、グレーアウトされた補助的なボックスに囲まれている。</seg>
       </tuv>
     </tu>
     <tu>
       <note>画像alt
 
-(岡本)　altはこれのみで大丈夫ですか？</note>
+(岡本)　altはこれのみで大丈夫ですか？
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Boxes of content.</seg>
       </tuv>
@@ -11038,6 +11158,15 @@ have you believe で「あなたに信じさせる」
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20171001T051140Z" creationid="bakera" creationdate="20170925T102333Z">
         <seg>音声によるアクセシビリティの専門家は違うことを言っているかもしれませんが、実際のところ、このやり方は間違っている、このやり方でなければならない、というようなことは言えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>But how do people get in?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140922Z" creationid="magi1125" creationdate="20171224T140902Z">
+        <seg>でも、これどうやって乗るの？ </seg>
       </tuv>
     </tu>
     <tu>
@@ -11300,7 +11429,11 @@ granularは「グラニュー糖のように」というHPですが、ひとま�
     <tu>
       <note>画像alt
 
-(伊原) 下訳を反映しつつ、言葉➞文字としました。</note>
+(伊原) 下訳を反映しつつ、言葉➞文字としました。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Button shape with a thumbs-up icon to the left and the word ‘upvote’ with an exclamation mark to the right.</seg>
       </tuv>
@@ -12241,7 +12374,11 @@ almost alwaysは「ほとんど常に」くらい?
     <tu>
       <note>※画像alt
 
-(伊原) OK</note>
+(伊原) OK
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Completed password field with show password checkbox to its bottom-right.</seg>
       </tuv>
@@ -12722,12 +12859,16 @@ https://momdo.github.io/html/interaction.html#sequential-focus-navigation
     <tu>
       <note>(太田) 図版部分はどうしますかね。この箇所の原文は画像のalt、参考訳文は画像の中のテキストを訳したものです。
 
-(伊原) ひとまず訳を入れる感じですかね。入れてみました。</note>
+(伊原) ひとまず訳を入れる感じですかね。入れてみました。
+
+【alt】
+
+(伊原) 下訳を補いつつ修正。</note>
       <tuv lang="EN-US">
         <seg>Diagram labels your interface hidden among all the browser interface elements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170502T233820Z">
-        <seg>すべてのブラウザインターフェイス要素の中で、あなたがデザインするインターフェイスにラベルが付けられている図。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T122703Z">
+        <seg>ブラウザ上のすべてのインターフェイス要素のうち、あなたがデザインするインターフェイスに「あなたのインターフェイス」とラベルが付けられている図。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13288,7 +13429,13 @@ additional dimensionはもう少し工夫しないと良くわからないです
       <note>(太田) 画像のaltです。
 「これでもまだ利用できる！」はたぶん誤訳です。
 
-(伊原) 下訳の反映。</note>
+(伊原) 下訳の反映。
+
+【alt】
+
+(伊原) このままでよさそう。
+&gt;「これでもまだ利用できる！」はたぶん誤訳です。
+ここどうしましょう。</note>
       <tuv lang="EN-US">
         <seg>Finally JavaScript is put on top, but content is still there.</seg>
       </tuv>
@@ -13407,6 +13554,59 @@ the placement of (the &lt;button&gt; and the menu it discloses.)
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170825T075907Z" creationid="rikiha" creationdate="20170815T161116Z">
         <seg>インクルーシブなUXを生み出すためには、まず&lt;g1&gt;&lt;button&gt;&lt;/g1&gt;と、それによって開かれるメニューの置き方に気をつける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>First person again: It's a social media app that no one else can use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T141011Z">
+        <seg>右の人物：「彼以外は誰も使えないソーシャルメディアアプリなんだ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>First person again: You asked me to design it, not make it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T134734Z">
+        <seg>紙片を手にした人物：「作ってくれじゃなくて、デザインしてくれって言ったよね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>First person holding a piece of paper: Here's your website.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T134706Z">
+        <seg>紙片を手にした人物：「はい、頼まれていた君のWebサイトだよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>First person says: We designed it for our average user: a guy called Dave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T141004Z">
+        <seg>右の人物：「平均的ユーザーのデイヴのためにデザインしたんだ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 紙に合わせて修正。</note>
+      <tuv lang="EN-US">
+        <seg>First person: Yes, the design is slick.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T122114Z" creationid="magi1125" creationdate="20171224T140851Z">
+        <seg>1人が「おお、このデザインはかっこいいね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17263,8 +17463,8 @@ OK</note>
       <tuv lang="EN-US">
         <seg>Imprint | Inclusive Design Patterns</seg>
       </tuv>
-      <tuv lang="JA" changeid="magi1125" changedate="20171223T165856Z">
-        <seg>Imprint | インクルーシブHTML+CSS &amp; JavaScript</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T141325Z">
+        <seg>奥付 | インクルーシブHTML+CSS &amp; JavaScript</seg>
       </tuv>
     </tu>
     <tu>
@@ -19221,23 +19421,15 @@ pseudo-contentは前に合わせていったん「疑似コンテンツ」で。
 (伊原) 下訳をもとに調整。
 
 (岡本）自分の手元のプリントアウトではIn the left flame,　となっていますね。なぜfirst frameとなってるんだろう。一応、ママにしておきます。
-</note>
+
+【alt】
+
+(伊原) 最初の→1つめ</note>
       <tuv lang="EN-US">
         <seg>In the first frame the left speaker is identified in the caption using an all-caps name followed by a colon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170620T012636Z">
-        <seg>最初のフレームのキャプション内で、大文字の名前とコロンによって左側の話し手を特定している。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>画像alt
-
-(伊原) 下訳を反映</note>
-      <tuv lang="EN-US">
-        <seg>In the first one the left speaker is talking.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170619T041307Z">
-        <seg>最初のフレームでは、左の人物が話している。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T130910Z">
+        <seg>1つめのフレームのキャプション内で、大文字の名前とコロンによって左側の話し手を特定している。「SIMON：ユウレイグモが世界で最も強い毒を持つ生き物だって知っていた？」、2つめのフレームのキャプションは「だけど実際は、歯が弱すぎて人は噛めないんだ。」となっている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19245,12 +19437,32 @@ pseudo-contentは前に合わせていったん「疑似コンテンツ」で。
 
 (伊原) 下訳を反映
 
-(岡本) 1つ目→1つめ</note>
+【alt】
+
+(伊原) キャプションの中身を追記。</note>
+      <tuv lang="EN-US">
+        <seg>In the first one the left speaker is talking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T130748Z">
+        <seg>1つめのフレームでは、左の人物が話している。「だけど実際は、歯が弱すぎて人は噛めないんだ。」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>画像alt
+
+(伊原) 下訳を反映
+
+(岡本) 1つ目→1つめ
+
+【alt】
+
+(伊原) 補いつつ調整
+</note>
       <tuv lang="EN-US">
         <seg>In the first set they are not a mirror image.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T070911Z">
-        <seg>1つめのセットは鏡文字ではない。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T123924Z">
+        <seg>1つめのセットはセリフ体であり、dとbは鏡文字ではなく区別がつく。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19275,12 +19487,16 @@ becauseを訳出しました。
     <tu>
       <note>画像alt
 
-(伊原) 下訳を反映。1番目➞最初</note>
+(伊原) 下訳を反映。1番目➞最初
+
+【alt】
+
+(伊原) 微調整。</note>
       <tuv lang="EN-US">
         <seg>In the first, the two speakers are wincing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170619T064444Z">
-        <seg>最初のフレームでは、2人が顔をしかめている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T131030Z">
+        <seg>1つめのフレームでは、2人が顔をしかめている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19371,7 +19587,10 @@ DTPマターかなと。
       <note>(太田) 画像のaltです。
 
 (伊原) 下訳の反映。
-</note>
+
+【alt】
+
+(伊原) このままでよさそう。</note>
       <tuv lang="EN-US">
         <seg>In the loading process, first you get HTML and with it content.</seg>
       </tuv>
@@ -19411,12 +19630,16 @@ look at は学びましたというか考察しましたというか。
     <tu>
       <note>画像alt
 
-(伊原) 下訳を元に語順を入れ替えて調整。</note>
+(伊原) 下訳を元に語順を入れ替えて調整。
+
+【alt】
+
+(伊原) キャプションの中身を追記。</note>
       <tuv lang="EN-US">
         <seg>In the second, the right speaker interjects and is identified by his all-caps name.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170619T063924Z">
-        <seg>2つ目のフレームでは、右の人物が口をはさんで話し手となったことが大文字の名前によって示されている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T130810Z">
+        <seg>2つめのフレームでは、右の人物が口をはさんで話し手となったことが大文字の名前によって示されている。「RUPERT：ええと、本当は…」</seg>
       </tuv>
     </tu>
     <tu>
@@ -21343,6 +21566,17 @@ investは投資で良いのか? インクルーシブ思考に時間を費やす
       </tuv>
     </tu>
     <tu>
+      <note>【alt】
+
+(伊原) ママでOK</note>
+      <tuv lang="EN-US">
+        <seg>It’s the most successful and profitable app of all time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T131858Z">
+        <seg>史上最高のアプリだよ！」と満足そうだが、</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>It’s the pursuit of the best solution to a given problem.</seg>
       </tuv>
@@ -22061,7 +22295,11 @@ Keyは重要でいいのか。
     <tu>
       <note>(伊原) alt下訳を反映。
 
-(岡本)　付け→つけ</note>
+(岡本)　付け→つけ
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Left diagram shows sticky tack being adhered to four corners of paper rectangle.</seg>
       </tuv>
@@ -22072,7 +22310,11 @@ Keyは重要でいいのか。
     <tu>
       <note>※画像alt
 
-(伊原) OK</note>
+(伊原) OK
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Left unfocused text field shows placeholder.</seg>
       </tuv>
@@ -22796,7 +23038,10 @@ IEはどのバージョンのことを言っているのか要確認。</note>
     </tu>
     <tu>
       <note>(伊原) alt下訳から反映しつつ調整。
-</note>
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Menu items which are not tall enough under a finger for accurate targeting.</seg>
       </tuv>
@@ -23094,7 +23339,11 @@ naturallyやsee aboveを訳すなら、
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 画像alt。絵と説明が合ってないので調整。</note>
+      <note>(伊原) 画像alt。絵と説明が合ってないので調整。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Nav bar with active “about” inside a white bordered box.</seg>
       </tuv>
@@ -23120,7 +23369,11 @@ naturallyやsee aboveを訳すなら、
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 画像alt。ここのactiveは現在位置のことなので、そのように調整。</note>
+      <note>(伊原) 画像alt。ここのactiveは現在位置のことなので、そのように調整。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Navigation bar with the active “about” link underlined.</seg>
       </tuv>
@@ -24994,7 +25247,11 @@ some screen readers will は「スクリーンリーダーは……ことがあ�
     <tu>
       <note>(太田) このaltでは左右のおもりに異なるマークが描かれていることがわからないですね。
 
-(伊原) マークの表現を追記しました。</note>
+(伊原) マークの表現を追記しました。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>On left, a smartphone with a heavy weight hung precariously over it.</seg>
       </tuv>
@@ -25005,7 +25262,11 @@ some screen readers will は「スクリーンリーダーは……ことがあ�
     <tu>
       <note>(岡本) 左側は、→左：　　右側は、→右：
 
-(伊原) マークについて補いました。</note>
+(伊原) マークについて補いました。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>On right, a person with a heavy weight hung precariously over them.</seg>
       </tuv>
@@ -25463,7 +25724,9 @@ textureをテクスチャと書かれても良くわからない気がします�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。</note>
+      <note>(伊原) alt下訳を調整しつつ反映（位置関係を示す図なので、左、右、下を先頭に）。
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Only one is operating the prototype.</seg>
       </tuv>
@@ -25648,6 +25911,17 @@ leave doing で人をdoするままにして立ち去る、doするままほっ�
       </tuv>
     </tu>
     <tu>
+      <note>【alt】
+
+(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>Our designers may be able to code but our coders clearly can't design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T133305Z">
+        <seg>うちのデザイナーはコーディングできるかもしれないけど、コーダーは明らかにデザインできないね」と言う。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 関係をリレーションシップに。
 
 (太田)
@@ -25717,7 +25991,11 @@ contributeを「寄与」とするのがどうも硬いので「構成する」�
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 画像alt</note>
+      <note>(伊原) 画像alt
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Page layout with navigation bar highlighted at the top.</seg>
       </tuv>
@@ -25769,7 +26047,8 @@ parityは平均化というより、ここでは等価、価値を等しくす�
 (岡本)　コンピュータ→コンピューター
 
 (伊原) OK
-</note>
+
+【alt】</note>
       <tuv lang="EN-US">
         <seg>Participants sit around a table with the person playing the computer on the left and two user testers to the right.</seg>
       </tuv>
@@ -25909,9 +26188,57 @@ https://www.smashingmagazine.com/errata-inclusive-design-patterns-book/
     <tu>
       <note>【電書チェック】
 (伊原) コラムになっているところ、電書ではどうしましょうか。原著と違うので独自に作成する必要がありそう。
-ちなみにこのページの内容は、すべて漫画画像のalt扱い。</note>
+ちなみにこのページの内容は、すべて漫画画像のalt扱い。
+いったん下訳を入れます。
+
+【alt】
+
+(伊原) 下訳ママでよさそう。</note>
       <tuv lang="EN-US">
         <seg>Person in foreground is shouting: I'm a designer!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140713Z">
+        <seg>前景の人物が「私はデザイナーだ！」と叫んでいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 紙に合わせて修正</note>
+      <tuv lang="EN-US">
+        <seg>Person testing the interface answers: I'll let you know when I figure out how it works.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T123524Z">
+        <seg>インターフェイスをテストしている人物が「それは操作方法がわかってから答えるよ…」と答える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 紙に合わせて修正</note>
+      <tuv lang="EN-US">
+        <seg>Person with a clipboard asks: So, does the interface delight you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T123500Z">
+        <seg>調査票を持った人物が「おもしろい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>Person with spoon: Well, that was your first mistake.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140547Z">
+        <seg>スプーンを持った人：「それがそもそも間違っているんだ！」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>Person with spoon: Your banking interface is terrible!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140526Z">
+        <seg>スプーンを持った人：「君のバンキングインターフェイスはひどい！」</seg>
       </tuv>
     </tu>
     <tu>
@@ -26455,7 +26782,11 @@ CSSのセレクタは、実はクソ面倒な処理を簡単に書けるんだ�
     <tu>
       <note>(伊原) alt下訳を反映。
 
-(岡本)　付け→つけ</note>
+(岡本)　付け→つけ
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Right diagram shows this paper rectangle being stuck to a larger piece of paper.</seg>
       </tuv>
@@ -26492,7 +26823,11 @@ CSSのセレクタは、実はクソ面倒な処理を簡単に書けるんだ�
 「よし、ユーザー名を入力しよう！」
 「えーと、何をすればいいんだっけ？」
 
-(伊原) OK</note>
+(伊原) OK
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Right focused text field does not, leaving the user to ponder what it was for.</seg>
       </tuv>
@@ -26813,12 +27148,49 @@ https://www.google.co.jp/search?q=call-to-action&amp;client=safari&amp;rls=en&am
 原著がこうなっていて合ってはいますね。
 いったんママで。
 
-(伊原) OK</note>
+(伊原) OK
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Screenshot of dev tools declaration block with a display:none; declaration above the content declaration.</seg>
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20171001T102239Z" creationid="Administrator" creationdate="20170929T235750Z">
         <seg>開発ツールのCSS宣言ブロックのスクリーンショット。contentの宣言の上にdisplay:none;宣言が指定されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 紙に合わせて反映</note>
+      <tuv lang="EN-US">
+        <seg>Second person says: So Dave must be pretty happy then, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T141052Z">
+        <seg>左の人物：「じゃあ、デイヴはとても喜んでいるに違いないね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 下訳ママでよさそう。</note>
+      <tuv lang="EN-US">
+        <seg>Second person: How do the who do what now?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T142101Z" creationid="magi1125" creationdate="20171224T140917Z">
+        <seg>もう1人が「あれ？ これって誰が何をどうするためのものだっけ？」とつぶやく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>Second person: That's just a piece of paper.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T134714Z">
+        <seg>紙片を受け取ろうとする人物：「ただの紙切れじゃないか」</seg>
       </tuv>
     </tu>
     <tu>
@@ -27228,16 +27600,24 @@ http://www.w3.org/TR/css-writing-modes-3/#propdef-unicode-bidi
 (伊原) ひとまず下訳を反映。
 (伊原) 画像の内容に応じてちょっと補足＆表現修正
 
-(岡本) ここから見出し「サブセクション」まで、本文ブロックと画像の出現順が変わっていますね。</note>
+(岡本) ここから見出し「サブセクション」まで、本文ブロックと画像の出現順が変わっていますね。
+
+【alt】
+
+(伊原) 読点追加の微調整。</note>
       <tuv lang="EN-US">
         <seg>Shows how heading navigation bypasses section content that precedes sections’ headings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170526T151828Z" creationid="yoota" creationdate="20170515T102032Z">
-        <seg>スクリーンリーダーの見出しナビゲーションがセクション見出しの前にあるコンテンツをスキップしている様子。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T125853Z" creationid="yoota" creationdate="20170515T102032Z">
+        <seg>スクリーンリーダーの見出しナビゲーションが、セクション見出しの前にあるコンテンツをスキップしている様子。</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(太田) 画像のaltです。</note>
+      <note>(太田) 画像のaltです。
+
+【alt】
+
+(伊原) このままでよさそう。</note>
       <tuv lang="EN-US">
         <seg>Shows stages in progressive enhancement.</seg>
       </tuv>
@@ -27889,6 +28269,15 @@ VoiceOverでは「×」かける、▶はなんと「メディアの再生マー
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170722T233512Z" creationid="rikiha" creationdate="20170722T233512Z">
         <seg>サイト内共通のナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>Sitting person: Sir, we make spoons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140539Z">
+        <seg>座っている人：「お言葉ですが、私たちはスプーンを作っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28795,7 +29184,11 @@ enhanced を「強化」とするのがどうもしっくり来ず、なくて�
 (伊原) OK
 
 【電書チェック】に合わせて修正
-(伊原) altなので、だ・である調に修正</note>
+(伊原) altなので、だ・である調に修正
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Successive paragraphs have less margin between them than paragraphs and other elements.</seg>
       </tuv>
@@ -29101,6 +29494,14 @@ http://thesaurus.weblio.jp/content/役どころ
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170914T141524Z" creationid="rikiha" creationdate="20170909T223436Z">
         <seg>コンテンツが処理中であり、表示に時間がかかることをユーザーに伝えるのは、以下のような、どこでも見かける読み込み中アイコンの役どころです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test-Driven Markup | Inclusive Design Patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T134934Z" creationid="ihara-rikiya" creationdate="20171225T134934Z">
+        <seg>テスト駆動マークアップ | インクルーシブHTML+CSS &amp; JavaScript</seg>
       </tuv>
     </tu>
     <tu>
@@ -29568,6 +29969,15 @@ cognitiveが元々硬い言葉なので、ある程度硬いニュアンスの�
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170920T020915Z" creationid="rikiha" creationdate="20170909T224006Z">
         <seg>そうすれば、ユーザーは自分に合った認識しやすいレイアウトを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>That's a wooden spoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140545Z">
+        <seg>あなたが持っているのも木のスプーンですよ」</seg>
       </tuv>
     </tu>
     <tu>
@@ -30336,9 +30746,6 @@ https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
       </tuv>
     </tu>
     <tu>
-      <note>【電書チェック】
-(伊原) コラムになっているところ、電書ではどうしましょうか。原著と違うので独自に作成する必要がありそう。
-ちなみにこのページの内容は、すべて漫画画像のalt扱い。</note>
       <tuv lang="EN-US">
         <seg>The Document | Inclusive Design Patterns</seg>
       </tuv>
@@ -30917,12 +31324,16 @@ https://www.w3.org/WAI/tutorials/images/complex/#description-containing-textual-
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 画像alt、下訳から調整して反映。</note>
+      <note>(伊原) 画像alt、下訳から調整して反映。
+
+【alt】
+
+(伊原) 補って調整。</note>
       <tuv lang="EN-US">
         <seg>The appearance of the menu icon with a white background when displayed on a white versus a black page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170815T005651Z" creationid="rikiha" creationdate="20170815T005651Z">
-        <seg>白い背景のメニューアイコンを、ページ背景が白いページと黒いページに表示したときの外観。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T134249Z" creationid="rikiha" creationdate="20170815T005651Z">
+        <seg>白い背景に黒い3本線メニューアイコンを、ページ背景が白いページで表示した外観と、黒いページで表示したときの外観。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30994,12 +31405,16 @@ jaw は動詞だとスラングで Impudent or abusive talk.
 
 (伊原) 下訳を反映
 
-(岡本) 電子版がモノクロ特色でなければ、表現を検討する。</note>
+(岡本) 電子版がモノクロ特色でなければ、表現を検討する。
+
+【alt】
+
+(伊原) モノクロなので「背景色によるフォーカススタイル」と修正</note>
       <tuv lang="EN-US">
         <seg>The basic dotted outline focus style compared with a blue background focus style.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T051116Z">
-        <seg>基本的な点線のアウトラインによるフォーカススタイルと、青い背景のフォーカススタイルの比較。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T124444Z">
+        <seg>基本的な点線のアウトラインによるフォーカススタイルと、背景色によるフォーカススタイルの比較。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31072,18 +31487,26 @@ jaw は動詞だとスラングで Impudent or abusive talk.
 
 (伊原) 下訳を反映しつつ調整
 
-(岡本) 括弧→かっこ</note>
+(岡本) 括弧→かっこ
+
+【alt】
+
+(伊原) 微調整。</note>
       <tuv lang="EN-US">
         <seg>The caption is in square brackets and reads ‘GLASS BREAKING.’ In the second, an out-of-shot speaker identified as BARMAN says ‘Sorry about that!’</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170620T013447Z">
-        <seg>キャプションには角かっこではさんで「グラスの割れる音」と書かれている。2つ目のフレームでは、BARMAN（バーテンダー）と示されたフレーム外の話し手が「失礼しました！」と言っている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T131035Z">
+        <seg>キャプションには角かっこではさんで「グラスの割れる音」と書かれている。2つめのフレームでは、BARMAN（バーテンダー）と示されたフレーム外の話し手が「失礼しました！」と言っている。</seg>
       </tuv>
     </tu>
     <tu>
       <note>画像alt
 
-(伊原) 下訳を反映</note>
+(伊原) 下訳を反映
+
+【alt】
+
+(伊原) ママでよさそう</note>
       <tuv lang="EN-US">
         <seg>The characters d and b in two sets.</seg>
       </tuv>
@@ -31178,6 +31601,17 @@ jaw は動詞だとスラングで Impudent or abusive talk.
       </tuv>
     </tu>
     <tu>
+      <note>【alt】
+
+(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>The designer replies: That's weird, because I really like it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T135344Z">
+        <seg>デザイナーは「それは変だな。僕はとても気に入っているのに！」と答える。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 明らかがカブっていたので調整。
 
 (太田) OK</note>
@@ -31248,12 +31682,16 @@ breakは単に「離れる」的なことだと思いますが、いったん元
     <tu>
       <note>(伊原) alt下訳を反映。意訳ですが良いかなと。
 
-(太田) OK</note>
+(太田) OK
+
+【alt】
+
+(伊原) モノクロなので表現を修正</note>
       <tuv lang="EN-US">
         <seg>The error declaration has a red box behind it and white text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Administrator" changedate="20170930T020956Z" creationid="rikiha" creationdate="20170925T020344Z">
-        <seg>エラー宣言に、赤地に白文字というスタイルが適用されている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T141232Z" creationid="rikiha" creationdate="20170925T020344Z">
+        <seg>エラー宣言に、背景色に白文字というスタイルが適用されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31300,7 +31738,11 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳から補いつつ反映。</note>
+      <note>(伊原) 下訳から補いつつ反映。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The filtering form now shows a new row for the display options.</seg>
       </tuv>
@@ -31309,11 +31751,33 @@ worthly of your use は直訳すると「あなたの用途にふさわしい」
       </tuv>
     </tu>
     <tu>
+      <note>【alt】
+
+(伊原) 下訳ママでよさそう。</note>
+      <tuv lang="EN-US">
+        <seg>The first asks: What's their problem?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140646Z" creationid="magi1125" creationdate="20171224T140646Z">
+        <seg>1人が「どうしたの？」と尋ね、</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>The first designer comes from a graphic design background.</seg>
       </tuv>
       <tuv lang="JA" changeid="okamoto_jun" changedate="20170627T095351Z" creationid="okamoto_jun" creationdate="20170627T095351Z">
         <seg>最初にとりあげるのは、グラフィックデザイナーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) ママでOK</note>
+      <tuv lang="EN-US">
+        <seg>The first is happy and says: Well done!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T131851Z" creationid="ihara-rikiya" creationdate="20171225T131851Z">
+        <seg>1人は「すばらしい！ </seg>
       </tuv>
     </tu>
     <tu>
@@ -31444,16 +31908,40 @@ conceptはそのままコンセプトでもいいかも。
       </tuv>
     </tu>
     <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>The first points and says: This is the current database structure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T133303Z">
+        <seg>一人が図を指さして、「これが現在のデータベースの構造。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 紙に合わせて修正</note>
+      <tuv lang="EN-US">
+        <seg>The first says: Stupid datepicker!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T125031Z">
+        <seg>1人は「ひどい日付選択フィールドだな！</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (伊原) 下訳を反映
 
-(岡本) 1つ目→1つめ</note>
+(岡本) 1つ目→1つめ
+
+【alt】
+
+(伊原) は→が に修正</note>
       <tuv lang="EN-US">
         <seg>The first shows that people on poor networks are a subgroup of people who benefit from performant websites.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T071825Z">
-        <seg>1つめのベン図は、低質なネットワークを利用している人は、高性能Webサイトのメリットを享受する人の部分集合であることを示している。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T124041Z">
+        <seg>1つめのベン図は、低質なネットワークを利用している人が、高性能Webサイトのメリットを享受する人の部分集合であることを示している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31551,12 +32039,16 @@ there’s no need はどこにもないというような強い印象なので�
     <tu>
       <note>画像alt
 
-(伊原) 下訳を反映</note>
+(伊原) 下訳を反映
+
+【alt】
+
+(伊原) モノクロ版なので「黒い文字とグレーのアンダーライン」に修正。</note>
       <tuv lang="EN-US">
         <seg>The gradient version pairs blue text with a gray underline.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170516T035503Z">
-        <seg>グラデーション版は、青い文字とグレーのアンダーラインの組み合わせになっている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T124329Z">
+        <seg>グラデーション版は、黒い文字とグレーのアンダーラインの組み合わせになっている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31766,7 +32258,11 @@ DTPマター ※岡本さん確認
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) alt下訳より反映。</note>
+      <note>(伊原) alt下訳より反映。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The last one is unhelpfully taken from a different angle.</seg>
       </tuv>
@@ -31775,7 +32271,11 @@ DTPマター ※岡本さん確認
       </tuv>
     </tu>
     <tu>
-      <note>(伊原) 下訳を反映</note>
+      <note>(伊原) 下訳を反映
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The left button says “load more” and the right button says “loading” with the loading symbol.</seg>
       </tuv>
@@ -31786,7 +32286,10 @@ DTPマター ※岡本さん確認
     <tu>
       <note>※画像alt
 (太田) OK
-</note>
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The left example shows the placeholder text in default gray.</seg>
       </tuv>
@@ -31797,7 +32300,11 @@ DTPマター ※岡本さん確認
     <tu>
       <note>画像alt
 
-(伊原) 下訳を反映</note>
+(伊原) 下訳を反映
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The left one has a comfortable line height.</seg>
       </tuv>
@@ -31846,7 +32353,11 @@ updateはここでは「付け加える」くらいの意味かと思います�
     <tu>
       <note>(岡本)　altですかね？　です→である調に。
 
-(伊原) こちらがaltです。参考訳文の整列ズレかと。</note>
+(伊原) こちらがaltです。参考訳文の整列ズレかと。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The menu button with the rectangular glyph-not-defined icon in place of the three bar menu icon.</seg>
       </tuv>
@@ -31870,7 +32381,11 @@ updateはここでは「付け加える」くらいの意味かと思います�
     <tu>
       <note>(伊原) 画像alt、下訳反映。
 
-(岡本) 付いている→ついている</note>
+(岡本) 付いている→ついている
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The middle subsection is labeled missing.</seg>
       </tuv>
@@ -32026,9 +32541,16 @@ supplementalはここではもっとネガティブなイメージだと思い�
 
 (伊原) 初校PDFで間違って1つ目と同じ訳が当たってしまっている。DTPマター、岡本さん確認。
 
-(岡本)　対応しました。</note>
+(岡本)　対応しました。
+
+【alt】
+
+(伊原) 紙に合わせて修正</note>
       <tuv lang="EN-US">
         <seg>The other says: Stupid text field!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T125101Z">
+        <seg>もう1人は「ひどいテキストフィールドだな！</seg>
       </tuv>
     </tu>
     <tu>
@@ -32067,12 +32589,16 @@ sentは「飛ばされる」としました。</note>
 password input は「パスワード入力欄」かと。
 すこし調整。
 
-(伊原) OK</note>
+(伊原) OK
+
+【alt】
+
+(伊原) モノクロなので表現を修正</note>
       <tuv lang="EN-US">
         <seg>The password input with error message directly below in red text, prefixed by a warning symbol.</seg>
       </tuv>
-      <tuv lang="JA" changeid="bakera" changedate="20170930T051315Z" creationid="bakera" creationdate="20170929T090847Z">
-        <seg>パスワード入力欄のすぐ下に赤い文字のエラーメッセージが表示されており、その頭には警告マークかついている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140919Z" creationid="bakera" creationdate="20170929T090847Z">
+        <seg>パスワード入力欄のすぐ下に色付きの文字のエラーメッセージが表示されており、その頭には警告マークかついている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32485,7 +33011,11 @@ Equal to the computed value of font-size on the root element. When specified on 
     <tu>
       <note>画像alt
 
-(伊原) 下訳を反映</note>
+(伊原) 下訳を反映
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The right one has the same line height but with larger letterforms, forcing each line to overlap.</seg>
       </tuv>
@@ -32504,7 +33034,11 @@ Equal to the computed value of font-size on the root element. When specified on 
 この文とひとつ前の分節がaltで、下の分節がキャプションです。
 図版内のpoor / betterは悪い例 / 良い例で良いかと思います。
 
-(伊原) OK</note>
+(伊原) OK
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The right uses a custom italic style with a darker color.</seg>
       </tuv>
@@ -32548,9 +33082,24 @@ Ctrl押しながら、については、ChromeとIEは何もおきず、Firefox�
       </tuv>
     </tu>
     <tu>
+      <note>【alt】
+
+(伊原) 下訳ママでよさそう。</note>
+      <tuv lang="EN-US">
+        <seg>The second answers: I dunno.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140725Z" creationid="magi1125" creationdate="20171224T140705Z">
+        <seg>もう1人が</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 下訳を反映
 
-(太田) OK</note>
+(太田) OK
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The second button is disabled so grayed out.</seg>
       </tuv>
@@ -32602,16 +33151,31 @@ essentiallyは本質的にとかですが、なくてもわかるので取りま
       </tuv>
     </tu>
     <tu>
+      <note>【alt】
+
+(伊原) 紙に合わせて修正</note>
+      <tuv lang="EN-US">
+        <seg>The second sadly replies: Yeah… but it's not pixel perfect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T131931Z">
+        <seg>もう一人は悲しげに、「うん……でもピクセルパーフェクトじゃないんだよね」と答える。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
 (伊原) 下訳を反映
 
-(岡本) 2つ目→2つめ</note>
+(岡本) 2つ目→2つめ
+
+【alt】
+
+(伊原) は→が に修正</note>
       <tuv lang="EN-US">
         <seg>The second shows that people with visual dyslexia are a subgroup of people who benefit from readable fonts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170516T072022Z">
-        <seg>2つめのベン図は、ディスレクシアの人は、読みやすいフォントのメリットを享受する人の部分集合であることを示している。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T124050Z">
+        <seg>2つめのベン図は、ディスレクシアの人が、読みやすいフォントのメリットを享受する人の部分集合であることを示している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32717,7 +33281,11 @@ sound semantic structureとは。
     <tu>
       <note>画像alt
 
-(伊原) 下訳を反映。ここはCSSの話なので、text decorationは文字装飾とせず、text-decorationとしています。</note>
+(伊原) 下訳を反映。ここはCSSの話なので、text decorationは文字装飾とせず、text-decorationとしています。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The standard text decoration underline compared with the superior gradient technique.</seg>
       </tuv>
@@ -32794,7 +33362,9 @@ sound semantic structureとは。
     <tu>
       <note>(伊原) OK
 
-</note>
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>The text underneath reads ‘Test usability, not users.’</seg>
       </tuv>
@@ -33181,7 +33751,11 @@ explicitはlabelではなくactionについているような。
     <tu>
       <note>(太田) 画像のaltです。
 
-(伊原) 下訳の反映。</note>
+(伊原) 下訳の反映。
+
+【alt】
+
+(伊原) このままでよさそう。</note>
       <tuv lang="EN-US">
         <seg>Then you get CSS, but the content remains.</seg>
       </tuv>
@@ -33677,6 +34251,17 @@ https://developers-jp.googleblog.com/2017/02/chrome-57-beta-css-grid-layout-impr
       </tuv>
       <tuv lang="JA" changeid="yoota" changedate="20170511T092557Z" creationid="yoota" creationdate="20170511T092441Z">
         <seg>以下のように&lt;g4&gt;text-decoration&lt;/g4&gt;によるフォールバックで対応するべきでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>They all hate it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T135342Z">
+        <seg>みんなうんざりしている」と言うと、</seg>
       </tuv>
     </tu>
     <tu>
@@ -35781,26 +36366,34 @@ in general は use にかかっているようにも見えますね。「ボタ�
     <tu>
       <note>画像alt
 
-(伊原) 下訳を反映</note>
+(伊原) 下訳を反映
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Three columns of justified text with two instances of large word spaces highlighted.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170515T145147Z">
-        <seg>均等割り付けされた3段組みのテキストの中で、単語間のスペースが大きい2箇所がハイライトされている。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T124150Z">
+        <seg>均等割り付けされた3段組のテキストの中で、単語間のスペースが大きい2箇所がハイライトされている。</seg>
       </tuv>
     </tu>
     <tu>
       <note>(伊原) 画像ラベルと画像altですね。少しだけ調整しました。
 
-(岡本)　付き→つき</note>
+(岡本)　付き→つき
+
+【alt】
+
+(伊原) 青い背景の→背景色のついた</note>
       <tuv lang="EN-US">
         <seg>Three controls: a basic link with underline; an action link with a border; and a button with a blue background.</seg>
       </tuv>
-      <tuv lang="JA" changeid="okamoto_jun" changedate="20170906T095518Z" creationid="rikiha" creationdate="20170905T004216Z">
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T135213Z" creationid="rikiha" creationdate="20170905T004216Z">
         <seg>基本的なリンク
 アクション
 ボタン
-3つのコントロール：下線つきの基本的なリンク、囲み線つきのアクションリンク、青い背景のボタン。</seg>
+3つのコントロール：下線つきの基本的なリンク、囲み線つきのアクションリンク、背景色のついたボタン。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35808,7 +36401,11 @@ in general は use にかかっているようにも見えますね。「ボタ�
 
 (岡本)  alt待ち
 
-(伊原) 下訳反映。</note>
+(伊原) 下訳反映。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Three nested boxes representing a section/subsection structure.</seg>
       </tuv>
@@ -35834,7 +36431,11 @@ altの訳お願いしますー。
 
 (伊原) DTPマター（図版）、岡本さんに確認。
 
-(岡本)　◯　　◯　　✕　　にします。</note>
+(岡本)　◯　　◯　　✕　　にします。
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Three of the same T-shirt in different colors.</seg>
       </tuv>
@@ -35882,7 +36483,11 @@ Accessible Nameのママでもいいのかも。
 
 (岡本) タグ付け→タグづけ
 
-(伊原) 単なる問題、がちょっと謎だったので、単なる課題としました</note>
+(伊原) 単なる問題、がちょっと謎だったので、単なる課題としました
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Tickets tagged ‘Enhancement’ and named after patterns, not just problems.</seg>
       </tuv>
@@ -36620,7 +37225,11 @@ people who cannot see colorは「色覚障害」よりも広い意味のよう�
     <tu>
       <note>画像alt
 
-(伊原) 下訳を反映</note>
+(伊原) 下訳を反映
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Two Venn diagrams.</seg>
       </tuv>
@@ -36632,12 +37241,16 @@ people who cannot see colorは「色覚障害」よりも広い意味のよう�
       <note>画像alt
 他の場所の訳文が勝手に反映されているっぽい。
 
-(伊原) 下訳を反映</note>
+(伊原) 下訳を反映
+
+【alt】
+
+(伊原) 若干補足。</note>
       <tuv lang="EN-US">
         <seg>Two frames.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170619T040514Z">
-        <seg>2つのフレーム。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T130502Z">
+        <seg>話し手が向き合っている、2つのフレーム。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36666,14 +37279,89 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>【alt】
+
+(伊原) 下訳ママでよさそう。</note>
+      <tuv lang="EN-US">
+        <seg>Two onlookers are confused.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140625Z" creationid="magi1125" creationdate="20171224T140625Z">
+        <seg>それを見た2人の人物は困惑し、</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>画像alt
 
-(伊原) 下訳を反映</note>
+(伊原) 下訳を反映
+
+【alt】
+
+(伊原) ママでOK</note>
       <tuv lang="EN-US">
         <seg>Two paragraphs.</seg>
       </tuv>
       <tuv lang="JA" changeid="rikiha" changedate="20170516T010842Z">
         <seg>2つのパラグラフ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>Two people contemplate a bell curve chart.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140958Z">
+        <seg>2人の人物が正規分布曲線グラフを見ている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【電書チェック】
+(伊原) コラムになっているところ、電書ではどうしましょうか。原著と違うので独自に作成する必要がありそう。
+ちなみにこのページの内容は、すべて漫画画像のalt扱い。
+ひとまず下訳を入れます。
+
+【alt】
+
+(伊原) 下訳ママでよさそう。</note>
+      <tuv lang="EN-US">
+        <seg>Two people contemplate a car design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140908Z" creationid="magi1125" creationdate="20171224T140841Z">
+        <seg>2人の人物が車のデザインを検討している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) ママでOK</note>
+      <tuv lang="EN-US">
+        <seg>Two people contemplate a chart showing a digital product’s success.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T131845Z" creationid="ihara-rikiya" creationdate="20171225T131845Z">
+        <seg>2人の人物がデジタルプロダクトの成果を示したグラフを見ている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 下訳を反映</note>
+      <tuv lang="EN-US">
+        <seg>Two people contemplate a diagram which is just a mess of squiggly lines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T133239Z">
+        <seg>2人の人物がこんがらがった線の描かれた図を見ている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 微調整</note>
+      <tuv lang="EN-US">
+        <seg>Two people on separate desks are using their computers to fill out a web form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T125000Z">
+        <seg>2人の人物がそれぞれの机でPCを使い、Webフォームに入力している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39074,6 +39762,15 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>【alt】</note>
+      <tuv lang="EN-US">
+        <seg>Where are the doors?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magi1125" changedate="20171224T140935Z" creationid="magi1125" creationdate="20171224T140926Z">
+        <seg>ドアはどこ？」と尋ね、</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(伊原) 多少調整。round-tripsを往復としていいかどうか。SPAだってラウンドトリップはしているわけで…。
 普通にページ単位でやりとりしているのに比べて、という話なのはわかるが、そこを補うかどうか。
 
@@ -39404,6 +40101,28 @@ quite legitimate は全く正当、くらいですが、仕様で認められて
       </tuv>
       <tuv lang="JA" changeid="bakera" changedate="20170929T071817Z" creationid="bakera" creationdate="20170929T071817Z">
         <seg>なぜこれを使用しないのでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 紙に合わせて修正</note>
+      <tuv lang="EN-US">
+        <seg>Why can't I just pick a date?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T125105Z" creationid="ihara-rikiya" creationdate="20171225T124957Z">
+        <seg>なんで日付を選択できないんだ？」と言う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>【alt】
+
+(伊原) 紙に合わせて修正</note>
+      <tuv lang="EN-US">
+        <seg>Why can't I just type a date?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T125037Z">
+        <seg>なんで普通に日付を入力できないんだ？」と言い、</seg>
       </tuv>
     </tu>
     <tu>
@@ -41504,12 +42223,16 @@ https://hail2u.net/blog/justified-wrapped-flexbox-last-line.html
 
 5カラムのグリッドで、最後の行が1項目、2項目、3項目、4項目の場合。1～2項目の場合には、最後の項目は20emの幅となってセンタリングされる。3～4項目の場合、全体の幅を3分割、4分割した幅になる。
 
-(伊原) OK</note>
+(伊原) OK
+
+【alt】
+
+(伊原) 太田さん訳を反映</note>
       <tuv lang="EN-US">
         <seg>Now the grid items are organized around the vertical center line and cannot become more than 20em wide.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rikiha" changedate="20170922T115624Z" creationid="rikiha" creationdate="20170922T115624Z">
-        <seg>これでグリッドの項目が縦のセンターライン上にまとまり、20em以上の幅にはなりません。</seg>
+      <tuv lang="JA" changeid="ihara-rikiya" changedate="20171225T140146Z" creationid="rikiha" creationdate="20170922T115624Z">
+        <seg>5カラムのグリッドで、最後の行が1項目、2項目、3項目、4項目の場合。1～2項目の場合には、最後の項目は20emの幅となってセンタリングされる。3～4項目の場合、全体の幅を3分割、4分割した幅になる。</seg>
       </tuv>
     </tu>
     <tu>
