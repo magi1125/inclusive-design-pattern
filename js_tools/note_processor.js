@@ -20,10 +20,27 @@ const url_finder = /^https?:\/\//;
 const source_note_dir = '../translator_notes/';
 const source_html_dir = '../target/';
 const dest_dir = './result/';
+const illustlation_comment_file = '../illustration/index.xhtml';
+
+/*
+// イラストコメントデータを読み込む
+console.log('イラストコメントファイルのロードを開始します...');
+const load_illustration_comment = async () => {
+    console.log(illustlation_comment_file);
+    const dom = await JSDOM.fromFile(illustlation_comment_file);
+    const document = dom.window.document;
+    const mainDiv = document.body.childNodes[0];
+    const mainChildren = mainDiv.childNodes;
+    console.log();
+}
+load_illustration_comment();
+console.log('done');
+return;
+*/
 
 // 訳注データをパースしてオブジェクトに格納する
 // note_data[(訳注番号)].note / note_data[(訳注番号)].reference で取り出せるようにする
-console.log('訳注ファイルのロードを開始します...')
+console.log('訳注ファイルのロードを開始します...');
 let note_data = {};
 const text_files = fs.readdirSync(source_note_dir).filter(file => { return /\.txt$/.test(file);});
 text_files.forEach(file => {
