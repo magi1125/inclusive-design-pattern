@@ -2,6 +2,16 @@ const fs = require('fs');
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom; // JSDOM = jsdom.JSDOM;
 
+const { parse } = require('parse5');
+const { serializeToString } = require('xmlserializer');
+const xmlHeader = '<?xml version=\'1.0\' encoding=\'UTF-8\' ?>\n';
+
+function html2xhtml(htmlString) {
+    const dom = parse(htmlString);
+    return xmlHeader + serializeToString(dom);
+}
+
+
 // 訳注パーサの定数
 const COMMENT_NODE = 8; // nodeType
 const ELEMENT_NODE = 1; // nodeType
@@ -220,7 +230,7 @@ html_files.forEach(file => {
             }
         }
         if(note_inserted_counter){
-          fs.writeFileSync(dest_file_path, dom.serialize());
+          fs.writeFileSync(dest_file_path, html2xhtml(dom.serialize()));
           console.log(`${note_inserted_counter} 件の訳注を挿入し、保存しました: ${dest_file_path}`);
         }
     });
