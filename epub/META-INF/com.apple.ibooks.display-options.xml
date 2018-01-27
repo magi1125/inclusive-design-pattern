@@ -1,0 +1,5 @@
+<display_options>
+  	<platform name="*">	<!-- allowed values for platform "iphone", "ipad", or "*" for all -->
+    	<option name="specified-fonts">true</option> <!-- must be set to "true" for embedded fonts -->
+  	</platform>
+</display_options>
