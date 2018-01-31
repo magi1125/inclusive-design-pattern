@@ -26,7 +26,7 @@
 <dc:date id="date">2018-02-01T00:00:00Z</dc:date>
 <meta refines="#date" property="dcterms:created" scheme="dcterms:W3CDTF">2017-03-30T00:00:00Z</meta>
 
-<dc:identifier id="BookId">978-3-945749-45-6</dc:identifier>
+<dc:identifier id="BookId">f9202370-6e5d-44d5-b924-02b34d51163d</dc:identifier>
 <dc:language>ja</dc:language>
 
 <meta name="cover" content="cover-image"/>
@@ -135,8 +135,7 @@
 <itemref idref="chapter-2" linear="yes"/>
 <itemref idref="chapter-3" linear="yes"/>
 <itemref idref="chapter-4" linear="yes"/>
-<!--
-<itemref idref="chapter-5" linear="yes"/>-->
+<itemref idref="chapter-5" linear="yes"/>
 <itemref idref="chapter-6" linear="yes"/>
 <itemref idref="chapter-7" linear="yes"/>
 <itemref idref="chapter-8" linear="yes"/>
