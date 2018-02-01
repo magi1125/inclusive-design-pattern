@@ -19,19 +19,19 @@ PUBLIC "-//NISO//DTD ncx 2005-1//EN"
 <navMap>
 	<navPoint id="navpoint-1" playOrder="1">
 	<navLabel><text>はじめに</text></navLabel>
-	<content src="chapter-6.xhtml"/>
+	<content src="chapter-7.xhtml"/>
 	</navPoint>
 	<navPoint id="navpoint-2" playOrder="2">
 	<navLabel><text>ドキュメント全体</text></navLabel>
-	<content src="chapter-8.xhtml"/>
+	<content src="chapter-9.xhtml"/>
 	</navPoint>
 	<navPoint id="navpoint-3" playOrder="3">
 	<navLabel><text>パラグラフ</text></navLabel>
-	<content src="chapter-10.xhtml"/>
+	<content src="chapter-11.xhtml"/>
 	</navPoint>
 	<navPoint id="navpoint-4" playOrder="4">
 	<navLabel><text>ブログ記事</text></navLabel>
-	<content src="chapter-12.xhtml"/>
+	<content src="chapter-13.xhtml"/>
 	</navPoint>
 	<navPoint id="navpoint-5" playOrder="5">
 	<navLabel><text>パターンごとの評価</text></navLabel>
@@ -39,11 +39,11 @@ PUBLIC "-//NISO//DTD ncx 2005-1//EN"
 	</navPoint>
 	<navPoint id="navpoint-6" playOrder="6">
 	<navLabel><text>ナビゲーション領域</text></navLabel>
-	<content src="chapter-15.xhtml"/>
+	<content src="chapter-16.xhtml"/>
 	</navPoint>
 	<navPoint id="navpoint-7" playOrder="7">
 	<navLabel><text>メニューボタン</text></navLabel>
-	<content src="chapter-17.xhtml"/>
+	<content src="chapter-18.xhtml"/>
 	</navPoint>
 	<navPoint id="navpoint-8" playOrder="8">
 	<navLabel><text>インクルーシブ・プロトタイピング</text></navLabel>
@@ -51,19 +51,19 @@ PUBLIC "-//NISO//DTD ncx 2005-1//EN"
 	</navPoint>
 	<navPoint id="navpoint-9" playOrder="9">
 	<navLabel><text>商品リスト</text></navLabel>
-	<content src="chapter-20.xhtml"/>
+	<content src="chapter-21.xhtml"/>
 	</navPoint>
 	<navPoint id="navpoint-10" playOrder="10">
 	<navLabel><text>フィルターウィジェット</text></navLabel>
-	<content src="chapter-22.xhtml"/>
+	<content src="chapter-23.xhtml"/>
 	</navPoint>
 	<navPoint id="navpoint-11" playOrder="11">
 	<navLabel><text>登録フォーム</text></navLabel>
-	<content src="chapter-24.xhtml"/>
+	<content src="chapter-25.xhtml"/>
 	</navPoint>
 	<navPoint id="navpoint-12" playOrder="12">
 	<navLabel><text>テスト駆動マークアップ</text></navLabel>
-	<content src="chapter-26.xhtml"/>
+	<content src="chapter-27.xhtml"/>
 	</navPoint>
 	<navPoint id="navpoint-13" playOrder="13">
 	<navLabel><text>関連資料</text></navLabel>
