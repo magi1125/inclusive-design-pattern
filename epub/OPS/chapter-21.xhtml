@@ -38,7 +38,7 @@
         <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>dt</span><span class="token punctuation">&gt;</span></span>評価:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>dt</span><span class="token punctuation">&gt;</span></span>
         <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>dd</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation">=</span>"/images/rating_4_5.svg"</span> <span class="token attr-name">alt</span><span class="token attr-value"><span class="token punctuation">=</span>""</span><span class="token punctuation">&gt;</span></span>(5つ星のうち4)<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>dd</span><span class="token punctuation">&gt;</span></span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>dl</span><span class="token punctuation">&gt;</span></span>
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">&gt;</span></span></code></pre><h3>補足</h3>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">&gt;</span></span></code></pre><h4>コードの補足</h4>
 <ul>
 <li>順序なしリスト（<code>&lt;ul&gt;</code>）と同様、記述リスト（<code>&lt;dl&gt;</code>）はスクリーンリーダーが項目を数え上げるので、ユーザーは項目がいくつあるかわかります。最初に出くわすと、VoiceOverなどのスクリーンリーダーは「Description List」などと読み上げ、その後にキーと値のペアが続くことをユーザーに知らせます。<div class="translator_note" id="translator_note2509"><h4>訳註</h4><p>2017年9月現在、スクリーンリーダーによってはdl要素を十分にサポートしていないものもあります。</p><p>OSXのVoiceOverはdlを「Description List」と読みますが、項目数はdtとddの合計となります。この例では「Description List 6 items」と読みます。</p><p>NVDAはdlもul同様「リスト」としか読まず、項目数はdtとddの合計となります。この例では「リスト6項目」と読みます。</p><p>iOS10のVoiceOverはdlを特に読まないようです (ulの場合は「リストの開始位置です」と読みます)。</p></div></li>
 <li>ユーザーエージェントのスタイル定義は、<code>&lt;dd&gt;</code>要素をインデントしてリスト化します。つまり、著者側のCSSがない場合は視覚的に階層が示されます。</li>
@@ -90,7 +90,7 @@
 <span class="token punctuation">}</span></code></pre><p><img src="images/link_action_button.png" alt="基本的なリンク
 アクション
 ボタン
-3つのコントロール：下線つきの基本的なリンク、囲み線つきのアクションリンク、背景色のついたボタン。"/></p><h4>補足</h4>
+3つのコントロール：下線つきの基本的なリンク、囲み線つきのアクションリンク、背景色のついたボタン。"/></p><h4>コードの補足</h4>
 <ul>
 <li>これらの要素はそれぞれ異なる扱われ方をしますが、共通の色を使うことを強くおすすめします――この色は、3つの要素に共通する<em>インタラクティブ</em>という特性を示すことになります。認識しやすくするために、リンクが青であれば、ボタンも青にすべきです。これで、青はクリックできるという意味になります。</li>
 <li>ここでは、<code>.call-to-action</code>クラスを<code>a</code>という要素名と一緒に指定しています。要素名の指定は冗長だという意見をどこかで目にしたことがあるかもしれませんが、重要な意味があります。<code>.call-to-action</code>のスタイルを<code>a</code>要素にしか適用できないようにしているのです。<code>.call-to-action</code>を<code>&lt;button&gt;</code>や、アクセシブルでないインタラクティブな<code>&lt;div&gt;</code>要素に指定しても、スタイルは反映されません。これにより、開発者が間違った要素を使うことを効果的に防ぐことができます。イアン・マクバーニー（Ian McBurnie）は「<a href="http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/"><span class="link">How Our CSS Framework Helps Enforce Accessibility</span></a>」というすばらしい記事の中で、いくつかの同様の対策について詳しく説明しています。</li>
@@ -179,7 +179,7 @@
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>dl</span><span class="token punctuation">&gt;</span></span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h2</span><span class="token punctuation">&gt;</span></span>支払い方法の選択<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h2</span><span class="token punctuation">&gt;</span></span>
     <span class="token comment">&lt;!-- ここに購入ウィジェット --&gt;</span>
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>main</span><span class="token punctuation">&gt;</span></span></code></pre><h4>補足</h4>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>main</span><span class="token punctuation">&gt;</span></span></code></pre><h4>コードの補足</h4>
 <ul>
 <li>全体をくくる<code>&lt;main&gt;</code>要素に対して、ブール型属性の<code>itemscope</code>と、<code>itemtype</code>の参照を指定して、商品データのコンテキストを定義しています。</li>
 <li>必要なプロパティを定義するために、いくつかの<code>&lt;span&gt;</code>を追加しています。商品名を定義するために、商品のタイトル「ガソリンスタンドにたたずむ裸の男」を、<code>itemprop="name"</code>を持つ<code>&lt;span&gt;</code>でくくっています。</li>
