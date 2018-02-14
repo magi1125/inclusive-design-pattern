@@ -42,7 +42,7 @@ describe<span class="token punctuation">(</span><span class="token string">'Add�
 [role="tablist"] li:not([role="presentation"])
 </span><span class="token punctuation">{</span>
     <span class="token property">outline</span><span class="token punctuation">:</span> 0.5em solid red<span class="token punctuation">;</span>
-<span class="token punctuation">}</span></code></pre><p>タブインターフェイスの適切なふるまいとしては、常にタブが1つだけ選択され、そのことが<a href="http://w3c.github.io/aria/aria/aria.html#aria-selected"><span class="link"><code>aria-selected</code></span></a>によってアクセシブルに明示されている必要があります。この選択されているタブだけを、ユーザーが<em>Tab</em>キーでフォーカスできるようにします。その他のタブにはすべて<code>tabindex="-1"</code>属性を指定し、矢印キーでのみ選択可能にするべきです。これを確認するには、さらに2つのテストセレクタが必要です。2つめのセレクタは、1つめのセレクタを反転したものになります。</p><pre><code class=" language-css"><span class="token selector">.tab-interface ul:not([role="tablist"]),
+<span class="token punctuation">}</span></code></pre><p>タブインターフェイスの適切なふるまいとしては、常にタブが1つだけ選択され、そのことが<a href="http://w3c.github.io/aria/#aria-selected"><span class="link"><code>aria-selected</code></span></a>によってアクセシブルに明示されている必要があります。この選択されているタブだけを、ユーザーが<em>Tab</em>キーでフォーカスできるようにします。その他のタブにはすべて<code>tabindex="-1"</code>属性を指定し、矢印キーでのみ選択可能にするべきです。これを確認するには、さらに2つのテストセレクタが必要です。2つめのセレクタは、1つめのセレクタを反転したものになります。</p><pre><code class=" language-css"><span class="token selector">.tab-interface ul:not([role="tablist"]),
 [role="tablist"] a:not([role="tab"]),
 [role="tablist"] li:not([role="presentation"]),
 [role="tablist"] a[aria-selected][tabindex="-1"],

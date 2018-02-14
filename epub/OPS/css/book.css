@@ -78,6 +78,7 @@ padding-left:1.4em;
 }
 li {
 margin-top:0.4em;
+list-style-type: disc;
 }
 blockquote {
 border-style:solid;
@@ -123,7 +124,7 @@ pre {
   background-color: #f8f8f8;
   border: 1px solid #cccccc;
 	border-radius: 3px;
-	line-height: 1.2;
+	line-height: 1.5;
 	padding:0.6em 1em;
   white-space: pre-wrap;
 	margin-left:auto;
@@ -150,7 +151,7 @@ pre code {
 }
 
 .namespace {
-  opacity: .7;
+  color: #5D7F43;
 }
 
 .token.property,
@@ -183,11 +184,7 @@ pre code {
 
 .token.regex,
 .token.important {
-  color: #cc8300;
-}
-
-.token.important {
-  font-weight: bold;
+  color: #cc2f00;
 }
 
 .token.entity {
@@ -255,6 +252,9 @@ margin-top: 0;
 font-size:1.8em;
 }
 nav.toc ol{
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
 }
 #toc a {
     /* toc.xhtmlのリンク */

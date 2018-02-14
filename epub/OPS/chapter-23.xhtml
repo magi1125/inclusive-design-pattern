@@ -56,7 +56,7 @@
     商品リストの読み込みが完了しました。23点の商品が一覧されています。23 products listed.
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">&gt;</span></span></code></pre><h4>コードの補足</h4>
 <ul>
-<li><a href="http://w3c.github.io/aria/aria/aria.html#aria-live"><span class="link"><code>aria-live="assertive"</code></span></a>プロパティと<a href="http://w3c.github.io/aria/aria/aria.html#status"><span class="link"><code>alert</code></span></a>ロールは、いずれも同じ機能を提供するものです。両者はプラットフォームやスクリーンリーダー間の互換性を最大限にするために提供されています（一部の環境では、どちらか一方だけが認識されます）。</li>
+<li><a href="http://w3c.github.io/aria/#aria-live"><span class="link"><code>aria-live="assertive"</code></span></a>プロパティと<a href="http://w3c.github.io/aria/#status"><span class="link"><code>alert</code></span></a>ロールは、いずれも同じ機能を提供するものです。両者はプラットフォームやスクリーンリーダー間の互換性を最大限にするために提供されています（一部の環境では、どちらか一方だけが認識されます）。</li>
 <li>以下のようなJavaScriptによる単純なDOM操作で、ライブリージョンにメッセージを入れることができます。<code>liveElement.textContent = 'メッセージ'</code></li>
 <li><code>aria-live="assertive"</code>や<code>alert</code>ロールを指定した場合は、ライブリージョンに新しいメッセージが入ると、スクリーンリーダーの現在の読み上げが中断されて、メッセージが読み上げられます。つまり、ユーザーがウィジェットから離れて別のコンテンツを読んでいても、商品リストの読み込みが完了したことが即座に通知されます。かわりに<code>aria-live=polite</code>や<code>status</code>ロールを使った場合は、スクリーンリーダーが読み上げ中のコンテンツを読み終えた後に、ライブリージョンのコンテンツが読み上げられます。</li>
 <li>アプリケーションの通知の場合は、視覚的なメッセージの役割も兼ねるように、ライブリージョンにスタイルを適用して表示する必要があります。しかし、読み込み中アイコンを使う場合、それが表示されることで（そして、読み込みが完了すると消えることで）、既に必要な情報を伝えています。こうしたケースでは、ライブリージョンを隠して、非視覚的にのみ利用されるようにします。ここでも、<a href="http://snook.ca/archives/html_and_css/hiding-content-for-accessibility"><span class="link">スクリーンリーダーでアクセシブルな非表示方法</span></a>を使用します。</li>
