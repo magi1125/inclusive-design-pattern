@@ -256,6 +256,9 @@ nav.toc ol{
     padding-left: 0;
     margin-left: 0;
 }
+nav.toc ol ol{
+    padding-left: 1em;
+}
 #toc a {
     /* toc.xhtmlのリンク */
 }
