@@ -259,7 +259,7 @@ nav.toc>ol>li{
   list-style: none;
 }
 nav.toc ol ol{
-    padding-left: 1em;
+    padding-left: 1.5em;
 }
 
 #toc a {
