@@ -252,13 +252,16 @@ margin-top: 0;
 font-size:1.8em;
 }
 nav.toc ol{
-    list-style: none;
     padding-left: 0;
     margin-left: 0;
+}
+nav.toc>ol>li{
+  list-style: none;
 }
 nav.toc ol ol{
     padding-left: 1em;
 }
+
 #toc a {
     /* toc.xhtmlのリンク */
 }
