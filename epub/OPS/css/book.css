@@ -173,7 +173,6 @@ pre code {
 .language-css .token.string,
 .style .token.string {
   color: #af5600;
-  background: hsla(0,0%,100%,.5);
 }
 
 .token.atrule,
