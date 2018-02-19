@@ -20,7 +20,7 @@ a, a:link, a:visited, .link {
 }
 .pseudo-link {
     /* リンクのサンプル */
-    color: #0000EE;
+    /* color: #0000EE; */
     text-decoration: underline;
 }
 .pseudo-link em{
@@ -109,7 +109,7 @@ margin-right:0;
 br.nobreak + em {
     /* 引用元 */
     font-size: 100%;
-    color: #000000;
+    /* color: #000000; */
     display: inline-block;
 }
 em {
@@ -123,7 +123,7 @@ pre,code {
 font-family: monospace,sans-serif;
 }
 pre {
-  background-color: #f8f8f8;
+    /* background-color: #f8f8f8; */
   border: 1px solid #cccccc;
 	border-radius: 3px;
 	line-height: 1.5;
@@ -145,28 +145,28 @@ pre code {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-  color: #666;
+    /* color: #666; */
 }
 
 .token.punctuation {
-  color: #666;
+    /* color: #666; */
 }
 
 .namespace {
-  color: #5D7F43;
+    /* color: #5D7F43; */
 }
 
 .token.property,
 .token.tag,
 .token.boolean,
 .token.number {
-  color: #9a0101;
+    /* color: #9a0101; */
 }
 
 .token.selector,
 .token.attr-name,
 .token.string {
-  color: #360;
+    /* color: #360; */
 }
 
 .token.operator,
@@ -174,18 +174,18 @@ pre code {
 .token.url,
 .language-css .token.string,
 .style .token.string {
-  color: #af5600;
+    /* color: #af5600; */
 }
 
 .token.atrule,
 .token.attr-value,
 .token.keyword {
-  color: #07a;
+    /* color: #07a; */
 }
 
 .token.regex,
 .token.important {
-  color: #cc2f00;
+    /* color: #cc2f00; */
 }
 
 .token.entity {
@@ -193,10 +193,10 @@ pre code {
 }
 
 .token.function, .token.constant {
-  color: #07a;
+    /* color: #07a; */
 }
 .token.variable {
-  color: #cc8300;
+    /* color: #cc8300; */
 }
 
 .token.deliminator {
@@ -206,7 +206,7 @@ pre code {
 .token.tab:not(:empty):before,
 .token.cr:before,
 .token.lf:before {
-  color: hsl(24, 20%, 85%);
+    /* color: hsl(24, 20%, 85%); */
 }
 
 .token.tab:not(:empty):before {
