@@ -18,17 +18,17 @@
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>main</span><span class="token punctuation">&gt;</span></span></code></pre>
 <div class="translator_note" id="translator_note0912"><h4>訳註</h4><p>HTML5のセクショニングアルゴリズムでは、bodyもセクションを構成します。そのため、bodyに対する見出しがない状態でsection要素を使うと、最上位セクションに見出しが付けられていない状態になります。たとえば以下のようなマークアップがあるとします。</p><pre class="HTML">&lt;body&gt;
 &lt;section&gt;
-&lt;h1&gt;最初の見出し&lt;/h1&gt;
-&lt;p&gt;本文&lt;/p&gt;
+    &lt;h1&gt;最初の見出し&lt;/h1&gt;
+    &lt;p&gt;本文&lt;/p&gt;
 &lt;/section&gt;
 &lt;section&gt;
-&lt;h1&gt;次の見出し&lt;/h1&gt;
-&lt;p&gt;本文&lt;/p&gt;
+    &lt;h1&gt;次の見出し&lt;/h1&gt;
+    &lt;p&gt;本文&lt;/p&gt;
 &lt;/section&gt;
 &lt;/body&gt;
 </pre><p>このとき、アウトラインは以下のようになり、最上位に見出しのないセクションができてしまいます。</p><pre class="general">1.(untitled section)
-1-1.最初の見出し
-1-2.次の見出し
+    1-1.最初の見出し
+    1-2.次の見出し
 </pre><p>なお、明示的セクションを使わない場合は、h1要素を複数使うとそのままbodyが分割されます。</p><p>HTML Living Standardには "A document can contain multiple top-level headings:" として以下のようなサンプルが掲載されています。</p><pre class="HTML">&lt;!DOCTYPE HTML&gt;
 &lt;html lang=en&gt;
 &lt;title&gt;Alphabetic Fruit&lt;/title&gt;
@@ -110,7 +110,7 @@
     <span class="token property">white-space</span><span class="token punctuation">:</span> nowrap<span class="token punctuation">;</span>
 <span class="token punctuation">}</span></code></pre><p>このようなユーティリティクラスをスタイルシートに用意し、自由に使えるようにしておくことをおすすめします。<code>.visually-hidden</code>は後の章でも何度か出てきます。</p><p>もし<code>&lt;subtitle&gt;</code>要素が定義されたなら、この要素のロールが持つ機能として「サブタイトル：」という接頭辞を提供して、意味を明確にするようになるかもしれません。接頭辞は自動的に<a href="https://www.paciellogroup.com/blog/2015/01/the-browser-accessibility-tree/"><span class="link">「アクセシビリティツリー」</span></a>――DOMに役割（role）、プロパティ、状態（state）、ラベル、値などの情報を加え、支援技術に提供できるようにしたもの――に追加され、支援技術から利用できるようになるでしょう。セマンティックな要素が定義され、それを使うことができるようになれば、このようなメリットも生まれるのです。</p><h2 id="section4"><code>&lt;article&gt;</code>要素</h2><p>HTML5のセクショニング要素については多くの混乱があります。たとえば、「これが記事（article）だというなら、<code>&lt;article&gt;</code>要素に入れるべきではないか？」と思われるかもしれません。</p><pre><code class=" language-markup"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>main</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation">=</span>"main"</span><span class="token punctuation">&gt;</span></span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>article</span><span class="token punctuation">&gt;</span></span>
-        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h1</span><span class="token punctuation">&gt;</span></span>インクルーシブなブログ記事のマークアップ方<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h1</span><span class="token punctuation">&gt;</span></span>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h1</span><span class="token punctuation">&gt;</span></span>インクルーシブなブログ記事のマークアップ方法<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h1</span><span class="token punctuation">&gt;</span></span>
         <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span>"meta"</span><span class="token punctuation">&gt;</span></span>公開日 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>time</span> <span class="token attr-name">datetime</span><span class="token attr-value"><span class="token punctuation">=</span>"2017-12-12"</span><span class="token punctuation">&gt;</span></span>2017/12/12<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>time</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">&gt;</span></span>
         <span class="token comment">&lt;!-- ここに記事のコンテンツ --&gt;</span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>article</span><span class="token punctuation">&gt;</span></span>
