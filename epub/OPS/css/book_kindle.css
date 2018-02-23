@@ -278,9 +278,10 @@ font-weight:normal;
 
 
 /* コラム */
+/* kindleでは枠線なし */
 .comic {
-    border: #999 1px solid;
-    padding: 1em;
+    /* border: #999 1px solid; */
+    /* padding: 1em; */
 }
 .comic h1 {
     font-size: 1.2em;
