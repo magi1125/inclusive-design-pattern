@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/"
+    xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1"
+    xml:lang="ja">
+<head>
+	<meta name="dtb:uid" content="urn:uuid:f9202370-6e5d-44d5-b924-02b34d51163d"/>
+	<meta name="epub-creator" content="SM EPUB Creator"/>
+	<meta name="dtb:depth" content="1"/>
+	<meta name="dtb:totalPageCount" content="0"/>
+	<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle>
+	<text>インクルーシブHTML+CSS&amp;JavaScript</text>
+</docTitle>
+<docAuthor>
+	<text>ヘイドン・ピカリング</text>
+</docAuthor>
+<navMap>
+	<navPoint id="navpoint-1" playOrder="1">
+	<navLabel><text>1章：はじめに</text></navLabel>
+	<content src="chapter-7.xhtml"/>
+	</navPoint>
+</navMap>
+</ncx>
